@@ -10,7 +10,7 @@
                     <code>crypto,cryptocurrency,support,bank,java,lead,engineer,engineering,educational,backend</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-tradfi-bitcoincom-200895" align="right" target="_blank">Apply</a>
@@ -56,7 +56,7 @@
 <li>Health insurance reimbursement</li>
 <li>Wellness program (gym, etc.)</li>
 </ul>
-</div><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **EXCEPTIONAL** and tag RMy44Ni4yNTIuMTMw when applying to show you read the job post completely (#RMy44Ni4yNTIuMTMw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **EXCEPTIONAL** and tag RMzQuODIuMTUxLjY= when applying to show you read the job post completely (#RMzQuODIuMTUxLjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -71,7 +71,7 @@
                     <code>web3,react,graphql,redis,system,strategy,health,engineer,backend</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-mirror-199867" align="right" target="_blank">Apply</a>
@@ -123,7 +123,107 @@
 <li>Team offsites for periodic in-person collaborative strategy sessions</li>
 <li>Passionate, supportive team dedicated to learning and growing together in web3</li>
 </ul>
-</div><br/><br/>Please mention the word **COOPERATIVELY** and tag RMy44Ni4yNTIuMTMw when applying to show you read the job post completely (#RMy44Ni4yNTIuMTMw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **COOPERATIVELY** and tag RMzQuODIuMTUxLjY= when applying to show you read the job post completely (#RMzQuODIuMTUxLjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/8085/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Secfix</h5>
+                    <h3> Senior Backend Engineer at a remote seed startup</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/secfix-senior-backend-engineer-at-a-remote-seed-startup" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0083/8085/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> EU-Remote &amp; Germany
+    <br /><strong>URL:</strong> <a href="https://www.secfix.com/">https://www.secfix.com/</a>
+</p>
+
+<div><strong>About Secfix</strong></div><div>Secfix automates security compliance for SMBs in Europe. We help companies get and stay compliant with standards such as ISO 27001, GDPR, TISAX, and SOC 2 in weeks rather than months. </div><div>Our platform integrates with a company’s tech stack (such as GCP, AWS, Azure, Google Workspaces, Jira, Gitlab, etc.), automatically extracts the data needed for compliance, and creates a checklist to become and remain certified. Our fastest customer finished their certification in 4 weeks instead of 12+ months, typically seen from older institutions.</div><div>We raised pre-seed funding from top German angel investors and recently closed our seed round from leading UK and German VCs after impressive growth. Now, the goal (with your help) is to become the market leader.</div><div><br></div><div><strong>About the role:</strong></div><div>As a small team, we are all generalists and constantly picking up new challenges. Regarding product and code, we’re looking to work with experienced people who can pick a problem and solve it. We use TypeScript and want to build more scalable systems so we can continuously make progress on a solid foundation. We don’t expect you to have a background in everything we use but expect strong JavaScript/Typescript fundamentals and a background working Java or another object oriented programming language are helpful. Every feature that is being ideated will go through you, and every future back-end engineer hire will live the engineering values that you will shape with us and live by. You'll get first-hand exposure to what it means to build and scale a remote software startup.</div><div><br></div><div><strong>Preferred experience &amp; culture:</strong></div><ul>
+<li>You love iterating and taking pride in owning customer-facing features from ideas to going live and strive for great visuals and usability. </li>
+<li>You are a team player and communicate with other members and set up calls with customers if necessary to get feedback directly.</li>
+<li>You have 7+ years of experience as back-end engineer</li>
+<li>Strong object-oriented programming fundamentals working with either Node.js, Nest.js or Java. Experience working with TypeScript for 3+ years in back-end development. We don’t expect you to have a background in every technology we use but you are able to learn quickly on your own.</li>
+<li>Experience with Golang are a plus</li>
+<li>In our current growth stage, we want to achieve a lot with a small team. Priorities can change fast. Hence you are a strong believer that hard work and flexibility are qualities that an early startup employee should live by. You can pick up a customer problem, define it, and work on it. </li>
+<li>You love speed and have high standards in writing clean, maintainable, and testable code.</li>
+<li>You have 3+ years of experience in a fast-paced tech environment, startup, or scale-up where engineers wear multiple hats and define the products together with users. </li>
+<li>You are a force multiplier for your team. You always catch up with new back-end trends, love building reusable components, and helping other engineers become better day by day.</li>
+<li>You can communicate and structure your thoughts well both inside and outside of your team to ensure we ship products in time without getting lost in details.</li>
+<li>You have experience in mentoring junior developers or leading a small team.</li>
+<li>You have experience in working and improving remote team culture.</li>
+</ul><div><br></div><div><strong>Responsibilities</strong></div><ul>
+<li>You’ll design, develop, and maintain new user-facing features using Nest.js</li>
+<li>You’ll help out, debug and support our clients looking into the code of our legacy API in Java</li>
+<li>You’ll contribute to new and existing products by shaping features with product and design teams. </li>
+<li>You’ll help build monitoring services for our customer’s infrastructure and cloud environments (AWS, GCP, Azure, Digital Ocean, etc)</li>
+<li>You’ll help to design and develop event-driven microservices</li>
+<li>You’ll mentor and develop junior engineers to help them become expert Secfixers</li>
+<li>You’ll keep learning new technologies to improve our product and will structure complex product in simple deliverables</li>
+<li>You’ll redefine best-in-class software development processes so that we can build an opinionated product for the European SMB market.</li>
+<li>You’ll work closely with founders, tech lead, other team members, and users to ship features on schedule</li>
+</ul><div>
+<br><strong>Our Tech</strong>
+</div><ul>
+<li>Java Springboot, Node Nest.js, Postgres, and RDS as backend</li>
+<li>Hosted on AWS with ECS, EKS</li>
+<li>Gitlab, Slack, Notion, <a href="http://gather.town/">Gather.town</a> for communication and documentation</li>
+<li>Clickup for project management</li>
+<li>Design system with Bootstrap Angular component library</li>
+</ul><div>
+<br><strong>We are very proud of our Secfix values - and look for candidates who share them. They are:</strong>
+</div><ul>
+<li>We are obsessed with our customers. We start with the customer and work our way backward to create amazing products they love.</li>
+<li>We build everything in a smart way. We love working by YCombinator's principles and preach those to our team.</li>
+<li>We create trust within our organisation. Transparency and ethics are within our DNA.</li>
+<li>We are hacky. A functional prototype delivered within 2 weeks is worth more than a perfect solution delivered in 2 months.</li>
+<li>We take ownership. Building a startup is about ownership and being accountable for timely delivery.</li>
+<li>We are leaders of remote work. We are passionately building a culture where people can be productive working from anywhere.</li>
+</ul><div>
+<br><strong>Benefits you get at Secfix:</strong>
+</div><ul>
+<li>We are backed by top VCs and accelerators. Get direct access to world-class mentors.</li>
+<li>Industry-competitive base salary and generous equity package. We pay local rates that are at or above the market. We share this <a href="https://about.gitlab.com/blog/2019/02/28/why-we-pay-local-rates/">philosophy with GitLab</a>.</li>
+<li>Secfix is run by international founders in Germany. We can help you move to Germany and get a visa or just hire you locally with our partner Deel. And we have a track record! Our Customer Success Manager moved to Germany from Brazil and our Account Executive from LA.</li>
+<li>Receive the latest tech equipment (MacBook, monitors, headphones)</li>
+<li>Health insurance</li>
+<li>Remote Workspace budget to make your home office great</li>
+<li>Access to co-working around the world</li>
+<li>Flexible Work Hours and Location</li>
+<li>26 vacation days per year, in addition to local Public Holidays</li>
+<li>100% remote work - enhanced by our virtual office in <a href="https://www.gather.town/">Gather </a>
+</li>
+<li>Virtual and on-site Team Building Activities, Lunch and Learns, and other Company-Wide Events</li>
+<li>A Personal Development Budget of 1,000 EUR per year - available for whatever you wish to support your health and fitness, mental health, and learning &amp; development</li>
+<li>Have more ideas for perks? You can make them a reality at Secfix 🙂</li>
+</ul><div>
+<br><strong>Interview Process:</strong>
+</div><ul>
+<li>30 min - Screen/intro call with our recruiter</li>
+<li>45 min - Chat with our Co-founder</li>
+<li>1,5h - Tech Interview with a live coding challenge</li>
+<li>1,5h - Final interview with team &amp; Co-Founders</li>
+</ul><div>
+<em>Please note: We are an equal-opportunity employer and remote-only company. At this time, we can support hiring only within EU time zones. We work in sync using Gather as our virtual office. As a small fast-growing company, we believe in the need for an in-sync component of daily communication and therefore cannot support any 100% asynchronous work. Read more about our Remote Culture </em><a href="https://www.notion.so/secfix/Remote-Culture-93bf571583904c5e814b7afd83c240f2?pvs=4"><em>here</em></a><em>.</em>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/secfix-senior-backend-engineer-at-a-remote-seed-startup">https://weworkremotely.com/remote-jobs/secfix-senior-backend-engineer-at-a-remote-seed-startup</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -287,83 +387,6 @@
 </ul>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toggl-senior-backend-engineer">https://weworkremotely.com/remote-jobs/toggl-senior-backend-engineer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Toggl</h5>
-                    <h3> Backend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/toggl-backend-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Tallinn, Estonia
-    <br /><strong>URL:</strong> <a href="https://toggl.com/jobs/">https://toggl.com/jobs/</a>
-</p>
-
-<div>
-<br><br>We are looking for a passionate and sharp Backend Engineer to be a part of one of our cross-functional product development teams to help us shape the future of the time tracking industry and deliver real value to our customers with both new and improved features.<br><br>
-</div><div>
-<br>Gross annual compensation range for the role is <strong>€63,000</strong> and we are committed to increasing salaries every year based on company and individual performance. In addition to that, we also have awesome benefits, which you can check out below.<br><br>
-</div><div>
-<br>You can work <strong>from anywhere in the world.<br></strong><br>
-</div><div>
-<strong><br>About the Team<br></strong><br>
-</div><div>We are a global team of 100+ awesome people working from over 40 countries around the globe. We hire globally, you work locally—in the heart of London, a beach outside of São Paulo, or a quiet village near Florence, the choice is yours. Every few months we travel to meet up somewhere in the world and spend some quality time together. We place a huge amount of trust in our people, and we measure the outcomes rather than the work itself. <a href="https://toggl.com/culture/">Our values</a> fuel our results.<br><br>
-</div><div>
-<strong><br>The Role<br></strong><br>
-</div><div>As a Backend Engineer, you will be taking ownership of one or more domains of our product and will work closely with other engineers and product designers in lean ways using cutting-edge technologies powering highly-available RESTful services and back-end systems.<br><br>
-</div><div>The main technologies you will be working with are Go, PostgreSQL and Google Cloud Infrastructure.<br><br>
-</div><div>Even though you can work whenever you want on your tasks, <strong>our team meetings can happen between 11:00 to 15:00 UTC.</strong> You need to be willing and available to attend these meetings when they happen.<br><br>
-</div><div>Your main responsibilities will be:</div><ul>
-<li>developing, scaling and maintaining some of our backend services including the API, reports and other infrastructure services that manage our product and logistics worldwide</li>
-<li>working with multiple teams day to day to bring more value to Toggl’s users, covering customer-facing web and native applications and public APIs</li>
-<li>completing small to medium features independently and in collaboration with frontend engineers</li>
-<li>resolving most technical issues autonomously and designing well-organized code</li>
-<li>driving assigned requests to improve the codebase, such as migrating it to modern frameworks and adding missing tests</li>
-</ul><div>
-<strong><br>About you<br></strong><br>
-</div><div>We would love to hear from you if you are passionate about technology and you have some experience with programming in Go.<br><br>
-</div><div>In particular, we are looking for:</div><ul>
-<li>Strong backend engineering experience in any language</li>
-<li>Passion for cross-discipline collaboration and problem-solving</li>
-<li>Eagerness to learn new skills, and take ownership of your work</li>
-</ul><div>Bonus points for:</div><ul>
-<li>Experience with our main technologies: Go, PostgreSQL and Google Cloud Infrastructure</li>
-<li>Experience with software engineering best practices (e.g. unit testing, code reviews, design documentation)</li>
-<li>Experience with system architecture, particularly at scale</li>
-<li>Experiences with Kubernetes</li>
-</ul><div><strong><br>Benefits</strong></div><ul>
-<li>Freedom to choose when and how much you work - we only measure results</li>
-<li>24 days of paid time off a year, plus your local holidays</li>
-<li>In-person meetups for team-building (expenses covered)</li>
-<li>4-6 weeks paid sabbatical (depending on the tenure)</li>
-<li>Laptop budget up to €2,500 and it renews every 3 years</li>
-<li>€2,000 budget to set up your home office, and additional €300 every year after 3 years of tenure</li>
-<li>€250 per month for co-working space membership and/or internet service at home</li>
-<li>€4,000 per year contribution to use for training, workshops, and conferences</li>
-<li>€2,000 per year contribution for any equipment or services to improve and/or maintain your physical and mental health</li>
-<li>Support for buying tools you need for doing your best work (even eyeglasses if you need a new pair)</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toggl-backend-engineer">https://weworkremotely.com/remote-jobs/toggl-backend-engineer</a></p>
 
                 </details>
                 </td>
