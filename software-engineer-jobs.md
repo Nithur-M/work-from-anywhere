@@ -10,7 +10,7 @@
                     <code>software,web3,front-end,technical,support,javascript,health,engineer,engineering,full-time</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-utopia-labs-199880" align="right" target="_blank">Apply</a>
@@ -42,7 +42,80 @@
 <li>Experience writing smart contracts </li>
 <li>Demonstrated interest in open and community-driven platforms.</li>
 </ul><div><span style="font-size:24px;">Perks & Benefits</span></div><div><br></div><div><span style="font-size:18px;">ð Health and wellbeing</span></div><div>We offer top-of-the-line benefits, including health, mental health, dental, and vision insurance.</div><div><br></div><div><span style="font-size:18px;">ð´ Time off</span></div><div>We want people to take time off to rest and rejuvenate. We offer a 3 week paid vacation as well as 10 observed holidays by country.</div><div><br></div><div><span style="font-size:18px;">ð£ Parental leave</span></div><div>Our parental leave policy offers biological, adoptive, and foster parents paid time off to spend quality time with family.</div><div><br></div><div><span style="font-size:18px;">ð¥ Lunch on us</span></div><div>You'll have a very generous meal budget for you to eat every day.</div><div><br></div><div><span style="font-size:18px;">ð Commuting</span></div><div>We offer monthly commuter credits.</div><div><br></div><div><br></div><div><span style="font-size:24px;">Any Questions?</span></div><div><br></div><div>Email: pryce@utopialabs.com</div><div><br></div><div>Twitter: <a href="https://twitter.com/pryceandstuff" class="postings-link" rel="noopener noreferrer nofollow">https://twitter.com/pryceandstuff</a>
-</div><div><br></div><br/><br/>Please mention the word **READABLE** and tag RMzQuODIuMTUxLjY= when applying to show you read the job post completely (#RMzQuODIuMTUxLjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><div><br></div><br/><br/>Please mention the word **READABLE** and tag RNDQuMjAwLjIyMC41 when applying to show you read the job post completely (#RNDQuMjAwLjIyMC41). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/5493/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>FileCloud</h5>
+                    <h3> Senior Software Engineer C++</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/filecloud-senior-software-engineer-cpp" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0074/5493/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Austin, TX
+    <br /><strong>URL:</strong> <a href="https://www.filecloud.com/">https://www.filecloud.com/</a>
+</p>
+
+<div>FileCloud is looking for a <strong>Senior Software Engineer (C++)</strong> with a strong track record to join our dynamic Client team to help us deliver world-class, high-quality products to our customers. You will have the opportunity to work on innovative projects and applications focused on Enterprise File Sharing, Sync, and utilize your design skills, architecture skills, and solid development experience.<br><br>
+</div><div>
+<strong>About the Product &amp; Company</strong> </div><div>FileCloud is the fastest-growing Enterprise File Share and Sync (EFSS) solution in the industry, with over one million users worldwide. Our products are used by many global 2000 and Fortune 500 companies and world-leading public sector organizations. FileCloud recently closed a $30 million Series A investment led by Savant Growth to address the growing demand for enterprise security, compliance, and workflow automation. We are currently expanding our team as we grow and improve FileCloud. <br><br>
+</div><div><strong>About the role </strong></div><div>As part of our Client team, you will be responsible for developing our next generation of syncing and file-sharing software applications and delivering a maintainable solution optimized for usability and reliability. You'll have the opportunity to work with multiple technologies and codebases, interact directly with our customers, and learn firsthand how they use our products.<br><br>This role is remote and will require working remotely with other team members.<br><br><strong>Responsibilities:</strong>
+</div><ul>
+<li>Writing clean, high-quality, high-performance, maintainable code.</li>
+<li>Design and build software capable of running on all primary operating systems used by millions of users.</li>
+<li>Develop, maintain and support software including applications, interfaces, and new features.</li>
+<li>Troubleshoot and resolve reported customer issues quickly and permanently.</li>
+<li>Participate in code reviews, provide feedback, and help with the advancement of tools and processes.</li>
+</ul><div><strong>Required Qualifications:</strong></div><ul>
+<li>Bachelor’s or master’s degree in computer science or related field.</li>
+<li>5+ years of software development experience.</li>
+<li>Comfortable developing software for Windows, Linux, and MacOS.</li>
+<li>Strong experience with C++</li>
+<li>Strong knowledge of Web Technologies including HTTP protocol, XML, REST APIs.</li>
+<li>Strong knowledge of server-client architecture.</li>
+<li>Comfortable with Git version control system.</li>
+<li>Ability to multi-task, organize, and prioritize tasks while working independently or as part of the team.</li>
+</ul><div><strong>Desired Qualifications:</strong></div><ul>
+<li>Experience working with filesystems (Windows, macOS or both) is highly desired.</li>
+<li>Experience working with databases.</li>
+<li>Knowledge and experience developing complex multi-threaded, performance sensitive systems such as file systems.</li>
+<li>Knowledge and experience testing complex multi-threaded systems such as filesystems.</li>
+<li>Experience with TypeScript, Swift, or Python.</li>
+<li>Comfortable working with CI/CD systems like Jenkins.</li>
+<li>Experience working with Electron and JS is a nice addition.</li>
+<li>Experience in Windows Driver development is a plus.</li>
+</ul><div><strong>What we offer:</strong></div><ul>
+<li>Be part of a team of passionate, committed individuals dedicated to building a world-class product.</li>
+<li>Dedicated time for training and education opportunities.</li>
+<li>A mentorship model wherein your mentor and team support your development.</li>
+<li>A competitive salary with an annual bonus.</li>
+<li>Fully remote working whilst offering flexible hours that fall outside of the companywide core hours of 9 am -12 pm (US Central time zone).</li>
+<li>20 days of paid time off which increases by a further 5 days after 5 years of service (in addition to 10  public holidays in your country). </li>
+<li>Paid day off on your birthday or on an alternative day if your birthday falls outside a normal working day.</li>
+<li>Paid day off to volunteer with the charity of your choice.</li>
+<li>Paid monthly internet cost and lunch stipend provided.</li>
+<li>Reimbursement of all hardware costs associated with the role.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/filecloud-senior-software-engineer-cpp">https://weworkremotely.com/remote-jobs/filecloud-senior-software-engineer-cpp</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -57,7 +130,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-software-engineer-in-test-python-cyprus-greece-or-remote-2" align="right" target="_blank">Apply</a>
@@ -141,7 +214,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>37 days ago</text>
+                <text>38 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
