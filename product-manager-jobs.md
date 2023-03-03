@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-remote-product-manager-needed" align="right" target="_blank">Apply</a>
@@ -108,7 +108,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/turing-machines-inc-hardware-product-manager" align="right" target="_blank">Apply</a>
@@ -150,7 +150,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1" align="right" target="_blank">Apply</a>
@@ -209,54 +209,109 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/7710/logo.gif" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1591873/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Credit Repair Cloud</h5>
-                    <h3> Product Manager</h3>
+                    <h5>Earnest</h5>
+                    <h3>Growth Product Manager </h3>
                 </td>
                 <td width="300">
-                    <code>Product</code>
+                    <code>consulting,data science,education,excel</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/credit-repair-cloud-product-manager-3" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/product/growth-product-manager-1591873" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0064/7710/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Los Angeles, CA
-    <br /><strong>URL:</strong> <a href="https://www.creditrepaircloud.com/careers">https://www.creditrepaircloud.com/careers</a>
-</p>
-
-<div><strong>Role</strong></div><div><br></div><div>You will be a vital part of our product development team, working closely with the development, design, customer success, and leadership teams, to build fast-evolving and unique products. You will be involved in all stages of product development and will have a real impact on delivering products that help our customers streamline their process to starting, running and growing their business.</div><div><br></div><div><strong>Responsibilities:</strong></div><ul>
-<li>Fully understand Credit Repair Cloud’s business strategy and work to deliver products with our unique mission and perspective in mind. </li>
-<li>Fully understand our Customer Journey, from first exposure and into an active paid user and beyond.</li>
-<li>Accountable for creating the end-end flow of features in all aspects of product management. </li>
-<li>You will closely work with a small team of UX/UI designers and an engineering team to execute on this vision.</li>
-<li>Collaborate with the engineering team and set goals to be in line with the scope of the feature/product design and to mitigate the risk of any bugs deployed into the production. </li>
-<li>Conducting market research analysis of competitors/various SaaS businesses. </li>
-<li>Should be able to create User Stories with supporting documentation in order for the Product Owner and the dev team to develop User Stories and help define Acceptance Criteria. </li>
-<li>Deliver world-class software, analyze results from app changes, and suggest improvements.</li>
-</ul><div><br></div><div><strong>Requirements: </strong></div><ul>
-<li>3+ years of experience working as a full-time Product Manager in a SaaS company, delivering complex products. </li>
-<li>Good understanding of working with API’s.</li>
-<li>Excellent verbal and written communication skills, with proven experience in presenting ideas to key contributors throughout an organization.</li>
-<li>Experience defining and helping develop new feature sets from inception to launch. </li>
-<li>Prior experience working with Engineering teams and UI/UX designers.</li>
-<li>Prior experience working with remote teams. </li>
-<li>Good understanding of Agile methodologies in a Scrum environment. </li>
-</ul><div><br></div><div>Want to learn more? Visit our careers page <a href="https://www.creditrepaircloud.com/careers">https://www.creditrepaircloud.com/careers</a>
-</div><div><br></div><div><em>Credit Repair Cloud is an Equal Opportunity Employer and is committed to working with a diverse staff. We hire globally for talent and drive and value members by work deliverables and passion. No matter what race, color, creed, religion, gender, gender identity, gender expression, national origin, citizenship, age, sex, sexual orientation, pregnancy, marital status, ancestry, physical or mental disability, military or veteran status, or any other characteristic protected by law, we are all equal here.</em></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/credit-repair-cloud-product-manager-3">https://weworkremotely.com/remote-jobs/credit-repair-cloud-product-manager-3</a></p>
-
+                <p><strong>At Earnest, we believe in a world where paying for your education takes less time than earning your degree.  </strong><strong>Join us on our mission to empower anyone seeking higher education to reduce the total price tag of their degree, supercharge their ability to pay down student debt, and get on the right financial track fast.</strong></p>
+<p>A little background on Earnest: We're a remote first FinTech company with an accomplished team who believe consumer lending can be radically improved and are doing something about it. We are disrupting the trillion dollar student loan industry by redefining what it means to be creditworthy. We created a company that combines data science, streamlined design, and technology to:</p>
+<ul style="">
+<li style="">Build products that simplify the lending process</li>
+<li style="">Personalize loans to suit the needs of our customers</li>
+<li style="">Engage with our customers through more human experiences</li>
+</ul>
+<p><strong>What makes an “Earnie” culture: </strong></p>
+<p>Earnest’s culture is as dynamic as the products we’re building and defining every day. We’re a fast-growing company, and that means we’re constantly integrating the new perspectives of every individual.</p>
+<p>Earnies define our culture as:</p>
+<ul style="">
+<li style="">Earn Happy Customers</li>
+<ul style="">
+<li style="">Our success comes from anticipating their needs and providing the solutions they’re looking for.</li>
+</ul>
+<li style="">Better is Better</li>
+<ul style="">
+<li style="">The path to great means getting better every day. We push ourselves, and each other, to remain curious and think differently.<strong> </strong></li>
+</ul>
+<li style=""> PhD in Moving Fast</li>
+<ul style="">
+<li style="">Our customers are tired of long wait times and large student loan bills so we constantly seek out ways to deliver faster.  </li>
+</ul>
+<li style=""> Passion for Challenges</li>
+<ul style="">
+<li style="">Perseverance and optimism are just the start to take on the inertia of a national trillion-dollar problem. </li>
+</ul>
+<li style=""> Impact is a Team Sport</li>
+</ul>
+<ul style="">
+<li style="">We maximize our impact when we act as one team.  </li>
+</ul>
+<p>Our Earnie's are fun, innovative, and willing to rollup their sleeves to help their team succeed in a fast-paced environment. If this sounds like you, and you want to join us on our mission to radically disrupt a trillion dollar fintech industry, keep reading to find out how. </p>
+<p>As the <strong>Growth Product Manager</strong> within the scrappy “Going Merry” team, you will lead strategy and execution efforts to improve engagement and monetization of our users. Through cross-functional work (with marketing, product, design/research, engineering, and data teams), you will identify growth opportunities and execute on them. This will include running A/B experiments, releasing MVP tests of new features/product lines, identifying high-value user segments, creating engaging community content, and developing more personalized product/marketing experiences. </p>
+<p><strong>What you will do:</strong></p>
+<ul style="">
+<li style="">Test new features/ideas to increase engagement/revenue (e.g. webinars, quizzes, chatbots) by developing MVPs– and then work with PMs to “productize” winning tests</li>
+<li style="">Iterate on existing products via A/B testing, to improve conversion rates</li>
+<li style="">Work with Lifecycle Manager to optimize communications/touch-points (e.g. notifications, emails, SMS, content cards) to improve engagement– and then recommend ways to automate what works. </li>
+<li style="">Work with Acquisition Growth Manager to encourage acquisition of high-quality registrations (who are more likely to engage/convert)</li>
+<li style="">Build out a “higher-touch” experience for likely high-value user segments, funneling them to monetization streams relevant to their needs.</li>
+<li style="">Improve our ability to understand and segment users, via events tracking, reporting dashboards, etc.</li>
+<li style="">Improve/extend our testing software/processes, to enable constant user testing without over-sampling/cross-contaminating. </li>
+<li style="">Develop parallel streams of more personalized product/marketing experiences, in line with their user needs and our business objectives. </li>
+<li style=""><strong>Create Community Content: </strong>Strategize, develop, and manage content that helps build engagement with our product/brand, particularly via educational resources for counselors, students, and parents.</li>
+</ul>
+<p><strong>Experiences you will bring with you: </strong></p>
+<ul style="">
+<li style="">5+ years working in strategic consulting, product, or marketing roles, with responsibility for meeting growth/business targets for a B2C (consumer) product</li>
+<li style="">Experience with A/B testing and conversion rate optimization, ideally in-product (i.e. not just for acquisition, but for engagement/retention/monetization) and across devices (e.g. both web app + mobile app)</li>
+<li style="">Data-driven, with analytics and SQL/Excel skills</li>
+<li style="">Experience managing digital projects involving multiple stakeholders and implementers</li>
+<li style="">Experience managing/leading a team (even if not directly, e.g. many PMs don’t have direct reports)</li>
+<li style="">Understanding of UX principles / best practices</li>
+<li style="">Strong writing skills </li>
+</ul>
+<p><strong>Earnest believes in enabling our employees to live their best lives. We offer a variety of perks and competitive benefits that include: </strong></p>
+<ul style="">
+<li style="">Health, Dental, &amp; Vision benefits plus savings plans</li>
+<li style="">Work anywhere in the U.S. </li>
+<li style="">Mac computers + work from home stipend to set up your home office</li>
+<li style="">Monthly internet and phone reimbursement</li>
+<li style="">Employee Stock Purchase Plan</li>
+<li style="">401(k) plan to help you save for retirement plus a company match</li>
+<li style="">Robust tuition reimbursement program</li>
+<li style="">$1,000 travel perk on each Earnie-versary to anywhere in the world </li>
+<li style="">Competitive days of annual PTO</li>
+<li style="">Annual “my day” </li>
+<li style="">Pet insurance!</li>
+<li style="">Competitive parental leave</li>
+<li style="">Plenty of Earnest swag, optional in person team gatherings, picnics, celebrations, and plenty of fun virtual events </li>
+</ul>
+<p><strong>At Earnest, we are committed to building an environment where our employees feel included, valued, and heard. Our belief is that a strong commitment to diversity, inclusion, equity, and belonging enables us to move forward with our mission. We are dedicated to adding new perspectives to the team and encourage anyone to apply if your experience is close to what we are looking for.  </strong></p>
+<p><em>Earnest provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics.</em> <em>Qualified applicants with criminal histories will be considered for the position in a manner consistent with the Fair Chance Ordinance.</em></p>
+<p> </p>
+<p><em>#LI-SB1</em></p>
+<div class='"content-pay-transparency"'>
+<div class='"pay-input"'>
+<div class='"description"'>A little about our pay philosophy: We take pride in ensuring we are compensating our employees fairly and equitably. We are showcasing a range and actual starting pay may be based on several factors including but not limited to, market rate, the qualified pool of candidates, internal compensation, candidate location, and budgetary constraints. This number does not necessarily reflect your total compensation, but is a range for your base salary.</div>
+<div class='"title"'>Pay Range</div>
+<div class='"pay-range"'>$146,000<span class='"divider"'>—</span>$182,500 USD</div>
+</div>
+</div>
+<img src="https://remotive.com/job/track/1591873/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
