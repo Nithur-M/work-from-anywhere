@@ -10,7 +10,7 @@
                     <code>design,web3,crypto,front-end,voice,finance,git,typescript,api,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-full-stack-engineer-burnt-finance-200392" align="right" target="_blank">Apply</a>
@@ -41,7 +41,7 @@
 <b>Web3 Platform</b>: Cosmos-SDK (Golang), CosmWasm (Rust)</li>
 <li>
 <b>Infrastructure</b>: AWS</li>
-</ul><div>As we are still a lean engineering team, we are looking for engineers willing to take on multiple roles. When applying, please include which of the following skillsets you believe you would be able to bring to the table most rapidly:</div><div><br></div><div><b>1. Typescript + React</b></div><div><b>2. Smart contract development</b></div><div><b>3. Web3/Cosmjs</b></div><div><b>4. Other</b></div><div><br></div><div>Benefits of working at Burnt include competitive compensation, unlimited PTO, medical, dental, and vision insurance, company off-sites and more!</div><div><br></div><div>Burnt is proud to foster an inclusive environment that is free from discrimination. We strongly believe in order to build the best products, we need a diversity of perspectives and backgrounds. This leads to a more delightful experience for our users and team members. We value listening to every voice and we encourage everyone to come be a part of building a company and products we love.</div><br/><br/>Please mention the word **RECONCILIATION** and tag RNDQuMjAwLjIyMC41 when applying to show you read the job post completely (#RNDQuMjAwLjIyMC41). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div>As we are still a lean engineering team, we are looking for engineers willing to take on multiple roles. When applying, please include which of the following skillsets you believe you would be able to bring to the table most rapidly:</div><div><br></div><div><b>1. Typescript + React</b></div><div><b>2. Smart contract development</b></div><div><b>3. Web3/Cosmjs</b></div><div><b>4. Other</b></div><div><br></div><div>Benefits of working at Burnt include competitive compensation, unlimited PTO, medical, dental, and vision insurance, company off-sites and more!</div><div><br></div><div>Burnt is proud to foster an inclusive environment that is free from discrimination. We strongly believe in order to build the best products, we need a diversity of perspectives and backgrounds. This leads to a more delightful experience for our users and team members. We value listening to every voice and we encourage everyone to come be a part of building a company and products we love.</div><br/><br/>Please mention the word **RECONCILIATION** and tag RMy4yMTguMjQxLjE3OA== when applying to show you read the job post completely (#RMy4yMTguMjQxLjE3OA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr></table>
