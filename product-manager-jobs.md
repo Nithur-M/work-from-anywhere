@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-remote-product-manager-needed" align="right" target="_blank">Apply</a>
@@ -108,7 +108,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/turing-machines-inc-hardware-product-manager" align="right" target="_blank">Apply</a>
@@ -150,7 +150,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1" align="right" target="_blank">Apply</a>
@@ -205,113 +205,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1">https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1591873/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Earnest</h5>
-                    <h3>Growth Product Manager </h3>
-                </td>
-                <td width="300">
-                    <code>consulting,data science,education,excel</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/growth-product-manager-1591873" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>At Earnest, we believe in a world where paying for your education takes less time than earning your degree.  </strong><strong>Join us on our mission to empower anyone seeking higher education to reduce the total price tag of their degree, supercharge their ability to pay down student debt, and get on the right financial track fast.</strong></p>
-<p>A little background on Earnest: We're a remote first FinTech company with an accomplished team who believe consumer lending can be radically improved and are doing something about it. We are disrupting the trillion dollar student loan industry by redefining what it means to be creditworthy. We created a company that combines data science, streamlined design, and technology to:</p>
-<ul style="">
-<li style="">Build products that simplify the lending process</li>
-<li style="">Personalize loans to suit the needs of our customers</li>
-<li style="">Engage with our customers through more human experiences</li>
-</ul>
-<p><strong>What makes an “Earnie” culture: </strong></p>
-<p>Earnest’s culture is as dynamic as the products we’re building and defining every day. We’re a fast-growing company, and that means we’re constantly integrating the new perspectives of every individual.</p>
-<p>Earnies define our culture as:</p>
-<ul style="">
-<li style="">Earn Happy Customers</li>
-<ul style="">
-<li style="">Our success comes from anticipating their needs and providing the solutions they’re looking for.</li>
-</ul>
-<li style="">Better is Better</li>
-<ul style="">
-<li style="">The path to great means getting better every day. We push ourselves, and each other, to remain curious and think differently.<strong> </strong></li>
-</ul>
-<li style=""> PhD in Moving Fast</li>
-<ul style="">
-<li style="">Our customers are tired of long wait times and large student loan bills so we constantly seek out ways to deliver faster.  </li>
-</ul>
-<li style=""> Passion for Challenges</li>
-<ul style="">
-<li style="">Perseverance and optimism are just the start to take on the inertia of a national trillion-dollar problem. </li>
-</ul>
-<li style=""> Impact is a Team Sport</li>
-</ul>
-<ul style="">
-<li style="">We maximize our impact when we act as one team.  </li>
-</ul>
-<p>Our Earnie's are fun, innovative, and willing to rollup their sleeves to help their team succeed in a fast-paced environment. If this sounds like you, and you want to join us on our mission to radically disrupt a trillion dollar fintech industry, keep reading to find out how. </p>
-<p>As the <strong>Growth Product Manager</strong> within the scrappy “Going Merry” team, you will lead strategy and execution efforts to improve engagement and monetization of our users. Through cross-functional work (with marketing, product, design/research, engineering, and data teams), you will identify growth opportunities and execute on them. This will include running A/B experiments, releasing MVP tests of new features/product lines, identifying high-value user segments, creating engaging community content, and developing more personalized product/marketing experiences. </p>
-<p><strong>What you will do:</strong></p>
-<ul style="">
-<li style="">Test new features/ideas to increase engagement/revenue (e.g. webinars, quizzes, chatbots) by developing MVPs– and then work with PMs to “productize” winning tests</li>
-<li style="">Iterate on existing products via A/B testing, to improve conversion rates</li>
-<li style="">Work with Lifecycle Manager to optimize communications/touch-points (e.g. notifications, emails, SMS, content cards) to improve engagement– and then recommend ways to automate what works. </li>
-<li style="">Work with Acquisition Growth Manager to encourage acquisition of high-quality registrations (who are more likely to engage/convert)</li>
-<li style="">Build out a “higher-touch” experience for likely high-value user segments, funneling them to monetization streams relevant to their needs.</li>
-<li style="">Improve our ability to understand and segment users, via events tracking, reporting dashboards, etc.</li>
-<li style="">Improve/extend our testing software/processes, to enable constant user testing without over-sampling/cross-contaminating. </li>
-<li style="">Develop parallel streams of more personalized product/marketing experiences, in line with their user needs and our business objectives. </li>
-<li style=""><strong>Create Community Content: </strong>Strategize, develop, and manage content that helps build engagement with our product/brand, particularly via educational resources for counselors, students, and parents.</li>
-</ul>
-<p><strong>Experiences you will bring with you: </strong></p>
-<ul style="">
-<li style="">5+ years working in strategic consulting, product, or marketing roles, with responsibility for meeting growth/business targets for a B2C (consumer) product</li>
-<li style="">Experience with A/B testing and conversion rate optimization, ideally in-product (i.e. not just for acquisition, but for engagement/retention/monetization) and across devices (e.g. both web app + mobile app)</li>
-<li style="">Data-driven, with analytics and SQL/Excel skills</li>
-<li style="">Experience managing digital projects involving multiple stakeholders and implementers</li>
-<li style="">Experience managing/leading a team (even if not directly, e.g. many PMs don’t have direct reports)</li>
-<li style="">Understanding of UX principles / best practices</li>
-<li style="">Strong writing skills </li>
-</ul>
-<p><strong>Earnest believes in enabling our employees to live their best lives. We offer a variety of perks and competitive benefits that include: </strong></p>
-<ul style="">
-<li style="">Health, Dental, &amp; Vision benefits plus savings plans</li>
-<li style="">Work anywhere in the U.S. </li>
-<li style="">Mac computers + work from home stipend to set up your home office</li>
-<li style="">Monthly internet and phone reimbursement</li>
-<li style="">Employee Stock Purchase Plan</li>
-<li style="">401(k) plan to help you save for retirement plus a company match</li>
-<li style="">Robust tuition reimbursement program</li>
-<li style="">$1,000 travel perk on each Earnie-versary to anywhere in the world </li>
-<li style="">Competitive days of annual PTO</li>
-<li style="">Annual “my day” </li>
-<li style="">Pet insurance!</li>
-<li style="">Competitive parental leave</li>
-<li style="">Plenty of Earnest swag, optional in person team gatherings, picnics, celebrations, and plenty of fun virtual events </li>
-</ul>
-<p><strong>At Earnest, we are committed to building an environment where our employees feel included, valued, and heard. Our belief is that a strong commitment to diversity, inclusion, equity, and belonging enables us to move forward with our mission. We are dedicated to adding new perspectives to the team and encourage anyone to apply if your experience is close to what we are looking for.  </strong></p>
-<p><em>Earnest provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics.</em> <em>Qualified applicants with criminal histories will be considered for the position in a manner consistent with the Fair Chance Ordinance.</em></p>
-<p> </p>
-<p><em>#LI-SB1</em></p>
-<div class='"content-pay-transparency"'>
-<div class='"pay-input"'>
-<div class='"description"'>A little about our pay philosophy: We take pride in ensuring we are compensating our employees fairly and equitably. We are showcasing a range and actual starting pay may be based on several factors including but not limited to, market rate, the qualified pool of candidates, internal compensation, candidate location, and budgetary constraints. This number does not necessarily reflect your total compensation, but is a range for your base salary.</div>
-<div class='"title"'>Pay Range</div>
-<div class='"pay-range"'>$146,000<span class='"divider"'>—</span>$182,500 USD</div>
-</div>
-</div>
-<img src="https://remotive.com/job/track/1591873/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
