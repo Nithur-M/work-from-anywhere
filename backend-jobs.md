@@ -10,7 +10,7 @@
                     <code>crypto,cryptocurrency,support,bank,java,lead,engineer,engineering,educational,backend</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-tradfi-bitcoincom-200895" align="right" target="_blank">Apply</a>
@@ -56,7 +56,7 @@
 <li>Health insurance reimbursement</li>
 <li>Wellness program (gym, etc.)</li>
 </ul>
-</div><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **EXCEPTIONAL** and tag RNDQuMjAwLjIyMC41 when applying to show you read the job post completely (#RNDQuMjAwLjIyMC41). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **EXCEPTIONAL** and tag RMy4yMTguMjQxLjE3OA== when applying to show you read the job post completely (#RMy4yMTguMjQxLjE3OA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -71,7 +71,7 @@
                     <code>web3,react,graphql,redis,system,strategy,health,engineer,backend</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-mirror-199867" align="right" target="_blank">Apply</a>
@@ -123,7 +123,7 @@
 <li>Team offsites for periodic in-person collaborative strategy sessions</li>
 <li>Passionate, supportive team dedicated to learning and growing together in web3</li>
 </ul>
-</div><br/><br/>Please mention the word **COOPERATIVELY** and tag RNDQuMjAwLjIyMC41 when applying to show you read the job post completely (#RNDQuMjAwLjIyMC41). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **COOPERATIVELY** and tag RMy4yMTguMjQxLjE3OA== when applying to show you read the job post completely (#RMy4yMTguMjQxLjE3OA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -138,7 +138,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/secfix-senior-backend-engineer-at-a-remote-seed-startup" align="right" target="_blank">Apply</a>
