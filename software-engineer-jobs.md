@@ -10,7 +10,7 @@
                     <code>software,web3,front-end,technical,support,javascript,health,engineer,engineering,full-time</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-utopia-labs-199880" align="right" target="_blank">Apply</a>
@@ -42,7 +42,7 @@
 <li>Experience writing smart contracts </li>
 <li>Demonstrated interest in open and community-driven platforms.</li>
 </ul><div><span style="font-size:24px;">Perks & Benefits</span></div><div><br></div><div><span style="font-size:18px;">ð Health and wellbeing</span></div><div>We offer top-of-the-line benefits, including health, mental health, dental, and vision insurance.</div><div><br></div><div><span style="font-size:18px;">ð´ Time off</span></div><div>We want people to take time off to rest and rejuvenate. We offer a 3 week paid vacation as well as 10 observed holidays by country.</div><div><br></div><div><span style="font-size:18px;">ð£ Parental leave</span></div><div>Our parental leave policy offers biological, adoptive, and foster parents paid time off to spend quality time with family.</div><div><br></div><div><span style="font-size:18px;">ð¥ Lunch on us</span></div><div>You'll have a very generous meal budget for you to eat every day.</div><div><br></div><div><span style="font-size:18px;">ð Commuting</span></div><div>We offer monthly commuter credits.</div><div><br></div><div><br></div><div><span style="font-size:24px;">Any Questions?</span></div><div><br></div><div>Email: pryce@utopialabs.com</div><div><br></div><div>Twitter: <a href="https://twitter.com/pryceandstuff" class="postings-link" rel="noopener noreferrer nofollow">https://twitter.com/pryceandstuff</a>
-</div><div><br></div><br/><br/>Please mention the word **READABLE** and tag RMy4yMTguMjQxLjE3OA== when applying to show you read the job post completely (#RMy4yMTguMjQxLjE3OA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><div><br></div><br/><br/>Please mention the word **READABLE** and tag RMzQuODIuMTUxLjY= when applying to show you read the job post completely (#RMzQuODIuMTUxLjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -57,7 +57,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/filecloud-senior-software-engineer-cpp" align="right" target="_blank">Apply</a>
@@ -120,90 +120,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/8312/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>XM</h5>
-                    <h3> Software Engineer in Test – Python – Cyprus, Greece or Remote </h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/xm-software-engineer-in-test-python-cyprus-greece-or-remote-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0066/8312/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Cyprus, Greece or Remote
-    <br /><strong>URL:</strong> <a href="https://xm.com">https://xm.com</a>
-</p>
-
-<div>
-<strong>Reference Number: SDEP1022 <br></strong><br>
-</div><div>
-<strong>The Role: <br></strong><br>
-</div><div>
-<br>We are looking for an experienced SET (Software Engineer in Test) - Python to join our QA team. You will work with world class specialists in a friendly, supportive and open-minded environment on. challenging goals that will help you to grow professionally and achieve new technical levels. This role will focus on improving and monitoring product quality via test automation framework development and test coverage extension for functional and performance suits. You will work with the most valuable part of the product - a Forex brokerage core. If you enjoy working with pure API, Python, cutting-edge technologies, Kafka and AWS, this role is for you!<br><br>
-</div><div><strong>The main responsibilities of the position include:</strong></div><ul>
-<li>Work in close cooperation with the development team to enhance software delivery and quality throughout the entire software development cycle </li>
-<li>Understand and translate high level business requirements to technical requirements</li>
-<li>Advise on efficient performance testing strategies for enhancing delivery and quality throughout the full software development cycle</li>
-<li>Develop formal test procedures and test plans from internal product design documentation as well as from external certification requirements</li>
-<li>Design, develop and modify functional and performance automation tests</li>
-<li>Design and implement test automation framework, required libraries and auto-tests</li>
-<li>Develop emulators for mobile testing </li>
-<li>Build CI/CD pipelines and integrate automation scripts into CI tools </li>
-<li>Manage any issues that may arise and drive resolutions throughout the testing process </li>
-<li>Share technical expertise with the rest of the QA team  </li>
-<li>Actively participate in the Software Development Life Cycle and Software Testing Life Cycle </li>
-</ul><div> </div><div><strong>Main requirements:</strong></div><ul>
-<li>BSc/MSc in Computer Science, Software Engineering or similar</li>
-<li>Minimum 2 years of comprehensive experience in quality assurance </li>
-<li>Minimum  years of practical experience in Python development </li>
-<li>Strong hands-on experience in designing and developing frameworks using Python</li>
-<li>Strong technical background </li>
-<li>Experience in testing REST API </li>
-<li>Experience in performance testing </li>
-<li>Confident knowledge of Git </li>
-<li>Experience in agile software development methodologies and testing procedures </li>
-<li>Strong interpersonal skills </li>
-<li>Very good written and verbal skills in English </li>
-</ul><div> <br><br>
-</div><div><strong>The following will be considered an advantage:</strong></div><ul>
-<li>Experience with asynchronous and multithreading programming </li>
-<li>Experience in testing web sockets </li>
-<li>Experience in Robot Framework </li>
-<li>Experience with Docker </li>
-<li>Experience with Prometheus, Grafana </li>
-<li>Experience in testing Kafka broker </li>
-<li>Experience in the Finance/Forex domain </li>
-</ul><div>
-<strong> <br></strong><br>
-</div><div><strong>Benefit from:</strong></div><ul>
-<li>Attractive remuneration package </li>
-<li>Food allowance</li>
-<li>Intellectually stimulating work environment</li>
-<li>Continuous personal development and international training opportunities</li>
-<li>Attractive relocation package and support for a smooth relocation for you and your family <br><br>
-</li>
-</ul><div>Type of employment: Full time<br><br>
-</div><div>Location: Cyprus, Greece, Remote <br><br>
-</div><div>Please visit our website <a href="http://www.xm.com/careers">www.xm.com/careers</a> to submit your online application for this position.</div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-software-engineer-in-test-python-cyprus-greece-or-remote-2">https://weworkremotely.com/remote-jobs/xm-software-engineer-in-test-python-cyprus-greece-or-remote-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -214,7 +130,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>40 days ago</text>
+                <text>41 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -256,6 +172,166 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c">https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1608529/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Dune</h5>
+                    <h3>Senior Software Engineer (Data)</h3>
+                </td>
+                <td width="300">
+                    <code>big data,cloud,crypto,finance</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/data/senior-software-engineer-data-1608529" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="min-height: 1.5em;"><strong>About Dune</strong></p>
+<p style="min-height: 1.5em;">Dune is on a mission to make crypto data accessible. We’re a collaborative multi-chain analytics platform used by thousands of developers, analysts, &amp; investors  to understand the on-chain world and the frontiers of finance.We’re  a team of ~55 employees,  working together from all over the world 🌍️. We believe in our mission, and in building a powerful, open product that allows individuals and communities to do deep research into important ecosystems like Bitcoin, Ethereum, Solana, and many more. </p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;">We’re backed by some of the world's best investors. In February 2022, we announced our Series B funding round led by Coatue 🦄, an important milestone  that allowed us to double down on our mission We’ll use the funds to educate, reward and empower a new generation of on-chain analysts aka Dune Wizards 🧙‍♀️</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;">If you want to have one of the highest impact jobs on the planet, come join our wonderful team of Galaxy brains.</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Learn more about us:</strong></p>
+<p style="min-height: 1.5em;"><a href="https://dune.xyz/blog/revolution-not-quarterly" rel="nofollow" target="_blank"><u>The Dune Manifesto</u></a></p>
+<p style="min-height: 1.5em;"><a href="https://www.notion.so/duneanalytics/Values-and-working-at-Dune-7efdcec2298a4913aaef8067b25820df" rel="nofollow" target="_blank"><u>Values and working at Dune</u></a></p>
+<p style="min-height: 1.5em;"><a href="https://duneanalytics.notion.site/duneanalytics/18c78c4427514cebaa7039bbf8a8c249?v=3182f4e294bd4867b733322c216009e4" rel="nofollow" target="_blank"><u>Meet the team</u></a></p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;">The data must flow</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>What we are building:</strong></p>
+<p style="min-height: 1.5em;">We are building a collaborative open-access ETL for blockchain data. Blockchain data, like many open data sources, requires extensive domain knowledge to wrangle it into useful formats before one can derive value from it. Often, this work is done in silos and limited in scope, resulting in repeated wasted efforts. We are inspired by projects in other domains that evade this trap like Wikipedia which has arguably become <a href="https://www.pcmag.com/news/wikipedia-the-most-reliable-source-on-the-internet" rel="nofollow" target="_blank"><u>the most reliable repository of knowledge</u></a> to have ever existed by fostering an extensive network of contributors and quality control practices/tools.</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;">We aim to build a platform where blockchain analysts and engineers can work together to collaborate on data transformations and create the world’s most accurate repository of blockchain data. We already have a thriving community of contributors with excellent retention from a wide range of backgrounds. Check out the <a href="https://github.com/duneanalytics/spellbook/graphs/contributors" rel="nofollow" target="_blank"><u>insights</u></a> page on our Github repo to see for yourself. </p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;">Where you come in: You’ll help our community by building the infrastructure that allows us to:</p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Build open data pipelines in a world where most tools are built for closed teams.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Accelerate the code review process by automating and simplifying the range of checks reviewers need to make. </p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Orchestrate robust pipelines that are resilient to user error in a fast paced contribution pipeline. </p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Understand and prioritize the needs of our diverse community from amateur data sleuths to professional data scientists and engineers.  </p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>About the role:</strong></p>
+<p style="min-height: 1.5em;">Dune is a small team building large things. We are generalist engineers who pick up any and all challenges together. We like to think and design before jumping into coding.</p>
+<p style="min-height: 1.5em;">In this role you will:</p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Assume ownership of data transformation pipelines that take <a href="https://github.com/duneanalytics/spellbook/" rel="nofollow" target="_blank"><u>community contributed SQL transformations</u></a> as an input.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Engage in stimulating technical challenges in topics such as distributed systems, very large databases, SQL processing, data modeling, or systems performance</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Write code mostly in Python, SQL and some Kotlin with a strong emphasis on good design and performance</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Collaborate within a respectful and fun team that is fully distributed</p>
+<p style="min-height: 1.5em;"> </p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"><strong>You might be a great fit for this role if:</strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">You are a strong generalist with fundamental computer science knowledge. You use this knowledge to easily adapt to new technologies and scenarios, and to find the right solutions for the problems at hand.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">You have an understanding of distributed system design. Our work is as much about understanding and designing systems as it is about coding in a particular language.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">You have great collaboration and communication skills. We work on the principle that the best output emerges from effective team work and respectful/constructive discussions.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Versatility. You will be working within your team across the following spectrum:</p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Coding in Python, SQL, Kotlin and Go with a zeal for writing testable software</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Data pipeline and workflow orchestration tools (e.g. DBT, Dagster)</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Deployment and infrastructure in public cloud platforms (e.g. Terraform, Kubernetes)</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">CI / CD pipelines</p>
+</li>
+</ul>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Not required but a plus if:</strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">You know your way around crypto and/or smart contracts.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">You have made contributions to open source big data projects.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">You have experience with database internals, massive data storage and processing, and systems performance</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Perks and Benefits</strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">A competitive salary and equity package 🚀</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Our employee equity scheme have world class employee friendly terms with a heavily discounted strike price (~70%) and a 10 year exercise window</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">🏖 5 weeks PTO + local public holidays (that can be swapped to suit you)</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">🧑‍💻 A fully remote first approach with truly flexible working hours within a distributed team - you structure your own day</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Good health is important, so we offer Dune employees private medical insurance as standard 🩺</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">We believe in paid parental leave 👶 to help you celebrate this important milestone, transition to your new life, and bond with your new baby. We offer 16 weeks to primary caregivers and 6 weeks to secondary caregivers, fully paid. Plus a 2 week part time phased return at full pay to help you get used to your new (and slightly more complex!) schedule.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Regular offsites with the team in various exciting locations (so far in Tuscany 🇮🇹 Berlin 🇩🇪 Austria 🇦🇹)</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">On top of this 👆 each person gets a travel allowance to use to connect and co-work with someone or a team of people for a few days.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Stipend for setting up your home office / co-working space</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Work with some of the <a class="notion-link-token notion-enable-hover" href="18c78c4427514cebaa7039bbf8a8c249?v=3182f4e294bd4867b733322c216009e4" rel="nofollow" target="_blank">best people</a> you’ll ever get to meet!</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">And of course, you get some awesome <a class="notion-link-token notion-enable-hover" href="https://community.dune.com/lookbook" rel="nofollow" target="_blank">Dune swag</a>! ✌️😎</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;">------------------------------------------------------------------------------------------</p>
+<p style="min-height: 1.5em;">Please note: Due to the fact we are a remote organisation, we generally do not support visa applications. This is because we do not require you to be based in any specific location - you are free to work from anywhere at Dune 🌍️.</p>
+<p style="min-height: 1.5em;">------------------------------------------------------------------------------------------</p>
+<p style="min-height: 1.5em;">Don’t meet every single requirement? Studies have shown that women and people of colour are less likely to apply to jobs unless they meet every single qualification. We are dedicated to building a diverse, inclusive and authentic workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.</p>
+<img src="https://remotive.com/job/track/1608529/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
