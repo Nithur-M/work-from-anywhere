@@ -10,7 +10,7 @@
                     <code>frontend,design,crypto,ethereum,react,front-end,security,technical,support,software,growth,ui,code,web,javascript,typescript,senior,analytics,recruiting,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-ecosystem-op-labs-200893" align="right" target="_blank">Apply</a>
@@ -61,7 +61,7 @@
 <li>We are a team of buildersâour founding team has been working on Ethereum scalability since 2015.</li>
 </ul>
 <p><strong>We strongly encourage candidates of all different backgrounds to apply.</strong> We believe that our work is stronger with a variety of perspectives, and weâre eager to further diversify our company. If you have a background that you feel would make an impact at Optimism, please consider applying. Weâre committed to building an inclusive, supportive place for you to do the best work of your career.</p>
-</div><br/><br/>Please mention the word **OVERTAKE** and tag RMy4yMTguMjQxLjE3OA== when applying to show you read the job post completely (#RMy4yMTguMjQxLjE3OA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **OVERTAKE** and tag RMzQuODIuMTUxLjY= when applying to show you read the job post completely (#RMzQuODIuMTUxLjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -76,7 +76,7 @@
                     <code>web3,frontend,defi,crypto,react,system,front-end,cto,technical,software,code,web,financial,senior,marketing,analytics,engineer,engineering</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-frontend-web3-engineer-premia-jobs-200892" align="right" target="_blank">Apply</a>
@@ -88,7 +88,84 @@
                 <div><b>Senior Frontend & Web3 Engineer - Remote</b></div><div><br></div><div>Premia is a decentralized options platform connecting traders and liquidity providers of all backgrounds.  Offering non-custodial options to hedge, speculate, or earn yield on your digital assets.  Premia offers first of its kind automated market maker solutions in the DeFi space for Options Contracts through our use of Smart Liquidity Pools and Dynamic Pricing.  Premia enables best-in-class pricing based on market volatility, providing fully-featured peer-to-pool trading and capital efficiency to DeFi options.</div><div> </div><div>We are one of the smallest and most impactful teams in crypto. We are a globally distributed organization, with all positions being fully remote.</div><div> </div><div>Weâre looking for a passionate, self-motivated engineer to help us build the next generation of financial products. As a dedicated frontend hire, you will gain ownership over our existing suite of web products, as well as the ability to influence the creation, design, and execution of future products. You will be responsible for ensuring a consistent, high-quality user experience across trading interfaces, data-heavy analytics pages, documentation portals and more.</div><div><b> </b></div><div><b>Who are you?</b></div><div><span style="font-size:11pt;">A senior-level front-end engineer (JS/TS + React veteran) who is also crypto-native. At the very least, you understand and hold crypto assets or ideally have developed decentralized applications leveraging blockchain technology before, preferably EVM-compatible. </span></div><div><br></div><div><span style="font-size:11pt;">You are passionate about building bleeding-edge technology for the next iteration of the internet with the use of cryptography and understand the necessity for building beautiful and user-friendly GUIs in order to facilitate the transition to web3. </span></div><div><br></div><div><span style="font-size:11pt;">You have experience and are culturally aligned with fast-moving small teams. You have worked at remote (globally distributed) startups before. You are self-driven, are comfortable wearing many hats, can ship patches and features swiftly when needed. You can identify company priorities, own them, and iterate quickly to ship the best solution.</span></div><div><br></div><div><span style="font-size:11pt;">You can write and speak fluent English and have great communication skills.</span></div><div><br></div><div><b>The Role:</b></div><div><span style="font-size:11pt;">Engineers at Premia work with our CTO and our existing engineering team to innovate, architect, and develop user-facing features and new iterations of the Premia app, as well as our event indexing system (The Graph).</span></div><div><br></div><div><span style="font-size:11pt;">In addition, you will work closely with other departments such as Design, QA, Operations, and Marketing teams to successfully execute the implementation, testing, and deployment of new features.</span></div><div><br></div><div><span style="font-size:11pt;">As a senior engineer, you will help (mentor) other members of the team, and will make sure components and app pages are well optimized and running smoothly. </span></div><div><br></div><div><b>Responsibilities</b></div><div><span style="font-size:11pt;">-Design, scope, and estimate complex features at the component level.</span></div><div><span style="font-size:11pt;">-Build, test, and ship features, patches, and updates to our web app.</span></div><div><span style="font-size:11pt;">-Collaborate with the team and cross-functional partners on all aspects of product development.</span></div><div><span style="font-size:11pt;">-Identify and advocate for team-wide areas of improvement and best practices.</span></div><div><span style="font-size:11pt;">-Mentor team members to refine their technical and architectural skills.</span></div><div><span style="font-size:11pt;">-Help maintain our subgraph repository written in AssemblyScript (JS subset)</span></div><div><br></div><div><b>Requirements</b></div><div><span style="font-size:11pt;">-Experience owning and shipping products</span></div><div><span style="font-size:11pt;">-5+ years of industry experience in software engineering</span></div><div>
 <span style="font-size:11pt;">-A mastery of Javascript, Typescript, and React with an understanding of encryption and cryptography </span> <span style="font-size:11pt;">fundamentals.</span>
 </div><div><span style="font-size:11pt;">-Experience working with GraphQL</span></div><div><span style="font-size:11pt;">-Basic web3 understanding: Wallets, transactions, explorers, POW/POS, gas price, etc.</span></div><div><span style="font-size:11pt;">-Ability to quickly iterate and ship code using test-driven development patterns</span></div><div><span style="font-size:11pt;">-Ability to build modern, event-driven React frontends, converting Figma designs into functional components</span></div><div><span style="font-size:11pt;">-Mastery of CSS, preferably via a library like MaterialUI</span></div><div><span style="font-size:11pt;">-Experience with version control, such as Git</span></div><div><span style="font-size:11pt;">-Knowledge of engineering best practices such as continuous integration</span></div><div><span style="font-size:11pt;">-Exceptional judgment, problem-solving skills, and an analytical mindset</span></div><div><span style="font-size:11pt;">-Ability to work in areas beyond your comfort zone and motivated by personal growth</span></div><div><span style="font-size:11pt;">-A passion for learning and a self-awareness of your learning style</span></div><div><span style="font-size:11pt;">-(Nice to have) Previous experience with web3.js or ethers.js libraries. </span></div><div><br></div><div><b>Benefits</b></div><div>Work from anywhere (Remote first), Flexible working hours, Flexible vacation policy, Competitive Salary + Token bonus (portion or all can be paid in Crypto).  Premia is committed to a diverse and inclusive workplace and is an equal opportunity employer. We do not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.</div><div><br></div><div>Premia welcomes all qualified persons to apply. Compensation will be competitive and commensurate with experience. This is a full time role.</div><div><br></div><div>To find out more you can view their website at <a href="https://premia.finance/" class="postings-link" rel="noopener noreferrer nofollow">https://premia.finance/</a>
-</div><br/><br/>Please mention the word **EXPERTLY** and tag RMy4yMTguMjQxLjE3OA== when applying to show you read the job post completely (#RMy4yMTguMjQxLjE3OA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **EXPERTLY** and tag RMzQuODIuMTUxLjY= when applying to show you read the job post completely (#RMzQuODIuMTUxLjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1605740/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Hopin</h5>
+                    <h3>Senior Front End Engineer - Project C</h3>
+                </td>
+                <td width="300">
+                    <code>api,C,developer,legal</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-engineer-project-c-1605740" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>At Hopin, we’re reimagining events. Our mission is simple: </strong><strong><em>we exist to make the world feel closer.</em></strong></p>
+<p>Founded in 2019, Hopin brings brands and communities together around highly interactive and engaging experiences. We believe that people should have access to the conversations, moments and ideas they care most about, no matter where they are.  Through our highly scalable platform, participants are able to learn, engage, and connect from anywhere in the world. </p>
+<p>Hopin started as a virtual events solution but we have since meaningfully expanded our offering from virtual events to hybrid and in-person events, as well as video and workplace collaboration products. This growth has been fueled by a series of strategic acquisitions, advancing Event Marketing products; <strong>StreamYard</strong> - unveiling a video production Studio and video hosting service<strong> Streamable.</strong></p>
+<p><em>Hopin continues to invest in new ways to create meaningful connections. Building new products, expanding existing products, and investing in making community building simpler, and better.</em></p>
+<p>Listed as one of the <a href="%22https:/hopin.com/blog/fast-company-best-workplaces-innovators%22" rel="nofollow">2021 Fast Company Best Workplaces for Innovators</a>, valued at $7.75B, Hopin raised a $450M Series D round of financing and is backed by top tier investors, including Arena Holdings, Altimeter Capital, Adam Street Partners, Untitled Investments, XN Capital, Andreessen Horowitz, DFJ Growth, General Catalyst, GIC, IVP, Northzone, Salesforce Ventures, Slack, Temasek and Tiger Global.</p>
+<p><strong>The Role</strong></p>
+<p>You will be joining our early initiative - codenamed “Project C” - an initiative directly backed by the CEO, and reporting directly to the Director of Engineering who led the early development of Hopin Events.</p>
+<p>You will be joining a small, but growing, team of 6 engineers who are empowered to build and improve our product and codebase with a high degree of autonomy and flexibility.</p>
+<p>This Senior FE role is a remote-first position, joining a diverse team distributed around the world. With a focus on keeping timezone flexibility, there are fewer than 3 hours of fixed weekly time meetings - and a large degree of timezone freedom.</p>
+<p>We are aiming to deliver a best-in class product, following engineering best practices and cutting-edge technologies. You will be working on a codebase that’s under 9 months old, being actively refactored to keep up to date and in the best shape.</p>
+<p><strong>Responsibilities</strong></p>
+<ul style="">
+<li style="">Building new features, maintaing existing features, and improving our overall product.</li>
+<li style="">Collaborating with your team through pairing, discussions, code reviews.</li>
+<li style="">Help build best practices, flag when something can be improved, be proactive, and be part of creating the best possible engineering team.</li>
+<li style="">Coordinate with stakeholders (other engineers in the company, the product team, and some non engineering functions).</li>
+</ul>
+<p><strong>About You</strong></p>
+<ul style="">
+<li style="">You are an autonomous developer capable of owning a feature from conception to production-ready.</li>
+<li style="">You are an expert in the Front End web technologies (including the browser APIs, HTML5, ES6, CSS3, etc)</li>
+<li style="">You are an experienced React engineer - and are up to date with the latest best practices including React Hooks, Function Components, and the Context API.</li>
+<li style="">You have deep understanding of the ecosytem you work with, including how to interact with various different BE APIs, how to test your work, and different deployment strategies and their trade-offs.</li>
+</ul>
+<p><strong><em>At least one of these apply to you:</em></strong></p>
+<ul style="">
+<li style="">You have experience working with Next.JS and are familiar with the best practices of the framework.</li>
+<li style="">You have worked on a server-side rendered FE webapp.</li>
+<li style="">You have built, or help built a design system. You understand trade-offs when building a component library, and are experienced in building an easy to use API.</li>
+<li style="">You have helped test and diagnose performance of a FE application, you are familiar with best practices when building a performant application.</li>
+<li style="">You have experience building native apps.</li>
+</ul>
+<div class='"content-conclusion"'>
+<div class="h3"><strong>The Offer</strong></div>
+<ul style="">
+<li style="">Fully remote, global team</li>
+<li style="">Flexible schedules</li>
+<li style="">Laptop assigned, Mac or Dell (Windows)</li>
+<li style="">Health Insurance Support</li>
+<li style="">Parental Leave</li>
+<li style="">$1000 USD for Home-Office Set up</li>
+<li style="">$100 USD monthly remote work stipend</li>
+<li style="">$1500 USD for Learning &amp; Development</li>
+</ul>
+<p><strong>Where and How We Hire </strong></p>
+<p>Being a remote company enables us to hire the best talent from selected locations around the world. We can engage with you in any of our jurisdictions listed below, all you need to do is demonstrate the legal right to work and be physically present in that country. Some roles may have specific workforce location requirements which will be noted on the job description.</p>
+<ul style="">
+<li style=""><strong>Entity:</strong> Canada, UK, USA</li>
+<li style=""><strong>Employer of Record:</strong> India, Ireland, Portugal, Spain</li>
+<li style=""><strong>Full Time Contractor</strong> <strong>(Self Employed): </strong>Argentina, U.A.E.</li>
+</ul>
+<p><strong>At Hopin</strong>, we're committed to cultivating an environment that promotes equality, diversity, and inclusion. We are a global community and we believe our unique qualities must be celebrated as they are critical to our innovation. It's essential to us that you bring your authentic self to work every single day, no matter your age, ethnicity, religion, citizenship, gender identity, sexual orientation, disability status, neurodiversity, or otherwise. Inclusion isn't just an initiative at Hopin. We strive to embed it not just into our core values but throughout our entire ecosystem.</p>
+</div>
+<img src="https://remotive.com/job/track/1605740/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
