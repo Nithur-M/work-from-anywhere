@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-remote-product-manager-needed" align="right" target="_blank">Apply</a>
@@ -108,7 +108,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/turing-machines-inc-hardware-product-manager" align="right" target="_blank">Apply</a>
@@ -150,7 +150,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1" align="right" target="_blank">Apply</a>
@@ -219,7 +219,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>480 days ago</text>
+                <text>481 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -271,6 +271,69 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1572044/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Approvalmax</h5>
+                    <h3>Technical Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>accounting,api,cloud,marketing</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/technical-product-manager-1572044" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Intro</strong></p>
+<p><strong>– Product: </strong>SaaS for approving financial documents in modern cloud accounting apps which lack flexible and efficient implementation as native feature.</p>
+<p><strong>– Business model: </strong>Addon promoted in the accounting systems ecosystems (all of whom have their own marketplaces). The niche is called Accounts Payable automation and it is super hot (lots of players, VCs, investments and acquisitions).</p>
+<p><strong>– Market: </strong>Global sales following the geography of target accounting apps (Oceania, Asia, Europe, Americas, Africa).</p>
+<p><strong>– Company: </strong>~100 employees and we are fully remote. We are not a startup anymore (profitable and double digit growing) but not yet a corporation.</p>
+<p><strong>Current product state</strong></p>
+<p><strong>– Market leader: </strong>Over the 6+ years we have become a leader for our core accounting software ecosystem (Xero which is itself almost an accounting standard in Oceania &amp; Asia).</p>
+<p><strong>– Solid foundation: </strong>From the product side we are years ahead of current competitors. From the engineering side we have solved our growth issues so we are ready to jump into the next league.</p>
+<p><strong>– Scaling business: </strong>We build integrations with other accounting systems and deliver more value for existing integrations by automating more scenarios.</p>
+<p><strong>Challenge</strong></p>
+<p><strong>– Triple digits growth wanted: </strong>We want to establish a leadership in Accounts Payable automation space worldwide across all major cloud accounting systems. We want to use our SMB experience to disrupt slow and heavy enterprise-focused competitors. And we want to keep maintaining the best SMB experience for our current user base.</p>
+<p><strong>– Deep integrations: </strong>We built a software that every accountant could just plug’n’play and it would work right away. Lots of research and heavy understanding of the accounting systems is needed for that.</p>
+<p><strong>– Product scope expansion: </strong>Our app is already much more than basic approvals. We want to compete with enterprise-level systems which automate all processes in accounts payable teams.</p>
+<p><strong>Whom we are looking for</strong></p>
+<p><strong>– Ownership: </strong>You are expected to get a vague idea from users (be it a new integration, or automation scenario, or product feature) and deliver it to production dealing with Engineering, Marketing, Support, Customer Success, Sales departments. We need a product driver who can intelligently push the initiatives till completion.</p>
+<p><strong>– Technical knowledge:</strong></p>
+<p><strong>You will need:</strong></p>
+<ul style="">
+<li style="">to understand how modern SaaS are built.</li>
+<li style="">to read API docs in order to be an expert in accounting systems that we integrate with</li>
+<li style="">to think how the feature could be implemented on a high-level and to prepare the detailed requirements for the dev team.</li>
+<li style="">to talk to devs and be able to discuss the logical implementation of your features.</li>
+<li style="">to think about all corner cases and limitations before devs start working.</li>
+</ul>
+<p>Some companies even call such roles as systems analysts but we strongly believe in technical product manager role definition which adds ownership to technical knowledge.</p>
+<p><strong>– Business context:</strong></p>
+<p><strong>You will need:</strong></p>
+<ul style="">
+<li style="">to dive deep into how accounting people operate</li>
+<li style="">to speak with them in their language (it is ok to know nothing in this area but it is a must to learn it over time)</li>
+<li style="">to filter out the core idea from their scattered feedback and generalize it as consistent product feature</li>
+<li style="">to be guided by product &amp; business metrics when decided what to built next</li>
+</ul>
+<p> </p>
+<p><strong>Why is it good for you</strong></p>
+<p>– <strong>Valuable experience:</strong> in the healthy and fast growing SaaS company built with modern startup best practices in the hot SaaS space of Accounts Payable automation</p>
+<p><strong>– International team:</strong> incorporated in UK and Germany but still fully remote</p>
+<p><strong>– Strong team with adaptive processes:</strong> we care about efficiency and are not afraid to admit issues and change<br><strong>– Flexible schedule and location: </strong>we don’t care where or when you work. We just want you to do your best and we don’t want to disturb you.</p>
+<p><strong>– We help to overcome cons of remote:</strong> Working remote is hard, we know it. We host off-site events and respect your location’s bank holidays. We also offer 20 working days paid annual leave and 10 working days paid sick leave per year.</p>
+<img src="https://remotive.com/job/track/1572044/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
