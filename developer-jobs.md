@@ -37,7 +37,7 @@
 <li align="left">Autonomous and out-of-the-box thinker</li>
 <li align="left">Optional: knowledge of Ethereum, EVM blockchains,Â <span style=""><a class="bbcode-link" href="http://ethers.js/" target="_blank" rel="noopener noreferrer nofollow">ethers.js</a></span>Â library</li>
 <li align="left">Note: you donât need to check all the boxes to applyÂ </li>
-</ul><p>At Request Finance, we are a global team building global products, for an era of truly global finance. We believe that diversity and inclusion matters to our mission.</p><p>We want to work with people who can bring different perspectives rooted in their own unique cultures, experiences, lifestyles, and challenges. We are committed to building a safe workplace where everyone feels empowered to bring their authentic selves.</p><p>As an employer, we want to create an accessible and inclusive experience for potential hires. Please let us know if there are any adjustments we can make to assist you during the hiring and interview process.</p><p><br>WHY WORK WITH REQUEST FINANCE ?</p><p>ð¯Being on the frontier of this new and exciting technology, you will be given the chance to lead the way forward!</p><p>ðÂ You will have the opportunity to work in a team that wants to have a lasting impact on the way we experience finance tomorrow</p><p>ðThe team is inclusive, with inspirational and international colleagues</p><p>ðÂ We all work remotely but we love to meet as frequently as possible, with at least 3 company-wide reunions per year where possible.</p><p>ðï¸Â Unlimited vacation days with a mandatory minimum of 20/year.</p><br/><br/>Please mention the word **LUSH** and tag RNTQuMTU2LjY1LjE1OA== when applying to show you read the job post completely (#RNTQuMTU2LjY1LjE1OA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p>At Request Finance, we are a global team building global products, for an era of truly global finance. We believe that diversity and inclusion matters to our mission.</p><p>We want to work with people who can bring different perspectives rooted in their own unique cultures, experiences, lifestyles, and challenges. We are committed to building a safe workplace where everyone feels empowered to bring their authentic selves.</p><p>As an employer, we want to create an accessible and inclusive experience for potential hires. Please let us know if there are any adjustments we can make to assist you during the hiring and interview process.</p><p><br>WHY WORK WITH REQUEST FINANCE ?</p><p>ð¯Being on the frontier of this new and exciting technology, you will be given the chance to lead the way forward!</p><p>ðÂ You will have the opportunity to work in a team that wants to have a lasting impact on the way we experience finance tomorrow</p><p>ðThe team is inclusive, with inspirational and international colleagues</p><p>ðÂ We all work remotely but we love to meet as frequently as possible, with at least 3 company-wide reunions per year where possible.</p><p>ðï¸Â Unlimited vacation days with a mandatory minimum of 20/year.</p><br/><br/>Please mention the word **LUSH** and tag RMTguMjA4LjExNC41Mg== when applying to show you read the job post completely (#RMTguMjA4LjExNC41Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -83,7 +83,7 @@
 <li align="left">Previous participation in hackathons</li>
 <li align="left">Curious about new libraries and frameworks</li>
 <li align="left">Passionate about clean and well-documented code</li>
-</ul><br>***<p>At Request, we are a global team building global products for an era of genuinely international finance. We believe that diversity and inclusion matter to our mission.</p><p>We want to work with people who can bring different perspectives rooted in their unique cultures, experiences, lifestyles, and challenges. We are committed to building a safe workplace where everyone feels empowered to bring their authentic selves.</p><p>As an employer, we want to create an accessible and inclusive experience for potential hires. Please let us know if there are any adjustments we can make to assist you during the hiring and interview process.<br></p><h3></h3><br><h3><b>WHY WORK WITH REQUEST?</b></h3><p>ð¯Being on the frontier of this new and exciting technology, you will be given a chance to lead the way forward!</p><p>ðÂ You will have the opportunity to work in a team that wants to have a lasting impact on the way we experience finance tomorrow</p><p>ðThe team is inclusive, with inspirational and international colleagues</p><p>ðÂ We all work remotely and love to meet as frequently as possible, with at least three company-wide reunions per year.</p><p>ðï¸Â Unlimited vacation days with a mandatory minimum of 20/year.</p><br/><br/>Please mention the word **DELECTABLE** and tag RNTQuMTU2LjY1LjE1OA== when applying to show you read the job post completely (#RNTQuMTU2LjY1LjE1OA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br>***<p>At Request, we are a global team building global products for an era of genuinely international finance. We believe that diversity and inclusion matter to our mission.</p><p>We want to work with people who can bring different perspectives rooted in their unique cultures, experiences, lifestyles, and challenges. We are committed to building a safe workplace where everyone feels empowered to bring their authentic selves.</p><p>As an employer, we want to create an accessible and inclusive experience for potential hires. Please let us know if there are any adjustments we can make to assist you during the hiring and interview process.<br></p><h3></h3><br><h3><b>WHY WORK WITH REQUEST?</b></h3><p>ð¯Being on the frontier of this new and exciting technology, you will be given a chance to lead the way forward!</p><p>ðÂ You will have the opportunity to work in a team that wants to have a lasting impact on the way we experience finance tomorrow</p><p>ðThe team is inclusive, with inspirational and international colleagues</p><p>ðÂ We all work remotely and love to meet as frequently as possible, with at least three company-wide reunions per year.</p><p>ðï¸Â Unlimited vacation days with a mandatory minimum of 20/year.</p><br/><br/>Please mention the word **DELECTABLE** and tag RMTguMjA4LjExNC41Mg== when applying to show you read the job post completely (#RMTguMjA4LjExNC41Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -144,7 +144,7 @@
 </ul>
 <p><em><span style="font-weight:400;">At Abra, we are an equal opportunity employer committed to a diverse, inclusive, and equitable workplace and candidate experience. We strive to create an environment where everyone has a sense of belonging and purpose, and where we learn from the unique experiences of those around us. </span></em></p>
 <p><em><span style="font-weight:400;">We encourage all qualified candidates to apply regardless of race, color, ancestry, religion, national origin, sexual orientation, age, citizenship, marital or family status, disability, gender, gender identity or expression, pregnancy or caregiver status, veteran status, or any other legally protected status.</span></em></p>
-</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/6T4UVH2Hhoo" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **SURREAL** and tag RNTQuMTU2LjY1LjE1OA== when applying to show you read the job post completely (#RNTQuMTU2LjY1LjE1OA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/6T4UVH2Hhoo" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **SURREAL** and tag RMTguMjA4LjExNC41Mg== when applying to show you read the job post completely (#RMTguMjA4LjExNC41Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -208,7 +208,7 @@
 <li><span style="font-weight:400;">A deep industry specialty and network are strongly preferred</span></li>
 <li><span style="font-weight:400;">An active GitHub account demonstrative of your technical abilities and interests</span></li>
 </ul>
-<p> </p><br/><br/>Please mention the word **TITILLATINGLY** and tag RNTQuMTU2LjY1LjE1OA== when applying to show you read the job post completely (#RNTQuMTU2LjY1LjE1OA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p> </p><br/><br/>Please mention the word **TITILLATINGLY** and tag RMTguMjA4LjExNC41Mg== when applying to show you read the job post completely (#RMTguMjA4LjExNC41Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -223,7 +223,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/appy-ventures-php-laravel-developer" align="right" target="_blank">Apply</a>
@@ -287,6 +287,77 @@
 </div>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/appy-ventures-php-laravel-developer">https://weworkremotely.com/remote-jobs/appy-ventures-php-laravel-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/8105/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Aldrin Labs</h5>
+                    <h3> Senior Front-End Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>5 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/aldrin-labs-senior-front-end-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0083/8105/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Lisbon, Portugal
+    <br /><strong>URL:</strong> <a href="http://aldrin.com">http://aldrin.com</a>
+</p>
+
+<div>
+<strong>Please Note: This is a fully remote position for candidates based in Europe.<br><br>About Aldrin Labs<br></strong><br>
+</div><div>Aldrin Labs is an ecosystem of DeFi products that purposefully help people achieve financial freedom. The ecosystem also includes a core GameFi product, our leading <strong>NFT and Gaming Marketplace.<br></strong><br>
+</div><div>
+<strong>The Role<br></strong><br>
+</div><div>We’re looking for a <strong>Senior Front-End Developer</strong> to develop front-end applications for Aldrin Lab´s innovative <strong>NFT and Gaming Marketplace.<br></strong><br>
+</div><div>You will:<br><br>
+</div><ul>
+<li>Build, deploy, and mature user-friendly, highly secure, maintainable, high-performance scalable interfaces, and client-facing UI systems</li>
+<li>Work closely with our product and design teams to develop new features from design to production</li>
+<li>Have an entrepreneurial spirit and bring ideas to front-end development</li>
+<li>Work effectively with a high degree of autonomy, but also enjoy working collaboratively in a team</li>
+<li>Understand the front-facing user experience of our products, and work alongside other team members to ensure that we utilize best principles/practices</li>
+<li>Design new and optimize existing systems and participate in design reviews</li>
+</ul><div>
+<br><strong>Requirements</strong>
+</div><ul>
+<li>
+<strong>5+ years</strong> of experience in front-end development</li>
+<li>
+<strong>Expertise </strong>in front end development with <strong>React</strong> with an understanding of React best practices, optimizations, and profiling</li>
+<li>Strong experience with GraphQL/Apollo/REST</li>
+<li>Verbal fluency in English</li>
+<li>Interest and enthusiasm for crypto markets, blockchain technology, decentralized finance, and the whole Web3 ecosystem</li>
+<li>Experience with <strong>TypeScript</strong>
+</li>
+<li>First-hand experience with Web3 front-end technologies and developing DeFi applications and/or FinTech applications</li>
+<li>Experience working with a large codebase and e2e testing like Cypress</li>
+<li>Knowledge building out cloud-native solutions <strong>(AWS)</strong>, is a nice to have.</li>
+</ul><div>
+<br><strong>Benefits</strong>
+</div><ul>
+<li>Competitive salary + tokens/equity</li>
+<li>100% remote working</li>
+<li>Flexible working hours</li>
+<li>Opportunity to work with a diverse, global, and passionate team</li>
+<li>Collaboration with leading projects and thought leaders in the crypto space</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/aldrin-labs-senior-front-end-developer">https://weworkremotely.com/remote-jobs/aldrin-labs-senior-front-end-developer</a></p>
 
                 </details>
                 </td>
@@ -863,7 +934,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>182 days ago</text>
+                <text>183 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-full-stack-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -924,7 +995,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>511 days ago</text>
+                <text>512 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer" align="right" target="_blank">Apply</a>
@@ -1211,7 +1282,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1562,6 +1633,62 @@
 </ul>
 <h2>&nbsp;</h2></div>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1542681228666671107/L5LYJLAD_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Timescale</h5>
+                    <h3>Senior Web Developer </h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://www.timescale.com/careers/6259705002?gh_jid=6259705002" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;h3&gt;&lt;strong&gt;General&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Timescale is looking for a React developer to join the team that builds and maintains our front-end web presence, including our public website, documentation, and blog. In this role, you’ll have complete ownership over our public-facing web properties. You’ll work closely with marketing, design, and product to implement a visually appealing site that exceeds our expectations for web traffic, performance, and conversion.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;em&gt;&amp;nbsp;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Timescale is a developer-first company. We believe in fostering a vibrant and diverse community of developers for our products. As such, we also place a high value on teamwork and collaboration. You’ll work in an organization where even the marketing people write code. We love developers and you’ll fit right in if you love developers, too.&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Collaborate with marketing and design teams to develop features, implement new pages and maintain our existing web properties&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Write production level code in Javascript with React&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Translate designs and wireframes into high-quality code&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Optimize components for maximum performance across a variety of devices and browsers&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Build proof of concepts for new ideas that we want to try out&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Contribute to our company-wide React component library and style guide&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work in a public OSS development environment on GitHub using a git workflow&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong self-driven execution, ownership, and delivery&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;4+ years of web development experience&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Advanced knowledge of React&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience building and maintaining a component library&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with the JAMStack&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Familiarity with git workflows, CI/CD, deployment processes&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Knowledge of SEO factors and techniques&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Sensitive to the smallest details of look &amp;amp; feel, user flows, and UI/UX&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience in a fast paced start-up environment&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Excellent verbal and written communication skills&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A passion for developers and nerd culture&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A belief that organizations and industries are best when they are diverse and inclusive, and a commitment to ensuring that everything we do reflects that belief&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Works well independently and remotely&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;em&gt;Req. 2358&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
                 </details>
                 </td>
             </tr></table>
