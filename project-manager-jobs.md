@@ -10,7 +10,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/university-of-virginia-senior-project-manager-for-cloud-applications" align="right" target="_blank">Apply</a>
@@ -63,7 +63,7 @@
                     <code>ADS,cloud,marketing,scrum</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/project-manager-india-1610662" align="right" target="_blank">Apply</a>
