@@ -1,48 +1,98 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/e6a5dac893d183327af364a5ef8c23b91677309409.peg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/5744/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Utopia Labs</h5>
-                    <h3>Software Engineer</h3>
+                    <h5>Contra</h5>
+                    <h3> Senior Software Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>software,web3,front-end,technical,support,javascript,health,engineer,engineering,full-time</code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-utopia-labs-199880" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/contra-senior-software-engineer-1" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><span style="font-size:24px;">ð» Engineering at Utopia Labs</span></div><div><br></div><div>We love building beautiful and powerful technology with deep impact and purpose. With almost all of our founding team having a technically-focused background from companies like Microsoft, Facebook, and Lunchclub. Utopia Labs wants you to join a group of hackers who are driven by their deep curiosity, a pursuit of technical excellence, and a passion for driving impact.</div><div><br></div><div>At Utopia Labs, we're building the tools that will support the future of governance, commerce, and work. We aim to help DAOs revolutionize the way people work, own, and interact with the world. Our engineering effort is central to that goal.</div><div><br></div><div>As a engineer with Utopia, you will help build + layout our engineering foundation and craft our product backbone. If you're interested in championing technological leadership in the web3 space, we'd love for you to apply!</div><p></p><h4>Responsibilities </h4><p></p><p></p><ul>
-<li>Participate in the initial scoping of product requirements for new features and products</li>
-<li>Developing products from designs and specifications to live deployments.</li>
-<li>Build out new features and products with the product team.</li>
-<li>Help address customer feature requests</li>
-<li>Build out prospective integrations with partners and protocols</li>
-<li>Create trustworthy user experiences by building interfaces that are simple, easy to comprehend, performant and reliable using modern tools like React, Typescript, and GraphQL</li>
-</ul><p></p><h4>Requirements</h4><p></p><p></p><ul>
-<li>Experience with Javascript + front-end frameworks such as Javascript, Typescript, NodeJS, Express, NextJS, or similar.</li>
-<li>Development experience using NodeJS, Express, NextJS, or similar</li>
-<li>Understanding of GraphQL</li>
-<li>Solid experience architecting solutions (experience in different architecture layers and components) through multiple frameworks</li>
-<li>Proficiency with Git</li>
-<li>A good understanding of CI/CD</li>
-<li>Experience developing with a test-driven mentality</li>
-</ul><p></p><h4>Nice to have</h4><p></p><p></p><ul>
-<li>Hackathon experience or competitive programming</li>
-<li>Experience contributing to open-source projects</li>
-<li>1-3+ years full-time software engineering experience</li>
-<li>Experience contributing to open-source projects</li>
-<li>Experience writing smart contracts </li>
-<li>Demonstrated interest in open and community-driven platforms.</li>
-</ul><div><span style="font-size:24px;">Perks & Benefits</span></div><div><br></div><div><span style="font-size:18px;">ð Health and wellbeing</span></div><div>We offer top-of-the-line benefits, including health, mental health, dental, and vision insurance.</div><div><br></div><div><span style="font-size:18px;">ð´ Time off</span></div><div>We want people to take time off to rest and rejuvenate. We offer a 3 week paid vacation as well as 10 observed holidays by country.</div><div><br></div><div><span style="font-size:18px;">ð£ Parental leave</span></div><div>Our parental leave policy offers biological, adoptive, and foster parents paid time off to spend quality time with family.</div><div><br></div><div><span style="font-size:18px;">ð¥ Lunch on us</span></div><div>You'll have a very generous meal budget for you to eat every day.</div><div><br></div><div><span style="font-size:18px;">ð Commuting</span></div><div>We offer monthly commuter credits.</div><div><br></div><div><br></div><div><span style="font-size:24px;">Any Questions?</span></div><div><br></div><div>Email: pryce@utopialabs.com</div><div><br></div><div>Twitter: <a href="https://twitter.com/pryceandstuff" class="postings-link" rel="noopener noreferrer nofollow">https://twitter.com/pryceandstuff</a>
-</div><div><br></div><br/><br/>Please mention the word **READABLE** and tag RMTguMjA4LjExNC41Mg== when applying to show you read the job post completely (#RMTguMjA4LjExNC41Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <img src="https://we-work-remotely.imgix.net/logos/0083/5744/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> San Francisco, CA
+    <br /><strong>URL:</strong> <a href="http://bit.ly/3kLhMdk">http://bit.ly/3kLhMdk</a>
+</p>
+
+<div>Contra is an Independent-first community and commission-free hiring platform empowering the future of work. We match Independents with flexible opportunities and Clients with the perfect Independent for any project — from content creation to coding. We strongly believe that independence isn’t just a gig, it’s a way of life.</div><div><br></div><div>Welcome to Contra! We’re an empathetic, kind, and humble team looking for Software Engineers to join us in building the Future of Work and the best community for independents. This is a full-stack role, meaning you’ll have the opportunity to contribute across our web applications and backend services, while focusing on a specific part of the stack that plays to your strengths and preferences, like Frontend or Backend.</div><div><br></div><div>Our team loves to innovate to benefit everyone and deliver a top-notch Developer Experience for our internal team: fast pipelines, great API tooling, and the like. If this environment resonates with your engineering values, we’d love to talk to you!</div><div>
+<strong><br>How you’ll add value at Contra<br></strong><br>
+</div><ul>
+<li>Contribute to our rapidly growing React and NodeJS codebases (both within our Turborepo powered monorepo and our stand-alone apps) — everything from our web application to our backend GraphQL API, to our internal services that power payments.</li>
+<li>Contribute well-tested, end-to-end TypeScript code. We are big fans of Vitest for unit testing and Playwright for end-to-end testing.</li>
+<li>Craft readable, performant, and scaleable SQL queries and database schemas to solve data modeling problems.</li>
+<li>Help improve our internal design system, codebase architecture, application performance, and Developer Experience.</li>
+<li>Participate in all parts of the product development process, like design critiques, code reviews, and cross-functional planning with your team.</li>
+</ul><div>
+<strong><br>You’ll be successful here if you<br></strong><br>
+</div><ul>
+<li>
+<strong>Mission-driven.</strong> Our mission truly resonates with you and you would like to be a part of what we are building together at Contra!</li>
+<li>
+<strong>A dedicated team player.</strong> You thrive in a collaborative, remote-only environment and you are comfortable with 8 am - 1 pm PST core hours!</li>
+<li>
+<strong>Passionate about learning.</strong> Share a genuine curiosity for learning, always eager to pick up new skills. We don’t expect everyone to know everything but you learn quickly!</li>
+<li>
+<strong>Goal oriented.</strong> Understand what you need to do in order to achieve your goals without needing all of the bells and whistles.</li>
+<li>
+<strong>Committed to trying.</strong> Have the resilience and willingness to try and try again even if you fail after a few attempts!</li>
+<li>
+<strong>Ambitious attitude.</strong> You bring a strong work ethic and contagious energy to your team as we work towards our North Star.</li>
+<li>
+<strong>Path Paver.</strong> Joining a startup you enjoy taking ownership, building out processes and documentation that might not exist to share with your team members.</li>
+</ul><div>
+<strong><br>Our stack<br></strong><br>
+</div><ul>
+<li>Backend: AlloyDB(PostgreSQL), GraphQL, GraphQL Helix, NodeJS, Redis, Temporal</li>
+<li>Data: Airbyte, DBT, Google BigQuery, Google Colab, Looker</li>
+<li>DevOps: ArgoCD, Docker, GitHub, Google Cloud Platform, Kubernetes</li>
+<li>Frameworks: NextJS</li>
+<li>Frontend: GLSL shaders, React, react-three-fiber, Relay, Stitches, styled-components, Suspense, <a href="http://three.js/">Three.js</a>
+</li>
+<li>Languages: Typescript</li>
+<li>Testing: Playwright, Vitest</li>
+<li>Tools: Chromatic, Linear, Mergify, Posthog, Slack, Stream, Turbopack, Turborepo</li>
+</ul><div>
+<strong><br>You will love Contra for our<br></strong><br>
+</div><ul>
+<li>🌎 Remote-only culture that is here to stay</li>
+<li>🍎 100% health coverage for US full-time employees, and health reimbursements for all international contractors</li>
+<li>💸 $4,000 laptop reimbursement upon starting + additional for equipment, co-working, and meetups</li>
+<li>💰 401k matching for US full-time employees</li>
+<li>💛 No-meeting Tuesdays &amp; Wednesdays</li>
+<li>👋 Generous time off</li>
+<li>👶 Flexible parental leave</li>
+<li>💁 A custom slack emoji, just for you!</li>
+</ul><div>
+<strong><br>Our interview process<br></strong><br>
+</div><ul>
+<li>Intro call (15-30 minutes)</li>
+<li>Complete a Technical assessment (2 hours maximum)</li>
+<li>Technical interview (30-45 minutes)</li>
+<li>Non-technical (culture) interview (30 minutes)</li>
+<li>Strengths-based technical interview (30-45 minutes)</li>
+<li>Cross-Functional Interview (45 minutes)</li>
+<li>High-level technical interview with CTO &amp; VPE (30-45 minutes)</li>
+</ul><div>
+<strong><br>Salary + Equity Range<br></strong><br>
+</div><ul>
+<li>$130k - $160k USD</li>
+<li>Equity Value Range: $72k - $180k USD</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/contra-senior-software-engineer-1">https://weworkremotely.com/remote-jobs/contra-senior-software-engineer-1</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -57,7 +107,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/filecloud-senior-software-engineer-cpp" align="right" target="_blank">Apply</a>
@@ -130,7 +180,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>43 days ago</text>
+                <text>44 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -172,6 +222,56 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c">https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1542681228666671107/L5LYJLAD_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Timescale</h5>
+                    <h3>Senior Software Engineer (DBaaS) </h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://www.timescale.com/careers/6652057002?gh_jid=6652057002" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Come help build the next great database cloud for developers.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We&#39;re looking for experienced DBaaS engineers to help us design, build, and maintain our fully-managed TimescaleDB database services. You should be an experienced software engineer, as well as have familiarity managing PostgreSQL or other similar relational databases in automated environments, along with the suite of reliability tools (HA, backup/restore, configuration management, etc.) that ensure a worry-free experience for users.&amp;nbsp; You will have the opportunity to work with a close-knit team, developing Golang services and features to power our platform, as well as working with our underlying Kubernetes infrastructure to ensure stability, security, and performance.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Timescale is an all-remote organization, open to candidates in all time zones. This is a full time position.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Provide customers with stable, performant, and fully-managed PostgreSQL/TimescaleDB database instances running on our cloud platform&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Design, develop, and maintain a suite of advanced DBaaS features, providing a first-class developer experience with great ease-of-use&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ensure reliable and frictionless database management, including for provisioning, reconfiguration, and software updates.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Build tooling and documentation to help customers (both internal and external) quickly address common issues the moment they arise&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Provide subject-matter expertise on PostgreSQL and TimescaleDB for internal stakeholders, including other engineering teams and technical support team&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Communicate externally the challenges and solutions for running our DBaaS at scale via blog posts, conference talks, and other mediums.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;3+ years software engineering experience in production environments&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong programming skills (we mostly use Go but are more concerned with good fundamentals)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Knowledge of how PostgreSQL works, including security, replication, backups&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience deploying, operating, and managing production-level PostgreSQL or other database systems at scale (e.g., in &quot;as-a-service&quot; environment)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with operational PostgreSQL tools for backup (pgBackrest, WAL-G)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with PostgreSQL high availability (Patroni, Stolon, pg_auto_failover), etc.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience working with Kubernetes clusters in production environments&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience writing complex SQL queries&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bonus for experience running PostgreSQL on Kubernetes&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bonus for ability to write PostgreSQL extensions extra, including in Rust&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bonus for deep knowledge of at least one major cloud provider, AWS preferred&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
                 </details>
                 </td>
             </tr></table>
