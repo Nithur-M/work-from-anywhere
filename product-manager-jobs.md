@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-remote-product-manager-needed" align="right" target="_blank">Apply</a>
@@ -108,7 +108,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/turing-machines-inc-hardware-product-manager" align="right" target="_blank">Apply</a>
@@ -150,7 +150,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>482 days ago</text>
+                <text>483 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -202,65 +202,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1542681228666671107/L5LYJLAD_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Timescale</h5>
-                    <h3>Senior Product Manager (UX), Growth Marketing (United States)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.timescale.com/careers/6574778002?gh_jid=6574778002" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Growth Marketing team at Timescale 🐯is looking for an experienced product manager to own the marketing website and its properties (including the free trial sign up flow). This is a unique role that will help transform the way we think about our website as we move into our next phase of growth. The website is a product that serves both our customers’ and business’ needs and we’re looking for someone to join the team and be the champion for it!&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This person will act as the filter for all requests from stakeholders inside and outside of marketing to develop and prioritize a quarterly and annual roadmap that includes A/B testing and optimizations to ensure the website is meeting our business goals (trial sign ups and conversions to paying customers).&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Reporting to the Senior Director of Growth Marketing you will work with a team of dotted lined front-end developers to execute on the roadmap, ensure tracking and analytics is available to make informed decisions and to share key metrics with stakeholders, that the website is properly integrated with our go-to-market technology stack, and most importantly that the website is serving the needs of our customers.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Your main responsibilities will include:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop, prioritize and maintain the product roadmap for the Marketing website and its properties (which includes the product sign up flow)&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Define requirements and work with designers, front-end web developers, and other stakeholders to identify opportunities, prioritize them, ideate on solutions, scope, test, and implement&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Prioritize the work for the team of front-end web developers that dotted line into the Growth Marketing organization&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Take the messaging ‘ingredients’ provided by the Product Marketing team to create a user experience on the Marketing website that is optimized for conversions (Tier 1 leads and trial sign ups)&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Own the conversion rate optimization and A/B testing strategy&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Become the product owner of our Web Analytics and optimization tools (Google Analytics, Google Tag Manager, Hotjar, Heap etc)&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Act as the Marketing stakeholder for all other tools that integrate into the website&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work with the content, developer advocate and product marketing teams to develop a content strategy to move website visitors through the ideal user journey&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;A little bit about you&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You put the customer first in everything you do and strive to make them successful. You are data driven, but not data dependent, and combine metrics with anecdotal data to make informed decisions. You understand developers and know what resonates with them. You see the big picture and know that the website is one piece of the user journey, and strive to understand and connect the other pieces together. You aren’t afraid to speak up and identify problem areas or share your ideas, and you want to be a part of the solution! You thrive in a bold startup environment and can balance competing priorities with ease 🙌.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Must Haves:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;7+ years of proven experience leading engineers, creating and executing on roadmaps in a B2B SaaS product management role&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience building and measuring user journey flows that move a user through the desired path (either in product or on a website)&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Have experience with A/B tests and the tools needed to support and measure them&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Previous focus on conversion rate optimization (CRO)&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Understand statistical significance, know what data you need and how to get it to measure the impact of tests&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Communicate clearly and effectively with users, engineers, designers, and internal stakeholders&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Can effectively uncover pain points, problems, and desires of users, prospects, and customers through interviews&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Want to build something from the ground up&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Are intrinsically motivated, able to self-manage work and deadlines&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A self-starter who enjoys working in a dynamic, collaborative, and high-growth environment&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Nice to Haves:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Have direct experience with a web analytics tool such as Google Analytics to understand website health, optimization/testing outcomes&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience messaging to customers and clearly demonstrating the value your product offers to encourage them to take specific actions via digital communications&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience optimizing user journeys towards customer lifetime value&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Have developed a framework to guide users throughout the funnel, helping them realize the value of their current access/stage and making it clear what they should do/buy next&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
                 </details>
                 </td>
             </tr></table>
