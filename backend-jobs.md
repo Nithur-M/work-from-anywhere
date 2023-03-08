@@ -10,7 +10,7 @@
                     <code>crypto,cryptocurrency,support,bank,java,lead,engineer,engineering,educational,backend</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-tradfi-bitcoincom-200895" align="right" target="_blank">Apply</a>
@@ -56,74 +56,7 @@
 <li>Health insurance reimbursement</li>
 <li>Wellness program (gym, etc.)</li>
 </ul>
-</div><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **EXCEPTIONAL** and tag RMTguMjA4LjExNC41Mg== when applying to show you read the job post completely (#RMTguMjA4LjExNC41Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/fe20f22ef1b6c2f31bbb3825d67cc0121677309344.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Mirror</h5>
-                    <h3>Backend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>web3,react,graphql,redis,system,strategy,health,engineer,backend</code>
-                </td>
-                <td width="200">
-                <text>10 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-mirror-199867" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>At Mirror, our mission is to use web3 technology in order to reimagine the ways people publish, read and share writing online. We are a small, passionate team with a breadth of experience that has been building in web3 for years. Together, we aspire to build products that are beautiful and intuitive, without compromising on <span class="discussion-id-dfde74bb-5410-45f6-920d-cc78543321e8 notion-enable-hover">user sovereignty</span> or decentralization.</p>
-<h3>The Company</h3>
-<p>Mirror is a web3-native publishing platform that powers a new writing ecosystem. Writers on Mirror donât just publish, they build community and fund their writing by minting their work as Writing NFTs  â collectible, minted versions of posts on Mirror. Readers on Mirror donât just consume content, they collect it and discover new writers in each otherâs collections. All of this happens within a tightly integrated web3 product that is centered around an intuitive editor that allows writers to incorporate smart contract-based economic blocks.</p>
-<p>We've raised close to $14 million from investors that include a16z Crypto, Union Square Ventures, and Variant.</p>
-<h3>Responsibilities</h3>
-<ul>
-<li>Support product development by developing our backend API</li>
-</ul>
-<h3>Requirements</h3>
-<ul>
-<li>Experience building and maintaining a production system at scale</li>
-<li>Comfortable with SQL databases</li>
-<li>Experience designing performant and well-tested GraphQL APIs</li>
-</ul>
-<h3>Nice to have</h3>
-<ul>
-<li>Degree in computer science</li>
-<li>Frontend experience (React, React Native)</li>
-<li>Web3 experience</li>
-<li>No-SQL and Redis experience</li>
-<li>Experience with monitoring tools (Honeycomb, NewRelic, ElasticSearch, etc)</li>
-</ul>
-<h3><strong>Salary Range</strong></h3>
-<ul>
-<li>$140,000 - $210,000 (based on experience)</li>
-</ul><div class="content-conclusion">
-<h3>Mirror's Benefits</h3>
-<p>Here are some of our benefits:</p>
-<ul>
-<li>Medical, dental, and vision insurance, with 80% of premiums paid by the company</li>
-<li>$3,000 work-from-home/remote office setup stipend</li>
-<li>$150/month home internet and cell phone reimbursement</li>
-<li>Healthcare Flexible Spending Account or Health Savings Account</li>
-<li>Dependent Care Flexible Spending Account</li>
-<li>Short-term and long-term disability insurance, with premiums paid by the company</li>
-<li>$50,000 life insurance and accidental death and dismemberment insurance, with premiums paid by company</li>
-<li>401(k)</li>
-<li>Flexible time off policy</li>
-<li>Three monthsâ paid baby bonding leave</li>
-<li>Remote-first teamwork with team and community members around the world</li>
-<li>Team offsites for periodic in-person collaborative strategy sessions</li>
-<li>Passionate, supportive team dedicated to learning and growing together in web3</li>
-</ul>
-</div><br/><br/>Please mention the word **COOPERATIVELY** and tag RMTguMjA4LjExNC41Mg== when applying to show you read the job post completely (#RMTguMjA4LjExNC41Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **EXCEPTIONAL** and tag ROTEuMjQwLjExOC4yNTI= when applying to show you read the job post completely (#ROTEuMjQwLjExOC4yNTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -138,7 +71,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/secfix-senior-backend-engineer-at-a-remote-seed-startup" align="right" target="_blank">Apply</a>
