@@ -1,43 +1,5 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/7587/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Jetpack Workflow</h5>
-                    <h3> Senior UX/UI Designer (Remote)</h3>
-                </td>
-                <td width="300">
-                    <code>Design</code>
-                </td>
-                <td width="200">
-                <text>10 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/jetpack-workflow-senior-ux-ui-designer-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0083/7587/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> United States
-    <br /><strong>URL:</strong> <a href="https://jetpackworkflow.com/">https://jetpackworkflow.com/</a>
-</p>
-
-<p><em>Jetpack Workflow helps thousands of accounting, bookkeeping and service firms complete their work on time. We work with small to medium sized businesses around the globe to track due dates, collaborate with each other and manage their clients.</em></p>    <p>We're working on an exciting new version of our product and need your help. You'll be joining our small but mighty Product team at Jetpack Workflow as our sole UX and Product Designer reporting to our Director of Product. Working hand in hand with product management, engineering and departments across the company, you'll help us execute on our vision of helping every firm get their recurring client work done on time.</p>    <p>We encourage you to apply if this posting resonates with you, even if you don't feel like you meet every requirement. Send us your resume, LinkedIn, Dribbble, Work Samples, Portfolio or whatever you feel best represents yourself by filling out this application.</p>    <p><i><em>Jetpack Workflow is an equal opportunity employer and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital status, veteran status, or disability status.</em></i></p>  <h3> <a class="external"></a>Day to Day</h3>  <p>Every day at Jetpack Workflow looks a little different, but here are some examples of things you might be doing day to day:</p>    <ul> <li>Work alongside our Director of Product to build out our roadmap and investigate exciting new feature concepts</li> <li>Adding new tools and applying new techniques to our design process, experimenting and learning along the way</li> <li>Taking new feature product requirements and research and creating designs for our development team to implement</li> <li>Conducting user testing and user research</li> <li>Ensuring the app's overall layout, patterns and structure is working holistically</li> <li>Supporting and reviewing new features that are in development.</li> <li>Helping us test, report visual bugs and ensuring everything is ready for our users.</li> <li>Collaborate with the development team on our design system and style guide.</li> </ul>
-<p><strong>Requirements</strong></p>
-<h3>We believe you'd be a phenomenal fit if any of these describe you:</h3>  <ul> <li>You have 5+ years of experience working on web-based B2B SaaS products in a design related role. Bonus points if you have previous experience working in a startup or have experience with products in similar domains like project management, task management or CRM software.</li> <li>You love collaborating with people in every functional area of the company</li> <li>You take pride in your work and are constantly looking for ways to improve</li> <li>You love breaking down big, complex problems into digestible parts while keeping in mind the entire system as a whole.</li> <li>You are comfortable shipping fast and iterating quickly where possible, while knowing when it's right to slow down and take more time to find the right solution</li> <li>You have an interest in mobile first design and designing for mobile. We are a mobile-first web application and we hope to produce native mobile apps in the future!</li> <li>Bonus points: you have a technical understanding of the web and web frameworks. You don't have to know how to code, but we think it really helps to know some of the constraints of the medium. We'll help you learn if you don't!</li> </ul>                <p>While this position is fully remote, we'd strongly prefer candidates who are located in a time zone that has some overlap with the US-Eastern Time zone. We are unable to sponsor work visas at this time.</p>
-<p><strong>Benefits</strong></p>
-<ul> <li>Competitive salary ($135K-$150K)</li> <li>3% 401K match program</li> <li>Equity grant options in the company</li> <li>Flexible, remote work from home working hours</li> <li>Take-what-you-need vacation and sick days</li> <li>Generous health, vision, and dental coverage</li> <li>Home Office Stipend (internet, setup, new MacBook, etc)</li> <li>Disability Insurance</li> <li>Voluntary Life Insurance </li> </ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/jetpack-workflow-senior-ux-ui-designer-remote">https://weworkremotely.com/remote-jobs/jetpack-workflow-senior-ux-ui-designer-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4150/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -48,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>482 days ago</text>
+                <text>483 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -104,6 +66,49 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1613183/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Dusseau and Company, LLC</h5>
+                    <h3>Freelance UX Designer</h3>
+                </td>
+                <td width="300">
+                    <code>ux,management,ai,automation</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/design/freelance-ux-designer-1613183" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>We are looking for a skilled and experienced Freelance UX Designer to help us create a prototype for our AI property management software. The ideal candidate will have experience in creating engaging and user-friendly, data-driven, prototypes that meet the needs of our clients and end-users. As a Freelance UX Designer, you will work closely with our development team to create a prototype for our web-based software.</p>
+<p> </p>
+<p> </p>
+<p><strong>Product Overview:</strong></p>
+<p>Our property management software is the solution for modern real estate investors who want to simplify their property management tasks and maximize their time for other priorities. Our software is designed to centralize all property management tasks in one easy-to-use platform, making it simple for owners to manage their properties in a truly passive way.</p>
+<p> </p>
+<p>With our software, owners can automate lease agreements, rent collection, maintenance orders, and more, through a user-friendly app that is accessible to all clients. Our AI technology enables the automation of repetitive tasks and provides clients with instant updates and notifications, making it easy to stay on top of all aspects of property management.</p>
+<p> </p>
+<p>Whether you are a new real estate investor looking to streamline your property management processes, or an experienced property owner who wants to focus on growing your portfolio, our software is designed to help you achieve your goals. Say goodbye to time-consuming and tedious property management tasks and hello to more free time and peace of mind. Our software is the perfect solution for anyone looking to manage their properties in a modern and efficient way.</p>
+<p> </p>
+<p> </p>
+<p><strong>The prototype will include the following features:</strong></p>
+<ol class="_listContainer_1wyhh_1" style="">
+<li style="">Messaging</li>
+<li style="">Authentication. (Manager and Tenants)</li>
+<li style="">Maintenance workflow (Request, contract accept, approval, and tracking)</li>
+<li style="">Tenant profile</li>
+<li style="">Property Dashboard</li>
+</ol>
+<img src="https://remotive.com/job/track/1613183/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/986276/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -114,7 +119,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
