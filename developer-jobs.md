@@ -10,7 +10,7 @@
                     <code>developer,crypto,front-end,back-end,full-stack,web,qa,finance,typescript,api,lead,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-full-stack-developer-request-finance-200391" align="right" target="_blank">Apply</a>
@@ -37,7 +37,7 @@
 <li align="left">Autonomous and out-of-the-box thinker</li>
 <li align="left">Optional: knowledge of Ethereum, EVM blockchains,Â <span style=""><a class="bbcode-link" href="http://ethers.js/" target="_blank" rel="noopener noreferrer nofollow">ethers.js</a></span>Â library</li>
 <li align="left">Note: you donât need to check all the boxes to applyÂ </li>
-</ul><p>At Request Finance, we are a global team building global products, for an era of truly global finance. We believe that diversity and inclusion matters to our mission.</p><p>We want to work with people who can bring different perspectives rooted in their own unique cultures, experiences, lifestyles, and challenges. We are committed to building a safe workplace where everyone feels empowered to bring their authentic selves.</p><p>As an employer, we want to create an accessible and inclusive experience for potential hires. Please let us know if there are any adjustments we can make to assist you during the hiring and interview process.</p><p><br>WHY WORK WITH REQUEST FINANCE ?</p><p>ð¯Being on the frontier of this new and exciting technology, you will be given the chance to lead the way forward!</p><p>ðÂ You will have the opportunity to work in a team that wants to have a lasting impact on the way we experience finance tomorrow</p><p>ðThe team is inclusive, with inspirational and international colleagues</p><p>ðÂ We all work remotely but we love to meet as frequently as possible, with at least 3 company-wide reunions per year where possible.</p><p>ðï¸Â Unlimited vacation days with a mandatory minimum of 20/year.</p><br/><br/>Please mention the word **LUSH** and tag ROTEuMjQwLjExOC4yNTI= when applying to show you read the job post completely (#ROTEuMjQwLjExOC4yNTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p>At Request Finance, we are a global team building global products, for an era of truly global finance. We believe that diversity and inclusion matters to our mission.</p><p>We want to work with people who can bring different perspectives rooted in their own unique cultures, experiences, lifestyles, and challenges. We are committed to building a safe workplace where everyone feels empowered to bring their authentic selves.</p><p>As an employer, we want to create an accessible and inclusive experience for potential hires. Please let us know if there are any adjustments we can make to assist you during the hiring and interview process.</p><p><br>WHY WORK WITH REQUEST FINANCE ?</p><p>ð¯Being on the frontier of this new and exciting technology, you will be given the chance to lead the way forward!</p><p>ðÂ You will have the opportunity to work in a team that wants to have a lasting impact on the way we experience finance tomorrow</p><p>ðThe team is inclusive, with inspirational and international colleagues</p><p>ðÂ We all work remotely but we love to meet as frequently as possible, with at least 3 company-wide reunions per year where possible.</p><p>ðï¸Â Unlimited vacation days with a mandatory minimum of 20/year.</p><br/><br/>Please mention the word **LUSH** and tag RMTguMjA1LjQxLjIzOQ== when applying to show you read the job post completely (#RMTguMjA1LjQxLjIzOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -52,7 +52,7 @@
                     <code>web3,developer,design,defi,crypto,back-end,full-stack,support,code,payroll,qa,financial,education,finance,nodejs,lead,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-web3-developer-request-network-200383" align="right" target="_blank">Apply</a>
@@ -83,7 +83,7 @@
 <li align="left">Previous participation in hackathons</li>
 <li align="left">Curious about new libraries and frameworks</li>
 <li align="left">Passionate about clean and well-documented code</li>
-</ul><br>***<p>At Request, we are a global team building global products for an era of genuinely international finance. We believe that diversity and inclusion matter to our mission.</p><p>We want to work with people who can bring different perspectives rooted in their unique cultures, experiences, lifestyles, and challenges. We are committed to building a safe workplace where everyone feels empowered to bring their authentic selves.</p><p>As an employer, we want to create an accessible and inclusive experience for potential hires. Please let us know if there are any adjustments we can make to assist you during the hiring and interview process.<br></p><h3></h3><br><h3><b>WHY WORK WITH REQUEST?</b></h3><p>ð¯Being on the frontier of this new and exciting technology, you will be given a chance to lead the way forward!</p><p>ðÂ You will have the opportunity to work in a team that wants to have a lasting impact on the way we experience finance tomorrow</p><p>ðThe team is inclusive, with inspirational and international colleagues</p><p>ðÂ We all work remotely and love to meet as frequently as possible, with at least three company-wide reunions per year.</p><p>ðï¸Â Unlimited vacation days with a mandatory minimum of 20/year.</p><br/><br/>Please mention the word **DELECTABLE** and tag ROTEuMjQwLjExOC4yNTI= when applying to show you read the job post completely (#ROTEuMjQwLjExOC4yNTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br>***<p>At Request, we are a global team building global products for an era of genuinely international finance. We believe that diversity and inclusion matter to our mission.</p><p>We want to work with people who can bring different perspectives rooted in their unique cultures, experiences, lifestyles, and challenges. We are committed to building a safe workplace where everyone feels empowered to bring their authentic selves.</p><p>As an employer, we want to create an accessible and inclusive experience for potential hires. Please let us know if there are any adjustments we can make to assist you during the hiring and interview process.<br></p><h3></h3><br><h3><b>WHY WORK WITH REQUEST?</b></h3><p>ð¯Being on the frontier of this new and exciting technology, you will be given a chance to lead the way forward!</p><p>ðÂ You will have the opportunity to work in a team that wants to have a lasting impact on the way we experience finance tomorrow</p><p>ðThe team is inclusive, with inspirational and international colleagues</p><p>ðÂ We all work remotely and love to meet as frequently as possible, with at least three company-wide reunions per year.</p><p>ðï¸Â Unlimited vacation days with a mandatory minimum of 20/year.</p><br/><br/>Please mention the word **DELECTABLE** and tag RMTguMjA1LjQxLjIzOQ== when applying to show you read the job post completely (#RMTguMjA1LjQxLjIzOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -98,7 +98,7 @@
                     <code>developer,defi,crypto,cryptocurrency,system,software,testing,financial,bank,cloud,strategy,management,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-quantitative-developer-abra-199868" align="right" target="_blank">Apply</a>
@@ -144,7 +144,7 @@
 </ul>
 <p><em><span style="font-weight:400;">At Abra, we are an equal opportunity employer committed to a diverse, inclusive, and equitable workplace and candidate experience. We strive to create an environment where everyone has a sense of belonging and purpose, and where we learn from the unique experiences of those around us. </span></em></p>
 <p><em><span style="font-weight:400;">We encourage all qualified candidates to apply regardless of race, color, ancestry, religion, national origin, sexual orientation, age, citizenship, marital or family status, disability, gender, gender identity or expression, pregnancy or caregiver status, veteran status, or any other legally protected status.</span></em></p>
-</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/6T4UVH2Hhoo" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **SURREAL** and tag ROTEuMjQwLjExOC4yNTI= when applying to show you read the job post completely (#ROTEuMjQwLjExOC4yNTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/6T4UVH2Hhoo" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **SURREAL** and tag RMTguMjA1LjQxLjIzOQ== when applying to show you read the job post completely (#RMTguMjA1LjQxLjIzOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -159,7 +159,7 @@
                     <code>developer,design,web3,technical,support,software,travel,voice,video,lead,engineering,educational,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-developer-advocate-swirlds-labs-199859" align="right" target="_blank">Apply</a>
@@ -208,7 +208,54 @@
 <li><span style="font-weight:400;">A deep industry specialty and network are strongly preferred</span></li>
 <li><span style="font-weight:400;">An active GitHub account demonstrative of your technical abilities and interests</span></li>
 </ul>
-<p> </p><br/><br/>Please mention the word **TITILLATINGLY** and tag ROTEuMjQwLjExOC4yNTI= when applying to show you read the job post completely (#ROTEuMjQwLjExOC4yNTI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p> </p><br/><br/>Please mention the word **TITILLATINGLY** and tag RMTguMjA1LjQxLjIzOQ== when applying to show you read the job post completely (#RMTguMjA1LjQxLjIzOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/8479/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Carb Manager</h5>
+                    <h3> Senior Software Developer</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/listings/carb-manager-senior-software-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0083/8479/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> United States
+    <br /><strong>URL:</strong> <a href="http://www.carbmanager.com">http://www.carbmanager.com</a>
+</p>
+
+<p>We are the #1 health and fitness app for people on low-carb, Keto, and other macros-focused diets, available on iOS, Android, and the web. Altogether, we've helped over 10 million people lose weight and achieve their health goals. We rate as the top health and fitness app in the iOS App Store, with a 4.8/5 rating with over 500,000 five-star reviews.</p>
+<p>Our fully remote team hails from all corners of the globe.</p>
+<h3><br></h3>
+<h3>Technology stack</h3>
+<ul> <li>Vue.js (if you are a React developer, we want you too!).</li> <li>Flutter</li> <li>GraphQL</li> <li>TypeScript</li> <li>Node.js</li> <li>Firebase</li> <li>Google Cloud Platform</li> </ul>
+<p>We are in the process of migrating our application from a Vue.js front-end to a native Flutter driven application supported by GraphQL. Retraining will be provided to all developers in the team as we move towards this goal over the next 6-8 months.</p>
+<p><strong>Requirements</strong></p>
+<p>In terms of specifics, we're looking for someone who checks most or all of these boxes:<br></p>
+<ul> <li>Fluent in modern Javascript and TypeScript</li> <li>Extensive experience in modern front-end frameworks : Vue.js / React / Angular</li> <li>NoSQL experience e.g. Firebase, MongoDB</li> <li>Experience working with Node.js</li> <li>Testing experience, including unit testing (e.g. Jest) and E2E testing (e.g. Cypress)</li> <li>At least 3 years of total software development experience</li> </ul>
+<p>In addition, here are some desirable qualifications:</p>
+<ul> <li>Prior work with a remote team</li> <li>Experience with native app development</li> <li>Background in DevOps in a cloud environment</li> <li>An interest in nutrition, health, and wellness</li> </ul>
+<p><strong>Benefits</strong></p>
+<p>We're a fun, friendly, talented group of product-minded professionals, who love shipping quality code, designing features that delight our customers, learning new technologies, sharing memes, and swapping recipes</p>
+<ul> <li>The benefits of a work-from-home lifestyle</li> <li>The energy and dynamism of a startup</li> <li>The stability of a profitable company with strong financials</li> <li>Highly competitive salary</li> <li>Generous vacation and personal days policy</li> <li>Health and wellness benefits allowance</li> <li>Fun, friendly, and talented coworkers</li> <li>The opportunity to make a positive change in lives of millions</li> </ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/carb-manager-senior-software-developer">https://weworkremotely.com/remote-jobs/carb-manager-senior-software-developer</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -302,7 +349,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/aldrin-labs-senior-front-end-developer" align="right" target="_blank">Apply</a>
@@ -373,7 +420,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -455,7 +502,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/airdao-react-native-mobile-front-end-developer" align="right" target="_blank">Apply</a>
@@ -552,7 +599,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toggl-senior-frontend-developer" align="right" target="_blank">Apply</a>
@@ -621,7 +668,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/innovation-upstream-inc-sr-frontend-developer-react-web3" align="right" target="_blank">Apply</a>
@@ -683,7 +730,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ticketsolve-senior-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -712,84 +759,13 @@
                 </td>
                 <td width="300">
                     <h5>Proxify AB</h5>
-                    <h3> Senior Flutter Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>43 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-flutter-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div><strong>The Role:</strong></div><div>
-<br>We are searching for a Senior Flutter Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
-<br><br>
-</div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
-<li>You have +3 years of experience using Flutter for Android/iOS applications and deployment on Google Play/App Store;</li>
-<li>You possess an in-depth understanding of front-end languages like HTML, CSS3, and JavaScript.</li>
-<li>You have an extensive understanding of Object Oriented programming languages like Java and C++;</li>
-<li>You are familiar with the usage of version control tools like Git, Subversion, etc. and IDEs like Android Studio, VS Code, etc.;</li>
-<li>​​You follow best practices and conventions;</li>
-<li>Responsible and able to work with minimal supervision;</li>
-<li>Upper-intermediate English level;</li>
-<li>You can communicate well with both technical and non-technical clients.</li>
-</ul><div>
-<strong><br>Nice-to-have:</strong> <br><br>
-</div><ul><li>Timezone: CET (+/- 3 hours)</li></ul><div><br></div><div>
-<strong>Responsibilities:<br></strong><br>
-</div><ul>
-<li>You will be building and shipping robust apps to Android/ iOS devices (using a single codebase);</li>
-<li>​​You will be running and designing product application features across various cross-platform devices;</li>
-<li>You will be writing readable and clear code that will be extensively documented for future use and upgrades;</li>
-<li>You will be sharing feedback and brainstorming ideas with teams to improve the development process;</li>
-<li>Stay up to date with the latest technologies.</li>
-</ul><div><br></div><div>
-<strong>What we offer:<br></strong><br>
-</div><div>💻 <strong>100% remote work</strong>: Work from anywhere.<br><br>
-</div><div>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br><br>
-</div><div>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br><br>
-</div><div>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br><br>
-</div><div>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.<br><br>
-</div><div>
-<br><br><strong>Your benefits with Proxify:<br></strong><br>
-</div><div>
-<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference.<br><br>
-</div><div> <strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.<br><br>
-</div><div> <strong>Transparency</strong>: Contracts with transparency in earnings and working hours.<br><br>
-</div><div> <strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.<br><br>
-</div><div> <strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-flutter-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-flutter-developer-long-term-job-100-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify AB</h5>
                     <h3> Senior Laravel Developer</h3>
                 </td>
                 <td width="300">
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>63 days ago</text>
+                <text>64 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-laravel-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -852,73 +828,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0067/1147/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>OperateBeyond</h5>
-                    <h3> PHP Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>513 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0067/1147/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Michigan
-    <br /><strong>URL:</strong> <a href="http://operatebeyond.com/">http://operatebeyond.com/</a>
-</p>
-
-<div><br></div><div>OperateBeyond is a fast growing technology company building web and mobile applications. We specialize in delivering top-notch user experiences paired with solid technology in non-auto vehicle software industry. Our successes come from our teamwork and mutual respect for each other’s talents and unique perspectives.<br><br>
-</div><div>
-<br>So when we say we are looking for a PHP Developer we do want want you to be an awesome back-end developer who’s dabbled with many different projects. We are looking for someone who can hold their own when when it comes to system integrations, databases, and even be interested in understanding more about user experience to help us shape amazing products.<br><br>
-</div><div>
-<strong><br>What you might do on any given day:<br></strong><br>
-</div><ul>
-<li>Work with a variety of technologies and platforms such as PHP, ZF2, ZF1, Laravel, ElasticSearch, MySQL, Vue.js, jQuery and many more technologies we may introduce<br><br>
-</li>
-<li>Collaborate with product managers and technical leads<br><br>
-</li>
-<li>Develop comprehensive use cases and test conditions<br><br>
-</li>
-<li>Take part in analysis efforts, identification, and recommendation of solutions, integration points and related implementation architecture for business usage improvements, scalability and performance.<br><br>
-</li>
-<li>Provide guidance in the form of code review, solution design, and recommended training and development plans.<br><br>
-</li>
-<li>Write unit tests, specs, integration tests, UI tests, and acceptance tests.<br><br>
-</li>
-<li>Advocate for new or improved development practices that increase craftsmanship, availability, resilience, and scalability of our solutions<br><br>
-</li>
-</ul><div>
-<strong><br>We think you’ll enjoy working with our team if you:<br></strong><br>
-</div><ul>
-<li>Bring a passion to stay on top of tech trends, experiment with and learn new technologies, participate in technology communities.<br><br>
-</li>
-<li>Can be flexible, agile, dependable, and responsive even when there are a lot of moving parts and prefer that over following rigid processes and guidelines.<br><br>
-</li>
-<li>Believe that good application development includes good testing, good documentation, and good collaboration.<br><br>
-</li>
-<li>Have great communication and reasoning skills, including the ability to make a strong case for technology choices while understanding other viewpoints and the need to find the best possible solution for everyone.<br><br>
-</li>
-<li>Have a positive yet practical attitude; You are willing to take on any task that might help take one of our products, or our company, a little further.<br><br>
-</li>
-</ul><div><br></div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer">https://weworkremotely.com/remote-jobs/operatebeyond-php-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1383531/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -929,7 +838,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -1006,7 +915,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -1032,7 +941,7 @@
                     <code>developer,seo,social media,ai</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/ai-application-developer-1608200" align="right" target="_blank">Apply</a>
@@ -1072,7 +981,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1293,7 +1202,7 @@
                     <code>developer,design,Figma</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/website-developer-1601883" align="right" target="_blank">Apply</a>
@@ -1324,7 +1233,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -1393,7 +1302,7 @@
                     <code>developer,fullstack,ui,design</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-remix-full-stack-developer-1583816" align="right" target="_blank">Apply</a>
