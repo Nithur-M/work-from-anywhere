@@ -1,6 +1,6 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/5744/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Contra</h5>
@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/contra-senior-software-engineer-1" align="right" target="_blank">Apply</a>
@@ -19,7 +19,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0083/5744/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
   <strong>Headquarters:</strong> San Francisco, CA
@@ -107,7 +107,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/filecloud-senior-software-engineer-cpp" align="right" target="_blank">Apply</a>
@@ -173,6 +173,118 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
+                    <h5>LeadSimple, Inc.</h5>
+                    <h3> Senior Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-senior-software-engineer-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Washington State, U.S.A.
+    <br /><strong>URL:</strong> <a href="https://www.leadsimple.com/careers">https://www.leadsimple.com/careers</a>
+</p>
+
+<div>🚀 Want to join a team of A-players in an exciting, high-growth, entrepreneurial environment?</div><div><br></div><div><strong>LeadSimple is a small team solving big problems in the property management industry. Bootstrapped since 2013, we're passionate about helping small businesses grow sustainably.</strong></div><div><br></div><div>Our software provides a powerful foundation for any property management company to take their business to the next level. Thousands of property managers rely on us for their day-to-day operations and we’re only getting started. </div><div><br></div><div>We’re looking for seasoned Senior and Lead Ruby on Rails Engineers to join our fully-remote team to help us scale to meet market demand. This is an opportunity to join on the ground floor of a bootstrapped, growing company with a lot of upside.</div><div><br></div><div><strong>What we’d want you to do:</strong></div><div><br></div><ul>
+<li>Assist with complex migration projects, such as:</li>
+<li>Modernizing our back-end stack (we’re currently on Rails 4)</li>
+<li>Optimizing our API and PostgreSQL database for scale and performance</li>
+<li>Suggest and implement scalability improvements</li>
+<li>Collaborate with the rest of the team in weekly meetings, chat and code reviews</li>
+<li>Develop new full-stack features from start to finish using the <a href="https://basecamp.com/shapeup/webbook">Shape Up method</a>
+</li>
+<li>Write high-quality and maintainable Ruby and Typescript code</li>
+</ul><div><br></div><div><strong>Qualifications</strong></div><div><br></div><div><em>Must have</em></div><ul>
+<li>5+ years of experience with Ruby on Rails</li>
+<li>Fluent spoken and written English at a professional level.</li>
+<li>Working hours must overlap with PST for at least 3 hours.</li>
+<li>Familiarity with PostgreSQL query optimization and scaling strategies</li>
+<li>Strong analytical and debugging skills</li>
+<li>Strong communication skills, able to recommend decisions using data and experience</li>
+</ul><div><br></div><div><em>Nice to have</em></div><ul>
+<li>Prior experience upgrading Ruby on Rails (this would be a big plus!)</li>
+<li>React, Typescript or GraphQL experience</li>
+<li>Elixir experience (we have 1 service using Elixir)</li>
+</ul><div><br></div><div><strong>Our Stack</strong></div><div><br></div><div><em>Front-end</em></div><ul>
+<li><a href="https://www.typescriptlang.org/">Typescript</a></li>
+<li>
+<a href="https://reactjs.org/">React</a> </li>
+<li><a href="http://mui.com/">MaterialUI</a></li>
+<li>
+<a href="https://relay.dev/">Relay<br></a><br>
+</li>
+</ul><div>
+<em>Back-end<br></em><br>
+</div><ul>
+<li>
+<a href="http://rubyonrails.org/">Ruby on Rails</a> monolith (with 95% test coverage)</li>
+<li>GraphQL (via <a href="https://graphql-ruby.org/">graphql-ruby</a> gem)</li>
+<li>Sidekiq</li>
+<li>PostgreSQL</li>
+<li>Redis</li>
+<li>Heroku<br><br>
+</li>
+</ul><div><br></div><div>
+<strong>What it’s like to work here<br></strong><br>
+</div><ul>
+<li>You’ll have opportunities to work on the entire stack, from databases to user interfaces and everything in between, in a wide variety of product areas.</li>
+<li>You’ll own the delivery of high-impact projects that affect real customers, from start to finish, with no bureaucracy, following the <a href="https://basecamp.com/shapeup/webbook">Shape Up method</a>. </li>
+<li>You’ll collaborate within a small, highly productive team, reviewing code and helping other engineers with their roadblocks.</li>
+<li>You’ll have time to focus. We don’t micromanage, and we do our best to keep distractions (and meetings) to a minimum. </li>
+<li>When assigned to on-call duty, you’ll investigate and fix bugs and respond to incidents. </li>
+<li>You’ll deploy early and often. We ship to production multiple times per day.<br><br>
+</li>
+</ul><div>
+<strong><br>Benefits<br></strong><br>
+</div><ul>
+<li>Remote-only team, location independent</li>
+<li>3rd Friday of every month off</li>
+<li>6 US Holidays</li>
+<li>3 Weeks Paid Time Off (in addition to the above)</li>
+<li>Quarterly Two-Week Hackathons</li>
+<li>Monthly Healthcare Allowance</li>
+<li>Yearly Vacation Allowance</li>
+<li>$2000 equipment stipend upon hire</li>
+<li>Focused and dedicated environment with smart, caring people</li>
+<li>Consistent, but flexible working schedule with minimum 3hr Pacific Time Zone overlap</li>
+<li>Mission driven, non-political company and values-based culture<br><br>
+</li>
+</ul><div>
+<strong>Our Interview Process<br></strong><br>
+</div><ul>
+<li>Fill out our application, located <a href="https://docs.google.com/forms/d/e/1FAIpQLSeF5zo6hIcTQK8gP9LLGz6sTZMXGI1vDHPVbkpISxiy9CvOfQ/viewform?usp=sf_link">here</a>
+</li>
+<li>Intro call (30 minutes)</li>
+<li>Offline work sample test (up to 60 minutes)</li>
+<li>Work history interview with Hiring Manager (up to 90 minutes)</li>
+<li>Culture interview with People Operations<strong> </strong>(30 minutes)</li>
+<li>Meet the CTO<strong> </strong>(30 minutes)</li>
+<li>Meet the CEO (30 minutes)</li>
+<li>Offer call (15 minutes), followed by a written offer</li>
+<li>If you accept the offer, you enter a 90-day trial period, fully paid.</li>
+<li>If all goes well in your first 90 days, you convert to a full-time team member!</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-senior-software-engineer-2">https://weworkremotely.com/remote-jobs/leadsimple-inc-senior-software-engineer-2</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
                     <h5>Sticker Mule</h5>
                     <h3> Software Engineer (C++)</h3>
                 </td>
@@ -180,7 +292,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>44 days ago</text>
+                <text>45 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -272,6 +384,173 @@
 &lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bonus for deep knowledge of at least one major cloud provider, AWS preferred&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1428393724527190022/4mt5PACL_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sourcegraph</h5>
+                    <h3>Software Engineer - Code Intelligence</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/sourcegraph91/jobs/4811420004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
+<h2><strong>Who we are</strong></h2>
+<p><span style="font-weight: 400;">Our mission at Sourcegraph is to make it so that </span><a href="https://handbook.sourcegraph.com/strategy-goals/strategy"><span style="font-weight: 400;">everyone can code</span></a><span style="font-weight: 400;">, not just ~0.1% of the population. Our code intelligence platform helps developers and </span><a href="https://about.sourcegraph.com/customers/"><span style="font-weight: 400;">companies</span></a><span style="font-weight: 400;"> with billions of lines of code create the software you use every day. By enabling more people to code, we believe we will create economic opportunity across the world and will drive progress that benefits everyone.</span></p>
+<p><span style="font-weight: 400;">It’s an exciting time to join Sourcegraph. Our business is growing rapidly: we’ve experienced exponential growth and our </span><a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/"><span style="font-weight: 400;">$125M Series D from Andreessen Horowitz</span></a><span style="font-weight: 400;"> and </span><a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"><span style="font-weight: 400;">$50M Series C from Sequoia</span></a><span style="font-weight: 400;"> have given us the opportunity to make big ambitious bets on our future. We have a huge market (every company that builds software) and massive opportunity (most developers haven't even heard of code intelligence yet, but once you've used it, you can't live without it--just like Google). By continuing to hire exceptional people, we have the opportunity to make Sourcegraph one of the biggest technology companies in the world. </span></p></div>
+
+    <h2><strong>Working hours</strong></h2>
+<p><span style="font-weight: 400;">Given that we are an all-remote company and hire </span><a href="https://handbook.sourcegraph.com/departments/people-ops/process/how-we-engage-talent-outside-the-us/"><span style="font-weight: 400;">almost anywhere</span></a><span style="font-weight: 400;"> in the world, we don’t have a location requirement for this role. However, your working hours must overlap with EST</span><span style="font-weight: 400;"> </span><span style="font-weight: 400;">for at least 10 hours/week.</span></p>
+<h2><strong>Why this job is exciting</strong></h2>
+<p><span style="font-weight: 400;">The</span><a href="https://about.sourcegraph.com/handbook/engineering/code-intelligence"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Code Intelligence</span></a><span style="font-weight: 400;"> team is building compiler-accurate cross-repository IDE level navigation in multiple languages, with an in-house focus on the JVM/C++/.NET/JS/Go/Ruby/Python/Rust ecosystems. Our go to definition and find references functionality helps engineers understand and navigate their code and dependencies as quickly as possible.&nbsp; Teams and product verticals within Sourcegraph are able to use Code Intelligence data to enhance or provide a deep technical moat to their offerings.&nbsp; Through this foundation many exciting avenues and innovations are spawned (dependency graph, global monorepo, security use cases, IDE navigation without local compilation).</span></p>
+<p><span style="font-weight: 400;">Our vision is to expand and support 40+ programming languages and build the global graph of open source code.&nbsp; We believe that we’re only just scratching the surface of what is possible within Code Intelligence.</span></p>
+<p><span style="font-weight: 400;">As a software engineer, you'll iterate on our customer experience, improve our language specific tooling and be an influential part of helping us build the global graph of code.</span></p>
+<p><span style="font-weight: 400;">Join us to bring IDE-like navigation to 40+ programming languages.&nbsp; As part of this team, you’ll have the opportunity to specialize as we grow. From creating intuitive language specific tooling through to working on low level compiler plugins, scaling our API with terabytes of data and launching innovative features.</span></p>
+<p><span style="font-weight: 400;">Within one month, you will…</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Be actively contributing to one of our supported </span><a href="https://docs.sourcegraph.com/code_navigation/references/indexers"><span style="font-weight: 400;">language indexers</span></a><span style="font-weight: 400;">.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Work closely with your teammates to understand the technical rationale behind our indexing format </span><a href="https://about.sourcegraph.com/blog/announcing-scip"><span style="font-weight: 400;">SCIP</span></a><span style="font-weight: 400;">.</span></li>
+</ul>
+<p><span style="font-weight: 400;">Within three months, you will…</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Directly be owning the development or maintenance of a SCIP language indexer. Collaborate with engineers on different teams, and sometimes with our customers, to define the ideal APIs needed to deliver on the desired user experience.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Actively shape the direction and participate in the planning of the features we're going to build, e.g. by writing and reviewing </span><a href="https://handbook.sourcegraph.com/departments/engineering/job-fair/#pr-faqs"><span style="font-weight: 400;">PR-FAQs</span></a><span style="font-weight: 400;">.</span></li>
+</ul>
+<p><span style="font-weight: 400;">Within six months, you will…</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Driving significant features such as cross-language precise navigation, dependency graph analysis or auto-inference of how to build and compile customer projects automatically.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Evangelize and iterate on the SCIP protocol, our docs and community contributions to drive SCIP forward as a global standard.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Make a significant impact by being a key contributor and help us improve our existing engineering practices.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Feel confident working more autonomously, leaning into our values, especially customer-driven, teamwork and high agency.</span></li>
+</ul>
+<h2><strong>About you&nbsp;</strong></h2>
+<p><span style="font-weight: 400;">You are an experienced and visionary customer-driven software engineer who works from a place of compassion and curiosity. You find joy in solving complex problems in the code intelligence space. You are strongly aligned with </span><a href="https://handbook.sourcegraph.com/company-info-and-process/values/"><span style="font-weight: 400;">our values</span></a><span style="font-weight: 400;">, inspired by our mission to make it so that everyone can code, and motivated to do your best work at Sourcegraph.</span></p>
+<p><span style="font-weight: 400;">Qualifications:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Strong experience developing and maintaining language tooling, such as compilers, build tools, static/semantic analysis or language servers.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Deep knowledge in at least one language ecosystem of JVM/.NET or C++.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ability to work effectively across multiple languages with and without prior experience.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You can communicate clearly and empathetically, especially in writing and documentation.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have experience creating high quality software balanced with a pragmatic understanding of how to make appropriate tradeoffs.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You are customer-oriented and a relationship builder.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You share </span><a href="https://handbook.sourcegraph.com/company-info-and-process/values/"><span style="font-weight: 400;">our values</span></a><span style="font-weight: 400;">, and work in accordance with those values.</span></li>
+</ul>
+<h2><strong>Level</strong></h2>
+<p><span style="font-weight: 400;">This job is an IC5. You can read more about </span><a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/leveling-guide/"><span style="font-weight: 400;">our job leveling philosophy</span></a><span style="font-weight: 400;"> in our Handbook.</span></p>
+<h2><strong>Compensation</strong></h2>
+<p><strong>We pay you an above-average salary</strong><span style="font-weight: 400;"> because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. You will have the flexibility to work and live anywhere in the world</span><em><span style="font-weight: 400;"> (unless specified otherwise in the job description)</span></em><span style="font-weight: 400;">, and we’ll never take your location or current/past salary information into account when determining your compensation.&nbsp; As an </span><a href="https://handbook.sourcegraph.com/company-info-and-process/values/#sts=Open%20and%20transparent"><span style="font-weight: 400;">open and transparent </span></a><span style="font-weight: 400;">company that values equitable and competitive compensation for everyone, we are working hard to make our compensation ranges visible across the board. To determine your salary, we use a number of market and data-driven salary sources and target the high-end of the range, ensuring that we’re always paying above market regardless of where you live.&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">The target compensation for this role is $225,000 USD base.</span></p>
+<p><span style="font-weight: 400;">In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous </span><a href="https://handbook.sourcegraph.com/benefits-pay-perks/benefits-perks/"><span style="font-weight: 400;">perks &amp; benefits</span></a><span style="font-weight: 400;">.</span></p>
+<h2><strong>Interview process</strong></h2>
+<p><em><span style="font-weight: 400;">Below is the interview process you can expect for this role (you can read more about</span></em><a href="https://handbook.sourcegraph.com/talent/types_of_interviews"><em><span style="font-weight: 400;"> </span></em><em><span style="font-weight: 400;">the types of interviews</span></em></a><em><span style="font-weight: 400;"> in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!</span></em></p>
+<ul>
+<li style="font-weight: 400;"><strong>Intro Conversation Stage</strong><span style="font-weight: 400;"> - we have initial conversations to get to know you better…</span></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/interview_process/#sts=The%20recruiter%20screen"><span style="font-weight: 400;">Recruiter Screen</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#hiring-manager-screen"><span style="font-weight: 400;">Hiring Manager Screen</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive"><span style="font-weight: 400;">Resume Deep Dive</span></a></li>
+</ul>
+<li style="font-weight: 400;"><strong>Team Interview Stage</strong><span style="font-weight: 400;"> - we then delve into your experience in more depth and introduce you to members of the team…</span></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[45m]</span><a href="https://handbook.sourcegraph.com/departments/engineering/teams/code-intelligence/code-walkthrough/"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Technical Interview - Code Walkthrough</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[60m]</span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process/#architecture"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Working Session - Architecture</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[45m]</span><a href="https://handbook.sourcegraph.com/departments/talent/process/types_of_interviews#cross-functional-team-collaboration-interview"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Cross-functional Team Collaboration interview</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+</ul>
+<li style="font-weight: 400;"><strong>Final Interview Stage </strong><span style="font-weight: 400;">- we move you to our final round, where you meet cross-functional partners and gain a better understanding of our business and values holistically…</span></li>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30 min]</span><a href="https://handbook.sourcegraph.com/departments/talent/process/evaluating_values"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Values interview</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30 min]</span><a href="https://handbook.sourcegraph.com/departments/talent/process/types_of_interviews#leadership-interview"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Leadership Interview</span></a><span style="font-weight: 400;"> - Quinn Slack, CEO</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">We check references &amp; make you an offer!</span></li>
+</ul>
+</ul>
+<p><span style="font-weight: 400;">And that’s it! Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.</span></p>
+
+    
+
+    <div class="content-conclusion"><h2><strong>Not sure if this is you?</strong></h2>
+<p><span style="font-weight: 400;">We want a diverse, global team, with a broad range of experience and perspectives. If this job sounds great, but you’re not sure if you qualify, apply anyway! We carefully consider every application, and will either move forward with you, find another team that might be a better fit, keep in touch for future opportunities, or thank you for your time.</span></p>
+<h2><strong>Learn more about us</strong></h2>
+<p><span style="font-weight: 400;">To create a product that serves the needs of all developers, we are building a diverse </span><a href="https://handbook.sourcegraph.com/company-info-and-process/remote"><span style="font-weight: 400;">all-remote team</span></a><span style="font-weight: 400;"> that is </span><a href="https://handbook.sourcegraph.com/team"><span style="font-weight: 400;">distributed across the world</span></a><span style="font-weight: 400;">. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We provide </span><a href="https://about.sourcegraph.com/handbook/people-ops/compensation"><span style="font-weight: 400;">competitive compensation</span></a><span style="font-weight: 400;"> and </span><a href="https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks"><span style="font-weight: 400;">practical benefits</span></a><span style="font-weight: 400;"> to keep you happy and healthy so that you can do your best work.&nbsp;</span><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Learn more about what it is like to work at Sourcegraph by reading </span><a href="https://about.sourcegraph.com/handbook/"><span style="font-weight: 400;">our handbook</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process.</span></p>
+<p><span style="font-weight: 400;">Go back to the </span><a href="https://about.sourcegraph.com/jobs/"><span style="font-weight: 400;">careers page</span></a><span style="font-weight: 400;"> for all open positions.</span></p>
+<p>&nbsp;</p>
+<p><em><span style="font-weight: 400;">Sourcegraph participates in <a href="https://handbook.sourcegraph.com/departments/people-talent/e-verify/" target="_blank">E-Verify</a> for U.S. Employees</span></em></p></div>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/378800000147745937/0fac42c12b433bbbd53ff3e15cd6fca4_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>MixRank</h5>
+                    <h3>Software Engineer - Remote (Global), Full-Time</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://www.ycombinator.com/companies/mixrank/jobs/35HrJ61-software-engineer-remote-global-full-time" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>MixRank processes petabytes of data every month from web crawls, Google Play Store, Apple App Store, social media, and dozens of other sources. We have hundreds of customers using our data products including Google, Amazon, Facebook, Intel, and Adobe, across industries Sales, Marketing, Finance, and Security.</p>
+<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
+<p>We're hiring generalist software engineers to work on web applications, data mining, machine learning/data science, data transformation/ETL, data modeling, database scaling, infrastructure, devops, and more. We'll cater the role to whatever subset of these areas match your interests.</p>
+<p>Beneficial experience includes PostgreSQL, Python, Linux, TypeScript, Nix, frontend/backend web development, and data mining.</p>
+<p>Why Join MixRank? Fully-remote, no HQ office. Team of 31 people across US, CA, MX, CR, CO, BR, IN, UK, NO, RU, KZ, BD. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
+<p>Please include your updated resume when applying for this role.</p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/378800000147745937/0fac42c12b433bbbd53ff3e15cd6fca4_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>MixRank</h5>
+                    <h3>Junior Software Engineer - Remote (Global), Full-Time</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://www.ycombinator.com/companies/mixrank/jobs/WdgITmW-junior-software-engineer-remote-global-full-time" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
+<p>We're looking for remote engineers that have finished school within the last 2 years or will finish in the next 6 months. This is an open-ended entry-level role with mentorship, and diverse opportunities to work on all areas of our product: databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
+<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
+<p>Why Join MixRank? Fully-remote, no HQ office. Team of 31 people across US, CA, MX, CO, CR, IN, UK, NO, RU, KZ, BD, AT. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
+<p>Please include your updated resume when applying for this role.</p>
+
                 </details>
                 </td>
             </tr></table>
