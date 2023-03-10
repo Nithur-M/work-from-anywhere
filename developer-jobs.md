@@ -10,7 +10,7 @@
                     <code>developer,crypto,front-end,back-end,full-stack,web,qa,finance,typescript,api,lead,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-full-stack-developer-request-finance-200391" align="right" target="_blank">Apply</a>
@@ -37,7 +37,7 @@
 <li align="left">Autonomous and out-of-the-box thinker</li>
 <li align="left">Optional: knowledge of Ethereum, EVM blockchains,Â <span style=""><a class="bbcode-link" href="http://ethers.js/" target="_blank" rel="noopener noreferrer nofollow">ethers.js</a></span>Â library</li>
 <li align="left">Note: you donât need to check all the boxes to applyÂ </li>
-</ul><p>At Request Finance, we are a global team building global products, for an era of truly global finance. We believe that diversity and inclusion matters to our mission.</p><p>We want to work with people who can bring different perspectives rooted in their own unique cultures, experiences, lifestyles, and challenges. We are committed to building a safe workplace where everyone feels empowered to bring their authentic selves.</p><p>As an employer, we want to create an accessible and inclusive experience for potential hires. Please let us know if there are any adjustments we can make to assist you during the hiring and interview process.</p><p><br>WHY WORK WITH REQUEST FINANCE ?</p><p>ð¯Being on the frontier of this new and exciting technology, you will be given the chance to lead the way forward!</p><p>ðÂ You will have the opportunity to work in a team that wants to have a lasting impact on the way we experience finance tomorrow</p><p>ðThe team is inclusive, with inspirational and international colleagues</p><p>ðÂ We all work remotely but we love to meet as frequently as possible, with at least 3 company-wide reunions per year where possible.</p><p>ðï¸Â Unlimited vacation days with a mandatory minimum of 20/year.</p><br/><br/>Please mention the word **LUSH** and tag RMTguMjA1LjQxLjIzOQ== when applying to show you read the job post completely (#RMTguMjA1LjQxLjIzOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p>At Request Finance, we are a global team building global products, for an era of truly global finance. We believe that diversity and inclusion matters to our mission.</p><p>We want to work with people who can bring different perspectives rooted in their own unique cultures, experiences, lifestyles, and challenges. We are committed to building a safe workplace where everyone feels empowered to bring their authentic selves.</p><p>As an employer, we want to create an accessible and inclusive experience for potential hires. Please let us know if there are any adjustments we can make to assist you during the hiring and interview process.</p><p><br>WHY WORK WITH REQUEST FINANCE ?</p><p>ð¯Being on the frontier of this new and exciting technology, you will be given the chance to lead the way forward!</p><p>ðÂ You will have the opportunity to work in a team that wants to have a lasting impact on the way we experience finance tomorrow</p><p>ðThe team is inclusive, with inspirational and international colleagues</p><p>ðÂ We all work remotely but we love to meet as frequently as possible, with at least 3 company-wide reunions per year where possible.</p><p>ðï¸Â Unlimited vacation days with a mandatory minimum of 20/year.</p><br/><br/>Please mention the word **LUSH** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -52,7 +52,7 @@
                     <code>web3,developer,design,defi,crypto,back-end,full-stack,support,code,payroll,qa,financial,education,finance,nodejs,lead,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-web3-developer-request-network-200383" align="right" target="_blank">Apply</a>
@@ -83,7 +83,7 @@
 <li align="left">Previous participation in hackathons</li>
 <li align="left">Curious about new libraries and frameworks</li>
 <li align="left">Passionate about clean and well-documented code</li>
-</ul><br>***<p>At Request, we are a global team building global products for an era of genuinely international finance. We believe that diversity and inclusion matter to our mission.</p><p>We want to work with people who can bring different perspectives rooted in their unique cultures, experiences, lifestyles, and challenges. We are committed to building a safe workplace where everyone feels empowered to bring their authentic selves.</p><p>As an employer, we want to create an accessible and inclusive experience for potential hires. Please let us know if there are any adjustments we can make to assist you during the hiring and interview process.<br></p><h3></h3><br><h3><b>WHY WORK WITH REQUEST?</b></h3><p>ð¯Being on the frontier of this new and exciting technology, you will be given a chance to lead the way forward!</p><p>ðÂ You will have the opportunity to work in a team that wants to have a lasting impact on the way we experience finance tomorrow</p><p>ðThe team is inclusive, with inspirational and international colleagues</p><p>ðÂ We all work remotely and love to meet as frequently as possible, with at least three company-wide reunions per year.</p><p>ðï¸Â Unlimited vacation days with a mandatory minimum of 20/year.</p><br/><br/>Please mention the word **DELECTABLE** and tag RMTguMjA1LjQxLjIzOQ== when applying to show you read the job post completely (#RMTguMjA1LjQxLjIzOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br>***<p>At Request, we are a global team building global products for an era of genuinely international finance. We believe that diversity and inclusion matter to our mission.</p><p>We want to work with people who can bring different perspectives rooted in their unique cultures, experiences, lifestyles, and challenges. We are committed to building a safe workplace where everyone feels empowered to bring their authentic selves.</p><p>As an employer, we want to create an accessible and inclusive experience for potential hires. Please let us know if there are any adjustments we can make to assist you during the hiring and interview process.<br></p><h3></h3><br><h3><b>WHY WORK WITH REQUEST?</b></h3><p>ð¯Being on the frontier of this new and exciting technology, you will be given a chance to lead the way forward!</p><p>ðÂ You will have the opportunity to work in a team that wants to have a lasting impact on the way we experience finance tomorrow</p><p>ðThe team is inclusive, with inspirational and international colleagues</p><p>ðÂ We all work remotely and love to meet as frequently as possible, with at least three company-wide reunions per year.</p><p>ðï¸Â Unlimited vacation days with a mandatory minimum of 20/year.</p><br/><br/>Please mention the word **DELECTABLE** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -98,7 +98,7 @@
                     <code>developer,defi,crypto,cryptocurrency,system,software,testing,financial,bank,cloud,strategy,management,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-quantitative-developer-abra-199868" align="right" target="_blank">Apply</a>
@@ -144,71 +144,51 @@
 </ul>
 <p><em><span style="font-weight:400;">At Abra, we are an equal opportunity employer committed to a diverse, inclusive, and equitable workplace and candidate experience. We strive to create an environment where everyone has a sense of belonging and purpose, and where we learn from the unique experiences of those around us. </span></em></p>
 <p><em><span style="font-weight:400;">We encourage all qualified candidates to apply regardless of race, color, ancestry, religion, national origin, sexual orientation, age, citizenship, marital or family status, disability, gender, gender identity or expression, pregnancy or caregiver status, veteran status, or any other legally protected status.</span></em></p>
-</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/6T4UVH2Hhoo" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **SURREAL** and tag RMTguMjA1LjQxLjIzOQ== when applying to show you read the job post completely (#RMTguMjA1LjQxLjIzOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/6T4UVH2Hhoo" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **SURREAL** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/da58098904f286ff6dc158b0c30af0a51677309322.peg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/8522/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Swirlds Labs</h5>
-                    <h3>Developer Advocate</h3>
+                    <h5>Kickserv</h5>
+                    <h3> Senior Mobile Developer (React Native)</h3>
                 </td>
                 <td width="300">
-                    <code>developer,design,web3,technical,support,software,travel,voice,video,lead,engineering,educational,digital nomad</code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-developer-advocate-swirlds-labs-199859" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/kickserv-senior-mobile-developer-react-native" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="p-rich_text_section"><strong>About Swirlds Labs:</strong></div>
-<div class="p-rich_text_section">
-<p>Swirlds Labs was established with the mission to accelerate the future, built on Hedera â the most used, greenest, enterprise-grade public ledger for the decentralized economy. Our vision is to enable âShared Worldsâ, where anyone can gather, collaborate, conduct commerce, and control their own online footprint. We will enable this vision by continuing to provide development and other support for the Hedera network, building community and enterprise solutions that enable fast, rapidly scalable adoption of Hedera network services, and cultivating âmoonshotâ projects that will change the way humans and organizations interact in cyberspace.</p>
-</div>
-<p><strong>You may find yourself doing all of the following:</strong></p>
-<p><span style="font-weight:400;">As a Developer Advocate for Swirlds Labs, your job is to be on the edge of the newest developments in Hedera and in the overall web3/blockchain ecosystem. You will stay updated on the innovative use cases of decentralized networks for a variety of industries, including crypto, DeFi, NFTs, Metaverse, enterprise banking, gaming, sustainability, and many others. You will then use that knowledge to empower the Hedera Council members, clients, pre-sales leaders, developer community, and other partners with the ability to build innovative decentralized applications using Hedera as the best-in-class public distributed ledger. You will lead learning and project planning workshops and also provide in-depth knowledge of the Hedera technology stack in support of live deployments, events, and technical discussions. You will also play an important role in representing the voice of the partners and developers in the community to ultimately improve the Hedera network. This role is great for people with technical aptitude and an entrepreneurial spirit who want to make a difference in evolving the web3 industry together with amazing technical talent.</span></p>
-<ul>
-<li><span style="font-weight:400;">Being the technical Hedera product expert empowering others to build on Hedera</span></li>
-<li><span style="font-weight:400;">Staying updated on the latest developments in the blockchain ecosystem and sharing this knowledge both internally and externally</span></li>
-<li><span style="font-weight:400;">Understanding developer user journeys and enabling newcomers to participate in the ecosystem</span></li>
-<li><span style="font-weight:400;">Working with the product and engineering teams to deliver the feedback and design future Hedera improvements through Hedera Improvement Proposals</span></li>
-<li><span style="font-weight:400;">Defining industry and use case best practices</span></li>
-<li><span style="font-weight:400;">Delivering successful partner and end-customer workshops</span></li>
-<li><span style="font-weight:400;">Engaging and enabling developers through social media channels</span></li>
-<li><span style="font-weight:400;">Participating in and recording educational podcasts and video tutorials</span></li>
-<li><span style="font-weight:400;">Speaking at technical meetups and conferences</span></li>
+                <img src="https://we-work-remotely.imgix.net/logos/0083/8522/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Nashville, TN
+    <br /><strong>URL:</strong> <a href="https://kickserv.com">https://kickserv.com</a>
+</p>
+
+<div>Kickserv is looking for an experienced React Native mobile developer to take charge of our React Native mobile field service application. You will be the first member of our all-new mobile team. You'll set the standard for our app, and help recruit and lead others to fill out the team in the near future.</div><ul>
+<li>Work with our product team to plan and build new features—both for parity with our web application, and new mobile-first functionality.</li>
+<li>Maintain a high standard of excellence, fixing bugs, keeping dependencies up to date, and shipping releases on a roughly two-week cycle.</li>
+<li>Help develop our next-generation REST API for which your app will be the first client—along with our new React web UI.</li>
+<li>As a valued member of a small, close-knit team, you’ll work closely with the web developers—participating in standups and refinement sessions, pairing with others, and participating in our support / QA / on-call engineer rotation (approximately once every 12 weeks).</li>
+</ul><div><strong><br>More about you:</strong></div><ul>
+<li>You have at least 3 years' experience building, shipping, and maintaining a cross-platform production mobile application with a significant user base.</li>
+<li>React Native is your bread and butter, but you’re familiar with the nuances of both iOS and Android. Experience developing natively in either platform is a plus.</li>
+<li>You’ve been a team leader or are interested in growing into a leadership position, guiding and mentoring more junior developers.</li>
+<li>Knowledge and experience with the field service industry is always a plus.</li>
 </ul>
-<p><strong>Qualification Requirements:</strong></p>
-<p><span style="font-weight:400;">A Developer Advocate should be able to lean on his or her vast technical knowledge, extensive experience, and general engineering prowess to effectively assist projects and make suggestions or recommendations for improvements.</span></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Solid and diverse engineering skills, with a finger on the pulse of current development technologies across several platforms</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience developing decentralized applications on public or private networks, especially using EVM-compatible networks</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience using web3 development tools: Hardhat, Truffle, Open Zeppelin, etc.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Friendly and approachable; a great mentor</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Willingness to travel anywhere our communities live a few times every quarter</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Ability to work irregular hours and some weekends to support conferences, user groups, and other developer events</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Entrepreneurial thinking and the ability to act effectively with only high-level direction</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Very social, a willingness and desire to make connections while meeting and talking with people</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Strong English verbal and written communication skills</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Ability to work independently</span></li>
-</ul>
-<p><strong>Other skills that are great to bring with you but that we can help you develop:</strong></p>
-<ul>
-<li><span style="font-weight:400;">Existing skills working with systems integrators and major enterprise software vendors</span></li>
-<li><span style="font-weight:400;">Existing leadership and service in developer communities</span></li>
-<li><span style="font-weight:400;">Technical writing skills as demonstrated via blog posts and other written work</span></li>
-<li><span style="font-weight:400;">Willingness to take the stage is essential for inspiring developers. A Developer Advocate needs to deliver presentations that are effective and respectful of an audience's time and attention</span></li>
-<li><span style="font-weight:400;">A deep industry specialty and network are strongly preferred</span></li>
-<li><span style="font-weight:400;">An active GitHub account demonstrative of your technical abilities and interests</span></li>
-</ul>
-<p> </p><br/><br/>Please mention the word **TITILLATINGLY** and tag RMTguMjA1LjQxLjIzOQ== when applying to show you read the job post completely (#RMTguMjA1LjQxLjIzOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/kickserv-senior-mobile-developer-react-native">https://weworkremotely.com/remote-jobs/kickserv-senior-mobile-developer-react-native</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -223,7 +203,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/carb-manager-senior-software-developer" align="right" target="_blank">Apply</a>
@@ -260,85 +240,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/7867/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Appy Ventures</h5>
-                    <h3> PHP/Laravel developer </h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/appy-ventures-php-laravel-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0064/7867/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> London
-    <br /><strong>URL:</strong> <a href="https://appyventures.com/">https://appyventures.com/</a>
-</p>
-
-<div>
-<strong>PHP/Laravel developer for a fast growing UK company<br></strong><br>
-</div><div>Why you should apply<br><br>
-</div><div>Creating tech should be fun, especially if done with a great remote first company that understands how to create an awesome culture, fast track your learning and personal development.<br><br>
-</div><div>We’re scaling and want to find our next A-Player - here’s what you can expect:<br><br>
-</div><ul>
-<li>Live where you want and work at your own pace/ timezone (with UK overlap)</li>
-<li>Great paid holidays (of course) and local bank holidays</li>
-<li>Learn and grow from a fun/ supportive/ experienced team</li>
-<li>Be part of a rocketing startup creating a product to be proud of<br><br>
-</li>
-</ul><div>What you will do<br><br>
-</div><div>We are looking for a PHP/Laravel Developer to produce scalable software solutions. You’ll be part of a cross-functional team that’s responsible for the full software development life cycle, from conception to deployment. If you're also familiar with Agile methodologies, we’d like to meet you.<br><br>Check our video: https://www.loom.com/share/35aea5c2043f41a5b1b9c745b050d34b<br><br>
-</div><div>What you'll do:<br><br>
-</div><ul>
-<li>Work with development teams and product managers to ideate software solutions</li>
-<li>Design client-side and server-side architecture</li>
-<li>Develop and manage well-functioning databases and applications</li>
-<li>Write effective APIs</li>
-<li>Test software to ensure responsiveness and efficiency</li>
-<li>Troubleshoot, debug and upgrade software</li>
-<li>Create security and data protection settings</li>
-<li>Build features and applications with a mobile responsive design</li>
-<li>Write technical documentation<br><br>
-</li>
-</ul><div>What you'll bring:</div><div><br></div><ul>
-<li>2-3 years experience as a Backend/Full Stack Developer or similar role</li>
-<li>Familiarity with PHP (Laravel would be a plus)</li>
-<li>Familiarity with databases (e.g. MySQL, MongoDB) and web servers (e.g. Apache)</li>
-<li>Excellent communication and teamwork skills</li>
-<li>Great attention to detail</li>
-<li>Organizational skills</li>
-<li>An analytical mind<br><br>
-</li>
-</ul><div>Who we are</div><div><br></div><div>Arguably an accelerator (of ideas) and an incubator (of businesses). Since 2012, we have been creating and building tech businesses with Entrepreneurs, some of which have done brilliantly well. Our team culture is all about being open, communicating, taking ownership and thinking entrepreneurially.<br><br>
-</div><div>How to apply<br><br>
-</div><div>We like to keep things simple so our hiring process is straightforward and fast:<br><br>
-</div><ol>
-<li>1-1 interview with our tech lead</li>
-<li>Quick technical test</li>
-<li>1-1 call with our CEO and start your journey<br><br>
-</li>
-</ol><div>That’s it! We move fast and want the best to join us - look forward to meeting you soon.<br><br>
-</div><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/appy-ventures-php-laravel-developer">https://weworkremotely.com/remote-jobs/appy-ventures-php-laravel-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/8105/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -349,7 +250,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/aldrin-labs-senior-front-end-developer" align="right" target="_blank">Apply</a>
@@ -420,7 +321,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -502,7 +403,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/airdao-react-native-mobile-front-end-developer" align="right" target="_blank">Apply</a>
@@ -599,7 +500,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toggl-senior-frontend-developer" align="right" target="_blank">Apply</a>
@@ -668,7 +569,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/innovation-upstream-inc-sr-frontend-developer-react-web3" align="right" target="_blank">Apply</a>
@@ -730,7 +631,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ticketsolve-senior-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -765,7 +666,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>64 days ago</text>
+                <text>65 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-laravel-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -828,6 +729,75 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1612884/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Ingenious</h5>
+                    <h3>Full Stack Developer</h3>
+                </td>
+                <td width="300">
+                    <code>cloud,developer,git,mongoDB</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1612884" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class='"content-intro"'>
+<p>At INGENIOUS.BUILD, we’ve cracked the code and built a world-class platform for companies of all sizes within the real estate and construction industries across the globe, enabling them to simply and effortlessly manage all aspects of their projects--from inception to completion, and both internally and in conjunction with the other project participants.</p>
+<p>Project managers drool. Data geeks giggle. Execs actually sleep well. And the rest simply stare slack-jawed at their screens unable to comprehend how in the world we pulled this off...</p>
+<p><strong><em>Think about what you could do here</em></strong>… At INGENIOUS.BUILD, you’ll be participating in one of the most exciting and unparalleled journeys of your career--a journey to pioneer the first cloud application to manage the entire lifecycle of a real estate construction project. In short, you’ll be building what some have claimed is the holy grail of construction project management.</p>
+<p>It’s big. Bold. Audacious, even. But that's how we roll...</p>
+<p>And if you’ve got what it takes, you’ll be directly involved in its development. The rest, as they say, will be history...</p>
+<p>So... think you've got the right stuff?</p>
+</div>
+<p>We are looking for a talented <strong>Full Stack Developer </strong>to join our remote team. If you have top-notch programming skills and a deep-rooted passion for developing applications or improving existing ones--plus you like to solve problems--we would like to meet you. As a <strong>Full Stack Developer</strong> you will work closely within a small team in SCRUM (but in conjunction with other dev teams) to ensure system consistency and to improve the user experience.</p>
+<p>What is vital, however, is that you have, and demonstrate, a burning desire to constantly learn new things and to be proactive in your development efforts.</p>
+<p><strong>Responsibilities</strong></p>
+<ul style="">
+<li style="">Collaborate with your team to plan, build, and deliver world-class software.</li>
+<li style="">Refactor, optimize, and improve the existing codebase.</li>
+<li style="">Use your voice to help shape your own personal growth, your team, the department, and the company.</li>
+</ul>
+<p><strong>Required Qualifications<br></strong></p>
+<ul style="">
+<li style="">PHP / Laravel.</li>
+<li style="">REST.</li>
+<li style="">Vue.js.</li>
+<li style="">Relational databases.</li>
+<li style="">Git.</li>
+<li style="">Teamwork skills with a problem-solving attitude.</li>
+<li style="">Communicative English (reading / writing). Minimum level B2.</li>
+<li style="">Analytical skills.</li>
+</ul>
+<p><strong>Preferred </strong><strong>Qualifications</strong></p>
+<ul style="">
+<li style="">Experience with building large scale SaaS apps like CRM, CMS, and ERP.</li>
+<li style="">Experience with latest technologies (PHP 8.1+, Laravel 9+, Vue3+).</li>
+<li style="">MongoDB.</li>
+<li style="">SCRUM.</li>
+<li style="">Jira.</li>
+</ul>
+<p><strong>Benefits</strong></p>
+<ul style="">
+<li style="">Competitive pay.</li>
+<li style="">Stock options.</li>
+<li style="">Long-term career growth and skill development.</li>
+<li style="">Hardware (laptop).</li>
+</ul>
+<div class='"content-conclusion"'>
+<p>We're fired up to learn more about you to see how you can help us on our mission!  We genuinely look forward to receiving your application to gain further detail on who you are and how you tick... and hopefully start the process of bringing you into the Ingenious family ;).</p>
+</div>
+<img src="https://remotive.com/job/track/1612884/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1383531/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -838,7 +808,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -915,7 +885,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -941,7 +911,7 @@
                     <code>developer,seo,social media,ai</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/ai-application-developer-1608200" align="right" target="_blank">Apply</a>
@@ -981,7 +951,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1058,7 +1028,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1202,7 +1172,7 @@
                     <code>developer,design,Figma</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/website-developer-1601883" align="right" target="_blank">Apply</a>
@@ -1233,7 +1203,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -1302,7 +1272,7 @@
                     <code>developer,fullstack,ui,design</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-remix-full-stack-developer-1583816" align="right" target="_blank">Apply</a>
@@ -1408,6 +1378,166 @@
 </li>
 </ul>
 <h2>&nbsp;</h2></div>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
+                    <h3>Web Developer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4365480&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <p>&nbsp;</p>
+<p><strong>The project</strong></p>
+<p>Our organization is closely involved in a new community lead project, called Logos, and this role will enable you to focus on its development. Logos is a grassroots movement to provide trust-minimized, corruption resistant governing services and social institutions to underserved citizens. Logos’ infrastructure will provide a base for the provisioning of the next-generation of governing services and social institutions - paving the way to economic opportunities to those who need them most, whilst respecting basic human rights through the network’s design.</p>
+<p>In order to promote the ideas behind Logos and its vision, we have created a brand studio called acid.info and you will be part of it. <a href="http://acid.info/">Acid.info</a> is the studio and creative engine within the Logos DAO. Our mission is to build, and ensure, technologies and creativity that supports freedom, justice, and innovation for all people of the world.&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>The role</strong></p>
+<p>As a Web Developer, you will be responsible for the development and technical maintenance of various web-based projects in the studio. Your role will involve decision-making for code architecture, writing tests, choosing the right technology stack, and any other related tasks. You will work closely with the development team, studio lead, and design team to bring our web projects to life. You will take care of all technical aspects of all web projects (from development and testing to deployment and maintenance)&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Responsibilities</strong></p>
+<ul>
+<li>You will be developing and implementing internal tools, including our wiki engine framework, branding design portal our design systems implementation in React</li>
+<li>You will co-write documentation for all the above mentioned products/projects</li>
+<li>You will be responsible for maintaining our open-sourced codebases on Github</li>
+<li>You will be improving the architect and implementation<a href="https://github.com/acid-info/logos-site-builder"> our current site-generator framework</a> (built on top NextJS) and develop it further</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>You ideally will have</strong></p>
+<ul>
+<li>Experience in ReactJS and NodeJs (all in Typescript)&nbsp;</li>
+<li>Good understanding of software architecture</li>
+<li>Experience in implementation of frontend libraries and design systems</li>
+<li>Experience working with Git, Docker and NextJS framework as well as Vercel and/or Netlify</li>
+<li>A strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Bonus points if</strong></p>
+<ul>
+<li>You are comfortable in working remotely and asynchronously</li>
+<li>You have experience working for an open source organisation</li>
+<li>You have exposure to creative coding (processing, open frameworks, WebGL, writing shaders, p5js)</li>
+</ul>
+<p><em>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</em></p>
+<p>&nbsp;</p>
+<p><strong>Compensation</strong></p>
+<p><span style="font-weight: 400;">The expected compensation range for this role is $40,000 - $60,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process. </span></p>
+<p>&nbsp;</p>
+<p><strong>Hiring process</strong></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with POps team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Lead Engineer and Studio Lead</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Assessment (paid)</span></li>
+</ol>
+<p><em><span style="font-weight: 400;">[The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline!]</span></em></p>
+<p>&nbsp;</p>
+<p><strong>Get to know us</strong></p>
+<p><span style="font-weight: 400;">Find out about the Logos here: </span><a href="https://logos.co"><span style="font-weight: 400;">https://logos.co</span></a></p>
+
+    
+
+    
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
+                    <h3>Senior Rust Developer </h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4412616&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <p><strong>About Logos</strong></p>
+<p><span style="font-weight: 400;">A group of Status Contributors is also involved in a new community lead project, called Logos, and this particular role will enable you to also focus on this project. Logos is a grassroots movement to provide trust-minimized, corruption-resistant governing services and social institutions to underserved citizens.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Logos’ infrastructure will provide a base for the provisioning of the next-generation of governing services and social institutions - paving the way to economic opportunities for those who need them most, whilst respecting basic human rights through the network’s design.</span><span style="font-weight: 400;">You can read more about Logos here:</span><a href="https://github.com/acid-info/public-assets/blob/master/logos-manual.pdf"><span style="font-weight: 400;"> in this small handbook</span></a><span style="font-weight: 400;"> for mindful readers like yourself. </span></p>
+<p><strong>Who are we?</strong></p>
+<p>We are the Blockchain Infrastructure Team, and we are building the foundation used by other projects at the&nbsp;<a href="https://statusnetwork.com/">Status Network</a>. We are researching consensus algorithms, Multi-Party Computation techniques, ZKPs and other cutting-edge solutions with the aim to take the blockchain technology to the next level of security, decentralization and scalability for a wide range of use cases. We are currently in a research phase, working with models and simulations. In the near future, we will start implementing the research. You will have the opportunity to participate in developing -and improving- the state of the art of blockchain technologies, as well as turning it into a reality.</p>
+<p><strong>Key Responsibilities</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Development and maintenance of internal rust libraries</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Help design and implement the architecture for a production-grade Node that will run in a highly adversarial environment.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">1st month: comfortable with dev framework, and simulation app.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A strong candidate will be able to contribute from the first month. </span></li>
+</ul>
+<div><strong>Ideally, you will have</strong></div>
+<div>
+<ul>
+<li><span style="font-weight: 400;">“Extensive” Rust experience. Ideally, they have some GitHub projects to show.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Alternative very extensive C/C++ experience and enough experience in Rust to write idiomatic code. We value more the understanding and experience of production systems.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Strong competency in developing and maintaining complex libraries or applications</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Peer-to-peer or networking experience</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience in, and passion for, blockchain technology.</span></li>
+<li><span style="font-weight: 400;">A strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></span></li>
+</ul>
+<p><strong>Bonus points if</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">&nbsp;Comfortable working remotely and asynchronously</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">&nbsp;Experience working for an open source organization.&nbsp;&nbsp;</span></li>
+</ul>
+<p><em>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role!]</em></p>
+<p><strong>Hiring Process&nbsp;</strong></p>
+<p><span style="font-weight: 400;">The hiring process for this role will be:</span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with our People Ops team</span></li>
+<li><span style="font-weight: 400;">Interview with Team Member&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Engineering Lead</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Logos Program Owner</span></li>
+</ol>
+<p><strong>Compensation</strong></p>
+<p><span style="font-weight: 400;">We are happy to pay in either 100% fiat or any mix of fiat and/or crypto. For more information regarding benefits at Status: </span><a href="https://people-ops.status.im/tag/perks/"><span style="font-weight: 400;">https://people-ops.status.im/tag/perks/</span></a></p>
+<p>&nbsp;</p>
+</div>
+
+    
+
+    
 
                 </details>
                 </td>
