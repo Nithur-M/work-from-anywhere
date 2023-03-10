@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/contra-senior-software-engineer-1" align="right" target="_blank">Apply</a>
@@ -97,79 +97,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/5493/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>FileCloud</h5>
-                    <h3> Senior Software Engineer C++</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/filecloud-senior-software-engineer-cpp" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/5493/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Austin, TX
-    <br /><strong>URL:</strong> <a href="https://www.filecloud.com/">https://www.filecloud.com/</a>
-</p>
-
-<div>FileCloud is looking for a <strong>Senior Software Engineer (C++)</strong> with a strong track record to join our dynamic Client team to help us deliver world-class, high-quality products to our customers. You will have the opportunity to work on innovative projects and applications focused on Enterprise File Sharing, Sync, and utilize your design skills, architecture skills, and solid development experience.<br><br>
-</div><div>
-<strong>About the Product &amp; Company</strong> </div><div>FileCloud is the fastest-growing Enterprise File Share and Sync (EFSS) solution in the industry, with over one million users worldwide. Our products are used by many global 2000 and Fortune 500 companies and world-leading public sector organizations. FileCloud recently closed a $30 million Series A investment led by Savant Growth to address the growing demand for enterprise security, compliance, and workflow automation. We are currently expanding our team as we grow and improve FileCloud. <br><br>
-</div><div><strong>About the role </strong></div><div>As part of our Client team, you will be responsible for developing our next generation of syncing and file-sharing software applications and delivering a maintainable solution optimized for usability and reliability. You'll have the opportunity to work with multiple technologies and codebases, interact directly with our customers, and learn firsthand how they use our products.<br><br>This role is remote and will require working remotely with other team members.<br><br><strong>Responsibilities:</strong>
-</div><ul>
-<li>Writing clean, high-quality, high-performance, maintainable code.</li>
-<li>Design and build software capable of running on all primary operating systems used by millions of users.</li>
-<li>Develop, maintain and support software including applications, interfaces, and new features.</li>
-<li>Troubleshoot and resolve reported customer issues quickly and permanently.</li>
-<li>Participate in code reviews, provide feedback, and help with the advancement of tools and processes.</li>
-</ul><div><strong>Required Qualifications:</strong></div><ul>
-<li>Bachelor’s or master’s degree in computer science or related field.</li>
-<li>5+ years of software development experience.</li>
-<li>Comfortable developing software for Windows, Linux, and MacOS.</li>
-<li>Strong experience with C++</li>
-<li>Strong knowledge of Web Technologies including HTTP protocol, XML, REST APIs.</li>
-<li>Strong knowledge of server-client architecture.</li>
-<li>Comfortable with Git version control system.</li>
-<li>Ability to multi-task, organize, and prioritize tasks while working independently or as part of the team.</li>
-</ul><div><strong>Desired Qualifications:</strong></div><ul>
-<li>Experience working with filesystems (Windows, macOS or both) is highly desired.</li>
-<li>Experience working with databases.</li>
-<li>Knowledge and experience developing complex multi-threaded, performance sensitive systems such as file systems.</li>
-<li>Knowledge and experience testing complex multi-threaded systems such as filesystems.</li>
-<li>Experience with TypeScript, Swift, or Python.</li>
-<li>Comfortable working with CI/CD systems like Jenkins.</li>
-<li>Experience working with Electron and JS is a nice addition.</li>
-<li>Experience in Windows Driver development is a plus.</li>
-</ul><div><strong>What we offer:</strong></div><ul>
-<li>Be part of a team of passionate, committed individuals dedicated to building a world-class product.</li>
-<li>Dedicated time for training and education opportunities.</li>
-<li>A mentorship model wherein your mentor and team support your development.</li>
-<li>A competitive salary with an annual bonus.</li>
-<li>Fully remote working whilst offering flexible hours that fall outside of the companywide core hours of 9 am -12 pm (US Central time zone).</li>
-<li>20 days of paid time off which increases by a further 5 days after 5 years of service (in addition to 10  public holidays in your country). </li>
-<li>Paid day off on your birthday or on an alternative day if your birthday falls outside a normal working day.</li>
-<li>Paid day off to volunteer with the charity of your choice.</li>
-<li>Paid monthly internet cost and lunch stipend provided.</li>
-<li>Reimbursement of all hardware costs associated with the role.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/filecloud-senior-software-engineer-cpp">https://weworkremotely.com/remote-jobs/filecloud-senior-software-engineer-cpp</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -180,7 +107,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-senior-software-engineer-2" align="right" target="_blank">Apply</a>
@@ -292,7 +219,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>45 days ago</text>
+                <text>46 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -334,6 +261,86 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c">https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/3890/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Springboard</h5>
+                    <h3> Mentor - Software Engineering Career Track (Part-time/Remote)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>240 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0016/3890/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> San Francisco, CA
+    <br /><strong>URL:</strong> <a href="https://www.springboard.com/">https://www.springboard.com/</a>
+</p>
+
+<div><strong>The Opportunity</strong></div><div><br></div><div>Springboard runs an online, self-paced Software Engineering Career Track in which participants learn with the help of a curated curriculum and 1-1 guidance from an expert mentor. Our mentor community - the biggest strength of our programs - comprises some of the best software engineering experts in the field.</div><div><br></div><div>If you are as passionate about mentoring as you are about software engineering, and can give a few hours per week in return for an honorarium, we would love to hear from you.</div><div><br></div><div>Please reach out to us with any questions at mentorrecruiting@springboard.com <br><br><strong>The Program</strong>
+</div><ul>
+<li>Completely online and self-paced</li>
+<li>Students become proficient in Software Engineering with the help of a curated online curriculum and project-based deliverables</li>
+<li>Coursework is made up of 800+ hour expert-curated curriculum in partnership with <a href="https://www.rithmschool.com/">Rithm School</a>
+</li>
+<li>On average, students finish in 9 months</li>
+<li>Students are working professionals from all over the world, dedicated to switching careers into Software Engineering</li>
+<li>Students have a weekly 30-minute checkin with their mentor to discuss questions, projects, and career advice!</li>
+</ul><div><strong>You</strong></div><ul>
+<li>are as passionate about teaching coding as about software engineering itself</li>
+<li>are proficient in the topics covered in our <a href="https://ddf46429.springboard.com/uploads/resources/1572915743_Software_Engineering_Career_Track_-_Syllabus_2019.11.04.pdf">Software Engineering Career Track</a> and are fluent in technologies such as HTML, CSS, JavaScript, React, Python, Flask, SQL, Data Structures and Algorithms</li>
+<li>have at least 3+ years of relevant work experience </li>
+<li>are available for weekly, 30-minute video check-ins with students to help them set and achieve learning goals, answer subject matter questions, provide feedback on projects, and offer career advice</li>
+<li>have experience critiquing work, in particular giving meaningful feedback on web development, and are able to think on your feet quickly</li>
+<li>are empathetic and have excellent communication skills</li>
+</ul><div><strong>Benefits</strong></div><ul>
+<li>Software Engineering mentors are paid an honorarium between $17.50-$32.50 per 30 minute call with students</li>
+<li>Membership in a rich community of expert mentors from great companies like AirBnB, Uber, Google, and Pivotal</li>
+<li>Change the lives of students in our program</li>
+<li>Help us revolutionize online education and inspire the next generation of software engineers!</li>
+<li>Work at your convenience</li>
+</ul><div><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3">https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1613532/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>IOVLabs</h5>
+                    <h3>Senior Software Engineer (RUST)</h3>
+                </td>
+                <td width="300">
+                    <code>crypto,javascript,legal,node.js</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-rust-1613532" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><b style="font-size: 12pt">About IOV Labs</b></div><div><br></div><div><span style="font-size: 12pt">Our purpose is to build a more decentralized world for a freer and fairer financial future. We develop technology to re-engineer the way value is created and moved around the world. Our mission is bold. Our vision is big, and our purpose is deep. We achieve our objectives as a team by using the IOV Labs values as our guiding principles. Our values reflect the fact that we’re a global, distributed team that embraces complex and revolutionary decentralized technologies, guided by a strong social purpose. If you’re keen to join the technological revolution at IOV Labs, keep reading! </span></div><br><br><div class="h3">About the role</div><ul style=""><li style="">We are looking for a Senior Software Engineer to join our Payments team. The candidate will be collaborating to design, implement and maintain protocols and services, peer reviewing code, documenting and testing features. The candidate is expected to also be focused on improving the team's work processes, implementing changes to streamline operations, and bringing best practices from his/her experience.  Should be open-minded, passionate, analytical, and hard-working interested in agile and decentralized organizations and enthusiastic about the blockchain ecosystem.</li></ul><br><br><div class="h3">Responsibilities: </div><ul style=""><li style="">Actively participate during the product design phases, analyzing requirements and proposing innovative and alternative solutions.</li></ul><ul style=""><li style="">Collaborate on architecture definitions, always thinking of solutions that are scalable and secure.</li></ul><ul style=""><li style="">Develop quality code, with emphasis on correctness of implementation.</li></ul><ul style=""><li style="">Write and support unit/integration tests</li></ul><ul style=""><li style="">Collaborate in the evolutionary maintenance of the product.</li></ul><ul style=""><li style="">Conduct independent research in your area of ownership; design, implement, and document solutions.</li></ul><br><br><div class="h3">You’d be a great candidate if you have:</div><ul style=""><li style="">Bachelor or advanced student of Computer Science, Computer Engineering or related.</li></ul><ul style=""><li style="">Strong experience with 6+ years as a Software Engineer in high performing teams.</li></ul><ul style=""><li style="">Knowledge about software architecture principles, design patterns, performance, and software engineering best practices.</li></ul><ul style=""><li style=""><b>Expertise in web applications and architecture.</b></li></ul><ul style=""><li style=""><b>Experience in RustVast experience in Javascript, Typescript, and node.js</b></li></ul><ul style=""><li style="">Experience in relational and non-relational databases.</li></ul><ul style=""><li style="">Experience in functional programming.</li></ul><ul style=""><li style=""><b>Willingness to learn decentralized technologies and work on all layers of the stack</b><a class="postings-link" href="http://stack.Ability" rel="nofollow">.</a></li></ul><ul style=""><li style="">Ability to permanently learn from new technologies and work on a fast-paced  team with many diverse projects.</li></ul><ul style=""><li style="">Advanced English language proficiency.</li></ul><br><br><div class="h3">Bonus Points</div><ul style=""><li style="">3+ years of experience working with RustExperience working in blockchain technology projects, smart contract development and/or dApps development.</li></ul><ul style=""><li style="">Computer security knowledge.</li></ul><ul style=""><li style="">Have experience working for objectives with remote teams.</li></ul><br><br><div class="h3">benefits &amp; Perks</div><ul style=""><li style="">Total Rewards Package includes:</li></ul><ul style=""><li style="">Competitive salary.</li></ul><ul style=""><li style="">Laptop and other working tools you might need.</li></ul><ul style=""><li style="">Rest of world: 100% remote working (contractor) from anywhere in the world. </li></ul><ul style=""><li style="">Possibility to work at your nearest WeWork space.</li></ul><ul style=""><li style="">Flexible working hours. You’re free to work however you work best.</li></ul><ul style=""><li style="">Paid holidays and personal leave days.</li></ul><ul style=""><li style="">Opportunity to work with state-of-the-art technology in a challenging and unique project.</li></ul><ul style=""><li style="">Internationally diverse and dynamic team with a clear vision and strategy.</li></ul><ul style=""><li style="">Training programs to learn everything about the crypto world.</li></ul><ul style=""><li style="">Language courses: English, Spanish or Chinese.</li></ul><ul style=""><li style="">Employee assistance program offering legal, financial, family, psychological and wellness counseling for you and your family.</li></ul><div><span style="font-size: 12pt">We are excited to see what you're made of!</span></div><div><br></div><div><i><span style="font-size: 12pt">IOV Labs embraces diversity and is proud to be an equal opportunity employer open to all qualified applicants regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, Veteran status, or any other legally protected status.</span></i></div><img src="https://remotive.com/job/track/1613532/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -550,6 +557,261 @@
 <p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
 <p>Why Join MixRank? Fully-remote, no HQ office. Team of 31 people across US, CA, MX, CO, CR, IN, UK, NO, RU, KZ, BD, AT. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
 <p>Please include your updated resume when applying for this role.</p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
+                    <h3>Nim Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=2386730&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <p><strong>The Role</strong></p>
+<p><span style="font-weight: 400;">The Nimbus team is looking for a Senior Engineer who will take ownership of Developer Experience. Someone who enjoys researching new technologies and building products for the decentralized web while being in the midst of Open Source Libraries and P2P networks. This means writing cool products in Nim for Ethereum and Web3, crafting documentation and SDKs, plus representing the team at developer conferences and online events.</span></p>
+<p><a href="https://nimbus.team/"><span style="font-weight: 400;">Nimbus</span></a><span style="font-weight: 400;"> is a research team that focuses on developing an Ethereum client and library targeting both Ethereum and the upcoming, proof-of-stake-based ETH2. We believe that the largest deployment of Ethereum will potentially be on embedded systems, Nimbus will be designed to perform well on embedded, mobile and generally resource-restricted devices. The extensible, configurable, and modular design of Nimbus will make it production ready for Web 3.0 and will ensure that it can be supported and maintained across all goals of Ethereum 2.0.</span></p>
+<p><span style="font-weight: 400;">Building the stack from ground up, we’re translating the latest Ethereum 2.0 research into practical, performant and reusable libraries to provide fertile exploration ground for further R&amp;D. </span><a href="https://our.status.im/nimbus-update-september-11th/"><span style="font-weight: 400;">Check our latest update!</span></a></p>
+<h4><span style="font-weight: 400;"><strong>Responsibilities</strong>:</span></h4>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Lead the effort to create a powerful developer experience around Nimbus, both as a library and as a RPC backend.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Define and design APIs that allow block explorers, wallets and decentralized applications interact with Nimbus.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Respond to community needs &amp; requests, transforming them into concrete specifications and products or features.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Be the face of our developer community, represent Nimbus at conferences and online events.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Create powerful documentation and SDKs.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Support evangelizing Nimbus as the go-to ETH 2.0 client for mobile devices and embedded systems within the Open Source community.&nbsp;</span></li>
+</ul>
+<p><span style="font-weight: 400;"><strong>You will ideally have:</strong>&nbsp;</span></p>
+<p><em><span style="font-weight: 400;">[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role!]</span></em></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interest in open data, blockchain and decentralization.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A strong alignment to our principles: </span><a href="https://status.im/about/#our-principles"><span style="font-weight: 400;">https://status.im/about/#our-principles</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">5+ years professional experience in software engineering</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with Rust or C/C++, and curiosity about dynamic languages.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Background in (embedded) systems programming, p2p technologies.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Familiarity with modern cryptography.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with APIs, SDKs and crafting documentation.&nbsp;</span></li>
+</ul>
+<p><strong>Bonus points:</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience working for an open source organization.&nbsp;&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ideally, you’ll have some Nim/Rust/C++ related GitHub projects to make it easier for us to evaluate your skills.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Basic knowledge of the lexing, parsing and semantic checking passes applicable to a compiler.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with Nim.</span></li>
+</ul>
+<h4>Hiring process</h4>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with our People Ops team.</span></li>
+<li><span style="font-weight: 400;">Technical Interview with team members from the Nimbus team.</span></li>
+<li><span style="font-weight: 400;">Technical Interview with hiring manager from the Nimbus team.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Final Meeting with Jacek, our Head of Research.&nbsp;</span></li>
+</ol>
+<p><span style="font-weight: 400;">The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline. We’re looking for you to join our team as soon as possible.</span><span style="font-weight: 400;">&nbsp;</span></p>
+<p><strong>Compensation</strong><span style="font-weight: 400;">:</span></p>
+<p><span style="font-weight: 400;">We are happy to pay salaries in either 100% fiat or any mix of fiat and/or crypto. For more information regarding benefits at Status: https://people-ops.status.im/tag/perks/</span></p>
+<p>&nbsp;</p>
+
+    
+
+    
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
+                    <h3>Software Engineer - Nim</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4889526&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <h4><strong>Nwaku</strong></h4>
+<p><span style="font-weight: 400;">We are building Waku as a public good infrastructure. Waku is the messaging layer of Web3.</span></p>
+<p><span style="font-weight: 400;">It is a decentralized, censorship-resistant, privacy-preserving communication network that enables anyone to send and receive messages without worrying about surveillance or de-platforming.</span></p>
+<p><span style="font-weight: 400;">We are developing 3 open source implementations of Waku: nwaku, go-waku and js-waku.</span></p>
+<p><span style="font-weight: 400;">Nwaku is the reference implementation of Waku, in which protocols are first implemented. Nwaku is used as a service node to operate the Waku Relay network, the backbone of the Waku network.</span></p>
+<p><span style="font-weight: 400;">Our main repo is </span><a href="https://github.com/waku-org/nwaku/"><span style="font-weight: 400;">https://github.com/waku-org/nwaku/</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">We are looking for software engineers that are passionate about Ethereum, decentralization and software excellence, and who would relish the opportunity to create a first-class decentralized messaging network and bring these new capabilities to the Web3 ecosystem!</span></p>
+<p><strong>Key responsibilities</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Implement and develop open protocols for secure messaging.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Create and maintain a sustainable and fault-tolerant distributed system.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Write and maintain Nim code.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Understand and optimize the core functionality of complex software systems.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Provide feedback on overall design decisions, and participate in code reviews</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Use libp2p to build application-level protocols.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Build incentivized, distributed systems.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interpret and implement solutions based on academic research.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Support platforms and operators using nwaku software.</span></li>
+</ul>
+<p><strong>You ideally will have</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A passion for blockchain technology, privacy-preserving technology and decentralization.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">At least 4 years of software engineering experience.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with low-level/strongly typed languages (C/C++/Go/Rust or Java/C#).</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Embedded systems development experience.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience building networking-heavy applications and p2p networking specifically.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Familiarity with message propagation in loosely connected networks.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Familiar with p2p building blocks such as gossiping, routing and discovery (DHTs), and Nat traversal.</span></li>
+</ul>
+<p><strong>Bonus points if you have</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Contributed to a blockchain-related, open-source project.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Embedded in the Ethereum community.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with Nim.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with C bindings and FFIs.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with off-the-shelf networking stacks such as libp2p / devp2p.</span></li>
+</ul>
+<p><span style="font-weight: 400;">[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</span></p>
+<p><strong>Hiring process</strong></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with our People Ops team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Technical Interview with a member of the Waku Team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Pair Programming Interview with a member of the Waku Team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with a Program Lead</span></li>
+</ol>
+<p><strong>Compensation</strong></p>
+<p><span style="font-weight: 400;">The expected compensation range for this role is $90,000 - $130,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process. We are happy to pay in any mix of fiat/crypto).&nbsp;</span></p>
+
+    
+
+    
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
+                    <h3>Software Engineer (React Native & Golang)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4863246&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <h4>&nbsp;</h4>
+<h4><strong>About Waku</strong></h4>
+<p><span style="font-weight: 400;">We are building Waku as a public good infrastructure. Waku is the messaging layer of Web3.</span></p>
+<p><span style="font-weight: 400;">It is a decentralized, censorship-resistant, privacy-preserving communication network that enables anyone to send and receive messages without worrying about surveillance or deplatforming.</span></p>
+<p><span style="font-weight: 400;">We are developing 3 open source implementations of Waku:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Nwaku. <a class="anchor-1MIwyf anchorUnderlineOnHover-2qPutX" href="https://github.com/waku-org/nwaku" target="_blank">https://github.com/waku-org/nwaku</a>: the reference implementation and service node</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Js-waku, <a class="anchor-1MIwyf anchorUnderlineOnHover-2qPutX" href="https://github.com/waku-org/js-waku" target="_blank">https://github.com/waku-org/js-waku</a>: for the browser </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Go-waku: <a class="anchor-1MIwyf anchorUnderlineOnHover-2qPutX" href="https://github.com/waku-org/go-waku" target="_blank">https://github.com/waku-org/go-waku</a>: to integrate as a library in native applications</span></li>
+</ul>
+<p><span style="font-weight: 400;">We are enabling Ethereum builders to create new projects with a fully decentralized architecture, think dApp to Wallet notifications, NFT marketplaces, censorship-resistant chat, layer-2 decentralization and more.</span></p>
+<p><span style="font-weight: 400;">We are looking for a Software Engineer who is passionate about Ethereum, and decentralization. And who would relish the opportunity to champion Waku to other Web3 projects and developers.</span></p>
+<p>&nbsp;</p>
+<p><strong>Key Responsibilities</strong></p>
+<ul>
+<li>Design, implement and document Waku Golang libraries (go-waku)</li>
+<li>Maintain, improve, troubleshoot Waku React Native, the React Native wrapper of go-waku</li>
+<li>Implement new protocols as defined by the Research Team</li>
+<li>Investigate and fix issues in go-waku and upstream libraries such as go-libp2p</li>
+<li>Optimize go-waku and upstream libraries for the mobile/React Native</li>
+<li>Support dApp developers in using go-waku and Waku Golang libraries</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>You ideally will have</strong></p>
+<ul>
+<li>Experience building applications with complex logic, cutting edge technology or applied research</li>
+<li>Ability to learn new concepts and technologies quickly, you are a polyglot</li>
+<li>Experience maintaining native library for React Native</li>
+<li>Experience building libraries in Golang, for network and mobile environments</li>
+<li>Good communication skills (written and conversational)</li>
+<li>Strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Bonus points if&nbsp;</strong></p>
+<ul>
+<li>You are already familiar with the Ethereum community</li>
+<li>You have experience with go-libp2p or other libp2p implementations</li>
+<li>You have experience with C-Bindings &amp; Cgo</li>
+<li>You are in Web3 or blockchain development</li>
+<li>You have experience working for an open source organization</li>
+<li>You have experience working async</li>
+</ul>
+<p><em>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</em></p>
+<p>&nbsp;</p>
+<p><strong>Hiring Process&nbsp;</strong></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Intro call with our People Ops team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with member of the Waku team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Pair programming session with member of the Waku team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Program Lead</span></li>
+</ol>
+<p>&nbsp;</p>
+<p><strong>Compensation</strong></p>
+<p>The expected compensation range for this role is $65,000 - $80,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process. We are happy to pay in any mix of fiat/crypto).&nbsp;</p>
+<p>&nbsp;</p>
+
+    
+
+    
 
                 </details>
                 </td>
