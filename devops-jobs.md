@@ -10,7 +10,7 @@
                     <code>macos,web3,defi,react,front-end,docker,testing,test,web,qa,devops,financial,cloud,senior,operations,analytics,engineer</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-qa-devops-engineer-premia-201650" align="right" target="_blank">Apply</a>
@@ -19,7 +19,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p><b>Senior QA &amp; DevOps Engineer (Remote)</b></p><p><br></p><p>Premia is a decentralized options platform connecting traders and liquidity providers of all backgrounds.  Offering non-custodial options to hedge, speculate, or earn yield on your digital assets.&nbsp; Premia offers first of its kind automated market maker solutions in the DeFi space for Options Contracts through our use of Smart Liquidity Pools and Dynamic Pricing.&nbsp; Premia enables best-in-class pricing based on market volatility, providing fully-featured peer-to-pool trading and capital efficiency to DeFi options.</p><p>&nbsp;</p><p>We are one of the smallest and most impactful teams in crypto. We are a globally distributed organization, with all positions being fully remote.</p><p>&nbsp;</p><p>Weâre looking for a passionate, self-motivated engineer to help us build the next generation of financial products. As a dedicated Development Operations hire, you will gain ownership over our existing suite of web products, as well as the ability to influence the creation, design, and execution of future products. You will be responsible for ensuring a consistent, high-quality user experience across trading interfaces, data-heavy analytics pages, documentation portals, subgraph on <a href="https://thegraph.com/explorer" class="postings-link">The Graph</a> and more.</p><p><br></p><p><b>Who are you?</b></p><p><br></p><p><span style="font-size: 11pt">A senior-level quality assurance or testing engineer with a focus on web applications who is also a crypto-native.&nbsp;</span></p><p><br></p><p><span style="font-size: 11pt">You have extensive experience designing and executing manual and automated tests. You&nbsp;are proficient with Javascript/Typescript, </span><a href="http://React.js" style="font-size: 11pt" class="postings-link">React.js</a><span style="font-size: 11pt">, testing libraries such as Jest/Mocha, automated front-end testing tools like Playwright/Puppeteer, and CI/CD tools such as Jenkins/Github Actions.</span></p><p><br></p><p><span style="font-size: 11pt">You have experience and are culturally aligned with fast-moving small teams. You have worked at remote (globally distributed) startups before. You are self-driven, are comfortable wearing many hats and can ship patches and features swiftly when needed. You can identify company priorities, own them, and iterate quickly to ship the best solution.</span></p><p><span style="font-size: 11pt">You can write and speak fluent English and have great communication skills.</span></p><p><br></p><p><b>Responsibilities</b></p><p>As a Senior QA + DevOps Engineer you will work with the Front-end team to: </p><p>-Create and document automated and manual test plans and procedures </p><p>-Configure and set up testing environments </p><p>-Implement, run, and monitor automated tests </p><p>-Help polish our development cycle </p><p>-Continuously improve our existing CI/CD pipelines </p><p>-Write scripts in the language of your choice that can help us improve the QA process</p><p><br></p><p><b>Requirements</b></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">At least 3 years of React + QA experience</span></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">Passion for web3 / DeFi</span></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">Extensive experience in designing and executing manual and automated tests</span></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">Extensive experience with </span><b style="font-size: 11pt">JS/TS + React</b></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">Extensive experience with automation tools (</span><b style="font-size: 11pt">Playwright</b><span style="font-size: 11pt">&nbsp;</span><span style="font-size: 14.6667px">preferred</span><span style="font-size: 11pt">)</span></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">Experience with CI/CD tools (</span><b style="font-size: 11pt">Github Actions</b><span style="font-size: 11pt">&nbsp;</span><span style="font-size: 14.6667px">preferred</span><span style="font-size: 11pt">)</span></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">Fluent with different operating systems (Linux, MacOS etc.)</span></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">An entrepreneurial nature, willing to take ownership and work in areas beyond your comfort zone</span></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">Excellent communication &amp; Escalation Habits</span></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">(Nice to have) Previous experience with </span><a href="http://web3.js" style="font-size: 11pt" class="postings-link">web3.js</a><span style="font-size: 11pt"> or </span><a href="http://ethers.js" style="font-size: 11pt" class="postings-link">ethers.js</a><span style="font-size: 11pt"> libraries.</span></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">(Nice to have) Cloud infrastructure / Docker experience </span></p>\n<p><p><br></p></p>\n<p><b>Benefits</b></p><p>Work from anywhere (Remote first), Flexible working hours, Flexible vacation policy, Competitive Salary + Token bonus (portion or all can be paid in Crypto).&nbsp; Premia is committed to a diverse and inclusive workplace and is an equal opportunity employer. We do not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.</p><p><br></p><p>Premia welcomes all qualified persons to apply. Compensation will be competitive and commensurate with experience. This is a full time role.</p><p><br></p><p>To find out more you can view their website at <a href="https://premia.finance/" class="postings-link">https://premia.finance/</a></p><br/><br/>Please mention the word **COOPERATIVE** and tag RMTguMjA1LjQxLjIzOQ== when applying to show you read the job post completely (#RMTguMjA1LjQxLjIzOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <p><b>Senior QA &amp; DevOps Engineer (Remote)</b></p><p><br></p><p>Premia is a decentralized options platform connecting traders and liquidity providers of all backgrounds.  Offering non-custodial options to hedge, speculate, or earn yield on your digital assets.&nbsp; Premia offers first of its kind automated market maker solutions in the DeFi space for Options Contracts through our use of Smart Liquidity Pools and Dynamic Pricing.&nbsp; Premia enables best-in-class pricing based on market volatility, providing fully-featured peer-to-pool trading and capital efficiency to DeFi options.</p><p>&nbsp;</p><p>We are one of the smallest and most impactful teams in crypto. We are a globally distributed organization, with all positions being fully remote.</p><p>&nbsp;</p><p>Weâre looking for a passionate, self-motivated engineer to help us build the next generation of financial products. As a dedicated Development Operations hire, you will gain ownership over our existing suite of web products, as well as the ability to influence the creation, design, and execution of future products. You will be responsible for ensuring a consistent, high-quality user experience across trading interfaces, data-heavy analytics pages, documentation portals, subgraph on <a href="https://thegraph.com/explorer" class="postings-link">The Graph</a> and more.</p><p><br></p><p><b>Who are you?</b></p><p><br></p><p><span style="font-size: 11pt">A senior-level quality assurance or testing engineer with a focus on web applications who is also a crypto-native.&nbsp;</span></p><p><br></p><p><span style="font-size: 11pt">You have extensive experience designing and executing manual and automated tests. You&nbsp;are proficient with Javascript/Typescript, </span><a href="http://React.js" style="font-size: 11pt" class="postings-link">React.js</a><span style="font-size: 11pt">, testing libraries such as Jest/Mocha, automated front-end testing tools like Playwright/Puppeteer, and CI/CD tools such as Jenkins/Github Actions.</span></p><p><br></p><p><span style="font-size: 11pt">You have experience and are culturally aligned with fast-moving small teams. You have worked at remote (globally distributed) startups before. You are self-driven, are comfortable wearing many hats and can ship patches and features swiftly when needed. You can identify company priorities, own them, and iterate quickly to ship the best solution.</span></p><p><span style="font-size: 11pt">You can write and speak fluent English and have great communication skills.</span></p><p><br></p><p><b>Responsibilities</b></p><p>As a Senior QA + DevOps Engineer you will work with the Front-end team to: </p><p>-Create and document automated and manual test plans and procedures </p><p>-Configure and set up testing environments </p><p>-Implement, run, and monitor automated tests </p><p>-Help polish our development cycle </p><p>-Continuously improve our existing CI/CD pipelines </p><p>-Write scripts in the language of your choice that can help us improve the QA process</p><p><br></p><p><b>Requirements</b></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">At least 3 years of React + QA experience</span></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">Passion for web3 / DeFi</span></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">Extensive experience in designing and executing manual and automated tests</span></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">Extensive experience with </span><b style="font-size: 11pt">JS/TS + React</b></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">Extensive experience with automation tools (</span><b style="font-size: 11pt">Playwright</b><span style="font-size: 11pt">&nbsp;</span><span style="font-size: 14.6667px">preferred</span><span style="font-size: 11pt">)</span></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">Experience with CI/CD tools (</span><b style="font-size: 11pt">Github Actions</b><span style="font-size: 11pt">&nbsp;</span><span style="font-size: 14.6667px">preferred</span><span style="font-size: 11pt">)</span></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">Fluent with different operating systems (Linux, MacOS etc.)</span></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">An entrepreneurial nature, willing to take ownership and work in areas beyond your comfort zone</span></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">Excellent communication &amp; Escalation Habits</span></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">(Nice to have) Previous experience with </span><a href="http://web3.js" style="font-size: 11pt" class="postings-link">web3.js</a><span style="font-size: 11pt"> or </span><a href="http://ethers.js" style="font-size: 11pt" class="postings-link">ethers.js</a><span style="font-size: 11pt"> libraries.</span></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">(Nice to have) Cloud infrastructure / Docker experience </span></p>\n<p><p><br></p></p>\n<p><b>Benefits</b></p><p>Work from anywhere (Remote first), Flexible working hours, Flexible vacation policy, Competitive Salary + Token bonus (portion or all can be paid in Crypto).&nbsp; Premia is committed to a diverse and inclusive workplace and is an equal opportunity employer. We do not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.</p><p><br></p><p>Premia welcomes all qualified persons to apply. Compensation will be competitive and commensurate with experience. This is a full time role.</p><p><br></p><p>To find out more you can view their website at <a href="https://premia.finance/" class="postings-link">https://premia.finance/</a></p><br/><br/>Please mention the word **COOPERATIVE** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -34,7 +34,7 @@
                     <code>system,support,developer,testing,growth,code,web,devops,node,management,lead,sales,health,engineer,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-devops-engineer-figment-201896" align="right" target="_blank">Apply</a>
@@ -91,7 +91,7 @@
 <p><strong>About Figment</strong></p>
 <p><span style="font-weight:400;">At Figment, our mission is to support the adoption, growth and long term success of the Web 3 ecosystem. This is Figmentâs unique approach: we make it simple to build on the next generation of blockchain technology.</span></p>
 <p><span style="font-weight:400;">We provide enterprise grade node and staking infrastructure and developer tools while also actively participating in community & governance.</span></p>
-</div><br/><br/>Please mention the word **HONOR** and tag RMTguMjA1LjQxLjIzOQ== when applying to show you read the job post completely (#RMTguMjA1LjQxLjIzOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **HONOR** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -106,7 +106,7 @@
                     <code>web3,defi,system,docker,devops,financial,finance,cloud,engineer,linux</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-devops-engineer-injective-labs-201389" align="right" target="_blank">Apply</a>
@@ -128,7 +128,7 @@
 <li align="left">Experienced in deploying, operating, monitoring, optimizing and troubleshooting large scale infrastructure.</li>
 <li align="left">Experience with Docker runtime, Linux kernel is a plus.</li>
 <li align="left">Strong understanding of Continuous Integration (CI) and Continuous Deployment (CD).</li>
-</ul><p>As an equal opportunity employer we donât tolerate discrimination or harassment of any kind. Whether thatâs based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.</p><br/><br/>Please mention the word **DEGINIFIED** and tag RMTguMjA1LjQxLjIzOQ== when applying to show you read the job post completely (#RMTguMjA1LjQxLjIzOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p>As an equal opportunity employer we donât tolerate discrimination or harassment of any kind. Whether thatâs based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.</p><br/><br/>Please mention the word **DEGINIFIED** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -143,7 +143,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>35 days ago</text>
+                <text>36 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sportybet-devops-engineer" align="right" target="_blank">Apply</a>
@@ -209,7 +209,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>153 days ago</text>
+                <text>154 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer" align="right" target="_blank">Apply</a>
@@ -264,6 +264,120 @@
 </div>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer">https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
+                    <h3>DevOps Engineer (Infra)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4864237&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <p>&nbsp;</p>
+<p><strong>About Codex</strong></p>
+<p><span style="font-weight: 400;">We are a diverse team of experienced researchers and engineers scattered around the world working at the intersection of P2P networks and bleeding-edge Zero Knowledge technology. We’re building the next generation storage engine that attempts to “untie the knot” of incentivized storage. Our goal is to deliver a more advanced decentralized storage protocol that pushes the state of the art of decentralized storage solutions forward. <br><br>We’re looking for an experienced DevOps Engineer with a strong industry background in all aspects of DevOps and related tasks.</span></p>
+<p><span style="font-weight: 400;">https://codex.storage/</span></p>
+<p>&nbsp;</p>
+<p><strong>The role</strong></p>
+<p><span style="font-weight: 400;">You'll focused on automating and optimizing software development processes and infrastructure management and ensuring the reliability, stability, and security of our systems and software applications.</span></p>
+<p>&nbsp;</p>
+<p><strong>Who you are</strong></p>
+<p>You have strong Linux Fundamentals:</p>
+<ul>
+<li>Distros and package managers</li>
+<li>Good understanding of process management</li>
+</ul>
+<p>You have programming experience:</p>
+<ul>
+<li>At least a few languages and showing the ability to learn</li>
+<li>Bash as a minimum; Python, Groovy would be nice</li>
+</ul>
+<p>You have experience in Continuous Integration:</p>
+<ul>
+<li>Jenkins CI - Pipelines are written in Groovy</li>
+<li>GitHub Actions - PR builds, mostly</li>
+</ul>
+<p>You have experience in Security:</p>
+<ul>
+<li>Good understanding of OpenSSH</li>
+<li>GnuPG for encryption of secrets and backups</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Bonus points if</strong></p>
+<p>Experience in Continuous Integration:&nbsp;</p>
+<ul>
+<li>Jenkins&nbsp;</li>
+<li>GitHub Actions</li>
+<li>Nix / NixOS</li>
+</ul>
+<p>Experience building the following processes:</p>
+<ul>
+<li>Gradle, Maven, Yarn, FDroid - for Android</li>
+<li>XCode, Fastlane, Gems, clj - for iOS</li>
+<li>AppImage, Qt, DeployQt - for Linux</li>
+<li>VS Build Tools, MinGw, Scoop - for Windows</li>
+<li>Brew, CMake, XCode CodeSign - for MacOS</li>
+</ul>
+<p>Experience in the following programming languages:</p>
+<ul>
+<li>Groovy scripting</li>
+<li>Go programming</li>
+</ul>
+<p>Experience in Infra automation:</p>
+<ul>
+<li>Ansible and Terraform</li>
+<li>Kubernetes</li>
+</ul>
+<p>Windows fundamentals:</p>
+<ul>
+<li>Windows Server Core administration using PowerShell</li>
+</ul>
+<p>Decentralized Software:</p>
+<ul>
+<li>Fundamental to messaging and other functions of the App</li>
+<li>Ethereum, Status-go, Nimbus, IPFS, Swarm</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Compensation</strong></p>
+<p>The expected compensation range for this role is $100,000 - $120,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process.&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Hiring process</strong></p>
+<ol>
+<li>Interview with the&nbsp;Talent team</li>
+<li>Interview with the Head of Infrastructure</li>
+<li>Interview with DevOps Engineer of the Blockchain team</li>
+<li>Assessment (paid)</li>
+<li>Final interview with Codex Team Lead</li>
+</ol>
+<p><em>[The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline]</em></p>
+
+    
+
+    
 
                 </details>
                 </td>
