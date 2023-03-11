@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -76,7 +76,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-remote-product-manager-needed" align="right" target="_blank">Apply</a>
@@ -164,6 +164,75 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Pixellu</h5>
+                    <h3> Senior Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Seattle, USA
+    <br /><strong>URL:</strong> <a href="https://www.pixellu.com/">https://www.pixellu.com/</a>
+</p>
+
+<h1>⭐ SUMMARY</h1><div>We are Pixellu, a software company on a mission to take the work out of running a photography business so photographers can do what they love. We are seeking a world-class Senior Product Manager to manage one of our three products. You’ll be working with the Head of Product, CEO, CTO, and fellow PMs to develop a product vision and execute on that vision with the help of designers and engineers.</div><h1>📷 ABOUT PIXELLU</h1><div>At Pixellu, we know professional photographers are frustrated with all of the tedious work required to run a successful photography business. Many get so overwhelmed, they end up quitting on their dream of having a photography career. That is why we create easy-to-use, time-saving software that takes the work out of running a photography business so photographers can get back to doing what they love.</div><div> </div><div>Pixellu was co-founded in 2010 by two wedding photographers. Faced with the challenges of long hours and endless tasks, we began asking ourselves, “How can we save valuable time, make more money, and get our lives back?” Our answer was technology. We started Pixellu with the idea that we could make money by providing an honest service that helped photographers save time and live more fulfilling lives. We believed that, by focusing on a great product and great service, we could build a business that not only does good, but also does well. </div><div> </div><div>Today, we are a team of 40 team members spread across 15 countries, serving tens of thousands of photographers in over 100 countries. </div><div> </div><div>Our vision is for Pixellu to become the foundation of more than 1 million successful photography businesses, so that photographers can focus on doing what they love while we automate the rest of their work. We are becoming the bridge between their camera and clients — all they would need to do is upload their photos to Pixellu. </div><div> </div><div>We embrace the spirit of autonomous teams that are empowered to change the photography world while having a healthy work-life balance. </div><div> </div><div>Learn more about us and why you’ll love working at Pixellu here: <a href="https://vimeo.com/405889874">https://vimeo.com/405889874</a>
+</div><h1>
+<a href="https://emojipedia.org/desktop-computer/">💼</a> ABOUT THE JOB</h1><div>Pixellu currently has three products - SmartAlbums, SmartSlides, and Galleries. You would be managing one of these products.</div><div><br></div><div>We empower our product teams to solve hard problems – customer problems and business problems – in ways that our customers love, yet work for our business. Our product teams are cross-functional and durable, comprised of a product manager, a product designer, and several engineers.</div><div><br></div><div>We staff our product teams with the skills necessary to come up with effective solutions that are valuable (our customers choose to buy or use), viable (the solution works within the many constraints of the business), usable (the user can figure out how to use) and feasible (our engineers have the skills and technology to implement).</div><div><br></div><div>While we empower our product teams to figure out the best solutions to the problems that need to be solved, we also hold those teams accountable to the results.  Shipping is necessary, but not sufficient.  We look for product managers that are not afraid of signing up for results, even when this means they have to work through others to achieve the necessary results.</div><h1>😎 ABOUT YOU</h1><div>Aside from the job description, here is what we most value in a candidate:</div><ul>
+<li>
+<strong>Customer-focus:</strong> Deep empathy toward customers and focus on solving their problems. </li>
+<li>
+<strong>Communication: </strong>Excellent written,  verbal, and interpersonal communication skills. </li>
+<li>
+<strong>Problem-solving: </strong>Not just raw IQ, but rather someone who is intellectually curious, a quick learner, and unafraid to tackle challenging problems.</li>
+<li>
+<strong>Data-driven:</strong> Ability to discover unknown unknowns via thorough data research.</li>
+<li>
+<strong>Leadership: </strong>Ability to lead teams; emotionally intelligent and able to motivate people of different backgrounds and personalities. </li>
+<li>
+<strong>Creative: </strong>Ability to think outside the box to solve business problems.</li>
+<li>
+<strong>Passionate: </strong>Relentless in solving customer problems.</li>
+<li>
+<strong>Humble:</strong> A good human, who puts the team first, takes responsibility, shows empathy, admits mistakes, and in general, is a pleasure to work with.</li>
+<li>
+<strong>Hungry:</strong> Results-oriented, driven, ambitious, self-disciplined, self-motivated.</li>
+</ul><h1>📗 <strong>REQUIREMENTS</strong>
+</h1><ul>
+<li>A deep understanding of the techniques and methods of modern product discovery and product delivery.</li>
+<li>5+ years working on technology-powered products as a product manager. </li>
+<li>Demonstrated ability to learn multiple functional areas of business – engineering, design, finance, and marketing.</li>
+<li>Demonstrated ability to solve hard problems with many constraints, using sound judgment to assess risks, and to lay out your argument in a well-structured, data-informed, written narrative.</li>
+<li>Proven ability to engage with engineers, designers, and company leaders in a constructive and collaborative relationship.</li>
+</ul><h1>🏖️ BENEFITS</h1><ul>
+<li>🌎 Work from anywhere</li>
+<li>🕙 Flex time; aside from "required online hours" of 7-11am Pacific Time, work hours are fully flexible</li>
+<li>💰 Competitive salary based on experience level and your local cost of living considerations</li>
+<li>📈 Quarterly profit-sharing bonuses based on seniority and role</li>
+<li>🏝 22 paid days off annually</li>
+<li>👶 Paid parental leave</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1">https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -174,7 +243,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>485 days ago</text>
+                <text>486 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
