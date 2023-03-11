@@ -3,103 +3,6 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Contra</h5>
-                    <h3> Senior Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/contra-senior-software-engineer-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> San Francisco, CA
-    <br /><strong>URL:</strong> <a href="http://bit.ly/3kLhMdk">http://bit.ly/3kLhMdk</a>
-</p>
-
-<div>Contra is an Independent-first community and commission-free hiring platform empowering the future of work. We match Independents with flexible opportunities and Clients with the perfect Independent for any project — from content creation to coding. We strongly believe that independence isn’t just a gig, it’s a way of life.</div><div><br></div><div>Welcome to Contra! We’re an empathetic, kind, and humble team looking for Software Engineers to join us in building the Future of Work and the best community for independents. This is a full-stack role, meaning you’ll have the opportunity to contribute across our web applications and backend services, while focusing on a specific part of the stack that plays to your strengths and preferences, like Frontend or Backend.</div><div><br></div><div>Our team loves to innovate to benefit everyone and deliver a top-notch Developer Experience for our internal team: fast pipelines, great API tooling, and the like. If this environment resonates with your engineering values, we’d love to talk to you!</div><div>
-<strong><br>How you’ll add value at Contra<br></strong><br>
-</div><ul>
-<li>Contribute to our rapidly growing React and NodeJS codebases (both within our Turborepo powered monorepo and our stand-alone apps) — everything from our web application to our backend GraphQL API, to our internal services that power payments.</li>
-<li>Contribute well-tested, end-to-end TypeScript code. We are big fans of Vitest for unit testing and Playwright for end-to-end testing.</li>
-<li>Craft readable, performant, and scaleable SQL queries and database schemas to solve data modeling problems.</li>
-<li>Help improve our internal design system, codebase architecture, application performance, and Developer Experience.</li>
-<li>Participate in all parts of the product development process, like design critiques, code reviews, and cross-functional planning with your team.</li>
-</ul><div>
-<strong><br>You’ll be successful here if you<br></strong><br>
-</div><ul>
-<li>
-<strong>Mission-driven.</strong> Our mission truly resonates with you and you would like to be a part of what we are building together at Contra!</li>
-<li>
-<strong>A dedicated team player.</strong> You thrive in a collaborative, remote-only environment and you are comfortable with 8 am - 1 pm PST core hours!</li>
-<li>
-<strong>Passionate about learning.</strong> Share a genuine curiosity for learning, always eager to pick up new skills. We don’t expect everyone to know everything but you learn quickly!</li>
-<li>
-<strong>Goal oriented.</strong> Understand what you need to do in order to achieve your goals without needing all of the bells and whistles.</li>
-<li>
-<strong>Committed to trying.</strong> Have the resilience and willingness to try and try again even if you fail after a few attempts!</li>
-<li>
-<strong>Ambitious attitude.</strong> You bring a strong work ethic and contagious energy to your team as we work towards our North Star.</li>
-<li>
-<strong>Path Paver.</strong> Joining a startup you enjoy taking ownership, building out processes and documentation that might not exist to share with your team members.</li>
-</ul><div>
-<strong><br>Our stack<br></strong><br>
-</div><ul>
-<li>Backend: AlloyDB(PostgreSQL), GraphQL, GraphQL Helix, NodeJS, Redis, Temporal</li>
-<li>Data: Airbyte, DBT, Google BigQuery, Google Colab, Looker</li>
-<li>DevOps: ArgoCD, Docker, GitHub, Google Cloud Platform, Kubernetes</li>
-<li>Frameworks: NextJS</li>
-<li>Frontend: GLSL shaders, React, react-three-fiber, Relay, Stitches, styled-components, Suspense, <a href="http://three.js/">Three.js</a>
-</li>
-<li>Languages: Typescript</li>
-<li>Testing: Playwright, Vitest</li>
-<li>Tools: Chromatic, Linear, Mergify, Posthog, Slack, Stream, Turbopack, Turborepo</li>
-</ul><div>
-<strong><br>You will love Contra for our<br></strong><br>
-</div><ul>
-<li>🌎 Remote-only culture that is here to stay</li>
-<li>🍎 100% health coverage for US full-time employees, and health reimbursements for all international contractors</li>
-<li>💸 $4,000 laptop reimbursement upon starting + additional for equipment, co-working, and meetups</li>
-<li>💰 401k matching for US full-time employees</li>
-<li>💛 No-meeting Tuesdays &amp; Wednesdays</li>
-<li>👋 Generous time off</li>
-<li>👶 Flexible parental leave</li>
-<li>💁 A custom slack emoji, just for you!</li>
-</ul><div>
-<strong><br>Our interview process<br></strong><br>
-</div><ul>
-<li>Intro call (15-30 minutes)</li>
-<li>Complete a Technical assessment (2 hours maximum)</li>
-<li>Technical interview (30-45 minutes)</li>
-<li>Non-technical (culture) interview (30 minutes)</li>
-<li>Strengths-based technical interview (30-45 minutes)</li>
-<li>Cross-Functional Interview (45 minutes)</li>
-<li>High-level technical interview with CTO &amp; VPE (30-45 minutes)</li>
-</ul><div>
-<strong><br>Salary + Equity Range<br></strong><br>
-</div><ul>
-<li>$130k - $160k USD</li>
-<li>Equity Value Range: $72k - $180k USD</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/contra-senior-software-engineer-1">https://weworkremotely.com/remote-jobs/contra-senior-software-engineer-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
                     <h5>LeadSimple, Inc.</h5>
                     <h3> Senior Software Engineer</h3>
                 </td>
@@ -107,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-senior-software-engineer-2" align="right" target="_blank">Apply</a>
@@ -219,7 +122,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>46 days ago</text>
+                <text>47 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -265,6 +168,42 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4287/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Stimulus</h5>
+                    <h3> Software engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>150 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0076/4287/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Amsterdam, NY
+    <br /><strong>URL:</strong> <a href="https://www.stimulus.com/">https://www.stimulus.com/</a>
+</p>
+
+<div><strong>About Stimulus</strong></div><div>
+<a href="https://www.stimulus.com/jobs/Stimulus.com">Stimulus</a> is a social platform started by Sticker Mule to show what's possible if your mission is to increase human happiness.</div><div><br></div><div><strong>We offer</strong></div><div>1. Remote work with flexible schedules</div><div>2. A privately owned, low-stress culture.</div><div>3. A fun "no bullshit" work environment</div><div><br></div><div>
+<strong>We like you to know<br></strong>1. Docker<br>2. NextJS<br>3. TypeScript<br>4. React<br>5. NodeJS<br>6. GraphQL<br>7. Redis</div><div><br></div><div><strong>Compensation and benefits</strong></div><div>1. Salary: $135k+ based on experience</div><div>2. $20,000 signing bonus</div><div>3. 4 weeks vacation + holidays based on your country of residence</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer">https://weworkremotely.com/remote-jobs/stimulus-software-engineer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/3890/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -275,7 +214,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>240 days ago</text>
+                <text>241 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3" align="right" target="_blank">Apply</a>
@@ -331,7 +270,7 @@
                     <code>crypto,javascript,legal,node.js</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-rust-1613532" align="right" target="_blank">Apply</a>
