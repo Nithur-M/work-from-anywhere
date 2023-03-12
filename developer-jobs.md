@@ -10,7 +10,7 @@
                     <code>developer,crypto,front-end,back-end,full-stack,web,qa,finance,typescript,api,lead,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-full-stack-developer-request-finance-200391" align="right" target="_blank">Apply</a>
@@ -37,7 +37,7 @@
 <li align="left">Autonomous and out-of-the-box thinker</li>
 <li align="left">Optional: knowledge of Ethereum, EVM blockchains,Â <span style=""><a class="bbcode-link" href="http://ethers.js/" target="_blank" rel="noopener noreferrer nofollow">ethers.js</a></span>Â library</li>
 <li align="left">Note: you donât need to check all the boxes to applyÂ </li>
-</ul><p>At Request Finance, we are a global team building global products, for an era of truly global finance. We believe that diversity and inclusion matters to our mission.</p><p>We want to work with people who can bring different perspectives rooted in their own unique cultures, experiences, lifestyles, and challenges. We are committed to building a safe workplace where everyone feels empowered to bring their authentic selves.</p><p>As an employer, we want to create an accessible and inclusive experience for potential hires. Please let us know if there are any adjustments we can make to assist you during the hiring and interview process.</p><p><br>WHY WORK WITH REQUEST FINANCE ?</p><p>ð¯Being on the frontier of this new and exciting technology, you will be given the chance to lead the way forward!</p><p>ðÂ You will have the opportunity to work in a team that wants to have a lasting impact on the way we experience finance tomorrow</p><p>ðThe team is inclusive, with inspirational and international colleagues</p><p>ðÂ We all work remotely but we love to meet as frequently as possible, with at least 3 company-wide reunions per year where possible.</p><p>ðï¸Â Unlimited vacation days with a mandatory minimum of 20/year.</p><br/><br/>Please mention the word **LUSH** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p>At Request Finance, we are a global team building global products, for an era of truly global finance. We believe that diversity and inclusion matters to our mission.</p><p>We want to work with people who can bring different perspectives rooted in their own unique cultures, experiences, lifestyles, and challenges. We are committed to building a safe workplace where everyone feels empowered to bring their authentic selves.</p><p>As an employer, we want to create an accessible and inclusive experience for potential hires. Please let us know if there are any adjustments we can make to assist you during the hiring and interview process.</p><p><br>WHY WORK WITH REQUEST FINANCE ?</p><p>ð¯Being on the frontier of this new and exciting technology, you will be given the chance to lead the way forward!</p><p>ðÂ You will have the opportunity to work in a team that wants to have a lasting impact on the way we experience finance tomorrow</p><p>ðThe team is inclusive, with inspirational and international colleagues</p><p>ðÂ We all work remotely but we love to meet as frequently as possible, with at least 3 company-wide reunions per year where possible.</p><p>ðï¸Â Unlimited vacation days with a mandatory minimum of 20/year.</p><br/><br/>Please mention the word **LUSH** and tag RMy45Mi4xNzQuMTQy when applying to show you read the job post completely (#RMy45Mi4xNzQuMTQy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -52,7 +52,7 @@
                     <code>web3,developer,design,defi,crypto,back-end,full-stack,support,code,payroll,qa,financial,education,finance,nodejs,lead,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-web3-developer-request-network-200383" align="right" target="_blank">Apply</a>
@@ -83,7 +83,7 @@
 <li align="left">Previous participation in hackathons</li>
 <li align="left">Curious about new libraries and frameworks</li>
 <li align="left">Passionate about clean and well-documented code</li>
-</ul><br>***<p>At Request, we are a global team building global products for an era of genuinely international finance. We believe that diversity and inclusion matter to our mission.</p><p>We want to work with people who can bring different perspectives rooted in their unique cultures, experiences, lifestyles, and challenges. We are committed to building a safe workplace where everyone feels empowered to bring their authentic selves.</p><p>As an employer, we want to create an accessible and inclusive experience for potential hires. Please let us know if there are any adjustments we can make to assist you during the hiring and interview process.<br></p><h3></h3><br><h3><b>WHY WORK WITH REQUEST?</b></h3><p>ð¯Being on the frontier of this new and exciting technology, you will be given a chance to lead the way forward!</p><p>ðÂ You will have the opportunity to work in a team that wants to have a lasting impact on the way we experience finance tomorrow</p><p>ðThe team is inclusive, with inspirational and international colleagues</p><p>ðÂ We all work remotely and love to meet as frequently as possible, with at least three company-wide reunions per year.</p><p>ðï¸Â Unlimited vacation days with a mandatory minimum of 20/year.</p><br/><br/>Please mention the word **DELECTABLE** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br>***<p>At Request, we are a global team building global products for an era of genuinely international finance. We believe that diversity and inclusion matter to our mission.</p><p>We want to work with people who can bring different perspectives rooted in their unique cultures, experiences, lifestyles, and challenges. We are committed to building a safe workplace where everyone feels empowered to bring their authentic selves.</p><p>As an employer, we want to create an accessible and inclusive experience for potential hires. Please let us know if there are any adjustments we can make to assist you during the hiring and interview process.<br></p><h3></h3><br><h3><b>WHY WORK WITH REQUEST?</b></h3><p>ð¯Being on the frontier of this new and exciting technology, you will be given a chance to lead the way forward!</p><p>ðÂ You will have the opportunity to work in a team that wants to have a lasting impact on the way we experience finance tomorrow</p><p>ðThe team is inclusive, with inspirational and international colleagues</p><p>ðÂ We all work remotely and love to meet as frequently as possible, with at least three company-wide reunions per year.</p><p>ðï¸Â Unlimited vacation days with a mandatory minimum of 20/year.</p><br/><br/>Please mention the word **DELECTABLE** and tag RMy45Mi4xNzQuMTQy when applying to show you read the job post completely (#RMy45Mi4xNzQuMTQy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -98,7 +98,7 @@
                     <code>developer,defi,crypto,cryptocurrency,system,software,testing,financial,bank,cloud,strategy,management,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-quantitative-developer-abra-199868" align="right" target="_blank">Apply</a>
@@ -144,7 +144,7 @@
 </ul>
 <p><em><span style="font-weight:400;">At Abra, we are an equal opportunity employer committed to a diverse, inclusive, and equitable workplace and candidate experience. We strive to create an environment where everyone has a sense of belonging and purpose, and where we learn from the unique experiences of those around us. </span></em></p>
 <p><em><span style="font-weight:400;">We encourage all qualified candidates to apply regardless of race, color, ancestry, religion, national origin, sexual orientation, age, citizenship, marital or family status, disability, gender, gender identity or expression, pregnancy or caregiver status, veteran status, or any other legally protected status.</span></em></p>
-</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/6T4UVH2Hhoo" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **SURREAL** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/6T4UVH2Hhoo" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **SURREAL** and tag RMy45Mi4xNzQuMTQy when applying to show you read the job post completely (#RMy45Mi4xNzQuMTQy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -159,7 +159,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/kickserv-senior-mobile-developer-react-native" align="right" target="_blank">Apply</a>
@@ -203,7 +203,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/carb-manager-senior-software-developer" align="right" target="_blank">Apply</a>
@@ -250,7 +250,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/aldrin-labs-senior-front-end-developer" align="right" target="_blank">Apply</a>
@@ -321,7 +321,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -403,7 +403,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/airdao-react-native-mobile-front-end-developer" align="right" target="_blank">Apply</a>
@@ -490,75 +490,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Toggl</h5>
-                    <h3> Senior Frontend Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>15 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/toggl-senior-frontend-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Tallinn, Estonia
-    <br /><strong>URL:</strong> <a href="https://toggl.com/jobs/">https://toggl.com/jobs/</a>
-</p>
-
-<div>
-<br>We are looking for a passionate and sharp Senior Frontend Developer with experience in data visualization to join one of our cross-functional product development teams and help us shape the future of the time tracking industry, delivering real value to our customers by introducing new features and improving the existing ones.</div><div>
-<br>The salary for this position is <strong>€68,000</strong> annually</div><div>
-<br>You can <strong>work from anywhere in the world,</strong> provided you have an overlap of 4 hours with a European timezone.<br><br>
-</div><div>
-<strong><br>About the team<br></strong><br>
-</div><div>We are a global team of 130+ awesome people working from over 40 countries around the globe. We hire globally, you work locally - in the heart of London, a beach outside of São Paulo, or a quiet village near Florence, the choice is yours. Every few months we travel to meet up somewhere in the world and spend some quality time together. We place a huge amount of trust in our people, and we measure the outcomes rather than the work itself. Our values fuel our results.<br><br>
-</div><div><strong><br>The role</strong></div><div>
-<br>As a Senior Frontend Developer, you will play a critical role taking ownership in major projects, using React, JavaScript, TypeScript, HTML and CSS to code slick and fast data visualizations that translate our data into meaningful insights.<br><br>
-</div><div>Your main responsibilities will be:</div><ul>
-<li>Work closely with other engineers, product managers and designers to understand requirements and translate them into user-friendly web-based components</li>
-<li>Develop and maintain scalable data visualizations using modern frontend technologies such as React and Nivo</li>
-<li>Optimize frontend performance to ensure fast rendering and smooth interactions for high data volumes</li>
-<li>Conduct code reviews, identify and resolve technical issues, and maintain high coding standards</li>
-<li>Collaborate with other development teams to identify and implement best practices in frontend development and related areas</li>
-</ul><div><strong><br>About you/Requirements</strong></div><div>
-<br>We would love to hear from you if you have significant experience in frontend development and can lead major development projects. You love working with data visualizations and believe React and web components are the future.</div><div>
-<br>In particular, we are looking for:</div><ul>
-<li>Extensive knowledge about JavaScript and React, and preferably Redux and a side effect managing library like Redux-Saga</li>
-<li>Demonstrated experience leading large development projects, with good organization skills and the ability to plan well-structured projects, estimate tasks, manage stakeholders and coordinate with other cross-functional teams</li>
-<li>A knack for data visualizations, with some familiarity of its principles and best practices</li>
-<li>Knowledge about testing frameworks, like Jest</li>
-<li>Excellent communication and collaboration skills, with the ability to work in a remote team environment</li>
-<li>Strong problem-solving skills, attention to detail, and ability to work independently</li>
-</ul><div><strong><br>Some benefits</strong></div><ul>
-<li>Freedom to choose when and how much you work - we only measure results</li>
-<li>24 days of paid time off a year, plus your local holidays</li>
-<li>In-person meetups for team-building (expenses covered)</li>
-<li>4-6 weeks paid sabbatical (depending on the tenure)</li>
-<li>Laptop budget up to €2,500 and it renews every 3 years</li>
-<li>€2,000 budget to set up your home office, and additional €300 every year after 3 years of tenure</li>
-<li>€250 per month for co-working space membership and/or internet service at home</li>
-<li>€4,000 per year contribution to use for training, workshops, and conferences</li>
-<li>€2,000 per year contribution for any equipment or services to improve and/or maintain your physical and mental health</li>
-<li>Support for buying tools you need for doing your best work (even eyeglasses if you need a new pair)</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toggl-senior-frontend-developer">https://weworkremotely.com/remote-jobs/toggl-senior-frontend-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/1151/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -569,7 +500,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>35 days ago</text>
+                <text>36 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ticketsolve-senior-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -604,7 +535,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>66 days ago</text>
+                <text>67 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-laravel-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -677,7 +608,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>180 days ago</text>
+                <text>181 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -741,75 +672,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1612884/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Ingenious</h5>
-                    <h3>Full Stack Developer</h3>
-                </td>
-                <td width="300">
-                    <code>cloud,developer,git,mongoDB</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1612884" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class='"content-intro"'>
-<p>At INGENIOUS.BUILD, we’ve cracked the code and built a world-class platform for companies of all sizes within the real estate and construction industries across the globe, enabling them to simply and effortlessly manage all aspects of their projects--from inception to completion, and both internally and in conjunction with the other project participants.</p>
-<p>Project managers drool. Data geeks giggle. Execs actually sleep well. And the rest simply stare slack-jawed at their screens unable to comprehend how in the world we pulled this off...</p>
-<p><strong><em>Think about what you could do here</em></strong>… At INGENIOUS.BUILD, you’ll be participating in one of the most exciting and unparalleled journeys of your career--a journey to pioneer the first cloud application to manage the entire lifecycle of a real estate construction project. In short, you’ll be building what some have claimed is the holy grail of construction project management.</p>
-<p>It’s big. Bold. Audacious, even. But that's how we roll...</p>
-<p>And if you’ve got what it takes, you’ll be directly involved in its development. The rest, as they say, will be history...</p>
-<p>So... think you've got the right stuff?</p>
-</div>
-<p>We are looking for a talented <strong>Full Stack Developer </strong>to join our remote team. If you have top-notch programming skills and a deep-rooted passion for developing applications or improving existing ones--plus you like to solve problems--we would like to meet you. As a <strong>Full Stack Developer</strong> you will work closely within a small team in SCRUM (but in conjunction with other dev teams) to ensure system consistency and to improve the user experience.</p>
-<p>What is vital, however, is that you have, and demonstrate, a burning desire to constantly learn new things and to be proactive in your development efforts.</p>
-<p><strong>Responsibilities</strong></p>
-<ul style="">
-<li style="">Collaborate with your team to plan, build, and deliver world-class software.</li>
-<li style="">Refactor, optimize, and improve the existing codebase.</li>
-<li style="">Use your voice to help shape your own personal growth, your team, the department, and the company.</li>
-</ul>
-<p><strong>Required Qualifications<br></strong></p>
-<ul style="">
-<li style="">PHP / Laravel.</li>
-<li style="">REST.</li>
-<li style="">Vue.js.</li>
-<li style="">Relational databases.</li>
-<li style="">Git.</li>
-<li style="">Teamwork skills with a problem-solving attitude.</li>
-<li style="">Communicative English (reading / writing). Minimum level B2.</li>
-<li style="">Analytical skills.</li>
-</ul>
-<p><strong>Preferred </strong><strong>Qualifications</strong></p>
-<ul style="">
-<li style="">Experience with building large scale SaaS apps like CRM, CMS, and ERP.</li>
-<li style="">Experience with latest technologies (PHP 8.1+, Laravel 9+, Vue3+).</li>
-<li style="">MongoDB.</li>
-<li style="">SCRUM.</li>
-<li style="">Jira.</li>
-</ul>
-<p><strong>Benefits</strong></p>
-<ul style="">
-<li style="">Competitive pay.</li>
-<li style="">Stock options.</li>
-<li style="">Long-term career growth and skill development.</li>
-<li style="">Hardware (laptop).</li>
-</ul>
-<div class='"content-conclusion"'>
-<p>We're fired up to learn more about you to see how you can help us on our mission!  We genuinely look forward to receiving your application to gain further detail on who you are and how you tick... and hopefully start the process of bringing you into the Ingenious family ;).</p>
-</div>
-<img src="https://remotive.com/job/track/1612884/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1383531/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -820,7 +682,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -897,7 +759,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -923,7 +785,7 @@
                     <code>developer,seo,social media,ai</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/ai-application-developer-1608200" align="right" target="_blank">Apply</a>
@@ -963,7 +825,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1040,7 +902,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1184,7 +1046,7 @@
                     <code>developer,design,Figma</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/website-developer-1601883" align="right" target="_blank">Apply</a>
@@ -1215,7 +1077,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -1284,7 +1146,7 @@
                     <code>developer,fullstack,ui,design</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-remix-full-stack-developer-1583816" align="right" target="_blank">Apply</a>
@@ -1772,6 +1634,413 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18px">Location: Remote - Anywhere</b> (Open to applicants located anywhere around the globe.)</div><div>&nbsp;</div><div>At 10up, we call developers like you engineers because you aren’t just a “coder”: you’re an innovative problem solver that uses web programming skills to divine smart, creative solutions to client challenges. As a Senior Web Engineer at 10up, you are an integral part in building websites and solutions utilized by millions of people daily. 10uppers have been pushing the boundaries of WordPress for over 12 years—become an engineer that innovates the internet by building exciting projects alongside a top-in-the-field team.</div><div><br></div><div>You’ll work on a combination of unique projects and ongoing support engagements that help season your skills. As a leading digital agency, 10up’s client roster spans from innovative startups and impactful non-profits to some of the biggest names in the industry, such as ESPN, Google, The New York Times Co., Microsoft, and The Nobel Prize Committee.</div><div><br></div><div>As a 10upper, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 40 countries, 10up fully embraces the benefits of distributed work.</div></div><div class="section page-centered"><div><h3>What you will do: </h3><ul class="posting-requirements plain-list"><ul><li>Develop enterprise-level WordPress plugins and/or themes primarily using PHP and Gutenberg blocks in React.js.</li><li>Support learning by mentoring other fellow engineers and providing code reviews.</li><li>Drive strategy and lead back-end technical vision on large-scale projects.</li><li>Solve complex problems in simple yet elegant ways.</li><li>Ultimately you will make the web better by finely crafting websites, apps, and tools that reach millions of online visitors every day.</li></ul></ul></div></div><div class="section page-centered"><div><h3>About you: </h3><ul class="posting-requirements plain-list"><ul><li>You love perfecting your skills in WordPress engineering and Gutenberg.</li><li>You have a code portfolio. Link us to your best WordPress work on GitHub and you’ll never have to do any live coding or whiteboard testing!&nbsp;</li><li>You are comfortable talking to clients and team members to clearly present your thoughts.</li><li>You have extensive Git workflow experience in back-end-focused web development.</li><li>You have the ability to expertly debug performance and caching issues.</li><li>You prefer to work fully remote and are effective at engaging in a distributed team from the location of your choosing.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Benefits of interest:</h3><ul class="posting-requirements plain-list"><ul><li>Multiple paid time off programs, including accrued PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day.</li><li>Health, dental, and life insurance programs (available for United States team members).</li><li>Retirement contribution programs (currently available in the U.S. and U.K.).Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations.</li><li>$3,000 USD accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study.</li><li>Global Company summits – opportunities to meet, socialize and learn with fellow 10uppers in person at remarkable destinations.&nbsp;</li><li>An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year.</li><li>A Director of Engineering that supports your career growth and development.</li></ul></ul></div></div><div class="section page-centered"><div><h3></h3><ul class="posting-requirements plain-list"><ul><li>If you are passionate about 10up's mission and think you have what it takes to be successful in this role even if you don't check all the boxes, please apply. We'd appreciate the opportunity to personally review your application. Everyone gets a response. Read more about <a href="https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view" class="postings-link">What to Expect</a> through our Recruiting process.</li><li>We don't want you to miss any communication from us! To ensure you receive updates on your application, please add&nbsp;<b><a href="mailto:jobs@10up.com" class="postings-link">jobs@10up.com</a></b>&nbsp;to your contacts list! #LI-Remote</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><br></div><div><br></div><div><span style="font-size: 11pt">10up has been making the web better by finely crafting websites and tools for content creators since 2011. With ~200 experts in digital strategy and management, software engineering, user experience and interactive design, cloud infrastructure, and audience and revenue optimization; we’re big enough to conquer any challenge, and small enough to care. 10up is committed to the ideal of a diverse and inclusive workplace, welcoming anyone and everyone who shares and lives our core business values. We look forward to connecting with you!&nbsp; </span></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/10up-2/2445a3ee-a695-4983-8cc5-792f0ff5ad7b/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Developer Relations Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/3655681" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>The Developer Relations team at Canonical engage with community and enterprise software developers to help them embrace the Canonical approach to open source. We enable community developers and ISVs to deliver their applications to millions of Linux users and devices as snaps, charms, debs and Docker images. We also bring their feedback to engineering teams at Canonical for continuous improvement.</p>
+<p>As a Developer Relations Engineer, you will spearhead the adoption of new technologies in upstream communities. You will identify exciting new areas of development, programming languages, and classes of application, and explore ways to deliver those applications to Ubuntu users. Then you will reach out to community leaders and technical leaders in those ecosystems and build a common understanding of the best approach to application delivery on Ubuntu for their work. You will contribute to code and technical documentation. This position will challenge you to become an expert in the technologies on which we build the Ubuntu ecosystem, and will utilize your communication, presentation and persuasion skills. We aim to inspire the next generation of engineers to work more efficiently with open source, adopting the latest practices and shaping Canonical tools to suit new workflows and priorities.</p>
+<p>This role is a good fit for someone who is tech-savvy, passionate, collaborative, and who can communicate with a wide range of audiences. You must be a professionally qualified software engineer with open source experience. You will definitely need to be technically skilled with Linux. Experience with Ubuntu, snaps, charms or Docker images and familiarity with desktop and Linux server software development are valuable skills for the role.</p>
+<p>You will represent not only the Ubuntu community but also Canonical as a contributor to the wider open source ecosystem. You will work in a distributed team and travel internationally 2-4 times per year for engineering sprints, community summits, industry events, and strategic planning sessions.</p>
+<h3>What you will do</h3>
+<ul>
+<li>Gain a deep understanding of snaps, charms, debs and Docker images</li>
+<li>Grow the developer community by attracting software developers and ISVs to the platform</li>
+<li>Create content to scale up adoption, demonstrate best practices, and showcase new features</li>
+<li>Provide input to development teams at Canonical based on feedback from ISVs, developers, and the wider community</li>
+<li>Collaborate with software developers, product managers and technical writers</li>
+<li>Write ecosystem specific guides, tutorials, release notes, and white papers</li>
+<li>Curate existing documentation, performing periodic reviews, triage user feedback/bug reports and determine priorities for remedial work</li>
+<li>Engage with the community through various means, including discourse, IRC, social media, conferences, etc.</li>
+<li>Identify relevant influencers and devising plans on how to effectively engage with them</li>
+<li>Deliver training workshops in person and remotely</li>
+<li>Represent the platform via speaking engagements at industry events and community conferences</li>
+</ul>
+<h3>Who you are</h3>
+<ul>
+<li>You love technology and working with brilliant people</li>
+<li>You are curious, flexible, articulate, and accountable</li>
+<li>You value soft skills and are enthusiastic, thoughtful, and self-motivated</li>
+<li>You have experience with developer tools and open source projects</li>
+<li>You have a clear public record of accomplishments (talks, blog posts, GitHub, Twitter, etc)</li>
+<li>You have interest and experience with two or more of Ubuntu Linux - kernel or userspace, DevOps, software development, testing and QA, package management, container technology</li>
+<li>You can work autonomously and assume full ownership of objectives as needed</li>
+<li>You can be flexible with your time and enjoy working with new technology in a fast-paced environment</li>
+<li>You are experienced working with open source communities and understand the workflow of volunteer contributors</li>
+</ul>
+<h3>Nice to have</h3>
+<ul>
+<li>Experience with community management</li>
+<li>Experience with developer advocacy</li>
+<li>Experience as a software developer</li>
+<li>Examples of contributions to the Ubuntu Community</li>
+<li>Experience with contributing to open source projects</li>
+</ul>
+<h3>We offer</h3>
+<ul>
+<li>Learning and development opportunities and budget</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual leave</li>
+<li>Priority pass for travel</li>
+</ul>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit globally and set a very high standard for people joining the company.&nbsp;</p>
+<p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity we will give your application fair consideration</a>.</em></p>
+<p>#LI-Remote #stack</p><p>Requisition ID: 799</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Developer Relations Manager</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/4322699" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>The Developer Relations team at Canonical engage with community and enterprise software developers to help them embrace the Canonical approach to open source. We enable community developers and ISVs to deliver their applications to millions of Linux users and devices as snaps, charms, debs and Docker images. We also bring their feedback to engineering teams at Canonical for continuous improvement.</p>
+<p>As a Developer Relations Manager, you will lead a team of developer relations engineers who engage with developer communities and ISVs to help them reach the Ubuntu ecosystem. Typically we help them shape their snaps, charms, or Ubuntu-based Docker images, and ensure that Ubuntu is fully enabled in their CI/CD pipelines.</p>
+<p>This is a role that requires strong technical grounding in software engineering, Linux and open source communities, container technologies and devops. It is also a management role that requires judgement, empathy and drive. You and your team will represent not only the Ubuntu community but also Canonical as a contributor to the wider Linux ecosystem. You will lead a distributed team and travel internationally 2-4 times per year for engineering sprints, community summits, industry events, and strategic planning sessions.</p>
+<h3>What you will do</h3>
+<ul>
+<li>Build and lead a developer relations team at Canonical</li>
+<li>Gain a deep understanding of snaps, Juju charms, or Docker containers</li>
+<li>Grow the developer community by attracting software developers and ISVs to the platform</li>
+<li>Create content to scale up adoption, demonstrate best practices, and showcase new features</li>
+<li>Provide input to development teams at Canonical based on feedback from ISVs, developers, and the wider community</li>
+<li>Collaborate with software developers, product managers and technical writers on developing documentation</li>
+<li>Write ecosystem specific guides, tutorials, release notes, and white papers</li>
+<li>Curate existing documentation, performing periodic reviews, triage user feedback/bug reports and determine priorities for remedial work</li>
+<li>Engage with the community through various means, including discourse, IRC, social media, conferences, etc.</li>
+<li>Identify relevant influencers and devising plans on how to effectively engage with them</li>
+<li>Deliver training workshops in person and remotely</li>
+<li>Represent the platform via speaking engagements at industry events and community conferences</li>
+</ul>
+<h3>Who you are</h3>
+<ul>
+<li>You love technology and working with brilliant people.</li>
+<li>You are curious, flexible, articulate, and accountable.</li>
+<li>You value soft skills and are passionate, thoughtful, and self-motivated.</li>
+<li>You have experience with developer tools and open source projects.</li>
+<li>You have a clear public record of accomplishments (talks, blog posts, GitHub, Twitter, etc).</li>
+<li>You have interest and experience with two or more of the following: Ubuntu Linux - kernel or userspace, DevOps, software development, testing and QA, package management, container technology.</li>
+<li>You can work autonomously and assume full ownership of objectives as needed.</li>
+<li>You can be flexible with your time and enjoy working with new technology in a fast-paced environment.</li>
+<li>You are experienced working with open source communities and understand the workflow of volunteer contributors.</li>
+</ul>
+<h3>Nice to have</h3>
+<ul>
+<li>Experience as a software developer</li>
+<li>Examples of contributions to the Ubuntu Community</li>
+<li>Experience with contributing to open source projects</li>
+</ul>
+<p>Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, the world’s best free software platform. Our services help businesses worldwide reduce costs, improve efficiency and enhance security with Ubuntu.</p>
+<p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your <a href="https://canonical.com/careers/diversity/identity">identity</a> we will give your application fair consideration.</em></p>
+<p>#LI-remote</p><p>Requisition ID: 924</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Senior Observability Platform Developer - Python/Go</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/2166631" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>Canonical seeks an experienced developer with a proven track record in Python and/or Go. As part of the Observability team, you will develop a cloud-native monitoring stack that composes best-in-class open-source monitoring tools. The stack is opinionated, resilient, and scalable, providing deep insights out of the box. The user experience is polished and seamless for the end-users, and its administrators will enjoy smooth, lightweight Day 1 and Day 2 operations.&nbsp;</p>
+<p>This is an exciting opportunity for a software engineer passionate about open source software, Linux, Kubernetes, and Observability. Build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, the growing international software company behind Ubuntu.</p>
+<p>The monitoring stack will monitor applications running on a mix of cloud technologies such as Kubernetes and OpenStack, as well as bare-metal, virtual machines and containers. The stack will be capable of monitoring applications and infrastructure irrespective of whether they are operated by Juju, and will leverage multiple data sources at various levels of the architecture, including Juju itself, to contextualize the collected telemetry and insights delivered to the end-users.</p>
+<p>You can read more about the project <a href="https://grafana.com/blog/2021/10/28/open-source-done-right-why-canonical-adopted-grafana-loki-and-grafana-agent-for-their-new-stack/">here</a> and <a href="https://juju.is/blog/model-driven-observability-part-1">here</a>.</p>
+<h3><strong>What you’ll do</strong></h3>
+<ul>
+<li>Collaborate proactively with a globally distributed team</li>
+<li>Write, test and document high quality code to create new features</li>
+<li>Debug issues and interact with a vibrant community</li>
+<li>Review code produced by other engineers</li>
+<li>Attend conferences to represent Canonical and the Charmed Observability Stack</li>
+<li>Work from home with global travel 2 to 4 weeks for internal and external events</li>
+</ul>
+<h3><strong>Who you are</strong></h3>
+<ul>
+<li>You love technology, observability and working with brilliant people</li>
+<li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li>
+<li>You have a Bachelor’s or equivalent in Computer Science, STEM or similar degree</li>
+<li>You have a proven understanding of the importance of observability and monitoring for keeping software running smoothly</li>
+<li>You have strong working knowledge of modern monitoring technologies like Prometheus, Alertmanager, Grafana, Loki, Mimir, etc., and how they fit together</li>
+<li>You are a skilled Python developer, preferably with a track record in open source</li>
+<li>You have a working knowledge of Go</li>
+<li>You have proven, hands-on experience deploying, configuring and using Kubernetes</li>
+<li>You are comfortable contributing to open source codebases maintained by other companies, you have a history of driving consensus in groups of multiple stakeholders with different interests and getting the resulting work delivered</li>
+<li>You have experience with infrastructure-as-code and configuration management tools</li>
+<li>You have interest and experience with two or more of the following: Ubuntu Linux, container images, Debian packaging, snap, distributed systems.</li>
+</ul>
+<p><em>We are proud to foster a workplace free from discrimination. We truly believe that diversity of experience, perspectives, and background will lead to a better environment for our employees and a better platform for our users and customers. This is something we value deeply and we encourage everyone to come be a part of the world of Ubuntu.</em></p><p>Requisition ID: 405</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1545121577632763912/7FMnABb0_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Collabora</h5>
+                    <h3>CI/Testing Infrastructure Developer (Remote/Anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/collabora/7dd88e28-ffd5-4d6c-b54b-8a6c42cd7e85" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div>Collabora is currently looking for a very technically capable, enthusiastic and passionate Continuous Integration (CI) &amp; Testing Developer to join its ever-growing engineering team.</div><div><br></div><div>As a member of the CI &amp; Testing  team, your primary focus will be to participate in the development,  integration and deployment of Open Source Continuous Integration and  Automated Testing systems in upstream projects. The scope of the work ranges from hardware automation through LAVA, to systems like KernelCI and Mesa CI.</div></div><div class="section page-centered"><div><h3>Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Analyse  a project's needs for automated testing and design an implementation plan to discuss with the upstream community and Collabora's customers</li><li>Monitor and identify areas of improvement for existing upstream Continuous Integration systems</li><li>Implement  the CI system by integrating the required dependencies, building the  code at test, deploying it to the device under testing, executing the  tests and distributing and presenting the results</li><li>Represent Collabora at conferences and trade shows to demonstrate and promote our leadership in the open source arena</li><li>Understand client needs and reconcile time constraints, available technologies and resources, and Open Source best practices</li></ul></ul></div></div><div class="section page-centered"><div><h3>Desired Skills</h3><ul class="posting-requirements plain-list"><ul><li>Good understanding of Continuous Integration systems</li><li>Experience with Gitlab CI/CD and/or GitHub Actions</li><li>Experience with Python and Python frameworks such as Django, Flask, FastAPI</li><li>Knowledge of open source development methodologies and relevant open source communities</li><li>Good English language skills (both verbal and written)</li><li>Ability to work and communicate in a fully distributed environment, completely online</li></ul></ul></div></div><div class="section page-centered"><div><h3>Additional Skills - for some projects, possessing any of these skills can be very helpful</h3><ul class="posting-requirements plain-list"><ul><li>Familiarity with the upstream Linux kernel development workflow</li><li>Embedded development experience (firmware, bootloaders, kernel, BSP)</li><li>Knowledge about OpenGL and/or Vulkan GPU drivers</li><li>Sysadmin/DevOps experience</li><li>Fluency with Kubernetes</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Collabora  is a software consultancy specialising in bringing companies and the  Open Source community together. We combine years of Open Source software  leadership with an understanding of the challenges that businesses, non-profits and governments face. Collabora brings deep technical expertise in  system integration &amp; architecture, graphics, multimedia, web engines  and communications to a number of market verticals, including mobile,  IVI / automotive, set top box / smart TV, and a range of other  specialised embedded applications.</div><div><br></div><div>Collabora  has the unique business model of enabling enterprises to leverage Open  Source software in their solutions. Having worked with notable industry  leading companies in the automotive, aerospace and handset mobile  verticals amongst many others, Collabora has established a broad  customer portfolio.</div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/7dd88e28-ffd5-4d6c-b54b-8a6c42cd7e85/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1545121577632763912/7FMnABb0_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Collabora</h5>
+                    <h3>Embedded Systems Linux Developer (Remote/Anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/collabora/6ca2eb05-7e80-4d80-ab70-ecb8f79fb25a" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div>We are currently looking for passionate and enthusiastic Embedded Systems Linux software developers (junior, middle, senior) with Open-Source exposure to join our ever growing geographically-distributed engineering team.  </div><div><br></div><div>As a member of the Core domain team, you will focus on developing, adapting, integrating, packaging and validating - ("make it work") - multiple Linux system software libraries, bundling applications through containers with appropriate security profiles through Linux application security systems into Linux-based distributions for different customers’ projects and products.</div><div><br></div><div><b style="font-size: 24px">Who are we?</b></div><div><br></div><div>Our raison d’être is to accelerate the adoption of Open Source technologies, methodologies &amp; philosophy. We strive towards this goal by providing consulting services specialized in bringing companies and the Open Source community together. Being part of the Open Source community, we believe in a world of shared knowledge and collaboration for the advancement of humanity and we are always enthusiastic about sharing, teaching and learning with everyone around us.</div><div><br></div><div>Our highly technical and talented team, distributed across 25+ geographies all over the world, brings deep technical expertise in system integration &amp; architecture, Linux kernel, graphics, multimedia, web engines and communications to a number of market verticals, including mobile, IVI / automotive, set top box / smart TV, and a range of other specialized embedded applications (low-latency audio/video, audio/video streaming solutions, audio/video editing...).</div><div><br></div></div><div class="section page-centered"><div><h3>Must Haves</h3><ul class="posting-requirements plain-list"><ul><li>Linux experience</li><li>Knowledge of open source development methodologies and open source communities such as Debian and/or Yoco</li><li>Expertise in Flatpak run-times and integration in Linux distros</li><li>Any track record of experience with direct contributions in the GNU/Linux distributions packaging</li><li>Knowledge of essential libraries and services such as D-Bus and systemd </li></ul></ul></div></div><div class="section page-centered"><div><h3>Great to Haves</h3><ul class="posting-requirements plain-list"><ul><li>Exposure to GitLab CI, Open Build Service (OBS) and OSTree</li><li>Familiarity with one or more of Collabora's market verticals</li><li>BS/BA or experience in the role of Engineer</li></ul></ul></div></div><div class="section page-centered"><div><h3>Desired Personal Skills</h3><ul class="posting-requirements plain-list"><ul><li>Self-motivated</li><li>Self-learner</li><li>Good interpersonal skills</li><li>Good English proficiency (both verbal and written)</li><li>Ability to work in an online distributed environment</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/6ca2eb05-7e80-4d80-ab70-ecb8f79fb25a/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1545121577632763912/7FMnABb0_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Collabora</h5>
+                    <h3>GStreamer Developer (Remote/Anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/collabora/c0b58692-3899-468f-9657-0561853cf0e5" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div>Collabora is looking for remote GStreamer Developer to join its Multimedia team.</div><div><br></div><div>Are you a passionate and enthusiastic about GStreamer ? Are you part of the community or do you wish you could contribute more ?</div><div><br></div><div>Are you striving for technical excellence and seeking for opportunities to learn and develop?</div><div><br></div><div>Are you looking for a flexible remote work opportunity that stretches your abilities?</div><div><br></div><div>This job opportunity might be for you!</div><div><br></div><div><br></div><div><b style="font-size: 24px">What you can expect to work on?</b></div><div>First and foremost, as a consultant, you will be helping our customers on a wide variety of projects and products across various market segments. Here are few examples of recent projects we have worked on:</div><div>- We developed a build system to tailor/size GStreamer for a specific application (minimizing memory footprint and usage)</div><div>- We built a desktop sharing system using GStreamer and WebRTC</div><div>- As part of our project to have upstream Linux support for all hardware codecs, we built the GStreamer support for V4L2 codecs, more recently adding support for stateless hardware codecs.</div><div><br></div><div><br></div><div><b style="font-size: 24px">Must Haves</b></div><div>- Understanding of software and programming concepts, including C and GObject</div><div>- Strong knowledge of the GStreamer multimedia framework, in particular, the development of plugins, element and complex dynamic pipelines.</div><div>- Knowledge of other related multimedia technologies (codecs, containers, streaming protocols)</div><div><br></div><div><br></div><div><b style="font-size: 24px">Great to Haves</b></div><div>- Knowledge of open source development methodologies and good standing in the open source community is a big plus</div><div>- Contributions to the GStreamer project or related projects</div><div>- Experience working with Linux embedded systems</div><div><br></div><div><br></div><div><b style="font-size: 24px">Desired Personal Skills</b></div><div>- Self-motivated</div><div>- Self-learner</div><div>- Good interpersonal skills</div><div>- Good English proficiency (both verbal and written)</div><div>- Ability to work in an online distributed environment</div><div><br></div><div><br></div><div><b style="font-size: 24px">Who are we?</b></div><div>Our raison d’être is to accelerate the adoption of Open Source technologies, methodologies &amp; philosophy. We strive towards this goal by providing consulting services specialized in bringing companies and the Open Source community together. Being part of the Open Source community, we believe in a world of shared knowledge and collaboration for the advancement of humanity and we are always enthusiastic about sharing, teaching and learning with everyone around us.</div><div><br></div><div>Our highly technical and talented team, distributed across 25+ geographies all over the world, brings deep technical expertise in system integration &amp; architecture, linux kernel, graphics, multimedia, web engines and communications to a number of market verticals, including mobile, IVI / automotive, set top box / smart TV, and a range of other specialized embedded applications (low-latency audio/video, audio/video streaming solutions, audio/video editing...).</div><div><br></div><div>#LI-Remote</div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/c0b58692-3899-468f-9657-0561853cf0e5/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1545121577632763912/7FMnABb0_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Collabora</h5>
+                    <h3>Mesa/Graphics Software Developer (Remote/Anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/collabora/6e42d611-2f86-4c25-9d84-43c39b8f6c3c" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div>We are looking for a passionate and enthusiastic open-source software developer, with contributions to the Mesa 3D Graphics Library, to join our ever growing geographically-distributed Graphics domain team.</div><div>&nbsp;</div><div>The Graphics domain team is contributing to the entire Linux Graphics stack from the Linux kernel up to the Graphics toolkits including but not limited to DRI and kernel-mode graphics drivers, Wayland/Weston, OpenGL, Vulkan, OpenGL/EGL and other open-source Graphics drivers within the Mesa 3D Graphics Library for different customers’ projects in various market verticals.</div></div><div class="section page-centered"><div><h3>Key Responsibilites</h3><ul class="posting-requirements plain-list"><ul><li>Discussing technology with clients and represent Collabora at conferences and trade shows to demonstrate and promote our leadership in the open source arena</li><li>Analysing client problems and designing solutions leveraging open source &nbsp;technologies and Collabora's technical expertise</li><li>Defining and scoping client projects in collaboration with the delivery team</li><li>Contributing publicly to open source projects to ensure Collabora's continuing technical leadership</li><li>Gain working knowledge of customers’ products, applications, technical and business strengths and target markets</li><li>Understanding client needs and reconciling time constraints, available technologies and resources, and open source best practices</li></ul></ul></div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li>Experience with direct contributions to the Mesa 3D Graphics Library: OpenGL, Vulkan, DRI, Gallium drivers...</li><li>Linux experience </li><li>Knowledge of open source development methodologies and relevant open source communities</li><li>Good English language skills (both verbal and written) </li><li>Ability to work and communicate in an online fully distributed environment </li></ul></ul></div></div><div class="section page-centered"><div><h3>Desired Skills</h3><ul class="posting-requirements plain-list"><ul><li>Experience with CI (Jenkins/LAVA, GitLab CI in particular) and testing (Piglit, GL/Vulkan CTS, dEQP) is a plus</li><li>Self learning skill to get sufficient knowledge of Collabora's services,  business model, project delivery life cycle and other related technical  domains</li><li>BS/BA or experience in the role of Engineer</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Collabora is a software consultancy specializing in bringing companies and the Open Source community together. We combine years of Open Source software leadership with an understanding of the challenges that businesses, non-profits, and governments face. Collabora brings deep technical expertise in system integration &amp; architecture, graphics, multimedia, web engines and communications to a number of market verticals, including mobile, IVI / automotive, set top box / smart TV, and a range of other specialized embedded applications.</div><div><br></div><div>Collabora has the unique business model of enabling enterprises to leverage Open Source software in their solutions. Having worked with notable industry leading companies in the automotive, aerospace and handset mobile verticals amongst many others, Collabora has established a broad customer portfolio.</div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/6e42d611-2f86-4c25-9d84-43c39b8f6c3c/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1545121577632763912/7FMnABb0_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Collabora</h5>
+                    <h3>Multimedia Open Source Software Developer (Remote/Anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/collabora/2039ccce-4c84-45ac-94f0-a0103b22a258" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div>Collabora is looking for remote Open Source Software Developer to join its Multimedia team.</div><div><br></div><div>Are you a passionate and enthusiastic about Multimedia, Linux and Open Source Software?</div><div><br></div><div>Are you striving for technical excellence and seeking for opportunities to learn and develop?</div><div><br></div><div>Are you looking for a flexible remote work opportunity that stretches your abilities?</div><div><br></div><div>This job opportunity might be for you!</div><div><br></div><div><br></div><div><b style="font-size: 24px">What you can expect to work on?</b></div><div>First and foremost, as a consultant, you will be helping our customers on a wide variety of projects and products across various market segments. Here are few examples of recent projects we have worked on:</div><div>- We designed new V4L2 stateless codec APIs in the Linux kernel and implementation of the userspace part as a GStreamer plugin</div><div>- We developed a build system to tailor/size GStreamer for a specific application (minimizing memory footprint and usage)</div><div>- We built an Open Source, SRT based (Secure Reliable Transport), system to stream video cameras targeted at drones and robots</div><div><br></div><div><br></div><div><b style="font-size: 24px">Must Haves</b></div><div>- Understanding of software and programming concepts, including C/C++, object oriented design</div><div>- Knowledge of multimedia technologies such as frameworks (GStreamer, StageFright, Video4Linux2, libcamera, VLC, etc), containers and codecs from MPEG, Xiph, DVB, IETF...</div><div>- Knowledge of multimedia networking technologies and transmission protocols (RTP,  RTSP, WebRTC, MPEG-DASH, HLS...)</div><div><br></div><div><br></div><div><b style="font-size: 24px">Great to Haves</b></div><div>- Knowledge of open source development methodologies and good standing in the open source community is a big plus</div><div>- Contributions to relevant open source projects (GStreamer, PipeWire, libcamera, PulseAudio, FFmpeg, VLC...) or relevant parts of the Linux kernel</div><div><br></div><div><br></div><div><b style="font-size: 24px">Desired Personal Skills</b></div><div>- Self-motivated</div><div>- Self-learner</div><div>- Good interpersonal skills</div><div>- Good English proficiency (both verbal and written)</div><div>- Ability to work in an online distributed environment</div><div><br></div><div><br></div><div><b style="font-size: 24px">Who are we?</b></div><div>Our raison d’être is to accelerate the adoption of Open Source technologies, methodologies &amp; philosophy. We strive towards this goal by providing consulting services  specialized in bringing companies and the Open Source community together. Being part of the Open Source community, we believe in a world of shared knowledge and collaboration for the advancement of humanity and we are always enthusiastic about sharing, teaching and learning with everyone around us.</div><div><br></div><div>Our highly technical and talented team, distributed across 25+ geographies all over the world, brings deep technical expertise in system integration &amp; architecture, linux kernel, graphics, multimedia, web engines and communications to a number of market verticals, including mobile, IVI / automotive, set top box / smart TV, and a range of other specialized embedded applications (low-latency audio/video, audio/video streaming solutions, audio/video editing...).</div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/2039ccce-4c84-45ac-94f0-a0103b22a258/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1545121577632763912/7FMnABb0_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Collabora</h5>
+                    <h3>Open Source Software Developer  (Speculative; Remote/Anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/collabora/f38d3f97-a52b-4963-8917-ad8016b43c23" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div>We are always looking for passionate and talented software developers to join our geographically-distributed engineering team. If you do not think your profile can fit any of the other targeted job openings on our web site, as we are eager to learn more about you, just apply to this one and we will definitely look into your application.</div></div><div class="section page-centered"><div><h3>Key Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Discussing 	technology with clients and represent Collabora at conferences and  trade shows to demonstrate and promote our leadership in the open  source arena</li><li>Analysing client problems and designing solutions leveraging open source  technologies and Collabora's technical expertise</li><li>Defining and scoping client projects in collaboration with the delivery team</li><li>Contributing publicly to open source projects to ensure Collabora's continuing technical leadership</li><li>Gain working knowledge of customers’ products, applications, technical and business strengths and target markets</li><li>Understanding 	client needs and reconciling time constraints, available technologies and resources, and open source best practices</li></ul></ul></div></div><div class="section page-centered"><div><h3>Desired Skills</h3><ul class="posting-requirements plain-list"><ul><li>Track record of experience in software development is essential</li><li>Knowledge 	of open source development methodologies and good standing in the open source community</li><li>Good English language skills (both verbal and written) </li><li>Ability to work and communicate in an online distributed environment</li><li>Existing familiarity with one or more of Collabora's market verticals is preferable</li><li>BS/BA or experience in the role of Engineer </li><li>Demonstrable contributions to components in open source projects</li><li>Preferable experience with direct development on one (or more) of WebKit, 	Blink, GStreamer, FFMPEG, libav, X11, wayland/weston, Jenkins, OBS, lava, Linux kernel/device drivers, distribution integration, porting</li><li>Self learning skills to get sufficient knowledge of Collabora's services, business model, project delivery life cycle and other related technical domains</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 12pt">Collabora is a software consultancy specializing in bringing companies and the Open Source community together. We combine years of Open Source software leadership with an understanding of the challenges that businesses, non-profits, and governments face. Collabora brings deep technical expertise in system integration &amp; architecture, graphics, multimedia, web engines and communications to a number of market verticals, including mobile, IVI / automotive, set top box / smart TV, and a range of other specialized embedded applications.</span></div><div><br></div><div><span style="font-size: 12pt">Collabora has the unique business model of enabling enterprises to leverage Open Source software in their solutions. Having worked with notable industry leading companies in the automotive, aerospace and handset mobile verticals amongst many others, Collabora has established a broad customer portfolio.</span></div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/f38d3f97-a52b-4963-8917-ad8016b43c23/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1545121577632763912/7FMnABb0_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Collabora</h5>
+                    <h3>Vulkan/OpenGL Software Developer (Remote/Anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/collabora/bd4a9eb8-528f-4553-a832-ca6949ab46bd" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div>Collabora is looking for a passionate and enthusiastic open-source software developer, with good knowledge of at least one of OpenGL or Vulkan, to join our ever growing geographically-distributed Graphics domain team.</div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li>Good knowledge of at least one of the OpenGL or Vulkan APIs</li><li>Experience developing on Linux systems</li><li>Knowledge of open source development methodologies and relevant open source communities</li><li>Good English language skills (both verbal and written)&nbsp;</li><li>Ability to work and communicate in an online fully distributed environment </li></ul></ul></div></div><div class="section page-centered"><div><h3>Desirable Skills (The below are skills that to some degree will be useful at the start of your career within Collabora. Training and opportunities for development will be offered)</h3><ul class="posting-requirements plain-list"><ul><li>Experience profiling and optimizing application's use of the GPU</li><li>Experience with developing GPU compilers</li><li>Direct contributions to the Mesa 3D Graphics Library</li><li>Experience leading teams to understand and define constraints, requirements and solutions</li><li>Good communication with customers and upstream communities</li><li>Self-learning skills to get sufficient knowledge of Collabora's services,&nbsp;business model, project delivery life cycle and other related technical domains</li><div><br></div></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Collabora's Graphics team contributes to the entire Linux Graphics stack, from the Linux kernel up to the display servers, including but not  limited to GPU and display kernel drivers, Wayland/Weston, OpenGL, Vulkan and other open-source graphics drivers within the Mesa 3D Graphics Library for different customers’ projects in various market verticals.</div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/bd4a9eb8-528f-4553-a832-ca6949ab46bd/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1545121577632763912/7FMnABb0_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Collabora</h5>
+                    <h3>Python Web Developer - Systems (Remote/Anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/collabora/7b5a45c0-9535-4aff-8553-3affbad5337f" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div>Collabora is looking for Web/Systems Software Developers of all levels of experience to join our in-house Systems Development team. The Systems Development team supports and develops the software tools used within the company to help deliver client projects and effectively run the business. The team is not client facing. Working in a friendly and highly cooperative environment with colleagues from every part of the company, you will help to deliver software involved in planning, business intelligence, communications, project management, security and accounting.</div><div><br></div><div>You will be supported and encouraged to create and contribute to free-software and help advance our presence in the Open Source world.</div><div><br></div><div>Our ecosystem includes (but is not limited to) Python/Django, MariaDB, Redis, GitLab, Grafana, SuiteCRM, Phabricator, Mattermost, OTRS, Chef, Docker and Kubernetes.</div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li>Strong Python  </li><li>Experience building for the web, especially using Django  </li><li>Understanding of typical open-source web architectures and stacks  </li><li>A respectful and pragmatic approach to providing technical support  </li><li>Some experience in PHP, JavaScript and Linux shell scripting  </li><li>Good English proficiency (both verbal and written)  </li><li>Ability to work in an online, globally distributed company  </li><li>A desire to work with open source communities</li></ul></ul></div></div><div class="section page-centered"><div><h3>Additional Skills for Senior Applicants</h3><ul class="posting-requirements plain-list"><ul><li>Experience writing well-tested code in business critical systems (e.g. finance)  </li><li>Familiarity with container-based working, e.g. Docker, Podman, Kubernetes  </li><li>Experience using, maintaining and designing CI  </li><li>Experience with database schema design and optimisation  </li><li>A solid grounding in Linux system and database administration and networking concepts  </li><li>A positive approach to designing and developing applications with a variety of stakeholders</li><li>Experience building and using existing web APIs in order to integrate systems  </li><li>Demonstrable technical writing skills (documentation, blogs)  </li><li>Skills in other modern languages (Go/Rust/Ruby) and frameworks such as Laravel, Rails  </li><li>Knowledge of security- and privacy-by-design principles  </li><li>A willingness to mentor more junior engineers</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Collabora is a software consultancy specializing in bringing companies and the Open Source community together. We combine years of Open Source software leadership with an understanding of the challenges that businesses, non-profits, and governments face. </div><div><br></div><div>Collabora brings deep technical expertise in system integration &amp; architecture, graphics, multimedia, web engines and communications to a number of market verticals, including mobile, IVI / automotive, set top box / smart TV, and a range of other specialized embedded applications.</div><div><br></div><div>Collabora has the unique business model of enabling enterprises to leverage Open Source software in their solutions. Having worked with notable industry leading companies in the automotive, aerospace and handset mobile verticals amongst many others, Collabora has established a broad customer portfolio</div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/7b5a45c0-9535-4aff-8553-3affbad5337f/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1545121577632763912/7FMnABb0_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Collabora</h5>
+                    <h3>Senior Fullstack Developer (Remote/Anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/collabora/d724930d-ce73-4415-ac7e-a3ef275db155" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div>We at Collabora are looking for Fullstack Web Application Developers to join our in-house Tools team.</div><div><br></div><div>The  Tools team develops and supports applications used by our colleagues to  execute, analyse and inform the delivery of projects in every area of  the business. We want to build the future of business automation in the free software domain.</div><div><br></div><div>As  a Senior Fullstack Developer you will be working closely with other  Tools Developers, users, Product Owners, the Delivery Team and People Leads to give them the tooling they need to support and protect the  unique way in which Collabora works.</div><div><br></div><div>You  will need to be a specialist in building secure, well-tested web  applications using Django, make sensible choices about UI and know how  to get things deployed.</div><div><br></div><div>You'll  be able to capture, simplify and model real-world processes and  structures, and keep those models updated as requirements evolve.</div><div><br></div><div>You will know how to reverse engineer and fix things you haven't seen before, and you will know how to make slow things go fast.</div></div><div class="section page-centered"><div><h3>You will be patient and pragmatic, careful and caring, and will take seriously the team's mission to maximise:</h3><ul class="posting-requirements plain-list"><ul><li>Engineers' freedom to work on things at which they are *excellent*</li><li>Our colleagues' headspace for personal development and learning</li><li>The role of open source in all business operations</li><li>The richness of everybody's cultural experience within Collabora</li></ul></ul></div></div><div class="section page-centered"><div><h3>In return, the business will provide:</h3><ul class="posting-requirements plain-list"><ul><li>An open engineering culture where you will be able to exchange ideas with technical experts in a wide range of software fields</li><li>Meetups and conference attendance (COVID permitting)</li><li>Flexible hours and a battle-tested remote working culture</li><div><br></div><div>If you care about open source and writing software to help companies regain control of their operations, then please apply!</div></ul></ul></div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li>Strong Python, Django, SQL, JavaScript, HTML, CSS</li><li>Experience designing and implementing web architectures, and configuring their components (e.g. NGinx, Redis)</li><li>Willingness to support and mentor other engineers</li><li>Experience solving challenges with observability and diagnostics</li><li>A respectful and pragmatic approach to providing technical support to users</li><li>A solid grounding in Linux system administration and networking concepts</li><li>Good English proficiency</li><li>Familiarity with container-based working, e.g. Docker or Podman, Kubernetes</li><li>Experience using, maintaining and designing CI and other DevOps processes</li><li>Experience with database schema design and optimisation</li><li>Willingness to occasionally do some PHP even if through gritted teeth</li><li>Demonstrable technical writing skills (documentation, blogs)</li><li>Knowledge of security- and privacy-by-design principles</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><b>About Collabora</b></div><div><br></div><div>Collabora  is a software consultancy specializing in bringing companies and the  Open Source community together. We combine years of Open Source software  leadership with an understanding of the challenges that businesses,  non-profits, and governments face.</div><div><br></div><div>Collabora  brings deep technical expertise in system integration &amp;  architecture, graphics, multimedia, web engines and communications to a  number of market verticals, including mobile, IVI/automotive, set top  box/smart TV, and a range of other specialized embedded applications.</div><div><br></div><div>Collabora  has the unique business model of enabling enterprises to leverage Open  Source software in their solutions. Having worked with notable industry  leading companies in the automotive, aerospace and handset mobile  verticals amongst many others, Collabora has established a broad customer portfolio.</div><div><br></div><div>#LI-Remote</div><div><br></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/d724930d-ce73-4415-ac7e-a3ef275db155/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr></table>
