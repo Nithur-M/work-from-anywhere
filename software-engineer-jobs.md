@@ -3,118 +3,6 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>LeadSimple, Inc.</h5>
-                    <h3> Senior Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>32 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-senior-software-engineer-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Washington State, U.S.A.
-    <br /><strong>URL:</strong> <a href="https://www.leadsimple.com/careers">https://www.leadsimple.com/careers</a>
-</p>
-
-<div>🚀 Want to join a team of A-players in an exciting, high-growth, entrepreneurial environment?</div><div><br></div><div><strong>LeadSimple is a small team solving big problems in the property management industry. Bootstrapped since 2013, we're passionate about helping small businesses grow sustainably.</strong></div><div><br></div><div>Our software provides a powerful foundation for any property management company to take their business to the next level. Thousands of property managers rely on us for their day-to-day operations and we’re only getting started. </div><div><br></div><div>We’re looking for seasoned Senior and Lead Ruby on Rails Engineers to join our fully-remote team to help us scale to meet market demand. This is an opportunity to join on the ground floor of a bootstrapped, growing company with a lot of upside.</div><div><br></div><div><strong>What we’d want you to do:</strong></div><div><br></div><ul>
-<li>Assist with complex migration projects, such as:</li>
-<li>Modernizing our back-end stack (we’re currently on Rails 4)</li>
-<li>Optimizing our API and PostgreSQL database for scale and performance</li>
-<li>Suggest and implement scalability improvements</li>
-<li>Collaborate with the rest of the team in weekly meetings, chat and code reviews</li>
-<li>Develop new full-stack features from start to finish using the <a href="https://basecamp.com/shapeup/webbook">Shape Up method</a>
-</li>
-<li>Write high-quality and maintainable Ruby and Typescript code</li>
-</ul><div><br></div><div><strong>Qualifications</strong></div><div><br></div><div><em>Must have</em></div><ul>
-<li>5+ years of experience with Ruby on Rails</li>
-<li>Fluent spoken and written English at a professional level.</li>
-<li>Working hours must overlap with PST for at least 3 hours.</li>
-<li>Familiarity with PostgreSQL query optimization and scaling strategies</li>
-<li>Strong analytical and debugging skills</li>
-<li>Strong communication skills, able to recommend decisions using data and experience</li>
-</ul><div><br></div><div><em>Nice to have</em></div><ul>
-<li>Prior experience upgrading Ruby on Rails (this would be a big plus!)</li>
-<li>React, Typescript or GraphQL experience</li>
-<li>Elixir experience (we have 1 service using Elixir)</li>
-</ul><div><br></div><div><strong>Our Stack</strong></div><div><br></div><div><em>Front-end</em></div><ul>
-<li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-<li>
-<a href="https://reactjs.org/">React</a> </li>
-<li><a href="http://mui.com/">MaterialUI</a></li>
-<li>
-<a href="https://relay.dev/">Relay<br></a><br>
-</li>
-</ul><div>
-<em>Back-end<br></em><br>
-</div><ul>
-<li>
-<a href="http://rubyonrails.org/">Ruby on Rails</a> monolith (with 95% test coverage)</li>
-<li>GraphQL (via <a href="https://graphql-ruby.org/">graphql-ruby</a> gem)</li>
-<li>Sidekiq</li>
-<li>PostgreSQL</li>
-<li>Redis</li>
-<li>Heroku<br><br>
-</li>
-</ul><div><br></div><div>
-<strong>What it’s like to work here<br></strong><br>
-</div><ul>
-<li>You’ll have opportunities to work on the entire stack, from databases to user interfaces and everything in between, in a wide variety of product areas.</li>
-<li>You’ll own the delivery of high-impact projects that affect real customers, from start to finish, with no bureaucracy, following the <a href="https://basecamp.com/shapeup/webbook">Shape Up method</a>. </li>
-<li>You’ll collaborate within a small, highly productive team, reviewing code and helping other engineers with their roadblocks.</li>
-<li>You’ll have time to focus. We don’t micromanage, and we do our best to keep distractions (and meetings) to a minimum. </li>
-<li>When assigned to on-call duty, you’ll investigate and fix bugs and respond to incidents. </li>
-<li>You’ll deploy early and often. We ship to production multiple times per day.<br><br>
-</li>
-</ul><div>
-<strong><br>Benefits<br></strong><br>
-</div><ul>
-<li>Remote-only team, location independent</li>
-<li>3rd Friday of every month off</li>
-<li>6 US Holidays</li>
-<li>3 Weeks Paid Time Off (in addition to the above)</li>
-<li>Quarterly Two-Week Hackathons</li>
-<li>Monthly Healthcare Allowance</li>
-<li>Yearly Vacation Allowance</li>
-<li>$2000 equipment stipend upon hire</li>
-<li>Focused and dedicated environment with smart, caring people</li>
-<li>Consistent, but flexible working schedule with minimum 3hr Pacific Time Zone overlap</li>
-<li>Mission driven, non-political company and values-based culture<br><br>
-</li>
-</ul><div>
-<strong>Our Interview Process<br></strong><br>
-</div><ul>
-<li>Fill out our application, located <a href="https://docs.google.com/forms/d/e/1FAIpQLSeF5zo6hIcTQK8gP9LLGz6sTZMXGI1vDHPVbkpISxiy9CvOfQ/viewform?usp=sf_link">here</a>
-</li>
-<li>Intro call (30 minutes)</li>
-<li>Offline work sample test (up to 60 minutes)</li>
-<li>Work history interview with Hiring Manager (up to 90 minutes)</li>
-<li>Culture interview with People Operations<strong> </strong>(30 minutes)</li>
-<li>Meet the CTO<strong> </strong>(30 minutes)</li>
-<li>Meet the CEO (30 minutes)</li>
-<li>Offer call (15 minutes), followed by a written offer</li>
-<li>If you accept the offer, you enter a 90-day trial period, fully paid.</li>
-<li>If all goes well in your first 90 days, you convert to a full-time team member!</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-senior-software-engineer-2">https://weworkremotely.com/remote-jobs/leadsimple-inc-senior-software-engineer-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
                     <h5>Sticker Mule</h5>
                     <h3> Software Engineer (C++)</h3>
                 </td>
@@ -122,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>47 days ago</text>
+                <text>48 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -178,7 +66,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>150 days ago</text>
+                <text>151 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer" align="right" target="_blank">Apply</a>
@@ -214,7 +102,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>241 days ago</text>
+                <text>242 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3" align="right" target="_blank">Apply</a>
@@ -256,30 +144,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3">https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1613532/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>IOVLabs</h5>
-                    <h3>Senior Software Engineer (RUST)</h3>
-                </td>
-                <td width="300">
-                    <code>crypto,javascript,legal,node.js</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-rust-1613532" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b style="font-size: 12pt">About IOV Labs</b></div><div><br></div><div><span style="font-size: 12pt">Our purpose is to build a more decentralized world for a freer and fairer financial future. We develop technology to re-engineer the way value is created and moved around the world. Our mission is bold. Our vision is big, and our purpose is deep. We achieve our objectives as a team by using the IOV Labs values as our guiding principles. Our values reflect the fact that we’re a global, distributed team that embraces complex and revolutionary decentralized technologies, guided by a strong social purpose. If you’re keen to join the technological revolution at IOV Labs, keep reading! </span></div><br><br><div class="h3">About the role</div><ul style=""><li style="">We are looking for a Senior Software Engineer to join our Payments team. The candidate will be collaborating to design, implement and maintain protocols and services, peer reviewing code, documenting and testing features. The candidate is expected to also be focused on improving the team's work processes, implementing changes to streamline operations, and bringing best practices from his/her experience.  Should be open-minded, passionate, analytical, and hard-working interested in agile and decentralized organizations and enthusiastic about the blockchain ecosystem.</li></ul><br><br><div class="h3">Responsibilities: </div><ul style=""><li style="">Actively participate during the product design phases, analyzing requirements and proposing innovative and alternative solutions.</li></ul><ul style=""><li style="">Collaborate on architecture definitions, always thinking of solutions that are scalable and secure.</li></ul><ul style=""><li style="">Develop quality code, with emphasis on correctness of implementation.</li></ul><ul style=""><li style="">Write and support unit/integration tests</li></ul><ul style=""><li style="">Collaborate in the evolutionary maintenance of the product.</li></ul><ul style=""><li style="">Conduct independent research in your area of ownership; design, implement, and document solutions.</li></ul><br><br><div class="h3">You’d be a great candidate if you have:</div><ul style=""><li style="">Bachelor or advanced student of Computer Science, Computer Engineering or related.</li></ul><ul style=""><li style="">Strong experience with 6+ years as a Software Engineer in high performing teams.</li></ul><ul style=""><li style="">Knowledge about software architecture principles, design patterns, performance, and software engineering best practices.</li></ul><ul style=""><li style=""><b>Expertise in web applications and architecture.</b></li></ul><ul style=""><li style=""><b>Experience in RustVast experience in Javascript, Typescript, and node.js</b></li></ul><ul style=""><li style="">Experience in relational and non-relational databases.</li></ul><ul style=""><li style="">Experience in functional programming.</li></ul><ul style=""><li style=""><b>Willingness to learn decentralized technologies and work on all layers of the stack</b><a class="postings-link" href="http://stack.Ability" rel="nofollow">.</a></li></ul><ul style=""><li style="">Ability to permanently learn from new technologies and work on a fast-paced  team with many diverse projects.</li></ul><ul style=""><li style="">Advanced English language proficiency.</li></ul><br><br><div class="h3">Bonus Points</div><ul style=""><li style="">3+ years of experience working with RustExperience working in blockchain technology projects, smart contract development and/or dApps development.</li></ul><ul style=""><li style="">Computer security knowledge.</li></ul><ul style=""><li style="">Have experience working for objectives with remote teams.</li></ul><br><br><div class="h3">benefits &amp; Perks</div><ul style=""><li style="">Total Rewards Package includes:</li></ul><ul style=""><li style="">Competitive salary.</li></ul><ul style=""><li style="">Laptop and other working tools you might need.</li></ul><ul style=""><li style="">Rest of world: 100% remote working (contractor) from anywhere in the world. </li></ul><ul style=""><li style="">Possibility to work at your nearest WeWork space.</li></ul><ul style=""><li style="">Flexible working hours. You’re free to work however you work best.</li></ul><ul style=""><li style="">Paid holidays and personal leave days.</li></ul><ul style=""><li style="">Opportunity to work with state-of-the-art technology in a challenging and unique project.</li></ul><ul style=""><li style="">Internationally diverse and dynamic team with a clear vision and strategy.</li></ul><ul style=""><li style="">Training programs to learn everything about the crypto world.</li></ul><ul style=""><li style="">Language courses: English, Spanish or Chinese.</li></ul><ul style=""><li style="">Employee assistance program offering legal, financial, family, psychological and wellness counseling for you and your family.</li></ul><div><span style="font-size: 12pt">We are excited to see what you're made of!</span></div><div><br></div><div><i><span style="font-size: 12pt">IOV Labs embraces diversity and is proud to be an equal opportunity employer open to all qualified applicants regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, Veteran status, or any other legally protected status.</span></i></div><img src="https://remotive.com/job/track/1613532/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -752,6 +616,626 @@
 
     
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>C++ Graphics and Windowing System Software Engineer - Mir</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/4439935" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>We build a high-performance, high-efficiency stack for window managers and display subsystems in C++, called Mir. We're growing the team and looking for new colleagues who share our passion for precision, performance and user experience.</p>
+<p>Our goal is to enable the whole spectrum of graphics from single-purpose screens through edge devices to full desktop environments. We focus on developers who are building window compositing systems or device graphics experience, and aim to give them an amazing developer experience, security, and easy access to today's most used graphics toolkits and libraries.</p>
+<p>We work on Mir and solutions built on it like Ubuntu Frame, and we also set the pace for graphics enablement across the Ubuntu certified hardware ecosystem. Our daily drill includes design, development and testing of features in those pieces of software as well as responding to issues and user inquiries. Most of the software is written in C++, with support tooling in scripting languages. We're also considering Rust or Carbon as evolutionary steps forward.</p>
+<p>This is an excellent opportunity for someone who wants to have a meaningful impact on modern display technologies that will impact millions of developers. Canonical offers a fast-paced team environment and a career full of learning and development opportunities across the open source spectrum.</p>
+<h3>What you will do</h3>
+<ul>
+<li>Design and implement features across the Mir stack</li>
+<li>Assist in debugging, tracking down and fixing issues</li>
+<li>Improve tests and performance benchmarks to catch issues early</li>
+<li>Create documentation to enhance the developer experience</li>
+<li>Engage with the open source community and commercial partners</li>
+<li>Collaborate proactively with a distributed team</li>
+</ul>
+<h3>Required skills and experience</h3>
+<ul>
+<li>You have excellent, modern C++ programming taste</li>
+<li>You have a rigorous approach to software design, development and testing</li>
+<li>You have a solid understanding of asynchronous programming and concurrency patterns</li>
+<li>You have strong written and verbal communication skills to document and present software developed</li>
+<li>You are productive collaborating remotely and are highly motivated and organized</li>
+<li>You are familiar with Linux as a development and deployment platform</li>
+<li>You have proven ability to consistently deliver robust code to production</li>
+<li>Bachelor’s or equivalent in Computer Science, STEM or similar degree</li>
+</ul>
+<h3>Desirable skills and experience</h3>
+<ul>
+<li>Experience with the Wayland protocol ecosystem and compositors</li>
+<li>Familiarity with a range of Linux Desktop Environments</li>
+<li>Familiarity with OpenGL, Vulkan, and other graphics and animation frameworks</li>
+<li>You have experience developing and deploying on a Ubuntu/Debian system</li>
+</ul>
+<h3>What is Canonical?</h3>
+<p>Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, “the world’s best free software platform”. Our services help businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.</p>
+<p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your<a href="https://canonical.com/careers/diversity/identity"> identity</a>, we will give your application fair consideration.</em></p>
+<p>#LI-Remote&nbsp;</p><p>Requisition ID: 967</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Engineering Manager, Sustaining Software Engineering, Worldwide</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/4410480" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>This is an exciting opportunity for an engineering manager who is passionate about open source software, Linux and cloud computing. Come build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, the growing international software company behind Ubuntu.</p>
+<p>Sustaining Engineering is a critical team that resolves software bugs, code defects and other issues, from the kernel all the way up to the highest levels of the open source stack. This position leads one of our regional teams (EMEA, APAC, Americas) and is one of several managers, who report directly to the global Director of Sustaining Engineering.</p>
+<p>Our customers build large-scale mission critical infrastructure and application solutions on Ubuntu and open source from Canonical. Sustaining Engineering is at the end of the escalation path, working on solving the problem for the customer and for the benefit of the wider Open Source community. This team is well staffed with experts in every time zone and, while the work is always important to a customer and time is always of the essence, the team is resourced to ensure the good work-life balance and ongoing development of each team member.&nbsp;</p>
+<p>As an engineering manager in the Sustaining Engineering team, your primary responsibility is to the people you support: ensuring that they are growing as engineers, making valuable contributions, and generally having a great experience at Canonical. Technical leadership and a solid background in software development is a must, so that you are able to challenge and grow your team members. You will have the opportunity to influence the culture, facilitate technical delivery, and work with your team on strategy and execution.</p>
+<p><strong>Location: </strong>This job is open to applicants in all timezones, and is a full-time, remote position.&nbsp;</p>
+<h3><strong>What your day will look like</strong></h3>
+<ul>
+<li>Manage and lead a distributed team of engineers</li>
+<li>Hire, coach, mentor, provide feedback and career development guidance to your team</li>
+<li>Manage shift scheduling, measuring key performance indicators (KPIs), and training</li>
+<li>Support timely delivery of bug fixes, patches, and other technical solutions to address business needs in a variety of technology fields, including but not limited to Ubuntu, OpenStack, Ceph, Kubernetes, Juju &amp; MAAS</li>
+<li>Demonstrate the very best of Canonical in customer interactions</li>
+<li>Set and manage expectations with other engineering teams, senior management, and external stakeholders</li>
+<li>Advocate and advance modern software development practices</li>
+<li>Grow a healthy, collaborative engineering culture in line with the company value</li>
+<li>Collaborate with other teams in the organisation</li>
+<li>Work from home with global travel up to 10% for internal and external events</li>
+</ul>
+<h3><strong>What we are looking for in you</strong></h3>
+<ul>
+<li>Professional software delivery experience using C, C++, Go, Java, Python, or similar</li>
+<li>You are knowledgeable and passionate about software development</li>
+<li>Leadership experience displaying ability to organise and prioritise complex problem resolution and bug fixes</li>
+<li>Experience with version control systems such as git</li>
+<li>Experience with debugging tools such as gdb, crash or other</li>
+<li>Demonstrated strong commitment to testing methodologies and maintainable code quality</li>
+<li>Excellent communication skills in the English language, both verbal and written</li>
+<li>Experience with Linux, with a preference towards Ubuntu</li>
+<li>Experience with Open Source and Open Source Business Models</li>
+<li>People management experience in a support organisation is a strong plus</li>
+<li>You have interest and deep experience with three or more of the following: Ubuntu Linux - kernel or userspace, Kubernetes, OpenStack, Ceph, QEMU/KVM, LXC/LXD, Python, Go, C, Postgresql, Mongo, Debian packaging</li>
+</ul>
+<h3><strong>What we offer you</strong></h3>
+<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.&nbsp;&nbsp;</p>
+<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, please ask your Talent Partner.</p>
+<ul>
+<li>Fully remote working environment - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of 2,000USD per annum</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Parental Leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues at ‘sprints’</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h3><strong>About Canonical</strong></h3>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h3><strong>Canonical is an equal opportunity employer</strong></h3>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote&nbsp;</p><p>Requisition ID: 691</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Linux Software Engineering Manager - Ubuntu</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/3939050" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>We are scaling the Ubuntu Foundations Team which delivers the essential components of Ubuntu - our system startup, compilers, language runtimes and toolchains, as well as networking and storage config and management - and we are hiring engineering managers to enable that growth. These are highly technical management roles which require deep knowledge of the core of a Linux server system.</p>
+<p>As an Engineering Manager on the Foundations team, you must be passionate about the future of Ubuntu, mindful of the dynamics of the open source ecosystem, and equally aware of the needs of enterprise technologists. You will work closely with product managers to define and deliver the Ubuntu roadmap.</p>
+<p>Your primary responsibility is to your team: helping them grow as engineers, do important and satisfying work, and have a great time while doing it. Technical leadership experience and a background in software engineering are necessary prerequisites for this role. You will be expected to lead, challenge, and develop strong engineers, positively influence the culture, facilitate technical delivery, and work with your team on strategy and execution.</p>
+<p>This Engineering Management role is an opportunity for a technologist with a passion for Linux and Ubuntu to build a career with Canonical and drive the success of the business. If you have an affinity for open source development, then you will enjoy working with some of the best people in the industry at Canonical.</p>
+<h3>What you'll do</h3>
+<ul>
+<li>Demonstrate sound engineering principles through architecture, development and code reviews</li>
+<li>Be responsible for planning, estimation and execution</li>
+<li>Work with product management to define the vision and strategy for Ubuntu</li>
+<li>Set and manage expectations with other engineering teams, senior management, and external stakeholders</li>
+<li>Build and lead a distributed regional team of engineers</li>
+<li>Offer coaching, mentoring, technical feedback and hands-on career development</li>
+<li>Advocate and advance modern, agile software development practices</li>
+<li>Design, embrace and evangelize great engineering and organizational practices</li>
+<li>Grow a healthy, collaborative engineering culture in line with company values</li>
+<li>Be an active part of the leadership team and collaborate with other leaders in the organization</li>
+<li>Work from home with international travel up to 6 weeks per year for internal and external events</li>
+</ul>
+<h3>Valued skills and experience</h3>
+<ul>
+<li>Deep knowledge of Debian/Ubuntu architecture</li>
+<li>Good understanding of Debian packaging policy, tools and techniques</li>
+<li>High quality software engineering with in-depth knowledge of C/C++ and Python</li>
+<li>Engagement with open source communities and processes</li>
+<li>Experience in one or more of: Linux system architecture, boot process, Java/GCC/Python/Rust/Go toolchains, ARM and/or RISC-V</li>
+<li>Experience managing software developers with a track record of planning, delivery and quality</li>
+<li>A love of developing and growing people and a track record of doing it</li>
+<li>Experience working in an agile development environment</li>
+</ul>
+<h3>Canonical is an equal opportunity employer</h3>
+<p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration</a>.</em></p>
+<p>#LI-Remote #stack</p><p>Requisition ID: 847</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Senior Software Engineer - Cloud Engineering</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/3062022" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>This is a fast-paced engineering role in Linux-based software-defined infrastructure and applications, covering all layers of the stack, including bare metal, virtualization (KVM) and containerization (LXC/LXD), storage (Ceph and Linux filesystems), networking (OVS, OVN and Core networking), up to OpenStack and Kubernetes, and the open source applications running on top of them.</p>
+<p>This role is an opportunity for a technologist with a passion for Linux and open source to build a career with Canonical and drive success for our customers, community and the company. If you have an affinity for open source development, great communication skills, and a passion for troubleshooting and fixing issues in technology used by millions across the world, then you will enjoy working with some of the best people in the industry at Canonical.</p>
+<h3>Job summary</h3>
+<p>This role deals with critical issues in the open source stack that require software engineering for upstream fixes. Our engineers have to be able to work productively at any level of the stack above the kernel, in a wide range of languages, to understand and address the software issues at hand. Our group is critical to the success of our enterprise customers, partners and Ubuntu itself.</p>
+<p>You will help with troubleshooting and driving issues to resolution with workarounds, guidance, and fixes to be released upstream and in Ubuntu.</p>
+<p>As a Cloud Software Engineer you will:</p>
+<ul>
+<li>Resolve complex customer problems related to Ubuntu, OpenStack, or Kubernetes</li>
+<li>Maintain a close working relationship with Canonical's field, support and product engineering teams</li>
+<li>Participate in upstream communities</li>
+<li>Develop fixes, backport patches, and work with upstream for inclusion</li>
+<li>Demonstrate good judgement in technical methods and techniques</li>
+<li>Prioritise work and manage your time effectively against those priorities</li>
+<li>Participate in team discussions to improve processes, tools, and documentation</li>
+<li>Maintain clear, technical and concise communications</li>
+<li>Travel internationally up to 10% of work time for team meetings, events and conferences</li>
+</ul>
+<p>The successful Cloud Software Engineer will have:</p>
+<ul>
+<li>Professional experience as a software engineer is required</li>
+<li>Bachelor’s or equivalent in Computer Science, STEM or similar degree</li>
+<li>Strong experience with Linux, OpenStack, Kubernetes or other cloud technologies</li>
+<li>Strong development-level experience with Python, Go, C, C++ on Linux</li>
+<li>Ability to troubleshoot with gdb and other tools</li>
+<li>Familiarity with git source code repositories and branches</li>
+</ul>
+<p>What you’ll do</p>
+<ul>
+<li>Collaborate proactively with a distributed team</li>
+<li>Debug issues and produce high quality code to fix them</li>
+<li>Review code produced by other engineers</li>
+<li>Discuss ideas and collaborate on finding good solutions</li>
+<li>Work from home with global travel 2 to 4 weeks per year for internal and external events</li>
+</ul>
+<p>Who you are</p>
+<ul>
+<li>You love technology and working with brilliant people</li>
+<li>You are curious, flexible, articulate, and accountable</li>
+<li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li>
+<li>You have interest in, and experience with most of the following: Ubuntu Linux - kernel or userspace, Kubernetes, OpenStack, Ceph, QEMU/KVM, LXC/LXD, Python, Go, C, Postgresql, Mongo, Debian packaging, distributed systems</li>
+</ul>
+<h3>About Canonical</h3>
+<p>Canonical is a growing multi-national software company that works with the open-source community to deliver Ubuntu -- the world’s leading cloud operating system. Our services help businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.</p>
+<p>We offer:</p>
+<ul>
+<li>Learning and personal professional development budget</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual leave</li>
+<li>Generous parental leave</li>
+<li>Priority Pass for travel</li>
+</ul>
+<p><em>Canonical believes a diverse workforce enhances our ability to deliver world class software and services which meet the world’s computing needs. We are committed to ensuring equal employment opportunities to all qualified individuals. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.</em></p>
+<p>#LI-Remote</p>
+<p>#stack</p>
+<p>#LI-ET1&nbsp;</p><p>Requisition ID: 688</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Senior Software Engineer - Go</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/2824997" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>Design, develop and contribute to a mature distributed systems Go code base. We're looking for experienced Go developers who can show strong technical leadership and engineering rigour. Own the design, delivery and support of features in a highly concurrent, highly distributed system that drives cloud automation and software operations at scale. </p>
+<p>As a software engineer on the <a href="https://juju.is">Juju</a> team, you'll be working on a large open source Go project that powers complex distributed software systems across the world. Juju is the engine behind model-driven operations, providing a means to operate complex software on public cloud, private cloud, Kubernetes and bare-metal. Combined with the Charmed Operator framework, Juju provides a complete solution for applications and infrastructure management. </p>
+<p>If you love solving interesting technical challenges in elegant, high-performance ways, come join our globally-distributed team of software engineers in building the future of the software-defined datacenter on the Ubuntu platform. </p>
+<p>Many internal and external teams depend on Juju to deliver their products and services - from Canonical Infrastructure Services, our Openstack and cloud delivery teams, to Fortune 500 companies</p>
+<h3><strong>Who you are</strong></h3>
+<ul>
+<li>Proven track record of professional software delivery using Go, C, C++ or similar.</li>
+<li>Hands-on experience developing highly concurrent distributed systems</li>
+<li>Experience with container technologies (Docker, LXD, Kubernetes, etc.)</li>
+<li>Solid networking background and experience</li>
+<li>Degree level education in a technology field&nbsp;&nbsp;</li>
+<li>Experience with agile software development methodologies</li>
+<li>Experience of the Linux and free software world</li>
+<li>Working knowledge of cloud computing and experience with highly-concurrent distributed systems<br></li>
+<li>Excellent communications skills in the English language, both verbal and written, especially in online environments</li>
+<li>Ability to effectively interact with a diverse group of people (both technical and non-technical)</li>
+<li>Ability to be productive in a globally distributed team through self-discipline and self-motivation, delivering according to a schedule, and to motivate and mentor others to do the same</li>
+</ul>
+<h3><strong>Desirable traits and experience</strong></h3>
+<ul>
+<li>Passionate about software quality and testing</li>
+<li>Experience with packaging (debian, snappy)</li>
+<li>Programming with and operating MongoDB</li>
+<li>Experience working on a distributed team on an open source project -- even if that is outside work open source contributions.</li>
+<li>Demonstrated track record of Open Source contributions</li>
+</ul>
+<p><em>We are proud to foster a workplace free from discrimination. We truly believe that diversity of experience, perspectives, and background will lead to a better environment for our employees and a better platform for our users and customers. This is something we value deeply and we encourage everyone to come be a part of the world of Ubuntu.</em></p>
+<p><em>#LI-Remote&nbsp;</em></p><p>Requisition ID: 531</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Senior Software Engineer - Linux Engineering</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/3326693" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>This is a fast-paced engineering role in Linux-based software-defined infrastructure and applications, covering all layers of the stack, including bare metal, virtualization (KVM) and containerization (LXC/LXD), storage (Ceph and Linux filesystems), networking (OVS, OVN and Core networking), up to OpenStack and Kubernetes, and the open source applications running on top of them.</p>
+<p>This role is an opportunity for a technologist with a passion for Linux and open source to build a career with Canonical and drive success for our customers, community and the company. If you have an affinity for open source development, great communication skills, and a passion for troubleshooting and fixing issues in technology used by millions across the world, then you will enjoy working with some of the best people in the industry at Canonical.</p>
+<h3>Job summary</h3>
+<p>This role deals with critical issues in the open source stack that require software engineering for upstream fixes. Our engineers have to be able to work productively at any level of the stack above the kernel, in a wide range of languages, to understand and address the software issues at hand. Our group is critical to the success of our enterprise customers, partners and Ubuntu itself.</p>
+<p>You will help with troubleshooting and driving issues to resolution with workarounds, guidance, and fixes to be released upstream and in Ubuntu.</p>
+<p>As a Linux Engineer you will:</p>
+<ul>
+<li>Resolve complex customer problems related to Ubuntu, Kernel, or Ceph</li>
+<li>Maintain a close working relationship with Canonical's field, support and product engineering teams</li>
+<li>Participate in upstream communities</li>
+<li>Develop fixes, backport patches, and work with upstream for inclusion</li>
+<li>Demonstrate good judgement in technical methods and techniques</li>
+<li>Prioritise work and manage your time effectively against those priorities</li>
+<li>Participate in team discussions to improve processes, tools, and documentation</li>
+<li>Maintain clear, technical and concise communications</li>
+<li>Travel internationally up to 10% of work time for team meetings, events and conferences</li>
+</ul>
+<p>The successful Linux Engineer will have:</p>
+<ul>
+<li>Professional experience as a software engineer is required</li>
+<li>Bachelor’s or equivalent in Computer Science, STEM or similar degree</li>
+<li>Strong experience with Linux, Ceph, OpenStack, Kubernetes or other cloud technologies</li>
+<li>Strong development-level experience with Python, Go, C or C++ on Linux</li>
+<li>Ability to troubleshoot with gdb and other tools</li>
+<li>Familiarity with git source code repositories and branches</li>
+</ul>
+<p>What you’ll do</p>
+<ul>
+<li>Collaborate proactively with a distributed team</li>
+<li>Debug issues and produce high quality code to fix them</li>
+<li>Review code produced by other engineers</li>
+<li>Discuss ideas and collaborate on finding good solutions</li>
+<li>Work from home with global travel 2 to 4 weeks per year for internal and external events</li>
+</ul>
+<p>Who you are</p>
+<ul>
+<li>You love technology and working with brilliant people</li>
+<li>You are curious, flexible, articulate, and accountable</li>
+<li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li>
+<li>You have interest in, and experience with most of the following: Ubuntu Linux - kernel or userspace, Kubernetes, OpenStack, Ceph, QEMU/KVM, LXC/LXD, Python, Go, C, Postgresql, Mongo, Debian packaging, distributed systems</li>
+</ul>
+<h3>About Canonical</h3>
+<p>Canonical is a growing multi-national software company that works with the open-source community to deliver Ubuntu -- the world’s leading cloud operating system. Our services help businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.</p>
+<p>We offer:</p>
+<ul>
+<li>Learning and personal professional development budget</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual leave</li>
+<li>Generous parental leave</li>
+<li>Priority Pass for travel</li>
+</ul>
+<p><em>Canonical believes a diverse workforce enhances our ability to deliver world class software and services which meet the world’s computing needs. We are committed to ensuring equal employment opportunities to all qualified individuals. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.</em></p>
+<p>#LI-Remote</p>
+<p>#stack</p>
+<p>#LI-ET1&nbsp;</p><p>Requisition ID: 688</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Software Engineer - Python and K8s</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/3752633" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>Our mission is to reinvent the way companies manage their open source information systems - on public clouds and in their own data centres. To achieve that we are building a new community around Python opscode for open source applications, running on Kubernetes. We want to move all of Canonical and Ubuntu IS onto this new, open source codebase.</p>
+<p>We are confident that we can dramatically improve the experience of running complex business operations - and then we can help our customers embrace those new techniques and products. Traditionally, IS is an inward-facing operation. We would like to transform our IS team into an extension of the product engineering capability at Canonical. Our internal workloads are in many cases the same open source workloads that our customers want to operate. This team will productise those workloads for real-time automated operations on Kubernetes.</p>
+<p>This role is ideal for software engineers who enjoy Python, have a passion for distributed systems, and an interest in the entire Linux stack - from kernel to networking to virtualization and containers. It is a role that requires rigour in both code and customer interactions. Our engineers are technically astute open source enthusiasts who are excited about cloud computing and are ready to join a global team charged with delivering world class services to our customers.</p>
+<p>Strong Python development skills and familiarity with Kubernetes are key requirements of this role. You’ll work closely with other teams in Canonical to ensure your products operate reliably, efficiently and scale to production sized workloads for our customers looking to adopt cutting-edge technology. You will participate and be responsible for ensuring sound software architecture and follow best practices in software quality, testing and documentation.</p>
+<h3>What you’ll do</h3>
+<ul>
+<li>Work in Python to design and deliver open source software operations code</li>
+<li>Work across the entire Linux stack, from kernel, networking, storage, to applications</li>
+<li>Learn to think rigorously about application and infrastructure reliability</li>
+<li>Shape high quality open source monitoring and alerting infrastructure</li>
+<li>Simplify open source operations for our customers and open source community</li>
+<li>Demonstrate sound engineering design and testing principles in your code</li>
+<li>Follow agile software development practices</li>
+<li>Coach and develop your colleagues where you have insights</li>
+<li>Grow a healthy, collaborative engineering culture in line with company values</li>
+<li>Work from home with global travel once or twice a year for up to 2 weeks for events</li>
+</ul>
+<h3>Who you are</h3>
+<ul>
+<li>You love technology and working with brilliant people</li>
+<li>You have a Bachelor’s or equivalent in Computer Science, STEM or similar degree</li>
+<li>You are experienced with Linux systems administration, package management, and operations</li>
+<li>You have hands-on experience with at least one public cloud</li>
+<li>You are familiar with Docker and Kubernetes</li>
+<li>You are an experienced Python programmer and enjoy challenging projects</li>
+<li>You understand the importance of reliable software and strive to design and code to that expectation</li>
+<li>You are organized and want your team to deliver timely, high quality software</li>
+</ul>
+<h3>About Canonical</h3>
+<p>Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, “the world’s best free software platform”. Our mission is to realise the potential of free software in the lives of individuals and organisations. Our services are helping individuals and businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.</p>
+<p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity</a> we will give your application fair consideration.<br></em></p>
+<p>#LI-Remote #Stack</p><p>Requisition ID: 815</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>System Software Engineer - Golang compiler, tooling, and ecosystem</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/4388862" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>We are building a new team to focus on the Golang programming language and its ecosystem on Ubuntu. They will deliver the best possible Golang runtime, developer experience and supporting tooling in Ubuntu. We are keen to ensure that the cutting edge of modern programming languages innovation is available to Ubuntu users, to lay the foundation for future inventions and open source communities.</p>
+<p>This is an exciting opportunity for a software engineer passionate about open source software, Linux systems, software architectures and Go programming language. Come build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, a growing international software company and make Ubuntu the best operating system to develop and run Go applications in the cloud, in datacenters, in containers, directly on the operating system, and anywhere Ubuntu can run.</p>
+<p>The Ubuntu Foundations Team delivers the core Ubuntu system, the base for the entire Ubuntu family of products and services. Ubuntu strives to deliver the latest-best free software components, in an easy to use and highly reliable form. We build on the technical excellence of Debian and bring additional focus and shape to the solutions we offer the industry.</p>
+<p>Part of the Ubuntu Foundations team, you will work on some of the most critical toolchains involved in the making of Ubuntu but also pillars of the modern software ecosystem. You will leverage your experience and passion in Go to make Ubuntu the best platform to develop, distribute and consume software built with Go. Applicants will be passionate about the future of Go, of Ubuntu, mindful of the dynamics of the open-source ecosystem, and equally aware of the needs of large but innovative organizations. Applicants will drive best in class integration in Ubuntu from desktop to cloud in a secure, reliable, performing, efficient and future-proof fashion.</p>
+<p>You will be discussing design with other team members and mentor less senior engineers and participate in code reviews and design reviews.&nbsp; You will also be working with other teams to ensure architecture decisions improve the overall performance and experience of Ubuntu. Your role as part of the Ubuntu Foundations team will have an impact on every aspect of Ubuntu from Desktop, Server, Ubuntu Core and also cloud images.</p>
+<h3>What you will do</h3>
+<ul>
+<li>Collaborate proactively with a distributed team</li>
+<li>Select, integrate and package best-of-breed tooling with Ubuntu to improve developer and operator experience with Go</li>
+<li>Write high-quality code to create new features</li>
+<li>Debug issues and produce high-quality code to fix them</li>
+<li>Review code produced by other engineers</li>
+<li>Discuss ideas and collaborate on finding good solutions</li>
+<li>Work from home with global travel 2 to 4 weeks a year for internal and external events</li>
+</ul>
+<h3>Who you are</h3>
+<ul>
+<li>You love technology and working with brilliant people</li>
+<li>You are passionate, curious, flexible, articulate, and accountable</li>
+<li>You are a long-time Linux user</li>
+<li>You have experience or are interested in learning how to package software for Debian and Ubuntu</li>
+<li>You have relevant Go experience, ideally in the world of cloud-native software and Linux</li>
+<li>You have a Bachelors or equivalent in Computer Science, STEM or similar degree</li>
+<li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li>
+</ul>
+<p>Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, the world’s best free software platform. Our services help businesses worldwide reduce costs, improve efficiency and enhance security with Ubuntu.</p>
+<p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your <a href="https://canonical.com/careers/diversity/identity">identity</a> we will give your application fair consideration.</em></p>
+<p>#LI-remote</p><p>Requisition ID: 933</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>System Software Engineer - Rust compiler, tooling, and ecosystem</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/4383713" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>We are building a new team to focus on the Rust programming language and its ecosystem on Ubuntu. They will deliver the best possible Rust runtime, developer experience and supporting tooling in Ubuntu. We are keen to ensure that the cutting edge of modern programming languages innovation is available to Ubuntu users, to lay the foundation for future inventions and open source communities.</p>
+<p>This is an exciting opportunity for a software engineer passionate about open source software, Linux systems, software architectures and Rust programming language. Come build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, a growing international software company and make Ubuntu the best operating system to develop and run Rust applications in the cloud, in datacenters, in containers, directly on the operating system, and anywhere Ubuntu can run.</p>
+<p>The Ubuntu Foundations Team delivers the core Ubuntu system, the base for the entire Ubuntu family of products and services. Ubuntu strives to deliver the latest-best free software components, in an easy to use and highly reliable form. We build on the technical excellence of Debian and bring additional focus and shape to the solutions we offer the industry.</p>
+<p>Part of the Ubuntu Foundations team, you will work on some of the most critical toolchains involved in the making of Ubuntu but also pillars of the modern software ecosystem. You will leverage your experience and passion in Rust to make Ubuntu the best platform to develop, distribute and consume software built with Rust. Applicants will be passionate about the future of Rust, of Ubuntu, mindful of the dynamics of the open-source ecosystem, and equally aware of the needs of large but innovative organizations. Applicants will drive best in class integration in Ubuntu from desktop to cloud in a secure, reliable, performing, efficient and future-proof fashion.</p>
+<p>You will be discussing design with other team members and mentor less senior engineers and participate in code reviews and design reviews.&nbsp; You will also be working with other teams to ensure architecture decisions improve the overall performance and experience of Ubuntu. Your role as part of the Ubuntu Foundations team will have an impact on every aspect of Ubuntu from Desktop, Server, Ubuntu Core and also cloud images.</p>
+<h3>What you will do</h3>
+<ul>
+<li>Collaborate proactively with a distributed team</li>
+<li>Select, integrate and package best-of-breed tooling with Ubuntu to improve developer and operator experience with Rust</li>
+<li>Write high-quality code to create new features</li>
+<li>Debug issues and produce high-quality code to fix them</li>
+<li>Review code produced by other engineers</li>
+<li>Discuss ideas and collaborate on finding good solutions</li>
+<li>Work from home with global travel 2 to 4 weeks a year for internal and external events</li>
+</ul>
+<h3>Who you are</h3>
+<ul>
+<li>You love technology and working with brilliant people</li>
+<li>You are passionate, curious, flexible, articulate, and accountable</li>
+<li>You are a long-time Linux user</li>
+<li>You have experience or are interested in learning how to package software for Debian and Ubuntu</li>
+<li>You have relevant Rust experience, ideally in the world of cloud-native software and Linux</li>
+<li>You have a Bachelors or equivalent in Computer Science, STEM or similar degree</li>
+<li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li>
+</ul>
+<p>Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, the world’s best free software platform. Our services help businesses worldwide reduce costs, improve efficiency and enhance security with Ubuntu.</p>
+<p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your <a href="https://canonical.com/careers/diversity/identity">identity</a> we will give your application fair consideration.</em></p>
+<p>#LI-remote</p><p>Requisition ID: 933</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1470600385861611521/zGMS9sPM_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Coalesce</h5>
+                    <h3>Staff Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/coalesce.io/bfdeb358-ecba-4e88-b32f-4474178c344f" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div>Coalesce is building important data services for some of the largest enterprise companies in the world. With that comes the responsibility to build highly robust, well designed and written code. </div><div><br></div><div>In this role, you'll serve as an Individual Contributor on our engineering team working on the Coalesce product. As well as writing code yourself, you will review designs and code by others and serve as a technical leader on our software engineering team. </div><div><br></div><div>Our stack is Typescript / React / Redux /&nbsp;Node.js. Our codebase has been intentionally designed to enable developers to build features and improvements efficiently. Individual engineers typically "own" features, going through the entire development cycle from concept to design to implementation and testing all without requiring the typical back and forth between multiple separate teams.</div><div><br></div><div>The engineering team maintains the Coalesce Front-end application, our back-end, the Coalesce CLI tool (coa), our shared modules and the testing codebase. Given the nature of our application, an interest or understanding of Computer Science fundamentals, writing robust code and the ability to find simplicity in complex problems is key.</div><div><br></div><div>At Coalesce, our staff software engineers are trusted with the ability to work autonomously and to make well-informed strategic investments in our codebase. We believe that making the right architectural decisions can be a long-term competitive advantage for our business and an important part of our engineering culture and approach going forward.</div><div><br></div><div>SALARY: $<span style="font-size: 15px">180k - $250k + Equity. </span>All final pay rates will be determined by the candidates specific experience, knowledge, skills, and abilities of the applicant, internal equity, and alignment with market data.</div></div><div class="section page-centered"><div><h3>Key Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Refactor and improve existing code toward better reusability and maintainability</li><li>Contribute to building new features, functionality and tests for the Coalesce Product</li><li>Identify codebase improvements and deliver improvements iteratively</li><li>Participate in requirements gathering, software design, testing and customer support</li><li>Serve as an architectural resource for software engineers</li><li>Contribute to planning and prioritization discussions with Product, Customer Success and Sales Engineering</li></ul></ul></div></div><div class="section page-centered"><div><h3>Qualifications</h3><ul class="posting-requirements plain-list"><ul><li>Experience with Typescript, React Hooks + Redux,&nbsp;Node.JS, Javascript, CSS - or other relevant experience in strongly-typed languages (C++ / Java / Go / Rust / Strongly-typed Python) </li><li>Experience with Algorithms and Data Structures</li><li>Experience with Asynchronous programming including any of the following - ES6 Promises / Callbacks / Async Await / Redux Thunks or Saga</li><li>Experience working with and/or building and maintaining complex software codebases</li><li>Experience with transactions, synchronization, atomicity, idempotency and distributed programming concepts</li><li>Experience with good software design and best practices</li><li>Experience with software testing and the software development lifecycle</li></ul></ul></div></div><div class="section page-centered"><div><h3>You may be a good fit if</h3><ul class="posting-requirements plain-list"><ul><li>You are interested in data analytics</li><li>You are interested in the process of building new software products</li><li>You have a deep passion or interest in building great software&nbsp;</li><li>You work well independently in a remote-first setting</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 11pt">Coalesce solves the most commonly failed project in IT: the data warehouse. Companies today need to be data-driven to be competitive. Coalesce is the only cloud-first data platform that enables companies to transform and streamline their analytics processes, enabling data-driven decision making and visibility at enterprise scale.&nbsp;</span></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit cerulean" data-qa="show-page-apply" href="https://jobs.lever.co/coalesce.io/bfdeb358-ecba-4e88-b32f-4474178c344f/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1545121577632763912/7FMnABb0_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Collabora</h5>
+                    <h3>Senior C++ Software Engineer (Remote/Anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/collabora/afb6f2ea-9c39-498c-863c-82764ea247a0" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt">Collabora Productivity Ltd. is a software company specialising in bringing the innovation created in Open Source projects such as LibreOffice to the market, along with services, long term support and software consultancy. We combine years of open source software leadership with an understanding of the challenges that businesses, non-profits, and governments face.</span></div><div><br></div><div><span style="font-size: 11pt">Collabora Productivity brings deep technical expertise around the Office space, from our preferred Open Document format to many other, including legacy, document formats such as OpenXML and Microsoft binary formats, using modern technologies like C++ 17.</span></div><div><br></div><div><br></div></div><div class="section page-centered"><div><h3>Key Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Root cause analysis and fixing of document interoperability issues</li><li>Analysing client problems, designing, and implementing solutions leveraging open source technologies and communicating the solutions in a compelling fashion</li><li>Annual conference attendance to present progress made to the Open Source community</li><li>Self starting analysis of limited project descriptions, ability to break complex tasks down into smaller deliverables, execute and report progress against these</li><li>Assistance in estimation of project costs</li><li>Implementation of features based on unclear customer input to exceed their expectations</li><li>Communication with the community, other team members, and customers using mailing 	lists, chats, phone and video conference</li><li>Capacity to travel a few times per year worldwide</li><li>Reliable and timely delivery of quality solutions to clients and internal customers</li><li>Development of strong relationships with key personnel, decision makers and customers</li></ul></ul></div></div><div class="section page-centered"><div><h3>Commercial Skills</h3><ul class="posting-requirements plain-list"><ul><li>Understanding client needs and reconciling time constraints, available technologies and resources and open source best practices</li><li>Ability to work in a global context with clients and engineers spanning continents</li><li>Knowledge of customers’ organization, management, product, target market, applications and decision making internal process 	</li></ul></ul></div></div><div class="section page-centered"><div><h3>Technical Skills</h3><ul class="posting-requirements plain-list"><ul><li>Large scale C++ development experience, on projects of &gt; 1 million lines of code</li><li>LibreOffice development experience preferred</li><li>Excellent code reading skills</li><li>Office Suite, file format and binary file format reverse engineering experience a plus</li><li>Good interpersonal skills, along with knowledge of open source 	development methodologies and good standing in the open source community</li><li>Significant demonstrable contributions to components in the open source ecosystem</li><li>BS/BA or extensive experience in the role of Software Engineer </li><li>Experience of unit testing</li><li>Cross-platform aware, deep knowledge of either Linux, MS Windows, or OSX, and some knowledge of one more platform (Cygwin knowledge helpful if MS Windows is the core skill)</li><li>Experience with Android, iOS or another mobile operating system a bonus</li><li>Casual scripting in Perl / Python / BASH or other language(s)</li><li>Version control systems – ideally knowledge of git</li></ul></ul></div></div><div class="section page-centered"><div><h3>Personal Skills</h3><ul class="posting-requirements plain-list"><ul><li>Highly self motivated, reliable with a demonstrable passion for Open Source and the office domain</li><li>Able to work from home office, managing own time effectively</li><li>Self learning skill to get sufficient knowledge of Collabora's services, 	business model, project delivery lifecycle and other related technical domains</li><li>Good interpersonal skills</li><li>Winsome presentation skills appreciated</li><li>Good English language skills (both verbal and written) </li><li>German language skills a bonus</li><li>Ability to work and communicate in an online distributed environment</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/afb6f2ea-9c39-498c-863c-82764ea247a0/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr></table>
