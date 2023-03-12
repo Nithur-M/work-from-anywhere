@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -76,7 +76,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-remote-product-manager-needed" align="right" target="_blank">Apply</a>
@@ -174,7 +174,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1" align="right" target="_blank">Apply</a>
@@ -243,7 +243,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>486 days ago</text>
+                <text>487 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -408,6 +408,55 @@
 <p>&nbsp;</p>
 <p><em><span style="font-weight: 400;">Sourcegraph participates in <a href="https://handbook.sourcegraph.com/departments/people-talent/e-verify/" target="_blank">E-Verify</a> for U.S. Employees</span></em></p></div>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Product Manager - Ubuntu Core</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/4414628" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>Ubuntu is the world's favourite Linux. As the world is moving to software-defined IoT, Linux has emerged as the platform of choice across a wide range of applications. Ubuntu has created a line of products &amp; services that address primary challenges such as security and management for an era of autonomous, smart, connected devices. Ubuntu Core is a secure, application-centric IoT OS for embedded devices.</p>
+<p>This role is about:</p>
+<ul>
+<li>leading Ubuntu Core through its complete lifecycle&nbsp;</li>
+<li>shaping the development roadmap for the IoT stack</li>
+<li>engaging with IoT ecosystem and leading customers</li>
+<li>enabling commercial success and leading product direction</li>
+<li>driving go-to-market strategy and execution&nbsp;</li>
+</ul>
+<p>This role encompasses leadership of the product and go-to-market in the embedded sector. It requires an analytical storyteller with a strong sense of message, and understanding of the challenges of developing and deploying embedded Linux devices. We prefer experienced professionals with software engineering management experience who want to become business executives and entrepreneurs to define product strategy and drive engagement.&nbsp;</p>
+<p>The successful Product Manager will have:</p>
+<ul>
+<li>Product management experience in embedded Linux through its complete life-cycle, ideally with IoT connected devices, including yocto&nbsp;</li>
+<li>Good knowledge of Linux and the wider Open Source Software community and understanding of computer architecture</li>
+<li>Understanding of packaging technologies such as Docker containers &amp; Snaps</li>
+<li>Familiarity with relevant embedded software, standards and the market, including trends, ODMs, silicons, cloud service providers and other key players&nbsp;</li>
+<li>Awareness of Ubuntu, our IoT offering and Canonical’s competition and tactical opportunities</li>
+<li>Proven ability and passion to write about technology and the tech landscape</li>
+<li>Track record of data-driven decision-making</li>
+<li>A strong work ethic, and personal interests aligned with the field</li>
+<li>Excellent communications skills in English, both verbal and written</li>
+</ul>
+<p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your <a href="https://canonical.com/careers/diversity/identity">identity</a> we will give your application fair consideration.</em></p>
+<p>#LI-remote</p><p>Requisition ID: 480</p><p></p>
+    
                 </details>
                 </td>
             </tr></table>
