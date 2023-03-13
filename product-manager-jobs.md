@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -76,7 +76,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-remote-product-manager-needed" align="right" target="_blank">Apply</a>
@@ -174,7 +174,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1" align="right" target="_blank">Apply</a>
@@ -243,7 +243,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>487 days ago</text>
+                <text>488 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -295,6 +295,110 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1613417/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Cash App</h5>
+                    <h3>Senior Product Manager, Access & Controls</h3>
+                </td>
+                <td width="300">
+                    <code>C,crypto,data science,developer</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/senior-product-manager-access-controls-1613417" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><br><br></p>
+<div class="h3">Company Description</div>
+<p>It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay, to provide a better way to send, spend, invest, borrow and save to our 47 million monthly active customers. We want to redefine the world’s relationship with money to make it more relatable, instantly available, and universally accessible. This is our mission, and it’s why working at Cash App means so much more than a job.</p>
+<p>Today, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We’ve been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy.</p>
+<p>Check out our locations, benefits, and more at <a href="https://cash.app/careers" rel="nofollow">cash.app/careers</a>!</p>
+<p><br><br></p>
+<div class="h3">Job Description</div>
+<p>Cash App’s top strategic priority is Trust: building deep trust with our customers allows us to deepen our financial relationship with them, introduce new products, increase our share of wallet for each service, and expand our customer base. The Health team’s mission is to create a holistic Cash App experience that fosters the trust, safety, security, and support of our customers and their assets - all while expanding access within the Cash App ecosystem</p>
+<p>Access and Controls are swim lanes within Health that encompass the following mission: </p>
+<ul style="">
+<li style=""><strong>Access</strong>: Provide Cash App customers reliable, easy, and secure access to their accounts. </li>
+<li style=""><strong>Controls</strong>: Protect our customers by reducing fraudulent behavior and enforcing restrictions in a way that’s clear and actionable for our customers and ourselves.</li>
+</ul>
+<p><u>In this role you will: </u></p>
+<ul style="">
+<li style="">Lead product initiatives and projects across both the Access and Controls swimlanes </li>
+<li style="">Report into the Lead PM for Access and Controls </li>
+<li style="">Partner with Product Design, Client &amp; Server Engineering, Data Science, Risk Machine Learning, Behavioral Insights, Compliance, Customer Operations, Customer Research, Product Writing </li>
+<li style="">Deeply understand business and customer journeys for how customers currently and want to access Cash App, how users view and implement account security, experience restrictions and pursue recourse, develop trust in a financial app for all their financial services needs </li>
+<li style="">Identify product opportunities to prioritize on Access and Controls roadmaps </li>
+<li style="">Collaborate on customer research and insights, data and analytics with product design and data science teammates</li>
+<li style="">Manage roadmap priorities from conceptualization and execution all the way through post-launch performance analysis</li>
+<li style="">Identify roadmap opportunities through collaboration with cross-functional partners</li>
+<li style="">Work with core team and external partners to align on project/feature phases </li>
+<li style="">Success includes but is not limited to: 
+<ul style="">
+<li style="">Improved login success rates</li>
+<li style="">Improved login and signup security for all Cash App customers </li>
+<li style="">Engagement and high opt-ins for security and controls features </li>
+<li style="">One of the reasons customers choose Cash App as their financial app of choice is because they trust that Cash App will keep their accounts and funds safe</li>
+</ul>
+</li>
+</ul>
+<p><br><br></p>
+<div class="h3">Qualifications</div>
+<ul style="">
+<li style="">
+<p>5+ years of product management experience and strong familiarity of systems and engineering</p>
+</li>
+<li style="">
+<p>Direct experience partnering with Product Design, User Research, Data Science and Analytics</p>
+</li>
+<li style="">
+<p>Driven and/or owned priorities on a roadmap; uses roadmap inputs such as customer research, qual and quant data, partnership with core team / teammates, cross-functional partners to identify critical priorities, requirements, and solutions </p>
+</li>
+<li style="">
+<p>Experience with the common challenges in cross-functional working groups, including balancing competing demands and priorities</p>
+</li>
+<li style="">
+<p>The ability to understand and deal well with rapid development cycles and to remain flexible in a fast moving environment</p>
+</li>
+<li style="">
+<p>Excellent communication, organizational and leadership skills; ability to inspire team members and influence a room</p>
+</li>
+<li style="">
+<p>Ability to thrive in the discomfort of ambiguity </p>
+</li>
+</ul>
+<p><br><br></p>
+<div class="h3">Additional Information</div>
+<p>Block takes a market-based approach to pay, and pay may vary depending on your location. U.S. locations are categorized into one of four zones based on a cost of labor index for that geographic area. The successful candidate’s starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. These ranges may be modified in the future.<br><br>Zone A: USD $167,300 - USD $204,500<br>Zone B: USD $158,900 - USD $194,300<br>Zone C: USD $150,600 - USD $184,000<br>Zone D: USD $142,200 - USD $173,800</p>
+<div> </div>
+<p>To find a location’s zone designation, please refer to this <a href="https://careers.smartrecruiters.com/Square/us-zones" rel="nofollow">resource</a>. If a location of interest is not listed, please speak with a recruiter for additional information. </p>
+<p>Benefits include the following:</p>
+<ul style="">
+<li style="">Healthcare coverage</li>
+<li style="">Retirement Plans including company match </li>
+<li style="">Employee Stock Purchase Program</li>
+<li style="">Wellness programs, including access to mental health, 1:1 financial planners, and a monthly wellness allowance </li>
+<li style="">Paid parental and caregiving leave</li>
+<li style="">Paid time off</li>
+<li style="">Learning and Development resources</li>
+<li style="">Paid Life insurance, AD&amp;D. and disability benefits </li>
+<li style="">Perks such as WFH reimbursements and free access to caregiving, legal, and discounted resources </li>
+</ul>
+<p>This role is also eligible to participate in Block's equity plan subject to the terms of the applicable plans and policies, and may be eligible for a sign-on bonus. Sales roles may be eligible to participate in a commission plan subject to the terms of the applicable plans and policies. Pay and benefits are subject to change at any time, consistent with the terms of any applicable compensation or benefit plans.</p>
+<p>We’re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is a proud equal opportunity employer. We work hard to evaluate all employees and job applicants consistently, without regard to race, color, religion, gender, national origin, age, disability, veteran status, pregnancy, gender expression or identity, sexual orientation, citizenship, or any other legally protected class. </p>
+<p>We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible. <em><strong>Want to learn more about what we’re doing to build a workplace that is fair and square? Check out our <a href="https://squareup.com/us/en/about/diversity?utm_source=job_description" rel="nofollow">I+D page</a>. </strong></em></p>
+<p>Additionally, we consider qualified applicants with criminal histories for employment on our team, assessing candidates in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.</p>
+<p><em>Block, Inc. (NYSE: SQ) is a global technology company with a focus on financial services. Made up of Square, Cash App, Spiral, TIDAL, and TBD, we build tools to help more people access the economy. Square helps sellers run and grow their businesses with its integrated ecosystem of commerce solutions, business software, and banking services. With Cash App, anyone can easily send, spend, or invest their money in stocks or Bitcoin. Spiral (formerly Square Crypto) builds and funds free, open-source Bitcoin projects. Artists use TIDAL to help them succeed as entrepreneurs and connect more deeply with fans. TBD is building an open developer platform to make it easier to access Bitcoin and other blockchain technologies without having to go through an institution.</em></p>
+<img src="https://remotive.com/job/track/1613417/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -457,6 +561,54 @@
 <p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your <a href="https://canonical.com/careers/diversity/identity">identity</a> we will give your application fair consideration.</em></p>
 <p>#LI-remote</p><p>Requisition ID: 480</p><p></p>
     
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1618665164999360515/9HfoZiGf_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Istari</h5>
+                    <h3>Senior Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/istaridigital.ai/912e84f0-d9e1-4d62-afb6-5e6dbcc3551c" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div>[ABOUT ISTARI]</div><div><span style="font-size: 11pt">Istari is a digital engineering software company enabling our customers to turn the physical world into the digital to accomplish their specific mission or business objectives.</span></div><div><br></div><div><span style="font-size: 11pt">Istari was founded with the vision of making open, scalable digital engineering ecosystems a reality – where new technologies and systems are created digitally, free from the real-world constraints of costs and schedules. We are creating the world’s best engineering model sharing platform, allowing our customers to simply and securely integrate their models across different engineering disciplines, organizations, and security levels.</span></div><div><br></div><div><span style="font-size: 11pt">At Istari, we are passionate about our mission of creating the world's first open and scalable industrial metaverse. Whether our customers are designing prototypes, performing virtual testing, or training AI and autonomy for complex systems, we know that going digital will save them time, resources, and reduce their environmental impact.&nbsp;&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">While we are a distributed team with most team-members working remotely, we place an emphasis on staying connected and collaborative, prioritizing in-person opportunities to build trust as a team. At Istari, we still believe that trust is best built in-person. To do this, we have an engineering headquarters in Cambridge, MA for focused technical development and several times per year we gather for an off-site that allows us to develop our professional skills and our team relationships.</span></div><div><br></div><div>[VALUES]</div><div>At Istari, we live by our values, which include:</div><div><br></div><div><b>Purposeful Autonomy</b></div><div>We value letting people self-organize and self-motivate.&nbsp;</div><div>Our flat structure and lack of meeting clutter are meant to empower individuals and teams to be proactive.</div><div>Our autonomy is measured, goal-oriented, and results-driven –&nbsp;not meandering. </div><div>Clear objectives help us prioritize our time.</div><div><br></div><div><b>Radical Transparency</b></div><div>We believe in honest-but-kind communication, transparency, and open-door policies. </div><div>We love learning about challenges and tackling them early, not hearing good or bad news late. </div><div>We share work-in-progress across our team.&nbsp;</div><div>Fast feedback keeps autonomy purposeful.</div><div><br></div><div><b>Continual Curiosity</b></div><div>At Istari, we love learning to do things ourselves. </div><div>We ask, read, share, teach – even watch YouTube videos – to learn new skills to solve problems. </div><div>When we make breakthroughs, we write them down.&nbsp; &nbsp;</div><div>Writing focuses ideas, helps us learn, and helps us share.</div><div><br></div><div>[INTENT]</div><div>As the Senior Product Manager, y<span style="font-size: 11pt">ou will work cross-functionally to guide products from conception to launch by connecting the technical and business worlds. You will break down complex problems into steps that drive product development. You will drive the product life cycle and be an influential member of a cross-functional product team.</span></div><div><br></div><div>[WHAT SUCCESS LOOKS LIKE]</div><div><span style="font-size: 11pt">If the Senior Product Manager is doing their job right, they will demonstrate product (user, customer, industry, domain, and company) knowledge. They will also demonstrate mastery of product process skills and techniques to include product discovery and optimization as well as capability in product delivery and development. They will be effectively communicating with a variety of internal and external stakeholders and ensuring everyone is on the same page. They will find a balance between user needs and business goals while questioning and validating assumptions as required. </span></div><div><br></div><div>[SKILLS AND QUALIFICATIONS]</div><div>8+ years product management experience</div><div>Proven success working with cross-functional teams across all levels of an organization</div><div>Strong written and verbal communication skills</div><div>Strong presentation skills</div><div>Must be a U.S. citizen</div></div><div class="section page-centered"><div><h3>Responsibilities (but not limited to):</h3><ul class="posting-requirements plain-list"><ul><li>Working closely under the direction of senior leadership to execute the product vision and strategy</li><li>Contributing to the product roadmap with data-driven insights to ensure that product solutions are valuable and viable</li><li>Design and implement solutions to key problems in alignment with product strategy</li><li>Effective prioritization of product features in collaboration with product and engineering leadership</li><li>Defining and monitoring relevant KPIs and control of the measures to achieve the product objectives</li><li>Analyze customer needs, current market trends, and potential partnerships to drive&nbsp;</li><li>Drive the product and planning process across cross-functional teams of the company</li><li>Conducting and/or overseeing research to gain a deep understanding of the customer/end user’s needs to facilitate data-driven decisions</li><li>Collaborate closely with all Istari teams on the development and release of products and balance of resources to ensure success for the entire organization</li><li>Ability to work on multiple projects in various stages simultaneously</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 24px">BENEFITS</span></div><div>We offer highly competitive benefits, including:</div><div><br></div><div><span style="font-size: 18px">Health and Family</span></div><div>- Medical/Dental/Vision</div><div>- Premiums are 100% Company Paid</div><div>- Life Insurance</div><div>- Flexible Work Hours&nbsp;</div><div>- Unlimited Paid Time Off (PTO) with federal government holidays</div><div><br></div><div><span style="font-size: 18px">Financial</span></div><div>- Competitive Compensation&nbsp;</div><div>- 401k&nbsp;</div><div>- Company Stock Options</div><div>- Home Office Setup Budget</div><div><br></div><div><span style="font-size: 18px">Learning</span></div><div>- Reimbursement for approved trainings and subscriptions</div><div>- Conferences (travel, lodging, and fees)</div><div><br></div><div>Note - some benefits are not available to interns.</div><div><br></div><div>Thank you for your interest in Istari. Expect to hear back from us soon with next steps.</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit cerulean" data-qa="show-page-apply" href="https://jobs.lever.co/istaridigital.ai/912e84f0-d9e1-4d62-afb6-5e6dbcc3551c/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1592609773958025216/CaG1yAqK_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Mechanical Orchard</h5>
+                    <h3>Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/mechanicalorchard/e9e79713-9cd4-41f9-92c0-c20dc588a262" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt">Mechanical Orchard is a new kind of software consultancy. We build new applications and replace legacy systems for a wide range of customers, spanning from seed stage startups to the Fortune 500, but it doesn’t end there. We run what we build, and build what we run. Our customers focus on their business, rather than manage all the cost, complexity, and risk that comes with operating production systems.</span></div><div><br></div><div><span style="font-size: 11pt">Our background in software development and the impact on the industry is well known, and we've helped write the book on XP and other effective agile practices. We believe in the durable principles behind agile, and embrace the power of cross-functional teams, collective ownership, test driven development, short feedback loops, and continuous improvement.</span></div><div><br></div><div><span style="font-size: 11pt">We are Generous, Ethical, Effective, and Kind.</span></div><div><br></div><div><span style="font-size: 11pt">As a Product Manager at Mechanical Orchard, you will be expected to:</span></div><div><br></div><div><span style="font-size: 11pt">- Work as part of a cross functional development team, collaborating with product designers, engineers, and other roles to build software for clients and/or Mechanical Orchard</span></div><div><span style="font-size: 11pt">- Work closely with customers to understand their needs, and use this knowledge to help shape product strategy and inform decision-making for the given project or engagement</span></div><div><span style="font-size: 11pt">- Use lean startup and lean UX principles to develop and test product ideas quickly and efficiently</span></div><div><span style="font-size: 11pt">- Work in partnership with product designer(s) to conduct user research, develop solutions, validate design effectiveness, and iterate on designs based on qualitative and quantitative feedback from users, customers, and the development team</span></div><div><span style="font-size: 11pt">- Manage a fine grained backlog in Pivotal Tracker that drives incremental progress in terms of learning and value</span></div><div><span style="font-size: 11pt">- Organize and facilitate regular project planning meetings, brainstorming sessions, team retrospectives, and other agile team ceremonies&nbsp;</span></div><div><span style="font-size: 11pt">- Monitor, analyze, and discern learnings from qualitative and quantitative data&nbsp;</span></div><div><span style="font-size: 11pt">- Collaborate with internal and external stakeholders as needed</span></div><div><span style="font-size: 11pt">- Apply and advocate for modern product practices including lean / lean UX and user centered design</span></div><div><br></div><div><span style="font-size: 11pt">The ideal candidate has worked as a product manager in a professional, team-based environment, with experience across the entire product lifecycle, and a deep understanding of product management principles.</span></div><div><br></div><div><span style="font-size: 11pt">Some consulting experience is a bonus.</span></div><div><br></div><div><span style="font-size: 11pt">Strong communication and collaboration skills as well as empathy are essential for working closely with the development team, customers, and others at Mechanical Orchard.</span></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 11pt">Mechanical Orchard, Inc. is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind. Mechanical Orchard, Inc. is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Mechanical Orchard, Inc. are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Mechanical Orchard, Inc. will not tolerate discrimination or harassment based on any of these characteristics. Mechanical Orchard, Inc. encourages applicants of all ages. Mechanical Orchard, Inc. will provide reasonable accommodation to employees who have protected disabilities consistent with local law.</span></div><div><br></div><div>We look forward to reviewing your application. Thanks!</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/mechanicalorchard/e9e79713-9cd4-41f9-92c0-c20dc588a262/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr></table>
