@@ -10,7 +10,7 @@
                     <code>crypto,cryptocurrency,support,bank,java,lead,engineer,engineering,educational,backend</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-tradfi-bitcoincom-200895" align="right" target="_blank">Apply</a>
@@ -56,7 +56,47 @@
 <li>Health insurance reimbursement</li>
 <li>Wellness program (gym, etc.)</li>
 </ul>
-</div><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **EXCEPTIONAL** and tag RMy45Mi4xNzQuMTQy when applying to show you read the job post completely (#RMy45Mi4xNzQuMTQy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **EXCEPTIONAL** and tag RMzQuODIuMTUxLjY= when applying to show you read the job post completely (#RMzQuODIuMTUxLjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/8563/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>AdCopy.ai</h5>
+                    <h3> Senior Backend Engineer for AI Startup</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/adcopy-ai-senior-backend-engineer-for-ai-startup" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0083/8563/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Tampa, Florida
+    <br /><strong>URL:</strong> <a href="https://adcopy.ai">https://adcopy.ai</a>
+</p>
+
+<div>Hey there!</div><div><br></div><div>Tony here, founder of AdCopy.ai.</div><div><br></div><div>We're currently in Beta of our direct response ad copywriting software that we are now seeking to take to the next level!</div><div><br></div><div>As our backend engineer you will be a pivotal part of our core team and help us build the scalable foundation associated with our product roadmap. We're poised to reach tremendous heights and would love to have you join us for the ride if it's a good fit.</div><div><br></div><div>In this project you'll be working with another developer as we aim to create the most innovative ad writing and data software on the market.</div><div><br></div><div>
+<strong>(Boring) But Necessary Requirements<br></strong><br>
+</div><div>- Liquid/HTML/CSS/JS/JSON</div><div>- Fluent English</div><div>- Strong communication skills</div><div>- Strong understanding of how to aggregate mass amounts of data and usage.</div><div>- Experience or ability to work with AI tech such as machine learning to train models on big datasets.</div><div><br></div><div>
+<strong>Nice-to-have Skills<br></strong><br>
+</div><div>- Experience with OpenAI API</div><div>- Understanding of AI Content Generation</div><div>- Familiarity with Facebook Marketing API or Adwords API</div><div>- High level of curiosity</div><div>- Understanding of Data Science</div><div>- Machine Learning experience</div><div>- Ability to think outside the box. We want to see you contribute to our innovation!</div><div><br></div><div>Please <strong>DO NOT APPLY</strong> if you are reaching out on behalf of an agency or aren't fully capable of completing the scope at hand at a high level...</div><div><br></div><div>But If this sounds like something you can tackle with confidence - start your cover letter with AdCopy to get bumped up the stack and we'll begin to discuss things!<br><br>We are open to full or part time applicants.</div><div><br></div><div>
+<strong>Compensation &amp; Perks (the good stuff)<br></strong><br>
+</div><div>- Competitive hourly rates for premium developer talent.</div><div>- Company allowances for wellness, learning and growth</div><div>- Flexible schedule and fully remote work</div><div>- Massive room for growth and shareholder opportunities on the table. You are an early and core team member.</div><div>- Get to develop something that will be ahead of the curve for advertising data.  Join us in innovation.</div><div>- Become part of a long term meaningful project that can result in a full time opportunity with full benefits</div><div><br></div><div>Thanks for reading and we hope to find our perfect match soon :')</div><div><br></div><div>Look forward to connecting with some amazing talent soon.</div><div><br></div><div>Sincerely,</div><div>Tony &amp; the AdCopy.ai Team</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/adcopy-ai-senior-backend-engineer-for-ai-startup">https://weworkremotely.com/remote-jobs/adcopy-ai-senior-backend-engineer-for-ai-startup</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
