@@ -10,7 +10,7 @@
                     <code>developer,crypto,front-end,back-end,full-stack,web,qa,finance,typescript,api,lead,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-full-stack-developer-request-finance-200391" align="right" target="_blank">Apply</a>
@@ -37,7 +37,7 @@
 <li align="left">Autonomous and out-of-the-box thinker</li>
 <li align="left">Optional: knowledge of Ethereum, EVM blockchains,Â <span style=""><a class="bbcode-link" href="http://ethers.js/" target="_blank" rel="noopener noreferrer nofollow">ethers.js</a></span>Â library</li>
 <li align="left">Note: you donât need to check all the boxes to applyÂ </li>
-</ul><p>At Request Finance, we are a global team building global products, for an era of truly global finance. We believe that diversity and inclusion matters to our mission.</p><p>We want to work with people who can bring different perspectives rooted in their own unique cultures, experiences, lifestyles, and challenges. We are committed to building a safe workplace where everyone feels empowered to bring their authentic selves.</p><p>As an employer, we want to create an accessible and inclusive experience for potential hires. Please let us know if there are any adjustments we can make to assist you during the hiring and interview process.</p><p><br>WHY WORK WITH REQUEST FINANCE ?</p><p>ð¯Being on the frontier of this new and exciting technology, you will be given the chance to lead the way forward!</p><p>ðÂ You will have the opportunity to work in a team that wants to have a lasting impact on the way we experience finance tomorrow</p><p>ðThe team is inclusive, with inspirational and international colleagues</p><p>ðÂ We all work remotely but we love to meet as frequently as possible, with at least 3 company-wide reunions per year where possible.</p><p>ðï¸Â Unlimited vacation days with a mandatory minimum of 20/year.</p><br/><br/>Please mention the word **LUSH** and tag RMy45Mi4xNzQuMTQy when applying to show you read the job post completely (#RMy45Mi4xNzQuMTQy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p>At Request Finance, we are a global team building global products, for an era of truly global finance. We believe that diversity and inclusion matters to our mission.</p><p>We want to work with people who can bring different perspectives rooted in their own unique cultures, experiences, lifestyles, and challenges. We are committed to building a safe workplace where everyone feels empowered to bring their authentic selves.</p><p>As an employer, we want to create an accessible and inclusive experience for potential hires. Please let us know if there are any adjustments we can make to assist you during the hiring and interview process.</p><p><br>WHY WORK WITH REQUEST FINANCE ?</p><p>ð¯Being on the frontier of this new and exciting technology, you will be given the chance to lead the way forward!</p><p>ðÂ You will have the opportunity to work in a team that wants to have a lasting impact on the way we experience finance tomorrow</p><p>ðThe team is inclusive, with inspirational and international colleagues</p><p>ðÂ We all work remotely but we love to meet as frequently as possible, with at least 3 company-wide reunions per year where possible.</p><p>ðï¸Â Unlimited vacation days with a mandatory minimum of 20/year.</p><br/><br/>Please mention the word **LUSH** and tag RMzQuODIuMTUxLjY= when applying to show you read the job post completely (#RMzQuODIuMTUxLjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -52,7 +52,7 @@
                     <code>web3,developer,design,defi,crypto,back-end,full-stack,support,code,payroll,qa,financial,education,finance,nodejs,lead,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-web3-developer-request-network-200383" align="right" target="_blank">Apply</a>
@@ -83,7 +83,7 @@
 <li align="left">Previous participation in hackathons</li>
 <li align="left">Curious about new libraries and frameworks</li>
 <li align="left">Passionate about clean and well-documented code</li>
-</ul><br>***<p>At Request, we are a global team building global products for an era of genuinely international finance. We believe that diversity and inclusion matter to our mission.</p><p>We want to work with people who can bring different perspectives rooted in their unique cultures, experiences, lifestyles, and challenges. We are committed to building a safe workplace where everyone feels empowered to bring their authentic selves.</p><p>As an employer, we want to create an accessible and inclusive experience for potential hires. Please let us know if there are any adjustments we can make to assist you during the hiring and interview process.<br></p><h3></h3><br><h3><b>WHY WORK WITH REQUEST?</b></h3><p>ð¯Being on the frontier of this new and exciting technology, you will be given a chance to lead the way forward!</p><p>ðÂ You will have the opportunity to work in a team that wants to have a lasting impact on the way we experience finance tomorrow</p><p>ðThe team is inclusive, with inspirational and international colleagues</p><p>ðÂ We all work remotely and love to meet as frequently as possible, with at least three company-wide reunions per year.</p><p>ðï¸Â Unlimited vacation days with a mandatory minimum of 20/year.</p><br/><br/>Please mention the word **DELECTABLE** and tag RMy45Mi4xNzQuMTQy when applying to show you read the job post completely (#RMy45Mi4xNzQuMTQy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br>***<p>At Request, we are a global team building global products for an era of genuinely international finance. We believe that diversity and inclusion matter to our mission.</p><p>We want to work with people who can bring different perspectives rooted in their unique cultures, experiences, lifestyles, and challenges. We are committed to building a safe workplace where everyone feels empowered to bring their authentic selves.</p><p>As an employer, we want to create an accessible and inclusive experience for potential hires. Please let us know if there are any adjustments we can make to assist you during the hiring and interview process.<br></p><h3></h3><br><h3><b>WHY WORK WITH REQUEST?</b></h3><p>ð¯Being on the frontier of this new and exciting technology, you will be given a chance to lead the way forward!</p><p>ðÂ You will have the opportunity to work in a team that wants to have a lasting impact on the way we experience finance tomorrow</p><p>ðThe team is inclusive, with inspirational and international colleagues</p><p>ðÂ We all work remotely and love to meet as frequently as possible, with at least three company-wide reunions per year.</p><p>ðï¸Â Unlimited vacation days with a mandatory minimum of 20/year.</p><br/><br/>Please mention the word **DELECTABLE** and tag RMzQuODIuMTUxLjY= when applying to show you read the job post completely (#RMzQuODIuMTUxLjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -98,7 +98,7 @@
                     <code>developer,defi,crypto,cryptocurrency,system,software,testing,financial,bank,cloud,strategy,management,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-quantitative-developer-abra-199868" align="right" target="_blank">Apply</a>
@@ -144,51 +144,7 @@
 </ul>
 <p><em><span style="font-weight:400;">At Abra, we are an equal opportunity employer committed to a diverse, inclusive, and equitable workplace and candidate experience. We strive to create an environment where everyone has a sense of belonging and purpose, and where we learn from the unique experiences of those around us. </span></em></p>
 <p><em><span style="font-weight:400;">We encourage all qualified candidates to apply regardless of race, color, ancestry, religion, national origin, sexual orientation, age, citizenship, marital or family status, disability, gender, gender identity or expression, pregnancy or caregiver status, veteran status, or any other legally protected status.</span></em></p>
-</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/6T4UVH2Hhoo" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **SURREAL** and tag RMy45Mi4xNzQuMTQy when applying to show you read the job post completely (#RMy45Mi4xNzQuMTQy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/8522/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Kickserv</h5>
-                    <h3> Senior Mobile Developer (React Native)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/kickserv-senior-mobile-developer-react-native" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0083/8522/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Nashville, TN
-    <br /><strong>URL:</strong> <a href="https://kickserv.com">https://kickserv.com</a>
-</p>
-
-<div>Kickserv is looking for an experienced React Native mobile developer to take charge of our React Native mobile field service application. You will be the first member of our all-new mobile team. You'll set the standard for our app, and help recruit and lead others to fill out the team in the near future.</div><ul>
-<li>Work with our product team to plan and build new features—both for parity with our web application, and new mobile-first functionality.</li>
-<li>Maintain a high standard of excellence, fixing bugs, keeping dependencies up to date, and shipping releases on a roughly two-week cycle.</li>
-<li>Help develop our next-generation REST API for which your app will be the first client—along with our new React web UI.</li>
-<li>As a valued member of a small, close-knit team, you’ll work closely with the web developers—participating in standups and refinement sessions, pairing with others, and participating in our support / QA / on-call engineer rotation (approximately once every 12 weeks).</li>
-</ul><div><strong><br>More about you:</strong></div><ul>
-<li>You have at least 3 years' experience building, shipping, and maintaining a cross-platform production mobile application with a significant user base.</li>
-<li>React Native is your bread and butter, but you’re familiar with the nuances of both iOS and Android. Experience developing natively in either platform is a plus.</li>
-<li>You’ve been a team leader or are interested in growing into a leadership position, guiding and mentoring more junior developers.</li>
-<li>Knowledge and experience with the field service industry is always a plus.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/kickserv-senior-mobile-developer-react-native">https://weworkremotely.com/remote-jobs/kickserv-senior-mobile-developer-react-native</a></p>
-
+</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/6T4UVH2Hhoo" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **SURREAL** and tag RMzQuODIuMTUxLjY= when applying to show you read the job post completely (#RMzQuODIuMTUxLjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -203,7 +159,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/carb-manager-senior-software-developer" align="right" target="_blank">Apply</a>
@@ -250,7 +206,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/aldrin-labs-senior-front-end-developer" align="right" target="_blank">Apply</a>
@@ -311,88 +267,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/1067/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior Ruby on Rails Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>10 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0082/1067/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div><strong>The Role:</strong></div><div>
-<br>We are searching for a Senior Ruby on Rails Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
-<br><br>
-</div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
-<li>You have +3 years of experience with Ruby on Rails;</li>
-<li>You have experience working with the libraries like Resque and RSpec;</li>
-<li>You are able to write clean Ruby code;</li>
-<li>You have proficiency with code versioning tools including Git, Github, SVN, and Mercurial;</li>
-<li>You got experience with Angular or ReactJS;</li>
-<li>You are familiar with MVC, Mocking, RESTful, and ORM;</li>
-<li>You have a good understanding of front-end technologies including HTML5, JavaScript, and CSS3;</li>
-<li>You possess knowledge of server-side templating languages including Slim and Liquid;</li>
-<li>You got familiar with testing tools.</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>Nice-to-have:</strong> <br><br>
-</div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Knowledge of TypeScript.</li>
-</ul><div><br></div><div>
-<strong>Responsibilities:<br></strong><br>
-</div><ul>
-<li>Designing and developing new web applications;</li>
-<li>Maintaining and troubleshooting existing web applications;</li>
-<li>Writing and maintaining reliable Ruby code;</li>
-<li>Integrating data storage solutions;</li>
-<li>Creating back-end components;</li>
-<li>Identifying and fixing bottlenecks and bugs;</li>
-<li>Integrating user-facing elements designed by the front-end team;</li>
-<li>Connecting applications with additional web servers;</li>
-<li>Maintaining the APIs.</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
-<br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of the Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/7751/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -403,7 +277,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/airdao-react-native-mobile-front-end-developer" align="right" target="_blank">Apply</a>
@@ -500,7 +374,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>36 days ago</text>
+                <text>37 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ticketsolve-senior-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -535,7 +409,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>67 days ago</text>
+                <text>68 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-laravel-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -598,6 +472,57 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6989/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>ProjectDiscovery.io</h5>
+                    <h3> Senior Back End Developer (Golang)</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>180 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6989/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> San Francisco
+    <br /><strong>URL:</strong> <a href="https://projectdiscovery.io">https://projectdiscovery.io</a>
+</p>
+
+<div>ProjectDiscovery is an open-source cyber-security company that builds a range of softwares for security engineers and developers. Our user base is among the largest in the InfoSec community, and we are used by top internet companies’ security and developer teams, including Fastly, Microsoft, CloudFlare, Gitlab, Facebook, IBM, and many others.</div><div><br></div><div>We are well funded and just recently raised $25M in our Series A. Backed by current/former CXOs from companies like Fastly, Databricks, Google, Twitter, HashiCorp, RedHat.</div><div><br></div><div>→ github.com/projectdiscovery</div><div><br></div><div>
+<br>You're a backend engineer with 6+ years of software experience. You're ready to be an individual contributor, design and build sophisticated systems quickly, and collaborate in a fast-paced environment.</div><div><br></div><div>You are a product-focused engineer that takes just as much pride in the user experience of your product as you do the performance.</div><div>
+<br><strong>Requirements:</strong>
+</div><ul>
+<li>6+ years of experience as a backend developer, with at least 3+ years of experience working with GO language.</li>
+<li>Strong knowledge of working with Go paradigms and best practices</li>
+<li>Good knowledge of concurrency in Go - goroutines, channel patterns, Go ecosystem, and tools available</li>
+<li>Worked on or have an understanding of various frameworks in Go</li>
+<li>Ability to dissect and recommend best tools for the job</li>
+<li>Worked with microservices architecture and patterns, DevOps, and continuous delivery.</li>
+<li>Experience building APIs with gRPC or REST</li>
+<li>Some experience with deployment processes including knowledge of Kubernetes and Docker.</li>
+<li>Strong knowledge of PostgreSQL / MySQL</li>
+</ul><div><br></div><div><strong>What will you work on:</strong></div><ul>
+<li>Here is our work: https://github.com/projectdiscovery you are directly going to be involved in many of these open-source projects. 90%+ code base is written in Go.</li>
+<li>Developing high-volume, low-latency applications for large systems and coping with the challenges of working in a distributed and highly concurrent environment.</li>
+<li>You will also be coding new features and have an active role in the defining the backend architecture, which includes designing microservices and researching new alternatives and technologies.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang">https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -608,7 +533,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>181 days ago</text>
+                <text>182 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -682,7 +607,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -759,7 +684,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -785,7 +710,7 @@
                     <code>developer,seo,social media,ai</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/ai-application-developer-1608200" align="right" target="_blank">Apply</a>
@@ -825,7 +750,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -902,7 +827,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1046,7 +971,7 @@
                     <code>developer,design,Figma</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/website-developer-1601883" align="right" target="_blank">Apply</a>
@@ -1077,7 +1002,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -1146,7 +1071,7 @@
                     <code>developer,fullstack,ui,design</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-remix-full-stack-developer-1583816" align="right" target="_blank">Apply</a>
@@ -1412,107 +1337,6 @@
     
 
     
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1569586501335359494/4rq0Hb99_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Appwrite</h5>
-                    <h3>Developer Advocate - Social Media</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://careers.appwrite.io/developer-advocate-social-media" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-<aside class="mask" style="opacity: 1;"></aside><div class="body" data-columns="1"><div class="article" data-medium-editor-element="" style=";">
-<h1>About the job</h1>
-<p>Appwrite is looking for a Developer Advocate with a passion for engaging and educating developers on social media. As a member of our Developer Relations team, you will work alongside a group of six talented individuals, each with their own unique strengths. Your role will be to complement our skills and help us foster a vibrant and engaged community. If you enjoy spending most of your time on Twitter and other socials, creating demos, recording video shorts, and writing technical content, this is the perfect opportunity for you!</p>
-</div></div>
-<style>
-                @media only screen and (max-width: 767px) {
-                    #block-1 {
-                        padding-top: 25px !important; padding-bottom: 25px !important;
-                    }
-                }
-                </style>
-
-<aside class="mask" style="opacity: 1;"></aside><div class="body" data-columns="1"><div class="article" data-medium-editor-element="" style=";">
-<h1>Responsibilities</h1>
-<ul>
-<li><p>Demonstrated experience with at least two programming languages or frameworks (JS, TS, PHP, Python, Ruby, Dart, Kotlin, Swift…)<br></p></li>
-<li><p>Oversee Appwrite’s Twitter, TikTok, YouTube Shorts, and Instagram account and build a day-to-day social media strategy to enhance our brand and voice<br></p></li>
-<li><p>Collaborate with other teams to create demos, trending video shorts, social media content and technical content to promote on all platforms</p></li>
-<li><p>Increase brand awareness and grow an active community of developers and advocates for our products<br></p></li>
-<li><p>Keep up to date with developing trends in both developer and social media communities to create the perfect blend of attractiveness and relevance</p></li>
-</ul>
-<p><br></p>
-<h1>Requirements</h1>
-<div>
-<ul>
-<li>Proven ability to organize and schedule content and collaborate with others to actively generate more ideas for social media</li>
-<li>Ability to work with a diverse global company and team across different time zones in a startup environment<br>
-</li>
-<li>Excellent communication skills<br>
-</li>
-<li>Experience with Git, GitHub, and video content creation<br>
-</li>
-<li>Proven ability to build and engage a large audience on Twitter<br>
-</li>
-<li><span>Passion for inspiring and educating developers</span></li>
-</ul>
-<p><br></p>
-<h1>Bonus but not required&nbsp;</h1>
-</div>
-<ul>
-<li>Experience as a Developer Advocate</li>
-<li>Experience with participating in developer communities, such as conferences and hackathons<br>
-</li>
-<li>
-<span>2+ years of Twitter experience</span><br>
-</li>
-<li><span>Contributing to or maintained open source projects in the past<br></span></li>
-</ul>
-<p><br></p>
-<h1>Benefits</h1>
-<p>🏠 <b>100% Remote</b></p>
-<p>Our entire company is distributed, so we take remote work seriously. If you’d rather not work from home, we will cover the cost of a coworking or office space.</p>
-<p>📈 <b>Stock Options</b></p>
-<p>Get generous stock options for a company that is growing blazing fast and is backed by top VCs :)</p>
-<p>🕰 <b>Flexible Hours &amp; Days</b></p>
-<p>We're a remote team working in different time zones, from UTC+06:00 to UTC-06:00. Choose the hours and days that work best for you!</p>
-<p>🏥 <b>Healthcare</b></p>
-<p>Employees receive generous medical, dental, vision, and life insurance. Full-time contractors will have the cost of healthcare factored into their salary. Our recruiting team can help confirm which applies to you.</p>
-<p>❤️ <b>Github Sponsorship of Your Choice</b></p>
-<p>We would love to give an annual sponsorship to any GitHub project of your choice!</p>
-<p>🎓 <b>Learning</b></p>
-<p>Appwrite provides $3,000 USD for employees to attend conferences, take classes, or otherwise further their education.</p>
-<p>✈️ <b>Gatherings</b></p>
-<p>We typically meet up couple times a year in person for work and fun! What will be our next location? NYC, London, LA, or Barcelona? Help us decide!</p>
-<p>🖥 <b>Top Notch Equipment</b></p>
-<p>Appwrite will let you choose a new laptop of your choice (up to $3,000 USD) and will reimburse up to $500 USD for office expenses.</p>
-<p>🧦 <b>Unlimited SWAGS</b></p>
-<p>At Appwrite, we really love Swags. Each new team member gets unlimited credits to grab any official Appwrite Swag that they wish.</p>
-</div></div>
-<style>
-                @media only screen and (max-width: 767px) {
-                    #block-2 {
-                        padding-top: 25px !important; padding-bottom: 25px !important;
-                    }
-                }
-                </style>
 
                 </details>
                 </td>
@@ -2041,6 +1865,54 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div>We at Collabora are looking for Fullstack Web Application Developers to join our in-house Tools team.</div><div><br></div><div>The  Tools team develops and supports applications used by our colleagues to  execute, analyse and inform the delivery of projects in every area of  the business. We want to build the future of business automation in the free software domain.</div><div><br></div><div>As  a Senior Fullstack Developer you will be working closely with other  Tools Developers, users, Product Owners, the Delivery Team and People Leads to give them the tooling they need to support and protect the  unique way in which Collabora works.</div><div><br></div><div>You  will need to be a specialist in building secure, well-tested web  applications using Django, make sensible choices about UI and know how  to get things deployed.</div><div><br></div><div>You'll  be able to capture, simplify and model real-world processes and  structures, and keep those models updated as requirements evolve.</div><div><br></div><div>You will know how to reverse engineer and fix things you haven't seen before, and you will know how to make slow things go fast.</div></div><div class="section page-centered"><div><h3>You will be patient and pragmatic, careful and caring, and will take seriously the team's mission to maximise:</h3><ul class="posting-requirements plain-list"><ul><li>Engineers' freedom to work on things at which they are *excellent*</li><li>Our colleagues' headspace for personal development and learning</li><li>The role of open source in all business operations</li><li>The richness of everybody's cultural experience within Collabora</li></ul></ul></div></div><div class="section page-centered"><div><h3>In return, the business will provide:</h3><ul class="posting-requirements plain-list"><ul><li>An open engineering culture where you will be able to exchange ideas with technical experts in a wide range of software fields</li><li>Meetups and conference attendance (COVID permitting)</li><li>Flexible hours and a battle-tested remote working culture</li><div><br></div><div>If you care about open source and writing software to help companies regain control of their operations, then please apply!</div></ul></ul></div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li>Strong Python, Django, SQL, JavaScript, HTML, CSS</li><li>Experience designing and implementing web architectures, and configuring their components (e.g. NGinx, Redis)</li><li>Willingness to support and mentor other engineers</li><li>Experience solving challenges with observability and diagnostics</li><li>A respectful and pragmatic approach to providing technical support to users</li><li>A solid grounding in Linux system administration and networking concepts</li><li>Good English proficiency</li><li>Familiarity with container-based working, e.g. Docker or Podman, Kubernetes</li><li>Experience using, maintaining and designing CI and other DevOps processes</li><li>Experience with database schema design and optimisation</li><li>Willingness to occasionally do some PHP even if through gritted teeth</li><li>Demonstrable technical writing skills (documentation, blogs)</li><li>Knowledge of security- and privacy-by-design principles</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><b>About Collabora</b></div><div><br></div><div>Collabora  is a software consultancy specializing in bringing companies and the  Open Source community together. We combine years of Open Source software  leadership with an understanding of the challenges that businesses,  non-profits, and governments face.</div><div><br></div><div>Collabora  brings deep technical expertise in system integration &amp;  architecture, graphics, multimedia, web engines and communications to a  number of market verticals, including mobile, IVI/automotive, set top  box/smart TV, and a range of other specialized embedded applications.</div><div><br></div><div>Collabora  has the unique business model of enabling enterprises to leverage Open  Source software in their solutions. Having worked with notable industry  leading companies in the automotive, aerospace and handset mobile  verticals amongst many others, Collabora has established a broad customer portfolio.</div><div><br></div><div>#LI-Remote</div><div><br></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/d724930d-ce73-4415-ac7e-a3ef275db155/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1618665164999360515/9HfoZiGf_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Istari</h5>
+                    <h3>Front-End Developer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/istaridigital.ai/74337a60-4632-4448-9ae7-e987b861cbcb" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div>[ABOUT ISTARI]</div><div><span style="font-size: 11pt">Istari is a digital engineering software company enabling our customers to turn the physical world into the digital to accomplish their specific mission or business objectives.</span></div><div><br></div><div><span style="font-size: 11pt">Istari was founded with the vision of making open, scalable digital engineering ecosystems a reality – where new technologies and systems are created digitally, free from the real-world constraints of costs and schedules. We are creating the world’s best engineering model sharing platform, allowing our customers to simply and securely integrate their models across different engineering disciplines, organizations, and security levels.</span></div><div><br></div><div><span style="font-size: 11pt">At Istari, we are passionate about our mission of creating the world's first open and scalable industrial metaverse. Whether our customers are designing prototypes, performing virtual testing, or training AI and autonomy for complex systems, we know that going digital will save them time, resources, and reduce their environmental impact.&nbsp;&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">While we are a distributed team with most team-members working remotely, we place an emphasis on staying connected and collaborative, prioritizing in-person opportunities to build trust as a team. At Istari, we still believe that trust is best built in-person. To do this, we have an engineering headquarters in Cambridge, MA for focused technical development and several times per year we gather for an off-site that allows us to develop our professional skills and our team relationships.</span></div><div><br></div><div>[VALUES]</div><div>At Istari, we live by our values, which include:</div><div><br></div><div><b>Purposeful Autonomy</b></div><div>We value letting people self-organize and self-motivate.&nbsp;</div><div>Our flat structure and lack of meeting clutter are meant to empower individuals and teams to be proactive.</div><div>Our autonomy is measured, goal-oriented, and results-driven –&nbsp;not meandering. </div><div>Clear objectives help us prioritize our time.</div><div><br></div><div><b>Radical Transparency</b></div><div>We believe in honest-but-kind communication, transparency, and open-door policies. </div><div>We love learning about challenges and tackling them early, not hearing good or bad news late. </div><div>We share work-in-progress across our team.&nbsp;</div><div>Fast feedback keeps autonomy purposeful.</div><div><br></div><div><b>Continual Curiosity</b></div><div>At Istari, we love learning to do things ourselves. </div><div>We ask, read, share, teach – even watch YouTube videos – to learn new skills to solve problems. </div><div>When we make breakthroughs, we write them down.&nbsp; &nbsp;</div><div>Writing focuses ideas, helps us learn, and helps us share.</div><div><br></div><div>[ROLE]</div><div>As a Front-End Development Engineer you will be responsible for supporting efforts on multiple projects assigned by the engineering leadership. You will also work closely with everyone else on the team to solve problems even if it requires learning new skills or working out of your comfort zone or on things not listed in your roles and responsibilities when needed. You will be working with an agile team that promotes and spreads an agile culture where the focus is on achieving goals as a team with all means possible so we expect you to spread the same culture and values across the organization as it grows.&nbsp;&nbsp;</div></div><div class="section page-centered"><div><h3>Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>&nbsp;Developing new user-facing features using <a href="http://React.js" class="postings-link">React.js</a> or any other applicable front-end frameworks</li><li> Building modular and reusable components and front-end libraries for future use</li><li> Translating designs and wireframes into high quality code</li><li> Optimizing components for maximum performance across a wide range of web-capable devices and browsers</li><li> Developing and maintaining code that adheres to best practices such as code structure, formatting, commenting, and documentation</li><li> Working with the back-end team to ensure projects integrate with our existing stack</li><li> Collaborating with other team members and stakeholders   </li><li>Keeping abreast of industry trends, standards, best practices and emerging technologies in related disciplines.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><br></div><div><br></div><div><span style="font-size: 24px">BENEFITS</span></div><div>We offer highly competitive benefits, including:</div><div><br></div><div><span style="font-size: 18px">Health and Family</span></div><div>- Medical/Dental/Vision</div><div>- Premiums are 100% Company Paid</div><div>- Life Insurance</div><div>- Flexible Work Hours&nbsp;</div><div>- Unlimited Paid Time Off (PTO) with federal government holidays</div><div><br></div><div><span style="font-size: 18px">Financial</span></div><div>- Competitive Compensation&nbsp;</div><div>- 401k&nbsp;</div><div>- Company Stock Options</div><div>- Home Office Setup Budget</div><div><br></div><div><span style="font-size: 18px">Learning</span></div><div>- Reimbursement for approved trainings and subscriptions</div><div>- Conferences (travel, lodging, and fees)</div><div><br></div><div>Note - some benefits are not available to interns.</div><div><br></div><div>Thank you for your interest in Istari. Expect to hear back from us soon with next steps.</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit cerulean" data-qa="show-page-apply" href="https://jobs.lever.co/istaridigital.ai/74337a60-4632-4448-9ae7-e987b861cbcb/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1435749714821926913/SgjRHZ17_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Iterative</h5>
+                    <h3>Senior Product Designer - Developer Tools</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/iterative/a1f9061e-112c-4b6a-847b-38b29eb2bd9a" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div><b>About Us</b></div><div>At <i><a href="http://iterative.ai/" class="postings-link">iterative.ai</a></i>, we build open-source tools for machine learning <a href="https://dvc.org/" class="postings-link">DVC</a> (10k+ ⭐&nbsp; on GitHub), <a href="https://cml.dev/" class="postings-link">CML</a> (3k+ ⭐  on GitHub), and enterprise-grade data infrastructure solutions. We also offer a team collaboration SaaS solution - <a href="https://studio.iterative.ai/" class="postings-link">Studio</a>. We're a well-funded (Series A), remote-first team (50+ employees) on a mission to solve the complexities of managing datasets, ML infrastructure, ML models lifecycle, and other ML &amp; data-centric workflows.</div><div>We value great collaboration and communication skills, both among internal teams and in how we interact with our users. We take care to balance and be responsive to the needs of our open source community as well as our enterprise customers.</div><div><b>Check us out in other places:</b></div><div>🖥  <a href="https://iterative.ai/" class="postings-link">Website</a>  📂&nbsp; <a href="http://dvc.org/doc" class="postings-link">Docs</a>  👾: <a href="http://github.com/iterative" class="postings-link">GitHub</a>  🖊&nbsp; <a href="http://dvc.org/blog" class="postings-link">Blog</a>  ⏯️&nbsp; <a href="https://www.youtube.com/channel/UC37rp97Go-xIX3aNFVHhXfQ" class="postings-link">YouTube</a>  💬&nbsp;<a href="https://dvc.org/chat" class="postings-link">Discord</a></div><div><br></div><div><span style="font-size: 15px">We are looking for a hands on UX designer with experience and passion in dev tools / ML tools to lead the design on our </span><a href="https://studio.iterative.ai" style="font-size: 15px" class="postings-link">studio</a><span style="font-size: 15px"> and </span><a href="https://marketplace.visualstudio.com/items?itemName=Iterative.dvc" style="font-size: 15px" class="postings-link">VS code</a> products</div></div><div class="section page-centered"><div><h3>Responsibilities:</h3><ul class="posting-requirements plain-list"><ul><li>Collaborate with the product team and founders to develop and iterate on mock ups for new large features</li><li>Own the entire UX process</li><li>Proactively detect UX/UI issues, set tasks, implement simple changes yourself (e.g. CSS styles, fonts, etc)</li><li>Maintain the entire design system [currently in Figma]</li><li>Stay up to date with current best UI/UX and design best practices and suggest improvements and features to make the tools intuitive and a pleasure to use</li></ul></ul></div></div><div class="section page-centered"><div><h3>Requirements:</h3><ul class="posting-requirements plain-list"><ul><li>Experience with UX/UI in modern SaaS applications and data-driven tools - numerical/graphical data heavy views, e.g. finance, data science, statistical data, BI, etc</li><li>Deep understanding / experience with the dev tools ecosystem. Software engineering common practices/workflows and tools - like Git, GitHub, etc.</li><li>Established design taste with a programmer's/hacker-ish bias</li><li>Good sense of task prioritization [e.g. identify what would be the best for the current needs - a quick mock up or a thorough and stable version]</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Bonus points if you're familiar with the ML infrastructure, MLOps, or other developer tools like IDEs.</div><div><br></div><div>ℹ️&nbsp;<b>Our Hiring Process</b></div><div>We will go over the process with you in the Introductory call to make sure it is clear and you know what to expect.</div><div>Here is the full interview process you can expect - It’s our go-to for most positions:</div><div>🤙&nbsp; Introductory call [~1h]</div><div>👨‍🏫&nbsp; Tech call with a team member [~45m]</div><div>👩🏾‍💻&nbsp; Take-home coding task [real-world, asynchronous] - <i>We pay for your time</i>! See this <a href="https://www.notion.so/Iterative-ai-is-Hiring-852cb978129645e1906e2c9a878a4d22" class="postings-link">FAQ</a>.</div><div>🦾&nbsp; Task summary / retro call [Optional, ~1h]</div><div>✏️  Offer</div><div><br></div><div>👩‍💻&nbsp;<b>Culture</b> - <i><b>We take care of our people</b></i></div><div>💖&nbsp; <b>Diversity</b> - As a <a href="https://iterative.ai/about/#the-team" class="postings-link">distributed company</a>, diversity drives our identity. Whether you’re looking to launch a new career or grow an existing one, <i><a href="http://iterative.ai/" class="postings-link">iterative.ai</a></i> is the type of company where you can balance great work with great life, and work with a wonderful team that does the same! No matter who you are or where you’re from; we need you for what you can do and for caring about ML and delivering great developer tools!</div><div>⚖️&nbsp; <b>Equal opportunities</b> - We strive to have parity of benefits across regions and while regulations differ from place to place, we believe taking care of our people is the right thing to do. No country or region takes precedence for personal growth, compensation, team recognition, or anything else, it just doesn’t matter where you are.</div><div>👣&nbsp; <b>Flexibility first</b> - Ability to craft your calendar with flexible locations and schedules</div><div>⚓️  <b>Team Driven Culture</b> - Engineering team is involved in product discussions and planning. We do it openly via GitHub or Discord chat. Well-defined process that we all participate in improving. As an employee you will have visibility to everything in Iterative, we are <b><a href="https://iterative.ai/about/#the-team" class="postings-link">One team</a>.</b></div><div><br></div><div>👏<b>&nbsp;Perks &amp; Benefits</b></div><div>🌎&nbsp; <b>Work wherever you want -</b> No offices. Team is distributed remotely worldwide.</div><div>🗓️  <b>Work whenever you want -</b> Asynchronous communication and engineering culture. We are light on meetings and emphasize people finding their own schedule to be <b>prolific &amp; effective</b>. Oh yeah, also <b>Unlimited PTO and sick days!</b></div><div>🤗  <b>Open-source your code</b> - We’re an open-source-first company (frankly, it’s in our DNA). Your work will be visible and will be used by thousands of developers every day! Check out our <a href="http://dvc.org/chat" class="postings-link">Discord</a> and <a href="http://github.com/iterative" class="postings-link">GitHub</a>.</div><div>🪙&nbsp; <b>Competitive compensation</b> - based on the work you do here and not your previous salary.</div><div>⚕️ <b>Great health coverage</b> (medical, dental, vision) for you and your family, 100% paid by us (US only, but can discuss and reimburse, adjust the salary in other locations).</div><div>🛡️ <b>Benefits</b> - 401K with 100% match up to 4% of annual salary (US only, but we give the best we can worldwide through reimbursements and hiring platforms).</div><div>🎤  <b>Participate in conventions and conferences</b> (PyCon, PyData, O'Reilly AI, etc) - We encourage and support everyone in giving talks, writing blog-posts, and other activities.</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit teal" data-qa="show-page-apply" href="https://jobs.lever.co/iterative/a1f9061e-112c-4b6a-847b-38b29eb2bd9a/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr></table>
