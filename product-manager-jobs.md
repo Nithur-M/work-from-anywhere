@@ -1,5 +1,59 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/8803/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Paymentology</h5>
+                    <h3> Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/paymentology-product-manager-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0083/8803/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> London, UK
+    <br /><strong>URL:</strong> <a href="https://paymentology.com">https://paymentology.com</a>
+</p>
+
+<div>Paymentology is the first truly global issuer-processor, giving banks and FinTechs the technology, team, and experience to rapidly issue and process Mastercard, Visa, and UnionPay cards across more than 50 countries, at scale. <br><br>
+</div><div>As a rapidly scaling digital payments company, Product is at the core of everything we do. We have built globally distributed teams and are looking for amazing <strong>Product Managers</strong> to join our advanced, multi-cloud platform, offering both shared and dedicated processing instances, a vast global presence, and richer, real-time data to set us apart as the leader in payments. <br><br><strong>What you get to do:<br><br></strong>A key part of your role as a Product Manager at Paymentology will be guiding product &amp; engineering teams to ensure conformation to our design, and governance through a well-formulated process.<br><br>
+</div><div>You will work within a remote team of solution architects and multiple developers disseminated throughout the world.<br><br>
+</div><div>The ideal candidate will combine excellent problem-solving skills and communications expertise with a collaborative approach.<br><br><strong>What it takes to succeed:<br></strong><br>
+</div><ul>
+<li>Experience in payments is crucial for succeeding in this role, as well as a strong technical core competence.</li>
+<li>In particular, familiarity with payment scheme standards such as ISO8583 &amp; ISO20022 is invaluable.</li>
+<li>5+ years of experience as a Product Manager, preferably in a start-up environment, with a minimum of 5 years working in the software industry.</li>
+<li>Investigate, analyze, visualize, articulate, and solve complex problems and concepts and make disciplined decisions based on available information.</li>
+<li>Use knowledge of Requirement Gathering and Analysis to create requirements documents and high-level process maps.</li>
+<li>Is aware of and understands agile methodology and how to apply the agile mindset to all aspects of their work.</li>
+<li>Understanding and experience of backend SaaS concepts related to APIs and webhooks is essential.</li>
+<li>Write epics, user features, and bug stories with QA-minded acceptance criteria, as well as supporting documentation.</li>
+<li>Experience with JIRA, Figma, and/or other relevant tools.</li>
+<li>A nice to have is the ability to construct SQL to retrieve data from databases. </li>
+</ul><div>
+<br><strong><em>Preferences will be given to candidates with expertise in one or more of the following:</em></strong><em><br></em><br>
+</div><ul>
+<li>Experience, knowledge, and understanding of MasterCard/Visa operating regulations and dispute resolution rules for card-present and card-not-present transactions in the full dispute life cycle from 1st chargebacks to arbitration cases.</li>
+<li>Experience working on data-centric tools, including dashboards and automated reports, particularly financial and other reconciliation-related reports.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/paymentology-product-manager-1">https://weworkremotely.com/remote-jobs/paymentology-product-manager-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/8498/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +64,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -66,104 +120,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0015/3041/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>RapidSeedbox Ltd</h5>
-                    <h3> Remote Product Manager Needed</h3>
-                </td>
-                <td width="300">
-                    <code>Product</code>
-                </td>
-                <td width="200">
-                <text>15 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-remote-product-manager-needed" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0015/3041/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> 100% Remote
-    <br /><strong>URL:</strong> <a href="https://www.rapidseedbox.com/">https://www.rapidseedbox.com/</a>
-</p>
-
-<div>▬▬▬▬▬▬▬▬▬▬▬</div><div>A video from RapidSeedbox CEO and Co-Founder<br>▬▬▬▬▬▬▬▬▬▬▬</div><div>
-<br>https://www.dropbox.com/s/6p53rj1xob7wk74/RapidSeedbox%20Job%20Post%20Intro.mp4?dl=0<br><br>
-</div><div>▬▬▬▬▬▬▬▬▬▬▬</div><div>Our core values</div><div>▬▬▬▬▬▬▬▬▬▬▬</div><div><br></div><div>→ <strong>Excellence in everything we do </strong>(“<em>I go above and beyond!</em>”) - We believe in being excellent and showing it with our actions and mindset in absolutely everything we do day to day.<br><br>
-</div><div>→<strong> Ownership and responsibility</strong> (<em>“I own it”</em>) - We believe in taking full ownership and full responsibility for everything we do. That means taking full ownership of every small task and taking responsibility for deliverables and outcomes.<br><br>
-</div><div>→ <strong>Push the limits </strong>(“I<em> don't take No as an answer</em>”) - We love pushing the limits and we do not take no as an answer. WE push their limits so that we can grow professionally.<br><br>
-</div><div>→ <strong>Cooperate and Serve</strong> (“<em>Everyone matters”</em>) - We believe in team cooperation and serving both our external customers and serving all of our internal team.<br><br>
-</div><div>Our company is looking to grow in the Seedbox/IP space and we are looking for growth-oriented people who want to join our growth journey. If this sounds like the team for you, read on!<br><br>
-</div><div>▬▬▬▬▬▬▬▬▬▬▬</div><div>About the role<br>▬▬▬▬▬▬▬▬▬▬▬</div><div><br></div><div>We are looking to hire a Product Manager to lead our product initiatives. You will take ownership of our product team, our UI/UX and our product experience to turn it into a world-class experience, lowering our churn and enhancing the user experience. <br> <br>You will be a vital part of the team and will also manage a few developers who are developing the products and work closely with other departments as well. <br> <br>This role is a hybrid role between a product leader and a manager role where both technical and leadership skills are needed<br> </div><div>The key two focuses of your role will be:<br><br>
-</div><div>🔵Leading our product efforts, optimizing the product experience/onboarding and lowering our churn rate.</div><div>🔵Accountability of the whole department in the company by managing the team in an effective way<br><br>
-</div><div>As you join the company, you will have the time to adjust and learn more about the company, its product, its systems, and the people you oversee. However, the team counts on your expert knowledge which includes your product and managerial aptitudes, which you must own 100% from day 1.  The training you will receive will not be on the actual tasks of your role, but rather on the people, processes, and product so that you can quickly hit the ground running and bring your expertise to the table.<br><br>
-</div><div>▬▬▬▬▬▬▬▬▬▬▬</div><div>About you<br>▬▬▬▬▬▬▬▬▬▬▬<br><br>
-</div><div>To excel in this role, you need to have:<br><br>
-</div><div>
-<strong>Technical/Product skills</strong>, or more specifically:</div><ul>
-<li>At least <strong>2 years</strong> of applied knowledge in being a product manager.</li>
-<li>A deep understanding of the techniques and methods of modern product discovery and product delivery.</li>
-<li>At least <strong>2 years</strong> of experience with onboarding experiences of products.</li>
-<li>Experience in PHP, MySQL, Javascript, CSS, HTML, Wordpress (Recommended)</li>
-<li>ElectronJS, NodeJS, ionCube (Optional but very welcome!)</li>
-</ul><div>
-<strong>Leadership and communication skills, </strong>or more specifically:</div><ul>
-<li>
-<strong>2+ years of experience acting as a team manager/leader<br></strong>Proficient communication skills (written communication, voice communication, and excellent asynchronous communication skills)</li>
-<li>Ability to teach and coach co-workers new skills, including explanations of technical concepts and a lot of soft/psychological skills to elevate the team to the next level</li>
-<li>Active listening skills and the ability to gather information</li>
-<li>Ability to efficiently delegate tasks to others when needed &amp; the ability to break down projects and tasks in Asana with clear due dates and assignments</li>
-<li>Ability to empathise with the team and show an understanding of their tasks and responsibilities, as well as wellbeing</li>
-<li>Ability to hold a team accountable for the KPIs and deliverables of the department</li>
-</ul><div>
-<strong>Soft skills, </strong>or more specifically:</div><ul>
-<li>Critical thinking skills and the ability to solve problems &amp; identify new ideas for the company</li>
-<li>Time management skills and the ability to prioritise and execute; you know how to manage to complete tasks by the due date and you deal well with time constraints</li>
-<li>Proactive learning skills and genuine curiosity about new technologies and solutions</li>
-<li>Project management skills and the ability to coordinate the work of people who report directly to you to complete tasks</li>
-<li>Research skills and the ability to observe new technologies that are on the rise in the industry and apply them to your work to keep up with the changing trends</li>
-<li>Results-driven mindset and an obsession with creating tangible results for a company creatively, innovatively, and reliably</li>
-<li>Service-centric mindset and the ability to think and act to serve your team and your company's customers</li>
-</ul><div>▬▬▬▬▬▬▬▬▬▬▬</div><div>Benefits<br>▬▬▬▬▬▬▬▬▬▬▬</div><div><br></div><div><strong>What’s in it for you?</strong></div><ul>
-<li>
-<strong>100% Remote: </strong>Fully remote and full-time role. Fully flexible working schedule; you can be online at any time during the day as long as you clock 40 hours per work week and deliver results. The company measures only performance and results</li>
-<li>
-<strong>Emergency fund</strong>: We provide an emergency fund in case of emergencies up to $1,000, interest free and in a comfortable payouts.</li>
-<li>
-<strong>Personal development: </strong>We provide a personal development fund to aid your personal development</li>
-<li>
-<strong>Focused time blocks:</strong> We discourage meetings before noon so employees can have undistracted time to work.</li>
-<li>
-<strong>Incredible Growth and Promotion Opportunities: </strong>We are a small company and there is a lot of opportunity to make your mark, grow professionally and also be promoted.</li>
-<li>
-<strong>Swag:</strong> You get company gear swag shipped to you.</li>
-<li>
-<strong>Bonus structure:</strong> Based off performance, we create bonus structures<br><br>
-</li>
-</ul><div><br></div><div>
-<em>*Please note that this is a gross salary and that you are responsible for any tax-related procedures in your country of residence. We kindly ask you to apply only if you are happy to work remotely as an independent contractor.<br></em><br>
-</div><div>▬▬▬▬▬▬▬▬▬▬▬</div><div>How to apply<br>▬▬▬▬▬▬▬▬▬▬▬<br><br><strong>This position will be closed as soon as we find the perfect match</strong>. So, make sure to read the description carefully, apply promptly, and take your time to submit a high-quality application that stands out.<br><br>
-</div><div>Please expect the hiring process to include:<br><br>
-</div><div>
-<strong>1</strong> - Filling in the application form once you click “Apply”<br><br>
-</div><div>
-<strong>2</strong> - Being invited to record a short video to introduce yourself<br><br>
-</div><div>
-<strong>3</strong> - Completing test tasks if short-listed<br><br>
-</div><div>
-<strong>4</strong> - Attending video interviews where you will have the opportunity to talk more about your previous experience and the new role</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-remote-product-manager-needed">https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-remote-product-manager-needed</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -174,7 +130,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1" align="right" target="_blank">Apply</a>
@@ -243,7 +199,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>488 days ago</text>
+                <text>489 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -309,7 +265,7 @@
                     <code>C,crypto,data science,developer</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/senior-product-manager-access-controls-1613417" align="right" target="_blank">Apply</a>
@@ -479,21 +435,21 @@
 <ul>
 <li style="font-weight: 400;"><strong>Introduction Stage</strong><span style="font-weight: 400;"> - we have initial conversations to get to know you better…</span></li>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#recruiter-screen"><span style="font-weight: 400;">Recruiter Screen</span></a><span style="font-weight: 400;">&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#hiring-manager-screen"><span style="font-weight: 400;">Hiring Manager Screen</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#recruiter-screen"><span style="font-weight: 400;">Recruiter Screen</span></a><span style="font-weight: 400;"> with <a href="https://handbook.sourcegraph.com/team/#devon-coords" target="_blank">Devon Coords</a> or <a href="https://handbook.sourcegraph.com/team/#kelsey-nagel" target="_blank">Kelsey Nagel</a></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#hiring-manager-screen"><span style="font-weight: 400;">Hiring Manager Screen</span></a> with <a href="https://about.sourcegraph.com/blog/introducing-steve-yegge" target="_blank">Steve Yegge</a></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive"><span style="font-weight: 400;">Resume Deep Dive</span></a></li>
 </ul>
 <li style="font-weight: 400;"><strong>Team Interview Stage</strong><span style="font-weight: 400;"> - we then delve into your experience in more depth and introduce you to members of the team…</span></li>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[Async] Writing exercise</span></li>
-<li><span style="font-weight: 400;">[60m] </span><span style="font-weight: 400;">Product interview</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process_candidates/#technical-interview"><span style="font-weight: 400;">Technical Interview: General</span></a></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process_candidates/#cross-functional-team-collaboration"><span style="font-weight: 400;">Cross-functional Team Collaboration Interview</span></a></li>
+<li><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#product-interview" target="_blank"><span style="font-weight: 400;">Product interview</span></a> with <a href="https://handbook.sourcegraph.com/team/#rob-rhyne" target="_blank">Rob Rhyne</a> &amp; <a href="https://handbook.sourcegraph.com/team/#ryan-phillips" target="_blank">Ryan Phillips</a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process_candidates/#technical-interview"><span style="font-weight: 400;">Technical Interview: General</span></a> with <a href="https://handbook.sourcegraph.com/team/#dominic-cooney" target="_blank">Dominic Cooney</a> &amp; <a href="https://handbook.sourcegraph.com/team/#tj-devries" target="_blank">TJ DeVries</a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process_candidates/#cross-functional-team-collaboration"><span style="font-weight: 400;">Cross-functional Team Collaboration Interview</span></a> with <a href="https://handbook.sourcegraph.com/team/#owen-convey" target="_blank">Owen Convey</a> &amp; <a href="https://handbook.sourcegraph.com/team/#erika-rice-scherpelz" target="_blank">Erika Rice Scherpelz</a></li>
 </ul>
 <li style="font-weight: 400;"><strong>Final Interview Stage </strong><span style="font-weight: 400;">- we move you to our final round, where you meet cross-functional partners and gain a better understanding of our business and values holistically…</span></li>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#values-interview"><span style="font-weight: 400;">Values Interview</span></a></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#leadership-interview"><span style="font-weight: 400;">Leadership Interview</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#leadership-interview"><span style="font-weight: 400;">Leadership Interview</span></a><span style="font-weight: 400;"> with <a href="https://handbook.sourcegraph.com/team/#quinn-slack" target="_blank">Quinn Slack</a>, CEO, or <a href="https://handbook.sourcegraph.com/team/#beyang-liu" target="_blank">Beyang Liu</a>, Co-founder</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">We check references &amp; make you an offer!</span></li>
 </ul>
 </ul>
