@@ -10,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/zapiet-remote-ux-ui-designer" align="right" target="_blank">Apply</a>
@@ -63,7 +63,7 @@
                     <code>education,marketing,saas,ui</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-product-designer-ux-ui-brand-wildly-1612844" align="right" target="_blank">Apply</a>
@@ -123,7 +123,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
@@ -184,49 +184,6 @@
 <p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><a href="https://build.a.team/remotivedesignerreferral" rel="nofollow">A·Team</a> is a new type of company for a new kind of independent software builder. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </span></p>
 <p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</span></p>
 <img src="https://remotive.com/job/track/986276/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1613183/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Dusseau and Company, LLC</h5>
-                    <h3>Freelance UX Designer</h3>
-                </td>
-                <td width="300">
-                    <code>ux,management,ai,automation</code>
-                </td>
-                <td width="200">
-                <text>7 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/design/freelance-ux-designer-1613183" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We are looking for a skilled and experienced Freelance UX Designer to help us create a prototype for our AI property management software. The ideal candidate will have experience in creating engaging and user-friendly, data-driven, prototypes that meet the needs of our clients and end-users. As a Freelance UX Designer, you will work closely with our development team to create a prototype for our web-based software.</p>
-<p> </p>
-<p> </p>
-<p><strong>Product Overview:</strong></p>
-<p>Our property management software is the solution for modern real estate investors who want to simplify their property management tasks and maximize their time for other priorities. Our software is designed to centralize all property management tasks in one easy-to-use platform, making it simple for owners to manage their properties in a truly passive way.</p>
-<p> </p>
-<p>With our software, owners can automate lease agreements, rent collection, maintenance orders, and more, through a user-friendly app that is accessible to all clients. Our AI technology enables the automation of repetitive tasks and provides clients with instant updates and notifications, making it easy to stay on top of all aspects of property management.</p>
-<p> </p>
-<p>Whether you are a new real estate investor looking to streamline your property management processes, or an experienced property owner who wants to focus on growing your portfolio, our software is designed to help you achieve your goals. Say goodbye to time-consuming and tedious property management tasks and hello to more free time and peace of mind. Our software is the perfect solution for anyone looking to manage their properties in a modern and efficient way.</p>
-<p> </p>
-<p> </p>
-<p><strong>The prototype will include the following features:</strong></p>
-<ol class="_listContainer_1wyhh_1" style="">
-<li style="">Messaging</li>
-<li style="">Authentication. (Manager and Tenants)</li>
-<li style="">Maintenance workflow (Request, contract accept, approval, and tracking)</li>
-<li style="">Tenant profile</li>
-<li style="">Property Dashboard</li>
-</ol>
-<img src="https://remotive.com/job/track/1613183/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
