@@ -10,7 +10,7 @@
                     <code>frontend,design,crypto,ethereum,react,front-end,security,technical,support,software,growth,ui,code,web,javascript,typescript,senior,analytics,recruiting,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-ecosystem-op-labs-200893" align="right" target="_blank">Apply</a>
@@ -61,7 +61,7 @@
 <li>We are a team of buildersâour founding team has been working on Ethereum scalability since 2015.</li>
 </ul>
 <p><strong>We strongly encourage candidates of all different backgrounds to apply.</strong> We believe that our work is stronger with a variety of perspectives, and weâre eager to further diversify our company. If you have a background that you feel would make an impact at Optimism, please consider applying. Weâre committed to building an inclusive, supportive place for you to do the best work of your career.</p>
-</div><br/><br/>Please mention the word **OVERTAKE** and tag RMzQuODIuMTUxLjY= when applying to show you read the job post completely (#RMzQuODIuMTUxLjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **OVERTAKE** and tag RMmEwNjoyZWMwOjE6OjEzNw== when applying to show you read the job post completely (#RMmEwNjoyZWMwOjE6OjEzNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -76,7 +76,7 @@
                     <code>web3,frontend,defi,crypto,react,system,front-end,cto,technical,software,code,web,financial,senior,marketing,analytics,engineer,engineering</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-frontend-web3-engineer-premia-jobs-200892" align="right" target="_blank">Apply</a>
@@ -88,97 +88,91 @@
                 <div><b>Senior Frontend & Web3 Engineer - Remote</b></div><div><br></div><div>Premia is a decentralized options platform connecting traders and liquidity providers of all backgrounds.  Offering non-custodial options to hedge, speculate, or earn yield on your digital assets.  Premia offers first of its kind automated market maker solutions in the DeFi space for Options Contracts through our use of Smart Liquidity Pools and Dynamic Pricing.  Premia enables best-in-class pricing based on market volatility, providing fully-featured peer-to-pool trading and capital efficiency to DeFi options.</div><div> </div><div>We are one of the smallest and most impactful teams in crypto. We are a globally distributed organization, with all positions being fully remote.</div><div> </div><div>Weâre looking for a passionate, self-motivated engineer to help us build the next generation of financial products. As a dedicated frontend hire, you will gain ownership over our existing suite of web products, as well as the ability to influence the creation, design, and execution of future products. You will be responsible for ensuring a consistent, high-quality user experience across trading interfaces, data-heavy analytics pages, documentation portals and more.</div><div><b> </b></div><div><b>Who are you?</b></div><div><span style="font-size:11pt;">A senior-level front-end engineer (JS/TS + React veteran) who is also crypto-native. At the very least, you understand and hold crypto assets or ideally have developed decentralized applications leveraging blockchain technology before, preferably EVM-compatible. </span></div><div><br></div><div><span style="font-size:11pt;">You are passionate about building bleeding-edge technology for the next iteration of the internet with the use of cryptography and understand the necessity for building beautiful and user-friendly GUIs in order to facilitate the transition to web3. </span></div><div><br></div><div><span style="font-size:11pt;">You have experience and are culturally aligned with fast-moving small teams. You have worked at remote (globally distributed) startups before. You are self-driven, are comfortable wearing many hats, can ship patches and features swiftly when needed. You can identify company priorities, own them, and iterate quickly to ship the best solution.</span></div><div><br></div><div><span style="font-size:11pt;">You can write and speak fluent English and have great communication skills.</span></div><div><br></div><div><b>The Role:</b></div><div><span style="font-size:11pt;">Engineers at Premia work with our CTO and our existing engineering team to innovate, architect, and develop user-facing features and new iterations of the Premia app, as well as our event indexing system (The Graph).</span></div><div><br></div><div><span style="font-size:11pt;">In addition, you will work closely with other departments such as Design, QA, Operations, and Marketing teams to successfully execute the implementation, testing, and deployment of new features.</span></div><div><br></div><div><span style="font-size:11pt;">As a senior engineer, you will help (mentor) other members of the team, and will make sure components and app pages are well optimized and running smoothly. </span></div><div><br></div><div><b>Responsibilities</b></div><div><span style="font-size:11pt;">-Design, scope, and estimate complex features at the component level.</span></div><div><span style="font-size:11pt;">-Build, test, and ship features, patches, and updates to our web app.</span></div><div><span style="font-size:11pt;">-Collaborate with the team and cross-functional partners on all aspects of product development.</span></div><div><span style="font-size:11pt;">-Identify and advocate for team-wide areas of improvement and best practices.</span></div><div><span style="font-size:11pt;">-Mentor team members to refine their technical and architectural skills.</span></div><div><span style="font-size:11pt;">-Help maintain our subgraph repository written in AssemblyScript (JS subset)</span></div><div><br></div><div><b>Requirements</b></div><div><span style="font-size:11pt;">-Experience owning and shipping products</span></div><div><span style="font-size:11pt;">-5+ years of industry experience in software engineering</span></div><div>
 <span style="font-size:11pt;">-A mastery of Javascript, Typescript, and React with an understanding of encryption and cryptography </span> <span style="font-size:11pt;">fundamentals.</span>
 </div><div><span style="font-size:11pt;">-Experience working with GraphQL</span></div><div><span style="font-size:11pt;">-Basic web3 understanding: Wallets, transactions, explorers, POW/POS, gas price, etc.</span></div><div><span style="font-size:11pt;">-Ability to quickly iterate and ship code using test-driven development patterns</span></div><div><span style="font-size:11pt;">-Ability to build modern, event-driven React frontends, converting Figma designs into functional components</span></div><div><span style="font-size:11pt;">-Mastery of CSS, preferably via a library like MaterialUI</span></div><div><span style="font-size:11pt;">-Experience with version control, such as Git</span></div><div><span style="font-size:11pt;">-Knowledge of engineering best practices such as continuous integration</span></div><div><span style="font-size:11pt;">-Exceptional judgment, problem-solving skills, and an analytical mindset</span></div><div><span style="font-size:11pt;">-Ability to work in areas beyond your comfort zone and motivated by personal growth</span></div><div><span style="font-size:11pt;">-A passion for learning and a self-awareness of your learning style</span></div><div><span style="font-size:11pt;">-(Nice to have) Previous experience with web3.js or ethers.js libraries. </span></div><div><br></div><div><b>Benefits</b></div><div>Work from anywhere (Remote first), Flexible working hours, Flexible vacation policy, Competitive Salary + Token bonus (portion or all can be paid in Crypto).  Premia is committed to a diverse and inclusive workplace and is an equal opportunity employer. We do not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.</div><div><br></div><div>Premia welcomes all qualified persons to apply. Compensation will be competitive and commensurate with experience. This is a full time role.</div><div><br></div><div>To find out more you can view their website at <a href="https://premia.finance/" class="postings-link" rel="noopener noreferrer nofollow">https://premia.finance/</a>
-</div><br/><br/>Please mention the word **EXPERTLY** and tag RMzQuODIuMTUxLjY= when applying to show you read the job post completely (#RMzQuODIuMTUxLjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **EXPERTLY** and tag RMmEwNjoyZWMwOjE6OjEzNw== when applying to show you read the job post completely (#RMmEwNjoyZWMwOjE6OjEzNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1607488740959608832/m80nYXA3_400x400.jpg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4666/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>DuckDuckGo</h5>
-                    <h3>
-            Senior Frontend Engineer, Javascript (Remote)
-          </h3>
+                    <h5>TestGorilla</h5>
+                    <h3> Senior Frontend Engineer (Angular)</h3>
                 </td>
                 <td width="300">
-                    <code></code>
+                    <code>Front-End Programming</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://duckduckgo.recruitee.com/o/senior-frontend-engineer-javascript-remote-paoli" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-frontend-engineer-angular-2" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-            <p>Hi, we’re DuckDuckGo, the Internet privacy company for everyone who wants to take back their privacy now. For over a decade, we've been building our all-in-one product, developing new privacy technology, and working with policymakers to make online privacy simple and accessible for all. </p>
-<p><br></p>
-<p>Our app is now downloaded more than 75M times a year, and our private search engine packaged with it has become the #2 search engine on mobile in over 21 countries, including the United States, United Kingdom, Canada, Australia, Germany, and the Netherlands. Oh, and we've been profitable since 2014 with revenue currently exceeding $100 million a year! Now, we’re rolling out a suite of new privacy solutions, including <u><a href="https://www.spreadprivacy.com/introducing-email-protection-beta/" rel="noopener">Email Protection</a></u>,  <u><a href="https://spreadprivacy.com/introducing-app-tracking-protection/%20" rel="noopener">App Tracking Protection</a></u> and our first-ever Desktop Apps for <u><a href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/" rel="noopener">Mac</a></u><a href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/" rel="noopener"> </a>and Windows.</p>
-<p><br></p>
-<p>We’re looking for a <strong>Senior Frontend Engineer, JavaScript</strong> to help shape our all-in-one privacy solution and join our mission to show the world that protecting your privacy online can be simple.</p>
-<p><br></p>
-<p><strong>The Opportunity</strong> </p>
-<p>In this role, you will lead and contribute to developing new and existing products and features, demonstrating ownership over major components of our codebase while taking responsibility for their maintenance and improvement over time. By writing pragmatic, performant, and testable code that works consistently across settings, devices, and browsers, you'll play a key role in improving the frontend software architecture, all while prioritizing privacy and user experience throughout the engineering process.</p>
-<p><br></p>
-<p>As a senior engineer, you will mentor peers and work closely with cross-functional team members through remote collaboration opportunities, including product brainstorms, technical design discussions, code reviews, and more.</p>
-<p><br></p>
-<p><strong>What You Will Bring to DuckDuckGo</strong> </p>
-<ol>
-<li>7+ years experience in positions where your primary responsibility was writing code.</li>
-<li>Advanced level of JavaScript/HTML/CSS expertise.</li>
-<li>Advanced level of web application architecture expertise.</li>
-<li>Ability to lead engineering projects with little to no oversight.</li>
-<li>Experience working on at least one large web application.</li>
-<li>Experience identifying success criteria and metrics and validating decisions against them.</li>
-<li>Experience collaborating with engineers on the backend and other platforms, such as Android and iOS.</li>
-<li>Experience collaborating with product and design to build polished consumer-facing products.</li>
-<li>Ability to contribute to technical architecture decisions for complex products.</li>
-<li>Willingness to learn new technologies and ideas.</li>
-</ol>
-<p><br></p>
-<p><strong>How We Will Support You </strong> </p>
-<p>Our core values -- build trust, question assumptions, and validate direction -- underpin how we work day-to-day and the support we give our team members. We strive to empower our team members to be self-directed and self-motivated in their work.  </p>
-<p><br></p>
-<ol>
+                <img src="https://we-work-remotely.imgix.net/logos/0071/4666/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Amsterdam, The Netherlands
+    <br /><strong>URL:</strong> <a href="https://www.testgorilla.com/">https://www.testgorilla.com/</a>
+</p>
+
+<div>Hi there,<br><br>
+</div><div>I’m Nicolas, TestGorilla’s Head of Engineering. We’re a fast-growing HR tech startup that helps hiring teams make better hiring decisions faster and bias-free.<br><br>
+</div><div>Over the past year, we’ve experienced tremendous growth. More than 8,000 companies have replaced CVs with our assessments to screen candidates in an unbiased and data-driven way.<br><br>
+</div><div>As we scale our efforts in 2023 and beyond, we’re looking for a <strong>Senior Frontend Engineer</strong> who’s passionate about joining our quest to help people land dream jobs.<br><br>
+</div><div>
+<br><br>
+</div><h1>The proposition</h1><ul>
+<li>Helping shape a fast-growing HR tech startup as an early employee</li>
+<li>Fully remote position with bright, motivated, and friendly colleagues around the world </li>
+<li>Competitive salary incl. bonus and stock options</li>
+<li>Flexible hours and vacation</li>
+<li>Paid parental leave </li>
+<li>€1000 remote working budget per year</li>
+<li>3.5% of salary learning &amp; development budget</li>
+</ul><div>
+<br><br>
+</div><h1>The role in context</h1><div>We are looking for a <strong>Senior Frontend Engineer</strong> to join our engineering department and help us bring our product to Enterprise level maturity. Your work will directly impact hundreds of thousands of users around the world.</div><div> </div><div>As a senior member of the engineering team, you will build and deliver frontend solutions to provide extraordinary product experiences for our users, including SPAs and reusable components for the rapid growth of all our products.</div><div> </div><div>You’ll own the design, code, and deployment of solutions and make sure they perform and scale in production. </div><div> <br><br>
+</div><h1>You’ll spend time on the following</h1><ul>
+<li>Take full <strong>ownership</strong> of the frontend; from low-level optimizations to improving user experience</li>
+<li>Build <strong>reusable</strong> code and libraries for future use</li>
+<li>Ensure the technical feasibility of <a href="https://www.testgorilla.com/test-library/role-specific-skills-tests/ux-ui-design-test/">UI/UX designs</a> and propose features and functionalities to the product team</li>
 <li>
-<strong>Remote First, Always</strong>: We've always been a fully distributed company with team members all over the world. We trust you to get your work done wherever, and whenever.   </li>
-<li>
-<strong>Commitment to Personal Growth:</strong> Every team member has an annual budget of $1,250 USD to invest in their professional development. Every team member also has a dedicated Career Advisor, who serves as a guide to help you develop your strengths, identify your motivations, and understand your opportunities for growth. </li>
-<li>
-<strong>Leadership:</strong> We have many different types of leaders and possible combinations of leadership roles, so you can grow your career in a way that aligns best with your personal goals. You can seek additional leadership roles by being directly responsible for projects, taking ownership of areas of the company, developing and maintaining internal processes, or pursuing advisory roles. </li>
-<li>
-<strong>Work/Life Balance: </strong>Team members have the freedom and flexibility to organize their own work schedules. We want you to thrive both in and out of the office. We trust you to use good judgment and take the time off that you need to bring your best self to work.  </li>
-</ol>
-<p><br></p>
-<p>We also offer paid parental leave, a co-working stipend, office setup reimbursement, and a wellness stipend. More support resources can be found in our <u><a href="https://duckduckgo.com/assets/hiring/team_support_guide.pdf" rel="noopener">Team Member Support Guide</a></u>, which explains how we make your well-being a priority. </p>
-<p><br></p>
-<p>For more information on how we collaborate worldwide, from leadership in our relatively flat organization to start-to-finish ownership<strong>,</strong> check out <u><a href="https://duckduckgo.com/assets/hiring/how_we_work.pdf" rel="noopener">DuckDuckGo Culture: How We Work.</a></u> </p>
-<p><br></p>
-<p><strong>Compensation</strong> </p>
-<p>Annual compensation: $170,000 USD and stock options. Compensation is the same within a professional level, regardless of geographic location or functional area, and the compensation for each professional level is transparent across the organization.</p>
-<p><br></p>
-<p><strong>Hiring Process</strong> </p>
-<p>Hiring works best when it's a two-way street. Learn how we help you get to know DuckDuckGo and envision your future role here. Find out more about <u><a href="https://duckduckgo.com/assets/hiring/how_we_hire.pdf" rel="noopener">how we hire</a></u>. </p>
-<p><br></p>
-<p><strong>Diversity, Equity, and Inclusion</strong> </p>
-<p>DuckDuckGo provides equal work opportunities to all team members and applicants<u>,</u> and it prohibits discrimination and harassment of any type on the basis of race, color, ethnicity, caste, religion, age, sex (including pregnancy), national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by our policies or federal, state, or local laws.</p>
-<p><br></p>
-<p>We want to ensure that our hiring process is accessible. If you need reasonable accommodation for any part of the application process because of a medical condition or disability, please send an email to <u><a href="mailto:careers@duckduckgo.com" rel="noopener">careers@duckduckgo.com</a></u> to let us know the nature of your request.  </p>
-<p><br></p>
-<p>If you think you might thrive in this environment, we would love to hear from you. </p>
-<p><br></p>
-<p><strong>Please note that:</strong> </p>
-<ol>
-<li>Sometimes we meet up! Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.</li>
-<li>While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week. </li>
-<li>A successful candidate will be subject to a background check and must receive satisfactory results of the same, as a condition of joining the team. </li>
-<li>By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.  </li>
-</ol>
-          
+<strong>Optimize</strong> the application for maximum speed and scalability</li>
+<li>Lead the entire <strong>software development and delivery</strong> cycle from ideation to deployment and everything in between</li>
+<li>Efficiently utilize <strong>DevOps</strong> tools and practices to deliver high-quality software as well as value to end customers as early as possible</li>
+<li>Work in a collaborative, talented <strong>distributed team</strong> across Europe, United States, South America, and Asia</li>
+<li>You will act as a <strong>mentor</strong> for less-experienced team members through both your technical knowledge and leadership skills</li>
+</ul><div>
+<br><br>
+</div><h1>Here’s what we’re looking for</h1><ul>
+<li>You are inspired by our mission to put <em>one billion people in dream jobs</em>
+</li>
+<li>You are fully aligned with our <a href="https://www.testgorilla.com/careers/">values</a>
+</li>
+<li>Experience designing, implementing, running, and maintaining production front-end code using modern client-side development frameworks based on JS/TS such as <a href="https://www.testgorilla.com/test-library/programming-skills-tests/angular-test/">Angular</a>
+</li>
+<li>You strive for excellence: pixel-perfect, high-quality code, and lightning-fast load times</li>
+<li>You care deeply about building a world-class engineering team</li>
+<li>You have a solid understanding ofUX/UI design, usability, and accessibility</li>
+<li>You are passionate about improving skills and learning new technologies</li>
+<li>You enjoy influencing others and always advocate for technical excellence while being open to change</li>
+<li>You’re resilient in ambiguous situations and can approach challenges from multiple perspectives</li>
+<li>You have strong written and verbal communication skills. You can validate your decisions and communicate them clearly</li>
+</ul><div>We typically expect candidates with at least <strong><em>7 years of  Senior Frontend Engineer experience</em></strong> to have the skills mentioned above.<br><br>
+</div><h1>Bonus points if ...</h1><ul>
+<li>you have experience in a SaaS product based company</li>
+<li>you are comfortable with Agile methods, such as Extreme Programming (XP), Scrum, and/or Kanban</li>
+<li>you have a working knowledge of cloud technology such as <a href="https://www.testgorilla.com/test-library/role-specific-skills-tests/aws-test/">AWS</a>, Azure, Kubernetes, and Docker</li>
+</ul><div><br></div><h1>Interested?</h1><div>Here at TestGorilla, we eat our own dog food. We use our assessment platform to make sure we make the best hiring decisions faster and bias-free. I took one too and I enjoyed it!<br><br>
+</div><div>So if this role sounds like a good fit for you, I’d like you to take an assessment so we can get a better idea about whether you would fit the role. It’s also a great opportunity for you to get to know our product!<br><br>
+</div><div>If you’re hired, I’ll do everything I can to help you succeed at <a href="https://www.testgorilla.com/">TestGorilla</a> and throughout the rest of your career.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-frontend-engineer-angular-2">https://weworkremotely.com/remote-jobs/testgorilla-senior-frontend-engineer-angular-2</a></p>
+
                 </details>
                 </td>
             </tr></table>
