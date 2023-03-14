@@ -10,7 +10,7 @@
                     <code>crypto,cryptocurrency,support,bank,java,lead,engineer,engineering,educational,backend</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-tradfi-bitcoincom-200895" align="right" target="_blank">Apply</a>
@@ -56,7 +56,77 @@
 <li>Health insurance reimbursement</li>
 <li>Wellness program (gym, etc.)</li>
 </ul>
-</div><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **EXCEPTIONAL** and tag RMzQuODIuMTUxLjY= when applying to show you read the job post completely (#RMzQuODIuMTUxLjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **EXCEPTIONAL** and tag RMmEwNjoyZWMwOjE6OjEzNw== when applying to show you read the job post completely (#RMmEwNjoyZWMwOjE6OjEzNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8267/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>TestGorilla</h5>
+                    <h3> Senior Backend Engineer (Python)</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-backend-engineer-python-10" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/8267/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Amsterdam, The Netherlands
+    <br /><strong>URL:</strong> <a href="https://www.testgorilla.com/">https://www.testgorilla.com/</a>
+</p>
+
+<div>Hi there,<br><br>
+</div><div>I’m Nicolas, <a href="https://www.testgorilla.com/">TestGorilla</a>’s Head of Engineering. We’re a fast-growing HR tech startup that helps hiring teams make better hiring decisions faster and bias-free.<br><br>
+</div><div>Over the past year, we’ve experienced tremendous growth. More than 8,000 companies have replaced CVs with our assessments to screen candidates in an unbiased and data-driven way.</div><div><br></div><div>As we scale our efforts in 2023 and beyond, we’re looking for a <strong>Senior Backend Engineer</strong>, to help us accelerate the development of our product. </div><div><br></div><h1>The proposition</h1><ul>
+<li>Helping shape a fast-growing HR tech startup as an early employee</li>
+<li>Fully remote position with bright, motivated, and friendly colleagues around the world </li>
+<li>Competitive salary  + share appreciation rights (SARs)</li>
+<li>Flexible hours and vacation</li>
+<li>Paid parental leave </li>
+<li>€1000 remote working budget per year</li>
+<li>3.5% of salary learning &amp; development budget</li>
+</ul><div><br></div><h1>The role in context</h1><div>We are looking for a <strong>Senior Backend Engineer</strong> to join our engineering department and help us bring our product to Enterprise level maturity. Your work will directly impact hundreds of thousands of users around the world.</div><div> </div><div>As a senior member of the engineering team, you’ll build and deliver backend solutions such as APIs, integrations, and architecture components to enable the rapid growth of all our products.</div><div> </div><div>You’ll own the design, code, and deployment of solutions and make sure they perform and scale in production. </div><div> </div><h1>You’ll spend time on the following</h1><ul>
+<li>Create highly scalable and reliable microservices architectures</li>
+<li>Lead the entire software development and delivery cycle from ideation to deployment and everything in between</li>
+<li>Write clean, tested, and well-documented code</li>
+<li>Apply modern backend technologies, including but not limited to <a href="https://www.testgorilla.com/test-library/programming-skills-tests/python-coding-test-data-structures-objects/">Python</a>, Django, Redis, and AWS</li>
+<li>Efficiently utilize DevOps tools and practices to deliver high-quality software as well as value to end customers as early as possible.</li>
+<li>Work in a collaborative, talented distributed team across Europe, United States, South America, and Asia.</li>
+<li>You will act as a mentor for less-experienced team members through both your technical knowledge and <a href="https://www.testgorilla.com/test-library/role-specific-skills-tests/leadership-people-management-test/">leadership skills</a>
+</li>
+</ul><div><br></div><h1>Here’s what we’re looking for</h1><ul>
+<li>Experience in software development &amp; delivery</li>
+<li>You can efficiently write high-quality, well-tested code and you are comfortable with functional and Object-Oriented programming languages</li>
+<li>You have experience building distributed and highly scalable systems including REST APIs and event-driven architectures</li>
+<li>You have strong knowledge about data storage design using relational and NoSQL databases</li>
+<li>You understand the importance of reliable monitoring, deployment strategies, and a highly scalable and robust cloud infrastructure</li>
+<li>You are passionate about improving skills and learning new technologies</li>
+<li>You enjoy influencing others and always advocate for technical excellence while being open to change </li>
+<li>You’re resilient in ambiguous situations and can approach challenges from multiple perspectives</li>
+<li>You have strong written and verbal communication skills. You can validate your decisions and communicate them clearly</li>
+</ul><div>We typically expect candidates with at least <strong><em>7 years of Senior Backend Engineer (Python) experience</em></strong> to have the skills mentioned above.<br><br>
+</div><h1>Bonus points if ...</h1><ul>
+<li>you have experience in a SaaS product based company</li>
+<li>you are comfortable with Agile methods, such as Extreme Programming (XP), <a href="https://www.testgorilla.com/test-library/role-specific-skills-tests/scrum-master-test/">Scrum</a>, and/or Kanban</li>
+<li>you have a working knowledge of cloud technology such as AWS, Azure, Kubernetes, and Docker</li>
+</ul><div><br></div><div><br></div><h1>Interested?</h1><div>Here at TestGorilla, we eat our own dog food. We use our assessment platform to make sure we make the best hiring decisions faster and bias-free. I took one too and I enjoyed it!<br><br>
+</div><div>So if this role sounds like a good fit for you, I’d like you to take an assessment so we can get a better idea about whether you would fit the role. It’s also a great opportunity for you to get to know our product! <br><br>
+</div><div>If you’re hired, I’ll do everything I can to help you succeed at <a href="https://www.testgorilla.com/">TestGorilla</a> and throughout the rest of your career.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-backend-engineer-python-10">https://weworkremotely.com/remote-jobs/testgorilla-senior-backend-engineer-python-10</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -71,7 +141,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/adcopy-ai-senior-backend-engineer-for-ai-startup" align="right" target="_blank">Apply</a>
@@ -140,184 +210,6 @@
 &lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with at least one major cloud provider (AWS preferred) and infrastructure components such as Kubernetes, containers, Github CI/CD, etc.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;Req: 2393&lt;/em&gt;&lt;/p&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/D4E0BAQGvUyfPVBWDyg/company-logo_200_200/0/1657595552015?e=2147483647&v=beta&t=EecsDCOy3Fh_26M1noQDDIYw8-JuGKz_d1JDvcBZ-yI" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Bobtail</h5>
-                    <h3>Sr. Software Engineer - Backend (Card Payment)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/bobtail/jobs/4001219005" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    
-
-    <h2><span style="font-weight: 400;">About Bobtail</span></h2>
-<p><span style="font-weight: 400;">Bobtail is dedicated to increasing happiness by eliminating inefficiencies in the supply chain.&nbsp; We envision a supply chain without friction, fraud, waste, and abuse where companies succeed based on the value they create.&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">We work in a unique way at Bobtail, where we value teams over individuals and encourage experimentation and iteration to constantly improve.&nbsp; Teams are given flexibility in working towards a shared purpose and given the freedom to decide how they will accomplish their goals.&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">If you are an out of the box thinker that takes a proactive approach in collaborating with others to solve problems and achieve your goals - we would love to talk to you.&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">The things we value:</span></p>
-<ol>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Mission</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Teams over individuals</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Collaboration</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Communication</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Iteration</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experimentation and failing fast</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Initiative and solutions oriented approach</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Documentation</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Data</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Mental health and work life balance</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Diversity</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Transparency</span><span style="font-weight: 400;"><br><br></span></li>
-</ol>
-<h2><span style="font-weight: 400;">You should apply if you have:</span></h2>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Exposure to SDLC from reviewing requirements through to debugging complex systems in Production.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Strong theoretical fundamentals and hands-on experience designing and implementing highly available and performant fault-tolerant distributed systems.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">5+ years of experience in software engineering with demonstrated proficiency in programming languages, such as nodejs, typescript and overall system design.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience building enterprise software, event driven microservices architecture, and distributed systems at scale.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Bachelor's degree in computer science or a related engineering degree.</span></li>
-</ul>
-<h2><span style="font-weight: 400;">You will be responsible for:</span></h2>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Writing reusable, testable, efficient and secure code.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Working with large scale, highly available and resilient modern financial systems.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Working with automated deployment, enabling code release multiple times a day.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Working with modern tools and languages that excite you</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Being an integral part of a team, in addition to its culture and ways of working. Common practices include agile methodologies.</span></li>
-</ul>
-<h2><span style="font-weight: 400;">Some of the technologies you’ll get to work with:</span></h2>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Typescript &amp; Javascript.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Node.js, Express js.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">CI/CD, AWS, Terraform, Docker, EKS / ECS.</span></li>
-</ul>
-<h2><span style="font-weight: 400;">Benefits</span></h2>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Monthly Mental Break Day</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Paid Time Off</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Work from home (or wherever)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Parental leave</span></li>
-</ul>
-<p><span style="font-weight: 400;">If you are interested in learning more, please email us at careers@bobtail.com.</span></p>
-<p><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">Creating a diverse and inclusive workplace is Bobtail’s nucleus. We are an equal opportunity employer and embrace people of different backgrounds, cultures, religions, national origins, races, colors, genders, gender expressions, sexual orientations, ages, marital status, veteran status, experiences, abilities and perspective</span><span style="font-weight: 400;">s.</span> <span style="font-weight: 400;"><br><br></span></p>
-
-    
-
-    
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/D4E0BAQGvUyfPVBWDyg/company-logo_200_200/0/1657595552015?e=2147483647&v=beta&t=EecsDCOy3Fh_26M1noQDDIYw8-JuGKz_d1JDvcBZ-yI" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Bobtail</h5>
-                    <h3>Sr. Software Engineer - Backend (Factoring)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/bobtail/jobs/4065786005" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    
-
-    <h2><span style="font-weight: 400;">About Bobtail</span></h2>
-<p><span style="font-weight: 400;">Bobtail is dedicated to increasing happiness by eliminating inefficiencies in the supply chain.&nbsp; We envision a supply chain without friction, fraud, waste, and abuse where companies succeed based on the value they create.&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">We work in a unique way at Bobtail, where we value teams over individuals and encourage experimentation and iteration to constantly improve.&nbsp; Teams are given flexibility in working towards a shared purpose and given the freedom to decide how they will accomplish their goals.&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">If you are an out of the box thinker that takes a proactive approach in collaborating with others to solve problems and achieve your goals - we would love to talk to you.&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">The things we value:</span></p>
-<ol>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Mission</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Teams over individuals</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Collaboration</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Communication</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Iteration</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experimentation and failing fast</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Initiative and solutions oriented approach</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Documentation</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Data</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Mental health and work life balance</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Diversity</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Transparency</span></li>
-</ol>
-<p><span style="font-weight: 400;">Bobtail is excited to be at a high growth point in its journey.&nbsp; This is an opportunity to be a servant leader at a dynamic organization where you are responsible for all software development activities.&nbsp; This leader has the ability to work with people from a diverse set of backgrounds, is a student of organizational management and culture, and can balance business and technical priorities while always putting the customer and company mission first.&nbsp; A sense of humor helps.&nbsp;&nbsp;</span></p>
-<h2><span style="font-weight: 400;">You should apply if you have:</span></h2>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">CS/CE Degree</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">5+ years of experience in software engineering with demonstrated proficiency in programming languages, such as nodejs, typescript and overall system design.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience building enterprise software, event driven microservices architecture, and distributed systems at scale</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience at a high growth startup and an enterprise level organization</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience managing a rapidly growing and distributed organization</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Expert understanding of software development processes and lifecycle</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Expert knowledge of agile methodologies and frameworks</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Excellent social and communication skills, ability to be personable yet persistent</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Strong analytical and problem solving skills with a track record of a solutions driven approach.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience scaling engineering organizations and have a deep understanding of the importance of tools, processes, organizational design, and the culture of strong teams.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Implemented OKR’s in an engineering organization</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Bachelor's degree in computer science or a related engineering degree</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Adept at working within SCRUM and Kanban workflows</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with modern DevOps design and implementation</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Exposure to SDLC from reviewing requirements through to debugging complex systems in Production.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Strong theoretical fundamentals and hands-on experience designing and implementing highly available and performant fault-tolerant distributed systems.</span></li>
-</ul>
-<h2><span style="font-weight: 400;">You will be responsible for:</span></h2>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Contribute to design and development of enterprise scale application.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Develop features and improvements to the Bobtail product in a secure, well-tested, and performant way</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Debug production level issues throughout the application.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Collaborate with Product Management and other stakeholders within Engineering (Frontend, UX, etc.) to maintain a high bar for quality in a fast-paced, iterative environment</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Advocate for improvements to product quality, security, and performance</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Solve technical problems of moderate scope and complexity.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Craft code that meets our internal standards for style, maintainability, and best practices for a high-scale web environment.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Conduct Code Review within our Code Review Guidelines and ensure community contributions receive a swift response.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Recognize impediments to our efficiency as a team ("technical debt"), propose and implement solutions</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Solve technical problems of high scope and complexity.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Exert influence on the overall objectives and long-range goals of your team.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with performance and optimization problems, particularly at large scale, and a demonstrated ability to both diagnose and prevent these problems</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Help to define and improve our internal standards for style, maintainability, and best practices for a high-scale web environment. Maintain and advocate for these standards through code review.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Provide mentorship for Junior and Intermediate Engineers on your team to help them grow in their technical responsibilities and remove blockers to their autonomy.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Confidently ship large sized features and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects.</span></li>
-</ul>
-<h2><span style="font-weight: 400;">Benefits</span></h2>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Monthly Mental Break Day</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Paid Time Off</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Work from home (or wherever)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Parental leave</span></li>
-</ul>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Creating a diverse and inclusive workplace is Bobtail’s nucleus. We are an equal opportunity employer and embrace people of different backgrounds, cultures, religions, national origins, races, colors, genders, gender expressions, sexual orientations, ages, marital status, veteran status, experiences, abilities and perspective</span><span style="font-weight: 400;">s.</span><span style="font-weight: 400;"> </span><span style="font-weight: 400;"><br><br></span></p>
-
-    
-
-    
-
                 </details>
                 </td>
             </tr>,<tr>
