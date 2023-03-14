@@ -1,61 +1,5 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Sticker Mule</h5>
-                    <h3> Software Engineer (C++)</h3>
-                </td>
-                <td width="300">
-                    <code>DevOps and Sysadmin</code>
-                </td>
-                <td width="200">
-                <text>49 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> New York, NY
-    <br /><strong>URL:</strong> <a href="https://www.stickermule.com/careers">https://www.stickermule.com/careers</a>
-</p>
-
-<div><strong>About Sticker Mule</strong></div><div>Sticker Mule is the Internet's most "kick ass" brand. We are privately-owned, profitable, and powered by a globally distributed team that enjoys building happy customer experience at the highest technical standards. Our software team operates from 17 countries, and we're always looking for more exceptional engineers.<br><br>
-</div><div><a href="https://www.stickermule.com/about"><strong>See more about our teams here</strong></a></div><div><br></div><div><strong>We offer</strong></div><ol>
-<li>Remote work with flexible schedules</li>
-<li>A privately owned, low-stress culture.</li>
-<li>A fun "no bullshit" work environment</li>
-</ol><div><strong>We like you to know</strong></div><ol>
-<li>C++</li>
-<li>Go</li>
-<li>Postgres</li>
-<li>Docker</li>
-<li>Cloud Infrastructure</li>
-<li>Familiarity with C#</li>
-<li>Excellent communication skills (English)</li>
-<li>Degree in Computer Science or equivalent practical experience</li>
-</ol><div><strong>Challenges</strong></div><ol>
-<li>Improve factory automation software</li>
-<li>Migrate legacy services to Go</li>
-<li>Maintain a large C++ codebase</li>
-</ol><div><strong>Compensation and benefits</strong></div><ol>
-<li>Salary: $135k+ based on experience</li>
-<li>$20,000 signing bonus</li>
-<li>4 weeks vacation + holidays based on your country of residence</li>
-</ol>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c">https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4287/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -66,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>152 days ago</text>
+                <text>153 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer" align="right" target="_blank">Apply</a>
@@ -87,62 +31,6 @@
 <strong>We like you to know<br></strong>1. Docker<br>2. NextJS<br>3. TypeScript<br>4. React<br>5. NodeJS<br>6. GraphQL<br>7. Redis</div><div><br></div><div><strong>Compensation and benefits</strong></div><div>1. Salary: $135k+ based on experience</div><div>2. $20,000 signing bonus</div><div>3. 4 weeks vacation + holidays based on your country of residence</div><div><br></div>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer">https://weworkremotely.com/remote-jobs/stimulus-software-engineer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/3890/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Springboard</h5>
-                    <h3> Mentor - Software Engineering Career Track (Part-time/Remote)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>243 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0016/3890/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> San Francisco, CA
-    <br /><strong>URL:</strong> <a href="https://www.springboard.com/">https://www.springboard.com/</a>
-</p>
-
-<div><strong>The Opportunity</strong></div><div><br></div><div>Springboard runs an online, self-paced Software Engineering Career Track in which participants learn with the help of a curated curriculum and 1-1 guidance from an expert mentor. Our mentor community - the biggest strength of our programs - comprises some of the best software engineering experts in the field.</div><div><br></div><div>If you are as passionate about mentoring as you are about software engineering, and can give a few hours per week in return for an honorarium, we would love to hear from you.</div><div><br></div><div>Please reach out to us with any questions at mentorrecruiting@springboard.com <br><br><strong>The Program</strong>
-</div><ul>
-<li>Completely online and self-paced</li>
-<li>Students become proficient in Software Engineering with the help of a curated online curriculum and project-based deliverables</li>
-<li>Coursework is made up of 800+ hour expert-curated curriculum in partnership with <a href="https://www.rithmschool.com/">Rithm School</a>
-</li>
-<li>On average, students finish in 9 months</li>
-<li>Students are working professionals from all over the world, dedicated to switching careers into Software Engineering</li>
-<li>Students have a weekly 30-minute checkin with their mentor to discuss questions, projects, and career advice!</li>
-</ul><div><strong>You</strong></div><ul>
-<li>are as passionate about teaching coding as about software engineering itself</li>
-<li>are proficient in the topics covered in our <a href="https://ddf46429.springboard.com/uploads/resources/1572915743_Software_Engineering_Career_Track_-_Syllabus_2019.11.04.pdf">Software Engineering Career Track</a> and are fluent in technologies such as HTML, CSS, JavaScript, React, Python, Flask, SQL, Data Structures and Algorithms</li>
-<li>have at least 3+ years of relevant work experience </li>
-<li>are available for weekly, 30-minute video check-ins with students to help them set and achieve learning goals, answer subject matter questions, provide feedback on projects, and offer career advice</li>
-<li>have experience critiquing work, in particular giving meaningful feedback on web development, and are able to think on your feet quickly</li>
-<li>are empathetic and have excellent communication skills</li>
-</ul><div><strong>Benefits</strong></div><ul>
-<li>Software Engineering mentors are paid an honorarium between $17.50-$32.50 per 30 minute call with students</li>
-<li>Membership in a rich community of expert mentors from great companies like AirBnB, Uber, Google, and Pivotal</li>
-<li>Change the lives of students in our program</li>
-<li>Help us revolutionize online education and inspire the next generation of software engineers!</li>
-<li>Work at your convenience</li>
-</ul><div><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3">https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3</a></p>
 
                 </details>
                 </td>
@@ -270,20 +158,20 @@
 <ul>
 <li style="font-weight: 400;"><strong>Intro Conversation Stage</strong><span style="font-weight: 400;"> - we have initial conversations to get to know you better…</span></li>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/interview_process/#sts=The%20recruiter%20screen"><span style="font-weight: 400;">Recruiter Screen</span></a></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#hiring-manager-screen"><span style="font-weight: 400;">Hiring Manager Screen</span></a></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive"><span style="font-weight: 400;">Resume Deep Dive</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/interview_process/#sts=The%20recruiter%20screen"><span style="font-weight: 400;">Recruiter Screen</span></a> with <a href="https://handbook.sourcegraph.com/team/#kelsey-nagel" target="_blank">Kelsey Nagel</a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#hiring-manager-screen"><span style="font-weight: 400;">Hiring Manager Screen</span></a> with <a href="https://handbook.sourcegraph.com/team/#rob-rhyne" target="_blank">Rob Rhyne</a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive"><span style="font-weight: 400;">Resume Deep Dive</span></a> with <a href="https://handbook.sourcegraph.com/team/#rob-rhyne" target="_blank">Rob Rhyne</a></li>
 </ul>
 <li style="font-weight: 400;"><strong>Team Interview Stage</strong><span style="font-weight: 400;"> - we then delve into your experience in more depth and introduce you to members of the team…</span></li>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[45m]</span><a href="https://handbook.sourcegraph.com/departments/engineering/teams/code-intelligence/code-walkthrough/"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Technical Interview - Code Walkthrough</span></a></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[60m]</span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process/#architecture"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Working Session - Architecture</span></a></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[45m]</span><a href="https://handbook.sourcegraph.com/departments/talent/process/types_of_interviews#cross-functional-team-collaboration-interview"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Cross-functional Team Collaboration interview</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[45m]</span><a href="https://handbook.sourcegraph.com/departments/engineering/teams/code-intelligence/code-walkthrough/"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Technical Interview - Code Walkthrough</span></a> with <a href="https://handbook.sourcegraph.com/team/#%C3%B3lafur-p%C3%A1ll-geirsson" target="_blank">Ólaf Geirsson</a> &amp; <a href="https://handbook.sourcegraph.com/team/#tj-devries" target="_blank">TJ DeVries</a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[60m]</span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process/#architecture"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Working Session - Architecture</span></a> with <a href="https://handbook.sourcegraph.com/team/#eric-fritz" target="_blank">Eric Fritz</a> &amp; <a href="https://handbook.sourcegraph.com/team/#varun-gandhi" target="_blank">Varun Gandhi</a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[45m]</span><a href="https://handbook.sourcegraph.com/departments/talent/process/types_of_interviews#cross-functional-team-collaboration-interview"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Cross-functional Team Collaboration interview</span></a><span style="font-weight: 400;"> with <a href="https://handbook.sourcegraph.com/team/#ryan-phillips" target="_blank">Ryan Phillips</a></span></li>
 </ul>
 <li style="font-weight: 400;"><strong>Final Interview Stage </strong><span style="font-weight: 400;">- we move you to our final round, where you meet cross-functional partners and gain a better understanding of our business and values holistically…</span></li>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[30 min]</span><a href="https://handbook.sourcegraph.com/departments/talent/process/evaluating_values"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Values interview</span></a></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30 min]</span><a href="https://handbook.sourcegraph.com/departments/talent/process/types_of_interviews#leadership-interview"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Leadership Interview</span></a><span style="font-weight: 400;"> - Quinn Slack, CEO</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30 min]</span><a href="https://handbook.sourcegraph.com/departments/talent/process/types_of_interviews#leadership-interview"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Leadership Interview</span></a><span style="font-weight: 400;"> - <a href="https://www.linkedin.com/in/quinnslack/" target="_blank">Quinn Slack</a>, CEO</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">We check references &amp; make you an offer!</span></li>
 </ul>
 </ul>
