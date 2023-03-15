@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/paymentology-product-manager-1" align="right" target="_blank">Apply</a>
@@ -64,7 +64,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -130,7 +130,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1" align="right" target="_blank">Apply</a>
@@ -199,7 +199,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>489 days ago</text>
+                <text>490 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -251,110 +251,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1613417/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Cash App</h5>
-                    <h3>Senior Product Manager, Access & Controls</h3>
-                </td>
-                <td width="300">
-                    <code>C,crypto,data science,developer</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/senior-product-manager-access-controls-1613417" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><br><br></p>
-<div class="h3">Company Description</div>
-<p>It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic ecosystem, developing unique financial products, including Afterpay, to provide a better way to send, spend, invest, borrow and save to our 47 million monthly active customers. We want to redefine the world’s relationship with money to make it more relatable, instantly available, and universally accessible. This is our mission, and it’s why working at Cash App means so much more than a job.</p>
-<p>Today, Cash App has thousands of employees working globally across office and remote locations, with a culture geared toward innovation, collaboration and impact. We’ve been a distributed team since day one, and many of our roles can be done remotely from the countries where Cash App operates. No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy.</p>
-<p>Check out our locations, benefits, and more at <a href="https://cash.app/careers" rel="nofollow">cash.app/careers</a>!</p>
-<p><br><br></p>
-<div class="h3">Job Description</div>
-<p>Cash App’s top strategic priority is Trust: building deep trust with our customers allows us to deepen our financial relationship with them, introduce new products, increase our share of wallet for each service, and expand our customer base. The Health team’s mission is to create a holistic Cash App experience that fosters the trust, safety, security, and support of our customers and their assets - all while expanding access within the Cash App ecosystem</p>
-<p>Access and Controls are swim lanes within Health that encompass the following mission: </p>
-<ul style="">
-<li style=""><strong>Access</strong>: Provide Cash App customers reliable, easy, and secure access to their accounts. </li>
-<li style=""><strong>Controls</strong>: Protect our customers by reducing fraudulent behavior and enforcing restrictions in a way that’s clear and actionable for our customers and ourselves.</li>
-</ul>
-<p><u>In this role you will: </u></p>
-<ul style="">
-<li style="">Lead product initiatives and projects across both the Access and Controls swimlanes </li>
-<li style="">Report into the Lead PM for Access and Controls </li>
-<li style="">Partner with Product Design, Client &amp; Server Engineering, Data Science, Risk Machine Learning, Behavioral Insights, Compliance, Customer Operations, Customer Research, Product Writing </li>
-<li style="">Deeply understand business and customer journeys for how customers currently and want to access Cash App, how users view and implement account security, experience restrictions and pursue recourse, develop trust in a financial app for all their financial services needs </li>
-<li style="">Identify product opportunities to prioritize on Access and Controls roadmaps </li>
-<li style="">Collaborate on customer research and insights, data and analytics with product design and data science teammates</li>
-<li style="">Manage roadmap priorities from conceptualization and execution all the way through post-launch performance analysis</li>
-<li style="">Identify roadmap opportunities through collaboration with cross-functional partners</li>
-<li style="">Work with core team and external partners to align on project/feature phases </li>
-<li style="">Success includes but is not limited to: 
-<ul style="">
-<li style="">Improved login success rates</li>
-<li style="">Improved login and signup security for all Cash App customers </li>
-<li style="">Engagement and high opt-ins for security and controls features </li>
-<li style="">One of the reasons customers choose Cash App as their financial app of choice is because they trust that Cash App will keep their accounts and funds safe</li>
-</ul>
-</li>
-</ul>
-<p><br><br></p>
-<div class="h3">Qualifications</div>
-<ul style="">
-<li style="">
-<p>5+ years of product management experience and strong familiarity of systems and engineering</p>
-</li>
-<li style="">
-<p>Direct experience partnering with Product Design, User Research, Data Science and Analytics</p>
-</li>
-<li style="">
-<p>Driven and/or owned priorities on a roadmap; uses roadmap inputs such as customer research, qual and quant data, partnership with core team / teammates, cross-functional partners to identify critical priorities, requirements, and solutions </p>
-</li>
-<li style="">
-<p>Experience with the common challenges in cross-functional working groups, including balancing competing demands and priorities</p>
-</li>
-<li style="">
-<p>The ability to understand and deal well with rapid development cycles and to remain flexible in a fast moving environment</p>
-</li>
-<li style="">
-<p>Excellent communication, organizational and leadership skills; ability to inspire team members and influence a room</p>
-</li>
-<li style="">
-<p>Ability to thrive in the discomfort of ambiguity </p>
-</li>
-</ul>
-<p><br><br></p>
-<div class="h3">Additional Information</div>
-<p>Block takes a market-based approach to pay, and pay may vary depending on your location. U.S. locations are categorized into one of four zones based on a cost of labor index for that geographic area. The successful candidate’s starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. These ranges may be modified in the future.<br><br>Zone A: USD $167,300 - USD $204,500<br>Zone B: USD $158,900 - USD $194,300<br>Zone C: USD $150,600 - USD $184,000<br>Zone D: USD $142,200 - USD $173,800</p>
-<div> </div>
-<p>To find a location’s zone designation, please refer to this <a href="https://careers.smartrecruiters.com/Square/us-zones" rel="nofollow">resource</a>. If a location of interest is not listed, please speak with a recruiter for additional information. </p>
-<p>Benefits include the following:</p>
-<ul style="">
-<li style="">Healthcare coverage</li>
-<li style="">Retirement Plans including company match </li>
-<li style="">Employee Stock Purchase Program</li>
-<li style="">Wellness programs, including access to mental health, 1:1 financial planners, and a monthly wellness allowance </li>
-<li style="">Paid parental and caregiving leave</li>
-<li style="">Paid time off</li>
-<li style="">Learning and Development resources</li>
-<li style="">Paid Life insurance, AD&amp;D. and disability benefits </li>
-<li style="">Perks such as WFH reimbursements and free access to caregiving, legal, and discounted resources </li>
-</ul>
-<p>This role is also eligible to participate in Block's equity plan subject to the terms of the applicable plans and policies, and may be eligible for a sign-on bonus. Sales roles may be eligible to participate in a commission plan subject to the terms of the applicable plans and policies. Pay and benefits are subject to change at any time, consistent with the terms of any applicable compensation or benefit plans.</p>
-<p>We’re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is a proud equal opportunity employer. We work hard to evaluate all employees and job applicants consistently, without regard to race, color, religion, gender, national origin, age, disability, veteran status, pregnancy, gender expression or identity, sexual orientation, citizenship, or any other legally protected class. </p>
-<p>We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible. <em><strong>Want to learn more about what we’re doing to build a workplace that is fair and square? Check out our <a href="https://squareup.com/us/en/about/diversity?utm_source=job_description" rel="nofollow">I+D page</a>. </strong></em></p>
-<p>Additionally, we consider qualified applicants with criminal histories for employment on our team, assessing candidates in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.</p>
-<p><em>Block, Inc. (NYSE: SQ) is a global technology company with a focus on financial services. Made up of Square, Cash App, Spiral, TIDAL, and TBD, we build tools to help more people access the economy. Square helps sellers run and grow their businesses with its integrated ecosystem of commerce solutions, business software, and banking services. With Cash App, anyone can easily send, spend, or invest their money in stocks or Bitcoin. Spiral (formerly Square Crypto) builds and funds free, open-source Bitcoin projects. Artists use TIDAL to help them succeed as entrepreneurs and connect more deeply with fans. TBD is building an open developer platform to make it easier to access Bitcoin and other blockchain technologies without having to go through an institution.</em></p>
-<img src="https://remotive.com/job/track/1613417/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
