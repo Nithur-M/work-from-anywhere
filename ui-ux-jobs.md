@@ -10,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/zapiet-remote-ux-ui-designer" align="right" target="_blank">Apply</a>
@@ -53,66 +53,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1612844/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Social Discovery Group</h5>
-                    <h3>Senior Product designer (UX/UI + Brand) (Wildly)</h3>
-                </td>
-                <td width="300">
-                    <code>education,marketing,saas,ui</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/design/senior-product-designer-ux-ui-brand-wildly-1612844" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Social Discovery Group</strong> is an international online holding company with a line of social discovery products with an audience of 180 million users worldwide. For more than 20 years we have been creating premium international online services in the sphere of global dating, and inside our own startup lab SDG Lab we launch new projects in the segment of entertainment, social games and streaming.Our team of 700 people in 11 offices on different continents creates innovative products that change the experience of virtual communication.</p>
-<p>As part of the SDG Lab, we are launching and developing new projects and are currently looking for a <strong>Senior Product Designer </strong> to create a new product <strong>Wildly -  internal startup in a mission of destigmatising sex-positive females</strong>.</p>
-<p><strong>Wildly</strong> is on a mission to de-stigmatise sex-positive women. Women still feel stigma and fear about unique sex experiences. They also want sex differently than men and have hard time verbalizing it. That's why we created Wildly - space for sex-positive self-exploration. We want to create a safe place where women could learn about themselves more and have a try of what a sex-positive experience might be without jumping into dating. Wildly is a community driven app with audio experiences.</p>
-<p>You have the chance to become a key player in the creation of a new product from scratch - the Wildly<strong> </strong>app. We have a unique selling proposition for the product and there is a huge business opportunity. To move forward - we need a <strong>Product Designer</strong>.</p>
-<p><strong>Responsibilities:</strong></p>
-<ul style="">
-<li style="">Manage tasks independently from setting to implementation and be responsible for the product together with the CEO &amp; CMO;</li>
-<li style="">Create from scratch a unique product for the market: a sexual wellness app for sex-positive women (now sexual wellness exists only for women in traditional monogamous relationships);</li>
-<li style="">Write requirements (PRD) for developers (figma, google docs, notion format - it doesn't matter, the main thing is to be able to negotiate a format with developers and know this range of formats);</li>
-<li style="">Make creatives for a marketing funnel (banners for social networks, help the marketing specialist with  landing pages, e.g. Tilda Zero Block), analyze metrics and suggest activation / monetization improvements;</li>
-<li style="">Set up fast but actionable user feedback collection (e.g. through tools like <a href="https://usabilityhub.com/" rel="nofollow">https://usabilityhub.com/</a>).</li>
-</ul>
-<p><strong><strong><strong><strong>We expect that you:</strong></strong></strong></strong></p>
-<ul style="">
-<li style="">Have at least 3 years of experience as a product designer;</li>
-<li style="">Have experience in SaaS product (with monetization through subscription);</li>
-<li style="">Have an eye for interface design trends in homogeneous markets, you can identify unique success cases and explain it: productivity tools (browsers, mail - like Superhuman, Arc, Spark cases OR habit/nutrition trackers), dating (features, that flip the market: Tinder swipe, Hinge goals,  Bumble woman writes first);</li>
-<li style="">Use Figma like a pro: for prototyping, storytelling, usecase mapping, etc;</li>
-<li style="">Make files and layouts with respect for the viewer</li>
-<li style="">Know the ways of design research, besides usability tests, and when to use which method;</li>
-<li style="">Speak English B2 and above.</li>
-</ul>
-<p><strong>We offer:</strong></p>
-<ul style="">
-<li style="">REMOTE OPPORTUNITY to work full time;</li>
-<li style="">Bonuses up to $5000 for recommending successful applicants for positions in the company;</li>
-<li style="">Full payment for professional training, international conferences and meetings;</li>
-<li style="">Corporate discount for English lessons;</li>
-<li style="">​Health benefits. If you are not eligible for Corporate Medical Insurance, the company will compensate up to $1000 gross per year per employee according to the paychecks. This can be spent on self-purchase of health insurance, or on doctor's fees for yourself and close relatives (spouse, children);</li>
-<li style="">​Children's education reimbursement. The company will compensate 50% of the costs of education for children ( kindergarten or school), but no more than $1000 gross per year per child according to the paychecks;</li>
-<li style="">​Workplace organization. The company provides all employees with an equipped workplace and all the necessary equipment (table, armchair, wifi, etc.) in the locations where we have offices or co-workings. In the other locations the company provides reimbursement of the workplace costs up to $ 1000 gross once every 3 years according to the paychecks. This money can be spent on the rent of the co-working room, on equipping the working place at home (desk, chair, Internet, etc.) during those 3 years;</li>
-<li style="">Own line of branded clothing and accessories with corporate logo for different occasions (Welcome Pack at employment, a gift after the probation period, on professional holidays and corporate parties);</li>
-<li style="">Library of technical and business literature, lectures on Art&amp;Technology and HLS;</li>
-<li style="">Internal gamified gratitude system: receive bonuses from colleagues and exchange them for time off, merch, team building activities, massage certificates, etc;</li>
-<li style="">7 wellness days/ 7 paid days per year (time off) that can be used to deal with household issues, to lie down and recover without taking sick leave.</li>
-</ul>
-<img src="https://remotive.com/job/track/1612844/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/986276/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -123,7 +63,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
