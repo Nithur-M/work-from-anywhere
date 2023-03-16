@@ -64,7 +64,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -130,7 +130,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1" align="right" target="_blank">Apply</a>
@@ -199,7 +199,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>490 days ago</text>
+                <text>491 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -326,7 +326,7 @@
 <p><strong>We pay you an above-average salary</strong><span style="font-weight: 400;"> because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. You will have the flexibility to work and live anywhere in the world</span><em><span style="font-weight: 400;"> (unless specified otherwise in the job description)</span></em><span style="font-weight: 400;">, and we’ll never take your location or current/past salary information into account when determining your compensation.&nbsp; As an </span><a href="https://handbook.sourcegraph.com/company-info-and-process/values/#sts=Open%20and%20transparent"><span style="font-weight: 400;">open and transparent </span></a><span style="font-weight: 400;">company that values equitable and competitive compensation for everyone, our </span><a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/"><span style="font-weight: 400;">compensation ranges are visible</span></a><span style="font-weight: 400;"> to every single Sourcegraph Teammate. To determine your salary, we use a number of market and data-driven salary sources and target the high-end of the range, ensuring that we’re always paying above market regardless of where you live in the world.&nbsp;&nbsp;</span></p>
 <p><span style="font-weight: 400;">The target compensation for this role is $185,000 USD base.</span></p>
 <p><span style="font-weight: 400;">In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous </span><a href="https://handbook.sourcegraph.com/benefits-pay-perks/benefits-perks/"><span style="font-weight: 400;">perks &amp; benefits</span></a><span style="font-weight: 400;">.</span></p>
-<h2><strong>Interview process</strong></h2>
+<h2><strong>Interview process [~5.75 hour total interview]</strong></h2>
 <p><em><span style="font-weight: 400;">Below is the interview process you can expect for this role (you can read more about </span></em><a href="https://handbook.sourcegraph.com/talent/types_of_interviews"><em><span style="font-weight: 400;">the types of interviews</span></em></a><em><span style="font-weight: 400;"> in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&nbsp;</span></em></p>
 <ul>
 <li style="font-weight: 400;"><strong>Introduction Stage</strong><span style="font-weight: 400;"> - we have initial conversations to get to know you better…</span></li>
@@ -340,7 +340,7 @@
 <li style="font-weight: 400;"><span style="font-weight: 400;">[Async] Writing exercise</span></li>
 <li><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#product-interview" target="_blank"><span style="font-weight: 400;">Product interview</span></a> with <a href="https://handbook.sourcegraph.com/team/#rob-rhyne" target="_blank">Rob Rhyne</a> &amp; <a href="https://handbook.sourcegraph.com/team/#ryan-phillips" target="_blank">Ryan Phillips</a></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process_candidates/#technical-interview"><span style="font-weight: 400;">Technical Interview: General</span></a> with <a href="https://handbook.sourcegraph.com/team/#dominic-cooney" target="_blank">Dominic Cooney</a> &amp; <a href="https://handbook.sourcegraph.com/team/#tj-devries" target="_blank">TJ DeVries</a></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process_candidates/#cross-functional-team-collaboration"><span style="font-weight: 400;">Cross-functional Team Collaboration Interview</span></a> with <a href="https://handbook.sourcegraph.com/team/#owen-convey" target="_blank">Owen Convey</a> &amp; <a href="https://handbook.sourcegraph.com/team/#erika-rice-scherpelz" target="_blank">Erika Rice Scherpelz</a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[45m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process_candidates/#cross-functional-team-collaboration"><span style="font-weight: 400;">Cross-functional Team Collaboration Interview</span></a> with <a href="https://handbook.sourcegraph.com/team/#owen-convey" target="_blank">Owen Convey</a> &amp; <a href="https://handbook.sourcegraph.com/team/#erika-rice-scherpelz" target="_blank">Erika Rice Scherpelz</a></li>
 </ul>
 <li style="font-weight: 400;"><strong>Final Interview Stage </strong><span style="font-weight: 400;">- we move you to our final round, where you meet cross-functional partners and gain a better understanding of our business and values holistically…</span></li>
 <ul>
@@ -349,7 +349,7 @@
 <li style="font-weight: 400;"><span style="font-weight: 400;">We check references &amp; make you an offer!</span></li>
 </ul>
 </ul>
-<p><span style="font-weight: 400;">And that’s it! Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.</span></p>
+<p><span style="font-weight: 400;">Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.</span></p>
 
     
 
