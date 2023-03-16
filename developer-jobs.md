@@ -1,89 +1,70 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/8968/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Request Finance</h5>
-                    <h3>Full Stack Developer</h3>
+                    <h5>King Kong</h5>
+                    <h3> Digital Web Developer</h3>
                 </td>
                 <td width="300">
-                    <code>developer,crypto,front-end,back-end,full-stack,web,qa,finance,typescript,api,lead,digital nomad</code>
+                    <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-full-stack-developer-request-finance-200391" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/king-kong-digital-web-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                AtÂ <span style=""><a class="bbcode-link" href="https://www.request.finance/" target="_blank" rel="noopener noreferrer nofollow">Request Finance</a></span>, you will be working on enhancing the platform used by over 2,000 Web 3.0 companies like AAVE, The Sandbox, and Maker to manage their B2B crypto payments. Managing crypto payments is an administrative nightmare for businesses.<p>Our app solves that with thoughtful features like a dashboard showing all your invoices and their on-chain payment statuses, paying hundreds of invoices to different wallets in a few clicks, scheduling recurring invoices, and more.Â </p><p><br></p><h3><b>YOUR RESPONSABILITIES</b></h3><br><ul>
-<li align="left">We are looking for a full-stack developer with a back-end focus to integrate the Request Finance product team</li>
-<li align="left">You will participate in 2-week sprints: give your input during planning, continuously improve the product and take ownership of end-to-end features development</li>
-<li align="left">The split between front-end / back-end will be about 20 / 80, advanced tasks can be handed over to our specialized front-end developer in the team</li>
-<li align="left">The scope will be to bring new features to our Apps Request Invoicing and Request salary, as well as improving the infrastructure stability and scalability</li>
-<li align="left">Most features are from demands we get from clients and some are improvements we want to bring</li>
-<li align="left">You will also participate in the improvement of our REST API as well as the Request Network protocol and library</li>
-<li align="left">Your stack: Typescript, NodeJS, MongoDB, Google Kubernetes Engine, OAuth, Sendgrid. Secondary: React.</li>
-</ul><br><h3><b>QUALIFICATIONS</b></h3><br><ul>
-<li align="left">At least 3 years of experience in back-end development</li>
-<li align="left">Quality spirit: you are appealed by great software</li>
-<li align="left">Stability spirit: unit tests, integration tests and QA are a must for you</li>
-<li align="left">Scalability spirit: what works now can work with 100x more usage</li>
-<li align="left">Strong knowledge of Typescript and NodeJS</li>
-<li align="left">Good knowledge of Docker, Kubernetes and MongoDB</li>
-<li align="left">Autonomous and out-of-the-box thinker</li>
-<li align="left">Optional: knowledge of Ethereum, EVM blockchains,Â <span style=""><a class="bbcode-link" href="http://ethers.js/" target="_blank" rel="noopener noreferrer nofollow">ethers.js</a></span>Â library</li>
-<li align="left">Note: you donât need to check all the boxes to applyÂ </li>
-</ul><p>At Request Finance, we are a global team building global products, for an era of truly global finance. We believe that diversity and inclusion matters to our mission.</p><p>We want to work with people who can bring different perspectives rooted in their own unique cultures, experiences, lifestyles, and challenges. We are committed to building a safe workplace where everyone feels empowered to bring their authentic selves.</p><p>As an employer, we want to create an accessible and inclusive experience for potential hires. Please let us know if there are any adjustments we can make to assist you during the hiring and interview process.</p><p><br>WHY WORK WITH REQUEST FINANCE ?</p><p>ð¯Being on the frontier of this new and exciting technology, you will be given the chance to lead the way forward!</p><p>ðÂ You will have the opportunity to work in a team that wants to have a lasting impact on the way we experience finance tomorrow</p><p>ðThe team is inclusive, with inspirational and international colleagues</p><p>ðÂ We all work remotely but we love to meet as frequently as possible, with at least 3 company-wide reunions per year where possible.</p><p>ðï¸Â Unlimited vacation days with a mandatory minimum of 20/year.</p><br/><br/>Please mention the word **LUSH** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/647605487469cb46f5eb0c210a6810011677395762.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Request Network</h5>
-                    <h3>Web3 Developer</h3>
-                </td>
-                <td width="300">
-                    <code>web3,developer,design,defi,crypto,back-end,full-stack,support,code,payroll,qa,financial,education,finance,nodejs,lead,engineer,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>18 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-web3-developer-request-network-200383" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                At Request, our mission is to interconnect isolated financial systems to create more efficient and inclusive economies. We are accomplishing this by building a completely decentralized and open network for transaction requests.<p>Request Network is an open source protocol, and powersÂ <span style=""><a class="bbcode-link" href="https://www.request.finance/" target="_blank" rel="noopener noreferrer nofollow">Request Finance</a></span>, a cross-chain application for crypto invoicing, payroll and expenses. Request Finance has processed more than $215million in crypto payments since January 2021 and serves leading web3 companies like The Sandbox, The Graph and Aave.Â </p><p>We are looking for a full-stack engineer to help us grow our network, onboard new builders, explore new concepts and add new capabilities to the Request NetworkÂ <span style=""><a class="bbcode-link" href="http://protocol.the/" target="_blank" rel="noopener noreferrer nofollow">protocol.</a></span></p><p>The individual will have the opportunity to immerse themselves into the growing Request ecosystem of users by working hands in hands with web3 influential projects and play an active role in building the backbone of decentralized world trade.</p><p></p><h3><b>YOUR RESPONSABILITIES</b></h3><br><ul>
-<li align="left">We are looking for a web3 developer with a back-end focus and smart contract knowledge.</li>
-<li align="left">You will design solutions and help clients integrate our protocol</li>
-<li align="left">You will support developers' use of the protocol (provide education, tools, metrics)</li>
-<li align="left">You will also participate in improving the Request Network protocol and library and exploring new concepts and standards (EIPs, etc.)</li>
-<li align="left">You will provide documentation and education resources to help learn and build affinity with a product and community.</li>
-<li align="left">You will do code reviews.</li>
-<li align="left">Your stack: Typescript, NodeJS, Solidity. Secondary: React, Docker, MongoDB</li>
-</ul><br><h3><b>QUALIFICATIONS</b></h3><br><ul>
-<li align="left">At least 3 years of experience in back-end development</li>
-<li align="left">Quality spirit: you are appealed by great software</li>
-<li align="left">Stability spirit: unit tests, integration tests and QA are a must for you</li>
-<li align="left">Scalability spirit: what works now can work with 100x more usage</li>
-<li align="left">Strong knowledge of Typescript, NodeJS and Solidity</li>
-<li align="left">Knowledge of the Web3 ecosystem</li>
-<li align="left">Autonomous and out-of-the-box thinker</li>
-<li align="left">Note: you donât need to check all the boxes to applyÂ </li>
-</ul><li align="left">BONUSÂ </li><ul>
-<li align="left">Contribute to the open source DeFi community</li>
-<li align="left">Previous participation in hackathons</li>
-<li align="left">Curious about new libraries and frameworks</li>
-<li align="left">Passionate about clean and well-documented code</li>
-</ul><br>***<p>At Request, we are a global team building global products for an era of genuinely international finance. We believe that diversity and inclusion matter to our mission.</p><p>We want to work with people who can bring different perspectives rooted in their unique cultures, experiences, lifestyles, and challenges. We are committed to building a safe workplace where everyone feels empowered to bring their authentic selves.</p><p>As an employer, we want to create an accessible and inclusive experience for potential hires. Please let us know if there are any adjustments we can make to assist you during the hiring and interview process.<br></p><h3></h3><br><h3><b>WHY WORK WITH REQUEST?</b></h3><p>ð¯Being on the frontier of this new and exciting technology, you will be given a chance to lead the way forward!</p><p>ðÂ You will have the opportunity to work in a team that wants to have a lasting impact on the way we experience finance tomorrow</p><p>ðThe team is inclusive, with inspirational and international colleagues</p><p>ðÂ We all work remotely and love to meet as frequently as possible, with at least three company-wide reunions per year.</p><p>ðï¸Â Unlimited vacation days with a mandatory minimum of 20/year.</p><br/><br/>Please mention the word **DELECTABLE** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <img src="https://we-work-remotely.imgix.net/logos/0083/8968/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Australia
+    <br /><strong>URL:</strong> <a href="http://www.kingkong.com.au">http://www.kingkong.com.au</a>
+</p>
+
+<p><em><strong>Are you a razor-sharp front-end web developer looking for the next big challenge (bonus points if you are also a back-end wiz)? Then read on...</strong></em></p>
+<p>King Kong is a passionate team of high-performing online marketing and growth experts. We insist on hiring ONLY the finest talent to join our herd.</p>
+<p>We are a full-service digital marketing agency that is growing FAST!</p>
+<p>For the last three years, we've been ranked as the fastest-growing digital agency...</p>
+<p>And the 17th fastest growing company in the country by The Australian Financial Review...</p>
+<p>King Kong consists of...</p>
+<h3>Over 75 Of The Wildest, Most Passionate Bunch Of Lunatic Marketers You've Ever Worked With...</h3>
+<p>And this is just one of the reasons we've been named in the Top 100 Coolest Companies in Australia 2016, 2017 and 2018 by Anthill Magazine.</p>
+<p>We've also been named one of the best places to work and the 9th most innovative media company in Australia by the AFR</p>
+<p>Look, the list goes on and on...because we've seriously won more awards than you can shake a stick at...</p>
+<p>But enough about us, what about you...</p>
+<p>Are you...</p>
+<ul> <li>Ready to stand out from the crowd and deliver exceptional work?</li> <li>Tired of working hard with little fun or reward?</li> <li>Ready to take on an amazing role amongst an awesome team where every day is about being the best you can be?</li> <li>Deadly serious about having the strongest gif game in the office?</li> <li>Frustrated with the lack of training and support you currently receive?</li> </ul>
+<p><strong>The Opportunity: </strong></p>
+<p>We are looking for passionate a passionate front-end web developer with a hunger to learn and a hustle mentality. You will be working on the creation of static and dynamic landing pages and websites using Wordpress, Shopify, HTML, CSS, Javascript and PHP, based on supplied designs from our creative team. We're looking for a web developer who knows how to problem solve and get results.</p>
+<ul> <li>Convert designs into fully responsive websites.</li> <li>Develop themes for CMS's - mainly Wordpress, Shopify but sometimes others.</li> <li>Communicate technical issues to Account Managers in plain English to</li> <li>resolve client problems. </li> <li>Be hands-on with theme and plugin development with HTML, CSS, PHP and JS.</li> <li>Use Photoshop, Sketch and Figma to convert layered design files into HTML.</li> <li>Basic server management - database creation, migrating sites and managing DNS settings.</li> <li>Assist with ad hoc client requests as it relates to client websites or campaigns as needed.</li> </ul>
+<p>Look, our ideal candidate will have an ‘I got this' attitude...they will be solution-focused with a proven track record of getting results. You will have to possess the ability to run through walls to get to a solution.</p>
+<p>And won't be the type of person who throws their hands in the air and gives up at the first sight of a challenge.</p>
+<p>So...If you've been looking for THAT opportunity to get your foot in the door with a fast-growing company...</p>
+<p>Then this job description has no doubt been like a breath of refreshingly crisp winter air on a hot Melbourne day...</p>
+<p>Here's What To Do Next...</p>
+<p>Please take the time to write a Cover Letter that tells me about YOU.</p>
+<p>Not some wishy-washy cover letter like...</p>
+<p>"I'm 29-year-old Sagittarius from Malvern - who enjoys poetry, almond chai lattes and Alanis Morissette"...</p>
+<p>No.</p>
+<p>I want the details.</p>
+<p>The juice.</p>
+<p>The nitty-gritty.</p>
+<p>Specifically why you think you would be the perfect fit for this role.</p>
+<p><strong>Requirements</strong></p>
+<p><strong>What we're looking for: </strong><br></p>
+<ul> <li>At least two years experience in a similar role. </li> <li>Attention to detail - pixel perfection.</li> <li>Grasp over HTML5, CSS, and Javascript.</li> <li>Ability to use APIs, getting your hands dirty in databases, and using commandline to make changes using SSH.</li> <li>Shopify, Magento &amp; Infusionsoft knowledge.</li> <li>Solution focused.</li> <li>Great troubleshooting and problem-solving skills.</li> <li>Grasp of Github, AWS, SSH, Google Tag Manager, JS debugging.</li> </ul>
+<p><strong>Benefits</strong></p>
+<p><strong>The juicy part:</strong></p>
+<ul> <li> <strong>Generous salary</strong> - we want best talent and reward as such.</li> <li> <strong>Extensive training and full support</strong> - we take training very seriously and will provide you with the industry's very best training, giving you the knowledge and confidence needed for greatness.</li> <li> <strong>Amazing growth prospects </strong>and upward mobility in our fast-paced agency.</li> <li> <strong>INSANE events</strong> - You name it and we've probably done it.</li> <li> <strong>Company trips away </strong>- such as glamping, Bali &amp; Thailand.</li> </ul>
+<em><em><em><em>We move at a lightning pace! Only successful candidates will be contacted. If you haven't been invited via email to submit a Video Interview Kit with us 5 business days after submitting your application, unfortunately you haven't been successful this time around!</em></em></em></em>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/king-kong-digital-web-developer">https://weworkremotely.com/remote-jobs/king-kong-digital-web-developer</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -98,7 +79,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/aldrin-labs-senior-front-end-developer" align="right" target="_blank">Apply</a>
@@ -204,7 +185,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>70 days ago</text>
+                <text>71 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-laravel-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -277,7 +258,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>182 days ago</text>
+                <text>183 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang" align="right" target="_blank">Apply</a>
@@ -328,7 +309,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>184 days ago</text>
+                <text>185 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -402,7 +383,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -479,7 +460,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -505,7 +486,7 @@
                     <code>developer,seo,social media,ai</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/ai-application-developer-1608200" align="right" target="_blank">Apply</a>
@@ -545,7 +526,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -622,7 +603,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -766,7 +747,7 @@
                     <code>developer,design,Figma</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/website-developer-1601883" align="right" target="_blank">Apply</a>
@@ -797,7 +778,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -866,7 +847,7 @@
                     <code>developer,fullstack,ui,design</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-remix-full-stack-developer-1583816" align="right" target="_blank">Apply</a>
