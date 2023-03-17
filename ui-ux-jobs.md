@@ -1,54 +1,80 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/9670/logo.gif" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1619652/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Zapiet</h5>
-                    <h3> Remote UX/UI Designer</h3>
+                    <h5>Bitsgap Holding OÜ</h5>
+                    <h3>Technical Writer / Technical writer with UX/UI writing skills</h3>
                 </td>
                 <td width="300">
-                    <code>Design</code>
+                    <code>crypto,go,marketing,ui</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/zapiet-remote-ux-ui-designer" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/writing/technical-writer-technical-writer-with-ux-ui-writing-skills-1619652" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0016/9670/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> United Kingdom
-    <br /><strong>URL:</strong> <a href="https://www.zapiet.com/">https://www.zapiet.com/</a>
-</p>
-
-<div>Zapiet is a fast-growing tech company that provides e-commerce solutions for businesses of all sizes. Our platform enables merchants to manage their online stores more efficiently, with a particular focus on optimizing the customer experience. We are looking for a talented and creative UX/UI designer to help us take our platform to the next level.</div><div>
-<br><strong>Role Overview:</strong><br>As a UX/UI Designer at Zapiet, you will be responsible for creating intuitive, user-friendly interfaces that enhance the customer experience. You will work closely with our development team, product managers, and other stakeholders to design and iterate on features for our platform. The ideal candidate will have a strong understanding of user-centered design principles, as well as experience designing for both web and mobile platforms.<br><br>
-</div><div>
-<br><strong>Key Responsibilities:</strong>
-</div><ul>
-<li>Design and iterate on new features for our products, taking into account user feedback, business requirements, and technical constraints</li>
-<li>Create wireframes, prototypes, and high-fidelity mockups that communicate your design solutions effectively</li>
-<li>Conduct user research and usability testing to validate design decisions and identify areas for improvement</li>
-<li>Collaborate with developers to ensure the implementation of your designs is consistent with your vision</li>
-<li>Maintain and contribute to our design system, ensuring consistency across our products</li>
-<li>Stay up-to-date with emerging trends and best practices in UX/UI design and e-commerce</li>
-</ul><div>
-<br><strong>Qualifications:</strong>
-</div><ul>
-<li>3+ years of experience in UX/UI design, preferably in an e-commerce or SaaS environment</li>
-<li>Strong portfolio showcasing your design process, problem-solving skills, and ability to create engaging user experiences</li>
-<li>Proficiency in design tools such as Sketch, Figma, and Adobe Creative Suite</li>
-<li>Familiarity with front-end development technologies such as HTML, CSS, and JavaScript</li>
-<li>Excellent communication and collaboration skills, with the ability to effectively present and explain design decisions to stakeholders</li>
-</ul><div>At Zapiet, we value diversity and strive to create an inclusive environment where everyone can thrive. We are an equal opportunity employer and welcome applicants from all backgrounds and experiences. If you are passionate about creating amazing user experiences and want to work in a dynamic, fast-paced environment, we encourage you to apply!</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/zapiet-remote-ux-ui-designer">https://weworkremotely.com/remote-jobs/zapiet-remote-ux-ui-designer</a></p>
-
+                <p><strong>Bitsgap </strong>is an aggregator of all major cryptocurrency exchanges and a trading automation platform with trading bots and algorithmic orders. The company has been on the market since 2017, and more than 500,000 traders have already used our technologies.</p>
+<p>We are looking for a <strong>technical writer</strong> who is interested in (crypto-)trading, fluent in written and spoken English, who will be responsible for writing technical documentation and reviewing UX / UI content.</p>
+<p>Reports to Head of Content.<br><br></p>
+<p><br><br></p>
+<p><strong>What is to be done?</strong></p>
+<ul style="">
+<li style="">Develop and maintain up to date technical documentation (manuals, instructions, etc.).</li>
+<li style="">Create product feature descriptions and update them as new releases come out.</li>
+<li style="">Maintain an internal knowledge base, document the processes of interaction between teams.</li>
+<li style="">Compile Release Notes for publication on the website and in app stores.</li>
+<li style="">Communicate product changes to customer and marketing teams.</li>
+<li style="">Regularly review outbound content for relevance.</li>
+<li style="">Maintain an external knowledge base, FAQ, product glossary and library of content components.</li>
+<li style="">Adjust product UX/UI content according to existing components and templates.</li>
+</ul>
+<p><br><br></p>
+<p><strong>Your experience and skills:</strong></p>
+<ul style="">
+<li style="">3 years experience as a technical writer in a product company.</li>
+<li style="">Experience in the fintech/crypto industry from 1 year.</li>
+<li style="">Competent Russian, the ability to explain technical details in simple terms.</li>
+<li style="">Skills of systematization, hierarchization and structuring of content, preparation of screenshots and screencasts.</li>
+<li style="">Advanced English (minimum B2).</li>
+<li style="">Practical knowledge of the basics of UX / UI writing, skills in working with Figma and Miro.</li>
+<li style="">Proficiency in Confluence and Notion.</li>
+<li style="">Methodical, attention to detail and independence.</li>
+</ul>
+<p><br><br><br></p>
+<p><strong>We offer:</strong></p>
+<ul style="">
+<li style="">Work from anywhere in the world in a team of seniors.</li>
+<li style="">Participation in the creation of a high-value product, the purpose of which is to benefit customers around the world.</li>
+<li style="">A unique opportunity to <strong>“be at the forefront”</strong> of the financial market, where a new future is being created.</li>
+<li style="">The right to implement your ideas in a dynamically developing product company.</li>
+<li style="">Work in an international company with European standards.</li>
+<li style="">Salary paid on time at the end of each month.</li>
+<li style="">21 days of paid vacation.</li>
+<li style="">Paid sick leave.</li>
+<li style="">Compensation for training courses and webinars.</li>
+</ul>
+<p> </p>
+<p><strong>Do you see yourself in this position?</strong></p>
+<ul style="">
+<li style="">Apply for a job.</li>
+<li style="">Write a cover letter explaining why we should select you and including links to your work. The applicants whose work samples are most interesting will receive an invitation to an interview.</li>
+</ul>
+<p> </p>
+<p><em>P.S.: If your resume and cover letter</em> <em>meets our expectations, then we will ask you to go through the following stages:</em></p>
+<ul style="">
+<li style=""><em>Initial interview with HR Manager (about 15-20 minutes);</em></li>
+<li style=""><em>Test assignment;</em></li>
+<li style=""><em>Interview with the Head of Content and HR Manager (up to 1 hour).</em></li>
+</ul>
+<p><em>The candidate who successfully passes the interview and completes the test with dignity will join our team.</em></p>
+<p><br><br></p>
+<img src="https://remotive.com/job/track/1619652/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -63,7 +89,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
