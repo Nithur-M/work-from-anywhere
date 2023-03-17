@@ -1,5 +1,71 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/5180/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Paymentology</h5>
+                    <h3> Senior Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/paymentology-senior-software-engineer-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0074/5180/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> London, UK
+    <br /><strong>URL:</strong> <a href="https://paymentology.com">https://paymentology.com</a>
+</p>
+
+<div>Paymentology is the first truly global issuer-processor, giving banks and fintechs the technology, team and experience to rapidly issue and process Mastercard, Visa and UnionPay cards across more than 50 countries, at scale. </div><div>Our advanced, multi-cloud platform, offering both shared and dedicated processing instances, vast global presence and richer, real-time data, set us apart as the leader in payments.<br><br>
+</div><div>As a <strong>Remote Senior Software Developer</strong> at Paymentology you'll be working in the Engineering team to build enterprise-level, highly scalable, highly secure financial processing systems that power tens of millions of transactions and tie them to web, mobile and API interfaces that make it easy for people to issue, redeem and reconcile prepaid and credit cards all over the world.<br><br><strong>What you get to do:</strong><br><br>This position requires the ability to develop high-quality and resilient solutions to meet the rapidly evolving needs of an issuer processor serving an international expanding customer base and to communicate effectively at all levels, from providing the right level of details in the status updates on your work to explaining technical trade-offs, technical complexities and design options so Paymentology can make informed decisions.</div><ul>
+<li>Work within a remote team disseminated throughout the world</li>
+<li>Architect, design and develop projects from end to end</li>
+<li>Make things simple for ourselves and our customers</li>
+<li>Collaborate with other engineers to prioritize and ship features</li>
+<li>Mentor other engineers on the team, and be mentored by others</li>
+<li>Partner with Product Managers to scope and estimate new work</li>
+<li>Participate in on-call coverage</li>
+</ul><div>
+<br><strong>What it takes to succeed:<br></strong><br>
+</div><div>We're looking for people that make stuff work with:</div><ul>
+<li>Experience developing in Java at scale (large systems with high availability and TPS requirements), but we welcome experience in other programming languages</li>
+<li>Experience with relational databases (MySQL, Postgres, MS SQL Server, Oracle, etc.)</li>
+<li>Experience in financial transaction processing/banking or related industries</li>
+<li>Experience with AWS as a cloud provider an advantage</li>
+</ul><div>
+<br><strong>Above all, we are looking for developers...</strong>
+</div><div><br></div><div>                                                         <em>Who love to write great software</em>
+</div><div>                                                     <em>Who are passionate about their craft</em>
+</div><div>                                               <em>Who are willing to learn, as well as coach</em>
+</div><div><br></div><div>Let’s also not forget languages (not the programming kind); While you will work with colleagues located throughout the world, English is our company language so it's important that you be able to communicate at a fluent level, in both spoken and written form.</div><div>Flexible hours are a must for our remote team. You’ll need to be able to occasionally shift your work hours to participate into on-call duties and better align with colleagues for the scope of specific projects.<br><br>
+</div><ul>
+<li>Developing, managing and maintaining card network transactions at scale</li>
+<li>Building best-of-breed backend experiences for our customers, internal and external</li>
+<li>Create and review engineering design documentation</li>
+<li>Continuously improve our systems, infrastructure and processes with a focus on quality</li>
+<li>Create features, review each other's code and collaborate with a diverse set of stakeholders across the company</li>
+<li>Coach others</li>
+<li>Influence/drive the architectural decisions and processes on the platform, from unit testing/documentation requirements to implementation processes</li>
+</ul><div>
+<br><strong>What you can look forward to:</strong><br><br>
+</div><div>At Paymentology we value making a difference to the lives of the people who work for us and who live in the communities where we operate. You can look forward to working with a diverse, global team where Paymentologists at all levels play an important part in our global mission to advance the world through payments and make a difference on a global scale. </div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/paymentology-senior-software-engineer-1">https://weworkremotely.com/remote-jobs/paymentology-senior-software-engineer-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1542681228666671107/L5LYJLAD_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -46,6 +112,48 @@
 &lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bonus for deep knowledge of at least one major cloud provider, AWS preferred&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1542681228666671107/L5LYJLAD_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Timescale</h5>
+                    <h3>Senior Software Engineer (Platform)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://www.timescale.com/careers/6492197002?gh_jid=6492197002" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;h3&gt;&lt;strong&gt;General&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We&#39;re looking for experienced engineers to help us build and maintain the platform for our managed TimescaleDB cloud services. You will have the opportunity to work with a close-knit team, building and maintaining the infrastructure that powers our platform. Your work will be instrumental in developing our Kubernetes-based clusters and infrastructure. You will interact with the Kubernetes API and codebase to build controllers, operators, and applications that power our platform. Additionally, you will work closely with and further develop our infrastructure tooling to ensure the health, stability, and maintainability of our clusters.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Timescale is an all-remote organization. This is a full-time position.&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong programming skills (we mostly use Go but are more concerned with good fundamentals)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Extensive experience with at least one major cloud provider (AWS preferred)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience designing, understanding, and debugging complex distributed systems&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Deep knowledge of Linux, container environments, and bash&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Familiarity with infrastructure as code (e.g., Terraform, Pulumi, Crossplane)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Nice to Haves&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Familiarity with developing Kubernetes operators, controllers, and custom CRDs&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Some experience programming in the Kubernetes ecosystem or using the Kubernetes API&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience deploying, operating, and using major production-level databases. Huge bonus points for PostgreSQL and/or TimescaleDB!&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience deploying and maintaining Kubernetes clusters at scale. Knowledge of Kubernetes cluster orchestration tools like kops or kubeadm a plus&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Req: 2394&lt;/em&gt;&lt;/p&gt;
                 </details>
                 </td>
             </tr>,<tr>
@@ -119,25 +227,23 @@
 <p><span style="font-weight: 400;">In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous </span><a href="https://handbook.sourcegraph.com/benefits-pay-perks/benefits-perks/"><span style="font-weight: 400;">perks &amp; benefits</span></a><span style="font-weight: 400;">.</span></p>
 <h2><strong>Interview process [~5.5 hour total interview]</strong></h2>
 <p><em><span style="font-weight: 400;">Below is the interview process you can expect for this role (you can read more about</span></em><a href="https://handbook.sourcegraph.com/talent/types_of_interviews"><em><span style="font-weight: 400;"> </span></em><em><span style="font-weight: 400;">the types of interviews</span></em></a><em><span style="font-weight: 400;"> in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!</span></em></p>
-<ul>
-<li style="font-weight: 400;"><strong>Intro Conversation Stage</strong><span style="font-weight: 400;"> - we have initial conversations to get to know you better…</span></li>
+<p><strong>Intro Conversation Stage</strong><span style="font-weight: 400;"> - we have initial conversations to get to know you better…</span></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/interview_process/#sts=The%20recruiter%20screen"><span style="font-weight: 400;">Recruiter Screen</span></a> with <a href="https://handbook.sourcegraph.com/team/#devon-coords" target="_blank">Devon Coords</a></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#hiring-manager-screen"><span style="font-weight: 400;">Hiring Manager Screen</span></a> with <a href="https://handbook.sourcegraph.com/team/#owen-convey" target="_blank">Owen Convey</a></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive"><span style="font-weight: 400;">Resume Deep Dive</span></a>&nbsp;with <a href="https://handbook.sourcegraph.com/team/#owen-convey" target="_blank">Owen Convey</a> &amp; <a href="https://handbook.sourcegraph.com/team/#devon-coords" target="_blank">Devon Coords</a></li>
 </ul>
-<li style="font-weight: 400;"><strong>Team Interview Stage</strong><span style="font-weight: 400;"> - we then delve into your experience in more depth and introduce you to members of the team…</span></li>
+<p><strong>Team Interview Stage</strong><span style="font-weight: 400;"> - we then delve into your experience in more depth and introduce you to members of the team…</span></p>
 <ul>
+<li><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive"><span style="font-weight: 400;">Resume Deep Dive</span></a>&nbsp;with <a href="https://handbook.sourcegraph.com/team/#owen-convey" target="_blank">Owen Convey</a> &amp; <a href="https://handbook.sourcegraph.com/team/#devon-coords" target="_blank">Devon Coords</a></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[45m]</span><a href="https://handbook.sourcegraph.com/departments/engineering/teams/code-intelligence/code-walkthrough/"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Technical Interview - Code Walkthrough</span></a> with <a href="https://handbook.sourcegraph.com/team/#%C3%B3lafur-p%C3%A1ll-geirsson" target="_blank">Ólaf Geirsson</a> &amp; <a href="https://handbook.sourcegraph.com/team/#tj-devries" target="_blank">TJ DeVries</a></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[60m]</span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process/#architecture"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Working Session - Architecture</span></a> with <a href="https://handbook.sourcegraph.com/team/#eric-fritz" target="_blank">Eric Fritz</a> &amp; <a href="https://handbook.sourcegraph.com/team/#varun-gandhi" target="_blank">Varun Gandhi</a></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[45m]</span><a href="https://handbook.sourcegraph.com/departments/talent/process/types_of_interviews#cross-functional-team-collaboration-interview"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Cross-functional Team Collaboration interview</span></a><span style="font-weight: 400;"> with <a href="https://handbook.sourcegraph.com/team/#ryan-phillips" target="_blank">Ryan Phillips</a></span></li>
 </ul>
-<li style="font-weight: 400;"><strong>Final Interview Stage </strong><span style="font-weight: 400;">- we move you to our final round, where you meet cross-functional partners and gain a better understanding of our business and values holistically…</span></li>
+<p><strong>Final Interview Stage </strong><span style="font-weight: 400;">- we move you to our final round, where you meet cross-functional partners and gain a better understanding of our business and values holistically…</span></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[30 min]</span><a href="https://handbook.sourcegraph.com/departments/talent/process/evaluating_values"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Values interview</span></a></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[30 min]</span><a href="https://handbook.sourcegraph.com/departments/talent/process/types_of_interviews#leadership-interview"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Leadership Interview</span></a><span style="font-weight: 400;"> - <a href="https://www.linkedin.com/in/quinnslack/" target="_blank">Quinn Slack</a>, CEO</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">We check references &amp; make you an offer!</span></li>
-</ul>
 </ul>
 <p><span style="font-weight: 400;">Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.</span></p>
 
@@ -670,87 +776,6 @@
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
-                    <h3>Senior Software Engineer - Cloud Engineering</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/3062022" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>This is a fast-paced engineering role in Linux-based software-defined infrastructure and applications, covering all layers of the stack, including bare metal, virtualization (KVM) and containerization (LXC/LXD), storage (Ceph and Linux filesystems), networking (OVS, OVN and Core networking), up to OpenStack and Kubernetes, and the open source applications running on top of them.</p>
-<p>This role is an opportunity for a technologist with a passion for Linux and open source to build a career with Canonical and drive success for our customers, community and the company. If you have an affinity for open source development, great communication skills, and a passion for troubleshooting and fixing issues in technology used by millions across the world, then you will enjoy working with some of the best people in the industry at Canonical.</p>
-<h3>Job summary</h3>
-<p>This role deals with critical issues in the open source stack that require software engineering for upstream fixes. Our engineers have to be able to work productively at any level of the stack above the kernel, in a wide range of languages, to understand and address the software issues at hand. Our group is critical to the success of our enterprise customers, partners and Ubuntu itself.</p>
-<p>You will help with troubleshooting and driving issues to resolution with workarounds, guidance, and fixes to be released upstream and in Ubuntu.</p>
-<p>As a Cloud Software Engineer you will:</p>
-<ul>
-<li>Resolve complex customer problems related to Ubuntu, OpenStack, or Kubernetes</li>
-<li>Maintain a close working relationship with Canonical's field, support and product engineering teams</li>
-<li>Participate in upstream communities</li>
-<li>Develop fixes, backport patches, and work with upstream for inclusion</li>
-<li>Demonstrate good judgement in technical methods and techniques</li>
-<li>Prioritise work and manage your time effectively against those priorities</li>
-<li>Participate in team discussions to improve processes, tools, and documentation</li>
-<li>Maintain clear, technical and concise communications</li>
-<li>Travel internationally up to 10% of work time for team meetings, events and conferences</li>
-</ul>
-<p>The successful Cloud Software Engineer will have:</p>
-<ul>
-<li>Professional experience as a software engineer is required</li>
-<li>Bachelor’s or equivalent in Computer Science, STEM or similar degree</li>
-<li>Strong experience with Linux, OpenStack, Kubernetes or other cloud technologies</li>
-<li>Strong development-level experience with Python, Go, C, C++ on Linux</li>
-<li>Ability to troubleshoot with gdb and other tools</li>
-<li>Familiarity with git source code repositories and branches</li>
-</ul>
-<p>What you’ll do</p>
-<ul>
-<li>Collaborate proactively with a distributed team</li>
-<li>Debug issues and produce high quality code to fix them</li>
-<li>Review code produced by other engineers</li>
-<li>Discuss ideas and collaborate on finding good solutions</li>
-<li>Work from home with global travel 2 to 4 weeks per year for internal and external events</li>
-</ul>
-<p>Who you are</p>
-<ul>
-<li>You love technology and working with brilliant people</li>
-<li>You are curious, flexible, articulate, and accountable</li>
-<li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li>
-<li>You have interest in, and experience with most of the following: Ubuntu Linux - kernel or userspace, Kubernetes, OpenStack, Ceph, QEMU/KVM, LXC/LXD, Python, Go, C, Postgresql, Mongo, Debian packaging, distributed systems</li>
-</ul>
-<h3>About Canonical</h3>
-<p>Canonical is a growing multi-national software company that works with the open-source community to deliver Ubuntu -- the world’s leading cloud operating system. Our services help businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.</p>
-<p>We offer:</p>
-<ul>
-<li>Learning and personal professional development budget</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual leave</li>
-<li>Generous parental leave</li>
-<li>Priority Pass for travel</li>
-</ul>
-<p><em>Canonical believes a diverse workforce enhances our ability to deliver world class software and services which meet the world’s computing needs. We are committed to ensuring equal employment opportunities to all qualified individuals. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.</em></p>
-<p>#LI-Remote</p>
-<p>#stack</p>
-<p>#LI-ET1&nbsp;</p><p>Requisition ID: 688</p><p></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
                     <h3>Senior Software Engineer - Go</h3>
                 </td>
                 <td width="300">
@@ -795,87 +820,6 @@
 </ul>
 <p><em>We are proud to foster a workplace free from discrimination. We truly believe that diversity of experience, perspectives, and background will lead to a better environment for our employees and a better platform for our users and customers. This is something we value deeply and we encourage everyone to come be a part of the world of Ubuntu.</em></p>
 <p><em>#LI-Remote&nbsp;</em></p><p>Requisition ID: 531</p><p></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Senior Software Engineer - Linux Engineering</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/3326693" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>This is a fast-paced engineering role in Linux-based software-defined infrastructure and applications, covering all layers of the stack, including bare metal, virtualization (KVM) and containerization (LXC/LXD), storage (Ceph and Linux filesystems), networking (OVS, OVN and Core networking), up to OpenStack and Kubernetes, and the open source applications running on top of them.</p>
-<p>This role is an opportunity for a technologist with a passion for Linux and open source to build a career with Canonical and drive success for our customers, community and the company. If you have an affinity for open source development, great communication skills, and a passion for troubleshooting and fixing issues in technology used by millions across the world, then you will enjoy working with some of the best people in the industry at Canonical.</p>
-<h3>Job summary</h3>
-<p>This role deals with critical issues in the open source stack that require software engineering for upstream fixes. Our engineers have to be able to work productively at any level of the stack above the kernel, in a wide range of languages, to understand and address the software issues at hand. Our group is critical to the success of our enterprise customers, partners and Ubuntu itself.</p>
-<p>You will help with troubleshooting and driving issues to resolution with workarounds, guidance, and fixes to be released upstream and in Ubuntu.</p>
-<p>As a Linux Engineer you will:</p>
-<ul>
-<li>Resolve complex customer problems related to Ubuntu, Kernel, or Ceph</li>
-<li>Maintain a close working relationship with Canonical's field, support and product engineering teams</li>
-<li>Participate in upstream communities</li>
-<li>Develop fixes, backport patches, and work with upstream for inclusion</li>
-<li>Demonstrate good judgement in technical methods and techniques</li>
-<li>Prioritise work and manage your time effectively against those priorities</li>
-<li>Participate in team discussions to improve processes, tools, and documentation</li>
-<li>Maintain clear, technical and concise communications</li>
-<li>Travel internationally up to 10% of work time for team meetings, events and conferences</li>
-</ul>
-<p>The successful Linux Engineer will have:</p>
-<ul>
-<li>Professional experience as a software engineer is required</li>
-<li>Bachelor’s or equivalent in Computer Science, STEM or similar degree</li>
-<li>Strong experience with Linux, Ceph, OpenStack, Kubernetes or other cloud technologies</li>
-<li>Strong development-level experience with Python, Go, C or C++ on Linux</li>
-<li>Ability to troubleshoot with gdb and other tools</li>
-<li>Familiarity with git source code repositories and branches</li>
-</ul>
-<p>What you’ll do</p>
-<ul>
-<li>Collaborate proactively with a distributed team</li>
-<li>Debug issues and produce high quality code to fix them</li>
-<li>Review code produced by other engineers</li>
-<li>Discuss ideas and collaborate on finding good solutions</li>
-<li>Work from home with global travel 2 to 4 weeks per year for internal and external events</li>
-</ul>
-<p>Who you are</p>
-<ul>
-<li>You love technology and working with brilliant people</li>
-<li>You are curious, flexible, articulate, and accountable</li>
-<li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li>
-<li>You have interest in, and experience with most of the following: Ubuntu Linux - kernel or userspace, Kubernetes, OpenStack, Ceph, QEMU/KVM, LXC/LXD, Python, Go, C, Postgresql, Mongo, Debian packaging, distributed systems</li>
-</ul>
-<h3>About Canonical</h3>
-<p>Canonical is a growing multi-national software company that works with the open-source community to deliver Ubuntu -- the world’s leading cloud operating system. Our services help businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.</p>
-<p>We offer:</p>
-<ul>
-<li>Learning and personal professional development budget</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual leave</li>
-<li>Generous parental leave</li>
-<li>Priority Pass for travel</li>
-</ul>
-<p><em>Canonical believes a diverse workforce enhances our ability to deliver world class software and services which meet the world’s computing needs. We are committed to ensuring equal employment opportunities to all qualified individuals. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.</em></p>
-<p>#LI-Remote</p>
-<p>#stack</p>
-<p>#LI-ET1&nbsp;</p><p>Requisition ID: 688</p><p></p>
     
                 </details>
                 </td>
