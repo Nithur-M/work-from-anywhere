@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/paymentology-product-manager-1" align="right" target="_blank">Apply</a>
@@ -64,7 +64,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -130,7 +130,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>35 days ago</text>
+                <text>36 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1" align="right" target="_blank">Apply</a>
@@ -199,7 +199,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>491 days ago</text>
+                <text>492 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -328,26 +328,24 @@
 <p><span style="font-weight: 400;">In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous </span><a href="https://handbook.sourcegraph.com/benefits-pay-perks/benefits-perks/"><span style="font-weight: 400;">perks &amp; benefits</span></a><span style="font-weight: 400;">.</span></p>
 <h2><strong>Interview process [~5.75 hour total interview]</strong></h2>
 <p><em><span style="font-weight: 400;">Below is the interview process you can expect for this role (you can read more about </span></em><a href="https://handbook.sourcegraph.com/talent/types_of_interviews"><em><span style="font-weight: 400;">the types of interviews</span></em></a><em><span style="font-weight: 400;"> in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&nbsp;</span></em></p>
-<ul>
-<li style="font-weight: 400;"><strong>Introduction Stage</strong><span style="font-weight: 400;"> - we have initial conversations to get to know you better…</span></li>
+<p><strong>Introduction Stage</strong><span style="font-weight: 400;"> - we have initial conversations to get to know you better…</span></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#recruiter-screen"><span style="font-weight: 400;">Recruiter Screen</span></a><span style="font-weight: 400;"> with <a href="https://handbook.sourcegraph.com/team/#devon-coords" target="_blank">Devon Coords</a> or <a href="https://handbook.sourcegraph.com/team/#kelsey-nagel" target="_blank">Kelsey Nagel</a></span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#hiring-manager-screen"><span style="font-weight: 400;">Hiring Manager Screen</span></a> with <a href="https://about.sourcegraph.com/blog/introducing-steve-yegge" target="_blank">Steve Yegge</a></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive"><span style="font-weight: 400;">Resume Deep Dive</span></a></li>
 </ul>
-<li style="font-weight: 400;"><strong>Team Interview Stage</strong><span style="font-weight: 400;"> - we then delve into your experience in more depth and introduce you to members of the team…</span></li>
+<p><strong>Team Interview Stage</strong><span style="font-weight: 400;"> - we then delve into your experience in more depth and introduce you to members of the team…</span></p>
 <ul>
+<li><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive"><span style="font-weight: 400;">Resume Deep Dive</span></a></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[Async] Writing exercise</span></li>
 <li><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#product-interview" target="_blank"><span style="font-weight: 400;">Product interview</span></a> with <a href="https://handbook.sourcegraph.com/team/#rob-rhyne" target="_blank">Rob Rhyne</a> &amp; <a href="https://handbook.sourcegraph.com/team/#ryan-phillips" target="_blank">Ryan Phillips</a></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process_candidates/#technical-interview"><span style="font-weight: 400;">Technical Interview: General</span></a> with <a href="https://handbook.sourcegraph.com/team/#dominic-cooney" target="_blank">Dominic Cooney</a> &amp; <a href="https://handbook.sourcegraph.com/team/#tj-devries" target="_blank">TJ DeVries</a></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[45m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process_candidates/#cross-functional-team-collaboration"><span style="font-weight: 400;">Cross-functional Team Collaboration Interview</span></a> with <a href="https://handbook.sourcegraph.com/team/#owen-convey" target="_blank">Owen Convey</a> &amp; <a href="https://handbook.sourcegraph.com/team/#erika-rice-scherpelz" target="_blank">Erika Rice Scherpelz</a></li>
 </ul>
-<li style="font-weight: 400;"><strong>Final Interview Stage </strong><span style="font-weight: 400;">- we move you to our final round, where you meet cross-functional partners and gain a better understanding of our business and values holistically…</span></li>
+<p><strong>Final Interview Stage </strong><span style="font-weight: 400;">- we move you to our final round, where you meet cross-functional partners and gain a better understanding of our business and values holistically…</span></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#values-interview"><span style="font-weight: 400;">Values Interview</span></a></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#leadership-interview"><span style="font-weight: 400;">Leadership Interview</span></a><span style="font-weight: 400;"> with <a href="https://handbook.sourcegraph.com/team/#quinn-slack" target="_blank">Quinn Slack</a>, CEO, or <a href="https://handbook.sourcegraph.com/team/#beyang-liu" target="_blank">Beyang Liu</a>, Co-founder</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">We check references &amp; make you an offer!</span></li>
-</ul>
 </ul>
 <p><span style="font-weight: 400;">Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.</span></p>
 
