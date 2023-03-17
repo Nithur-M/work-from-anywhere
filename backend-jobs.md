@@ -1,5 +1,66 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/4c9d87305c54f175ce2a8b14962fd82f1677482150.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>BitcoinCom</h5>
+                    <h3>Backend Engineer TradFi</h3>
+                </td>
+                <td width="300">
+                    <code>crypto,cryptocurrency,support,bank,java,lead,engineer,engineering,educational,backend</code>
+                </td>
+                <td width="200">
+                <text>18 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-tradfi-bitcoincom-200895" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="styles--2BkR3">
+<p>Bitcoin.com's mission is to create more 'economic freedom' in the world. By economic freedom we mean the ability for individuals to freely acquire and use personal resources however they choose. We assert that economic freedom is a fundamental human right and a vital component of human dignity, and we believe that it is foundational for peaceful and prosperous societies.</p>
+<p>Our vision is to provide the next billion people with access to products that exemplify the ideals of Bitcoin. These ideals - which include peer-to-peer transactions, decentralization, censorship resistance, and permissionless-ness - support economic freedom.</p>
+<p>Our approach is to develop and promote widely accessible products that support economic freedom. For example, our digital wallet - which has 29 million downloads - provides people with an easy-to-use, non-custodial method for buying, selling, storing, sending, receiving, and trading cryptocurrencies.</p>
+<p>We are seeking a talented Java Backend Engineer who shares our vision.</p>
+<p>Tradfi, or âTraditional Financeâ, is our way of introducing users to the exciting world of cryptocurrency. Leveraging our world renowned brand, you will guide users as they take the first step from their bank account to their first decentralized wallet. By creating exciting opportunities such as educational tools, rewards tokens, crypto card, shared wallets and much more, the TradFi team is at the heart of every users journey at [bitcoin.com](http://bitcoin.com). If youâre ready to onboard millions of users into the cryptocurrency ecosystem, tradfi is the fit for you.</p>
+<p>The position will require the successful candidate to work inter-departmentally across Engineering and Product Management.</p>
+<p><strong>Role:</strong></p>
+<ol>
+<li>Build features, infrastructure, architecture and applications for world-class cryptocurrency products and services</li>
+<li>Able to lead and oversee coding at all levels of the stack including engineering design, setting and ensuring high standards and best practices</li>
+<li>Build robust solutions that scale globally.</li>
+<li>Able to work to tight deadlines</li>
+<li>Expressive in a collaborative way when new features need to built fast, or older features need to be shut down</li>
+<li>Communicates thoughts in a clear and concise way</li>
+</ol>
+<p><strong>Core </strong><strong>Competencies</strong></p>
+<ol>
+<li>3+ years of Java or other object oriented languages</li>
+<li>Experience using common Java frameworks (Spring, RxJava)</li>
+<li>Strong knowledge of object-oriented design</li>
+<li>Communicates well in both written and verbal English</li>
+</ol>
+<p><strong>Nice To Have:</strong></p>
+<ul>
+<li>Knowledge of working with Cassandra</li>
+<li>Worked with reactive frameworks</li>
+<li>Experience working within an Agile framework</li>
+</ul>
+<p><strong>Benefits</strong></p>
+<p>We are serious about what we do, but more importantly, we have a lot of fun doing it. Our work culture is modern, meaning we strive for work experiences based on transparency, productivity, trust, and passion. For all benefits include:</p>
+<ul>
+<li>Flexible work hours</li>
+<li>Remote work</li>
+<li>Health insurance reimbursement</li>
+<li>Wellness program (gym, etc.)</li>
+</ul>
+</div><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **EXCEPTIONAL** and tag RMzQuMjIyLjE5NS4zNA== when applying to show you read the job post completely (#RMzQuMjIyLjE5NS4zNA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8267/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +71,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-backend-engineer-python-10" align="right" target="_blank">Apply</a>
@@ -80,7 +141,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/adcopy-ai-senior-backend-engineer-for-ai-startup" align="right" target="_blank">Apply</a>
