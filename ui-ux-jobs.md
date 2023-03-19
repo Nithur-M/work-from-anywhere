@@ -1,80 +1,69 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1619652/logo" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/1142/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Bitsgap Holding OÜ</h5>
-                    <h3>Technical Writer / Technical writer with UX/UI writing skills</h3>
+                    <h5>CreateApe, inc.</h5>
+                    <h3> UX/UI Designer</h3>
                 </td>
                 <td width="300">
-                    <code>crypto,go,marketing,ui</code>
+                    <code>Design</code>
                 </td>
                 <td width="200">
                 <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/writing/technical-writer-technical-writer-with-ux-ui-writing-skills-1619652" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/createape-inc-ux-ui-designer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p><strong>Bitsgap </strong>is an aggregator of all major cryptocurrency exchanges and a trading automation platform with trading bots and algorithmic orders. The company has been on the market since 2017, and more than 500,000 traders have already used our technologies.</p>
-<p>We are looking for a <strong>technical writer</strong> who is interested in (crypto-)trading, fluent in written and spoken English, who will be responsible for writing technical documentation and reviewing UX / UI content.</p>
-<p>Reports to Head of Content.<br><br></p>
-<p><br><br></p>
-<p><strong>What is to be done?</strong></p>
-<ul style="">
-<li style="">Develop and maintain up to date technical documentation (manuals, instructions, etc.).</li>
-<li style="">Create product feature descriptions and update them as new releases come out.</li>
-<li style="">Maintain an internal knowledge base, document the processes of interaction between teams.</li>
-<li style="">Compile Release Notes for publication on the website and in app stores.</li>
-<li style="">Communicate product changes to customer and marketing teams.</li>
-<li style="">Regularly review outbound content for relevance.</li>
-<li style="">Maintain an external knowledge base, FAQ, product glossary and library of content components.</li>
-<li style="">Adjust product UX/UI content according to existing components and templates.</li>
-</ul>
-<p><br><br></p>
-<p><strong>Your experience and skills:</strong></p>
-<ul style="">
-<li style="">3 years experience as a technical writer in a product company.</li>
-<li style="">Experience in the fintech/crypto industry from 1 year.</li>
-<li style="">Competent Russian, the ability to explain technical details in simple terms.</li>
-<li style="">Skills of systematization, hierarchization and structuring of content, preparation of screenshots and screencasts.</li>
-<li style="">Advanced English (minimum B2).</li>
-<li style="">Practical knowledge of the basics of UX / UI writing, skills in working with Figma and Miro.</li>
-<li style="">Proficiency in Confluence and Notion.</li>
-<li style="">Methodical, attention to detail and independence.</li>
-</ul>
-<p><br><br><br></p>
-<p><strong>We offer:</strong></p>
-<ul style="">
-<li style="">Work from anywhere in the world in a team of seniors.</li>
-<li style="">Participation in the creation of a high-value product, the purpose of which is to benefit customers around the world.</li>
-<li style="">A unique opportunity to <strong>“be at the forefront”</strong> of the financial market, where a new future is being created.</li>
-<li style="">The right to implement your ideas in a dynamically developing product company.</li>
-<li style="">Work in an international company with European standards.</li>
-<li style="">Salary paid on time at the end of each month.</li>
-<li style="">21 days of paid vacation.</li>
-<li style="">Paid sick leave.</li>
-<li style="">Compensation for training courses and webinars.</li>
-</ul>
-<p> </p>
-<p><strong>Do you see yourself in this position?</strong></p>
-<ul style="">
-<li style="">Apply for a job.</li>
-<li style="">Write a cover letter explaining why we should select you and including links to your work. The applicants whose work samples are most interesting will receive an invitation to an interview.</li>
-</ul>
-<p> </p>
-<p><em>P.S.: If your resume and cover letter</em> <em>meets our expectations, then we will ask you to go through the following stages:</em></p>
-<ul style="">
-<li style=""><em>Initial interview with HR Manager (about 15-20 minutes);</em></li>
-<li style=""><em>Test assignment;</em></li>
-<li style=""><em>Interview with the Head of Content and HR Manager (up to 1 hour).</em></li>
-</ul>
-<p><em>The candidate who successfully passes the interview and completes the test with dignity will join our team.</em></p>
-<p><br><br></p>
-<img src="https://remotive.com/job/track/1619652/blank.gif?source=public_api" alt=""/>
+                <img src="https://we-work-remotely.imgix.net/logos/0082/1142/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Irvine, California
+    <br /><strong>URL:</strong> <a href="https://createape.com/">https://createape.com/</a>
+</p>
+
+<div>
+<a href="https://createape.com/jobs/#careers_our_openings"><strong>CreateApe</strong></a><strong> UI/UX Designer job description</strong>
+</div><div><br></div><div>This is a fully remote position, not restricted by commutes or a particular geographic area.</div><div>
+<strong>Office hours: Monday through Friday, 9AM - 5PM Pacific Daylight Time </strong>(<strong><em>PDT UTC-7</em></strong>), this position requires individuals to be available for meetings and duties <em>at least</em> a six (6) hour block during this window.</div><div><br></div><div><em>Who we are:</em></div><div>Create Ape is a fun and lean creative digital agency offering comprehensive solutions to your most pressing problems.  With over 20 years in the UX/UI design space, we know how to elevate your user’s experience and to translate that into real metrics you can actually see: more clients &amp; bigger sales.</div><div><br></div><div>Our passionate experts are leaders in their field, covering everything from digital strategy to design &amp; development.  Our mission is to provide our clients with unparalleled personalized solution-based service.  We commit to achieving these custom solutions and implementing them with a smile.</div><div><br></div><div><em>What we are looking for:</em></div><div>At CreateApe, UX/UI Designers are able to understand our clients’ business requirements and any technical limitations, as well as be responsible for conceiving and conducting user research, interviews and surveys, and translating them into sitemaps, user flows, customer journey maps, wireframes, mockups and prototypes. The UX designer will also be expected to design the overall functionality of the product, and in order to ensure a great user experience, iterate upon it in accordance with various feedback and user-testing criteria.  Our design team works closely with Sales, Marketing, Development and Project Management teams to ensure our clients and projects have strategic, seamless user experiences to elevate and optimize the client journey from end to end.</div><div><br></div><div>Responsibilities:</div><ul>
+<li>Translate concepts and requirements into user flows, wireframes, high fidelity mockups and prototypes that lead to intuitive user experiences and attractive user interfaces.</li>
+<li>Facilitate the client’s product vision by researching, conceiving, sketching, prototyping and user-testing experiences for digital products.</li>
+<li>Design and deliver wireframes, user stories, user journeys, and mockups optimized for a wide range of devices and interfaces.</li>
+<li>Identify design problems and devise elegant solutions.</li>
+<li>Make strategic design and user-experience decisions related to core, and new, functions and features.</li>
+<li>Take a user-centered design approach and rapidly test and iterate your designs.</li>
+<li>Collaborate with other team members and stakeholders.</li>
+<li>Ask smart questions, take risks and champion new ideas.</li>
+</ul><div>Type of work: </div><ul>
+<li>Informational sites </li>
+<li>Parallax sites </li>
+<li>Mobile Apps </li>
+<li>Complex web apps </li>
+<li>Wireframing + Prototypes (Holla @ Figma &amp; Invision yo!) </li>
+</ul><div>What you need to bring to the table: </div><ul>
+<li>Be able to work during our business hours (9 am to 5 pm PST). </li>
+<li>Be available throughout the day via slack/email/etc. </li>
+<li>Able to interface with clients and work with project managers on client needs. </li>
+<li>5 or more years of UX/UI design experience and a portfolio to back it up. </li>
+<li>Wizard with Figma</li>
+<li>Ability to create clickable prototypes using InVision. </li>
+<li>Experience with ClickUp to post and collaborate on projects. </li>
+<li>Extensive experience in using UX/UI design best practices to design solutions and a deep understanding of mobile-first and responsive design. </li>
+<li>Ability to iterate designs and solutions efficiently, quickly, and intelligently. <br><br>
+</li>
+</ul><div>Big bonus if you:</div><ul>
+<li>Have some print and or brand design chops working in Illustrator + InDesign </li>
+<li>Have basic knowledge of front end code (HTML. CSS, etc) </li>
+</ul><div><br></div><div>If you like what you see and want to get out of that commute… holla at us with your portfolio, resume, and seriously... an interesting cover page (or video introduction)!</div><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/createape-inc-ux-ui-designer">https://weworkremotely.com/remote-jobs/createape-inc-ux-ui-designer</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -89,7 +78,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
