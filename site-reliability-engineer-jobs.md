@@ -1,5 +1,128 @@
 <div align="center"><h2>SITE RELIABILITY ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/9154/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>DNSimple</h5>
+                    <h3> Site Reliability/Platform Engineer (SRE/SaaS)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/dnsimple-site-reliability-platform-engineer-sre-saas" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0083/9154/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Melbourne, Florida
+    <br /><strong>URL:</strong> <a href="https://dnsimple.com/">https://dnsimple.com/</a>
+</p>
+
+<h1>Description </h1><div>We are looking for an operations engineer (fully remote) to join our Security, Infrastructure, &amp; Performance (SIP) team. In this role, you and your team will work on the network, systems, and platform that run all of DNSimple’s in-house developed applications and manage our third-party software. <br><br>
+</div><h1>About the SIP team </h1><div>DNSimple runs a hybrid deployment environment running most of our infrastructure on globally deployed bare metal and augmenting this with AWS. We manage our own anycast authoritative DNS network, a second anycast DNS edge network, our URL redirector farm, and many other in-house applications. We use Infrastructure as code practices to manage all our systems and applications. <br><br>
+</div><h1>About the job </h1><div>As a member of the Security, Infrastructure, and Performance team, your work will directly impact our customers by operating and enhancing the services we provide. Your work will also directly affect the other engineering teams by helping manage deploys and runtimes. You will also contribute directly to the business team through observability and business intelligence work. You will also help us ensure business continuity by maintaining our disaster recovery procedures. <br> <br>The position offers a diverse set of challenges, including managing BGP for multiple global anycast networks, working to provide stable and performant DNS services, and managing monitoring &amp; observability systems. We work heavily with Chef-Infra, InSpec, Docker, and PowerDNS, and manage the deployment of many different languages inside of DNSimple. <br> <br>Our team dedicates time to customer support because we want to foster the shared responsibility of helping customers. We believe in the value of regular exposure to this topic. <br> <br>Here are some projects you might contribute to: <br><br>
+</div><ul>
+<li>Expanding our edge network to provide robust and fast DNS service.</li>
+<li>Enhancing and expanding our CI, CD, and packaging.</li>
+<li>Building and maintaining a new application deployment and lifecycle platform. </li>
+<li>Building out a new query volume observability system. </li>
+<li>Designing and deploying DNS service enhancements. </li>
+<li>Enhancing and expanding our queries for our BI system. </li>
+<li>Troubleshooting and optimizing performance issues. </li>
+<li>Responding to and proactively addressing security issues and patching. </li>
+<li>Providing <a href="https://blog.dnsimple.com/2021/04/how-we-support-our-customers-reflection/">direct support to our customers</a>. <br><br>
+</li>
+</ul><h1>Requirements </h1><ul>
+<li>You have direct experience working as an operations engineer — preferably with solid Chef-Infra and Ubuntu knowledge. </li>
+<li>You enjoy working with various languages like SQL, Ruby, and Golang. </li>
+<li>You have experience with CI and CD systems and containerization. </li>
+<li>Experience managing Postgresql, DNS systems, and BGP networking are all pluses. </li>
+<li>You are willing to work independently in your timezone and pair on tasks during overlap with your teammates.  </li>
+<li>You are proficient in the English language, both written and verbal, sufficient for success in a remote and primarily asynchronous work environment. <br><br>
+</li>
+</ul><h1>Benefits </h1><div>We offer compensation from 7000 USD/month to 8000 USD/month for the position, depending on your experience. <br> <br>DNSimple is a 100% remote company. We offer flexible schedules, and you can work from anywhere. <br> <br>We are a multinational team that cares for its team members. We are open and welcoming to everyone regardless of race, religion, gender, or sexual orientation. <br> <br>As part of the team, your input and feedback are not only welcome, they're anticipated. We're a small team and everyone's opinions matter. <br><br>
+</div><h1>How to apply </h1><div>If based on your application we believe you could be a great fit, the rest of the hiring process will follow these steps: <br> </div><ol>
+<li>A short (up to 30-minute) video call where we try to see if there is a technical/cultural fit between you and DNSimple. </li>
+<li>You’ll be asked to complete a coding test that we’ll review. Upon successful completion, you’ll be invited to schedule an interview with a member of our Engineering team.  </li>
+<li>Next, you'll be invited to schedule an interview with our VP of Engineering. </li>
+<li>Finally, you’ll meet with our CEO who will conduct the final interview. </li>
+</ol><div>
+<br>We always try to be timely and transparent during the process by providing feedback and sharing our decisions. We look forward to receiving your submission! <br> <br><em>DNSimple asks respectfully to </em><strong><em>only apply through the application form and not email/apply to them directly.</em></strong><em> Recruiters and Agencies please do not contact DNSimple directly.</em>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/dnsimple-site-reliability-platform-engineer-sre-saas">https://weworkremotely.com/remote-jobs/dnsimple-site-reliability-platform-engineer-sre-saas</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/0772/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sticker Mule</h5>
+                    <h3> Site Reliability Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>150 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/sticker-mule-site-reliability-engineer-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0082/0772/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> New York, NY
+    <br /><strong>URL:</strong> <a href="https://www.stickermule.com">https://www.stickermule.com</a>
+</p>
+
+<div>
+<strong>About Sticker Mule</strong><br>Sticker Mule is the Internet's most "kick ass" brand. We are privately-owned, profitable, and powered by a globally distributed team that enjoys building happy customer experience at the highest technical standards. Our software team operates from 17 countries, and we're always looking for more exceptional engineers.</div><div>
+<br><br>The SRE team is responsible for building, maintaining and securing our services infrastructure, while participating in the weekly on-call schedule.</div><div><a href="https://www.stickermule.com/about"><strong><br>See more about our teams here</strong></a></div><div><strong><br>We offer</strong></div><ol>
+<li>Remote work with flexible schedules</li>
+<li>A privately owned, low-stress culture</li>
+<li>A fun "no bullshit" work environment</li>
+</ol><div><strong><br>We like you to know</strong></div><ol>
+<li>Docker</li>
+<li>Kubernetes</li>
+<li>GCP</li>
+<li>AWS</li>
+<li>Go</li>
+<li>Postgres</li>
+<li>Redis</li>
+<li>Familiarity with JavaScript</li>
+<li>Excellent communication skills (English)</li>
+<li>Degree in Computer Science or equivalent practical experience</li>
+</ol><div><strong><br>Challenges</strong></div><ol>
+<li>Build CI and CD pipelines</li>
+<li>Optimize and scale workloads</li>
+<li>Secure containers and web services</li>
+</ol><div><strong><br>Compensation and benefits</strong></div><ol>
+<li>Salary: $135k+ based on experience</li>
+<li>$20,000 signing bonus</li>
+<li>4 weeks vacation + holidays based on your country of residence</li>
+</ol><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-site-reliability-engineer-1">https://weworkremotely.com/remote-jobs/sticker-mule-site-reliability-engineer-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1387074696831672327/C7WTpiAb_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
