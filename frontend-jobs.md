@@ -10,7 +10,7 @@
                     <code>frontend,design,crypto,ethereum,react,front-end,security,technical,support,software,growth,ui,code,web,javascript,typescript,senior,analytics,recruiting,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-ecosystem-op-labs-200893" align="right" target="_blank">Apply</a>
@@ -61,7 +61,7 @@
 <li>We are a team of buildersâour founding team has been working on Ethereum scalability since 2015.</li>
 </ul>
 <p><strong>We strongly encourage candidates of all different backgrounds to apply.</strong> We believe that our work is stronger with a variety of perspectives, and weâre eager to further diversify our company. If you have a background that you feel would make an impact at Optimism, please consider applying. Weâre committed to building an inclusive, supportive place for you to do the best work of your career.</p>
-</div><br/><br/>Please mention the word **OVERTAKE** and tag RMzUuMjAzLjI1NS45Nw== when applying to show you read the job post completely (#RMzUuMjAzLjI1NS45Nw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **OVERTAKE** and tag RMTA3LjE3OC4yMzEuMjM4 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjM4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -76,7 +76,7 @@
                     <code>web3,frontend,defi,crypto,react,system,front-end,cto,technical,software,code,web,financial,senior,marketing,analytics,engineer,engineering</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-frontend-web3-engineer-premia-jobs-200892" align="right" target="_blank">Apply</a>
@@ -88,7 +88,7 @@
                 <div><b>Senior Frontend & Web3 Engineer - Remote</b></div><div><br></div><div>Premia is a decentralized options platform connecting traders and liquidity providers of all backgrounds.  Offering non-custodial options to hedge, speculate, or earn yield on your digital assets.  Premia offers first of its kind automated market maker solutions in the DeFi space for Options Contracts through our use of Smart Liquidity Pools and Dynamic Pricing.  Premia enables best-in-class pricing based on market volatility, providing fully-featured peer-to-pool trading and capital efficiency to DeFi options.</div><div> </div><div>We are one of the smallest and most impactful teams in crypto. We are a globally distributed organization, with all positions being fully remote.</div><div> </div><div>Weâre looking for a passionate, self-motivated engineer to help us build the next generation of financial products. As a dedicated frontend hire, you will gain ownership over our existing suite of web products, as well as the ability to influence the creation, design, and execution of future products. You will be responsible for ensuring a consistent, high-quality user experience across trading interfaces, data-heavy analytics pages, documentation portals and more.</div><div><b> </b></div><div><b>Who are you?</b></div><div><span style="font-size:11pt;">A senior-level front-end engineer (JS/TS + React veteran) who is also crypto-native. At the very least, you understand and hold crypto assets or ideally have developed decentralized applications leveraging blockchain technology before, preferably EVM-compatible. </span></div><div><br></div><div><span style="font-size:11pt;">You are passionate about building bleeding-edge technology for the next iteration of the internet with the use of cryptography and understand the necessity for building beautiful and user-friendly GUIs in order to facilitate the transition to web3. </span></div><div><br></div><div><span style="font-size:11pt;">You have experience and are culturally aligned with fast-moving small teams. You have worked at remote (globally distributed) startups before. You are self-driven, are comfortable wearing many hats, can ship patches and features swiftly when needed. You can identify company priorities, own them, and iterate quickly to ship the best solution.</span></div><div><br></div><div><span style="font-size:11pt;">You can write and speak fluent English and have great communication skills.</span></div><div><br></div><div><b>The Role:</b></div><div><span style="font-size:11pt;">Engineers at Premia work with our CTO and our existing engineering team to innovate, architect, and develop user-facing features and new iterations of the Premia app, as well as our event indexing system (The Graph).</span></div><div><br></div><div><span style="font-size:11pt;">In addition, you will work closely with other departments such as Design, QA, Operations, and Marketing teams to successfully execute the implementation, testing, and deployment of new features.</span></div><div><br></div><div><span style="font-size:11pt;">As a senior engineer, you will help (mentor) other members of the team, and will make sure components and app pages are well optimized and running smoothly. </span></div><div><br></div><div><b>Responsibilities</b></div><div><span style="font-size:11pt;">-Design, scope, and estimate complex features at the component level.</span></div><div><span style="font-size:11pt;">-Build, test, and ship features, patches, and updates to our web app.</span></div><div><span style="font-size:11pt;">-Collaborate with the team and cross-functional partners on all aspects of product development.</span></div><div><span style="font-size:11pt;">-Identify and advocate for team-wide areas of improvement and best practices.</span></div><div><span style="font-size:11pt;">-Mentor team members to refine their technical and architectural skills.</span></div><div><span style="font-size:11pt;">-Help maintain our subgraph repository written in AssemblyScript (JS subset)</span></div><div><br></div><div><b>Requirements</b></div><div><span style="font-size:11pt;">-Experience owning and shipping products</span></div><div><span style="font-size:11pt;">-5+ years of industry experience in software engineering</span></div><div>
 <span style="font-size:11pt;">-A mastery of Javascript, Typescript, and React with an understanding of encryption and cryptography </span> <span style="font-size:11pt;">fundamentals.</span>
 </div><div><span style="font-size:11pt;">-Experience working with GraphQL</span></div><div><span style="font-size:11pt;">-Basic web3 understanding: Wallets, transactions, explorers, POW/POS, gas price, etc.</span></div><div><span style="font-size:11pt;">-Ability to quickly iterate and ship code using test-driven development patterns</span></div><div><span style="font-size:11pt;">-Ability to build modern, event-driven React frontends, converting Figma designs into functional components</span></div><div><span style="font-size:11pt;">-Mastery of CSS, preferably via a library like MaterialUI</span></div><div><span style="font-size:11pt;">-Experience with version control, such as Git</span></div><div><span style="font-size:11pt;">-Knowledge of engineering best practices such as continuous integration</span></div><div><span style="font-size:11pt;">-Exceptional judgment, problem-solving skills, and an analytical mindset</span></div><div><span style="font-size:11pt;">-Ability to work in areas beyond your comfort zone and motivated by personal growth</span></div><div><span style="font-size:11pt;">-A passion for learning and a self-awareness of your learning style</span></div><div><span style="font-size:11pt;">-(Nice to have) Previous experience with web3.js or ethers.js libraries. </span></div><div><br></div><div><b>Benefits</b></div><div>Work from anywhere (Remote first), Flexible working hours, Flexible vacation policy, Competitive Salary + Token bonus (portion or all can be paid in Crypto).  Premia is committed to a diverse and inclusive workplace and is an equal opportunity employer. We do not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.</div><div><br></div><div>Premia welcomes all qualified persons to apply. Compensation will be competitive and commensurate with experience. This is a full time role.</div><div><br></div><div>To find out more you can view their website at <a href="https://premia.finance/" class="postings-link" rel="noopener noreferrer nofollow">https://premia.finance/</a>
-</div><br/><br/>Please mention the word **EXPERTLY** and tag RMzUuMjAzLjI1NS45Nw== when applying to show you read the job post completely (#RMzUuMjAzLjI1NS45Nw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **EXPERTLY** and tag RMTA3LjE3OC4yMzEuMjM4 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjM4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -103,7 +103,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-frontend-engineer-angular-2" align="right" target="_blank">Apply</a>
@@ -172,6 +172,67 @@
 </div><div>If you’re hired, I’ll do everything I can to help you succeed at <a href="https://www.testgorilla.com/">TestGorilla</a> and throughout the rest of your career.</div>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-frontend-engineer-angular-2">https://weworkremotely.com/remote-jobs/testgorilla-senior-frontend-engineer-angular-2</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/9371/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sticker Mule</h5>
+                    <h3> Software engineer (Frontend)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>150 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-frontend" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0018/9371/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> New York, NY
+    <br /><strong>URL:</strong> <a href="https://www.stickermule.com/careers">https://www.stickermule.com/careers</a>
+</p>
+
+<div><strong>About Sticker Mule</strong></div><div>
+<br>Sticker Mule is the Internet's most "kick ass" brand. We are privately-owned, profitable, and powered by a globally distributed team that enjoys building happy customer experience at the highest technical standards. Our software team operates from 17 countries, and we're always looking for more exceptional engineers.</div><div><a href="https://www.stickermule.com/about"><strong><br>See more about our teams here</strong></a></div><div><br></div><div><strong><br>We offer</strong></div><ol>
+<li>Remote work with flexible schedules</li>
+<li>A privately owned, low-stress culture.</li>
+<li>A fun "no bullshit" work environment</li>
+</ol><div><strong><br>We like you to know</strong></div><ol>
+<li>Docker</li>
+<li>NextJS</li>
+<li>TypeScript</li>
+<li>React</li>
+<li>NodeJS</li>
+<li>GraphQL</li>
+<li>Postgres</li>
+<li>Redis</li>
+<li>Familiarity with Ruby</li>
+<li>Excellent communication skills (English)</li>
+<li>Degree in Computer Science or equivalent practical experience</li>
+</ol><div><br></div><div><strong>Challenges</strong></div><ol>
+<li>Improve and expand our React shared components gallery</li>
+<li>Migrate a large Rails code base to JavaScript front-ends and back-ends</li>
+<li>Maintain optimal front-end performance on desktop and mobile</li>
+</ol><div><strong><br>Compensation and benefits</strong></div><ol>
+<li>Salary: $135k+ based on experience</li>
+<li>$20,000 signing bonus</li>
+<li>4 weeks vacation + holidays based on your country of residence</li>
+</ol><div>
+<br><br><br>
+</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-frontend">https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-frontend</a></p>
 
                 </details>
                 </td>
