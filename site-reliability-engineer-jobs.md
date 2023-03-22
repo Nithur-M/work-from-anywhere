@@ -1,69 +1,5 @@
 <div align="center"><h2>SITE RELIABILITY ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/9154/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>DNSimple</h5>
-                    <h3> Site Reliability/Platform Engineer (SRE/SaaS)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/dnsimple-site-reliability-platform-engineer-sre-saas" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0083/9154/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Melbourne, Florida
-    <br /><strong>URL:</strong> <a href="https://dnsimple.com/">https://dnsimple.com/</a>
-</p>
-
-<h1>Description </h1><div>We are looking for an operations engineer (fully remote) to join our Security, Infrastructure, &amp; Performance (SIP) team. In this role, you and your team will work on the network, systems, and platform that run all of DNSimple’s in-house developed applications and manage our third-party software. <br><br>
-</div><h1>About the SIP team </h1><div>DNSimple runs a hybrid deployment environment running most of our infrastructure on globally deployed bare metal and augmenting this with AWS. We manage our own anycast authoritative DNS network, a second anycast DNS edge network, our URL redirector farm, and many other in-house applications. We use Infrastructure as code practices to manage all our systems and applications. <br><br>
-</div><h1>About the job </h1><div>As a member of the Security, Infrastructure, and Performance team, your work will directly impact our customers by operating and enhancing the services we provide. Your work will also directly affect the other engineering teams by helping manage deploys and runtimes. You will also contribute directly to the business team through observability and business intelligence work. You will also help us ensure business continuity by maintaining our disaster recovery procedures. <br> <br>The position offers a diverse set of challenges, including managing BGP for multiple global anycast networks, working to provide stable and performant DNS services, and managing monitoring &amp; observability systems. We work heavily with Chef-Infra, InSpec, Docker, and PowerDNS, and manage the deployment of many different languages inside of DNSimple. <br> <br>Our team dedicates time to customer support because we want to foster the shared responsibility of helping customers. We believe in the value of regular exposure to this topic. <br> <br>Here are some projects you might contribute to: <br><br>
-</div><ul>
-<li>Expanding our edge network to provide robust and fast DNS service.</li>
-<li>Enhancing and expanding our CI, CD, and packaging.</li>
-<li>Building and maintaining a new application deployment and lifecycle platform. </li>
-<li>Building out a new query volume observability system. </li>
-<li>Designing and deploying DNS service enhancements. </li>
-<li>Enhancing and expanding our queries for our BI system. </li>
-<li>Troubleshooting and optimizing performance issues. </li>
-<li>Responding to and proactively addressing security issues and patching. </li>
-<li>Providing <a href="https://blog.dnsimple.com/2021/04/how-we-support-our-customers-reflection/">direct support to our customers</a>. <br><br>
-</li>
-</ul><h1>Requirements </h1><ul>
-<li>You have direct experience working as an operations engineer — preferably with solid Chef-Infra and Ubuntu knowledge. </li>
-<li>You enjoy working with various languages like SQL, Ruby, and Golang. </li>
-<li>You have experience with CI and CD systems and containerization. </li>
-<li>Experience managing Postgresql, DNS systems, and BGP networking are all pluses. </li>
-<li>You are willing to work independently in your timezone and pair on tasks during overlap with your teammates.  </li>
-<li>You are proficient in the English language, both written and verbal, sufficient for success in a remote and primarily asynchronous work environment. <br><br>
-</li>
-</ul><h1>Benefits </h1><div>We offer compensation from 7000 USD/month to 8000 USD/month for the position, depending on your experience. <br> <br>DNSimple is a 100% remote company. We offer flexible schedules, and you can work from anywhere. <br> <br>We are a multinational team that cares for its team members. We are open and welcoming to everyone regardless of race, religion, gender, or sexual orientation. <br> <br>As part of the team, your input and feedback are not only welcome, they're anticipated. We're a small team and everyone's opinions matter. <br><br>
-</div><h1>How to apply </h1><div>If based on your application we believe you could be a great fit, the rest of the hiring process will follow these steps: <br> </div><ol>
-<li>A short (up to 30-minute) video call where we try to see if there is a technical/cultural fit between you and DNSimple. </li>
-<li>You’ll be asked to complete a coding test that we’ll review. Upon successful completion, you’ll be invited to schedule an interview with a member of our Engineering team.  </li>
-<li>Next, you'll be invited to schedule an interview with our VP of Engineering. </li>
-<li>Finally, you’ll meet with our CEO who will conduct the final interview. </li>
-</ol><div>
-<br>We always try to be timely and transparent during the process by providing feedback and sharing our decisions. We look forward to receiving your submission! <br> <br><em>DNSimple asks respectfully to </em><strong><em>only apply through the application form and not email/apply to them directly.</em></strong><em> Recruiters and Agencies please do not contact DNSimple directly.</em>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/dnsimple-site-reliability-platform-engineer-sre-saas">https://weworkremotely.com/remote-jobs/dnsimple-site-reliability-platform-engineer-sre-saas</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/0772/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -74,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>150 days ago</text>
+                <text>152 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-site-reliability-engineer-1" align="right" target="_blank">Apply</a>
@@ -119,6 +55,31 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-site-reliability-engineer-1">https://weworkremotely.com/remote-jobs/sticker-mule-site-reliability-engineer-1</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1570347/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>SportyBet</h5>
+                    <h3>Site Reliability Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>AWS,azure,cloud,DBA</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/devops/site-reliability-engineer-1570347" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><span style="font-weight: 600; color: rgb(232, 230, 227); letter-spacing: 0.75px; --darkreader-inline-color:#d8d4cf;">Who are we?</span></p><p><br>Sporty's sites are some of the most popular on the internet, consistently staying in Alexa's list of top websites for the countries they operate in</p><p><br></p><p>In addition to our DevOps Team we are building a Site Reliability Team whose purpose is to focus on site reliability and security. It will also involved deployment, configuration, and monitoring, as well as the availability, latency, change management, emergency response, and capacity management of services in production.</p><p><br></p><p><span style="font-weight: 600; color: rgb(232, 230, 227); letter-spacing: 0.75px; --darkreader-inline-color:#d8d4cf;">Responsibilities</span></p><p><br></p><p>Work with a team of DevOps/SRE and DBA professionals</p><p>Improve existing infrastructure and processes in the 6 countries we're currently deployed in as well as streamlining processes deploy to new countries in the future</p><p>Holistically improve all aspects of our current infrastructure including: reducing costs; streamlining environment provisioning; lowering response times and incorporating the latest techniques and technologies</p><p>Monitor and maintain the existing cloud infrastructure via autoscaling, automated alerts, andOpsWork and Grafana dashboards</p><p>Take ownership and responsibility for our cloud operation activities</p><p>Liaise with external security agencies for annual audits as well as perform our own internal security sweeps</p><p>Aid in reconfiguring existing architecture to allow for rapid deployments to new countries</p><p>Mentoring less experienced team members</p><p><br></p><p><span style="font-weight: 600; color: rgb(232, 230, 227); letter-spacing: 0.75px; --darkreader-inline-color:#d8d4cf;">Requirements</span></p><p><br></p><ul style=""><li style="">3+ years SRE experience</li><li style="">Experience independently leading the planning and deployment of a project</li><li style="">Experienced with cloud platforms, especially AWS, including solid knowledge of how to utilize cloud resources to fulfill the demand from other teams and production</li><li style="">Familiar with one program language or script language (Python, Java....)</li><li style="">Experience managing multiple kubernetes clusters in production (virtualization, orchestration, scalability, security, and high availability), skillset such as Helm, Rancher, ArgoCD.</li><li style="">Solid networking protocol and cyber security knowledge, especially the TCP / IP stack and HTTP protocol </li><li style="">A strong understanding of cache, including CDN, HTTP cache (CloudFlare, AWS CloudFront)</li><li style="">Experienced with CloudNative Monitoring solution in Large distributed system using observation model(Trace, Metric, Logging), skillset such as Prometheus, Jaeger, Loki, ELK, Grafana.</li><li style="">Excellent troubleshooting skills, including Linux OS issue diagnosis and OS parameter optimization</li></ul><p><span style="font-weight: 600; color: rgb(232, 230, 227); letter-spacing: 0.75px; --darkreader-inline-color:#d8d4cf;"><br></span></p><p><span style="font-weight: 600; color: rgb(232, 230, 227); letter-spacing: 0.75px; --darkreader-inline-color:#d8d4cf;">Beneficial </span></p><p><br></p><ul style=""><li style="">Experience working with other cloud platform is a plus. (GCP, Azure, AliCloud)</li><li style="">Familiar with at least one of infrastructure as Code (Terraform, Cloudformation)</li><li style="">Design and implement CI/CD workflow is a plus (Jenkins, Github Action)</li><li style="">Experience with system automation tools (Ansible, Salt, Chef)</li><li style="">Understanding of modern Micro Services and Service Mesh concepts is a plus(Containers, Istio)</li></ul><p><br></p><p style="text-size-adjust: 100%; overflow-wrap: break-word; color: rgb(209, 205, 199); --darkreader-inline-color:#c8c3bc;"><span style="text-size-adjust: 100%;">Interview Process</span></p><p style="color: rgb(209, 205, 199); text-size-adjust: 100%; overflow-wrap: break-word; --darkreader-inline-color:#c8c3bc;"><br style="text-size-adjust: 100%;"></p><ul style=""><li style="">HackerRank Test<br style="border-color: initial; --darkreader-inline-border-top: initial; --darkreader-inline-border-right: initial; --darkreader-inline-border-bottom: initial; --darkreader-inline-border-left: initial;"></li><li style=""><p>Remote video screening + ID check with our Talent Acquisition Team </p></li><li style="">Remote 90 Minute Video Interview with 3x Team Members (30 Minutes Each)</li><li style="">24-72 hour feedback loops throughout process</li></ul><p><br></p><p><span style="font-weight: 600; color: rgb(232, 230, 227); letter-spacing: 0.75px; --darkreader-inline-color:#d8d4cf;"> Benefits</span></p><p><br></p><p>Quarterly and flash bonuses</p><p>Flexible working hours</p><p>Top-of-the-line equipment</p><p>Referral bonuses</p><p>28 days paid annual leave</p><p>Annual company retreat - we all went to Dubai in 2022 and are planning 2 more retreats for 2023!</p><p>Highly talented, dependable co-workers in a global, multicultural organisation</p><p>Payment via DEEL, a world class online wallet system </p><p>We score 100% on The Joel Test</p><p>Our teams are small enough for you to be impactful</p><p>Our business is globally established and successful, offering stability and security to our Team Members</p>
+<img src="https://remotive.com/job/track/1570347/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
