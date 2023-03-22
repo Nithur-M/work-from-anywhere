@@ -1,66 +1,5 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/4c9d87305c54f175ce2a8b14962fd82f1677482150.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>BitcoinCom</h5>
-                    <h3>Backend Engineer TradFi</h3>
-                </td>
-                <td width="300">
-                    <code>crypto,cryptocurrency,support,bank,java,lead,engineer,engineering,educational,backend</code>
-                </td>
-                <td width="200">
-                <text>22 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-tradfi-bitcoincom-200895" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="styles--2BkR3">
-<p>Bitcoin.com's mission is to create more 'economic freedom' in the world. By economic freedom we mean the ability for individuals to freely acquire and use personal resources however they choose. We assert that economic freedom is a fundamental human right and a vital component of human dignity, and we believe that it is foundational for peaceful and prosperous societies.</p>
-<p>Our vision is to provide the next billion people with access to products that exemplify the ideals of Bitcoin. These ideals - which include peer-to-peer transactions, decentralization, censorship resistance, and permissionless-ness - support economic freedom.</p>
-<p>Our approach is to develop and promote widely accessible products that support economic freedom. For example, our digital wallet - which has 29 million downloads - provides people with an easy-to-use, non-custodial method for buying, selling, storing, sending, receiving, and trading cryptocurrencies.</p>
-<p>We are seeking a talented Java Backend Engineer who shares our vision.</p>
-<p>Tradfi, or âTraditional Financeâ, is our way of introducing users to the exciting world of cryptocurrency. Leveraging our world renowned brand, you will guide users as they take the first step from their bank account to their first decentralized wallet. By creating exciting opportunities such as educational tools, rewards tokens, crypto card, shared wallets and much more, the TradFi team is at the heart of every users journey at [bitcoin.com](http://bitcoin.com). If youâre ready to onboard millions of users into the cryptocurrency ecosystem, tradfi is the fit for you.</p>
-<p>The position will require the successful candidate to work inter-departmentally across Engineering and Product Management.</p>
-<p><strong>Role:</strong></p>
-<ol>
-<li>Build features, infrastructure, architecture and applications for world-class cryptocurrency products and services</li>
-<li>Able to lead and oversee coding at all levels of the stack including engineering design, setting and ensuring high standards and best practices</li>
-<li>Build robust solutions that scale globally.</li>
-<li>Able to work to tight deadlines</li>
-<li>Expressive in a collaborative way when new features need to built fast, or older features need to be shut down</li>
-<li>Communicates thoughts in a clear and concise way</li>
-</ol>
-<p><strong>Core </strong><strong>Competencies</strong></p>
-<ol>
-<li>3+ years of Java or other object oriented languages</li>
-<li>Experience using common Java frameworks (Spring, RxJava)</li>
-<li>Strong knowledge of object-oriented design</li>
-<li>Communicates well in both written and verbal English</li>
-</ol>
-<p><strong>Nice To Have:</strong></p>
-<ul>
-<li>Knowledge of working with Cassandra</li>
-<li>Worked with reactive frameworks</li>
-<li>Experience working within an Agile framework</li>
-</ul>
-<p><strong>Benefits</strong></p>
-<p>We are serious about what we do, but more importantly, we have a lot of fun doing it. Our work culture is modern, meaning we strive for work experiences based on transparency, productivity, trust, and passion. For all benefits include:</p>
-<ul>
-<li>Flexible work hours</li>
-<li>Remote work</li>
-<li>Health insurance reimbursement</li>
-<li>Wellness program (gym, etc.)</li>
-</ul>
-</div><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **EXCEPTIONAL** and tag RMTA3LjE3OC4yMzEuMjM4 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjM4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8267/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -71,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-backend-engineer-python-10" align="right" target="_blank">Apply</a>
@@ -131,41 +70,60 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/8563/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>AdCopy.ai</h5>
-                    <h3> Senior Backend Engineer for AI Startup</h3>
+                    <h5>Sticker Mule</h5>
+                    <h3> Software Engineer (Backend)</h3>
                 </td>
                 <td width="300">
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>61 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/adcopy-ai-senior-backend-engineer-for-ai-startup" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-backend" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0083/8563/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
-  <strong>Headquarters:</strong> Tampa, Florida
-    <br /><strong>URL:</strong> <a href="https://adcopy.ai">https://adcopy.ai</a>
+  <strong>Headquarters:</strong> New York, NY
+    <br /><strong>URL:</strong> <a href="https://www.stickermule.com/careers">https://www.stickermule.com/careers</a>
 </p>
 
-<div>Hey there!</div><div><br></div><div>Tony here, founder of AdCopy.ai.</div><div><br></div><div>We're currently in Beta of our direct response ad copywriting software that we are now seeking to take to the next level!</div><div><br></div><div>As our backend engineer you will be a pivotal part of our core team and help us build the scalable foundation associated with our product roadmap. We're poised to reach tremendous heights and would love to have you join us for the ride if it's a good fit.</div><div><br></div><div>In this project you'll be working with another developer as we aim to create the most innovative ad writing and data software on the market.</div><div><br></div><div>
-<strong>(Boring) But Necessary Requirements<br></strong><br>
-</div><div>- Liquid/HTML/CSS/JS/JSON</div><div>- Fluent English</div><div>- Strong communication skills</div><div>- Strong understanding of how to aggregate mass amounts of data and usage.</div><div>- Experience or ability to work with AI tech such as machine learning to train models on big datasets.</div><div><br></div><div>
-<strong>Nice-to-have Skills<br></strong><br>
-</div><div>- Experience with OpenAI API</div><div>- Understanding of AI Content Generation</div><div>- Familiarity with Facebook Marketing API or Adwords API</div><div>- High level of curiosity</div><div>- Understanding of Data Science</div><div>- Machine Learning experience</div><div>- Ability to think outside the box. We want to see you contribute to our innovation!</div><div><br></div><div>Please <strong>DO NOT APPLY</strong> if you are reaching out on behalf of an agency or aren't fully capable of completing the scope at hand at a high level...</div><div><br></div><div>But If this sounds like something you can tackle with confidence - start your cover letter with AdCopy to get bumped up the stack and we'll begin to discuss things!<br><br>We are open to full or part time applicants.</div><div><br></div><div>
-<strong>Compensation &amp; Perks (the good stuff)<br></strong><br>
-</div><div>- Competitive hourly rates for premium developer talent.</div><div>- Company allowances for wellness, learning and growth</div><div>- Flexible schedule and fully remote work</div><div>- Massive room for growth and shareholder opportunities on the table. You are an early and core team member.</div><div>- Get to develop something that will be ahead of the curve for advertising data.  Join us in innovation.</div><div>- Become part of a long term meaningful project that can result in a full time opportunity with full benefits</div><div><br></div><div>Thanks for reading and we hope to find our perfect match soon :')</div><div><br></div><div>Look forward to connecting with some amazing talent soon.</div><div><br></div><div>Sincerely,</div><div>Tony &amp; the AdCopy.ai Team</div>
+<div><strong>About Sticker Mule</strong></div><div>
+<br>Sticker Mule is the Internet's most "kick ass" brand. We are privately-owned, profitable, and powered by a globally distributed team that enjoys building happy customer experience at the highest technical standards. Our software team operates from 17 countries, and we're always looking for more exceptional engineers.</div><div><a href="https://www.stickermule.com/about"><strong><br>See more about our teams here</strong></a></div><div><strong><br>We offer</strong></div><ol>
+<li>Remote work with flexible schedules</li>
+<li>A privately owned, low-stress culture.</li>
+<li>A fun "no bullshit" work environment</li>
+</ol><div><br></div><div><strong>We like you to know</strong></div><ol>
+<li>Docker</li>
+<li>Ruby</li>
+<li>Rails</li>
+<li>TypeScript</li>
+<li>NodeJS</li>
+<li>GraphQL</li>
+<li>Postgres</li>
+<li>Redis</li>
+<li>Familiarity with React</li>
+<li>Excellent communication skills (English)</li>
+<li>Degree in Computer Science or equivalent practical experience</li>
+</ol><div><strong><br>Challenges</strong></div><ol>
+<li>Improve and expand our GraphQL APIs</li>
+<li>Migrate a large Rails code base to NodeJS services</li>
+<li>Maintain optimal back-end performance</li>
+</ol><div><br></div><div><strong>Compensation and benefits</strong></div><ol>
+<li>Salary: $135k+ based on experience</li>
+<li>$20,000 signing bonus</li>
+<li>4 weeks vacation + holidays based on your country of residence</li>
+</ol>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/adcopy-ai-senior-backend-engineer-for-ai-startup">https://weworkremotely.com/remote-jobs/adcopy-ai-senior-backend-engineer-for-ai-startup</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-backend">https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-backend</a></p>
 
                 </details>
                 </td>
