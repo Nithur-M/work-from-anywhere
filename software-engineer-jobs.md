@@ -1,5 +1,39 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/9203/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Power Diary</h5>
+                    <h3> Software Engineer (work-from-home)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/power-diary-software-engineer-work-from-home" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0083/9203/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Australia
+    <br /><strong>URL:</strong> <a href="https://www.powerdiary.com/?gclid=CjwKCAjw_MqgBhAGEiwAnYOAeops6fpFU8duLSxGdazubyASdoX1WrIMRE_YtgqQkb5qxoZIMR--DxoCKj8QAvD_BwE">https://www.powerdiary.com/?gclid=CjwKCAjw_MqgBhAGEiwAnYOAeops6fpFU8duLSxGdazubyASdoX1WrIMRE_YtgqQkb5qxoZIMR--DxoCKj8QAvD_BwE</a>
+</p>
+
+<div>        BE A PART OF A HIGHLY SKILLED ENGINEERING TEAM! <br> <br>Join Agile Organization that doesn’t get bogged down with stifling processes or paperwork! <br> <br>Power Diary is a fast-growing, values-driven company with all the right ingredients to put you on your path! <br> <br>Join a great team, work remotely, AND contribute to the provision of healthcare! <br> <br>  <br> <br>What is the role? <br> <br>We are looking for the people who embrace teamwork. You could have a couple of years under your belt, or be an experienced <br> <br>full stack developer, you will find challenging and interesting work in a fun environment with us! <br> <br>  <br> <br>What will you do? <br> <br>On a day-to-day basis, your responsibilities and activities will include; <br> <br>Work in a self-managing, cross functional team, contributing to future implementation and system improvement; <br>Collaborate with team members and product department on agreed road map; <br>Take on own tasks and projects, complete required research and collaborate with team members to find solution; <br>Take ownership of workload and deliver on task to agreed timelines; <br>Make suitable improvements to the code base when possible: <br>Provide clear comments on work, following company and industry-standard guidelines. <br>  <br> <br>Who are we looking for? <br> <br>Qualification on computer science field or equivalent experience; <br>Several years experience working on full-stack development; <br>Ability to collaborate with colleagues and partake in healthy debate to find solutions; <br>Always interested in learning new things; <br>Pragmatic problem solver and detail oriented; <br>Precise in code, communication and documentation. <br> <br> <br>Why you’ll LOVE working at Power diary… <br> <br>When you join Power Diary, you’ll benefit from perks like; <br> <br>✅ Work from Anywhere <br> <br>There are no offices at Power Diary as we’ve been a distributed team long before everyone else caught on. We look for the best people around the world – not just those who live within a 1 hour commute. If you like working from home, or really from anywhere, you’ll find a bunch of like-minded people here. <br> <br>✅ Paid Time Off <br> <br>There’s no sense in working all the time – we believe everyone needs balance and we want you to have enough time to do other things that enrich your life. We offer all of our permanent team members 30 days of paid time off and we expect you to take it. <br> <br>✅ Flexibility <br> <br>Need to get the kids to school or want to do a gym class in the middle of the day? No problem. We need you to be available for some agreed core hours to work with your colleagues and cover our service requirements, but other than that your time is yours. <br> <br>✅ Competitive Pay <br> <br>We aim to work with the best people – wherever and whoever they are. We know this comes at a business cost, but we consider this an investment in the company’s future. We offer competitive pay and we want all team members to feel well-rewarded for their contribution. <br> <br>✅ Results Driven <br> <br>At Power Diary, we detest bureaucracy and we strive to keep the focus on building and supporting great software that will help our customers (and in turn, help more of their clients). There are no pointless meetings, forms, or other impediments in your way. As we grow, we aim to stay agile – in every way. <br> <br>✅ Learning &amp; Growth <br> <br>We’re big supporters of personal growth and development and our team is constantly learning and upskilling themselves in many different areas. Innovation is a big part of our culture and we welcome new ideas from everyone. <br> <br>✅ Inspiring Team <br> <br>We truly love our team at Power Diary and we hope you will too. We’re a bunch of unique individuals from all kinds of backgrounds with a vast array of specialist skills and interests. Although we work remotely, the team works closely together and we also make time to know and support each other. <br> <br>✅ Meaningful Work <br> <br>We’re constantly getting feedback from customers that are relieved to have found Power Diary. In many cases, they refer to us as a ‘life saver’ or a ‘game changer’, and it feels great to be part of something that helps people get the healthcare support they need. See our customer feedback here. <br> <br> <br> <br>About Power Diary <br> <br>Power Diary is a leading healthcare practice management system used in Australia, New Zealand, the United Kingdom, the United States and Canada. <br> <br>Our mission is simple: To provide health practitioners with the ultimate Practice Management Software that makes running a health practice easier and more rewarding. <br> <br>Power Diary’s customer base is growing and we need smart, passionate people to join our team and help take us to the next level. We’re looking for people who are genuinely excited to help health practitioners do their work, and be part of a globally distributed team <br> <br>As a healthcare company, we care about our workforce just as much as our clients and their patients. You will enter a fun, inclusive workplace with a dedicated and driven team. <br> <br>We are still a relatively small business, but self-funded and growing strongly. This is an exciting time to be at Power Diary – we have some great plans for the future and many challenging things to work on. We hope you’ll consider joining our team and being part of our story! <br> <br>See more information about Careers at Power Diary here. <br> <br> <br> <br>(*) Power Diary collects and processes your personal data for the purposes of managing employment candidate application and recruitment-related activities as well as for organisational planning purposes, for further detail, please refer to the Power Diary Privacy Policy.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/power-diary-software-engineer-work-from-home">https://weworkremotely.com/remote-jobs/power-diary-software-engineer-work-from-home</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/5180/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +44,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/paymentology-senior-software-engineer-1" align="right" target="_blank">Apply</a>
@@ -259,65 +293,6 @@
 <p><span style="font-weight: 400;">Go back to the </span><a href="https://about.sourcegraph.com/jobs/"><span style="font-weight: 400;">careers page</span></a><span style="font-weight: 400;"> for all open positions.</span></p>
 <p>&nbsp;</p>
 <p><em><span style="font-weight: 400;">Sourcegraph participates in <a href="https://handbook.sourcegraph.com/departments/people-talent/e-verify/" target="_blank">E-Verify</a> for U.S. Employees</span></em></p></div>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/378800000147745937/0fac42c12b433bbbd53ff3e15cd6fca4_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MixRank</h5>
-                    <h3>Software Engineer - Global/Remote</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/35HrJ61-software-engineer-global-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>MixRank processes petabytes of data every month from web crawls, Google Play Store, Apple App Store, social media, and dozens of other sources. We have hundreds of customers using our data products including Google, Amazon, Facebook, Intel, and Adobe, across industries Sales, Marketing, Finance, and Security.</p>
-<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
-<p>We're hiring generalist software engineers to work on web applications, data mining, machine learning/data science, data transformation/ETL, data modeling, database scaling, infrastructure, devops, and more. We'll cater the role to whatever subset of these areas match your interests.</p>
-<p>Beneficial experience includes PostgreSQL, Python, Linux, TypeScript, Nix, frontend/backend web development, and data mining.</p>
-<p>Why Join MixRank? Fully-remote, no HQ office. Team of 32 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
-<p>Please include your updated resume when applying for this role.</p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/378800000147745937/0fac42c12b433bbbd53ff3e15cd6fca4_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MixRank</h5>
-                    <h3>Junior Software Engineer - Global/Remote</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/WdgITmW-junior-software-engineer-global-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
-<p>We're looking for remote engineers that have finished school within the last 2 years or will finish in the next 6 months. This is an open-ended entry-level role with mentorship, and diverse opportunities to work on all areas of our product: databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
-<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
-<p>Why Join MixRank? Fully-remote, no HQ office. Team of 32 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
-<p>Please include your updated resume when applying for this role.</p>
 
                 </details>
                 </td>
