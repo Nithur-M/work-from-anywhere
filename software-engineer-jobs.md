@@ -1,39 +1,5 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/9203/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Power Diary</h5>
-                    <h3> Software Engineer (work-from-home)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/power-diary-software-engineer-work-from-home" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0083/9203/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Australia
-    <br /><strong>URL:</strong> <a href="https://www.powerdiary.com/?gclid=CjwKCAjw_MqgBhAGEiwAnYOAeops6fpFU8duLSxGdazubyASdoX1WrIMRE_YtgqQkb5qxoZIMR--DxoCKj8QAvD_BwE">https://www.powerdiary.com/?gclid=CjwKCAjw_MqgBhAGEiwAnYOAeops6fpFU8duLSxGdazubyASdoX1WrIMRE_YtgqQkb5qxoZIMR--DxoCKj8QAvD_BwE</a>
-</p>
-
-<div>        BE A PART OF A HIGHLY SKILLED ENGINEERING TEAM! <br> <br>Join Agile Organization that doesn’t get bogged down with stifling processes or paperwork! <br> <br>Power Diary is a fast-growing, values-driven company with all the right ingredients to put you on your path! <br> <br>Join a great team, work remotely, AND contribute to the provision of healthcare! <br> <br>  <br> <br>What is the role? <br> <br>We are looking for the people who embrace teamwork. You could have a couple of years under your belt, or be an experienced <br> <br>full stack developer, you will find challenging and interesting work in a fun environment with us! <br> <br>  <br> <br>What will you do? <br> <br>On a day-to-day basis, your responsibilities and activities will include; <br> <br>Work in a self-managing, cross functional team, contributing to future implementation and system improvement; <br>Collaborate with team members and product department on agreed road map; <br>Take on own tasks and projects, complete required research and collaborate with team members to find solution; <br>Take ownership of workload and deliver on task to agreed timelines; <br>Make suitable improvements to the code base when possible: <br>Provide clear comments on work, following company and industry-standard guidelines. <br>  <br> <br>Who are we looking for? <br> <br>Qualification on computer science field or equivalent experience; <br>Several years experience working on full-stack development; <br>Ability to collaborate with colleagues and partake in healthy debate to find solutions; <br>Always interested in learning new things; <br>Pragmatic problem solver and detail oriented; <br>Precise in code, communication and documentation. <br> <br> <br>Why you’ll LOVE working at Power diary… <br> <br>When you join Power Diary, you’ll benefit from perks like; <br> <br>✅ Work from Anywhere <br> <br>There are no offices at Power Diary as we’ve been a distributed team long before everyone else caught on. We look for the best people around the world – not just those who live within a 1 hour commute. If you like working from home, or really from anywhere, you’ll find a bunch of like-minded people here. <br> <br>✅ Paid Time Off <br> <br>There’s no sense in working all the time – we believe everyone needs balance and we want you to have enough time to do other things that enrich your life. We offer all of our permanent team members 30 days of paid time off and we expect you to take it. <br> <br>✅ Flexibility <br> <br>Need to get the kids to school or want to do a gym class in the middle of the day? No problem. We need you to be available for some agreed core hours to work with your colleagues and cover our service requirements, but other than that your time is yours. <br> <br>✅ Competitive Pay <br> <br>We aim to work with the best people – wherever and whoever they are. We know this comes at a business cost, but we consider this an investment in the company’s future. We offer competitive pay and we want all team members to feel well-rewarded for their contribution. <br> <br>✅ Results Driven <br> <br>At Power Diary, we detest bureaucracy and we strive to keep the focus on building and supporting great software that will help our customers (and in turn, help more of their clients). There are no pointless meetings, forms, or other impediments in your way. As we grow, we aim to stay agile – in every way. <br> <br>✅ Learning &amp; Growth <br> <br>We’re big supporters of personal growth and development and our team is constantly learning and upskilling themselves in many different areas. Innovation is a big part of our culture and we welcome new ideas from everyone. <br> <br>✅ Inspiring Team <br> <br>We truly love our team at Power Diary and we hope you will too. We’re a bunch of unique individuals from all kinds of backgrounds with a vast array of specialist skills and interests. Although we work remotely, the team works closely together and we also make time to know and support each other. <br> <br>✅ Meaningful Work <br> <br>We’re constantly getting feedback from customers that are relieved to have found Power Diary. In many cases, they refer to us as a ‘life saver’ or a ‘game changer’, and it feels great to be part of something that helps people get the healthcare support they need. See our customer feedback here. <br> <br> <br> <br>About Power Diary <br> <br>Power Diary is a leading healthcare practice management system used in Australia, New Zealand, the United Kingdom, the United States and Canada. <br> <br>Our mission is simple: To provide health practitioners with the ultimate Practice Management Software that makes running a health practice easier and more rewarding. <br> <br>Power Diary’s customer base is growing and we need smart, passionate people to join our team and help take us to the next level. We’re looking for people who are genuinely excited to help health practitioners do their work, and be part of a globally distributed team <br> <br>As a healthcare company, we care about our workforce just as much as our clients and their patients. You will enter a fun, inclusive workplace with a dedicated and driven team. <br> <br>We are still a relatively small business, but self-funded and growing strongly. This is an exciting time to be at Power Diary – we have some great plans for the future and many challenging things to work on. We hope you’ll consider joining our team and being part of our story! <br> <br>See more information about Careers at Power Diary here. <br> <br> <br> <br>(*) Power Diary collects and processes your personal data for the purposes of managing employment candidate application and recruitment-related activities as well as for organisational planning purposes, for further detail, please refer to the Power Diary Privacy Policy.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/power-diary-software-engineer-work-from-home">https://weworkremotely.com/remote-jobs/power-diary-software-engineer-work-from-home</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/5180/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -44,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/paymentology-senior-software-engineer-1" align="right" target="_blank">Apply</a>
@@ -95,6 +61,62 @@
 </div><div>At Paymentology we value making a difference to the lives of the people who work for us and who live in the communities where we operate. You can look forward to working with a diverse, global team where Paymentologists at all levels play an important part in our global mission to advance the world through payments and make a difference on a global scale. </div>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/paymentology-senior-software-engineer-1">https://weworkremotely.com/remote-jobs/paymentology-senior-software-engineer-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sticker Mule</h5>
+                    <h3> Software Engineer (C++)</h3>
+                </td>
+                <td width="300">
+                    <code>DevOps and Sysadmin</code>
+                </td>
+                <td width="200">
+                <text>60 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> New York, NY
+    <br /><strong>URL:</strong> <a href="https://www.stickermule.com/careers">https://www.stickermule.com/careers</a>
+</p>
+
+<div><strong>About Sticker Mule</strong></div><div>Sticker Mule is the Internet's most "kick ass" brand. We are privately-owned, profitable, and powered by a globally distributed team that enjoys building happy customer experience at the highest technical standards. Our software team operates from 17 countries, and we're always looking for more exceptional engineers.<br><br>
+</div><div><a href="https://www.stickermule.com/about"><strong>See more about our teams here</strong></a></div><div><br></div><div><strong>We offer</strong></div><ol>
+<li>Remote work with flexible schedules</li>
+<li>A privately owned, low-stress culture.</li>
+<li>A fun "no bullshit" work environment</li>
+</ol><div><strong>We like you to know</strong></div><ol>
+<li>C++</li>
+<li>Go</li>
+<li>Postgres</li>
+<li>Docker</li>
+<li>Cloud Infrastructure</li>
+<li>Familiarity with C#</li>
+<li>Excellent communication skills (English)</li>
+<li>Degree in Computer Science or equivalent practical experience</li>
+</ol><div><strong>Challenges</strong></div><ol>
+<li>Improve factory automation software</li>
+<li>Migrate legacy services to Go</li>
+<li>Maintain a large C++ codebase</li>
+</ol><div><strong>Compensation and benefits</strong></div><ol>
+<li>Salary: $135k+ based on experience</li>
+<li>$20,000 signing bonus</li>
+<li>4 weeks vacation + holidays based on your country of residence</li>
+</ol>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c">https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c</a></p>
 
                 </details>
                 </td>
@@ -298,6 +320,65 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/378800000147745937/0fac42c12b433bbbd53ff3e15cd6fca4_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>MixRank</h5>
+                    <h3>Software Engineer - Global/Remote</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://www.ycombinator.com/companies/mixrank/jobs/35HrJ61-software-engineer-global-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>MixRank processes petabytes of data every month from web crawls, Google Play Store, Apple App Store, social media, and dozens of other sources. We have hundreds of customers using our data products including Google, Amazon, Facebook, Intel, and Adobe, across industries Sales, Marketing, Finance, and Security.</p>
+<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
+<p>We're hiring generalist software engineers to work on web applications, data mining, machine learning/data science, data transformation/ETL, data modeling, database scaling, infrastructure, devops, and more. We'll cater the role to whatever subset of these areas match your interests.</p>
+<p>Beneficial experience includes PostgreSQL, Python, Linux, TypeScript, Nix, frontend/backend web development, and data mining.</p>
+<p>Why Join MixRank? Fully-remote, no HQ office. Team of 32 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
+<p>Please include your updated resume when applying for this role.</p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/378800000147745937/0fac42c12b433bbbd53ff3e15cd6fca4_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>MixRank</h5>
+                    <h3>Junior Software Engineer - Global/Remote</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://www.ycombinator.com/companies/mixrank/jobs/WdgITmW-junior-software-engineer-global-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
+<p>We're looking for remote engineers that have finished school within the last 2 years or will finish in the next 6 months. This is an open-ended entry-level role with mentorship, and diverse opportunities to work on all areas of our product: databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
+<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
+<p>Why Join MixRank? Fully-remote, no HQ office. Team of 32 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
+<p>Please include your updated resume when applying for this role.</p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -367,6 +448,98 @@
 <p><span style="font-weight: 400;">The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline. We’re looking for you to join our team as soon as possible.</span><span style="font-weight: 400;">&nbsp;</span></p>
 <p><strong>Compensation</strong><span style="font-weight: 400;">:</span></p>
 <p><span style="font-weight: 400;">We are happy to pay salaries in either 100% fiat or any mix of fiat and/or crypto. For more information regarding benefits at Status: https://people-ops.status.im/tag/perks/</span></p>
+<p>&nbsp;</p>
+
+    
+
+    
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
+                    <h3>Software Engineer (Golang)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4863246&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <h4>&nbsp;</h4>
+<h4><strong>About Waku</strong></h4>
+<p><span style="font-weight: 400;">We are building Waku as a public good infrastructure. Waku is the messaging layer of Web3.</span></p>
+<p><span style="font-weight: 400;">It is a decentralized, censorship-resistant, privacy-preserving communication network that enables anyone to send and receive messages without worrying about surveillance or deplatforming.</span></p>
+<p><span style="font-weight: 400;">We are developing 3 open source implementations of Waku:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Nwaku. <a class="anchor-1MIwyf anchorUnderlineOnHover-2qPutX" href="https://github.com/waku-org/nwaku" target="_blank">https://github.com/waku-org/nwaku</a>: the reference implementation and service node</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Js-waku, <a class="anchor-1MIwyf anchorUnderlineOnHover-2qPutX" href="https://github.com/waku-org/js-waku" target="_blank">https://github.com/waku-org/js-waku</a>: for the browser </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Go-waku: <a class="anchor-1MIwyf anchorUnderlineOnHover-2qPutX" href="https://github.com/waku-org/go-waku" target="_blank">https://github.com/waku-org/go-waku</a>: to integrate as a library in native applications</span></li>
+</ul>
+<p><span style="font-weight: 400;">We are enabling Ethereum builders to create new projects with a fully decentralized architecture, think dApp to Wallet notifications, NFT marketplaces, censorship-resistant chat, layer-2 decentralization and more.</span></p>
+<p><span style="font-weight: 400;">We are looking for a Software Engineer who is passionate about Ethereum, and decentralization. And who would relish the opportunity to champion Waku to other Web3 projects and developers.</span></p>
+<p>&nbsp;</p>
+<p><strong>Key Responsibilities</strong></p>
+<ul>
+<li>Design, implement and document Waku Golang libraries (go-waku)</li>
+<li>Maintain, improve, troubleshoot Waku React Native, the React Native wrapper of go-waku</li>
+<li>Implement new protocols as defined by the Research Team</li>
+<li>Investigate and fix issues in go-waku and upstream libraries such as go-libp2p</li>
+<li>Optimize go-waku and upstream libraries for the mobile/React Native</li>
+<li>Support dApp developers in using go-waku and Waku Golang libraries</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>You ideally will have</strong></p>
+<ul>
+<li>Experience building applications with complex logic, cutting edge technology or applied research</li>
+<li>Ability to learn new concepts and technologies quickly, you are a polyglot</li>
+<li>Open to maintaining a native library for React Native</li>
+<li>Experience building libraries in Golang, for network and mobile environments</li>
+<li>Good communication skills (written and conversational)</li>
+<li>Strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Bonus points if&nbsp;</strong></p>
+<ul>
+<li>You are already familiar with the Ethereum community</li>
+<li>You have experience with go-libp2p or other libp2p implementations</li>
+<li>You have experience with C-Bindings &amp; Cgo</li>
+<li>You are in Web3 or blockchain development</li>
+<li>You have experience working for an open source organization</li>
+<li>You have experience working async</li>
+</ul>
+<p><em>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</em></p>
+<p>&nbsp;</p>
+<p><strong>Hiring Process&nbsp;</strong></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Intro call with our People Ops team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with member of the Waku team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Pair programming session with member of the Waku team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Program Lead</span></li>
+</ol>
+<p>&nbsp;</p>
+<p><strong>Compensation</strong></p>
+<p>The expected compensation range for this role is $65,000 - $80,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process. We are happy to pay in any mix of fiat/crypto).&nbsp;</p>
 <p>&nbsp;</p>
 
     
@@ -452,98 +625,6 @@
 </ol>
 <p><strong>Compensation</strong></p>
 <p><span style="font-weight: 400;">The expected compensation range for this role is $90,000 - $130,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process. We are happy to pay in any mix of fiat/crypto).&nbsp;</span></p>
-
-    
-
-    
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Status</h5>
-                    <h3>Software Engineer (React Native & Golang)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4863246&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <h4>&nbsp;</h4>
-<h4><strong>About Waku</strong></h4>
-<p><span style="font-weight: 400;">We are building Waku as a public good infrastructure. Waku is the messaging layer of Web3.</span></p>
-<p><span style="font-weight: 400;">It is a decentralized, censorship-resistant, privacy-preserving communication network that enables anyone to send and receive messages without worrying about surveillance or deplatforming.</span></p>
-<p><span style="font-weight: 400;">We are developing 3 open source implementations of Waku:</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Nwaku. <a class="anchor-1MIwyf anchorUnderlineOnHover-2qPutX" href="https://github.com/waku-org/nwaku" target="_blank">https://github.com/waku-org/nwaku</a>: the reference implementation and service node</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Js-waku, <a class="anchor-1MIwyf anchorUnderlineOnHover-2qPutX" href="https://github.com/waku-org/js-waku" target="_blank">https://github.com/waku-org/js-waku</a>: for the browser </span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Go-waku: <a class="anchor-1MIwyf anchorUnderlineOnHover-2qPutX" href="https://github.com/waku-org/go-waku" target="_blank">https://github.com/waku-org/go-waku</a>: to integrate as a library in native applications</span></li>
-</ul>
-<p><span style="font-weight: 400;">We are enabling Ethereum builders to create new projects with a fully decentralized architecture, think dApp to Wallet notifications, NFT marketplaces, censorship-resistant chat, layer-2 decentralization and more.</span></p>
-<p><span style="font-weight: 400;">We are looking for a Software Engineer who is passionate about Ethereum, and decentralization. And who would relish the opportunity to champion Waku to other Web3 projects and developers.</span></p>
-<p>&nbsp;</p>
-<p><strong>Key Responsibilities</strong></p>
-<ul>
-<li>Design, implement and document Waku Golang libraries (go-waku)</li>
-<li>Maintain, improve, troubleshoot Waku React Native, the React Native wrapper of go-waku</li>
-<li>Implement new protocols as defined by the Research Team</li>
-<li>Investigate and fix issues in go-waku and upstream libraries such as go-libp2p</li>
-<li>Optimize go-waku and upstream libraries for the mobile/React Native</li>
-<li>Support dApp developers in using go-waku and Waku Golang libraries</li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>You ideally will have</strong></p>
-<ul>
-<li>Experience building applications with complex logic, cutting edge technology or applied research</li>
-<li>Ability to learn new concepts and technologies quickly, you are a polyglot</li>
-<li>Experience maintaining native library for React Native</li>
-<li>Experience building libraries in Golang, for network and mobile environments</li>
-<li>Good communication skills (written and conversational)</li>
-<li>Strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>Bonus points if&nbsp;</strong></p>
-<ul>
-<li>You are already familiar with the Ethereum community</li>
-<li>You have experience with go-libp2p or other libp2p implementations</li>
-<li>You have experience with C-Bindings &amp; Cgo</li>
-<li>You are in Web3 or blockchain development</li>
-<li>You have experience working for an open source organization</li>
-<li>You have experience working async</li>
-</ul>
-<p><em>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</em></p>
-<p>&nbsp;</p>
-<p><strong>Hiring Process&nbsp;</strong></p>
-<ol>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Intro call with our People Ops team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with member of the Waku team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Pair programming session with member of the Waku team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Program Lead</span></li>
-</ol>
-<p>&nbsp;</p>
-<p><strong>Compensation</strong></p>
-<p>The expected compensation range for this role is $65,000 - $80,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process. We are happy to pay in any mix of fiat/crypto).&nbsp;</p>
-<p>&nbsp;</p>
 
     
 
@@ -795,6 +876,81 @@
 </ul>
 <p><em>We are proud to foster a workplace free from discrimination. We truly believe that diversity of experience, perspectives, and background will lead to a better environment for our employees and a better platform for our users and customers. This is something we value deeply and we encourage everyone to come be a part of the world of Ubuntu.</em></p>
 <p><em>#LI-Remote&nbsp;</em></p><p>Requisition ID: 531</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Senior Software Engineer - Telco</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/2915159" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>Canonical is seeking an experienced Python developer to build the world's best open-source portfolio of integrated, secure and reliable software for the telecommunications industry. Work with upstream open source projects, alongside internal teams to deliver high-quality software that can be deployed on bare metal, public cloud and Kubernetes.</p>
+<p>Bring your experience with Python, Linux, Kubernetes and Telecommunications software to help us transform the future of network automation.&nbsp;</p>
+<p>Help the growing engineering team at Canonical bring the cutting edge of open-source software into the telecommunications sector. As an engineer on the team, you'll bring significant software development experience, public cloud and Kubernetes experience and a keen eye for software design and architecture.</p>
+<p>You will be involved in all the aspects of the software development process: you will design software, write high-quality code and tests, provide insightful code reviews, write documentation and help to troubleshoot issues.</p>
+<p>In addition to the engineering behind the project itself, you'll have the chance to work with industry-leading teams inside Canonical, ensuring your work is backed by rock-solid data stores, and highly observable using our Kubernetes-based Observability stack. You'll work with broader open-source communities, participating in "hackfest" events, webinars and conferences.</p>
+<h4>Location: This is a Globally remote role</h4>
+<h3>What your day will look like</h3>
+<ul>
+<li>Write high-quality, rigorously designed Python software</li>
+<li>Collaborate proactively with a globally distributed team</li>
+<li>Display technical leadership internally and within our external communities</li>
+<li>Debug issues and produce high-quality code to fix them</li>
+<li>Contribute to technical documentation that define best practices for authoring high-quality operators</li>
+<li>Discuss ideas and collaborate on finding good solutions</li>
+</ul>
+<h3>What we are looking for in you</h3>
+<ul>
+<li>You have a Bachelor’s or equivalent in Computer Science, STEM or similar degree</li>
+<li>You have deep experience and history of writing modern, maintainable Python</li>
+<li>You love technology and working with brilliant people</li>
+<li>You are curious, flexible, articulate, and accountable</li>
+<li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li>
+<li>You have interest and experience with two or more of the following: Linux, Kubernetes, Public cloud, OpenStack, LXC/LXD, Python, Go, Debian packaging, scalable web services</li>
+<li>Willingness to travel up to 4 times a year for internal events</li>
+</ul>
+<h3>Additional skills that you might also bring</h3>
+<ul>
+<li>You have experience developing open-source networking software (Ex. OSM, Magma, ONOS, ONAP, OAI)</li>
+<li>You have 5G specific knowledge and practical implementation</li>
+</ul>
+<h3>What we offer you</h3>
+<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.&nbsp;</p>
+<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, please ask your Talent Partner.</p>
+<ul>
+<li>Fully remote working environment - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of 2,000USD per annum</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Parental Leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues at ‘sprints’</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h3>About Canonical</h3>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h3>Canonical is an equal opportunity employer</h3>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote</p><p>Requisition ID: 621</p><p></p>
     
                 </details>
                 </td>
