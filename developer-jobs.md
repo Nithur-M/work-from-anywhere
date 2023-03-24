@@ -1,5 +1,117 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>MailerLite</h5>
+                    <h3> PHP Integration Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/mailerlite-php-integration-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> USA
+    <br /><strong>URL:</strong> <a href="https://www.mailerlite.com/company-values">https://www.mailerlite.com/company-values</a>
+</p>
+
+<div>
+<a href="https://www.mailerlite.com/"><strong>MailerLite</strong></a> is one of the fastest-growing email marketing services. We help more than 1 million businesses around the world, to keep in touch with their customers. Today, we are a team of more than 130 dreamers, adventurers, and world travelers passionate about what we do and believe in. And we are ready for another talented person to join the party.</div><div>
+<br>Our team is looking for an <strong>PHP Integration Developer</strong> that can help implement and coordinate solutions across a variety of our products (MailerLite, MailerSend, MailerCheck and upcoming ones).</div><div>
+<br>Join our team and become a versatile PHP Integration Developer who can effortlessly navigate various projects and seamlessly execute and upkeep third-party integrations with a wide range of providers and platforms, including but not limited to Wordpress, Woocommerce, Shopify, and Zapier.</div><div>
+<br>Let's revolutionize the way our products work together! 🚀<br><br><br>
+</div><div>
+<strong>Why MailerLite?<br></strong><br>
+</div><div>Wondering why we think you’ll love working at MailerLite? Here are 6 reasons!<br><br>
+</div><ul>
+<li>
+<strong>You won’t be bored<br></strong>We have a lot of integrations and are always looking to create more.<br><br>
+</li>
+<li>
+<strong>You will be challenged with interesting tasks<br></strong>You will have space to grow maintaining current integrations and developing new ones.<br><br>
+</li>
+<li>
+<strong>You will take ownership<br></strong>We don’t micromanage and try not to interrupt your work with random tasks. We do expect you to take full responsibility and ownership for the stuff you build.<br><br>
+</li>
+<li>
+<strong>You will have experts at hand<br></strong>Whenever you’re stuck, your teammates are eager to help you grow. And they’d love for you to share your knowledge too!<br><br>
+</li>
+<li>
+<strong>You can pick where you want to work, every day<br></strong>At MailerLite, we embrace the remote culture. Every day you get to choose what environment makes you most productive.<br><br>
+</li>
+<li>
+<strong>You can count on stability<br></strong>You can count on us to offer you a stable workplace! We're continuously growing and we’ve been around for more than 10 years.<br><br>
+</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong>What you will work on<br></strong><br>
+</div><ul>
+<li>Maintain our existing integrations with Wordpress, WooCommerce, Shopify, Zapier, Prestashop and more.</li>
+<li>Design and develop new integrations with an eye on delivering impact and value to our users.</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong>What we expect from you<br></strong><br>
+</div><ul>
+<li>3+ years experience with PHP, JavaScript and HTML</li>
+<li>Experience with AJAX, JSON and JSONP concepts</li>
+<li>Possess extensive knowledge of how APIs work</li>
+<li>Good knowledge of PHP frameworks (we mostly use Laravel)</li>
+<li>Investigative mind - this position requires thinking out of the box</li>
+<li>Ability to write clean code with test coverage</li>
+<li>Ability to build scalable applications</li>
+<li>Familiarity with SQL and how to write good queries</li>
+<li>Proficient understanding of code versioning tools, such as Git</li>
+<li>Proficient verbal and written communication skills in English</li>
+<li>You're a good team player</li>
+<li>A sense of personal responsibility<br><br>
+</li>
+</ul><div>       <strong>Bonus</strong>
+</div><ul>
+<li>Familiarity with other languages (NodeJS, Golang, Ruby)</li>
+<li>Experience in writing Wordpress plugins or Shopify apps</li>
+<li>Experience with VueJS</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong>What we offer<br></strong><br>
+</div><ul>
+<li>Yearly Salary range: $50,000-$60,000 (gross)</li>
+<li>Remote-first culture with the team working remotely from all over the world</li>
+<li>Remote health insurance. Every team member gets global health insurance with full coverage in their home country and 175+ countries. No exclusions for pandemics</li>
+<li>Company-paid retreats. Once per year we gather for a week in an exotic location to work, learn and have fun together</li>
+<li>31 days of vacation per year. We encourage you to unplug and recharge!</li>
+<li>4 creative days. One paid day off per quarter to do something creative and fun</li>
+<li>12 parental days per year. Parents can take one paid day off every month to spend time with their children</li>
+<li>Parenting budget. Anyone who becomes a parent through childbirth or adoption gets a budget as a gift</li>
+<li>Joy Budget. Annual budget to spend on whatever that brings you joy</li>
+<li>MacBook and other tools that'll help you to do your job efficiently</li>
+<li>Check the full list of our awesome benefits <a href="https://www.mailerlite.com/employee-benefits"><strong>here.</strong></a>
+</li>
+</ul><div>
+<br><br>
+</div><div><strong>Meet your Team Lead</strong></div><div><br></div><div>
+<strong>John - </strong>Lead Developer</div><blockquote>I’m John, Lead developer at MailerLite. I’ve been with the company for almost 3 years. I enjoy all things computing, sailing and dancing among other things. The things I value most are integrity, clear communication and honesty. Our team lives by delivering impact to our users. I #lovemyjob because we have the room to grow and build amazing products.</blockquote><div><br></div><div><br></div><div><strong>Interested?</strong></div><div>
+<br>Don't send us a CV. We like to do things differently. Instead, fill out the application form.</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/mailerlite-php-integration-developer">https://weworkremotely.com/remote-jobs/mailerlite-php-integration-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/0488/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +122,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/integrity-labs-pty-ltd-t-a-brand-ninja-senior-aws-serverless-developer" align="right" target="_blank">Apply</a>
@@ -54,7 +166,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-7" align="right" target="_blank">Apply</a>
@@ -111,7 +223,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/public-knowledge-project-senior-front-end-software-developer" align="right" target="_blank">Apply</a>
@@ -180,76 +292,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Contra</h5>
-                    <h3> AI Application Developer Creator </h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/contra-ai-application-developer-creator" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> San Francisco, CA
-    <br /><strong>URL:</strong> <a href="http://bit.ly/3kLhMdk">http://bit.ly/3kLhMdk</a>
-</p>
-
-<div>
-<br>Are you a creative AI Application Developer with domain expertise in <strong>ChatGPT Applications</strong>, <strong>AI Web Applications</strong> and <strong>AI Chatbots</strong> and a passion for sharing your knowledge with others? Join the <a href="http://bit.ly/3J5ZhdS">Contra</a> Creator program to create and share high-quality projects and the portfolio of your dreams based on your unique skillset.<br><br>
-</div><div>
-<br>As a member of the Contra Creator program, you’ll be creating high-quality portfolio projects about AI development. These will be featured on Contra and around the web. You will be paid <strong>$2000 USD</strong> for a 1 month project for the following scope.<br><br>
-</div><div>
-<strong><br>Scope<br></strong><br>
-</div><ul>
-<li>Create and share 8 - 10 high-quality projects on your Contra Portfolio. Contra will help you choose the topics that will be most beneficial to your portfolio. We will also do SEO research on each topic to make sure your portfolio gets tons of visibility.</li>
-<li>Host the content on your Contra portfolio that lives on your custom domain (we can help you get one if you don’t have one already)</li>
-<li>Ensure that content is easy to share and engage with on social media platforms and other online channels</li>
-<li>Share content on your social platforms and/or in communities</li>
-</ul><div>
-<strong><br>What We’re Looking For<br></strong><br>
-</div><ul>
-<li>Experience creating and editing high-quality content</li>
-<li>Strong domain expertise in the AI space</li>
-<li>Active on social media and familiar with engagement strategies (a plus)</li>
-</ul><div>
-<strong><br>What You’ll Get<br></strong><br>
-</div><ul>
-<li>Build the Portfolio of your dreams 💭</li>
-<li>Boost your reputation on Contra and as an independent</li>
-<li>Increased discoverability of your unique expertise</li>
-<li>Community of fellow freelancers and thought leaders</li>
-</ul><div>
-<strong><br>About Contra<br></strong><br>
-</div><div>
-<br>The Contra team wants to continue to support the independent community and we believe there is no better way to do this than with paid opportunities 🚀<br><br>
-</div><div>
-<br>Contra allows Independents to build their digital portfolio, get discovered by clients around the world, and earn money commission-free; while connecting Clients with top Independent talent.<br><br>
-</div><div>
-<br>We believe in empowering people to work the way <em>they want.<br></em><br>
-</div><div>
-<br>If you are passionate about sharing your knowledge and want to be part of a growing community of creators, please apply!<br><br>
-</div><div>
-<strong><br>Learn more about </strong><a href="http://bit.ly/3Dbh5jQ"><strong>Contra here</strong></a><strong>!<br></strong><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/contra-ai-application-developer-creator">https://weworkremotely.com/remote-jobs/contra-ai-application-developer-creator</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/9054/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -260,7 +302,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/iphone-photography-school-front-end-developer" align="right" target="_blank">Apply</a>
@@ -295,13 +337,84 @@
                 </td>
                 <td width="300">
                     <h5>Proxify AB</h5>
+                    <h3> Senior Flutter Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>60 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-flutter-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Sweden
+    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
+</p>
+
+<div><strong>The Role:</strong></div><div>
+<br>We are searching for a Senior Flutter Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
+<br><br>
+</div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
+<li>You have +3 years of experience using Flutter for Android/iOS applications and deployment on Google Play/App Store;</li>
+<li>You possess an in-depth understanding of front-end languages like HTML, CSS3, and JavaScript.</li>
+<li>You have an extensive understanding of Object Oriented programming languages like Java and C++;</li>
+<li>You are familiar with the usage of version control tools like Git, Subversion, etc. and IDEs like Android Studio, VS Code, etc.;</li>
+<li>​​You follow best practices and conventions;</li>
+<li>Responsible and able to work with minimal supervision;</li>
+<li>Upper-intermediate English level;</li>
+<li>You can communicate well with both technical and non-technical clients.</li>
+</ul><div>
+<strong><br>Nice-to-have:</strong> <br><br>
+</div><ul><li>Timezone: CET (+/- 3 hours)</li></ul><div><br></div><div>
+<strong>Responsibilities:<br></strong><br>
+</div><ul>
+<li>You will be building and shipping robust apps to Android/ iOS devices (using a single codebase);</li>
+<li>​​You will be running and designing product application features across various cross-platform devices;</li>
+<li>You will be writing readable and clear code that will be extensively documented for future use and upgrades;</li>
+<li>You will be sharing feedback and brainstorming ideas with teams to improve the development process;</li>
+<li>Stay up to date with the latest technologies.</li>
+</ul><div><br></div><div>
+<strong>What we offer:<br></strong><br>
+</div><div>💻 <strong>100% remote work</strong>: Work from anywhere.<br><br>
+</div><div>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br><br>
+</div><div>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br><br>
+</div><div>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br><br>
+</div><div>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.<br><br>
+</div><div>
+<br><br><strong>Your benefits with Proxify:<br></strong><br>
+</div><div>
+<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference.<br><br>
+</div><div> <strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.<br><br>
+</div><div> <strong>Transparency</strong>: Contracts with transparency in earnings and working hours.<br><br>
+</div><div> <strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.<br><br>
+</div><div> <strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-flutter-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-flutter-developer-long-term-job-100-remote</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Proxify AB</h5>
                     <h3> Senior Vue.js Developer</h3>
                 </td>
                 <td width="300">
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>64 days ago</text>
+                <text>66 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-vue-js-developer" align="right" target="_blank">Apply</a>
@@ -369,7 +482,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>91 days ago</text>
+                <text>93 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1" align="right" target="_blank">Apply</a>
@@ -431,7 +544,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>124 days ago</text>
+                <text>126 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-golang-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -486,170 +599,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior Front-end Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>191 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div><br></div><div><strong>The Role:</strong></div><div>We are searching for a Senior Front-End Developer (Angular.js/React.js). You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
-<br><br>
-</div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
-<li>You have +3 years experience with React.js/Angular.js;</li>
-<li>You follow best practices and conventions;</li>
-<li>Relevant experience in CI/CD and related tools;</li>
-<li>Responsible and able to work with minimal supervision;</li>
-<li>Upper-intermediate English level;</li>
-<li>You can communicate well with both technical and non-technical clients.</li>
-</ul><div>
-<strong><br>Nice-to-have:</strong> <br><br>
-</div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Basic back-end knowledge for minor back-end jobs where necessary.</li>
-</ul><div>
-<strong><br>Responsibilities:<br></strong><br>
-</div><ul>
-<li>Build reusable code and libraries for future use;</li>
-<li>Ensure the technical feasibility of UI/UX designs;</li>
-<li>Transform visual designs and wireframes into working products;</li>
-<li>Accurate planning of the feature delivery;</li>
-<li>Collaborate with other team members and stakeholders</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>What we offer:</strong>💻 <strong>100% remote work</strong>: Work from anywhere.👌🏻 <strong>Flexibility</strong>: The ability to change the project to another one.💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.🚀 <strong>360 degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
-<br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on the projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4055/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>SocialHub</h5>
-                    <h3> Backend Javascript / Node.js Developer - Remote/SaaS (m/f/d)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>212 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/socialhub-backend-javascript-node-js-developer-remote-saas-m-f-d-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0071/4055/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Schütterlettenweg 4, 85053 Ingolstadt, Deutschland
-    <br /><strong>URL:</strong> <a href="https://socialhub.io/de/">https://socialhub.io/de/</a>
-</p>
-
-<div>
-<strong>DOES THIS SOUND LIKE YOU?<br></strong><br>
-</div><ul>
-<li>You like writing automated tests so you notice regressions on your code early on<br><br>
-</li>
-<li>You love to see your users happy. Therefore you don’t hesitate to help clients if the need arises for solving bugs.<br><br>
-</li>
-<li>Using a DVCS like git comes natural to you<br><br>
-</li>
-<li>You appreciate constructive criticism and are able to provide such yourself when reviewing others code<br><br>
-</li>
-<li>You have a thing for documenting your work because you know your future self will appreciate it</li>
-</ul><div>
-<br><br><strong>YOUR REQUIREMENTS FOR THE JOB<br></strong><br>
-</div><ul>
-<li>At least 3 years working experience in a development team and experience in developing scalable web apps<br><br>
-</li>
-<li>Experience in building Node.js based APIs with Express.JS<br><br>
-</li>
-<li>Knowledge of common web security best practices (e.g. OWASP 10)<br><br>
-</li>
-<li>You are able to work and communicate with your teammates through our core hours (11am to 4pm german timezone)</li>
-</ul><div>
-<br><br><strong>THESE SKILLS WOULD BE BENEFICAL FOR YOU<br></strong><br>
-</div><ul>
-<li>You have experience with technologies like Redis, RabbitMQ and the ELK stack<br><br>
-</li>
-<li>Experience with non-relational databases<br><br>
-</li>
-<li>Knowledge of mongodb and its query syntax<br><br>
-</li>
-<li>You can analyze and resolve performance issues with mongodb queries and indices<br><br>
-</li>
-<li>You’ve worked with gitlab and gitlab ci before<br><br>
-</li>
-<li>Knowledge of the Social Network API’s e.g. Facebook, Twitter, etc.<br><br>
-</li>
-<li>You’ve run your own Web Server in the past and know your way around Linux</li>
-</ul><div>
-<br><br><strong>WHAT WE HAVE TO OFFER</strong><br><br>
-</div><div><br></div><ul>
-<li>Company houses 2023: We rent houses worldwide - free of charge for you. Enjoy work and meet your teammates from all over the world. To work or to take a vacation, we leave it up to you!<br><br>
-</li>
-<li>Flexible working hours and the possibility to work remotely.<br><br>
-</li>
-<li>An enthusiastic and friendly team in a productive working environment.<br><br>
-</li>
-<li>Varied and challenging activities in a constantly growing and future-oriented industry.<br><br>
-</li>
-<li>Great coaching and development opportunities. We have an annual budget for external training courses and conferences. We previously attended GitHub Universe in London and Amsterdam.<br><br>
-</li>
-<li>An afternoon each sprint (every 2 weeks) to work on something that interests you. Want to learn a new programming language? That’s fine by us. It doesn't have to be work-related. It’s there to help you expand your skill set and keep the creative juices flowing. <br><br>
-</li>
-<li>Always a cold Fritz-Kola in the fridge (if you decide to stop by our office). <br><br>
-</li>
-<li>Join us for whole company get-togethers. Our past retreats have been in Belgium, Prague &amp; Spain. Our next one is in Portugal.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/socialhub-backend-javascript-node-js-developer-remote-saas-m-f-d-2">https://weworkremotely.com/remote-jobs/socialhub-backend-javascript-node-js-developer-remote-saas-m-f-d-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/3165/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -660,7 +609,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>212 days ago</text>
+                <text>214 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/socialhub-reactjs-web-developer-remote-saas-m-f-d-1" align="right" target="_blank">Apply</a>
@@ -772,7 +721,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>600 days ago</text>
+                <text>602 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -838,7 +787,7 @@
                     <code>developer,seo,social media,ai</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/ai-application-developer-creator-1632115" align="right" target="_blank">Apply</a>
@@ -898,7 +847,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -967,7 +916,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -1044,7 +993,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -1070,7 +1019,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1147,7 +1096,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1291,7 +1240,7 @@
                     <code>developer,design,Figma</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/website-developer-1601883" align="right" target="_blank">Apply</a>
@@ -1402,6 +1351,35 @@
 </li>
 </ul>
 <h2>&nbsp;</h2></div>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/378800000147745937/0fac42c12b433bbbd53ff3e15cd6fca4_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>MixRank</h5>
+                    <h3>Full-Stack Web Developer  - Global/Remote</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://www.ycombinator.com/companies/mixrank/jobs/TXvOcDb-full-stack-web-developer-global-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
+<p>We're looking for remote engineers to build web applications and APIs. The ideal candidate is looking to grow into position of technical leadership in product development.</p>
+<p>Experience with full-stack web development, Python, PostgreSQL, and Linux is required. Competency or interest in data visualization, UI, UX, and design are desired.</p>
+<p>Why Join MixRank? Fully-remote, no HQ office. Team of 32 people across 15+ countries Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
+<p>Please include your updated resume when applying for this role.</p>
 
                 </details>
                 </td>
