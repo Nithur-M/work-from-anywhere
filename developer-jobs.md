@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/mailerlite-php-integration-developer" align="right" target="_blank">Apply</a>
@@ -122,7 +122,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/integrity-labs-pty-ltd-t-a-brand-ninja-senior-aws-serverless-developer" align="right" target="_blank">Apply</a>
@@ -166,7 +166,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-7" align="right" target="_blank">Apply</a>
@@ -223,7 +223,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/public-knowledge-project-senior-front-end-software-developer" align="right" target="_blank">Apply</a>
@@ -292,42 +292,70 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/9054/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>iPhone Photography School</h5>
-                    <h3> Front-End Developer </h3>
+                    <h5>Toggl</h5>
+                    <h3> Senior Frontend Developer</h3>
                 </td>
                 <td width="300">
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/iphone-photography-school-front-end-developer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/toggl-senior-frontend-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0083/9054/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
-  <strong>Headquarters:</strong> Riga, Latvia
-    <br /><strong>URL:</strong> <a href="https://iphonephotographyschool.com/">https://iphonephotographyschool.com/</a>
+  <strong>Headquarters:</strong> Tallinn, Estonia
+    <br /><strong>URL:</strong> <a href="https://toggl.com/jobs/">https://toggl.com/jobs/</a>
 </p>
 
-<div> <strong>What’s iPhone Photography School all about?</strong>
-</div><div><br></div><div>We make online courses that help people take stunning photos with the iPhone.</div><div><br></div><div>With our 9-year track record, we’re the world’s leader in mobile photography education.</div><div><br></div><div>And while we’re proud of everything we’ve accomplished so far, we’re just getting started.</div><div><br></div><div>And this is why we are looking for an experienced Social Media Manager to join our team.</div><div><br></div><div><strong>What will you be doing as a Front-End Developer?</strong></div><div><br></div><ul>
-<li>Developing our sales and marketing pages that receive millions of visitors each year</li>
-<li>Working closely with our design team to deliver an outstanding user experience</li>
-<li>Collaborating with our backend development team to integrate and improve APIs</li>
-<li>Continuously developing new engaging features for our course portal</li>
-<li>Helping to problem solve and fix issues that arise in production</li>
-</ul><div><br></div><div><strong>What’s in it for me?</strong></div><div><br></div><div>Of course this can’t all be one-sided, and we believe that we provide one of the best remote working environments in the world.</div><div><br></div><div>State of the art software to stay connected and organized? We’ve got that.</div><div><br></div><div>Investing both time and money in your learning to ensure that you continually grow? We do that.</div><div><br></div><div>Flexible working schedule to ensure that you maintain a healthy work-life balance? Well that’s a no-brainer.</div><div><br></div><div><strong>But should you apply?</strong></div><div><br></div><div>This is not a decision we can make for you, but what we can do is lay out our Purpose, Values and Mission to help you decide for yourself.</div><div><br></div><div>As a company we believe in honesty and transparency, and once you click the apply button you will have the chance to learn all about us before you decide on whether to submit your application.</div><div><br></div><div>Hiring the best candidate is very important to us, but equally important is hiring the right candidate. Only apply if you really identify with what you read on the next page.</div><div><br></div><div><br></div><div><strong><em>Note: This is a 100% remote full-time position. Due to time zone differences, we won’t be able to hire applicants residing in Australia or the eastern parts of Asia.</em></strong></div>
+<div>
+<br>We are looking for a passionate and sharp Senior Frontend Developer with experience in data visualization to join one of our cross-functional product development teams and help us shape the future of the time tracking industry, delivering real value to our customers by introducing new features and improving the existing ones.</div><div>
+<br>The salary for this position is <strong>€68,000</strong> annually</div><div>
+<br>You can <strong>work from anywhere in the world,</strong> provided you have an overlap of 4 hours with a European timezone.<br><br>
+</div><div>
+<strong><br>About the team<br></strong><br>
+</div><div>We are a global team of 130+ awesome people working from over 40 countries around the globe. We hire globally, you work locally - in the heart of London, a beach outside of São Paulo, or a quiet village near Florence, the choice is yours. Every few months we travel to meet up somewhere in the world and spend some quality time together. We place a huge amount of trust in our people, and we measure the outcomes rather than the work itself. Our values fuel our results.<br><br>
+</div><div><strong><br>The role</strong></div><div>
+<br>As a Senior Frontend Developer, you will play a critical role taking ownership in major projects, using React, JavaScript, TypeScript, HTML and CSS to code slick and fast data visualizations that translate our data into meaningful insights.<br><br>
+</div><div>Your main responsibilities will be:</div><ul>
+<li>Work closely with other engineers, product managers and designers to understand requirements and translate them into user-friendly web-based components</li>
+<li>Develop and maintain scalable data visualizations using modern frontend technologies such as React and Nivo</li>
+<li>Optimize frontend performance to ensure fast rendering and smooth interactions for high data volumes</li>
+<li>Conduct code reviews, identify and resolve technical issues, and maintain high coding standards</li>
+<li>Collaborate with other development teams to identify and implement best practices in frontend development and related areas</li>
+</ul><div><strong><br>About you/Requirements</strong></div><div>
+<br>We would love to hear from you if you have significant experience in frontend development and can lead major development projects. You love working with data visualizations and believe React and web components are the future.</div><div>
+<br>In particular, we are looking for:</div><ul>
+<li>Extensive knowledge about JavaScript and React, and preferably Redux and a side effect managing library like Redux-Saga</li>
+<li>Demonstrated experience leading large development projects, with good organization skills and the ability to plan well-structured projects, estimate tasks, manage stakeholders and coordinate with other cross-functional teams</li>
+<li>A knack for data visualizations, with some familiarity of its principles and best practices</li>
+<li>Knowledge about testing frameworks, like Jest</li>
+<li>Excellent communication and collaboration skills, with the ability to work in a remote team environment</li>
+<li>Strong problem-solving skills, attention to detail, and ability to work independently</li>
+</ul><div><strong><br>Some benefits</strong></div><ul>
+<li>Freedom to choose when and how much you work - we only measure results</li>
+<li>24 days of paid time off a year, plus your local holidays</li>
+<li>In-person meetups for team-building (expenses covered)</li>
+<li>4-6 weeks paid sabbatical (depending on the tenure)</li>
+<li>Laptop budget up to €2,500 and it renews every 3 years</li>
+<li>€2,000 budget to set up your home office, and additional €300 every year after 3 years of tenure</li>
+<li>€250 per month for co-working space membership and/or internet service at home</li>
+<li>€4,000 per year contribution to use for training, workshops, and conferences</li>
+<li>€2,000 per year contribution for any equipment or services to improve and/or maintain your physical and mental health</li>
+<li>Support for buying tools you need for doing your best work (even eyeglasses if you need a new pair)</li>
+</ul>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/iphone-photography-school-front-end-developer">https://weworkremotely.com/remote-jobs/iphone-photography-school-front-end-developer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toggl-senior-frontend-developer">https://weworkremotely.com/remote-jobs/toggl-senior-frontend-developer</a></p>
 
                 </details>
                 </td>
@@ -343,7 +371,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>60 days ago</text>
+                <text>61 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-flutter-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -414,7 +442,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>66 days ago</text>
+                <text>67 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-vue-js-developer" align="right" target="_blank">Apply</a>
@@ -482,7 +510,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>93 days ago</text>
+                <text>94 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1" align="right" target="_blank">Apply</a>
@@ -544,7 +572,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>126 days ago</text>
+                <text>127 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-golang-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -609,7 +637,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>214 days ago</text>
+                <text>215 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/socialhub-reactjs-web-developer-remote-saas-m-f-d-1" align="right" target="_blank">Apply</a>
@@ -721,7 +749,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>602 days ago</text>
+                <text>603 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -787,7 +815,7 @@
                     <code>developer,seo,social media,ai</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/ai-application-developer-creator-1632115" align="right" target="_blank">Apply</a>
@@ -847,7 +875,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -916,7 +944,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -993,7 +1021,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -1019,7 +1047,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1096,7 +1124,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1240,7 +1268,7 @@
                     <code>developer,design,Figma</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/website-developer-1601883" align="right" target="_blank">Apply</a>
@@ -1545,6 +1573,103 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
+                    <h3>Algorithm Developer (Cryptocurrency Trading)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4951630&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <div class="careers-block__trix external-panel text-left">
+<div>
+<div class="careers-block__trix external-panel text-left">
+<p><strong>The Team:</strong></p>
+<p><span style="font-weight: 400;">The Finance Team at Status is comprised of top professionals with diverse backgrounds and complementary skillsets. The team is lean and agile, having implemented substantial operational improvements in the organisation in the past 20 months in line with the evolving business needs.</span></p>
+<p><span style="font-weight: 400;">With the growth in the contributor base and the project portfolio we have a need to actively manage our treasury as a separate business unit and are looking to strengthen our team by engaging an investment analyst.</span></p>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+<h4><strong>The Role:</strong></h4>
+<p>As an Algorithm Developer for Cryptocurrency Trading, you will play a vital role in our decentralised organisation. It is a newly created position, and will report to the Finance Director. You will work closely with the Founders and Finance team developing different algorithms for cryptocurrency trading strategies</p>
+<p>&nbsp;</p>
+<p><strong>Key responsibilities:&nbsp;</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Develop low-latency trading algorithms for trading on cryptocurrency exchanges.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Write production-ready code to integrate trading algorithms with various marketplaces; </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Establish rules and create a structure for automatic management of the order book. Design rules for risk management across exchanges and asset pairs; </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Monitor the performance of the strategies deployed into production and propose their improvements.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Collaborate with the Finance team to improve trading strategies.&nbsp;<br></span></li>
+</ul>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+<p><strong>You ideally will have:</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">M.S. or PhD degree from a top university in Engineering, Mathematics, Statistics, Computer Science, or related area; </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with low-latency programming C++;&nbsp;<br></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with data analysis and machine learning in Python or Mathlab;&nbsp;<br></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prior experience in cryptocurrency trading, e.g. excellent knowledge of cryptocurrencies and their mechanisms, a solid understanding of decentralised finance instruments and strategies, and others;&nbsp;<br></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ability to work independently and remotely in a fully decentralised organisation.<br></span></li>
+</ul>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+<p><strong>Bonus points if:</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with Linux</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Knowledge of networking protocols and REST / WebSocket / FIX</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prior work experience in a trading or investment management environment is a plus</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Prior experience in cryptocurrency trading</span></li>
+</ul>
+<p><span style="font-weight: 400;">[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</span></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Compensation</strong></p>
+<p>We are happy to pay in any mix of fiat/crypto.</p>
+<p>&nbsp;</p>
+<p><strong>Hiring process</strong></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Angel</span><span style="font-weight: 400;"> from our people ops team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with a Ruslan,</span><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;">from the f</span><span style="font-weight: 400;">inance</span><span style="font-weight: 400;">&nbsp;team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with </span><span style="font-weight: 400;">Johannes,</span><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;">from the f</span><span style="font-weight: 400;">inance</span><span style="font-weight: 400;">&nbsp;team</span></li>
+<li><span style="font-weight: 400;">Interview with C</span><span style="font-weight: 400;">arl,</span><span style="font-weight: 400;"> the</span><span style="font-weight: 400;"> co-founder</span></li>
+</ol>
+<p>&nbsp;</p>
+<p><strong>Get to know us</strong></p>
+<p><span style="font-weight: 400;">We care deeply about open source software, and our organizational structure does away with a strict hierarchy and fixed work hours. We believe in working with a high degree of autonomy while supporting the organisation's priorities.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">We are Remote and Decentralized.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">We are 100+ employees spread across 30+ different countries</span></li>
+<li style="font-weight: 400;">We are driven by shared <a href="https://our.status.im/our-principles/">principles</a> and believe in complete transparency. That's why everything we do is completely public to the entire community. You can view our <a href="https://github.com/status-im/">development</a>, <a href="https://www.youtube.com/channel/UCFzdJTUdzqyX4e9dOW7UpPQ">Town Halls</a>, and <a href="https://discuss.status.im/">conversations</a>.&nbsp;</li>
+</ul>
+</div>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+
+    
+
+    
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -1827,7 +1952,8 @@
 <p>This is an exciting opportunity for a software engineer passionate about open source software, Linux, Kubernetes, and Observability. Build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, the growing international software company behind Ubuntu.</p>
 <p>The monitoring stack will monitor applications running on a mix of cloud technologies such as Kubernetes and OpenStack, as well as bare-metal, virtual machines and containers. The stack will be capable of monitoring applications and infrastructure irrespective of whether they are operated by Juju, and will leverage multiple data sources at various levels of the architecture, including Juju itself, to contextualize the collected telemetry and insights delivered to the end-users.</p>
 <p>You can read more about the project <a href="https://grafana.com/blog/2021/10/28/open-source-done-right-why-canonical-adopted-grafana-loki-and-grafana-agent-for-their-new-stack/">here</a> and <a href="https://juju.is/blog/model-driven-observability-part-1">here</a>.</p>
-<h3><strong>What you’ll do</strong></h3>
+<p><strong>Location: </strong><em>This role will be based remotely in the EMEA and Americas regions</em></p>
+<h2>What your day will look like</h2>
 <ul>
 <li>Collaborate proactively with a globally distributed team</li>
 <li>Write, test and document high quality code to create new features</li>
@@ -1836,7 +1962,7 @@
 <li>Attend conferences to represent Canonical and the Charmed Observability Stack</li>
 <li>Work from home with global travel 2 to 4 weeks for internal and external events</li>
 </ul>
-<h3><strong>Who you are</strong></h3>
+<h2>What we are looking for in you</h2>
 <ul>
 <li>You love technology, observability and working with brilliant people</li>
 <li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li>
@@ -1850,7 +1976,26 @@
 <li>You have experience with infrastructure-as-code and configuration management tools</li>
 <li>You have interest and experience with two or more of the following: Ubuntu Linux, container images, Debian packaging, snap, distributed systems.</li>
 </ul>
-<p><em>We are proud to foster a workplace free from discrimination. We truly believe that diversity of experience, perspectives, and background will lead to a better environment for our employees and a better platform for our users and customers. This is something we value deeply and we encourage everyone to come be a part of the world of Ubuntu.</em></p><p>Requisition ID: 405</p><p></p>
+<h2>What we offer you</h2>
+<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.&nbsp;&nbsp;</p>
+<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, please ask your Talent Partner.</p>
+<ul>
+<li>Fully remote working environment - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of 2,000USD per annum</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Parental Leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues at ‘sprints’</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote&nbsp;</p><p>Requisition ID: 405</p><p></p>
     
                 </details>
                 </td>
