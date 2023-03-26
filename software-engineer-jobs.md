@@ -1,71 +1,5 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/5180/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Paymentology</h5>
-                    <h3> Senior Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>9 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/paymentology-senior-software-engineer-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/5180/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> London, UK
-    <br /><strong>URL:</strong> <a href="https://paymentology.com">https://paymentology.com</a>
-</p>
-
-<div>Paymentology is the first truly global issuer-processor, giving banks and fintechs the technology, team and experience to rapidly issue and process Mastercard, Visa and UnionPay cards across more than 50 countries, at scale. </div><div>Our advanced, multi-cloud platform, offering both shared and dedicated processing instances, vast global presence and richer, real-time data, set us apart as the leader in payments.<br><br>
-</div><div>As a <strong>Remote Senior Software Developer</strong> at Paymentology you'll be working in the Engineering team to build enterprise-level, highly scalable, highly secure financial processing systems that power tens of millions of transactions and tie them to web, mobile and API interfaces that make it easy for people to issue, redeem and reconcile prepaid and credit cards all over the world.<br><br><strong>What you get to do:</strong><br><br>This position requires the ability to develop high-quality and resilient solutions to meet the rapidly evolving needs of an issuer processor serving an international expanding customer base and to communicate effectively at all levels, from providing the right level of details in the status updates on your work to explaining technical trade-offs, technical complexities and design options so Paymentology can make informed decisions.</div><ul>
-<li>Work within a remote team disseminated throughout the world</li>
-<li>Architect, design and develop projects from end to end</li>
-<li>Make things simple for ourselves and our customers</li>
-<li>Collaborate with other engineers to prioritize and ship features</li>
-<li>Mentor other engineers on the team, and be mentored by others</li>
-<li>Partner with Product Managers to scope and estimate new work</li>
-<li>Participate in on-call coverage</li>
-</ul><div>
-<br><strong>What it takes to succeed:<br></strong><br>
-</div><div>We're looking for people that make stuff work with:</div><ul>
-<li>Experience developing in Java at scale (large systems with high availability and TPS requirements), but we welcome experience in other programming languages</li>
-<li>Experience with relational databases (MySQL, Postgres, MS SQL Server, Oracle, etc.)</li>
-<li>Experience in financial transaction processing/banking or related industries</li>
-<li>Experience with AWS as a cloud provider an advantage</li>
-</ul><div>
-<br><strong>Above all, we are looking for developers...</strong>
-</div><div><br></div><div>                                                         <em>Who love to write great software</em>
-</div><div>                                                     <em>Who are passionate about their craft</em>
-</div><div>                                               <em>Who are willing to learn, as well as coach</em>
-</div><div><br></div><div>Let’s also not forget languages (not the programming kind); While you will work with colleagues located throughout the world, English is our company language so it's important that you be able to communicate at a fluent level, in both spoken and written form.</div><div>Flexible hours are a must for our remote team. You’ll need to be able to occasionally shift your work hours to participate into on-call duties and better align with colleagues for the scope of specific projects.<br><br>
-</div><ul>
-<li>Developing, managing and maintaining card network transactions at scale</li>
-<li>Building best-of-breed backend experiences for our customers, internal and external</li>
-<li>Create and review engineering design documentation</li>
-<li>Continuously improve our systems, infrastructure and processes with a focus on quality</li>
-<li>Create features, review each other's code and collaborate with a diverse set of stakeholders across the company</li>
-<li>Coach others</li>
-<li>Influence/drive the architectural decisions and processes on the platform, from unit testing/documentation requirements to implementation processes</li>
-</ul><div>
-<br><strong>What you can look forward to:</strong><br><br>
-</div><div>At Paymentology we value making a difference to the lives of the people who work for us and who live in the communities where we operate. You can look forward to working with a diverse, global team where Paymentologists at all levels play an important part in our global mission to advance the world through payments and make a difference on a global scale. </div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/paymentology-senior-software-engineer-1">https://weworkremotely.com/remote-jobs/paymentology-senior-software-engineer-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -76,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>61 days ago</text>
+                <text>62 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
