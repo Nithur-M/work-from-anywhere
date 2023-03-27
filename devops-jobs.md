@@ -1,70 +1,105 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/5744/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Proxify AB</h5>
+                    <h5>Contra</h5>
                     <h3> Senior DevOps Engineer</h3>
                 </td>
                 <td width="300">
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>170 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/contra-senior-devops-engineer-2" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
+                <img src="https://we-work-remotely.imgix.net/logos/0083/5744/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
+  <strong>Headquarters:</strong> San Francisco, CA
+    <br /><strong>URL:</strong> <a href="http://bit.ly/3kLhMdk">http://bit.ly/3kLhMdk</a>
 </p>
 
-<div><strong>The Role:</strong></div><div>We are searching for a Senior DevOps Engineer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div><br></div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
-<li>You have +4 years of solid development experience as a DevOps Engineer;</li>
-<li>You have +3 years of experience in Azure Cloud and Kubernetes;</li>
-<li>You have good understanding of operating, monitoring, and documenting cloud solutions;</li>
-<li>Responsible and able to work with minimal supervision;</li>
-<li>Upper-intermediate English level;</li>
-<li>You can communicate well with both technical and non-technical clients.</li>
-</ul><div>
-<strong><br>Nice-to-have:</strong> <br><br>
+<div>We're looking for a <strong>Senior DevOps Engineer</strong> to join our engineering team and help us build the best platform for independents &amp; clients. As a DevOps engineer, you are an integral member of our engineering organization. You'll not only help scale our infrastructure and CI/CD pipelines, but also have the chance to shape our technological choices and processes for ensuring the growth, stability and success of the Contra platform. This is a major role at a rapidly expanding startup, working with a team of highly accomplished yet humble people who are passionate about our company's mission. ✨</div><div>
+<strong><br>How you’ll add value at Contra:<br></strong><br>
 </div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Azure certifications in Cloud development and architecture would be a plus.</li>
+<li>Expert knowledge in a wide variety of DevOps technologies &amp; best practices</li>
+<li>Knowledge and experience leveraging Google Cloud Platform natively and with complimentary tech</li>
+<li>Excellent communication and documentation skills</li>
+<li>Collaboration with the rest of the team through regular communication, information sharing and mentorship</li>
+<li>Designing, engineering and maintaining solutions for a highly resilient, scalable and fault-tolerant infrastructure</li>
+<li>Improving &amp; scaling CI/CD pipelines</li>
+<li>Developing, maintaining and improving monitoring, alerting and reporting tools</li>
+<li>Providing on-going operational support</li>
+<li>Identifying and improving the developer experience</li>
+<li>Bridging the gap between our infrastructure and our applications, you have experience and comfort working within TypeScript/JavaScript Node.js environments and can identify and resolve issues that straddle the line between "infrastructure and application</li>
+<li>We expect you to be self-sufficient and take the initiative to drive the company forward. We are looking for individuals who are highly energetic, capable and ambitious, and who are eager to expand their knowledge and show how their contributions help achieve business objectives.</li>
 </ul><div>
-<strong><br>Responsibilities:<br></strong><br>
+<strong><br>You’ll be successful here if you are:<br></strong><br>
 </div><ul>
-<li>Set up and maintain local development and test environments (based on containers and similar technologies);</li>
-<li>Set up CI/CD pipelines, including build processes for container images and delivery to container registries;</li>
-<li>Planning and setting up automated updates to AKS (Azure Kubernetes Service) and surrounding infrastructure components;</li>
-<li>Continued setup and improvement of Cloud infrastructure to support new cloud-native solutions;</li>
-<li>Collaborate with the stakeholders.</li>
+<li>
+<strong>Mission-driven.</strong> Our mission truly resonates with you and you would like to be a part of what we are building together at Contra!</li>
+<li>
+<strong>A dedicated team player.</strong> You thrive in a collaborative, remote-only environment and you are comfortable with 8 am - 1 pm PST core hours!</li>
+<li>
+<strong>Passionate about learning.</strong> Share a genuine curiosity for learning, always eager to pick up new skills. We don’t expect everyone to know everything but you learn quickly!</li>
+<li>
+<strong>Goal oriented.</strong> Understand what you need to do in order to achieve your goals without needing all of the bells and whistles.</li>
+<li>
+<strong>Committed to trying.</strong> Have the resilience and willingness to try and try again even if you fail after a few attempts!</li>
+<li>
+<strong>Ambitious attitude.</strong> You bring a strong work ethic and contagious energy to your team as we work towards our North Star.</li>
+<li>
+<strong>Path Paver.</strong> Joining a startup you enjoy taking ownership, building out processes and documentation that might not exist to share with your team members.</li>
 </ul><div>
-<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change the project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule<br>.🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
-<br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of the Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
+<strong><br>Our stack:<br></strong><br>
+</div><ul>
+<li>ArgoCD</li>
+<li>AlloyDB / PostgreSQL</li>
+<li>Github Actions</li>
+<li>Google Cloud Platform</li>
+<li>Fluentbit</li>
+<li>Kubernetes, Helm &amp; Docker</li>
+<li><a href="http://node.js/">Node.js</a></li>
+<li>Meillisearch</li>
+<li>OpsGenie</li>
+<li>Redis</li>
+<li>Temporal</li>
+<li>Traefik</li>
+<li>Turbo repo</li>
+<li>TypeScript</li>
 </ul><div>
-<br><br><br>
-</div>
+<strong><br>You'll love Contra for:<br></strong><br>
+</div><ul>
+<li>🌎 Remote-only culture that is here to stay</li>
+<li>🍎 100% health coverage for US full-time employees, and health reimbursements for all international contractors</li>
+<li>💸 $4,000 laptop reimbursement upon starting + additional for equipment, co-working, and meetups</li>
+<li>💰 401k matching for US full-time employees</li>
+<li>💛 No-meeting Tuesdays &amp; Wednesdays</li>
+<li>👋 Generous time off</li>
+<li>👶 Flexible parental leave</li>
+<li>💁 A custom slack emoji, just for you!</li>
+</ul><div>
+<strong><br>Our interview process:<br></strong><br>
+</div><ul>
+<li>Intro Call (15-30 minutes)</li>
+<li>Interview #1 In Depth Technical Discussion Chat with Hiring Manager (45 minutes)</li>
+<li>Interview #2 Culture Interview</li>
+<li>Interview #3 Founder Interview</li>
+</ul><div>
+<strong><br>Salary + Equity Range<br></strong><br>
+</div><ul>
+<li>$145,000 -$160,000 USD</li>
+<li>Equity Value Range: $72k - $180k USD</li>
+</ul>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer">https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/contra-senior-devops-engineer-2">https://weworkremotely.com/remote-jobs/contra-senior-devops-engineer-2</a></p>
 
                 </details>
                 </td>
@@ -204,30 +239,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 10pt">Coalesce Software is hiring a DevOps Engineer to help us build the future of data analytics tooling. In this role you will play an important role in delivering our SaaS product to our customers at velocity and with reliability, working closely with our product, engineering, and customer success teams to keep our product moving forward and ensure an exceptional user experience for our customers.</span></div><div><br></div><div><span style="font-size: 10pt">What exactly does Coalesce do? Coalesce solves the most commonly failed project in IT: the data warehouse. Companies today need to be-data driven to be competitive. Coalesce is the only cloud-first data platform that enables companies to transform and streamline their analytics process, enabling data-driven decision making and visibility at enterprise scale.</span></div></div><div class="section page-centered"><div><h3>Key Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Design and implement automated software builds, testing infrastructure, deployments, and associated monitoring</li><li>Contribute to CI/CD processes and infrastructure to facilitate faster deployment and testing times for software engineering teams</li><li>Contribute to planning and prioritization discussions</li><li>Facilitate onboarding customers from an infrastructure perspective</li></ul></ul></div></div><div class="section page-centered"><div><h3>Qualifications</h3><ul class="posting-requirements plain-list"><ul><li>Proficient with Kubernetes and/or Docker, preferably experience with GKE</li><li>Proficient with Google Cloud Platform or any major cloud platform--including experience with setting up and maintaining VMs, load balancing, containerization, certificates, etc.</li><li>Experience with GitHub Actions and Argo or similar CI/CD tooling</li><li>Experience with Terraform or similar IaaS</li><li>Experience with monitoring SaaS services</li><li>Exposure to software testing and the software development lifecycle</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 10pt">Not a perfect fit? That’s OK! We have senior team members that can help you level up… Most importantly we are looking for individuals with the demonstrated ability to independently learn and develop. If you have an interest in data analytics and building great software with a high caliber team, we want to hear from you.</span></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit cerulean" data-qa="show-page-apply" href="https://jobs.lever.co/coalesce.io/497eaa6d-bd10-438d-8ea9-0cf90a2b2d05/apply">Apply for this job</a></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1618665164999360515/9HfoZiGf_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Istari</h5>
-                    <h3>DevOps and Infrastructure Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/istaridigital.ai/e0a19011-5421-4df8-bf61-d97d4b027994" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div>[ABOUT ISTARI]</div><div><span style="font-size: 11pt">Istari is a digital engineering software company enabling our customers to turn the physical world into the digital to accomplish their specific mission or business objectives.</span></div><div><br></div><div><span style="font-size: 11pt">Istari was founded with the vision of making open, scalable digital engineering ecosystems a reality – where new technologies and systems are created digitally, free from the real-world constraints of costs and schedules. We are creating the world’s best engineering model sharing platform, allowing our customers to simply and securely integrate their models across different engineering disciplines, organizations, and security levels.</span></div><div><br></div><div><span style="font-size: 11pt">At Istari, we are passionate about our mission of creating the world's first open and scalable industrial metaverse. Whether our customers are designing prototypes, performing virtual testing, or training AI and autonomy for complex systems, we know that going digital will save them time, resources, and reduce their environmental impact.&nbsp;&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">While we are a distributed team with most team-members working remotely, we place an emphasis on staying connected and collaborative, prioritizing in-person opportunities to build trust as a team. At Istari, we still believe that trust is best built in-person. To do this, we have an engineering headquarters in Cambridge, MA for focused technical development and several times per year we gather for an off-site that allows us to develop our professional skills and our team relationships.</span></div><div><br></div><div>[VALUES]</div><div>At Istari, we live by our values, which include:</div><div><br></div><div><b>Purposeful Autonomy</b></div><div>We value letting people self-organize and self-motivate.&nbsp;</div><div>Our flat structure and lack of meeting clutter are meant to empower individuals and teams to be proactive.</div><div>Our autonomy is measured, goal-oriented, and results-driven –&nbsp;not meandering. </div><div>Clear objectives help us prioritize our time.</div><div><br></div><div><b>Radical Transparency</b></div><div>We believe in honest-but-kind communication, transparency, and open-door policies. </div><div>We love learning about challenges and tackling them early, not hearing good or bad news late. </div><div>We share work-in-progress across our team.&nbsp;</div><div>Fast feedback keeps autonomy purposeful.</div><div><br></div><div><b>Continual Curiosity</b></div><div>At Istari, we love learning to do things ourselves. </div><div>We ask, read, share, teach – even watch YouTube videos – to learn new skills to solve problems. </div><div>When we make breakthroughs, we write them down.&nbsp; &nbsp;</div><div>Writing focuses ideas, helps us learn, and helps us share.</div><div><br></div><div>At Istari, we are looking for a skilled and motivated DevOps and Infrastructure Engineer to join our growing team and help us streamline our software development and deployment processes, as well as optimize our infrastructure.</div></div><div class="section page-centered"><div><h3>Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Collaborate with cross-functional teams to design, develop, and implement scalable and robust infrastructure, deployment, and monitoring solutions.</li><li>Configure and maintain CI/CD pipelines to automate and optimize software build, testing, and deployment processes.</li><li>Develop and implement infrastructure as code (IaC) using tools such as Terraform, CloudFormation, or Pulumi.</li><li>Manage and maintain cloud infrastructure using providers like AWS, Azure, or Google Cloud Platform.</li><li>Monitor and troubleshoot system and application issues, identifying root causes and implementing effective solutions.</li><li>Ensure that systems are secure and compliant with industry best practices and regulatory requirements.</li><li>Continuously evaluate and recommend improvements to existing infrastructure, tools, and processes to enhance efficiency and reliability.</li><li>Develop and maintain technical documentation for infrastructure, tools, and processes.</li><li>Participate in on-call rotation for incident response and resolution.</li><li>Mentor and provide guidance to other team members on DevOps and infrastructure best practices.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Requirements</h3><ul class="posting-requirements plain-list"><ul><li>Bachelor's degree in Computer Science, Information Technology, or a related field, or equivalent work experience.</li><li>3+ years of experience in DevOps, systems administration, or a similar role.</li><li>Strong understanding of CI/CD principles and experience with tools such as Jenkins, GitLab CI, or CircleCI.</li><li>Proficient with scripting languages such as Python, Bash, or PowerShell.</li><li>Hands-on experience with infrastructure as code (IaC) tools, e.g., Terraform, CloudFormation, or Pulumi.</li><li>Experience with containerization technologies like Docker and orchestration platforms such as Kubernetes or Amazon ECS.</li><li>Familiarity with cloud platforms (AWS, Azure, GCP) and related services.</li><li>Knowledge of monitoring and logging tools such as ELK, Grafana, or Prometheus.</li><li>Strong problem-solving skills, attention to detail, and ability to work independently and collaboratively.</li><li>Excellent verbal and written communication skills.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 24px">BENEFITS</span></div><div>We offer highly competitive benefits, including:</div><div><br></div><div><span style="font-size: 18px">Health and Family</span></div><div>- Medical/Dental/Vision</div><div>- Premiums are 100% Company Paid</div><div>- Life Insurance</div><div>- Flexible Work Hours&nbsp;</div><div>- Unlimited Paid Time Off (PTO) with federal government holidays</div><div><br></div><div><span style="font-size: 18px">Financial</span></div><div>- Competitive Compensation&nbsp;</div><div>- 401k&nbsp;</div><div>- Company Stock Options</div><div>- Home Office Setup Budget</div><div><br></div><div><span style="font-size: 18px">Learning</span></div><div>- Reimbursement for approved trainings and subscriptions</div><div>- Conferences (travel, lodging, and fees)</div><div><br></div><div>Note - some benefits are not available to interns.</div><div><br></div><div>Thank you for your interest in Istari. Expect to hear back from us soon with next steps.</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit cerulean" data-qa="show-page-apply" href="https://jobs.lever.co/istaridigital.ai/e0a19011-5421-4df8-bf61-d97d4b027994/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr></table>
