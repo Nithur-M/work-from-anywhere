@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>62 days ago</text>
+                <text>63 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -566,90 +566,6 @@
 <p><strong>Compensation</strong></p>
 <p>The expected compensation range for this role is $65,000 - $80,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process. We are happy to pay in any mix of fiat/crypto).&nbsp;</p>
 <p>&nbsp;</p>
-
-    
-
-    
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Status</h5>
-                    <h3>Software Engineer - Nim</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4889526&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <h4><strong>Nwaku</strong></h4>
-<p><span style="font-weight: 400;">We are building Waku as a public good infrastructure. Waku is the messaging layer of Web3.</span></p>
-<p><span style="font-weight: 400;">It is a decentralized, censorship-resistant, privacy-preserving communication network that enables anyone to send and receive messages without worrying about surveillance or de-platforming.</span></p>
-<p><span style="font-weight: 400;">We are developing 3 open source implementations of Waku: nwaku, go-waku and js-waku.</span></p>
-<p><span style="font-weight: 400;">Nwaku is the reference implementation of Waku, in which protocols are first implemented. Nwaku is used as a service node to operate the Waku Relay network, the backbone of the Waku network.</span></p>
-<p><span style="font-weight: 400;">Our main repo is </span><a href="https://github.com/waku-org/nwaku/"><span style="font-weight: 400;">https://github.com/waku-org/nwaku/</span></a><span style="font-weight: 400;">.</span></p>
-<p><span style="font-weight: 400;">We are looking for software engineers that are passionate about Ethereum, decentralization and software excellence, and who would relish the opportunity to create a first-class decentralized messaging network and bring these new capabilities to the Web3 ecosystem!</span></p>
-<p><strong>Key responsibilities</strong></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Implement and develop open protocols for secure messaging.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Create and maintain a sustainable and fault-tolerant distributed system.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Write and maintain Nim code.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Understand and optimize the core functionality of complex software systems.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Provide feedback on overall design decisions, and participate in code reviews</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Use libp2p to build application-level protocols.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Build incentivized, distributed systems.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interpret and implement solutions based on academic research.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Support platforms and operators using nwaku software.</span></li>
-</ul>
-<p><strong>You ideally will have</strong></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">A passion for blockchain technology, privacy-preserving technology and decentralization.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">At least 4 years of software engineering experience.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with low-level/strongly typed languages (C/C++/Go/Rust or Java/C#).</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Embedded systems development experience.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience building networking-heavy applications and p2p networking specifically.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Familiarity with message propagation in loosely connected networks.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Familiar with p2p building blocks such as gossiping, routing and discovery (DHTs), and Nat traversal.</span></li>
-</ul>
-<p><strong>Bonus points if you have</strong></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Contributed to a blockchain-related, open-source project.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Embedded in the Ethereum community.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with Nim.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with C bindings and FFIs.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with off-the-shelf networking stacks such as libp2p / devp2p.</span></li>
-</ul>
-<p><span style="font-weight: 400;">[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</span></p>
-<p><strong>Hiring process</strong></p>
-<ol>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with our People Ops team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Technical Interview with a member of the Waku Team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Pair Programming Interview with a member of the Waku Team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with a Program Lead</span></li>
-</ol>
-<p><strong>Compensation</strong></p>
-<p><span style="font-weight: 400;">The expected compensation range for this role is $90,000 - $130,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process. We are happy to pay in any mix of fiat/crypto).&nbsp;</span></p>
 
     
 
