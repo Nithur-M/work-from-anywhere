@@ -10,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/createape-inc-junior-product-manager" align="right" target="_blank">Apply</a>
@@ -55,7 +55,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/paymentology-product-manager-1" align="right" target="_blank">Apply</a>
@@ -255,30 +255,6 @@
 <p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your <a href="https://canonical.com/careers/diversity/identity">identity</a> we will give your application fair consideration.</em></p>
 <p>#LI-remote</p><p>Requisition ID: 480</p><p></p>
     
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1618665164999360515/9HfoZiGf_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Istari</h5>
-                    <h3>Senior Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/istaridigital.ai/912e84f0-d9e1-4d62-afb6-5e6dbcc3551c" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div>[ABOUT ISTARI]</div><div><span style="font-size: 11pt">Istari is a digital engineering software company enabling our customers to turn the physical world into the digital to accomplish their specific mission or business objectives.</span></div><div><br></div><div><span style="font-size: 11pt">Istari was founded with the vision of making open, scalable digital engineering ecosystems a reality – where new technologies and systems are created digitally, free from the real-world constraints of costs and schedules. We are creating the world’s best engineering model sharing platform, allowing our customers to simply and securely integrate their models across different engineering disciplines, organizations, and security levels.</span></div><div><br></div><div><span style="font-size: 11pt">At Istari, we are passionate about our mission of creating the world's first open and scalable industrial metaverse. Whether our customers are designing prototypes, performing virtual testing, or training AI and autonomy for complex systems, we know that going digital will save them time, resources, and reduce their environmental impact.&nbsp;&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">While we are a distributed team with most team-members working remotely, we place an emphasis on staying connected and collaborative, prioritizing in-person opportunities to build trust as a team. At Istari, we still believe that trust is best built in-person. To do this, we have an engineering headquarters in Cambridge, MA for focused technical development and several times per year we gather for an off-site that allows us to develop our professional skills and our team relationships.</span></div><div><br></div><div>[VALUES]</div><div>At Istari, we live by our values, which include:</div><div><br></div><div><b>Purposeful Autonomy</b></div><div>We value letting people self-organize and self-motivate.&nbsp;</div><div>Our flat structure and lack of meeting clutter are meant to empower individuals and teams to be proactive.</div><div>Our autonomy is measured, goal-oriented, and results-driven –&nbsp;not meandering. </div><div>Clear objectives help us prioritize our time.</div><div><br></div><div><b>Radical Transparency</b></div><div>We believe in honest-but-kind communication, transparency, and open-door policies. </div><div>We love learning about challenges and tackling them early, not hearing good or bad news late. </div><div>We share work-in-progress across our team.&nbsp;</div><div>Fast feedback keeps autonomy purposeful.</div><div><br></div><div><b>Continual Curiosity</b></div><div>At Istari, we love learning to do things ourselves. </div><div>We ask, read, share, teach – even watch YouTube videos – to learn new skills to solve problems. </div><div>When we make breakthroughs, we write them down.&nbsp; &nbsp;</div><div>Writing focuses ideas, helps us learn, and helps us share.</div><div><br></div><div>[INTENT]</div><div>As the Senior Product Manager, y<span style="font-size: 11pt">ou will work cross-functionally to guide products from conception to launch by connecting the technical and business worlds. You will break down complex problems into steps that drive product development. You will drive the product life cycle and be an influential member of a cross-functional product team.</span></div><div><br></div><div>[WHAT SUCCESS LOOKS LIKE]</div><div><span style="font-size: 11pt">If the Senior Product Manager is doing their job right, they will demonstrate product (user, customer, industry, domain, and company) knowledge. They will also demonstrate mastery of product process skills and techniques to include product discovery and optimization as well as capability in product delivery and development. They will be effectively communicating with a variety of internal and external stakeholders and ensuring everyone is on the same page. They will find a balance between user needs and business goals while questioning and validating assumptions as required. </span></div><div><br></div><div>[SKILLS AND QUALIFICATIONS]</div><div>8+ years product management experience</div><div>Proven success working with cross-functional teams across all levels of an organization</div><div>Strong written and verbal communication skills</div><div>Strong presentation skills</div><div>Must be a U.S. citizen</div></div><div class="section page-centered"><div><h3>Responsibilities (but not limited to):</h3><ul class="posting-requirements plain-list"><ul><li>Working closely under the direction of senior leadership to execute the product vision and strategy</li><li>Contributing to the product roadmap with data-driven insights to ensure that product solutions are valuable and viable</li><li>Design and implement solutions to key problems in alignment with product strategy</li><li>Effective prioritization of product features in collaboration with product and engineering leadership</li><li>Defining and monitoring relevant KPIs and control of the measures to achieve the product objectives</li><li>Analyze customer needs, current market trends, and potential partnerships to drive&nbsp;</li><li>Drive the product and planning process across cross-functional teams of the company</li><li>Conducting and/or overseeing research to gain a deep understanding of the customer/end user’s needs to facilitate data-driven decisions</li><li>Collaborate closely with all Istari teams on the development and release of products and balance of resources to ensure success for the entire organization</li><li>Ability to work on multiple projects in various stages simultaneously</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 24px">BENEFITS</span></div><div>We offer highly competitive benefits, including:</div><div><br></div><div><span style="font-size: 18px">Health and Family</span></div><div>- Medical/Dental/Vision</div><div>- Premiums are 100% Company Paid</div><div>- Life Insurance</div><div>- Flexible Work Hours&nbsp;</div><div>- Unlimited Paid Time Off (PTO) with federal government holidays</div><div><br></div><div><span style="font-size: 18px">Financial</span></div><div>- Competitive Compensation&nbsp;</div><div>- 401k&nbsp;</div><div>- Company Stock Options</div><div>- Home Office Setup Budget</div><div><br></div><div><span style="font-size: 18px">Learning</span></div><div>- Reimbursement for approved trainings and subscriptions</div><div>- Conferences (travel, lodging, and fees)</div><div><br></div><div>Note - some benefits are not available to interns.</div><div><br></div><div>Thank you for your interest in Istari. Expect to hear back from us soon with next steps.</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit cerulean" data-qa="show-page-apply" href="https://jobs.lever.co/istaridigital.ai/912e84f0-d9e1-4d62-afb6-5e6dbcc3551c/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
