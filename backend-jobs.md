@@ -10,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toggl-senior-backend-growth-engineer" align="right" target="_blank">Apply</a>
@@ -93,7 +93,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toggl-senior-backend-engineer" align="right" target="_blank">Apply</a>
@@ -174,7 +174,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>65 days ago</text>
+                <text>66 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-backend" align="right" target="_blank">Apply</a>
