@@ -10,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/createape-inc-junior-product-manager" align="right" target="_blank">Apply</a>
@@ -120,32 +120,32 @@
                 <details><summary>Description</summary>
                 
     <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
-<h2><strong>Who we are</strong></h2>
+<h2><span style="color: #a112ff;">Who we are</span></h2>
 <p><span style="font-weight: 400;">Our mission at Sourcegraph is to make it so that </span><a href="https://handbook.sourcegraph.com/strategy-goals/strategy"><span style="font-weight: 400;">everyone can code</span></a><span style="font-weight: 400;">, not just ~0.1% of the population. Our code intelligence platform helps developers and </span><a href="https://about.sourcegraph.com/customers/"><span style="font-weight: 400;">companies</span></a><span style="font-weight: 400;"> with billions of lines of code create the software you use every day. By enabling more people to code, we believe we will create economic opportunity across the world and will drive progress that benefits everyone.</span></p>
 <p><span style="font-weight: 400;">It’s an exciting time to join Sourcegraph. Our business is growing rapidly: we’ve experienced exponential growth and our </span><a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/"><span style="font-weight: 400;">$125M Series D from Andreessen Horowitz</span></a><span style="font-weight: 400;"> and </span><a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"><span style="font-weight: 400;">$50M Series C from Sequoia</span></a><span style="font-weight: 400;"> have given us the opportunity to make big ambitious bets on our future. We have a huge market (every company that builds software) and massive opportunity (most developers haven't even heard of code intelligence yet, but once you've used it, you can't live without it--just like Google). By continuing to hire exceptional people, we have the opportunity to make Sourcegraph one of the biggest technology companies in the world. </span></p></div>
 
-    <h2><strong>Working hours</strong></h2>
-<p><span style="font-weight: 400;">Given that we are an all-remote company and hire </span><a href="https://handbook.sourcegraph.com/departments/people-ops/process/how-we-engage-talent-outside-the-us/"><span style="font-weight: 400;">almost anywhere</span></a><span style="font-weight: 400;"> in the world, we don’t have a location requirement for this role. However, your working hours must overlap wit</span><span style="font-weight: 400;">h US time zones </span><span style="font-weight: 400;">for at least 10 hours/week.</span></p>
-<h2><strong>Why this job is exciting</strong></h2>
+    <h2><span style="color: #a112ff;"><strong>Working hours</strong></span></h2>
+<p><span style="font-weight: 400;">🌎 Given that we are an all-remote company and hire </span><a href="https://handbook.sourcegraph.com/departments/people-ops/process/how-we-engage-talent-outside-the-us/"><span style="font-weight: 400;">almost anywhere</span></a><span style="font-weight: 400;"> in the world, we don’t have a location requirement for this role. However, your working hours must overlap wit</span><span style="font-weight: 400;">h US time zones </span><span style="font-weight: 400;">for at least 10 hours/week.</span></p>
+<h2><span style="color: #a112ff;"><strong>Why this job is exciting</strong></span></h2>
 <p><span style="font-weight: 400;">We are creating a machine learning team at Sourcegraph, aimed at creating the most powerful coding assistant in the world. Many companies are trying, but Sourcegraph is uniquely differentiated by our rich code intelligence data and powerful code search platform. In the world of prompting LLMs, context is everything, and Sourcegraph’s context is simply the best you can get: IDE-quality, global-scale, and served lightning fast. We are oftentimes the only tool which has indexed all of a company's code across all teams and systems, which gives us a huge advantage. Our code intelligence, married with modern AI, is already providing a remarkable alpha experience, and you can help us unlock its full potential.</span></p>
 <p><span style="font-weight: 400;">We are looking for a deeply technical Product Manager with an engineering background who is versed in search, code intelligence, and AI. And if you happen to have an entrepreneurial streak, you’re in luck: we have an enterprise distribution pipeline, so whatever you build can be deployed straight to enterprise customers with some of the largest code bases in the world, without all the go-to-market hassle you’d encounter in a startup.</span></p>
-<p><span style="font-weight: 400;">Within one month, you will…</span></p>
+<p><span style="font-weight: 400;">📅 Within one month, you will…</span></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Ramp up on search, code intel, code exploration, and AI</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Meet the teams you will be supporting and get familiar with our product, platform, and AI assistant</span></li>
 </ul>
-<p><span style="font-weight: 400;">Within three months, you will…</span></p>
+<p><span style="font-weight: 400;">📅 Within three months, you will…</span></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Launch a new feature which adds meaningful value to end users</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Defined a vision for how code intelligence and LLMs can work together</span></li>
 </ul>
-<p><span style="font-weight: 400;">Within six months, you will…</span></p>
+<p><span style="font-weight: 400;">📅 Within six months, you will…</span></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Be fully ramped up and owning key pieces of Sourcegraph’s AI strategy&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Be ramped up on other relevant parts of the Sourcegraph product</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Launch the world’s best coding assistant</span></li>
 </ul>
-<h2><strong>About you&nbsp;</strong></h2>
+<h2><span style="color: #a112ff;"><strong>About you&nbsp;</strong></span></h2>
 <p><span style="font-weight: 400;">You are a deeply technical Product Manager, well-versed in deep learning, with a dev tools background and passion for bringing modern AI to improve the developer experience. You have experience in search, code intelligence, and AI. You have been a Product Manager for IDEs, compilers, Visual Studio, or .NET, and come from an engineering background. You empathize with developers and understand why dev tooling is sorely needed. You have experience working with research and design to deliver world class user experiences.You can hold an engineering organization accountable for their decisions. You set strategy and direction based on your deep knowledge of the product, platform, and our customer.&nbsp;</span></p>
 <p><span style="font-weight: 400;">As a Product Manager, you tell the story behind the why of your product area. Through this, you influence, excite, and align folks within your team, and across the organization about what your team is working on. You are organized and provide clarity across the organization and within your team to help provide focus. You are constantly curious - wanting to understand and dig into the data and why behind pain points and problems that our users are facing. You can identify root causes of pain. You’re empathetic - you bring the voice of the user into every conversation, and hold empathy and understanding for your teammates to align on a solution that is right.</span></p>
 <p><span style="font-weight: 400;">Qualifications:</span></p>
@@ -164,20 +164,20 @@
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">You enjoy writing code and can actively contribute to our code base.</span></li>
 </ul>
-<h2><strong>Level</strong></h2>
-<p><span style="font-weight: 400;">This job is an IC4. You can read more about </span><a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/leveling-guide/"><span style="font-weight: 400;">our job leveling philosophy</span></a><span style="font-weight: 400;"> in our Handbook.</span></p>
-<h2><strong>Compensation</strong></h2>
-<p><strong>We pay you an above-average salary</strong><span style="font-weight: 400;"> because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. You will have the flexibility to work and live anywhere in the world</span><em><span style="font-weight: 400;"> (unless specified otherwise in the job description)</span></em><span style="font-weight: 400;">, and we’ll never take your location or current/past salary information into account when determining your compensation.&nbsp; As an </span><a href="https://handbook.sourcegraph.com/company-info-and-process/values/#sts=Open%20and%20transparent"><span style="font-weight: 400;">open and transparent </span></a><span style="font-weight: 400;">company that values equitable and competitive compensation for everyone, our </span><a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/"><span style="font-weight: 400;">compensation ranges are visible</span></a><span style="font-weight: 400;"> to every single Sourcegraph Teammate. To determine your salary, we use a number of market and data-driven salary sources and target the high-end of the range, ensuring that we’re always paying above market regardless of where you live in the world.&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">The target compensation for this role is $185,000 USD base.</span></p>
-<p><span style="font-weight: 400;">In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous </span><a href="https://handbook.sourcegraph.com/benefits-pay-perks/benefits-perks/"><span style="font-weight: 400;">perks &amp; benefits</span></a><span style="font-weight: 400;">.</span></p>
-<h2><strong>Interview process [~5.75 hour total interview]</strong></h2>
+<h2><span style="color: #a112ff;"><strong>Level</strong></span></h2>
+<p><span style="font-weight: 400;">📊 This job is an IC4. You can read more about </span><a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/leveling-guide/"><span style="font-weight: 400;">our job leveling philosophy</span></a><span style="font-weight: 400;"> in our Handbook.</span></p>
+<h2><span style="color: #a112ff;"><strong>Compensation</strong></span></h2>
+<p><strong>💸 We pay you an above-average salary</strong><span style="font-weight: 400;"> because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. You will have the flexibility to work and live anywhere in the world</span><em><span style="font-weight: 400;"> (unless specified otherwise in the job description)</span></em><span style="font-weight: 400;">, and we’ll never take your location or current/past salary information into account when determining your compensation.&nbsp; As an </span><a href="https://handbook.sourcegraph.com/company-info-and-process/values/#sts=Open%20and%20transparent"><span style="font-weight: 400;">open and transparent </span></a><span style="font-weight: 400;">company that values equitable and competitive compensation for everyone, our </span><a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/"><span style="font-weight: 400;">compensation ranges are visible</span></a><span style="font-weight: 400;"> to every single Sourcegraph Teammate. To determine your salary, we use a number of market and data-driven salary sources and target the high-end of the range, ensuring that we’re always paying above market regardless of where you live in the world.&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">💰 The target compensation for this role is $185,000 USD base.</span></p>
+<p><span style="font-weight: 400;">📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous </span><a href="https://handbook.sourcegraph.com/benefits-pay-perks/benefits-perks/"><span style="font-weight: 400;">perks &amp; benefits</span></a><span style="font-weight: 400;">.</span></p>
+<h2><span style="color: #a112ff;"><strong>Interview process [~5.75 hour total interview]</strong></span></h2>
 <p><em><span style="font-weight: 400;">Below is the interview process you can expect for this role (you can read more about </span></em><a href="https://handbook.sourcegraph.com/talent/types_of_interviews"><em><span style="font-weight: 400;">the types of interviews</span></em></a><em><span style="font-weight: 400;"> in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&nbsp;</span></em></p>
-<p><strong>Introduction Stage</strong><span style="font-weight: 400;"> - we have initial conversations to get to know you better…</span></p>
+<p><strong>👋 Introduction Stage</strong><span style="font-weight: 400;"> - we have initial conversations to get to know you better…</span></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#recruiter-screen"><span style="font-weight: 400;">Recruiter Screen</span></a><span style="font-weight: 400;"> with <a href="https://handbook.sourcegraph.com/team/#devon-coords" target="_blank">Devon Coords</a> or <a href="https://handbook.sourcegraph.com/team/#kelsey-nagel" target="_blank">Kelsey Nagel</a></span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#hiring-manager-screen"><span style="font-weight: 400;">Hiring Manager Screen</span></a> with <a href="https://about.sourcegraph.com/blog/introducing-steve-yegge" target="_blank">Steve Yegge</a></li>
 </ul>
-<p><strong>Team Interview Stage</strong><span style="font-weight: 400;"> - we then delve into your experience in more depth and introduce you to members of the team…</span></p>
+<p><strong>🧑‍💻 Team Interview Stage</strong><span style="font-weight: 400;"> - we then delve into your experience in more depth and introduce you to members of the team…</span></p>
 <ul>
 <li><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive"><span style="font-weight: 400;">Resume Deep Dive</span></a></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[Async] Writing exercise</span></li>
@@ -185,7 +185,7 @@
 <li style="font-weight: 400;"><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process_candidates/#technical-interview"><span style="font-weight: 400;">Technical Interview: General</span></a> with <a href="https://handbook.sourcegraph.com/team/#dominic-cooney" target="_blank">Dominic Cooney</a> &amp; <a href="https://handbook.sourcegraph.com/team/#tj-devries" target="_blank">TJ DeVries</a></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[45m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process_candidates/#cross-functional-team-collaboration"><span style="font-weight: 400;">Cross-functional Team Collaboration Interview</span></a> with <a href="https://handbook.sourcegraph.com/team/#owen-convey" target="_blank">Owen Convey</a> &amp; <a href="https://handbook.sourcegraph.com/team/#erika-rice-scherpelz" target="_blank">Erika Rice Scherpelz</a></li>
 </ul>
-<p><strong>Final Interview Stage </strong><span style="font-weight: 400;">- we move you to our final round, where you meet cross-functional partners and gain a better understanding of our business and values holistically…</span></p>
+<p><strong>🎉 Final Interview Stage </strong><span style="font-weight: 400;">- we move you to our final round, where you meet cross-functional partners and gain a better understanding of our business and values holistically…</span></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#values-interview"><span style="font-weight: 400;">Values Interview</span></a></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#leadership-interview"><span style="font-weight: 400;">Leadership Interview</span></a><span style="font-weight: 400;"> with <a href="https://handbook.sourcegraph.com/team/#quinn-slack" target="_blank">Quinn Slack</a>, CEO, or <a href="https://handbook.sourcegraph.com/team/#beyang-liu" target="_blank">Beyang Liu</a>, Co-founder</span></li>
@@ -195,9 +195,9 @@
 
     
 
-    <div class="content-conclusion"><h2><strong>Not sure if this is you?</strong></h2>
+    <div class="content-conclusion"><h2><span style="color: #a112ff;">Not sure if this is you?</span></h2>
 <p><span style="font-weight: 400;">We want a diverse, global team, with a broad range of experience and perspectives. If this job sounds great, but you’re not sure if you qualify, apply anyway! We carefully consider every application, and will either move forward with you, find another team that might be a better fit, keep in touch for future opportunities, or thank you for your time.</span></p>
-<h2><strong>Learn more about us</strong></h2>
+<h2><span style="color: #a112ff;">Learn more about us</span></h2>
 <p><span style="font-weight: 400;">To create a product that serves the needs of all developers, we are building a diverse </span><a href="https://handbook.sourcegraph.com/company-info-and-process/remote"><span style="font-weight: 400;">all-remote team</span></a><span style="font-weight: 400;"> that is </span><a href="https://handbook.sourcegraph.com/team"><span style="font-weight: 400;">distributed across the world</span></a><span style="font-weight: 400;">. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.&nbsp;</span></p>
 <p><span style="font-weight: 400;">We provide </span><a href="https://about.sourcegraph.com/handbook/people-ops/compensation"><span style="font-weight: 400;">competitive compensation</span></a><span style="font-weight: 400;"> and </span><a href="https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks"><span style="font-weight: 400;">practical benefits</span></a><span style="font-weight: 400;"> to keep you happy and healthy so that you can do your best work.&nbsp;</span><span style="font-weight: 400;">&nbsp;</span></p>
 <p><span style="font-weight: 400;">Learn more about what it is like to work at Sourcegraph by reading </span><a href="https://about.sourcegraph.com/handbook/"><span style="font-weight: 400;">our handbook</span></a><span style="font-weight: 400;">.</span></p>
