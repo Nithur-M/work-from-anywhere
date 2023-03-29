@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>64 days ago</text>
+                <text>65 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -193,48 +193,6 @@
 &lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bonus for deep knowledge of at least one major cloud provider, AWS preferred&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1542681228666671107/L5LYJLAD_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Timescale</h5>
-                    <h3>Senior Software Engineer (Platform)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.timescale.com/careers/6492197002?gh_jid=6492197002" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;h3&gt;&lt;strong&gt;General&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We&#39;re looking for experienced engineers to help us build and maintain the platform for our managed TimescaleDB cloud services. You will have the opportunity to work with a close-knit team, building and maintaining the infrastructure that powers our platform. Your work will be instrumental in developing our Kubernetes-based clusters and infrastructure. You will interact with the Kubernetes API and codebase to build controllers, operators, and applications that power our platform. Additionally, you will work closely with and further develop our infrastructure tooling to ensure the health, stability, and maintainability of our clusters.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Timescale is an all-remote organization. This is a full-time position.&lt;/span&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong programming skills (we mostly use Go but are more concerned with good fundamentals)&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Extensive experience with at least one major cloud provider (AWS preferred)&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience designing, understanding, and debugging complex distributed systems&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Deep knowledge of Linux, container environments, and bash&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Familiarity with infrastructure as code (e.g., Terraform, Pulumi, Crossplane)&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;strong&gt;Nice to Haves&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Familiarity with developing Kubernetes operators, controllers, and custom CRDs&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Some experience programming in the Kubernetes ecosystem or using the Kubernetes API&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience deploying, operating, and using major production-level databases. Huge bonus points for PostgreSQL and/or TimescaleDB!&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience deploying and maintaining Kubernetes clusters at scale. Knowledge of Kubernetes cluster orchestration tools like kops or kubeadm a plus&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Req: 2394&lt;/em&gt;&lt;/p&gt;
                 </details>
                 </td>
             </tr>,<tr>
