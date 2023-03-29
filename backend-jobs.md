@@ -10,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toggl-senior-backend-growth-engineer" align="right" target="_blank">Apply</a>
@@ -93,7 +93,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toggl-senior-backend-engineer" align="right" target="_blank">Apply</a>
@@ -174,7 +174,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>66 days ago</text>
+                <text>68 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-backend" align="right" target="_blank">Apply</a>
@@ -219,49 +219,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-backend">https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-backend</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1542681228666671107/L5LYJLAD_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Timescale</h5>
-                    <h3>Senior Software Engineer - Backend / Microservices</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.timescale.com/careers/6492175002?gh_jid=6492175002" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;p&gt;&lt;strong&gt;&lt;em&gt;Timescale helps developers build the next wave of computing, through its managed cloud-native platform for supercharged PostgreSQL. Scale further, build faster, spend less.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Do you love great developer experiences? Databases? Modern cloud infrastructure?&amp;nbsp; Are you excited to help build the next great database cloud, supporting a fully self-service product experience built around a high-degree of automation and scale?&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We&#39;re looking for experienced backend engineers to help us design and build the backend microservices, APIs, and other software infrastructure for Timescale Cloud, which is built primarily in Golang. You’ll have the opportunity to work with a close-knit, experienced team.&amp;nbsp; You’ll design clean microservices and interfaces that will interact both with upstream and frontend APIs and interact with our Kubernetes-based clusters and infrastructure.&amp;nbsp; You’ll care about developing great user experiences for developers and believe that cloud engineering teams should own their products from design to implementation to operation.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;While you’ll help build services serving thousands of customers, it’s still Day 1 here at Timescale.&amp;nbsp; You’ll have the opportunity for significant impact and ownership.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Timescale is a 100% remote organization, with engineers throughout the world. For team effectiveness, this open role is primarily for those in North/South American and European timezones.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;You Will&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Contribute to the growth and success of Timescale Cloud.&amp;nbsp; You will bring your experience, passion, and commitment to building a great database cloud experience for developers worldwide.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Develop in Go, but you can up-level those skills while here&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Work collaboratively with your team and other Timescalers to succeed together. You view communication as a critical part of your job (including both brainstorming random ideas and&amp;nbsp; providing more structured design and code review feedback).&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Ensure that Timescale Cloud remains reliable, scalable, and flexible as we continue to grow, and take the responsibility for hosting customers’ mission-critical databases seriously&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;You Have&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong programming skills (we mostly use Go but are more concerned with good fundamentals)&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience building backend microservices and API-driven development&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;An understanding for designing, understanding, and debugging complex distributed systems.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with at least one major cloud provider (AWS preferred) and infrastructure components such as Kubernetes, containers, Github CI/CD, etc.&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Req: 2393&lt;/em&gt;&lt;/p&gt;
                 </details>
                 </td>
             </tr>,<tr>
