@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/contra-senior-devops-engineer-2" align="right" target="_blank">Apply</a>
@@ -101,6 +101,101 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/contra-senior-devops-engineer-2">https://weworkremotely.com/remote-jobs/contra-senior-devops-engineer-2</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1639500/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Contra</h5>
+                    <h3>Senior DevOps Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>cloud,developer,devops,docker</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1639500" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9);">We're looking for a Senior DevOps Engineer to join our engineering team and help us build the best platform for independents &amp; clients. As a DevOps engineer, you are an integral member of our engineering organization. You'll not only help scale our infrastructure and CI/CD pipelines, but also have the chance to shape our technological choices and processes for ensuring the growth, stability and success of the Contra platform. This is a major role at a rapidly expanding startup, working with a team of highly accomplished yet humble people who are passionate about our company's mission. ✨</p>
+<p style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9);"> </p>
+<p><span style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); outline: var(--artdeco-reset-base-outline-zero); color: rgba(0, 0, 0, 0.9);"><strong>How you’ll add value at Contra:</strong></span></p>
+<ul style="">
+<li style="">Expert knowledge in a wide variety of DevOps technologies &amp; best practices</li>
+<li style="">Knowledge and experience leveraging Google Cloud Platform natively and with complimentary tech</li>
+<li style="">Excellent communication and documentation skills</li>
+<li style="">Collaboration with the rest of the team through regular communication, information sharing and mentorship</li>
+<li style="">Designing, engineering and maintaining solutions for a highly resilient, scalable and fault-tolerant infrastructure</li>
+<li style="">Improving &amp; scaling CI/CD pipelines</li>
+<li style="">Developing, maintaining and improving monitoring, alerting and reporting tools</li>
+<li style="">Providing on-going operational support</li>
+<li style="">Identifying and improving the developer experience</li>
+<li style="">Bridging the gap between our infrastructure and our applications, you have experience and comfort working within TypeScript/JavaScript Node.js environments and can identify and resolve issues that straddle the line between "infrastructure and application</li>
+<li style="">We expect you to be self-sufficient and take the initiative to drive the company forward. We are looking for individuals who are highly energetic, capable and ambitious, and who are eager to expand their knowledge and show how their contributions help achieve business objectives.</li>
+</ul>
+<p style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9);"> </p>
+<p><span style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); outline: var(--artdeco-reset-base-outline-zero); color: rgba(0, 0, 0, 0.9);"><strong>You’ll be successful here if you are:</strong></span></p>
+<ul style="">
+<li style="">Mission-driven. Our mission truly resonates with you and you would like to be a part of what we are building together at Contra!</li>
+<li style="">A dedicated team player. You thrive in a collaborative, remote-only environment and you are comfortable with 8 am - 1 pm PST core hours!</li>
+<li style="">Passionate about learning. Share a genuine curiosity for learning, always eager to pick up new skills. We don’t expect everyone to know everything but you learn quickly!</li>
+<li style="">Goal oriented. Understand what you need to do in order to achieve your goals without needing all of the bells and whistles.</li>
+<li style="">Committed to trying. Have the resilience and willingness to try and try again even if you fail after a few attempts!</li>
+<li style="">Ambitious attitude. You bring a strong work ethic and contagious energy to your team as we work towards our North Star.</li>
+<li style="">Path Paver. Joining a startup you enjoy taking ownership, building out processes and documentation that might not exist to share with your team members.</li>
+</ul>
+<p style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9);"> </p>
+<p><span style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); outline: var(--artdeco-reset-base-outline-zero); color: rgba(0, 0, 0, 0.9);"><strong>Our stack:</strong></span></p>
+<ul style="">
+<li style="">ArgoCD</li>
+<li style="">AlloyDB / PostgreSQL</li>
+<li style="">Github Actions</li>
+<li style="">Google Cloud Platform</li>
+<li style="">Fluentbit</li>
+<li style="">Kubernetes, Helm &amp; Docker</li>
+<li style=""><a class="attributed-text-hyperlink" href="http://node.js/" rel="nofollow" style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); text-decoration: var(--artdeco-reset-link-text-decoration-none); font-weight: var(--font-weight-bold); border: var(--artdeco-reset-link-border-zero); touch-action: manipulation;" target="_blank">Node.js</a></li>
+<li style="">Meillisearch</li>
+<li style="">OpsGenie</li>
+<li style="">Redis</li>
+<li style="">Temporal</li>
+<li style="">Traefik</li>
+<li style="">Turbo repo</li>
+<li style="">TypeScript</li>
+</ul>
+<p style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9);"> </p>
+<p><span style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); outline: var(--artdeco-reset-base-outline-zero); color: rgba(0, 0, 0, 0.9);"><strong>You'll love Contra for:</strong></span></p>
+<ul style="">
+<li style="">🌎 Remote-only culture that is here to stay</li>
+<li style="">🍎 100% health coverage for US full-time employees, and health reimbursements for all international contractors</li>
+<li style="">💸 $4,000 laptop reimbursement upon starting + additional for equipment, co-working, and meetups</li>
+<li style="">💰 401k matching for US full-time employees</li>
+<li style="">💛 No-meeting Tuesdays &amp; Wednesdays</li>
+<li style="">👋 Generous time off</li>
+<li style="">👶 Flexible parental leave</li>
+<li style="">💁 A custom slack emoji, just for you!</li>
+</ul>
+<p style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9);"> </p>
+<p><span style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); outline: var(--artdeco-reset-base-outline-zero); color: rgba(0, 0, 0, 0.9);"><strong>Our interview process:</strong></span></p>
+<ul style="">
+<li style="">Intro Call (15-30 minutes)</li>
+<li style="">Interview #1 In Depth Technical Discussion Chat with Hiring Manager (45 minutes)</li>
+<li style="">Interview #2 Culture Interview (30 minutes)</li>
+<li style="">Interview #3 Founder Interview (30 minutes)</li>
+</ul>
+<p style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9);"> </p>
+<p><span style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); outline: var(--artdeco-reset-base-outline-zero); color: rgba(0, 0, 0, 0.9);"><strong>Salary + Equity Range</strong></span></p>
+<ul style="">
+<li style="">$145,000 -$160,000 USD</li>
+<li style="">Equity Value Range: $72k - $180k USD</li>
+</ul>
+<img src="https://remotive.com/job/track/1639500/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
