@@ -1,5 +1,89 @@
 <div align="center"><h2>PROJECT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/5884/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>GovAssist LLC</h5>
+                    <h3> Agile Project Manager / APM</h3>
+                </td>
+                <td width="300">
+                    <code>DevOps and Sysadmin</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/govassist-llc-agile-project-manager-apm" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/5884/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> US
+    <br /><strong>URL:</strong> <a href="https://govassist.bamboohr.com/jobs/">https://govassist.bamboohr.com/jobs/</a>
+</p>
+
+<div>
+<br><em>We are </em><strong><em>GovAssist.com</em></strong>
+</div><div><br></div><div><br></div><div><br></div><div><br></div><div>
+<br><strong><em>GovAssist LLC</em></strong><em> is the leading company specialized in immigration consultancy dedicated to helping individuals travel to the United States, affiliated with the UT law firm GovAssist Legal which provides legal services on immigration matters. We have offered superlative assistance to more than 250000 clients so far, and we are preparing for a business expansion.</em>
+</div><div><br></div><div><br></div><div>
+<strong><em>GovAssist Legal</em></strong><em> is a non-traditional legal services provider authorized to practice Immigration Law by the UT Supreme Court’s Office of Legal Services Innovation. We collaborate with leisure travelers, business professionals, private organizations, international managers, investors, artists, and other experts for business and work-related travel visas, while we as well represent individuals in family-based immigration matters, permanent residency, and the United States citizenship.</em>
+</div><div><br></div><div><br></div><div><br></div><div>
+<em>We are seeking an </em><strong><em>Agile Project Manager / APM</em></strong><em> to oversee the successful development of our digital products. You will lead a cross-functional development team through all phases of the product development process, from discovery, through development, to product launch using your Agile practices, Project Management processes, and facilitation skills to predictably produce high-quality software releases.</em>
+</div><div><br></div><div><br></div><div><br></div><div><br></div><div><em>RESPONSIBILITIES:</em></div><div><br></div><ul>
+<li>
+<strong><em>Project Planning and Management </em></strong><em>- Define project scope and schedule while focusing on regular and timely delivery of value; organize and lead project status and working meetings; prepare and distribute progress reports; manage risks and issues; correct deviations from plans; and perform delivery planning for assigned projects.</em>
+</li>
+<li>
+<strong><em>Team Management</em></strong><em> - Assist in team development while holding teams accountable for their commitments, removing roadblocks to their work; leveraging organizational resources to improve capacity for project work; and mentoring and developing team members.</em>
+</li>
+<li>
+<strong><em>Product Owner Support </em></strong><em>- Support the Product Owner in managing customer expectations for project deliverables, managing stakeholder communications, and helping to implement an effective system of project governance.</em>
+</li>
+<li>
+<strong><em>Process Management and Improvement</em></strong><em> - Define and manage a well-defined project management process and champion ongoing process improvement initiatives to implement best practices for Agile Project Management.</em>
+</li>
+<li>
+<strong><em>Team Building</em></strong><em> - Promote empowerment of the team, ensure that each team member is fully engaged in the project and making a meaningful contribution, and encourage a sustainable pace with high levels of quality for the team.</em>
+</li>
+</ul><div><br></div><div><br></div><div><br></div><div><em>QUALIFICATIONS:</em></div><div><br></div><ul>
+<li><em>Solid understanding of software development life cycle models as well as expert knowledge of both Agile, Kanban, and traditional project management principles and practices and the ability to blend them together in the right proportions to fit a project and business environment and deliver the business goals.</em></li>
+<li><em>A proven track record of successfully implementing software or web development projects using Agile methodologies including 5+ years of experience as a Project Manager.</em></li>
+<li><em>Prior experience with SCRUM/Agile methodologies with enterprise-level application development projects. PMI-ACP, CSM, or equivalent preferred.</em></li>
+<li><em>Experience overseeing multi-function project teams with at least 10-15 team members including Developers, Business Analysts, and QA Personnel.</em></li>
+<li>
+<em>Balanced business/technical background:</em><ul>
+<li><em>Sufficient level of technical background to provide highly-credible leadership to development teams and to be able to accurately and objectively evaluate complex project risks and issues;</em></li>
+<li><em>Ability to provide leadership to business analysts and collaborate with customers and develop strategies and solutions of high business value.</em></li>
+</ul>
+</li>
+</ul><div><br></div><div><em>REQUIREMENTS:</em></div><div><br></div><div><br></div><div><em>Hard Skills:</em></div><ul>
+<li><em>Bachelor's or Master's degree in Computer Science or another relevant field;</em></li>
+<li><em>Formal Scrum, Kanban, and/or Project Management training;</em></li>
+<li><em>Proficient knowledge of Jira Administration;</em></li>
+<li><em>Strong analytical, planning, and organizational skills with an ability to manage competing demands;</em></li>
+<li><em>In-depth knowledge and understanding of business needs with the ability to establish and maintain a high level of customer trust and confidence;</em></li>
+<li><em>Proven ability to lead software development projects and ensure objectives, goals, and commitments are met;</em></li>
+<li><em>Creative approach to problem-solving with the ability to focus on details while maintaining the “big picture” view;</em></li>
+<li><em>Able to multitask.</em></li>
+</ul><div><br></div><div><em>Soft Skills:</em></div><ul>
+<li><em>Strong motivation and initiative;</em></li>
+<li><em>Organized, detail-orientated, and thorough;</em></li>
+<li><em>Excellent oral and written communications skills and experience interacting with both business and IT individuals at all levels including the executive level;</em></li>
+<li><em>Strong desire to help improve processes and mentor others;</em></li>
+<li><em>Situational leadership;</em></li>
+</ul><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/govassist-llc-agile-project-manager-apm">https://weworkremotely.com/remote-jobs/govassist-llc-agile-project-manager-apm</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/6067/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +94,7 @@
                     <code>Management and Finance</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/amazix-project-manager" align="right" target="_blank">Apply</a>
