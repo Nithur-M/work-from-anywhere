@@ -10,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>37 days ago</text>
+                <text>38 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toggl-senior-backend-growth-engineer" align="right" target="_blank">Apply</a>
@@ -78,87 +78,6 @@
 </ul>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toggl-senior-backend-growth-engineer">https://weworkremotely.com/remote-jobs/toggl-senior-backend-growth-engineer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Toggl</h5>
-                    <h3> Senior Backend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>37 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/toggl-senior-backend-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Tallin
-    <br /><strong>URL:</strong> <a href="https://toggl.com/jobs/">https://toggl.com/jobs/</a>
-</p>
-
-<div>
-<br>We are looking for an experienced Senior Backend Engineer to be a part of one of our cross-functional teams to help us shape the future of the time tracking industry and deliver real value to our customers with both new and improved features.<br><br>
-</div><div>The salary for this position is <strong>€70,000</strong> annually.<br><br>
-</div><div>You can work <strong>from anywhere in the world.<br></strong><br>
-</div><div>
-<strong><br>About the Team<br></strong><br>
-</div><div>We are a global team of 100+ awesome people working from over 40 countries around the globe. We hire globally, you work locally—in the heart of London, a beach outside of São Paulo, or a quiet village near Florence, the choice is yours. Every few months we travel to meet up somewhere in the world and spend some quality time together. We place a huge amount of trust in our people, and we measure the outcomes rather than the work itself. <a href="https://toggl.com/culture/">Our values</a> fuel our results.<br><br>
-</div><div>
-<strong><br>The Role<br></strong><br>
-</div><div>As a Senior Backend Engineer, you will be taking ownership of one or more domains of our product and will work closely with other Backend and Frontend engineers using cutting-edge open source frameworks to highly-available RESTful services and back-end systems.<br><br>
-</div><div>The main technologies you will be working with are Go, PostgreSQL and Google Cloud Infrastructure. Even though you can work whenever you want on your tasks, <strong>our team meetings can happen between 11:00 to 15:00 UTC.</strong> You need to be willing and available to attend these meetings when they happen<br><br>
-</div><div>Your main responsibilities will be:</div><ul>
-<li>developing, scaling and maintaining some of our backend services including the API, reports and other infrastructure services that manage our product and logistics worldwide</li>
-<li>working with multiple teams day to day to bring more value to Toggl’s users, covering customer-facing web and native applications and public APIs</li>
-<li>designing, breaking down, and completing projects of a medium to large scope with high-level productivity</li>
-<li>looking for technical problems of existing system/product without guidance and offering solutions</li>
-<li>leading projects with a small group of people, such as hosting weekly meetings, communicating with other partners and stakeholders</li>
-</ul><div><strong><br>About you</strong></div><div>We would love to hear from you if you strive to solve technical problems of high scope and complexity and have long-standing experience programming in Go.<br><br>
-</div><div>In particular, we are looking for:</div><ul>
-<li>Strong backend engineering experience in Go;</li>
-<li>Significant professional experience with distributed systems, PostgreSQL, and Google Cloud Infrastructure;</li>
-<li>Experience with software engineering best practices (e.g. unit testing, code reviews, design documentation);</li>
-<li>Experience with performance and optimisation problems, particularly at large scale, and a demonstrated ability to both diagnose and prevent these problems;</li>
-<li>Ability to work cross-teams and improve cross-functional relationships which will facilitate ongoing projects;</li>
-<li>Eagerness to make contributions to improve the engineering team. For example, activities like interviewing, or mentoring;</li>
-<li>Mentor and grow junior engineers;</li>
-<li>Ability to give on-point and actionable feedback to peers;</li>
-<li>Effective communication skills: regularly achieve consensus with peers and clear status updates;</li>
-<li>Collaborate across the company to define, design, build and improve our product;</li>
-<li>Proficiency in the English language, both written and verbal, is required for success in a remote and largely asynchronous work environment;</li>
-</ul><div>
-<br>Bonus points for:</div><ul>
-<li>Having full-stack experience;</li>
-<li>Experience with data warehouse and analytics systems</li>
-<li>Experiences with Kubernetes at scale</li>
-<li>Experience with system architecture at scale</li>
-</ul><div><strong><br>Benefits</strong></div><ul>
-<li>Freedom to choose when and how much you work - we only measure results</li>
-<li>24 days of paid time off a year, plus your local holidays</li>
-<li>In-person meetups for team-building (expenses covered)</li>
-<li>4-6 weeks paid sabbatical (depending on the tenure)</li>
-<li>Laptop budget up to €2,500 and it renews every 3 years</li>
-<li>€2,000 budget to set up your home office, and additional €300 every year after 3 years of tenure</li>
-<li>€250 per month for co-working space membership and/or internet service at home</li>
-<li>€4,000 per year contribution to use for training, workshops, and conferences</li>
-<li>€2,000 per year contribution for any equipment or services to improve and/or maintain your physical and mental health</li>
-<li>Support for buying tools you need for doing your best work (even eyeglasses if you need a new pair)</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toggl-senior-backend-engineer">https://weworkremotely.com/remote-jobs/toggl-senior-backend-engineer</a></p>
 
                 </details>
                 </td>
