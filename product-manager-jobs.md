@@ -10,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/createape-inc-junior-product-manager" align="right" target="_blank">Apply</a>
@@ -40,6 +40,60 @@
 </ul>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/createape-inc-junior-product-manager">https://weworkremotely.com/remote-jobs/createape-inc-junior-product-manager</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/8803/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Paymentology</h5>
+                    <h3> Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>21 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/paymentology-product-manager-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0083/8803/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> London, UK
+    <br /><strong>URL:</strong> <a href="https://paymentology.com">https://paymentology.com</a>
+</p>
+
+<div>Paymentology is the first truly global issuer-processor, giving banks and FinTechs the technology, team, and experience to rapidly issue and process Mastercard, Visa, and UnionPay cards across more than 50 countries, at scale. <br><br>
+</div><div>As a rapidly scaling digital payments company, Product is at the core of everything we do. We have built globally distributed teams and are looking for amazing <strong>Product Managers</strong> to join our advanced, multi-cloud platform, offering both shared and dedicated processing instances, a vast global presence, and richer, real-time data to set us apart as the leader in payments. <br><br><strong>What you get to do:<br><br></strong>A key part of your role as a Product Manager at Paymentology will be guiding product &amp; engineering teams to ensure conformation to our design, and governance through a well-formulated process.<br><br>
+</div><div>You will work within a remote team of solution architects and multiple developers disseminated throughout the world.<br><br>
+</div><div>The ideal candidate will combine excellent problem-solving skills and communications expertise with a collaborative approach.<br><br><strong>What it takes to succeed:<br></strong><br>
+</div><ul>
+<li>Experience in payments is crucial for succeeding in this role, as well as a strong technical core competence.</li>
+<li>In particular, familiarity with payment scheme standards such as ISO8583 &amp; ISO20022 is invaluable.</li>
+<li>5+ years of experience as a Product Manager, preferably in a start-up environment, with a minimum of 5 years working in the software industry.</li>
+<li>Investigate, analyze, visualize, articulate, and solve complex problems and concepts and make disciplined decisions based on available information.</li>
+<li>Use knowledge of Requirement Gathering and Analysis to create requirements documents and high-level process maps.</li>
+<li>Is aware of and understands agile methodology and how to apply the agile mindset to all aspects of their work.</li>
+<li>Understanding and experience of backend SaaS concepts related to APIs and webhooks is essential.</li>
+<li>Write epics, user features, and bug stories with QA-minded acceptance criteria, as well as supporting documentation.</li>
+<li>Experience with JIRA, Figma, and/or other relevant tools.</li>
+<li>A nice to have is the ability to construct SQL to retrieve data from databases. </li>
+</ul><div>
+<br><strong><em>Preferences will be given to candidates with expertise in one or more of the following:</em></strong><em><br></em><br>
+</div><ul>
+<li>Experience, knowledge, and understanding of MasterCard/Visa operating regulations and dispute resolution rules for card-present and card-not-present transactions in the full dispute life cycle from 1st chargebacks to arbitration cases.</li>
+<li>Experience working on data-centric tools, including dashboards and automated reports, particularly financial and other reconciliation-related reports.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/paymentology-product-manager-1">https://weworkremotely.com/remote-jobs/paymentology-product-manager-1</a></p>
 
                 </details>
                 </td>
