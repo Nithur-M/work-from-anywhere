@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/govassist-llc-agile-project-manager-apm" align="right" target="_blank">Apply</a>
@@ -94,7 +94,7 @@
                     <code>Management and Finance</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/amazix-project-manager" align="right" target="_blank">Apply</a>
@@ -130,7 +130,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/university-of-virginia-senior-project-manager-for-cloud-applications" align="right" target="_blank">Apply</a>
