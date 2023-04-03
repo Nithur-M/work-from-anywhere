@@ -1,65 +1,5 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/5744/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Contra</h5>
-                    <h3> Freelance Full Stack IOS Engineer at Easel AI, Inc.</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/contra-freelance-full-stack-ios-engineer-at-easel-ai-inc" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0083/5744/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> San Francisco, CA
-    <br /><strong>URL:</strong> <a href="http://bit.ly/3kLhMdk">http://bit.ly/3kLhMdk</a>
-</p>
-
-<div>
-<br>We are seeking a highly skilled Full Stack Engineer with solid experience in developing iOS applications and cloud-based infrastructure to join our team. As a Full Stack Engineer, you will be working together with the Easel AI founding team to create new AI-based end-user applications. Your primary focus will be to develop user-friendly interfaces and integrating the applications with server-side logic, and ensuring the scalability and reliability of our apps. <br><br>
-</div><div>
-<br><br>
-</div><div>Responsibilities:</div><ul>
-<li>Design, develop and maintain web and mobile applications using iOS and cloud-based infrastructure.</li>
-<li>Develop user-friendly interfaces and server-side logic using programming languages such as Swift, Objective-C (frontend) and GoLang, Rust (backend).</li>
-<li>Collaborate with the founding team to ensure apps meet requirements and user needs.</li>
-<li>Write high-quality, clean and maintainable code.</li>
-<li>Design and architect software to ensure scalability, reliability and performance of our applications.</li>
-<li>Keep up to date with the latest trends and technologies in iOS and cloud. </li>
-</ul><div><br></div><div>
-<br>Requirements:<br><br>
-</div><ul>
-<li>Bachelor’s degree in Computer Science, Engineering or related field.</li>
-<li>Minimum of 3 years of experience in software development with a focus on iOS and cloud.</li>
-<li>Comfortable working with version control systems such as Git or Mercurial.</li>
-<li>Experience in a lower-level backend language such as GoLang, C++ or Rust </li>
-<li>Experience interfacing with and/or deploying ML models in production</li>
-<li>Experience having developed an iOS to a production-ready state and shipped to end-users via AppStore Connect. </li>
-<li>Some experience with setting up CI/CD pipelines.</li>
-<li>Strong understanding of server-side technologies and APIs</li>
-<li>Strong problem-solving and analytical skills</li>
-<li>Excellent communication and teamwork skills</li>
-</ul><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/contra-freelance-full-stack-ios-engineer-at-easel-ai-inc">https://weworkremotely.com/remote-jobs/contra-freelance-full-stack-ios-engineer-at-easel-ai-inc</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1641607/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -70,7 +10,7 @@
                     <code>backend,C,C++,cloud</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-full-stack-ios-engineer-1641607" align="right" target="_blank">Apply</a>
