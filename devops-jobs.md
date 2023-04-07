@@ -3,111 +3,6 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Contra</h5>
-                    <h3> Senior DevOps Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>DevOps and Sysadmin</code>
-                </td>
-                <td width="200">
-                <text>7 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/contra-senior-devops-engineer-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> San Francisco, CA
-    <br /><strong>URL:</strong> <a href="http://bit.ly/3kLhMdk">http://bit.ly/3kLhMdk</a>
-</p>
-
-<div>We're looking for a <strong>Senior DevOps Engineer</strong> to join our engineering team and help us build the best platform for independents &amp; clients. As a DevOps engineer, you are an integral member of our engineering organization. You'll not only help scale our infrastructure and CI/CD pipelines, but also have the chance to shape our technological choices and processes for ensuring the growth, stability and success of the Contra platform. This is a major role at a rapidly expanding startup, working with a team of highly accomplished yet humble people who are passionate about our company's mission. ✨</div><div>
-<strong><br>How you’ll add value at Contra:<br></strong><br>
-</div><ul>
-<li>Expert knowledge in a wide variety of DevOps technologies &amp; best practices</li>
-<li>Knowledge and experience leveraging Google Cloud Platform natively and with complimentary tech</li>
-<li>Excellent communication and documentation skills</li>
-<li>Collaboration with the rest of the team through regular communication, information sharing and mentorship</li>
-<li>Designing, engineering and maintaining solutions for a highly resilient, scalable and fault-tolerant infrastructure</li>
-<li>Improving &amp; scaling CI/CD pipelines</li>
-<li>Developing, maintaining and improving monitoring, alerting and reporting tools</li>
-<li>Providing on-going operational support</li>
-<li>Identifying and improving the developer experience</li>
-<li>Bridging the gap between our infrastructure and our applications, you have experience and comfort working within TypeScript/JavaScript Node.js environments and can identify and resolve issues that straddle the line between "infrastructure and application</li>
-<li>We expect you to be self-sufficient and take the initiative to drive the company forward. We are looking for individuals who are highly energetic, capable and ambitious, and who are eager to expand their knowledge and show how their contributions help achieve business objectives.</li>
-</ul><div>
-<strong><br>You’ll be successful here if you are:<br></strong><br>
-</div><ul>
-<li>
-<strong>Mission-driven.</strong> Our mission truly resonates with you and you would like to be a part of what we are building together at Contra!</li>
-<li>
-<strong>A dedicated team player.</strong> You thrive in a collaborative, remote-only environment and you are comfortable with 8 am - 1 pm PST core hours!</li>
-<li>
-<strong>Passionate about learning.</strong> Share a genuine curiosity for learning, always eager to pick up new skills. We don’t expect everyone to know everything but you learn quickly!</li>
-<li>
-<strong>Goal oriented.</strong> Understand what you need to do in order to achieve your goals without needing all of the bells and whistles.</li>
-<li>
-<strong>Committed to trying.</strong> Have the resilience and willingness to try and try again even if you fail after a few attempts!</li>
-<li>
-<strong>Ambitious attitude.</strong> You bring a strong work ethic and contagious energy to your team as we work towards our North Star.</li>
-<li>
-<strong>Path Paver.</strong> Joining a startup you enjoy taking ownership, building out processes and documentation that might not exist to share with your team members.</li>
-</ul><div>
-<strong><br>Our stack:<br></strong><br>
-</div><ul>
-<li>ArgoCD</li>
-<li>AlloyDB / PostgreSQL</li>
-<li>Github Actions</li>
-<li>Google Cloud Platform</li>
-<li>Fluentbit</li>
-<li>Kubernetes, Helm &amp; Docker</li>
-<li><a href="http://node.js/">Node.js</a></li>
-<li>Meillisearch</li>
-<li>OpsGenie</li>
-<li>Redis</li>
-<li>Temporal</li>
-<li>Traefik</li>
-<li>Turbo repo</li>
-<li>TypeScript</li>
-</ul><div>
-<strong><br>You'll love Contra for:<br></strong><br>
-</div><ul>
-<li>🌎 Remote-only culture that is here to stay</li>
-<li>🍎 100% health coverage for US full-time employees, and health reimbursements for all international contractors</li>
-<li>💸 $4,000 laptop reimbursement upon starting + additional for equipment, co-working, and meetups</li>
-<li>💰 401k matching for US full-time employees</li>
-<li>💛 No-meeting Tuesdays &amp; Wednesdays</li>
-<li>👋 Generous time off</li>
-<li>👶 Flexible parental leave</li>
-<li>💁 A custom slack emoji, just for you!</li>
-</ul><div>
-<strong><br>Our interview process:<br></strong><br>
-</div><ul>
-<li>Intro Call (15-30 minutes)</li>
-<li>Interview #1 In Depth Technical Discussion Chat with Hiring Manager (45 minutes)</li>
-<li>Interview #2 Culture Interview</li>
-<li>Interview #3 Founder Interview</li>
-</ul><div>
-<strong><br>Salary + Equity Range<br></strong><br>
-</div><ul>
-<li>$145,000 -$160,000 USD</li>
-<li>Equity Value Range: $72k - $180k USD</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/contra-senior-devops-engineer-2">https://weworkremotely.com/remote-jobs/contra-senior-devops-engineer-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
                     <h5>SportyBet</h5>
                     <h3> DevOps Engineer</h3>
                 </td>
@@ -115,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>60 days ago</text>
+                <text>64 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sportybet-devops-engineer" align="right" target="_blank">Apply</a>
@@ -171,6 +66,76 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Proxify AB</h5>
+                    <h3> Senior DevOps Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>DevOps and Sysadmin</code>
+                </td>
+                <td width="200">
+                <text>182 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Sweden
+    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
+</p>
+
+<div><strong>The Role:</strong></div><div>We are searching for a Senior DevOps Engineer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div><br></div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
+<li>You have +4 years of solid development experience as a DevOps Engineer;</li>
+<li>You have +3 years of experience in Azure Cloud and Kubernetes;</li>
+<li>You have good understanding of operating, monitoring, and documenting cloud solutions;</li>
+<li>Responsible and able to work with minimal supervision;</li>
+<li>Upper-intermediate English level;</li>
+<li>You can communicate well with both technical and non-technical clients.</li>
+</ul><div>
+<strong><br>Nice-to-have:</strong> <br><br>
+</div><ul>
+<li>Timezone: CET (+/- 3 hours);</li>
+<li>Azure certifications in Cloud development and architecture would be a plus.</li>
+</ul><div>
+<strong><br>Responsibilities:<br></strong><br>
+</div><ul>
+<li>Set up and maintain local development and test environments (based on containers and similar technologies);</li>
+<li>Set up CI/CD pipelines, including build processes for container images and delivery to container registries;</li>
+<li>Planning and setting up automated updates to AKS (Azure Kubernetes Service) and surrounding infrastructure components;</li>
+<li>Continued setup and improvement of Cloud infrastructure to support new cloud-native solutions;</li>
+<li>Collaborate with the stakeholders.</li>
+</ul><div>
+<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change the project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule<br>.🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
+<br><br>
+</div><div><strong>Your benefits with Proxify:</strong></div><ul>
+<li>
+<strong>Be part of the Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
+<li>
+<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
+<li>
+<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
+<li>
+<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
+<li>
+<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
+</ul><div>
+<br><br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer">https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1639500/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -181,7 +146,7 @@
                     <code>cloud,developer,devops,docker</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1639500" align="right" target="_blank">Apply</a>
