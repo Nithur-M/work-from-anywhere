@@ -1,61 +1,151 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0001/5597/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Springboard</h5>
-                    <h3> Mentor - UI/UX Design Career Track (Part-time/Remote)</h3>
+                    <h5>Aha!</h5>
+                    <h3> Senior UX Designer</h3>
                 </td>
                 <td width="300">
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>403 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/aha-senior-ux-designer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
+                <img src="https://we-work-remotely.imgix.net/logos/0001/5597/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> San Francisco, CA
-    <br /><strong>URL:</strong> <a href="https://www.springboard.com/">https://www.springboard.com/</a>
+  <strong>Headquarters:</strong> Remote
+    <br /><strong>URL:</strong> <a href="https://aha.io">https://aha.io</a>
 </p>
 
-<div><strong>The Company </strong></div><div> </div><div>At Springboard, we’re on a mission to bridge the world’s skills gap, offering transformative online education in data science, UI/UX design, machine learning, and coding. Our courses may be tech-enabled, but we're ultimately human-centric: each student taps into a vast community throughout their time with us, engaging with fellow students, industry-expert mentors, student advisors, and career coaches, the goal of which is to successfully transition students into their dream job. Through this hybrid approach, we’ve helped thousands of learners revamp their careers and, by extension, their lives, with hundreds of top-notch job offers received every year and a near-perfect placement rate for our program graduates.</div><div>
-<br><strong>The Opportunity</strong>
-</div><div> </div><div>Springboard runs an online, self-paced UI/UX Design Career Track in which participants learn with the help of a curated curriculum and 1-1 guidance from an expert mentor. Our mentor community is the biggest strength of our programs with a Net Promoter Score rated as world class.</div><div> </div><div>If you are as passionate about mentoring as you are about UX and UI, and can give a few hours per week in return for an honorarium, we would love to hear from you.</div><div> </div><div><strong>What does mentoring mean at Springboard?</strong></div><div> </div><div>Mentoring encompasses many levels of support at Springboard. We believe in giving a personalized approach to mentoring students. What this looks like is grading student deliverables on a weekly basis, offering detailed feedback, teaching/modeling concepts that are challenging for students, and/or giving them career pointers about the industry. Depending on your mentees you’ll lean on a teaching approach, being a motivator, advisor, or you may have high level conversions to guide them throughout the course. A mix of diverse students, skills, and abilities offers opportunities to renew your skills or take your skills to the next level. Mentors have said it’s a rewarding opportunity to grow professionally and make a lasting impact. </div><div> </div><div>Please reach out to us with any questions at mentorrecruiting@springboard.com :-)</div><div> </div><div><strong>The Program:</strong></div><ul>
-<li>Completely online</li>
-<li>Self-paced</li>
-<li>Students become proficient in UI/UX with the help of a curated online curriculum, an industry design project, and project-based deliverables</li>
-<li>Coursework is made up of 700+ hour expert-curated curriculum</li>
-<li>On average, students finish in 9 months</li>
-<li>Students are working professionals from all over the world, dedicated to switching careers into UI/UX Design</li>
-<li>Students have a weekly 30-minute checkin with their mentor to discuss questions, projects, and career advice!</li>
-<li>Students communicate with mentors outside of calls on an as-needed basis to support learning and career objectives</li>
-</ul><div><strong>You:</strong></div><ul>
-<li>Are as passionate about teaching design as about design itself</li>
-<li>Are proficient in the topics covered in our<a href="https://www.springboard.com/workshops/ui-ux-design-career-track/"> UI/UX Design Career Track</a> (we are looking for designers who have equal experience in UI and UX)</li>
-<li>Have at least 3 years of relevant work experience, and a high quality  portfolio to showcasing your UI and UX skills</li>
-<li>Are available for weekly, 30-minute video check-ins for each student to help them set and achieve learning goals, provide feedback, and help them move towards getting a job</li>
-<li>Are able to utilize Zoom for the 30-minute calls with students</li>
-<li>Are available outside of weekly calls for each student to review projects and answer questions as needed</li>
-<li>Have experience critiquing work, in particular giving meaningful feedback on visual/UI design, and be able to think on your feet quickly</li>
-<li>Are empathetic and have excellent communication skills</li>
-</ul><div><strong>Benefits:</strong></div><ul>
-<li>Membership in a rich community of expert mentors from great companies like AirBnB, Uber, Google, and Pivotal</li>
-<li>Change the lives of students in our program</li>
-<li>Help us revolutionize online education!</li>
-<li>UI/UX career track mentors are paid an honorarium between $20.50-$37.50 per 30 minute call with students</li>
-<li>Work at your convenience</li>
+<div>
+<br>Aha! helps companies build lovable software. We provide the world's #1 product development tools — <a href="https://www.aha.io/roadmaps/overview">Aha! Roadmaps</a>, <a href="https://www.aha.io/ideas/overview">Aha! Ideas</a>, <a href="https://www.aha.io/create/overview">Aha! Create</a>, and <a href="https://www.aha.io/develop/overview">Aha! Develop</a> — which are used by more than 700,000 builders. Product teams rely on our expertise, guided templates, and training programs via <a href="https://www.aha.io/academy">Aha! Academy</a> to be their best. We are proud to be a very different type of high-growth SaaS company. The business is self-funded, profitable, and 100 percent remote. We are recognized as one of the best fully remote companies to work for, champion the <a href="http://www.bootstrap.company/">Bootstrap Movement</a>, and have given over $1M to people in need through <a href="https://www.aha.io/company/cares">Aha! Cares</a>. Learn more at <a href="https://www.aha.io/">www.aha.io</a>.</div><div><strong><br>Our team</strong></div><div>
+<br>The Aha! UX team is responsible for designing a lovable customer experience. This is a unique responsibility — because our customers use Aha! software to craft terrific experiences for their own end users. So we must set the standard for delivering optimal usability to drive happy use of software. We work within North American time zones so we can easily meet live on video and be exceptional.</div><ul>
+<li>
+<strong>We are curious</strong>: We gain a deep understanding of customer needs and wants.</li>
+<li>
+<strong>We empathize</strong>: We see the product from the customers' perspective and design solutions which improve their lives.</li>
+<li>
+<strong>We design</strong>: We craft delightful product experiences through the user interface, layout, visual design, copy, and interactions.</li>
+<li>
+<strong>We collaborate</strong>: We have no tolerance for drama and celebrate clear communication, effort, and teamwork with product management and engineering.</li>
+<li>
+<strong>We deliver: </strong>We ship new significant functionality every week. We deliver what customers love and have the tenacity it takes to keep doing so.</li>
+<li>
+<strong>We enjoy:</strong> We like what we do. And we want you to love your job too. Learn more about <a href="https://www.aha.io/company/the-responsive-method">The Responsive Method</a>, our company <a href="https://www.aha.io/company/culture">values</a>, and the generous <a href="https://www.aha.io/company/careers/benefits">benefits</a> we offer.</li>
+</ul><div><strong><br>Our products</strong></div><div>
+<br>We aspire for a world of lovable software built by thriving product development teams. We provide the tools and expertise to make it happen:</div><ul>
+<li>
+<strong>Aha! Create </strong>is a digital notebook — record information, whiteboard concepts, and collaborate with the team.</li>
+<li>
+<strong>Aha! Ideas</strong> is a comprehensive idea management solution — crowdsource feedback, engage the community, and analyze trends.</li>
+<li>
+<strong>Aha! Roadmaps </strong>is the complete product management solution — set strategy, prioritize features, and share visual plans.</li>
+<li>
+<strong>Aha! Develop</strong> is a fully extendable agile development tool — prioritize the backlog, estimate work, and plan sprints.</li>
+<li>
+<strong>Aha! Academy</strong> is the best way to learn about product management and Aha! software.</li>
 </ul><div>
-<em>We are an equal opportunity employer and value diversity at our company. We welcome applications from all backgrounds, and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.<br></em> </div><div><strong>California Privacy Rights Notice for Job Applicants</strong></div><div>Under the California Consumer Privacy Act (“CCPA”), Springboard is required to inform California residents who are job applicants about the categories of personal information we collect about you and the purposes for which we will use this information. This <a href="https://www.springboard.com/archeio/download/841f959e9c964e93a87abe993316cc1f/">notice</a> contains disclosures required by the CCPA and applies only to personal information that is subject to the CCPA.</div>
+<br>We use our own products every day, which enable us to develop greater empathy for our customers.</div><div>
+<br>We reject the Minimum Viable Product and embrace the <a href="https://www.aha.io/blog/the-minimum-lovable-product">Minimum Lovable Product</a> (MLP). By doing this, we create something that is valuable and lasting. Customers get products that bring them real joy.</div><div><strong><br>Your experience</strong></div><div>
+<br>You have at least six years of experience in user experience at a high-growth SaaS company. You are consistently the designer everyone turns to when really hard questions need to be answered. You find opportunities to elevate the team and have owned the introduction of new tools, processes, and insights. You are self-motivated, exceptionally detail-oriented, and have a history of major accomplishments to prove it. You work collaboratively, enjoy crossing back and forth between UX and visual design, and love to see your work ship — quickly. You have a "get it done" attitude and a background of delivering superb work again and again.</div><div><strong><br>Your work at Aha!</strong></div><div>
+<br>This is a unique user experience role. We are defining and shaping how product teams at the largest companies in the world build lovable products. And you will help to design the products that help them achieve that. Your responsibilities will include:</div><ul>
+<li>Designing compelling product experiences based on customer needs</li>
+<li>Working closely with the product and engineering teams to design awesome customer experiences based on user and implementation feedback</li>
+<li>Managing significant and complex design projects from start to finish</li>
+<li>Maintaining consistent visual standards and keeping the living style guide up to date</li>
+<li>Partners across teams at every stage to deliver the highest level of quality</li>
+<li>Reviewing features implemented by engineering and providing guidance to ensure pixel-perfect experiences</li>
+<li>Conducting and coordinating usability interviews to gather feedback and insights into customer needs</li>
+<li>Mentoring other designers through design reviews and proactively providing feedback and answering questions</li>
+</ul><div>
+<br>If the UX Designer role sounds appealing, we would love to hear from you. (A real human reviews every application.)</div><div><strong><br>Grow with us</strong></div><div>
+<br>Everyone deserves to reach their fullest potential. We know that when we do work that matters with people we care about in a high-growth environment, we feel engaged and alive. And our goal is to help you do just that. We offer all the benefits you would expect and more, including profit sharing. The specific benefits listed below are reflective of what we offer U.S.-based hires. We also do our best to extend identical benefits to international teammates.</div><ul>
+<li>The base salary range for this role in the US is between $120,000 and $180,000</li>
+<li>Cash-based compensation also includes profit sharing and we contribute a percentage of your total pay each month towards your retirement</li>
+<li>Medical, dental, and vision plans — for many teammates, we cover 100 percent of the premiums</li>
+<li>Up to 200 hours of paid time off a year to spend however you want</li>
+<li>30 to 90 days of paid parental leave and five to 10 days of paid care and bereavement leave</li>
+<li>Up to $1,000 annually for third-party education, along with paid time off to immerse yourself in learning</li>
+<li>Volunteer opportunities throughout the year</li>
+</ul><div>
+<br>Base salary and total compensation are dependent upon many factors, such as: skills, experience, and relevant past roles</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote">https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/aha-senior-ux-designer">https://weworkremotely.com/remote-jobs/aha-senior-ux-designer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4150/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>A.Team</h5>
+                    <h3> Senior Independent UX/UI Designer ($110-$190/hr)</h3>
+                </td>
+                <td width="300">
+                    <code>Design</code>
+                </td>
+                <td width="200">
+                <text>513 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0071/4150/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> NYC, SF, and TLV
+    <br /><strong>URL:</strong> <a href="https://build.a.team/viaweworkremotely">https://build.a.team/viaweworkremotely</a>
+</p>
+
+<div>
+<a href="https://build.a.team/wwrdesignerfasttrack">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior UX/UI designers (along with developers &amp; product folks) to team up with the hand-picked, high-growth companies on their next big thing. <br><br>After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.<br><br>As part of A·Team, you can expect:</div><ul>
+<li>
+<strong>High-paying, meaningful UX/UI design missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
+<li>
+<strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
+<li>
+<strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
+<li>
+<strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
+<li>
+<strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
+</ul><div>
+<br><strong>How to apply:<br></strong>Go here: <a href="https://build.a.team/wwrdesignerfasttrack">https://build.a.team/wwrdesignerfasttrack</a> + mention WWR under how you heard about A·Team. No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.<br><strong><br>What you’ll do:</strong>
+</div><ul>
+<li>Once part of A.Team, you’ll regularly be invited to be the lead designer for impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old-school non-tech incumbents looking to build as a tech giant would.</li>
+<li>Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </li>
+<li>You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is for:</strong>
+</div><ul>
+<li>Senior UX/UI Designers who left large companies and high-growth startups to pursue their craft with autonomy.</li>
+<li>Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</li>
+<li>The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing.</li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is </strong><strong><em>not</em></strong><strong> for:</strong>
+</div><ul>
+<li>People looking for small gigs.</li>
+<li>Folks looking to build simple wordpress/wix/squarespace-style websites.</li>
+<li>Those still early in their careers and recent university/bootcamp grads (at least not yet).</li>
+</ul><div>
+<br><strong>Our long-term vision:<br></strong><a href="https://build.a.team/wwrdesignerfasttrack">A·Team</a> is a new type of company for a new kind of independent software builders. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </div><div>
+<br>To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr</a></p>
 
                 </details>
                 </td>
@@ -71,7 +161,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
