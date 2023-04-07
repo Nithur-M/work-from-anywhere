@@ -1,5 +1,66 @@
 <div align="center"><h2>PROJECT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/7908/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>BBE Marketing Inc</h5>
+                    <h3> Administrative Assistant/Project Manager</h3>
+                </td>
+                <td width="300">
+                    <code>Management and Finance</code>
+                </td>
+                <td width="200">
+                <text>3 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-administrative-assistant-project-manager-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0064/7908/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Hurst, TX
+    <br /><strong>URL:</strong> <a href="http://bbemarketing.com/">http://bbemarketing.com/</a>
+</p>
+
+<div>BBE Marketing creates online products that help businesses connect with celebrities and influencers. We are looking for an administrative assistant to join our team, and assist in completing projects, and manage our social media accounts.<br><br>
+</div><div>
+<strong><br>The tasks include:<br></strong><br>
+</div><ul>
+<li>Be involved in end-to-end project management including planning, documentation, tracking, and communication</li>
+<li>Support the CEO’s recruiting activities, communicating directly with candidates and collaborating with scheduling interviews</li>
+<li>Create and manage email newsletters via Mailchimp</li>
+<li>Assign topics to writers and reviewing their work</li>
+<li>Manage and recruit content creators</li>
+<li>Create and manage content calendar for all social media (TikTok, Instagram, YouTube, Facebook, Twitter)</li>
+<li>Create content for social media using Canva</li>
+<li>Assigning work to researchers and managing work until competition</li>
+<li>Assist in marketing campaigns involving social media, blog content, and online advertising</li>
+<li>Create reports for different areas of business</li>
+</ul><div>
+<strong><br>Requirements:<br></strong><br>
+</div><ul>
+<li>Experience managing social media accounts (TikTok, Instagram, Facebook, TikTok)</li>
+<li>Experience in creating content for social media</li>
+<li>Experience using Google Sheets and Microsoft Excel</li>
+<li>Project Management experience</li>
+<li>Mailchimp experience is a plus</li>
+<li>Wordpress experience is a plus</li>
+<li>Proficiency with designing content is a plus</li>
+<li>Ability to make TikTok videos is a plus</li>
+</ul><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-administrative-assistant-project-manager-1">https://weworkremotely.com/remote-jobs/bbe-marketing-inc-administrative-assistant-project-manager-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/5884/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +71,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/govassist-llc-agile-project-manager-apm" align="right" target="_blank">Apply</a>
@@ -94,7 +155,7 @@
                     <code>Management and Finance</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/amazix-project-manager" align="right" target="_blank">Apply</a>
@@ -120,55 +181,26 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/8210/logo.gif" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1601217/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>University of Virginia</h5>
-                    <h3> Senior Project Manager for Cloud Applications</h3>
+                    <h5>Ecityinteractive</h5>
+                    <h3>Project Manager </h3>
                 </td>
                 <td width="300">
-                    <code>All Other Remote</code>
+                    <code>education,marketing,management,design</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/university-of-virginia-senior-project-manager-for-cloud-applications" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/product/project-manager-1601217" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0083/8210/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Charlottesville, VA
-    <br /><strong>URL:</strong> <a href="https://virginia.edu">https://virginia.edu</a>
-</p>
-
-<div>
-<br>The <a href="https://education.virginia.edu/faculty-research/centers-labs-projects/center-advanced-study-teaching-and-learning-castl">Center for the Advanced Study of Teaching and Learning (CASTL)</a> in the <a href="https://education.virginia.edu/">School of Education and Human Development</a> seeks to hire a Senior Project Manager for Cloud Applications. The incumbent will work with Principal Investigators, external technology consultants, and a supervise a small team. Net and Angular software engineers to guide the design and implementation of an enterprise-level integrated web-based application. The application will draw from existing web-based applications that currently serve a variety of stakeholders focused on improving educational outcomes for young children in Virginia.<br><br>
-</div><div>
-<br>This role and project provide an exciting opportunity to create a novel solution by bringing together several state initiatives with proven records of collecting data to shape public policy in education. It will contribute to our understanding of how early experiences can shape children’s developmental outcomes.<br><br>
-</div><div>
-<br>The ideal candidate has experience in government security reviews and compliance, with proven success in engaging stakeholders in working towards innovative solutions. A major aspect of the role will be to navigate data governance structures across multiple state-level stakeholders and to identify and implement a technical approach that corresponds to project-specific data sharing agreements.<br><br>
-</div><div>
-<strong><br>**This will be a fully remote position**<br></strong><br>
-</div><div>
-<strong><br>The ideal candidate will have the following: <br></strong><br>
-</div><ul>
-<li>Experience and ability to lead a small team of web-based software engineers using an Agile framework</li>
-<li>University and state-level IT review and compliance</li>
-<li>Data governance across multiple organizations and projects</li>
-<li>Knowledge of On-prem to cloud migration</li>
-<li>Strong understanding of system architecture and design for web-based application development</li>
-<li>Experience presenting to multiple stakeholders, translating technical approaches for multiple audiences</li>
-</ul><div>
-<br>For more information on how to apply, please click <a href="https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fuva.wd1.myworkdayjobs.com%2fen-US%2fUVAJobs%2fdetails%2fSenior-Project-Manager-for-Cloud-Applications_R0045488&amp;c=E,1,rqpTAQGKjY6KuFNzDEvjTYgVC9IVnzG5xYbvTUxYweOAYYPIxA4vbaTA-82HBBg71OSrwEsh8bzfivuE5tCSxWEIctlNvhgbBHQ2z5-hQgCWR7g5NB9CHFc,&amp;typo=1">here</a>.<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/university-of-virginia-senior-project-manager-for-cloud-applications">https://weworkremotely.com/remote-jobs/university-of-virginia-senior-project-manager-for-cloud-applications</a></p>
-
+                <p style="min-height:1.5em"><strong>About Us.</strong></p><p style="min-height:1.5em">eCity Interactive is a leading design and digital marketing agency rooted in design thinking. Our work is human-centered – from who we serve to the solutions we build and how we arrive there together. We create experiences that inspire action. We’re designers, developers, strategists, marketers, and storytellers. But, first and foremost, we’re problem-solvers—rooted in research and driven by challenge. Ready to be part of something meaningful? Let’s chat.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>You. Our Next Project Manager.</strong></p><p style="min-height:1.5em">You’re deeply committed to project delivery excellence, balancing agency and client economics with tact. Your ability to process while remaining nimble/adaptable sets you apart – and your team loves you for it. Aside from leading, delivering, and managing complex digital solutions, it's important that your work is having a larger impact. You want to support clients who are making a difference in the world. (Us too.)</p><p style="min-height:1.5em">Ready to put your project management chops to good use across a portfolio of higher education clients? You've come to the right place.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>What You’ll Do.</strong></p><ul style=""><li style=""><p style="min-height:1.5em">Manage a portfolio of 4-6 higher ed clients, owning project management from scope/delivery and estimation, through development and deployment.</p></li><li style=""><p style="min-height:1.5em">Drive delivery excellence and compliance. Manage quality and timeliness to deliver on time and in budget, meeting margin targets and contractual obligations.</p></li><li style=""><p style="min-height:1.5em">Build dynamic partnerships across agency and client teams. Leverage relationships to support goals and evolve delivery approaches to align with client/agency needs.</p></li><li style=""><p style="min-height:1.5em">Regularly communicate and document project status and strategic recommendations both internally and externally; proactively escalating issues/roadblocks to mitigate risk.</p></li><li style=""><p style="min-height:1.5em">Partner with Vertical Lead to manage project budgets against variances in profitability, burn, and operational efficiency– ensuring high quality and profitable delivery.</p></li><li style=""><p style="min-height:1.5em">Use and improve standard delivery methodology for delivering program goals. Use PM tools/tech, knowledge repos, and collaboration systems to help advance our PMO.</p></li><li style=""><p style="min-height:1.5em">Provide project administrative support; including project initiation, folder management, status reports, scheduling, vendor onboarding, invoicing, etc.</p><p style="min-height:1.5em"></p></li></ul><p style="min-height:1.5em"><strong>Why You’re Great.</strong></p><ul style=""><li style=""><p style="min-height:1.5em">You bring a breadth of experience as Project Lead–overseeing multiple concurrent and complex digital projects with high-quality deliverables in a fast-moving environment.</p></li><li style=""><p style="min-height:1.5em">You’re scrappy. You know smaller budgets call for smart strategy with high efficiency. You love getting creative– marrying process and flexibility to propose sharp solutions.</p></li><li style=""><p style="min-height:1.5em">You think strategically and plan ahead. You proactively anticipate, plan, and adjust project planning to mitigate potential risk.You love learning about different project management methodologies and know how/when to call on the right approach for the project. </p></li><li style=""><p style="min-height:1.5em">You have a knack for digital strategy and love scoping work that spans a breadth of digital channels, driving complex, holistic strategies across a portfolio of accounts.</p></li><li style=""><p style="min-height:1.5em">Your communication skills are top notch. You have an incredibly high EQ, which powers your ability to effectively partner across stakeholders with varied interests/demands.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em">💰 Compensation: The salary range for this role is $60,000—$80,000 (commensurate with experience)</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Our Benefits.</strong></p><p style="min-height:1.5em"><em>Available to full-time employees.</em></p><ul style=""><li style=""><p style="min-height:1.5em">Competitive Salary (see above) &amp; Profit Sharing</p></li><li style=""><p style="min-height:1.5em">Excellent Benefits: medical, dental, vision, disability, life, FSA, HSA</p></li><li style=""><p style="min-height:1.5em">401k with Company Matching (up to 1.5%)</p></li><li style=""><p style="min-height:1.5em">Unlimited PTO &amp; 11 Paid Holidays</p></li><li style=""><p style="min-height:1.5em">Summer Fridays</p></li><li style=""><p style="min-height:1.5em">Annual $500 Professional Development Budget</p></li><li style=""><p style="min-height:1.5em">Quarterly Team Outings</p></li><li style=""><p style="min-height:1.5em">Flexible, Remote Work Environment </p></li><li style=""><p style="min-height:1.5em">Work/Life Balance Commitment</p></li><li style=""><p style="min-height:1.5em">Transit Benefits (for team members local to our Philadelphia HQ)</p></li></ul><img src="https://remotive.com/job/track/1601217/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -192,7 +224,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18px">Location: Remote - Anywhere </b>(Open to applicants located anywhere around the globe.)</div><div><br></div><div>A Senior Project Manager at 10up is not just a task manager, but a strategic contributor to every project, and the driver for successful client delivery. Join a team of collaborative, cross-discipline professionals who have been pushing the boundaries of enterprise-level projects for over 12 years.</div><div><br></div><div>You’ll have ownership and input on a combination of innovative, challenging projects and ongoing support engagements—we believe in balanced and diverse workloads through dedicated resource management. We have a supportive Client Delivery structure, with established PM processes, while still allowing for autonomy.</div><div><br></div><div>As a leading digital agency, 10up’s client roster spans from innovative startups and impactful non-profits, to some of the biggest names in the industry, such as ESPN, Google, The New York Times Co., and The Nobel Prize Committee.&nbsp;</div><div><br></div><div>As a 10upper, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 38+ countries, 10up fully embraces the benefits of distributed work.</div><div><br></div></div><div class="section page-centered"><div><h3>What you will do: </h3><ul class="posting-requirements plain-list"><ul><li>Act as the day-to-day Project Manager for 4 - 7 active projects; exhibiting senior-level ownership over all project scopes/plans, client meetings, written status updates, demos, risk management and iterative scope / expectation management.&nbsp;</li><li>Consistently track and analyze project progress and budget burn, and work with group and project leadership to escalate concerns and/or risks, and mitigate appropriately.</li><li>Ensure superior quality deliverables by collaboratively engaging cross-discipline leadership, and enforcing rigorous QA processes and standards to provide end to end delivery and client satisfaction.</li><li>Lead discovery engagements (onsite and remotely) that expertly define cross-discipline project requirements and that demonstrate an expert understanding of underlying client business goals and objectives.</li><li>Consistently identify strategic opportunities to engage with the 10up Account Management Team and collaborate towards building strong, long-term client relationships.</li></ul></ul></div></div><div class="section page-centered"><div><h3>About you: </h3><ul class="posting-requirements plain-list"><ul><li>You have experience delivering full scope CMS-based web projects for enterprise clients, ideally in an agency environment, and preferably with a practical understanding of the WordPress platform.</li><li>You can describe tangible examples of deescalating project risks by working with members of your team and leadership to develop collaborative solutions.</li><li>Your roles and responsibilities have been primarily client facing. You are often the main point of contact for client requests, escalations, comprehensive updates, and senior-level consultation.</li><li>You have a proven track record of deescalating project risks by working with members of your team and leadership to develop collaborative solutions.</li><li>You are an effective leader of cross-discipline project teams - across account strategy, experience design, engineering, QA and support - and are able to keep the team motivated and on task to deliver the best project outcomes.</li><li>You have excellent verbal and written English communication skills, both internally and externally.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Benefits of interest:</h3><ul class="posting-requirements plain-list"><ul><li>Mentorship from a dedicated Team Lead and Director of Client Delivery.</li><li>Multiple paid time off programs, including accrued PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day.</li><li>Health, dental, and life insurance programs (available for United States team members).</li><li>Retirement contribution programs (currently available in the U.S. and U.K.).</li><li>$3,000 USD accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study.</li><li>Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations.</li><li>Global Company summits – opportunities to meet, socialize and learn with fellow 10uppers in person at remarkable destinations.&nbsp;</li><li>An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year.</li></ul></ul></div></div><div class="section page-centered"><div><h3>What's next? </h3><ul class="posting-requirements plain-list"><ul><li>If you are passionate about 10up's mission and think you have what it takes to be successful in this role even if you don't check all the boxes, please apply. We'd appreciate the opportunity to personally review your application. Everyone gets a response. Read more about <a href="https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view" class="postings-link">What to Expect</a> through our Recruiting process.</li><li>We don't want you to miss any communication from us! To ensure you receive updates on your application, please add&nbsp;<a href="mailto:jobs@10up.com" class="postings-link"><b>jobs@10up.com</b></a>&nbsp;to your contacts list! #LI-Remote</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><br></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/10up-2/36ed2249-4b91-43f3-9604-9de62e3b558b/apply">Apply for this job</a></div>
+                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18px">Location: Remote - Anywhere </b>(Open to applicants located anywhere around the globe.)</div><div><br></div><div>A Senior Project Manager at 10up is not just a task manager, but a strategic contributor to every project, and the driver for successful client delivery. Join a team of collaborative, cross-discipline professionals who have been pushing the boundaries of enterprise-level projects for over 12 years.</div><div><br></div><div>You’ll have ownership and input on a combination of innovative, challenging projects and ongoing support engagements—we believe in balanced and diverse workloads through dedicated resource management. We have a supportive Client Delivery structure, with established PM processes, while still allowing for autonomy.</div><div><br></div><div>As a leading digital agency, 10up’s client roster spans from innovative startups and impactful non-profits, to some of the biggest names in the industry, such as ESPN, Google, The New York Times Co., and The Nobel Prize Committee.&nbsp;</div><div><br></div><div>As a 10upper, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 38+ countries, 10up fully embraces the benefits of distributed work.</div><div><br></div></div><div class="section page-centered"><div><h3>What you will do: </h3><ul class="posting-requirements plain-list"><ul><li>Act as the day-to-day Project Manager for 4 - 7 active projects; exhibiting senior-level ownership over all project scopes/plans, client meetings, written status updates, demos, risk management and iterative scope / expectation management.&nbsp;</li><li>Consistently track and analyze project progress and budget burn, and work with group and project leadership to escalate concerns and/or risks, and mitigate appropriately.</li><li>Ensure superior quality deliverables by collaboratively engaging cross-discipline leadership, and enforcing rigorous QA processes and standards to provide end to end delivery and client satisfaction.</li><li>Lead discovery engagements (onsite and remotely) that expertly define cross-discipline project requirements and that demonstrate an expert understanding of underlying client business goals and objectives.</li><li>Consistently identify strategic opportunities to engage with the 10up Account Management Team and collaborate towards building strong, long-term client relationships.</li></ul></ul></div></div><div class="section page-centered"><div><h3>About you: </h3><ul class="posting-requirements plain-list"><ul><li>You have experience delivering full scope CMS-based web projects for enterprise clients, ideally in an agency environment, and preferably with a practical understanding of the WordPress platform.</li><li>You can describe tangible examples of deescalating project risks by working with members of your team and leadership to develop collaborative solutions.</li><li>Your roles and responsibilities have been primarily client facing. You are often the main point of contact for client requests, escalations, comprehensive updates, and senior-level consultation.</li><li>You have a proven track record of deescalating project risks by working with members of your team and leadership to develop collaborative solutions.</li><li>You are an effective leader of cross-discipline project teams - across account strategy, experience design, engineering, QA and support - and are able to keep the team motivated and on task to deliver the best project outcomes.</li><li>You have excellent verbal and written English communication skills, both internally and externally.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Benefits of interest:</h3><ul class="posting-requirements plain-list"><ul><li>Mentorship from a dedicated Team Lead and Director of Client Delivery.</li><li>Multiple paid time off programs, including accrued PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day.</li><li>Health, dental, and life insurance programs (available for United States team members).</li><li>Retirement contribution programs (currently available in the U.S. and U.K.).</li><li>$3,000 USD accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study.</li><li>Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations.</li><li>Global Company summits – opportunities to meet, socialize and learn with fellow 10uppers in person at remarkable destinations.&nbsp;</li><li>An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="salary-range"><div>$60,000 - $120,000 a year</div><small><div>The expected annual salary range for this position is between $60,000 and $120,000 USD. Compensation is determined based on a variety of factors including relevant experience, other job related qualifications/skills, geographic location, and business needs.</div></small></div><div class="section page-centered" data-qa="closing-description"><div><b style="font-size: 18px">Join our team!&nbsp;</b></div><div><br></div><div>If you are passionate about 10up's mission and think you have what it takes to be successful in this role even if you don't check all the boxes, please apply. We'd appreciate the opportunity to personally review your application. Everyone gets a response.</div><div><br></div><div>Read more about <a href="https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view" class="postings-link">What to Expect </a>through our Recruiting process.</div><div><br></div><div>We don't want you to miss any communication from us! To ensure you receive updates on your application, please add jobs@10up.com to your contacts list! #LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/10up-2/36ed2249-4b91-43f3-9604-9de62e3b558b/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr></table>
