@@ -1,5 +1,312 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/0935/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Proxify AB</h5>
+                    <h3> Senior Adobe Commerce (Magento II) Developer</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-adobe-commerce-magento-ii-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0084/0935/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Sweden
+    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
+</p>
+
+<div><strong>The Role:</strong></div><div>We are searching for a Senior Magento II Developer. You can be a perfect candidate if you are growth-oriented, take pleasure in your work, and enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features.</div><div><br></div><div><strong>What we are looking for:</strong></div><ul>
+<li>You have 5+ years of extensive experience with Magento II, JavaScript, HTML, PHP, CSS, and MySQL;</li>
+<li>Expert understanding of Magento's code structure, extension architecture, theming hierarchy, and fallback components</li>
+<li>Expertise in authoring and extending Magento extensions</li>
+<li>Thorough experience in customizing Magento's front-end components using layout XML, blocks, and templates</li>
+<li>You got experience with complete eCommerce lifecycle development;</li>
+<li>You have an understanding of modern UX/UI trends;</li>
+<li>You got strong attention to detail;</li>
+<li>You are able to project-manage and work to strict deadlines;</li>
+<li>You have the ability to work in a team environment.</li>
+</ul><div><br></div><div><br></div><div>
+<strong>Nice-to-have:</strong> <br><br>
+</div><ul>
+<li>Timezone: CET (+/- 3 hours);</li>
+<li>Knowledge of TypeScript.</li>
+</ul><div>
+<strong><br>Responsibilities:<br></strong><br>
+</div><ul>
+<li>Meeting with the design team to discuss the needs of the company;</li>
+<li>Building and configuring Magento II eCommerce websites;</li>
+<li>Coding of the Magento templates;</li>
+<li>Developing Magento II modules in PHP using best practices;</li>
+<li>Designing themes and interfaces;</li>
+<li>Setting performance tasks and goals;</li>
+<li>Troubleshooting integration issues;</li>
+<li>Updating website features and security patches.</li>
+</ul><div><br></div><div>
+<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div><br></div><div><strong>Your benefits with Proxify:</strong></div><ul>
+<li>
+<strong>Be part of the Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
+<li>
+<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
+<li>
+<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
+<li>
+<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
+<li>
+<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-adobe-commerce-magento-ii-developer">https://weworkremotely.com/remote-jobs/proxify-ab-senior-adobe-commerce-magento-ii-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Proxify AB</h5>
+                    <h3> Senior Shopify Developer</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-shopify-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Sweden
+    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
+</p>
+
+<div>
+<strong>The Role:<br></strong><br>
+</div><div>We are searching for a Senior Shopify Developer. You can be a perfect candidate if you are growth-oriented, take pleasure in your work, and enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features.</div><div><br></div><div><strong>What we are looking for:</strong></div><ul>
+<li>You have broad shop construction, launch, and maintenance expertise, as well as a general understanding of the admin system.</li>
+<li>You have proven skills in HTML5, CSS3, and JavaScript, as well as a thorough grasp of the DOM.</li>
+<li>You possess previous experience working with a custom theme and/or the Storefront API.</li>
+<li>You own working knowledge of Shopify's theming system and Liquid templating;</li>
+<li>You had previous experience implementing/debugging third-party Shopify apps, as well as building unique solutions if needed.</li>
+<li>You have in-depth knowledge and expertise with Vanilla.JS, jQuery, ES2015/ES6, and current JavaScript frameworks.</li>
+<li>You have a working knowledge of Shopify's object/properties, AJAX API, and Meta fields.</li>
+<li>You possess extensive testing and debugging abilities using the browser console and other tools.</li>
+<li>You had prior experience developing responsive layouts for desktop, tablet, and mobile devices;</li>
+<li>You have working knowledge of third-party services and APIs, as well as Shopify Apps.</li>
+<li>You are capable of communicating effectively and providing proactive feedback.</li>
+</ul><div>
+<strong><br>Nice-to-have:</strong> <br><br>
+</div><ul>
+<li>Timezone: CET (+/- 3 hours);</li>
+<li>Knowledge of TypeScript.</li>
+</ul><div>
+<strong><br>Responsibilities:<br></strong><br>
+</div><ul>
+<li>Create an engaging and knowledgeable online Shopify store to increase sales and revenue;</li>
+<li>Create bespoke Shopify themes and change pre-existing templates per predefined brand guidelines;</li>
+<li>Be an expert in all aspects of the e-commerce platform;</li>
+<li>Work with the UX and UI Design Teams to create unique, strong, and inventive front-end user experiences;</li>
+<li>Ensure a smooth connection with Marketing Tools, Platform APIs, and Shopify Apps to optimize the shop for overall efficiency and functionality;</li>
+<li>Test and debug websites regularly to improve performance;</li>
+<li>Provide technical support and coordination, protecting enterprises against failure;</li>
+<li>Increase conversion rates by optimizing your website.</li>
+</ul><div><br></div><div>
+<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div><br></div><div><strong>Your benefits with Proxify:</strong></div><ul>
+<li>
+<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
+<li>
+<strong>Make an impact</strong>: You get the opportunity to work on the projects that inspire you and add value to your career.</li>
+<li>
+<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
+<li>
+<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
+<li>
+<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-shopify-developer">https://weworkremotely.com/remote-jobs/proxify-ab-senior-shopify-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Proxify AB</h5>
+                    <h3> Senior Wordpress Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-wordpress-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Sweden
+    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
+</p>
+
+<div>
+<strong>The Role:<br></strong><br>
+</div><div>We are searching for a Senior WordPress Developer. You can be a perfect candidate if you are growth-oriented, take pleasure in your work, and enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features.</div><div><br></div><div><strong>What we are looking for:</strong></div><ul>
+<li>You have 5+ years of proven work experience as a WordPress Developer;</li>
+<li>You have experience in plugin development, and theme integration.</li>
+<li>You got knowledge of front-end technologies including CSS3, JavaScript, HTML5, and jQuery;</li>
+<li>You possess knowledge of code versioning tools including Git, Mercurial, and SVN;</li>
+<li>Experience with common front-end development tools such as Babel, Webpack, NPM, etc</li>
+<li>You have experience working with debugging tools such as Chrome Inspector and Firebug;</li>
+<li>You have a good understanding of website architecture and aesthetics;</li>
+<li>You’re able to manage projects;</li>
+<li>You have good communication skills.</li>
+</ul><div>
+<strong><br>Nice-to-have:</strong> <br><br>
+</div><ul>
+<li>Timezone: CET (+/- 3 hours);</li>
+<li>Knowledge of TypeScript.</li>
+</ul><div><br></div><div>
+<strong>Responsibilities:<br></strong><br>
+</div><ul>
+<li>Designing and building the website front-end;</li>
+<li>Creating the website architecture;</li>
+<li>Designing and managing the website back-end including database and server integration;</li>
+<li>Generating WordPress themes and plugins;</li>
+<li>Conducting website performance tests;</li>
+<li>Troubleshooting content issues;</li>
+<li>Conducting WordPress training with the client;</li>
+<li>Monitoring the performance of the live website.</li>
+</ul><div><br></div><div>
+<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div><br></div><div><strong>Your benefits with Proxify:</strong></div><ul>
+<li>
+<strong>Be part of the Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
+<li>
+<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
+<li>
+<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
+<li>
+<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
+<li>
+<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-wordpress-developer">https://weworkremotely.com/remote-jobs/proxify-ab-senior-wordpress-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/1275/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CobbleWeb</h5>
+                    <h3> Senior Full-stack PHP Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>3 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/cobbleweb-senior-full-stack-php-developer-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0084/1275/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> London
+    <br /><strong>URL:</strong> <a href="https://www.cobbleweb.co.uk">https://www.cobbleweb.co.uk</a>
+</p>
+
+<div><strong>What are we looking for?</strong></div><div>We are looking for solution-focused individuals with a can-do attitude. Your commitment to continuous learning means you are tech agnostic – always looking for the best way to execute a project or task. You share our philosophy of purpose-driven development that ensures the best possible outcomes for our clients. Like us, you believe in a strong work ethic and take pride in the quality of your code. You see the big picture and strive for the sense of accomplishment that comes from successfully executing a new project, such as an online marketplace that is perfectly geared for growth. Last but not least, you enjoy collaborating with a team of equally motivated developers and digital strategists.</div><div><br></div><div><strong>Job requirements</strong></div><ul>
+<li>Expert with Symfony framework (3+years experience)</li>
+<li>Expert PHP5, PHP7 (5+years experience)</li>
+<li>Strong Experience developing within REACT using Redux-Saga and Axios (2+years experience)</li>
+<li>Expert MySQL / Doctrine 2 (3+years experience)</li>
+<li>Experience Developing Frontend with Bootstrap/Material (1+years experience).</li>
+<li>Very strong Object Oriented Programming skills</li>
+<li>Experience with GIT (GitFlow)</li>
+<li>Experience with REST APIs</li>
+<li>Use of Docker in local and production environments</li>
+<li>Adoption of Agile methodologies</li>
+<li>Experience with techniques such as TDD, continuous integration and continuous delivery</li>
+<li>Experience with test automation using Behat, Jenkins, Selenium or other testing frameworks would be advantageous</li>
+<li>RabbitMQ, Redis, AWS or Elastisearch is a plus</li>
+<li>Be willing to help your teammates, share your knowledge with them, and learn from them.</li>
+<li>Be open to receiving feedback.</li>
+<li>Be conscientious and have a good work ethic.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/cobbleweb-senior-full-stack-php-developer-2">https://weworkremotely.com/remote-jobs/cobbleweb-senior-full-stack-php-developer-2</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7031/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>VEXXHOST, Inc.</h5>
+                    <h3> Développeur(e) de Kubernetes & Ansible | Kubernetes & Ansible Developer </h3>
+                </td>
+                <td width="300">
+                    <code>DevOps and Sysadmin</code>
+                </td>
+                <td width="200">
+                <text>3 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/vexxhost-inc-developpeur-e-de-kubernetes-ansible-kubernetes-ansible-developer-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/7031/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Pointe-Claire, Quebec, Canada
+    <br /><strong>URL:</strong> <a href="https://vexxhost.com/">https://vexxhost.com/</a>
+</p>
+
+<div><strong>Version Française</strong></div><div>VEXXHOST est une compagnie de cloud computing qui propose des OpenStack clouds publics, clouds privés et des solutions telles que Kubernetes Enablement, les mises à niveau OpenStack et les consultations.</div><div><br></div><div>Nous recherchons un/une Développeur(e) de Kubernetes &amp; Ansible. Cette personne doit avoir une expérience avec Kubernetes, Helm, et Ansible. Si la personne a l'expérience suivante, ce serait un bonus: OpenStack, Prometheus, Python, SRE, et Infrastructure as Code. Un grand avantage est que vous pourrez travailler à la maison. Aussi, vous pouvez travailler si vous ne connaissez que l'anglais.</div><div><br></div><div>Si cela vous intéresse, vous devez soumettre votre CV. Cependant, la lettre est optionnelle, mais ce serait un bonus de nous faire savoir pourquoi vous pensez que vous seriez un bon candidat pour ce rôle.</div><div><br></div><div><strong>English Version</strong></div><div>VEXXHOST is a cloud computing company that offers OpenStack public clouds, private clouds, and managed solutions such as Kubernetes Enablement, OpenStack Upgrades and Consultations.</div><div><br></div><div>We are looking for a Kubernetes &amp; Ansible Developer. This individual must have Kubernetes, Helm, and Ansible experience. If the individual has some of the following experience, it would be a bonus: OpenStack, Prometheus, Python, SRE, and Infrastructure as Code. One great benefit is that you would be able to work from home. Also, you can apply if you only know English. </div><div><br></div><div>If this interests you, you must submit your resume in the application process. However, the cover letter is optional but it would be a bonus to let us know why you think you’d be a good fit for this role.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/vexxhost-inc-developpeur-e-de-kubernetes-ansible-kubernetes-ansible-developer-1">https://weworkremotely.com/remote-jobs/vexxhost-inc-developpeur-e-de-kubernetes-ansible-kubernetes-ansible-developer-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +317,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clutchy-senior-front-end-full-stack-developer" align="right" target="_blank">Apply</a>
@@ -96,7 +403,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -179,7 +486,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tech22-frontend-developer-angular" align="right" target="_blank">Apply</a>
@@ -231,7 +538,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tech22-backend-developer-kotlin" align="right" target="_blank">Apply</a>
@@ -274,135 +581,6 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>BetterQA</h5>
-                    <h3> Backend Developer (Full-Time Contract)</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/betterqa-backend-developer-full-time-contract" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Cluj-Napoca
-    <br /><strong>URL:</strong> <a href="https://betterqa.co">https://betterqa.co</a>
-</p>
-
-<div>
-<strong>Job Title</strong>: Backend Developer (Full-Time Contract)</div><div>
-<strong>Location</strong>: Remote (CET working hours)</div><div>
-<strong>Language Requirement</strong>: English C1</div><div>
-<br><strong>About Us:</strong>
-</div><div>We are a dynamic company that values innovation and collaboration. Our team members are passionate about delivering outstanding solutions for our clients, utilizing cutting-edge technologies and industry best practices. We are currently seeking a Senior Backend Developer to join our team on a full-time contract basis.</div><div>
-<br><br><strong>Responsibilities</strong>:</div><ul>
-<li>Develop and implement integration plans and strategies</li>
-<li>Design and build asynchronous messaging architectures, rule-based systems, and network architectures</li>
-<li>Collaborate with other developers to ensure timely completion of integration projects</li>
-<li>Design and maintain integration architectures following best practices</li>
-<li>Identify and resolve data conflicts and overlaps</li>
-<li>Ensure smooth functioning of the company's integration architecture</li>
-<li>Analyze and improve existing system integrations and migration strategies</li>
-<li>Debug and advise on system errors or architecture issues</li>
-<li>Assist with management of organizational databases and retrieval systems</li>
-<li>Create testing frameworks and coordinate information with the QA team</li>
-<li>Document solutions and code generated</li>
-</ul><div><strong> </strong></div><div><strong>Required Skills and Experience:</strong></div><ul>
-<li>Proficiency in <strong>C#, .NET 4.7.2, Web Forms, REACT, and Node.js</strong>
-</li>
-<li>Experience with Microsoft SQL Server Standard</li>
-<li>Familiarity with SDLC Apps such as Jira Cloud, Confluence, and MS Visual Studio 2019</li>
-<li>Knowledge of DevOps tools, including Azure DevOps/TFS, GitHub, and GIT</li>
-<li>Experience with QA tools such as Progress Test Studio, and manual QA tracked in Jira + Xray</li>
-<li>Expertise in devising and implementing integration development plans and strategies</li>
-<li>Strong understanding of asynchronous messaging architectures, rule-based systems, and network architectures</li>
-<li>Excellent problem-solving and debugging skills</li>
-<li>Solid written and verbal communication skills in English (C1 level)</li>
-</ul><div> </div><div><strong>To Apply:</strong></div><div>If you believe you have the skills and experience required to excel in this position, please submit your CV and a brief cover letter outlining your relevant experience to <a href="mailto:office@betterqa.co">office@betterqa.co</a> .<br><br>
-</div><div>We thank all applicants for their interest; however, only those selected for an interview will be contacted.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/betterqa-backend-developer-full-time-contract">https://weworkremotely.com/remote-jobs/betterqa-backend-developer-full-time-contract</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/0909/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>TempMee</h5>
-                    <h3> Senior React Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/tempmee-senior-react-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0084/0909/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Miami, FL, United States
-    <br /><strong>URL:</strong> <a href="https://tempmee.com">https://tempmee.com</a>
-</p>
-
-<div>
-<strong>What you will do<br></strong><br>
-</div><ul>
-<li>Build and maintain multiple tools in ReactJS and React Native</li>
-<li>Research novel solutions to nuanced and often unchartered engineering challenges</li>
-<li>Work with designers, product managers, and engineers to design impactful products</li>
-<li>Perform and uphold code best practices.</li>
-<li>Produce high-quality code that raises the bar for all engineering team members</li>
-<li>Improve web applications for performance and scalability</li>
-<li>Perform quality assurance/debugging procedures to provide a secure and functional delivery</li>
-<li>Implement testing protocols for managing successful deployments across development, staging, and production environments</li>
-<li>Recommend system solutions by comparing the advantages and disadvantages of custom development and purchasing alternatives</li>
-</ul><div>
-<br><strong>Who you are (Minimum qualifications)</strong>
-</div><ul>
-<li>5 years of experience with software development in one or more programming languages</li>
-<li>3 years of experience testing, maintaining or launching software products, and 1 year of experience with software design and architecture</li>
-<li>Excellent programming skills in JavaScript</li>
-<li>Knowledge of basic visual and user experience principles</li>
-<li>Experience in building pixel-perfect design implementation</li>
-<li>Experience with native mobile platforms iOS and/or Android</li>
-</ul><div><br></div><div><strong>Doesn’t hurt that we also offer….</strong></div><ul>
-<li>A high-growth, a friendly and engaging work environment with the potential for endless career opportunities</li>
-<li>Remote work environment</li>
-<li>Flexible work hours and arrangements</li>
-<li>Market competitive salary</li>
-</ul><div>About us:  TempMee is changing the way the world works - starting with the Dental Industry! We are an ambitious and motivated tech startup that has secured multiple rounds of venture backing to create an Uber-like platform/app to disrupt the dental staffing industry.<br><br>
-</div><div>After launching in late 2019, we have already built the largest community of nationwide hygienists and dental offices. We are in the process of rapidly expanding the capabilities and functions of our app to capture even more market share, and we need high-quality, talented and driven individuals to come aboard and help make TempMee a Unicorn (Unicorn=Start-ups evaluated at $1 billion within five years of launch).<br><br>
-</div><div>Learn More: <a href="https://tempmee.com/">https://tempmee.com/<br></a><br>
-</div><div>
-<em>We are an equal-opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.<br></em><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tempmee-senior-react-developer">https://weworkremotely.com/remote-jobs/tempmee-senior-react-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
                     <h5>MailerLite</h5>
                     <h3> PHP Integration Developer</h3>
                 </td>
@@ -410,7 +588,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/mailerlite-php-integration-developer" align="right" target="_blank">Apply</a>
@@ -512,7 +690,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/0935/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Proxify AB</h5>
@@ -522,7 +700,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>36 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -531,7 +709,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0084/0935/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
   <strong>Headquarters:</strong> Sweden
@@ -604,7 +782,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>37 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/findox-inc-senior-csharp-and-postgresql-backend-developer-4" align="right" target="_blank">Apply</a>
@@ -657,7 +835,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>38 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-unity-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -726,86 +904,17 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Toggl</h5>
-                    <h3> Senior Frontend Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>38 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/toggl-senior-frontend-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Tallinn, Estonia
-    <br /><strong>URL:</strong> <a href="https://toggl.com/jobs/">https://toggl.com/jobs/</a>
-</p>
-
-<div>
-<br>We are looking for a passionate and sharp Senior Frontend Developer with experience in data visualization to join one of our cross-functional product development teams and help us shape the future of the time tracking industry, delivering real value to our customers by introducing new features and improving the existing ones.</div><div>
-<br>The salary for this position is <strong>€68,000</strong> annually</div><div>
-<br>You can <strong>work from anywhere in the world,</strong> provided you have an overlap of 4 hours with a European timezone.<br><br>
-</div><div>
-<strong><br>About the team<br></strong><br>
-</div><div>We are a global team of 130+ awesome people working from over 40 countries around the globe. We hire globally, you work locally - in the heart of London, a beach outside of São Paulo, or a quiet village near Florence, the choice is yours. Every few months we travel to meet up somewhere in the world and spend some quality time together. We place a huge amount of trust in our people, and we measure the outcomes rather than the work itself. Our values fuel our results.<br><br>
-</div><div><strong><br>The role</strong></div><div>
-<br>As a Senior Frontend Developer, you will play a critical role taking ownership in major projects, using React, JavaScript, TypeScript, HTML and CSS to code slick and fast data visualizations that translate our data into meaningful insights.<br><br>
-</div><div>Your main responsibilities will be:</div><ul>
-<li>Work closely with other engineers, product managers and designers to understand requirements and translate them into user-friendly web-based components</li>
-<li>Develop and maintain scalable data visualizations using modern frontend technologies such as React and Nivo</li>
-<li>Optimize frontend performance to ensure fast rendering and smooth interactions for high data volumes</li>
-<li>Conduct code reviews, identify and resolve technical issues, and maintain high coding standards</li>
-<li>Collaborate with other development teams to identify and implement best practices in frontend development and related areas</li>
-</ul><div><strong><br>About you/Requirements</strong></div><div>
-<br>We would love to hear from you if you have significant experience in frontend development and can lead major development projects. You love working with data visualizations and believe React and web components are the future.</div><div>
-<br>In particular, we are looking for:</div><ul>
-<li>Extensive knowledge about JavaScript and React, and preferably Redux and a side effect managing library like Redux-Saga</li>
-<li>Demonstrated experience leading large development projects, with good organization skills and the ability to plan well-structured projects, estimate tasks, manage stakeholders and coordinate with other cross-functional teams</li>
-<li>A knack for data visualizations, with some familiarity of its principles and best practices</li>
-<li>Knowledge about testing frameworks, like Jest</li>
-<li>Excellent communication and collaboration skills, with the ability to work in a remote team environment</li>
-<li>Strong problem-solving skills, attention to detail, and ability to work independently</li>
-</ul><div><strong><br>Some benefits</strong></div><ul>
-<li>Freedom to choose when and how much you work - we only measure results</li>
-<li>24 days of paid time off a year, plus your local holidays</li>
-<li>In-person meetups for team-building (expenses covered)</li>
-<li>4-6 weeks paid sabbatical (depending on the tenure)</li>
-<li>Laptop budget up to €2,500 and it renews every 3 years</li>
-<li>€2,000 budget to set up your home office, and additional €300 every year after 3 years of tenure</li>
-<li>€250 per month for co-working space membership and/or internet service at home</li>
-<li>€4,000 per year contribution to use for training, workshops, and conferences</li>
-<li>€2,000 per year contribution for any equipment or services to improve and/or maintain your physical and mental health</li>
-<li>Support for buying tools you need for doing your best work (even eyeglasses if you need a new pair)</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toggl-senior-frontend-developer">https://weworkremotely.com/remote-jobs/toggl-senior-frontend-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
                     <h5>Proxify AB</h5>
-                    <h3> Senior Flutter Developer</h3>
+                    <h3> Senior Laravel Developer</h3>
                 </td>
                 <td width="300">
-                    <code>Front-End Programming</code>
+                    <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>70 days ago</text>
+                <text>93 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-flutter-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-laravel-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -818,104 +927,35 @@
     <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
 </p>
 
-<div><strong>The Role:</strong></div><div>
-<br>We are searching for a Senior Flutter Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
-<br><br>
-</div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
-<li>You have +3 years of experience using Flutter for Android/iOS applications and deployment on Google Play/App Store;</li>
-<li>You possess an in-depth understanding of front-end languages like HTML, CSS3, and JavaScript.</li>
-<li>You have an extensive understanding of Object Oriented programming languages like Java and C++;</li>
-<li>You are familiar with the usage of version control tools like Git, Subversion, etc. and IDEs like Android Studio, VS Code, etc.;</li>
-<li>​​You follow best practices and conventions;</li>
+<div><strong>The Role:</strong></div><div>We are searching for a Senior Laravel Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div><br></div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
+<li>You have +3 years of experience with Laravel;</li>
+<li>Understanding of the MVC pattern;</li>
+<li>Understanding of SQL databases;</li>
+<li>You follow best practices and conventions;</li>
 <li>Responsible and able to work with minimal supervision;</li>
 <li>Upper-intermediate English level;</li>
 <li>You can communicate well with both technical and non-technical clients.</li>
 </ul><div>
-<strong><br>Nice-to-have:</strong> <br><br>
-</div><ul><li>Timezone: CET (+/- 3 hours)</li></ul><div><br></div><div>
+<strong>Nice-to-have:</strong> </div><ul><li>Timezone: CET (+/- 3 hours)</li></ul><div><br></div><div>
 <strong>Responsibilities:<br></strong><br>
 </div><ul>
-<li>You will be building and shipping robust apps to Android/ iOS devices (using a single codebase);</li>
-<li>​​You will be running and designing product application features across various cross-platform devices;</li>
-<li>You will be writing readable and clear code that will be extensively documented for future use and upgrades;</li>
-<li>You will be sharing feedback and brainstorming ideas with teams to improve the development process;</li>
-<li>Stay up to date with the latest technologies.</li>
-</ul><div><br></div><div>
-<strong>What we offer:<br></strong><br>
-</div><div>💻 <strong>100% remote work</strong>: Work from anywhere.<br><br>
-</div><div>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br><br>
-</div><div>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br><br>
-</div><div>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br><br>
-</div><div>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.<br><br>
+<li>Liaise with fellow backend and front-end developers;</li>
+<li>Design and implement web applications that use the Laravel framework;</li>
+<li>Implement server-side logic to process front inputs;</li>
+<li>Identify and fix bugs that are found within code;</li>
+<li>Interact with SQL databases;</li>
+<li>Ensure all inputs going to a database have been parameterized;</li>
+<li>Ensure the appropriate security standards have been implemented;</li>
+<li>Ensure you've written unit test cases to verify code is performing as expected and to prevent possible security breaches;</li>
+<li>Create written documentation for the different components.</li>
+</ul><div>
+<br><br>
 </div><div>
-<br><br><strong>Your benefits with Proxify:<br></strong><br>
-</div><div>
-<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference.<br><br>
-</div><div> <strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.<br><br>
-</div><div> <strong>Transparency</strong>: Contracts with transparency in earnings and working hours.<br><br>
-</div><div> <strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.<br><br>
-</div><div> <strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-flutter-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-flutter-developer-long-term-job-100-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior React Native Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>123 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-react-native-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div><strong>The Role:</strong></div><div>We are searching for a Senior React Native Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div><br></div><div><strong>What we are looking for:</strong></div><ul>
-<li>You have +4 years of professional experience working with React Native;</li>
-<li>You have +2 years of professional software development experience;</li>
-<li>You have a deep understanding of React Native best practices and a commitment to following them;</li>
-<li>You possess an ability to work through new and difficult React Native issues and contribute to libraries as needed;</li>
-<li>You are able to create and maintain continuous integration and delivery of React Native applications;</li>
-<li>Team spirit: strong communication skills to collaborate with various stakeholders;</li>
-<li>Good time-management skills;</li>
-<li>You are responsible and able to work with minimal supervision;</li>
-<li>Advanced English level.</li>
-</ul><div><strong>Nice-to-have: </strong></div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Experience working with Swift, Objective C, and/or Java.</li>
-</ul><div><strong>Responsibilities:</strong></div><ul>
-<li>Architect, build, and maintain excellent React Native applications with clean code;</li>
-<li>Implement pixel perfect UIs that match designs;</li>
-<li>Implement clean, modern, smooth animations and transitions that provide an excellent user experience;</li>
-<li>Integrate third-party APIs;</li>
-<li>Write unit and integration tests;</li>
-<li>Release applications to the Apple and Google Play stores;</li>
-<li>Work with native modules when required.</li>
-</ul><div><br></div><div>
-<strong>What we offer:</strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
+<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
 <br><br>
 </div><div><strong>Your benefits with Proxify:</strong></div><ul>
 <li>
-<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
+<strong>Be part of the Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
 <li>
 <strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
 <li>
@@ -924,150 +964,293 @@
 <strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
 <li>
 <strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-react-native-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-react-native-developer-long-term-job-100-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior Full Stack Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>210 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-full-stack-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div><strong>The Role:</strong></div><div>We are searching for a Senior Full Stack Developer skilled in React.js and Node.js. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
-<br><br>
-</div><div><strong>What we are looking for:</strong></div><ul>
-<li>4+ years of working experience as a FullStack;</li>
-<li>Frontend:<br>- React JS;<br>- Design System;</li>
-<li>Backend:<br>- Microservices architecture;<br>- NodeJS; </li>
-<li>Database:<br>- SQL;<br>- MongoDB;</li>
-<li>Upper-intermediate or higher English level.</li>
-</ul><div><br></div><div><strong>Nice-to-have: </strong></div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Database Architecture knowledge</li>
 </ul><div>
-<br><br>
-</div><div>
-<strong>What we offer:</strong>💻 <strong>100% remote work</strong>: Work from anywhere.👌🏻 <strong>Flexibility</strong>: The ability to change the project to another one.💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.🚀 <strong>360 degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
-<br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on the projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul>
+<br><br><br><br><br><br><br>
+</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-full-stack-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-full-stack-developer-long-term-job-100-remote</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-laravel-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-laravel-developer-long-term-job-100-remote</a></p>
 
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0017/3489/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0067/1147/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>OpenCraft</h5>
-                    <h3> Senior Open Source Developer & DevOps (Python, Django, React, AWS/OpenStack)</h3>
+                    <h5>OperateBeyond</h5>
+                    <h3> PHP Developer</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>873 days ago</text>
+                <text>543 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0017/3489/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0067/1147/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Fully remote company (worldwide, incorporated in Berlin)
-    <br /><strong>URL:</strong> <a href="https://opencraft.com/">https://opencraft.com/</a>
+  <strong>Headquarters:</strong> Michigan
+    <br /><strong>URL:</strong> <a href="http://operatebeyond.com/">http://operatebeyond.com/</a>
 </p>
 
-<div>Do you care about contributing to open-source, and appreciate a good challenge? We do too! :) <br><br>
+<div><br></div><div>OperateBeyond is a fast growing technology company building web and mobile applications. We specialize in delivering top-notch user experiences paired with solid technology in non-auto vehicle software industry. Our successes come from our teamwork and mutual respect for each other’s talents and unique perspectives.<br><br>
 </div><div>
-<strong>Open-source<br></strong><br>
-</div><div>We are a team of veteran open-source developers, working on educational and community-based projects in an<a href="https://handbook.opencraft.com/en/latest/open_first/"> open-first</a> environment – and we are looking for new members. By joining us, you will work full-time on open-source, pushing your changes to free software projects upstream through pull requests, contributing features, documentation, or help on public forums. </div><div>
-<br>We care deeply about contributing our work upstream. You will see the results of your work reused and recognized across the educational community, increasing access to quality education for everyone, everywhere.</div><div>
-<br><strong>Remote-first</strong>
+<br>So when we say we are looking for a PHP Developer we do want want you to be an awesome back-end developer who’s dabbled with many different projects. We are looking for someone who can hold their own when when it comes to system integrations, databases, and even be interested in understanding more about user experience to help us shape amazing products.<br><br>
 </div><div>
-<br>Unlike companies who reluctantly started to accept remote workers recently, we have embraced it from day 1. For the past 7 years, we have based and refined our way of working around remote-friendly workflows, from the ground up. No day-long video meetings, mandatory work hours, or risk of being forced back into an office one day -- as long as you have a good internet connection, it’s none of our business when or where you work from. :)</div><div>
-<br>We are all working remotely, from all continents (except Antarctica, at least so far - applicants welcome!). We use remote-friendly and timezone-agnostic workflows based on asynchronous principles and good documentation practices.</div><div>
-<br><strong>Online education<br></strong><br>
-</div><div>We are one of the main contributors to the <a href="https://open.edx.org/">Open edX project</a>, the main open-source MOOC platform created by MIT, Harvard and many other top universities. It powers sites like <a href="https://www.edx.org/">edX.org</a>, the <a href="https://openlearning.mit.edu/courses-programs/open-learning-library">MIT Open Learning Library</a>, and the <a href="https://www.fun-mooc.fr/">national online learning platform for France</a>. We provide development and hosting for institutions like <a href="https://onlinelearning.hms.harvard.edu/hmx/">Harvard Medical School</a>, <a href="https://www.labxchange.org">Harvard LabXchange</a>, <a href="https://ondemand.cloudera.com">Cloudera</a>, <a href="https://www.upskill.autodesk.com">Autodesk</a>, and several governments. We are not affiliated with <a href="https://www.edx.org/">edX.org</a>, but we contribute and work with them on various projects. </div><div>
-<br><strong>Technical stack</strong><br><br>
-</div><div>The Open edX project is a large Python/Django codebase, with good code standards and architecture. Tasks are varied, from developing core platform features, custom exercises and tools for specific courses (XBlocks), customizing and deploying instances, working full-stack, operating our service infrastructure, improving our hosting platform, etc. You won't get bored here.<br><br>
-</div><div>
-<strong>Contracting terms<br></strong><br>
-</div><div>This is a full-time, permanent contract position. We aim for long-term relationships -- once in, almost all team members stay for many years. </div><div><br></div><div>We care about paying fairly: </div><ul>
-<li>Team members set their own compensation level, which is paid based on hours worked (no unpaid overtime!). </li>
-<li>When determining your rate, we will expect you to factor in benefits (vacation, healthcare, purchase budgets, etc.) - the idea is to let <em>you</em> pick the benefits that are useful to you, rather than offer one-size-fits-all packages that aren’t always very valuable.</li>
-<li>We also proactively apply generous raises team-wide, based on the company results at the end of each year. <a href="https://handbook.opencraft.com/en/latest/team_compensation/">See the details about how we approach compensation in our handbook</a>.</li>
-</ul><div>We also firmly believe in work-life balance: as long as you deliver what you commit to, there is a lot of latitude in how much work you can choose to accept. We are open to time commitments anywhere in the 30h to 40h/week range, and highly discourage working more than that. It’s important to have time to ourselves, as well as having some slack, and there are diminishing returns in working more anyway. We are currently recruiting precisely to preserve that balance, and ensure we have plenty of capacity to handle our projects.</div><div><br></div><div>We welcome applicants of all genders and ethnicities.</div><div>
-<br><strong>Basic Requirements:</strong>
+<strong><br>What you might do on any given day:<br></strong><br>
 </div><ul>
-<li>Experience with contributing to free software projects - small contributions are completely fine, but you <em>must</em> have at least one patch or pull request merged in a third-party project, or been a maintainer of an open source project with significant adoption. (Note that you can contribute now to satisfy this requirement - see for example the <a href="https://github.com/openedx/build-test-release-wg/projects/1">Open edX release issues</a>, fixing one of these issues guarantees an interview.)</li>
-<li>Senior developer with 3+ years working with Python</li>
-<li>Experience with Python web frameworks, specifically Django</li>
-<li>3+ years of HTML, Javascript, and CSS (experience with React and/or Typescript is a big plus!)</li>
-<li>Experience with unit testing</li>
-<li>Comfortable working in a Linux environment, specifically Debian or Ubuntu</li>
-<li>Experience with databases: MySQL, MongoDB, PostgreSQL</li>
+<li>Work with a variety of technologies and platforms such as PHP, ZF2, ZF1, Laravel, ElasticSearch, MySQL, Vue.js, jQuery and many more technologies we may introduce<br><br>
+</li>
+<li>Collaborate with product managers and technical leads<br><br>
+</li>
+<li>Develop comprehensive use cases and test conditions<br><br>
+</li>
+<li>Take part in analysis efforts, identification, and recommendation of solutions, integration points and related implementation architecture for business usage improvements, scalability and performance.<br><br>
+</li>
+<li>Provide guidance in the form of code review, solution design, and recommended training and development plans.<br><br>
+</li>
+<li>Write unit tests, specs, integration tests, UI tests, and acceptance tests.<br><br>
+</li>
+<li>Advocate for new or improved development practices that increase craftsmanship, availability, resilience, and scalability of our solutions<br><br>
+</li>
 </ul><div>
-<strong>Additional Skills:</strong><br><br>
-</div><div>You will work on tasks from the following categories, but you can pick up the skills on the job if you haven't mastered these yet:</div><ul>
-<li>DevOps experience, especially on Debian/Ubuntu servers, Terraform, Vault, Packer, Prometheus, ELK, Docker. We are building a modern infrastructure and having a strong DevOps presence on top of core software engineering skills is a big plus with us.</li>
-<li>Cloud computing, like AWS or OpenStack</li>
-<li>Configuration management tools such as Ansible, Consul</li>
-<li>RabbitMQ, Redis &amp; Elasticsearch</li>
-<li>Mobile development (iOS and/or Android)</li>
-<li>Managing clients &amp; projects from beginning to completion (senior developer)</li>
-<li>Public speaking at conferences (you would present a talk every year at the Open edX Con)</li>
-</ul><div>
-<br><strong>Apply for this Position</strong><br><br>
-</div><div>Our recruitment process differs from most other companies - we don’t believe resumes and the traditional interviews to be particularly effective. Often, they tell more about how good someone is at interviewing, rather than at the actual work. So, our initial interview is lighter and easier to pass than in other companies - but we then provide you with real (and paid!) work to see how it works out in reality.</div><ul>
-<li>Step 1: You apply by filling out this form: <a href="https://opencraft.com/jobs/open-source-developer/">https://opencraft.com/jobs/open-source-developer/</a> </li>
-<li>Step 2: We do two interviews with candidates matching the requirements listed above. The first interview includes a (simple) coding exercise.</li>
-<li>Step 3: If this works out, we hire you! We start with a 2 months <a href="https://handbook.opencraft.com/en/latest/processes/#recruitment">trial period</a>, which allows both you and the rest of the team to fully evaluate how we work together, and is followed by a final review and confirmation. </li>
+<strong><br>We think you’ll enjoy working with our team if you:<br></strong><br>
+</div><ul>
+<li>Bring a passion to stay on top of tech trends, experiment with and learn new technologies, participate in technology communities.<br><br>
+</li>
+<li>Can be flexible, agile, dependable, and responsive even when there are a lot of moving parts and prefer that over following rigid processes and guidelines.<br><br>
+</li>
+<li>Believe that good application development includes good testing, good documentation, and good collaboration.<br><br>
+</li>
+<li>Have great communication and reasoning skills, including the ability to make a strong case for technology choices while understanding other viewpoints and the need to find the best possible solution for everyone.<br><br>
+</li>
+<li>Have a positive yet practical attitude; You are willing to take on any task that might help take one of our products, or our company, a little further.<br><br>
+</li>
+</ul><div><br></div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer">https://weworkremotely.com/remote-jobs/operatebeyond-php-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1383531/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Proxify</h5>
+                    <h3>Senior Front-end Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,ui,ux,growth</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"> </p>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">The Role:</span></p>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">We are searching for a </span><span style="color: #252525; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Senior Front-End Developer (Angular.js/React.js)</span><span style="color: #0e101a; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </span></p>
+<p><br><br></p>
+<div class="h3" dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">What we are looking for:</span></div>
+<ul style="">
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">You have +3 years experience with React.js/Angular.js;</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">You follow best practices and conventions;</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Relevant experience in CI/CD and related tools;</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Responsible and able to work with minimal supervision;</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Upper-intermediate English level;</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">You can communicate well with both technical and non-technical clients.</span></li>
 </ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack">https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack</a></p>
-
+<div class="h4" dir="ltr" style="line-height: 1.9872; margin-top: 14pt; margin-bottom: 12pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Nice-to-have:</span></div>
+<ul style="">
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Timezone: CET (+/- 3 hours);</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Basic back-end knowledge for minor back-end jobs where necessary.</span></li>
+</ul>
+<div class="h4" dir="ltr" style="line-height: 1.9872; margin-top: 14pt; margin-bottom: 12pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Responsibilities:</span></div>
+<ul style="">
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Build reusable code and libraries for future use;</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Ensure the technical feasibility of UI/UX designs;</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Transform visual designs and wireframes into working products;</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Accurate planning of the feature delivery;</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Collaborate with other team members and stakeholders</span></li>
+</ul>
+<p><br><br></p>
+<p align="left" dir="ltr" style="margin-left: 0pt;"> </p>
+<table style="border-width: initial; border-style: none;"><colgroup><col width="600"></colgroup>
+<tbody>
+<tr style="height: 132.75pt;">
+<td style="border-width: 0.99609pt; border-color: #000000; vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;">
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">What we offer:</span></p>
+<ul style="">
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">💻 </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">100% remote work</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Work from anywhere.</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">👌🏻 </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Flexibility</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: The ability to change the project to another one.</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">💵 </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Financial growth</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Competitive compensation and performance-based increases.</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">🧘🏻‍♂️ </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Freedom</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Very flexible working schedule.</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">🚀 </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">360 degree growth</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Opportunities for professional development and personal growth.</span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"> </p>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Your benefits with Proxify:</span></p>
+<ul style="">
+<li style=""><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Be part of Proxify community</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Network with like-minded and enthusiastic individuals to make a difference. </span></li>
+<li style=""><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Make an impact</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: You get the opportunity to work on the projects that inspire you and add value to your career.</span></li>
+<li style=""><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Transparency</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Contracts with transparency in earnings and working hours.</span></li>
+<li style=""><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Save your time</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Fast and efficient hiring process to match you with the project of your preference.</span></li>
+</ul>
+<p><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Ownership: </span><span style="color: #0e101a; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Take ownership of your work and enjoy more freedom in your career.</span></p>
+<img src="https://remotive.com/job/track/1383531/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1422554/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Proxify</h5>
+                    <h3>Senior Solidity Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,kubernetes,python,security</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The Role:</span></p>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">We are searching for a </span><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Senior Solidity Developer</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </span></p>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><strong> </strong></p>
+<div class="h3" dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">What we are looking for:</span></div>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><strong> </strong></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have +4 years of solid experience as a Solidity Developer in top-notch environment;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Knowledge of Blockchain technology and related concepts;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Familiarity with the Ethereum Blockchain, its functions and applications;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Experience in the architecture and design of Blockchain projects and applications;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Familiarity and experience with project development on other Blockchain platforms;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Familiarity with test-driven development;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Responsible and able to work with minimal supervision;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Upper-intermediate English level;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You can communicate well with both technical and non-technical clients.</span></p>
+</li>
+</ul>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><strong><br><br></strong></p>
+<div class="h4" dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Nice-to-have: </span></div>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Basic knowledge of C++, Python, and / or JavaScript;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Timezone: CET (+/- 3 hours).</span></p>
+</li>
+</ul>
+<div class="h4" dir="ltr" style="line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"> </div>
+<div class="h4" dir="ltr" style="line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Responsibilities:</span></div>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Network architecture and security standards development;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Technical review assessment of existing Blockchain solutions;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Create high-security technologies;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Development of new features and improvements for existing Blockchain projects;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Solidity code integration on different platforms;</span></p>
+</li>
+</ul>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Collaborating with the stakeholders.</span></p>
+</li>
+</ul>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><strong><br><br></strong></p>
+<p align="left" dir="ltr" style="margin-left: 0pt;"> </p>
+<table style="border: none; border-collapse: collapse;"><colgroup><col width="600"></colgroup>
+<tbody>
+<tr style="height: 132.75pt;">
+<td style="vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 0.99609pt;">
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">What we offer:</span></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">💻 </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">100% remote work</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Work from anywhere.</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">👌🏻 </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Flexibility</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: The ability to change the project to another one.</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">💵 </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Financial growth</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Competitive compensation and performance-based increases.</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">🧘🏻‍♂️ </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Freedom</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Very flexible working schedule.</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">🚀 </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">360 degree growth</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Opportunities for professional development and personal growth.</span></p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><strong><br><br></strong></p>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Your benefits with Proxify:</span></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Be part of Proxify community</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Network with like-minded and enthusiastic individuals to make a difference. </span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Make an impact</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: You get the opportunity to work on the projects that inspire you and add value to your career.</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Transparency</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Contracts with transparency in earnings and working hours.</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Save your time</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Fast and efficient hiring process to match you with the project of your preference.</span></p>
+</li>
+</ul>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Ownership: </span><span style="color: #0e101a; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Take ownership of your work and enjoy more freedom in your career.</span></p>
+<img src="https://remotive.com/job/track/1422554/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1082,7 +1265,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1159,7 +1342,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1303,7 +1486,7 @@
                     <code>developer,seo,social media,ai</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/ai-application-developer-creator-1632115" align="right" target="_blank">Apply</a>
@@ -1363,7 +1546,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -1418,220 +1601,6 @@
 <p>Save your time: Fast and efficient hiring process to match you with the project of your preference.</p>
 <p>Ownership: Take ownership of your work and enjoy more freedom in your career.</p>
 <img src="https://remotive.com/job/track/1359476/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1383531/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify</h5>
-                    <h3>Senior Front-end Developer</h3>
-                </td>
-                <td width="300">
-                    <code>developer,ui,ux,growth</code>
-                </td>
-                <td width="200">
-                <text>29 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"> </p>
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">The Role:</span></p>
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">We are searching for a </span><span style="color: #252525; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Senior Front-End Developer (Angular.js/React.js)</span><span style="color: #0e101a; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </span></p>
-<p><br><br></p>
-<div class="h3" dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">What we are looking for:</span></div>
-<ul style="">
-<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">You have +3 years experience with React.js/Angular.js;</span></li>
-<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">You follow best practices and conventions;</span></li>
-<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Relevant experience in CI/CD and related tools;</span></li>
-<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Responsible and able to work with minimal supervision;</span></li>
-<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Upper-intermediate English level;</span></li>
-<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">You can communicate well with both technical and non-technical clients.</span></li>
-</ul>
-<div class="h4" dir="ltr" style="line-height: 1.9872; margin-top: 14pt; margin-bottom: 12pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Nice-to-have:</span></div>
-<ul style="">
-<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Timezone: CET (+/- 3 hours);</span></li>
-<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Basic back-end knowledge for minor back-end jobs where necessary.</span></li>
-</ul>
-<div class="h4" dir="ltr" style="line-height: 1.9872; margin-top: 14pt; margin-bottom: 12pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Responsibilities:</span></div>
-<ul style="">
-<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Build reusable code and libraries for future use;</span></li>
-<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Ensure the technical feasibility of UI/UX designs;</span></li>
-<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Transform visual designs and wireframes into working products;</span></li>
-<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Accurate planning of the feature delivery;</span></li>
-<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Collaborate with other team members and stakeholders</span></li>
-</ul>
-<p><br><br></p>
-<p align="left" dir="ltr" style="margin-left: 0pt;"> </p>
-<table style="border-width: initial; border-style: none;"><colgroup><col width="600"></colgroup>
-<tbody>
-<tr style="height: 132.75pt;">
-<td style="border-width: 0.99609pt; border-color: #000000; vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;">
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">What we offer:</span></p>
-<ul style="">
-<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">💻 </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">100% remote work</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Work from anywhere.</span></li>
-<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">👌🏻 </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Flexibility</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: The ability to change the project to another one.</span></li>
-<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">💵 </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Financial growth</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Competitive compensation and performance-based increases.</span></li>
-<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">🧘🏻‍♂️ </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Freedom</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Very flexible working schedule.</span></li>
-<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">🚀 </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">360 degree growth</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Opportunities for professional development and personal growth.</span></li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"> </p>
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Your benefits with Proxify:</span></p>
-<ul style="">
-<li style=""><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Be part of Proxify community</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Network with like-minded and enthusiastic individuals to make a difference. </span></li>
-<li style=""><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Make an impact</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: You get the opportunity to work on the projects that inspire you and add value to your career.</span></li>
-<li style=""><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Transparency</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Contracts with transparency in earnings and working hours.</span></li>
-<li style=""><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Save your time</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Fast and efficient hiring process to match you with the project of your preference.</span></li>
-</ul>
-<p><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Ownership: </span><span style="color: #0e101a; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Take ownership of your work and enjoy more freedom in your career.</span></p>
-<img src="https://remotive.com/job/track/1383531/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1422554/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify</h5>
-                    <h3>Senior Solidity Developer</h3>
-                </td>
-                <td width="300">
-                    <code>developer,kubernetes,python,security</code>
-                </td>
-                <td width="200">
-                <text>29 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The Role:</span></p>
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">We are searching for a </span><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Senior Solidity Developer</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </span></p>
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><strong> </strong></p>
-<div class="h3" dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">What we are looking for:</span></div>
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><strong> </strong></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have +4 years of solid experience as a Solidity Developer in top-notch environment;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Knowledge of Blockchain technology and related concepts;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Familiarity with the Ethereum Blockchain, its functions and applications;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Experience in the architecture and design of Blockchain projects and applications;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Familiarity and experience with project development on other Blockchain platforms;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Familiarity with test-driven development;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Responsible and able to work with minimal supervision;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Upper-intermediate English level;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You can communicate well with both technical and non-technical clients.</span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><strong><br><br></strong></p>
-<div class="h4" dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Nice-to-have: </span></div>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Basic knowledge of C++, Python, and / or JavaScript;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Timezone: CET (+/- 3 hours).</span></p>
-</li>
-</ul>
-<div class="h4" dir="ltr" style="line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"> </div>
-<div class="h4" dir="ltr" style="line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Responsibilities:</span></div>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Network architecture and security standards development;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Technical review assessment of existing Blockchain solutions;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Create high-security technologies;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Development of new features and improvements for existing Blockchain projects;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Solidity code integration on different platforms;</span></p>
-</li>
-</ul>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Collaborating with the stakeholders.</span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><strong><br><br></strong></p>
-<p align="left" dir="ltr" style="margin-left: 0pt;"> </p>
-<table style="border: none; border-collapse: collapse;"><colgroup><col width="600"></colgroup>
-<tbody>
-<tr style="height: 132.75pt;">
-<td style="vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 0.99609pt;">
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">What we offer:</span></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">💻 </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">100% remote work</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Work from anywhere.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">👌🏻 </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Flexibility</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: The ability to change the project to another one.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">💵 </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Financial growth</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Competitive compensation and performance-based increases.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">🧘🏻‍♂️ </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Freedom</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Very flexible working schedule.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">🚀 </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">360 degree growth</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Opportunities for professional development and personal growth.</span></p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><strong><br><br></strong></p>
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Your benefits with Proxify:</span></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Be part of Proxify community</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Network with like-minded and enthusiastic individuals to make a difference. </span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Make an impact</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: You get the opportunity to work on the projects that inspire you and add value to your career.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Transparency</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Contracts with transparency in earnings and working hours.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Save your time</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Fast and efficient hiring process to match you with the project of your preference.</span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Ownership: </span><span style="color: #0e101a; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Take ownership of your work and enjoy more freedom in your career.</span></p>
-<img src="https://remotive.com/job/track/1422554/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -2169,7 +2138,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18px">Location: Remote - Anywhere </b>(Open to applicants located anywhere around the globe.)</div><div>&nbsp;</div><div>At 10up, we call developers like you <i>engineers</i> because you aren’t just a “coder”: you’re an innovative problem solver that uses web programming skills to divine smart, creative solutions to client challenges. As a Lead Front End Engineer at 10up, you are taking the driving seat in building custom-crafted UIs utilized by millions of people daily. 10uppers have been pushing the boundaries of WordPress for over 12 years—become a lead engineer that innovates the internet by building state-of-the-art web fronts alongside a top-in-the-field team.</div><div><br></div><div>You’ll work on a combination of unique builds and ongoing support engagements that help season your technical leading skills. As a leading digital agency, 10up’s client roster spans from innovative startups and impactful non-profits to some of the biggest names in the industry, such as ESPN, Google, The New York Times Co., Microsoft, and The Nobel Prize Committee.</div><div><br></div><div>As a 10upper, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 40 countries, 10up fully embraces the benefits of distributed work.</div><div><br></div></div><div class="section page-centered"><div><h3>What you will do: </h3><ul class="posting-requirements plain-list"><ul><li>Develop enterprise-level websites and digital experiences primarily utilizing your expertise in JavaScript, HTML, CSS, React, and WordPress (including Gutenberg blocks).</li><li>Drive strategy in collaboration with experts across multiple disciplines, and lead overall technical vision and delivery on large-scale projects.</li><li>Engage meaningfully with clients; leading demos and driving discussions.</li><li>Contribute to the improvement of the Front End Engineering discipline by leading and mentoring other fellow Front End Engineers</li><li>Ultimately you will make the web better by finely crafting websites, apps, and tools that reach millions of online visitors every day.</li></ul></ul></div></div><div class="section page-centered"><div><h3>About you: </h3><ul class="posting-requirements plain-list"><ul><li>You’re at your best leading a team of engineers to solve a complex problem while providing code reviews, coaching, and mentorship.</li><li>You have a code portfolio of real-world samples to showcase your skills. Link us to your best custom work on GitHub and you’ll never have to do any live coding or whiteboard testing!&nbsp;</li><li>You have the ability to clearly present your thoughts to clients and team members.&nbsp;</li><li>You are an advocate for coded style guides and creating highly componentized systems.</li><li>You prefer to work fully remote and are effectively engaging in a distributed team from the location of your choosing.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Benefits of interest:</h3><ul class="posting-requirements plain-list"><ul><li>Multiple paid time off programs, including accrued PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day.</li><li>Health, dental, and life insurance programs (available for United States team members).</li><li>Retirement contribution programs (currently available in the U.S. and U.K.).</li><li>Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations.</li><li>$3,000 USD accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study.</li><li>Global Company summits – opportunities to meet, socialize and learn with fellow 10uppers in person at remarkable destinations.&nbsp;</li><li>An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year.</li><li>A Director of Engineering that supports your career growth and development.</li></ul></ul></div></div><div class="section page-centered"><div><h3>What’s next? </h3><ul class="posting-requirements plain-list"><ul><li>If you are passionate about 10up's mission and think you have what it takes to be successful in this role even if you don't check all the boxes, please apply. We'd appreciate the opportunity to personally review your application. Everyone gets a response. Read more about <a href="https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view" class="postings-link">What to Expect</a> through our Recruiting process.</li><li>We don't want you to miss any communication from us! To ensure you receive updates on your application, please add&nbsp;<b><a href="mailto:jobs@10up.com" class="postings-link">jobs@10up.com</a></b>&nbsp;to your contacts list! #LI-Remote</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><br></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/10up-2/4a208803-57f6-479f-bcd0-3ec20d42a6de/apply">Apply for this job</a></div>
+                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18px">Location: Remote - Anywhere </b>(Open to applicants located anywhere around the globe.)</div><div>&nbsp;</div><div>At 10up, we call developers like you <i>engineers</i> because you aren’t just a “coder”: you’re an innovative problem solver that uses web programming skills to divine smart, creative solutions to client challenges. As a Lead Front End Engineer at 10up, you are taking the driving seat in building custom-crafted UIs utilized by millions of people daily. 10uppers have been pushing the boundaries of WordPress for over 12 years—become a lead engineer that innovates the internet by building state-of-the-art web fronts alongside a top-in-the-field team.</div><div><br></div><div>You’ll work on a combination of unique builds and ongoing support engagements that help season your technical leading skills. As a leading digital agency, 10up’s client roster spans from innovative startups and impactful non-profits to some of the biggest names in the industry, such as ESPN, Google, The New York Times Co., Microsoft, and The Nobel Prize Committee.</div><div><br></div><div>As a 10upper, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 40 countries, 10up fully embraces the benefits of distributed work.</div><div><br></div></div><div class="section page-centered"><div><h3>What you will do: </h3><ul class="posting-requirements plain-list"><ul><li>Develop enterprise-level websites and digital experiences primarily utilizing your expertise in JavaScript, HTML, CSS, React, and WordPress (including Gutenberg blocks).</li><li>Drive strategy in collaboration with experts across multiple disciplines, and lead overall technical vision and delivery on large-scale projects.</li><li>Engage meaningfully with clients; leading demos and driving discussions.</li><li>Contribute to the improvement of the Front End Engineering discipline by leading and mentoring other fellow Front End Engineers</li><li>Ultimately you will make the web better by finely crafting websites, apps, and tools that reach millions of online visitors every day.</li></ul></ul></div></div><div class="section page-centered"><div><h3>About you: </h3><ul class="posting-requirements plain-list"><ul><li>You’re at your best leading a team of engineers to solve a complex problem while providing code reviews, coaching, and mentorship.</li><li>You have a code portfolio of real-world samples to showcase your skills. Link us to your best custom work on GitHub and you’ll never have to do any live coding or whiteboard testing!&nbsp;</li><li>You have the ability to clearly present your thoughts to clients and team members.&nbsp;</li><li>You are an advocate for coded style guides and creating highly componentized systems.</li><li>You prefer to work fully remote and are effectively engaging in a distributed team from the location of your choosing.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Benefits of interest:</h3><ul class="posting-requirements plain-list"><ul><li>Multiple paid time off programs, including accrued PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day.</li><li>Health, dental, and life insurance programs (available for United States team members).</li><li>Retirement contribution programs (currently available in the U.S. and U.K.).</li><li>Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations.</li><li>$3,000 USD accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study.</li><li>Global Company summits – opportunities to meet, socialize and learn with fellow 10uppers in person at remarkable destinations.&nbsp;</li><li>An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year.</li><li>A Director of Engineering that supports your career growth and development.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="salary-range"><div>$90,000 - $150,000 a year</div><small><div>The expected annual salary range for this position is between $90,000 and $150,000 USD. Compensation is determined based on a variety of factors including relevant experience, other job related qualifications/skills, geographic location, and business needs.</div></small></div><div class="section page-centered" data-qa="closing-description"><div><b style="font-size: 18px">Join our team!&nbsp;</b></div><div><br></div><div>If you are passionate about 10up's mission and think you have what it takes to be successful in this role even if you don't check all the boxes, please apply. We'd appreciate the opportunity to personally review your application. Everyone gets a response.</div><div><br></div><div>Read more about <a href="https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view" class="postings-link">What to Expect </a>through our Recruiting process.</div><div><br></div><div>We don't want you to miss any communication from us! To ensure you receive updates on your application, please add jobs@10up.com to your contacts list! #LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/10up-2/4a208803-57f6-479f-bcd0-3ec20d42a6de/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -2193,7 +2162,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18px">Location: Remote - Anywhere</b> (Open to applicants located anywhere around the globe.)</div><div>&nbsp;</div><div>At 10up, we call developers like you <i>engineers</i> because you aren’t just a “coder”: you’re an innovative problem solver that uses web programming skills to divine smart, creative solutions to client challenges. Join a top-in-the-field team of 35 front-end engineers that is pushing the boundaries of WordPress by delivering web experiences for some of the biggest names in the industry, such as ESPN, Google, The New York Times Co., Microsoft, and The Nobel Prize Committee.</div><div><br></div><div>At 10up, you’ll work on a combination of unique builds and ongoing support engagements that help season your expertise in JavaScript, semantic HTML, React, CSS methodologies, accessibility, performance, and interactive UI. A premiere digital agency, 10up has a&nbsp; reputation for achieving client business goals, enjoyable end-user experiences, and developing the specialty of its team members.</div><div><br></div><div>As a 10upper, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 40 countries, 10up fully embraces the benefits of distributed work.</div></div><div class="section page-centered"><div><h3>What you will do:</h3><ul class="posting-requirements plain-list"><ul><li>Develop large-scale modular applications with advanced knowledge of HTML, CSS, and JavaScript.</li><li>Support knowledge-sharing by mentoring and providing code reviews.</li><li>Bring art direction to life on the web through quality craftsmanship defined by performance, accessibility, maintainability, and aesthetic refinement on large-scale projects.</li><li>Solve complex problems in simple yet elegant ways.</li><li>Ultimately you will make the web better by finely crafting websites, apps, and tools that reach millions of online visitors every day.</li></ul></ul></div></div><div class="section page-centered"><div><h3>About you:</h3><ul class="posting-requirements plain-list"><ul><li>You love perfecting your skills in cross-browser/device front-end engineering through crafting custom UI components in either React or a WordPress (block editor) stack.</li><li>You have a code portfolio of real-world samples showcasing your technical abilities. Link us to your best custom work on GitHub and you’ll never have to do any live coding or whiteboard testing!&nbsp;</li><li>You are comfortable talking to clients and team members to clearly present your thoughts.</li><li>You’re proficient at building coded style guides and creating highly componentized systems.</li><li>You prefer to work fully remote and are effectively engaging in a distributed team from the location of your choosing.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Benefits of interest:</h3><ul class="posting-requirements plain-list"><ul><li>Multiple paid time off programs, including accrued PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day.</li><li>Health, dental, and life insurance programs (available for United States team members).</li><li>Retirement contribution programs (currently available in the U.S. and U.K.).</li><li>Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations.</li><li>$3,000 USD accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study.</li><li>Global Company summits – opportunities to meet, socialize and learn with fellow 10uppers in person at remarkable destinations.&nbsp;</li><li>An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year.</li><li>A Director of Engineering that supports your career growth and development.</li></ul></ul></div></div><div class="section page-centered"><div><h3>What’s next?</h3><ul class="posting-requirements plain-list"><ul><li>If you are passionate about 10up's mission and think you have what it takes to be successful in this role even if you don't check all the boxes, please apply. We'd appreciate the opportunity to personally review your application. Everyone gets a response. Read more about <a href="https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view" class="postings-link">What to Expect</a> through our Recruiting process.</li><li>We don't want you to miss any communication from us! To ensure you receive updates on your application, please add&nbsp;<b><a href="mailto:jobs@10up.com" class="postings-link">jobs@10up.com</a></b>&nbsp;to your contacts list! #LI-Remote</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><br></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/10up-2/464e82d0-9dfd-42b7-972c-6822348d46e0/apply">Apply for this job</a></div>
+                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18px">Location: Remote - Anywhere</b> (Open to applicants located anywhere around the globe.)</div><div>&nbsp;</div><div>At 10up, we call developers like you <i>engineers</i> because you aren’t just a “coder”: you’re an innovative problem solver that uses web programming skills to divine smart, creative solutions to client challenges. Join a top-in-the-field team of 35 front-end engineers that is pushing the boundaries of WordPress by delivering web experiences for some of the biggest names in the industry, such as ESPN, Google, The New York Times Co., Microsoft, and The Nobel Prize Committee.</div><div><br></div><div>At 10up, you’ll work on a combination of unique builds and ongoing support engagements that help season your expertise in JavaScript, semantic HTML, React, CSS methodologies, accessibility, performance, and interactive UI. A premiere digital agency, 10up has a&nbsp; reputation for achieving client business goals, enjoyable end-user experiences, and developing the specialty of its team members.</div><div><br></div><div>As a 10upper, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 40 countries, 10up fully embraces the benefits of distributed work.</div></div><div class="section page-centered"><div><h3>What you will do:</h3><ul class="posting-requirements plain-list"><ul><li>Develop large-scale modular applications with advanced knowledge of HTML, CSS, and JavaScript.</li><li>Support knowledge-sharing by mentoring and providing code reviews.</li><li>Bring art direction to life on the web through quality craftsmanship defined by performance, accessibility, maintainability, and aesthetic refinement on large-scale projects.</li><li>Solve complex problems in simple yet elegant ways.</li><li>Ultimately you will make the web better by finely crafting websites, apps, and tools that reach millions of online visitors every day.</li></ul></ul></div></div><div class="section page-centered"><div><h3>About you:</h3><ul class="posting-requirements plain-list"><ul><li>You love perfecting your skills in cross-browser/device front-end engineering through crafting custom UI components in either React or a WordPress (block editor) stack.</li><li>You have a code portfolio of real-world samples showcasing your technical abilities. Link us to your best custom work on GitHub and you’ll never have to do any live coding or whiteboard testing!&nbsp;</li><li>You are comfortable talking to clients and team members to clearly present your thoughts.</li><li>You’re proficient at building coded style guides and creating highly componentized systems.</li><li>You prefer to work fully remote and are effectively engaging in a distributed team from the location of your choosing.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Benefits of interest:</h3><ul class="posting-requirements plain-list"><ul><li>Multiple paid time off programs, including accrued PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day.</li><li>Health, dental, and life insurance programs (available for United States team members).</li><li>Retirement contribution programs (currently available in the U.S. and U.K.).</li><li>Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations.</li><li>$3,000 USD accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study.</li><li>Global Company summits – opportunities to meet, socialize and learn with fellow 10uppers in person at remarkable destinations.&nbsp;</li><li>An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year.</li><li>A Director of Engineering that supports your career growth and development.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="salary-range"><div>$70,000 - $130,000 a year</div><small><div>The expected annual salary range for this position is between $70,000 and $130,000 USD. Compensation is determined based on a variety of factors including relevant experience, other job related qualifications/skills, geographic location, and business needs.</div></small></div><div class="section page-centered" data-qa="closing-description"><div><b style="font-size: 18px">Join our team!&nbsp;</b></div><div><br></div><div>If you are passionate about 10up's mission and think you have what it takes to be successful in this role even if you don't check all the boxes, please apply. We'd appreciate the opportunity to personally review your application. Everyone gets a response.</div><div><br></div><div>Read more about <a href="https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view" class="postings-link">What to Expect </a>through our Recruiting process.</div><div><br></div><div>We don't want you to miss any communication from us! To ensure you receive updates on your application, please add jobs@10up.com to your contacts list! #LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/10up-2/464e82d0-9dfd-42b7-972c-6822348d46e0/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -2217,7 +2186,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18px">Location: Remote - Anywhere</b> (Open to applicants located anywhere around the globe.)</div><div>&nbsp;</div><div>At 10up, we call developers like you <i>engineers </i>because you aren’t just a “coder”: you’re an innovative problem solver that uses web programming skills to divine smart, creative solutions to client challenges. As a Lead JavaScript Engineer at 10up, you are an integral part in crafting complex web applications utilized by millions of people daily. 10uppers have been pushing the boundaries of WordPress for over 12 years—become an engineer that innovates the internet by building state-of-the-art web experiences alongside a top-in-the-field team.</div><div><br></div><div>You’ll work on a combination of unique builds and ongoing support engagements that help season your technical leading skills. As a leading digital agency, 10up’s client roster spans from innovative startups and impactful non-profits to some of the biggest names in the industry, such as ESPN, Google, The New York Times Co., Microsoft, and The Nobel Prize Committee.</div><div><br></div><div>As a 10upper, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 40 countries, 10up fully embraces the benefits of distributed work.</div><div><br></div></div><div class="section page-centered"><div><h3>What you will do:</h3><ul class="posting-requirements plain-list"><ul><li>Lead, architect, and build React projects in both client and server-side environments.</li><li>Estimate JavaScript work and modularize goals into clearly defined, executable tasks.</li><li>Coach and mentor fellow engineers to boost the team's capabilities.</li><li>Skillfully connect engineering deliverables to client business objectives.</li><li>Ultimately you will make the web better by finely crafting apps, and tools that reach millions of online visitors every day.</li></ul></ul></div></div><div class="section page-centered"><div><h3>About you: </h3><ul class="posting-requirements plain-list"><ul><li>You love building scalable web-based JavaScript applications with ES6+, React, and Node.</li><li>You are well-versed with the architectural concepts behind React - state and data management, JSX, creating a componentized system, and JavaScript tooling.</li><li>You are knowledgeable of PHP in WordPress as a platform, including custom post types, taxonomies, and use of WordPress beyond typical “blog” use cases.</li><li>You have a code portfolio of real-world samples. Link us to your best work on GitHub and you’ll never have to do any live coding or whiteboard testing!&nbsp;</li><li>You prefer to work fully remote and are effectively engaging in a distributed team from the location of your choosing.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Benefits of interest:</h3><ul class="posting-requirements plain-list"><ul><li>Multiple paid time off programs, including accrued PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day.</li><li>Health, dental, and life insurance programs (available for United States team members).</li><li>Retirement contribution programs (currently available in the U.S. and U.K.).</li><li>Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations.</li><li>$3,000 USD accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study.</li><li>Global Company summits – opportunities to meet, socialize and learn with fellow 10uppers in person at remarkable destinations.&nbsp;</li><li>An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year.</li><li>A Director of Engineering that supports your career growth and development.</li></ul></ul></div></div><div class="section page-centered"><div><h3>What’s next?</h3><ul class="posting-requirements plain-list"><ul><li>If you are passionate about 10up's mission and think you have what it takes to be successful in this role even if you don't check all the boxes, please apply. We'd appreciate the opportunity to personally review your application. Everyone gets a response. Read more about <a href="https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view" class="postings-link">What to Expect</a> through our Recruiting process.</li><li>We don't want you to miss any communication from us! To ensure you receive updates on your application, please add&nbsp;<a href="mailto:jobs@10up.com" class="postings-link"><b>jobs@10up.com</b></a>&nbsp;to your contacts list! #LI-Remote</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><br></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/10up-2/cadf4f1c-5c6f-435e-b250-36576a1e6e85/apply">Apply for this job</a></div>
+                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18px">Location: Remote - Anywhere</b> (Open to applicants located anywhere around the globe.)</div><div>&nbsp;</div><div>At 10up, we call developers like you <i>engineers </i>because you aren’t just a “coder”: you’re an innovative problem solver that uses web programming skills to divine smart, creative solutions to client challenges. As a Lead JavaScript Engineer at 10up, you are an integral part in crafting complex web applications utilized by millions of people daily. 10uppers have been pushing the boundaries of WordPress for over 12 years—become an engineer that innovates the internet by building state-of-the-art web experiences alongside a top-in-the-field team.</div><div><br></div><div>You’ll work on a combination of unique builds and ongoing support engagements that help season your technical leading skills. As a leading digital agency, 10up’s client roster spans from innovative startups and impactful non-profits to some of the biggest names in the industry, such as ESPN, Google, The New York Times Co., Microsoft, and The Nobel Prize Committee.</div><div><br></div><div>As a 10upper, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 40 countries, 10up fully embraces the benefits of distributed work.</div><div><br></div></div><div class="section page-centered"><div><h3>What you will do:</h3><ul class="posting-requirements plain-list"><ul><li>Lead, architect, and build React projects in both client and server-side environments.</li><li>Estimate JavaScript work and modularize goals into clearly defined, executable tasks.</li><li>Coach and mentor fellow engineers to boost the team's capabilities.</li><li>Skillfully connect engineering deliverables to client business objectives.</li><li>Ultimately you will make the web better by finely crafting apps, and tools that reach millions of online visitors every day.</li></ul></ul></div></div><div class="section page-centered"><div><h3>About you: </h3><ul class="posting-requirements plain-list"><ul><li>You love building scalable web-based JavaScript applications with ES6+, React, and Node.</li><li>You are well-versed with the architectural concepts behind React - state and data management, JSX, creating a componentized system, and JavaScript tooling.</li><li>You are knowledgeable of PHP in WordPress as a platform, including custom post types, taxonomies, and use of WordPress beyond typical “blog” use cases.</li><li>You have a code portfolio of real-world samples. Link us to your best work on GitHub and you’ll never have to do any live coding or whiteboard testing!&nbsp;</li><li>You prefer to work fully remote and are effectively engaging in a distributed team from the location of your choosing.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Benefits of interest:</h3><ul class="posting-requirements plain-list"><ul><li>Multiple paid time off programs, including accrued PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day.</li><li>Health, dental, and life insurance programs (available for United States team members).</li><li>Retirement contribution programs (currently available in the U.S. and U.K.).</li><li>Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations.</li><li>$3,000 USD accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study.</li><li>Global Company summits – opportunities to meet, socialize and learn with fellow 10uppers in person at remarkable destinations.&nbsp;</li><li>An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year.</li><li>A Director of Engineering that supports your career growth and development.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="salary-range"><div>$90,000 - $150,000 a year</div><small><div>The expected annual salary range for this position is between $90,000 and $150,000 USD. Compensation is determined based on a variety of factors including relevant experience, other job related qualifications/skills, geographic location, and business needs.</div></small></div><div class="section page-centered" data-qa="closing-description"><div><b style="font-size: 18px">Join our team!&nbsp;</b></div><div><br></div><div>If you are passionate about 10up's mission and think you have what it takes to be successful in this role even if you don't check all the boxes, please apply. We'd appreciate the opportunity to personally review your application. Everyone gets a response.</div><div><br></div><div>Read more about <a href="https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view" class="postings-link">What to Expect </a>through our Recruiting process.</div><div><br></div><div>We don't want you to miss any communication from us! To ensure you receive updates on your application, please add jobs@10up.com to your contacts list! #LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/10up-2/cadf4f1c-5c6f-435e-b250-36576a1e6e85/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -2241,7 +2210,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18px">Location: Remote - Anywhere </b>(Open to applicants located anywhere around the globe.)</div><div>&nbsp;</div><div>At 10up, we call developers like you <i>engineers</i> because you aren’t just a “coder”: you’re an innovative problem solver that uses web programming skills to divine smart, creative solutions to client challenges. As a Senior JavaScript Developer at 10up, you are an integral part in building custom-crafted UIs utilized by millions of people daily. 10uppers have been pushing the boundaries of WordPress for over 12 years—become an engineer that innovates the internet by building state-of-the-art web fronts alongside a top-in-the-field team.</div><div><br></div><div>You’ll work on a combination of unique builds and ongoing support engagements that help season your skills. As a leading digital agency, 10up’s client roster spans from innovative startups and impactful non-profits to some of the biggest names in the industry, such as ESPN, Google, The New York Times Co., Microsoft, and The Nobel Prize Committee.</div><div><br></div><div>As a 10upper, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 40 countries, 10up fully embraces the benefits of distributed work.</div><div><br></div></div><div class="section page-centered"><div><h3>What you will do: </h3><ul class="posting-requirements plain-list"><ul><li>Lead, architect, and build React projects with modern JavaScript.</li><li>Estimate JavaScript work and modularize goals into clearly defined, executable tasks.</li><li>Coach and mentor teammates to boost the team's JavaScript and engineering abilities.</li><li>Skillfully connect engineering deliverables to client business objectives.</li><li>Ultimately you will make the web better by finely crafting apps, and tools that reach millions of online visitors every day.</li></ul></ul></div></div><div class="section page-centered"><div><h3>About you: </h3><ul class="posting-requirements plain-list"><ul><li>You love building scalable web-based JavaScript applications with ES6+, React, and Node.</li><li>You are well-versed with the architectural concepts behind React - state and data management, JSX, creating a componentized system, and JavaScript tooling.</li><li>You are knowledgeable of WordPress as a platform, including custom post types, taxonomies, and use of WordPress beyond typical “blog” use cases.</li><li>You have a code portfolio of real-world samples. Link us to your best custom work on GitHub and you’ll never have to do any live coding or whiteboard testing!&nbsp;</li><li>You prefer to work fully remote and are effectively engaging in a distributed team from the location of your choosing.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Benefits of interest:</h3><ul class="posting-requirements plain-list"><ul><li>Multiple paid time off programs, including accrued PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day.</li><li>Health, dental, and life insurance programs (available for United States team members).</li><li>Retirement contribution programs (currently available in the U.S. and U.K.).</li><li>Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations.</li><li>$3,000 USD accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study.</li><li>Global Company summits – opportunities to meet, socialize and learn with fellow 10uppers in person at remarkable destinations.&nbsp;</li><li>An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year.</li><li>A Director of Engineering that supports your career growth and development.</li></ul></ul></div></div><div class="section page-centered"><div><h3>What's next? </h3><ul class="posting-requirements plain-list"><ul><li>If you are passionate about 10up's mission and think you have what it takes to be successful in this role even if you don't check all the boxes, please apply. We'd appreciate the opportunity to personally review your application. Everyone gets a response. Read more about <a href="https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view" class="postings-link">What to Expect</a> through our Recruiting process.</li><li>We don't want you to miss any communication from us! To ensure you receive updates on your application, please add&nbsp;<a href="mailto:jobs@10up.com" class="postings-link"><b>jobs@10up.com</b></a>&nbsp;to your contacts list! #LI-Remote</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><br></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/10up-2/2e66bb86-198a-469f-8efe-048ba66a39c2/apply">Apply for this job</a></div>
+                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18px">Location: Remote - Anywhere </b>(Open to applicants located anywhere around the globe.)</div><div>&nbsp;</div><div>At 10up, we call developers like you <i>engineers</i> because you aren’t just a “coder”: you’re an innovative problem solver that uses web programming skills to divine smart, creative solutions to client challenges. As a Senior JavaScript Developer at 10up, you are an integral part in building custom-crafted UIs utilized by millions of people daily. 10uppers have been pushing the boundaries of WordPress for over 12 years—become an engineer that innovates the internet by building state-of-the-art web fronts alongside a top-in-the-field team.</div><div><br></div><div>You’ll work on a combination of unique builds and ongoing support engagements that help season your skills. As a leading digital agency, 10up’s client roster spans from innovative startups and impactful non-profits to some of the biggest names in the industry, such as ESPN, Google, The New York Times Co., Microsoft, and The Nobel Prize Committee.</div><div><br></div><div>As a 10upper, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 40 countries, 10up fully embraces the benefits of distributed work.</div><div><br></div></div><div class="section page-centered"><div><h3>What you will do: </h3><ul class="posting-requirements plain-list"><ul><li>Lead, architect, and build React projects with modern JavaScript.</li><li>Estimate JavaScript work and modularize goals into clearly defined, executable tasks.</li><li>Coach and mentor teammates to boost the team's JavaScript and engineering abilities.</li><li>Skillfully connect engineering deliverables to client business objectives.</li><li>Ultimately you will make the web better by finely crafting apps, and tools that reach millions of online visitors every day.</li></ul></ul></div></div><div class="section page-centered"><div><h3>About you: </h3><ul class="posting-requirements plain-list"><ul><li>You love building scalable web-based JavaScript applications with ES6+, React, and Node.</li><li>You are well-versed with the architectural concepts behind React - state and data management, JSX, creating a componentized system, and JavaScript tooling.</li><li>You are knowledgeable of WordPress as a platform, including custom post types, taxonomies, and use of WordPress beyond typical “blog” use cases.</li><li>You have a code portfolio of real-world samples. Link us to your best custom work on GitHub and you’ll never have to do any live coding or whiteboard testing!&nbsp;</li><li>You prefer to work fully remote and are effectively engaging in a distributed team from the location of your choosing.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Benefits of interest:</h3><ul class="posting-requirements plain-list"><ul><li>Multiple paid time off programs, including accrued PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day.</li><li>Health, dental, and life insurance programs (available for United States team members).</li><li>Retirement contribution programs (currently available in the U.S. and U.K.).</li><li>Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations.</li><li>$3,000 USD accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study.</li><li>Global Company summits – opportunities to meet, socialize and learn with fellow 10uppers in person at remarkable destinations.&nbsp;</li><li>An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year.</li><li>A Director of Engineering that supports your career growth and development.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="salary-range"><div>$70,000 - $130,000 a year</div><small><div>The expected annual salary range for this position is between $70,000 and $130,000 USD. Compensation is determined based on a variety of factors including relevant experience, other job related qualifications/skills, geographic location, and business needs.</div></small></div><div class="section page-centered" data-qa="closing-description"><div><b style="font-size: 18px">Join our team!&nbsp;</b></div><div><br></div><div>If you are passionate about 10up's mission and think you have what it takes to be successful in this role even if you don't check all the boxes, please apply. We'd appreciate the opportunity to personally review your application. Everyone gets a response.</div><div><br></div><div>Read more about <a href="https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view" class="postings-link">What to Expect </a>through our Recruiting process.</div><div><br></div><div>We don't want you to miss any communication from us! To ensure you receive updates on your application, please add jobs@10up.com to your contacts list! #LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/10up-2/2e66bb86-198a-469f-8efe-048ba66a39c2/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -2265,7 +2234,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18px">Location: Remote - Anywhere</b> (Open to applicants located anywhere around the globe.)</div><div>&nbsp;</div><div>At 10up, we call developers like you <i>engineers</i> because you aren’t just a “coder”: you’re an innovative problem solver that uses web programming skills to divine smart, creative solutions to client challenges. As a Lead Web Engineer at 10up, you are taking the driving seat in building websites and solutions utilized by millions of people daily. 10uppers have been pushing the boundaries of WordPress for over 12 years—help innovate the internet by building exciting projects alongside a top-in-the-field team.</div><div><br></div><div>You’ll work on a combination of unique projects and ongoing support engagements that help season your technical leading skills. As a leading digital agency, 10up’s client roster spans from innovative startups and impactful non-profits to some of the biggest names in the industry, such as ESPN, Google, The New York Times Co., Microsoft, and The Nobel Prize Committee.</div><div><br></div><div>As a 10upper, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 40 countries, 10up fully embraces the benefits of distributed work.</div></div><div class="section page-centered"><div><h3>What you will do: </h3><ul class="posting-requirements plain-list"><ul><li>Develop enterprise-level WordPress plugins and/or themes primarily using PHP and Gutenberg blocks in React.js.</li><li>Drive strategy in collaboration with experts across multiple disciplines, and lead overall technical vision and delivery on large-scale projects.</li><li>Engage meaningfully with clients; leading demos and driving discussions.</li><li>Contribute to the improvement of the Engineering discipline by leading and mentoring other fellow engineers</li><li>Ultimately you will make the web better by finely crafting websites, apps, and tools that reach millions of online visitors every day.</li></ul></ul></div></div><div class="section page-centered"><div><h3>About you: </h3><ul class="posting-requirements plain-list"><ul><li>Your experience leading large-scale enterprise projects makes you well-suited to lead a team of senior engineers, and wrangle multiple stakeholders, to find simple yet elegant solutions to complex problems.</li><li>Your expert skills in WordPress engineering with PHP, <a href="http://React.js" class="postings-link">React.js</a>, and Gutenberg consistently follow best practices and set the highest standards of excellence.</li><li>You have a code portfolio. Link us to your best WordPress work on GitHub and you’ll never have to do any live coding or whiteboard testing!&nbsp;</li><li>You have the ability to expertly debug performance and caching issues across environments.</li><li>You prefer to work fully remote and are effectively engaging in a distributed team from the location of your choosing.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Benefits of interest:</h3><ul class="posting-requirements plain-list"><ul><li>Multiple paid time off programs, including accrued PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day.</li><li>Health, dental, and life insurance programs (available for United States team members).</li><li>Retirement contribution programs (currently available in the U.S. and U.K.).</li><li>Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations.</li><li>$3,000 USD accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study.</li><li>Global Company summits – opportunities to meet, socialize and learn with fellow 10uppers in person at remarkable destinations.&nbsp;</li><li>An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year.</li><li>A Director of Engineering that supports your career growth and development.</li></ul></ul></div></div><div class="section page-centered"><div><h3>What’s next? </h3><ul class="posting-requirements plain-list"><ul><li>If you are passionate about 10up's mission and think you have what it takes to be successful in this role even if you don't check all the boxes, please apply. We'd appreciate the opportunity to personally review your application. Everyone gets a response. Read more about <a href="https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view" class="postings-link">What to Expect</a> through our Recruiting process.</li><li>We don't want you to miss any communication from us! To ensure you receive updates on your application, please add&nbsp;<b><a href="mailto:jobs@10up.com" class="postings-link">jobs@10up.com</a></b>&nbsp;to your contacts list! #LI-Remote</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><br></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/10up-2/765484c6-4f6c-483e-a3aa-9b51e0a61490/apply">Apply for this job</a></div>
+                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18px">Location: Remote - Anywhere</b> (Open to applicants located anywhere around the globe.)</div><div>&nbsp;</div><div>At 10up, we call developers like you <i>engineers</i> because you aren’t just a “coder”: you’re an innovative problem solver that uses web programming skills to divine smart, creative solutions to client challenges. As a Lead Web Engineer at 10up, you are taking the driving seat in building websites and solutions utilized by millions of people daily. 10uppers have been pushing the boundaries of WordPress for over 12 years—help innovate the internet by building exciting projects alongside a top-in-the-field team.</div><div><br></div><div>You’ll work on a combination of unique projects and ongoing support engagements that help season your technical leading skills. As a leading digital agency, 10up’s client roster spans from innovative startups and impactful non-profits to some of the biggest names in the industry, such as ESPN, Google, The New York Times Co., Microsoft, and The Nobel Prize Committee.</div><div><br></div><div>As a 10upper, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 40 countries, 10up fully embraces the benefits of distributed work.</div></div><div class="section page-centered"><div><h3>What you will do: </h3><ul class="posting-requirements plain-list"><ul><li>Develop enterprise-level WordPress plugins and/or themes primarily using PHP and Gutenberg blocks in React.js.</li><li>Drive strategy in collaboration with experts across multiple disciplines, and lead overall technical vision and delivery on large-scale projects.</li><li>Engage meaningfully with clients; leading demos and driving discussions.</li><li>Contribute to the improvement of the Engineering discipline by leading and mentoring other fellow engineers</li><li>Ultimately you will make the web better by finely crafting websites, apps, and tools that reach millions of online visitors every day.</li></ul></ul></div></div><div class="section page-centered"><div><h3>About you: </h3><ul class="posting-requirements plain-list"><ul><li>Your experience leading large-scale enterprise projects makes you well-suited to lead a team of senior engineers, and wrangle multiple stakeholders, to find simple yet elegant solutions to complex problems.</li><li>Your expert skills in WordPress engineering with PHP, <a href="http://React.js" class="postings-link">React.js</a>, and Gutenberg consistently follow best practices and set the highest standards of excellence.</li><li>You have a code portfolio. Link us to your best WordPress work on GitHub and you’ll never have to do any live coding or whiteboard testing!&nbsp;</li><li>You have the ability to expertly debug performance and caching issues across environments.</li><li>You prefer to work fully remote and are effectively engaging in a distributed team from the location of your choosing.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Benefits of interest:</h3><ul class="posting-requirements plain-list"><ul><li>Multiple paid time off programs, including accrued PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day.</li><li>Health, dental, and life insurance programs (available for United States team members).</li><li>Retirement contribution programs (currently available in the U.S. and U.K.).</li><li>Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations.</li><li>$3,000 USD accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study.</li><li>Global Company summits – opportunities to meet, socialize and learn with fellow 10uppers in person at remarkable destinations.&nbsp;</li><li>An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year.</li><li>A Director of Engineering that supports your career growth and development.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="salary-range"><div>$80,000 - $140,000 a year</div><small><div>The expected annual salary range for this position is between $80,000 and $140,000 USD. Compensation is determined based on a variety of factors including relevant experience, other job related qualifications/skills, geographic location, and business needs.</div></small></div><div class="section page-centered" data-qa="closing-description"><div><b style="font-size: 18px">Join our team!&nbsp;</b></div><div><br></div><div>If you are passionate about 10up's mission and think you have what it takes to be successful in this role even if you don't check all the boxes, please apply. We'd appreciate the opportunity to personally review your application. Everyone gets a response.</div><div><br></div><div>Read more about <a href="https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view" class="postings-link">What to Expect </a>through our Recruiting process.</div><div><br></div><div>We don't want you to miss any communication from us! To ensure you receive updates on your application, please add jobs@10up.com to your contacts list! #LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/10up-2/765484c6-4f6c-483e-a3aa-9b51e0a61490/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
