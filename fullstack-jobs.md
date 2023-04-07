@@ -1,5 +1,80 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/1241/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Bluethumb</h5>
+                    <h3> Full Stack Ruby on Rails Engineer for Art Start-Up Bluethumb</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>3 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/bluethumb-full-stack-ruby-on-rails-engineer-for-art-start-up-bluethumb" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0084/1241/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Adelaide, South Australia, Australia
+    <br /><strong>URL:</strong> <a href="http://bluethumb.com.au">http://bluethumb.com.au</a>
+</p>
+
+<p>We run a calm, sharp business and also know how to have fun while doing what we do. We're a team of 25+ art and tech loving team members - based in Australia and around the world (in Bali, Lithuania, Philippines, Portugal, Russia, Slovenia, Turkey, UK and the US).</p>
+<p>We are a tech-first company in the art space and leverage our tech (and build new things) to bring the best for Aussie artists (and collectors).</p>
+<p>We're looking for a strictly Senior full-stack Ruby and Rails engineer/team lead to join us in delivering awesome tech to Aussie artists.</p>
+<p>Our ideal new team-mate has 7+ years of production Ruby on Rails experience, and has at least 4-5 hours working hours overlap with Australia.</p>
+<p>------------------</p>
+<p><a href="http://bluethumb.com.au/about" class="external"></a><strong><a href="http://bluethumb.com.au/about" class="external">About Bluethumb</a></strong></p>
+<p>Bluethumb is the leading online art marketplace for Australian artists to sell their work directly from their studios. They paint and upload, we sell and manage logistics, they get paid. We like to keep things simple - and for that, we're loved by our artists and collectors. Our mission is to help more artists grow their careers. </p>
+<p>We started in 2012 and were online-only until 2018 when we opened our first Bricks and Mortar gallery in Melbourne, and then another in Adelaide.<br></p>
+<p>We set our targets in terms of goals we'd like to achieve for us, for the artists and the collectors, and build tech around it.</p>
+<p><br></p>
+<p><strong>About the team</strong></p>
+<p>We're a good team (as that matters). No internal politics, hurdles or clashes.</p>
+<p>The product and engineering team is a close-knit team of 9 (including PM, QA and the Devs). 'Higher management' doesn't set unrealistic KPIs for the team. We believe in delivering a good product. We support each other and have open discussions before starting each project (and as we go along). Meetings when needed - and Slack all the way!</p>
+<p>We sponsor/help with organising Ruby related events and value any contribution into the Ruby community.</p>
+<p>Our tech team has been working remotely since 2015 - so we're well versed in remote working and the flexibility that comes with it.</p>
+<p>We run 4 week sprints (3 development weeks + 1 code-freeze and QA week), and run 1 standup every week to report on the sprints.</p>
+<p><strong>Requirements</strong></p>
+<p><strong><strong>Tech Stack</strong></strong></p>
+<p>All our developers are full-stack and get really varied new experience; with a mix of front-end (solid level Vanilla and Vue.js), back-end (Ruby, Rails, Hanami), and DevOps (Docker Swarm/AWS), doing short sprints and bigger projects. Our ideal candidate:<br></p>
+<p>- Ruby on Rails savvy<br></p>
+<p>- Confident using Slim templates engine, CSS/SCSS/Tailwind, Vanilla JS/UJS/Vue.js/Alpine/Hotwire</p>
+<p>- Has production experience with Elasticsearch and Postgres</p>
+<p>- Can demonstrate an advanced level of rspec usage</p>
+<p>- Familiar with giving and taking code reviews</p>
+<p>- Comfortable with occasional pair programming</p>
+<p>- Ready to adjust to development guidelines</p>
+<p><br></p>
+<p><strong>Location</strong><br></p>
+<p>You can be anywhere in the world, but ideally in SEA (Taiwan, Thailand, Cambodia, Myanmar, Indonesia, Malaysia, Singapore, Philippines) with at least 5 hours overlap. We have offices in Adelaide &amp; Melbourne.</p>
+<p><strong>Experience</strong></p>
+<p>At least 5-7 years of TRACEABLE (we will need several reference at some point) production Ruby on Rails experience. To succeed in this role, along with Ruby and Rails, you will be confident and experienced in front-end development. Knowledge in DevOps, QA, casual UX and Data Science is a plus. <strong>Tech team leadership in the past is appreciated.</strong></p>
+<p><br></p>
+<p><strong>Other important things</strong></p>
+<p>- Team fit is really important, so you are friendly and easy going - and occassionally host a trivia night/retro online (we all take turns)<br></p>
+<p>- You have read about Bluethumb and taken the time to know as much as you can before submitting your application.</p>
+<p>- We'd like to see examples of software you've written - the actual code. We understand the full copy might be difficult to share - so snippets are fine.</p>
+<p>- You should be open to recoding a 10-20 minute video where you walk us through some of your code before we move on to a face to face interview.</p>
+<p><br></p>
+<h3>No recruiter applications or agencies please!<br> </h3>
+<p>Please mention the words <strong>mixture engine society</strong> when applying to show you read the job post completely. This is a feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.</p>
+<p><strong>Benefits</strong></p>
+<ul> <li>Building awesome tech - front end, backend</li> <li>Your work has a social impact, and benefits artists making their living with their art</li> <li>Work in a fun, friendly &amp; trusting team</li> <li>Competitive salary</li> <li>Online and offline tech events and conferences compensation</li> <li>Flexible working hours</li> <li>Balanced workload</li> <li>No bureaucracy</li> <li>Unlimited room for growth </li> </ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bluethumb-full-stack-ruby-on-rails-engineer-for-art-start-up-bluethumb">https://weworkremotely.com/remote-jobs/bluethumb-full-stack-ruby-on-rails-engineer-for-art-start-up-bluethumb</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1641607/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +85,7 @@
                     <code>backend,C,C++,cloud</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-full-stack-ios-engineer-1641607" align="right" target="_blank">Apply</a>
