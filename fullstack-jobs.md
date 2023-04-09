@@ -10,7 +10,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bluethumb-full-stack-ruby-on-rails-engineer-for-art-start-up-bluethumb" align="right" target="_blank">Apply</a>
@@ -85,7 +85,7 @@
                     <code>backend,C,C++,cloud</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-full-stack-ios-engineer-1641607" align="right" target="_blank">Apply</a>
