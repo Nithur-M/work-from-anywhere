@@ -10,7 +10,7 @@
                     <code>Management and Finance</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-administrative-assistant-project-manager-1" align="right" target="_blank">Apply</a>
@@ -71,7 +71,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/govassist-llc-agile-project-manager-apm" align="right" target="_blank">Apply</a>
@@ -155,7 +155,7 @@
                     <code>Management and Finance</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/amazix-project-manager" align="right" target="_blank">Apply</a>
@@ -177,30 +177,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/amazix-project-manager">https://weworkremotely.com/remote-jobs/amazix-project-manager</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1601217/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Ecityinteractive</h5>
-                    <h3>Project Manager </h3>
-                </td>
-                <td width="300">
-                    <code>education,marketing,management,design</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/project-manager-1601217" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="min-height:1.5em"><strong>About Us.</strong></p><p style="min-height:1.5em">eCity Interactive is a leading design and digital marketing agency rooted in design thinking. Our work is human-centered – from who we serve to the solutions we build and how we arrive there together. We create experiences that inspire action. We’re designers, developers, strategists, marketers, and storytellers. But, first and foremost, we’re problem-solvers—rooted in research and driven by challenge. Ready to be part of something meaningful? Let’s chat.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>You. Our Next Project Manager.</strong></p><p style="min-height:1.5em">You’re deeply committed to project delivery excellence, balancing agency and client economics with tact. Your ability to process while remaining nimble/adaptable sets you apart – and your team loves you for it. Aside from leading, delivering, and managing complex digital solutions, it's important that your work is having a larger impact. You want to support clients who are making a difference in the world. (Us too.)</p><p style="min-height:1.5em">Ready to put your project management chops to good use across a portfolio of higher education clients? You've come to the right place.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>What You’ll Do.</strong></p><ul style=""><li style=""><p style="min-height:1.5em">Manage a portfolio of 4-6 higher ed clients, owning project management from scope/delivery and estimation, through development and deployment.</p></li><li style=""><p style="min-height:1.5em">Drive delivery excellence and compliance. Manage quality and timeliness to deliver on time and in budget, meeting margin targets and contractual obligations.</p></li><li style=""><p style="min-height:1.5em">Build dynamic partnerships across agency and client teams. Leverage relationships to support goals and evolve delivery approaches to align with client/agency needs.</p></li><li style=""><p style="min-height:1.5em">Regularly communicate and document project status and strategic recommendations both internally and externally; proactively escalating issues/roadblocks to mitigate risk.</p></li><li style=""><p style="min-height:1.5em">Partner with Vertical Lead to manage project budgets against variances in profitability, burn, and operational efficiency– ensuring high quality and profitable delivery.</p></li><li style=""><p style="min-height:1.5em">Use and improve standard delivery methodology for delivering program goals. Use PM tools/tech, knowledge repos, and collaboration systems to help advance our PMO.</p></li><li style=""><p style="min-height:1.5em">Provide project administrative support; including project initiation, folder management, status reports, scheduling, vendor onboarding, invoicing, etc.</p><p style="min-height:1.5em"></p></li></ul><p style="min-height:1.5em"><strong>Why You’re Great.</strong></p><ul style=""><li style=""><p style="min-height:1.5em">You bring a breadth of experience as Project Lead–overseeing multiple concurrent and complex digital projects with high-quality deliverables in a fast-moving environment.</p></li><li style=""><p style="min-height:1.5em">You’re scrappy. You know smaller budgets call for smart strategy with high efficiency. You love getting creative– marrying process and flexibility to propose sharp solutions.</p></li><li style=""><p style="min-height:1.5em">You think strategically and plan ahead. You proactively anticipate, plan, and adjust project planning to mitigate potential risk.You love learning about different project management methodologies and know how/when to call on the right approach for the project. </p></li><li style=""><p style="min-height:1.5em">You have a knack for digital strategy and love scoping work that spans a breadth of digital channels, driving complex, holistic strategies across a portfolio of accounts.</p></li><li style=""><p style="min-height:1.5em">Your communication skills are top notch. You have an incredibly high EQ, which powers your ability to effectively partner across stakeholders with varied interests/demands.</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em">💰 Compensation: The salary range for this role is $60,000—$80,000 (commensurate with experience)</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Our Benefits.</strong></p><p style="min-height:1.5em"><em>Available to full-time employees.</em></p><ul style=""><li style=""><p style="min-height:1.5em">Competitive Salary (see above) &amp; Profit Sharing</p></li><li style=""><p style="min-height:1.5em">Excellent Benefits: medical, dental, vision, disability, life, FSA, HSA</p></li><li style=""><p style="min-height:1.5em">401k with Company Matching (up to 1.5%)</p></li><li style=""><p style="min-height:1.5em">Unlimited PTO &amp; 11 Paid Holidays</p></li><li style=""><p style="min-height:1.5em">Summer Fridays</p></li><li style=""><p style="min-height:1.5em">Annual $500 Professional Development Budget</p></li><li style=""><p style="min-height:1.5em">Quarterly Team Outings</p></li><li style=""><p style="min-height:1.5em">Flexible, Remote Work Environment </p></li><li style=""><p style="min-height:1.5em">Work/Life Balance Commitment</p></li><li style=""><p style="min-height:1.5em">Transit Benefits (for team members local to our Philadelphia HQ)</p></li></ul><img src="https://remotive.com/job/track/1601217/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
