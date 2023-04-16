@@ -1,148 +1,238 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/0935/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/1988/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior Adobe Commerce (Magento II) Developer</h3>
+                    <h5>Internet Projects Ltd</h5>
+                    <h3> Senior Symfony PHP Full Stack Developer - Remote & Full Time</h3>
                 </td>
                 <td width="300">
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-adobe-commerce-magento-ii-developer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/internet-projects-ltd-senior-symfony-php-full-stack-developer-remote-full-time" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0084/0935/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0084/1988/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
+  <strong>Headquarters:</strong> London, England, United Kingdom
+    <br /><strong>URL:</strong> <a href="https://www.internetprojects.com/">https://www.internetprojects.com/</a>
 </p>
 
-<div><strong>The Role:</strong></div><div>We are searching for a Senior Magento II Developer. You can be a perfect candidate if you are growth-oriented, take pleasure in your work, and enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features.</div><div><br></div><div><strong>What we are looking for:</strong></div><ul>
-<li>You have 5+ years of extensive experience with Magento II, JavaScript, HTML, PHP, CSS, and MySQL;</li>
-<li>Expert understanding of Magento's code structure, extension architecture, theming hierarchy, and fallback components</li>
-<li>Expertise in authoring and extending Magento extensions</li>
-<li>Thorough experience in customizing Magento's front-end components using layout XML, blocks, and templates</li>
-<li>You got experience with complete eCommerce lifecycle development;</li>
-<li>You have an understanding of modern UX/UI trends;</li>
-<li>You got strong attention to detail;</li>
-<li>You are able to project-manage and work to strict deadlines;</li>
-<li>You have the ability to work in a team environment.</li>
-</ul><div><br></div><div><br></div><div>
-<strong>Nice-to-have:</strong> <br><br>
-</div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Knowledge of TypeScript.</li>
-</ul><div>
-<strong><br>Responsibilities:<br></strong><br>
-</div><ul>
-<li>Meeting with the design team to discuss the needs of the company;</li>
-<li>Building and configuring Magento II eCommerce websites;</li>
-<li>Coding of the Magento templates;</li>
-<li>Developing Magento II modules in PHP using best practices;</li>
-<li>Designing themes and interfaces;</li>
-<li>Setting performance tasks and goals;</li>
-<li>Troubleshooting integration issues;</li>
-<li>Updating website features and security patches.</li>
-</ul><div><br></div><div>
-<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div><br></div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of the Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul>
+<p>Internet Projects Ltd is a UK-based developer and operator of high traffic, real time data websites with a strong focus on creating &amp; serving Search Engine Optimized web pages.</p>
+<p>Our current projects include:</p>
+<p>Airportia: one of the world's leading flight tracker websites <a href="https://www.airportia.com/" class="external">https://www.airportia.com/</a><br>Scorebar: one of the world's fastest football/soccer livescore services <a href="https://www.scorebar.com/" class="external">https://www.scorebar.com/</a></p>
+<p>We are looking for Symfony backend/frontend developers to increase our team's velocity. 3 years of experience as a minimum with Symfony. We give great importance to solid OOP foundations.</p>
+<p>This is a full-time, remote, permanent job position with a monthly salary in the $3000 per month range. We like to work with our Developers long term and full time, grow together and reward loyalty with regular salary revisits.</p>
+<p>You will be developing back end and front end technologies to manage, develop and track the performance of high traffic web properties.</p>
+<p>Our stack:<br>- Symfony and Yii2<br>- Doctrine ORM, Twig, CSS, HTML, Vanilla JS, Websockets, VueJS/NuxtJS<br>- Mysql and Postgresql<br>- Github<br>- Docker, Jenkins<br>- ChatGPT API, OpenAI GPT3 API<br>- Project Management: Kanban, Github Projects &amp; Telegram<br>- Quality Management: Unit/Browser tests, QA, code reviews</p>
+<p><strong>Requirements</strong></p>
+<p>3 years of experience as a minimum with Symfony or Yii2 or Laravel. Good communication skills. You should be available at least 40h per week (9am/10am to 5pm/6pm on weekdays) and participate in 10 min daily calls.</p>
+<p>Our stack:<br></p>
+<p>- Symfony and Yii2</p>
+<p>- Doctrine ORM, Twig, CSS, HTML, Vanilla JS, Websockets, VueJS/NuxtJS</p>
+<p>- Mysql and Postgresql</p>
+<p>- Github</p>
+<p>- Docker, Jenkins</p>
+<p>- OpenAI API</p>
+<p>- Project Management: Kanban, Github Projects &amp; Telegram</p>
+<p>- Quality Management: Unit/Browser tests, QA, code reviews</p>
+<p><strong>Benefits</strong></p>
+<p>- Competitive compensation</p>
+<p>- Global, dynamic team</p>
+<p>- Growth path rewarding performance and loyalty</p>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-adobe-commerce-magento-ii-developer">https://weworkremotely.com/remote-jobs/proxify-ab-senior-adobe-commerce-magento-ii-developer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/internet-projects-ltd-senior-symfony-php-full-stack-developer-remote-full-time">https://weworkremotely.com/remote-jobs/internet-projects-ltd-senior-symfony-php-full-stack-developer-remote-full-time</a></p>
 
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/5744/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior Shopify Developer</h3>
+                    <h5>Contra</h5>
+                    <h3> Freelance Python Developer and AWS Manager at Easy Energy Inc</h3>
                 </td>
                 <td width="300">
-                    <code>All Other Remote</code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-shopify-developer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/contra-freelance-python-developer-and-aws-manager-at-easy-energy-inc" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
+                <img src="https://we-work-remotely.imgix.net/logos/0083/5744/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
+  <strong>Headquarters:</strong> San Francisco, CA
+    <br /><strong>URL:</strong> <a href="http://bit.ly/3kLhMdk">http://bit.ly/3kLhMdk</a>
 </p>
 
 <div>
-<strong>The Role:<br></strong><br>
-</div><div>We are searching for a Senior Shopify Developer. You can be a perfect candidate if you are growth-oriented, take pleasure in your work, and enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features.</div><div><br></div><div><strong>What we are looking for:</strong></div><ul>
-<li>You have broad shop construction, launch, and maintenance expertise, as well as a general understanding of the admin system.</li>
-<li>You have proven skills in HTML5, CSS3, and JavaScript, as well as a thorough grasp of the DOM.</li>
-<li>You possess previous experience working with a custom theme and/or the Storefront API.</li>
-<li>You own working knowledge of Shopify's theming system and Liquid templating;</li>
-<li>You had previous experience implementing/debugging third-party Shopify apps, as well as building unique solutions if needed.</li>
-<li>You have in-depth knowledge and expertise with Vanilla.JS, jQuery, ES2015/ES6, and current JavaScript frameworks.</li>
-<li>You have a working knowledge of Shopify's object/properties, AJAX API, and Meta fields.</li>
-<li>You possess extensive testing and debugging abilities using the browser console and other tools.</li>
-<li>You had prior experience developing responsive layouts for desktop, tablet, and mobile devices;</li>
-<li>You have working knowledge of third-party services and APIs, as well as Shopify Apps.</li>
-<li>You are capable of communicating effectively and providing proactive feedback.</li>
-</ul><div>
-<strong><br>Nice-to-have:</strong> <br><br>
-</div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Knowledge of TypeScript.</li>
-</ul><div>
-<strong><br>Responsibilities:<br></strong><br>
-</div><ul>
-<li>Create an engaging and knowledgeable online Shopify store to increase sales and revenue;</li>
-<li>Create bespoke Shopify themes and change pre-existing templates per predefined brand guidelines;</li>
-<li>Be an expert in all aspects of the e-commerce platform;</li>
-<li>Work with the UX and UI Design Teams to create unique, strong, and inventive front-end user experiences;</li>
-<li>Ensure a smooth connection with Marketing Tools, Platform APIs, and Shopify Apps to optimize the shop for overall efficiency and functionality;</li>
-<li>Test and debug websites regularly to improve performance;</li>
-<li>Provide technical support and coordination, protecting enterprises against failure;</li>
-<li>Increase conversion rates by optimizing your website.</li>
-</ul><div><br></div><div>
-<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div><br></div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on the projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul>
+<br>We are seeking a skilled Python Developer &amp; AWS Manager to join our team and manage the backend of our database. The system is primarily built using Python and deployed using Amazon Web Services.<br><br>
+</div><div>
+<br>As a Python Developer &amp; AWS Manager, you will be responsible for diagnosing errors and infrastructure problems, managing permissions in the backend, and creating a beta platform for other freelancers to work from.<br><br>
+</div><div>
+<br>Responsibilities:<br><br>
+</div><div>
+<br>·  Develop and maintain the backend of our database using Python 3.8 programming language and the Django framework<br>·  Use support libraries such as Django REST Framework, Celery, Weasyprint and Twilio to enhance system functionalities<br>·  Manage AWS clusters consisting of web, worker and scheduler servers<br>·  Configure Elastic Beanstalk to automate and simplify server management<br>·  Manage PostgreSQL server on an Amazon RDS instance <br>·  Use Celery queues running on Amazon SQS to minimize front-end processing and improve user experience <br>·  Diagnose errors and infrastructure problems to improve database speed<br>·  Manage permissions in the backend and create a beta platform with randomized data<br><br>
+</div><div>
+<br>Requirements:<br><br>
+</div><div>·  Solid understanding of Django framework and support libraries<br>·  Strong knowledge of Amazon Web Services, particularly Elastic Beanstalk, EC2, RDS, SQS, S3, Codecommit, CodePipeline, and CodeDeploy<br>·   Experience with PostgreSQL or other database management systems<br>·   Familiarity with Docker containers<br>·   Ability to work independently and as part of a team<br>·   Excellent communication skills and problem-solving abilities<br><br>
+</div><div>
+<br><br>
+</div><div>
+<br><br>
+</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-shopify-developer">https://weworkremotely.com/remote-jobs/proxify-ab-senior-shopify-developer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/contra-freelance-python-developer-and-aws-manager-at-easy-energy-inc">https://weworkremotely.com/remote-jobs/contra-freelance-python-developer-and-aws-manager-at-easy-energy-inc</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/1947/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Planning Center</h5>
+                    <h3> Full Stack Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/planning-center-full-stack-developer-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0084/1947/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Carlsbad, CA
+    <br /><strong>URL:</strong> <a href="https://planningcenter.com">https://planningcenter.com</a>
+</p>
+
+<div>We are looking for a Full Stack Developer <strong>experienced in Ruby on Rails and React</strong>. You’ll work on building out new features from start to finish, refining existing features, improving performance, and ensuring the security of our customer’s data.<br><br>
+</div><div>What a typical week might look like:<br><br>
+</div><ul>
+<li>Translating your product manager’s feature pitches into technical specifications</li>
+<li>Implementing those technical specifications as a series of small, descriptive, and well-tested GitHub pull requests</li>
+<li>Pairing with your designer and developer teammates</li>
+<li>Reviewing your teammates’ pull requests to increase the quality of what we build and learn from one another</li>
+<li>Deploying to production with one click</li>
+<li>Investigating customer-reported bugs that have been triaged and researched by our fantastic support team</li>
+<li>Diagnosing errors that come in through our error monitoring tools</li>
+<li>Improving performance guided by Datadog and AWS Performance Insights</li>
+<li>Participating in book and code clubs to learn with/from other developers</li>
+</ul><div><br></div><div>
+<strong>Requirements<br></strong><br>
+</div><ol>
+<li>Must reside and be eligible to work in the United States</li>
+<li>Must be willing to travel four times each year to connect with the rest of the team (not during a pandemic)</li>
+<li>Professional experience in Ruby on Rails and React, with strong competency in at least one.</li>
+</ol><div><br></div><div>
+<strong>Benefits<br></strong><br>
+</div><div>We love our team. It’s one of the <a href="https://www.planningcenter.com/about">core pillars</a> we work off of every day, which is why we take care of you as best we can. Here are a few highlights, but you can find <a href="https://www.planningcenter.com/careers">all our benefits here</a>.<br><br>
+</div><div>Get paid: We pay in the top 10% of the New York City rates no matter where you live, contribute to your 401k, provide a charitable giving match of up to $2,000 a year, have a generous allowance for continued education, and offer a co-working stipend. The annual salary range for this position is $142,451 – $162,802.<br><br>
+</div><div>Be healthy: Generous paid sick time and vacation time, $200 a month stipend for physical fitness and mental health, 95% medical &amp; 100% dental premium health coverage.<br><br>
+</div><div>Get out: Paid Fridays off in the summer, every other Friday off the rest of the year, a month-long sabbatical every five years, one week off between Christmas and New Years, one week off each year to serve with a non-profit, and two weeks paid vacation per year increasing to three over time.<br><br>
+</div><div>
+<strong>The Hiring Process<br></strong><br>
+</div><div>
+<strong>Applications will be accepted until Thursday, May 4th.</strong> We aim to have a final decision made by no later than Thursday, May 11th, with a new hire starting by May 29th.<br><br>
+</div><div>Below is an outline of the steps in our hiring process.<br><br>
+</div><ul>
+<li>Step one: Initial Zoom call with the team for you to get to know us</li>
+<li>Step two: An online coding assessment to get a rough understanding of your experience</li>
+<li>Step three: Team interview over Zoom with a few developers</li>
+<li>Step four: Technical interview over Zoom with a few developers</li>
+<li>Step five: Offer extended (optional meeting with our Executive Team)<br><br>
+</li>
+</ul><div>You’ll have a chance to interact with several team members during the hiring process. We strongly encourage you to bring any questions you have; you’re interviewing us as much as we’re interviewing you.<br><br>
+</div><div>The teammates you’ll encounter along the way:<br><br>
+</div><ul>
+<li>The product manager you’ll be reporting to</li>
+<li>One or more developers from the team you’ll be joining</li>
+<li>Developers from other teams within the company</li>
+<li>Members of our executive team<br><br>
+</li>
+</ul><div>Apply with a resume and a cover letter. <strong>Your cover letter should speak directly to this position. We want to know what got you into software development, how your experience has set you up for success in this role, and why you want to join our team</strong>. If you’ve applied in the past, feel free to apply again.<br><br>
+</div><div>
+<em>Research shows that while men apply to jobs when they meet ~60% of the criteria, women and those in underrepresented groups tend only to apply when they check every box. If you’re unsure if your experience qualifies strong competency in React or Rails, we’d still love to hear from you and see if it’s a good fit!<br></em><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/planning-center-full-stack-developer-2">https://weworkremotely.com/remote-jobs/planning-center-full-stack-developer-2</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/7908/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>BBE Marketing Inc</h5>
+                    <h3> Full-Stack PHP Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-php-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0064/7908/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Hurst, TX
+    <br /><strong>URL:</strong> <a href="http://bbemarketing.com/">http://bbemarketing.com/</a>
+</p>
+
+<div>We are looking for a talented Full-Stack Developer to join our team, who could help us in shipping features for our application and drive our application design and architecture as we grow.<br><br>
+</div><div>
+<br><strong>The tasks include:</strong>
+</div><div>
+<br>- Developing new features<br>- Making fixes and updates to our in-house application<br>- Implementing quality checks, metrics and monitoring: automated testing, code style, integrating error reporting and performance monitoring tools etc.<br>- Work with team in planning and strategizing<br>- Making important architectural decisions<br><br>
+</div><div>
+<br><strong>You will love this role if:</strong><br><br>
+</div><div>
+<br>- You like working with the stakeholders directly. We’re a relatively small startup, there’s no bureaucracy and complex hierarchy. You’ll be communicating directly with all the team members, from CEO to Customer Support.<br>- You are a team player<br>- You like to work and ship stuff fast without compromising quality. You know when to stop and call it done without trying to achieve the unattainable perfection.<br>- You are a problem solver<br>- You know how to find an optimal solution and ship it fast without introducing unnecessary complexity and overhead.<br>- You’re not afraid to prove your point when necessary. We trust our team members and believe they have businesses best interest at heart. If there’s no simple solution to a problem, you can provide the arguments and clearly communicate the risks.<br>- Self-starter, we don’t like to micro-manage our team<br>- You treat privileged information with care. You can be trusted with sensitive company data<br><br>
+</div><div>
+<br><strong>Requirements:</strong><br>- Good written and spoken English.<br>- Solid experience with PHP, Symfony, MySQL (or any other RDBMS)<br>- Basic experience with Angular;<br>- Good knowledge of HTML, CSS, SASS/SCSS.<br>- Experience writing tests in PHP.  PHPUnit is a must. Knowledge of other testing frameworks and tools will be a plus.<br>- Experience writing tests in TS/JS. Experience with Jasmine.<br>- You have experience setting up and/or maintaining CI pipelines running tests and other quality checks.<br>- Able to work 4 hours overlap within 08:00 - 18:00 EST<br><br>
+</div><div>
+<br><strong>Nice to have:<br></strong>- Experience with DigitalOcean;<br>- Experience with Bitbucket Pipelines<br><br>
+</div><div><br></div><div>
+<strong>About us:<br></strong><br>
+</div><div>
+<br>BBE Marketing provides products and services to help businesses connect with celebrities and influencers. We are a small, fast growing company who is passionate about our mission.<br><br>
+</div><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-php-developer">https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-php-developer</a></p>
 
                 </details>
                 </td>
@@ -158,7 +248,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-wordpress-developer" align="right" target="_blank">Apply</a>
@@ -232,7 +322,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/vexxhost-inc-developpeur-e-de-kubernetes-ansible-kubernetes-ansible-developer-1" align="right" target="_blank">Apply</a>
@@ -266,7 +356,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clutchy-senior-front-end-full-stack-developer" align="right" target="_blank">Apply</a>
@@ -342,89 +432,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/3228/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Lifetimely</h5>
-                    <h3> Principal Ruby on Rails Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0071/3228/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Singapore
-    <br /><strong>URL:</strong> <a href="https://www.lifetimely.io/">https://www.lifetimely.io/</a>
-</p>
-
-<div>
-<strong>Lifetimely is a SaaS company looking for an experienced Ruby on Rails engineer to help build out our SaaS product serving 6000+ e-commerce stores. Our users include names like MrBeast’s snacking brand Feastables, Liquid Death, and Colgate.<br></strong><br>
-</div><div>You can read about our app <a href="https://apps.shopify.com/lifetimely-lifetime-value-and-profit-analytics/">on the Shopify app store</a>. We provide real-time reporting to ecommerce shop owners. To give you a sense of scale - we collect data on millions of orders per day from thousands of ecommerce stores and process many millions of background jobs to be able to deliver quality reporting and insights to our customers.<br><br>
-</div><div>We're looking to add a great backend RoR developer to our existing team.<br><br>
-</div><div>
-<strong><br>We are looking for someone who</strong>:<br><br>
-</div><ul>
-<li>has worked on and had to support a web app in production at scale for at least 5 years</li>
-<li>At least 5 years of working experience writing maintainable and well-tested Ruby on Rails apps</li>
-<li>humble, can mentor others, both provide and receive direction and is always willing to share what they learn</li>
-<li>overlaps with CET zone at least 5 hours ( prefer Europe )</li>
-</ul><div>
-<strong><br>What you will do:<br></strong><br>
-</div><ul>
-<li>extend the product to integrate with new ecommerce platforms (like Amazon)</li>
-<li>build and have ownership over new integrations with external data sources we use to augment our reports (we integrate with wide range of systems from ad platforms to CRMs and shipping services.)</li>
-<li>optimize our existing complex backend processing jobs</li>
-<li>optimize existing data pipelines</li>
-<li>participate in building new app features for thousands of merchants who trust us with their reporting data</li>
-</ul><div>
-<strong><br>Where we are and how we work:<br></strong><br>
-</div><ul>
-<li>We are a distributed team all over the globe but our development team is mainly working during Western European working hours.</li>
-<li>We are used to async communication over Slack but also have regular weekly meetings to sync up.</li>
-<li>Our tech stack is Ruby / Javascript / Stimulus / Tailwind CSS / SQL / Git</li>
-<li>We optimize new features for the long term. For us, this is not a sprint but a marathon.</li>
-</ul><div>Working for Lifetimely doesn't feel like the usual office or startup gig: we are a distributed group of twelve people across eight different countries with our own way of working. Some of us are nomads, some just like working remotely. We highly encourage written (long-form) communication and documenting things on Notion, and generally don't like tight fixed schedules.<br><br>
-</div><div>
-<strong>We expect you to be independent and know how to manage yourself.</strong> We prioritize shipping and results above how or when you do the work.<br><br>
-</div><div>Two meetings per week, one for the devs on Tuesday, and another one on Thursday for everyone. That's it.<br><br>
-</div><div>If you prefer to do meetings and calls or just know that you need a lot of human interaction, Lifetimely is probably not the best place for you to work at. But if you are into distributed work and prefer the lifestyle aspects or maybe live somewhere with not a lot of exciting product companies to work for, you will enjoy working with us.<br><br>
-</div><div>
-<strong><br>Compensation<br></strong><br>
-</div><div>This is a full-time position with annual compensation of <strong>USD 70 000 to USD 110 000</strong> and varies with experience and skill set. You can be a full-time employee with PTO (through Multiplier) or a full-time contractor, depending on your location and preferences. We will provide you the necessary equipment and pay for a co-working space if you have one nearby.<br><br>
-</div><div>
-<strong><br>Hiring process<br></strong><br>
-</div><div>Our process has three steps:<br><br>
-</div><ol>
-<li>A simple coding task that takes no more than 30 min and can be done at your convenience</li>
-<li>Video call where we discuss the task and ask you about your experience</li>
-<li>A paid trial two-week contract (if your current role allows) where you work with us as if you were full-time. If this is not possible, we can also do a traditional tech interview instead.</li>
-</ol><div>
-<strong><br>How to apply:<br></strong><br>
-</div><div>Tell us about:<br><br>
-</div><ol>
-<li>Describe the largest web app you worked on and the most challenging problem you worked on?</li>
-<li>The timezone you are in?</li>
-<li>When can you start at the earliest?</li>
-<li>Your salary requirements</li>
-</ol><div>After you've applied, we will reach out to you for a test task if you're selected for the first round of interviews.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer">https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -435,7 +442,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tech22-frontend-developer-angular" align="right" target="_blank">Apply</a>
@@ -480,56 +487,6 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Tech22</h5>
-                    <h3> Backend Developer (Kotlin)</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>9 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/tech22-backend-developer-kotlin" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> UK
-</p>
-
-<div><strong>About Tech22</strong></div><div> </div><div>Welcome to Tech22, a platform development company that services iGaming brands, run by a management team with decades of experience in the industry. We are proud to have one successful brand already online and are excited to be launching our second brand shortly.</div><div> </div><div>At Tech22, we are committed to providing our client's players with the best gaming experience possible. Our team of experts works tirelessly to deliver a top-notch platform experience, integrate secure payment options, and excellent games.</div><div> </div><div>As part of a wider group with a base of 50 million users, we have aggressive plans for growth and are constantly expanding our portfolio of services to better serve our customers. We believe in fostering a culture of innovation, creativity, and collaboration, and are always on the lookout for talented individuals who share our passion for gaming and our commitment to excellence.</div><div> </div><div>If you're interested in joining our dynamic team and contributing to our mission of delivering world-class gaming experiences, we encourage you to explore our current job openings and submit your application today.</div><div>
-<br><strong>Backend Developer (Kotlin)</strong><br><br>Location: Remote</div><div> </div><div>Responsibilities:</div><ul>
-<li>Responsible for a variety of matters covering all major components of the platforms used in the company.</li>
-<li>Able to diagnose functional and performance issues and advise the development teams.</li>
-<li>Hands-on development projects around high-volume, high performance, real-time transactional systems.</li>
-<li>Working closely with the talented quant &amp; product teams to help implement new ideas.</li>
-<li>Working closely with the company’s external clients, being a point of contact supporting software projects.</li>
-<li>Introduce new technologies and ideas to optimise, automate and streamline existing processes and procedures.</li>
-<li>Consider the security, capacity, and performance of all the components within the company platform.</li>
-</ul><div>Requirements:</div><ul>
-<li>Five years of experience with Kotlin and / or Java development language </li>
-<li>Online betting / gaming industry experience </li>
-<li>Previously worked on highly transactional systems</li>
-<li>Experience designing and building RESTful web service APIs</li>
-<li>Passion for writing high quality, rock solid code</li>
-<li>Excellent communications skills, both written and verbal</li>
-<li>A Technical background – BSc or equivalent in a computing, engineering or science discipline with strong relevant experience in IT</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tech22-backend-developer-kotlin">https://weworkremotely.com/remote-jobs/tech22-backend-developer-kotlin</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
                     <h5>MailerLite</h5>
                     <h3> PHP Integration Developer</h3>
                 </td>
@@ -537,7 +494,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/mailerlite-php-integration-developer" align="right" target="_blank">Apply</a>
@@ -617,7 +574,7 @@
 </div><ul>
 <li>Yearly Salary range: $50,000-$60,000 (gross)</li>
 <li>Remote-first culture with the team working remotely from all over the world</li>
-<li>Remote health insurance. Every team member gets global health insurance with full coverage in their home country and 175+ countries. No exclusions for pandemics</li>
+<li>International health insurance provided with coverage in most countries. Monthly healthcare payout available in select countries where coverage is limited</li>
 <li>Company-paid retreats. Once per year we gather for a week in an exotic location to work, learn and have fun together</li>
 <li>31 days of vacation per year. We encourage you to unplug and recharge!</li>
 <li>4 creative days. One paid day off per quarter to do something creative and fun</li>
@@ -639,330 +596,255 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/8522/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6989/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Kickserv</h5>
-                    <h3> Senior Mobile Developer (React Native)</h3>
+                    <h5>ProjectDiscovery.io</h5>
+                    <h3> Senior Back End Developer (Golang)</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>213 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6989/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> San Francisco
+    <br /><strong>URL:</strong> <a href="https://projectdiscovery.io">https://projectdiscovery.io</a>
+</p>
+
+<div>ProjectDiscovery is an open-source cyber-security company that builds a range of softwares for security engineers and developers. Our user base is among the largest in the InfoSec community, and we are used by top internet companies’ security and developer teams, including Fastly, Microsoft, CloudFlare, Gitlab, Facebook, IBM, and many others.</div><div><br></div><div>We are well funded and just recently raised $25M in our Series A. Backed by current/former CXOs from companies like Fastly, Databricks, Google, Twitter, HashiCorp, RedHat.</div><div><br></div><div>→ github.com/projectdiscovery</div><div><br></div><div>
+<br>You're a backend engineer with 6+ years of software experience. You're ready to be an individual contributor, design and build sophisticated systems quickly, and collaborate in a fast-paced environment.</div><div><br></div><div>You are a product-focused engineer that takes just as much pride in the user experience of your product as you do the performance.</div><div>
+<br><strong>Requirements:</strong>
+</div><ul>
+<li>6+ years of experience as a backend developer, with at least 3+ years of experience working with GO language.</li>
+<li>Strong knowledge of working with Go paradigms and best practices</li>
+<li>Good knowledge of concurrency in Go - goroutines, channel patterns, Go ecosystem, and tools available</li>
+<li>Worked on or have an understanding of various frameworks in Go</li>
+<li>Ability to dissect and recommend best tools for the job</li>
+<li>Worked with microservices architecture and patterns, DevOps, and continuous delivery.</li>
+<li>Experience building APIs with gRPC or REST</li>
+<li>Some experience with deployment processes including knowledge of Kubernetes and Docker.</li>
+<li>Strong knowledge of PostgreSQL / MySQL</li>
+</ul><div><br></div><div><strong>What will you work on:</strong></div><ul>
+<li>Here is our work: https://github.com/projectdiscovery you are directly going to be involved in many of these open-source projects. 90%+ code base is written in Go.</li>
+<li>Developing high-volume, low-latency applications for large systems and coping with the challenges of working in a distributed and highly concurrent environment.</li>
+<li>You will also be coding new features and have an active role in the defining the backend architecture, which includes designing microservices and researching new alternatives and technologies.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang">https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Proxify AB</h5>
+                    <h3> Senior Front-end Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>215 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Sweden
+    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
+</p>
+
+<div><br></div><div><strong>The Role:</strong></div><div>We are searching for a Senior Front-End Developer (Angular.js/React.js). You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
+<br><br>
+</div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
+<li>You have +3 years experience with React.js/Angular.js;</li>
+<li>You follow best practices and conventions;</li>
+<li>Relevant experience in CI/CD and related tools;</li>
+<li>Responsible and able to work with minimal supervision;</li>
+<li>Upper-intermediate English level;</li>
+<li>You can communicate well with both technical and non-technical clients.</li>
+</ul><div>
+<strong><br>Nice-to-have:</strong> <br><br>
+</div><ul>
+<li>Timezone: CET (+/- 3 hours);</li>
+<li>Basic back-end knowledge for minor back-end jobs where necessary.</li>
+</ul><div>
+<strong><br>Responsibilities:<br></strong><br>
+</div><ul>
+<li>Build reusable code and libraries for future use;</li>
+<li>Ensure the technical feasibility of UI/UX designs;</li>
+<li>Transform visual designs and wireframes into working products;</li>
+<li>Accurate planning of the feature delivery;</li>
+<li>Collaborate with other team members and stakeholders</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong>What we offer:</strong>💻 <strong>100% remote work</strong>: Work from anywhere.👌🏻 <strong>Flexibility</strong>: The ability to change the project to another one.💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.🚀 <strong>360 degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
+<br><br>
+</div><div><strong>Your benefits with Proxify:</strong></div><ul>
+<li>
+<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
+<li>
+<strong>Make an impact</strong>: You get the opportunity to work on the projects that inspire you and add value to your career.</li>
+<li>
+<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
+<li>
+<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
+<li>
+<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
+</ul><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/8032/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Storetasker</h5>
+                    <h3> Senior Shopify Developer (Remote + Flexible)</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>810 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/kickserv-senior-mobile-developer-react-native" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0083/8522/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0074/8032/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Nashville, TN
-    <br /><strong>URL:</strong> <a href="https://kickserv.com">https://kickserv.com</a>
+  <strong>Headquarters:</strong> Brooklyn, NY
+    <br /><strong>URL:</strong> <a href="https://resources.storetasker.com/become-an-expert?apply=true&amp;source=weworkremotely_best_2021">https://resources.storetasker.com/become-an-expert?apply=true&amp;source=weworkremotely_best_2021</a>
 </p>
 
-<div>Kickserv is looking for an experienced React Native mobile developer to take charge of our React Native mobile field service application. You will be the first member of our all-new mobile team. You'll set the standard for our app, and help recruit and lead others to fill out the team in the near future.</div><ul>
-<li>Work with our product team to plan and build new features—both for parity with our web application, and new mobile-first functionality.</li>
-<li>Maintain a high standard of excellence, fixing bugs, keeping dependencies up to date, and shipping releases on a roughly two-week cycle.</li>
-<li>Help develop our next-generation REST API for which your app will be the first client—along with our new React web UI.</li>
-<li>As a valued member of a small, close-knit team, you’ll work closely with the web developers—participating in standups and refinement sessions, pairing with others, and participating in our support / QA / on-call engineer rotation (approximately once every 12 weeks).</li>
-</ul><div><strong><br>More about you:</strong></div><ul>
-<li>You have at least 3 years' experience building, shipping, and maintaining a cross-platform production mobile application with a significant user base.</li>
-<li>React Native is your bread and butter, but you’re familiar with the nuances of both iOS and Android. Experience developing natively in either platform is a plus.</li>
-<li>You’ve been a team leader or are interested in growing into a leadership position, guiding and mentoring more junior developers.</li>
-<li>Knowledge and experience with the field service industry is always a plus.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/kickserv-senior-mobile-developer-react-native">https://weworkremotely.com/remote-jobs/kickserv-senior-mobile-developer-react-native</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior Ruby on Rails Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>38 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div><strong>The Role:</strong></div><div>
-<br>We are searching for a Senior Ruby on Rails Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
-<br><br>
-</div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
-<li>You have +3 years of experience with Ruby on Rails;</li>
-<li>You have experience working with the libraries like Resque and RSpec;</li>
-<li>You are able to write clean Ruby code;</li>
-<li>You have proficiency with code versioning tools including Git, Github, SVN, and Mercurial;</li>
-<li>You got experience with Angular or ReactJS;</li>
-<li>You are familiar with MVC, Mocking, RESTful, and ORM;</li>
-<li>You have a good understanding of front-end technologies including HTML5, JavaScript, and CSS3;</li>
-<li>You possess knowledge of server-side templating languages including Slim and Liquid;</li>
-<li>You got familiar with testing tools.</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>Nice-to-have:</strong> <br><br>
+<h1>Shopify developers love to freelance with Storetasker.</h1><ul>
+<li>
+<strong>Endless, quality clients: </strong>from well known DTC brands to top agencies. </li>
+<li>
+<strong>Fully remote, flexible: </strong>work as much or as little as you want, wherever you want. </li>
+<li>
+<strong>A talented and helpful community: </strong>it's freelance (with a team).</li>
+<li>
+<strong>Earn $80-$120 per hour: </strong>pick your clients, and send your own quotes or retainers. <br><br>
+</li>
+</ul><div>We've connected our community of Shopify developers to over 32,000 e-commerce brands. From new brands pre-launch, to some of the most successful Shopify Plus sites, to top creative agencies. Clients include: <a href="https://www.alphaindustries.com/">Alpha Industries</a>, <a href="https://www.bollandbranch.com/">Boll &amp; Branch</a>, <a href="https://getsuperfluid.com">Superfluid</a>, <a href="https://jackhenry.co/">Jack Henry</a>, <a href="http://plenaire.co/">Plenaire</a>, and <a href="https://walkfulton.com/">Fulton</a> among many more. <br><br><strong>Why Storetasker?</strong>
 </div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Knowledge of TypeScript.</li>
+<li>
+<strong>Endless clients &amp; project opportunities:</strong> you’ll see between 5 - 50 new opportunities per day and can pick any lead you want. </li>
+<li>
+<strong>You’ll earn more:</strong> some experts are making $150-200k per year. </li>
+<li>
+<strong>A high quality community:</strong> we carefully select about 5% of those who apply. </li>
+<li>
+<strong>Remote:</strong> work from anywhere, anytime. </li>
+<li>
+<strong>Flexible:</strong> take on as many clients as you want.</li>
+<li>
+<strong>No external ratings:</strong> you’re already a professional. No need to prove it. </li>
+<li>
+<strong>Great Software:</strong> that makes it easy to manage more clients and increase billable hours.</li>
+<li>
+<strong>Support when you need it:</strong> we offer project support 7 days per week. </li>
+<li>
+<strong>Community (not competition):</strong> you pick your clients, projects, and never compete against other Experts in the community. </li>
 </ul><div><br></div><div>
-<strong>Responsibilities:<br></strong><br>
+<a href="https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_best_2021"><strong>Learn more and join</strong></a>! It’s confidential, and takes less than 5 minutes. <br><br><strong>Here's who we're looking for:</strong>
 </div><ul>
-<li>Designing and developing new web applications;</li>
-<li>Maintaining and troubleshooting existing web applications;</li>
-<li>Writing and maintaining reliable Ruby code;</li>
-<li>Integrating data storage solutions;</li>
-<li>Creating back-end components;</li>
-<li>Identifying and fixing bottlenecks and bugs;</li>
-<li>Integrating user-facing elements designed by the front-end team;</li>
-<li>Connecting applications with additional web servers;</li>
-<li>Maintaining the APIs.</li>
+<li>Ambitious part time and full-time freelancers and boutique agencies.</li>
+<li>Who have 3+ years of Shopify experience, and 5+ years of web development experience. </li>
+<li>And who have managed projects, deadlines, and communication successfully. </li>
 </ul><div>
-<br><br>
-</div><div>
-<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
-<br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of the Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul>
+<br><strong>Especially people with some of these skills:</strong>
+</div><ul>
+<li>Front-end or full-stack Shopify development</li>
+<li>Klaviyo Email flows</li>
+<li>Headless e-commerce development</li>
+<li>Conversion rate optimization</li>
+<li>E-commerce expertise and strategy</li>
+<li>SEO </li>
+<li>Site Speed</li>
+<li>Builder and/or Shogun</li>
+</ul><div>
+<br><a href="https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_best_2021"><strong>It takes just a few minutes to join.</strong></a><br><br><strong>Here's what a few current members have to say:</strong><br><br>"Storetasker has changed my life - I'm not only making more, but I'm getting quality leads, a diverse slate of projects, and access to an amazing group of developers. Plus, I love the HQ team!" - Adan, United States, Storetasker Expert since March 2020<br><br>"Storetasker has connected me with clients that would never have been possible without them. That combined with an incredible support network and community makes joining an amazing opportunity for any developer”" - Mark, England, Storetasker Expert since 2019<br><br>"Storetasker has allowed me to live out my dreams as an independent developer - to move to Toronto and continue doing what I love: solving interesting problems and helping apparel companies grow." - Siah, Canada, Storetasker Expert since 2017<br><br><strong>Our Mission: </strong><br><br>We're a company built by ex-freelancers who know the ins and outs of being an independent entrepreneur. We've experienced first-hand the shortcomings of other freelance platforms and the pain-points of being fully independent. Our mission is to empower e-commerce entrepreneurs by giving them the experts, insights, and resources to succeed.  <br><br><strong>Questions?</strong> Reach out at experts@storetasker.com.</div><div><br></div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1">https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1</a></p>
 
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/8743/logo.gif" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1656870/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>FinDox Inc</h5>
-                    <h3> Senior C# and PostgreSQL Backend Developer</h3>
+                    <h5>Easy Energy Inc</h5>
+                    <h3>Freelance Python Developer and AWS Manager </h3>
                 </td>
                 <td width="300">
-                    <code>Back-End Programming</code>
+                    <code>amazon,AWS,backend,developer</code>
                 </td>
                 <td width="200">
-                <text>40 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/findox-inc-senior-csharp-and-postgresql-backend-developer-4" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/freelance-python-developer-and-aws-manager-1656870" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/8743/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> El Segundo, California
-    <br /><strong>URL:</strong> <a href="https://www.findox.com/">https://www.findox.com/</a>
-</p>
-
-<div>Awesome remote back-end developer role doing challenging and rewarding work.</div><div><br></div><div><strong>You:</strong></div><div>Attitude &amp; Fit<strong>   </strong>
-</div><ul>
-<li>Positive attitude</li>
-<li>Love building scalable, well-organized code </li>
-<li>Exceptional problem solving skills</li>
-<li>Strive for excellence in all you do</li>
-</ul><div><br></div><div>Experience &amp; Skills</div><ul>
-<li>4+ years work experience with .NET</li>
-<li>PostgreSQL experience is a plus </li>
-<li>Demonstrated experience building and architecting back-end APIs</li>
-<li>Good written and oral communication skills in English</li>
-</ul><div><br></div><div>Candidates will complete a rigorous technical evaluation. </div><div><br></div><div><strong>Position:</strong></div><ul>
-<li>Architect, design, and implement new functionality in .net core using our framework</li>
-<li>Write database migrations and stored procedures</li>
-<li>Help research and troubleshoot production issues </li>
-<li>Improve platform performance by refactoring code, workflows, and stored procedures</li>
-<li>Able to train other developers and potentially able to lead a team in the future</li>
-</ul><div><br></div><div>You must be able to work substantially during normal business hours in the Pacific Time Zone (8am to 4pm UTC -8:00, Los Angeles time). We prefer candidates in North America and South America. We do deployments every other Thursday night from 7 pm - 9 pm PST.</div><div><br></div><div>Competitive compensation and contract type depending on qualifications and location.</div><div><br></div><div>Our technologies used:</div><div>.NET 6, C#, REST API, Javascript, HTML, CSS, VueJS, SQL, PostgreSQL, Linux, Microsoft Azure, Dokan File System Filter, Outgoing email, Incoming email processing, Gitlab, WinForms, NodeJS</div><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/findox-inc-senior-csharp-and-postgresql-backend-developer-4">https://weworkremotely.com/remote-jobs/findox-inc-senior-csharp-and-postgresql-backend-developer-4</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior Unity Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>40 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-unity-developer-fully-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div><strong>The Role:</strong></div><div>
-<br>We are searching for a Senior Unity Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
-<br><br>
-</div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
-<li>You have +3 years of experience with Unity / Unity3D;</li>
-<li>Strong ability with C# object-oriented programming language</li>
-<li>Experience with game assets (ex: meshes, animations, materials)</li>
-<li>You have in-depth knowledge of 3D development and integrated game physics;</li>
-<li>You own experience with both console and mobile game development;</li>
-<li>You got experience with memory and space optimization;</li>
-<li>You possess knowledge of scripting, animation, session management, and textures;</li>
-<li>You have good troubleshooting skills.</li>
-</ul><div>
-<strong><br>Nice-to-have:</strong> </div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Knowledge of TypeScript.</li>
-</ul><div><br></div><div>
-<strong>Responsibilities:<br></strong><br>
-</div><ul>
-<li>Establishing strategy and development pipelines;</li>
-<li>Planning and implementing game functionality;</li>
-<li>Transforming design ideas into functional games;</li>
-<li>Designing and building game codes;</li>
-<li>Identifying and fixing code errors and game bottlenecks;</li>
-<li>Testing game functionality and theme dynamics;</li>
-<li>Ensuring products conform to high industry standards;</li>
-<li>Designing and building game patches and upgrades;</li>
-<li>Stay up-to-date with the latest technologies.</li>
-</ul><div><br></div><div>
-<strong>What we offer:<br><br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
-<br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of the Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-unity-developer-fully-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-unity-developer-fully-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior Laravel Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>95 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-laravel-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div><strong>The Role:</strong></div><div>We are searching for a Senior Laravel Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div><br></div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
-<li>You have +3 years of experience with Laravel;</li>
-<li>Understanding of the MVC pattern;</li>
-<li>Understanding of SQL databases;</li>
-<li>You follow best practices and conventions;</li>
-<li>Responsible and able to work with minimal supervision;</li>
-<li>Upper-intermediate English level;</li>
-<li>You can communicate well with both technical and non-technical clients.</li>
-</ul><div>
-<strong>Nice-to-have:</strong> </div><ul><li>Timezone: CET (+/- 3 hours)</li></ul><div><br></div><div>
-<strong>Responsibilities:<br></strong><br>
-</div><ul>
-<li>Liaise with fellow backend and front-end developers;</li>
-<li>Design and implement web applications that use the Laravel framework;</li>
-<li>Implement server-side logic to process front inputs;</li>
-<li>Identify and fix bugs that are found within code;</li>
-<li>Interact with SQL databases;</li>
-<li>Ensure all inputs going to a database have been parameterized;</li>
-<li>Ensure the appropriate security standards have been implemented;</li>
-<li>Ensure you've written unit test cases to verify code is performing as expected and to prevent possible security breaches;</li>
-<li>Create written documentation for the different components.</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
-<br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of the Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul><div>
-<br><br><br><br><br><br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-laravel-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-laravel-developer-long-term-job-100-remote</a></p>
-
+                <p><span>We are seeking a skilled Python Developer &amp; AWS Manager to join our team and manage the backend of our database. The system is primarily built using Python and deployed using Amazon Web Services.</span></p>
+<p><span>As a Python Developer &amp; AWS Manager, you will be responsible for diagnosing errors and infrastructure problems, managing permissions in the backend, and creating a beta platform for other freelancers to work from.</span></p>
+<p> </p>
+<div class="h4"><span>Responsibilities:</span></div>
+<p><span>·  Develop and maintain the backend of our database using Python 3.8 programming language and the Django framework </span></p>
+<p><span>·  Use support libraries such as Django REST Framework, Celery, Weasyprint and Twilio to enhance system functionalities </span></p>
+<p><span>·  Manage AWS clusters consisting of web, worker and scheduler servers </span></p>
+<p><span>·  Configure Elastic Beanstalk to automate and simplify server management </span></p>
+<p><span>·  Manage PostgreSQL server on an Amazon RDS instance </span></p>
+<p><span>·  Use Celery queues running on Amazon SQS to minimize front-end processing and improve user experience </span></p>
+<p><span>·  Diagnose errors and infrastructure problems to improve database speed </span></p>
+<p><span>·  Manage permissions in the backend and create a beta platform with randomized data</span></p>
+<p> </p>
+<div class="h4"><span>Requirements:</span></div>
+<p><span>·  Degree in Computer Science or related field </span></p>
+<p><span>·  At least 3 years of experience in Python development and AWS management </span></p>
+<p><span>·  Solid understanding of Django framework and support libraries </span></p>
+<p><span>·  Strong knowledge of Amazon Web Services, particularly Elastic Beanstalk, EC2, RDS, SQS, S3, Codecommit, CodePipeline, and CodeDeploy </span></p>
+<p><span>·   Experience with PostgreSQL or other database management systems </span></p>
+<p><span>·   Familiarity with Docker containers </span></p>
+<p><span>·  Ability to work independently and as part of a team </span></p>
+<p><span>·  Excellent communication skills and problem-solving abilities</span></p>
+<img src="https://remotive.com/job/track/1656870/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -977,7 +859,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -1054,7 +936,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -1191,7 +1073,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1268,7 +1150,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1412,7 +1294,7 @@
                     <code>developer,seo,social media,ai</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/ai-application-developer-creator-1632115" align="right" target="_blank">Apply</a>
@@ -1472,7 +1354,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -1626,6 +1508,30 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1569512792381878278/Smf8h3tt_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>ConvertKit</h5>
+                    <h3>Front-End React Developer (Contractor)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/convertkit/j/1DB3149739" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>ConvertKit is a creator marketing platform built to empower creators to earn a living online. We help them own their audience and turn fans into customers. For makers, authors, chefs, musicians, athletes, and anyone else making a living by creating the culture we all love, there isn’t a better tool for reaching inboxes. More importantly, there isn’t a team more committed to helping creators earn a living doing work that matters.</p><p>We’re on a mission to help creators earn $1 billion using our SaaS marketing platform. We have always been 100% independent and 100% remote. We are proud to have built a product that our customers love, that 25,000+ creators use to earn a living, and we look for people who have enthusiasm and belief in our <a href="https://convertkit.com/mission" target="_blank" rel="nofollow noreferrer noopener" class="external">mission, vision, and values</a> to join our team.</p><h3><br></h3><h3>The role</h3><p>This is a full-time (40 hours per week) contract role.</p><p>You’ll work alongside a small team responsible for the ongoing efforts of building and expanding our <a href="https://convertkit.com" target="_blank" rel="nofollow noreferrer noopener" class="external">marketing site</a> using Next.js and React. We’re looking for a great front-end developer who has experience with React and using REST APIs to build web pages, as well as working alongside designers and SEO experts to ensure brand consistency and site quality. You’ll work directly with the Site Squad, specifically our Senior Front-End Developer, to build pages for various marketing and brand efforts for ConvertKit.</p><p>We’re looking for someone who cares deeply about creators and helping them on their journey, enjoys developing websites that are wonderful and easy to use, and cares about the creators we serve. If this sounds like you, we’d love to have you apply!</p><p><br></p><h3>Responsibilities</h3><ul> <li>Work with the Site Squad to create new pages, features, and components in our codebase. Some projects may include expanding or refactoring existing components or pages to ensure performance, accessibility, and maintainability.<ul> <li>We use Next.js and React with a variety of frameworks and libraries, such as TailwindCSS and GraphQL.</li> <li>We use Figma for all of our design needs, including our design system, page designs, and build feedback from the designers. Typically the design and brief are provided to the dev team with Figma.</li> </ul> </li> <li>Actively participate in driving the technical direction of our codebase.</li> <li>Collaborate with team members across the organization.</li> </ul><h3>Requirements: </h3><ul> <li>At least five years building websites in a team environment or equivalent experience. Years of experience doesn’t always capture expertise, so we encourage you to apply if you can demonstrate you’re well versed in building websites in a team environment</li> <li>Experience developing responsive, mobile-first, and accessibility-focused websites</li> <li>At least two years working professionally with React or similar libraries - if you don’t have two years of experience but can demonstrate a confident grasp of React or similar libraries, we encourage you to apply.</li> <li>Experience working with Next.js or a similar static site-generating framework.</li> <li>Experience working with WordPress and GraphQL are a plus, but not a requirement.</li> <li>Experience writing code that is accessible, scalable, maintainable, and performant.</li> <li>Experience with Figma is a big plus, but not a requirement.</li> <li>Comfortable working remotely in an autonomous environment - you don’t mind asking questions and problem solving in public communication channels</li> <li>Able to work in US or EU time zones - you don’t have to live in those time zones, but you have to be able to collaborate with the team during the crossover period of these times</li> <li>Conversational English proficiency</li> <li>Enthusiasm and belief in our<a href="https://convertkit.com/mission" rel="nofollow noreferrer noopener" class="external"> mission, vision, and values</a> </li> </ul><h3>Benefits: </h3><p>Compensation: $1,500 per month</p><ul> <li>3 weeks (15 days) vacation time per year</li> <li>2 weeks (10 days) sick leave per year</li> </ul><p><br></p><h3>How to apply</h3><p>We know that most people hate interviewing (we relate!). We aim to make it as good of an experience as we can, and part of that includes keeping you informed during the process.</p><p>Here’s what you can expect from the process:</p><ul> <li>Written application + submitting a screen share video about a piece of code you're particularly proud of</li> <li>A video call with the Hiring Manager</li> <li>A short homework assignment</li> <li>A “technical” interview to discuss the homework assignment and your experience</li> </ul><p>To get started, complete this application, including answers to the questions on the next page. We read every single application, and your responses to our application questions help put your experience into context.</p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1306325743580848130/mk0qvsZ9_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -1645,7 +1551,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18px">About Kraken</b></div><div><br></div><div><span style="font-size: 11pt">As one of the largest and most trusted </span><b style="font-size: 11pt">digital asset platforms</b><span style="font-size: 11pt"> globally, we are empowering people to experience the life-changing potential of crypto.&nbsp;Trusted by over 8 million consumer and pro traders, institutions, and authorities worldwide - our unique combination of products, services, and global expertise is helping tip the scales towards mass crypto adoption.&nbsp;But we’re only just getting started. We want to be pioneers in crypto and add value to the everyday lives of billions. Now is not the time to sit on the sidelines. Join us to bring crypto to the world.</span></div><div><br></div><div>To ensure Kraken is the right fit for you, please ensure you read <a href="https://kraken-culture.notion.site/" class="postings-link"><b>Kraken Culture Explained</b></a><b>&nbsp;</b>to find out more about us!</div><div><br></div><div><b style="font-size: 18px">Overview</b></div><div><br></div><div>At Staked we combine software and systems engineering to build and run large-scale, fault-tolerant staking node infrastructure for 40+ blockchains. We're looking for someone with a broad understanding of software Development, DevOps, and a deep knowledge of Blockchain preferably Ethereum.</div><div><br></div><div>Staked is hiring a Backend Blockchain Developer to join a high-impact team to identify and capitalize on algorithmic ways to improve yield from staking.&nbsp; The team focuses on Ethereum and other protocols, and is currently working on projects surrounding MEV across DeFi. Join the team on the cutting edge of blockchain technology and help us figure out how to deliver alpha to our customers.&nbsp;</div></div><div class="section page-centered"><div><h3>Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Drive software development through the development lifecycle, taking prototypes from idea to production.&nbsp;&nbsp;</li><li>Contribute to thought-leadership and analytics that will inevitably change the roadmap and induce pivots.</li><li>Develop the software stack responsible for watching mempool transactions and identifying profitable MEV opportunities. This might include searchers (algorithmic logic) for liquidation or arbitrage, the software stack we use to evaluate transactions in the mempool, and our custom clients designed to deliver the most profitable block.</li><li>Evaluate third-party solutions like Flashbots to determine their suitability for inclusion in our strategy. As appropriate, design a solution that incorporates their technology.</li><li>Use our data stack to determine the most profitable strategies and mimic them.</li><div><br></div></ul></ul></div></div><div class="section page-centered"><div><h3>Qualifications</h3><ul class="posting-requirements plain-list"><ul><li>Experience working with at least two software systems on a professional team.</li><li>Proficiency in one or more object oriented languages, such as typescript, golang or python with a flexibility to work in any language.</li><li>Experience with numerical methods/algorithms in optimization software.</li><li>Passion for performance-oriented, event-driven backend systems (Eg. trading technology, ad-tech, risk, finance, or distributed web-apps/systems).</li><li>Enough SQL skills to do basic analytics of time series data, and willing to learn more.</li><li>Nice to haves include experience with event-driven systems, Docker, Kubernetes, solidity, and developing smart contracts.</li><li>Smart and collaborative. These are hard problems with lots of potential solutions. We’re looking for people that want to solve them as part of a team.</li><li>Understanding of test-driven development and other techniques to make maintainable financial applications.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>#US #CANADA #LI-LM1</div><div><br></div><div>We’re powered by people from around the world with their own unique and diverse experiences. We value all Krakenites and their talents, contributions, and perspectives, regardless of their background.&nbsp;We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><b><a href="https://kraken-culture.notion.site/" class="postings-link">Kraken Culture Explained</a></b></div><div><b><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></b></div><div><b><a href="https://blog.kraken.com/" class="postings-link">Catch up on our blog</a></b></div><div><b><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Follow us on LinkedIn</a></b></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/cca5342c-2de7-4267-9aa2-bca911a06c9f/apply">Apply for this job</a></div>
+                <div class="section page-centered" data-qa="job-description"><div><b><span style="font-size: 18pt">Building the Internet of Money&nbsp;</span></b></div><div><br></div><div><span style="font-size: 10.5pt">Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</span></div><div><br></div><div><span style="font-size: 10.5pt">What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the adoption of cryptocurrency so the world can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Before you apply, please read the </span><a href="https://kraken-culture.notion.site/" style="font-size: 10.5pt" class="postings-link">Kraken Culture Explained</a><span style="font-size: 10.5pt"> to learn more about our internal culture, values, and mission.</span></div><div><br></div><div><span style="font-size: 10.5pt">As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who have a long track record of building premium products for professionals and institutions as well as newcomers to the space. Kraken is committed to industry-leading security through our products like </span><a href="https://pro.kraken.com/" style="font-size: 10.5pt" class="postings-link">Kraken Pro</a><span style="font-size: 10.5pt">, </span><a href="https://www.kraken.com/en-us/nft" style="font-size: 10.5pt" class="postings-link">Kraken NFT</a><span style="font-size: 10.5pt">, and </span><a href="https://cryptowat.ch/" style="font-size: 10.5pt" class="postings-link">Cryptowatch</a><span style="font-size: 10.5pt">, with a focus on world-class customer support and </span><a href="https://www.kraken.com/learn" style="font-size: 10.5pt" class="postings-link">crypto education</a><span style="font-size: 10.5pt"> for all.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Become a Krakenite and build the internet of money!</span></div><div><br></div><div><b style="font-size: 18px">Overview</b></div><div><br></div><div>At Staked we combine software and systems engineering to build and run large-scale, fault-tolerant staking node infrastructure for 40+ blockchains. We're looking for someone with a broad understanding of software Development, DevOps, and a deep knowledge of Blockchain preferably Ethereum.</div><div><br></div><div>Staked is hiring a Backend Blockchain Developer to join a high-impact team to identify and capitalize on algorithmic ways to improve yield from staking.&nbsp; The team focuses on Ethereum and other protocols, and is currently working on projects surrounding MEV across DeFi. Join the team on the cutting edge of blockchain technology and help us figure out how to deliver alpha to our customers.&nbsp;</div></div><div class="section page-centered"><div><h3>Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Drive software development through the development lifecycle, taking prototypes from idea to production.&nbsp;&nbsp;</li><li>Contribute to thought-leadership and analytics that will inevitably change the roadmap and induce pivots.</li><li>Develop the software stack responsible for watching mempool transactions and identifying profitable MEV opportunities. This might include searchers (algorithmic logic) for liquidation or arbitrage, the software stack we use to evaluate transactions in the mempool, and our custom clients designed to deliver the most profitable block.</li><li>Evaluate third-party solutions like Flashbots to determine their suitability for inclusion in our strategy. As appropriate, design a solution that incorporates their technology.</li><li>Use our data stack to determine the most profitable strategies and mimic them.</li><div><br></div></ul></ul></div></div><div class="section page-centered"><div><h3>Qualifications</h3><ul class="posting-requirements plain-list"><ul><li>Experience working with at least two software systems on a professional team.</li><li>Proficiency in one or more object oriented languages, such as typescript, golang or python with a flexibility to work in any language.</li><li>Experience with numerical methods/algorithms in optimization software.</li><li>Passion for performance-oriented, event-driven backend systems (Eg. trading technology, ad-tech, risk, finance, or distributed web-apps/systems).</li><li>Enough SQL skills to do basic analytics of time series data, and willing to learn more.</li><li>Nice to haves include experience with event-driven systems, Docker, Kubernetes, solidity, and developing smart contracts.</li><li>Smart and collaborative. These are hard problems with lots of potential solutions. We’re looking for people that want to solve them as part of a team.</li><li>Understanding of test-driven development and other techniques to make maintainable financial applications.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>#US #CANADA #LI-LM1</div><div><br></div><div><span style="font-size: 10.5pt">Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</span></div><div><br></div><div><span style="font-size: 10.5pt">As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</span></div><div><br></div><div><b><span style="font-size: 13.5pt">Stay in the know</span></b></div><div><br></div><div><a href="https://twitter.com/krakenfx" style="font-size: 10.5pt" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" style="font-size: 10.5pt" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" style="font-size: 10.5pt" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/cca5342c-2de7-4267-9aa2-bca911a06c9f/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
