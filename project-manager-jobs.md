@@ -1,6 +1,6 @@
 <div align="center"><h2>PROJECT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/7908/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>BBE Marketing Inc</h5>
@@ -10,7 +10,7 @@
                     <code>Management and Finance</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-administrative-assistant-project-manager-1" align="right" target="_blank">Apply</a>
@@ -19,7 +19,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0064/7908/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
   <strong>Headquarters:</strong> Hurst, TX
@@ -71,7 +71,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/govassist-llc-agile-project-manager-apm" align="right" target="_blank">Apply</a>
@@ -155,7 +155,7 @@
                     <code>Management and Finance</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/amazix-project-manager" align="right" target="_blank">Apply</a>
@@ -177,6 +177,126 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/amazix-project-manager">https://weworkremotely.com/remote-jobs/amazix-project-manager</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1654425/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>JobRack</h5>
+                    <h3>(Senior) Operations & Project Manager</h3>
+                </td>
+                <td width="300">
+                    <code>consulting,excel,marketing,sales</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/business/senior-operations-project-manager-1654425" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><img height="315" src="https://lh6.googleusercontent.com/LknPB2VTEIUcmv6xsm-V1cFAIKGItUVPjp8meXGXtrRgX2Z-YxcDn0eHWblovkYzP-JEbzPFRvKSbjZJkdXhLLIKv-ZV3wSsZN73_7X1YLrCosabdA4pv_wMkbAuDsOPkn0cQzEGlWD-lvLAbA0VD0k" width="602"></p>
+<p><img height="33" src="https://lh5.googleusercontent.com/oUbvc4Z8XiVNIip5JVkktpILfjioKfiaxZy8TrhLxr9hzmwVDUICA_gx7HpzBzCTfivyfsTOhXOJeMrx4hzI2dF-1R42L2b_7PGdelsd9QduUJx8BSqWf5MlNR1Xx5M5S6lDt31oCCBDbkm0inpzvSQ" width="602"></p>
+<p><a class="external" href="https://www.atlasanalytics.co/" rel="nofollow">ATLAS ANALYTICS</a> is a leading sales agency specialising in providing B2B sales and marketing teams with innovative outbound solutions. Their comprehensive services range from data sourcing and lead generation to personalised email outreach with video and tracking prospect engagement. The business focuses on automating prospecting activities and eliminating manual tasks, allowing its clients to concentrate on building relationships and closing deals.</p>
+<p>Established three years ago, ATLAS ANALYTICS has successfully executed outbound campaigns for hundreds of clients, generating increased revenue, pipeline growth, and numerous business opportunities. This year, they have expanded their offerings by launching our ATLAS SalesOS, a cutting-edge Sales Intelligence, Enablement, and Analytics platform designed to support the growth of tech companies, software and IT firms, and professional service providers in their prospecting activities.</p>
+<p>As a 100% remote-first company, their talented teams are distributed globally, with many team members working remotely from preferred hubs in Southeast Asia and metropolitan areas in Europe. They welcome applicants from anywhere, valuing passion and dedication above all else. Their motto is "Live, work, play - from anywhere."</p>
+<p>ATLAS ANALYTICS’ Core Values are:</p>
+<p>🔶Freedom Mindset: The team embraces maximum flexibility in all aspects of their work.</p>
+<p>🔶No Bullshit: The team prioritises honest, direct communication and discourages internal/external politics.</p>
+<p>🔶Technology First: They leverage technology whenever possible to streamline processes.</p>
+<p>🔶Meritocracy: Performance-driven, they reward hard work and have no tolerance for sloppiness or a 9-5 mindset.</p>
+<p>🔶Question the Status Quo: They continuously seek ways to innovate and objectively evaluate the validity of existing processes.</p>
+<p>🔶Commitment to Delivery: The team always delivers on their promises and strives to exceed expectations.</p>
+<p><img height="33" src="https://lh4.googleusercontent.com/-B9ufxLSYwpzXFEG3i-4amWzQuaJkQoVCt9fedYFocIPUUqNyhHTHVRVm1Yzm78wZBC13QQ9DIy2TcDBc89MdQgF0B91hBgu6IaStRWOn7hJxD6xC7Y9G7U38cIyUFOyWXIG00iDy_yOr2ItATRSnwI" width="602"></p>
+<p>Are you an experienced, dynamic professional looking to make an impact?</p>
+<p>🎯 ATLAS ANALYTICS is seeking a Detail-Oriented Integrator to Drive Efficiency &amp; Motivation in Their Operations</p>
+<p>Join ATLAS ANALYTICS’ thriving team as a (Senior) Operations &amp; Project Manager, where you'll play an integral role in managing diverse projects and driving efficiency across the business.</p>
+<p>In this exciting role, you'll collaborate with their visionary leadership team, ensuring seamless operations and keeping the team motivated to deliver exceptional results. As the business experiences rapid growth and expansion, your expertise will be crucial in working with various clients worldwide, from remote startups to growing tech scale-ups. Your primary role will be to help the team run smoother, better-structured, and more efficient operations, keeping your coworkers engaged, focused, and motivated as they deliver outstanding results.</p>
+<p>The three key responsibilities in your role will be:</p>
+<p>📌 Daily check-ins and accountability with the Sales team (Growth Consultants) to keep everyone on track, focused, and motivated.</p>
+<p>🎯 Well-managed projects to deliver results for clients, prioritising customer satisfaction and retention.</p>
+<p>⚙️ Ensuring smooth day-to-day operations with consistent adherence to the company operating system.</p>
+<p>Within this role, your responsibilities will require you to:</p>
+<ul style="">
+<li style="">🧩 Act as the "Integrator" to support the leadership team, ensuring seamless operations and maintaining team focus and motivation for greater results.</li>
+<li style="">🔍 Focus on details that others might overlook, contributing to the overall documentation process, including executing and drafting SOPs for business operations.</li>
+<li style="">📊 Run daily Standup &amp; Check-in meetings with Growth Consultants for performance updates, accountability, and troubleshooting, while communicating KPIs to the leadership team.</li>
+<li style="">📈 Manage the company scorecard, monitor performance against key metrics, and run weekly EOS Level 10 meetings (Rocks, Scorecard, To-Dos, Issues).</li>
+<li style="">🏆 Track performance and effectiveness of outreach campaigns (for ATLAS Sales and client campaigns), holding team members accountable based on numbers/stats and ensuring targets are met.</li>
+<li style="">✅ Ensure smooth-running campaigns for both ATLAS and clients, regularly reviewing and updating prospects as needed (e.g., bounced emails).</li>
+<li style="">🔐 Guarantee accuracy and adherence to best practices, such as logging interactions (email replies), disqualifying leads, and tracking won/lost opportunities, resulting in comprehensive performance reports.</li>
+<li style="">📚 Support business process documentation, executing, and drafting SOPs.</li>
+<li style="">🚀 Manage projects effectively to deliver outstanding results for the clients, with a strong focus on customer satisfaction and retention.</li>
+<li style="">⚙️ Ensure the day-to-day tasks run smoothly, and the company operating system is followed by all team members, creating a well-organised and efficient work environment.</li>
+</ul>
+<p>ATLAS ANALYTICS provides comprehensive training to ensure your success in the Senior Operations &amp; Project Manager role. You will have access to the team portal, which houses the "ATLAS Academy" Knowledge Base, along with a wealth of SOPs and workflow documentation. These resources include shared resources, video recordings, and dedicated 1:1 sessions with the leadership team, offering ongoing training and feedback for at least 6 months.</p>
+<p>In addition to these resources, you will develop a thorough working knowledge of the products and services ATLAS ANALYTICS is offering, including the process, onboarding, and ongoing collaboration between teams and clients. You will also attend weekly team meetings to sync with other team members from Operations, Consulting, and Leadership departments, further enhancing your understanding and collaboration.</p>
+<p>To fully support your growth and expertise, the team will help you familiarise yourself with the tech stack, software tools, and processes, ensuring that you have all the necessary knowledge and tools to excel in your role.</p>
+<p>Embrace the opportunity to make a difference and contribute to the success of the business while enjoying the flexibility of remote work. Apply now and become part of their passionate, results-driven team that is revolutionising the B2B sales industry.</p>
+<p><strong>Requirements</strong></p>
+<p><img height="33" src="https://lh3.googleusercontent.com/oZniafxbSVwbBsBpzx4ouNNSdCoDfsWOlb64p7VNnomHpeYYHRwdCYkeLcEhBhUomzwsSUvdxLzboiNG3iEXeWp6zERiE_vOYT2lwrfznoi5DoqTczH3X3bINiAAVv-gC-3S-p7JYWnh7s15ffGndoo" width="602"></p>
+<p>The team at ATLAS ANALYTICS is seeking a candidate with an outgoing personality who embodies a unique blend of qualities. You should be energetic and encouraging, like a motivational coach, inspiring team members to reach their full potential. At the same time, you need to be demanding and challenging, pushing our team to excel and exceed expectations.</p>
+<p>To excel in this role, you need to have:</p>
+<ul style="">
+<li style="">A Bachelor's degree.</li>
+<li style="">3+ years of professional work experience.</li>
+<li style="">Experience in managing people and leading teams.</li>
+<li style="">Involvement in both documenting processes and process improvement initiatives.</li>
+<li style="">Proficiency in using Slack, Zoom (video calls), and Loom (video &amp; screen recording).</li>
+<li style="">Experience in building out and managing databases and maintaining daily record-keeping within a CRM.</li>
+<li style="">Dedication to continuous improvements in the sales process and systems for better sales results.</li>
+<li style="">Strong ongoing project management and team support skills.</li>
+<li style="">A focus on results to be achieved, being performance-driven and demanding.</li>
+<li style="">The excitement from the team winning rather than from purely personal achievements</li>
+<li style="">An outspoken personality with direct communication skills, being a "straightforward talker."</li>
+<li style="">Detail orientation and strong attention to detail.</li>
+<li style="">Ability to encourage and challenge team members to bring out their best performance</li>
+<li style="">Attention to detail with a focus on maintaining a professional work environment</li>
+<li style="">Strong understanding of professional behaviour and ability to maintain it in the workplace</li>
+</ul>
+<p>Brownie points for:</p>
+<ul style="">
+<li style="">Experience working in an agency (productized service) to understand workflows.</li>
+</ul>
+<p><strong>Benefits</strong></p>
+<p><img height="33" src="https://lh3.googleusercontent.com/6KE8KhlRnFHtpvahf-GUfscAHhZIr05dfB3i9UvmNEJvJ63giaJBVYQZK4WLS1H1_8cwVjgB5P7PyA32VNYoEY8y4zB_8ZvbwFedHGYD3zB1ggBsIWzA-A_7etQHiiiCGKTlYGw629p6tNpQhNTdu6E" width="602"></p>
+<p><em>What’s in it for you?</em></p>
+<ul style="">
+<li style="">💸Monthly salary of $2,000 - $2,500* base + performance-based bonus with an annual salary increase opportunity depending on your performance</li>
+<li style="">🌍 Full-time and fully remote role, offering the flexibility to work from anywhere.</li>
+<li style="">⏰ Working hours with an overlap between 9 am - 6 pm (CET). However, ATLAS ANALYTICS prioritises performance and output/results, allowing you to manage your time effectively.</li>
+<li style="">🚀 Working directly with the founding team on multiple client projects in a fast-paced environment, providing ample personal growth opportunities.</li>
+<li style="">💰 Great upside potential on personal growth as well as compensation, with generous bonus compensation based on performance.</li>
+<li style="">📈 Internal training sessions, 1:1 coaching, and career development opportunities to help you reach your full potential as well as uncapped commissions based on your</li>
+</ul>
+<p><em>*Please note that this is a gross salary and that you are responsible for any tax-related procedures in your country of residence. We kindly ask you to apply only if you are happy to work remotely as an independent contractor.</em></p>
+<p> </p>
+<p><img height="33" src="https://lh6.googleusercontent.com/HWXKY6n1ct3Z2XEuV8qLSV3GhTpXHBJa5sFubs5adEBbVh49xbBIRLIThH61j3g7VDVAmlBkA2h6GJ7aue7ubTyZz32PFC7Zq9JtO8kYVjk5rjRcEd2b8E-yG4xbV4QEulu3-wuYMquKPI2yV82QlfU" width="602"></p>
+<p>In the words of their team members…</p>
+<p>"<em>ATLAS ANALYTICS rocks! You really feel like your input matters and you have so many opportunities to present your ideas to the team and make an impact</em>." - Anh (Software Engineer)</p>
+<p>"<em>Coming to a place where you’re working with ambitious people who are goal-driven and solution-oriented gave me the confidence to not fear failure and helped me grow as a professional.</em>" - Adam (Growth Consultant)</p>
+<p>"<em>As a tech company, ATLAS is right in the sweet spot: the energy and creativity of a startup with the experience and resources of a larger organisation. Teamwork is crucial here, but so are individual ideas, voices, and perspectives.</em>” - Monica (Customer Success)</p>
+<p><img height="33" src="https://lh5.googleusercontent.com/hhK-cZ3HfUEAgiu0Tz1X-T1XxCS6Cah0RYhUS8zakrSen9fk-X1EilW59InA0Q7YCrLVfhgQBgljmsTgkDmIDgi52lMwx62BgLW78S9YKoOGAp0Q4eyB9QI7hIe5h4-qrhw4BMWkN4p3vRYUsZ13tb4" width="602"></p>
+<p>This job opening is actively seeking the perfect candidate and will close once found. To ensure your application is considered, take the time to carefully read the job description and submit a high-quality application that stands out.</p>
+<p>The hiring process for this position will include the following steps:</p>
+<ol style="">
+<li style="">Completing the application form on JobRack.</li>
+<li style="">Recording a short video introduction of yourself.</li>
+<li style="">If shortlisted, completing test tasks.</li>
+<li style="">Attending video interviews to discuss your previous experience and the new role in more detail.</li>
+</ol>
+<p><em>In case you are applying for a full-time role: </em>Please note that this position requires 100% commitment and is not suitable for those seeking a side job, freelance work, or part-time employment. It is important to only apply if you intend this to be your primary and only full-time job. Any attempts to work multiple full-time jobs without the knowledge of your employer may result in termination and a ban from applying to other jobs on the JobRack site.</p>
+<p>Applications for this position must be submitted through JobRack and direct contact with the employer is not permitted. If you have any questions, please contact JobRack at <a class="external" href="mailto:martin@jobrack.eu" rel="nofollow">martin@jobrack.eu</a></p>
+<p>– Only candidates from Eastern Europe are eligible to apply –</p>
+<p><img height="25" src="https://lh3.googleusercontent.com/Toa67LSjCHxOXFdtvL7VhRobSiefLi5_N-Ac_pmgQyIlqEpY1VCe-2sV9j5YGV9B306KkrbQQu8JLM6KHXbYkXpp6bcTTx3ZaLTGhgwlOHnP6QNLNsaoezNmgpvtmAbYjtkVJOLganIL5ePHinLwuz8" width="602"></p>
+<p>To make sure you receive updates on your application please add recruitment@jobrack.eu to your email address book.</p>
+<p><br>Got questions about working remotely? Check out JobRack’s FAQ for answers to everything you might want to know. <a class="external" href="https://jobrack.eu/jobseeker-faq" rel="nofollow">https://jobrack.eu/jobseeker-faq</a></p>
+<img src="https://remotive.com/job/track/1654425/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
