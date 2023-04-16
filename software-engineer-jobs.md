@@ -3,17 +3,17 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>LeadSimple, Inc.</h5>
-                    <h3> Senior Software Engineer</h3>
+                    <h5>Chorus One</h5>
+                    <h3> Golang Software Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>Full-Stack Programming</code>
+                    <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>61 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-senior-software-engineer-2" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/chorus-one-golang-software-engineer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -22,148 +22,306 @@
                 
 
 <p>
-  <strong>Headquarters:</strong> Washington State, U.S.A.
-    <br /><strong>URL:</strong> <a href="https://www.leadsimple.com/careers">https://www.leadsimple.com/careers</a>
+  <strong>Headquarters:</strong> Switzerland
+    <br /><strong>URL:</strong> <a href="https://chorus.one">https://chorus.one</a>
 </p>
 
-<div>🚀 Want to join a team of A-players in an exciting, high-growth, entrepreneurial environment?</div><div><br></div><div><strong>LeadSimple is a small team solving big problems in the property management industry. Bootstrapped since 2013, we're passionate about helping small businesses grow sustainably.</strong></div><div><br></div><div>Our software provides a powerful foundation for any property management company to take their business to the next level. Thousands of property managers rely on us for their day-to-day operations and we’re only getting started. </div><div><br></div><div>We’re looking for seasoned Senior and Lead Ruby on Rails Engineers to join our fully-remote team to help us scale to meet market demand. This is an opportunity to join on the ground floor of a bootstrapped, growing company with a lot of upside.</div><div><br></div><div><strong>What we’d want you to do:</strong></div><div><br></div><ul>
-<li>Assist with complex migration projects, such as:</li>
-<li>Modernizing our back-end stack (we’re currently on Rails 4)</li>
-<li>Optimizing our API and PostgreSQL database for scale and performance</li>
-<li>Suggest and implement scalability improvements</li>
-<li>Collaborate with the rest of the team in weekly meetings, chat and code reviews</li>
-<li>Develop new full-stack features from start to finish using the <a href="https://basecamp.com/shapeup/webbook">Shape Up method</a>
+<div>Chorus One runs validators on cutting-edge Proof of Stake networks such as Cosmos, Solana, Celo, Polkadot, and Oasis. We operate over 22 Cosmos SDK-based chains like Osmosis, Regen, Stargaze, etc.</div><div>
+<br>We seek a Software Engineer well-versed in Golang to build and maintain indexing software and data ingestion pipelines. As a Golang software engineer, you will be responsible for extracting data from cosmos SDK-based blockchains, aggregating and analyzing the data, and building APIs to access it. Familiarity with the Cosmos SDK codebase is a plus.<br><br>We are looking for a skilled Software Engineer with strong communication skills who is passionate about exploring the internal mechanics of blockchains. Our staking infrastructure secures millions of dollars worth of cryptocurrency assets, and security and reliability are key to everything we do. This position is a unique opportunity to work with an experienced team on cutting-edge blockchain networks.<br><br><strong>Responsibilities</strong>
+</div><ol>
+<li>Create indexing software to ingest blockchain data and analyze it</li>
+<li>Design and build APIs to expose this data</li>
+<li>Develop software systems to interact with external APIs, RPC endpoints and other data services</li>
+<li>Work with the infrastructure team at ChorusOne to deploy, monitor, secure, and maintain these systems.</li>
+</ol><div><br></div><div><strong>The ideal candidate:</strong></div><ol>
+<li>Can work independently</li>
+<li>Can proficiently code in Golang and has experience in at least one strongly-typed programming language.</li>
+<li>Is proficient in SQL.</li>
+<li>Has good knowledge of http and REST APIs.</li>
+<li>Has interacted with Cosmos SDK codebase</li>
+<li>Has some experience working with time-series databases.</li>
+<li>Is familiar with various database technologies and the trade-offs they make.</li>
+<li>Has good written and oral communication skills.</li>
+<li>Enjoys teamwork and is good at collaborating with stakeholders and fellow software engineers.</li>
+</ol><div><br></div><div><strong>We offer:</strong></div><ul>
+<li>Autonomy and ownership in a friendly and supportive work environment and the opportunity for rapid growth.</li>
+<li>Competitive fixed compensation USD 80k - 140k + equity </li>
+<li>Part-time optional, 70% – 100%</li>
+<li>All-expense paid semiannual team retreats at various destinations. Past retreats occurred in Egypt, Serbia, Kenya, USA, South Korea, and Dubai.</li>
+<li>Remote, but not alone. We are a strong global collaborative environment.</li>
+<li>Remote working budget (Laptop, co-working space, etc)</li>
+<li>Personal development budget</li>
+<li>Gather experience and build your network in the vibrant crypto ecosystem.</li>
+<li>Learn about state-of-the-art protocols that lay the foundation for an open, transparent, and programmable financial system.<br><br>
 </li>
-<li>Write high-quality and maintainable Ruby and Typescript code</li>
-</ul><div><br></div><div><strong>Qualifications</strong></div><div><br></div><div><em>Must have</em></div><ul>
-<li>5+ years of experience with Ruby on Rails</li>
-<li>Fluent spoken and written English at a professional level.</li>
-<li>Working hours must overlap with PST for at least 3 hours.</li>
-<li>Familiarity with PostgreSQL query optimization and scaling strategies</li>
-<li>Strong analytical and debugging skills</li>
-<li>Strong communication skills, able to recommend decisions using data and experience</li>
-</ul><div><br></div><div><em>Nice to have</em></div><ul>
-<li>Prior experience upgrading Ruby on Rails (this would be a big plus!)</li>
-<li>React, Typescript or GraphQL experience</li>
-<li>Elixir experience (we have 1 service using Elixir)</li>
-</ul><div><br></div><div><strong>Our Stack</strong></div><div><br></div><div><em>Front-end</em></div><ul>
-<li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-<li>
-<a href="https://reactjs.org/">React</a> </li>
-<li><a href="http://mui.com/">MaterialUI</a></li>
-<li>
-<a href="https://relay.dev/">Relay<br></a><br>
-</li>
-</ul><div>
-<em>Back-end<br></em><br>
-</div><ul>
-<li>
-<a href="http://rubyonrails.org/">Ruby on Rails</a> monolith (with 95% test coverage)</li>
-<li>GraphQL (via <a href="https://graphql-ruby.org/">graphql-ruby</a> gem)</li>
-<li>Sidekiq</li>
-<li>PostgreSQL</li>
-<li>Redis</li>
-<li>Heroku<br><br>
-</li>
-</ul><div><br></div><div>
-<strong>What it’s like to work here<br></strong><br>
-</div><ul>
-<li>You’ll have opportunities to work on the entire stack, from databases to user interfaces and everything in between, in a wide variety of product areas.</li>
-<li>You’ll own the delivery of high-impact projects that affect real customers, from start to finish, with no bureaucracy, following the <a href="https://basecamp.com/shapeup/webbook">Shape Up method</a>. </li>
-<li>You’ll collaborate within a small, highly productive team, reviewing code and helping other engineers with their roadblocks.</li>
-<li>You’ll have time to focus. We don’t micromanage, and we do our best to keep distractions (and meetings) to a minimum. </li>
-<li>When assigned to on-call duty, you’ll investigate and fix bugs and respond to incidents. </li>
-<li>You’ll deploy early and often. We ship to production multiple times per day.<br><br>
-</li>
-</ul><div>
-<strong><br>Benefits<br></strong><br>
-</div><ul>
-<li>Remote-only team, location independent</li>
-<li>3rd Friday of every month off</li>
-<li>6 US Holidays</li>
-<li>3 Weeks Paid Time Off (in addition to the above)</li>
-<li>Quarterly Two-Week Hackathons</li>
-<li>Monthly Healthcare Allowance</li>
-<li>Yearly Vacation Allowance</li>
-<li>$2000 equipment stipend upon hire</li>
-<li>Focused and dedicated environment with smart, caring people</li>
-<li>Consistent, but flexible working schedule with minimum 3hr Pacific Time Zone overlap</li>
-<li>Mission driven, non-political company and values-based culture<br><br>
-</li>
-</ul><div>
-<strong>Our Interview Process<br></strong><br>
-</div><ul>
-<li>Fill out our application, located <a href="https://docs.google.com/forms/d/e/1FAIpQLSeF5zo6hIcTQK8gP9LLGz6sTZMXGI1vDHPVbkpISxiy9CvOfQ/viewform?usp=sf_link">here</a>
-</li>
-<li>Intro call (30 minutes)</li>
-<li>Offline work sample test (up to 60 minutes)</li>
-<li>Work history interview with Hiring Manager (up to 90 minutes)</li>
-<li>Culture interview with People Operations<strong> </strong>(30 minutes)</li>
-<li>Meet the CTO<strong> </strong>(30 minutes)</li>
-<li>Meet the CEO (30 minutes)</li>
-<li>Offer call (15 minutes), followed by a written offer</li>
-<li>If you accept the offer, you enter a 90-day trial period, fully paid.</li>
-<li>If all goes well in your first 90 days, you convert to a full-time team member!</li>
 </ul>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-senior-software-engineer-2">https://weworkremotely.com/remote-jobs/leadsimple-inc-senior-software-engineer-2</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/chorus-one-golang-software-engineer">https://weworkremotely.com/remote-jobs/chorus-one-golang-software-engineer</a></p>
 
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/3890/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Springboard</h5>
-                    <h3> Mentor - Software Engineering Career Track (Part-time/Remote)</h3>
+                    <h5>Contra</h5>
+                    <h3> Senior Software Engineer</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>270 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/contra-senior-software-engineer-2" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0016/3890/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
   <strong>Headquarters:</strong> San Francisco, CA
-    <br /><strong>URL:</strong> <a href="https://www.springboard.com/">https://www.springboard.com/</a>
+    <br /><strong>URL:</strong> <a href="http://bit.ly/3kLhMdk">http://bit.ly/3kLhMdk</a>
 </p>
 
-<div><strong>The Opportunity</strong></div><div><br></div><div>Springboard runs an online, self-paced Software Engineering Career Track in which participants learn with the help of a curated curriculum and 1-1 guidance from an expert mentor. Our mentor community - the biggest strength of our programs - comprises some of the best software engineering experts in the field.</div><div><br></div><div>If you are as passionate about mentoring as you are about software engineering, and can give a few hours per week in return for an honorarium, we would love to hear from you.</div><div><br></div><div>Please reach out to us with any questions at mentorrecruiting@springboard.com <br><br><strong>The Program</strong>
+<div>Contra is an Independent-first community and commission-free hiring platform empowering the future of work. We match Independents with flexible opportunities and Clients with the perfect Independent for any project — from content creation to coding. We strongly believe that independence isn’t just a gig, it’s a way of life.</div><div><br></div><div>Welcome to Contra! We’re an empathetic, kind, and humble team looking for Software Engineers to join us in building the Future of Work and the best community for independents. This is a full-stack role, meaning you’ll have the opportunity to contribute across our web applications and backend services, while focusing on a specific part of the stack that plays to your strengths and preferences, like Frontend or Backend.</div><div><br></div><div>Our team loves to innovate to benefit everyone and deliver a top-notch Developer Experience for our internal team: fast pipelines, great API tooling, and the like. If this environment resonates with your engineering values, we’d love to talk to you!</div><div>
+<strong><br>How you’ll add value at Contra<br></strong><br>
 </div><ul>
-<li>Completely online and self-paced</li>
-<li>Students become proficient in Software Engineering with the help of a curated online curriculum and project-based deliverables</li>
-<li>Coursework is made up of 800+ hour expert-curated curriculum in partnership with <a href="https://www.rithmschool.com/">Rithm School</a>
+<li>Contribute to our rapidly growing React and NodeJS codebases (both within our Turborepo powered monorepo and our stand-alone apps) — everything from our web application to our backend GraphQL API, to our internal services that power payments.</li>
+<li>Contribute well-tested, end-to-end TypeScript code. We are big fans of Vitest for unit testing and Playwright for end-to-end testing.</li>
+<li>Craft readable, performant, and scaleable SQL queries and database schemas to solve data modeling problems.</li>
+<li>Help improve our internal design system, codebase architecture, application performance, and Developer Experience.</li>
+<li>Participate in all parts of the product development process, like design critiques, code reviews, and cross-functional planning with your team.</li>
+</ul><div>
+<strong><br>Our stack<br></strong><br>
+</div><ul>
+<li>Backend: AlloyDB(PostgreSQL), GraphQL, GraphQL Helix, NodeJS, Redis, Temporal</li>
+<li>Data: Airbyte, DBT, Google BigQuery, Google Colab, Looker</li>
+<li>DevOps: ArgoCD, Docker, GitHub, Google Cloud Platform, Kubernetes</li>
+<li>Frameworks: NextJS</li>
+<li>Frontend: GLSL shaders, React, react-three-fiber, Relay, Stitches, styled-components, Suspense, <a href="http://three.js/">Three.js</a>
 </li>
-<li>On average, students finish in 9 months</li>
-<li>Students are working professionals from all over the world, dedicated to switching careers into Software Engineering</li>
-<li>Students have a weekly 30-minute checkin with their mentor to discuss questions, projects, and career advice!</li>
-</ul><div><strong>You</strong></div><ul>
-<li>are as passionate about teaching coding as about software engineering itself</li>
-<li>are proficient in the topics covered in our <a href="https://ddf46429.springboard.com/uploads/resources/1572915743_Software_Engineering_Career_Track_-_Syllabus_2019.11.04.pdf">Software Engineering Career Track</a> and are fluent in technologies such as HTML, CSS, JavaScript, React, Python, Flask, SQL, Data Structures and Algorithms</li>
-<li>have at least 3+ years of relevant work experience </li>
-<li>are available for weekly, 30-minute video check-ins with students to help them set and achieve learning goals, answer subject matter questions, provide feedback on projects, and offer career advice</li>
-<li>have experience critiquing work, in particular giving meaningful feedback on web development, and are able to think on your feet quickly</li>
-<li>are empathetic and have excellent communication skills</li>
-</ul><div><strong>Benefits</strong></div><ul>
-<li>Software Engineering mentors are paid an honorarium between $17.50-$32.50 per 30 minute call with students</li>
-<li>Membership in a rich community of expert mentors from great companies like AirBnB, Uber, Google, and Pivotal</li>
-<li>Change the lives of students in our program</li>
-<li>Help us revolutionize online education and inspire the next generation of software engineers!</li>
-<li>Work at your convenience</li>
-</ul><div><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></div>
+<li>Languages: Typescript</li>
+<li>Testing: Playwright, Vitest</li>
+<li>Tools: Chromatic, Linear, Mergify, Posthog, Slack, Stream, Turbopack, Turborepo</li>
+</ul><div>
+<strong><br>You’ll be successful here if you<br></strong><br>
+</div><ul>
+<li>
+<strong>Mission-driven.</strong> Our mission truly resonates with you and you would like to be a part of what we are building together at Contra!</li>
+<li>
+<strong>A dedicated team player.</strong> You thrive in a collaborative, remote-only environment and you are comfortable with 8 am - 1 pm PST core hours!</li>
+<li>
+<strong>Passionate about learning.</strong> Share a genuine curiosity for learning, always eager to pick up new skills. We don’t expect everyone to know everything but you learn quickly!</li>
+<li>
+<strong>Goal oriented.</strong> Understand what you need to do in order to achieve your goals without needing all of the bells and whistles.</li>
+<li>
+<strong>Committed to trying.</strong> Have the resilience and willingness to try and try again even if you fail after a few attempts!</li>
+<li>
+<strong>Ambitious attitude.</strong> You bring a strong work ethic and contagious energy to your team as we work towards our North Star.</li>
+<li>
+<strong>Path Paver.</strong> Joining a startup you enjoy taking ownership, building out processes and documentation that might not exist to share with your team members.</li>
+</ul><div>
+<strong><br>You will love Contra for our<br></strong><br>
+</div><ul>
+<li>🌎 Remote-only culture that is here to stay</li>
+<li>🍎 100% health coverage for US full-time employees, and health reimbursements for all international contractors</li>
+<li>💸 $4,000 laptop reimbursement upon starting + additional for equipment, co-working, and meetups</li>
+<li>💰 401k matching for US full-time employees</li>
+<li>💛 No-meeting Tuesdays &amp; Wednesdays</li>
+<li>👋 Generous time off</li>
+<li>👶 Flexible parental leave</li>
+<li>💁 A custom slack emoji, just for you!</li>
+</ul><div>
+<strong><br>Our interview process<br></strong><br>
+</div><ul>
+<li>Intro call (15-30 minutes)</li>
+<li>Complete a Technical assessment (2 hours maximum)</li>
+<li>Technical interview (45-60 minutes)</li>
+<li>Non-technical (culture) interview (30 minutes)</li>
+<li>Strengths-based technical interview (45 minutes)</li>
+<li>Cross-Functional Interview (30 minutes)</li>
+<li>High-level technical interview with CTO &amp; VPE (30-45 minutes)</li>
+</ul><div>
+<strong><br>Salary + Equity Range<br></strong><br>
+</div><ul>
+<li>$130k - $160k USD</li>
+<li>Equity Value Range: $72k - $180k USD</li>
+</ul>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3">https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/contra-senior-software-engineer-2">https://weworkremotely.com/remote-jobs/contra-senior-software-engineer-2</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/5180/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Paymentology</h5>
+                    <h3> Senior Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/paymentology-senior-software-engineer-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0074/5180/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> London, UK
+    <br /><strong>URL:</strong> <a href="https://paymentology.com">https://paymentology.com</a>
+</p>
+
+<div>Paymentology is the first truly global issuer-processor, giving banks and fintechs the technology, team and experience to rapidly issue and process Mastercard, Visa and UnionPay cards across more than 50 countries, at scale. </div><div>Our advanced, multi-cloud platform, offering both shared and dedicated processing instances, vast global presence and richer, real-time data, set us apart as the leader in payments.<br><br>
+</div><div>As a <strong>Remote Senior Software Developer</strong> at Paymentology you'll be working in the Engineering team to build enterprise-level, highly scalable, highly secure financial processing systems that power tens of millions of transactions and tie them to web, mobile and API interfaces that make it easy for people to issue, redeem and reconcile prepaid and credit cards all over the world.<br><br><strong>What you get to do:</strong><br><br>This position requires the ability to develop high-quality and resilient solutions to meet the rapidly evolving needs of an issuer processor serving an international expanding customer base and to communicate effectively at all levels, from providing the right level of details in the status updates on your work to explaining technical trade-offs, technical complexities and design options so Paymentology can make informed decisions.</div><ul>
+<li>Work within a remote team disseminated throughout the world</li>
+<li>Architect, design and develop projects from end to end</li>
+<li>Make things simple for ourselves and our customers</li>
+<li>Collaborate with other engineers to prioritize and ship features</li>
+<li>Mentor other engineers on the team, and be mentored by others</li>
+<li>Partner with Product Managers to scope and estimate new work</li>
+<li>Participate in on-call coverage</li>
+</ul><div>
+<br><strong>What it takes to succeed:<br></strong><br>
+</div><div>We're looking for people that make stuff work with:</div><ul>
+<li>Experience developing in Java at scale (large systems with high availability and TPS requirements), but we welcome experience in other programming languages</li>
+<li>Experience with relational databases (MySQL, Postgres, MS SQL Server, Oracle, etc.)</li>
+<li>Experience in financial transaction processing/banking or related industries</li>
+<li>Experience with AWS as a cloud provider an advantage</li>
+</ul><div>
+<br><strong>Above all, we are looking for developers...</strong>
+</div><div><br></div><div>                                                         <em>Who love to write great software</em>
+</div><div>                                                     <em>Who are passionate about their craft</em>
+</div><div>                                               <em>Who are willing to learn, as well as coach</em>
+</div><div><br></div><div>Let’s also not forget languages (not the programming kind); While you will work with colleagues located throughout the world, English is our company language so it's important that you be able to communicate at a fluent level, in both spoken and written form.</div><div>Flexible hours are a must for our remote team. You’ll need to be able to occasionally shift your work hours to participate into on-call duties and better align with colleagues for the scope of specific projects.<br><br>
+</div><ul>
+<li>Developing, managing and maintaining card network transactions at scale</li>
+<li>Building best-of-breed backend experiences for our customers, internal and external</li>
+<li>Create and review engineering design documentation</li>
+<li>Continuously improve our systems, infrastructure and processes with a focus on quality</li>
+<li>Create features, review each other's code and collaborate with a diverse set of stakeholders across the company</li>
+<li>Coach others</li>
+<li>Influence/drive the architectural decisions and processes on the platform, from unit testing/documentation requirements to implementation processes</li>
+</ul><div>
+<br><strong>What you can look forward to:</strong><br><br>
+</div><div>At Paymentology we value making a difference to the lives of the people who work for us and who live in the communities where we operate. You can look forward to working with a diverse, global team where Paymentologists at all levels play an important part in our global mission to advance the world through payments and make a difference on a global scale. </div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/paymentology-senior-software-engineer-1">https://weworkremotely.com/remote-jobs/paymentology-senior-software-engineer-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1653911/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Contra</h5>
+                    <h3>Senior Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>api,backend,cloud,developer</code>
+                </td>
+                <td width="200">
+                <text>4 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1653911" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong><em>Salary: $130k - $160k USD + Equity</em></strong><br><br>Contra is an Independent-first community and commission-free hiring platform empowering the future of work. We match Independents with flexible opportunities and Clients with the perfect Independent for any project — from content creation to coding.</p>
+<p> </p>
+<p>Welcome to Contra! We’re an empathetic, kind, and humble team looking for Software Engineers to join us in building the Future of Work and the best community for independents. This is a full-stack role, meaning you’ll have the opportunity to contribute across our web applications and backend services, while focusing on a specific part of the stack that plays to your strengths and preferences, like Frontend or Backend.</p>
+<p> </p>
+<p>Our team loves to innovate to benefit everyone and deliver a top-notch Developer Experience for our internal team: fast pipelines, great API tooling, and the like. If this environment resonates with your engineering values, we’d love to talk to you!</p>
+<p class="h3" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-weight: bold; font-stretch: normal; line-height: 1.4; -webkit-font-smoothing: antialiased; color: #515357; margin-top: 17.5px; margin-bottom: 17.5px; padding: 0px;">How you’ll add value at Contra</p>
+<ul class="posting-requirements plain-list" style="">
+<ul style="">
+<li style="">Contribute to our rapidly growing React and NodeJS codebases (both within our Turborepo powered monorepo and our stand-alone apps) — everything from our web application to our backend GraphQL API, to our internal services that power payments.</li>
+<li style="">Contribute well-tested, end-to-end TypeScript code. We are big fans of Vitest for unit testing and Playwright for end-to-end testing.</li>
+<li style="">Craft readable, performant, and scaleable SQL queries and database schemas to solve data modeling problems.</li>
+<li style="">Help improve our internal design system, codebase architecture, application performance, and Developer Experience.</li>
+<li style="">Participate in all parts of the product development process, like design critiques, code reviews, and cross-functional planning with your team.</li>
+</ul>
+</ul>
+<p class="h3" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-weight: bold; font-stretch: normal; line-height: 1.4; -webkit-font-smoothing: antialiased; color: #515357; margin-top: 17.5px; margin-bottom: 17.5px; padding: 0px;">Our stack</p>
+<ul class="posting-requirements plain-list" style="">
+<ul style="">
+<li style="">Backend: AlloyDB(PostgreSQL), GraphQL, GraphQL Helix, NodeJS, Redis, Temporal</li>
+<li style="">Data: Airbyte, DBT, Google BigQuery, Google Colab, Looker</li>
+<li style="">DevOps: ArgoCD, Docker, GitHub, Google Cloud Platform, Kubernetes</li>
+<li style="">Frameworks: NextJS</li>
+<li style="">Frontend: GLSL shaders, React, react-three-fiber, Relay, Stitches, styled-components, Suspense, <a class="postings-link" href="http://three.js/" rel="nofollow" style="color: #737578; text-decoration: underline;">Three.js</a></li>
+<li style="">Languages: Typescript</li>
+<li style="">Testing: Playwright, Vitest</li>
+<li style="">Tools: Chromatic, Linear, Mergify, Posthog, Slack, Stream, Turbopack, Turborepo</li>
+</ul>
+</ul>
+<p class="h3" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-weight: bold; font-stretch: normal; line-height: 1.4; -webkit-font-smoothing: antialiased; color: #515357; margin-top: 17.5px; margin-bottom: 17.5px; padding: 0px;">You’ll be successful here if you</p>
+<ul class="posting-requirements plain-list" style="">
+<ul style="">
+<li style=""><span style="font-weight: 600; -webkit-font-smoothing: antialiased;">Mission-driven.</span> Our mission truly resonates with you and you would like to be a part of what we are building together at Contra!</li>
+<li style=""><span style="font-weight: 600; -webkit-font-smoothing: antialiased;">A dedicated team player.</span> You thrive in a collaborative, remote-only environment and you are comfortable with 8 am - 1 pm PST core hours!</li>
+<li style=""><span style="font-weight: 600; -webkit-font-smoothing: antialiased;">Passionate about learning.</span> Share a genuine curiosity for learning, always eager to pick up new skills. We don’t expect everyone to know everything but you learn quickly!</li>
+<li style=""><span style="font-weight: 600; -webkit-font-smoothing: antialiased;">Goal oriented.</span> Understand what you need to do in order to achieve your goals without needing all of the bells and whistles.</li>
+<li style=""><span style="font-weight: 600; -webkit-font-smoothing: antialiased;">Committed to trying.</span> Have the resilience and willingness to try and try again even if you fail after a few attempts!</li>
+<li style=""><span style="font-weight: 600; -webkit-font-smoothing: antialiased;">Ambitious attitude.</span> You bring a strong work ethic and contagious energy to your team as we work towards our North Star.</li>
+<li style=""><span style="font-weight: 600; -webkit-font-smoothing: antialiased;">Path Paver.</span> Joining a startup you enjoy taking ownership, building out processes and documentation that might not exist to share with your team members.</li>
+</ul>
+</ul>
+<p class="h3" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-weight: bold; font-stretch: normal; line-height: 1.4; -webkit-font-smoothing: antialiased; color: #515357; margin-top: 17.5px; margin-bottom: 17.5px; padding: 0px;">You will love Contra for our</p>
+<ul class="posting-requirements plain-list" style="">
+<ul style="">
+<li style="">🌎 Remote-only culture that is here to stay</li>
+<li style="">🍎 100% health coverage for US full-time employees, and health reimbursements for all international contractors</li>
+<li style="">💸 $4,000 laptop reimbursement upon starting + additional for equipment, co-working, and meetups</li>
+<li style="">💰 401k matching for US full-time employees</li>
+<li style="">💛 No-meeting Tuesdays &amp; Wednesdays</li>
+<li style="">👋 Generous time off</li>
+<li style="">👶 Flexible parental leave</li>
+<li style="">💁 A custom slack emoji, just for you!</li>
+</ul>
+</ul>
+<p class="h3" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-weight: bold; font-stretch: normal; line-height: 1.4; -webkit-font-smoothing: antialiased; color: #515357; margin-top: 17.5px; margin-bottom: 17.5px; padding: 0px;">Our interview process</p>
+<ul class="posting-requirements plain-list" style="">
+<ul style="">
+<li style="">Intro call (15-30 minutes)</li>
+<li style="">Complete a Technical assessment (2 hours maximum)</li>
+<li style="">Technical interview (45-60 minutes)</li>
+<li style="">Non-technical (culture) interview (30 minutes)</li>
+<li style="">Strengths-based technical interview (30-45 minutes)</li>
+<li style="">Cross-Functional Interview (45 minutes)</li>
+<li style="">High-level technical interview with CTO &amp; VPE (30-45 minutes)</li>
+</ul>
+</ul>
+<p> </p>
+<p><strong>Salary + Equity</strong></p>
+<ul class="posting-requirements plain-list" style="">
+<ul style="">
+<li style="">$130k - $160k USD</li>
+</ul>
+</ul>
+<ul class="posting-requirements plain-list" style="">
+<ul style="">
+<li style="">Equity Value Range: $72k - $180k USD</li>
+</ul>
+</ul>
+<img src="https://remotive.com/job/track/1653911/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -780,81 +938,6 @@
 </ul>
 <p><em>We are proud to foster a workplace free from discrimination. We truly believe that diversity of experience, perspectives, and background will lead to a better environment for our employees and a better platform for our users and customers. This is something we value deeply and we encourage everyone to come be a part of the world of Ubuntu.</em></p>
 <p><em>#LI-Remote&nbsp;</em></p><p>Requisition ID: 531</p><p></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Senior Software Engineer - Telco</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/2915159" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>Canonical is seeking an experienced Python developer to build the world's best open-source portfolio of integrated, secure and reliable software for the telecommunications industry. Work with upstream open source projects, alongside internal teams to deliver high-quality software that can be deployed on bare metal, public cloud and Kubernetes.</p>
-<p>Bring your experience with Python, Linux, Kubernetes and Telecommunications software to help us transform the future of network automation.&nbsp;</p>
-<p>Help the growing engineering team at Canonical bring the cutting edge of open-source software into the telecommunications sector. As an engineer on the team, you'll bring significant software development experience, public cloud and Kubernetes experience and a keen eye for software design and architecture.</p>
-<p>You will be involved in all the aspects of the software development process: you will design software, write high-quality code and tests, provide insightful code reviews, write documentation and help to troubleshoot issues.</p>
-<p>In addition to the engineering behind the project itself, you'll have the chance to work with industry-leading teams inside Canonical, ensuring your work is backed by rock-solid data stores, and highly observable using our Kubernetes-based Observability stack. You'll work with broader open-source communities, participating in "hackfest" events, webinars and conferences.</p>
-<h4>Location: This is a Globally remote role</h4>
-<h3>What your day will look like</h3>
-<ul>
-<li>Write high-quality, rigorously designed Python software</li>
-<li>Collaborate proactively with a globally distributed team</li>
-<li>Display technical leadership internally and within our external communities</li>
-<li>Debug issues and produce high-quality code to fix them</li>
-<li>Contribute to technical documentation that define best practices for authoring high-quality operators</li>
-<li>Discuss ideas and collaborate on finding good solutions</li>
-</ul>
-<h3>What we are looking for in you</h3>
-<ul>
-<li>You have a Bachelor’s or equivalent in Computer Science, STEM or similar degree</li>
-<li>You have deep experience and history of writing modern, maintainable Python</li>
-<li>You love technology and working with brilliant people</li>
-<li>You are curious, flexible, articulate, and accountable</li>
-<li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li>
-<li>You have interest and experience with two or more of the following: Linux, Kubernetes, Public cloud, OpenStack, LXC/LXD, Python, Go, Debian packaging, scalable web services</li>
-<li>Willingness to travel up to 4 times a year for internal events</li>
-</ul>
-<h3>Additional skills that you might also bring</h3>
-<ul>
-<li>You have experience developing open-source networking software (Ex. OSM, Magma, ONOS, ONAP, OAI)</li>
-<li>You have 5G specific knowledge and practical implementation</li>
-</ul>
-<h3>What we offer you</h3>
-<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.&nbsp;</p>
-<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, please ask your Talent Partner.</p>
-<ul>
-<li>Fully remote working environment - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of 2,000USD per annum</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Parental Leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues at ‘sprints’</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h3>About Canonical</h3>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h3>Canonical is an equal opportunity employer</h3>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote</p><p>Requisition ID: 621</p><p></p>
     
                 </details>
                 </td>
