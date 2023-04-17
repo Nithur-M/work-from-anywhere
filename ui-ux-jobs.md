@@ -10,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/fluyo-ux-ui-designer-product-owner" align="right" target="_blank">Apply</a>
@@ -61,17 +61,17 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Aha!</h5>
-                    <h3> Senior UX Designer</h3>
+                    <h5>CreateApe, inc.</h5>
+                    <h3> UX/UI Designer</h3>
                 </td>
                 <td width="300">
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/aha-senior-ux-designer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/createape-inc-ux-ui-designer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -80,64 +80,47 @@
                 
 
 <p>
-  <strong>Headquarters:</strong> Remote
-    <br /><strong>URL:</strong> <a href="https://aha.io">https://aha.io</a>
+  <strong>Headquarters:</strong> Irvine, California
+    <br /><strong>URL:</strong> <a href="https://createape.com/">https://createape.com/</a>
 </p>
 
 <div>
-<br>Aha! helps companies build lovable software. We provide the world's #1 product development tools — <a href="https://www.aha.io/roadmaps/overview">Aha! Roadmaps</a>, <a href="https://www.aha.io/ideas/overview">Aha! Ideas</a>, <a href="https://www.aha.io/create/overview">Aha! Create</a>, and <a href="https://www.aha.io/develop/overview">Aha! Develop</a> — which are used by more than 700,000 builders. Product teams rely on our expertise, guided templates, and training programs via <a href="https://www.aha.io/academy">Aha! Academy</a> to be their best. We are proud to be a very different type of high-growth SaaS company. The business is self-funded, profitable, and 100 percent remote. We are recognized as one of the best fully remote companies to work for, champion the <a href="http://www.bootstrap.company/">Bootstrap Movement</a>, and have given over $1M to people in need through <a href="https://www.aha.io/company/cares">Aha! Cares</a>. Learn more at <a href="https://www.aha.io/">www.aha.io</a>.</div><div><strong><br>Our team</strong></div><div>
-<br>The Aha! UX team is responsible for designing a lovable customer experience. This is a unique responsibility — because our customers use Aha! software to craft terrific experiences for their own end users. So we must set the standard for delivering optimal usability to drive happy use of software. We work within North American time zones so we can easily meet live on video and be exceptional.</div><ul>
-<li>
-<strong>We are curious</strong>: We gain a deep understanding of customer needs and wants.</li>
-<li>
-<strong>We empathize</strong>: We see the product from the customers' perspective and design solutions which improve their lives.</li>
-<li>
-<strong>We design</strong>: We craft delightful product experiences through the user interface, layout, visual design, copy, and interactions.</li>
-<li>
-<strong>We collaborate</strong>: We have no tolerance for drama and celebrate clear communication, effort, and teamwork with product management and engineering.</li>
-<li>
-<strong>We deliver: </strong>We ship new significant functionality every week. We deliver what customers love and have the tenacity it takes to keep doing so.</li>
-<li>
-<strong>We enjoy:</strong> We like what we do. And we want you to love your job too. Learn more about <a href="https://www.aha.io/company/the-responsive-method">The Responsive Method</a>, our company <a href="https://www.aha.io/company/culture">values</a>, and the generous <a href="https://www.aha.io/company/careers/benefits">benefits</a> we offer.</li>
-</ul><div><strong><br>Our products</strong></div><div>
-<br>We aspire for a world of lovable software built by thriving product development teams. We provide the tools and expertise to make it happen:</div><ul>
-<li>
-<strong>Aha! Create </strong>is a digital notebook — record information, whiteboard concepts, and collaborate with the team.</li>
-<li>
-<strong>Aha! Ideas</strong> is a comprehensive idea management solution — crowdsource feedback, engage the community, and analyze trends.</li>
-<li>
-<strong>Aha! Roadmaps </strong>is the complete product management solution — set strategy, prioritize features, and share visual plans.</li>
-<li>
-<strong>Aha! Develop</strong> is a fully extendable agile development tool — prioritize the backlog, estimate work, and plan sprints.</li>
-<li>
-<strong>Aha! Academy</strong> is the best way to learn about product management and Aha! software.</li>
-</ul><div>
-<br>We use our own products every day, which enable us to develop greater empathy for our customers.</div><div>
-<br>We reject the Minimum Viable Product and embrace the <a href="https://www.aha.io/blog/the-minimum-lovable-product">Minimum Lovable Product</a> (MLP). By doing this, we create something that is valuable and lasting. Customers get products that bring them real joy.</div><div><strong><br>Your experience</strong></div><div>
-<br>You have at least six years of experience in user experience at a high-growth SaaS company. You are consistently the designer everyone turns to when really hard questions need to be answered. You find opportunities to elevate the team and have owned the introduction of new tools, processes, and insights. You are self-motivated, exceptionally detail-oriented, and have a history of major accomplishments to prove it. You work collaboratively, enjoy crossing back and forth between UX and visual design, and love to see your work ship — quickly. You have a "get it done" attitude and a background of delivering superb work again and again.</div><div><strong><br>Your work at Aha!</strong></div><div>
-<br>This is a unique user experience role. We are defining and shaping how product teams at the largest companies in the world build lovable products. And you will help to design the products that help them achieve that. Your responsibilities will include:</div><ul>
-<li>Designing compelling product experiences based on customer needs</li>
-<li>Working closely with the product and engineering teams to design awesome customer experiences based on user and implementation feedback</li>
-<li>Managing significant and complex design projects from start to finish</li>
-<li>Maintaining consistent visual standards and keeping the living style guide up to date</li>
-<li>Partners across teams at every stage to deliver the highest level of quality</li>
-<li>Reviewing features implemented by engineering and providing guidance to ensure pixel-perfect experiences</li>
-<li>Conducting and coordinating usability interviews to gather feedback and insights into customer needs</li>
-<li>Mentoring other designers through design reviews and proactively providing feedback and answering questions</li>
-</ul><div>
-<br>If the UX Designer role sounds appealing, we would love to hear from you. (A real human reviews every application.)</div><div><strong><br>Grow with us</strong></div><div>
-<br>Everyone deserves to reach their fullest potential. We know that when we do work that matters with people we care about in a high-growth environment, we feel engaged and alive. And our goal is to help you do just that. We offer all the benefits you would expect and more, including profit sharing. The specific benefits listed below are reflective of what we offer U.S.-based hires. We also do our best to extend identical benefits to international teammates.</div><ul>
-<li>The base salary range for this role in the US is between $120,000 and $180,000</li>
-<li>Cash-based compensation also includes profit sharing and we contribute a percentage of your total pay each month towards your retirement</li>
-<li>Medical, dental, and vision plans — for many teammates, we cover 100 percent of the premiums</li>
-<li>Up to 200 hours of paid time off a year to spend however you want</li>
-<li>30 to 90 days of paid parental leave and five to 10 days of paid care and bereavement leave</li>
-<li>Up to $1,000 annually for third-party education, along with paid time off to immerse yourself in learning</li>
-<li>Volunteer opportunities throughout the year</li>
-</ul><div>
-<br>Base salary and total compensation are dependent upon many factors, such as: skills, experience, and relevant past roles</div>
+<a href="https://createape.com/jobs/#careers_our_openings"><strong>CreateApe</strong></a><strong> UI/UX Designer job description</strong>
+</div><div><br></div><div>This is a fully remote position, not restricted by commutes or a particular geographic area.</div><div>
+<strong>Office hours: Monday through Friday, 9AM - 5PM Pacific Daylight Time </strong>(<strong><em>PDT UTC-7</em></strong>), this position requires individuals to be available for meetings and duties <em>at least</em> a six (6) hour block during this window.</div><div><br></div><div><em>Who we are:</em></div><div>Create Ape is a fun and lean creative digital agency offering comprehensive solutions to your most pressing problems.  With over 20 years in the UX/UI design space, we know how to elevate your user’s experience and to translate that into real metrics you can actually see: more clients &amp; bigger sales.</div><div><br></div><div>Our passionate experts are leaders in their field, covering everything from digital strategy to design &amp; development.  Our mission is to provide our clients with unparalleled personalized solution-based service.  We commit to achieving these custom solutions and implementing them with a smile.</div><div><br></div><div><em>What we are looking for:</em></div><div>At CreateApe, UX/UI Designers are able to understand our clients’ business requirements and any technical limitations, as well as be responsible for conceiving and conducting user research, interviews and surveys, and translating them into sitemaps, user flows, customer journey maps, wireframes, mockups and prototypes. The UX designer will also be expected to design the overall functionality of the product, and in order to ensure a great user experience, iterate upon it in accordance with various feedback and user-testing criteria.  Our design team works closely with Sales, Marketing, Development and Project Management teams to ensure our clients and projects have strategic, seamless user experiences to elevate and optimize the client journey from end to end.</div><div><br></div><div>Responsibilities:</div><ul>
+<li>Translate concepts and requirements into user flows, wireframes, high fidelity mockups and prototypes that lead to intuitive user experiences and attractive user interfaces.</li>
+<li>Facilitate the client’s product vision by researching, conceiving, sketching, prototyping and user-testing experiences for digital products.</li>
+<li>Design and deliver wireframes, user stories, user journeys, and mockups optimized for a wide range of devices and interfaces.</li>
+<li>Identify design problems and devise elegant solutions.</li>
+<li>Make strategic design and user-experience decisions related to core, and new, functions and features.</li>
+<li>Take a user-centered design approach and rapidly test and iterate your designs.</li>
+<li>Collaborate with other team members and stakeholders.</li>
+<li>Ask smart questions, take risks and champion new ideas.</li>
+</ul><div>Type of work: </div><ul>
+<li>Informational sites </li>
+<li>Parallax sites </li>
+<li>Mobile Apps </li>
+<li>Complex web apps </li>
+<li>Wireframing + Prototypes (Holla @ Figma &amp; Invision yo!) </li>
+</ul><div>What you need to bring to the table: </div><ul>
+<li>Be able to work during our business hours (9 am to 5 pm PST). </li>
+<li>Be available throughout the day via slack/email/etc. </li>
+<li>Able to interface with clients and work with project managers on client needs. </li>
+<li>5 or more years of UX/UI design experience and a portfolio to back it up. </li>
+<li>Wizard with Figma</li>
+<li>Ability to create clickable prototypes using InVision. </li>
+<li>Experience with ClickUp to post and collaborate on projects. </li>
+<li>Extensive experience in using UX/UI design best practices to design solutions and a deep understanding of mobile-first and responsive design. </li>
+<li>Ability to iterate designs and solutions efficiently, quickly, and intelligently. <br><br>
+</li>
+</ul><div>Big bonus if you:</div><ul>
+<li>Have some print and or brand design chops working in Illustrator + InDesign </li>
+<li>Have basic knowledge of front end code (HTML. CSS, etc) </li>
+</ul><div><br></div><div>If you like what you see and want to get out of that commute… holla at us with your portfolio, resume, and seriously... an interesting cover page (or video introduction)!</div><div>
+<br><br>
+</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/aha-senior-ux-designer">https://weworkremotely.com/remote-jobs/aha-senior-ux-designer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/createape-inc-ux-ui-designer">https://weworkremotely.com/remote-jobs/createape-inc-ux-ui-designer</a></p>
 
                 </details>
                 </td>
@@ -153,7 +136,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>522 days ago</text>
+                <text>523 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -219,7 +202,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
