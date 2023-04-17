@@ -1,5 +1,57 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0017/0951/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>TimeZest</h5>
+                    <h3> Senior Fullstack Engineer (Ruby/Rails)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/timezest-senior-fullstack-engineer-ruby-rails" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0017/0951/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Remote
+    <br /><strong>URL:</strong> <a href="https://timezest.com">https://timezest.com</a>
+</p>
+
+<div>TimeZest makes it easy for end users to schedule appointments with IT service providers. Since launching in 2019, TimeZest has grown amazingly fast, and we're a critical piece of software for over 1,000 businesses. We’ve been a remote-only company since the day we launched, and currently have 16 great people in Europe, the Philippines and the United States. We have a relaxed working environment and use just enough process to keep ourselves efficient. <br><br>
+</div><div>We offer engineering challenges to deliver an elegant, reliable and performant user experience while dealing with the complex nature of the APIs we use and our business domain under the hood. Our stack is Ruby on Rails, PostgreSQL, Sidekiq, TypeScript and React, all running on Heroku. We’re looking for people who can work independently, who’ll help us discover new technologies and better ways to work, and who are as passionate about keeping our customers delighted as we are. </div><div>
+<br>As a result of our growth, we're looking for a Senior Fullstack Engineer to join our team:<br> </div><div>
+<strong>Requirements</strong> </div><ul>
+<li>5+ years development experience in Ruby on Rails in real production environments.</li>
+<li>Ability to deliver entire new features based on functional specification, including making architecture and design decisions. </li>
+<li>PostgreSQL experience </li>
+<li>Previous experience working in a complex business domain. </li>
+<li>Experience writing tests and working with TDD, ideally using RSpec </li>
+<li>Git knowledge </li>
+<li>Fluent business English </li>
+</ul><div><br></div><div>
+<strong>Nice to Have</strong> </div><ul>
+<li>Frontend development experience, particularly in TypeScript and React. </li>
+<li>Experience with APIs and integrating to 3rd party software. </li>
+<li>A good eye for UI details. </li>
+<li>Previous experience working in a remote role. </li>
+</ul><div>This is a permanent, full-time position with a salary paid monthly. It is a remote position, and you can be based anywhere in the world, provided that you have 2-3 hours daily overlap with Central European Standard Time. <br><br>
+</div><div>We’re looking forward to hearing from you! </div><div> </div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/timezest-senior-fullstack-engineer-ruby-rails">https://weworkremotely.com/remote-jobs/timezest-senior-fullstack-engineer-ruby-rails</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1641607/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +62,7 @@
                     <code>backend,C,C++,cloud</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-full-stack-ios-engineer-1641607" align="right" target="_blank">Apply</a>
