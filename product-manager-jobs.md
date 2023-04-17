@@ -1,5 +1,103 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0015/3041/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>RapidSeedbox Ltd</h5>
+                    <h3> Remote Product Manager Needed</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-remote-product-manager-needed-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0015/3041/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> 100% Remote
+    <br /><strong>URL:</strong> <a href="https://www.rapidseedbox.com/">https://www.rapidseedbox.com/</a>
+</p>
+
+<div>▬▬▬▬▬▬▬▬▬▬▬</div><div>A video from RapidSeedbox CEO and Co-Founder<br>▬▬▬▬▬▬▬▬▬▬▬</div><div>
+<br>https://www.dropbox.com/s/6p53rj1xob7wk74/RapidSeedbox%20Job%20Post%20Intro.mp4?dl=0<br><br>
+</div><div>▬▬▬▬▬▬▬▬▬▬▬</div><div>Our core values</div><div>▬▬▬▬▬▬▬▬▬▬▬</div><div><br></div><div>→ <strong>Excellence in everything we do </strong>(“<em>I go above and beyond!</em>”) - We believe in being excellent and showing it with our actions and mindset in absolutely everything we do day to day.<br><br>
+</div><div>→<strong> Ownership and responsibility</strong> (<em>“I own it”</em>) - We believe in taking full ownership and full responsibility for everything we do. That means taking full ownership of every small task and taking responsibility for deliverables and outcomes.<br><br>
+</div><div>→ <strong>Push the limits </strong>(“I<em> don't take No as an answer</em>”) - We love pushing the limits and we do not take no as an answer. WE push their limits so that we can grow professionally.<br><br>
+</div><div>→ <strong>Cooperate and Serve</strong> (“<em>Everyone matters”</em>) - We believe in team cooperation and serving both our external customers and serving all of our internal team.<br><br>
+</div><div>Our company is looking to grow in the Seedbox/IP space and we are looking for growth-oriented people who want to join our growth journey. If this sounds like the team for you, read on!<br><br>
+</div><div>▬▬▬▬▬▬▬▬▬▬▬</div><div>About the role<br>▬▬▬▬▬▬▬▬▬▬▬</div><div><br></div><div>We are looking to hire a Product Manager to lead our product initiatives. You will take ownership of our product team, our UI/UX and our product experience to turn it into a world-class experience, lowering our churn and enhancing the user experience. <br> <br>You will be a vital part of the team and will also manage a few developers who are developing the products and work closely with other departments as well. <br> <br>This role is a hybrid role between a product leader and a manager role where both technical and leadership skills are needed<br> </div><div>The key two focuses of your role will be:<br><br>
+</div><div>🔵Leading our product efforts, optimizing the product experience/onboarding and lowering our churn rate.</div><div>🔵Accountability of the whole department in the company by managing the team in an effective way<br><br>
+</div><div>As you join the company, you will have the time to adjust and learn more about the company, its product, its systems, and the people you oversee. However, the team counts on your expert knowledge which includes your product and managerial aptitudes, which you must own 100% from day 1.  The training you will receive will not be on the actual tasks of your role, but rather on the people, processes, and product so that you can quickly hit the ground running and bring your expertise to the table.<br><br>
+</div><div>▬▬▬▬▬▬▬▬▬▬▬</div><div>About you<br>▬▬▬▬▬▬▬▬▬▬▬<br><br>
+</div><div>To excel in this role, you need to have:<br><br>
+</div><div>
+<strong>Technical/Product skills</strong>, or more specifically:</div><ul>
+<li>At least <strong>2 years</strong> of applied knowledge in being a product manager.</li>
+<li>A deep understanding of the techniques and methods of modern product discovery and product delivery.</li>
+<li>At least <strong>2 years</strong> of experience with onboarding experiences of products.</li>
+<li>Experience in PHP, MySQL, Javascript, CSS, HTML, Wordpress (Recommended)</li>
+<li>ElectronJS, NodeJS, ionCube (Optional but very welcome!)</li>
+</ul><div>
+<strong>Leadership and communication skills, </strong>or more specifically:</div><ul>
+<li>
+<strong>3+ years of experience acting as a team manager/leader<br></strong>Proficient communication skills (written communication, voice communication, and excellent asynchronous communication skills)</li>
+<li>Ability to teach and coach co-workers new skills, including explanations of technical concepts and a lot of soft/psychological skills to elevate the team to the next level</li>
+<li>Active listening skills and the ability to gather information</li>
+<li>Ability to efficiently delegate tasks to others when needed &amp; the ability to break down projects and tasks in Asana with clear due dates and assignments</li>
+<li>Ability to empathise with the team and show an understanding of their tasks and responsibilities, as well as wellbeing</li>
+<li>Ability to hold a team accountable for the KPIs and deliverables of the department</li>
+</ul><div>
+<strong>Soft skills, </strong>or more specifically:</div><ul>
+<li>Critical thinking skills and the ability to solve problems &amp; identify new ideas for the company</li>
+<li>Time management skills and the ability to prioritise and execute; you know how to manage to complete tasks by the due date and you deal well with time constraints</li>
+<li>Proactive learning skills and genuine curiosity about new technologies and solutions</li>
+<li>Project management skills and the ability to coordinate the work of people who report directly to you to complete tasks</li>
+<li>Research skills and the ability to observe new technologies that are on the rise in the industry and apply them to your work to keep up with the changing trends</li>
+<li>Results-driven mindset and an obsession with creating tangible results for a company creatively, innovatively, and reliably</li>
+<li>Service-centric mindset and the ability to think and act to serve your team and your company's customers</li>
+</ul><div>▬▬▬▬▬▬▬▬▬▬▬</div><div>Benefits<br>▬▬▬▬▬▬▬▬▬▬▬</div><div><br></div><div><strong>What’s in it for you?</strong></div><ul>
+<li>
+<strong>100% Remote: </strong>Fully remote and full-time role. Fully flexible working schedule; you can be online at any time during the day as long as you clock 40 hours per work week and deliver results. The company measures only performance and results</li>
+<li>
+<strong>Emergency fund</strong>: We provide an emergency fund in case of emergencies up to $1,000, interest free and in a comfortable payouts.</li>
+<li>
+<strong>Personal development: </strong>We provide a personal development fund to aid your personal development</li>
+<li>
+<strong>Focused time blocks:</strong> We discourage meetings before noon so employees can have undistracted time to work.</li>
+<li>
+<strong>Incredible Growth and Promotion Opportunities: </strong>We are a small company and there is a lot of opportunity to make your mark, grow professionally and also be promoted.</li>
+<li>
+<strong>Swag:</strong> You get company gear swag shipped to you.</li>
+<li>
+<strong>Bonus structure:</strong> Based off performance, we create bonus structures<br><br>
+</li>
+</ul><div><br></div><div>
+<em>*Please note that this is a gross salary and that you are responsible for any tax-related procedures in your country of residence. We kindly ask you to apply only if you are happy to work remotely as an independent contractor.<br></em><br>
+</div><div>▬▬▬▬▬▬▬▬▬▬▬</div><div>How to apply<br>▬▬▬▬▬▬▬▬▬▬▬<br><br><strong>This position will be closed as soon as we find the perfect match</strong>. So, make sure to read the description carefully, apply promptly, and take your time to submit a high-quality application that stands out.<br><br>
+</div><div>Please expect the hiring process to include:<br><br>
+</div><div>
+<strong>1</strong> - Filling in the application form once you click “Apply”<br><br>
+</div><div>
+<strong>2</strong> - Being invited to record a short video to introduce yourself<br><br>
+</div><div>
+<strong>3</strong> - Completing test tasks if short-listed<br><br>
+</div><div>
+<strong>4</strong> - Attending video interviews where you will have the opportunity to talk more about your previous experience and the new role</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-remote-product-manager-needed-1">https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-remote-product-manager-needed-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/3973/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +108,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/shake-io-product-manager-part-time" align="right" target="_blank">Apply</a>
@@ -73,7 +171,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>66 days ago</text>
+                <text>67 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1" align="right" target="_blank">Apply</a>
@@ -142,7 +240,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>522 days ago</text>
+                <text>523 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -194,110 +292,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1651084/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Moxie</h5>
-                    <h3>Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>legal,product manager,saas,B2B</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/product-manager-1651084" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="min-height: 1.5em;"><strong>Our company</strong></p>
-<p style="min-height: 1.5em;"><strong>Moxie</strong> enables nurses to become entrepreneurs, and grow successful, independent businesses. MedSpas are booming, regulated practices that provide aesthetics services like botox, fillers, and more. </p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;">Today, 80% of them in the US are individually owned and operated and we want to keep it that way. We provide our entrepreneurs the tools and expertise to operate with the scale of a large chain while remaining independent.</p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;">We are a well-funded seed-stage company with many happy customers and quickly scaling revenue.</p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>This role as first Product Manager</strong></p>
-<p style="min-height: 1.5em;">We’re hiring for a founding product manager to take over from our founder <a href="https://www.linkedin.com/in/samgerstenzang/" rel="nofollow" target="_blank"><u>Sam</u></a> and drive the product roadmap, including both our software product and wider program. This is a senior individual contributor role, with a wide span of responsibilities across the business reporting to the CEO.</p>
-<p style="min-height: 1.5em;"> </p>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Ensure we’re shipping the right product, at the right time, to the right users</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Own our customer experience end-to-end</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Scope, define, and ship our software and program products</p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>Our objectives for the role</strong></p>
-<p style="min-height: 1.5em;">In 30 days:</p>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">You’ve met 10+ customers and have a clear sense of what’s working, what’s not, and what the priorities are</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">You’ve become a key thought partner to our head of engineering, head of partner services, designer, and CEO</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">You’ve driven clarity and decision making on multiple small-to-medium sized projects</p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;">In 90 days:</p>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">You own the wider product roadmap across all aspects of the business</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">You’ve shipped multiple larger features, continuously driving customer feedback to the team and product</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">You’ve made us up-level how we work, and it shows</p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>We’re looking for:</strong></p>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">4+ years of experience as a product manager, ideally in SaaS context</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Experience in a startup environment shipping iteratively</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">A healthy amount of impatience - you drive clarity, reduce ambiguity, and relentlessly unblock next steps</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Experience with B2B, SMBs, aesthetics are pluses but not required</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Experience with legal complexity and compliance a plus but not required</p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>Why join us</strong></p>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Above all, we’re in this to empower small business owners to own and grow their businesses. If you succeed, Med Spas will remain the opportunity for independent owner-operators instead of being dominated by a small number of large chains. If that speaks to you, speak to us.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">We have much left to build. But given the market feedback we’re getting and our founding team’s company-building experience, we think we are writing the first chapters of a real success story.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Competitive salary and stock, and generous health/dental/vision coverage.</p>
-</li>
-</ul>
-<img src="https://remotive.com/job/track/1651084/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
