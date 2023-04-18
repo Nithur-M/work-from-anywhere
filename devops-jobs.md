@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>74 days ago</text>
+                <text>75 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sportybet-devops-engineer" align="right" target="_blank">Apply</a>
@@ -76,7 +76,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>192 days ago</text>
+                <text>193 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer" align="right" target="_blank">Apply</a>
@@ -136,73 +136,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1656716/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Paramo Technologies</h5>
-                    <h3>DevOps Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>developer,devops,docker,kubernetes</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/devops/devops-engineer-1656716" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="h1"><strong>We are</strong></div>
-<p>A cutting-edge e-commerce company developing products for our own technological platform. Our creative, smart and dedicated teams pool their knowledge and experience to find the best solutions to meet project needs, while maintaining sustainable and long-lasting results. <strong><em>How?</em></strong> By making sure that our teams thrive and develop professionally. Strong advocates of hiring top talent and letting them do what they do best, we strive to create a workplace that allows for an open, collaborative and respectful culture.</p>
-<p> </p>
-<div class="h1"><strong>What you will be doing</strong></div>
-<p>As a DevOps/Automation Engineer you will be advising and supporting development teams using a wide array of technology stacks. Work along with other teams like infrastructure and database to set up the underlying infrastructure for the different environments.</p>
-<p>We're dev-focused. We are open-minded, and research/propose/implement our goals for this position.</p>
-<p>The DevOps is responsible for the delivery of key DevOps concepts, including but not limited to: </p>
-<ul style="">
-<li style="">Works on continuous delivery and continuous deployment with a 99.99% uptime guarantee</li>
-<li style="">Implements containerized solutions and orchestration</li>
-<li style="">Provide an environmental management and accountability</li>
-<li style="">Interact along with developers/testers to provide tools and knowledge transfer</li>
-<li style="">Interact along with Infrastructure teams to specify, deploy, maintain and update build systems</li>
-<li style="">Train on DevOps practices and tools</li>
-<li style="">Design, implement and maintain tools for the generation, deployment, and monitoring of product builds</li>
-</ul>
-<div class="h1"><strong> </strong></div>
-<div class="h1"><strong>Knowledge and skills you need to have</strong></div>
-<ul style="">
-<li style="">B.S. in Computer Science, Computer Engineering or a related field or relevant experience</li>
-<li style="">Developer Background (2 years of experience in a developer role)</li>
-<li style="">Good GNU/Linux Systems Administration background (Red Hat/Ubuntu/Centos)</li>
-<li style="">Strong scripting skills (Shell scripting, Python, PowerShell)</li>
-<li style="">Thorough understanding in large server infrastructure with virtualization and distributed environments.</li>
-<li style="">Experience with GNU/Linux containers and container orchestration such as Docker, Kubernetes, Docker Swarm, etc.</li>
-<li style="">Sound knowledge of Continuous Integration and Continuous Deployment/Delivery tools (Jenkins, AzureDevOps, TFS, Bitbucket, etc)</li>
-<li style="">At least 2 years of experience in the DevOps culture</li>
-<li style="">Proven knowledge with automation and configuration management tools such as Ansible, Terraform, or similar technologies.</li>
-<li style="">Experience with monitoring tools and APM such as New Relic, Zabbix, Nagios, or similar monitoring tools</li>
-<li style="">Familiarity with Log Management tools like Graylog, ELK or similar technologies</li>
-<li style="">At least one year working with Kubernetes</li>
-<li style="">Upper-intermediate English</li>
-<li style="">On-Call availability</li>
-</ul>
-<div class="h1"><strong> </strong></div>
-<div class="h1"><strong>Bonus points for the following</strong></div>
-<ul style="">
-<li style="">Experience with GitOps</li>
-<li style="">Working with on-premise environments</li>
-</ul>
-<div class="h1"><strong> </strong></div>
-<div class="h1"><strong>Why choose us?</strong></div>
-<p>We will give you the opportunity to be the best version of yourself, develop professionally and create strong working relationships working remote or on site. While offering a competitive salary, we also invest in our people's professional development and want to see you grow and love what you do. We are dedicated to listening to our team's needs and are constantly working on creating an environment in which you can feel at home.... <strong>If this sounds like the place for you, contact us now! </strong></p>
-<img src="https://remotive.com/job/track/1656716/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1639500/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -213,7 +146,7 @@
                     <code>cloud,developer,devops,docker</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1639500" align="right" target="_blank">Apply</a>
