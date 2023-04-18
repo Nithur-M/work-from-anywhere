@@ -10,7 +10,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/internet-projects-ltd-senior-symfony-php-full-stack-developer-remote-full-time" align="right" target="_blank">Apply</a>
@@ -55,55 +55,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/5744/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Contra</h5>
-                    <h3> Freelance Python Developer and AWS Manager at Easy Energy Inc</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/contra-freelance-python-developer-and-aws-manager-at-easy-energy-inc" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0083/5744/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> San Francisco, CA
-    <br /><strong>URL:</strong> <a href="http://bit.ly/3kLhMdk">http://bit.ly/3kLhMdk</a>
-</p>
-
-<div>
-<br>We are seeking a skilled Python Developer &amp; AWS Manager to join our team and manage the backend of our database. The system is primarily built using Python and deployed using Amazon Web Services.<br><br>
-</div><div>
-<br>As a Python Developer &amp; AWS Manager, you will be responsible for diagnosing errors and infrastructure problems, managing permissions in the backend, and creating a beta platform for other freelancers to work from.<br><br>
-</div><div>
-<br>Responsibilities:<br><br>
-</div><div>
-<br>·  Develop and maintain the backend of our database using Python 3.8 programming language and the Django framework<br>·  Use support libraries such as Django REST Framework, Celery, Weasyprint and Twilio to enhance system functionalities<br>·  Manage AWS clusters consisting of web, worker and scheduler servers<br>·  Configure Elastic Beanstalk to automate and simplify server management<br>·  Manage PostgreSQL server on an Amazon RDS instance <br>·  Use Celery queues running on Amazon SQS to minimize front-end processing and improve user experience <br>·  Diagnose errors and infrastructure problems to improve database speed<br>·  Manage permissions in the backend and create a beta platform with randomized data<br><br>
-</div><div>
-<br>Requirements:<br><br>
-</div><div>·  Solid understanding of Django framework and support libraries<br>·  Strong knowledge of Amazon Web Services, particularly Elastic Beanstalk, EC2, RDS, SQS, S3, Codecommit, CodePipeline, and CodeDeploy<br>·   Experience with PostgreSQL or other database management systems<br>·   Familiarity with Docker containers<br>·   Ability to work independently and as part of a team<br>·   Excellent communication skills and problem-solving abilities<br><br>
-</div><div>
-<br><br>
-</div><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/contra-freelance-python-developer-and-aws-manager-at-easy-energy-inc">https://weworkremotely.com/remote-jobs/contra-freelance-python-developer-and-aws-manager-at-easy-energy-inc</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/1947/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -114,7 +65,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/planning-center-full-stack-developer-2" align="right" target="_blank">Apply</a>
@@ -195,7 +146,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-wordpress-developer" align="right" target="_blank">Apply</a>
@@ -269,7 +220,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/vexxhost-inc-developpeur-e-de-kubernetes-ansible-kubernetes-ansible-developer-1" align="right" target="_blank">Apply</a>
@@ -303,7 +254,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clutchy-senior-front-end-full-stack-developer" align="right" target="_blank">Apply</a>
@@ -389,7 +340,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tech22-frontend-developer-angular" align="right" target="_blank">Apply</a>
@@ -441,7 +392,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/mailerlite-php-integration-developer" align="right" target="_blank">Apply</a>
@@ -553,7 +504,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>90 days ago</text>
+                <text>91 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-vue-js-developer" align="right" target="_blank">Apply</a>
@@ -621,7 +572,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>150 days ago</text>
+                <text>151 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-golang-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -686,7 +637,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>151 days ago</text>
+                <text>152 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/awesome-motive-wordpress-developer-1" align="right" target="_blank">Apply</a>
@@ -805,7 +756,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>215 days ago</text>
+                <text>216 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang" align="right" target="_blank">Apply</a>
@@ -856,7 +807,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>217 days ago</text>
+                <text>218 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -930,7 +881,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>811 days ago</text>
+                <text>812 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1" align="right" target="_blank">Apply</a>
@@ -1012,7 +963,7 @@
                     <code>amazon,AWS,backend,developer</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-python-developer-and-aws-manager-1656870" align="right" target="_blank">Apply</a>
@@ -1058,7 +1009,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -1135,7 +1086,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -1272,7 +1223,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1349,7 +1300,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1493,7 +1444,7 @@
                     <code>developer,seo,social media,ai</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/ai-application-developer-creator-1632115" align="right" target="_blank">Apply</a>
@@ -1539,75 +1490,6 @@
 <p> </p>
 <div class="h3">Learn more about <a href="http://bit.ly/3Dbh5jQ" rel="nofollow">Contra here</a>!</div>
 <img src="https://remotive.com/job/track/1632115/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1359476/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify</h5>
-                    <h3>Senior Full Stack Developer</h3>
-                </td>
-                <td width="300">
-                    <code>backend,developer,frontend,fullstack</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>About us: </p>
-<p> </p>
-<p>"Talent has no borders." We strongly believe in uplifting talent by providing them with the right opportunities - no matter which part of the world you are from, we value your skills and offer every member the growth possibilities they deserve. 🙂</p>
-<p> </p>
-<p>Proxify is a global network and a supportive community of talented developers interested in long-term remote jobs. </p>
-<p>With us, you will get opportunities:</p>
-<p>To work remotely on exciting projects with leading brands and fast-growing startups.</p>
-<p>To work on commision free project-based jobs.</p>
-<p>To work with companies that respect and value your skills.</p>
-<p> </p>
-<p>Since our launch, talented developers on Proxify have worked with 620+ happy clients to build their products and growth features. 1400+ talented developers trust Proxify and the community we are building to fulfil their dreams and objectives. </p>
-<p><br><br></p>
-<p>The Role:</p>
-<p>We are searching for a Senior Full Stack Developer skilled in React.js and Node.js. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </p>
-<p><br><br></p>
-<p>What we are looking for:</p>
-<p>4+ years of working experience as a FullStack;</p>
-<p>Frontend:</p>
-<p>- React JS;</p>
-<p>- Design System;</p>
-<p>Backend:</p>
-<p>- Microservices architecture;</p>
-<p>- NodeJS; </p>
-<p>Database:</p>
-<p>- SQL;</p>
-<p>- MongoDB;</p>
-<p>Upper-intermediate or higher English level.</p>
-<p> </p>
-<p>Nice-to-have: </p>
-<p>Timezone: CET (+/- 3 hours);</p>
-<p>Database Architecture knowledge</p>
-<p><br><br></p>
-<p>What we offer:</p>
-<p>💻 100% remote work: Work from anywhere.</p>
-<p>👌🏻 Flexibility: The ability to change the project to another one.</p>
-<p>💵 Financial growth: Competitive compensation and performance-based increases.</p>
-<p>🧘🏻‍♂️ Freedom: Very flexible working schedule.</p>
-<p>🚀 360 degree growth: Opportunities for professional development and personal growth.</p>
-<p><br><br><br></p>
-<p>Your benefits with Proxify:</p>
-<p>Be part of Proxify community: Network with like-minded and enthusiastic individuals to make a difference. </p>
-<p>Make an impact: You get the opportunity to work on the projects that inspire you and add value to your career.</p>
-<p>Transparency: Contracts with transparency in earnings and working hours.</p>
-<p>Save your time: Fast and efficient hiring process to match you with the project of your preference.</p>
-<p>Ownership: Take ownership of your work and enjoy more freedom in your career.</p>
-<img src="https://remotive.com/job/track/1359476/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1726,7 +1608,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>ConvertKit is a creator marketing platform built to empower creators to earn a living online. We help them own their audience and turn fans into customers. For makers, authors, chefs, musicians, athletes, and anyone else making a living by creating the culture we all love, there isn’t a better tool for reaching inboxes. More importantly, there isn’t a team more committed to helping creators earn a living doing work that matters.</p><p>We’re on a mission to help creators earn $1 billion using our SaaS marketing platform. We have always been 100% independent and 100% remote. We are proud to have built a product that our customers love, that 25,000+ creators use to earn a living, and we look for people who have enthusiasm and belief in our <a href="https://convertkit.com/mission" target="_blank" rel="nofollow noreferrer noopener" class="external">mission, vision, and values</a> to join our team.</p><h3><br></h3><h3>The role</h3><p>This is a full-time (40 hours per week) contract role.</p><p>You’ll work alongside a small team responsible for the ongoing efforts of building and expanding our <a href="https://convertkit.com" target="_blank" rel="nofollow noreferrer noopener" class="external">marketing site</a> using Next.js and React. We’re looking for a great front-end developer who has experience with React and using REST APIs to build web pages, as well as working alongside designers and SEO experts to ensure brand consistency and site quality. You’ll work directly with the Site Squad, specifically our Senior Front-End Developer, to build pages for various marketing and brand efforts for ConvertKit.</p><p>We’re looking for someone who cares deeply about creators and helping them on their journey, enjoys developing websites that are wonderful and easy to use, and cares about the creators we serve. If this sounds like you, we’d love to have you apply!</p><p><br></p><h3>Responsibilities</h3><ul> <li>Work with the Site Squad to create new pages, features, and components in our codebase. Some projects may include expanding or refactoring existing components or pages to ensure performance, accessibility, and maintainability.<ul> <li>We use Next.js and React with a variety of frameworks and libraries, such as TailwindCSS and GraphQL.</li> <li>We use Figma for all of our design needs, including our design system, page designs, and build feedback from the designers. Typically the design and brief are provided to the dev team with Figma.</li> </ul> </li> <li>Actively participate in driving the technical direction of our codebase.</li> <li>Collaborate with team members across the organization.</li> </ul><h3>Requirements: </h3><ul> <li>At least five years building websites in a team environment or equivalent experience. Years of experience doesn’t always capture expertise, so we encourage you to apply if you can demonstrate you’re well versed in building websites in a team environment</li> <li>Experience developing responsive, mobile-first, and accessibility-focused websites</li> <li>At least two years working professionally with React or similar libraries - if you don’t have two years of experience but can demonstrate a confident grasp of React or similar libraries, we encourage you to apply.</li> <li>Experience working with Next.js or a similar static site-generating framework.</li> <li>Experience working with WordPress and GraphQL are a plus, but not a requirement.</li> <li>Experience writing code that is accessible, scalable, maintainable, and performant.</li> <li>Experience with Figma is a big plus, but not a requirement.</li> <li>Comfortable working remotely in an autonomous environment - you don’t mind asking questions and problem solving in public communication channels</li> <li>Able to work in US or EU time zones - you don’t have to live in those time zones, but you have to be able to collaborate with the team during the crossover period of these times</li> <li>Conversational English proficiency</li> <li>Enthusiasm and belief in our<a href="https://convertkit.com/mission" rel="nofollow noreferrer noopener" class="external"> mission, vision, and values</a> </li> </ul><h3>Benefits: </h3><p>Compensation: $1,500 per month</p><ul> <li>3 weeks (15 days) vacation time per year</li> <li>2 weeks (10 days) sick leave per year</li> </ul><p><br></p><h3>How to apply</h3><p>We know that most people hate interviewing (we relate!). We aim to make it as good of an experience as we can, and part of that includes keeping you informed during the process.</p><p>Here’s what you can expect from the process:</p><ul> <li>Submit your application, including a screen-share video about a piece of code you're particularly proud of (we often work asynchronously with screen share videos or on video calls in real time, so seeing how you talk about your work is important – applications without a video won't be accepted for consideration)</li> <li>A video call with the Hiring Manager</li> <li>A short homework assignment</li> <li>A “technical” interview to discuss the homework assignment and your experience</li> </ul><p>To get started, complete this application, including answers to the questions on the next page.</p>
+                <p>ConvertKit is a creator marketing platform built to empower creators to earn a living online. We help them own their audience and turn fans into customers. For makers, authors, chefs, musicians, athletes, and anyone else making a living by creating the culture we all love, there isn’t a better tool for reaching inboxes. More importantly, there isn’t a team more committed to helping creators earn a living doing work that matters.</p><p>We’re on a mission to help creators earn $1 billion using our SaaS marketing platform. We have always been 100% independent and 100% remote. We are proud to have built a product that our customers love, that 25,000+ creators use to earn a living, and we look for people who have enthusiasm and belief in our <a href="https://convertkit.com/mission" target="_blank" rel="nofollow noreferrer noopener" class="external">mission, vision, and values</a> to join our team.</p><h3><br></h3><h3>The role</h3><p>This is a full-time (40 hours per week) contract role.</p><p>You’ll work alongside a small team responsible for the ongoing efforts of building and expanding our <a href="https://convertkit.com" target="_blank" rel="nofollow noreferrer noopener" class="external">marketing site</a> using Next.js and React. We’re looking for a great front-end developer who has experience with React and using REST APIs to build web pages, as well as working alongside designers and SEO experts to ensure brand consistency and site quality. You’ll work directly with the Site Squad, specifically our Senior Front-End Developer, to build pages for various marketing and brand efforts for ConvertKit.</p><p>We’re looking for someone who cares deeply about creators and helping them on their journey, enjoys developing websites that are wonderful and easy to use, and cares about the creators we serve. If this sounds like you, we’d love to have you apply!</p><p><br></p><h3>Responsibilities</h3><ul> <li>Work with the Site Squad to create new pages, features, and components in our codebase. Some projects may include expanding or refactoring existing components or pages to ensure performance, accessibility, and maintainability.<ul> <li>We use Next.js and React with a variety of frameworks and libraries, such as TailwindCSS and GraphQL.</li> <li>We use Figma for all of our design needs, including our design system, page designs, and build feedback from the designers. Typically the design and brief are provided to the dev team with Figma.</li> </ul> </li> <li>Actively participate in driving the technical direction of our codebase.</li> <li>Collaborate with team members across the organization.</li> </ul><h3>Requirements: </h3><ul> <li>At least five years building websites in a team environment or equivalent experience. Years of experience doesn’t always capture expertise, so we encourage you to apply if you can demonstrate you’re well versed in building websites in a team environment</li> <li>Experience developing responsive, mobile-first, and accessibility-focused websites</li> <li>At least two years working professionally with React or similar libraries - if you don’t have two years of experience but can demonstrate a confident grasp of React or similar libraries, we encourage you to apply.</li> <li>Experience working with Next.js or a similar static site-generating framework.</li> <li>Experience working with WordPress and GraphQL are a plus, but not a requirement.</li> <li>Experience writing code that is accessible, scalable, maintainable, and performant.</li> <li>Experience with Figma is a big plus, but not a requirement.</li> <li>Comfortable working remotely in an autonomous environment - you don’t mind asking questions and problem solving in public communication channels</li> <li>Able to work in US or EU time zones - you don’t have to live in those time zones, but you have to be able to collaborate with the team during the crossover period of these times</li> <li>Conversational English proficiency</li> <li>Enthusiasm and belief in our<a href="https://convertkit.com/mission" rel="nofollow noreferrer noopener" class="external"> mission, vision, and values</a> </li> </ul><h3>Benefits: </h3><p>Compensation: $1,500 per month</p><ul> <li>3 weeks (15 days) vacation time per year</li> <li>2 weeks (10 days) sick leave per year</li> </ul><p><br></p><h3>How to apply</h3><p>We know that most people hate interviewing (we relate!). We aim to make it as good of an experience as we can, and part of that includes keeping you informed during the process.</p><p>Here’s what you can expect from the process:</p><ul> <li>Submit your application, including a screen-share video of you walking us through a piece of code you're particularly proud of (we often work asynchronously with screen share videos or on video calls in real time, so seeing how you talk about your work is important – applications without a video won't be accepted for consideration)</li> <li>A video call with the Hiring Manager</li> <li>A short homework assignment</li> <li>A “technical” interview to discuss the homework assignment and your experience</li> </ul><p>To get started, complete this application, including answers to the questions on the next page.</p>
                 </details>
                 </td>
             </tr>,<tr>
