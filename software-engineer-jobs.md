@@ -1,5 +1,65 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/2990/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>OnTheGoSystems</h5>
+                    <h3> Senior Software Engineer – RoR / React / Python</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/onthegosystems-senior-software-engineer-ror-react-python-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0076/2990/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> 100% remote
+    <br /><strong>URL:</strong> <a href="https://onthegosystems.com">https://onthegosystems.com</a>
+</p>
+
+<div>Are you a seasoned software engineer passionate about building products from start to finish? Do you thrive in a remote work environment, where you can work on challenging problems with like-minded people? If so, we have an exciting opportunity for you to join our team at OnTheGoSystems!<br><br>
+</div><div>
+<strong>A Few Words About Us:<br></strong><br>
+</div><div>At OnTheGoSystems, we’re all about creativity, autonomy, and responsibility. We empower our team members to take ownership of their work and reward results. We’ve been creating software for website developers and software translation since 2010.<br><br>
+</div><div>Our products power over a million businesses, so you can be sure that your work will make a real difference.<br><br>
+</div><div>We’re fully remote, so you’ll have the flexibility to create your work-life balance.<br><br>
+</div><div>
+<strong>The Role:<br></strong><br>
+</div><div>As a Senior Software Engineer, you will be responsible for building complete products from start to finish, working alongside other expert developers.  We use different programming languages, frameworks, and tools, picking the best for each problem we’re addressing. You’ll work on mass-market SaaS products, used concurrently by thousands of people, and design for performance, stability, scalability, and easy maintenance.<br><br>
+</div><div>
+<strong>Our tech stack:<br></strong><br>
+</div><div>Our backend runs mostly on RoR / Ruby on Rails. For the front end, we typically use React. For internal tools we use Python.  We encourage our developers to introduce the languages and tools that are best for each project we work on.<br><br>
+</div><div>
+<strong>The Ideal Candidate:<br></strong><br>
+</div><ul>
+<li>Proven experience building products from scratch and maintaining them</li>
+<li>Ability to work independently and collaboratively with other team members</li>
+<li>Curiosity and interest in trying new tools and solutions, especially as AI continues to transform the software development industry</li>
+<li>Strong commitment to continuous learning and applying new knowledge to their work</li>
+</ul><div>
+<strong>Job Benefits:<br></strong><br>
+</div><ul>
+<li>Work on challenging problems.</li>
+<li>Work with like-minded people.</li>
+<li>Enjoy a fully remote work environment, with flexibility in managing your work-life balance.</li>
+<li>Assistance with work-from-home setup.</li>
+</ul><div>If you’re looking for an excellent opportunity to grow your career as a software engineer, in a company that values innovation and teamwork, apply today and join our dynamic team!</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/onthegosystems-senior-software-engineer-ror-react-python-1">https://weworkremotely.com/remote-jobs/onthegosystems-senior-software-engineer-ror-react-python-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +70,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chorus-one-golang-software-engineer" align="right" target="_blank">Apply</a>
@@ -72,7 +132,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/paymentology-senior-software-engineer-1" align="right" target="_blank">Apply</a>
@@ -138,7 +198,7 @@
                     <code>api,backend,cloud,developer</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1653911" align="right" target="_blank">Apply</a>
