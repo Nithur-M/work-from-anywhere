@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/timezest-senior-fullstack-engineer-ruby-rails" align="right" target="_blank">Apply</a>
@@ -56,16 +56,16 @@
                 </td>
                 <td width="300">
                     <h5>Easel AI, Inc.</h5>
-                    <h3>Freelance Full Stack IOS Engineer</h3>
+                    <h3>Full Stack IOS Engineer</h3>
                 </td>
                 <td width="300">
                     <code>backend,C,C++,cloud</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/freelance-full-stack-ios-engineer-1641607" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/full-stack-ios-engineer-1641607" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
