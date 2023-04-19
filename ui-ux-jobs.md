@@ -10,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/fluyo-ux-ui-designer-product-owner" align="right" target="_blank">Apply</a>
@@ -68,7 +68,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/createape-inc-ux-ui-designer" align="right" target="_blank">Apply</a>
@@ -136,7 +136,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>524 days ago</text>
+                <text>525 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -192,31 +192,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1654211/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>SourceTER</h5>
-                    <h3>UI/UX Product designer</h3>
-                </td>
-                <td width="300">
-                    <code>marketing,ui,ux,growth</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/design/ui-ux-product-designer-1654211" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We are looking for UX/UI Product Designer for our client - product company which develops a platform for data streaming. You will design end-to-end UX's from prototypes to final implementation.<br><br>Responsibilities:<br>- Conduction of design sprints, workshops, brainstorming sessions, presentations, etc.<br>- Design of new features and take concepts through to production<br>- Create user journeys and product flows<br>- Define users' needs, motivation and pain points<br>- Focus on UX using A/B tests and live results<br>- Collaboration with the product, engineering, and marketing teams<br><br>Requirements:<br>- UX/UI designer with 4-5 years of experience<br>- Experience in designing a complex system/platform<br>- Positive attitude and great social skills<br>- Great knowledge in design and prototyping software (Figma preferred)<br>- Visual design skills and expertise in creating flows, page layouts/templates, functional design, iconography, and style guides<br>- Understanding web technologies (no codding required)<br>- Fluent written and spoken English<br><br>We Offer:<br>- Competitive market salary<br>- Flexible working hours<br>- Paid vacations<br>- Being a part of team of professionals who knows how to build world-class products<br>- Wide range of excellent opportunities for professional and personal growth</p>
-<img src="https://remotive.com/job/track/1654211/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/986276/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -227,7 +202,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
