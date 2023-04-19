@@ -98,69 +98,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/3973/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Shake.io</h5>
-                    <h3> Product Manager (Part Time)</h3>
-                </td>
-                <td width="300">
-                    <code>Product</code>
-                </td>
-                <td width="200">
-                <text>13 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/shake-io-product-manager-part-time" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/3973/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Beaverton, OR
-    <br /><strong>URL:</strong> <a href="https://www.reviewshake.com">https://www.reviewshake.com</a>
-</p>
-
-<div><strong>About Us</strong></div><div>
-<br>Hi, we're Shake. Our mission is to help businesses grow with online reviews, using both 1st party reviews on your business and 3rd party reviews on other businesses. We're creating a more transparent world by helping both consumers and companies be more aware of customer feedback.</div><div>
-<a href="https://www.reviewshake.com/">Reviewshake</a> is our SaaS product that helps small businesses, agencies and enterprises manage their reviews on 80+ review sites, including Facebook, Google, Yelp and Tripadvisor. As our customer base and team is increasing, we are looking for a Product Manager (remote) to lead Reviewshake. Being bootstrapped (not venture-backed) and fully remote, we don't strive for growth at all costs, and are building a company that we can be proud of, and enjoy working for.</div><div>
-<br><br><strong>About You</strong><br><br>We're looking for a sharp, self-motivated, kind, problem-solving Product Manager to join our team. You'll use your experience and expertise in shipping well-designed and successful SaaS apps to help us build the right stuff. We're not short on ideas, but we do need someone that can use their own insight, connection to users, data, and knowledge of technical feasibility to make product strategy decisions. We're not looking for backlog administrators or 'project' managers. We're looking for someone that'd be capable, either now or in the future, of being the CEO at their own startup.<br><br>
-</div><div><br></div><div><strong>Our ideal candidate has:</strong></div><ul>
-<li>Prior experience with SaaS products</li>
-<li>3+ years of experience building and delivering successful products. You can take rough themes and big ideas and turn them into a roadmap with minimal guidance</li>
-<li>Talent for mediating challenging interests and finding creative solutions</li>
-<li>Strong verbal and written English communication skills</li>
-<li>An understanding of how to take highly complex data and turn it into actionable insights</li>
-<li>A thirst to be challenged by enterprise-grade problems</li>
-<li>A passion about every small detail in a product and always dedicated to improving your craft</li>
-</ul><div>
-<br><br>
-</div><div><strong>Nice to have:</strong></div><ul>
-<li>Being a former engineer or product designer</li>
-<li>Have experience digging into data in Google Analytics or writing SQL queries</li>
-<li>Have experience with data visualization</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>In a typical day, you will:<br></strong><br>
-</div><ul>
-<li>Identify customer needs and business opportunities through a combination of research, feedback collection from cross-functional teammates, and competitive data analysis</li>
-<li>Define, understand, and improve key funnels and metrics</li>
-<li>Write product requirement documents, making thoughtful product decisions along the way, and sharing insights and results throughout the company.</li>
-<li>Communicate with our customers, either through product updates or user interviews</li>
-</ul><div>
-<br><strong>Salary:</strong>
-</div><ul><li>$22-$30k / year (for part-time schedule)</li></ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/shake-io-product-manager-part-time">https://weworkremotely.com/remote-jobs/shake-io-product-manager-part-time</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -171,7 +108,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>68 days ago</text>
+                <text>69 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1" align="right" target="_blank">Apply</a>
@@ -240,7 +177,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>524 days ago</text>
+                <text>525 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -292,142 +229,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1652084/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Movable Ink</h5>
-                    <h3>Principal Product Manager, Data</h3>
-                </td>
-                <td width="300">
-                    <code>marketing,product manager,saas,security</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/principal-product-manager-data-1652084" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class='"content-intro"'>
-<div class='"c-message_kit__gutter"'>
-<div class='"c-message_kit__gutter__right"'>
-<div class='"c-message_kit__blocks'>
-<div class='"c-message__message_blocks'>
-<div class='"p-block_kit_renderer"'>
-<div class='"p-block_kit_renderer__block_wrapper'>
-<div class='"p-rich_text_block"'>
-<div class='"p-rich_text_section"'>Movable Ink scales content personalization for marketers through data-activated content generation and AI decisioning. The world’s most innovative brands rely on Movable Ink to maximize revenue, simplify workflow and boost marketing agility. Headquartered in New York City with close to 600 employees, Movable Ink serves its global client base with operations throughout North America, Central America, Europe, Australia, and Japan.</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<p>As the Principal Product Manager of Data you will have a unique and exciting opportunity to shape the unified schema, feature set and strategy for this area of our product at Movable Ink. This is a highly visible role where you will use your expertise in B2B SaaS and enterprise marketing teams to define product strategy for standard ways to import, transform, and automate how customers use data in our platform and how our platform supports end-to-end enterprise workflows. You will partner with engineering and design to turn that strategy into elegant solution(s), and you will develop strong relationships across the business to help us execute as one team.</p>
-<p><strong>Responsibilities:</strong></p>
-<ul style="">
-<li style="">Own the product vision and strategy; define and plan roadmap with engineering</li>
-<li style="">Inspire and collaborate daily with a design and engineering lead partner</li>
-<li style="">Work within our development process, owning the backlog, to ensure continuous delivery of value against the roadmap you define</li>
-<li style="">Work cross-functionally with partners across the business to define GTM strategy</li>
-<li style="">Define and monitor product KPIs</li>
-<li style="">Be an expert in customer needs and our data capabilities that address those needs</li>
-<li style="">Mentor other Product Managers</li>
-<li style="">Evangelize, influence, and demonstrate product to stakeholders and customers</li>
-</ul>
-<p><strong>Qualifications:</strong></p>
-<ul style="">
-<li style="">8+ years experience in Product Management</li>
-<li style="">Experience in enterprise B2B martech or adtech SaaS</li>
-<li style="">Experience driving roadmap for enterprise data models, platforms and/or data objects</li>
-<li style="">Demonstrated ability to drive through complexity to achieve results</li>
-<li style="">Understanding of security and information security standards and market needs </li>
-<li style="">Experience creating a shared vision and mission through influence</li>
-<li style="">Experience with product strategy definition</li>
-</ul>
-<p>The base pay range for this position is $180,000-$220,000/year, which can include additional on-target commission pay/bonus. The base pay offered may vary depending on job-related knowledge, skills, and experience. Stock options and other incentive pay may be provided as part of the compensation package, in addition to a full range of medical, financial, and/or other benefits, depending on the position ultimately offered.</p>
-<div class='"content-conclusion"'>
-<p>Studies have shown that women, communities of color, and historically underrepresented people are less likely to apply to jobs unless they meet every single qualification. We are committed to building a diverse and inclusive culture where all Inkers can thrive. If you’re excited about the role but don’t meet all of the abovementioned qualifications, we encourage you to apply. Our differences bring a breadth of knowledge and perspectives that makes us collectively stronger.</p>
-<p>We welcome and employ people regardless of race, color, gender identity or expression, religion, genetic information, parental or pregnancy status, national origin, sexual orientation, age, citizenship, marital status, ethnicity, family or marital status, physical and mental ability, political affiliation, disability, Veteran status, or other protected characteristics. We are proud to be an equal opportunity employer.</p>
-</div>
-<img src="https://remotive.com/job/track/1652084/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1652430/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Ghost Security</h5>
-                    <h3>Senior Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>cloud,education,marketing,product manager</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/senior-product-manager-1652430" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><span style="">About Ghost:</span></div>
-<div>At Ghost, we are building a cloud scale security platform for the modern enterprise. Our founding team are veterans of the cyber security industry with decades of experience building teams and products for the most demanding commercial and public sector organizations. Ghost is backed by top tier venture firms and is on a mission to raise the bar of what is possible and what is expected of modern enterprise security tools and platforms. We are a remote-first and globally distributed team. Our philosophy is based on the principles of learning, collaboration, transparency, experimentation, and passion.</div>
-<div> </div>
-<div>•  We are outcome-driven and dedicated</div>
-<div>•  We are customer-obsessed</div>
-<div>•  We believe in people's ability to grow</div>
-<div>•  We believe enterprise software can be beautiful</div>
-<div> </div>
-<div><span style="">About the Role:</span></div>
-<div>The Senior Product Manager will be responsible for overseeing the development and management of Ghost's modern application security platform. This includes defining product strategy and vision, conducting market research and analysis, managing product development and rollout, and working closely with engineering, research, sales, and marketing teams. The Senior Product Manager will also be responsible for driving product growth and profitability, and ensuring that our products meet the evolving needs of our customers.</div>
-<div> </div>
-<div>Ghost is growing fast and the product team is no exception. The role is fully engaged - you will be collaborating with many other teams at Ghost. You'll need to be comfortable collaborating closely with software engineers, designers, and design partner customers to deliver an exceptional user experience for our customers.</div>
-<p><br><br></p>
-<div class="h3">About you</div>
-<ul style="">
-<li style="">Able to define and communicate the product strategy and vision, and ensure that product development efforts align with company goals and objectives</li>
-</ul>
-<ul style="">
-<li style="">Can conduct market research and analysis to identify customer needs and trends, and use this information to inform product development decisions</li>
-</ul>
-<ul style="">
-<li style="">Able to collaborate with engineering, research sales, and marketing teams to define and deliver high-quality products that meet customer needs and exceed their expectations</li>
-</ul>
-<ul style="">
-<li style="">Can manage product development and rollout, including setting timelines and budgets, prioritizing features and resources, and ensuring that products are delivered on time and within scope</li>
-</ul>
-<ul style="">
-<li style="">Able to work closely with engineering teams to ensure that Ghost products are designed and built to be secure, scalable, and performant</li>
-</ul>
-<ul style="">
-<li style="">Can analyze product performance and customer feedback, and use this information to drive product improvements and enhancements</li>
-</ul>
-<div> </div>
-<div><span style="">Benefits:</span></div>
-<div>•  Competitive compensation and stock options</div>
-<div>•  Full health insurance, including vision and dental</div>
-<div>•  Monthly health &amp; wellness allowance for gym, spa, therapy, etc.</div>
-<div>•  Remote first working, with most team members between the Eastern and Pacific time zones</div>
-<div>•  Home office upgrade budget to be sure you have the right tools to do your best work</div>
-<div>•  Learn and Grow - we provide continuing education stipend to attend industry relevant training, conferences, and events that help you build your network and skills</div>
-<div>•  Unlimited PTO - we require employees to take at least 2 weeks off per year</div>
-<div>•  Quarterly off-sites at amazing locations</div>
-<div> </div>
-<div>Ghost is committed to fostering and supporting an inclusive community within our organization. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, or any other characteristic protected by law. Ghost encourages everyone to apply for our available positions, even if they don't necessarily check every box on the job description.</div>
-<img src="https://remotive.com/job/track/1652430/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
