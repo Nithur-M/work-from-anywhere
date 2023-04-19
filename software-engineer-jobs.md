@@ -10,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/onthegosystems-senior-software-engineer-ror-react-python-1" align="right" target="_blank">Apply</a>
@@ -70,7 +70,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chorus-one-golang-software-engineer" align="right" target="_blank">Apply</a>
@@ -188,6 +188,96 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1625286/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Parallel</h5>
+                    <h3>Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>saas,sales,growth,management</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-1625286" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); background: var(--artdeco-reset-base-background-transparent); --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight);"><strong>This job is for (Deckee - </strong><span style="color: #000000;"><span style="letter-spacing: 0.75px;"><strong>https://deckee.com/</strong></span></span><strong>), posted via Parallel. This is a full-time role.</strong></p>
+<p><strong> </strong></p>
+<p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; padding: 0px; line-height: 27px; background-color: #fefcf8; color: #000000;"><span style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; margin: 0px; padding: 0px; font-weight: bolder; line-height: 27px; background-color: transparent !important;">This might be for you if...</span></p>
+<p> </p>
+<ul style="">
+<li style="">You are a strong critical thinker. You can always argue either side of a technical decision because you always approach it from both sides.</li>
+<li style="">You are highly driven. Development isn't so much a job or a career, you see it as a way of life. You have side projects and ideas that you never get enough time to work on.</li>
+<li style="">You have a continuing interest in learning and developing your skills outside the scope of what your paid work offers.</li>
+<li style="">You are highly conscientious about your work, but business value is always the key driver in your approach.</li>
+<li style="">You know that the quality of a job is not the work you perform, but the people you perform it with.</li>
+<li style="">You have strong opinions about your craft and the industry, but you enjoy hearing the point of view of others and you can be easily swayed.</li>
+</ul>
+<p> </p>
+<p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; padding: 0px; line-height: 27px; background-color: #fefcf8; color: #000000;"><span style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; margin: 0px; padding: 0px; font-weight: bolder; line-height: 27px; background-color: transparent !important;">Your responsibilities at Deckee</span></p>
+<p> </p>
+<ul style="">
+<li style="">We are currently experiencing exciting growth and we want you to help us continue to drive this momentum with new features, and enable future features to be delivered faster and cheaper by keeping our technical debt low.</li>
+<li style="">You will report directly and work closely with our Chief Technology Officer, planning and producing new features and updates for our existing app, while also contributing to new, strategic greenfield projects.</li>
+<li style="">Building internal and external facing services.</li>
+<li style="">Planning, execution, and delivery of maximum business value with the team.</li>
+<li style="">Spiking issues to determine the best approach and design. There is no shortage of engineering challenges on our horizon which you'll be responsible for.</li>
+</ul>
+<p> </p>
+<p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; padding: 0px; line-height: 27px; background-color: #fefcf8; color: #000000;"><span style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; margin: 0px; padding: 0px; font-weight: bolder; line-height: 27px; background-color: transparent !important;">Our stack</span></p>
+<p> </p>
+<ul style="">
+<li style="">Our system is a micro-service architecture running on Kubernetes and AWS Lambda backed by AWS S3 and RDS (Postgres) for data storage.</li>
+<li style="">Our services are primarily based on Node 14 and Express JS.</li>
+<li style="">Our DevOps pipeline is a fully automated continuous integration system from commit to rolling incremental deployment.</li>
+<li style="">We use a combination of Helm and our own custom deployment strategies for supporting services.</li>
+<li style="">All services are configured to be highly available through auto-scaling and health checks.</li>
+<li style="">Communication between services is done via both HTTP requests and an AMQP message bus.</li>
+<li style="">Our data lake is stored in AWS S3 and indexed using AWS Glue.</li>
+</ul>
+<p> </p>
+<p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; padding: 0px; line-height: 27px; background-color: #fefcf8; color: #000000;"><span style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; margin: 0px; padding: 0px; font-weight: bolder; line-height: 27px; background-color: transparent !important;">Skill requirements</span></p>
+<p> </p>
+<ul style="">
+<li style="">A natural curiosity for deep diving areas that are outside your expertise with a proven ability to quickly acclimate, learn and utilize new skills when required.</li>
+<li style="">A passion for designing scalable and performant micro-service systems.</li>
+<li style="">An understanding of DevOps principles and/or SRE.</li>
+<li style="">A practical understanding of both the front-end and back-end with a high level of expertise in JS.</li>
+<li style="">With extreme customer focus, every decision you make has its 'true north' or origin based on our end-users.</li>
+<li style="">You write clean and easy-to-understand modular code. You are an advocate for abstractions and understand the importance of producing simple declarative interfaces that expose the functionality of your well-written imperative code.</li>
+<li style="">You have knowledge of Docker and the Linux command line. Everything we do is containerized.</li>
+<li style="">You have all the basics of generally accepted programming good practice - you can rebase a branch in git, perform scripting, linting, writing tests, etc.</li>
+<li style="">Front-end libraries such as React and Redux.</li>
+</ul>
+<p> </p>
+<p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; padding: 0px; line-height: 27px; background-color: #fefcf8; color: #000000;"><span style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; margin: 0px; padding: 0px; font-weight: bolder; line-height: 27px; background-color: transparent !important;">Bonuses</span></p>
+<p> </p>
+<ul style="">
+<li style="">Some experience or exposure to creating and launching services on Kubernetes. Further knowledge of the Kubernetes API such as Cron Jobs, RBAC, experience with ingress-nginx as well as the use of Custom Resources such as cert-manager is an additional bonus.</li>
+<li style="">Exposure to AWS.</li>
+<li style="">Any Geospatial experience or designing and building ETL systems and integrations.</li>
+<li style="">Databases such as Elasticsearch, MySQL, and Mongo.</li>
+<li style="">Experience with any of the other technologies in our stack: Cordova, GraphQL, Nginx, Lets Encrypt, Cloudflare, Strapi, AMQP, Postman, and Webpack.</li>
+</ul>
+<p> </p>
+<p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; padding: 0px; line-height: 27px; background-color: #fefcf8; color: #000000;"><span style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; margin: 0px; padding: 0px; font-weight: bolder; line-height: 27px; background-color: transparent !important;">What’s on offer</span></p>
+<p> </p>
+<ul style="">
+<li style="">A salary is negotiable based on experience. Equity options are also available.</li>
+<li style="">The opportunity to have an ownership share in the company, which has the potential to significantly increase in value in the future.</li>
+<li style="">Remuneration includes the lifestyle benefits of working in a location-agnostic, remote role. However, we do have an awesome, laidback office in Newcastle with plenty of space for you.</li>
+</ul>
+<img src="https://remotive.com/job/track/1625286/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1653911/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -198,7 +288,7 @@
                     <code>api,backend,cloud,developer</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1653911" align="right" target="_blank">Apply</a>
@@ -429,6 +519,30 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1306325743580848130/mk0qvsZ9_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Kraken</h5>
+                    <h3>Software Engineer - C++</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/kraken/807b4bf0-1488-47b5-bfe0-5ff2a5e42778" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div><b><span style="font-size: 18pt">Building the Internet of Money&nbsp;</span></b></div><div><br></div><div><span style="font-size: 10.5pt">Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</span></div><div><br></div><div><span style="font-size: 10.5pt">What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the adoption of cryptocurrency so the world can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Before you apply, please read the </span><a href="https://kraken-culture.notion.site/" style="font-size: 10.5pt" class="postings-link">Kraken Culture Explained</a><span style="font-size: 10.5pt"> to learn more about our internal culture, values, and mission.</span></div><div><br></div><div><span style="font-size: 10.5pt">As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who have a long track record of building premium products for professionals and institutions as well as newcomers to the space. Kraken is committed to industry-leading security through our products like </span><a href="https://pro.kraken.com/" style="font-size: 10.5pt" class="postings-link">Kraken Pro</a><span style="font-size: 10.5pt">, </span><a href="https://www.kraken.com/en-us/nft" style="font-size: 10.5pt" class="postings-link">Kraken NFT</a><span style="font-size: 10.5pt">, and </span><a href="https://cryptowat.ch/" style="font-size: 10.5pt" class="postings-link">Cryptowatch</a><span style="font-size: 10.5pt">, with a focus on world-class customer support and </span><a href="https://www.kraken.com/learn" style="font-size: 10.5pt" class="postings-link">crypto education</a><span style="font-size: 10.5pt"> for all.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Become a Krakenite and build the internet of money!</span></div><div><br></div><div><span style="font-size: 11pt">The Trading Technology team is responsible for building and maintaining the backend trading services for Kraken, this includes the matching engine, market data gateways, internal and external APIs, and various other trading <a href="http://services.There">services.There</a> are a number of sub-teams on the Trading Technologies team, working with various tech stacks, and on various trading products. Our teams code in C++, Go, Rust, and Python, depending on the product they are contributing to within Kraken</span></div></div><div class="section page-centered"><div><h3>Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Develop and maintain core framework and key software components for the Kraken trading engine</li><li>Build and design solutions that mitigate risk, implement security, and protect both systems and data</li><li>Improve site performance by designing and implementing low-latency and high-availability applications</li><li>Construct dynamically scalable platforms capable of heavy transaction volume</li><li>Write reusable, testable, and efficient code</li><li>Collaborate with cross-functional teams and contribute to product roadmap accomplishment</li></ul></ul></div></div><div class="section page-centered"><div><h3>Requirements</h3><ul class="posting-requirements plain-list"><ul><li>Prior experience in at least one of the following using Linux - distributed and/or highly-concurrent systems; low-latency and/or high-volume transaction environments</li><li>3+ years experience working with C++</li><li>High level of proficiency in Python, Java, and SQL strongly preferred</li><li>Demonstrated knowledge of advanced order types, trading systems, and financial productsExperience engineering for cloud systems (AWS, Google and/or Microsoft)</li><li>Cryptocurrency/Blockchain familiarity highly preferable</li><li>Proactive mindset with the ability to both prioritise tasks and adhere to aggressive deadlines</li><li>Work collaboratively on a distributed team leveraging soft skills to effectively communicate and engage with stakeholders</li><li>BS in a technical or quantitative field</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 10.5pt">Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</span></div><div><br></div><div><span style="font-size: 10.5pt">As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</span></div><div><br></div><div><b><span style="font-size: 13.5pt">Stay in the know</span></b></div><div><br></div><div><a href="https://twitter.com/krakenfx" style="font-size: 10.5pt" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" style="font-size: 10.5pt" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" style="font-size: 10.5pt" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/807b4bf0-1488-47b5-bfe0-5ff2a5e42778/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/378800000147745937/0fac42c12b433bbbd53ff3e15cd6fca4_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -650,6 +764,86 @@
 <p><strong>Compensation</strong></p>
 <p>The expected compensation range for this role is $65,000 - $80,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process. We are happy to pay in any mix of fiat/crypto).&nbsp;</p>
 <p>&nbsp;</p>
+
+    
+
+    
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://media.licdn.com/dms/image/D4E0BAQGvUyfPVBWDyg/company-logo_200_200/0/1657595552015?e=2147483647&v=beta&t=EecsDCOy3Fh_26M1noQDDIYw8-JuGKz_d1JDvcBZ-yI" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Bobtail</h5>
+                    <h3>Software Engineer - Mobile (Flutter)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/bobtail/jobs/4008379005" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    
+
+    <h2><span style="font-weight: 400;">About Bobtail</span></h2>
+<p><span style="font-weight: 400;">Bobtail is dedicated to increasing happiness by eliminating inefficiencies in the supply chain.&nbsp; We envision a supply chain without friction, fraud, waste, and abuse where companies succeed based on the value they create.&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">We work in a unique way at Bobtail, where we value teams over individuals and encourage experimentation and iteration to constantly improve.&nbsp; Teams are given flexibility in working towards a shared purpose and given the freedom to decide how they will accomplish their goals.&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">If you are an out of the box thinker that takes a proactive approach in collaborating with others to solve problems and achieve your goals - we would love to talk to you.&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">The things we value:</span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mission</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Teams over individuals</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Collaboration</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Communication</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Iteration</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experimentation and failing fast</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Initiative and solutions oriented approach</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Documentation</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Data</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mental health and work life balance</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Diversity</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Transparency</span></li>
+</ol>
+<h2><span style="font-weight: 400;">You should apply if you have:</span></h2>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Computer Science or similar Software Engineering degree.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Proficiency in the English language, both written and verbal, sufficient for success in a remote and largely asynchronous work environment</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Highly effective collaboration, you work well with your team and your partners in product and design towards common goals</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Thrive in remote work environments - can accomplish a lot with minimal guidance but know when to reach out to support others or ask for help.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with either Flutter, iOS, or Android</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">5+ years of experience in software engineering with demonstrated proficiency in programming languages, such as and system design.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Strong theoretical fundamentals and hands-on experience designing and implementing highly available and performant fault-tolerant distributed systems.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have strong opinions about your design and coding principles.&nbsp; Don’t require hand holding and flourish in an independent environment.&nbsp;&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with credit card processing and payments applications</span></li>
+</ul>
+<h2><span style="font-weight: 400;">You will be responsible for:</span></h2>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Contribution to design and development of enterprise scale flutter application</span></li>
+<li><span style="font-weight: 400;">Debugging production level issues throughout the application</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Developing features and improvements to the Bobtail product in a secure, well-tested, and performant way</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Shipping large sized features and improvements with minimal guidance and support from other team members as well as collaborating with the team on larger projects</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Solve complex problems with smart people</span></li>
+</ul>
+<h2><span style="font-weight: 400;">Benefits</span></h2>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Monthly Mental Break Day</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Paid Time Off</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Work from home (or wherever)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Parental leave</span><span style="font-weight: 400;"><br><br></span></li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Creating a diverse and inclusive workplace is Bobtail’s nucleus. We are an equal opportunity employer and embrace people of different backgrounds, cultures, religions, national origins, races, colors, genders, gender expressions, sexual orientations, ages, marital status, veteran status, experiences, abilities and perspective</span><span style="font-weight: 400;">s.</span><span style="font-weight: 400;"> </span><span style="font-weight: 400;"><br><br></span></p>
+<p><br><br></p>
 
     
 
