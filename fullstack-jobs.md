@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/timezest-senior-fullstack-engineer-ruby-rails" align="right" target="_blank">Apply</a>
@@ -62,7 +62,7 @@
                     <code>backend,C,C++,cloud</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-ios-engineer-1641607" align="right" target="_blank">Apply</a>
