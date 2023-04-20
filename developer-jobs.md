@@ -1,60 +1,5 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/1988/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Internet Projects Ltd</h5>
-                    <h3> Senior Symfony PHP Full Stack Developer - Remote & Full Time</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/internet-projects-ltd-senior-symfony-php-full-stack-developer-remote-full-time" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0084/1988/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> London, England, United Kingdom
-    <br /><strong>URL:</strong> <a href="https://www.internetprojects.com/">https://www.internetprojects.com/</a>
-</p>
-
-<p>Internet Projects Ltd is a UK-based developer and operator of high traffic, real time data websites with a strong focus on creating &amp; serving Search Engine Optimized web pages.</p>
-<p>Our current projects include:</p>
-<p>Airportia: one of the world's leading flight tracker websites <a href="https://www.airportia.com/" class="external">https://www.airportia.com/</a><br>Scorebar: one of the world's fastest football/soccer livescore services <a href="https://www.scorebar.com/" class="external">https://www.scorebar.com/</a></p>
-<p>We are looking for Symfony backend/frontend developers to increase our team's velocity. 3 years of experience as a minimum with Symfony. We give great importance to solid OOP foundations.</p>
-<p>This is a full-time, remote, permanent job position with a monthly salary in the $3000 per month range. We like to work with our Developers long term and full time, grow together and reward loyalty with regular salary revisits.</p>
-<p>You will be developing back end and front end technologies to manage, develop and track the performance of high traffic web properties.</p>
-<p>Our stack:<br>- Symfony and Yii2<br>- Doctrine ORM, Twig, CSS, HTML, Vanilla JS, Websockets, VueJS/NuxtJS<br>- Mysql and Postgresql<br>- Github<br>- Docker, Jenkins<br>- ChatGPT API, OpenAI GPT3 API<br>- Project Management: Kanban, Github Projects &amp; Telegram<br>- Quality Management: Unit/Browser tests, QA, code reviews</p>
-<p><strong>Requirements</strong></p>
-<p>3 years of experience as a minimum with Symfony or Yii2 or Laravel. Good communication skills. You should be available at least 40h per week (9am/10am to 5pm/6pm on weekdays) and participate in 10 min daily calls.</p>
-<p>Our stack:<br></p>
-<p>- Symfony and Yii2</p>
-<p>- Doctrine ORM, Twig, CSS, HTML, Vanilla JS, Websockets, VueJS/NuxtJS</p>
-<p>- Mysql and Postgresql</p>
-<p>- Github</p>
-<p>- Docker, Jenkins</p>
-<p>- OpenAI API</p>
-<p>- Project Management: Kanban, Github Projects &amp; Telegram</p>
-<p>- Quality Management: Unit/Browser tests, QA, code reviews</p>
-<p><strong>Benefits</strong></p>
-<p>- Competitive compensation</p>
-<p>- Global, dynamic team</p>
-<p>- Growth path rewarding performance and loyalty</p>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/internet-projects-ltd-senior-symfony-php-full-stack-developer-remote-full-time">https://weworkremotely.com/remote-jobs/internet-projects-ltd-senior-symfony-php-full-stack-developer-remote-full-time</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/1947/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -65,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/planning-center-full-stack-developer-2" align="right" target="_blank">Apply</a>
@@ -146,7 +91,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-wordpress-developer" align="right" target="_blank">Apply</a>
@@ -220,7 +165,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/vexxhost-inc-developpeur-e-de-kubernetes-ansible-kubernetes-ansible-developer-1" align="right" target="_blank">Apply</a>
@@ -254,7 +199,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clutchy-senior-front-end-full-stack-developer" align="right" target="_blank">Apply</a>
@@ -333,58 +278,6 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Tech22</h5>
-                    <h3> Frontend Developer (Angular)</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>19 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/tech22-frontend-developer-angular" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> UK
-</p>
-
-<div><strong>About Tech22</strong></div><div> </div><div>Welcome to Tech22, a platform development company that services iGaming brands, run by a management team with decades of experience in the industry. We are proud to have one successful brand already online and are excited to be launching our second brand shortly.</div><div> </div><div>At Tech22, we are committed to providing our client's players with the best gaming experience possible. Our team of experts works tirelessly to deliver a top-notch platform experience, integrate secure payment options, and excellent games.</div><div> </div><div>As part of a wider group with a base of 50 million users, we have aggressive plans for growth and are constantly expanding our portfolio of services to better serve our customers. We believe in fostering a culture of innovation, creativity, and collaboration, and are always on the lookout for talented individuals who share our passion for gaming and our commitment to excellence.</div><div> </div><div>If you're interested in joining our dynamic team and contributing to our mission of delivering world-class gaming experiences, we encourage you to explore our current job openings and submit your application today.</div><div> </div><div><strong>Frontend Developer (Angular)<br><br>Location: Remote</strong></div><div><br></div><div>We are seeking an Angular Developer to join our team. The ideal candidate will have experience with Angular, PrimeNG, and will be responsible for developing and maintaining our web applications.</div><div><br></div><div>Responsibilities:</div><ul>
-<li>Work with the team to design, develop, and maintain our platform back office using Angular and PrimeNG.</li>
-<li>Write high-quality, scalable, and maintainable code.</li>
-<li>Participate in code reviews and ensure that best practices are followed.</li>
-<li>Collaborate with designers, developers, and project managers to develop effective solutions to business problems.</li>
-<li>Develop and maintain documentation related to your work.</li>
-</ul><div>Requirements:</div><ul>
-<li>At least 3 years of experience with Angular.</li>
-<li>Strong knowledge of TypeScript, HTML, CSS, and JavaScript.</li>
-<li>Experience with RESTful APIs and the ability to consume and work with them.</li>
-<li>Strong knowledge of software development best practices, design patterns, and testing methodologies.</li>
-<li>Experience working in an Agile environment.</li>
-<li>Excellent communication and problem-solving skills.</li>
-<li>Ability to work independently and in a team environment.</li>
-<li>Bachelor's degree in Computer Science or a related field.</li>
-</ul><div>Nice to have:</div><ul>
-<li>Experience with PrimeNG.</li>
-<li>Experience with back-end technologies such as Java/Kotlin.</li>
-<li>Experience with cloud services (AWS, Azure, etc.)</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tech22-frontend-developer-angular">https://weworkremotely.com/remote-jobs/tech22-frontend-developer-angular</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
                     <h5>MailerLite</h5>
                     <h3> PHP Integration Developer</h3>
                 </td>
@@ -392,7 +285,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/mailerlite-php-integration-developer" align="right" target="_blank">Apply</a>
@@ -504,7 +397,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>92 days ago</text>
+                <text>93 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-vue-js-developer" align="right" target="_blank">Apply</a>
@@ -565,6 +458,68 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
+                    <h5>XM</h5>
+                    <h3> Senior PHP Web Developers– Cyprus, Greece or Remote</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>120 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Cyprus, Greece or Remote
+    <br /><strong>URL:</strong> <a href="https://xm.com">https://xm.com</a>
+</p>
+
+<div>
+<strong>Reference Number: SPHPWD1021<br></strong><br>
+</div><div>
+<strong> <br></strong><br>
+</div><div>
+<strong>The role:<br></strong><br>
+</div><div>As our new Senior PHP Developer, you will join an amazing team who is dedicated to taking the next step in software engineering. You will make key decisions on software processes, and use Kubernetes and Terraform on PHP, Go, React &amp; Angular on AWS. The team will keep you up-to-date with the latest technology stacks and processes and help you see challenging projects from beginning to end.<br><br>
+</div><div> <br><br>
+</div><div>
+<strong>The main responsibilities of the role include:<br></strong><br>
+</div><div>●        Design and implement new features/projects</div><div>●        Maintain and refactor existing web applications such as the company's website, registration forms, Members Area and internal web services</div><div>●        Research and integrate new web technologies</div><div>●        Write tests that will run on a continuous integration server 24/7 to ensure code testability, code coverage and quality conforms to the company’s highest standards</div><div>●        Resolve support tickets for IT related issues</div><div>
+<strong> <br></strong><br>
+</div><div>
+<strong>Main requirements:<br></strong><br>
+</div><div>●        BSc/MSc in information technology or any other relevant degree</div><div>●        At least 3 years of experience in a similar position</div><div>●        Very good knowledge of PHP 7+, MySQL, Redis, Git</div><div>●        Very good understanding of object-oriented programming principles</div><div>●        Experience in creating and consuming web services</div><div>●        Experience with modern PHP frameworks</div><div>●        Experience in writing tests with PHPUnit</div><div>●        Ability to research and adapt new web technologies that add value to the team</div><div>●        Strong organisational skills with the ability to multitask and prioritise</div><div>●        Problem solving and analytical skills</div><div>●        Ability to work independently and integrate well within a team</div><div>
+<strong> <br></strong><br>
+</div><div>
+<strong>The following will be considered an advantage:<br></strong><br>
+</div><div>●        Experience in Symfony framework</div><div>●        Experience in the development of REST APIs</div><div>●        Experience in software development practices like design patterns, SOLID principles, DRY</div><div>●        Very good understanding of security practices (OWASP)</div><div>●        Experience with cloud providers (e.g. AWS)</div><div>●        Experience in database query optimization</div><div>●        Experience in creating composer packages</div><div>●        Experience in front-end frameworks or libraries like Angular or React</div><div>
+<strong> <br></strong><br>
+</div><div>
+<strong>Benefit from:<br></strong><br>
+</div><div>●        Attractive remuneration package </div><div>●        Private health insurance</div><div>●        Food allowance</div><div>●        Intellectually stimulating work environment</div><div>●        Continuous personal development and international training opportunities</div><div> </div><div>
+<br>Type of employment: Full time<br><br>
+</div><div>
+<br>Location: Cyprus, Greece or Remote <br><br>
+</div><div>
+<br> <br><br>
+</div><div>Please visit our website <a href="http://www.xm.com/careers">www.xm.com/careers</a> to submit your online application for this position. </div><div> </div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1">https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
                     <h5>Proxify AB</h5>
                     <h3> Senior Golang Developer</h3>
                 </td>
@@ -572,7 +527,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>152 days ago</text>
+                <text>153 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-golang-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -627,57 +582,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6989/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>ProjectDiscovery.io</h5>
-                    <h3> Senior Back End Developer (Golang)</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>217 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/6989/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> San Francisco
-    <br /><strong>URL:</strong> <a href="https://projectdiscovery.io">https://projectdiscovery.io</a>
-</p>
-
-<div>ProjectDiscovery is an open-source cyber-security company that builds a range of softwares for security engineers and developers. Our user base is among the largest in the InfoSec community, and we are used by top internet companies’ security and developer teams, including Fastly, Microsoft, CloudFlare, Gitlab, Facebook, IBM, and many others.</div><div><br></div><div>We are well funded and just recently raised $25M in our Series A. Backed by current/former CXOs from companies like Fastly, Databricks, Google, Twitter, HashiCorp, RedHat.</div><div><br></div><div>→ github.com/projectdiscovery</div><div><br></div><div>
-<br>You're a backend engineer with 6+ years of software experience. You're ready to be an individual contributor, design and build sophisticated systems quickly, and collaborate in a fast-paced environment.</div><div><br></div><div>You are a product-focused engineer that takes just as much pride in the user experience of your product as you do the performance.</div><div>
-<br><strong>Requirements:</strong>
-</div><ul>
-<li>6+ years of experience as a backend developer, with at least 3+ years of experience working with GO language.</li>
-<li>Strong knowledge of working with Go paradigms and best practices</li>
-<li>Good knowledge of concurrency in Go - goroutines, channel patterns, Go ecosystem, and tools available</li>
-<li>Worked on or have an understanding of various frameworks in Go</li>
-<li>Ability to dissect and recommend best tools for the job</li>
-<li>Worked with microservices architecture and patterns, DevOps, and continuous delivery.</li>
-<li>Experience building APIs with gRPC or REST</li>
-<li>Some experience with deployment processes including knowledge of Kubernetes and Docker.</li>
-<li>Strong knowledge of PostgreSQL / MySQL</li>
-</ul><div><br></div><div><strong>What will you work on:</strong></div><ul>
-<li>Here is our work: https://github.com/projectdiscovery you are directly going to be involved in many of these open-source projects. 90%+ code base is written in Go.</li>
-<li>Developing high-volume, low-latency applications for large systems and coping with the challenges of working in a distributed and highly concurrent environment.</li>
-<li>You will also be coding new features and have an active role in the defining the backend architecture, which includes designing microservices and researching new alternatives and technologies.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang">https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -688,7 +592,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>219 days ago</text>
+                <text>220 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -762,7 +666,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>240 days ago</text>
+                <text>241 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/socialhub-backend-javascript-node-js-developer-remote-saas-m-f-d-2" align="right" target="_blank">Apply</a>
@@ -852,7 +756,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>240 days ago</text>
+                <text>241 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/socialhub-reactjs-web-developer-remote-saas-m-f-d-1" align="right" target="_blank">Apply</a>
@@ -964,7 +868,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -1033,7 +937,7 @@
                     <code>amazon,AWS,backend,developer</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-python-developer-and-aws-manager-1656870" align="right" target="_blank">Apply</a>
@@ -1079,7 +983,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -1156,7 +1060,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -1293,7 +1197,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1370,7 +1274,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1514,7 +1418,7 @@
                     <code>developer,seo,social media,ai</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/ai-application-developer-creator-1632115" align="right" target="_blank">Apply</a>
@@ -1932,6 +1836,111 @@
                 </td>
                 <td width="300">
                     <h5>Status</h5>
+                    <h3>Senior React Native UI Developer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=3694380&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <div id="external-jobs-show-description" class="external-panel__trix-content external-panel__trix-content--colored external-panel__trix-content--lead-in">
+<div data-react-class="external/careersPage/RenderPlyrVideo" data-react-props="{&quot;htmlString&quot;:&quot;\u003cdiv\u003eWe're growing our mobile development team. Join us in building a fully decentralized, censorship resistant, privacy first group chat platform that leverages the Ethereum blockchain to enable individuals and groups worldwide to communicate and transact with one another freely without restriction.\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003eStatus is looking for an UI Engineer to join our mobile development team who will work closely with Design to transform UI specifications into beautiful, smooth, performant and near pixel perfect interactive interfaces. The ideal person will be comfortable working on features end-to-end\u003ca href=\&quot;https://github.com/status-im/status-go\&quot;\u003e,\u003c/a\u003e has an eye for design and visual detail, enjoys working with designers as well as developers, and who can transform reused UI patterns such as list items into reusable UI components.&nbsp; The ideal candidate will love finessing UI implementations to the highest levels of quality and will care deeply about things like code cleanliness, reusability, maintainability, performance, and UI layout accuracy - as well as doing whatever needed to create a best-in-class user experience for Status’s users.\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003eWillingness to both learn and share your knowledge with others, product-orientation, and making sure all team members are aligned when developing new features, will make you successful in the role. Status is a fast-paced, flat organization, working on cutting edge blockchain and decentralized messaging technologies in a dynamic landscape. We look forward to meeting you!\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e&quot;}" data-react-cache-id="external/careersPage/RenderPlyrVideo-0">
+<div>
+<h3><strong>About Status</strong></h3>
+<p><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 100+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p>
+<h3><strong>The role</strong>&nbsp;</h3>
+<div>We're growing our mobile development team. Join us in building a fully decentralized, censorship resistant, privacy first group chat platform that leverages the Ethereum blockchain to enable individuals and groups worldwide to communicate and transact with one another freely without restriction.<br><br></div>
+<div>Status is looking for an UI Engineer to join our mobile development team who will work closely with Design to transform UI specifications into beautiful, smooth, performant and near pixel perfect interactive interfaces. The ideal person will be comfortable working on features end-to-end<a href="https://github.com/status-im/status-go">,</a>&nbsp;has an eye for design and visual detail, enjoys working with designers as well as developers, and who can transform reused UI patterns such as list items into reusable UI components.&nbsp; The ideal candidate will love finessing UI implementations to the highest levels of quality and will care deeply about things like code cleanliness, reusability, maintainability, performance, and UI layout accuracy - as well as doing whatever needed to create a best-in-class user experience for Status’s users.<br><br></div>
+<div>Willingness to both learn and share your knowledge with others, product-orientation, and making sure all team members are aligned when developing new features, will make you successful in the role. Status is a fast-paced, flat organization, working on cutting edge blockchain and decentralized messaging technologies in a dynamic landscape. We look forward to meeting you!</div>
+</div>
+</div>
+</div>
+<h3 id="responsibilities-heading" class="external-panel__heading">What we ask from you</h3>
+<div id="responsibilities-body" class="external-panel__trix-content external-panel__trix-content--colored">
+<div data-react-class="external/careersPage/RenderPlyrVideo" data-react-props="{&quot;htmlString&quot;:&quot;\u003cul\u003e\n\u003cli\u003eImplement new features end to end.&nbsp;\u003c/li\u003e\n\u003cli\u003eCollaborate closely with the Design team around both the designs and the implementation of the designs.\u003c/li\u003e\n\u003cli\u003eCraft eye catching UIs and propose improvements to our code base.\u003c/li\u003e\n\u003cli\u003eSense checking with team and prioritizing work from our backlog.\u003c/li\u003e\n\u003c/ul\u003e&quot;}" data-react-cache-id="external/careersPage/RenderPlyrVideo-0">
+<div>
+<ul>
+<li>Implement new features end to end.&nbsp;</li>
+<li>Collaborate closely with the Design team around both the designs and the implementation of the designs.</li>
+<li>Craft eye catching UIs and propose improvements to our code base.</li>
+<li>Sense checking with team and prioritizing work from our backlog.</li>
+</ul>
+</div>
+</div>
+</div>
+<h3 id="skills-heading" class="external-panel__heading">What you bring</h3>
+<div id="skills-body" class="external-panel__trix-content external-panel__trix-content--colored">
+<div data-react-class="external/careersPage/RenderPlyrVideo" data-react-props="{&quot;htmlString&quot;:&quot;\u003cul\u003e\n\u003cli\u003eExperience implementing first class mobile user interfaces.\u003c/li\u003e\n\u003cli\u003eEye for detail; point us to completed implementation work.\u003c/li\u003e\n\u003cli\u003eExperience with native React Native UI development.&nbsp;\u003c/li\u003e\n\u003cli\u003e3+ years of experience working on complex mobile applications.\u003cbr\u003e\u003cbr\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\u003cdiv\u003e\u003cstrong\u003eBonus points if you have\u003c/strong\u003e\u003c/div\u003e\u003cul\u003e\n\u003cli\u003eExperience with native Android UI development.\u003c/li\u003e\n\u003cli\u003eExperience with native iOS UI development.\u003c/li\u003e\n\u003cli\u003eStrong experience with CSS and CSS Flexbox Layout.\u003c/li\u003e\n\u003cli\u003eSome experience with any of the following programming languages: Go, Clojure, ClojureScript, Java in Android development, Objective C, Kotlin, Swift.\u003c/li\u003e\n\u003cli\u003eExposure to designing structured UI components and libraries.&nbsp;\u003c/li\u003e\n\u003cli\u003eAn interest in decentralization and blockchains.\u003c/li\u003e\n\u003c/ul\u003e&quot;}" data-react-cache-id="external/careersPage/RenderPlyrVideo-0">
+<ul>
+<li>Experience implementing first class mobile user interfaces.</li>
+<li>Eye for detail; point us to completed implementation work.</li>
+<li>Experience with native React Native UI development.&nbsp;</li>
+<li>3+ years of experience working on complex mobile applications.</li>
+<li>Prior experience <strong>or</strong> enthusiasm to learn Clojure / Clojurescript is a must have!</li>
+</ul>
+<h3>Bonus points if you have</h3>
+<ul>
+<li>Experience with native Android UI development.</li>
+<li>Experience with native iOS UI development.</li>
+<li>Strong experience with CSS and CSS Flexbox Layout.</li>
+<li>Some experience with any of the following programming languages: Go, Clojure, ClojureScript, Java in Android development, Objective C, Kotlin, Swift.</li>
+<li>Exposure to designing structured UI components and libraries.&nbsp;</li>
+<li>An interest in decentralization and blockchains.</li>
+</ul>
+<h3><strong>Compensation</strong></h3>
+<p><span style="font-weight: 400;">We are happy to pay in either 100% fiat or any mix of fiat and/or crypto. For more information regarding benefits at Status: </span><a href="https://people-ops.status.im/tag/perks/"><span style="font-weight: 400;">https://people-ops.status.im/tag/perks/</span></a></p>
+</div>
+</div>
+<h3 id="benefits-heading" class="external-panel__heading">Something about us</h3>
+<div id="benefits-body" class="external-panel__trix-content external-panel__trix-content--colored">
+<div data-react-class="external/careersPage/RenderPlyrVideo" data-react-props="{&quot;htmlString&quot;:&quot;\u003cdiv\u003eWe care deeply about open source software, and our organizational structure does away with a strict hierarchy and fixed work hours. We believe in working with a high degree of autonomy while supporting the organisation's priorities.\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cul\u003e\n\u003cli\u003eWe are Remote and Decentralized.\u003c/li\u003e\n\u003cli\u003eWe are 70+ employees spread across 30+ different countries\u003c/li\u003e\n\u003cli\u003eWe are driven by shared \u003ca href=\&quot;https://our.status.im/our-principles/\&quot;\u003eprinciples\u003c/a\u003e and believe in complete transparency. That's why everything we do is completely public to the entire community. You can view our \u003ca href=\&quot;https://github.com/status-im/\&quot;\u003edevelopment\u003c/a\u003e, \u003ca href=\&quot;https://www.youtube.com/channel/UCFzdJTUdzqyX4e9dOW7UpPQ\&quot;\u003eTown Halls\u003c/a\u003e, and \u003ca href=\&quot;https://discuss.status.im/\&quot;\u003econversations\u003c/a\u003e.\u003c/li\u003e\n\u003c/ul\u003e\u003cdiv\u003e\n\u003cbr\u003eWant to know more? You can follow along on \u003ca href=\&quot;https://our.status.im/\&quot;\u003eOur Status\u003c/a\u003e.\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003e\u003cstrong\u003e\u003cem\u003e\u003cbr\u003eOur community comes from all walks of life and so do we. We work with great people from a wide variety of backgrounds, not just because it’s the right thing to do, but because it makes our project stronger. If you share our values, you will be right at home.\u003c/em\u003e\u003c/strong\u003e\u003c/div\u003e&quot;}" data-react-cache-id="external/careersPage/RenderPlyrVideo-0">
+<div>We care deeply about open source software, and our organizational structure does away with a strict hierarchy and fixed work hours. We believe in working with a high degree of autonomy while supporting the organisation's priorities.</div>
+<ul>
+<li>We are Remote and Decentralized.</li>
+<li>We are 150+ employees spread across 30+ different countries</li>
+<li>We are driven by shared&nbsp;<a href="https://our.status.im/our-principles/">principles</a>&nbsp;and believe in complete transparency. That's why everything we do is completely public to the entire community. You can view our&nbsp;<a href="https://github.com/status-im/">development</a>,&nbsp;<a href="https://www.youtube.com/channel/UCFzdJTUdzqyX4e9dOW7UpPQ">Town Halls</a>, and&nbsp;<a href="https://discuss.status.im/">conversations</a>.</li>
+</ul>
+<div><strong><em><br>Our community comes from all walks of life and so do we. We work with great people from a wide variety of backgrounds, not just because it’s the right thing to do, but because it makes our project stronger. If you share our values, you will be right at home.</em></strong></div>
+</div>
+</div>
+<div id="about-body" class="external-panel__trix-content external-panel__trix-content--colored">
+<div><br>Follow along on&nbsp;<a href="https://our.status.im/">Our Status</a>.&nbsp;</div>
+</div>
+
+    
+
+    
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
                     <h3>Senior Rust Developer </h3>
                 </td>
                 <td width="300">
@@ -2097,6 +2106,96 @@
     
 
     
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1569586501335359494/4rq0Hb99_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Appwrite</h5>
+                    <h3>Developer Advocate (YouTube & Developer Education focused) - Europe</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://careers.appwrite.io/developer-advocate-youtube-developer-education-focused-europe" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+<aside class="mask" style="opacity: 1;"></aside><div class="body" data-columns="1"><div class="article" data-medium-editor-element="" style=";">
+<h1>About the job</h1>
+<p>Appwrite is seeking a passionate and versatile Developer Advocate to focus on the growth of our YouTube channel and creating Appwrite how-to videos. Your primary role will be to develop and execute our video content strategy while also contributing to the overall growth of our developer community. This position is open for candidates located in Europe. Knowledge of Flutter is a big plus but not required. Although travel is optional, you should be open to attending a few in-person company gatherings and events, with up to 25% travel. If you enjoy working with a fast-moving, fast-growing startup and being part of a fun, collaborative, and diverse team, this is the perfect opportunity for you!</p>
+<p>The Developer Relations team at Appwrite operates as an independent department and is currently a team of 6 individuals and growing. Our Founder and a significant part of our company are deeply involved in developer communities. We believe Developer Relations is an important part of our organization and are highly valued and understood by leadership and throughout our organization. We understand and appreciate the impact of the DevRel role on our success and strive to create an environment where you feel supported and empowered. Communication and transparency are our core values, and we developer experience and collaborate to integrate developer feedback into our work.</p>
+</div></div>
+<style>
+                @media only screen and (max-width: 767px) {
+                    #block-1 {
+                        padding-top: 25px !important; padding-bottom: 25px !important;
+                    }
+                }
+                </style>
+
+<aside class="mask" style="opacity: 1;"></aside><div class="body" data-columns="1"><div class="article" data-medium-editor-element="" style=";">
+<h1>Responsibilities</h1>
+<ul>
+<li><p>YouTube Channel Growth: Strategize and execute plans to grow our YouTube channel, focusing on creating engaging video content related to Appwrite how-tos and other developer topics.</p></li>
+<li><p>Content Creation: Develop high-quality video content, blog posts, presentations, live streams, and more to educate developers and promote Appwrite.<br></p></li>
+<li><p>Community Engagement: Attend, speak, and sponsor in-person and virtual events to connect with various developer communities.<br></p></li>
+<li><p>Advocate: Represent Appwrite as a thought leader in different communities, advocate for Appwrite's community internally, and promote Appwrite externally.</p></li>
+<li><p>Partnerships: Collaborate with Integrations Engineers to identify and establish potential partnerships for collaboration/integration projects, ensuring a smooth handoff of responsibilities for code development and cross-marketing opportunities.<br></p></li>
+<li><p>Internal Advocacy: Act as the voice of the developer within the company, ensuring that product, engineering, and marketing teams understand and address the needs and concerns of the developer community.</p></li>
+<li><p><span>Marketing Collaboration: Work closely with the marketing team to ensure content is shared and promoted through our social calendar.</span></p></li>
+<li><p><span>Developer Feedback: Gather and analyze developer feedback, sharing insights with the Engineering teams to improve our product and services.<br></span></p></li>
+</ul>
+<h1>Requirements</h1>
+<div><ul>
+<li>Located in Europe.</li>
+<li>Experience with Open Source communities and projects.</li>
+<li>Proficiency in at least two programming languages and/or frameworks, such as Node, Vue, PHP, Dart, Swift, Flutter, etc.</li>
+<li>Passion for teaching developers how to build cool stuff.</li>
+<li>Basic understanding of developer experience and funneling feedback from developers to internal teams.</li>
+<li>Demonstrated track record of creating quality technical video content.</li>
+<li>Willingness to travel up to 25% (optional).</li>
+<li>Ability to work with a diverse, globally-located company and team, collaborating across different time zones.</li>
+<li>Thrives in a fast-paced startup environment, demonstrating adaptability, resilience, and a strong work ethic.</li>
+</ul></div>
+<p><br></p>
+<h1>Benefits</h1>
+<p>🏠 <b>100% Remote</b></p>
+<p>Our entire company is distributed, so we take remote work seriously. If you’d rather not work from home, we will cover the cost of a coworking or office space.</p>
+<p>📈 <b>Stock Options</b></p>
+<p>Get generous stock options for a company that is growing blazing fast and is backed by top VCs :)</p>
+<p>🕰 <b>Flexible Hours &amp; Days</b></p>
+<p>We're a remote team working in different time zones, from UTC+06:00 to UTC-06:00. Choose the hours and days that work best for you!</p>
+<p>🏥 <b>Healthcare</b></p>
+<p>Employees receive generous medical, dental, vision, and life insurance. Full-time contractors will have the cost of healthcare factored into their salary. Our recruiting team can help confirm which applies to you.</p>
+<p>❤️ <b>Github Sponsorship of Your Choice</b></p>
+<p>We would love to give an annual sponsorship to any GitHub project of your choice!</p>
+<p>🎓 <b>Learning</b></p>
+<p>Appwrite provides $3,000 USD for employees to attend conferences, take classes, or otherwise further their education.</p>
+<p>✈️ <b>Gatherings</b></p>
+<p>We typically meet up couple times a year in person for work and fun! What will be our next location? NYC, London, LA, or Barcelona? Help us decide!</p>
+<p>🖥 <b>Top Notch Equipment</b></p>
+<p>Appwrite will let you choose a new laptop of your choice (up to $3,000 USD) and will reimburse up to $500 USD for office expenses.</p>
+<p>🧦 <b>Unlimited SWAGS</b></p>
+<p>At Appwrite, we really love Swags. Each new team member gets unlimited credits to grab any official Appwrite Swag that they wish.</p>
+</div></div>
+<style>
+                @media only screen and (max-width: 767px) {
+                    #block-2 {
+                        padding-top: 25px !important; padding-bottom: 25px !important;
+                    }
+                }
+                </style>
 
                 </details>
                 </td>
