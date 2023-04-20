@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-remote-product-manager-needed-1" align="right" target="_blank">Apply</a>
@@ -98,6 +98,51 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/1142/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CreateApe, inc.</h5>
+                    <h3> Junior Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>Design</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/createape-inc-junior-product-manager" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0082/1142/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Irvine, California
+    <br /><strong>URL:</strong> <a href="https://createape.com/">https://createape.com/</a>
+</p>
+
+<div>Are you a tech-industry ninja ready to break out of the corporate world and into product management?  Want to work for a fun and slightly nerdy crew that lets you flex your creative muscles and build a super diverse portfolio?  Then we’ve got a spot for you here at CreateApe!  We’re a full-service UX/UI agency that’s growing fast and making waves in the digital design world.  Join our fully remote team of design and development experts from all around the world and get rid of that boring office commute.  We want to invest in YOU and your career – meaning the more you contribute and become an integral part of our team, the more room for professional growth.</div><div><br></div><div>This is a fully remote position, not restricted by commutes or a particular geographic area.</div><div>
+<strong>Office hours: Monday through Friday, 9AM - 5PM Pacific Time </strong>(<strong><em>PDT UTC-7</em></strong>), this position requires individuals to be available for meetings and duties during this window.</div><div><br></div><div><em>Who we are:</em></div><div>Create Ape is a fun and lean creative digital agency offering comprehensive solutions to your most pressing problems.  With over 20 years in the UX/UI design space, we know how to elevate your user’s experience and to translate that into real metrics you can actually see: more clients &amp; bigger sales.</div><div><br></div><div>Our passionate experts are leaders in their field, covering everything from digital strategy to design &amp; development.  Our mission is to provide our clients with unparalleled personalized solution-based service.  We commit to achieving these custom solutions and implementing them with a smile.</div><div><br></div><div>At CreateApe, Product Managers are responsible for working closely with Sales, Marketing, Development and Project Management teams to ensure requirements for our projects are properly defined, maintained, and managed. </div><div><br></div><div><br></div><div><em>Responsibilities:</em></div><ul>
+<li>Perform market research to identify product strategies and requirements</li>
+<li>Translate product/project strategy into detailed requirements in CreateApe’s project management tools</li>
+<li>Conduct user acceptance testing (UAT) with CreateApe’s software engineering team</li>
+<li>Provide frequent progress updates to product owners—both internal CreateApe product owners as well as clients</li>
+<li>Participate in—and sometimes conduct—regularly scheduled meetings such as sprint planning meetings, sprint retrospectives, and daily standups</li>
+<li>Clarify product requirements and help resolve blockers for software engineers</li>
+<li>Assist with high-level project estimates</li>
+<li>Manage external requests and document them thoroughly in the project management tool</li>
+<li>Prioritize and categorize the backlogs for your products/projects</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/createape-inc-junior-product-manager">https://weworkremotely.com/remote-jobs/createape-inc-junior-product-manager</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -108,7 +153,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>69 days ago</text>
+                <text>70 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1" align="right" target="_blank">Apply</a>
@@ -177,7 +222,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>525 days ago</text>
+                <text>526 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -229,6 +274,73 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1654631/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Bitfinex</h5>
+                    <h3>Mobile App Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>customer support,finance,legal,marketing</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/mobile-app-product-manager-1654631" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Founded in 2012, Bitfinex is a digital asset trading platform offering state-of-the-art services for digital currency traders and global liquidity providers. We're on a mission to create the most innovative cryptocurrencies exchange. This is a unique opportunity, a rare window of time at the tipping point of the financial evolution. Much like the early days of the internet, blockchain technology faces complex new challenges and having the best team plays a pivotal role in success.</p>
+<p> </p>
+<p> </p>
+<p>Our team is fully remote and globally distributed to capture the best talent from around the world. So far our company has grown fast and stayed lean to secure its place as a leader in the space.</p>
+<p> </p>
+<p> </p>
+<p>If you get excited about being in an industry that is breaking new ground and have confidence you can conquer the most challenging feats we'll encounter, we want to talk to you. Join us, and help lay the foundation for a decentralized future</p>
+<p> </p>
+<p> </p>
+<p>Currently looking for:</p>
+<div class="h2"><strong>Mobile App Product Manager (Remote)</strong></div>
+<div class="h3"><strong>​</strong><strong>Job description</strong></div>
+<p>As a Mobile App Product Manager you will work with Product and Project managers and with members of the Engineering, Design, Marketing and Legal teams to formulate and execute our business and product strategies across the Bitfinex Mobile App.</p>
+<p>You will focus on delivering Bitfinex’s industry leading professional exchange trading technology through our mobile app. To do so you will need to develop a deep understanding of our trading platform, customers, the market, our competitors and the wider cryptocurrency and blockchain industry as a whole, and collaborate with world-class engineering, marketing, legal and design teams to deliver industry-leading technologies that help us meet the company’s high level business goals. Specifically you will:</p>
+<p> </p>
+<ul style="">
+<li style="">Understand Bitfinex’s professional trader user base and their requirements to continue the development of a mobile app experience that fully recreates all web app functionality and enables traders to manage their trading strategies from their mobile devices.</li>
+<li style="">Understand the wider cryptocurrency retail market, our competition, and retail investor requirements in-depth to develop and deliver new mobile products and features that grow the mobile app’s share of the retail market.</li>
+<li style="">Contribute to the development of product and business strategy for the product team and the business as a whole.</li>
+<li style="">Research, understand and analyze customer needs and expectations.</li>
+<li style="">Own and optimize adoption KPIs for the mobile app.</li>
+<li style="">Review and prioritize activities based on business and customer impact.</li>
+<li style="">Liaise with the marketing and legal teams to increase awareness of new product and services and lead product launches.</li>
+<li style="">Develop industry partnerships and expand our ecosystem of products and services.</li>
+</ul>
+<div class="h3"><strong>Minimum requirements</strong></div>
+<ul style="">
+<li style="">2+ years of product management, product marketing and/or product design experience developing fintech or cryptocurrency-focused products.</li>
+<li style="">Experience collaborating on strategic product roadmaps; leading development from conception to launch; and working with cross-functional teams to develop consumer-facing products for international markets.</li>
+<li style="">BA/MA degree in business, marketing, design, human interaction design, computer science or equivalent working experience.</li>
+<li style="">Ability to manage multiple concurrent projects, be a true team-player, influence multiple stakeholders without direct authority, and effectively time-manage and prioritize under pressure.</li>
+<li style="">Strong UX skills, and an ability to develop simple, intuitive solutions to complex problems.</li>
+<li style="">Deep analytical, prioritization and problem solving skills, with a strong sense of responsibility.</li>
+<li style="">Demonstrated passion for cryptocurrency and the financial markets.</li>
+<li style="">An entrepreneurial self-starter mindset and the ability to succeed in a dynamic environment.</li>
+</ul>
+<p> </p>
+<div class="h3"><strong>Additional preferred qualifications</strong></div>
+<ul style="">
+<li style="">Experience developing financial products, technologies and platforms in the cryptocurrency space.</li>
+<li style="">Experience developing products for retail investors, e.g. mobile wallets, social trading, online brokerages, etc.</li>
+<li style="">Knowledge of multiple functional areas such as Product Management, Engineering, UX/UI, Sales, Customer Support, Finance or Marketing.</li>
+</ul>
+<img src="https://remotive.com/job/track/1654631/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
