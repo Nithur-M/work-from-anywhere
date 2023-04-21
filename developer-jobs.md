@@ -1,5 +1,62 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7016/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Bottomless</h5>
+                    <h3> Senior Full Stack Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-8" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/7016/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Seattle, Wa
+    <br /><strong>URL:</strong> <a href="https://www.bottomless.com/">https://www.bottomless.com/</a>
+</p>
+
+<div>We are looking for a jack-of-all-trades <strong><em>senior</em></strong> javascript/full stack developer.<br><br>The ideal candidate for this position would be able to dive into any kind of project, from frontend UI/UX tasks in React.js to backend tasks running on Node.js.<br><br>If you’re interested in variety and working hard to build something big, this might be a good fit.<br><br>We need to achieve <em>80% of the results with 20% of the effort</em>.<br><br><strong>Responsibilities:</strong>
+</div><ul>
+<li>Design and build infrastructure and products for a sensor-enabled e-commerce marketplace.</li>
+<li>Build robust infrastructure to support existing product lines and the ability to roll out new ones.</li>
+<li>Responsibility over the user-facing product</li>
+<li>Quick iteration on different fronts from fronted UX changes to database design to quick and dirty implementations.</li>
+<li>Responsible for full deployment and testing of applications.</li>
+</ul><div><br></div><div><strong>Skill, Qualifications, and Experience:</strong></div><div><br></div><div><em>Expert proficiency required:</em></div><ul>
+<li>Node.js</li>
+<li>NoSQL databases</li>
+<li>React.js</li>
+<li>English (written and verbal)</li>
+</ul><div><br></div><div><em>Intermediate proficiency, at a minimum:</em></div><ul>
+<li>UI/UX design</li>
+<li>Software architecture</li>
+</ul><div>
+<br>Not required, but a plus:</div><ul>
+<li>Python (background tasks)</li>
+<li>Embedded systems (C++)</li>
+</ul><div> <br><strong>Details:</strong>
+</div><ul>
+<li>Remote OK. Must be flexible with hours as we have a remote international team.</li>
+<li>Competitive equity and cash compensation</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-8">https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-8</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/1947/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +67,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/planning-center-full-stack-developer-2" align="right" target="_blank">Apply</a>
@@ -91,7 +148,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-wordpress-developer" align="right" target="_blank">Apply</a>
@@ -165,7 +222,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/vexxhost-inc-developpeur-e-de-kubernetes-ansible-kubernetes-ansible-developer-1" align="right" target="_blank">Apply</a>
@@ -199,7 +256,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clutchy-senior-front-end-full-stack-developer" align="right" target="_blank">Apply</a>
@@ -285,7 +342,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/mailerlite-php-integration-developer" align="right" target="_blank">Apply</a>
@@ -397,7 +454,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>93 days ago</text>
+                <text>94 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-vue-js-developer" align="right" target="_blank">Apply</a>
@@ -465,7 +522,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>120 days ago</text>
+                <text>121 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1" align="right" target="_blank">Apply</a>
@@ -527,7 +584,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>153 days ago</text>
+                <text>154 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-golang-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -592,7 +649,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>220 days ago</text>
+                <text>221 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -666,7 +723,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>241 days ago</text>
+                <text>242 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/socialhub-backend-javascript-node-js-developer-remote-saas-m-f-d-2" align="right" target="_blank">Apply</a>
@@ -756,7 +813,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>241 days ago</text>
+                <text>242 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/socialhub-reactjs-web-developer-remote-saas-m-f-d-1" align="right" target="_blank">Apply</a>
@@ -858,6 +915,72 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>A.Team</h5>
+                    <h3> Senior Independent Software Developer ($110-$190/hr)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>630 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0066/7400/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> NYC, SF, and TLV
+    <br /><strong>URL:</strong> <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a>
+</p>
+
+<div>
+<a href="https://build.a.team/wwrfastrackreferral">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. <br><br>After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.<br><br>As part of A·Team, you can expect:</div><ul>
+<li>
+<strong>High-paying, meaningful missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
+<li>
+<strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
+<li>
+<strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
+<li>
+<strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
+<li>
+<strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
+</ul><div>
+<br><strong>How to apply:<br></strong>Go here: <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a> + mention WWR under how you heard about A·Team. No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.<br><strong><br>What you’ll do:</strong>
+</div><ul>
+<li>Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would.</li>
+<li>Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </li>
+<li>You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is for:</strong>
+</div><ul>
+<li>Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy.</li>
+<li>Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</li>
+<li>The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing.</li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is </strong><strong><em>not</em></strong><strong> for:</strong>
+</div><ul>
+<li>People looking for small gigs.</li>
+<li>Folks looking to build simple wordpress/wix/squarespace-style websites.</li>
+<li>Those still early in their careers and recent university/bootcamp grads (at least not yet).</li>
+</ul><div>
+<br><strong>Our long-term vision:<br></strong><a href="https://build.a.team/wwrfastrackreferral">A·Team</a> is a new type of company for a new kind of independent software builders. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </div><div>
+<br>To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1359476/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -868,7 +991,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -937,7 +1060,7 @@
                     <code>amazon,AWS,backend,developer</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-python-developer-and-aws-manager-1656870" align="right" target="_blank">Apply</a>
@@ -983,7 +1106,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -1060,7 +1183,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -1197,7 +1320,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1274,7 +1397,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1404,161 +1527,6 @@
 </li>
 </ul>
 <img src="https://remotive.com/job/track/1606658/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1632115/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Contra</h5>
-                    <h3>AI Application Developer Creator</h3>
-                </td>
-                <td width="300">
-                    <code>developer,seo,social media,ai</code>
-                </td>
-                <td width="200">
-                <text>31 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/ai-application-developer-creator-1632115" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Are you a creative AI Application Developer with domain expertise in <strong>ChatGPT Applications</strong>, <strong>AI Web Applications</strong> and <strong>AI Chatbots</strong> and a passion for sharing your knowledge with others? Join the <a href="http://bit.ly/3J5ZhdS" rel="nofollow">Contra</a> Creator program to create and share high-quality projects and the portfolio of your dreams based on your unique skillset.</p>
-<p> </p>
-<p>As a member of the Contra Creator program, you’ll be creating high-quality portfolio projects about AI development. These will be featured on Contra and around the web. You will be paid <strong>$2000 USD</strong> for a 1 month project for the following scope.</p>
-<p> </p>
-<div class="h3">Scope</div>
-<ul style="">
-<li style="">Create and share 8 - 10 high-quality projects on your Contra Portfolio. Contra will help you choose the topics that will be most beneficial to your portfolio. We will also do SEO research on each topic to make sure your portfolio gets tons of visibility.</li>
-<li style="">Host the content on your Contra portfolio that lives on your custom domain (we can help you get one if you don’t have one already)</li>
-<li style="">Ensure that content is easy to share and engage with on social media platforms and other online channels</li>
-<li style="">Share content on your social platforms and/or in communities</li>
-</ul>
-<p> </p>
-<div class="h3">What We’re Looking For</div>
-<ul style="">
-<li style="">Experience creating and editing high-quality content</li>
-<li style="">Strong domain expertise in the AI space</li>
-<li style="">Active on social media and familiar with engagement strategies (a plus)</li>
-</ul>
-<p> </p>
-<div class="h3">What You’ll Get</div>
-<ul style="">
-<li style="">Build the Portfolio of your dreams 💭</li>
-<li style="">Boost your reputation on Contra and as an independent</li>
-<li style="">Increased discoverability of your unique expertise</li>
-<li style="">Community of fellow freelancers and thought leaders</li>
-</ul>
-<p> </p>
-<div class="h3">About Contra</div>
-<p>The Contra team wants to continue to support the independent community and we believe there is no better way to do this than with paid opportunities 🚀</p>
-<p>Contra allows Independents to build their digital portfolio, get discovered by clients around the world, and earn money commission-free; while connecting Clients with top Independent talent.</p>
-<p>We believe in empowering people to work the way <em>they want.</em></p>
-<p><em> </em></p>
-<p>If you are passionate about sharing your knowledge and want to be part of a growing community of creators, please apply!</p>
-<p> </p>
-<p> </p>
-<div class="h3">Learn more about <a href="http://bit.ly/3Dbh5jQ" rel="nofollow">Contra here</a>!</div>
-<img src="https://remotive.com/job/track/1632115/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1397471927132844033/jN-wuufb_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Supabase</h5>
-                    <h3>Developer Advocate (Socials & Community)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/supabase/jobs/4777008004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p><img src="https://pbs.twimg.com/media/FIdU8GJWQAUGWRA?format=jpg&amp;name=small" alt="Join Supabase" width="680" height="453"></p></div>
-
-    <p>Supabase is an Open Source and fully remote company building developer tools for databases.</p>
-<p>Social Media and Community are two of the main growth engines for Supabase. We're seeking someone to engage with our huge community and own our social media. You'll do creative work and gain a deep understanding of Supabase. There is scope to do technical work as part of the role.</p>
-<p>This role will mainly interact with DevRel, Engineering, and Marketing, but will have company-wide visibility and impact.</p>
-<p><strong>You will:</strong></p>
-<ul>
-<li>Own the Social Media Calendar and create highly engaging content for developers in different formats across our social media channels: Twitter, LinkedIn, and Youtube. We're also starting to experiment with Instagram and TikTok.</li>
-<li>Edit graphics and video.</li>
-<li>Own Brand Listening. Engage in conversations, identify and activate advocates, and spot great user-generated content that we can boost.</li>
-<li>Use and improve the distribution process to amplify and repurpose owned and earned content.</li>
-<li>Use your research skills to identify new topics we can create content about and share it with the appropriate team.</li>
-<li>Analyze and report on our social media and community performance, suggesting improvements to increase audience growth, reach, and engagement.</li>
-<li>Work directly with the Chief Meme Officer.</li>
-<li>Write technical examples and toys as a tool to engage the community.</li>
-</ul>
-<p><strong>You are:</strong></p>
-<ul>
-<li>A dev. You understand how devs assess new tools. You understand the value proposition of Supabase.</li>
-<li>Creative, you can quickly produce assets using image and video editing tools.</li>
-<li>Metrics driven, and sprint towards goals.</li>
-<li>Willing to get your hands dirty and execute our strategy on repeat. This role is a blend of grind and creative work and will be extremely rewarding for the right person.</li>
-<li>Open to feedback and have a growth mindset.</li>
-</ul>
-<p><strong>We offer:</strong></p>
-<ul>
-<li>100% remote work from anywhere in the world. No location-based adjustment to your salary.</li>
-<li>ESOP (equity ownership in the company)</li>
-<li>Autonomous work. We work collaboratively on projects, but you set your own pace.</li>
-<li>Health, Vision and Dental benefits. Supabase covers 100% of the cost for employees and 80% for dependents</li>
-<li>Generous Tech Allowance for any office setup you need</li>
-<li>Annual Education Allowance</li>
-<li>Annually run off-sites.</li>
-</ul>
-<p>&nbsp;</p>
-
-    
-
-    <div class="content-conclusion"><h3>BUILD IN A WEEKEND. SCALE TO BILLIONS</h3>
-<p>Supabase adds auth, realtime, and restful APIs to Postgres without a single line of code.</p>
-<p>Each project within Supabase is an isolated&nbsp;Postgres cluster, allowing customers to scale independently, while still providing the features that you need to build: instant database setup, auth, row level security, realtime data streams, auto-generating APIs, and a simple to use web interface.</p>
-<p>We are a fully remote company.</p>
-<p>Key Tech: Javascript, Typescript, Go, Elixir, PostgREST (haskell), Postgres, Pulumi.</p>
-<h3><a id="about-the-team" class="anchor"></a>About the team</h3>
-<ul>
-<li>We're a startup. It's unstructured.</li>
-<li>Collectively founded more than a dozen venture-backed companies.</li>
-<li>More than 10 different nationalities.</li>
-<li>We deeply believe in <a href="https://supabase.com/blog/2022/03/25/should-i-open-source-my-company" target="_blank">the efficacy of collaborative open source</a>. We support existing communities and tools, rather than building "yet another xx".</li>
-<li>We "dogfood" everything. If you use it in your project, we use it in Supabase.</li>
-</ul>
-<h2><a id="process" class="anchor"></a>Process</h2>
-<ul>
-<li>The entire process is fully remote and all communication will happen over email or via video chat.</li>
-<li>Once you've submitted your application, the team will review your submission, and may reach out for a short screening interview over video call.</li>
-<li>If you pass the screen you will be invited to up to four follow up interviews. The calls:
-<ul>
-<li>usually take between 20-45 minutes each depending on the interviewer.</li>
-<li>are all 1:1.</li>
-<li>will be with both founders, a member of either the growth or engineering team (depending on the role), and usually one other person from your immediate team or function.</li>
-</ul>
-</li>
-<li>Once the interviews are over, the team will meet to discuss several roles and candidates and may:
-<ul>
-<li>ask one or two follow-up questions over email or a quick call.</li>
-<li>go directly to making an offer.</li>
-</ul>
-</li>
-</ul>
-<h2>&nbsp;</h2></div>
-
                 </details>
                 </td>
             </tr>,<tr>
@@ -1714,115 +1682,6 @@
 <p>&nbsp;</p>
 <p><strong>Get to know us</strong></p>
 <p><span style="font-weight: 400;">Find out about the Logos here: </span><a href="https://logos.co"><span style="font-weight: 400;">https://logos.co</span></a></p>
-
-    
-
-    
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Status</h5>
-                    <h3>Senior C++ Qt/QML developer for blockchain app</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=3694379&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <div id="external-jobs-show-description" class="external-panel__trix-content external-panel__trix-content--colored external-panel__trix-content--lead-in">
-<div data-react-class="external/careersPage/RenderPlyrVideo" data-react-props="{&quot;htmlString&quot;:&quot;\u003cdiv\u003e\n\u003cbr\u003eThe project \u0026amp; role&nbsp;\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eStatus is an organisation that seeks to accelerate consumer adoption of the web3 ecosystem forward through products, research, the creation of developer tools, and support of the open source community. Our core product is an Ethereum blockchain based app for mobile and desktop platforms that enables communities to permissionlessly create 100% decentralized group chat spaces, and allows users to message, make payments and browse and transact on the decentralized web.&nbsp; Status also builds foundational infrastructure for the Ethereum ecosystem as a whole including the Nimbus Ethereum client, the Keycard hardware wallet, and the Waku messaging protocol which is a continuation of Whisper.&nbsp; Everything Status creates is built in the open and released under permissive open source licenses.\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eWe're a fully remote team made up of ~100 core contributors and a growing number of community members scattered around the globe. We care deeply about open source software, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.&nbsp;\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eAfter a pause during which the Status team focused on our mobile application, the development of Status Desktop was restarted in 2020 with a clean sheet QT / QML UI codebase.&nbsp;\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003eStatus Desktop is currently in beta for Mac, Windows and Linux platforms.&nbsp; Current product focus is on the privacy-centric messenger and group chat functionality, and we’ve just kicked off development of our new ‘multi-chain from the ground up’ crypto Wallet.&nbsp; ÐApp browser and blockchain node functionality will follow next. Status desktop is currently built using \u003ca href=\&quot;https://nim-lang.org/\&quot;\u003eNim\u003c/a\u003e \u0026amp; QT for the frontend, and it shares a common backend with Status mobile that is written in Go.&nbsp; We are currently in the middle of a large refactor of our architecture.&nbsp; This refactor includes transitioning the QT front end from Nim to C++, moving all business logic to our status-go backend, and upgrading from QT5.14.2 to QT6.2.&nbsp; As we work in the open and are fully open source you can get a better idea of who we are and the work we are doing by browsing our \u003ca href=\&quot;https://hackmd.io/@status-desktop/main/%2FwAbKqYTdR_-FWLZZouSxsg\&quot;\u003eteam wiki here\u003c/a\u003e and taking a look at our \u003ca href=\&quot;https://github.com/status-im/status-desktop\&quot;\u003eStatus Desktop\u003c/a\u003e, \u003ca href=\&quot;https://github.com/status-im/statusQ\&quot;\u003eStatus Desktop QML component library\u003c/a\u003e and \u003ca href=\&quot;https://github.com/status-im/status-go\&quot;\u003eStatus Desktop and Mobile Go backend\u003c/a\u003e GitHub repos.&nbsp; You can find more information about our desktop effort in this \u003ca href=\&quot;https://our.status.im/status-desktop-why-and-what/\&quot;\u003eblog post\u003c/a\u003e.&nbsp;\u003cbr\u003e\u003cbr\u003eStatus is looking for multiple senior experienced C++/QML UI devs to join our growing desktop dev team and to work with us to create a permissionless, decentralized, censorship proof group chat platform. Role responsibilities include developing new features, creating and enhancing components in our QML UI toolkit component library, advising and assisting other members of the desktop dev team with solving challenging QML UI development problems, and perhaps working on the Go backend if this is something you would enjoy.&nbsp; As a team we try to match task assignment with the individual interests and passions of our team members, so there is a high degree of flexibility with regards to what you would be working on.&nbsp; If you are a passionate C++/QML expert who knows all the ins and outs of C++ and QT/QML UI development this could be an ideal role for you.\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eThe desktop team is spread between Europe and North America with crossover work hours being the European timezone afternoon on Monday, Wednesday and Friday. Ideally you will be located in a timezone between UTC -5 and UTC +3 e.g. anywhere in-between Panama and Moscow.&nbsp; Work is async using Status, Google Meet and Github, typically in Scrum Sprints.\u003c/div\u003e\u003cdiv\u003e\n\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e&quot;}" data-react-cache-id="external/careersPage/RenderPlyrVideo-0">
-<div>
-<div><strong>About Status</strong></div>
-<div>&nbsp;</div>
-<div>Status is an organisation that seeks to accelerate consumer adoption of the web3 ecosystem forward through products, research, the creation of developer tools, and support of the open source community. Our core product is an Ethereum blockchain based app for mobile and desktop platforms that enables communities to permissionlessly create 100% decentralized group chat spaces, and allows users to message, make payments and browse and transact on the decentralized web.&nbsp; Status also builds foundational infrastructure for the Ethereum ecosystem as a whole including the Nimbus Ethereum client, the Keycard hardware wallet, and the Waku messaging protocol which is a continuation of Whisper.&nbsp; Everything Status creates is built in the open and released under permissive open source licenses.</div>
-<div>&nbsp;</div>
-<div>We're a fully remote team made up of ~100 core contributors and a growing number of community members scattered around the globe. We care deeply about open source software, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.&nbsp;</div>
-<div>&nbsp;</div>
-<div>After a pause during which the Status team focused on our mobile application, the development of Status Desktop was restarted in 2020 with a clean sheet QT / QML UI codebase.&nbsp;<br><br></div>
-<div>Status Desktop is currently in beta for Mac, Windows and Linux platforms.&nbsp; Current product focus is on the privacy-centric messenger and group chat functionality, and we’ve just kicked off development of our new ‘multi-chain from the ground up’ crypto Wallet.&nbsp; ÐApp browser and blockchain node functionality will follow next. Status desktop is currently built using&nbsp;<a href="https://nim-lang.org/">Nim</a>&nbsp;&amp; QT for the frontend, and it shares a common backend with Status mobile that is written in Go.&nbsp; We are currently in the middle of a large refactor of our architecture.&nbsp; This refactor includes transitioning the QT front end from Nim to C++, moving all business logic to our status-go backend, and upgrading from QT5.14.2 to QT6.2.&nbsp; As we work in the open and are fully open source you can get a better idea of who we are and the work we are doing by browsing our&nbsp;<a href="https://hackmd.io/@status-desktop/main/%2FwAbKqYTdR_-FWLZZouSxsg">team wiki here</a>&nbsp;and taking a look at our&nbsp;<a href="https://github.com/status-im/status-desktop">Status Desktop</a>,&nbsp;<a href="https://github.com/status-im/statusQ">Status Desktop QML component library</a>&nbsp;and&nbsp;<a href="https://github.com/status-im/status-go">Status Desktop and Mobile Go backend</a>&nbsp;GitHub repos.&nbsp; You can find more information about our desktop effort in this&nbsp;<a href="https://our.status.im/status-desktop-why-and-what/">blog post</a>.&nbsp;<br><br>Status is looking for multiple senior experienced C++/QML UI devs to join our growing desktop dev team and to work with us to create a permissionless, decentralized, censorship proof group chat platform. Role responsibilities include developing new features, creating and enhancing components in our QML UI toolkit component library, advising and assisting other members of the desktop dev team with solving challenging QML UI development problems, and perhaps working on the Go backend if this is something you would enjoy.&nbsp; As a team we try to match task assignment with the individual interests and passions of our team members, so there is a high degree of flexibility with regards to what you would be working on.&nbsp; If you are a passionate C++/QML expert who knows all the ins and outs of C++ and QT/QML UI development this could be an ideal role for you.</div>
-<div>&nbsp;</div>
-<div>The desktop team is spread between Europe and North America with crossover work hours being the European timezone afternoon on Monday, Wednesday and Friday. Ideally you will be located in a timezone between UTC -8 and UTC +3 e.g. anywhere in-between Panama and Moscow.&nbsp; Work is async using Status, Google Meet and Github, typically in Scrum Sprints.</div>
-</div>
-</div>
-</div>
-<h4 id="responsibilities-heading" class="external-panel__heading">Key Responsibilities</h4>
-<div id="responsibilities-body" class="external-panel__trix-content external-panel__trix-content--colored">
-<div data-react-class="external/careersPage/RenderPlyrVideo" data-react-props="{&quot;htmlString&quot;:&quot;\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cul\u003e\n\u003cli\u003eBuild new features, enhance existing functionality and fix issues in the Status Desktop application.\u003c/li\u003e\n\u003cli\u003eHelp develop and maintain Status’s QML UI component library (primarily used by the Status Desktop product)\u003c/li\u003e\n\u003cli\u003eAdvise and assist the other developers in the Desktop team as needed to help solve the hardest QML UI development challenges\u003c/li\u003e\n\u003cli\u003eContribute to C++ and Go codebases (and help with transitioning the codebase from Nim to C++ if you join us prior to this transition being completed), but don’t worry if you don’t have any prior Go or Nim experience.\u003c/li\u003e\n\u003cli\u003eBe one of our resident experts for everything related to C++ and Qt/QML UI development.\u003c/li\u003e\n\u003c/ul\u003e\u003cdiv\u003eYou ideally will have:&nbsp;\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003e\u003cem\u003eDon’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role!\u003c/em\u003e\u003c/div\u003e\u003cul\u003e\n\u003cli\u003eExpert level experience implementing UIs using Qt/QML/C++\u003c/li\u003e\n\u003cli\u003eA strong ability to think about components and modules as they relate to other components as part of a larger system\u003c/li\u003e\n\u003cli\u003eA very strong attention to detail and the willingness to deliver pixel perfect UI according to the designs.\u003c/li\u003e\n\u003cli\u003eProvide feedback and product ideas to the designers as needed\u003c/li\u003e\n\u003cli\u003eExperience with multithreading / concurrency\u003c/li\u003e\n\u003cli\u003eGood communication skills in English\u003c/li\u003e\n\u003cli\u003eA strong alignment to our principles: \u003ca href=\&quot;https://status.im/about/#our-principles\&quot;\u003ehttps://status.im/about/#our-principles\u003c/a\u003e&nbsp; We are a passion driven project on a mission to build tools that protect and enable free speech.&nbsp;\u003c/li\u003e\n\u003c/ul\u003e\u003cdiv\u003eBonus points if you have:\u003c/div\u003e\u003cul\u003e\n\u003cli\u003eExperience working in an open source organization\u003c/li\u003e\n\u003cli\u003eA strong interest in blockchain technology and have a good understanding of Ethereum.\u003c/li\u003e\n\u003cli\u003eWorked in a remote distributed environment that values asynchronous communication\u003c/li\u003e\n\u003cli\u003eKnowledge of Go and/or Nim and/or Solidity is a plus\u003c/li\u003e\n\u003cli\u003eExperience with using QT/QML to develop cross platform (Windows, OSX, Linux) desktop applications and mobile applications (iOS, Android) is a plus\u003c/li\u003e\n\u003cli\u003ePrior experience with using Squish for functional testing QT apps\u003c/li\u003e\n\u003cli\u003eExperience implementing openGL rendering in a QML context\u003c/li\u003e\n\u003cli\u003eAny background or experience with cryptography and/or security\u003c/li\u003e\n\u003c/ul\u003e\u003cdiv\u003eCompensation:&nbsp;\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003eStatus compensates people with above average salaries, plus a grant of Status Network Tokens vesting over a three-year period. More info on SNT here here: \u003ca href=\&quot;https://status.im/snt-utility/\&quot;\u003ehttps://status.im/snt-utility/\u003c/a\u003e&nbsp; We are happy to pay salaries in either 100% fiat or any mix of fiat and/or crypto (ETH or SNT). &nbsp;\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eHiring process\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003eThe hiring process for this role will be:\u003c/div\u003e\u003col\u003e\n\u003cli\u003eIntroductory conversation - People Ops team\u003c/li\u003e\n\u003cli\u003eVision alignment Interview - John\u003c/li\u003e\n\u003cli\u003eTeam lead interview - Iuri\u003c/li\u003e\n\u003cli\u003eTechnical interviews - Sale and Alexandra\u003c/li\u003e\n\u003cli\u003eTech and culture alignment Interview - Andrea\u003c/li\u003e\n\u003cli\u003eMeet the team interviews with Anthony, Pascal and Khushboo\u003c/li\u003e\n\u003c/ol\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eQuestions about this role?\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003eFeel free to get in touch, we are more than happy to discuss the role in more detail.\u003c/div\u003e\u003cdiv\u003e\n\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e&quot;}" data-react-cache-id="external/careersPage/RenderPlyrVideo-0">
-<ul>
-<li>Build new features, enhance existing functionality and fix issues in the Status Desktop application.</li>
-<li>Help develop and maintain Status’s QML UI component library (primarily used by the Status Desktop product)</li>
-<li>Advise and assist the other developers in the Desktop team as needed to help solve the hardest QML UI development challenges</li>
-<li>Contribute to C++ and Go codebases (and help with transitioning the codebase from Nim to C++ if you join us prior to this transition being completed), but don’t worry if you don’t have any prior Go or Nim experience.</li>
-<li>Be one of our resident experts for everything related to C++ and Qt/QML UI development.</li>
-</ul>
-<div><strong>You ideally will have</strong><br><br></div>
-<div><em>Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role!</em></div>
-<ul>
-<li>Expert level experience implementing UIs using Qt/QML/C++</li>
-<li>A strong ability to think about components and modules as they relate to other components as part of a larger system</li>
-<li>A very strong attention to detail and the willingness to deliver pixel perfect UI according to the designs.</li>
-<li>Provide feedback and product ideas to the designers as needed</li>
-<li>Experience with multithreading / concurrency</li>
-<li>Good communication skills in English</li>
-<li>A strong alignment to our principles:&nbsp;<a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a>&nbsp; We are a passion driven project on a mission to build tools that protect and enable free speech.&nbsp;</li>
-</ul>
-<div><strong>Bonus points if you have</strong></div>
-<ul>
-<li>Experience working in an open source organization</li>
-<li>A strong interest in blockchain technology and have a good understanding of Ethereum.</li>
-<li>Worked in a remote distributed environment that values asynchronous communication</li>
-<li>Knowledge of Go and/or Nim and/or Solidity is a plus</li>
-<li>Experience with using QT/QML to develop cross platform (Windows, OSX, Linux) desktop applications and mobile applications (iOS, Android) is a plus</li>
-<li>Prior experience with using Squish for functional testing QT apps</li>
-<li>Experience implementing openGL rendering in a QML context</li>
-<li>Any background or experience with cryptography and/or security</li>
-</ul>
-<div>
-<p><strong>Compensation</strong></p>
-<span style="font-weight: 400;">We are happy to pay in either 100% fiat or any mix of fiat and/or crypto. For more information regarding benefits at Status: </span><a href="https://people-ops.status.im/tag/perks/"><span style="font-weight: 400;">https://people-ops.status.im/tag/perks/</span></a></div>
-</div>
-<div data-react-class="external/careersPage/RenderPlyrVideo" data-react-props="{&quot;htmlString&quot;:&quot;\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cul\u003e\n\u003cli\u003eBuild new features, enhance existing functionality and fix issues in the Status Desktop application.\u003c/li\u003e\n\u003cli\u003eHelp develop and maintain Status’s QML UI component library (primarily used by the Status Desktop product)\u003c/li\u003e\n\u003cli\u003eAdvise and assist the other developers in the Desktop team as needed to help solve the hardest QML UI development challenges\u003c/li\u003e\n\u003cli\u003eContribute to C++ and Go codebases (and help with transitioning the codebase from Nim to C++ if you join us prior to this transition being completed), but don’t worry if you don’t have any prior Go or Nim experience.\u003c/li\u003e\n\u003cli\u003eBe one of our resident experts for everything related to C++ and Qt/QML UI development.\u003c/li\u003e\n\u003c/ul\u003e\u003cdiv\u003eYou ideally will have:&nbsp;\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003e\u003cem\u003eDon’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role!\u003c/em\u003e\u003c/div\u003e\u003cul\u003e\n\u003cli\u003eExpert level experience implementing UIs using Qt/QML/C++\u003c/li\u003e\n\u003cli\u003eA strong ability to think about components and modules as they relate to other components as part of a larger system\u003c/li\u003e\n\u003cli\u003eA very strong attention to detail and the willingness to deliver pixel perfect UI according to the designs.\u003c/li\u003e\n\u003cli\u003eProvide feedback and product ideas to the designers as needed\u003c/li\u003e\n\u003cli\u003eExperience with multithreading / concurrency\u003c/li\u003e\n\u003cli\u003eGood communication skills in English\u003c/li\u003e\n\u003cli\u003eA strong alignment to our principles: \u003ca href=\&quot;https://status.im/about/#our-principles\&quot;\u003ehttps://status.im/about/#our-principles\u003c/a\u003e&nbsp; We are a passion driven project on a mission to build tools that protect and enable free speech.&nbsp;\u003c/li\u003e\n\u003c/ul\u003e\u003cdiv\u003eBonus points if you have:\u003c/div\u003e\u003cul\u003e\n\u003cli\u003eExperience working in an open source organization\u003c/li\u003e\n\u003cli\u003eA strong interest in blockchain technology and have a good understanding of Ethereum.\u003c/li\u003e\n\u003cli\u003eWorked in a remote distributed environment that values asynchronous communication\u003c/li\u003e\n\u003cli\u003eKnowledge of Go and/or Nim and/or Solidity is a plus\u003c/li\u003e\n\u003cli\u003eExperience with using QT/QML to develop cross platform (Windows, OSX, Linux) desktop applications and mobile applications (iOS, Android) is a plus\u003c/li\u003e\n\u003cli\u003ePrior experience with using Squish for functional testing QT apps\u003c/li\u003e\n\u003cli\u003eExperience implementing openGL rendering in a QML context\u003c/li\u003e\n\u003cli\u003eAny background or experience with cryptography and/or security\u003c/li\u003e\n\u003c/ul\u003e\u003cdiv\u003eCompensation:&nbsp;\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003eStatus compensates people with above average salaries, plus a grant of Status Network Tokens vesting over a three-year period. More info on SNT here here: \u003ca href=\&quot;https://status.im/snt-utility/\&quot;\u003ehttps://status.im/snt-utility/\u003c/a\u003e&nbsp; We are happy to pay salaries in either 100% fiat or any mix of fiat and/or crypto (ETH or SNT). &nbsp;\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eHiring process\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003eThe hiring process for this role will be:\u003c/div\u003e\u003col\u003e\n\u003cli\u003eIntroductory conversation - People Ops team\u003c/li\u003e\n\u003cli\u003eVision alignment Interview - John\u003c/li\u003e\n\u003cli\u003eTeam lead interview - Iuri\u003c/li\u003e\n\u003cli\u003eTechnical interviews - Sale and Alexandra\u003c/li\u003e\n\u003cli\u003eTech and culture alignment Interview - Andrea\u003c/li\u003e\n\u003cli\u003eMeet the team interviews with Anthony, Pascal and Khushboo\u003c/li\u003e\n\u003c/ol\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eQuestions about this role?\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003eFeel free to get in touch, we are more than happy to discuss the role in more detail.\u003c/div\u003e\u003cdiv\u003e\n\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e&quot;}" data-react-cache-id="external/careersPage/RenderPlyrVideo-0">
-<div>&nbsp;</div>
-<div><strong>Hiring process</strong><br><br></div>
-<div>The hiring process for this role is usually as follows (sometimes adapted):</div>
-<ol>
-<li>Introductory conversation - Talent team</li>
-<li>2-3 Technical Interviews with Desktop Qt/QML Developers</li>
-<li>Team lead interview - Iuri, Desktop Team Lead</li>
-<li>In some instances, a talk with John, Product Strategy Lead&nbsp;</li>
-<li>'Meet the Desktop team' interviews with 3-4 Desktop Contributors (30-40m each)</li>
-</ol>
-<div>&nbsp;</div>
-<div>Questions about this role?</div>
-<div>Feel free to get in touch, we are more than happy to discuss the role in more detail.</div>
-<div>&nbsp;</div>
-</div>
-</div>
-<div id="about-body" class="external-panel__trix-content external-panel__trix-content--colored">
-<div>&nbsp;</div>
-</div>
 
     
 
@@ -2111,96 +1970,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1569586501335359494/4rq0Hb99_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Appwrite</h5>
-                    <h3>Developer Advocate (YouTube & Developer Education focused) - Europe</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://careers.appwrite.io/developer-advocate-youtube-developer-education-focused-europe" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-<aside class="mask" style="opacity: 1;"></aside><div class="body" data-columns="1"><div class="article" data-medium-editor-element="" style=";">
-<h1>About the job</h1>
-<p>Appwrite is seeking a passionate and versatile Developer Advocate to focus on the growth of our YouTube channel and creating Appwrite how-to videos. Your primary role will be to develop and execute our video content strategy while also contributing to the overall growth of our developer community. This position is open for candidates located in Europe. Knowledge of Flutter is a big plus but not required. Although travel is optional, you should be open to attending a few in-person company gatherings and events, with up to 25% travel. If you enjoy working with a fast-moving, fast-growing startup and being part of a fun, collaborative, and diverse team, this is the perfect opportunity for you!</p>
-<p>The Developer Relations team at Appwrite operates as an independent department and is currently a team of 6 individuals and growing. Our Founder and a significant part of our company are deeply involved in developer communities. We believe Developer Relations is an important part of our organization and are highly valued and understood by leadership and throughout our organization. We understand and appreciate the impact of the DevRel role on our success and strive to create an environment where you feel supported and empowered. Communication and transparency are our core values, and we developer experience and collaborate to integrate developer feedback into our work.</p>
-</div></div>
-<style>
-                @media only screen and (max-width: 767px) {
-                    #block-1 {
-                        padding-top: 25px !important; padding-bottom: 25px !important;
-                    }
-                }
-                </style>
-
-<aside class="mask" style="opacity: 1;"></aside><div class="body" data-columns="1"><div class="article" data-medium-editor-element="" style=";">
-<h1>Responsibilities</h1>
-<ul>
-<li><p>YouTube Channel Growth: Strategize and execute plans to grow our YouTube channel, focusing on creating engaging video content related to Appwrite how-tos and other developer topics.</p></li>
-<li><p>Content Creation: Develop high-quality video content, blog posts, presentations, live streams, and more to educate developers and promote Appwrite.<br></p></li>
-<li><p>Community Engagement: Attend, speak, and sponsor in-person and virtual events to connect with various developer communities.<br></p></li>
-<li><p>Advocate: Represent Appwrite as a thought leader in different communities, advocate for Appwrite's community internally, and promote Appwrite externally.</p></li>
-<li><p>Partnerships: Collaborate with Integrations Engineers to identify and establish potential partnerships for collaboration/integration projects, ensuring a smooth handoff of responsibilities for code development and cross-marketing opportunities.<br></p></li>
-<li><p>Internal Advocacy: Act as the voice of the developer within the company, ensuring that product, engineering, and marketing teams understand and address the needs and concerns of the developer community.</p></li>
-<li><p><span>Marketing Collaboration: Work closely with the marketing team to ensure content is shared and promoted through our social calendar.</span></p></li>
-<li><p><span>Developer Feedback: Gather and analyze developer feedback, sharing insights with the Engineering teams to improve our product and services.<br></span></p></li>
-</ul>
-<h1>Requirements</h1>
-<div><ul>
-<li>Located in Europe.</li>
-<li>Experience with Open Source communities and projects.</li>
-<li>Proficiency in at least two programming languages and/or frameworks, such as Node, Vue, PHP, Dart, Swift, Flutter, etc.</li>
-<li>Passion for teaching developers how to build cool stuff.</li>
-<li>Basic understanding of developer experience and funneling feedback from developers to internal teams.</li>
-<li>Demonstrated track record of creating quality technical video content.</li>
-<li>Willingness to travel up to 25% (optional).</li>
-<li>Ability to work with a diverse, globally-located company and team, collaborating across different time zones.</li>
-<li>Thrives in a fast-paced startup environment, demonstrating adaptability, resilience, and a strong work ethic.</li>
-</ul></div>
-<p><br></p>
-<h1>Benefits</h1>
-<p>🏠 <b>100% Remote</b></p>
-<p>Our entire company is distributed, so we take remote work seriously. If you’d rather not work from home, we will cover the cost of a coworking or office space.</p>
-<p>📈 <b>Stock Options</b></p>
-<p>Get generous stock options for a company that is growing blazing fast and is backed by top VCs :)</p>
-<p>🕰 <b>Flexible Hours &amp; Days</b></p>
-<p>We're a remote team working in different time zones, from UTC+06:00 to UTC-06:00. Choose the hours and days that work best for you!</p>
-<p>🏥 <b>Healthcare</b></p>
-<p>Employees receive generous medical, dental, vision, and life insurance. Full-time contractors will have the cost of healthcare factored into their salary. Our recruiting team can help confirm which applies to you.</p>
-<p>❤️ <b>Github Sponsorship of Your Choice</b></p>
-<p>We would love to give an annual sponsorship to any GitHub project of your choice!</p>
-<p>🎓 <b>Learning</b></p>
-<p>Appwrite provides $3,000 USD for employees to attend conferences, take classes, or otherwise further their education.</p>
-<p>✈️ <b>Gatherings</b></p>
-<p>We typically meet up couple times a year in person for work and fun! What will be our next location? NYC, London, LA, or Barcelona? Help us decide!</p>
-<p>🖥 <b>Top Notch Equipment</b></p>
-<p>Appwrite will let you choose a new laptop of your choice (up to $3,000 USD) and will reimburse up to $500 USD for office expenses.</p>
-<p>🧦 <b>Unlimited SWAGS</b></p>
-<p>At Appwrite, we really love Swags. Each new team member gets unlimited credits to grab any official Appwrite Swag that they wish.</p>
-</div></div>
-<style>
-                @media only screen and (max-width: 767px) {
-                    #block-2 {
-                        padding-top: 25px !important; padding-bottom: 25px !important;
-                    }
-                }
-                </style>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -2317,217 +2086,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18px">Location: Remote - Anywhere</b> (Open to applicants located anywhere around the globe.)</div><div>&nbsp;</div><div>At 10up, we call developers like you <i>engineers</i> because you aren’t just a “coder”: you’re an innovative problem solver that uses web programming skills to divine smart, creative solutions to client challenges. As a Lead Web Engineer at 10up, you are taking the driving seat in building websites and solutions utilized by millions of people daily. 10uppers have been pushing the boundaries of WordPress for over 12 years—help innovate the internet by building exciting projects alongside a top-in-the-field team.</div><div><br></div><div>You’ll work on a combination of unique projects and ongoing support engagements that help season your technical leading skills. As a leading digital agency, 10up’s client roster spans from innovative startups and impactful non-profits to some of the biggest names in the industry, such as ESPN, Google, The New York Times Co., Microsoft, and The Nobel Prize Committee.</div><div><br></div><div>As a 10upper, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 40 countries, 10up fully embraces the benefits of distributed work.</div></div><div class="section page-centered"><div><h3>What you will do: </h3><ul class="posting-requirements plain-list"><ul><li>Develop enterprise-level WordPress plugins and/or themes primarily using PHP and Gutenberg blocks in React.js.</li><li>Drive strategy in collaboration with experts across multiple disciplines, and lead overall technical vision and delivery on large-scale projects.</li><li>Engage meaningfully with clients; leading demos and driving discussions.</li><li>Contribute to the improvement of the Engineering discipline by leading and mentoring other fellow engineers</li><li>Ultimately you will make the web better by finely crafting websites, apps, and tools that reach millions of online visitors every day.</li></ul></ul></div></div><div class="section page-centered"><div><h3>About you: </h3><ul class="posting-requirements plain-list"><ul><li>Your experience leading large-scale enterprise projects makes you well-suited to lead a team of senior engineers, and wrangle multiple stakeholders, to find simple yet elegant solutions to complex problems.</li><li>Your expert skills in WordPress engineering with PHP, <a href="http://React.js" class="postings-link">React.js</a>, and Gutenberg consistently follow best practices and set the highest standards of excellence.</li><li>You have a code portfolio. Link us to your best WordPress work on GitHub and you’ll never have to do any live coding or whiteboard testing!&nbsp;</li><li>You have the ability to expertly debug performance and caching issues across environments.</li><li>You prefer to work fully remote and are effectively engaging in a distributed team from the location of your choosing.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Benefits of interest:</h3><ul class="posting-requirements plain-list"><ul><li>Multiple paid time off programs, including accrued PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day.</li><li>Health, dental, and life insurance programs (available for United States team members).</li><li>Retirement contribution programs (currently available in the U.S. and U.K.).</li><li>Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations.</li><li>$3,000 USD accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study.</li><li>Global Company summits – opportunities to meet, socialize and learn with fellow 10uppers in person at remarkable destinations.&nbsp;</li><li>An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year.</li><li>A Director of Engineering that supports your career growth and development.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="salary-range"><div>$80,000 - $140,000 a year</div><small><div>The expected annual salary range for this position is between $80,000 and $140,000 USD. Compensation is determined based on a variety of factors including relevant experience, other job related qualifications/skills, geographic location, and business needs.</div></small></div><div class="section page-centered" data-qa="closing-description"><div><b style="font-size: 18px">Join our team!&nbsp;</b></div><div><br></div><div>If you are passionate about 10up's mission and think you have what it takes to be successful in this role even if you don't check all the boxes, please apply. We'd appreciate the opportunity to personally review your application. Everyone gets a response.</div><div><br></div><div>Read more about <a href="https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view" class="postings-link">What to Expect </a>through our Recruiting process.</div><div><br></div><div>We don't want you to miss any communication from us! To ensure you receive updates on your application, please add jobs@10up.com to your contacts list! #LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/10up-2/765484c6-4f6c-483e-a3aa-9b51e0a61490/apply">Apply for this job</a></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Developer Relations Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/3655681" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>The Developer Relations team at Canonical engage with community and enterprise software developers to help them embrace the Canonical approach to open source. We enable community developers and ISVs to deliver their applications to millions of Linux users and devices as snaps, charms, debs and Docker images. We also bring their feedback to engineering teams at Canonical for continuous improvement.</p>
-<p>As a Developer Relations Engineer, you will spearhead the adoption of new technologies in upstream communities. You will identify exciting new areas of development, programming languages, and classes of application, and explore ways to deliver those applications to Ubuntu users. Then you will reach out to community leaders and technical leaders in those ecosystems and build a common understanding of the best approach to application delivery on Ubuntu for their work. You will contribute to code and technical documentation. This position will challenge you to become an expert in the technologies on which we build the Ubuntu ecosystem, and will utilize your communication, presentation and persuasion skills. We aim to inspire the next generation of engineers to work more efficiently with open source, adopting the latest practices and shaping Canonical tools to suit new workflows and priorities.</p>
-<p>This role is a good fit for someone who is tech-savvy, passionate, collaborative, and who can communicate with a wide range of audiences. You must be a professionally qualified software engineer with open source experience. You will definitely need to be technically skilled with Linux. Experience with Ubuntu, snaps, charms or Docker images and familiarity with desktop and Linux server software development are valuable skills for the role.</p>
-<p>You will represent not only the Ubuntu community but also Canonical as a contributor to the wider open source ecosystem. You will work in a distributed team and travel internationally 2-4 times per year for engineering sprints, community summits, industry events, and strategic planning sessions.</p>
-<h3>What you will do</h3>
-<ul>
-<li>Gain a deep understanding of snaps, charms, debs and Docker images</li>
-<li>Grow the developer community by attracting software developers and ISVs to the platform</li>
-<li>Create content to scale up adoption, demonstrate best practices, and showcase new features</li>
-<li>Provide input to development teams at Canonical based on feedback from ISVs, developers, and the wider community</li>
-<li>Collaborate with software developers, product managers and technical writers</li>
-<li>Write ecosystem specific guides, tutorials, release notes, and white papers</li>
-<li>Curate existing documentation, performing periodic reviews, triage user feedback/bug reports and determine priorities for remedial work</li>
-<li>Engage with the community through various means, including discourse, IRC, social media, conferences, etc.</li>
-<li>Identify relevant influencers and devising plans on how to effectively engage with them</li>
-<li>Deliver training workshops in person and remotely</li>
-<li>Represent the platform via speaking engagements at industry events and community conferences</li>
-</ul>
-<h3>Who you are</h3>
-<ul>
-<li>You love technology and working with brilliant people</li>
-<li>You are curious, flexible, articulate, and accountable</li>
-<li>You value soft skills and are enthusiastic, thoughtful, and self-motivated</li>
-<li>You have experience with developer tools and open source projects</li>
-<li>You have a clear public record of accomplishments (talks, blog posts, GitHub, Twitter, etc)</li>
-<li>You have interest and experience with two or more of Ubuntu Linux - kernel or userspace, DevOps, software development, testing and QA, package management, container technology</li>
-<li>You can work autonomously and assume full ownership of objectives as needed</li>
-<li>You can be flexible with your time and enjoy working with new technology in a fast-paced environment</li>
-<li>You are experienced working with open source communities and understand the workflow of volunteer contributors</li>
-</ul>
-<h3>Nice to have</h3>
-<ul>
-<li>Experience with community management</li>
-<li>Experience with developer advocacy</li>
-<li>Experience as a software developer</li>
-<li>Examples of contributions to the Ubuntu Community</li>
-<li>Experience with contributing to open source projects</li>
-</ul>
-<h3>We offer</h3>
-<ul>
-<li>Learning and development opportunities and budget</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual leave</li>
-<li>Priority pass for travel</li>
-</ul>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit globally and set a very high standard for people joining the company.&nbsp;</p>
-<p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity we will give your application fair consideration</a>.</em></p>
-<p>#LI-Remote #stack</p><p>Requisition ID: 799</p><p></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Developer Relations Manager</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/4322699" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>The Developer Relations team at Canonical engage with community and enterprise software developers to help them embrace the Canonical approach to open source. We enable community developers and ISVs to deliver their applications to millions of Linux users and devices as snaps, charms, debs and Docker images. We also bring their feedback to engineering teams at Canonical for continuous improvement.</p>
-<p>As a Developer Relations Manager, you will lead a team of developer relations engineers who engage with developer communities and ISVs to help them reach the Ubuntu ecosystem. Typically we help them shape their snaps, charms, or Ubuntu-based Docker images, and ensure that Ubuntu is fully enabled in their CI/CD pipelines.</p>
-<p>This is a role that requires strong technical grounding in software engineering, Linux and open source communities, container technologies and devops. It is also a management role that requires judgement, empathy and drive. You and your team will represent not only the Ubuntu community but also Canonical as a contributor to the wider Linux ecosystem. You will lead a distributed team and travel internationally 2-4 times per year for engineering sprints, community summits, industry events, and strategic planning sessions.</p>
-<h3>What you will do</h3>
-<ul>
-<li>Build and lead a developer relations team at Canonical</li>
-<li>Gain a deep understanding of snaps, Juju charms, or Docker containers</li>
-<li>Grow the developer community by attracting software developers and ISVs to the platform</li>
-<li>Create content to scale up adoption, demonstrate best practices, and showcase new features</li>
-<li>Provide input to development teams at Canonical based on feedback from ISVs, developers, and the wider community</li>
-<li>Collaborate with software developers, product managers and technical writers on developing documentation</li>
-<li>Write ecosystem specific guides, tutorials, release notes, and white papers</li>
-<li>Curate existing documentation, performing periodic reviews, triage user feedback/bug reports and determine priorities for remedial work</li>
-<li>Engage with the community through various means, including discourse, IRC, social media, conferences, etc.</li>
-<li>Identify relevant influencers and devising plans on how to effectively engage with them</li>
-<li>Deliver training workshops in person and remotely</li>
-<li>Represent the platform via speaking engagements at industry events and community conferences</li>
-</ul>
-<h3>Who you are</h3>
-<ul>
-<li>You love technology and working with brilliant people.</li>
-<li>You are curious, flexible, articulate, and accountable.</li>
-<li>You value soft skills and are passionate, thoughtful, and self-motivated.</li>
-<li>You have experience with developer tools and open source projects.</li>
-<li>You have a clear public record of accomplishments (talks, blog posts, GitHub, Twitter, etc).</li>
-<li>You have interest and experience with two or more of the following: Ubuntu Linux - kernel or userspace, DevOps, software development, testing and QA, package management, container technology.</li>
-<li>You can work autonomously and assume full ownership of objectives as needed.</li>
-<li>You can be flexible with your time and enjoy working with new technology in a fast-paced environment.</li>
-<li>You are experienced working with open source communities and understand the workflow of volunteer contributors.</li>
-</ul>
-<h3>Nice to have</h3>
-<ul>
-<li>Experience as a software developer</li>
-<li>Examples of contributions to the Ubuntu Community</li>
-<li>Experience with contributing to open source projects</li>
-</ul>
-<p>Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, the world’s best free software platform. Our services help businesses worldwide reduce costs, improve efficiency and enhance security with Ubuntu.</p>
-<p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your <a href="https://canonical.com/careers/diversity/identity">identity</a> we will give your application fair consideration.</em></p>
-<p>#LI-remote</p><p>Requisition ID: 924</p><p></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Senior Observability Platform Developer - Python/Go</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/2166631" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>Canonical seeks an experienced developer with a proven track record in Python and/or Go. As part of the Observability team, you will develop a cloud-native monitoring stack that composes best-in-class open-source monitoring tools. The stack is opinionated, resilient, and scalable, providing deep insights out of the box. The user experience is polished and seamless for the end-users, and its administrators will enjoy smooth, lightweight Day 1 and Day 2 operations.&nbsp;</p>
-<p>This is an exciting opportunity for a software engineer passionate about open source software, Linux, Kubernetes, and Observability. Build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, the growing international software company behind Ubuntu.</p>
-<p>The monitoring stack will monitor applications running on a mix of cloud technologies such as Kubernetes and OpenStack, as well as bare-metal, virtual machines and containers. The stack will be capable of monitoring applications and infrastructure irrespective of whether they are operated by Juju, and will leverage multiple data sources at various levels of the architecture, including Juju itself, to contextualize the collected telemetry and insights delivered to the end-users.</p>
-<p>You can read more about the project <a href="https://grafana.com/blog/2021/10/28/open-source-done-right-why-canonical-adopted-grafana-loki-and-grafana-agent-for-their-new-stack/">here</a> and <a href="https://juju.is/blog/model-driven-observability-part-1">here</a>.</p>
-<p><strong>Location: </strong><em>This role will be based remotely in the EMEA and Americas regions</em></p>
-<h2>What your day will look like</h2>
-<ul>
-<li>Collaborate proactively with a globally distributed team</li>
-<li>Write, test and document high quality code to create new features</li>
-<li>Debug issues and interact with a vibrant community</li>
-<li>Review code produced by other engineers</li>
-<li>Attend conferences to represent Canonical and the Charmed Observability Stack</li>
-<li>Work from home with global travel 2 to 4 weeks for internal and external events</li>
-</ul>
-<h2>What we are looking for in you</h2>
-<ul>
-<li>You love technology, observability and working with brilliant people</li>
-<li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li>
-<li>You have a Bachelor’s or equivalent in Computer Science, STEM or similar degree</li>
-<li>You have a proven understanding of the importance of observability and monitoring for keeping software running smoothly</li>
-<li>You have strong working knowledge of modern monitoring technologies like Prometheus, Alertmanager, Grafana, Loki, Mimir, etc., and how they fit together</li>
-<li>You are a skilled Python developer, preferably with a track record in open source</li>
-<li>You have a working knowledge of Go</li>
-<li>You have proven, hands-on experience deploying, configuring and using Kubernetes</li>
-<li>You are comfortable contributing to open source codebases maintained by other companies, you have a history of driving consensus in groups of multiple stakeholders with different interests and getting the resulting work delivered</li>
-<li>You have experience with infrastructure-as-code and configuration management tools</li>
-<li>You have interest and experience with two or more of the following: Ubuntu Linux, container images, Debian packaging, snap, distributed systems.</li>
-</ul>
-<h2>What we offer you</h2>
-<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.&nbsp;&nbsp;</p>
-<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, please ask your Talent Partner.</p>
-<ul>
-<li>Fully remote working environment - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of 2,000USD per annum</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Parental Leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues at ‘sprints’</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote&nbsp;</p><p>Requisition ID: 405</p><p></p>
-    
                 </details>
                 </td>
             </tr>,<tr>
