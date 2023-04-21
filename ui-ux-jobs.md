@@ -10,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/fluyo-ux-ui-designer-product-owner" align="right" target="_blank">Apply</a>
@@ -68,7 +68,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/createape-inc-ux-ui-designer" align="right" target="_blank">Apply</a>
@@ -136,7 +136,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>420 days ago</text>
+                <text>421 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote" align="right" target="_blank">Apply</a>
@@ -187,6 +187,137 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4150/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>A.Team</h5>
+                    <h3> Senior Independent UX/UI Designer ($110-$190/hr)</h3>
+                </td>
+                <td width="300">
+                    <code>Design</code>
+                </td>
+                <td width="200">
+                <text>527 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0071/4150/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> NYC, SF, and TLV
+    <br /><strong>URL:</strong> <a href="https://build.a.team/viaweworkremotely">https://build.a.team/viaweworkremotely</a>
+</p>
+
+<div>
+<a href="https://build.a.team/wwrdesignerfasttrack">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior UX/UI designers (along with developers &amp; product folks) to team up with the hand-picked, high-growth companies on their next big thing. <br><br>After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.<br><br>As part of A·Team, you can expect:</div><ul>
+<li>
+<strong>High-paying, meaningful UX/UI design missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
+<li>
+<strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
+<li>
+<strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
+<li>
+<strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
+<li>
+<strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
+</ul><div>
+<br><strong>How to apply:<br></strong>Go here: <a href="https://build.a.team/wwrdesignerfasttrack">https://build.a.team/wwrdesignerfasttrack</a> + mention WWR under how you heard about A·Team. No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.<br><strong><br>What you’ll do:</strong>
+</div><ul>
+<li>Once part of A.Team, you’ll regularly be invited to be the lead designer for impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old-school non-tech incumbents looking to build as a tech giant would.</li>
+<li>Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </li>
+<li>You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is for:</strong>
+</div><ul>
+<li>Senior UX/UI Designers who left large companies and high-growth startups to pursue their craft with autonomy.</li>
+<li>Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</li>
+<li>The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing.</li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is </strong><strong><em>not</em></strong><strong> for:</strong>
+</div><ul>
+<li>People looking for small gigs.</li>
+<li>Folks looking to build simple wordpress/wix/squarespace-style websites.</li>
+<li>Those still early in their careers and recent university/bootcamp grads (at least not yet).</li>
+</ul><div>
+<br><strong>Our long-term vision:<br></strong><a href="https://build.a.team/wwrdesignerfasttrack">A·Team</a> is a new type of company for a new kind of independent software builders. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </div><div>
+<br>To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1655002/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Wikimedia</h5>
+                    <h3>Lead UX Designer</h3>
+                </td>
+                <td width="300">
+                    <code>education,recruiter,ux,open source</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/design/lead-ux-designer-1655002" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Lead UX Designer</strong></p>
+<p><strong>Summary</strong></p>
+<p>The Wikimedia Foundation is a non-profit organization supporting Wikipedia and other Wiki projects. The Foundation operates one of the world’s top five websites and has global reach and impact.  Technology and innovation are critical in our quest to support every human in freely sharing knowledge. </p>
+<p>The Product Design and Strategy Group at Wikimedia is looking for a Lead UX Designer with an expert understanding of user experience and product development processes to work within one of our multi-disciplinary product teams. You will lead all aspects of the user experience, partnering with the other product leads to conceive and execute upon the product strategy for your product team.</p>
+<p><strong>You will be responsible for…</strong></p>
+<ul style="">
+<li style="">Reducing complexity to create simple, delightful experiences for our users.</li>
+<li style="">Creating prototypes and running experiments to iteratively test your hypotheses.</li>
+<li style="">Using and evolving our design system and guidelines, to create new features from ideas on paper to implementation.</li>
+<li style="">Applying accessibility standards and guidelines to your designs.</li>
+<li style="">Collaborating with product managers and engineers to create product plans and maintain product design processes.</li>
+<li style="">Distilling complex concepts into easy to understand talking points to engage with our readers and communities throughout the design process.</li>
+</ul>
+<p><strong>Skills and experience…. </strong></p>
+<p><em>The right person is better than the right set of experiences. These are the traits we’ve identified that make great additions to our team so far.</em></p>
+<ul style="">
+<li style="">Can craft compelling stories that persuade team members and stakeholders to adopt their ideas.</li>
+<li style="">Experience mentoring other designers on design whilst welcoming feedback from others.</li>
+<li style="">Solid experience using evaluative and generative research methods, to build a deeper understanding of audience behaviors.</li>
+<li style="">Has a strong creative vision and the ability to switch easily from blue sky ideation to tactical thinking.</li>
+<li style="">Shares their work and ideas beyond their own team and enjoys engaging with the global design community. </li>
+<li style="">8+ years of experience contributing on design teams</li>
+<li style="">Bachelor's degree and/or Masters degree, or equivalent in related work experience </li>
+</ul>
+<p><strong>Additionally, we’d love it if you have...</strong></p>
+<ul style="">
+<li style="">Background in content consumption, publishing, education, or news</li>
+<li style="">Experience acting as a researcher, both in-person and with remote participants</li>
+<li style="">Have familiarity with Free Knowledge and/or Open Source communities</li>
+<li style="">Speak more than one of the nearly 300 languages of the users you’ll be designing for</li>
+</ul>
+<div class="h4">About the Wikimedia Foundation</div>
+<p>The Wikimedia Foundation is the nonprofit organization that operates Wikipedia and the other Wikimedia free knowledge projects. Our vision is a world in which every single human can freely share in the sum of all knowledge. We believe that everyone has the potential to contribute something to our shared knowledge, and that everyone should be able to access that knowledge freely. We host Wikipedia and the Wikimedia projects, build software experiences for reading, contributing, and sharing Wikimedia content, support the volunteer communities and partners who make Wikimedia possible, and advocate for policies that enable Wikimedia and free knowledge to thrive. </p>
+<p>The Wikimedia Foundation is a charitable, not-for-profit organization that relies on donations. We receive donations from millions of individuals around the world, with an average donation of about $15. We also receive donations through institutional grants and gifts. The Wikimedia Foundation is a United States 501(c)(3) tax-exempt organization with offices in San Francisco, California, USA.</p>
+<p><em><strong>As an equal opportunity employer, the Wikimedia Foundation values having a diverse workforce and continuously strives to maintain an inclusive and equitable workplace. We encourage people with a diverse range of backgrounds to apply. We do not discriminate against any person based upon their race, traits historically associated with race, religion, color, national origin, sex, pregnancy or related medical conditions, parental status, sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, or any other legally protected characteristics.</strong></em></p>
+<p>The Wikimedia Foundation is a remote-first organization with staff members including contractors based in more than 50 countries. Salaries at the Wikimedia Foundation are set in a way that is competitive, equitable, and consistent with our values and culture. The anticipated annual pay range of this position for applicants based within the United States is US $119,000 to US$186,000 with multiple individualized factors, including cost of living in the location, being the determinants of the offered pay. For applicants located outside of the US, the pay range will be adjusted to the country of hire. We neither ask for nor take into consideration the salary history of applicants. The compensation for a successful applicant will be based on their skills, experience and location. </p>
+<p>All applicants can reach out to their recruiter to understand more about the specific pay range for their location during the interview process.</p>
+<p><em><strong>If you are a qualified applicant requiring assistance or an accommodation to complete any step of the application process due to a disability, you may contact us at recruiting@wikimedia.org or +1 (415) 839-6885.</strong></em></p>
+<p><strong>More information</strong></p>
+<p><a href="%22https:/wikimediafoundation.org/about/jobs/#section-12%22" rel="nofollow"><strong>U.S. Benefits &amp; Perks</strong></a><br><a href="%22https:/wikimediafoundation.org/%22" rel="nofollow"><strong>Wikimedia Foundation</strong></a><br><a href="%22https:/foundation.wikimedia.org/wiki/Applicant_privacy_policy%22" rel="nofollow"><strong>Applicant Privacy Policy</strong></a><br><a href="%22https:/diff.wikimedia.org/%22" rel="nofollow"><strong>News from across the Wikimedia movement</strong></a><br><a href="%22https:/wikimediafoundation.org/news/%22" rel="nofollow"><strong>Blog</strong></a><br><a href="%22https:/meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017%22" rel="nofollow"><strong>Wikimedia 2030</strong></a><br><a href="%22https:/medium.com/freely-sharing-the-sum-of-all-knowledge/we-stand-for-racial-justice-49c31afbabca%22" rel="nofollow"><strong>Our Commitment to Equity</strong></a><br><a href="%22https:/www.youtube.com/watch?v=OQzZI0l3IOw%22" rel="nofollow"><strong>This is Wikimedia Foundation</strong></a><strong> </strong><br><a href="%22https:/www.youtube.com/watch?v=xQ4ba28-oGs%22" rel="nofollow"><strong>Facts Matter</strong></a><br><a href="%22https:/wikimediafoundation.org/wiki/Our_projects%22" rel="nofollow"><strong>Our Projects</strong></a><br><a href="%22https:/techblog.wikimedia.org/%22" rel="nofollow"><strong>Our Tech Stack</strong></a></p>
+<div id='"l-content"'> </div>
+<img src="https://remotive.com/job/track/1655002/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/986276/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -197,7 +328,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
