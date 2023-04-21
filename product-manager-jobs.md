@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-remote-product-manager-needed-1" align="right" target="_blank">Apply</a>
@@ -108,7 +108,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/createape-inc-junior-product-manager" align="right" target="_blank">Apply</a>
@@ -153,7 +153,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>70 days ago</text>
+                <text>71 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1" align="right" target="_blank">Apply</a>
@@ -222,7 +222,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>526 days ago</text>
+                <text>527 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -288,7 +288,7 @@
                     <code>customer support,finance,legal,marketing</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/mobile-app-product-manager-1654631" align="right" target="_blank">Apply</a>
