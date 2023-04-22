@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>78 days ago</text>
+                <text>79 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sportybet-devops-engineer" align="right" target="_blank">Apply</a>
@@ -76,7 +76,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>196 days ago</text>
+                <text>197 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer" align="right" target="_blank">Apply</a>
@@ -146,7 +146,7 @@
                     <code>cloud,developer,devops,docker</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1639500" align="right" target="_blank">Apply</a>
