@@ -10,7 +10,7 @@
                     <code>Management and Finance</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-administrative-assistant-project-manager-1" align="right" target="_blank">Apply</a>
@@ -61,38 +61,26 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/6067/logo.gif" width="38px" height="auto">
+                    <img src="https://pbs.twimg.com/profile_images/1306325743580848130/mk0qvsZ9_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>AMAZIX</h5>
-                    <h3> Project Manager</h3>
+                    <h5>Kraken</h5>
+                    <h3>Senior Project Manager, Organization Design and Workforce Planning</h3>
                 </td>
                 <td width="300">
-                    <code>Management and Finance</code>
+                    <code></code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/amazix-project-manager" align="right" target="_blank">Apply</a>
+                <a href="https://jobs.lever.co/kraken/b7e9c622-03bb-4239-8ac9-da1f7e287b50" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/6067/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> HONG KONG
-    <br /><strong>URL:</strong> <a href="https://amazix.com/">https://amazix.com/</a>
-</p>
-
-<div>AmaZix is ranked the #1 blockchain marketing agency worldwide in 2021 by Softwareworld. We employ 60+ staff, contractors, and partners and represent clients including Bancor, World Mobile Chain, and many other blockchain firms in wallets, staking, NFTs, blockchain financial services / Fintech, development platforms, security, and others.</div><div><br></div><div>We require a Project Manager for our team. Responsibilities include:</div><div><br></div><div>Ensuring timely hand-off of deliverables</div><div>Strict adherence to client timelines</div><div>Constant and continual attention to detail</div><div>Providing clients with custom tailored project solutions</div><div>Detail-oriented team coordination</div><div>Crisis management</div><div><br></div><div><br></div><div><br></div><div><br></div><div>Payment is made in crypto (stablecoin options possible)</div><div>
-<br><br>
-</div><div><strong>Requirements</strong></div><div>Bachelor’s degree in marketing, economics, project management or a related field</div><div>3-5 years of experience as a project manager</div><div>PMP / PRINCE2 / SCRUM Certification / Google Project Management / CAPM / PMI-ACP</div><div>Hands-on experience with GSuite, Zoho, Asana, Atlassian, Agile</div><div>Strong communication skills</div><div>Team player</div><div>Highly organized and able to handle multiple projects</div><div>Blockchain experience (DeFi, crypto, NFT, etc.)</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/amazix-project-manager">https://weworkremotely.com/remote-jobs/amazix-project-manager</a></p>
-
+                <div class="section page-centered" data-qa="job-description"><div><b><span style="font-size: 18pt">Building the Internet of Money&nbsp;</span></b></div><div><br></div><div><span style="font-size: 10.5pt">Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</span></div><div><br></div><div><span style="font-size: 10.5pt">What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the adoption of cryptocurrency so the world can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Before you apply, please read the </span><a href="https://kraken-culture.notion.site/" style="font-size: 10.5pt" class="postings-link">Kraken Culture Explained</a><span style="font-size: 10.5pt"> to learn more about our internal culture, values, and mission.</span></div><div><br></div><div><span style="font-size: 10.5pt">As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who have a long track record of building premium products for professionals and institutions as well as newcomers to the space. Kraken is committed to industry-leading security through our products like </span><a href="https://pro.kraken.com/" style="font-size: 10.5pt" class="postings-link">Kraken Pro</a><span style="font-size: 10.5pt">, </span><a href="https://www.kraken.com/en-us/nft" style="font-size: 10.5pt" class="postings-link">Kraken NFT</a><span style="font-size: 10.5pt">, and </span><a href="https://cryptowat.ch/" style="font-size: 10.5pt" class="postings-link">Cryptowatch</a><span style="font-size: 10.5pt">, with a focus on world-class customer support and </span><a href="https://www.kraken.com/learn" style="font-size: 10.5pt" class="postings-link">crypto education</a><span style="font-size: 10.5pt"> for all.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Become a Krakenite and build the internet of money!</span></div><div><br></div><div><b style="font-size: 18px">The Team</b></div><div><br></div><div><span style="font-size: 11pt">Our People team is called the Krakenite Experience (KX) team, and our aim is to become a world leader in People Experience. We are now hiring a Project Manager, Organizational Design and Workforce Planning to join our diverse and forward‐thinking global company.</span></div><div><br></div><div><span style="font-size: 11pt">Our People team is called the Krakenite Experience (KX) team, and our aim is to become a world leader in People Experience. We are now hiring a Project Manager, Organizational Design and Workforce Planning to join our diverse and forward‐thinking global company.</span></div></div><div class="section page-centered"><div><h3>The Opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Lead complex, cross functional projects from inception to execution; working with stakeholders to understand objectives, develop requirements, create and manage project schedules, identify risks, and communicate clearly with stakeholders across the organization&nbsp;</li><li>In partnership with stakeholders, develop workforce planning models, financial planning and analysis, stakeholder communication, and manage vendor resources</li><li>Partner with the executive sponsors to communicate program goals, objectives, and outcomes</li><li>Establish and ensure appropriate governance functions across projects</li><li>Develop and maintain required program documentation and collateral</li><li>Oversee the execution of program projects, their progress compared with the plan and production of agreed deliverables</li><li>Additional duties and responsibilities as assigned&nbsp;</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>5-7 years of experience in program management and workforce development</li><li>Exceptional leadership skills with the ability to develop and communicate the program objectives, inspire and motivate, and maintain alignment with the business strategy</li><li>Outstanding verbal and written communication skills, including the ability to explain the program goals and objectives to the business</li></ul></ul></div></div><div class="section page-centered"><div><h3>Nice to haves</h3><ul class="posting-requirements plain-list"><ul><li>Previous experience working in HR</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><b style="font-size: 11pt">#UK #US #EU&nbsp; #LI-Remote</b></div><div><br></div><div><span style="font-size: 10.5pt">Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</span></div><div><br></div><div><span style="font-size: 10.5pt">As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</span></div><div><br></div><div><b><span style="font-size: 13.5pt">Stay in the know</span></b></div><div><br></div><div><a href="https://twitter.com/krakenfx" style="font-size: 10.5pt" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" style="font-size: 10.5pt" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" style="font-size: 10.5pt" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/b7e9c622-03bb-4239-8ac9-da1f7e287b50/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
