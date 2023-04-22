@@ -1,5 +1,51 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/2410/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Carb Manager</h5>
+                    <h3> Senior Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/carb-manager-senior-product-manager" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0084/2410/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> United States
+    <br /><strong>URL:</strong> <a href="http://www.carbmanager.com">http://www.carbmanager.com</a>
+</p>
+
+<h3></h3>
+<h3>Company Overview:</h3>
+<p>Carb Manager is the #1 health and fitness app for people on low-carb, Keto, and other macro-focused diets, available on iOS, Android, and the web. Altogether, we've helped over 10 million people achieve their health goals since 2010. Carb Manager is a top health and fitness app in the iOS App Store, with a 4.8/5 rating with over 500,000 five-star reviews.<br></p>
+<p>We are seeking a highly motivated and talented individual to join our team as a Senior Product Manager. Reporting directly to the Chief Product Officer and working with a passionate and talented cross functional team, the Senior Product Manager will play a critical role in delivering on our growth strategy and optimizing retention and engagement of our existing users.<br></p>
+<p>This is an amazing company to work for. We offer:</p> <ul> <li>The benefits of  the work-from-home convenience</li> <li>The reach and impact of an established brand</li> <li>The energy and dynamism of a startup</li> <li>The stability of a profitable company</li> <li>A creative, entrepreneurial, friendly, and supportive culture</li> <li>The ability to make a real, positive impact on the world</li> </ul>
+<p><br></p> <h3>Responsibilities</h3>The Senior Product Manager will lead the roadmap on new user growth and existing user engagement &amp; retention. <ul> <li>Own the growth and retention outcomes from end to end</li> <li>Identify growth and engagement opportunities through a deep analysis of market trends including platform changes, new &amp; existing platforms, new &amp; existing channels, and other opportunities</li> <li>Establish growth and engagement KPIs and goals</li> <li>Produce detailed product requirement documents and specifications</li> <li>Develop conceptual diagrams, wireframes, prototypes, and visual mockups</li> <li>Frequently utilize rapid experimentations, including but not limited to A/B testing, to inform and refine product hypotheses</li> <li>Follow our Agile processes and work closely with cross-functional teams consisting of UX researchers, product designers, engineering, content, and marketing to effectively set product OKRs and roadmap initiative plans</li> <li>Understand the competitive landscape for Carb Manager and use it to shape product strategy</li> <li>Coordinate/communicate updates and releases with internal cross-functional teams</li> <li>Manage multiple assignments and align them with business priorities &amp; deadlines</li> </ul>
+<p><strong>Requirements</strong></p>
+<p><br></p>
+<ul> <li>3- 5 years of experience in product management (consumer mobile or consumer web) with strong focus on growth and optimization</li> <li>Strong servant leadership mindset and practices</li> <li>Strong bias-for-action in moving opportunities forward with speed and discipline</li> <li>Ability to create wire-frames and product specifications</li> <li>Great data analysis and problem solving skills</li> <li>Strong Agile management skills and ability to coordinate work cross functionally</li> <li>Ability to lead, motivate, and develop a small team - including those who do not directly report to you</li> <li>A passion for creating engaging and high quality experiences</li> <li>Excellent written/verbal, organizational, analytical skills, and attention to detail</li> <li>Ability to provide clear direction based on deconstructing industry and competitor trends</li> <li>Previous start-up, digital platform, and/or consulting experience is a plus</li> <li>Past experience in managing teams is a strong plus</li> <li>Previous working experience as a product owner is a plus</li> <li>BA/BS degree</li> <li>MBA a plus</li> </ul>
+<p><strong>Benefits</strong></p>
+<p>We're a fun, friendly, talented group of product-minded professionals, who love designing features that delight and support our customers, learning new technologies, sharing memes, and swapping recipes. Our team hails from all corners of the globe, from the Americas to Europe to India and beyond.</p>
+<ul> <li>Work from anywhere</li> <li>Competitive salary</li> <li>Medical/dental/vision coverage</li> <li>401(k) option for U.S. employees</li> <li>Paid holidays and vacation days</li> <li>Fun, friendly, and talented coworkers</li> <li>The opportunity to make a positive change in the lives of millions</li> </ul>
+<p>To apply, please submit your resume and a cover letter including a brief description of your relevant experience. We look forward to hearing from you! </p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/carb-manager-senior-product-manager">https://weworkremotely.com/remote-jobs/carb-manager-senior-product-manager</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0015/3041/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +56,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-remote-product-manager-needed-1" align="right" target="_blank">Apply</a>
@@ -108,7 +154,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/createape-inc-junior-product-manager" align="right" target="_blank">Apply</a>
@@ -153,7 +199,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>71 days ago</text>
+                <text>72 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1" align="right" target="_blank">Apply</a>
@@ -222,7 +268,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>527 days ago</text>
+                <text>528 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -274,73 +320,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1654631/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Bitfinex</h5>
-                    <h3>Mobile App Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>customer support,finance,legal,marketing</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/mobile-app-product-manager-1654631" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Founded in 2012, Bitfinex is a digital asset trading platform offering state-of-the-art services for digital currency traders and global liquidity providers. We're on a mission to create the most innovative cryptocurrencies exchange. This is a unique opportunity, a rare window of time at the tipping point of the financial evolution. Much like the early days of the internet, blockchain technology faces complex new challenges and having the best team plays a pivotal role in success.</p>
-<p> </p>
-<p> </p>
-<p>Our team is fully remote and globally distributed to capture the best talent from around the world. So far our company has grown fast and stayed lean to secure its place as a leader in the space.</p>
-<p> </p>
-<p> </p>
-<p>If you get excited about being in an industry that is breaking new ground and have confidence you can conquer the most challenging feats we'll encounter, we want to talk to you. Join us, and help lay the foundation for a decentralized future</p>
-<p> </p>
-<p> </p>
-<p>Currently looking for:</p>
-<div class="h2"><strong>Mobile App Product Manager (Remote)</strong></div>
-<div class="h3"><strong>​</strong><strong>Job description</strong></div>
-<p>As a Mobile App Product Manager you will work with Product and Project managers and with members of the Engineering, Design, Marketing and Legal teams to formulate and execute our business and product strategies across the Bitfinex Mobile App.</p>
-<p>You will focus on delivering Bitfinex’s industry leading professional exchange trading technology through our mobile app. To do so you will need to develop a deep understanding of our trading platform, customers, the market, our competitors and the wider cryptocurrency and blockchain industry as a whole, and collaborate with world-class engineering, marketing, legal and design teams to deliver industry-leading technologies that help us meet the company’s high level business goals. Specifically you will:</p>
-<p> </p>
-<ul style="">
-<li style="">Understand Bitfinex’s professional trader user base and their requirements to continue the development of a mobile app experience that fully recreates all web app functionality and enables traders to manage their trading strategies from their mobile devices.</li>
-<li style="">Understand the wider cryptocurrency retail market, our competition, and retail investor requirements in-depth to develop and deliver new mobile products and features that grow the mobile app’s share of the retail market.</li>
-<li style="">Contribute to the development of product and business strategy for the product team and the business as a whole.</li>
-<li style="">Research, understand and analyze customer needs and expectations.</li>
-<li style="">Own and optimize adoption KPIs for the mobile app.</li>
-<li style="">Review and prioritize activities based on business and customer impact.</li>
-<li style="">Liaise with the marketing and legal teams to increase awareness of new product and services and lead product launches.</li>
-<li style="">Develop industry partnerships and expand our ecosystem of products and services.</li>
-</ul>
-<div class="h3"><strong>Minimum requirements</strong></div>
-<ul style="">
-<li style="">2+ years of product management, product marketing and/or product design experience developing fintech or cryptocurrency-focused products.</li>
-<li style="">Experience collaborating on strategic product roadmaps; leading development from conception to launch; and working with cross-functional teams to develop consumer-facing products for international markets.</li>
-<li style="">BA/MA degree in business, marketing, design, human interaction design, computer science or equivalent working experience.</li>
-<li style="">Ability to manage multiple concurrent projects, be a true team-player, influence multiple stakeholders without direct authority, and effectively time-manage and prioritize under pressure.</li>
-<li style="">Strong UX skills, and an ability to develop simple, intuitive solutions to complex problems.</li>
-<li style="">Deep analytical, prioritization and problem solving skills, with a strong sense of responsibility.</li>
-<li style="">Demonstrated passion for cryptocurrency and the financial markets.</li>
-<li style="">An entrepreneurial self-starter mindset and the ability to succeed in a dynamic environment.</li>
-</ul>
-<p> </p>
-<div class="h3"><strong>Additional preferred qualifications</strong></div>
-<ul style="">
-<li style="">Experience developing financial products, technologies and platforms in the cryptocurrency space.</li>
-<li style="">Experience developing products for retail investors, e.g. mobile wallets, social trading, online brokerages, etc.</li>
-<li style="">Knowledge of multiple functional areas such as Product Management, Engineering, UX/UI, Sales, Customer Support, Finance or Marketing.</li>
-</ul>
-<img src="https://remotive.com/job/track/1654631/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
