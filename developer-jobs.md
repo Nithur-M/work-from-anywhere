@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-8" align="right" target="_blank">Apply</a>
@@ -57,87 +57,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/1947/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Planning Center</h5>
-                    <h3> Full Stack Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/planning-center-full-stack-developer-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0084/1947/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Carlsbad, CA
-    <br /><strong>URL:</strong> <a href="https://planningcenter.com">https://planningcenter.com</a>
-</p>
-
-<div>We are looking for a Full Stack Developer <strong>experienced in Ruby on Rails and React</strong>. You’ll work on building out new features from start to finish, refining existing features, improving performance, and ensuring the security of our customer’s data.<br><br>
-</div><div>What a typical week might look like:<br><br>
-</div><ul>
-<li>Translating your product manager’s feature pitches into technical specifications</li>
-<li>Implementing those technical specifications as a series of small, descriptive, and well-tested GitHub pull requests</li>
-<li>Pairing with your designer and developer teammates</li>
-<li>Reviewing your teammates’ pull requests to increase the quality of what we build and learn from one another</li>
-<li>Deploying to production with one click</li>
-<li>Investigating customer-reported bugs that have been triaged and researched by our fantastic support team</li>
-<li>Diagnosing errors that come in through our error monitoring tools</li>
-<li>Improving performance guided by Datadog and AWS Performance Insights</li>
-<li>Participating in book and code clubs to learn with/from other developers</li>
-</ul><div><br></div><div>
-<strong>Requirements<br></strong><br>
-</div><ol>
-<li>Must reside and be eligible to work in the United States</li>
-<li>Must be willing to travel four times each year to connect with the rest of the team (not during a pandemic)</li>
-<li>Professional experience in Ruby on Rails and React, with strong competency in at least one.</li>
-</ol><div><br></div><div>
-<strong>Benefits<br></strong><br>
-</div><div>We love our team. It’s one of the <a href="https://www.planningcenter.com/about">core pillars</a> we work off of every day, which is why we take care of you as best we can. Here are a few highlights, but you can find <a href="https://www.planningcenter.com/careers">all our benefits here</a>.<br><br>
-</div><div>Get paid: We pay in the top 10% of the New York City rates no matter where you live, contribute to your 401k, provide a charitable giving match of up to $2,000 a year, have a generous allowance for continued education, and offer a co-working stipend. The annual salary range for this position is $142,451 – $162,802.<br><br>
-</div><div>Be healthy: Generous paid sick time and vacation time, $200 a month stipend for physical fitness and mental health, 95% medical &amp; 100% dental premium health coverage.<br><br>
-</div><div>Get out: Paid Fridays off in the summer, every other Friday off the rest of the year, a month-long sabbatical every five years, one week off between Christmas and New Years, one week off each year to serve with a non-profit, and two weeks paid vacation per year increasing to three over time.<br><br>
-</div><div>
-<strong>The Hiring Process<br></strong><br>
-</div><div>
-<strong>Applications will be accepted until Thursday, May 4th.</strong> We aim to have a final decision made by no later than Thursday, May 11th, with a new hire starting by May 29th.<br><br>
-</div><div>Below is an outline of the steps in our hiring process.<br><br>
-</div><ul>
-<li>Step one: Initial Zoom call with the team for you to get to know us</li>
-<li>Step two: An online coding assessment to get a rough understanding of your experience</li>
-<li>Step three: Team interview over Zoom with a few developers</li>
-<li>Step four: Technical interview over Zoom with a few developers</li>
-<li>Step five: Offer extended (optional meeting with our Executive Team)<br><br>
-</li>
-</ul><div>You’ll have a chance to interact with several team members during the hiring process. We strongly encourage you to bring any questions you have; you’re interviewing us as much as we’re interviewing you.<br><br>
-</div><div>The teammates you’ll encounter along the way:<br><br>
-</div><ul>
-<li>The product manager you’ll be reporting to</li>
-<li>One or more developers from the team you’ll be joining</li>
-<li>Developers from other teams within the company</li>
-<li>Members of our executive team<br><br>
-</li>
-</ul><div>Apply with a resume and a cover letter. <strong>Your cover letter should speak directly to this position. We want to know what got you into software development, how your experience has set you up for success in this role, and why you want to join our team</strong>. If you’ve applied in the past, feel free to apply again.<br><br>
-</div><div>
-<em>Research shows that while men apply to jobs when they meet ~60% of the criteria, women and those in underrepresented groups tend only to apply when they check every box. If you’re unsure if your experience qualifies strong competency in React or Rails, we’d still love to hear from you and see if it’s a good fit!<br></em><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/planning-center-full-stack-developer-2">https://weworkremotely.com/remote-jobs/planning-center-full-stack-developer-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -148,7 +67,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-wordpress-developer" align="right" target="_blank">Apply</a>
@@ -222,7 +141,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/vexxhost-inc-developpeur-e-de-kubernetes-ansible-kubernetes-ansible-developer-1" align="right" target="_blank">Apply</a>
@@ -256,7 +175,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clutchy-senior-front-end-full-stack-developer" align="right" target="_blank">Apply</a>
@@ -335,118 +254,6 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>MailerLite</h5>
-                    <h3> PHP Integration Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Product</code>
-                </td>
-                <td width="200">
-                <text>28 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/mailerlite-php-integration-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> USA
-    <br /><strong>URL:</strong> <a href="https://www.mailerlite.com/company-values">https://www.mailerlite.com/company-values</a>
-</p>
-
-<div>
-<a href="https://www.mailerlite.com/"><strong>MailerLite</strong></a> is one of the fastest-growing email marketing services. We help more than 1 million businesses around the world, to keep in touch with their customers. Today, we are a team of more than 130 dreamers, adventurers, and world travelers passionate about what we do and believe in. And we are ready for another talented person to join the party.</div><div>
-<br>Our team is looking for an <strong>PHP Integration Developer</strong> that can help implement and coordinate solutions across a variety of our products (MailerLite, MailerSend, MailerCheck and upcoming ones).</div><div>
-<br>Join our team and become a versatile PHP Integration Developer who can effortlessly navigate various projects and seamlessly execute and upkeep third-party integrations with a wide range of providers and platforms, including but not limited to Wordpress, Woocommerce, Shopify, and Zapier.</div><div>
-<br>Let's revolutionize the way our products work together! 🚀<br><br><br>
-</div><div>
-<strong>Why MailerLite?<br></strong><br>
-</div><div>Wondering why we think you’ll love working at MailerLite? Here are 6 reasons!<br><br>
-</div><ul>
-<li>
-<strong>You won’t be bored<br></strong>We have a lot of integrations and are always looking to create more.<br><br>
-</li>
-<li>
-<strong>You will be challenged with interesting tasks<br></strong>You will have space to grow maintaining current integrations and developing new ones.<br><br>
-</li>
-<li>
-<strong>You will take ownership<br></strong>We don’t micromanage and try not to interrupt your work with random tasks. We do expect you to take full responsibility and ownership for the stuff you build.<br><br>
-</li>
-<li>
-<strong>You will have experts at hand<br></strong>Whenever you’re stuck, your teammates are eager to help you grow. And they’d love for you to share your knowledge too!<br><br>
-</li>
-<li>
-<strong>You can pick where you want to work, every day<br></strong>At MailerLite, we embrace the remote culture. Every day you get to choose what environment makes you most productive.<br><br>
-</li>
-<li>
-<strong>You can count on stability<br></strong>You can count on us to offer you a stable workplace! We're continuously growing and we’ve been around for more than 10 years.<br><br>
-</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>What you will work on<br></strong><br>
-</div><ul>
-<li>Maintain our existing integrations with Wordpress, WooCommerce, Shopify, Zapier, Prestashop and more.</li>
-<li>Design and develop new integrations with an eye on delivering impact and value to our users.</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>What we expect from you<br></strong><br>
-</div><ul>
-<li>3+ years experience with PHP, JavaScript and HTML</li>
-<li>Experience with AJAX, JSON and JSONP concepts</li>
-<li>Possess extensive knowledge of how APIs work</li>
-<li>Good knowledge of PHP frameworks (we mostly use Laravel)</li>
-<li>Investigative mind - this position requires thinking out of the box</li>
-<li>Ability to write clean code with test coverage</li>
-<li>Ability to build scalable applications</li>
-<li>Familiarity with SQL and how to write good queries</li>
-<li>Proficient understanding of code versioning tools, such as Git</li>
-<li>Proficient verbal and written communication skills in English</li>
-<li>You're a good team player</li>
-<li>A sense of personal responsibility<br><br>
-</li>
-</ul><div>       <strong>Bonus</strong>
-</div><ul>
-<li>Familiarity with other languages (NodeJS, Golang, Ruby)</li>
-<li>Experience in writing Wordpress plugins or Shopify apps</li>
-<li>Experience with VueJS</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>What we offer<br></strong><br>
-</div><ul>
-<li>Yearly Salary range: $50,000-$60,000 (gross)</li>
-<li>Remote-first culture with the team working remotely from all over the world</li>
-<li>International health insurance provided with coverage in most countries. Monthly healthcare payout available in select countries where coverage is limited</li>
-<li>Company-paid retreats. Once per year we gather for a week in an exotic location to work, learn and have fun together</li>
-<li>31 days of vacation per year. We encourage you to unplug and recharge!</li>
-<li>4 creative days. One paid day off per quarter to do something creative and fun</li>
-<li>12 parental days per year. Parents can take one paid day off every month to spend time with their children</li>
-<li>Parenting budget. Anyone who becomes a parent through childbirth or adoption gets a budget as a gift</li>
-<li>Joy Budget. Annual budget to spend on whatever that brings you joy</li>
-<li>MacBook and other tools that'll help you to do your job efficiently</li>
-<li>Check the full list of our awesome benefits <a href="https://www.mailerlite.com/employee-benefits"><strong>here.</strong></a>
-</li>
-</ul><div>
-<br><br>
-</div><div><strong>Meet your Team Lead</strong></div><div><br></div><div>
-<strong>John - </strong>Lead Developer</div><blockquote>I’m John, Lead developer at MailerLite. I’ve been with the company for almost 3 years. I enjoy all things computing, sailing and dancing among other things. The things I value most are integrity, clear communication and honesty. Our team lives by delivering impact to our users. I #lovemyjob because we have the room to grow and build amazing products.</blockquote><div><br></div><div><br></div><div><strong>Interested?</strong></div><div>
-<br>Don't send us a CV. We like to do things differently. Instead, fill out the application form.</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/mailerlite-php-integration-developer">https://weworkremotely.com/remote-jobs/mailerlite-php-integration-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
                     <h5>Proxify AB</h5>
                     <h3> Senior Vue.js Developer</h3>
                 </td>
@@ -454,7 +261,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>94 days ago</text>
+                <text>95 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-vue-js-developer" align="right" target="_blank">Apply</a>
@@ -522,7 +329,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>121 days ago</text>
+                <text>122 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1" align="right" target="_blank">Apply</a>
@@ -584,7 +391,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>154 days ago</text>
+                <text>155 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-golang-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -649,7 +456,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>221 days ago</text>
+                <text>222 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -723,7 +530,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>242 days ago</text>
+                <text>243 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/socialhub-backend-javascript-node-js-developer-remote-saas-m-f-d-2" align="right" target="_blank">Apply</a>
@@ -813,7 +620,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>242 days ago</text>
+                <text>243 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/socialhub-reactjs-web-developer-remote-saas-m-f-d-1" align="right" target="_blank">Apply</a>
@@ -925,7 +732,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>630 days ago</text>
+                <text>631 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -991,7 +798,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -1060,7 +867,7 @@
                     <code>amazon,AWS,backend,developer</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-python-developer-and-aws-manager-1656870" align="right" target="_blank">Apply</a>
@@ -1106,7 +913,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -1183,7 +990,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -1320,7 +1127,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1397,7 +1204,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
