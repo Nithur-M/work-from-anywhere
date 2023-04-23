@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-8" align="right" target="_blank">Apply</a>
@@ -57,80 +57,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior Wordpress Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>17 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-wordpress-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div>
-<strong>The Role:<br></strong><br>
-</div><div>We are searching for a Senior WordPress Developer. You can be a perfect candidate if you are growth-oriented, take pleasure in your work, and enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features.</div><div><br></div><div><strong>What we are looking for:</strong></div><ul>
-<li>You have 5+ years of proven work experience as a WordPress Developer;</li>
-<li>You have experience in plugin development, and theme integration.</li>
-<li>You got knowledge of front-end technologies including CSS3, JavaScript, HTML5, and jQuery;</li>
-<li>You possess knowledge of code versioning tools including Git, Mercurial, and SVN;</li>
-<li>Experience with common front-end development tools such as Babel, Webpack, NPM, etc</li>
-<li>You have experience working with debugging tools such as Chrome Inspector and Firebug;</li>
-<li>You have a good understanding of website architecture and aesthetics;</li>
-<li>You’re able to manage projects;</li>
-<li>You have good communication skills.</li>
-</ul><div>
-<strong><br>Nice-to-have:</strong> <br><br>
-</div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Knowledge of TypeScript.</li>
-</ul><div><br></div><div>
-<strong>Responsibilities:<br></strong><br>
-</div><ul>
-<li>Designing and building the website front-end;</li>
-<li>Creating the website architecture;</li>
-<li>Designing and managing the website back-end including database and server integration;</li>
-<li>Generating WordPress themes and plugins;</li>
-<li>Conducting website performance tests;</li>
-<li>Troubleshooting content issues;</li>
-<li>Conducting WordPress training with the client;</li>
-<li>Monitoring the performance of the live website.</li>
-</ul><div><br></div><div>
-<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div><br></div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of the Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-wordpress-developer">https://weworkremotely.com/remote-jobs/proxify-ab-senior-wordpress-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7031/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -141,7 +67,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/vexxhost-inc-developpeur-e-de-kubernetes-ansible-kubernetes-ansible-developer-1" align="right" target="_blank">Apply</a>
@@ -168,17 +94,17 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Clutchy</h5>
-                    <h3> Senior Front-End/Full-Stack Developer</h3>
+                    <h5>Proxify AB</h5>
+                    <h3> Senior Flutter Developer</h3>
                 </td>
                 <td width="300">
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>90 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/clutchy-senior-front-end-full-stack-developer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-flutter-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -187,65 +113,50 @@
                 
 
 <p>
-  <strong>Headquarters:</strong> Europe
-    <br /><strong>URL:</strong> <a href="http://clutchy.io">http://clutchy.io</a>
+  <strong>Headquarters:</strong> Sweden
+    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
 </p>
 
-<div>
-<strong>Please Note: This is a fully remote position for candidates based anywhere in Europe.<br></strong><br>
-</div><div>
+<div><strong>The Role:</strong></div><div>
+<br>We are searching for a Senior Flutter Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
 <br><br>
-</div><div>
-<strong>About Clutchy<br></strong><br>
-</div><div>Clutchy is an industry-leading Gaming and NFT marketplace on the SUI blockchain. As the first official marketplace partner of Mysten Labs, Clutchy works closely with all of the ecosystem's leading projects. Clutchy is home to an ambitious, cohesive, and high-achieving team that has exceeded all expectations since its inception with its dedication to innovation.<br><br>
-</div><div>
-<br><br>
-</div><div>
-<strong>The Role<br></strong><br>
-</div><div>We’re looking for a Senior Full-Stack Developer to develop front-end applications for Clutchy´s innovative NFT and Gaming Marketplace.<br><br>
-</div><div>You will:<br><br>
-</div><ul>
-<li>Build, deploy, and mature user-friendly, highly secure, maintainable, high-performance scalable interfaces, and client-facing UI systems</li>
-<li>Work closely with our product and design teams to develop new features from design to production</li>
-<li>Have an entrepreneurial spirit and bring ideas to front-end development</li>
-<li>Work effectively with a high degree of autonomy, but also enjoy working collaboratively in a team</li>
-<li>Understand the front-facing user experience of our products, and work alongside other team members to ensure that we utilize best principles/practices</li>
-<li>Design new and optimize existing systems and participate in design reviews</li>
-<li>Develop backend services for Clutchy</li>
+</div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
+<li>You have +3 years of experience using Flutter for Android/iOS applications and deployment on Google Play/App Store;</li>
+<li>You possess an in-depth understanding of front-end languages like HTML, CSS3, and JavaScript.</li>
+<li>You have an extensive understanding of Object Oriented programming languages like Java and C++;</li>
+<li>You are familiar with the usage of version control tools like Git, Subversion, etc. and IDEs like Android Studio, VS Code, etc.;</li>
+<li>​​You follow best practices and conventions;</li>
+<li>Responsible and able to work with minimal supervision;</li>
+<li>Upper-intermediate English level;</li>
+<li>You can communicate well with both technical and non-technical clients.</li>
 </ul><div>
-<br><strong>Requirements</strong>
+<strong><br>Nice-to-have:</strong> <br><br>
+</div><ul><li>Timezone: CET (+/- 3 hours)</li></ul><div><br></div><div>
+<strong>Responsibilities:<br></strong><br>
 </div><ul>
-<li>5+ years of experience in front-end development</li>
-<li>Expertise in front-end development with React with an understanding of React best practices, optimizations, and profiling</li>
-<li>Strong experience with GraphQL/Apollo/REST</li>
-<li>Verbal fluency in English</li>
-<li>Interest and enthusiasm for crypto markets, blockchain technology, decentralized finance, and the whole Web3 ecosystem</li>
-<li>Experience with TypeScript</li>
-<li>First-hand experience with Web3 front-end technologies and developing DeFi applications and/or FinTech applications</li>
-<li>Experience working with a large codebase and e2e testing like Cypress</li>
-<li>Knowledge building out cloud-native solutions (<strong>AWS</strong>)</li>
-<li>Experience with NoSQL and RDBMS database systems such as PostgreSQL, MySQL, or MongoDB</li>
-<li>Experience with Node.js on the back-end or <strong>Rust</strong>
-</li>
-<li>Experience with <strong>Docker</strong>
-</li>
-</ul><div>
-<br><br>
-</div><div><strong>Nice to Haves</strong></div><ul>
-<li>Dapps: Some experience with Solidity</li>
-<li>Wallet Integrations: Metamask, or similar</li>
-<li>Cryptographic Knowledge: RSA</li>
-</ul><div>
-<br><strong>Benefits</strong>
-</div><ul>
-<li>Competitive salary + tokens/equity</li>
-<li>100% remote working</li>
-<li>Flexible working hours</li>
-<li>Opportunity to work with a diverse, global, and passionate team</li>
-<li>Collaboration with leading projects and thought leaders in the crypto space</li>
-</ul>
+<li>You will be building and shipping robust apps to Android/ iOS devices (using a single codebase);</li>
+<li>​​You will be running and designing product application features across various cross-platform devices;</li>
+<li>You will be writing readable and clear code that will be extensively documented for future use and upgrades;</li>
+<li>You will be sharing feedback and brainstorming ideas with teams to improve the development process;</li>
+<li>Stay up to date with the latest technologies.</li>
+</ul><div><br></div><div>
+<strong>What we offer:<br></strong><br>
+</div><div>💻 <strong>100% remote work</strong>: Work from anywhere.<br><br>
+</div><div>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br><br>
+</div><div>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br><br>
+</div><div>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br><br>
+</div><div>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.<br><br>
+</div><div>
+<br><br><strong>Your benefits with Proxify:<br></strong><br>
+</div><div>
+<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference.<br><br>
+</div><div> <strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.<br><br>
+</div><div> <strong>Transparency</strong>: Contracts with transparency in earnings and working hours.<br><br>
+</div><div> <strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.<br><br>
+</div><div> <strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.<br><br>
+</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clutchy-senior-front-end-full-stack-developer">https://weworkremotely.com/remote-jobs/clutchy-senior-front-end-full-stack-developer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-flutter-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-flutter-developer-long-term-job-100-remote</a></p>
 
                 </details>
                 </td>
@@ -261,7 +172,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>95 days ago</text>
+                <text>96 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-vue-js-developer" align="right" target="_blank">Apply</a>
@@ -329,7 +240,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>122 days ago</text>
+                <text>123 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1" align="right" target="_blank">Apply</a>
@@ -391,7 +302,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>155 days ago</text>
+                <text>156 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-golang-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -456,7 +367,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>222 days ago</text>
+                <text>223 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -520,96 +431,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4055/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>SocialHub</h5>
-                    <h3> Backend Javascript / Node.js Developer - Remote/SaaS (m/f/d)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>243 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/socialhub-backend-javascript-node-js-developer-remote-saas-m-f-d-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0071/4055/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Schütterlettenweg 4, 85053 Ingolstadt, Deutschland
-    <br /><strong>URL:</strong> <a href="https://socialhub.io/de/">https://socialhub.io/de/</a>
-</p>
-
-<div>
-<strong>DOES THIS SOUND LIKE YOU?<br></strong><br>
-</div><ul>
-<li>You like writing automated tests so you notice regressions on your code early on<br><br>
-</li>
-<li>You love to see your users happy. Therefore you don’t hesitate to help clients if the need arises for solving bugs.<br><br>
-</li>
-<li>Using a DVCS like git comes natural to you<br><br>
-</li>
-<li>You appreciate constructive criticism and are able to provide such yourself when reviewing others code<br><br>
-</li>
-<li>You have a thing for documenting your work because you know your future self will appreciate it</li>
-</ul><div>
-<br><br><strong>YOUR REQUIREMENTS FOR THE JOB<br></strong><br>
-</div><ul>
-<li>At least 3 years working experience in a development team and experience in developing scalable web apps<br><br>
-</li>
-<li>Experience in building Node.js based APIs with Express.JS<br><br>
-</li>
-<li>Knowledge of common web security best practices (e.g. OWASP 10)<br><br>
-</li>
-<li>You are able to work and communicate with your teammates through our core hours (11am to 4pm german timezone)</li>
-</ul><div>
-<br><br><strong>THESE SKILLS WOULD BE BENEFICAL FOR YOU<br></strong><br>
-</div><ul>
-<li>You have experience with technologies like Redis, RabbitMQ and the ELK stack<br><br>
-</li>
-<li>Experience with non-relational databases<br><br>
-</li>
-<li>Knowledge of mongodb and its query syntax<br><br>
-</li>
-<li>You can analyze and resolve performance issues with mongodb queries and indices<br><br>
-</li>
-<li>You’ve worked with gitlab and gitlab ci before<br><br>
-</li>
-<li>Knowledge of the Social Network API’s e.g. Facebook, Twitter, etc.<br><br>
-</li>
-<li>You’ve run your own Web Server in the past and know your way around Linux</li>
-</ul><div>
-<br><br><strong>WHAT WE HAVE TO OFFER</strong><br><br>
-</div><div><br></div><ul>
-<li>Company houses 2023: We rent houses worldwide - free of charge for you. Enjoy work and meet your teammates from all over the world. To work or to take a vacation, we leave it up to you!<br><br>
-</li>
-<li>Flexible working hours and the possibility to work remotely.<br><br>
-</li>
-<li>An enthusiastic and friendly team in a productive working environment.<br><br>
-</li>
-<li>Varied and challenging activities in a constantly growing and future-oriented industry.<br><br>
-</li>
-<li>Great coaching and development opportunities. We have an annual budget for external training courses and conferences. We previously attended GitHub Universe in London and Amsterdam.<br><br>
-</li>
-<li>An afternoon each sprint (every 2 weeks) to work on something that interests you. Want to learn a new programming language? That’s fine by us. It doesn't have to be work-related. It’s there to help you expand your skill set and keep the creative juices flowing. <br><br>
-</li>
-<li>Always a cold Fritz-Kola in the fridge (if you decide to stop by our office). <br><br>
-</li>
-<li>Join us for whole company get-togethers. Our past retreats have been in Belgium, Prague &amp; Spain. Our next one is in Portugal.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/socialhub-backend-javascript-node-js-developer-remote-saas-m-f-d-2">https://weworkremotely.com/remote-jobs/socialhub-backend-javascript-node-js-developer-remote-saas-m-f-d-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/3165/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -620,7 +441,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>243 days ago</text>
+                <text>244 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/socialhub-reactjs-web-developer-remote-saas-m-f-d-1" align="right" target="_blank">Apply</a>
@@ -732,7 +553,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>631 days ago</text>
+                <text>632 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -798,7 +619,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -867,7 +688,7 @@
                     <code>amazon,AWS,backend,developer</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-python-developer-and-aws-manager-1656870" align="right" target="_blank">Apply</a>
@@ -913,7 +734,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -990,7 +811,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -1127,7 +948,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1204,7 +1025,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
