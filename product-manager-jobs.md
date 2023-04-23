@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/carb-manager-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -56,7 +56,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-remote-product-manager-needed-1" align="right" target="_blank">Apply</a>
@@ -154,7 +154,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/createape-inc-junior-product-manager" align="right" target="_blank">Apply</a>
@@ -199,7 +199,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>72 days ago</text>
+                <text>73 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1" align="right" target="_blank">Apply</a>
@@ -258,68 +258,98 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1658841/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>A.Team</h5>
-                    <h3> Senior Independent Product Manager/Product Designer ($110-$190/hr)</h3>
+                    <h5>SOAX</h5>
+                    <h3>Product Manager</h3>
                 </td>
                 <td width="300">
-                    <code>Product</code>
+                    <code>product manager,saas,B2B,research</code>
                 </td>
                 <td width="200">
-                <text>528 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/product/product-manager-1658841" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0071/4151/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> NYC, SF, and TLV
-    <br /><strong>URL:</strong> <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a>
-</p>
-
-<div>
-<a href="https://build.a.team/wwrproductmgrfasttrack">A·Team</a> is a VC-backed, stealth, application-only home on the internet for Senior Product Managers &amp; Product Designers (along with developers &amp; UX/UI folks) to team up with the best companies on their next big thing. <br><br>After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.<br><br>As part of A·Team, you can expect:</div><ul>
-<li>
-<strong>High-paying, meaningful client missions (where you'd lead Product) with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
-<li>
-<strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
-<li>
-<strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
-<li>
-<strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
-<li>
-<strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
-</ul><div>
-<br><strong>How to apply:<br></strong>Go here: <a href="https://build.a.team/wwrproductmgrfasttrack">https://build.a.team/wwrproductmgrfasttrack</a> + mention WWR under how you heard about A·Team. No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.<br><strong><br>What you’ll do:</strong>
-</div><ul>
-<li>Once part of A.Team, you’ll regularly be invited to be the lead Product manager/designer for impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old-school non-tech incumbents looking to build as a tech giant would.</li>
-<li>Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </li>
-<li>You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </li>
-</ul><div>
-<br><strong>Who A</strong>·<strong>Team is for:</strong>
-</div><ul>
-<li>Senior Product Managers/Designers who left large companies and high-growth startups to pursue their craft with autonomy.</li>
-<li>Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</li>
-<li>The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing.</li>
-</ul><div>
-<br><strong>Who A</strong>·<strong>Team is </strong><strong><em>not</em></strong><strong> for:</strong>
-</div><ul>
-<li>People looking for small gigs.</li>
-<li>Folks looking to build simple wordpress/wix/squarespace-style websites.</li>
-<li>Those still early in their careers and recent university/bootcamp grads (at least not yet).</li>
-</ul><div>
-<br><strong>Our long-term vision:<br></strong><a href="https://build.a.team/wwrproductmgrfasttrack"><span>A·Team</span></a> is a new type of company for a new kind of independent software builders. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </div><div>
-<br>To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
-
+                <p style="min-height: 1.5em;">📌 SOAX is a value-driven UK company dedicated to empower the world and help people advance tomorrow’s technologies with public data at their service.</p>
+<p style="min-height: 1.5em;">Our product is a high-margin and fast-growing SaaS business with a usage-based pricing model operated by a stellar team of 70+ fully remote people across 20+ countries. Founded in early 2020, SOAX has won the hearts of 1000+ data-hungry organizations across the globe with its core product — robust infrastructure for public data collection (a.k.a Residential Rotating Back-connect Proxy Network).</p>
+<p style="min-height: 1.5em;">We are looking for a <strong>Product Manager</strong> to join our Product Team - a person who will take responsibility for supporting our customer-facing product domain.</p>
+<p style="min-height: 1.5em;">We have big plans to take over the market and we have everything that is needed for this.</p>
+<p style="min-height: 1.5em;">The main tasks for you as a Product Manager will be market research, communicating with stakeholders and customers, formulating requirements for improving the product, launching experiments and scaling successful cases. It must be an ambitious and energetic person who wants not only to work on a product but to build a large international company with us.</p>
+<p style="min-height: 1.5em;"> </p>
+<div class="h2"><strong>We expect that our candidate:</strong></div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Has 3+ years of experience working as a Product Manager</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Is excellent at researching the market and identifying new opportunities</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Has experience in defining the vision and product roadmap</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Has on-hands experience with OKRs methodology</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Is experienced in conducting customer Interviews</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Has segmentation frameworks knowledge e.g., JTBD as most relevant</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Has proficiency in the use of analytic tools - Amplitude, Tableau, Redash</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Understands well the technical aspects of working on a web product</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Preferably, but not necessarily has experience in B2B SaaS</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Excellent oral and written communication in English</p>
+</li>
+</ul>
+<div class="h2">What will you do:</div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Market research, communicate with existing and potential SOAX users</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Identify niches with the greatest potential for the product improvement</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Work with close collaboration with the stakeholders team to propose, prioritise and validate product hypotheses allowing to achieve the business goals</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Manage the product team of 5+ people</p>
+</li>
+</ul>
+<div class="h2"><strong>What we offer</strong></div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Four-day workweek &amp; flexible working hours. We believe in the power of results, not just the number of hours worked.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Remote-first location policy which means you have the freedom to live and work wherever you choose. You can travel the world or stay put, it's up to you. And with 4 weeks of paid vacation, 9 company-wide holidays, and 5 additional holidays-on-demand, you'll have plenty of time to explore.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">At SOAX, we're all about helping you achieve your wildest dreams. Whether you're a seasoned pro or just starting out, we provide global opportunities to help you grow and shine. We're a fast-growing startup with big goals, and we want you to help us achieve the next milestone in our journey.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">We know that continuous learning and development are key to success, which is why we provide learning and development budgets for courses and books. With a competitive salary and benefits in GBP, we're committed to ensuring you have everything you need to thrive.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Last but not least, you'll be joining a fantastic team of enthusiasts who value collaboration, energy, and openness. Our onboarding process is fast-paced yet supportive, so you'll feel right at home from day one.</p>
+</li>
+</ul>
+<img src="https://remotive.com/job/track/1658841/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
