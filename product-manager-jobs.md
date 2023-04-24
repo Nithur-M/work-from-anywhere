@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/carb-manager-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -56,7 +56,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-remote-product-manager-needed-1" align="right" target="_blank">Apply</a>
@@ -154,7 +154,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/createape-inc-junior-product-manager" align="right" target="_blank">Apply</a>
@@ -199,7 +199,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>73 days ago</text>
+                <text>74 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1" align="right" target="_blank">Apply</a>
@@ -268,7 +268,7 @@
                     <code>product manager,saas,B2B,research</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/product-manager-1658841" align="right" target="_blank">Apply</a>
