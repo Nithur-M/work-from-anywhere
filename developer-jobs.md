@@ -1,57 +1,129 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7016/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/5744/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Bottomless</h5>
-                    <h3> Senior Full Stack Developer</h3>
+                    <h5>Contra</h5>
+                    <h3> Freelance AI Application Developer Cohort 4</h3>
                 </td>
                 <td width="300">
-                    <code>Full-Stack Programming</code>
+                    <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-8" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/contra-freelance-ai-application-developer-cohort-4" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/7016/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0083/5744/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Seattle, Wa
-    <br /><strong>URL:</strong> <a href="https://www.bottomless.com/">https://www.bottomless.com/</a>
+  <strong>Headquarters:</strong> San Francisco, CA
+    <br /><strong>URL:</strong> <a href="http://bit.ly/3kLhMdk">http://bit.ly/3kLhMdk</a>
 </p>
 
-<div>We are looking for a jack-of-all-trades <strong><em>senior</em></strong> javascript/full stack developer.<br><br>The ideal candidate for this position would be able to dive into any kind of project, from frontend UI/UX tasks in React.js to backend tasks running on Node.js.<br><br>If you’re interested in variety and working hard to build something big, this might be a good fit.<br><br>We need to achieve <em>80% of the results with 20% of the effort</em>.<br><br><strong>Responsibilities:</strong>
+<div>
+<br>Are you a creative AI Application Developer with domain expertise in <strong>ChatGPT Applications</strong>, <strong>AI Web Applications</strong> and <strong>AI Chatbots</strong> and a passion for sharing your knowledge with others? Join the <a href="http://bit.ly/3J5ZhdS">Contra</a> Creator program to create and share high-quality projects and the portfolio of your dreams based on your unique skillset.<br><br>
+</div><div>
+<br>As a member of the Contra Creator program, you’ll be creating high-quality portfolio projects about AI development. These will be featured on Contra and around the web. You will be paid <strong>$2000 USD</strong> for a 1 month project for the following scope.<br><br>
+</div><div>
+<strong><br>Scope<br></strong><br>
 </div><ul>
-<li>Design and build infrastructure and products for a sensor-enabled e-commerce marketplace.</li>
-<li>Build robust infrastructure to support existing product lines and the ability to roll out new ones.</li>
-<li>Responsibility over the user-facing product</li>
-<li>Quick iteration on different fronts from fronted UX changes to database design to quick and dirty implementations.</li>
-<li>Responsible for full deployment and testing of applications.</li>
-</ul><div><br></div><div><strong>Skill, Qualifications, and Experience:</strong></div><div><br></div><div><em>Expert proficiency required:</em></div><ul>
-<li>Node.js</li>
-<li>NoSQL databases</li>
-<li>React.js</li>
-<li>English (written and verbal)</li>
-</ul><div><br></div><div><em>Intermediate proficiency, at a minimum:</em></div><ul>
-<li>UI/UX design</li>
-<li>Software architecture</li>
+<li>Create and share 8 - 10 high-quality projects on your Contra Portfolio. Contra will help you choose the topics that will be most beneficial to your portfolio. We will also do SEO research on each topic to make sure your portfolio gets tons of visibility.</li>
+<li>Host the content on your Contra portfolio that lives on your custom domain (we can help you get one if you don’t have one already)</li>
+<li>Ensure that content is easy to share and engage with on social media platforms and other online channels</li>
+<li>Share content on your social platforms and/or in communities</li>
 </ul><div>
-<br>Not required, but a plus:</div><ul>
-<li>Python (background tasks)</li>
-<li>Embedded systems (C++)</li>
-</ul><div> <br><strong>Details:</strong>
+<strong><br>What We’re Looking For<br></strong><br>
 </div><ul>
-<li>Remote OK. Must be flexible with hours as we have a remote international team.</li>
-<li>Competitive equity and cash compensation</li>
-</ul>
+<li>Experience creating and editing high-quality content</li>
+<li>Strong domain expertise in the AI space</li>
+<li>Active on social media and familiar with engagement strategies (a plus)</li>
+</ul><div>
+<strong><br>What You’ll Get<br></strong><br>
+</div><ul>
+<li>Build the Portfolio of your dreams 💭</li>
+<li>Boost your reputation on Contra and as an independent</li>
+<li>Increased discoverability of your unique expertise</li>
+<li>Community of fellow freelancers and thought leaders</li>
+</ul><div>
+<strong><br>About Contra<br></strong><br>
+</div><div>
+<br>The Contra team wants to continue to support the independent community and we believe there is no better way to do this than with paid opportunities 🚀 Contra allows Independents to build their digital portfolio, get discovered by clients around the world, and earn money commission-free; while connecting Clients with top Independent talent. We believe in empowering people to work the way <em>they want.<br></em><br>
+</div><div>
+<br>If you are passionate about sharing your knowledge and want to be part of a growing community of creators, please apply!<br><br>
+</div><div>
+<strong><br>Learn more about </strong><a href="http://bit.ly/3Dbh5jQ"><strong>Contra here</strong></a><strong>!<br></strong><br>
+</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-8">https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-8</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/contra-freelance-ai-application-developer-cohort-4">https://weworkremotely.com/remote-jobs/contra-freelance-ai-application-developer-cohort-4</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/2499/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Hashlist</h5>
+                    <h3> Mid/Senior Vue Fullstack Developer </h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/hashlist-mid-senior-vue-fullstack-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0084/2499/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Helsinki, Finland
+    <br /><strong>URL:</strong> <a href="https://hashlist.com">https://hashlist.com</a>
+</p>
+
+<div>
+<strong>About us</strong><br><br>We (Hashlist) are a tech hiring platform aiming to become the world’s best place for tech talent to connect with top hiring managers globally.</div><div><br></div><div>We attract 2500+ tech candidates monthly on a global scale and through an innovative screening process, we ensure only the best ones get accepted into the network.</div><div>
+<br>On the customer side, we onboard top tech hiring managers and give them an easy-to-use platform to connect and chat with tech specialists in the network.</div><div><br></div><div>We are growing quickly and just raised a €700k funding round to speed up our growth by some of the Nordic top investors &amp; tech unicorn company founders.</div><div>
+<br><br>
+</div><div>
+<br><strong>About the role<br></strong><br>
+</div><div>We are now looking for a Mid/Senior Fullstack Developer (Vue + Node.js) that can join our internal team full-time.</div><div><br></div><div>
+<br><br><strong>Our humble expectations</strong>
+</div><div><br></div><div>🌟 You are one of the best and most productive coders you know</div><div><br></div><div>💬 You communicate clearly and have perfect English skills</div><div><br></div><div>❤️ You have exceptional skills in problem-solving, frontend &amp; UIs, and write beautiful code in Vue and Node. You know how to write integration and end-to-end tests that save us from defects in production. Familiarity with Firebase and cloud functions is a big plus</div><div>
+<br><br>
+</div><div>
+<br><strong>About our culture</strong>
+</div><ol>
+<li>We work as an all-star team, not a family. Everyone has high expectations and has to deliver remarkable results in their roles. </li>
+<li>We have a high sense of ownership: You have to deliver end-to-end solutions at a high pace and solve complex problems independently</li>
+<li>We value initiative, risk, and boldness: Building and coming up with solutions that challenge the status quo in the company is highly valued.</li>
+</ol><div>
+<br><br>
+</div><div>
+<br><strong>Compensation<br></strong><br>
+</div><div>We pay a competitive salary range based on location + stock options, meaning you will be excited about the company growing since you own a piece of the pie</div><div><br></div><div>
+<br><br><strong>Our application</strong>
+</div><ol>
+<li>Apply with the link</li>
+<li>Complete the application</li>
+<li>Your profile is reviewed </li>
+<li>We conduct one personality interview &amp; one technical interview </li>
+<li>That’s it! Welcome to the team</li>
+</ol><div>
+<br>Psst. If you don't land the position with us, you can reach 100+ hiring managers hiring for similar fullstack roles through Hashlist in 30+ tech stacks.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/hashlist-mid-senior-vue-fullstack-developer">https://weworkremotely.com/remote-jobs/hashlist-mid-senior-vue-fullstack-developer</a></p>
 
                 </details>
                 </td>
@@ -67,7 +139,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/vexxhost-inc-developpeur-e-de-kubernetes-ansible-kubernetes-ansible-developer-1" align="right" target="_blank">Apply</a>
@@ -101,7 +173,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>90 days ago</text>
+                <text>91 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-flutter-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -172,7 +244,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>96 days ago</text>
+                <text>97 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-vue-js-developer" align="right" target="_blank">Apply</a>
@@ -240,7 +312,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>123 days ago</text>
+                <text>124 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1" align="right" target="_blank">Apply</a>
@@ -302,7 +374,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>156 days ago</text>
+                <text>157 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-golang-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -367,7 +439,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>223 days ago</text>
+                <text>224 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -441,7 +513,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>244 days ago</text>
+                <text>245 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/socialhub-reactjs-web-developer-remote-saas-m-f-d-1" align="right" target="_blank">Apply</a>
@@ -543,68 +615,54 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1662407/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>A.Team</h5>
-                    <h3> Senior Independent Software Developer ($110-$190/hr)</h3>
+                    <h5>SD Solutions</h5>
+                    <h3>Senior Algorithms Developer (ML_DL)</h3>
                 </td>
                 <td width="300">
-                    <code>Full-Stack Programming</code>
+                    <code>C++,developer,excel,machine learning</code>
                 </td>
                 <td width="200">
-                <text>632 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-algorithms-developer-ml-dl-1662407" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0066/7400/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> NYC, SF, and TLV
-    <br /><strong>URL:</strong> <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a>
-</p>
-
-<div>
-<a href="https://build.a.team/wwrfastrackreferral">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. <br><br>After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.<br><br>As part of A·Team, you can expect:</div><ul>
-<li>
-<strong>High-paying, meaningful missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
-<li>
-<strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
-<li>
-<strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
-<li>
-<strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
-<li>
-<strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
-</ul><div>
-<br><strong>How to apply:<br></strong>Go here: <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a> + mention WWR under how you heard about A·Team. No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.<br><strong><br>What you’ll do:</strong>
-</div><ul>
-<li>Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would.</li>
-<li>Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </li>
-<li>You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </li>
-</ul><div>
-<br><strong>Who A</strong>·<strong>Team is for:</strong>
-</div><ul>
-<li>Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy.</li>
-<li>Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</li>
-<li>The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing.</li>
-</ul><div>
-<br><strong>Who A</strong>·<strong>Team is </strong><strong><em>not</em></strong><strong> for:</strong>
-</div><ul>
-<li>People looking for small gigs.</li>
-<li>Folks looking to build simple wordpress/wix/squarespace-style websites.</li>
-<li>Those still early in their careers and recent university/bootcamp grads (at least not yet).</li>
-</ul><div>
-<br><strong>Our long-term vision:<br></strong><a href="https://build.a.team/wwrfastrackreferral">A·Team</a> is a new type of company for a new kind of independent software builders. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </div><div>
-<br>To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr</a></p>
-
+                <p>On behalf of <strong>Corsound</strong> <strong>AI</strong>, SD Solutions is looking for<strong> an Algorithm</strong><strong> Developer </strong>to join the team! </p>
+<p><em>SD Solutions is a staffing company operating globally. Contact us to get more details about the benefits we offer.</em><br><strong><br>Responsibilities: </strong></p>
+<ul style="">
+<li style="">Take part in designing the next generation of CorSound deep learning solutions</li>
+<li style="">Research recent papers on the topic</li>
+<li style="">Carry out deep-learning experiments</li>
+<li style="">Excel at both individual and teamwork</li>
+</ul>
+<p><strong>Requirements: </strong></p>
+<ul style="">
+<li style="">Excellent coding skills, with <strong>3+ years</strong> of experience in Python.</li>
+<li style="">PhD in relevant disciplines (e.g., EE/CS/Applied Math/Physics/Bio Engineering/Computational Biology/etc.) - mandatory</li>
+<li style="">Broad knowledge and former experience with image generation (GAN / diffusion models / VAE) - mandatory</li>
+<li style="">Former experience in Speaker Recognition or Speech Recognition fields</li>
+<li style="">Broad knowledge of algorithms and analysis tools and methods</li>
+<li style="">Experience with DL frameworks, i.e., TensorFlow/PyTorch is mandatory</li>
+<li style="">Excellent coding skills, with at least 3 years of experience in Python</li>
+</ul>
+<p><strong>Great advantages:</strong></p>
+<ul style="">
+<li style="">Strong background in C++.</li>
+<li style="">Experience with the development of Machine Learning / Signal Processing applications - advantage</li>
+</ul>
+<p><strong>About the company:</strong></p>
+<p>CorSound AI disrupt security, safety, and intelligence sectors with innovative AI-powered solutions and are rapidly advancing opportunities in the medical and financial security industries</p>
+<p>Our goal is to become a leading company in the field of personal recognition based on <strong>voice</strong>, and <strong>automated facial reconstruction</strong> based on sound/voice.</p>
+<p>We are using cutting-edge AI techniques to treat human voice using image processing techniques.</p>
+<p>Members of our algorithms team develop world-class speaker recognition and voice processing solutions that are on the biometric levels.</p>
+<img src="https://remotive.com/job/track/1662407/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -619,7 +677,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -688,7 +746,7 @@
                     <code>amazon,AWS,backend,developer</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-python-developer-and-aws-manager-1656870" align="right" target="_blank">Apply</a>
@@ -734,7 +792,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -811,7 +869,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -948,7 +1006,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1025,7 +1083,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
