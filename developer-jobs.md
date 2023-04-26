@@ -10,7 +10,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/contra-freelance-ai-application-developer-cohort-4" align="right" target="_blank">Apply</a>
@@ -76,7 +76,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/hashlist-mid-senior-vue-fullstack-developer" align="right" target="_blank">Apply</a>
@@ -139,7 +139,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/vexxhost-inc-developpeur-e-de-kubernetes-ansible-kubernetes-ansible-developer-1" align="right" target="_blank">Apply</a>
@@ -166,6 +166,75 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
+                    <h5>Toggl</h5>
+                    <h3> Senior Frontend Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>61 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/toggl-senior-frontend-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Tallinn, Estonia
+    <br /><strong>URL:</strong> <a href="https://toggl.com/jobs/">https://toggl.com/jobs/</a>
+</p>
+
+<div>
+<br>We are looking for a passionate and sharp Senior Frontend Developer with experience in data visualization to join one of our cross-functional product development teams and help us shape the future of the time tracking industry, delivering real value to our customers by introducing new features and improving the existing ones.</div><div>
+<br>The salary for this position is <strong>€68,000</strong> annually</div><div>
+<br>You can <strong>work from anywhere in the world,</strong> provided you have an overlap of 4 hours with a European timezone.<br><br>
+</div><div>
+<strong><br>About the team<br></strong><br>
+</div><div>We are a global team of 130+ awesome people working from over 40 countries around the globe. We hire globally, you work locally - in the heart of London, a beach outside of São Paulo, or a quiet village near Florence, the choice is yours. Every few months we travel to meet up somewhere in the world and spend some quality time together. We place a huge amount of trust in our people, and we measure the outcomes rather than the work itself. Our values fuel our results.<br><br>
+</div><div><strong><br>The role</strong></div><div>
+<br>As a Senior Frontend Developer, you will play a critical role taking ownership in major projects, using React, JavaScript, TypeScript, HTML and CSS to code slick and fast data visualizations that translate our data into meaningful insights.<br><br>
+</div><div>Your main responsibilities will be:</div><ul>
+<li>Work closely with other engineers, product managers and designers to understand requirements and translate them into user-friendly web-based components</li>
+<li>Develop and maintain scalable data visualizations using modern frontend technologies such as React and Nivo</li>
+<li>Optimize frontend performance to ensure fast rendering and smooth interactions for high data volumes</li>
+<li>Conduct code reviews, identify and resolve technical issues, and maintain high coding standards</li>
+<li>Collaborate with other development teams to identify and implement best practices in frontend development and related areas</li>
+</ul><div><strong><br>About you/Requirements</strong></div><div>
+<br>We would love to hear from you if you have significant experience in frontend development and can lead major development projects. You love working with data visualizations and believe React and web components are the future.</div><div>
+<br>In particular, we are looking for:</div><ul>
+<li>Extensive knowledge about JavaScript and React, and preferably Redux and a side effect managing library like Redux-Saga</li>
+<li>Demonstrated experience leading large development projects, with good organization skills and the ability to plan well-structured projects, estimate tasks, manage stakeholders and coordinate with other cross-functional teams</li>
+<li>A knack for data visualizations, with some familiarity of its principles and best practices</li>
+<li>Knowledge about testing frameworks, like Jest</li>
+<li>Excellent communication and collaboration skills, with the ability to work in a remote team environment</li>
+<li>Strong problem-solving skills, attention to detail, and ability to work independently</li>
+</ul><div><strong><br>Some benefits</strong></div><ul>
+<li>Freedom to choose when and how much you work - we only measure results</li>
+<li>24 days of paid time off a year, plus your local holidays</li>
+<li>In-person meetups for team-building (expenses covered)</li>
+<li>4-6 weeks paid sabbatical (depending on the tenure)</li>
+<li>Laptop budget up to €2,500 and it renews every 3 years</li>
+<li>€2,000 budget to set up your home office, and additional €300 every year after 3 years of tenure</li>
+<li>€250 per month for co-working space membership and/or internet service at home</li>
+<li>€4,000 per year contribution to use for training, workshops, and conferences</li>
+<li>€2,000 per year contribution for any equipment or services to improve and/or maintain your physical and mental health</li>
+<li>Support for buying tools you need for doing your best work (even eyeglasses if you need a new pair)</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toggl-senior-frontend-developer">https://weworkremotely.com/remote-jobs/toggl-senior-frontend-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
                     <h5>Proxify AB</h5>
                     <h3> Senior Flutter Developer</h3>
                 </td>
@@ -173,7 +242,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>91 days ago</text>
+                <text>92 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-flutter-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -244,7 +313,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>97 days ago</text>
+                <text>99 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-vue-js-developer" align="right" target="_blank">Apply</a>
@@ -312,7 +381,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>124 days ago</text>
+                <text>126 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1" align="right" target="_blank">Apply</a>
@@ -368,78 +437,13 @@
                 </td>
                 <td width="300">
                     <h5>Proxify AB</h5>
-                    <h3> Senior Golang Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>157 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-golang-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div><strong>The Role:</strong></div><div>We are searching for a Senior Golang Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div><br></div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
-<li>You have +3 years of solid development experience with Golang;</li>
-<li>You follow best practices and conventions;</li>
-<li>Responsible and able to work with minimal supervision;</li>
-<li>Upper-intermediate English level;</li>
-<li>You can communicate well with both technical and non-technical clients.</li>
-</ul><div>
-<strong><br>Nice-to-have:</strong> </div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Basic knowledge of DevOps culture and REST API development would be a plus.</li>
-</ul><div><br></div><div><strong>Responsibilities:</strong></div><ul>
-<li>Design, develop, document, and test core software components according to product requirements;</li>
-<li>Collaborate with other team members to incorporate their development work;</li>
-<li>Work with QA and DevOps teams to deliver quality software research and investigate product requirements and new technologies;</li>
-<li>Collaborate with the stakeholders.</li>
-</ul><div><br></div><div>
-<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
-<br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on the projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-golang-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-golang-developer-long-term-job-100-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify AB</h5>
                     <h3> Senior Front-end Developer</h3>
                 </td>
                 <td width="300">
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>224 days ago</text>
+                <text>226 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -513,7 +517,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>245 days ago</text>
+                <text>247 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/socialhub-reactjs-web-developer-remote-saas-m-f-d-1" align="right" target="_blank">Apply</a>
@@ -615,54 +619,42 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1662407/logo" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1665505/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>SD Solutions</h5>
-                    <h3>Senior Algorithms Developer (ML_DL)</h3>
+                    <h5>Contra</h5>
+                    <h3>Freelance AI Application Developer Cohort 4</h3>
                 </td>
                 <td width="300">
-                    <code>C++,developer,excel,machine learning</code>
+                    <code>developer,seo,social media,ai</code>
                 </td>
                 <td width="200">
                 <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-algorithms-developer-ml-dl-1662407" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/freelance-ai-application-developer-cohort-4-1665505" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>On behalf of <strong>Corsound</strong> <strong>AI</strong>, SD Solutions is looking for<strong> an Algorithm</strong><strong> Developer </strong>to join the team! </p>
-<p><em>SD Solutions is a staffing company operating globally. Contact us to get more details about the benefits we offer.</em><br><strong><br>Responsibilities: </strong></p>
-<ul style="">
-<li style="">Take part in designing the next generation of CorSound deep learning solutions</li>
-<li style="">Research recent papers on the topic</li>
-<li style="">Carry out deep-learning experiments</li>
-<li style="">Excel at both individual and teamwork</li>
-</ul>
-<p><strong>Requirements: </strong></p>
-<ul style="">
-<li style="">Excellent coding skills, with <strong>3+ years</strong> of experience in Python.</li>
-<li style="">PhD in relevant disciplines (e.g., EE/CS/Applied Math/Physics/Bio Engineering/Computational Biology/etc.) - mandatory</li>
-<li style="">Broad knowledge and former experience with image generation (GAN / diffusion models / VAE) - mandatory</li>
-<li style="">Former experience in Speaker Recognition or Speech Recognition fields</li>
-<li style="">Broad knowledge of algorithms and analysis tools and methods</li>
-<li style="">Experience with DL frameworks, i.e., TensorFlow/PyTorch is mandatory</li>
-<li style="">Excellent coding skills, with at least 3 years of experience in Python</li>
-</ul>
-<p><strong>Great advantages:</strong></p>
-<ul style="">
-<li style="">Strong background in C++.</li>
-<li style="">Experience with the development of Machine Learning / Signal Processing applications - advantage</li>
-</ul>
-<p><strong>About the company:</strong></p>
-<p>CorSound AI disrupt security, safety, and intelligence sectors with innovative AI-powered solutions and are rapidly advancing opportunities in the medical and financial security industries</p>
-<p>Our goal is to become a leading company in the field of personal recognition based on <strong>voice</strong>, and <strong>automated facial reconstruction</strong> based on sound/voice.</p>
-<p>We are using cutting-edge AI techniques to treat human voice using image processing techniques.</p>
-<p>Members of our algorithms team develop world-class speaker recognition and voice processing solutions that are on the biometric levels.</p>
-<img src="https://remotive.com/job/track/1662407/blank.gif?source=public_api" alt=""/>
+                <p>Are you a creative AI Application Developer with domain expertise in <strong>ChatGPT Applications</strong>, <strong>AI Web Applications</strong> and <strong>AI Chatbots</strong> and a passion for sharing your knowledge with others? Join the <a href="http://bit.ly/3J5ZhdS" rel="nofollow">Contra</a> Creator program to create and share high-quality projects and the portfolio of your dreams based on your unique skillset.</p><p><br></p><p>As a member of the Contra Creator program, you’ll be creating high-quality portfolio projects about AI development. These will be featured on Contra and around the web. You will be paid <strong>$2000 USD</strong> for a 1 month project for the following scope.</p><p><br></p><div class="h3">Scope</div><ul style="">
+<li style="">Create and share 8 - 10 high-quality projects on your Contra Portfolio. Contra will help you choose the topics that will be most beneficial to your portfolio. We will also do SEO research on each topic to make sure your portfolio gets tons of visibility.</li>
+<li style="">Host the content on your Contra portfolio that lives on your custom domain (we can help you get one if you don’t have one already)</li>
+<li style="">Ensure that content is easy to share and engage with on social media platforms and other online channels</li>
+<li style="">Share content on your social platforms and/or in communities</li>
+</ul><p><br></p><div class="h3">What We’re Looking For</div><ul style="">
+<li style="">Experience creating and editing high-quality content</li>
+<li style="">Strong domain expertise in the AI space</li>
+<li style="">Active on social media and familiar with engagement strategies (a plus)</li>
+</ul><p><br></p><div class="h3">What You’ll Get</div><ul style="">
+<li style="">Build the Portfolio of your dreams 💭</li>
+<li style="">Boost your reputation on Contra and as an independent</li>
+<li style="">Increased discoverability of your unique expertise</li>
+<li style="">Community of fellow freelancers and thought leaders</li>
+</ul><p><br></p><div class="h3">About Contra</div><p>The Contra team wants to continue to support the independent community and we believe there is no better way to do this than with paid opportunities 🚀 Contra allows Independents to build their digital portfolio, get discovered by clients around the world, and earn money commission-free; while connecting Clients with top Independent talent. We believe in empowering people to work the way <em>they want.</em></p><p>If you are passionate about sharing your knowledge and want to be part of a growing community of creators, please apply!</p><p>
+</p><div class="h3">Learn more about <a href="http://bit.ly/3Dbh5jQ" rel="nofollow">Contra here</a>!</div>
+<img src="https://remotive.com/job/track/1665505/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -677,7 +669,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -746,7 +738,7 @@
                     <code>amazon,AWS,backend,developer</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-python-developer-and-aws-manager-1656870" align="right" target="_blank">Apply</a>
@@ -792,7 +784,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -869,7 +861,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -1006,7 +998,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1083,7 +1075,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1213,6 +1205,101 @@
 </li>
 </ul>
 <img src="https://remotive.com/job/track/1606658/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1397471927132844033/jN-wuufb_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Supabase</h5>
+                    <h3>Developer Advocate (Socials & Community)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/supabase/jobs/4777008004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p><img src="https://pbs.twimg.com/media/FIdU8GJWQAUGWRA?format=jpg&amp;name=small" alt="Join Supabase" width="680" height="453"></p></div>
+
+    <p>Supabase is an Open Source and fully remote company building developer tools for databases.</p>
+<p>Social Media and Community are two of the main growth engines for Supabase. We're seeking someone to engage with our huge community and own our social media. You'll do creative work and gain a deep understanding of Supabase. There is scope to do technical work as part of the role.</p>
+<p>This role will mainly interact with DevRel, Engineering, and Marketing, but will have company-wide visibility and impact.</p>
+<p><strong>You will:</strong></p>
+<ul>
+<li>Own the Social Media Calendar and create highly engaging content for developers in different formats across our social media channels: Twitter, LinkedIn, and Youtube. We're also starting to experiment with Instagram and TikTok.</li>
+<li>Edit graphics and video.</li>
+<li>Own Brand Listening. Engage in conversations, identify and activate advocates, and spot great user-generated content that we can boost.</li>
+<li>Use and improve the distribution process to amplify and repurpose owned and earned content.</li>
+<li>Use your research skills to identify new topics we can create content about and share it with the appropriate team.</li>
+<li>Analyze and report on our social media and community performance, suggesting improvements to increase audience growth, reach, and engagement.</li>
+<li>Work directly with the Chief Meme Officer.</li>
+<li>Write technical examples and toys as a tool to engage the community.</li>
+</ul>
+<p><strong>You are:</strong></p>
+<ul>
+<li>A dev. You understand how devs assess new tools. You understand the value proposition of Supabase.</li>
+<li>Creative, you can quickly produce assets using image and video editing tools.</li>
+<li>Metrics driven, and sprint towards goals.</li>
+<li>Willing to get your hands dirty and execute our strategy on repeat. This role is a blend of grind and creative work and will be extremely rewarding for the right person.</li>
+<li>Open to feedback and have a growth mindset.</li>
+</ul>
+<p><strong>We offer:</strong></p>
+<ul>
+<li>100% remote work from anywhere in the world. No location-based adjustment to your salary.</li>
+<li>ESOP (equity ownership in the company)</li>
+<li>Autonomous work. We work collaboratively on projects, but you set your own pace.</li>
+<li>Health, Vision and Dental benefits. Supabase covers 100% of the cost for employees and 80% for dependents</li>
+<li>Generous Tech Allowance for any office setup you need</li>
+<li>Annual Education Allowance</li>
+<li>Annually run off-sites.</li>
+</ul>
+<p>&nbsp;</p>
+
+    
+
+    <div class="content-conclusion"><h3>BUILD IN A WEEKEND. SCALE TO BILLIONS</h3>
+<p>Supabase adds auth, realtime, and restful APIs to Postgres without a single line of code.</p>
+<p>Each project within Supabase is an isolated&nbsp;Postgres cluster, allowing customers to scale independently, while still providing the features that you need to build: instant database setup, auth, row level security, realtime data streams, auto-generating APIs, and a simple to use web interface.</p>
+<p>We are a fully remote company.</p>
+<p>Key Tech: Javascript, Typescript, Go, Elixir, PostgREST (haskell), Postgres, Pulumi.</p>
+<h3><a id="about-the-team" class="anchor"></a>About the team</h3>
+<ul>
+<li>We're a startup. It's unstructured.</li>
+<li>Collectively founded more than a dozen venture-backed companies.</li>
+<li>More than 10 different nationalities.</li>
+<li>We deeply believe in <a href="https://supabase.com/blog/2022/03/25/should-i-open-source-my-company" target="_blank">the efficacy of collaborative open source</a>. We support existing communities and tools, rather than building "yet another xx".</li>
+<li>We "dogfood" everything. If you use it in your project, we use it in Supabase.</li>
+</ul>
+<h2><a id="process" class="anchor"></a>Process</h2>
+<ul>
+<li>The entire process is fully remote and all communication will happen over email or via video chat.</li>
+<li>Once you've submitted your application, the team will review your submission, and may reach out for a short screening interview over video call.</li>
+<li>If you pass the screen you will be invited to up to four follow up interviews. The calls:
+<ul>
+<li>usually take between 20-45 minutes each depending on the interviewer.</li>
+<li>are all 1:1.</li>
+<li>will be with both founders, a member of either the growth or engineering team (depending on the role), and usually one other person from your immediate team or function.</li>
+</ul>
+</li>
+<li>Once the interviews are over, the team will meet to discuss several roles and candidates and may:
+<ul>
+<li>ask one or two follow-up questions over email or a quick call.</li>
+<li>go directly to making an offer.</li>
+</ul>
+</li>
+</ul>
+<h2>&nbsp;</h2></div>
+
                 </details>
                 </td>
             </tr>,<tr>
