@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/carb-manager-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -56,7 +56,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-remote-product-manager-needed-1" align="right" target="_blank">Apply</a>
@@ -154,7 +154,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>36 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/createape-inc-junior-product-manager" align="right" target="_blank">Apply</a>
@@ -199,7 +199,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>74 days ago</text>
+                <text>76 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1" align="right" target="_blank">Apply</a>
@@ -254,102 +254,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1">https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1658841/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>SOAX</h5>
-                    <h3>Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>product manager,saas,B2B,research</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/product-manager-1658841" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="min-height: 1.5em;">📌 SOAX is a value-driven UK company dedicated to empower the world and help people advance tomorrow’s technologies with public data at their service.</p>
-<p style="min-height: 1.5em;">Our product is a high-margin and fast-growing SaaS business with a usage-based pricing model operated by a stellar team of 70+ fully remote people across 20+ countries. Founded in early 2020, SOAX has won the hearts of 1000+ data-hungry organizations across the globe with its core product — robust infrastructure for public data collection (a.k.a Residential Rotating Back-connect Proxy Network).</p>
-<p style="min-height: 1.5em;">We are looking for a <strong>Product Manager</strong> to join our Product Team - a person who will take responsibility for supporting our customer-facing product domain.</p>
-<p style="min-height: 1.5em;">We have big plans to take over the market and we have everything that is needed for this.</p>
-<p style="min-height: 1.5em;">The main tasks for you as a Product Manager will be market research, communicating with stakeholders and customers, formulating requirements for improving the product, launching experiments and scaling successful cases. It must be an ambitious and energetic person who wants not only to work on a product but to build a large international company with us.</p>
-<p style="min-height: 1.5em;"> </p>
-<div class="h2"><strong>We expect that our candidate:</strong></div>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Has 3+ years of experience working as a Product Manager</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Is excellent at researching the market and identifying new opportunities</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Has experience in defining the vision and product roadmap</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Has on-hands experience with OKRs methodology</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Is experienced in conducting customer Interviews</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Has segmentation frameworks knowledge e.g., JTBD as most relevant</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Has proficiency in the use of analytic tools - Amplitude, Tableau, Redash</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Understands well the technical aspects of working on a web product</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Preferably, but not necessarily has experience in B2B SaaS</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Excellent oral and written communication in English</p>
-</li>
-</ul>
-<div class="h2">What will you do:</div>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Market research, communicate with existing and potential SOAX users</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Identify niches with the greatest potential for the product improvement</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Work with close collaboration with the stakeholders team to propose, prioritise and validate product hypotheses allowing to achieve the business goals</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Manage the product team of 5+ people</p>
-</li>
-</ul>
-<div class="h2"><strong>What we offer</strong></div>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Four-day workweek &amp; flexible working hours. We believe in the power of results, not just the number of hours worked.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Remote-first location policy which means you have the freedom to live and work wherever you choose. You can travel the world or stay put, it's up to you. And with 4 weeks of paid vacation, 9 company-wide holidays, and 5 additional holidays-on-demand, you'll have plenty of time to explore.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">At SOAX, we're all about helping you achieve your wildest dreams. Whether you're a seasoned pro or just starting out, we provide global opportunities to help you grow and shine. We're a fast-growing startup with big goals, and we want you to help us achieve the next milestone in our journey.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">We know that continuous learning and development are key to success, which is why we provide learning and development budgets for courses and books. With a competitive salary and benefits in GBP, we're committed to ensuring you have everything you need to thrive.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Last but not least, you'll be joining a fantastic team of enthusiasts who value collaboration, energy, and openness. Our onboarding process is fast-paced yet supportive, so you'll feel right at home from day one.</p>
-</li>
-</ul>
-<img src="https://remotive.com/job/track/1658841/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
