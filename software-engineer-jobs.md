@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chorus-one-golang-software-engineer" align="right" target="_blank">Apply</a>
@@ -62,72 +62,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/5180/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Paymentology</h5>
-                    <h3> Senior Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>39 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/paymentology-senior-software-engineer-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/5180/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> London, UK
-    <br /><strong>URL:</strong> <a href="https://paymentology.com">https://paymentology.com</a>
-</p>
-
-<div>Paymentology is the first truly global issuer-processor, giving banks and fintechs the technology, team and experience to rapidly issue and process Mastercard, Visa and UnionPay cards across more than 50 countries, at scale. </div><div>Our advanced, multi-cloud platform, offering both shared and dedicated processing instances, vast global presence and richer, real-time data, set us apart as the leader in payments.<br><br>
-</div><div>As a <strong>Remote Senior Software Developer</strong> at Paymentology you'll be working in the Engineering team to build enterprise-level, highly scalable, highly secure financial processing systems that power tens of millions of transactions and tie them to web, mobile and API interfaces that make it easy for people to issue, redeem and reconcile prepaid and credit cards all over the world.<br><br><strong>What you get to do:</strong><br><br>This position requires the ability to develop high-quality and resilient solutions to meet the rapidly evolving needs of an issuer processor serving an international expanding customer base and to communicate effectively at all levels, from providing the right level of details in the status updates on your work to explaining technical trade-offs, technical complexities and design options so Paymentology can make informed decisions.</div><ul>
-<li>Work within a remote team disseminated throughout the world</li>
-<li>Architect, design and develop projects from end to end</li>
-<li>Make things simple for ourselves and our customers</li>
-<li>Collaborate with other engineers to prioritize and ship features</li>
-<li>Mentor other engineers on the team, and be mentored by others</li>
-<li>Partner with Product Managers to scope and estimate new work</li>
-<li>Participate in on-call coverage</li>
-</ul><div>
-<br><strong>What it takes to succeed:<br></strong><br>
-</div><div>We're looking for people that make stuff work with:</div><ul>
-<li>Experience developing in Java at scale (large systems with high availability and TPS requirements), but we welcome experience in other programming languages</li>
-<li>Experience with relational databases (MySQL, Postgres, MS SQL Server, Oracle, etc.)</li>
-<li>Experience in financial transaction processing/banking or related industries</li>
-<li>Experience with AWS as a cloud provider an advantage</li>
-</ul><div>
-<br><strong>Above all, we are looking for developers...</strong>
-</div><div><br></div><div>                                                         <em>Who love to write great software</em>
-</div><div>                                                     <em>Who are passionate about their craft</em>
-</div><div>                                               <em>Who are willing to learn, as well as coach</em>
-</div><div><br></div><div>Let’s also not forget languages (not the programming kind); While you will work with colleagues located throughout the world, English is our company language so it's important that you be able to communicate at a fluent level, in both spoken and written form.</div><div>Flexible hours are a must for our remote team. You’ll need to be able to occasionally shift your work hours to participate into on-call duties and better align with colleagues for the scope of specific projects.<br><br>
-</div><ul>
-<li>Developing, managing and maintaining card network transactions at scale</li>
-<li>Building best-of-breed backend experiences for our customers, internal and external</li>
-<li>Create and review engineering design documentation</li>
-<li>Continuously improve our systems, infrastructure and processes with a focus on quality</li>
-<li>Create features, review each other's code and collaborate with a diverse set of stakeholders across the company</li>
-<li>Coach others</li>
-<li>Influence/drive the architectural decisions and processes on the platform, from unit testing/documentation requirements to implementation processes</li>
-</ul><div>
-<br><strong>What you can look forward to:</strong><br><br>
-</div><div>At Paymentology we value making a difference to the lives of the people who work for us and who live in the communities where we operate. You can look forward to working with a diverse, global team where Paymentologists at all levels play an important part in our global mission to advance the world through payments and make a difference on a global scale. </div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/paymentology-senior-software-engineer-1">https://weworkremotely.com/remote-jobs/paymentology-senior-software-engineer-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -138,7 +72,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>91 days ago</text>
+                <text>93 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -184,6 +118,72 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1662001/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Intuition Machines</h5>
+                    <h3>Security Software Engineer with Python</h3>
+                </td>
+                <td width="300">
+                    <code>api,cloud,frontend,go</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/devops/security-software-engineer-with-python-1662001" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Intuition Machines provides machine learning-driven products and services to many of the largest companies in the world. We are currently the Largest Independent CAPTCHA service, protecting over 20% of the internet and securing billions of monthly transactions with hCaptcha.com, a world-class humanity detection service. The hCaptcha Enterprise solution has also become the most popular independent solution for large enterprises, online services, public clouds, and firewall providers, and has been deployed by many of the world's largest companies.</p>
+<p>Our organization is highly customer-focused, so you should be comfortable interacting directly with large enterprise customers and startups alike when necessary, in conjunction with our product, customer success, and sales teams.</p>
+<p> </p>
+<p><strong>What will you do:</strong></p>
+<ul style="">
+<li style="">developing and maintaining SOC security automation capabilities including scripts, integrations and tools</li>
+<li style="">interfacing with Security Researchers in our bug bounty program</li>
+<li style="">owning the vulnerability management program for our software technology stack</li>
+<li style="">conducting in-depth research on tools or services that aid threat actors to bypass our bot detection solutions.</li>
+<li style="">providing our security product portfolio towards the best security posture to provide our customers with</li>
+<li style="">maintaining an up-to-date knowledge base of threat intelligence, vulnerabilities, attack vectors, bot management, adversarial research and captchas</li>
+<li style="">analyzing customer traffic as well as systems and customizing our security solutions</li>
+<li style="">collaborating with the Security Analysts in the demanding security investigations</li>
+<li style="">owning the technical aspects of integration (configuration, debugging, documentation, testing, go-live) of our Security Solutions</li>
+<li style="">identifying new standards and technologies that could impact our security products accuracy</li>
+</ul>
+<p> </p>
+<p><strong>What we are looking for:</strong></p>
+<ul style="">
+<li style="">5-8 years full time development experience in Web Frontend / JS / Web APIs / Python</li>
+<li style="">great understanding of integrating security into build, deployment and test automation, SDLC orchestration, environment management, monitoring, and production</li>
+<li style="">great understanding of Web Security paradigms, including OWASP project</li>
+<li style="">hands-on experience and proficiency in API test automation and standardization is a great plus</li>
+<li style="">experience in bug bounty programs and own public CVEs research related to web applications is a great plus</li>
+<li style="">exposure to modern web browser security design, web architecture, network protocols and web automation frameworks is a great plus</li>
+<li style="">experience developing bot-nets and white hat hacking is a great plus</li>
+<li style="">interest in analyzing industry trends and market demands to recommend product enhancements and new sources of intelligence</li>
+<li style="">great collaborator and communicator, be curious and want to innovate</li>
+<li style="">excellent verbal and written communication skills in English.</li>
+</ul>
+<p> </p>
+<p><strong>What do we offer:</strong></p>
+<ul style="">
+<li style="">inspiring work environment with great, competent and humble colleagues</li>
+<li style="">exposure to bleeding edge technology stack, including cloud, security and machine learning</li>
+<li style="">work with one of the most innovative bot management platforms in the world</li>
+<li style="">fully remote work, 100% from anywhere in the world #LI-Remote</li>
+<li style="">rolling contract with competitive salary</li>
+</ul>
+<p> </p>
+<p>We are committed to building an inclusive and diverse global workforce. We believe that the best way to learn, grow, and succeed, both as individuals and as a company, is to foster a culture that is fundamentally rooted in equality.</p>
+<p>Join us as we transform cyber security, user privacy, and machine learning online!</p>
+<img src="https://remotive.com/job/track/1662001/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1625286/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -194,7 +194,7 @@
                     <code>saas,sales,growth,management</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-1625286" align="right" target="_blank">Apply</a>
@@ -284,7 +284,7 @@
                     <code>api,backend,cloud,developer</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1653911" align="right" target="_blank">Apply</a>
@@ -428,7 +428,7 @@
                 </td>
                 <td width="300">
                     <h5>Kraken</h5>
-                    <h3>Senior Quantitative Software Engineer</h3>
+                    <h3>Senior Quantitative Software Engineer - Trading Technologies</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -443,7 +443,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b><span style="font-size: 18pt">Building the Internet of Money&nbsp;</span></b></div><div><br></div><div><span style="font-size: 10.5pt">Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</span></div><div><br></div><div><span style="font-size: 10.5pt">What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the adoption of cryptocurrency so the world can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Before you apply, please read the </span><a href="https://kraken-culture.notion.site/" style="font-size: 10.5pt" class="postings-link">Kraken Culture Explained</a><span style="font-size: 10.5pt"> to learn more about our internal culture, values, and mission.</span></div><div><br></div><div><span style="font-size: 10.5pt">As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who have a long track record of building premium products for professionals and institutions as well as newcomers to the space. Kraken is committed to industry-leading security through our products like </span><a href="https://pro.kraken.com/" style="font-size: 10.5pt" class="postings-link">Kraken Pro</a><span style="font-size: 10.5pt">, </span><a href="https://www.kraken.com/en-us/nft" style="font-size: 10.5pt" class="postings-link">Kraken NFT</a><span style="font-size: 10.5pt">, and </span><a href="https://cryptowat.ch/" style="font-size: 10.5pt" class="postings-link">Cryptowatch</a><span style="font-size: 10.5pt">, with a focus on world-class customer support and </span><a href="https://www.kraken.com/learn" style="font-size: 10.5pt" class="postings-link">crypto education</a><span style="font-size: 10.5pt"> for all.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Become a Krakenite and build the internet of money!</span></div><div><br></div><div>Join the team and start to build the internet of money by supporting the Sr Director of Engineering - Trading. </div><div><br></div><div>The Senior Quantitative Software Engineer will be a key contributor to the success of the Kraken Risk Desk team.</div><div>At Kraken the engineering teams are located globally and are accustomed to working in a collaborate agile environment. </div><div>Recently, the team played a critical role in scaling<a href="https://blog.kraken.com/post/17936/performance-at-kraken/" class="postings-link"> Krakens trading infrastructure</a>. </div><div><br></div></div><div class="section page-centered"><div><h3>The Opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Develop quantitative models and algorithms to build trading strategies for the Kraken Risk Desk</li><li>Conduct research and analysis of large data sets to identify trends and patterns</li><li>Collaborate with cross-functional teams to ensure the accuracy and integrity of data</li><li>Develop, maintain and improve tools, systems and processes to streamline the data analysis and modeling process</li><li>Work with cross functionally with other engineering teams to ensure proper implementation of models in production systems</li><li>Participate in code reviews, identify and fix issues in the code, and develop testing frameworks</li><li>Stay up-to-date with the latest advancements in quantitative engineering and bring new ideas and techniques to the team</li><li>Performing other duties as required</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills You Should HODL</h3><ul class="posting-requirements plain-list"><ul><li>Bachelor's or Master's degree in Mathematics, Statistics, Computer Science, or related field</li><li>Minimum of 5 years of experience in quantitative engineering or related field</li><li>Experience developing high-performance, multi-threaded applications using several programming languages including C++Knowledge of scripting languages such as Python</li><li>Experience working with large data sets and statistical models</li><li>Strong analytical and problem-solving skillsAbility to work in a fast-paced and dynamic environment</li><li>Excellent communication and collaboration skills</li><li>Experience with or knowledge of cryptocurrency is a plus</li><div><br></div></ul></ul></div></div><div class="section page-centered"><div><h3>Nice to Haves</h3><ul class="posting-requirements plain-list"><ul><li>PhD in Mathematics, Statistics, Computer Science, or related field</li><li>Experience in machine learning and data miningExperience working in finance or related industry</li><li>Experience with cloud computing technologies such as AWS or Azure</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Location Tagging: #US #EU #LI-AN1 #LI-Remote #Canada</div><div><br></div><div><span style="font-size: 10.5pt">Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</span></div><div><br></div><div><span style="font-size: 10.5pt">As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</span></div><div><br></div><div><b><span style="font-size: 13.5pt">Stay in the know</span></b></div><div><br></div><div><a href="https://twitter.com/krakenfx" style="font-size: 10.5pt" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" style="font-size: 10.5pt" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" style="font-size: 10.5pt" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/c05f1ed6-6189-4586-9871-c64e5fc11732/apply">Apply for this job</a></div>
+                <div class="section page-centered" data-qa="job-description"><div><b><span style="font-size: 18pt">Building the Internet of Money&nbsp;</span></b></div><div><br></div><div><span style="font-size: 10.5pt">Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</span></div><div><br></div><div><span style="font-size: 10.5pt">What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the adoption of cryptocurrency so the world can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Before you apply, please read the </span><a href="https://kraken-culture.notion.site/" style="font-size: 10.5pt" class="postings-link">Kraken Culture Explained</a><span style="font-size: 10.5pt"> to learn more about our internal culture, values, and mission.</span></div><div><br></div><div><span style="font-size: 10.5pt">As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who have a long track record of building premium products for professionals and institutions as well as newcomers to the space. Kraken is committed to industry-leading security through our products like </span><a href="https://pro.kraken.com/" style="font-size: 10.5pt" class="postings-link">Kraken Pro</a><span style="font-size: 10.5pt">, </span><a href="https://www.kraken.com/en-us/nft" style="font-size: 10.5pt" class="postings-link">Kraken NFT</a><span style="font-size: 10.5pt">, and </span><a href="https://cryptowat.ch/" style="font-size: 10.5pt" class="postings-link">Cryptowatch</a><span style="font-size: 10.5pt">, with a focus on world-class customer support and </span><a href="https://www.kraken.com/learn" style="font-size: 10.5pt" class="postings-link">crypto education</a><span style="font-size: 10.5pt"> for all.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Become a Krakenite and build the internet of money!</span></div><div><br></div><div><b style="font-size: 24px">Proof of Work </b></div><div><br></div><div><b style="font-size: 18px">The team</b></div><div><br></div><div>Join the team and start to build the internet of money by supporting the Sr Director of Engineering - Trading. </div><div><br></div><div>The Senior Quantitative Software Engineer will be a key contributor to the success of the Kraken Risk Desk team.</div><div>At Kraken the engineering teams are located globally and are accustomed to working in a collaborate agile environment. </div><div>Recently, the team played a critical role in scaling <a href="https://blog.kraken.com/post/17936/performance-at-kraken/" class="postings-link">Kraken's trading infrastructure</a>. </div><div><br></div></div><div class="section page-centered"><div><h3>The Opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Develop quantitative models and algorithms to build trading strategies for the Kraken Risk Desk</li><li>Conduct research and analysis of large data sets to identify trends and patterns</li><li>Collaborate with cross-functional teams to ensure the accuracy and integrity of data</li><li>Develop, maintain and improve tools, systems and processes to streamline the data analysis and modeling process</li><li>Work with cross functionally with other engineering teams to ensure proper implementation of models in production systems</li><li>Participate in code reviews, identify and fix issues in the code, and develop testing frameworks</li><li>Stay up-to-date with the latest advancements in quantitative engineering and bring new ideas and techniques to the team</li><li>Performing other duties as required</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills You Should HODL</h3><ul class="posting-requirements plain-list"><ul><li>Bachelor's or Master's degree in Mathematics, Statistics, Computer Science, or related field</li><li>Minimum of 5 years of experience in quantitative engineering or related field</li><li>Experience developing high-performance, multi-threaded applications using several programming languages including C++</li><li>Knowledge of scripting languages such as Python</li><li>Experience working with large data sets and statistical models</li><li>Strong analytical and problem-solving skills</li><li>Ability to work in a fast-paced and dynamic environment</li><li>Excellent communication and collaboration skills</li><li>Experience with or knowledge of cryptocurrency is a plus</li><div><br></div></ul></ul></div></div><div class="section page-centered"><div><h3>Nice to Haves</h3><ul class="posting-requirements plain-list"><ul><li>PhD in Mathematics, Statistics, Computer Science, or related field</li><li>Experience in machine learning and data mining</li><li>Experience working in finance or related industry</li><li>Experience with cloud computing technologies such as AWS or Azure</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Location Tagging: #US #EU #LI-Remote #Canada #LI-VF1</div><div><br></div><div><span style="font-size: 10.5pt">Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</span></div><div><br></div><div><span style="font-size: 10.5pt">As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</span></div><div><br></div><div><b><span style="font-size: 13.5pt">Stay in the know</span></b></div><div><br></div><div><a href="https://twitter.com/krakenfx" style="font-size: 10.5pt" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" style="font-size: 10.5pt" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" style="font-size: 10.5pt" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/c05f1ed6-6189-4586-9871-c64e5fc11732/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -467,31 +467,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b><span style="font-size: 18pt">Building the Internet of Money&nbsp;</span></b></div><div><br></div><div><span style="font-size: 10.5pt">Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</span></div><div><br></div><div><span style="font-size: 10.5pt">What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the adoption of cryptocurrency so the world can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Before you apply, please read the </span><a href="https://kraken-culture.notion.site/" style="font-size: 10.5pt" class="postings-link">Kraken Culture Explained</a><span style="font-size: 10.5pt"> to learn more about our internal culture, values, and mission.</span></div><div><br></div><div><span style="font-size: 10.5pt">As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who have a long track record of building premium products for professionals and institutions as well as newcomers to the space. Kraken is committed to industry-leading security through our products like </span><a href="https://pro.kraken.com/" style="font-size: 10.5pt" class="postings-link">Kraken Pro</a><span style="font-size: 10.5pt">, </span><a href="https://www.kraken.com/en-us/nft" style="font-size: 10.5pt" class="postings-link">Kraken NFT</a><span style="font-size: 10.5pt">, and </span><a href="https://cryptowat.ch/" style="font-size: 10.5pt" class="postings-link">Cryptowatch</a><span style="font-size: 10.5pt">, with a focus on world-class customer support and </span><a href="https://www.kraken.com/learn" style="font-size: 10.5pt" class="postings-link">crypto education</a><span style="font-size: 10.5pt"> for all.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Become a Krakenite and build the internet of money!</span></div><div><br></div><div><b><span style="font-size: 18px">The Team</span></b></div><div><br></div><div><b style="font-size: 18px">Join our Trading Technology team and start shaping the internet of money. </b></div><div><br></div><div><b style="font-size: 18px">The Trading Technology team is responsible for everything to do with the trading backend services such as the matching engine, market data gateways, internal and external APIs, and various other trading services. Recently, the Trading Technologies team played a critical role in scaling                <a href="https://blog.kraken.com/post/17936/performance-at-kraken/" class="postings-link">Krakens trading infrastructure</a>. </b></div><div><br></div><div><b style="font-size: 18px">The team is located globally and responsibilities are split in to sub-teams, working with various tech stacks. Our teams code in C++, Go, Rust, and Python, depending on the product they are contributing to within Kraken and work agile around the globe. </b></div><div><br></div></div><div class="section page-centered"><div><h3>The Opportunity </h3><ul class="posting-requirements plain-list"><ul><li><b>Develop and maintain core framework and key software components for the Kraken trading engine</b></li><li><b>Build and design solutions that mitigate risk, implement security, and protect both systems and dataImprove site performance by designing and implementing low-latency and high-availability applications</b></li><li><b>Construct dynamically scalable platforms capable of heavy transaction volume</b></li><li><b>Write reusable, testable, and efficient code</b></li><li><b>Collaborate with cross-functional teams and contribute to product roadmap accomplishment</b></li><li><b>Work collaboratively on a distributed team leveraging soft skills to effectively communicate a</b>nd engage with stakeholders</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills You Should HODL</h3><ul class="posting-requirements plain-list"><ul><li><b>Prior experience in at least one of the following using Linux - distributed and/or highly-concurrent systems; low-latency and/or high-volume transaction environments</b></li><li><b>3+ years experience working with C++</b></li><li><b>High level of proficiency in Python, Java, and SQL strongly preferred</b></li><li><b>Demonstrated knowledge of advanced order types, trading systems, and financial products</b></li><li><b>Experience engineering for cloud systems (AWS, Google and/or Microsoft)Cryptocurrency/Blockchain familiarity highly preferable</b></li><li><b>Proactive mindset with the ability to both prioritise tasks and adhere to aggressive deadlines</b></li><li><b>BS in a technical or quantitative field</b></li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>&nbsp;#US #EU #LI-AN1 #LI-Remote #Canada</div><div><br></div><div><br></div><div><span style="font-size: 10.5pt">Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</span></div><div><br></div><div><span style="font-size: 10.5pt">As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</span></div><div><br></div><div><b><span style="font-size: 13.5pt">Stay in the know</span></b></div><div><br></div><div><a href="https://twitter.com/krakenfx" style="font-size: 10.5pt" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" style="font-size: 10.5pt" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" style="font-size: 10.5pt" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/a8b876c3-9b7e-407f-85c9-b46e168d7030/apply">Apply for this job</a></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1306325743580848130/mk0qvsZ9_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Kraken</h5>
-                    <h3>Senior Software Engineer - Rust - Trading Technologies</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/kraken/23bb002e-228d-4c26-ad87-2eb05777c364" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b><span style="font-size: 18pt">Building the Internet of Money&nbsp;</span></b></div><div><br></div><div><span style="font-size: 10.5pt">Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</span></div><div><br></div><div><span style="font-size: 10.5pt">What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the adoption of cryptocurrency so the world can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Before you apply, please read the </span><a href="https://kraken-culture.notion.site/" style="font-size: 10.5pt" class="postings-link">Kraken Culture Explained</a><span style="font-size: 10.5pt"> to learn more about our internal culture, values, and mission.</span></div><div><br></div><div><span style="font-size: 10.5pt">As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who have a long track record of building premium products for professionals and institutions as well as newcomers to the space. Kraken is committed to industry-leading security through our products like </span><a href="https://pro.kraken.com/" style="font-size: 10.5pt" class="postings-link">Kraken Pro</a><span style="font-size: 10.5pt">, </span><a href="https://www.kraken.com/en-us/nft" style="font-size: 10.5pt" class="postings-link">Kraken NFT</a><span style="font-size: 10.5pt">, and </span><a href="https://cryptowat.ch/" style="font-size: 10.5pt" class="postings-link">Cryptowatch</a><span style="font-size: 10.5pt">, with a focus on world-class customer support and </span><a href="https://www.kraken.com/learn" style="font-size: 10.5pt" class="postings-link">crypto education</a><span style="font-size: 10.5pt"> for all.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Become a Krakenite and build the internet of money!</span></div><div><br></div><div><br></div><div><b><span style="font-size: 11pt">Join our Trading Technology  team and start shaping the internet of money. </span></b></div><div><br></div><div><b><span style="font-size: 11pt">The Trading Technology team is responsible for everything to do with the trading backend services such as the matching engine, market data gateways, internal and external APIs, and various other trading services. Recently, the Trading Technologies team played a critical role in scaling</span><a href="https://blog.kraken.com/post/17936/performance-at-kraken/" style="font-size: 11pt" class="postings-link"> Krakens trading </a><a href="https://blog.kraken.com/post/17936/performance-at-kraken/" style="font-size: 14.6667px" class="postings-link">infrastructure</a><span style="font-size: 11pt">. </span></b></div><div><br></div><div><b><span style="font-size: 11pt">The team is located globally and responsibilities are split in to sub-teams, working with various tech stacks. </span></b></div><div><b><span style="font-size: 11pt">Our teams code in C++, Go, Rust, and Python, depending on the product they are contributing to within Kraken and work agile around the globe. </span></b></div><div><br></div></div><div class="section page-centered"><div><h3>The Opportunity</h3><ul class="posting-requirements plain-list"><ul><li><b>Develop and maintain core framework and key software components for the Kraken trading platform</b></li><li><b>Design and implementation of Micro-services in Rust</b></li><li><b>Build and design solutions that mitigate risk, implement security, and protect both systems and dataImprove performance by designing and implementing low-latency and high-availability applications</b></li><li><b>Construct dynamically scalable platforms capable of heavy transaction volume</b></li><li><b>Write reusable, testable, and efficient code</b></li><li><b>Collaborate with cross-functional teams and contribute to product roadmap accomplishments</b></li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills You Should Have</h3><ul class="posting-requirements plain-list"><ul><li><b>5+ years of experience in software engineering</b></li><li><b>Experience writing network services or asynchronous code in Rust</b></li><li><b>Proficiency in C, C++ strongly preferred</b></li><li><b>Proactive mindset with the ability to both prioritise tasks</b></li><li><b>Work collaboratively on a distributed team leveraging soft skills to effectively communicate and engage with stakeholders</b></li><li><b>Passion for solving complex engineering problems. </b></li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Location Tagging: #US #EU #LI-AN1 #LI-Remote #Canada</div><div><br></div><div><span style="font-size: 10.5pt">Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</span></div><div><br></div><div><span style="font-size: 10.5pt">As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</span></div><div><br></div><div><b><span style="font-size: 13.5pt">Stay in the know</span></b></div><div><br></div><div><a href="https://twitter.com/krakenfx" style="font-size: 10.5pt" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" style="font-size: 10.5pt" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" style="font-size: 10.5pt" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/23bb002e-228d-4c26-ad87-2eb05777c364/apply">Apply for this job</a></div>
+                <div class="section page-centered" data-qa="job-description"><div><b><span style="font-size: 18pt">Building the Internet of Money&nbsp;</span></b></div><div><br></div><div><span style="font-size: 10.5pt">Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</span></div><div><br></div><div><span style="font-size: 10.5pt">What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the adoption of cryptocurrency so the world can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Before you apply, please read the </span><a href="https://kraken-culture.notion.site/" style="font-size: 10.5pt" class="postings-link">Kraken Culture Explained</a><span style="font-size: 10.5pt"> to learn more about our internal culture, values, and mission.</span></div><div><br></div><div><span style="font-size: 10.5pt">As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who have a long track record of building premium products for professionals and institutions as well as newcomers to the space. Kraken is committed to industry-leading security through our products like </span><a href="https://pro.kraken.com/" style="font-size: 10.5pt" class="postings-link">Kraken Pro</a><span style="font-size: 10.5pt">, </span><a href="https://www.kraken.com/en-us/nft" style="font-size: 10.5pt" class="postings-link">Kraken NFT</a><span style="font-size: 10.5pt">, and </span><a href="https://cryptowat.ch/" style="font-size: 10.5pt" class="postings-link">Cryptowatch</a><span style="font-size: 10.5pt">, with a focus on world-class customer support and </span><a href="https://www.kraken.com/learn" style="font-size: 10.5pt" class="postings-link">crypto education</a><span style="font-size: 10.5pt"> for all.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Become a Krakenite and build the internet of money!</span></div><div><br></div><div><br></div><div><b style="font-size: 18px">Proof of work</b></div><div><br></div><div><b style="font-size: 18px">The Team</b></div><div><br></div><div>Join our Trading Technology team and start shaping the internet of money. </div><div><br></div><div>The Trading Technology team is responsible for everything to do with the trading backend services such as the matching engine, market data gateways, internal and external APIs, and various other trading services. Recently, the Trading Technologies team played a critical role in <a href="https://blog.kraken.com/post/17936/performance-at-kraken/" class="postings-link">scaling Krakens trading infrastructure.</a>&nbsp;</div><div><br></div><div>The team is located globally and responsibilities are split in to sub-teams, working with various tech stacks. Our teams code in C++, Go, Rust, and Python, depending on the product they are contributing to within Kraken and work agile around the globe.<span style="font-size: 18px">&nbsp;</span></div><div><br></div></div><div class="section page-centered"><div><h3>The Opportunity </h3><ul class="posting-requirements plain-list"><ul><li>Develop and maintain core framework and key software components for the Kraken trading engine</li><li>Build and design solutions that mitigate risk, implement security, and protect both systems and dataImprove site performance by designing and implementing low-latency and high-availability applications</li><li>Construct dynamically scalable platforms capable of heavy transaction volume</li><li>Write reusable, testable, and efficient code</li><li>Collaborate with cross-functional teams and contribute to product roadmap accomplishment</li><li>Work collaboratively on a distributed team leveraging soft skills to effectively communicate and engage with stakeholders</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills You Should HODL</h3><ul class="posting-requirements plain-list"><ul><li>Prior experience in at least one of the following using Linux - distributed and/or highly-concurrent systems; low-latency and/or high-volume transaction environments</li><li>3+ years experience working with C++</li><li>High level of proficiency in Python, Java, and SQL strongly preferred</li><li>Demonstrated knowledge of advanced order types, trading systems, and financial products</li><li>Experience engineering for cloud systems (AWS, Google and/or Microsoft)</li><li>Cryptocurrency/Blockchain familiarity highly preferable</li><li>Proactive mindset with the ability to both prioritise tasks and adhere to aggressive deadlines</li><li>BS in a technical or quantitative field</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>&nbsp;#US #EU #LI-Remote #Canada #LI-VF1</div><div><br></div><div><span style="font-size: 10.5pt">Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</span></div><div><br></div><div><span style="font-size: 10.5pt">As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</span></div><div><br></div><div><b><span style="font-size: 13.5pt">Stay in the know</span></b></div><div><br></div><div><a href="https://twitter.com/krakenfx" style="font-size: 10.5pt" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" style="font-size: 10.5pt" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" style="font-size: 10.5pt" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/a8b876c3-9b7e-407f-85c9-b46e168d7030/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -717,86 +693,6 @@
 <p><strong>Compensation</strong></p>
 <p>The expected compensation range for this role is $65,000 - $80,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process. We are happy to pay in any mix of fiat/crypto).&nbsp;</p>
 <p>&nbsp;</p>
-
-    
-
-    
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/D4E0BAQGvUyfPVBWDyg/company-logo_200_200/0/1657595552015?e=2147483647&v=beta&t=EecsDCOy3Fh_26M1noQDDIYw8-JuGKz_d1JDvcBZ-yI" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Bobtail</h5>
-                    <h3>Software Engineer - Mobile (Flutter)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/bobtail/jobs/4008379005" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    
-
-    <h2><span style="font-weight: 400;">About Bobtail</span></h2>
-<p><span style="font-weight: 400;">Bobtail is dedicated to increasing happiness by eliminating inefficiencies in the supply chain.&nbsp; We envision a supply chain without friction, fraud, waste, and abuse where companies succeed based on the value they create.&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">We work in a unique way at Bobtail, where we value teams over individuals and encourage experimentation and iteration to constantly improve.&nbsp; Teams are given flexibility in working towards a shared purpose and given the freedom to decide how they will accomplish their goals.&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">If you are an out of the box thinker that takes a proactive approach in collaborating with others to solve problems and achieve your goals - we would love to talk to you.&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">The things we value:</span></p>
-<ol>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Mission</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Teams over individuals</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Collaboration</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Communication</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Iteration</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experimentation and failing fast</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Initiative and solutions oriented approach</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Documentation</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Data</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Mental health and work life balance</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Diversity</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Transparency</span></li>
-</ol>
-<h2><span style="font-weight: 400;">You should apply if you have:</span></h2>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Computer Science or similar Software Engineering degree.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Proficiency in the English language, both written and verbal, sufficient for success in a remote and largely asynchronous work environment</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Highly effective collaboration, you work well with your team and your partners in product and design towards common goals</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Thrive in remote work environments - can accomplish a lot with minimal guidance but know when to reach out to support others or ask for help.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with either Flutter, iOS, or Android</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">5+ years of experience in software engineering with demonstrated proficiency in programming languages, such as and system design.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Strong theoretical fundamentals and hands-on experience designing and implementing highly available and performant fault-tolerant distributed systems.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have strong opinions about your design and coding principles.&nbsp; Don’t require hand holding and flourish in an independent environment.&nbsp;&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with credit card processing and payments applications</span></li>
-</ul>
-<h2><span style="font-weight: 400;">You will be responsible for:</span></h2>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Contribution to design and development of enterprise scale flutter application</span></li>
-<li><span style="font-weight: 400;">Debugging production level issues throughout the application</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Developing features and improvements to the Bobtail product in a secure, well-tested, and performant way</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Shipping large sized features and improvements with minimal guidance and support from other team members as well as collaborating with the team on larger projects</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Solve complex problems with smart people</span></li>
-</ul>
-<h2><span style="font-weight: 400;">Benefits</span></h2>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Monthly Mental Break Day</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Paid Time Off</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Work from home (or wherever)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Parental leave</span><span style="font-weight: 400;"><br><br></span></li>
-</ul>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Creating a diverse and inclusive workplace is Bobtail’s nucleus. We are an equal opportunity employer and embrace people of different backgrounds, cultures, religions, national origins, races, colors, genders, gender expressions, sexual orientations, ages, marital status, veteran status, experiences, abilities and perspective</span><span style="font-weight: 400;">s.</span><span style="font-weight: 400;"> </span><span style="font-weight: 400;"><br><br></span></p>
-<p><br><br></p>
 
     
 
