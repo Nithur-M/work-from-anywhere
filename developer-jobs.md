@@ -1,6 +1,171 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/5744/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/2990/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>OnTheGoSystems</h5>
+                    <h3> Senior Backend Developers for Mass-Market Project (RoR / Python are a plus!)</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/onthegosystems-senior-backend-developers-for-mass-market-project-ror-python-are-a-plus" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0076/2990/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> 100% remote
+    <br /><strong>URL:</strong> <a href="https://onthegosystems.com">https://onthegosystems.com</a>
+</p>
+
+<div><strong>Are you a seasoned software engineer with a passion for building products from start to finish? Do you thrive in a 100% remote work environment, where you can work on challenging problems with like-minded people? If so, we have an exciting opportunity for you to join our team at OnTheGoSystems!</strong></div><h1><strong>The Role</strong></h1><div>As a Senior Software Engineer, you will be responsible for building complete products from start to finish, working alongside other expert developers. We use different programming languages, frameworks, and tools, picking the best for each problem we’re addressing. You’ll work on mass-market SaaS products, used concurrently by thousands of people, and design for performance, stability, scalability, and easy maintenance.</div><h1><strong>Our Tech Stack</strong></h1><div>Our backend runs mostly on <strong>Ruby on Rails</strong>. For the front-end, we typically use <strong>React</strong>. For internal tools we use <strong>Python</strong>. And we encourage our developers to introduce the languages and tools that are best for each project we work on.</div><h1><strong>A Few Words About Us</strong></h1><div>At OnTheGoSystems, we’re all about <strong>creativity, autonomy, </strong>and<strong> responsibilit</strong>y. We empower our team members to take ownership of their work and reward results. We’ve been creating software for website developers and software translation since 2010.<br><br>
+</div><div>Our products power over a million businesses, so you can be sure that your work will make a real difference.<br><br>
+</div><div>We’re fully remote, which means you’ll have the flexibility to create your own work-life balance.</div><div>
+<strong><br>Work Hours<br><br></strong>Our development team gets together in the European morning (9AM Central European Time) and collaborates during the day. We work Mondays to Fridays.<strong><br></strong><br>
+</div><h1><strong>The Ideal Candidate</strong></h1><ul>
+<li>Proven experience building products from scratch and maintaining them</li>
+<li>Ability to work independently and collaboratively with other team members</li>
+<li>Curiosity and interest in trying new tools and solutions, especially as AI continues to transform the software development industry</li>
+<li>Strong commitment to continuous learning and applying new knowledge to their work.</li>
+</ul><h1><strong>Job Benefits</strong></h1><ul>
+<li>100% remote position</li>
+<li>Full-time position with paid public holidays, vacation, and sick leave</li>
+<li>Paid sabbatical (yes, most people in our team stick with us for years!)</li>
+<li>Being part of a team of smart, self-driven individuals</li>
+<li>Ample opportunity to progress and advance</li>
+<li>Meeting and collaborating with team members across the globe.</li>
+</ul><div><br></div><div>If you’re looking for an excellent opportunity to grow your career as a software engineer, in a company that values innovation and teamwork, apply today and join our dynamic team!</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/onthegosystems-senior-backend-developers-for-mass-market-project-ror-python-are-a-plus">https://weworkremotely.com/remote-jobs/onthegosystems-senior-backend-developers-for-mass-market-project-ror-python-are-a-plus</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>OnTheGoSystems</h5>
+                    <h3> Senior Developer – PHP / React</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/onthegosystems-senior-developer-php-react" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> 100% remote
+    <br /><strong>URL:</strong> <a href="https://onthegosystems.com">https://onthegosystems.com</a>
+</p>
+
+<div>Are you an <strong>experienced PHP/React Developer</strong> looking for a challenging and exciting career in the WordPress ecosystem? We’re looking for people who are great problem solvers, attentive to details, curious and organized.</div><h1><strong>A Few Words About Us</strong></h1><div>
+<a href="http://www.onthegosystems.com/">OnTheGoSystems</a> is a fully remote team of over 100 highly talented individuals from around the world. Since our launch in 2008, we’ve made it our mission to harness the power of translation technologies and enable businesses of all sizes to go global.</div><div><br></div><div>Our flagship product, <a href="https://wpml.org">WPML</a> (WordPress Multilingual), is used on over a million WordPress websites and is trusted by more than 250,000 clients worldwide. We’re constantly pushing the boundaries of translation technologies and working on new projects.</div><h1><strong>The Role</strong></h1><ul>
+<li>Design and develop solutions to enhance compatibility between multilingual WordPress sites, plugins, and themes.</li>
+<li>Handle everything from spec, through software architecture, implementation and automated-tests.</li>
+<li>Improve and maintain existing plugins to deliver a superior user experience.</li>
+</ul><h1><strong>Requirements</strong></h1><ul>
+<li>Expert experience with PHP and JavaScript (including React).</li>
+<li>Proficiency in writing automated tests (unit or e2e).</li>
+<li>Comfortable with package management (Composer/NPM) and Git.</li>
+<li>A strong foundation in Computer Science, including design patterns, databases, and networking.</li>
+<li>Exposure to front-end frameworks, such as React.</li>
+</ul><div><br></div><div><strong>Nice to Have Experience</strong></div><ul>
+<li>Familiarity with the WordPress ecosystem is a big plus.</li>
+<li>CI configuration/management.</li>
+<li>Software architecture design.</li>
+<li>Functional programming.</li>
+</ul><h1><strong>What we offer</strong></h1><ul>
+<li>Fully remote position.</li>
+<li>Full-time position with paid public holidays, vacation, and sick leave.</li>
+<li>Being part of a team of smart, self-driven individuals.</li>
+<li>Ample opportunity to progress and advance.</li>
+</ul><div><br></div><div>You will be working with a team of smart and enthusiastic people. We love getting things done and we’re proud of our work. </div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/onthegosystems-senior-developer-php-react">https://weworkremotely.com/remote-jobs/onthegosystems-senior-developer-php-react</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>OnTheGoSystems</h5>
+                    <h3> Content Marketer for a Developers Tool</h3>
+                </td>
+                <td width="300">
+                    <code>Sales and Marketing</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/onthegosystems-content-marketer-for-a-developers-tool" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> 100% remote
+    <br /><strong>URL:</strong> <a href="https://onthegosystems.com">https://onthegosystems.com</a>
+</p>
+
+<div>
+<strong>We’re looking for a smart and creative person who writes content that convinces and sells.<br></strong><br>
+</div><div>Our target audience is developers, so we’re looking for a content marketer with tech experience. If you can show us your own blog where you talk about things that interest you and you get others excited, we’re interested!</div><h1><strong>A Few Words About Us</strong></h1><div>At <a href="http://www.onthegosystems.com/">OnTheGoSystems</a>, we specialize in developing cutting-edge software that powers millions of websites worldwide. Since our launch in 2008, we have been a fully remote company and have assembled a team of over 100 highly talented individuals from around the world. Our software solutions currently power more than 1.5 million sites, and we are proud to have helped over 250,000 satisfied clients achieve their goals.  In 2023, we will launch a new product, a cloud-based SaaS solution that will serve millions of customers globally. </div><h1><strong>Responsibilities</strong></h1><ul>
+<li>Know our products and competitor products inside and out.</li>
+<li>Get into the minds of potential customers, understand their needs, desires and concerns.</li>
+<li>Create a content strategy that builds on our benefits, addresses customer needs and capitalizes on media opportunities.</li>
+<li>Pitch your content ideas to partners and publications that you identify on your own.</li>
+<li>Write great content, with an authentic voice, which engages clients emotionally and logically.</li>
+<li>Analyze the effectiveness of our content marketing efforts, using Analytics, engagement and conversions. Then, refine until you reach outstanding results.</li>
+<li>Stay up-to-date with industry news, so that our content is always relevant.<br><br>
+</li>
+</ul><h1><strong>What we’re looking for in a Content Marketer</strong></h1><ul>
+<li>Native English (your mother tongue)</li>
+<li>Minimum of 5 years of experience in content marketing, with a proven track record of creating content that drives sales</li>
+<li>Ownership and operation of at least one successful blog that demonstrates your content marketing skills and preferably in software services</li>
+<li>Exceptional writing and communication skills, with the ability to adapt your writing style to different audiences and channels</li>
+<li>Strong analytical skills, with the ability to use data to inform content strategy and measure results</li>
+<li>Creative and strategic mindset, with the ability to think outside the box and generate new ideas for content.</li>
+</ul><div>
+<br>You’ll start as a freelancer, with the intention of transitioning to a full-time position once we see that we’re a good fit for each other.</div><h1><strong>What we offer</strong></h1><ul>
+<li>100% remote position</li>
+<li>Full-time position with paid public holidays, vacation, and sick leave</li>
+<li>Being part of a team of smart, self-driven individuals</li>
+<li>Ample opportunity to progress and advance</li>
+<li>Meeting and collaborating with team members across the globe<br><br>
+</li>
+</ul><div>If you’re looking for an excellent opportunity to make an impact, in a company that values innovation and teamwork, apply today and join our dynamic team! </div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/onthegosystems-content-marketer-for-a-developers-tool">https://weworkremotely.com/remote-jobs/onthegosystems-content-marketer-for-a-developers-tool</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Contra</h5>
@@ -10,7 +175,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/contra-freelance-ai-application-developer-cohort-4" align="right" target="_blank">Apply</a>
@@ -19,7 +184,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0083/5744/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
   <strong>Headquarters:</strong> San Francisco, CA
@@ -76,7 +241,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/hashlist-mid-senior-vue-fullstack-developer" align="right" target="_blank">Apply</a>
@@ -129,40 +294,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7031/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>VEXXHOST, Inc.</h5>
-                    <h3> Développeur(e) de Kubernetes & Ansible | Kubernetes & Ansible Developer </h3>
-                </td>
-                <td width="300">
-                    <code>DevOps and Sysadmin</code>
-                </td>
-                <td width="200">
-                <text>22 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/vexxhost-inc-developpeur-e-de-kubernetes-ansible-kubernetes-ansible-developer-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/7031/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Pointe-Claire, Quebec, Canada
-    <br /><strong>URL:</strong> <a href="https://vexxhost.com/">https://vexxhost.com/</a>
-</p>
-
-<div><strong>Version Française</strong></div><div>VEXXHOST est une compagnie de cloud computing qui propose des OpenStack clouds publics, clouds privés et des solutions telles que Kubernetes Enablement, les mises à niveau OpenStack et les consultations.</div><div><br></div><div>Nous recherchons un/une Développeur(e) de Kubernetes &amp; Ansible. Cette personne doit avoir une expérience avec Kubernetes, Helm, et Ansible. Si la personne a l'expérience suivante, ce serait un bonus: OpenStack, Prometheus, Python, SRE, et Infrastructure as Code. Un grand avantage est que vous pourrez travailler à la maison. Aussi, vous pouvez travailler si vous ne connaissez que l'anglais.</div><div><br></div><div>Si cela vous intéresse, vous devez soumettre votre CV. Cependant, la lettre est optionnelle, mais ce serait un bonus de nous faire savoir pourquoi vous pensez que vous seriez un bon candidat pour ce rôle.</div><div><br></div><div><strong>English Version</strong></div><div>VEXXHOST is a cloud computing company that offers OpenStack public clouds, private clouds, and managed solutions such as Kubernetes Enablement, OpenStack Upgrades and Consultations.</div><div><br></div><div>We are looking for a Kubernetes &amp; Ansible Developer. This individual must have Kubernetes, Helm, and Ansible experience. If the individual has some of the following experience, it would be a bonus: OpenStack, Prometheus, Python, SRE, and Infrastructure as Code. One great benefit is that you would be able to work from home. Also, you can apply if you only know English. </div><div><br></div><div>If this interests you, you must submit your resume in the application process. However, the cover letter is optional but it would be a bonus to let us know why you think you’d be a good fit for this role.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/vexxhost-inc-developpeur-e-de-kubernetes-ansible-kubernetes-ansible-developer-1">https://weworkremotely.com/remote-jobs/vexxhost-inc-developpeur-e-de-kubernetes-ansible-kubernetes-ansible-developer-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -173,7 +304,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>61 days ago</text>
+                <text>63 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toggl-senior-frontend-developer" align="right" target="_blank">Apply</a>
@@ -242,7 +373,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>92 days ago</text>
+                <text>95 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-flutter-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -313,7 +444,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>99 days ago</text>
+                <text>101 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-vue-js-developer" align="right" target="_blank">Apply</a>
@@ -371,63 +502,57 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/0942/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>XM</h5>
-                    <h3> Senior PHP Web Developers– Cyprus, Greece or Remote</h3>
+                    <h5>much</h5>
+                    <h3> Remote Senior Odoo Developer (m/f/d)</h3>
                 </td>
                 <td width="300">
-                    <code>Back-End Programming</code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>126 days ago</text>
+                <text>150 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/much-remote-senior-odoo-developer-m-f-d" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
+                <img src="https://we-work-remotely.imgix.net/logos/0082/0942/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Cyprus, Greece or Remote
-    <br /><strong>URL:</strong> <a href="https://xm.com">https://xm.com</a>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://muchconsulting.de">https://muchconsulting.de</a>
 </p>
 
-<div>
-<strong>Reference Number: SPHPWD1021<br></strong><br>
-</div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>The role:<br></strong><br>
-</div><div>As our new Senior PHP Developer, you will join an amazing team who is dedicated to taking the next step in software engineering. You will make key decisions on software processes, and use Kubernetes and Terraform on PHP, Go, React &amp; Angular on AWS. The team will keep you up-to-date with the latest technology stacks and processes and help you see challenging projects from beginning to end.<br><br>
-</div><div> <br><br>
-</div><div>
-<strong>The main responsibilities of the role include:<br></strong><br>
-</div><div>●        Design and implement new features/projects</div><div>●        Maintain and refactor existing web applications such as the company's website, registration forms, Members Area and internal web services</div><div>●        Research and integrate new web technologies</div><div>●        Write tests that will run on a continuous integration server 24/7 to ensure code testability, code coverage and quality conforms to the company’s highest standards</div><div>●        Resolve support tickets for IT related issues</div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>Main requirements:<br></strong><br>
-</div><div>●        BSc/MSc in information technology or any other relevant degree</div><div>●        At least 3 years of experience in a similar position</div><div>●        Very good knowledge of PHP 7+, MySQL, Redis, Git</div><div>●        Very good understanding of object-oriented programming principles</div><div>●        Experience in creating and consuming web services</div><div>●        Experience with modern PHP frameworks</div><div>●        Experience in writing tests with PHPUnit</div><div>●        Ability to research and adapt new web technologies that add value to the team</div><div>●        Strong organisational skills with the ability to multitask and prioritise</div><div>●        Problem solving and analytical skills</div><div>●        Ability to work independently and integrate well within a team</div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>The following will be considered an advantage:<br></strong><br>
-</div><div>●        Experience in Symfony framework</div><div>●        Experience in the development of REST APIs</div><div>●        Experience in software development practices like design patterns, SOLID principles, DRY</div><div>●        Very good understanding of security practices (OWASP)</div><div>●        Experience with cloud providers (e.g. AWS)</div><div>●        Experience in database query optimization</div><div>●        Experience in creating composer packages</div><div>●        Experience in front-end frameworks or libraries like Angular or React</div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>Benefit from:<br></strong><br>
-</div><div>●        Attractive remuneration package </div><div>●        Private health insurance</div><div>●        Food allowance</div><div>●        Intellectually stimulating work environment</div><div>●        Continuous personal development and international training opportunities</div><div> </div><div>
-<br>Type of employment: Full time<br><br>
-</div><div>
-<br>Location: Cyprus, Greece or Remote <br><br>
-</div><div>
-<br> <br><br>
-</div><div>Please visit our website <a href="http://www.xm.com/careers">www.xm.com/careers</a> to submit your online application for this position. </div><div> </div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div>
+<div>You want to work as a remote developer with the prospect of coming to Portugal after a successful freelance cooperation?<br><br>We are a boutique consultancy in the heart of Munich and in sunny Lisbon with a focus on business IT &amp; ERP systems.<br><br>Our customers are fast-growing, international start-ups and medium-sized companies. We are ambitious, team-oriented and passionate about our work.<br>We are looking for a dedicated full time Odoo developer to support our Team in ERP development.<br><br><strong><br>Our offer:</strong>
+</div><ul>
+<li>The chance to come to Portugal after your freelance work </li>
+<li>Support with visa process, bureaucracy &amp; relocation</li>
+<li>Inclusion in our motivated &amp; high-performing international team through daily  meetings  </li>
+<li>Challenging projects and autonomy</li>
+<li>Flexible working hours</li>
+<li>Above-average remuneration  </li>
+</ul><div>
+<br><strong>Your profile:</strong>
+</div><ul>
+<li>Studies in computer engineering or similar </li>
+<li>5 or more years experience in Odoo and QWeb</li>
+<li>Ninja programming skills in Python</li>
+<li>Adaptive, quick working method &amp;  high commitment style</li>
+<li>Independent working style </li>
+<li>English speaking team player </li>
+</ul><div><br></div><div><strong>Your tasks:</strong></div><ul>
+<li>Evolve and maintain custom and  open source used modules in our  ERP System Odoo </li>
+<li>Assist our consultants analysing  customer needs to design and build  the best fit IT solutions  </li>
+<li>Development, maintenance, technical fixing &amp; management of  our systems </li>
+</ul><div>
+<br>Learn more about much. Consulting at muchconsulting.com/join</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1">https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/much-remote-senior-odoo-developer-m-f-d">https://weworkremotely.com/remote-jobs/much-remote-senior-odoo-developer-m-f-d</a></p>
 
                 </details>
                 </td>
@@ -443,7 +568,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>226 days ago</text>
+                <text>228 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -517,7 +642,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>247 days ago</text>
+                <text>249 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/socialhub-reactjs-web-developer-remote-saas-m-f-d-1" align="right" target="_blank">Apply</a>
@@ -619,6 +744,61 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1667108/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>1inch Network</h5>
+                    <h3>Web Developer</h3>
+                </td>
+                <td width="300">
+                    <code>CSS,developer,docker,blockchain</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/web-developer-1667108" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>We are looking for an experienced web developer to help us build 1inch dApp <a href="https://app.1inch.io/" rel="nofollow" style="background-color: #ffffff;">https://app.1inch.io/</a></p>
+<p> </p>
+<p><strong>Must know:</strong></p>
+<ul style="">
+<li style="">Latest Angular, RxJS, TypeScript, Service Worker, PWA</li>
+<li style="">DOM, SCSS/CSS</li>
+<li style="">Unit Testing / Jest</li>
+<li style="">Understanding of common software design patterns &amp; principles</li>
+<li style="">HTTP<br><br></li>
+</ul>
+<p><strong>1inch - No.1 Ethereum DeFi aggregator and high efficient AMM<br></strong></p>
+<p>No.1 DeFi aggregator with the most liquidity and the best rates on Ethereum and Binance Smart Chain, 1inch dApp is an entry point to the 1inch Network's tech.</p>
+<p><strong><br>Strongly desirable:</strong></p>
+<ul style="">
+<li style="">Experience with: Blockchain, Ethereum, JSON-RPC, Solidity/Smart Contracts, Web3, Ethers, EIP-2612, AMM, HD Wallet</li>
+<li style="">Github Actions / Docker / Microservice</li>
+<li style="">NestJs, TypeORM, Swagger</li>
+<li style="">e2e testing, Cypress</li>
+<li style="">Experience of chrome extension development</li>
+</ul>
+<p><strong><br>Terms:</strong></p>
+<p> </p>
+<ul style="">
+<li style="">Remote work, flexible hours (our team is distributed around the world).</li>
+<li style="">Young creative team, vibrant environment and adequate leadership.</li>
+<li style="">Suggestions welcome: propose an idea and execute it.</li>
+<li style="">Competitive salary based on a candidate's skills and experience.</li>
+<li style="">Work for a leader in its segment.</li>
+<li style="">Compensation for work equipment.</li>
+<li style="">Annual team building event at an international resort.</li>
+</ul>
+<img src="https://remotive.com/job/track/1667108/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1665505/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -629,7 +809,7 @@
                     <code>developer,seo,social media,ai</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-ai-application-developer-cohort-4-1665505" align="right" target="_blank">Apply</a>
@@ -669,7 +849,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -738,7 +918,7 @@
                     <code>amazon,AWS,backend,developer</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-python-developer-and-aws-manager-1656870" align="right" target="_blank">Apply</a>
@@ -784,7 +964,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -861,7 +1041,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -998,7 +1178,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1075,7 +1255,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
