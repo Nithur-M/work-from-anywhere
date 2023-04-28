@@ -1,166 +1,73 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/5497/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior DevOps Engineer</h3>
+                    <h5>Pictureworks Group Pty. Ltd.</h5>
+                    <h3> Lead DevOps Engineer and Systems Administrator</h3>
                 </td>
                 <td width="300">
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>201 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/pictureworks-group-pty-ltd-lead-devops-engineer-and-systems-administrator" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
+                <img src="https://we-work-remotely.imgix.net/logos/0018/5497/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
+  <strong>Headquarters:</strong> Melbourne, Australia
+    <br /><strong>URL:</strong> <a href="https://pictureworks.com.au/">https://pictureworks.com.au/</a>
 </p>
 
-<div><strong>The Role:</strong></div><div>We are searching for a Senior DevOps Engineer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div><br></div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
-<li>You have +4 years of solid development experience as a DevOps Engineer;</li>
-<li>You have +3 years of experience in Azure Cloud and Kubernetes;</li>
-<li>You have good understanding of operating, monitoring, and documenting cloud solutions;</li>
-<li>Responsible and able to work with minimal supervision;</li>
-<li>Upper-intermediate English level;</li>
-<li>You can communicate well with both technical and non-technical clients.</li>
-</ul><div>
-<strong><br>Nice-to-have:</strong> <br><br>
+<div><strong>About Us</strong></div><div>
+<em>Pictureworks Group Pty. Ltd. is a global software and system solutions business for the print, photo and manufacturing industries. We build the solution set and information architecture that underpins the creation and manufacture of millions of products a year. Our flagship application can be found at </em><a href="http://zensmart.ai"><em>zensmart.ai</em></a><em> and you can </em><a href="https://www.youtube.com/watch?v=xUsxwULxYqE"><em>learn more about our company history and tech stack here</em></a>
+</div><div><br></div><div><em>We are currently seeking a Lead DevOps Engineer to join our team on a permanent basis and start work immediately on some really exciting and challenging projects.</em></div><div><br></div><div>
+<br><strong>We’re Looking For Someone With</strong>
 </div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Azure certifications in Cloud development and architecture would be a plus.</li>
-</ul><div>
-<strong><br>Responsibilities:<br></strong><br>
-</div><ul>
-<li>Set up and maintain local development and test environments (based on containers and similar technologies);</li>
-<li>Set up CI/CD pipelines, including build processes for container images and delivery to container registries;</li>
-<li>Planning and setting up automated updates to AKS (Azure Kubernetes Service) and surrounding infrastructure components;</li>
-<li>Continued setup and improvement of Cloud infrastructure to support new cloud-native solutions;</li>
-<li>Collaborate with the stakeholders.</li>
-</ul><div>
-<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change the project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule<br>.🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
+<li>Significant experience leading a small technical team</li>
+<li>Demonstrable experience at mastery level for GIT, Unix and Docker</li>
+<li>Experience with Bash and confidence with at least one other scripting language (e.g. Python, Perl, Golang etc.)</li>
+<li>Experience with container orchestration methods such as Docker Swarm or Kubernetes</li>
+<li>A good understanding of modern web application development</li>
+<li>Confidence and excitement to work with new and cutting edge libraries</li>
+<li>The ability to communicate via English clearly, politely and professionally in person, on the phone and over email with people of different cultures and backgrounds</li>
+<li>A strong work ethic and attitude with a willingness to "do what's required" on a project</li>
+<li>Willingness to adapt and respond to changing requirements and potential 24/7 emergencies</li>
+</ul><div>...and most of all, someone fun, friendly, motivated, ambitious, confident, excited and ready to hit the ground running!</div><div>
 <br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of the Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
+</div><div><strong>General Tasks Include</strong></div><ul>
+<li>Team management and development</li>
+<li>SME on all things infrastructure, providing advice to the executive on direction</li>
+<li>Rostered 24hr on-call availability for systems emergency escalations</li>
+<li>Proactive systems monitoring</li>
+<li>Reactive systems event handling</li>
+<li>Interacting with developers and other leads to provide support</li>
+<li>Client interaction on select support requests</li>
+<li>Threat detection and analysis</li>
+<li>Process analysis</li>
+<li>Providing feedback to the leadership team on efficiency opportunities</li>
+<li>Bug fixing</li>
+<li>Prototyping solutions to aid quotations</li>
+<li>Testing</li>
 </ul><div>
-<br><br><br>
-</div>
+<br><strong>Benefits</strong>
+</div><ul>
+<li>Very competitive salary, tailored to your experience</li>
+<li>Relaxed atmosphere</li>
+<li>Playing with bleeding edge technologies and learning new skills</li>
+<li>Working with a small, highly capable and motivated team, serving millions of end customers</li>
+<li>30 days total leave per year, inclusive of national holidays</li>
+</ul><div>Working here is awesome – way better than working for an agency or a big faceless enterprise – and we just know you’re going to love it too. The variety of work you’ll get, coupled with the freedom you’ll be given to think outside the box is unparalleled. Apply today and start making things, not just websites.</div><div><br></div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer">https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/pictureworks-group-pty-ltd-lead-devops-engineer-and-systems-administrator">https://weworkremotely.com/remote-jobs/pictureworks-group-pty-ltd-lead-devops-engineer-and-systems-administrator</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1639500/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Contra</h5>
-                    <h3>Senior DevOps Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>cloud,developer,devops,docker</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1639500" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9);">We're looking for a Senior DevOps Engineer to join our engineering team and help us build the best platform for independents &amp; clients. As a DevOps engineer, you are an integral member of our engineering organization. You'll not only help scale our infrastructure and CI/CD pipelines, but also have the chance to shape our technological choices and processes for ensuring the growth, stability and success of the Contra platform. This is a major role at a rapidly expanding startup, working with a team of highly accomplished yet humble people who are passionate about our company's mission. ✨</p>
-<p style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9);"> </p>
-<p><span style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); outline: var(--artdeco-reset-base-outline-zero); color: rgba(0, 0, 0, 0.9);"><strong>How you’ll add value at Contra:</strong></span></p>
-<ul style="">
-<li style="">Expert knowledge in a wide variety of DevOps technologies &amp; best practices</li>
-<li style="">Knowledge and experience leveraging Google Cloud Platform natively and with complimentary tech</li>
-<li style="">Excellent communication and documentation skills</li>
-<li style="">Collaboration with the rest of the team through regular communication, information sharing and mentorship</li>
-<li style="">Designing, engineering and maintaining solutions for a highly resilient, scalable and fault-tolerant infrastructure</li>
-<li style="">Improving &amp; scaling CI/CD pipelines</li>
-<li style="">Developing, maintaining and improving monitoring, alerting and reporting tools</li>
-<li style="">Providing on-going operational support</li>
-<li style="">Identifying and improving the developer experience</li>
-<li style="">Bridging the gap between our infrastructure and our applications, you have experience and comfort working within TypeScript/JavaScript Node.js environments and can identify and resolve issues that straddle the line between "infrastructure and application</li>
-<li style="">We expect you to be self-sufficient and take the initiative to drive the company forward. We are looking for individuals who are highly energetic, capable and ambitious, and who are eager to expand their knowledge and show how their contributions help achieve business objectives.</li>
-</ul>
-<p style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9);"> </p>
-<p><span style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); outline: var(--artdeco-reset-base-outline-zero); color: rgba(0, 0, 0, 0.9);"><strong>You’ll be successful here if you are:</strong></span></p>
-<ul style="">
-<li style="">Mission-driven. Our mission truly resonates with you and you would like to be a part of what we are building together at Contra!</li>
-<li style="">A dedicated team player. You thrive in a collaborative, remote-only environment and you are comfortable with 8 am - 1 pm PST core hours!</li>
-<li style="">Passionate about learning. Share a genuine curiosity for learning, always eager to pick up new skills. We don’t expect everyone to know everything but you learn quickly!</li>
-<li style="">Goal oriented. Understand what you need to do in order to achieve your goals without needing all of the bells and whistles.</li>
-<li style="">Committed to trying. Have the resilience and willingness to try and try again even if you fail after a few attempts!</li>
-<li style="">Ambitious attitude. You bring a strong work ethic and contagious energy to your team as we work towards our North Star.</li>
-<li style="">Path Paver. Joining a startup you enjoy taking ownership, building out processes and documentation that might not exist to share with your team members.</li>
-</ul>
-<p style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9);"> </p>
-<p><span style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); outline: var(--artdeco-reset-base-outline-zero); color: rgba(0, 0, 0, 0.9);"><strong>Our stack:</strong></span></p>
-<ul style="">
-<li style="">ArgoCD</li>
-<li style="">AlloyDB / PostgreSQL</li>
-<li style="">Github Actions</li>
-<li style="">Google Cloud Platform</li>
-<li style="">Fluentbit</li>
-<li style="">Kubernetes, Helm &amp; Docker</li>
-<li style=""><a class="attributed-text-hyperlink" href="http://node.js/" rel="nofollow" style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); text-decoration: var(--artdeco-reset-link-text-decoration-none); font-weight: var(--font-weight-bold); border: var(--artdeco-reset-link-border-zero); touch-action: manipulation;" target="_blank">Node.js</a></li>
-<li style="">Meillisearch</li>
-<li style="">OpsGenie</li>
-<li style="">Redis</li>
-<li style="">Temporal</li>
-<li style="">Traefik</li>
-<li style="">Turbo repo</li>
-<li style="">TypeScript</li>
-</ul>
-<p style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9);"> </p>
-<p><span style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); outline: var(--artdeco-reset-base-outline-zero); color: rgba(0, 0, 0, 0.9);"><strong>You'll love Contra for:</strong></span></p>
-<ul style="">
-<li style="">🌎 Remote-only culture that is here to stay</li>
-<li style="">🍎 100% health coverage for US full-time employees, and health reimbursements for all international contractors</li>
-<li style="">💸 $4,000 laptop reimbursement upon starting + additional for equipment, co-working, and meetups</li>
-<li style="">💰 401k matching for US full-time employees</li>
-<li style="">💛 No-meeting Tuesdays &amp; Wednesdays</li>
-<li style="">👋 Generous time off</li>
-<li style="">👶 Flexible parental leave</li>
-<li style="">💁 A custom slack emoji, just for you!</li>
-</ul>
-<p style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9);"> </p>
-<p><span style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); outline: var(--artdeco-reset-base-outline-zero); color: rgba(0, 0, 0, 0.9);"><strong>Our interview process:</strong></span></p>
-<ul style="">
-<li style="">Intro Call (15-30 minutes)</li>
-<li style="">Interview #1 In Depth Technical Discussion Chat with Hiring Manager (45 minutes)</li>
-<li style="">Interview #2 Culture Interview (30 minutes)</li>
-<li style="">Interview #3 Founder Interview (30 minutes)</li>
-</ul>
-<p style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9);"> </p>
-<p><span style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); outline: var(--artdeco-reset-base-outline-zero); color: rgba(0, 0, 0, 0.9);"><strong>Salary + Equity Range</strong></span></p>
-<ul style="">
-<li style="">$145,000 -$160,000 USD</li>
-<li style="">Equity Value Range: $72k - $180k USD</li>
-</ul>
-<img src="https://remotive.com/job/track/1639500/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
