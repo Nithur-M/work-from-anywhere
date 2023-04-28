@@ -1,63 +1,5 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/1596/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Fluyo</h5>
-                    <h3> UX/UI Designer & Product Owner</h3>
-                </td>
-                <td width="300">
-                    <code>Design</code>
-                </td>
-                <td width="200">
-                <text>15 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/fluyo-ux-ui-designer-product-owner" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0084/1596/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Delaware
-    <br /><strong>URL:</strong> <a href="http://www.fluyoapp.com">http://www.fluyoapp.com</a>
-</p>
-
-<div>
-<strong>🐬 Fluyo is a startup looking for a legendary UX designer who will transform our well designed &amp; fun language learning app into an </strong><strong><em>incredibly</em></strong><strong> well designed &amp; even more fun app! Someone who through data/research, good intuition and design taste will level up our product user’s experience to the maximum level. <br></strong><br>
-</div><div>Our mission at Fluyo is to make the world speak another language by making language learning truly fun. We combine the most effective language education with all the fun of a video game.</div><div><br></div><div>🧑‍🏫 <strong>Industry</strong>: Language Learning</div><div>🧑‍💻 <strong>Seniority</strong>: Mid/Senior (you will be the primary UX/UI designer in our team)</div><div>🏢 <strong>Company Size</strong>: 5 to 10 employees </div><div>
-<strong>💰 Salary: </strong>€40k-55k EUR / $45k-60k USD per year</div><div>
-<strong>📈 Equity: </strong>0.1 - 0.25% </div><div><br></div><div><strong>Perks</strong></div><div>-⏱ Flexible working hours (work whenever you want, but be available to chat during core hours: 8-11am EST / 2-5pm CET) </div><div>- 🌍 100% Remote working (our team is based in 7 different countries worldwide)</div><div>- 💰 Funded on Kickstarter (<strong>highest funded app in Kickstarter history!</strong>)</div><div>- 🚀 Make a real difference (we are publicly launching in a few months, so this is a really exciting time to join!)</div><div>- 🐣 Be an early team member + equity (as the company grows, your role will grow, and so will all the rewards!)</div><div>- 😎 A chilled out team (we work hard, but we do not micromanage at all)</div><div><br></div><div><br></div><div><strong>Essential Skills</strong></div><ul>
-<li>Deep experience with Adobe XD or Figma, and an elegant, modern portfolio</li>
-<li>Your files, components, prototypes and designs are very organized (and you can show this)</li>
-<li>You love learning new languages and are familiar with the current most popular language learning apps</li>
-<li>You love talking to customers/users to get product feedback and can turn this feedback into designs</li>
-<li>You possess a strong intuition for what you believe users would like based on your own experience (not solely relying on research &amp; data)</li>
-<li>You absolutely love UX, and constantly think about how your designs will affect user happiness and success</li>
-<li>Fluent English (our employees speak many languages, but at work we speak English)</li>
-</ul><div><br></div><div><strong>Bonus Skills</strong></div><ul>
-<li>You enjoy working closely with developers to ensure your designs are implemented correctly </li>
-<li>Experience in game design or extensive gaming experience (the majority of Fluyo is either a game or very gamified, we need someone who is familiar with common gaming mechanics)</li>
-</ul><div><br></div><div><strong>The Role</strong></div><div>You will be the main product designer in the team, and will be responsible for taking our current (slightly messy) XD file and transforming it into a professional, modern UI kit &amp; design. You will then be responsible for collecting and analyzing user feedback from our app, to determine what features users want added or improved, and then you will determine their feasibility and turn them into prototypes (and then full designs).<br><br>
-</div><div>You will be responsible for anything that users interact with (and how they exactly interact with) on the app. We want someone who is bright, hard working and has a great user experience and visual design taste. We want someone who can take charge over our product and envision all the potential ways our product’s user experience can be improved, design said improvements and work with our developers to ensure your designs are matched and do QA. Please add the word “Goldshire” to your application so we know you read this post completely. Ultimately, the goal of this role is to help make our app an absolute joy for our customers to use.<br><br>
-</div><div>Essentially, we need someone who is a professional and talented designer, but also someone who cares deeply about products and customers, and is always thinking about how to make our product more useful/enjoyable. </div><div>This is a full time requirement (approx. 7 hours per day) for 1 designer. Please no agencies. We want someone who can commit to our team and focus exclusively on this. We are not looking for a freelancer who has multiple projects on at the same time.  </div><div><br></div><div><strong>Our Company</strong></div><div>We're a language learning app that will completely change the way people learn languages. We're making a language learning app that is truly fun and addictive. It’s not simply “a gamified app”, it’s an actual game. A game that has been designed from the ground up to also be the most effective language learning system that’s ever existed. Other apps can be effective, but often are not truly fun and are very difficult to use consistently. Hence users rely on forcing themselves to use them. <br><br>
-</div><div>In contrast, our app inspires excitement, acts as a platform for learners to make friends, is extremely fun, easy to use consistently and therefore makes one’s language learning journey so much better. We just became the most funded app on Kickstarter ever, and you can see our campaign and learn more about our product here: <a href="https://www.kickstarter.com/projects/550782470/fluyo">https://www.kickstarter.com/projects/550782470/fluyo</a>
-</div><div><br></div><div><strong>Interview Process</strong></div><ul>
-<li>Application form (below)</li>
-<li>We review your portfolio, if we think you are potential fit, we’ll send you a small paid design / user flow critique test</li>
-<li>Video call with CTO &amp; CEO</li>
-<li>Decision made in early May</li>
-</ul><div><br></div><div><strong>Thanks so much for checking out our job! We can't wait to read your application and (hopefully) welcome you to our team! Even if this job is not a good fit for you, we will keep your contact details and email you about future jobs that fit your profile. We are going to be hiring a lot in 2023! </strong></div><div><img src="https://codahosted.io/docs/DOfhk1myD2/blobs/bl--4oQBr2VM2/234912ebcdfc86095b68b033e4cb14564d36c5a78ae59943480ac7a5b5bc985eaac4dba0d067aa2c44346b91ef0b04092b741388414eafa89ed9d1a312f0052c990bb977d7ff8be46f0b2c988255addb4e51edca970a1126c9f2d7ca8d8d044487b7e356" width="820" height="360"></div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/fluyo-ux-ui-designer-product-owner">https://weworkremotely.com/remote-jobs/fluyo-ux-ui-designer-product-owner</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -68,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>426 days ago</text>
+                <text>428 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote" align="right" target="_blank">Apply</a>
@@ -119,6 +61,41 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1660569/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>SD Solutions</h5>
+                    <h3>SoftwareHouse | Senior UI/UX Designer</h3>
+                </td>
+                <td width="300">
+                    <code>cloud,developer,mobile,postgresql</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/design/softwarehouse-senior-ui-ux-designer-1660569" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>On behalf of a SoftwareHouse that specializes in building products for a variety of projects across different domains we are currently seeing a <strong><strong></strong></strong><strong>Senior UI/UX Designer</strong> to join the team. The successful candidate will work on several projects concurrently, across various industries.</p>
+<p><em>SD Solutions is a staffing company operating globally. Contact us to get more details about the benefits we offer.</em></p>
+<p>As a Junior Software Developer, you will be responsible for working on different projects concurrently, while still having a specific project to focus on at a time. You will be working under the direct supervision of our Team Leader and will be expected to have experience and knowledge of server-side development using Nest JS (TS), app development using Electron, and database management using PostgreSQL, Redis, and Google Cloud Platform.</p>
+<p><strong>Responsibilities</strong>:</p>
+<ul style=""><li style="">Collaborating with cross-functional teams to develop design solutions that meet user needs and business goals</li><li style="">Creating wireframes, prototypes, and visual designs using Figma and Wireframe</li><li style="">Conducting user research and usability testing to validate design decisions</li><li style="">Staying up-to-date with emerging design trends and technologies</li><li style="">Working on multiple projects simultaneously while ensuring high-quality deliverables</li></ul>
+<ul style=""></ul>
+<p><strong>Requirements</strong>:  </p>
+<ul style=""><li style="">A minimum of <strong>5 years </strong>of experience in UI/UX design</li><li style="">Strong proficiency in Figma and Wireframe (preferred) </li><li style="">Experience in designing for both mobile and web apps</li><li style="">Strong understanding of UX design principles and practices</li><li style="">Ability to work independently as well as part of a team</li><li style="">Excellent communication skills</li><li style=""><strong>Fluency in English</strong> (both written and spoken)</li><li style="">We will expect to see your current <strong>portfolio</strong> during the interview process.</li></ul>
+<p><strong>About the company:</strong></p>
+<p>SoftwareHouse is a leading software house specializing in building innovative products for diverse projects across different domains. With a skilled team of developers and cutting-edge technologies, SoftwareHouse crafts custom software solutions, including web applications, mobile apps, and more. </p>
+<p>The company's expertise lies in delivering high-quality software that meets clients' unique requirements, backed by their commitment to excellence. Bring your ideas to life and achieve success with tailored software solutions.</p>
+<img src="https://remotive.com/job/track/1660569/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/986276/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -129,7 +106,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
