@@ -10,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/onthegosystems-senior-backend-developers-for-mass-market-project-ror-python-are-a-plus" align="right" target="_blank">Apply</a>
@@ -60,7 +60,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/onthegosystems-senior-developer-php-react" align="right" target="_blank">Apply</a>
@@ -115,7 +115,7 @@
                     <code>Sales and Marketing</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/onthegosystems-content-marketer-for-a-developers-tool" align="right" target="_blank">Apply</a>
@@ -175,7 +175,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/contra-freelance-ai-application-developer-cohort-4" align="right" target="_blank">Apply</a>
@@ -241,7 +241,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/hashlist-mid-senior-vue-fullstack-developer" align="right" target="_blank">Apply</a>
@@ -297,6 +297,82 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
+                    <h5>Proxify AB</h5>
+                    <h3> Senior Unity Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>60 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-unity-developer-fully-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Sweden
+    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
+</p>
+
+<div><strong>The Role:</strong></div><div>
+<br>We are searching for a Senior Unity Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
+<br><br>
+</div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
+<li>You have +3 years of experience with Unity / Unity3D;</li>
+<li>Strong ability with C# object-oriented programming language</li>
+<li>Experience with game assets (ex: meshes, animations, materials)</li>
+<li>You have in-depth knowledge of 3D development and integrated game physics;</li>
+<li>You own experience with both console and mobile game development;</li>
+<li>You got experience with memory and space optimization;</li>
+<li>You possess knowledge of scripting, animation, session management, and textures;</li>
+<li>You have good troubleshooting skills.</li>
+</ul><div>
+<strong><br>Nice-to-have:</strong> </div><ul>
+<li>Timezone: CET (+/- 3 hours);</li>
+<li>Knowledge of TypeScript.</li>
+</ul><div><br></div><div>
+<strong>Responsibilities:<br></strong><br>
+</div><ul>
+<li>Establishing strategy and development pipelines;</li>
+<li>Planning and implementing game functionality;</li>
+<li>Transforming design ideas into functional games;</li>
+<li>Designing and building game codes;</li>
+<li>Identifying and fixing code errors and game bottlenecks;</li>
+<li>Testing game functionality and theme dynamics;</li>
+<li>Ensuring products conform to high industry standards;</li>
+<li>Designing and building game patches and upgrades;</li>
+<li>Stay up-to-date with the latest technologies.</li>
+</ul><div><br></div><div>
+<strong>What we offer:<br><br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
+<br><br>
+</div><div><strong>Your benefits with Proxify:</strong></div><ul>
+<li>
+<strong>Be part of the Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
+<li>
+<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
+<li>
+<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
+<li>
+<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
+<li>
+<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-unity-developer-fully-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-unity-developer-fully-remote</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
                     <h5>Toggl</h5>
                     <h3> Senior Frontend Developer</h3>
                 </td>
@@ -304,7 +380,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>63 days ago</text>
+                <text>64 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toggl-senior-frontend-developer" align="right" target="_blank">Apply</a>
@@ -373,7 +449,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>95 days ago</text>
+                <text>96 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-flutter-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -444,7 +520,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>101 days ago</text>
+                <text>102 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-vue-js-developer" align="right" target="_blank">Apply</a>
@@ -512,7 +588,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>150 days ago</text>
+                <text>151 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/much-remote-senior-odoo-developer-m-f-d" align="right" target="_blank">Apply</a>
@@ -568,7 +644,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>228 days ago</text>
+                <text>229 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -642,7 +718,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>249 days ago</text>
+                <text>250 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/socialhub-reactjs-web-developer-remote-saas-m-f-d-1" align="right" target="_blank">Apply</a>
@@ -754,7 +830,7 @@
                     <code>CSS,developer,docker,blockchain</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/web-developer-1667108" align="right" target="_blank">Apply</a>
@@ -809,7 +885,7 @@
                     <code>developer,seo,social media,ai</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-ai-application-developer-cohort-4-1665505" align="right" target="_blank">Apply</a>
@@ -849,7 +925,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -918,7 +994,7 @@
                     <code>amazon,AWS,backend,developer</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-python-developer-and-aws-manager-1656870" align="right" target="_blank">Apply</a>
@@ -964,7 +1040,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -1041,7 +1117,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -1241,150 +1317,6 @@
 <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a new type of company for a new kind of independent software builder. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </span></p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</span></p>
 <img src="https://remotive.com/job/track/814298/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1606658/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify</h5>
-                    <h3>Senior Unity Developer</h3>
-                </td>
-                <td width="300">
-                    <code>C,C#,developer,mobile</code>
-                </td>
-                <td width="200">
-                <text>31 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The Role:</span></p>
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">We are searching for a Senior Unity </span><span style="color: #252525; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Developer.</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </span></p>
-<p><strong><br><br></strong></p>
-<div class="h3" dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">What we are looking for:</span></div>
-<p><strong> </strong></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have +3 years of experience with Unity / Unity3D;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Strong ability with C# object-oriented programming language</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Experience with game assets (ex: meshes, animations, materials)</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have in-depth knowledge of 3D development and integrated game physics;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You own experience with both console and mobile game development;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You got experience with memory and space optimization;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You possess knowledge of scripting, animation, session management, and textures;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have good troubleshooting skills.</span></p>
-</li>
-</ul>
-<div class="h4" dir="ltr" style="line-height: 1.9871999999999999; background-color: #ffffff; margin-top: 14pt; margin-bottom: 12pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Nice-to-have:</span><span style="color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> </span></div>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #252525; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Timezone: CET (+/- 3 hours);</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #252525; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Knowledge of TypeScript.</span></p>
-</li>
-</ul>
-<div class="h4" dir="ltr" style="line-height: 1.9871999999999999; background-color: #ffffff; margin-top: 0pt; margin-bottom: 12pt; padding: 2pt 0pt 0pt 0pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> </span></div>
-<div class="h4" dir="ltr" style="line-height: 1.9871999999999999; background-color: #ffffff; margin-top: 0pt; margin-bottom: 12pt; padding: 2pt 0pt 0pt 0pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Responsibilities:</span></div>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Establishing strategy and development pipelines;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Planning and implementing game functionality;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Transforming design ideas into functional games;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Designing and building game codes;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Identifying and fixing code errors and game bottlenecks;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Testing game functionality and theme dynamics;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Ensuring products conform to high industry standards;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Designing and building game patches and upgrades;</span></p>
-</li>
-</ul>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Stay up-to-date with the latest technologies.</span></p>
-</li>
-</ul>
-<p><strong><br><br></strong></p>
-<p align="left" dir="ltr" style="margin-left: 0pt;"> </p>
-<table style="border: none; border-collapse: collapse;"><colgroup><col width="600"></colgroup>
-<tbody>
-<tr style="height: 132.75pt;">
-<td style="vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 0.99609pt;">
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">What we offer:</span></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">💻 </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">100% remote work</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Work from anywhere.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">👌🏻 </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Flexibility</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: The ability to change the project to another one.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">💵 </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Financial growth</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Competitive compensation and performance-based increases.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">🧘🏻‍♂️ </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Freedom</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Very flexible working schedule.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">🚀 </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">360-degree growth</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Opportunities for professional development and personal growth.</span></p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><br><br></strong></p>
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Your benefits with Proxify:</span></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Be part of the Proxify community</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Network with like-minded and enthusiastic individuals to make a difference. </span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Make an impact</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: You get the opportunity to work on projects that inspire you and add value to your career.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Transparency</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Contracts with transparency in earnings and working hours.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Save your time</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Fast and efficient hiring process to match you with the project of your preference.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: bold; vertical-align: baseline; white-space: pre-wrap;">Ownership: </span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Take ownership of your work and enjoy more freedom in your career.</span></p>
-</li>
-</ul>
-<img src="https://remotive.com/job/track/1606658/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
