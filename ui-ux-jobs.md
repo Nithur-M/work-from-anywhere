@@ -10,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>428 days ago</text>
+                <text>429 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote" align="right" target="_blank">Apply</a>
@@ -61,41 +61,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1660569/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>SD Solutions</h5>
-                    <h3>SoftwareHouse | Senior UI/UX Designer</h3>
-                </td>
-                <td width="300">
-                    <code>cloud,developer,mobile,postgresql</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/design/softwarehouse-senior-ui-ux-designer-1660569" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>On behalf of a SoftwareHouse that specializes in building products for a variety of projects across different domains we are currently seeing a <strong><strong></strong></strong><strong>Senior UI/UX Designer</strong> to join the team. The successful candidate will work on several projects concurrently, across various industries.</p>
-<p><em>SD Solutions is a staffing company operating globally. Contact us to get more details about the benefits we offer.</em></p>
-<p>As a Junior Software Developer, you will be responsible for working on different projects concurrently, while still having a specific project to focus on at a time. You will be working under the direct supervision of our Team Leader and will be expected to have experience and knowledge of server-side development using Nest JS (TS), app development using Electron, and database management using PostgreSQL, Redis, and Google Cloud Platform.</p>
-<p><strong>Responsibilities</strong>:</p>
-<ul style=""><li style="">Collaborating with cross-functional teams to develop design solutions that meet user needs and business goals</li><li style="">Creating wireframes, prototypes, and visual designs using Figma and Wireframe</li><li style="">Conducting user research and usability testing to validate design decisions</li><li style="">Staying up-to-date with emerging design trends and technologies</li><li style="">Working on multiple projects simultaneously while ensuring high-quality deliverables</li></ul>
-<ul style=""></ul>
-<p><strong>Requirements</strong>:  </p>
-<ul style=""><li style="">A minimum of <strong>5 years </strong>of experience in UI/UX design</li><li style="">Strong proficiency in Figma and Wireframe (preferred) </li><li style="">Experience in designing for both mobile and web apps</li><li style="">Strong understanding of UX design principles and practices</li><li style="">Ability to work independently as well as part of a team</li><li style="">Excellent communication skills</li><li style=""><strong>Fluency in English</strong> (both written and spoken)</li><li style="">We will expect to see your current <strong>portfolio</strong> during the interview process.</li></ul>
-<p><strong>About the company:</strong></p>
-<p>SoftwareHouse is a leading software house specializing in building innovative products for diverse projects across different domains. With a skilled team of developers and cutting-edge technologies, SoftwareHouse crafts custom software solutions, including web applications, mobile apps, and more. </p>
-<p>The company's expertise lies in delivering high-quality software that meets clients' unique requirements, backed by their commitment to excellence. Bring your ideas to life and achieve success with tailored software solutions.</p>
-<img src="https://remotive.com/job/track/1660569/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/986276/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -106,7 +71,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
