@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chorus-one-golang-software-engineer" align="right" target="_blank">Apply</a>
@@ -72,7 +72,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>96 days ago</text>
+                <text>97 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -128,7 +128,7 @@
                     <code>api,backend,cloud,developer</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1653911" align="right" target="_blank">Apply</a>
