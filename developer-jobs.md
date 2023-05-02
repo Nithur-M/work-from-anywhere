@@ -1,6 +1,6 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/7908/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>BBE Marketing Inc</h5>
@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-4" align="right" target="_blank">Apply</a>
@@ -19,7 +19,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0064/7908/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
   <strong>Headquarters:</strong> Hurst, TX
@@ -54,7 +54,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/merchstack-mid-level-react-developer" align="right" target="_blank">Apply</a>
@@ -144,7 +144,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/onthegosystems-senior-backend-developers-for-mass-market-project-ror-python-are-a-plus" align="right" target="_blank">Apply</a>
@@ -188,68 +188,13 @@
                 </td>
                 <td width="300">
                     <h5>OnTheGoSystems</h5>
-                    <h3> Senior Developer – PHP / React</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/onthegosystems-senior-developer-php-react" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> 100% remote
-    <br /><strong>URL:</strong> <a href="https://onthegosystems.com">https://onthegosystems.com</a>
-</p>
-
-<div>Are you an <strong>experienced PHP/React Developer</strong> looking for a challenging and exciting career in the WordPress ecosystem? We’re looking for people who are great problem solvers, attentive to details, curious and organized.</div><h1><strong>A Few Words About Us</strong></h1><div>
-<a href="http://www.onthegosystems.com/">OnTheGoSystems</a> is a fully remote team of over 100 highly talented individuals from around the world. Since our launch in 2008, we’ve made it our mission to harness the power of translation technologies and enable businesses of all sizes to go global.</div><div><br></div><div>Our flagship product, <a href="https://wpml.org">WPML</a> (WordPress Multilingual), is used on over a million WordPress websites and is trusted by more than 250,000 clients worldwide. We’re constantly pushing the boundaries of translation technologies and working on new projects.</div><h1><strong>The Role</strong></h1><ul>
-<li>Design and develop solutions to enhance compatibility between multilingual WordPress sites, plugins, and themes.</li>
-<li>Handle everything from spec, through software architecture, implementation and automated-tests.</li>
-<li>Improve and maintain existing plugins to deliver a superior user experience.</li>
-</ul><h1><strong>Requirements</strong></h1><ul>
-<li>Expert experience with PHP and JavaScript (including React).</li>
-<li>Proficiency in writing automated tests (unit or e2e).</li>
-<li>Comfortable with package management (Composer/NPM) and Git.</li>
-<li>A strong foundation in Computer Science, including design patterns, databases, and networking.</li>
-<li>Exposure to front-end frameworks, such as React.</li>
-</ul><div><br></div><div><strong>Nice to Have Experience</strong></div><ul>
-<li>Familiarity with the WordPress ecosystem is a big plus.</li>
-<li>CI configuration/management.</li>
-<li>Software architecture design.</li>
-<li>Functional programming.</li>
-</ul><h1><strong>What we offer</strong></h1><ul>
-<li>Fully remote position.</li>
-<li>Full-time position with paid public holidays, vacation, and sick leave.</li>
-<li>Being part of a team of smart, self-driven individuals.</li>
-<li>Ample opportunity to progress and advance.</li>
-</ul><div><br></div><div>You will be working with a team of smart and enthusiastic people. We love getting things done and we’re proud of our work. </div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/onthegosystems-senior-developer-php-react">https://weworkremotely.com/remote-jobs/onthegosystems-senior-developer-php-react</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>OnTheGoSystems</h5>
                     <h3> Content Marketer for a Developers Tool</h3>
                 </td>
                 <td width="300">
                     <code>Sales and Marketing</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/onthegosystems-content-marketer-for-a-developers-tool" align="right" target="_blank">Apply</a>
@@ -309,7 +254,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/contra-freelance-ai-application-developer-cohort-4" align="right" target="_blank">Apply</a>
@@ -375,7 +320,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>60 days ago</text>
+                <text>61 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -457,7 +402,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>61 days ago</text>
+                <text>62 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/findox-inc-senior-csharp-and-postgresql-backend-developer-4" align="right" target="_blank">Apply</a>
@@ -510,7 +455,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>62 days ago</text>
+                <text>63 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-unity-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -586,7 +531,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>66 days ago</text>
+                <text>67 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toggl-senior-frontend-developer" align="right" target="_blank">Apply</a>
@@ -655,7 +600,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>98 days ago</text>
+                <text>99 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-flutter-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -726,7 +671,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>151 days ago</text>
+                <text>152 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-react-native-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -795,7 +740,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>153 days ago</text>
+                <text>154 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/much-remote-senior-odoo-developer-m-f-d" align="right" target="_blank">Apply</a>
@@ -851,7 +796,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>252 days ago</text>
+                <text>253 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/socialhub-reactjs-web-developer-remote-saas-m-f-d-1" align="right" target="_blank">Apply</a>
@@ -963,7 +908,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>901 days ago</text>
+                <text>902 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
@@ -1042,7 +987,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1119,7 +1064,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1263,7 +1208,7 @@
                     <code>CSS,developer,docker,blockchain</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/web-developer-1667108" align="right" target="_blank">Apply</a>
@@ -1318,7 +1263,7 @@
                     <code>developer,seo,social media,ai</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-ai-application-developer-cohort-4-1665505" align="right" target="_blank">Apply</a>
@@ -1358,7 +1303,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -1427,7 +1372,7 @@
                     <code>amazon,AWS,backend,developer</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-python-developer-and-aws-manager-1656870" align="right" target="_blank">Apply</a>
@@ -1473,7 +1418,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -1550,7 +1495,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -2426,6 +2371,30 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18px">Location: Remote - Anywhere</b> (Open to applicants located anywhere around the globe.)</div><div>&nbsp;</div><div>At 10up, we call developers like you <i>engineers</i> because you aren’t just a “coder”: you’re an innovative problem solver that uses web programming skills to divine smart, creative solutions to client challenges. As a Lead Web Engineer at 10up, you are taking the driving seat in building websites and solutions utilized by millions of people daily. 10uppers have been pushing the boundaries of WordPress for over 12 years—help innovate the internet by building exciting projects alongside a top-in-the-field team.</div><div><br></div><div>You’ll work on a combination of unique projects and ongoing support engagements that help season your technical leading skills. As a leading digital agency, 10up’s client roster spans from innovative startups and impactful non-profits to some of the biggest names in the industry, such as ESPN, Google, The New York Times Co., Microsoft, and The Nobel Prize Committee.</div><div><br></div><div>As a 10upper, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 40 countries, 10up fully embraces the benefits of distributed work.</div></div><div class="section page-centered"><div><h3>What you will do: </h3><ul class="posting-requirements plain-list"><ul><li>Develop enterprise-level WordPress plugins and/or themes primarily using PHP and Gutenberg blocks in React.js.</li><li>Drive strategy in collaboration with experts across multiple disciplines, and lead overall technical vision and delivery on large-scale projects.</li><li>Engage meaningfully with clients; leading demos and driving discussions.</li><li>Contribute to the improvement of the Engineering discipline by leading and mentoring other fellow engineers</li><li>Ultimately you will make the web better by finely crafting websites, apps, and tools that reach millions of online visitors every day.</li></ul></ul></div></div><div class="section page-centered"><div><h3>About you: </h3><ul class="posting-requirements plain-list"><ul><li>Your experience leading large-scale enterprise projects makes you well-suited to lead a team of senior engineers, and wrangle multiple stakeholders, to find simple yet elegant solutions to complex problems.</li><li>Your expert skills in WordPress engineering with PHP, <a href="http://React.js" class="postings-link">React.js</a>, and Gutenberg consistently follow best practices and set the highest standards of excellence.</li><li>You have a code portfolio. Link us to your best WordPress work on GitHub and you’ll never have to do any live coding or whiteboard testing!&nbsp;</li><li>You have the ability to expertly debug performance and caching issues across environments.</li><li>You prefer to work fully remote and are effectively engaging in a distributed team from the location of your choosing.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Benefits of interest:</h3><ul class="posting-requirements plain-list"><ul><li>Multiple paid time off programs, including accrued PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day.</li><li>Health, dental, and life insurance programs (available for United States team members).</li><li>Retirement contribution programs (currently available in the U.S. and U.K.).</li><li>Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations.</li><li>$3,000 USD accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study.</li><li>Global Company summits – opportunities to meet, socialize and learn with fellow 10uppers in person at remarkable destinations.&nbsp;</li><li>An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year.</li><li>A Director of Engineering that supports your career growth and development.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="salary-range"><div>$80,000 - $140,000 a year</div><small><div>The expected annual salary range for this position is between $80,000 and $140,000 USD. Compensation is determined based on a variety of factors including relevant experience, other job related qualifications/skills, geographic location, and business needs.</div></small></div><div class="section page-centered" data-qa="closing-description"><div><b style="font-size: 18px">Join our team!&nbsp;</b></div><div><br></div><div>If you are passionate about 10up's mission and think you have what it takes to be successful in this role even if you don't check all the boxes, please apply. We'd appreciate the opportunity to personally review your application. Everyone gets a response.</div><div><br></div><div>Read more about <a href="https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view" class="postings-link">What to Expect </a>through our Recruiting process.</div><div><br></div><div>We don't want you to miss any communication from us! To ensure you receive updates on your application, please add jobs@10up.com to your contacts list! #LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/10up-2/765484c6-4f6c-483e-a3aa-9b51e0a61490/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1545121577632763912/7FMnABb0_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Collabora</h5>
+                    <h3>Partner Enablement Web Developer (Remote/Anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/collabora/34388d81-b117-4021-83b7-06494b599b18" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt">Collabora Productivity Ltd. is a software company specialising in bringing the innovation created in Open Source projects such as LibreOffice to the market, along with services, long term support and software consultancy. We combine years of open source software leadership with an understanding of the challenges that businesses, non-profits, and governments face.</span></div><div><br></div><div><span style="font-size: 11pt">Collabora Productivity brings deep technical expertise around the Office space, from our preferred Open Document format to many other, including legacy, document formats such as OpenXML and Microsoft binary formats, using modern technologies.</span></div><div><br></div><div>We are looking for a talented Engineer, a hacker, who can get involved in a diverse set of Partners' products and development improved COOL integration there.</div></div><div class="section page-centered"><div><h3>Key Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Building technical engagement in partner relationships, including:</li><li>bonding with their development teams</li><li>integrating existing Collabora Online integration features into Partners' products</li><li>communicating around timelines and tickets</li><li>occasional responsibility for helping partners solve technical issues, including connecting Partner's staff to the right internal resources</li><div><br></div></ul></ul></div></div><div class="section page-centered"><div><h3>Technical Skills</h3><ul class="posting-requirements plain-list"><ul><li>Excellent Communication Skills</li><li>Deep Linux Administration Skills</li><li>Wide but not extremely deep experience of multiple Web platforms from PHP, React, golang, Java, NodeJS - to enable extending and creating existing integrations around our embedded iframe: WOPI-like REST API implementation, PostMessages etc.</li><li>Docker experience a bonus</li><li>Kubernetes experience a bonus</li></ul></ul></div></div><div class="section page-centered"><div><h3>Commercial Skills</h3><ul class="posting-requirements plain-list"><ul><li>Understanding client needs and reconciling time constraints, available technologies and resources and open source best practices</li><li>Occasional Sales-engineering work to support sales and marketing</li><li>Occasional Account management work required for new partners and customers</li><li>Ability to work in a global context with clients and engineers spanning continents</li><li>Applicants must be available to work in European business hours</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/34388d81-b117-4021-83b7-06494b599b18/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
