@@ -1,6 +1,6 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/2410/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/2972/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Carb Manager</h5>
@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/carb-manager-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -19,7 +19,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0084/2410/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0084/2972/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
   <strong>Headquarters:</strong> United States
@@ -31,7 +31,7 @@
 <p>Carb Manager is the #1 health and fitness app for people on low-carb, Keto, and other macro-focused diets, available on iOS, Android, and the web. Altogether, we've helped over 10 million people achieve their health goals since 2010. Carb Manager is a top health and fitness app in the iOS App Store, with a 4.8/5 rating with over 500,000 five-star reviews.<br></p>
 <p>We are seeking a highly motivated and talented individual to join our team as a Senior Product Manager. Reporting directly to the Chief Product Officer and working with a passionate and talented cross functional team, the Senior Product Manager will play a critical role in delivering on our growth strategy and optimizing retention and engagement of our existing users.<br></p>
 <p>This is an amazing company to work for. We offer:</p> <ul> <li>The benefits of  the work-from-home convenience</li> <li>The reach and impact of an established brand</li> <li>The energy and dynamism of a startup</li> <li>The stability of a profitable company</li> <li>A creative, entrepreneurial, friendly, and supportive culture</li> <li>The ability to make a real, positive impact on the world</li> </ul>
-<p><br></p> <h3>Responsibilities</h3>The Senior Product Manager will lead the roadmap on new user growth and existing user engagement &amp; retention. <ul> <li>Own the growth and retention outcomes from end to end</li> <li>Identify growth and engagement opportunities through a deep analysis of market trends including platform changes, new &amp; existing platforms, new &amp; existing channels, and other opportunities</li> <li>Establish growth and engagement KPIs and goals</li> <li>Produce detailed product requirement documents and specifications</li> <li>Develop conceptual diagrams, wireframes, prototypes, and visual mockups</li> <li>Frequently utilize rapid experimentations, including but not limited to A/B testing, to inform and refine product hypotheses</li> <li>Follow our Agile processes and work closely with cross-functional teams consisting of UX researchers, product designers, engineering, content, and marketing to effectively set product OKRs and roadmap initiative plans</li> <li>Understand the competitive landscape for Carb Manager and use it to shape product strategy</li> <li>Coordinate/communicate updates and releases with internal cross-functional teams</li> <li>Manage multiple assignments and align them with business priorities &amp; deadlines</li> </ul>
+<p><br></p> <h3>Responsibilities</h3>The Senior Product Manager will lead the roadmap on new user growth and existing user engagement &amp; retention. <ul> <li>Own the growth and retention outcomes from end to end</li> <li>Identify growth and engagement opportunities through a deep analysis of market trends including platform changes, new &amp; existing channels, user taste and needs shifts, and other opportunities</li> <li>Establish growth and engagement KPIs and goals</li> <li>Produce detailed product requirement documents and specifications</li> <li>Develop conceptual diagrams, wireframes, prototypes, and visual mockups</li> <li>Frequently utilize rapid experimentations, including but not limited to A/B testing, to inform and refine product hypotheses</li> <li>Follow our Agile processes and work closely with cross-functional teams consisting of UX researchers, product designers, engineering, content, and marketing to effectively set product OKRs and roadmap initiative plans</li> <li>Understand the competitive landscape for Carb Manager and use it to shape product strategy</li> <li>Coordinate/communicate updates and releases with internal cross-functional teams</li> <li>Manage multiple assignments and align them with business priorities &amp; deadlines</li> </ul>
 <p><strong>Requirements</strong></p>
 <p><br></p>
 <ul> <li>3- 5 years of experience in product management (consumer mobile or consumer web) with strong focus on growth and optimization</li> <li>Strong servant leadership mindset and practices</li> <li>Strong bias-for-action in moving opportunities forward with speed and discipline</li> <li>Ability to create wire-frames and product specifications</li> <li>Great data analysis and problem solving skills</li> <li>Strong Agile management skills and ability to coordinate work cross functionally</li> <li>Ability to lead, motivate, and develop a small team - including those who do not directly report to you</li> <li>A passion for creating engaging and high quality experiences</li> <li>Excellent written/verbal, organizational, analytical skills, and attention to detail</li> <li>Ability to provide clear direction based on deconstructing industry and competitor trends</li> <li>Previous start-up, digital platform, and/or consulting experience is a plus</li> <li>Past experience in managing teams is a strong plus</li> <li>Previous working experience as a product owner is a plus</li> <li>BA/BS degree</li> <li>MBA a plus</li> </ul>
@@ -56,7 +56,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-remote-product-manager-needed-1" align="right" target="_blank">Apply</a>
@@ -154,7 +154,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>41 days ago</text>
+                <text>42 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/createape-inc-junior-product-manager" align="right" target="_blank">Apply</a>
@@ -199,7 +199,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>81 days ago</text>
+                <text>82 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1" align="right" target="_blank">Apply</a>
