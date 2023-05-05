@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/carb-manager-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -56,7 +56,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-remote-product-manager-needed-1" align="right" target="_blank">Apply</a>
@@ -144,51 +144,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/1142/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CreateApe, inc.</h5>
-                    <h3> Junior Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>Design</code>
-                </td>
-                <td width="200">
-                <text>44 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/createape-inc-junior-product-manager" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0082/1142/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Irvine, California
-    <br /><strong>URL:</strong> <a href="https://createape.com/">https://createape.com/</a>
-</p>
-
-<div>Are you a tech-industry ninja ready to break out of the corporate world and into product management?  Want to work for a fun and slightly nerdy crew that lets you flex your creative muscles and build a super diverse portfolio?  Then we’ve got a spot for you here at CreateApe!  We’re a full-service UX/UI agency that’s growing fast and making waves in the digital design world.  Join our fully remote team of design and development experts from all around the world and get rid of that boring office commute.  We want to invest in YOU and your career – meaning the more you contribute and become an integral part of our team, the more room for professional growth.</div><div><br></div><div>This is a fully remote position, not restricted by commutes or a particular geographic area.</div><div>
-<strong>Office hours: Monday through Friday, 9AM - 5PM Pacific Time </strong>(<strong><em>PDT UTC-7</em></strong>), this position requires individuals to be available for meetings and duties during this window.</div><div><br></div><div><em>Who we are:</em></div><div>Create Ape is a fun and lean creative digital agency offering comprehensive solutions to your most pressing problems.  With over 20 years in the UX/UI design space, we know how to elevate your user’s experience and to translate that into real metrics you can actually see: more clients &amp; bigger sales.</div><div><br></div><div>Our passionate experts are leaders in their field, covering everything from digital strategy to design &amp; development.  Our mission is to provide our clients with unparalleled personalized solution-based service.  We commit to achieving these custom solutions and implementing them with a smile.</div><div><br></div><div>At CreateApe, Product Managers are responsible for working closely with Sales, Marketing, Development and Project Management teams to ensure requirements for our projects are properly defined, maintained, and managed. </div><div><br></div><div><br></div><div><em>Responsibilities:</em></div><ul>
-<li>Perform market research to identify product strategies and requirements</li>
-<li>Translate product/project strategy into detailed requirements in CreateApe’s project management tools</li>
-<li>Conduct user acceptance testing (UAT) with CreateApe’s software engineering team</li>
-<li>Provide frequent progress updates to product owners—both internal CreateApe product owners as well as clients</li>
-<li>Participate in—and sometimes conduct—regularly scheduled meetings such as sprint planning meetings, sprint retrospectives, and daily standups</li>
-<li>Clarify product requirements and help resolve blockers for software engineers</li>
-<li>Assist with high-level project estimates</li>
-<li>Manage external requests and document them thoroughly in the project management tool</li>
-<li>Prioritize and categorize the backlogs for your products/projects</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/createape-inc-junior-product-manager">https://weworkremotely.com/remote-jobs/createape-inc-junior-product-manager</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -199,7 +154,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>540 days ago</text>
+                <text>541 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
