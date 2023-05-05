@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/batch-intermediate-or-senior-full-stack-developer-php-laravel-vue-js" align="right" target="_blank">Apply</a>
@@ -49,50 +49,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>BBE Marketing Inc</h5>
-                    <h3> Full-Stack Wordpress Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-4" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Hurst, TX
-    <br /><strong>URL:</strong> <a href="http://bbemarketing.com/">http://bbemarketing.com/</a>
-</p>
-
-<div>BBE Marketing creates online products that help businesses connect with celebrities and influencers. We are looking for a talented Full-Stack Wordpress Developer to join our team, who could help us in shipping features for our application and drive our application design and architecture as we grow.<br><br>
-</div><div>The tasks include:<br><br>
-</div><div>- Developing plugins<br>- Making fixes and updates to existing plugins<br>- Work with team in planning and strategizing<br>- Working with designer in developing designs<br>- Various backend tasks<br><br>
-</div><div>You will love this role if:<br><br>
-</div><div>- You like working with the stakeholders directly. We’re a relatively small startup, there’s no bureaucracy and complex hierarchy. You’ll be communicating directly with all the team members, from CEO to Customer Support.<br>- You like to work and ship stuff fast without compromising quality. You know when to stop and call it done without trying to achieve the unattainable perfection.<br>- You’re not afraid to prove your point when necessary. We trust our team members and believe they have businesses best interest at heart. If there’s no simple solution to a problem, you can provide the arguments and clearly communicate the risks.<br>- Self-starter, we don’t like to micro-manage our team<br>- You treat privileged information with care. You can be trusted with sensitive company data<br>- Great communication skills<br><br>
-</div><div>Requirements:<br>- Experience with PHP<br>- Experience with Wordpress<br>- Experience with MySQL;<br>- Experience with Asana (preferred)<br>- Written and spoken English (required).<br>- Able to work 4 hours overlap within 07:00 - 18:00 PST<br><br>
-</div><div>
-<br><br>
-</div><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-4">https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-4</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/0730/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -103,7 +59,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/merchstack-mid-level-react-developer" align="right" target="_blank">Apply</a>
@@ -183,6 +139,156 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Proxify AB</h5>
+                    <h3> Senior Shopify Developer</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-shopify-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Sweden
+    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
+</p>
+
+<div>
+<strong>The Role:<br></strong><br>
+</div><div>We are searching for a Senior Shopify Developer. You can be a perfect candidate if you are growth-oriented, take pleasure in your work, and enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features.</div><div><br></div><div><strong>What we are looking for:</strong></div><ul>
+<li>You have broad shop construction, launch, and maintenance expertise, as well as a general understanding of the admin system.</li>
+<li>You have proven skills in HTML5, CSS3, and JavaScript, as well as a thorough grasp of the DOM.</li>
+<li>You possess previous experience working with a custom theme and/or the Storefront API.</li>
+<li>You own working knowledge of Shopify's theming system and Liquid templating;</li>
+<li>You had previous experience implementing/debugging third-party Shopify apps, as well as building unique solutions if needed.</li>
+<li>You have in-depth knowledge and expertise with Vanilla.JS, jQuery, ES2015/ES6, and current JavaScript frameworks.</li>
+<li>You have a working knowledge of Shopify's object/properties, AJAX API, and Meta fields.</li>
+<li>You possess extensive testing and debugging abilities using the browser console and other tools.</li>
+<li>You had prior experience developing responsive layouts for desktop, tablet, and mobile devices;</li>
+<li>You have working knowledge of third-party services and APIs, as well as Shopify Apps.</li>
+<li>You are capable of communicating effectively and providing proactive feedback.</li>
+</ul><div>
+<strong><br>Nice-to-have:</strong> <br><br>
+</div><ul>
+<li>Timezone: CET (+/- 3 hours);</li>
+<li>Knowledge of TypeScript.</li>
+</ul><div>
+<strong><br>Responsibilities:<br></strong><br>
+</div><ul>
+<li>Create an engaging and knowledgeable online Shopify store to increase sales and revenue;</li>
+<li>Create bespoke Shopify themes and change pre-existing templates per predefined brand guidelines;</li>
+<li>Be an expert in all aspects of the e-commerce platform;</li>
+<li>Work with the UX and UI Design Teams to create unique, strong, and inventive front-end user experiences;</li>
+<li>Ensure a smooth connection with Marketing Tools, Platform APIs, and Shopify Apps to optimize the shop for overall efficiency and functionality;</li>
+<li>Test and debug websites regularly to improve performance;</li>
+<li>Provide technical support and coordination, protecting enterprises against failure;</li>
+<li>Increase conversion rates by optimizing your website.</li>
+</ul><div><br></div><div>
+<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div><br></div><div><strong>Your benefits with Proxify:</strong></div><ul>
+<li>
+<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
+<li>
+<strong>Make an impact</strong>: You get the opportunity to work on the projects that inspire you and add value to your career.</li>
+<li>
+<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
+<li>
+<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
+<li>
+<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-shopify-developer">https://weworkremotely.com/remote-jobs/proxify-ab-senior-shopify-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Proxify AB</h5>
+                    <h3> Senior Wordpress Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-wordpress-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Sweden
+    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
+</p>
+
+<div>
+<strong>The Role:<br></strong><br>
+</div><div>We are searching for a Senior WordPress Developer. You can be a perfect candidate if you are growth-oriented, take pleasure in your work, and enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features.</div><div><br></div><div><strong>What we are looking for:</strong></div><ul>
+<li>You have 5+ years of proven work experience as a WordPress Developer;</li>
+<li>You have experience in plugin development, and theme integration.</li>
+<li>You got knowledge of front-end technologies including CSS3, JavaScript, HTML5, and jQuery;</li>
+<li>You possess knowledge of code versioning tools including Git, Mercurial, and SVN;</li>
+<li>Experience with common front-end development tools such as Babel, Webpack, NPM, etc</li>
+<li>You have experience working with debugging tools such as Chrome Inspector and Firebug;</li>
+<li>You have a good understanding of website architecture and aesthetics;</li>
+<li>You’re able to manage projects;</li>
+<li>You have good communication skills.</li>
+</ul><div>
+<strong><br>Nice-to-have:</strong> <br><br>
+</div><ul>
+<li>Timezone: CET (+/- 3 hours);</li>
+<li>Knowledge of TypeScript.</li>
+</ul><div><br></div><div>
+<strong>Responsibilities:<br></strong><br>
+</div><ul>
+<li>Designing and building the website front-end;</li>
+<li>Creating the website architecture;</li>
+<li>Designing and managing the website back-end including database and server integration;</li>
+<li>Generating WordPress themes and plugins;</li>
+<li>Conducting website performance tests;</li>
+<li>Troubleshooting content issues;</li>
+<li>Conducting WordPress training with the client;</li>
+<li>Monitoring the performance of the live website.</li>
+</ul><div><br></div><div>
+<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div><br></div><div><strong>Your benefits with Proxify:</strong></div><ul>
+<li>
+<strong>Be part of the Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
+<li>
+<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
+<li>
+<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
+<li>
+<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
+<li>
+<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-wordpress-developer">https://weworkremotely.com/remote-jobs/proxify-ab-senior-wordpress-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/3228/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -193,7 +299,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -276,7 +382,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>63 days ago</text>
+                <text>64 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -358,7 +464,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>64 days ago</text>
+                <text>65 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/findox-inc-senior-csharp-and-postgresql-backend-developer-4" align="right" target="_blank">Apply</a>
@@ -404,82 +510,6 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior Unity Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>65 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-unity-developer-fully-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div><strong>The Role:</strong></div><div>
-<br>We are searching for a Senior Unity Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
-<br><br>
-</div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
-<li>You have +3 years of experience with Unity / Unity3D;</li>
-<li>Strong ability with C# object-oriented programming language</li>
-<li>Experience with game assets (ex: meshes, animations, materials)</li>
-<li>You have in-depth knowledge of 3D development and integrated game physics;</li>
-<li>You own experience with both console and mobile game development;</li>
-<li>You got experience with memory and space optimization;</li>
-<li>You possess knowledge of scripting, animation, session management, and textures;</li>
-<li>You have good troubleshooting skills.</li>
-</ul><div>
-<strong><br>Nice-to-have:</strong> </div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Knowledge of TypeScript.</li>
-</ul><div><br></div><div>
-<strong>Responsibilities:<br></strong><br>
-</div><ul>
-<li>Establishing strategy and development pipelines;</li>
-<li>Planning and implementing game functionality;</li>
-<li>Transforming design ideas into functional games;</li>
-<li>Designing and building game codes;</li>
-<li>Identifying and fixing code errors and game bottlenecks;</li>
-<li>Testing game functionality and theme dynamics;</li>
-<li>Ensuring products conform to high industry standards;</li>
-<li>Designing and building game patches and upgrades;</li>
-<li>Stay up-to-date with the latest technologies.</li>
-</ul><div><br></div><div>
-<strong>What we offer:<br><br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
-<br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of the Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-unity-developer-fully-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-unity-developer-fully-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
                     <h5>Toggl</h5>
                     <h3> Senior Frontend Developer</h3>
                 </td>
@@ -487,7 +517,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>69 days ago</text>
+                <text>70 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toggl-senior-frontend-developer" align="right" target="_blank">Apply</a>
@@ -627,7 +657,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>120 days ago</text>
+                <text>121 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-laravel-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -694,82 +724,13 @@
                 </td>
                 <td width="300">
                     <h5>Proxify AB</h5>
-                    <h3> Senior React Native Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>154 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-react-native-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div><strong>The Role:</strong></div><div>We are searching for a Senior React Native Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div><br></div><div><strong>What we are looking for:</strong></div><ul>
-<li>You have +4 years of professional experience working with React Native;</li>
-<li>You have +2 years of professional software development experience;</li>
-<li>You have a deep understanding of React Native best practices and a commitment to following them;</li>
-<li>You possess an ability to work through new and difficult React Native issues and contribute to libraries as needed;</li>
-<li>You are able to create and maintain continuous integration and delivery of React Native applications;</li>
-<li>Team spirit: strong communication skills to collaborate with various stakeholders;</li>
-<li>Good time-management skills;</li>
-<li>You are responsible and able to work with minimal supervision;</li>
-<li>Advanced English level.</li>
-</ul><div><strong>Nice-to-have: </strong></div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Experience working with Swift, Objective C, and/or Java.</li>
-</ul><div><strong>Responsibilities:</strong></div><ul>
-<li>Architect, build, and maintain excellent React Native applications with clean code;</li>
-<li>Implement pixel perfect UIs that match designs;</li>
-<li>Implement clean, modern, smooth animations and transitions that provide an excellent user experience;</li>
-<li>Integrate third-party APIs;</li>
-<li>Write unit and integration tests;</li>
-<li>Release applications to the Apple and Google Play stores;</li>
-<li>Work with native modules when required.</li>
-</ul><div><br></div><div>
-<strong>What we offer:</strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
-<br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-react-native-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-react-native-developer-long-term-job-100-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify AB</h5>
                     <h3> Senior Full Stack Developer</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>241 days ago</text>
+                <text>242 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-full-stack-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -820,118 +781,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/3165/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>SocialHub</h5>
-                    <h3> ReactJS Web Developer - Remote/SaaS (m/f/d)</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>255 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/socialhub-reactjs-web-developer-remote-saas-m-f-d-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0064/3165/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Schütterlettenweg 4, 85053 Ingolstadt, Deutschland
-    <br /><strong>URL:</strong> <a href="https://socialhub.io/de/">https://socialhub.io/de/</a>
-</p>
-
-<div>
-<strong>DOES THIS SOUND LIKE YOU?<br></strong><br>
-</div><ul>
-<li>You like to build clean and well structured Software that your clients love to use.<br><br>
-</li>
-<li>You’ve been making your way through the world of frontend frameworks for at least 3 years, have developed a variety of applications and have an understanding of the good and the bad aspects of each framework.<br><br>
-</li>
-<li>Your ReactJS skills are strong. You know how to build large and scalable web applications.<br><br>
-</li>
-<li>You know how to spot performance issues and how to resolve them.<br><br>
-</li>
-<li>Using a DVCS like git comes natural to you.<br><br>
-</li>
-<li>You enjoy working within a team, helping fellow team members find elegant solutions to complicated problems and would happily jump into a code review at a moment's notice.</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>YOUR REQUIREMENTS FOR THE JOB</strong><br><br>
-</div><ul>
-<li>At least 3 years of commercial experience<br><br>
-</li>
-<li>Strong proficiency in modern JavaScript, browsers (and their quirks) including stylesheets and DOM manipulation.<br><br>
-</li>
-<li>Previous commercial experience building component-based web applications.<br><br>
-</li>
-<li>A practical approach to development including the reuse of shared components and open source projects rather than always reinventing the wheel.<br><br>
-</li>
-<li>In-depth knowledge of the ReactJS ecosystem including Redux, Redux-Saga, Reselect, Styled Components.<br><br>
-</li>
-<li>An appreciation of good UI/UX design and the ability to translate wireframes into high quality, reusable code.<br><br>
-</li>
-<li>Fluid in the different approaches to storing and structuring data (e.g. Immutable Structures).<br><br>
-</li>
-<li>An understanding of test driven development with frameworks like Jest.<br><br>
-</li>
-<li>Experience with browser-based debugging and performance optimisation.<br><br>
-</li>
-<li>Common development tools such as Git, Babel, Create-React-App and Yarn have been part of your toolkit for a while.<br><br>
-</li>
-<li>Some experience with React Native. Even if it was a small demo or side project.<br><br>
-</li>
-<li>Startup-Spirit (ambition, flexibility &amp; willingness to experiment)<br><br>
-</li>
-<li>You are able to work and communicate with your teammates through our core hours (11am to 4pm german timezone)</li>
-</ul><div>
-<br><br><strong>THESE SKILLS WOULD BE BENEFICAL FOR YOU</strong><br><br>
-</div><ul>
-<li>Knowledge of some of the new cutting-edge ECMAScript features.<br><br>
-</li>
-<li>If you have experience with web workers and/or progressive webapps, you would definitely be hitting the ground running by bringing in new skills into the team!<br><br>
-</li>
-<li>Some exposure to Typescript.<br><br>
-</li>
-<li>Mobile app development in either/both the iOS and Android ecosystems.<br><br>
-</li>
-<li>Commercial React Native experience.<br><br>
-</li>
-<li>Experience iteratively moving/upgrading an older code base to a newer platform. (We are currently migrating BackboneJS to ReactJS)<br><br>
-</li>
-<li>Regular contributor or author to an open source project.</li>
-</ul><div>
-<br><br><strong>WHAT WE HAVE TO OFFER</strong>
-</div><div><br></div><ul>
-<li>Company houses 2023: We rent houses worldwide - free of charge for you. Enjoy work and meet your teammates from all over the world. To work or to take a vacation, we leave it up to you!<br><br>
-</li>
-<li>Flexible working hours and the possibility to work remotely.<br><br>
-</li>
-<li>An enthusiastic and friendly team in a productive working environment.<br><br>
-</li>
-<li>Varied and challenging activities in a constantly growing and future-oriented industry.<br><br>
-</li>
-<li>Great coaching and development opportunities. We have an annual budget for external training courses and conferences. We previously attended GitHub Universe in London and Amsterdam.<br><br>
-</li>
-<li>An afternoon each sprint (every 2 weeks) to work on something that interests you. Want to learn a new programming language? That’s fine by us. It doesn't have to be work-related. It’s there to help you expand your skill set and keep the creative juices flowing. <br><br>
-</li>
-<li>Always a cold Fritz-Kola in the fridge (if you decide to stop by our office). <br><br>
-</li>
-<li>Join us for whole company get-togethers. Our past retreats have been in Belgium, Prague &amp; Spain. Our next one is in Portugal.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/socialhub-reactjs-web-developer-remote-saas-m-f-d-1">https://weworkremotely.com/remote-jobs/socialhub-reactjs-web-developer-remote-saas-m-f-d-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0067/1147/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -942,7 +791,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>570 days ago</text>
+                <text>571 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer" align="right" target="_blank">Apply</a>
@@ -999,6 +848,71 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1674036/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>MindTales</h5>
+                    <h3>Senior Python Back End Developer</h3>
+                </td>
+                <td width="300">
+                    <code>azure,cloud,developer,django</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); background: var(--artdeco-reset-base-background-transparent); --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9); caret-color: rgba(0, 0, 0, 0.9); text-size-adjust: auto;">Are you excited about joining a driven team to champion an impactful health movement? As a technological expert, do you have a background in helping start-ups to grow? If so, this might be the role for you!</p>
+<p style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); background: var(--artdeco-reset-base-background-transparent); --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9); caret-color: rgba(0, 0, 0, 0.9); text-size-adjust: auto;">MindTales' mission is to transform the corporate wellbeing landscape by making digital wellness support accessible, convenient and inclusive.</p>
+<p style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); background: var(--artdeco-reset-base-background-transparent); --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9); caret-color: rgba(0, 0, 0, 0.9); text-size-adjust: auto;"> </p>
+<p style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); background: var(--artdeco-reset-base-background-transparent); --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9); caret-color: rgba(0, 0, 0, 0.9); text-size-adjust: auto;">As a fast-growing organisation, we have an immediate hire for a Senior Python Back-end developer. We are looking for someone highly motivated and passionate about finding innovative solutions. We are a growing team that values self-improvement, collaboration and excellence.</p>
+<p style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); background: var(--artdeco-reset-base-background-transparent); --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9); caret-color: rgba(0, 0, 0, 0.9); text-size-adjust: auto;"> </p>
+<p style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); background: var(--artdeco-reset-base-background-transparent); --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9); caret-color: rgba(0, 0, 0, 0.9); text-size-adjust: auto;"><span style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); background: var(--artdeco-reset-base-background-transparent); outline: var(--artdeco-reset-base-outline-zero);"><strong>Responsibilities</strong></span></p>
+<ul style="">
+<li style="">Write effective, scalable code</li>
+<li style="">Develop back-end components to improve responsiveness and overall performance</li>
+<li style="">Integrate user-facing elements into applications</li>
+<li style="">Test and debug programs</li>
+<li style="">Improve functionality of existing systems</li>
+<li style="">Implement security and data protection solutions</li>
+<li style="">Assess and prioritize feature requests</li>
+<li style="">Compile and analyze data, processes, and codes to troubleshoot problems and identify areas for improvement.</li>
+<li style="">Collaborating with the front-end developers and other team members to establish objectives and design more functional, cohesive codes to enhance the user experience.</li>
+<li style="">Developing ideas for new programs, products, or features by monitoring industry developments and trends.</li>
+<li style="">Recording and reporting data to appropriate parties, such as clients or leadership.</li>
+<li style="">Participating in continuing education and training to remain current on best practices, learn new programming languages, and better assist other team members.</li>
+<li style="">Taking the lead on projects as needed.</li>
+</ul>
+<p> </p>
+<p><strong>Requirements</strong></p>
+<ul style="">
+<li style="">BSc degree in Computer Science/Computer Engineering. Master is a plus.</li>
+<li style="">In-depth solid understanding of the entire web development process (design, development, and deployment)</li>
+<li style="">Strong competencies in algorithms and software architecture.</li>
+<li style="">4+ years of experience as a Python Back-end developer.</li>
+<li style="">3+ years of experience in developing REST APIs.</li>
+<li style="">Strong experience in Django, Github</li>
+<li style="">Strong experience in Relational Databases (MySQL, SQL Server or PostgreSQL)</li>
+<li style="">Experience using Azure cloud and its resources/services is a big plus.</li>
+<li style="">Previous experience in automated testing, including unit testing &amp;</li>
+<li style="">Strong knowledge in Continuous Integration &amp; Continuous Deployment (CI/CD).</li>
+<li style="">Knowledge of object-relational mapping (ORM)</li>
+<li style="">Familiarity with front-end technologies (like JavaScript and HTML5)</li>
+<li style="">Ability to collaborate on projects and work independently when required.</li>
+<li style="">Focus on efficiency, user experience, and process improvement.</li>
+<li style="">Excellent project and time management skills.</li>
+<li style="">Strong problem-solving and verbal and written communication skills</li>
+</ul><p><br></p><p>Please send your CV to admin@mindtales.me</p>
+<img src="https://remotive.com/job/track/1674036/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/814298/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -1009,7 +923,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1086,7 +1000,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1230,7 +1144,7 @@
                     <code>CSS,developer,docker,blockchain</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/web-developer-1667108" align="right" target="_blank">Apply</a>
@@ -1285,7 +1199,7 @@
                     <code>developer,seo,social media,ai</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-ai-application-developer-cohort-4-1665505" align="right" target="_blank">Apply</a>
@@ -1325,7 +1239,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -1394,7 +1308,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -1457,143 +1371,6 @@
 </ul>
 <p><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Ownership: </span><span style="color: #0e101a; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Take ownership of your work and enjoy more freedom in your career.</span></p>
 <img src="https://remotive.com/job/track/1383531/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1422554/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify</h5>
-                    <h3>Senior Solidity Developer</h3>
-                </td>
-                <td width="300">
-                    <code>developer,kubernetes,python,security</code>
-                </td>
-                <td width="200">
-                <text>29 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The Role:</span></p>
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">We are searching for a </span><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Senior Solidity Developer</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </span></p>
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><strong> </strong></p>
-<div class="h3" dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">What we are looking for:</span></div>
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><strong> </strong></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have +4 years of solid experience as a Solidity Developer in top-notch environment;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Knowledge of Blockchain technology and related concepts;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Familiarity with the Ethereum Blockchain, its functions and applications;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Experience in the architecture and design of Blockchain projects and applications;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Familiarity and experience with project development on other Blockchain platforms;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Familiarity with test-driven development;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Responsible and able to work with minimal supervision;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Upper-intermediate English level;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You can communicate well with both technical and non-technical clients.</span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><strong><br><br></strong></p>
-<div class="h4" dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Nice-to-have: </span></div>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Basic knowledge of C++, Python, and / or JavaScript;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Timezone: CET (+/- 3 hours).</span></p>
-</li>
-</ul>
-<div class="h4" dir="ltr" style="line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"> </div>
-<div class="h4" dir="ltr" style="line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Responsibilities:</span></div>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Network architecture and security standards development;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Technical review assessment of existing Blockchain solutions;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Create high-security technologies;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Development of new features and improvements for existing Blockchain projects;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Solidity code integration on different platforms;</span></p>
-</li>
-</ul>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Collaborating with the stakeholders.</span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><strong><br><br></strong></p>
-<p align="left" dir="ltr" style="margin-left: 0pt;"> </p>
-<table style="border: none; border-collapse: collapse;"><colgroup><col width="600"></colgroup>
-<tbody>
-<tr style="height: 132.75pt;">
-<td style="vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 0.99609pt;">
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">What we offer:</span></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">💻 </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">100% remote work</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Work from anywhere.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">👌🏻 </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Flexibility</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: The ability to change the project to another one.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">💵 </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Financial growth</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Competitive compensation and performance-based increases.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">🧘🏻‍♂️ </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Freedom</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Very flexible working schedule.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">🚀 </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">360 degree growth</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Opportunities for professional development and personal growth.</span></p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><strong><br><br></strong></p>
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Your benefits with Proxify:</span></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Be part of Proxify community</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Network with like-minded and enthusiastic individuals to make a difference. </span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Make an impact</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: You get the opportunity to work on the projects that inspire you and add value to your career.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Transparency</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Contracts with transparency in earnings and working hours.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Save your time</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Fast and efficient hiring process to match you with the project of your preference.</span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Ownership: </span><span style="color: #0e101a; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Take ownership of your work and enjoy more freedom in your career.</span></p>
-<img src="https://remotive.com/job/track/1422554/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1712,7 +1489,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b><span style="font-size: 18pt">Building the Internet of Money&nbsp;</span></b></div><div><br></div><div><span style="font-size: 10.5pt">Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</span></div><div><br></div><div><span style="font-size: 10.5pt">What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the adoption of cryptocurrency so the world can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Before you apply, please read the </span><a href="https://kraken-culture.notion.site/" style="font-size: 10.5pt" class="postings-link">Kraken Culture Explained</a><span style="font-size: 10.5pt"> to learn more about our internal culture, values, and mission.</span></div><div><br></div><div><span style="font-size: 10.5pt">As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who have a long track record of building premium products for professionals and institutions as well as newcomers to the space. Kraken is committed to industry-leading security through our products like </span><a href="https://pro.kraken.com/" style="font-size: 10.5pt" class="postings-link">Kraken Pro</a><span style="font-size: 10.5pt">, </span><a href="https://www.kraken.com/en-us/nft" style="font-size: 10.5pt" class="postings-link">Kraken NFT</a><span style="font-size: 10.5pt">, and </span><a href="https://cryptowat.ch/" style="font-size: 10.5pt" class="postings-link">Cryptowatch</a><span style="font-size: 10.5pt">, with a focus on world-class customer support and </span><a href="https://www.kraken.com/learn" style="font-size: 10.5pt" class="postings-link">crypto education</a><span style="font-size: 10.5pt"> for all.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Become a Krakenite and build the internet of money!</span></div><div><br></div><div><b style="font-size: 18px">Overview</b></div><div><br></div><div>At Staked we combine software and systems engineering to build and run large-scale, fault-tolerant staking node infrastructure for 40+ blockchains. We're looking for someone with a broad understanding of software Development, DevOps, and a deep knowledge of Blockchain preferably Ethereum.</div><div><br></div><div>Staked is hiring a Backend Blockchain Developer to join a high-impact team to identify and capitalize on algorithmic ways to improve yield from staking.&nbsp; The team focuses on Ethereum and other protocols, and is currently working on projects surrounding MEV across DeFi. Join the team on the cutting edge of blockchain technology and help us figure out how to deliver alpha to our customers.&nbsp;</div></div><div class="section page-centered"><div><h3>Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Drive software development through the development lifecycle, taking prototypes from idea to production.&nbsp;&nbsp;</li><li>Contribute to thought-leadership and analytics that will inevitably change the roadmap and induce pivots.</li><li>Develop the software stack responsible for watching mempool transactions and identifying profitable MEV opportunities. This might include searchers (algorithmic logic) for liquidation or arbitrage, the software stack we use to evaluate transactions in the mempool, and our custom clients designed to deliver the most profitable block.</li><li>Evaluate third-party solutions like Flashbots to determine their suitability for inclusion in our strategy. As appropriate, design a solution that incorporates their technology.</li><li>Use our data stack to determine the most profitable strategies and mimic them.</li><div><br></div></ul></ul></div></div><div class="section page-centered"><div><h3>Qualifications</h3><ul class="posting-requirements plain-list"><ul><li>Experience working with at least two software systems on a professional team.</li><li>Proficiency in one or more object oriented languages, such as typescript, golang or python with a flexibility to work in any language.</li><li>Experience with numerical methods/algorithms in optimization software.</li><li>Passion for performance-oriented, event-driven backend systems (Eg. trading technology, ad-tech, risk, finance, or distributed web-apps/systems).</li><li>Enough SQL skills to do basic analytics of time series data, and willing to learn more.</li><li>Nice to haves include experience with event-driven systems, Docker, Kubernetes, solidity, and developing smart contracts.</li><li>Smart and collaborative. These are hard problems with lots of potential solutions. We’re looking for people that want to solve them as part of a team.</li><li>Understanding of test-driven development and other techniques to make maintainable financial applications.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>#US #CANADA #LI-LM1</div><div><br></div><div><span style="font-size: 10.5pt">Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</span></div><div><br></div><div><span style="font-size: 10.5pt">As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</span></div><div><br></div><div><b><span style="font-size: 13.5pt">Stay in the know</span></b></div><div><br></div><div><a href="https://twitter.com/krakenfx" style="font-size: 10.5pt" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" style="font-size: 10.5pt" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" style="font-size: 10.5pt" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/cca5342c-2de7-4267-9aa2-bca911a06c9f/apply">Apply for this job</a></div>
+                <div class="section page-centered" data-qa="job-description"><div><b><span style="font-size: 18pt">Building the Internet of Money&nbsp;</span></b></div><div><br></div><div><span style="font-size: 10.5pt">Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</span></div><div><br></div><div><span style="font-size: 10.5pt">What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the adoption of cryptocurrency so the world can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Before you apply, please read the </span><a href="https://kraken-culture.notion.site/" style="font-size: 10.5pt" class="postings-link">Kraken Culture Explained</a><span style="font-size: 10.5pt"> to learn more about our internal culture, values, and mission.</span></div><div><br></div><div><span style="font-size: 10.5pt">As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who have a long track record of building premium products for professionals and institutions as well as newcomers to the space. Kraken is committed to industry-leading security through our products like </span><a href="https://pro.kraken.com/" style="font-size: 10.5pt" class="postings-link">Kraken Pro</a><span style="font-size: 10.5pt">, </span><a href="https://www.kraken.com/en-us/nft" style="font-size: 10.5pt" class="postings-link">Kraken NFT</a><span style="font-size: 10.5pt">, and </span><a href="https://cryptowat.ch/" style="font-size: 10.5pt" class="postings-link">Cryptowatch</a><span style="font-size: 10.5pt">, with a focus on world-class customer support and </span><a href="https://www.kraken.com/learn" style="font-size: 10.5pt" class="postings-link">crypto education</a><span style="font-size: 10.5pt"> for all.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Become a Krakenite and build the internet of money!</span></div><div><br></div><div><b style="font-size: 24px">Proof of work</b></div><div><br></div><div><b><span style="font-size: 18px">The team</span></b></div><div><br></div><div>At Staked we combine software and systems engineering to build and run large-scale, fault-tolerant staking node infrastructure for 40+ blockchains. We're looking for someone with a broad understanding of software Development, DevOps, and a deep knowledge of Blockchain preferably Ethereum.</div><div><br></div><div>Staked is hiring a Backend Blockchain Developer to join a high-impact team to identify and capitalize on algorithmic ways to improve yield from staking.&nbsp; The team focuses on Ethereum and other protocols, and is currently working on projects surrounding MEV across DeFi. Join the team on the cutting edge of blockchain technology and help us figure out how to deliver alpha to our customers.&nbsp;</div></div><div class="section page-centered"><div><h3>The opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Drive software development through the development lifecycle, taking prototypes from idea to production.&nbsp;&nbsp;</li><li>Contribute to thought-leadership and analytics that will inevitably change the roadmap and induce pivots.</li><li>Develop the software stack responsible for watching mempool transactions and identifying profitable MEV opportunities. This might include searchers (algorithmic logic) for liquidation or arbitrage, the software stack we use to evaluate transactions in the mempool, and our custom clients designed to deliver the most profitable block.</li><li>Evaluate third-party solutions like Flashbots to determine their suitability for inclusion in our strategy. As appropriate, design a solution that incorporates their technology.</li><li>Use our data stack to determine the most profitable strategies and mimic them.</li><div><br></div></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>Experience working with at least two software systems on a professional team.</li><li>Proficiency in one or more object oriented languages, such as typescript, golang or python with a flexibility to work in any language.</li><li>Experience with numerical methods/algorithms in optimization software.</li><li>Passion for performance-oriented, event-driven backend systems (Eg. trading technology, ad-tech, risk, finance, or distributed web-apps/systems).</li><li>Enough SQL skills to do basic analytics of time series data, and willing to learn more.</li><li>Nice to haves include experience with event-driven systems, Docker, Kubernetes, solidity, and developing smart contracts.</li><li>Smart and collaborative. These are hard problems with lots of potential solutions. We’re looking for people that want to solve them as part of a team.</li><li>Understanding of test-driven development and other techniques to make maintainable financial applications.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>#US #CANADA #LI-LM1</div><div><br></div><div><span style="font-size: 10.5pt">Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</span></div><div><br></div><div><span style="font-size: 10.5pt">As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</span></div><div><br></div><div><b><span style="font-size: 13.5pt">Stay in the know</span></b></div><div><br></div><div><a href="https://twitter.com/krakenfx" style="font-size: 10.5pt" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" style="font-size: 10.5pt" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" style="font-size: 10.5pt" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/cca5342c-2de7-4267-9aa2-bca911a06c9f/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -2023,83 +1800,6 @@
 </div>
 <div id="about-body" class="external-panel__trix-content external-panel__trix-content--colored">
 <div><br>Follow along on&nbsp;<a href="https://our.status.im/">Our Status</a>.&nbsp;</div>
-</div>
-
-    
-
-    
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Status</h5>
-                    <h3>Senior Rust Developer </h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4412616&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <p><strong>About Logos</strong></p>
-<p><span style="font-weight: 400;">A group of Status Contributors is also involved in a new community lead project, called Logos, and this particular role will enable you to also focus on this project. Logos is a grassroots movement to provide trust-minimized, corruption-resistant governing services and social institutions to underserved citizens.&nbsp;</span></p>
-<p><span style="font-weight: 400;">Logos’ infrastructure will provide a base for the provisioning of the next-generation of governing services and social institutions - paving the way to economic opportunities for those who need them most, whilst respecting basic human rights through the network’s design.</span><span style="font-weight: 400;">You can read more about Logos here:</span><a href="https://github.com/acid-info/public-assets/blob/master/logos-manual.pdf"><span style="font-weight: 400;"> in this small handbook</span></a><span style="font-weight: 400;"> for mindful readers like yourself. </span></p>
-<p><strong>Who are we?</strong></p>
-<p>We are the Blockchain Infrastructure Team, and we are building the foundation used by other projects at the&nbsp;<a href="https://statusnetwork.com/">Status Network</a>. We are researching consensus algorithms, Multi-Party Computation techniques, ZKPs and other cutting-edge solutions with the aim to take the blockchain technology to the next level of security, decentralization and scalability for a wide range of use cases. We are currently in a research phase, working with models and simulations. In the near future, we will start implementing the research. You will have the opportunity to participate in developing -and improving- the state of the art of blockchain technologies, as well as turning it into a reality.</p>
-<p><strong>Key Responsibilities</strong></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Development and maintenance of internal rust libraries</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Help design and implement the architecture for a production-grade Node that will run in a highly adversarial environment.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">1st month: comfortable with dev framework, and simulation app.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">A strong candidate will be able to contribute from the first month. </span></li>
-</ul>
-<div><strong>Ideally, you will have</strong></div>
-<div>
-<ul>
-<li><span style="font-weight: 400;">“Extensive” Rust experience. Ideally, they have some GitHub projects to show.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Alternative very extensive C/C++ experience and enough experience in Rust to write idiomatic code. We value more the understanding and experience of production systems.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Strong competency in developing and maintaining complex libraries or applications</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Peer-to-peer or networking experience</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience in, and passion for, blockchain technology.</span></li>
-<li><span style="font-weight: 400;">A strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></span></li>
-</ul>
-<p><strong>Bonus points if</strong></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">&nbsp;Comfortable working remotely and asynchronously</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">&nbsp;Experience working for an open source organization.&nbsp;&nbsp;</span></li>
-</ul>
-<p><em>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role!]</em></p>
-<p><strong>Hiring Process&nbsp;</strong></p>
-<p><span style="font-weight: 400;">The hiring process for this role will be:</span></p>
-<ol>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with our People Ops team</span></li>
-<li><span style="font-weight: 400;">Interview with Team Member&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Engineering Lead</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Logos Program Owner</span></li>
-</ol>
-<p><strong>Compensation</strong></p>
-<p><span style="font-weight: 400;">We are happy to pay in either 100% fiat or any mix of fiat and/or crypto. For more information regarding benefits at Status: </span><a href="https://people-ops.status.im/tag/perks/"><span style="font-weight: 400;">https://people-ops.status.im/tag/perks/</span></a></p>
-<p>&nbsp;</p>
 </div>
 
     
