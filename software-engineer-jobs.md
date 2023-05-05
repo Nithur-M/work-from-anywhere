@@ -1,62 +1,57 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9238/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Chorus One</h5>
-                    <h3> Golang Software Engineer</h3>
+                    <h5>Threecolts</h5>
+                    <h3> Software Engineer - Ruby on Rails</h3>
                 </td>
                 <td width="300">
-                    <code>DevOps and Sysadmin</code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/chorus-one-golang-software-engineer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/threecolts-software-engineer-ruby-on-rails" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
+                <img src="https://we-work-remotely.imgix.net/logos/0081/9238/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Switzerland
-    <br /><strong>URL:</strong> <a href="https://chorus.one">https://chorus.one</a>
+  <strong>Headquarters:</strong> Delaware, United States
+    <br /><strong>URL:</strong> <a href="https://threecolts.com">https://threecolts.com</a>
 </p>
 
-<div>Chorus One runs validators on cutting-edge Proof of Stake networks such as Cosmos, Solana, Celo, Polkadot, and Oasis. We operate over 22 Cosmos SDK-based chains like Osmosis, Regen, Stargaze, etc.</div><div>
-<br>We seek a Software Engineer well-versed in Golang to build and maintain indexing software and data ingestion pipelines. As a Golang software engineer, you will be responsible for extracting data from cosmos SDK-based blockchains, aggregating and analyzing the data, and building APIs to access it. Familiarity with the Cosmos SDK codebase is a plus.<br><br>We are looking for a skilled Software Engineer with strong communication skills who is passionate about exploring the internal mechanics of blockchains. Our staking infrastructure secures millions of dollars worth of cryptocurrency assets, and security and reliability are key to everything we do. This position is a unique opportunity to work with an experienced team on cutting-edge blockchain networks.<br><br><strong>Responsibilities</strong>
-</div><ol>
-<li>Create indexing software to ingest blockchain data and analyze it</li>
-<li>Design and build APIs to expose this data</li>
-<li>Develop software systems to interact with external APIs, RPC endpoints and other data services</li>
-<li>Work with the infrastructure team at ChorusOne to deploy, monitor, secure, and maintain these systems.</li>
-</ol><div><br></div><div><strong>The ideal candidate:</strong></div><ol>
-<li>Can work independently</li>
-<li>Can proficiently code in Golang and has experience in at least one strongly-typed programming language.</li>
-<li>Is proficient in SQL.</li>
-<li>Has good knowledge of http and REST APIs.</li>
-<li>Has interacted with Cosmos SDK codebase</li>
-<li>Has some experience working with time-series databases.</li>
-<li>Is familiar with various database technologies and the trade-offs they make.</li>
-<li>Has good written and oral communication skills.</li>
-<li>Enjoys teamwork and is good at collaborating with stakeholders and fellow software engineers.</li>
-</ol><div><br></div><div><strong>We offer:</strong></div><ul>
-<li>Autonomy and ownership in a friendly and supportive work environment and the opportunity for rapid growth.</li>
-<li>Competitive fixed compensation USD 80k - 140k + equity </li>
-<li>Part-time optional, 70% – 100%</li>
-<li>All-expense paid semiannual team retreats at various destinations. Past retreats occurred in Egypt, Serbia, Kenya, USA, South Korea, and Dubai.</li>
-<li>Remote, but not alone. We are a strong global collaborative environment.</li>
-<li>Remote working budget (Laptop, co-working space, etc)</li>
-<li>Personal development budget</li>
-<li>Gather experience and build your network in the vibrant crypto ecosystem.</li>
-<li>Learn about state-of-the-art protocols that lay the foundation for an open, transparent, and programmable financial system.<br><br>
-</li>
-</ul>
+<div><strong><em>Availability in Eastern Time Zone preferable</em></strong></div><div><br></div><div>We are Threecolts! A leading software suite for Amazon businesses. We acquire, launch, and grow ecommerce software. We are well capitalized to be able to take our business to the next level. We are scaling quickly and have over 100 team members speaking 17 different languages in over 23 countries across 5 continents who all collaborate together to drive our passion for success.</div><div><br></div><div>We're building the tools for online commerce that help new businesses get started, expedite growth for existing companies, and empower sellers to reach new heights.</div><div><br></div><div>We are looking for a Full Time Ruby on Rails Developer.</div><div><br></div><div>We are a completely remote team spread across the world, with a deep passion for making the web a more beautiful, usable, and reliable place.</div><div><br></div><div><strong>Key Duties and Responsibilities</strong></div><ul>
+<li>You will have strong experience with Ruby (on rails), but be happy to work with other technologies when the need arises - possibly frontend</li>
+<li>You will work with a collaborative mindset, and want to voice your opinion within the team to help influence decision making</li>
+<li>You have experience scaling production software to support rapid growth</li>
+<li>You can tackle tricky problems and work towards a clean solution, by yourself &amp; with teammates</li>
+<li>Passionate about creating a product you can be proud of</li>
+<li>Able to adapt in changing circumstances and ready to learn quickly</li>
+<li>Excited to work for a company that is experiencing significant growth, and want to be a key contributor to the growth journey</li>
+</ul><div><br></div><div><strong>Essential Skills &amp; Requirements</strong></div><ul>
+<li>Proven work experience as a Ruby on Rails developer</li>
+<li>Proven work experience in software development</li>
+<li>Demonstrable knowledge of front-end technologies such as JavaScript, HTML, CSS, SQL and Typescript</li>
+<li>Experience developing highly interactive applications</li>
+<li>A firm grasp of object oriented analysis and design</li>
+<li>Passion for writing great, simple, clean, efficient code</li>
+<li>Good knowledge of relational databases</li>
+<li>Fluency in English is a must</li>
+</ul><div><br></div><div><strong>Nice to have</strong></div><ul>
+<li>Working knowledge of NoSQL databases</li>
+<li>Experience with Test Driven Development (TDD)</li>
+<li>Experience with Pair Programming</li>
+<li>Startup experience desirable</li>
+<li>Availability in Eastern Time Zone preferable</li>
+</ul><div><br></div><div><strong>We are striving to create a diverse and inclusive environment. We encourage all applicants to apply for our roles. We value and actively seek diverse talent!</strong></div><div><br></div><div><strong>Get to know us a bit better:</strong></div><div>https://www.threecolts.com/</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/chorus-one-golang-software-engineer">https://weworkremotely.com/remote-jobs/chorus-one-golang-software-engineer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/threecolts-software-engineer-ruby-on-rails">https://weworkremotely.com/remote-jobs/threecolts-software-engineer-ruby-on-rails</a></p>
 
                 </details>
                 </td>
@@ -72,7 +67,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>101 days ago</text>
+                <text>102 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -128,7 +123,7 @@
                     <code>api,backend,cloud,developer</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1653911" align="right" target="_blank">Apply</a>
