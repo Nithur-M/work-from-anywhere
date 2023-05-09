@@ -10,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rocket-conversions-ad-creative-project-manager" align="right" target="_blank">Apply</a>
@@ -32,93 +32,6 @@
 </div><h1><strong> 🙏 Thank You! 🙏</strong></h1>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/rocket-conversions-ad-creative-project-manager">https://weworkremotely.com/remote-jobs/rocket-conversions-ad-creative-project-manager</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/3243/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Bossert Associates</h5>
-                    <h3> Project Manager </h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/bossert-associates-project-manager" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0084/3243/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Munich, Germany
-    <br /><strong>URL:</strong> <a href="https://www.bossert-associates.com/">https://www.bossert-associates.com/</a>
-</p>
-
-<div>We are looking for an assertive and detailed Project Manager to manage our client projects and our partners and clients. </div><div> </div><div>This position is remote, but we’re looking for team members available in the CET time zone. </div><div> </div><div>Join our diverse and talented team and immerse yourself in a coaching and educational environment. </div><div> </div><div>You will be a vital part of our Operational team, working closely with leadership and global enterprise clients to create a more inclusive, diverse, and sustainable world. </div><div> </div><div><strong>Your day-to-day:</strong></div><div>•    Fully understand Bossert Associates’ strategy and values to deliver work with our unique mission and perspective in mind.</div><div>•    Be the main POC to a group of clients. We work with enterprise clients like the Boston Consulting Group, Siemens, and Schneider Electric. </div><div>•    Manage ongoing projects: Our projects are workshops and events around leadership, diversity &amp; inclusion, and more. You will manage everything from proposals, content production with the trainer, event planning, and post-workshop reports. You will work closely with our clients and partners on each project. </div><div>•    Help build automation and implement tools that will help improve the current process. </div><div> </div><div><strong>About you: </strong></div><div>Must haves: </div><div>•    Proven work experience as Project Manager in a fast-paced tech environment. </div><div>•    Important: Common sense, assertiveness, dedication, and a personal need to get things done.</div><div>•    Customer-first mentality. </div><div>•    Working collaboratively is in your nature. Your team matters to you.</div><div>•    Discretion and confidentiality with sensitive client information. </div><div>•    Exceptional organizational skills with an ability to think proactively and prioritize work.</div><div>•    Excellent communication skills (verbal &amp; written) to successfully interact with clients and internal stakeholders. </div><div>•    You are highly technological and can quickly learn new tools and adapt to our tech stack. </div><div>•    You have deep experience with project management tools. </div><div>•    Be open to changes: though we work with enterprise clients, we are a small, growing firm looking for team members ready to grow with us. </div><div> </div><div>Nice to haves:</div><div>·      Experience with MS Office (you'll be working on PowerPoint almost daily)</div><div>·      HubSpot experience</div><div>·      German language skills</div><div> </div><div><strong>Working at Bossert Associates:</strong></div><div> </div><div>•    Work with a small yet growing team of dedicated professionals in a truly diverse environment. </div><div>•    Have direct contact with senior partners and a real say in our processes and work. </div><div>•    Be a part of an educational and coaching environment, with a chance to participate in our workshops, learn and grow. </div><div>•    We offer stability and growth - we are not a startup and plan to grow responsibly and sustainably. </div><div>•    We offer support and trust and encourage ownership over everyone’s work.</div><div>•    We are closed between Christmas and New Year’s, so you’ll have a week of peace. </div><div>•    We hire you through an EOR service (Deel), so no matter where you are, you will have the benefits your country requires (health insurance, local holidays, etc.) </div><div> </div><div>We encourage anyone qualified to apply!</div><div> </div><div>Ready to apply? Please apply <a href="https://form.asana.com/?k=03iqivu0FhD2etlNq7nBmA&amp;d=61969398801868"><strong>here</strong></a>. </div><div> </div><div>Please don’t contact us through the website or other channels. We promise to reply if we believe we’re a good fit. </div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bossert-associates-project-manager">https://weworkremotely.com/remote-jobs/bossert-associates-project-manager</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/8210/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>University of Virginia</h5>
-                    <h3> Senior Project Manager for Cloud Applications</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>65 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/university-of-virginia-senior-project-manager-for-cloud-applications" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0083/8210/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Charlottesville, VA
-    <br /><strong>URL:</strong> <a href="https://virginia.edu">https://virginia.edu</a>
-</p>
-
-<div>
-<br>The <a href="https://education.virginia.edu/faculty-research/centers-labs-projects/center-advanced-study-teaching-and-learning-castl">Center for the Advanced Study of Teaching and Learning (CASTL)</a> in the <a href="https://education.virginia.edu/">School of Education and Human Development</a> seeks to hire a Senior Project Manager for Cloud Applications. The incumbent will work with Principal Investigators, external technology consultants, and a supervise a small team. Net and Angular software engineers to guide the design and implementation of an enterprise-level integrated web-based application. The application will draw from existing web-based applications that currently serve a variety of stakeholders focused on improving educational outcomes for young children in Virginia.<br><br>
-</div><div>
-<br>This role and project provide an exciting opportunity to create a novel solution by bringing together several state initiatives with proven records of collecting data to shape public policy in education. It will contribute to our understanding of how early experiences can shape children’s developmental outcomes.<br><br>
-</div><div>
-<br>The ideal candidate has experience in government security reviews and compliance, with proven success in engaging stakeholders in working towards innovative solutions. A major aspect of the role will be to navigate data governance structures across multiple state-level stakeholders and to identify and implement a technical approach that corresponds to project-specific data sharing agreements.<br><br>
-</div><div>
-<strong><br>**This will be a fully remote position**<br></strong><br>
-</div><div>
-<strong><br>The ideal candidate will have the following: <br></strong><br>
-</div><ul>
-<li>Experience and ability to lead a small team of web-based software engineers using an Agile framework</li>
-<li>University and state-level IT review and compliance</li>
-<li>Data governance across multiple organizations and projects</li>
-<li>Knowledge of On-prem to cloud migration</li>
-<li>Strong understanding of system architecture and design for web-based application development</li>
-<li>Experience presenting to multiple stakeholders, translating technical approaches for multiple audiences</li>
-</ul><div>
-<br>For more information on how to apply, please click <a href="https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fuva.wd1.myworkdayjobs.com%2fen-US%2fUVAJobs%2fdetails%2fSenior-Project-Manager-for-Cloud-Applications_R0045488&amp;c=E,1,rqpTAQGKjY6KuFNzDEvjTYgVC9IVnzG5xYbvTUxYweOAYYPIxA4vbaTA-82HBBg71OSrwEsh8bzfivuE5tCSxWEIctlNvhgbBHQ2z5-hQgCWR7g5NB9CHFc,&amp;typo=1">here</a>.<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/university-of-virginia-senior-project-manager-for-cloud-applications">https://weworkremotely.com/remote-jobs/university-of-virginia-senior-project-manager-for-cloud-applications</a></p>
 
                 </details>
                 </td>
