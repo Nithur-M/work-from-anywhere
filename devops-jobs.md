@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pictureworks-group-pty-ltd-lead-devops-engineer-and-systems-administrator" align="right" target="_blank">Apply</a>
@@ -82,7 +82,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>212 days ago</text>
+                <text>214 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer" align="right" target="_blank">Apply</a>
@@ -329,7 +329,7 @@
 </ol>
 <p>&nbsp;</p>
 <p><strong>Compensation</strong></p>
-<p><span style="font-weight: 400;">The expected compensation range for this role is $120,000 - $150,000 (<strong>the upper amount indicated is the expected range for a very senior candidate! We'll happily consider capable candidates with less experience, but in these cases we would apply an alternate salary range where appropriate)</strong></span></p>
+<p><span style="font-weight: 400;">The expected compensation range for this role is $100,000 - $130,000 (<strong>the upper amount indicated is the expected range for a very senior candidate! We'll happily consider capable candidates with less experience, but in these cases we would apply an alternate salary range where appropriate)</strong></span></p>
 <p>&nbsp;</p>
 
     
