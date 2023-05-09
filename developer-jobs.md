@@ -1,49 +1,175 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/7683/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Batch</h5>
-                    <h3> Intermediate or Senior Full Stack Developer (PHP/Laravel/Vue.js)</h3>
+                    <h5>R.O.M. logicware GmbH</h5>
+                    <h3> Application Developer | C++, Qt, QML, Fullstack Engineer - Transforming Creative Writing</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/batch-intermediate-or-senior-full-stack-developer-php-laravel-vue-js" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/r-o-m-logicware-gmbh-application-developer-c-qt-qml-fullstack-engineer-transforming-creative-writing" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0018/7683/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
-  <strong>Headquarters:</strong> Christchurch, New Zealand
-    <br /><strong>URL:</strong> <a href="https://www.batch.nz">https://www.batch.nz</a>
+  <strong>Headquarters:</strong> Germany Berlin
 </p>
 
-<div>We are a digital agency based in New Zealand, looking for an experienced and highly-skilled Intermediate or Senior Full Stack Developer to join our team for a 2-4 month contract. If you are passionate about web development and ready to make a significant impact on a meaningful project, we would love to hear from you!<br><br>The successful candidate will be available to start immediately and will be responsible for seeing one of our key projects through to completion as part of an already established and successful team.<br><br><strong>Key Requirements:</strong>
-</div><ul>
-<li>Proven experience as an Intermediate or Senior PHP developer</li>
-<li>Available immediately</li>
-<li>Must ensure at least half of your day crosses over with the New Zealand working day</li>
-<li>Strong experience with the Laravel framework</li>
-<li>Strong JavaScript skills and experience with Vue.js</li>
-<li>Excellent problem-solving abilities and attention to detail</li>
-<li>Strong communication skills and the ability to work effectively in a team</li>
-</ul><div><strong>Responsibilities:</strong></div><ul>
-<li>Contribute to a high-quality web application using PHP, Laravel, and Vue.js</li>
-<li>Debug and resolve technical issues as they arise</li>
-<li>Participate in code reviews and contribute to the improvement of development processes</li>
-<li>Communicate effectively with team members to ensure timely delivery of project milestones</li>
-</ul><div>
-<strong>To Apply:</strong><br><br>If you meet the above criteria and are excited about joining our team, please submit your CV and a brief cover letter detailing your experience and why you believe you are the perfect candidate for this role.<br><br>We appreciate the time and effort put into each application, and will review all submissions carefully. However, due to the high volume of applications, only shortlisted candidates will be contacted.<br><br>Thank you for your interest, we look forward to reviewing your application!</div>
+<p>Are you ready to revolutionize the creative writing industry? Join us in our mission to develop cutting-edge software solutions that empower authors worldwide. We’re looking for a talented C++, Qt/QML Fullstack Developer to help us redefine the writing experience and turn ideas into captivating stories.</p>
+<h2>Tasks</h2>
+<p><strong>What You'll Do</strong></p>
+<ul>
+<li>Develop modern user interfaces using Qt/QML, enhancing the user experience and making our creative writing suite unforgettable.</li>
+<li>Write high-quality C++ code for innovative software that’s loved and appreciated by users across the globe.</li>
+<li>Create new control elements and interaction technologies with C++ and Qt, pushing the boundaries of what’s possible in creative writing tools.</li>
+<li>Redesign and modernize older software components using QML, ensuring a seamless and enjoyable user experience.</li>
+<li>Collaborate with a professional team to design, develop, and implement exceptional software solutions.</li>
+<li>Co-develop mobile and web versions of our creative writing suite and other writing and organization tools, focusing on uncompromising UI/UX and seamless integration between QML frontends and C++ backends.</li>
+</ul>
+<h2>Requirements</h2>
+<p><strong>What You Bring</strong></p>
+<ul>
+<li>A strong team player mindset, excellent stress resilience, and a sense of responsibility. You’re driven by a passion for creating meaningful and innovative solutions.</li>
+<li>Expertise in C / C++ software development, with a keen eye for detail and a commitment to crafting stunning and intuitive user experiences.</li>
+<li>Proficiency in Qt, QML, and experience orchestrating C++ backends with QML frontends.</li>
+<li>Demonstrated talent, tenacity, and an appetite for ambitious projects, fueled by your passion for software development.</li>
+</ul>
+<h2>Benefits</h2>
+<p>Papyrus Author is our dream project. Make it your own and create something that wouldn’t have existed without you.</p>
+<ul>
+<li>Collaborate with a small, effective, and supportive team.</li>
+<li>Enjoy the flexibility of remote work and occasional fun workshops in amazing locations.</li>
+<li>Work with a setup you love, including your own MacBook Pro.</li>
+<li>Competitive salary based on experience, skillset, ambition, and location.</li>
+<li>Earliest starting date: now.</li>
+</ul>
+<p>If you’re a C++, Qt, and QML enthusiast, don’t miss this incredible opportunity to work on one of the most exciting Qt projects in the industry. Apply now with your CV and a sample of your work. We’re excited to meet you!</p>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/batch-intermediate-or-senior-full-stack-developer-php-laravel-vue-js">https://weworkremotely.com/remote-jobs/batch-intermediate-or-senior-full-stack-developer-php-laravel-vue-js</a></p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/r-o-m-logicware-gmbh-application-developer-c-qt-qml-fullstack-engineer-transforming-creative-writing">https://weworkremotely.com/remote-jobs/r-o-m-logicware-gmbh-application-developer-c-qt-qml-fullstack-engineer-transforming-creative-writing</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/9650/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Yoko Co</h5>
+                    <h3> Full Stack Web Developer - WordPress & More </h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/yoko-co-full-stack-web-developer-wordpress-more" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0018/9650/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> McLean, VA
+    <br /><strong>URL:</strong> <a href="https://www.yokoco.com/">https://www.yokoco.com/</a>
+</p>
+
+<div>We're looking for a senior developer with a strong sense of teamwork and a desire to make a positive impact on the world. You'll take on a player/coach position, and contribute directly to some great projects while also providing guidance and mentorship to our team. </div><div><br></div><div><strong>Why work at Yoko Co?</strong></div><div><br></div><ul>
+<li>
+<strong>Do good, better:</strong> We exclusively serve clients who make a positive impact on the world. This is your chance to build things that help create a better place for all of us.</li>
+<li>
+<strong>4-day work week and lots of holidays.</strong> Mondays are flex days, meaning you’re free to take them off if you’re caught up on your work. Plus, we’re closed for nearly a full week at Thanksgiving (November), and two weeks at the end of the year, plus a bunch of other days, too. Work-life balance FTW!</li>
+<li>
+<strong>High performance, no jerks.</strong> You'll collaborate with good people who believe in doing great work.</li>
+<li>
+<strong>Best Place to Work (and that’s not just our opinion).</strong> We’ve been named a Best Place to Work by the Inc. 5000 and Washington Business Journal.</li>
+</ul><div><br></div><div>We value team members who are motivated by our mission and driven to make a positive impact. If you have a passion for excellence, a growth mindset, and a commitment to collaboration, we'd love to hear from you.</div><div><br></div><div><strong>In this role, you’ll:</strong></div><div><br></div><ul>
+<li>Work on multiple projects at once, collaborating with other developers, designers, project managers, and strategists on a variety of engagements </li>
+<li>Help expand our codebase, workflows, and tools, while maintaining focus on reliability and scalability</li>
+<li>Participate in code reviews and provide constructive feedback to foster a culture of continuous improvement</li>
+<li>Help shape the future of our team by contributing to strategy and planning</li>
+<li>Work on complex projects involving advanced technologies and integrations, alongside our core offerings (like WordPress)</li>
+</ul><div><br></div><div><strong>To succeed in this position, you’ll need: </strong></div><div><br></div><ul>
+<li>Extensive experience with WordPress development, including custom plugins, functionality, themes, data structures, and integrations</li>
+<li>Strong proficiency in Git, PHP, MySQL, Javascript, HTML, CSS </li>
+<li>Experience working with modern frontend frameworks and libraries like React or VueJS </li>
+<li>Exceptional leadership and communication skills to inspire and mentor team members</li>
+<li>A solution-oriented mentality, and the perspective, context, and awareness to solve complex problems in a sustainable way </li>
+<li>8+ years of experience building cool stuff for the internet, and a commitment to continuous learning (for yourself and others)</li>
+<li>Availability to work at least 5 hours overlap with 9-5pm ET</li>
+<li>A genuine desire to contribute to the growth of our team and the quality of our work</li>
+</ul><div><br></div><div><strong>What you get:</strong></div><div><br></div><div>You’ll get a flexible schedule, unlimited time off, a competitive salary, a profit share bonus (starting in your second year), the ability to work wherever you want, a personal development budget, and all US federal holidays and multiple weeks off at the end of the year to recharge. We’ll also offset your entire carbon footprint. If you’re in the US, we also offer health insurance, disability and life insurance, and 401(k) matching.</div><div><br></div><div><strong>More about us:</strong></div><div><br></div><div>We’re a group of people who are passionate about the work we do, the clients we serve, and improving our craft. We also care about each other — we don’t think of one another as coworkers or employees, but as fellow humans. From developers to designers, project managers to strategists, we bring out the best in each other.</div><div><br></div><div>We’ve been in business for over a decade, our whole team is remote, we’ve been named a Best Place to Work by the Inc. 5000 and the Washington Business Journal. </div><div><br></div><div><strong>To apply:</strong></div><div><br></div><div>If you’re interested, send an email to careers@yokoco.com with the subject line “<strong>Secret Treehouse Club</strong>” — and while you’re at it, we’d love to learn a bit more about you and get a link to your website, your GitHub, and/or some neat stuff you’ve built.  </div><div><br></div><div>We take applicants from all over the world. However, you must be willing to work a schedule that overlaps with normal US business hours. </div><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/yoko-co-full-stack-web-developer-wordpress-more">https://weworkremotely.com/remote-jobs/yoko-co-full-stack-web-developer-wordpress-more</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/2673/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Portal Fantasy</h5>
+                    <h3> Game Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/portal-fantasy-game-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0086/2673/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> United Kingdom
+    <br /><strong>URL:</strong> <a href="http://portalfantasy.io">http://portalfantasy.io</a>
+</p>
+
+<div>Join the Portal Fantasy team, a talented and passionate group of game developers on the brink of launching our highly-anticipated pixel RPG. With an outstanding Beta under our belt, we have received rave reviews and built a loyal following, eagerly awaiting the official release. <br><br>This is a great opportunity to build an innovative and groundbreaking game, where creativity, collaboration, and a shared love for gaming fuel our success.<br><br>This role is ideal for someone who may not have had previous experience in gaming, but has solid development skills and is passionate about working on something they love.  <br><br><strong>What We Offer:</strong>
+</div><ul>
+<li>True remote working - work from anywhere in the world</li>
+<li>Fully flexible hours</li>
+<li>Work with a passionate team in a cutting-edge industry</li>
+</ul><div><br></div><div><strong>Skills and Experience:</strong></div><ul>
+<li>3+ years full-stack experience</li>
+<li>NodeJS/TypeScript</li>
+<li>Unit testing frameworks</li>
+<li>AWS</li>
+<li>Git </li>
+</ul><div><br></div><div><strong>Requirements:</strong></div><ul>
+<li>A genuine passion for making great video games </li>
+<li>Proven track-record as an excellent problem solver and able to find simple and efficient solutions to problems</li>
+<li>Self-starter mindset - able to pick the right skills for the job and learn new tools and languages if need be</li>
+<li>Excellent communication skills</li>
+</ul><div><br></div><div><strong>Nice to Have</strong></div><ul>
+<li>Experience with Phaser.io</li>
+<li>Love of video games</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/portal-fantasy-game-developer">https://weworkremotely.com/remote-jobs/portal-fantasy-game-developer</a></p>
 
                 </details>
                 </td>
@@ -59,7 +185,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/merchstack-mid-level-react-developer" align="right" target="_blank">Apply</a>
@@ -149,7 +275,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-shopify-developer" align="right" target="_blank">Apply</a>
@@ -225,7 +351,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-wordpress-developer" align="right" target="_blank">Apply</a>
@@ -299,7 +425,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>36 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -382,7 +508,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>66 days ago</text>
+                <text>68 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -454,59 +580,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/8743/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>FinDox Inc</h5>
-                    <h3> Senior C# and PostgreSQL Backend Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>67 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/findox-inc-senior-csharp-and-postgresql-backend-developer-4" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/8743/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> El Segundo, California
-    <br /><strong>URL:</strong> <a href="https://www.findox.com/">https://www.findox.com/</a>
-</p>
-
-<div>Awesome remote back-end developer role doing challenging and rewarding work.</div><div><br></div><div><strong>You:</strong></div><div>Attitude &amp; Fit<strong>   </strong>
-</div><ul>
-<li>Positive attitude</li>
-<li>Love building scalable, well-organized code </li>
-<li>Exceptional problem solving skills</li>
-<li>Strive for excellence in all you do</li>
-</ul><div><br></div><div>Experience &amp; Skills</div><ul>
-<li>4+ years work experience with .NET</li>
-<li>PostgreSQL experience is a plus </li>
-<li>Demonstrated experience building and architecting back-end APIs</li>
-<li>Good written and oral communication skills in English</li>
-</ul><div><br></div><div>Candidates will complete a rigorous technical evaluation. </div><div><br></div><div><strong>Position:</strong></div><ul>
-<li>Architect, design, and implement new functionality in .net core using our framework</li>
-<li>Write database migrations and stored procedures</li>
-<li>Help research and troubleshoot production issues </li>
-<li>Improve platform performance by refactoring code, workflows, and stored procedures</li>
-<li>Able to train other developers and potentially able to lead a team in the future</li>
-</ul><div><br></div><div>You must be able to work substantially during normal business hours in the Pacific Time Zone (8am to 4pm UTC -8:00, Los Angeles time). We prefer candidates in North America and South America. We do deployments every other Thursday night from 7 pm - 9 pm PST.</div><div><br></div><div>Competitive compensation and contract type depending on qualifications and location.</div><div><br></div><div>Our technologies used:</div><div>.NET 6, C#, REST API, Javascript, HTML, CSS, VueJS, SQL, PostgreSQL, Linux, Microsoft Azure, Dokan File System Filter, Outgoing email, Incoming email processing, Gitlab, WinForms, NodeJS</div><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/findox-inc-senior-csharp-and-postgresql-backend-developer-4">https://weworkremotely.com/remote-jobs/findox-inc-senior-csharp-and-postgresql-backend-developer-4</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -517,7 +590,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>72 days ago</text>
+                <text>74 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toggl-senior-frontend-developer" align="right" target="_blank">Apply</a>
@@ -586,7 +659,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>103 days ago</text>
+                <text>106 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-flutter-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -657,7 +730,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>123 days ago</text>
+                <text>125 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-laravel-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -720,67 +793,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior Full Stack Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>244 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-full-stack-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div><strong>The Role:</strong></div><div>We are searching for a Senior Full Stack Developer skilled in React.js and Node.js. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
-<br><br>
-</div><div><strong>What we are looking for:</strong></div><ul>
-<li>4+ years of working experience as a FullStack;</li>
-<li>Frontend:<br>- React JS;<br>- Design System;</li>
-<li>Backend:<br>- Microservices architecture;<br>- NodeJS; </li>
-<li>Database:<br>- SQL;<br>- MongoDB;</li>
-<li>Upper-intermediate or higher English level.</li>
-</ul><div><br></div><div><strong>Nice-to-have: </strong></div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Database Architecture knowledge</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>What we offer:</strong>💻 <strong>100% remote work</strong>: Work from anywhere.👌🏻 <strong>Flexibility</strong>: The ability to change the project to another one.💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.🚀 <strong>360 degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
-<br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on the projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-full-stack-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-full-stack-developer-long-term-job-100-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0067/1147/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -791,7 +803,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>573 days ago</text>
+                <text>575 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer" align="right" target="_blank">Apply</a>
@@ -848,6 +860,138 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1674911/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Outliant</h5>
+                    <h3>Senior Java Web Toolkit Developer </h3>
+                </td>
+                <td width="300">
+                    <code>consulting,developer,git,java</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-java-web-toolkit-developer-1674911" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="min-height: 1.5em;">We’re looking to hire a full-time, remote <strong>Senior Java Web Toolkit Developer</strong>. For this role, your primary focus will be collaborating with a team of developers in creating and implementing software applications and components. You’ll have the opportunity to choose your hours and work and learn with a team of world-class engineers and designers, through a commitment to team collaboration, communication, and product quality.</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Seniority Level:</strong> Mid-Senior Level</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Responsibilities:</strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Design and develop software applications using <strong>Java and Web Toolkit</strong> framework</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Write code for software applications and perform code reviews to ensure that code meets coding standards and is maintainable</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Collaborate with cross-functional teams to ensure that software applications meet business requirements</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Create technical specifications and documentation for software applications</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Troubleshoot and debug software applications as needed to identify and resolve issues</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Test software applications to ensure that they meet quality standards and are free from defects</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Stay updated with industry best practices and trends</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Requirements:</strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Strong proficiency in <strong>Java</strong>, including experience with popular frameworks such as <strong>Spring, Hibernate, and Struts</strong></p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Experience with<strong> Web Toolkit (JWt)</strong> and the ability to develop complex browser-based applications using Java</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Proficiency with software development tools such as <strong>Git, JIRA, and Jenkins</strong></p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Strong communication and collaboration skills, including the ability to work with cross-functional teams</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Demonstrated leadership and decision-making abilities</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Strong problem-solving skills and the ability to think creatively to solve complex technical problems</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Excellent time management skills and the ability to handle multiple projects simultaneously</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">A commitment to continuous learning and professional development</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Ability to work during <strong>EST</strong> hours</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Full-time availability (40 hours/week)</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">A personal computer with stable internet</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Excellent English communication skills (B2 to C2 level)</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">English resume is a strict requirement</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"><strong>About Us</strong></p>
+<p style="min-height: 1.5em;">Outliant is a fully-remote, US-based, digital product development and startup consulting company, with a team of culturally diverse creators whose exceptional skills and talents help conceive seamless digital products. Our teams exhibit work-play energy that supports individual growth, as well as encourages the freedom of creativity and “thinking outside the box.”</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Why You Should Work with Us</strong></p>
+<p style="min-height: 1.5em;">As a full-time member of our team, you’ll enjoy:</p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Flexible hours - work whenever you choose</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Work from home</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Unlimited PTO</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Non-working holidays per country of residence</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">13th-month bonus</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Salary increases</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Financial support for online courses</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Fun and casual work environment</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Employee engagement activities and virtual gatherings</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">We are a very diverse bunch! 🌍</p>
+</li>
+</ul>
+<img src="https://remotive.com/job/track/1674911/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1383531/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -858,7 +1002,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -935,7 +1079,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -1072,7 +1216,7 @@
                     <code>azure,cloud,developer,django</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -1137,7 +1281,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1214,7 +1358,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1358,7 +1502,7 @@
                     <code>CSS,developer,docker,blockchain</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/web-developer-1667108" align="right" target="_blank">Apply</a>
@@ -1413,7 +1557,7 @@
                     <code>developer,seo,social media,ai</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-ai-application-developer-cohort-4-1665505" align="right" target="_blank">Apply</a>
@@ -1453,7 +1597,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
