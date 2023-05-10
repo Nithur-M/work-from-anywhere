@@ -1,113 +1,36 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9238/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4287/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Threecolts</h5>
-                    <h3> Software Engineer - Ruby on Rails</h3>
+                    <h5>Stimulus</h5>
+                    <h3> Software engineer</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>210 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/threecolts-software-engineer-ruby-on-rails" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/9238/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0076/4287/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Delaware, United States
-    <br /><strong>URL:</strong> <a href="https://threecolts.com">https://threecolts.com</a>
+  <strong>Headquarters:</strong> Amsterdam, NY
+    <br /><strong>URL:</strong> <a href="https://www.stimulus.com/">https://www.stimulus.com/</a>
 </p>
 
-<div><strong><em>Availability in Eastern Time Zone preferable</em></strong></div><div><br></div><div>We are Threecolts! A leading software suite for Amazon businesses. We acquire, launch, and grow ecommerce software. We are well capitalized to be able to take our business to the next level. We are scaling quickly and have over 100 team members speaking 17 different languages in over 23 countries across 5 continents who all collaborate together to drive our passion for success.</div><div><br></div><div>We're building the tools for online commerce that help new businesses get started, expedite growth for existing companies, and empower sellers to reach new heights.</div><div><br></div><div>We are looking for a Full Time Ruby on Rails Developer.</div><div><br></div><div>We are a completely remote team spread across the world, with a deep passion for making the web a more beautiful, usable, and reliable place.</div><div><br></div><div><strong>Key Duties and Responsibilities</strong></div><ul>
-<li>You will have strong experience with Ruby (on rails), but be happy to work with other technologies when the need arises - possibly frontend</li>
-<li>You will work with a collaborative mindset, and want to voice your opinion within the team to help influence decision making</li>
-<li>You have experience scaling production software to support rapid growth</li>
-<li>You can tackle tricky problems and work towards a clean solution, by yourself &amp; with teammates</li>
-<li>Passionate about creating a product you can be proud of</li>
-<li>Able to adapt in changing circumstances and ready to learn quickly</li>
-<li>Excited to work for a company that is experiencing significant growth, and want to be a key contributor to the growth journey</li>
-</ul><div><br></div><div><strong>Essential Skills &amp; Requirements</strong></div><ul>
-<li>Proven work experience as a Ruby on Rails developer</li>
-<li>Proven work experience in software development</li>
-<li>Demonstrable knowledge of front-end technologies such as JavaScript, HTML, CSS, SQL and Typescript</li>
-<li>Experience developing highly interactive applications</li>
-<li>A firm grasp of object oriented analysis and design</li>
-<li>Passion for writing great, simple, clean, efficient code</li>
-<li>Good knowledge of relational databases</li>
-<li>Fluency in English is a must</li>
-</ul><div><br></div><div><strong>Nice to have</strong></div><ul>
-<li>Working knowledge of NoSQL databases</li>
-<li>Experience with Test Driven Development (TDD)</li>
-<li>Experience with Pair Programming</li>
-<li>Startup experience desirable</li>
-<li>Availability in Eastern Time Zone preferable</li>
-</ul><div><br></div><div><strong>We are striving to create a diverse and inclusive environment. We encourage all applicants to apply for our roles. We value and actively seek diverse talent!</strong></div><div><br></div><div><strong>Get to know us a bit better:</strong></div><div>https://www.threecolts.com/</div>
+<div><strong>About Stimulus</strong></div><div>
+<a href="https://www.stimulus.com/jobs/Stimulus.com">Stimulus</a> is a social platform started by Sticker Mule to show what's possible if your mission is to increase human happiness.</div><div><br></div><div><strong>We offer</strong></div><div>1. Remote work with flexible schedules</div><div>2. A privately owned, low-stress culture.</div><div>3. A fun "no bullshit" work environment</div><div><br></div><div>
+<strong>We like you to know<br></strong>1. Docker<br>2. NextJS<br>3. TypeScript<br>4. React<br>5. NodeJS<br>6. GraphQL<br>7. Redis</div><div><br></div><div><strong>Compensation and benefits</strong></div><div>1. Salary: $135k+ based on experience</div><div>2. $20,000 signing bonus</div><div>3. 4 weeks vacation + holidays based on your country of residence</div><div><br></div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/threecolts-software-engineer-ruby-on-rails">https://weworkremotely.com/remote-jobs/threecolts-software-engineer-ruby-on-rails</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Sticker Mule</h5>
-                    <h3> Software Engineer (C++)</h3>
-                </td>
-                <td width="300">
-                    <code>DevOps and Sysadmin</code>
-                </td>
-                <td width="200">
-                <text>106 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> New York, NY
-    <br /><strong>URL:</strong> <a href="https://www.stickermule.com/careers">https://www.stickermule.com/careers</a>
-</p>
-
-<div><strong>About Sticker Mule</strong></div><div>Sticker Mule is the Internet's most "kick ass" brand. We are privately-owned, profitable, and powered by a globally distributed team that enjoys building happy customer experience at the highest technical standards. Our software team operates from 17 countries, and we're always looking for more exceptional engineers.<br><br>
-</div><div><a href="https://www.stickermule.com/about"><strong>See more about our teams here</strong></a></div><div><br></div><div><strong>We offer</strong></div><ol>
-<li>Remote work with flexible schedules</li>
-<li>A privately owned, low-stress culture.</li>
-<li>A fun "no bullshit" work environment</li>
-</ol><div><strong>We like you to know</strong></div><ol>
-<li>C++</li>
-<li>Go</li>
-<li>Postgres</li>
-<li>Docker</li>
-<li>Cloud Infrastructure</li>
-<li>Familiarity with C#</li>
-<li>Excellent communication skills (English)</li>
-<li>Degree in Computer Science or equivalent practical experience</li>
-</ol><div><strong>Challenges</strong></div><ol>
-<li>Improve factory automation software</li>
-<li>Migrate legacy services to Go</li>
-<li>Maintain a large C++ codebase</li>
-</ol><div><strong>Compensation and benefits</strong></div><ol>
-<li>Salary: $135k+ based on experience</li>
-<li>$20,000 signing bonus</li>
-<li>4 weeks vacation + holidays based on your country of residence</li>
-</ol>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c">https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer">https://weworkremotely.com/remote-jobs/stimulus-software-engineer</a></p>
 
                 </details>
                 </td>
@@ -123,7 +46,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>300 days ago</text>
+                <text>301 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3" align="right" target="_blank">Apply</a>
@@ -179,7 +102,7 @@
                     <code>api,backend,cloud,developer</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1653911" align="right" target="_blank">Apply</a>
@@ -469,6 +392,165 @@
 <p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
 <p>Why Join MixRank? Fully-remote, no HQ office. Team of 32 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
 <p>Please include your updated resume when applying for this role.</p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
+                    <h3>Software Engineer (Typescript)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=5041268&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <h4>JS-Waku:</h4>
+<p>We are building Waku as a public good infrastructure. Waku is the messaging layer of Web3. It is a decentralized, censorship-resistant, privacy-preserving communication network that enables anyone to send and receive messages without worrying about surveillance or deplatforming. We are developing 3 open source implementations of Waku: nwaku, go-waku and js-waku. JS-Waku is the TypeScript implementation used in browser and web environments.</p>
+<p>Our main repo is https://github.com/waku-org/js-waku</p>
+<p>We are enabling Ethereum builders to create new projects with a fully decentralized architecture, think dApp to Wallet notifications, NFT marketplaces, censorship-resistant chat, layer-2 and more.</p>
+<p>We are looking for Software Engineers that are passionate about Ethereum, decentralization and developer experience. and who would relish the opportunity to create a first class decentralized machine-to-machine messaging interface and toolkit and bring these new capabilities to Web3 developers!</p>
+<h4>You will:&nbsp;</h4>
+<ul>
+<li>Design, implement and document Waku TypeScript libraries</li>
+<li>Implement new protocols as defined by the Research Team</li>
+<li>Investigate and fix issues in js-waku and upstream libraries such as js-libp2p</li>
+<li>Liaise with the libp2p team to resolve web-only libp2p matters (WebRTC, etc)</li>
+<li>Optimize js-waku and upstream libraries for the browser</li>
+<li>Support dApp developers in using js-waku and Waku TypeScript libraries</li>
+</ul>
+<h4>Ideally, you:&nbsp;</h4>
+<ul>
+<li>Have experience building applications with complex logic, cutting edge technology or applied research</li>
+<li>Are already familiar with the Ethereum community</li>
+<li>Have the ability to learn new concepts and technologies quickly, you are a polyglot</li>
+<li>Have passion for blockchain and decentralized technologies and understand how they work</li>
+<li>Have good communication skills (written and conversational)</li>
+<li>Have a strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></li>
+</ul>
+<h4>Bonus points if you have experience:</h4>
+<ul>
+<li>In Web development (TypeScript, JavaScript, etc)</li>
+<li>With js-libp2p or other libp2p implementations</li>
+<li>With transport layer: websocket, WebRTC, WebTransport</li>
+<li>In Web3 or blockchain development</li>
+<li>Working for an open source organization</li>
+<li>Working remotely</li>
+</ul>
+<p>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</p>
+<h4>Compensation:</h4>
+<p>We are happy to pay in either 100% fiat or any mix of fiat and/or crypto.&nbsp;</p>
+<p><strong>Hiring process:</strong></p>
+<ol>
+<li>Introductory call with member of the Talent team</li>
+<li>Culture and Pair programming session with Waku Lead</li>
+<li>Technical &amp; Culture Interview with Vac team member</li>
+</ol>
+
+    
+
+    
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
+                    <h3>Software Engineer (Distributed Systems Testing)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4872413&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <p>&nbsp;</p>
+<p><strong>About Codex</strong></p>
+<p><span style="font-weight: 400;">We’re a diverse team of experienced researchers and engineers scattered around the world working at the intersection of P2P networks and bleeding-edge Zero Knowledge technology. We’re building the next generation storage engine that attempts to “untie the knot” of incentivized storage. Our goal is to deliver a more advanced decentralized storage protocol that pushes the state of the art of decentralized storage solutions forward.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We’re looking for an experienced Distributed Testing Engineer with hands-on experience setting up, running and testing complex distributed network deployments; including but not limited to distributed databases, blockchains and p2p storage networks.</span></p>
+<p><a href="https://codex.storage/" target="_blank">https://codex.storage/</a></p>
+<p>&nbsp;</p>
+<p><strong>Key responsibilities</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Conduct tests and simulations around various peer-to-peer algorithms and protocols being developed</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Collect, analyze, and report on data and key insights from said experiments</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Discern scaling boundaries and failure modes of tested distributed systems in realistic environments</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Work with 3rd party vendors, tooling developers, and the broader community to establish best practices for testing the systems in question</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Document findings to be consumed by both stakeholders and the general community</span></li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>You ideally will have&nbsp;</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A strong background in testing distributed systems and their common failure modes</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A strong communication and documentation skills when explaining results and key findings</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The ability to identify and mitigate false assumptions or weaknesses within a set of experiments or tests</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience or familiarity with networking protocols and P2P systems</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience or familiarity with Rust and/or Nim</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience in Linux</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience or familiarity with Docker</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A strong alignment to our principles: </span><a href="https://status.im/about/#our-principles"><span style="font-weight: 400;">https://status.im/about/#our-principles</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Bonus points if&nbsp;</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have experience with Ansible, Terraform or other automated deployments platforms</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have worked with CI/CD tools like Jenkins, GitLab, AWS CodeDeploy</span></li>
+</ul>
+<p><em><span style="font-weight: 400;">[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter]</span></em></p>
+<p>&nbsp;</p>
+<p><strong>Hiring Process&nbsp;</strong></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with People Ops team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Codex team member</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Pair programming task w/ Codex team member</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Codex team member</span></li>
+</ol>
+<p>&nbsp;</p>
+<p><strong>Compensation</strong></p>
+<p>The expected compensation range for this role is $100,000 - $120,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process). We are happy to pay in any mix of fiat/crypto.</p>
+
+    
+
+    
 
                 </details>
                 </td>
