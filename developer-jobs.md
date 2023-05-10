@@ -1,5 +1,87 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/9434/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>aThemes</h5>
+                    <h3> WordPress Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/athemes-wordpress-developer-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0018/9434/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Bristol, UK
+    <br /><strong>URL:</strong> <a href="https://athemes.com">https://athemes.com</a>
+</p>
+
+<div>
+<br>We are aThemes and we make awesome WordPress themes and plugins. We are now looking for a talented full-stack WordPress developer to join our small but growing team and help us improve what we are already doing but also develop new products and launch them.</div><div>
+<br>The products you will be working on are <a href="https://wordpress.org/themes/botiga/">Botiga</a>, our free WooCommerce theme, as well as <a href="https://athemes.com/theme/botiga/#pro">Botiga Pro</a>, the plugin that extends the theme with advanced features.</div><div>
+<br>Our vision for Botiga, which already has 20k+ users, is for it to be the go-to WooCommerce solution for WordPress users.</div><div>
+<br>You will also be working on a new plugin we have in the pipeline, which will also be focussed on WooCommerce. The features will be similar to those in Botiga, but this plugin will work with any theme.</div><div>
+<br>This is a fully remote position, meaning you can work from anywhere. However, ideally your working hours should overlap at least a few hours per day with Central European Time (CET).<br><br>
+</div><div>
+<strong><br>Ideal Candidate<br></strong><br>
+</div><div>Our ideal candidate has worked at another WordPress product company like ours or has developed custom themes and plugins for clients.<br><br>
+</div><div><strong><br>What you will do:</strong></div><ul>
+<li>Help us deliver on our product roadmap by coding and testing new features</li>
+<li>Update themes/plugins with bug fixes and code improvements</li>
+<li>Develop new plugins</li>
+<li>Maintain and optimize <a href="http://athemes.com">athemes.com</a>
+</li>
+<li>Liaise with the support team to troubleshoot and solve issues</li>
+</ul><div><strong><br>Requirements</strong></div><ul>
+<li>2+ years professional experience and strong expertise in PHP/WordPress development</li>
+<li>Experience coding custom WordPress themes and plugins from scratch</li>
+<li>Expert level HTML, CSS (SCSS/SASS)</li>
+<li>Strong familiarity with JavaScript (vanilla and jQuery)</li>
+<li>Experience working with major plugins like WooCommerce and Elementor</li>
+<li>Strong familiarity and experience with Gutenberg, the block editor</li>
+<li>Experience using Git and GitHub</li>
+<li>A consistent coding style and passion for well-organized, clean code</li>
+<li>Ability to convert UI designs to functional, performant code</li>
+<li>Knowledge of Full Site Editing</li>
+</ul><div><strong><br>Nice to haves</strong></div><ul>
+<li>Published theme/plugin author (or contributor) on a major WordPress marketplace like the .org repo or Envato</li>
+<li>Experience with Gutenberg block development and React</li>
+</ul><div><strong><br>Benefits</strong></div><ul>
+<li>A salary of $35,000 – $55,000 USD, based on your experience and location.</li>
+<li>This is a full-time, 100% remote position. Work from wherever you want in the world.</li>
+<li>True flexibility. While we do ask for a few hours of overlap with CET each day, outside of that, you are free to work whenever suits you best.</li>
+<li>Massive autonomy. No one likes to be micro-managed, and we don't like to micro-manage anyone (if you need that kind of hand holding and direction, we're not going to be your cup of tea!). We hire people who are excited to own their work and we look to you to tell us the big levers in your role that'll make the most impact.</li>
+<li>Competitive compensation. Everyone on our team is an expert at what they do and we believe in paying people fairly for their contribution.</li>
+<li>Be part of a small team (you will be our fourth developer) trying to make a difference in the WordPress world.</li>
+</ul><div>
+<strong><br>About aThemes:<br></strong><br>
+</div><div>'The ‘a’ in aThemes stands for Awesome. That’s right — we don’t beat around the bush.<br><br>
+</div><div>We create well-designed and easy to use WordPress themes and plugins, backed by speedy support and frequent updates. We have 100k+ users from around the world and those numbers are growing.</div><div>
+<br>We've been in business since 2013, and profitable since day one. We are carving our own path in the WordPress world — no investor money, nor financial obligations to anyone but ourselves.</div><div>
+<br>With a flat structure, everyone on the team works closely with the CEO and each other. We don't believe things are set in stone. We want to find the best ideas and go big. We create the space and give our team the autonomy to do that.<br><br>
+</div><div>As a 100% remote company, distributed globally we don't mind where you work: from home, a co-working space, a coffee shop — wherever you feel the most inspired.<br><br>
+</div><div><strong><br>The Application Process:</strong></div><div>
+<br>It’s important we find the best candidate for this position, and our selection process will reflect this.</div><div>
+<br>If we think you are a good fit, you’ll be asked to carry out a paid trial task and be invited to at least one remote interview before we make you an offer.<br><br>
+</div><div>We’re fortunate to receive a large volume of applications, so be sure to make your application stand out. Please pay special attention to the main responsibilities of this role, make sure you meet the requirements and give us a good reason to select you!<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/athemes-wordpress-developer-2">https://weworkremotely.com/remote-jobs/athemes-wordpress-developer-2</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +92,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/r-o-m-logicware-gmbh-application-developer-c-qt-qml-fullstack-engineer-transforming-creative-writing" align="right" target="_blank">Apply</a>
@@ -72,7 +154,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/yoko-co-full-stack-web-developer-wordpress-more" align="right" target="_blank">Apply</a>
@@ -132,7 +214,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/portal-fantasy-game-developer" align="right" target="_blank">Apply</a>
@@ -175,96 +257,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/0730/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Merchstack</h5>
-                    <h3> Mid-Level React Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>8 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/merchstack-mid-level-react-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/0730/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Houston, TX
-    <br /><strong>URL:</strong> <a href="https://merchstack.io">https://merchstack.io</a>
-</p>
-
-<div>
-<br>Merchstack is hiring for a Frontend Software Engineer in Southeast Asia to help us build the future of commerce. Your primary focus will be owning the delivery of a new Storefront and a completely overhauled set of Operator Tools on behalf of one of our primary clients. Our client is one of the most significant and recognizable technology companies in the United States. We’re helping lead the development of their open source commerce platform, which has over 11k Github stars. This is a hands on role in a small team. The scale of the project and the level of direct responsibility should be a great growth opportunity for the right candidate.<br><br>
-</div><div><strong>Responsibilities</strong></div><div>Here is a list of the type of work that you’ll be spending the majority of your time on:<br><br>
-</div><ul>
-<li>Develop new user-facing features</li>
-<li>Build reusable code and libraries for future use</li>
-<li>Ensure the technical feasibility of UI/UX designs</li>
-<li>Optimize application for maximum speed and scalability</li>
-<li>Assure that all user input is validated before submitting to back-end</li>
-<li>Collaborate with other team members and stakeholders</li>
-<li>Write developer documentation</li>
-<li>Document best practices for how to extend our products</li>
-<li>Write blog posts about interesting ways to extend the products</li>
-</ul><div>
-<strong><br>About You<br></strong><br>
-</div><ul>
-<li>You have experience taking high quality projects from start to finish and are confident in your ability to deliver visible results in a remote environment with limited supervision.</li>
-<li>You enjoy reviewing and documenting code, pair programming, and get excited about improving tools and processes.</li>
-<li>You’re willing to put your project on hold to help a teammate via pairing or teaching concepts and patterns.</li>
-<li>You enjoy collaborating with designers, infrastructure engineers, and product owners.</li>
-<li>You have experience working with different JavaScript variants (e.g. ES6, Typescript, etc).</li>
-<li>You’re a proficient communicator and have excellent written and verbal English.</li>
-<li>You have a passion for Open Source, eCommerce, or both!</li>
-<li>You’re comfortable working remotely.</li>
-</ul><div>
-<br>We're flexible on all points above. They are less requirements than they are ideals. We're looking for the right person to work with, not to tick off checkboxes.<br><br>
-</div><div>
-<strong><br>About Our Stack<br></strong><br>
-</div><ul>
-<li>React, GraphQL, NextJS, NodeJS, Typescript</li>
-<li>Core HTML/CSS/Vanilla JS</li>
-<li>Git</li>
-</ul><div>
-<strong><br>Why work with us? 🚀<br></strong><br>
-</div><ul>
-<li>Ability to take real ownership of major parts of an open source commerce platform.</li>
-<li>Top caliber team with deep engineering, design, and product expertise.</li>
-<li>Work remotely within a distributed team environment.</li>
-<li>Unlimited PTO.</li>
-<li>Flexible working schedule.</li>
-</ul><div>
-<strong><br>About Merchstack<br></strong><br>
-</div><div>
-<br>Merchstack partners with companies on their journey to build, launch, and scale modern eCommerce stores. We work with market-leading technologies and our own internal products to help our customers achieve ambitious digital experiences and unlock new growth opportunities. We are a remote-only company with employees all over the world, including the Philippines, the United States, Canada, Spain, and the United Kingdom. We are a small team with big ambitions and value people who are driven towards delivery and thrive on autonomy and trust.<br><br>
-</div><div>
-<strong><br>Salary Range<br></strong><br>
-</div><div>
-<br>$40k to $60k US Dollars<br><br>
-</div><div>
-<strong><br>Position Type<br></strong><br>
-</div><div>
-<br>Full-time contract<br><br>
-</div><div>
-<strong><br>Location<br></strong><br>
-</div><div>
-<br>Prefer Southeast Asia but must overlap +/- 4 hours of GMT+8 every day<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/merchstack-mid-level-react-developer">https://weworkremotely.com/remote-jobs/merchstack-mid-level-react-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -275,7 +267,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-shopify-developer" align="right" target="_blank">Apply</a>
@@ -351,7 +343,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-wordpress-developer" align="right" target="_blank">Apply</a>
@@ -425,7 +417,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>36 days ago</text>
+                <text>37 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -508,7 +500,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>68 days ago</text>
+                <text>69 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -590,7 +582,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>74 days ago</text>
+                <text>75 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toggl-senior-frontend-developer" align="right" target="_blank">Apply</a>
@@ -659,7 +651,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>106 days ago</text>
+                <text>107 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-flutter-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -730,7 +722,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>125 days ago</text>
+                <text>126 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-laravel-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -793,201 +785,76 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0067/1147/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>OperateBeyond</h5>
-                    <h3> PHP Developer</h3>
+                    <h5>Proxify AB</h5>
+                    <h3> Senior Front-end Developer</h3>
                 </td>
                 <td width="300">
-                    <code>Full-Stack Programming</code>
+                    <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>575 days ago</text>
+                <text>240 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0067/1147/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
-  <strong>Headquarters:</strong> Michigan
-    <br /><strong>URL:</strong> <a href="http://operatebeyond.com/">http://operatebeyond.com/</a>
+  <strong>Headquarters:</strong> Sweden
+    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
 </p>
 
-<div><br></div><div>OperateBeyond is a fast growing technology company building web and mobile applications. We specialize in delivering top-notch user experiences paired with solid technology in non-auto vehicle software industry. Our successes come from our teamwork and mutual respect for each other’s talents and unique perspectives.<br><br>
-</div><div>
-<br>So when we say we are looking for a PHP Developer we do want want you to be an awesome back-end developer who’s dabbled with many different projects. We are looking for someone who can hold their own when when it comes to system integrations, databases, and even be interested in understanding more about user experience to help us shape amazing products.<br><br>
-</div><div>
-<strong><br>What you might do on any given day:<br></strong><br>
-</div><ul>
-<li>Work with a variety of technologies and platforms such as PHP, ZF2, ZF1, Laravel, ElasticSearch, MySQL, Vue.js, jQuery and many more technologies we may introduce<br><br>
-</li>
-<li>Collaborate with product managers and technical leads<br><br>
-</li>
-<li>Develop comprehensive use cases and test conditions<br><br>
-</li>
-<li>Take part in analysis efforts, identification, and recommendation of solutions, integration points and related implementation architecture for business usage improvements, scalability and performance.<br><br>
-</li>
-<li>Provide guidance in the form of code review, solution design, and recommended training and development plans.<br><br>
-</li>
-<li>Write unit tests, specs, integration tests, UI tests, and acceptance tests.<br><br>
-</li>
-<li>Advocate for new or improved development practices that increase craftsmanship, availability, resilience, and scalability of our solutions<br><br>
-</li>
+<div><br></div><div><strong>The Role:</strong></div><div>We are searching for a Senior Front-End Developer (Angular.js/React.js). You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
+<br><br>
+</div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
+<li>You have +3 years experience with React.js/Angular.js;</li>
+<li>You follow best practices and conventions;</li>
+<li>Relevant experience in CI/CD and related tools;</li>
+<li>Responsible and able to work with minimal supervision;</li>
+<li>Upper-intermediate English level;</li>
+<li>You can communicate well with both technical and non-technical clients.</li>
 </ul><div>
-<strong><br>We think you’ll enjoy working with our team if you:<br></strong><br>
+<strong><br>Nice-to-have:</strong> <br><br>
 </div><ul>
-<li>Bring a passion to stay on top of tech trends, experiment with and learn new technologies, participate in technology communities.<br><br>
-</li>
-<li>Can be flexible, agile, dependable, and responsive even when there are a lot of moving parts and prefer that over following rigid processes and guidelines.<br><br>
-</li>
-<li>Believe that good application development includes good testing, good documentation, and good collaboration.<br><br>
-</li>
-<li>Have great communication and reasoning skills, including the ability to make a strong case for technology choices while understanding other viewpoints and the need to find the best possible solution for everyone.<br><br>
-</li>
-<li>Have a positive yet practical attitude; You are willing to take on any task that might help take one of our products, or our company, a little further.<br><br>
-</li>
-</ul><div><br></div><div><br></div>
+<li>Timezone: CET (+/- 3 hours);</li>
+<li>Basic back-end knowledge for minor back-end jobs where necessary.</li>
+</ul><div>
+<strong><br>Responsibilities:<br></strong><br>
+</div><ul>
+<li>Build reusable code and libraries for future use;</li>
+<li>Ensure the technical feasibility of UI/UX designs;</li>
+<li>Transform visual designs and wireframes into working products;</li>
+<li>Accurate planning of the feature delivery;</li>
+<li>Collaborate with other team members and stakeholders</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong>What we offer:</strong>💻 <strong>100% remote work</strong>: Work from anywhere.👌🏻 <strong>Flexibility</strong>: The ability to change the project to another one.💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.🚀 <strong>360 degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
+<br><br>
+</div><div><strong>Your benefits with Proxify:</strong></div><ul>
+<li>
+<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
+<li>
+<strong>Make an impact</strong>: You get the opportunity to work on the projects that inspire you and add value to your career.</li>
+<li>
+<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
+<li>
+<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
+<li>
+<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
+</ul><div>
+<br><br>
+</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer">https://weworkremotely.com/remote-jobs/operatebeyond-php-developer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1674911/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Outliant</h5>
-                    <h3>Senior Java Web Toolkit Developer </h3>
-                </td>
-                <td width="300">
-                    <code>consulting,developer,git,java</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-java-web-toolkit-developer-1674911" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="min-height: 1.5em;">We’re looking to hire a full-time, remote <strong>Senior Java Web Toolkit Developer</strong>. For this role, your primary focus will be collaborating with a team of developers in creating and implementing software applications and components. You’ll have the opportunity to choose your hours and work and learn with a team of world-class engineers and designers, through a commitment to team collaboration, communication, and product quality.</p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>Seniority Level:</strong> Mid-Senior Level</p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>Responsibilities:</strong></p>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Design and develop software applications using <strong>Java and Web Toolkit</strong> framework</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Write code for software applications and perform code reviews to ensure that code meets coding standards and is maintainable</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Collaborate with cross-functional teams to ensure that software applications meet business requirements</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Create technical specifications and documentation for software applications</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Troubleshoot and debug software applications as needed to identify and resolve issues</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Test software applications to ensure that they meet quality standards and are free from defects</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Stay updated with industry best practices and trends</p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>Requirements:</strong></p>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Strong proficiency in <strong>Java</strong>, including experience with popular frameworks such as <strong>Spring, Hibernate, and Struts</strong></p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Experience with<strong> Web Toolkit (JWt)</strong> and the ability to develop complex browser-based applications using Java</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Proficiency with software development tools such as <strong>Git, JIRA, and Jenkins</strong></p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Strong communication and collaboration skills, including the ability to work with cross-functional teams</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Demonstrated leadership and decision-making abilities</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Strong problem-solving skills and the ability to think creatively to solve complex technical problems</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Excellent time management skills and the ability to handle multiple projects simultaneously</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">A commitment to continuous learning and professional development</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Ability to work during <strong>EST</strong> hours</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Full-time availability (40 hours/week)</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">A personal computer with stable internet</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Excellent English communication skills (B2 to C2 level)</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">English resume is a strict requirement</p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"><strong>About Us</strong></p>
-<p style="min-height: 1.5em;">Outliant is a fully-remote, US-based, digital product development and startup consulting company, with a team of culturally diverse creators whose exceptional skills and talents help conceive seamless digital products. Our teams exhibit work-play energy that supports individual growth, as well as encourages the freedom of creativity and “thinking outside the box.”</p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>Why You Should Work with Us</strong></p>
-<p style="min-height: 1.5em;">As a full-time member of our team, you’ll enjoy:</p>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Flexible hours - work whenever you choose</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Work from home</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Unlimited PTO</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Non-working holidays per country of residence</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">13th-month bonus</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Salary increases</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Financial support for online courses</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Fun and casual work environment</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Employee engagement activities and virtual gatherings</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">We are a very diverse bunch! 🌍</p>
-</li>
-</ul>
-<img src="https://remotive.com/job/track/1674911/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1002,7 +869,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -1079,7 +946,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -1216,7 +1083,7 @@
                     <code>azure,cloud,developer,django</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -1281,7 +1148,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1358,7 +1225,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1502,7 +1369,7 @@
                     <code>CSS,developer,docker,blockchain</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/web-developer-1667108" align="right" target="_blank">Apply</a>
@@ -1542,6 +1409,7 @@
 <li style="">Compensation for work equipment.</li>
 <li style="">Annual team building event at an international resort.</li>
 </ul>
+<p><br><a href="https://docs.google.com/document/d/1irpAIUmYq8XiZ3x9HWDWg9_70dA_L176pKK8hBlbI1Y/edit?usp=sharing" rel="nofollow" target="_blank">Candidate Privacy Notice</a></p>
 <img src="https://remotive.com/job/track/1667108/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
@@ -1557,7 +1425,7 @@
                     <code>developer,seo,social media,ai</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-ai-application-developer-cohort-4-1665505" align="right" target="_blank">Apply</a>
@@ -1597,7 +1465,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -2544,6 +2412,126 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div>We at Collabora are looking for Fullstack Web Application Developers to join our in-house Tools team.</div><div><br></div><div>The  Tools team develops and supports applications used by our colleagues to  execute, analyse and inform the delivery of projects in every area of  the business. We want to build the future of business automation in the free software domain.</div><div><br></div><div>As  a Senior Fullstack Developer you will be working closely with other  Tools Developers, users, Product Owners, the Delivery Team and People Leads to give them the tooling they need to support and protect the  unique way in which Collabora works.</div><div><br></div><div>You  will need to be a specialist in building secure, well-tested web  applications using Django, make sensible choices about UI and know how  to get things deployed.</div><div><br></div><div>You'll  be able to capture, simplify and model real-world processes and  structures, and keep those models updated as requirements evolve.</div><div><br></div><div>You will know how to reverse engineer and fix things you haven't seen before, and you will know how to make slow things go fast.</div></div><div class="section page-centered"><div><h3>You will be patient and pragmatic, careful and caring, and will take seriously the team's mission to maximise:</h3><ul class="posting-requirements plain-list"><ul><li>Engineers' freedom to work on things at which they are *excellent*</li><li>Our colleagues' headspace for personal development and learning</li><li>The role of open source in all business operations</li><li>The richness of everybody's cultural experience within Collabora</li></ul></ul></div></div><div class="section page-centered"><div><h3>In return, the business will provide:</h3><ul class="posting-requirements plain-list"><ul><li>An open engineering culture where you will be able to exchange ideas with technical experts in a wide range of software fields</li><li>Meetups and conference attendance (COVID permitting)</li><li>Flexible hours and a battle-tested remote working culture</li><div><br></div><div>If you care about open source and writing software to help companies regain control of their operations, then please apply!</div></ul></ul></div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li>Strong Python, Django, SQL, JavaScript, HTML, CSS</li><li>Experience designing and implementing web architectures, and configuring their components (e.g. NGinx, Redis)</li><li>Willingness to support and mentor other engineers</li><li>Experience solving challenges with observability and diagnostics</li><li>A respectful and pragmatic approach to providing technical support to users</li><li>A solid grounding in Linux system administration and networking concepts</li><li>Good English proficiency</li><li>Familiarity with container-based working, e.g. Docker or Podman, Kubernetes</li><li>Experience using, maintaining and designing CI and other DevOps processes</li><li>Experience with database schema design and optimisation</li><li>Willingness to occasionally do some PHP even if through gritted teeth</li><li>Demonstrable technical writing skills (documentation, blogs)</li><li>Knowledge of security- and privacy-by-design principles</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><b>About Collabora</b></div><div><br></div><div>Collabora  is a software consultancy specializing in bringing companies and the  Open Source community together. We combine years of Open Source software  leadership with an understanding of the challenges that businesses,  non-profits, and governments face.</div><div><br></div><div>Collabora  brings deep technical expertise in system integration &amp;  architecture, graphics, multimedia, web engines and communications to a  number of market verticals, including mobile, IVI/automotive, set top  box/smart TV, and a range of other specialized embedded applications.</div><div><br></div><div>Collabora  has the unique business model of enabling enterprises to leverage Open  Source software in their solutions. Having worked with notable industry  leading companies in the automotive, aerospace and handset mobile  verticals amongst many others, Collabora has established a broad customer portfolio.</div><div><br></div><div>#LI-Remote</div><div><br></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/d724930d-ce73-4415-ac7e-a3ef275db155/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Kernel Developer for KernelCare - REMOTE/Work Anywhere</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/F785D5B595" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>We are looking for<strong> Kernel Developers</strong> to work on our KernelCare team. The ideal candidate is someone looking for a rewarding and challenging career developing Linux Kernels and patches. This role requires someone with strong C development skills and a passion for all that is Linux. Our Kernel Developers create patches with a cyber security focus while finding solutions for our customers. </p> <p><br></p> <p>KernelCare is a product of CloudLinux Inc., the maker of the #1 OS in security and stability for hosting providers. KernelCare, a live kernel patching service provides security patches and bug fixes for a range of popular Linux kernels that can be installed without rebooting the system.  Check out our website for more information about our KernelCare Product <a href="https://tuxcare.com/live-patching-services/" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com/live-patching-services/</a></p><p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and  we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful. </p><p>We are truly a great place to work. </p> <p><strong>As our Kernel Developer you will be responsible for:</strong></p><ul> <li>Support existing functionality and implementation of several new features</li> <li>Update existing kernels including security fixes and CVEs patches</li> <li>Develop and support Python and Bash scripts for task automation</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role you should have:</strong></p><ul> <li>Excellent C programming and debugging skills</li> <li>Good level knowledge of Linux kernel core subsystems</li> <li>CPU and cache architectures</li> <li>Experience with GDB and other debuggers</li> <li>CPU performance and power analysis</li> <li>Independent and self-motivated problem solver and strategic thinker</li> <li>Proficient in Git for development and patch/branch management</li> <li>Good planning, time management, decision-making, presentation, and organization skills</li> <li>Effective written and verbal communication</li> <li>Excellent interpersonal and teamwork skills</li> <li>Happy in an agile, fast-paced environment</li> </ul><ul> <li>Experience with python, shell scripting</li> <li>Experience with Jenkins</li> </ul><h3>Benefits: </h3><p>What's in it for you?<br></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> </ul> <ul><li>Interesting and challenging projects</li></ul> </li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>C Developer for CloudLinux - REMOTE/Work Anywhere</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/8FAA3B3FED" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>We are looking to hire (3) C Developers, who will be part of our Imunify360 team.</p><p>Imunify360 Security Suite is a product of CloudLinux Inc., the maker of the #1 OS in security and stability for hosting providers. Imunify is an innovative security solution designed specifically for shared and VPS/Dedicated servers. The automated, easy-to-use solution with the six-layer approach to security delivers comprehensive and complete attack prevention. In this position you will work and contribute to major, open source projects like Apache HTTPD, OpenSSL, MySQL. You will also backport security fixed to stable, maintaining versions of those projects.</p><p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and  we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure everyone is successful. We are truly a great place to work.</p> <p>For more details about our company go to <a href="http://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">Cloudlinux.com</a>.</p> <p><strong>As our C Developer you will be responsible for:</strong></p><ul> <li>Work on implementing security modules for various Linux software (apache, nginx, PHP, dovecot, pam)</li> <li>Optimizing algorithms used in existing code to reduce overhead</li> <li>Cover your code with unit and functional tests</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role you should have:</strong></p><ul> <li>5+ years of С programming experience</li> <li>GNU/Linux operating system and shell scripting experience</li> <li>Ability to work with various build systems like autotools, make and cmake</li> <li>Experience with git-based development processes</li> <li>Experience in debugging(mostly gdb and command line)</li> <li>Experience in the development of web-server modules: Nginx , Apache/OpenLiteSpeed and understanding of the web-server architecture and workflow will be a plus</li> <li>Golang language knowledge will be a plus</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> </li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p><br></p><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Senior Python Developer for Imunify - REMOTE/Work Anywhere</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/3CAE9AC6C3" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and  we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure everyone is successful. We are truly a great place to work. For more details about our company go to <a href="http://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">Cloudlinux.com</a>.</p><p>Imunify Security is an innovative security solution, powered by Artificial Intelligence for Linux web servers. It is designed specifically for shared and VPS/Dedicated servers. The automated, easy-to-use security solution with the six-layer approach to security delivers comprehensive and complete attack prevention.</p><p>Work is fully remote, so you can work from anywhere. </p><p>More details about the project you can find on the product website <a href="http://imunify360.com/" rel="nofollow noreferrer noopener" class="external">Imunify360.com</a>, and about the company on <a href="https://www.cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">Cloudlinux.com</a>.</p><p>Join us to make a difference!</p><p><strong>What you will do:</strong></p><ul> <li>Be involved in the development of Imunify360 products using Python. </li> <li>Cover your code with unit tests and/or functional tests.</li> <li>Review of code written by your colleagues using Gerrit.</li> <li>Architecture development and writing technical documentation for new features.</li> <li>Investigating issues reported by our clients, partners, or support team.</li> </ul><h3>Requirements: </h3><p><strong>Qualifications that we are looking for:</strong></p><ul> <li>3+ years of Python programming experience.</li> <li>Experience in system programming: sockets, filesystem, process management</li> <li>Experience with Linux servers administration is a huge plus</li> <li>Experience with network security is a plus</li> <li>Experience with automated testing and CI/CD systems is a plus</li> <li>Knowledge about rpm/deb package management is a plus</li> <li>Intermediate level of English language.</li> </ul><p><strong>Personal skills:</strong></p><ul> <li>Fast-learning, proactivity.</li> <li>Strong self-motivation, driven to achieve committed milestones.</li> <li>Strong prioritization skills and a flexible mindset </li> <li>The ability to independently analyze a task and find the right solution.</li> <li>The ability to work with vague requirements and making independent decisions</li> <li>The ability to work in a team.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> </li> <li>Flexible working hours</li> <li>Paid 24 days of vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>C Developer for Imunify - REMOTE/Work Anywhere</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/50A1FDB0BF" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>We are looking to hire a C Developer, who will be part of our Imunify360 team.</p><p>Imunify360 Security Suite is a product of CloudLinux Inc., the maker of the #1 OS in security and stability for hosting providers. Imunify is an innovative security solution designed specifically for shared and VPS/Dedicated servers. The automated, easy-to-use solution with the six-layer approach to security delivers comprehensive and complete attack prevention. In this position, you will work and contribute to major, open-source projects like Apache HTTPD, OpenSSL, and MySQL. You will also backport security fixed to stable, maintaining versions of those projects.</p><p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and  we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure everyone is successful. We are truly a great place to work.</p> <p>For more details about our company go to <a href="http://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">Cloudlinux.com</a>.</p> <p><strong>As our C Developer, you will be responsible for:</strong></p><ul> <li>Designing and implementing  security modules for various Linux software (Apache, Nginx, PHP, dovecot, Pam)</li> <li>Optimizing algorithms used in existing code to reduce overhead</li> <li>Cover your code with unit and functional tests</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role you should have:</strong></p><ul> <li>5+ years of С programming experience</li> <li>GNU/Linux operating system administration and shell scripting experience</li> <li>Ability to work with various build systems like Autotools, make and cmake</li> <li>Experience with git-based development processes</li> <li>Experience in debugging (mostly gdb and command line)</li> <li>Experience in zend php extension development will be a plus</li> <li>Experience in the development of web-server modules: Nginx , Apache/OpenLiteSpeed and understanding of the web-server architecture and workflow will be a plus</li> <li>Golang language knowledge will be a plus</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> </li> <li>Flexible working hours</li> <li>Paid 24 days of vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Automation Developer for Education Services Team - REMOTE/ Work Anywhere</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/CDB587AED2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>We are seeking an experienced, detail-oriented, and self-paced programmer to join our Education Services team. The ideal candidate is someone who has experience and passion for Linux and a basic knowledge of a wide range of programming languages and frameworks to help automate the manual procedures and reporting, as well as creating and maintaining in-house projects.</p><p>The Education Services Team works on customer training and learning opportunities to drive product usage and engagement, leading to increased customer adoption of our products.</p><p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure everyone is successful. We are truly a great place to work.</p><p>For more information, go to <a href="https://www.cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">cloudlinux.com</a></p><p><br></p><p><a href="https://www.cloudlinux.com/" rel="nofollow noreferrer noopener" class="external"></a></p> <p><strong>As our Developer/Coder, you will be responsible for:</strong></p><ul> <li>Collaborating with Education Services Managers to determine objectives</li> <li>Writing codes that support these objectives and provide optimal functionality</li> <li>Supporting and administering a ticketing system</li> <li>Collaborating in cross-functional projects</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role you should have:</strong></p><ul> <li>Experience and passion for Linux</li> <li>Basic knowledge of a wide range of programming languages and frameworks (Python and JavaScript are preferable)</li> <li>Understanding of databases management</li> <li>Experience in ticketing system administration and development would be a plus (if not, being ready to get such an experience)</li> <li>Ability to quickly analyze the needs and gaps and adapt your skills or get new skills accordingly</li> <li>Ability to work well with culturally diverse teams</li> <li>Proven ability to communicate well with peers and all levels of management</li> <li>Intermediate (and higher) English level</li> <li>Team player but also able to work independently using your initiative</li> <li>Happy in an agile, fast-paced environment</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> </li> <li>Flexible working hours</li> <li>Paid 24 days of vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>GitHub copilot and ChatGPT Plus</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em>
                 </details>
                 </td>
             </tr></table>
