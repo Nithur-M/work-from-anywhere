@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/frost-full-stack-engineer" align="right" target="_blank">Apply</a>
@@ -26,16 +26,32 @@
     <br /><strong>URL:</strong> <a href="https://www.frostshipping.com/">https://www.frostshipping.com/</a>
 </p>
 
-<h1>Full Stack Engineer for a Logistics SaaS Startup</h1><div>
+<h1>Full-Stack Engineer (Pseudonymous OK)</h1><div>
 <strong><br>Company Overview<br></strong><br>
 </div><div>
-<br>We are a San Francisco Bay Area-based startup founded in August of last year, focused on revolutionizing the logistics industry in the United States. As a pre-seed round company with a small team consisting of our CEO and CTO, we are dedicated to optimizing eCommerce deliveries through our innovative Software as a Service (SaaS) platform. Our primary goal is to eliminate damages caused by delays in the delivery of perishable and refrigerated goods, particularly in the cold chain sector.<br><br>
-</div><div>
-<strong><br>Job Description<br></strong><br>
-</div><div>
-<strong><br>Full-stack engineer (Pseudonymous OK)<br></strong><br>
-</div><div>
+<br>We are Frost (<a href="https://www.frostshipping.com/">https://www.frostshipping.com/</a>), a San Francisco Bay Area-based startup founded in August of last year, focused on revolutionizing the logistics industry in the United States. As a pre-seed round company with a small team consisting of our CEO and CTO, we are dedicated to optimizing eCommerce deliveries through our innovative Software as a Service (SaaS) platform. Our primary goal is to eliminate damages caused by delays in the delivery of perishable and refrigerated goods, particularly in the cold chain sector.<br><br>
+</div><h1>Job Description</h1><div>
 <br>We are looking for a talented and passionate Full-stack Engineer to join our growing team and help us shape the future of the logistics industry.<br><br>
+</div><ul>
+<li>Job: Full-stack engineer</li>
+<li>Identity: Your choice of pseudonymous or real</li>
+<li>Location: Remote</li>
+<li>Commitment: Part-time</li>
+<li>Start: ASAP</li>
+</ul><div>
+<strong><br>How We Work<br></strong><br>
+</div><div>
+<br>We welcome working with pseudonymity, as it minimizes the risk of new challenges by not exposing real identities, even while you’re working a full-time job.<br><br>
+</div><div>
+<br>So, you have options:<br><br>
+</div><ul>
+<li>You could use a pseudonym.</li>
+<li>You could use an avatar and voice-changer for meetings.</li>
+<li>You do not need to reveal your real identity.</li>
+</ul><div>
+<br>We use Noxx for contracting and payment, so you can work without the risk of revealing your identity to us.<br><br>
+</div><div>
+<br>Noxx: <a href="https://www.noxx.xyz/">https://www.noxx.xyz/<br></a><br>
 </div><div>
 <strong><br>Required Skills &amp; Qualifications<br></strong><br>
 </div><ul>
@@ -65,7 +81,15 @@
 <li>Knowledge of the American logistics industry</li>
 <li>Experience in developing B2B SaaS products</li>
 <li>Prior experience working in an early-stage startup environment</li>
-</ul><div><br></div>
+</ul><div>
+<strong><br>How to apply<br></strong><br>
+</div><ul>
+<li>Complete <a href="https://7giy4qjmxy0.typeform.com/to/woVFqmqK">this form.</a>
+</li>
+<li>Please don’t send us your cv, LinkedIn, or GitHub with your real name if you apply pseudonymously.</li>
+</ul><div>
+<br>Yusuke &amp; Yuya<br><br>
+</div><div><br></div>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/frost-full-stack-engineer">https://weworkremotely.com/remote-jobs/frost-full-stack-engineer</a></p>
 
