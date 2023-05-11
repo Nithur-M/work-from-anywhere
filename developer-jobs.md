@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/athemes-wordpress-developer-2" align="right" target="_blank">Apply</a>
@@ -92,7 +92,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/r-o-m-logicware-gmbh-application-developer-c-qt-qml-fullstack-engineer-transforming-creative-writing" align="right" target="_blank">Apply</a>
@@ -214,7 +214,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/portal-fantasy-game-developer" align="right" target="_blank">Apply</a>
@@ -417,7 +417,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>37 days ago</text>
+                <text>38 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -500,7 +500,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>69 days ago</text>
+                <text>70 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -582,7 +582,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>75 days ago</text>
+                <text>76 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toggl-senior-frontend-developer" align="right" target="_blank">Apply</a>
@@ -722,7 +722,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>126 days ago</text>
+                <text>127 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-laravel-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -795,7 +795,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>240 days ago</text>
+                <text>241 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -859,6 +859,55 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1677793/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Integritas Solutions</h5>
+                    <h3>Node Developer (English Speaking)</h3>
+                </td>
+                <td width="300">
+                    <code>api,developer,git,javascript</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/node-developer-english-speaking-1677793" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Location: </strong>LATAM; 100% Remote</p>
+<p><strong>Type:</strong> Full time hours, Long term contract</p>
+<p><strong>About Integritas:</strong></p>
+<p>Integritas Solutions has been providing sound technology solutions for our clients for over 14 years. We work with a broad base of industries, which allows us to offer expertise in many different domains, technology stacks, and integrations. We design, develop, and support a wide range of products for our clients, including mobile and web-based application design, development, solution architecture, and quality assurance, to promote scalable products that solve the business needs of our clients.</p>
+<p><strong>General Description:</strong></p>
+<p>We are looking for a Node Developer who loves programming. You should have experience building scalable web applications and be well versed in Javascript Development. The ideal candidate will have relevant work experience and a career path of proven success working within a collaborative web team as well as having individual contributor experience.</p>
+<p><strong><em>You must be able to clearly communicate in English with the team and clients.</em></strong></p>
+<p><strong>To be successful you need:</strong></p>
+<ul style="">
+<li style="">4+ years of Node/Javascript software development experience. </li>
+<li style="">Solid experience with Javascript and experience with front end development is a PLUS</li>
+<li style="">Strong knowledge of Node.js using Express, Async, Lodash, Socket, etc.</li>
+<li style="">Knowledgeable in restful web services</li>
+<li style="">Familiarity with a variety of architectural patterns (MVC, ORM, etc .), frameworks and libraries</li>
+<li style="">Basic understanding of front-end technologies, such as HTML5, and CSS3</li>
+<li style="">Experience with MongoDB or other NoSQL database</li>
+<li style="">Solid Restful API development experience</li>
+<li style="">Building reusable components and server side libraries for future use</li>
+<li style="">Working knowledge of Git, SVN or similar code version tools</li>
+<li style="">If you have experience working with a globally distributed, cross functional teams, that is a PLUS</li>
+<li style="">Writes documentation supporting the implementation of the solution</li>
+<li style="">Must be comfortable working in a collaborative environment</li>
+</ul>
+<p>If this job description looks exciting to you, please apply with a resume in English!</p>
+<p> </p>
+<img src="https://remotive.com/job/track/1677793/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1383531/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -869,7 +918,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -946,7 +995,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -1083,7 +1132,7 @@
                     <code>azure,cloud,developer,django</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -1148,7 +1197,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1225,7 +1274,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1369,7 +1418,7 @@
                     <code>CSS,developer,docker,blockchain</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/web-developer-1667108" align="right" target="_blank">Apply</a>
@@ -1465,7 +1514,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -1720,7 +1769,7 @@
 <p><strong>🎉 Final Interview Stage </strong><span style="font-weight: 400;">- we move you to our final round, where you meet cross-functional partners and gain a better understanding of our business and values holistically…</span></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#values-interview"><span style="font-weight: 400;">Values Interview</span></a></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[Time] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#leadership-interview"><span style="font-weight: 400;">Leadership Interview</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#leadership-interview"><span style="font-weight: 400;">Leadership Interview</span></a><span style="font-weight: 400;">&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">We check references and conduct your background check</span></li>
 </ul>
 <p><span style="font-weight: 400;">Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.</span></p>
@@ -2412,30 +2461,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div>We at Collabora are looking for Fullstack Web Application Developers to join our in-house Tools team.</div><div><br></div><div>The  Tools team develops and supports applications used by our colleagues to  execute, analyse and inform the delivery of projects in every area of  the business. We want to build the future of business automation in the free software domain.</div><div><br></div><div>As  a Senior Fullstack Developer you will be working closely with other  Tools Developers, users, Product Owners, the Delivery Team and People Leads to give them the tooling they need to support and protect the  unique way in which Collabora works.</div><div><br></div><div>You  will need to be a specialist in building secure, well-tested web  applications using Django, make sensible choices about UI and know how  to get things deployed.</div><div><br></div><div>You'll  be able to capture, simplify and model real-world processes and  structures, and keep those models updated as requirements evolve.</div><div><br></div><div>You will know how to reverse engineer and fix things you haven't seen before, and you will know how to make slow things go fast.</div></div><div class="section page-centered"><div><h3>You will be patient and pragmatic, careful and caring, and will take seriously the team's mission to maximise:</h3><ul class="posting-requirements plain-list"><ul><li>Engineers' freedom to work on things at which they are *excellent*</li><li>Our colleagues' headspace for personal development and learning</li><li>The role of open source in all business operations</li><li>The richness of everybody's cultural experience within Collabora</li></ul></ul></div></div><div class="section page-centered"><div><h3>In return, the business will provide:</h3><ul class="posting-requirements plain-list"><ul><li>An open engineering culture where you will be able to exchange ideas with technical experts in a wide range of software fields</li><li>Meetups and conference attendance (COVID permitting)</li><li>Flexible hours and a battle-tested remote working culture</li><div><br></div><div>If you care about open source and writing software to help companies regain control of their operations, then please apply!</div></ul></ul></div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li>Strong Python, Django, SQL, JavaScript, HTML, CSS</li><li>Experience designing and implementing web architectures, and configuring their components (e.g. NGinx, Redis)</li><li>Willingness to support and mentor other engineers</li><li>Experience solving challenges with observability and diagnostics</li><li>A respectful and pragmatic approach to providing technical support to users</li><li>A solid grounding in Linux system administration and networking concepts</li><li>Good English proficiency</li><li>Familiarity with container-based working, e.g. Docker or Podman, Kubernetes</li><li>Experience using, maintaining and designing CI and other DevOps processes</li><li>Experience with database schema design and optimisation</li><li>Willingness to occasionally do some PHP even if through gritted teeth</li><li>Demonstrable technical writing skills (documentation, blogs)</li><li>Knowledge of security- and privacy-by-design principles</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><b>About Collabora</b></div><div><br></div><div>Collabora  is a software consultancy specializing in bringing companies and the  Open Source community together. We combine years of Open Source software  leadership with an understanding of the challenges that businesses,  non-profits, and governments face.</div><div><br></div><div>Collabora  brings deep technical expertise in system integration &amp;  architecture, graphics, multimedia, web engines and communications to a  number of market verticals, including mobile, IVI/automotive, set top  box/smart TV, and a range of other specialized embedded applications.</div><div><br></div><div>Collabora  has the unique business model of enabling enterprises to leverage Open  Source software in their solutions. Having worked with notable industry  leading companies in the automotive, aerospace and handset mobile  verticals amongst many others, Collabora has established a broad customer portfolio.</div><div><br></div><div>#LI-Remote</div><div><br></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/d724930d-ce73-4415-ac7e-a3ef275db155/apply">Apply for this job</a></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Kernel Developer for KernelCare - REMOTE/Work Anywhere</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/F785D5B595" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We are looking for<strong> Kernel Developers</strong> to work on our KernelCare team. The ideal candidate is someone looking for a rewarding and challenging career developing Linux Kernels and patches. This role requires someone with strong C development skills and a passion for all that is Linux. Our Kernel Developers create patches with a cyber security focus while finding solutions for our customers. </p> <p><br></p> <p>KernelCare is a product of CloudLinux Inc., the maker of the #1 OS in security and stability for hosting providers. KernelCare, a live kernel patching service provides security patches and bug fixes for a range of popular Linux kernels that can be installed without rebooting the system.  Check out our website for more information about our KernelCare Product <a href="https://tuxcare.com/live-patching-services/" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com/live-patching-services/</a></p><p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and  we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful. </p><p>We are truly a great place to work. </p> <p><strong>As our Kernel Developer you will be responsible for:</strong></p><ul> <li>Support existing functionality and implementation of several new features</li> <li>Update existing kernels including security fixes and CVEs patches</li> <li>Develop and support Python and Bash scripts for task automation</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role you should have:</strong></p><ul> <li>Excellent C programming and debugging skills</li> <li>Good level knowledge of Linux kernel core subsystems</li> <li>CPU and cache architectures</li> <li>Experience with GDB and other debuggers</li> <li>CPU performance and power analysis</li> <li>Independent and self-motivated problem solver and strategic thinker</li> <li>Proficient in Git for development and patch/branch management</li> <li>Good planning, time management, decision-making, presentation, and organization skills</li> <li>Effective written and verbal communication</li> <li>Excellent interpersonal and teamwork skills</li> <li>Happy in an agile, fast-paced environment</li> </ul><ul> <li>Experience with python, shell scripting</li> <li>Experience with Jenkins</li> </ul><h3>Benefits: </h3><p>What's in it for you?<br></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> </ul> <ul><li>Interesting and challenging projects</li></ul> </li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
                 </details>
                 </td>
             </tr>,<tr>
