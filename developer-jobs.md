@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/athemes-wordpress-developer-2" align="right" target="_blank">Apply</a>
@@ -92,7 +92,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/r-o-m-logicware-gmbh-application-developer-c-qt-qml-fullstack-engineer-transforming-creative-writing" align="right" target="_blank">Apply</a>
@@ -154,7 +154,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/yoko-co-full-stack-web-developer-wordpress-more" align="right" target="_blank">Apply</a>
@@ -214,7 +214,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/portal-fantasy-game-developer" align="right" target="_blank">Apply</a>
@@ -261,89 +261,13 @@
                 </td>
                 <td width="300">
                     <h5>Proxify AB</h5>
-                    <h3> Senior Shopify Developer</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>35 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-shopify-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div>
-<strong>The Role:<br></strong><br>
-</div><div>We are searching for a Senior Shopify Developer. You can be a perfect candidate if you are growth-oriented, take pleasure in your work, and enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features.</div><div><br></div><div><strong>What we are looking for:</strong></div><ul>
-<li>You have broad shop construction, launch, and maintenance expertise, as well as a general understanding of the admin system.</li>
-<li>You have proven skills in HTML5, CSS3, and JavaScript, as well as a thorough grasp of the DOM.</li>
-<li>You possess previous experience working with a custom theme and/or the Storefront API.</li>
-<li>You own working knowledge of Shopify's theming system and Liquid templating;</li>
-<li>You had previous experience implementing/debugging third-party Shopify apps, as well as building unique solutions if needed.</li>
-<li>You have in-depth knowledge and expertise with Vanilla.JS, jQuery, ES2015/ES6, and current JavaScript frameworks.</li>
-<li>You have a working knowledge of Shopify's object/properties, AJAX API, and Meta fields.</li>
-<li>You possess extensive testing and debugging abilities using the browser console and other tools.</li>
-<li>You had prior experience developing responsive layouts for desktop, tablet, and mobile devices;</li>
-<li>You have working knowledge of third-party services and APIs, as well as Shopify Apps.</li>
-<li>You are capable of communicating effectively and providing proactive feedback.</li>
-</ul><div>
-<strong><br>Nice-to-have:</strong> <br><br>
-</div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Knowledge of TypeScript.</li>
-</ul><div>
-<strong><br>Responsibilities:<br></strong><br>
-</div><ul>
-<li>Create an engaging and knowledgeable online Shopify store to increase sales and revenue;</li>
-<li>Create bespoke Shopify themes and change pre-existing templates per predefined brand guidelines;</li>
-<li>Be an expert in all aspects of the e-commerce platform;</li>
-<li>Work with the UX and UI Design Teams to create unique, strong, and inventive front-end user experiences;</li>
-<li>Ensure a smooth connection with Marketing Tools, Platform APIs, and Shopify Apps to optimize the shop for overall efficiency and functionality;</li>
-<li>Test and debug websites regularly to improve performance;</li>
-<li>Provide technical support and coordination, protecting enterprises against failure;</li>
-<li>Increase conversion rates by optimizing your website.</li>
-</ul><div><br></div><div>
-<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div><br></div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on the projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-shopify-developer">https://weworkremotely.com/remote-jobs/proxify-ab-senior-shopify-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify AB</h5>
                     <h3> Senior Wordpress Developer</h3>
                 </td>
                 <td width="300">
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>35 days ago</text>
+                <text>37 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-wordpress-developer" align="right" target="_blank">Apply</a>
@@ -417,7 +341,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>38 days ago</text>
+                <text>39 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -493,88 +417,6 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior Ruby on Rails Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>70 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div><strong>The Role:</strong></div><div>
-<br>We are searching for a Senior Ruby on Rails Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
-<br><br>
-</div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
-<li>You have +3 years of experience with Ruby on Rails;</li>
-<li>You have experience working with the libraries like Resque and RSpec;</li>
-<li>You are able to write clean Ruby code;</li>
-<li>You have proficiency with code versioning tools including Git, Github, SVN, and Mercurial;</li>
-<li>You got experience with Angular or ReactJS;</li>
-<li>You are familiar with MVC, Mocking, RESTful, and ORM;</li>
-<li>You have a good understanding of front-end technologies including HTML5, JavaScript, and CSS3;</li>
-<li>You possess knowledge of server-side templating languages including Slim and Liquid;</li>
-<li>You got familiar with testing tools.</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>Nice-to-have:</strong> <br><br>
-</div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Knowledge of TypeScript.</li>
-</ul><div><br></div><div>
-<strong>Responsibilities:<br></strong><br>
-</div><ul>
-<li>Designing and developing new web applications;</li>
-<li>Maintaining and troubleshooting existing web applications;</li>
-<li>Writing and maintaining reliable Ruby code;</li>
-<li>Integrating data storage solutions;</li>
-<li>Creating back-end components;</li>
-<li>Identifying and fixing bottlenecks and bugs;</li>
-<li>Integrating user-facing elements designed by the front-end team;</li>
-<li>Connecting applications with additional web servers;</li>
-<li>Maintaining the APIs.</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
-<br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of the Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
                     <h5>Toggl</h5>
                     <h3> Senior Frontend Developer</h3>
                 </td>
@@ -582,7 +424,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>76 days ago</text>
+                <text>77 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toggl-senior-frontend-developer" align="right" target="_blank">Apply</a>
@@ -645,84 +487,13 @@
                 </td>
                 <td width="300">
                     <h5>Proxify AB</h5>
-                    <h3> Senior Flutter Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>107 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-flutter-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div><strong>The Role:</strong></div><div>
-<br>We are searching for a Senior Flutter Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
-<br><br>
-</div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
-<li>You have +3 years of experience using Flutter for Android/iOS applications and deployment on Google Play/App Store;</li>
-<li>You possess an in-depth understanding of front-end languages like HTML, CSS3, and JavaScript.</li>
-<li>You have an extensive understanding of Object Oriented programming languages like Java and C++;</li>
-<li>You are familiar with the usage of version control tools like Git, Subversion, etc. and IDEs like Android Studio, VS Code, etc.;</li>
-<li>​​You follow best practices and conventions;</li>
-<li>Responsible and able to work with minimal supervision;</li>
-<li>Upper-intermediate English level;</li>
-<li>You can communicate well with both technical and non-technical clients.</li>
-</ul><div>
-<strong><br>Nice-to-have:</strong> <br><br>
-</div><ul><li>Timezone: CET (+/- 3 hours)</li></ul><div><br></div><div>
-<strong>Responsibilities:<br></strong><br>
-</div><ul>
-<li>You will be building and shipping robust apps to Android/ iOS devices (using a single codebase);</li>
-<li>​​You will be running and designing product application features across various cross-platform devices;</li>
-<li>You will be writing readable and clear code that will be extensively documented for future use and upgrades;</li>
-<li>You will be sharing feedback and brainstorming ideas with teams to improve the development process;</li>
-<li>Stay up to date with the latest technologies.</li>
-</ul><div><br></div><div>
-<strong>What we offer:<br></strong><br>
-</div><div>💻 <strong>100% remote work</strong>: Work from anywhere.<br><br>
-</div><div>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br><br>
-</div><div>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br><br>
-</div><div>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br><br>
-</div><div>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.<br><br>
-</div><div>
-<br><br><strong>Your benefits with Proxify:<br></strong><br>
-</div><div>
-<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference.<br><br>
-</div><div> <strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.<br><br>
-</div><div> <strong>Transparency</strong>: Contracts with transparency in earnings and working hours.<br><br>
-</div><div> <strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.<br><br>
-</div><div> <strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-flutter-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-flutter-developer-long-term-job-100-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify AB</h5>
                     <h3> Senior Laravel Developer</h3>
                 </td>
                 <td width="300">
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>127 days ago</text>
+                <text>128 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-laravel-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -795,7 +566,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>241 days ago</text>
+                <text>242 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -859,55 +630,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1677793/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Integritas Solutions</h5>
-                    <h3>Node Developer (English Speaking)</h3>
-                </td>
-                <td width="300">
-                    <code>api,developer,git,javascript</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/node-developer-english-speaking-1677793" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Location: </strong>LATAM; 100% Remote</p>
-<p><strong>Type:</strong> Full time hours, Long term contract</p>
-<p><strong>About Integritas:</strong></p>
-<p>Integritas Solutions has been providing sound technology solutions for our clients for over 14 years. We work with a broad base of industries, which allows us to offer expertise in many different domains, technology stacks, and integrations. We design, develop, and support a wide range of products for our clients, including mobile and web-based application design, development, solution architecture, and quality assurance, to promote scalable products that solve the business needs of our clients.</p>
-<p><strong>General Description:</strong></p>
-<p>We are looking for a Node Developer who loves programming. You should have experience building scalable web applications and be well versed in Javascript Development. The ideal candidate will have relevant work experience and a career path of proven success working within a collaborative web team as well as having individual contributor experience.</p>
-<p><strong><em>You must be able to clearly communicate in English with the team and clients.</em></strong></p>
-<p><strong>To be successful you need:</strong></p>
-<ul style="">
-<li style="">4+ years of Node/Javascript software development experience. </li>
-<li style="">Solid experience with Javascript and experience with front end development is a PLUS</li>
-<li style="">Strong knowledge of Node.js using Express, Async, Lodash, Socket, etc.</li>
-<li style="">Knowledgeable in restful web services</li>
-<li style="">Familiarity with a variety of architectural patterns (MVC, ORM, etc .), frameworks and libraries</li>
-<li style="">Basic understanding of front-end technologies, such as HTML5, and CSS3</li>
-<li style="">Experience with MongoDB or other NoSQL database</li>
-<li style="">Solid Restful API development experience</li>
-<li style="">Building reusable components and server side libraries for future use</li>
-<li style="">Working knowledge of Git, SVN or similar code version tools</li>
-<li style="">If you have experience working with a globally distributed, cross functional teams, that is a PLUS</li>
-<li style="">Writes documentation supporting the implementation of the solution</li>
-<li style="">Must be comfortable working in a collaborative environment</li>
-</ul>
-<p>If this job description looks exciting to you, please apply with a resume in English!</p>
-<p> </p>
-<img src="https://remotive.com/job/track/1677793/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1383531/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -918,7 +640,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -995,7 +717,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -1132,7 +854,7 @@
                     <code>azure,cloud,developer,django</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -1197,7 +919,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1274,7 +996,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1418,7 +1140,7 @@
                     <code>CSS,developer,docker,blockchain</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/web-developer-1667108" align="right" target="_blank">Apply</a>
@@ -1474,7 +1196,7 @@
                     <code>developer,seo,social media,ai</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-ai-application-developer-cohort-4-1665505" align="right" target="_blank">Apply</a>
@@ -1514,7 +1236,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -2012,7 +1734,7 @@
                 </td>
                 <td width="300">
                     <h5>Status</h5>
-                    <h3>Algorithm Developer (Cryptocurrency Trading)</h3>
+                    <h3>Algorithm Developer (Crypto Market Making)</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -2533,30 +2255,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>We are looking to hire a C Developer, who will be part of our Imunify360 team.</p><p>Imunify360 Security Suite is a product of CloudLinux Inc., the maker of the #1 OS in security and stability for hosting providers. Imunify is an innovative security solution designed specifically for shared and VPS/Dedicated servers. The automated, easy-to-use solution with the six-layer approach to security delivers comprehensive and complete attack prevention. In this position, you will work and contribute to major, open-source projects like Apache HTTPD, OpenSSL, and MySQL. You will also backport security fixed to stable, maintaining versions of those projects.</p><p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and  we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure everyone is successful. We are truly a great place to work.</p> <p>For more details about our company go to <a href="http://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">Cloudlinux.com</a>.</p> <p><strong>As our C Developer, you will be responsible for:</strong></p><ul> <li>Designing and implementing  security modules for various Linux software (Apache, Nginx, PHP, dovecot, Pam)</li> <li>Optimizing algorithms used in existing code to reduce overhead</li> <li>Cover your code with unit and functional tests</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role you should have:</strong></p><ul> <li>5+ years of С programming experience</li> <li>GNU/Linux operating system administration and shell scripting experience</li> <li>Ability to work with various build systems like Autotools, make and cmake</li> <li>Experience with git-based development processes</li> <li>Experience in debugging (mostly gdb and command line)</li> <li>Experience in zend php extension development will be a plus</li> <li>Experience in the development of web-server modules: Nginx , Apache/OpenLiteSpeed and understanding of the web-server architecture and workflow will be a plus</li> <li>Golang language knowledge will be a plus</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> </li> <li>Flexible working hours</li> <li>Paid 24 days of vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Automation Developer for Education Services Team - REMOTE/ Work Anywhere</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/CDB587AED2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We are seeking an experienced, detail-oriented, and self-paced programmer to join our Education Services team. The ideal candidate is someone who has experience and passion for Linux and a basic knowledge of a wide range of programming languages and frameworks to help automate the manual procedures and reporting, as well as creating and maintaining in-house projects.</p><p>The Education Services Team works on customer training and learning opportunities to drive product usage and engagement, leading to increased customer adoption of our products.</p><p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure everyone is successful. We are truly a great place to work.</p><p>For more information, go to <a href="https://www.cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">cloudlinux.com</a></p><p><br></p><p><a href="https://www.cloudlinux.com/" rel="nofollow noreferrer noopener" class="external"></a></p> <p><strong>As our Developer/Coder, you will be responsible for:</strong></p><ul> <li>Collaborating with Education Services Managers to determine objectives</li> <li>Writing codes that support these objectives and provide optimal functionality</li> <li>Supporting and administering a ticketing system</li> <li>Collaborating in cross-functional projects</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role you should have:</strong></p><ul> <li>Experience and passion for Linux</li> <li>Basic knowledge of a wide range of programming languages and frameworks (Python and JavaScript are preferable)</li> <li>Understanding of databases management</li> <li>Experience in ticketing system administration and development would be a plus (if not, being ready to get such an experience)</li> <li>Ability to quickly analyze the needs and gaps and adapt your skills or get new skills accordingly</li> <li>Ability to work well with culturally diverse teams</li> <li>Proven ability to communicate well with peers and all levels of management</li> <li>Intermediate (and higher) English level</li> <li>Team player but also able to work independently using your initiative</li> <li>Happy in an agile, fast-paced environment</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> </li> <li>Flexible working hours</li> <li>Paid 24 days of vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>GitHub copilot and ChatGPT Plus</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em>
                 </details>
                 </td>
             </tr></table>
