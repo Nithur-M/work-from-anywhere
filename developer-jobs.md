@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/athemes-wordpress-developer-2" align="right" target="_blank">Apply</a>
@@ -92,7 +92,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/r-o-m-logicware-gmbh-application-developer-c-qt-qml-fullstack-engineer-transforming-creative-writing" align="right" target="_blank">Apply</a>
@@ -154,7 +154,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/yoko-co-full-stack-web-developer-wordpress-more" align="right" target="_blank">Apply</a>
@@ -214,7 +214,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/portal-fantasy-game-developer" align="right" target="_blank">Apply</a>
@@ -267,7 +267,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>37 days ago</text>
+                <text>39 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-wordpress-developer" align="right" target="_blank">Apply</a>
@@ -331,89 +331,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/3228/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Lifetimely</h5>
-                    <h3> Principal Ruby on Rails Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>39 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0071/3228/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Singapore
-    <br /><strong>URL:</strong> <a href="https://www.lifetimely.io/">https://www.lifetimely.io/</a>
-</p>
-
-<div>
-<strong>Lifetimely is a SaaS company looking for an experienced Ruby on Rails engineer to help build out our SaaS product serving 6000+ e-commerce stores. Our users include names like MrBeast’s snacking brand Feastables, Liquid Death, and Colgate.<br></strong><br>
-</div><div>You can read about our app <a href="https://apps.shopify.com/lifetimely-lifetime-value-and-profit-analytics/">on the Shopify app store</a>. We provide real-time reporting to ecommerce shop owners. To give you a sense of scale - we collect data on millions of orders per day from thousands of ecommerce stores and process many millions of background jobs to be able to deliver quality reporting and insights to our customers.<br><br>
-</div><div>We're looking to add a great backend RoR developer to our existing team.<br><br>
-</div><div>
-<strong><br>We are looking for someone who</strong>:<br><br>
-</div><ul>
-<li>has worked on and had to support a web app in production at scale for at least 5 years</li>
-<li>At least 5 years of working experience writing maintainable and well-tested Ruby on Rails apps</li>
-<li>humble, can mentor others, both provide and receive direction and is always willing to share what they learn</li>
-<li>overlaps with CET zone at least 5 hours ( prefer Europe )</li>
-</ul><div>
-<strong><br>What you will do:<br></strong><br>
-</div><ul>
-<li>extend the product to integrate with new ecommerce platforms (like Amazon)</li>
-<li>build and have ownership over new integrations with external data sources we use to augment our reports (we integrate with wide range of systems from ad platforms to CRMs and shipping services.)</li>
-<li>optimize our existing complex backend processing jobs</li>
-<li>optimize existing data pipelines</li>
-<li>participate in building new app features for thousands of merchants who trust us with their reporting data</li>
-</ul><div>
-<strong><br>Where we are and how we work:<br></strong><br>
-</div><ul>
-<li>We are a distributed team all over the globe but our development team is mainly working during Western European working hours.</li>
-<li>We are used to async communication over Slack but also have regular weekly meetings to sync up.</li>
-<li>Our tech stack is Ruby / Javascript / Stimulus / Tailwind CSS / SQL / Git</li>
-<li>We optimize new features for the long term. For us, this is not a sprint but a marathon.</li>
-</ul><div>Working for Lifetimely doesn't feel like the usual office or startup gig: we are a distributed group of twelve people across eight different countries with our own way of working. Some of us are nomads, some just like working remotely. We highly encourage written (long-form) communication and documenting things on Notion, and generally don't like tight fixed schedules.<br><br>
-</div><div>
-<strong>We expect you to be independent and know how to manage yourself.</strong> We prioritize shipping and results above how or when you do the work.<br><br>
-</div><div>Two meetings per week, one for the devs on Tuesday, and another one on Thursday for everyone. That's it.<br><br>
-</div><div>If you prefer to do meetings and calls or just know that you need a lot of human interaction, Lifetimely is probably not the best place for you to work at. But if you are into distributed work and prefer the lifestyle aspects or maybe live somewhere with not a lot of exciting product companies to work for, you will enjoy working with us.<br><br>
-</div><div>
-<strong><br>Compensation<br></strong><br>
-</div><div>This is a full-time position with annual compensation of <strong>USD 70 000 to USD 110 000</strong> and varies with experience and skill set. You can be a full-time employee with PTO (through Multiplier) or a full-time contractor, depending on your location and preferences. We will provide you the necessary equipment and pay for a co-working space if you have one nearby.<br><br>
-</div><div>
-<strong><br>Hiring process<br></strong><br>
-</div><div>Our process has three steps:<br><br>
-</div><ol>
-<li>A simple coding task that takes no more than 30 min and can be done at your convenience</li>
-<li>Video call where we discuss the task and ask you about your experience</li>
-<li>A paid trial two-week contract (if your current role allows) where you work with us as if you were full-time. If this is not possible, we can also do a traditional tech interview instead.</li>
-</ol><div>
-<strong><br>How to apply:<br></strong><br>
-</div><div>Tell us about:<br><br>
-</div><ol>
-<li>Describe the largest web app you worked on and the most challenging problem you worked on?</li>
-<li>The timezone you are in?</li>
-<li>When can you start at the earliest?</li>
-<li>Your salary requirements</li>
-</ol><div>After you've applied, we will reach out to you for a test task if you're selected for the first round of interviews.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer">https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -424,7 +341,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>77 days ago</text>
+                <text>80 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toggl-senior-frontend-developer" align="right" target="_blank">Apply</a>
@@ -493,7 +410,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>128 days ago</text>
+                <text>130 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-laravel-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -566,7 +483,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>242 days ago</text>
+                <text>244 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -630,6 +547,164 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1681160/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Assemblyhq</h5>
+                    <h3>Software Engineer, Front-End Developer</h3>
+                </td>
+                <td width="300">
+                    <code>cloud,CSS,developer,html</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-front-end-developer-1681160" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class='"content-intro"'>
+<p><strong><u>About Build With Assembly</u></strong></p>
+<p>We're an organization driven to give people time back in their day. We do this by solving challenges people experience in their lives that can be made easier with technology. We're Assembly, we help visionary leaders build platforms customers rely on and businesses thrive on.</p>
+<p>We partner with our clients to help them adopt the cloud and build the technology assets needed to transform their business, whether that be new <a href="%22https:/assemblyhq.com/capabilities/software-development/%22" rel="nofollow" target='"_blank"'>custom software development</a>, <a href="%22https:/assemblyhq.com/capabilities/cloud-migration%22" rel="nofollow" target='"_blank"'>cloud migrations</a>, or <a href="%22https:/assemblyhq.com/capabilities/application-modernization%22" rel="nofollow" target='"_blank"'>application modernization</a> of existing, legacy systems.  </p>
+<p>We’re a high-performing entrepreneurial team with nearly two decades of experience helping enterprise organizations, including <em>Honda, Acura, Brookfield, Canon, </em>and many more continuously evolve their tech to meet their business goals.</p>
+<p>We are a fully remote company that takes pride in having an unmatchable team of practitioners, in 5 countries across 4 continents, that have helped us rise to the ranks of being on the <em>Profit 500, Canada’s Fastest Growing Companies, Best Workplaces in Technology, and Best Workplaces in Canada (Top 50).</em></p>
+</div>
+<p><strong><u>The Position</u></strong> </p>
+<p>We believe front-end development is about understanding the challenges of modern web development and the tools available in the ecosystem to address them.</p>
+<p>As a Front-End Developer, you will be responsible for implementing static visual designs and interactive elements that users engage with through their web browser when using a web application.  You will work with the UI/UX designer and bridge the gap between graphical design and technical implementation, taking an active role on both sides and defining how the application looks as well as how it works. You will be supported by Back-End Developers, who are responsible for server-side application logic and integration of the front-end work.</p>
+<p>If you are a Front-End Developer who is passionate about your craft, motivated to combine the art of design with the art of programming, then you are right for this role.</p>
+<p><strong><u>Your Responsibilities</u></strong> </p>
+<ul style="">
+<li style="">Build UI components and compose them into applications for multiple browsers</li>
+<li style="">Analyze and understand business and design requirements; produce technical tasks and breakdown into estimates</li>
+<li style="">Define, review, communicate and follow development approaches for the technical tasks</li>
+<li style="">Collaborate with the back-end developers and QA engineers to integrate and test</li>
+<li style="">Work closely and collaborate with other developers and team members, communicating effectively and working together to reach defined goals and meet deadlines</li>
+<li style="">Attend and participate in daily standups and project retrospectives</li>
+<li style="">Participate in career development and performance reviews</li>
+<li style="">Commit to ongoing learning and development; participate in conferences and educational programs</li>
+<li style="">Stay up to date with current best practices</li>
+<li style="">Follow new and emerging technologies</li>
+<li style="">Participate and contribute to company culture</li>
+</ul>
+<p><strong><u>About You</u></strong> </p>
+<ul style="">
+<li style="">5+ years of experience working as Front-End Developer</li>
+<li style="">Excellent working knowledge of modern JavaScript</li>
+<li style="">Solid experience with semantic and accessible HTML</li>
+<li style="">Hands on experience with CSS3 and CSS-in-JS (styled-components)</li>
+<li style="">Proven knowledge of React (version 16 or higher) is a must</li>
+<li style="">Experience with mobile-first UI development</li>
+<li style="">Previous experience writing functional UI tests (Jest and react-testing-library)</li>
+<li style="">Hands on experience with i18n and l10n (react-i18next)</li>
+<li style="">Experience contributing to design-system component libraries</li>
+<li style="">Multiple years’ experience with source control management systems</li>
+<li style="">Demonstrable ability to write clean, structured, maintainable code</li>
+<li style="">Experience with automated testing and/or code analysis techniques</li>
+<li style="">Familiarity with development &amp; release tooling (i.e. npm/Webpack/Babel/Github)</li>
+<li style="">Ability to analyze wireframes or static designs and identify potential issues or hidden complexities</li>
+<li style="">Proficient knowledge of cross-browser compatibility issues and ways to work around them</li>
+<li style="">In-depth understanding of web development and web development processes</li>
+<li style="">An understanding of the fundamentals of server-side rendering is nice to have</li>
+<li style="">Understanding the concepts of a headless CMS architecture is nice to have</li>
+<li style="">Experience with Sitecore CMS is nice to have</li>
+<li style="">Bachelor’s degree in computer science or related field is preferred</li>
+<li style="">Critical thinker, great analytical and problem-solving skills </li>
+</ul>
+<p><strong><u>Why You’ll Love This Opportunity</u></strong> </p>
+<ul style="">
+<li style="">Many opportunities to learn, grow, and earn certifications through our internal upskilling program</li>
+<li style="">Start-up work culture while getting to work on industry leading solutions for some of Canada's leading companies </li>
+<li style="">Working with cutting edge cloud technologies </li>
+<li style="">Exposure to teams Designing and building cloud-native software</li>
+</ul>
+<div class='"content-conclusion"'>
+<p><em>We welcome and encourage applications from people with disabilities. Accommodations are available upon request for candidates taking part in all aspects of the selection process.</em></p>
+</div>
+<img src="https://remotive.com/job/track/1681160/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1680495/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Coalition Technologies </h5>
+                    <h3>Front End Developer</h3>
+                </td>
+                <td width="300">
+                    <code>CSS,developer,excel,git</code>
+                </td>
+                <td width="200">
+                <text>3 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="h3">WHY YOU SHOULD APPLY:</div>
+<p> </p>
+<p>Coalition Technologies is devoted to delivering clients the highest quality work while providing our team a fun, thriving, and innovative environment. Along with the opportunity for tremendous career growth and rapid advancement, CT offers:</p>
+<ul style="">
+<li style="">The most competitive profit-sharing bonus plan in the industry, paying up to 50% of company profits to full-time employees each month!</li>
+<li style="">A highly competitive Paid Time Off plan, promoting quality work-life balance.</li>
+<li style="">Subsidized gym memberships to help team members feel their best.</li>
+<li style="">Medical, dental, vision, and life insurance packages for all US-based team members.</li>
+<li style="">International Health Insurance Reimbursement Program for all international team members, a benefit unique to Coalition.</li>
+<li style="">Device upgrade and learning reimbursement programs.</li>
+<li style="">Motivating career development plans with clearly defined goals and rewards.</li>
+<li style="">Additional job-specific incentives and bonuses.</li>
+</ul>
+<p>Plus, 100% of our team works remotely with the support of time tracking software. Our company culture specializes in supporting remote team members, and we’ve been doing so for more than a decade. CT welcomes your application, wherever in the world it's coming from!</p>
+<div class="h3"> </div>
+<div class="h3">YOU SHOULD HAVE:</div>
+<p> </p>
+<ul style="">
+<li style="">An expertise in HTML5, CSS3 and jQuery</li>
+<li style="">A thorough understanding of cross-browser compatibility issues</li>
+<li style="">Experience with media queries</li>
+<li style="">A knowledge of CSS platforms such as Twitter’s Bootstrap</li>
+<li style="">An ability to multi-task on multiple projects and tasks at the same time</li>
+<li style="">Great attention to detail and be highly organized</li>
+<li style="">A positive and upbeat attitude with the ability to learn quickly</li>
+<li style="">Proficiency in PHP/MYSQL and AJAX (preferred)</li>
+<li style="">Experience with WordPress, BigCommerce, Magento, and Shopify (preferred)</li>
+<li style="">Excellent written and spoken English</li>
+<li style="">The availability to work 40 hours per week from 9:00 am to 6:00 pm PST</li>
+<li style="">The ability to adapt to a diverse and multicultural environment</li>
+<li style="">Passion to build a startup</li>
+<li style="">Reliable transportation if working in-house</li>
+<li style="">A reliable workstation with a fast computer, microphone and speakers, reliable internet and power if working remotely</li>
+</ul>
+<div class="h3"> </div>
+<div class="h3">YOUR DUTIES AND TASKS:</div>
+<p> </p>
+<ul style="">
+<li style="">Transforming complex layout PSDs into pixel-perfect presentation-layer HTML5/CSS3 templates</li>
+<li style="">Creating responsive website designs</li>
+<li style="">Building websites with WordPress, extending and developing plugins and themes</li>
+<li style="">Working with Photoshop, Illustrator, and Fireworks to create images optimized for the web</li>
+<li style="">Working with version control systems such as GIT / SVN</li>
+<li style="">Working under tight deadlines</li>
+<li style="">Handling multiple projects at the same time</li>
+<li style="">Producing high quality of work with a strong focus on detail</li>
+</ul>
+<div class="h5"> </div>
+<div class="h5">We are looking for talented and diligent candidates who excel in our skills tests, and will consider these candidates even if past experience or educational background criteria aren't met.</div>
+<p> </p>
+<p>*Starting base pay in the US states of California, New York, Washington and Colorado for this position ranges between $15 - $35 per hour</p>
+<img src="https://remotive.com/job/track/1680495/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1383531/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -640,7 +715,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -717,7 +792,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -854,7 +929,7 @@
                     <code>azure,cloud,developer,django</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -919,7 +994,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -996,7 +1071,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1140,7 +1215,7 @@
                     <code>CSS,developer,docker,blockchain</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/web-developer-1667108" align="right" target="_blank">Apply</a>
@@ -1196,7 +1271,7 @@
                     <code>developer,seo,social media,ai</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-ai-application-developer-cohort-4-1665505" align="right" target="_blank">Apply</a>
@@ -1236,7 +1311,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
