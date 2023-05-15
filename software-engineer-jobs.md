@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>212 days ago</text>
+                <text>214 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer" align="right" target="_blank">Apply</a>
@@ -46,7 +46,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>303 days ago</text>
+                <text>306 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3" align="right" target="_blank">Apply</a>
@@ -92,103 +92,70 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1653911/logo" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1680264/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Contra</h5>
+                    <h5>Artifact</h5>
                     <h3>Senior Software Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>api,backend,cloud,developer</code>
+                    <code>go,python,sql,ai</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1653911" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1680264" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p><strong><em>Salary: $130k - $160k USD + Equity</em></strong><br><br>Contra is an Independent-first community and commission-free hiring platform empowering the future of work. We match Independents with flexible opportunities and Clients with the perfect Independent for any project — from content creation to coding.</p>
-<p> </p>
-<p>Welcome to Contra! We’re an empathetic, kind, and humble team looking for Software Engineers to join us in building the Future of Work and the best community for independents. This is a full-stack role, meaning you’ll have the opportunity to contribute across our web applications and backend services, while focusing on a specific part of the stack that plays to your strengths and preferences, like Frontend or Backend.</p>
-<p> </p>
-<p>Our team loves to innovate to benefit everyone and deliver a top-notch Developer Experience for our internal team: fast pipelines, great API tooling, and the like. If this environment resonates with your engineering values, we’d love to talk to you!</p>
-<p class="h3" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-weight: bold; font-stretch: normal; line-height: 1.4; -webkit-font-smoothing: antialiased; color: #515357; margin-top: 17.5px; margin-bottom: 17.5px; padding: 0px;">How you’ll add value at Contra</p>
-<ul class="posting-requirements plain-list" style="">
+                <p style="min-height: 1.5em;">We are seeking a talented and experienced software engineer, with awesome SQL skills to help us connect our ETL data sources with our company’s databases. The ideal candidate will be responsible for implementing data integration solutions that are efficient, reliable, and scalable. This will include creating connectors for our customers, authentication flows, as well as cleaning and mapping the incoming data.</p>
+<div class="h3">What you’ll do at Artifact:</div>
 <ul style="">
-<li style="">Contribute to our rapidly growing React and NodeJS codebases (both within our Turborepo powered monorepo and our stand-alone apps) — everything from our web application to our backend GraphQL API, to our internal services that power payments.</li>
-<li style="">Contribute well-tested, end-to-end TypeScript code. We are big fans of Vitest for unit testing and Playwright for end-to-end testing.</li>
-<li style="">Craft readable, performant, and scaleable SQL queries and database schemas to solve data modeling problems.</li>
-<li style="">Help improve our internal design system, codebase architecture, application performance, and Developer Experience.</li>
-<li style="">Participate in all parts of the product development process, like design critiques, code reviews, and cross-functional planning with your team.</li>
+<li style="">
+<p style="min-height: 1.5em;">Design, develop and maintain ETL workflows that efficiently moves data from source systems to our databases</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Rationalize large, complex, heterogeneous data sets that meet functional / non-functional business requirements</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Help identify and resolve data quality and integration issues.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Work with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs</p>
+</li>
 </ul>
-</ul>
-<p class="h3" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-weight: bold; font-stretch: normal; line-height: 1.4; -webkit-font-smoothing: antialiased; color: #515357; margin-top: 17.5px; margin-bottom: 17.5px; padding: 0px;">Our stack</p>
-<ul class="posting-requirements plain-list" style="">
+<div class="h3">Requirements</div>
 <ul style="">
-<li style="">Backend: AlloyDB(PostgreSQL), GraphQL, GraphQL Helix, NodeJS, Redis, Temporal</li>
-<li style="">Data: Airbyte, DBT, Google BigQuery, Google Colab, Looker</li>
-<li style="">DevOps: ArgoCD, Docker, GitHub, Google Cloud Platform, Kubernetes</li>
-<li style="">Frameworks: NextJS</li>
-<li style="">Frontend: GLSL shaders, React, react-three-fiber, Relay, Stitches, styled-components, Suspense, <a class="postings-link" href="http://three.js/" rel="nofollow" style="color: #737578; text-decoration: underline;">Three.js</a></li>
-<li style="">Languages: Typescript</li>
-<li style="">Testing: Playwright, Vitest</li>
-<li style="">Tools: Chromatic, Linear, Mergify, Posthog, Slack, Stream, Turbopack, Turborepo</li>
-</ul>
-</ul>
-<p class="h3" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-weight: bold; font-stretch: normal; line-height: 1.4; -webkit-font-smoothing: antialiased; color: #515357; margin-top: 17.5px; margin-bottom: 17.5px; padding: 0px;">You’ll be successful here if you</p>
-<ul class="posting-requirements plain-list" style="">
+<li style="">
+<p style="min-height: 1.5em;">Proficient in SQL, Go, Python, and Typescript</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Have good communication skills, willing and able to collaborate on cross-functional teams</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Strong problem-solving skills and attention to detail</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Ideal candidate would also</p>
 <ul style="">
-<li style=""><span style="font-weight: 600; -webkit-font-smoothing: antialiased;">Mission-driven.</span> Our mission truly resonates with you and you would like to be a part of what we are building together at Contra!</li>
-<li style=""><span style="font-weight: 600; -webkit-font-smoothing: antialiased;">A dedicated team player.</span> You thrive in a collaborative, remote-only environment and you are comfortable with 8 am - 1 pm PST core hours!</li>
-<li style=""><span style="font-weight: 600; -webkit-font-smoothing: antialiased;">Passionate about learning.</span> Share a genuine curiosity for learning, always eager to pick up new skills. We don’t expect everyone to know everything but you learn quickly!</li>
-<li style=""><span style="font-weight: 600; -webkit-font-smoothing: antialiased;">Goal oriented.</span> Understand what you need to do in order to achieve your goals without needing all of the bells and whistles.</li>
-<li style=""><span style="font-weight: 600; -webkit-font-smoothing: antialiased;">Committed to trying.</span> Have the resilience and willingness to try and try again even if you fail after a few attempts!</li>
-<li style=""><span style="font-weight: 600; -webkit-font-smoothing: antialiased;">Ambitious attitude.</span> You bring a strong work ethic and contagious energy to your team as we work towards our North Star.</li>
-<li style=""><span style="font-weight: 600; -webkit-font-smoothing: antialiased;">Path Paver.</span> Joining a startup you enjoy taking ownership, building out processes and documentation that might not exist to share with your team members.</li>
+<li style="">
+<p style="min-height: 1.5em;">Have experience with DBT</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Have experience with authentication flows</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Worked with microservices</p>
+</li>
 </ul>
+</li>
 </ul>
-<p class="h3" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-weight: bold; font-stretch: normal; line-height: 1.4; -webkit-font-smoothing: antialiased; color: #515357; margin-top: 17.5px; margin-bottom: 17.5px; padding: 0px;">You will love Contra for our</p>
-<ul class="posting-requirements plain-list" style="">
-<ul style="">
-<li style="">🌎 Remote-only culture that is here to stay</li>
-<li style="">🍎 100% health coverage for US full-time employees, and health reimbursements for all international contractors</li>
-<li style="">💸 $4,000 laptop reimbursement upon starting + additional for equipment, co-working, and meetups</li>
-<li style="">💰 401k matching for US full-time employees</li>
-<li style="">💛 No-meeting Tuesdays &amp; Wednesdays</li>
-<li style="">👋 Generous time off</li>
-<li style="">👶 Flexible parental leave</li>
-<li style="">💁 A custom slack emoji, just for you!</li>
-</ul>
-</ul>
-<p class="h3" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-weight: bold; font-stretch: normal; line-height: 1.4; -webkit-font-smoothing: antialiased; color: #515357; margin-top: 17.5px; margin-bottom: 17.5px; padding: 0px;">Our interview process</p>
-<ul class="posting-requirements plain-list" style="">
-<ul style="">
-<li style="">Intro call (15-30 minutes)</li>
-<li style="">Complete a Technical assessment (2 hours maximum)</li>
-<li style="">Technical interview (45-60 minutes)</li>
-<li style="">Non-technical (culture) interview (30 minutes)</li>
-<li style="">Strengths-based technical interview (30-45 minutes)</li>
-<li style="">Cross-Functional Interview (45 minutes)</li>
-<li style="">High-level technical interview with CTO &amp; VPE (30-45 minutes)</li>
-</ul>
-</ul>
-<p> </p>
-<p><strong>Salary + Equity</strong></p>
-<ul class="posting-requirements plain-list" style="">
-<ul style="">
-<li style="">$130k - $160k USD</li>
-</ul>
-</ul>
-<ul class="posting-requirements plain-list" style="">
-<ul style="">
-<li style="">Equity Value Range: $72k - $180k USD</li>
-</ul>
-</ul>
-<img src="https://remotive.com/job/track/1653911/blank.gif?source=public_api" alt=""/>
+<div class="h3">What Artifact does:</div>
+<p style="min-height: 1.5em;">Artifact helps teams centralize qualitative data into a single source of truth, and uses advanced but proven AI methods to synthesize actionable insights so they can instantly understand what’s most important to their customers.</p>
+<img src="https://remotive.com/job/track/1680264/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -899,31 +866,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b>About Us</b></div><div>At <i><a href="http://iterative.ai/" class="postings-link">iterative.ai</a></i>, we build open-source tools for machine learning <a href="https://dvc.org/" class="postings-link">DVC</a> (10k+ ⭐&nbsp; on GitHub), <a href="https://cml.dev/" class="postings-link">CML</a> (3k+ ⭐  on GitHub), and enterprise-grade data infrastructure solutions. We also offer a team collaboration SaaS solution - <a href="https://studio.iterative.ai/" class="postings-link">Studio</a>. We're a well-funded (Series A), remote-first team (50+ employees) on a mission to solve the complexities of managing datasets, ML infrastructure, ML models lifecycle, and other ML &amp; data-centric workflows.</div><div>We value great collaboration and communication skills, both among internal teams and in how we interact with our users. We take care to balance and be responsive to the needs of our open source community as well as our enterprise customers.</div><div><b>Check us out in other places:</b></div><div>🖥  <a href="https://iterative.ai/" class="postings-link">Website</a>  📂&nbsp; <a href="http://dvc.org/doc" class="postings-link">Docs</a>  👾: <a href="http://github.com/iterative" class="postings-link">GitHub</a>  🖊&nbsp; <a href="http://dvc.org/blog" class="postings-link">Blog</a>  ⏯️&nbsp; <a href="https://www.youtube.com/channel/UC37rp97Go-xIX3aNFVHhXfQ" class="postings-link">YouTube</a>  💬&nbsp;<a href="https://dvc.org/chat" class="postings-link">Discord</a></div><div><br></div><div><b style="font-size: 18px">Job Description</b></div><div>Strong Python knowledge and excellent coding culture (standards, unit test, etc) are required. Alternatively, strong skill in other languages along with some knowledge of Python is also acceptable.</div></div><div class="section page-centered"><div><h3>Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Discuss and research issues, features, new products.</li><li>Write code (see some&nbsp;<a href="https://github.com/iterative/dvc/pulls?q=is%3Apr+is%3Aclosed" class="postings-link"><b>PR examples</b></a>).</li><li>Write docs if needed for your code (see this&nbsp;<a href="https://github.com/iterative/dvc.org" class="postings-link"><b>repo</b></a>).</li><li>Being actively involved with the community - talk to users on Github, Discord, forum.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Must have</h3><ul class="posting-requirements plain-list"><ul><li>Motivation and interest</li><li>Remote work self-discipline</li><li>Excellent communication skills - clear, constructive, and respectful dialog with other team members, community.</li><li>Can focus and deliver a task w/o constantly switching to other stuff - respect team's planning, deadlines, etc</li></ul></ul></div></div><div class="section page-centered"><div><h3>Great to have</h3><ul class="posting-requirements plain-list"><ul><li>Experience working remotely</li><li>Open source contributions or experience of maintaining, developing an open source project</li><li>System programming experience - kernel, databases, etc.</li><li>Machine learning or data science experience</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><br></div><div><br></div><div>ℹ️&nbsp;<b>Our Hiring Process</b></div><div>We will go over the process with you in the Introductory call to make sure it is clear and you know what to expect.</div><div>Here is the full interview process you can expect - It’s our go-to for most positions:</div><div>🤙&nbsp; Introductory call [~1h]</div><div>👨‍🏫&nbsp; Tech call with a team member [~45m]</div><div>👩🏾‍💻&nbsp; Take-home coding task [real-world, asynchronous] - <i>We pay for your time</i>! See this <a href="https://www.notion.so/Iterative-ai-is-Hiring-852cb978129645e1906e2c9a878a4d22" class="postings-link">FAQ</a>.</div><div>🦾&nbsp; Task summary / retro call [Optional, ~1h]</div><div>✏️  Offer</div><div><br></div><div>👩‍💻&nbsp;<b>Culture</b> - <i><b>We take care of our people</b></i></div><div>💖&nbsp; <b>Diversity</b> - As a <a href="https://iterative.ai/about/#the-team" class="postings-link">distributed company</a>, diversity drives our identity. Whether you’re looking to launch a new career or grow an existing one, <i><a href="http://iterative.ai/" class="postings-link">iterative.ai</a></i> is the type of company where you can balance great work with great life, and work with a wonderful team that does the same! No matter who you are or where you’re from; we need you for what you can do and for caring about ML and delivering great developer tools!</div><div>⚖️&nbsp; <b>Equal opportunities</b> - We strive to have parity of benefits across regions and while regulations differ from place to place, we believe taking care of our people is the right thing to do. No country or region takes precedence for personal growth, compensation, team recognition, or anything else, it just doesn’t matter where you are.</div><div>👣&nbsp; <b>Flexibility first</b> - Ability to craft your calendar with flexible locations and schedules</div><div>⚓️  <b>Team Driven Culture</b> - Engineering team is involved in product discussions and planning. We do it openly via GitHub or Discord chat. Well-defined process that we all participate in improving. As an employee you will have visibility to everything in Iterative, we are <b><a href="https://iterative.ai/about/#the-team" class="postings-link">One team</a>.</b></div><div><br></div><div>👏<b>&nbsp;Perks &amp; Benefits</b></div><div>🌎&nbsp; <b>Work wherever you want -</b> No offices. Team is distributed remotely worldwide.</div><div>🗓️  <b>Work whenever you want -</b> Asynchronous communication and engineering culture. We are light on meetings and emphasize people finding their own schedule to be <b>prolific &amp; effective</b>. Oh yeah, also <b>Unlimited PTO and sick days!</b></div><div>🤗  <b>Open-source your code</b> - We’re an open-source-first company (frankly, it’s in our DNA). Your work will be visible and will be used by thousands of developers every day! Check out our <a href="http://dvc.org/chat" class="postings-link">Discord</a> and <a href="http://github.com/iterative" class="postings-link">GitHub</a>.</div><div>🪙&nbsp; <b>Competitive compensation</b> - based on the work you do here and not your previous salary.</div><div>⚕️ <b>Great health coverage</b> (medical, dental, vision) for you and your family, 100% paid by us (US only, but can discuss and reimburse, adjust the salary in other locations).</div><div>🛡️ <b>Benefits</b> - 401K with 100% match up to 4% of annual salary (US only, but we give the best we can worldwide through reimbursements and hiring platforms).</div><div>🎤  <b>Participate in conventions and conferences</b> (PyCon, PyData, O'Reilly AI, etc) - We encourage and support everyone in giving talks, writing blog-posts, and other activities.</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit teal" data-qa="show-page-apply" href="https://jobs.lever.co/iterative/8cf7782e-5009-46bf-92bc-e735856cec9b/apply">Apply for this job</a></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1435749714821926913/SgjRHZ17_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Iterative</h5>
-                    <h3>Senior Software Engineer (Front-end, TS/JS)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/iterative/30cb96fe-e210-4a46-b0eb-ea96f0fd33d9" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b>About Us</b></div><div>At <i><a href="http://iterative.ai/" class="postings-link">iterative.ai</a></i>, we build open-source tools for machine learning <a href="https://dvc.org/" class="postings-link">DVC</a> (10k+ ⭐&nbsp; on GitHub), <a href="https://cml.dev/" class="postings-link">CML</a> (3k+ ⭐  on GitHub), and enterprise-grade data infrastructure solutions. We also offer a team collaboration SaaS solution - <a href="https://studio.iterative.ai/" class="postings-link">Studio</a>. We're a well-funded (Series A), remote-first team (50+ employees) on a mission to solve the complexities of managing datasets, ML infrastructure, ML models lifecycle, and other ML &amp; data-centric workflows.</div><div>We value great collaboration and communication skills, both among internal teams and in how we interact with our users. We take care to balance and be responsive to the needs of our open source community as well as our enterprise customers.</div><div><b>Check us out in other places:</b></div><div>🖥  <a href="https://iterative.ai/" class="postings-link">Website</a>  📂&nbsp; <a href="http://dvc.org/doc" class="postings-link">Docs</a>  👾: <a href="http://github.com/iterative" class="postings-link">GitHub</a>  🖊&nbsp; <a href="http://dvc.org/blog" class="postings-link">Blog</a>  ⏯️&nbsp; <a href="https://www.youtube.com/channel/UC37rp97Go-xIX3aNFVHhXfQ" class="postings-link">YouTube</a>  💬&nbsp;<a href="https://dvc.org/chat" class="postings-link">Discord</a></div><div><br></div><div>The ML tools ecosystem is what JS space was 10 years ago: there’s a clear need for better tools, frameworks, and open standards.<i> iterative.ai</i> is already a well known company in this fast-evolving space with a big, engaged open-source community. Please consider joining our <i>remote-first team</i> if you love open-source, if you’re interested in building dev tools and simplifying the lives of many, many developers in ML.</div><div><br></div><div><b style="font-size: 18px">The project</b></div><div>We’re making a UI for <a href="http://dvc.org/" class="postings-link">DVC</a> and <a href="http://cml.dev/" class="postings-link">CML</a> (think of GitHub) and/or popular Git extensions for VS Code - like <a href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens" class="postings-link">GitLens</a>. VS Code UI will be open sourced and will become part of your public profile! If you have experience with dev tools like GitHub, UI plugins for Git, etc., you should already have some sense what the project is like.</div><div><br></div><div><b style="font-size: 18px">Job Description</b></div><div>We’re seeking a <b>TypeScript front-end engineer to build SaaS and a VS Code UI</b> for our tooling ecosystem.</div><div><b>No prior knowledge of ML or Data Science is required.</b></div><div><br></div></div><div class="section page-centered"><div><h3>Tech Stack</h3><ul class="posting-requirements plain-list"><ul><li>TypeScript</li><li>Node</li><li>React</li><li>Python (on the backend)</li></ul></ul></div></div><div class="section page-centered"><div><h3>Must have</h3><ul class="posting-requirements plain-list"><ul><li>Strong TS/JS/Node experience (5+ years)</li><li>Excellent communication skills and a positive mindset 🤗</li><li>Initiative to help shape the engineering practices, products, and culture of a young startup</li></ul></ul></div></div><div class="section page-centered"><div><h3>Nice to have</h3><ul class="posting-requirements plain-list"><ul><li>Python or open source experience - good to have</li><li>Some domain knowledge (DS/ML understanding) - an advantage</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><br></div><div><br></div><div>ℹ️&nbsp;<b>Our Hiring Process</b></div><div>We will go over the process with you in the Introductory call to make sure it is clear and you know what to expect.</div><div>Here is the full interview process you can expect - It’s our go-to for most positions:</div><div>🤙&nbsp; Introductory call [~1h]</div><div>👨‍🏫&nbsp; Tech call with a team member [~45m]</div><div>👩🏾‍💻&nbsp; Take-home coding task [real-world, asynchronous] - <i>We pay for your time</i>! See this <a href="https://www.notion.so/Iterative-ai-is-Hiring-852cb978129645e1906e2c9a878a4d22" class="postings-link">FAQ</a>.</div><div>🦾&nbsp; Task summary / retro call [Optional, ~1h]</div><div>✏️  Offer</div><div><br></div><div>👩‍💻&nbsp;<b>Culture</b> - <i><b>We take care of our people</b></i></div><div>💖&nbsp; <b>Diversity</b> - As a <a href="https://iterative.ai/about/#the-team" class="postings-link">distributed company</a>, diversity drives our identity. Whether you’re looking to launch a new career or grow an existing one, <i><a href="http://iterative.ai/" class="postings-link">iterative.ai</a></i> is the type of company where you can balance great work with great life, and work with a wonderful team that does the same! No matter who you are or where you’re from; we need you for what you can do and for caring about ML and delivering great developer tools!</div><div>⚖️&nbsp; <b>Equal opportunities</b> - We strive to have parity of benefits across regions and while regulations differ from place to place, we believe taking care of our people is the right thing to do. No country or region takes precedence for personal growth, compensation, team recognition, or anything else, it just doesn’t matter where you are.</div><div>👣&nbsp; <b>Flexibility first</b> - Ability to craft your calendar with flexible locations and schedules</div><div>⚓️  <b>Team Driven Culture</b> - Engineering team is involved in product discussions and planning. We do it openly via GitHub or Discord chat. Well-defined process that we all participate in improving. As an employee you will have visibility to everything in Iterative, we are <b><a href="https://iterative.ai/about/#the-team" class="postings-link">One team</a>.</b></div><div><br></div><div>👏<b>&nbsp;Perks &amp; Benefits</b></div><div>🌎&nbsp; <b>Work wherever you want -</b> No offices. Team is distributed remotely worldwide.</div><div>🗓️  <b>Work whenever you want -</b> Asynchronous communication and engineering culture. We are light on meetings and emphasize people finding their own schedule to be <b>prolific &amp; effective</b>. Oh yeah, also <b>Unlimited PTO and sick days!</b></div><div>🤗  <b>Open-source your code</b> - We’re an open-source-first company (frankly, it’s in our DNA). Your work will be visible and will be used by thousands of developers every day! Check out our <a href="http://dvc.org/chat" class="postings-link">Discord</a> and <a href="http://github.com/iterative" class="postings-link">GitHub</a>.</div><div>🪙&nbsp; <b>Competitive compensation</b> - based on the work you do here and not your previous salary.</div><div>⚕️ <b>Great health coverage</b> (medical, dental, vision) for you and your family, 100% paid by us (US only, but can discuss and reimburse, adjust the salary in other locations).</div><div>🛡️ <b>Benefits</b> - 401K with 100% match up to 4% of annual salary (US only, but we give the best we can worldwide through reimbursements and hiring platforms).</div><div>🎤  <b>Participate in conventions and conferences</b> (PyCon, PyData, O'Reilly AI, etc) - We encourage and support everyone in giving talks, writing blog-posts, and other activities.</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit teal" data-qa="show-page-apply" href="https://jobs.lever.co/iterative/30cb96fe-e210-4a46-b0eb-ea96f0fd33d9/apply">Apply for this job</a></div>
+                <div class="section page-centered" data-qa="job-description"><div><b>About Us</b></div><div>At <i><a href="http://iterative.ai/" class="postings-link">iterative.ai</a></i>, we build open-source tools for machine learning <a href="https://dvc.org/" class="postings-link">DVC</a> (10k+ ⭐&nbsp; on GitHub), <a href="https://cml.dev/" class="postings-link">CML</a> (3k+ ⭐  on GitHub), and enterprise-grade data infrastructure solutions. We also offer a team collaboration SaaS solution - <a href="https://studio.iterative.ai/" class="postings-link">Studio</a>. We're a well-funded (Series A), remote-first team (50+ employees) on a mission to solve the complexities of managing datasets, ML infrastructure, ML models lifecycle, and other ML &amp; data-centric workflows.</div><div>We value great collaboration and communication skills, both among internal teams and in how we interact with our users. We take care to balance and be responsive to the needs of our open source community as well as our enterprise customers.</div><div><b>Check us out in other places:</b></div><div>🖥  <a href="https://iterative.ai/" class="postings-link">Website</a>  📂&nbsp; <a href="http://dvc.org/doc" class="postings-link">Docs</a>  👾: <a href="http://github.com/iterative" class="postings-link">GitHub</a>  🖊&nbsp; <a href="http://dvc.org/blog" class="postings-link">Blog</a>  ⏯️&nbsp; <a href="https://www.youtube.com/channel/UC37rp97Go-xIX3aNFVHhXfQ" class="postings-link">YouTube</a>  💬&nbsp;<a href="https://dvc.org/chat" class="postings-link">Discord</a></div><div><br></div><div><b style="font-size: 18px">Job Description</b></div><div>Strong Python knowledge and excellent coding culture (standards, unit test, etc) are required. Alternatively, strong skill in other languages along with some knowledge of Python is also acceptable.</div></div><div class="section page-centered"><div><h3>Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Discuss and research issues, features, new products.</li><li>Write code (see some&nbsp;<b><a href="https://github.com/iterative/dvc/pulls?q=is%3Apr+is%3Aclosed" class="postings-link">PR examples</a></b>).</li><li>Write docs if needed for your code (see this&nbsp;<b><a href="https://github.com/iterative/dvc.org" class="postings-link">repo</a></b>).</li><li>Being actively involved with the community - talk to users on Github, Discord, forum.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Must have</h3><ul class="posting-requirements plain-list"><ul><li>Motivation and interest</li><li>Remote work self-discipline</li><li>Excellent communication skills - clear, constructive, and respectful dialog with other team members, community.</li><li>Can focus and deliver a task w/o constantly switching to other stuff - respect team's planning, deadlines, etc</li></ul></ul></div></div><div class="section page-centered"><div><h3>Great to have</h3><ul class="posting-requirements plain-list"><ul><li>Experience working remotely</li><li>Open source contributions or experience of maintaining, developing an open source project</li><li>System programming experience - kernel, databases, etc.</li><li>Machine learning or data science experience</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><br></div><div><br></div><div>ℹ️&nbsp;<b>Our Hiring Process</b></div><div>We will go over the process with you in the Introductory call to make sure it is clear and you know what to expect.</div><div>Here is the full interview process you can expect - It’s our go-to for most positions:</div><div>🤙&nbsp; Introductory call [~1h]</div><div>👨‍🏫&nbsp; Tech call with a team member [~45m]</div><div>👩🏾‍💻&nbsp; Take-home coding task [real-world, asynchronous] - <i>We pay for your time</i>! See this <a href="https://www.notion.so/Iterative-ai-is-Hiring-852cb978129645e1906e2c9a878a4d22" class="postings-link">FAQ</a>.</div><div>🦾&nbsp; Task summary / retro call [Optional, ~1h]</div><div>✏️  Offer</div><div><br></div><div>👩‍💻&nbsp;<b>Culture</b> - <i><b>We take care of our people</b></i></div><div>💖&nbsp; <b>Diversity</b> - As a <a href="https://iterative.ai/about/#the-team" class="postings-link">distributed company</a>, diversity drives our identity. Whether you’re looking to launch a new career or grow an existing one, <i><a href="http://iterative.ai/" class="postings-link">iterative.ai</a></i> is the type of company where you can balance great work with great life, and work with a wonderful team that does the same! No matter who you are or where you’re from; we need you for what you can do and for caring about ML and delivering great developer tools!</div><div>⚖️&nbsp; <b>Equal opportunities</b> - We strive to have parity of benefits across regions and while regulations differ from place to place, we believe taking care of our people is the right thing to do. No country or region takes precedence for personal growth, compensation, team recognition, or anything else, it just doesn’t matter where you are.</div><div>👣&nbsp; <b>Flexibility first</b> - Ability to craft your calendar with flexible locations and schedules</div><div>⚓️  <b>Team Driven Culture</b> - Engineering team is involved in product discussions and planning. We do it openly via GitHub or Discord chat. Well-defined process that we all participate in improving. As an employee you will have visibility to everything in Iterative, we are <b><a href="https://iterative.ai/about/#the-team" class="postings-link">One team</a>.</b></div><div><br></div><div>👏<b>&nbsp;Perks &amp; Benefits</b></div><div>🌎&nbsp; <b>Work wherever you want -</b> No offices. Team is distributed remotely worldwide.</div><div>🗓️  <b>Work whenever you want -</b> Asynchronous communication and engineering culture. We are light on meetings and emphasize people finding their own schedule to be <b>prolific &amp; effective</b>. Oh yeah, also <b>Unlimited PTO and sick days!</b></div><div>🤗  <b>Open-source your code</b> - We’re an open-source-first company (frankly, it’s in our DNA). Your work will be visible and will be used by thousands of developers every day! Check out our <a href="http://dvc.org/chat" class="postings-link">Discord</a> and <a href="http://github.com/iterative" class="postings-link">GitHub</a>.</div><div>🪙&nbsp; <b>Competitive compensation</b> - based on the work you do here and not your previous salary.</div><div>⚕️ <b>Great health coverage</b> (medical, dental, vision) for you and your family, 100% paid by us (US only, but can discuss and reimburse, adjust the salary in other locations).</div><div>🛡️ <b>Benefits</b> - 401K with 100% match up to 4% of annual salary (US only, but we give the best we can worldwide through reimbursements and hiring platforms).</div><div>🎤  <b>Participate in conventions and conferences</b> (PyCon, PyData, O'Reilly AI, etc) - We encourage and support everyone in giving talks, writing blog-posts, and other activities.</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit teal" data-qa="show-page-apply" href="https://jobs.lever.co/iterative/8cf7782e-5009-46bf-92bc-e735856cec9b/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
