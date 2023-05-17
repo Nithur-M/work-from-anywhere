@@ -1,161 +1,123 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4287/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/5180/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Stimulus</h5>
-                    <h3> Software engineer</h3>
+                    <h5>Paymentology</h5>
+                    <h3> Senior Software Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>Full-Stack Programming</code>
+                    <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>214 days ago</text>
+                <text>61 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/paymentology-senior-software-engineer-1" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/4287/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0074/5180/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Amsterdam, NY
-    <br /><strong>URL:</strong> <a href="https://www.stimulus.com/">https://www.stimulus.com/</a>
+  <strong>Headquarters:</strong> London, UK
+    <br /><strong>URL:</strong> <a href="https://paymentology.com">https://paymentology.com</a>
 </p>
 
-<div><strong>About Stimulus</strong></div><div>
-<a href="https://www.stimulus.com/jobs/Stimulus.com">Stimulus</a> is a social platform started by Sticker Mule to show what's possible if your mission is to increase human happiness.</div><div><br></div><div><strong>We offer</strong></div><div>1. Remote work with flexible schedules</div><div>2. A privately owned, low-stress culture.</div><div>3. A fun "no bullshit" work environment</div><div><br></div><div>
-<strong>We like you to know<br></strong>1. Docker<br>2. NextJS<br>3. TypeScript<br>4. React<br>5. NodeJS<br>6. GraphQL<br>7. Redis</div><div><br></div><div><strong>Compensation and benefits</strong></div><div>1. Salary: $135k+ based on experience</div><div>2. $20,000 signing bonus</div><div>3. 4 weeks vacation + holidays based on your country of residence</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer">https://weworkremotely.com/remote-jobs/stimulus-software-engineer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/3890/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Springboard</h5>
-                    <h3> Mentor - Software Engineering Career Track (Part-time/Remote)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>306 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0016/3890/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> San Francisco, CA
-    <br /><strong>URL:</strong> <a href="https://www.springboard.com/">https://www.springboard.com/</a>
-</p>
-
-<div><strong>The Opportunity</strong></div><div><br></div><div>Springboard runs an online, self-paced Software Engineering Career Track in which participants learn with the help of a curated curriculum and 1-1 guidance from an expert mentor. Our mentor community - the biggest strength of our programs - comprises some of the best software engineering experts in the field.</div><div><br></div><div>If you are as passionate about mentoring as you are about software engineering, and can give a few hours per week in return for an honorarium, we would love to hear from you.</div><div><br></div><div>Please reach out to us with any questions at mentorrecruiting@springboard.com <br><br><strong>The Program</strong>
+<div>Paymentology is the first truly global issuer-processor, giving banks and fintechs the technology, team and experience to rapidly issue and process Mastercard, Visa and UnionPay cards across more than 50 countries, at scale. </div><div>Our advanced, multi-cloud platform, offering both shared and dedicated processing instances, vast global presence and richer, real-time data, set us apart as the leader in payments.<br><br>
+</div><div>As a <strong>Remote Senior Software Developer</strong> at Paymentology you'll be working in the Engineering team to build enterprise-level, highly scalable, highly secure financial processing systems that power tens of millions of transactions and tie them to web, mobile and API interfaces that make it easy for people to issue, redeem and reconcile prepaid and credit cards all over the world.<br><br><strong>What you get to do:</strong><br><br>This position requires the ability to develop high-quality and resilient solutions to meet the rapidly evolving needs of an issuer processor serving an international expanding customer base and to communicate effectively at all levels, from providing the right level of details in the status updates on your work to explaining technical trade-offs, technical complexities and design options so Paymentology can make informed decisions.</div><ul>
+<li>Work within a remote team disseminated throughout the world</li>
+<li>Architect, design and develop projects from end to end</li>
+<li>Make things simple for ourselves and our customers</li>
+<li>Collaborate with other engineers to prioritize and ship features</li>
+<li>Mentor other engineers on the team, and be mentored by others</li>
+<li>Partner with Product Managers to scope and estimate new work</li>
+<li>Participate in on-call coverage</li>
+</ul><div>
+<br><strong>What it takes to succeed:<br></strong><br>
+</div><div>We're looking for people that make stuff work with:</div><ul>
+<li>Experience developing in Java at scale (large systems with high availability and TPS requirements), but we welcome experience in other programming languages</li>
+<li>Experience with relational databases (MySQL, Postgres, MS SQL Server, Oracle, etc.)</li>
+<li>Experience in financial transaction processing/banking or related industries</li>
+<li>Experience with AWS as a cloud provider an advantage</li>
+</ul><div>
+<br><strong>Above all, we are looking for developers...</strong>
+</div><div><br></div><div>                                                         <em>Who love to write great software</em>
+</div><div>                                                     <em>Who are passionate about their craft</em>
+</div><div>                                               <em>Who are willing to learn, as well as coach</em>
+</div><div><br></div><div>Let’s also not forget languages (not the programming kind); While you will work with colleagues located throughout the world, English is our company language so it's important that you be able to communicate at a fluent level, in both spoken and written form.</div><div>Flexible hours are a must for our remote team. You’ll need to be able to occasionally shift your work hours to participate into on-call duties and better align with colleagues for the scope of specific projects.<br><br>
 </div><ul>
-<li>Completely online and self-paced</li>
-<li>Students become proficient in Software Engineering with the help of a curated online curriculum and project-based deliverables</li>
-<li>Coursework is made up of 800+ hour expert-curated curriculum in partnership with <a href="https://www.rithmschool.com/">Rithm School</a>
-</li>
-<li>On average, students finish in 9 months</li>
-<li>Students are working professionals from all over the world, dedicated to switching careers into Software Engineering</li>
-<li>Students have a weekly 30-minute checkin with their mentor to discuss questions, projects, and career advice!</li>
-</ul><div><strong>You</strong></div><ul>
-<li>are as passionate about teaching coding as about software engineering itself</li>
-<li>are proficient in the topics covered in our <a href="https://ddf46429.springboard.com/uploads/resources/1572915743_Software_Engineering_Career_Track_-_Syllabus_2019.11.04.pdf">Software Engineering Career Track</a> and are fluent in technologies such as HTML, CSS, JavaScript, React, Python, Flask, SQL, Data Structures and Algorithms</li>
-<li>have at least 3+ years of relevant work experience </li>
-<li>are available for weekly, 30-minute video check-ins with students to help them set and achieve learning goals, answer subject matter questions, provide feedback on projects, and offer career advice</li>
-<li>have experience critiquing work, in particular giving meaningful feedback on web development, and are able to think on your feet quickly</li>
-<li>are empathetic and have excellent communication skills</li>
-</ul><div><strong>Benefits</strong></div><ul>
-<li>Software Engineering mentors are paid an honorarium between $17.50-$32.50 per 30 minute call with students</li>
-<li>Membership in a rich community of expert mentors from great companies like AirBnB, Uber, Google, and Pivotal</li>
-<li>Change the lives of students in our program</li>
-<li>Help us revolutionize online education and inspire the next generation of software engineers!</li>
-<li>Work at your convenience</li>
-</ul><div><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></div>
+<li>Developing, managing and maintaining card network transactions at scale</li>
+<li>Building best-of-breed backend experiences for our customers, internal and external</li>
+<li>Create and review engineering design documentation</li>
+<li>Continuously improve our systems, infrastructure and processes with a focus on quality</li>
+<li>Create features, review each other's code and collaborate with a diverse set of stakeholders across the company</li>
+<li>Coach others</li>
+<li>Influence/drive the architectural decisions and processes on the platform, from unit testing/documentation requirements to implementation processes</li>
+</ul><div>
+<br><strong>What you can look forward to:</strong><br><br>
+</div><div>At Paymentology we value making a difference to the lives of the people who work for us and who live in the communities where we operate. You can look forward to working with a diverse, global team where Paymentologists at all levels play an important part in our global mission to advance the world through payments and make a difference on a global scale. </div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3">https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/paymentology-senior-software-engineer-1">https://weworkremotely.com/remote-jobs/paymentology-senior-software-engineer-1</a></p>
 
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1680264/logo" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Artifact</h5>
-                    <h3>Senior Software Engineer</h3>
+                    <h5>Sticker Mule</h5>
+                    <h3> Software Engineer (C++)</h3>
                 </td>
                 <td width="300">
-                    <code>go,python,sql,ai</code>
+                    <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>113 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1680264" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p style="min-height: 1.5em;">We are seeking a talented and experienced software engineer, with awesome SQL skills to help us connect our ETL data sources with our company’s databases. The ideal candidate will be responsible for implementing data integration solutions that are efficient, reliable, and scalable. This will include creating connectors for our customers, authentication flows, as well as cleaning and mapping the incoming data.</p>
-<div class="h3">What you’ll do at Artifact:</div>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Design, develop and maintain ETL workflows that efficiently moves data from source systems to our databases</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Rationalize large, complex, heterogeneous data sets that meet functional / non-functional business requirements</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Help identify and resolve data quality and integration issues.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Work with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs</p>
-</li>
-</ul>
-<div class="h3">Requirements</div>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Proficient in SQL, Go, Python, and Typescript</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Have good communication skills, willing and able to collaborate on cross-functional teams</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Strong problem-solving skills and attention to detail</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Ideal candidate would also</p>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Have experience with DBT</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Have experience with authentication flows</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Worked with microservices</p>
-</li>
-</ul>
-</li>
-</ul>
-<div class="h3">What Artifact does:</div>
-<p style="min-height: 1.5em;">Artifact helps teams centralize qualitative data into a single source of truth, and uses advanced but proven AI methods to synthesize actionable insights so they can instantly understand what’s most important to their customers.</p>
-<img src="https://remotive.com/job/track/1680264/blank.gif?source=public_api" alt=""/>
+                
+
+<p>
+  <strong>Headquarters:</strong> New York, NY
+    <br /><strong>URL:</strong> <a href="https://www.stickermule.com/careers">https://www.stickermule.com/careers</a>
+</p>
+
+<div><strong>About Sticker Mule</strong></div><div>Sticker Mule is the Internet's most "kick ass" brand. We are privately-owned, profitable, and powered by a globally distributed team that enjoys building happy customer experience at the highest technical standards. Our software team operates from 17 countries, and we're always looking for more exceptional engineers.<br><br>
+</div><div><a href="https://www.stickermule.com/about"><strong>See more about our teams here</strong></a></div><div><br></div><div><strong>We offer</strong></div><ol>
+<li>Remote work with flexible schedules</li>
+<li>A privately owned, low-stress culture.</li>
+<li>A fun "no bullshit" work environment</li>
+</ol><div><strong>We like you to know</strong></div><ol>
+<li>C++</li>
+<li>Go</li>
+<li>Postgres</li>
+<li>Docker</li>
+<li>Cloud Infrastructure</li>
+<li>Familiarity with C#</li>
+<li>Excellent communication skills (English)</li>
+<li>Degree in Computer Science or equivalent practical experience</li>
+</ol><div><strong>Challenges</strong></div><ol>
+<li>Improve factory automation software</li>
+<li>Migrate legacy services to Go</li>
+<li>Maintain a large C++ codebase</li>
+</ol><div><strong>Compensation and benefits</strong></div><ol>
+<li>Salary: $135k+ based on experience</li>
+<li>$20,000 signing bonus</li>
+<li>4 weeks vacation + holidays based on your country of residence</li>
+</ol>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c">https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -179,7 +141,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>ConvertKit is a powerful marketing platform built for creators, by creators. We help creators grow and monetize their audience with ease. For coaches, YouTubers, authors, podcasters, and other creatives, there isn’t a better marketing hub to rely on to grow audiences, automate email marketing, and sell digital products - all within one platform. More importantly, there isn’t a team more committed to helping creators earn a living.</p><p>We’re on a mission to help creators earn $1 billion using our creator marketing platform. We have always been 100% independent and 100% remote. We are proud to have built a product that our customers love, and we look for people who have enthusiasm and belief in our mission, vision, and values to join our team.</p><h3><br></h3><h3>The Role<br> </h3><p>You’ll join a team of engineers responsible for building out the newest component of our mission to help creators to earn a living online: the Creator Network. The Creator Network enables creators to join forces to help each other grow through recommendations, sponsorships, and more.</p><p> <br>This group cares deeply about creators and helping them along their journey. We’re looking for an engineer that enjoys the product side of product development; has empathy for the creators that we serve, and is eager to work in on a fast paced team that ships consistently. </p><p>To learn more about how our engineering team works, you can peruse <a href="https://convertkit.engineering/" rel="nofollow noreferrer noopener" class="external">our engineering blog</a>.</p><p><strong>Responsibilities</strong></p><ul> <li>Own solving problems across the full stack in collaboration with your team</li> <li>Actively participate in driving the technical direction of our codebase</li> <li>Collaborate with team members across the organization</li> </ul><h3>Requirements: </h3><ul> <li>At least 5 years building software in a team environment or equivalent experience. Years of experience doesn’t always capture expertise, so we encourage you to apply if you can demonstrate you’re well versed in building software in a team environment</li> <li>At least 2 years working professionally on a Ruby on Rails application - if you don’t have two years of experience but can demonstrate a confident grasp of Ruby on Rails, we encourage you to apply</li> <li>Experience working with JavaScript and React (or comparable framework)</li> <li>Experience writing code that is accessible, scalable, maintainable, and performant</li> <li>Comfortable working remotely in an autonomous environment - you don’t mind asking questions and problem solving in public communication channels</li> <li>Able to work in US time zones - you don’t have to live in those time zones, but you have to be able to collaborate with your teammates during those times</li> <li>Belief in our <a href="https://convertkit.com/mission" rel="nofollow noreferrer noopener" class="external">mission, vision, and values</a> </li> </ul><p><strong>Nice to Haves</strong></p><ul> <li>Experience building and/or integrating with machine learning models. </li> <li>Experience with algorithms for surfacing relevant content to users based on shared traits or interests</li> </ul><h3>Benefits: </h3><p>ConvertKit has standardized salaries based on position, no matter where you live. For this role, we’re hiring at a level 3 ($147,000) or level 4 ($174,000 ), out of five levels. Level is determined based on experience and our interview process.</p><p><strong>Other benefits include:</strong></p><ul> <li>Profit Sharing - <a target="_blank" href="https://twitter.com/nathanbarry/status/1491429183977050114" rel="nofollow noreferrer noopener" class="external">Learn about profit sharing and compensation at ConvertKit</a> </li> <li>Twenty (20) days of paid time off during each year of employment</li> <li>Paid paid vacation: An after-tax bonus of $1,000 for taking five consecutive days of vacation where you’re fully unplugged from work</li> <li>Ten paid holidays a year</li> <li>Monthly medical benefits up to $1,750 a month toward premiums. Dental and vision premiums covered 100%</li> <li>Two weeks of paid sick time each year, including mental health + well being days</li> <li>12 weeks paid parental leave and flexible scheduling in your child’s first year</li> <li>Childcare benefit up to $3,000 annually</li> <li>Up to six weeks of paid bereavement leave, medical leave, and disaster after six months of employment, two weeks of each paid leave in your first six months=</li> <li>Gender affirming benefits</li> <li>$4,000 equipment allowance for your first two years, $3,000 budget every following two years</li> <li>Individual learning + development budget ($3,500/year)</li> <li>Four-week, paid sabbatical after five years with the team</li> <li>Fantastic in-person or virtual retreats with the team twice a year</li> </ul><p><strong>How to Apply</strong></p><p>We know that most people hate interviewing (we relate!). We aim to make it as good of an experience as we can, and part of that includes keeping you informed during the process.</p><p>Here’s what you can expect from the process:</p><ol> <li>30 min - Recruiter screen</li> <li>30-45 min - Hiring Manager screen</li> <li>Homework Assignment</li> <li>60 min - Technical Interview to discuss HW</li> <li>60 min - Culture Contribution Chat</li> </ol><p>To get started, complete this application, including answers to the questions on the next page. <strong>We read every single application, and your responses to our application questions help put your experience into context.</strong></p><p><br></p><p>ConvertKit is an equal opportunity employer. We value diversity in all of its forms, and we hire the best person we can for each role, no matter your personal background. Research tells us that applicants who are female or non-binary, as well as applicants who are people of color, are less likely to apply for roles they do not feel 100% qualified for. If you think you meet more than 50% of our requirements but fewer than 100% of them, please apply. We’re imperfect communicators, so think of our job postings as the starting point for discussion rather than proof that you shouldn’t apply.</p><p><a href="https://apply.workable.com/convertkit/j/189B4A4E1C/apply/" rel="nofollow noreferrer noopener" class="external">Apply for this job</a></p>
+                <p>ConvertKit is a powerful marketing platform built for creators, by creators. We help creators grow and monetize their audience with ease. For coaches, YouTubers, authors, podcasters, and other creatives, there isn’t a better marketing hub to rely on to grow audiences, automate email marketing, and sell digital products - all within one platform. More importantly, there isn’t a team more committed to helping creators earn a living.</p><p>We’re on a mission to help creators earn $1 billion using our creator marketing platform. We have always been 100% independent and 100% remote. We are proud to have built a product that our customers love, and we look for people who have enthusiasm and belief in our mission, vision, and values to join our team.</p><h3><br></h3><h3>The Role<br> </h3><p>You’ll join a team of engineers responsible for building out the newest component of our mission to help creators to earn a living online: the Creator Network. The Creator Network enables creators to join forces to help each other grow through recommendations, sponsorships, and more.</p><p> <br>This group cares deeply about creators and helping them along their journey. We’re looking for an engineer that enjoys the product side of product development; has empathy for the creators that we serve, and is eager to work in on a fast paced team that ships consistently. </p><p>To learn more about how our engineering team works, you can peruse <a href="https://convertkit.engineering/" rel="nofollow noreferrer noopener" class="external">our engineering blog</a>.</p><p><strong>Responsibilities</strong></p><ul> <li>Own solving problems across the full stack in collaboration with your team</li> <li>Actively participate in driving the technical direction of our codebase</li> <li>Collaborate with team members across the organization</li> </ul><h3>Requirements: </h3><ul> <li>At least 5 years building software in a team environment or equivalent experience. Years of experience doesn’t always capture expertise, so we encourage you to apply if you can demonstrate you’re well versed in building software in a team environment</li> <li>At least 2 years working professionally on a Ruby on Rails application - if you don’t have two years of experience but can demonstrate a confident grasp of Ruby on Rails, we encourage you to apply</li> <li>Experience working with JavaScript and React (or comparable framework)</li> <li>Experience writing code that is accessible, scalable, maintainable, and performant</li> <li>Comfortable working remotely in an autonomous environment - you don’t mind asking questions and problem solving in public communication channels</li> <li>Able to work in US time zones - you don’t have to live in those time zones, but you have to be able to collaborate with your teammates during those times</li> <li>Belief in our <a href="https://convertkit.com/mission" rel="nofollow noreferrer noopener" class="external">mission, vision, and values</a> </li> </ul><p><strong>Nice to Haves</strong></p><ul> <li>Experience building and/or integrating with machine learning models. </li> <li>Experience with algorithms for surfacing relevant content to users based on shared traits or interests</li> <li>Experience with Elasticsearch</li> </ul><h3>Benefits: </h3><p>ConvertKit has standardized salaries based on position, no matter where you live. For this role, we’re hiring at a level 3 ($147,000) or level 4 ($174,000 ), out of five levels. Level is determined based on experience and our interview process.</p><p><strong>Other benefits include:</strong></p><ul> <li>Profit Sharing - <a target="_blank" href="https://twitter.com/nathanbarry/status/1491429183977050114" rel="nofollow noreferrer noopener" class="external">Learn about profit sharing and compensation at ConvertKit</a> </li> <li>Twenty (20) days of paid time off during each year of employment</li> <li>Paid paid vacation: An after-tax bonus of $1,000 for taking five consecutive days of vacation where you’re fully unplugged from work</li> <li>Ten paid holidays a year</li> <li>Monthly medical benefits up to $1,750 a month toward premiums. Dental and vision premiums covered 100%</li> <li>Two weeks of paid sick time each year, including mental health + well being days</li> <li>12 weeks paid parental leave and flexible scheduling in your child’s first year</li> <li>Childcare benefit up to $3,000 annually</li> <li>Up to six weeks of paid bereavement leave, medical leave, and disaster after six months of employment, two weeks of each paid leave in your first six months=</li> <li>Gender affirming benefits</li> <li>$4,000 equipment allowance for your first two years, $3,000 budget every following two years</li> <li>Individual learning + development budget ($3,500/year)</li> <li>Four-week, paid sabbatical after five years with the team</li> <li>Fantastic in-person or virtual retreats with the team twice a year</li> </ul><p><strong>How to Apply</strong></p><p>We know that most people hate interviewing (we relate!). We aim to make it as good of an experience as we can, and part of that includes keeping you informed during the process.</p><p>Here’s what you can expect from the process:</p><ol> <li>30 min - Recruiter screen</li> <li>30-45 min - Hiring Manager screen</li> <li>Homework Assignment</li> <li>60 min - Technical Interview to discuss HW</li> <li>60 min - Culture Contribution Chat</li> </ol><p>To get started, complete this application, including answers to the questions on the next page. <strong>We read every single application, and your responses to our application questions help put your experience into context.</strong></p><p><br></p><p>ConvertKit is an equal opportunity employer. We value diversity in all of its forms, and we hire the best person we can for each role, no matter your personal background. Research tells us that applicants who are female or non-binary, as well as applicants who are people of color, are less likely to apply for roles they do not feel 100% qualified for. If you think you meet more than 50% of our requirements but fewer than 100% of them, please apply. We’re imperfect communicators, so think of our job postings as the starting point for discussion rather than proof that you shouldn’t apply.</p><p><a href="https://apply.workable.com/convertkit/j/189B4A4E1C/apply/" rel="nofollow noreferrer noopener" class="external">Apply for this job</a></p>
                 </details>
                 </td>
             </tr>,<tr>
@@ -383,85 +345,6 @@
 <p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
 <p>Why Join MixRank? Fully-remote, no HQ office. Team of 32 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
 <p>Please include your updated resume when applying for this role.</p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Status</h5>
-                    <h3>Software Engineer (Typescript)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=5041268&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <h4>JS-Waku:</h4>
-<p>We are building Waku as a public good infrastructure. Waku is the messaging layer of Web3. It is a decentralized, censorship-resistant, privacy-preserving communication network that enables anyone to send and receive messages without worrying about surveillance or deplatforming. We are developing 3 open source implementations of Waku: nwaku, go-waku and js-waku. JS-Waku is the TypeScript implementation used in browser and web environments.</p>
-<p>Our main repo is https://github.com/waku-org/js-waku</p>
-<p>We are enabling Ethereum builders to create new projects with a fully decentralized architecture, think dApp to Wallet notifications, NFT marketplaces, censorship-resistant chat, layer-2 and more.</p>
-<p>We are looking for Software Engineers that are passionate about Ethereum, decentralization and developer experience. and who would relish the opportunity to create a first class decentralized machine-to-machine messaging interface and toolkit and bring these new capabilities to Web3 developers!</p>
-<h4>You will:&nbsp;</h4>
-<ul>
-<li>Design, implement and document Waku TypeScript libraries</li>
-<li>Implement new protocols as defined by the Research Team</li>
-<li>Investigate and fix issues in js-waku and upstream libraries such as js-libp2p</li>
-<li>Liaise with the libp2p team to resolve web-only libp2p matters (WebRTC, etc)</li>
-<li>Optimize js-waku and upstream libraries for the browser</li>
-<li>Support dApp developers in using js-waku and Waku TypeScript libraries</li>
-</ul>
-<h4>Ideally, you:&nbsp;</h4>
-<ul>
-<li>Have experience building applications with complex logic, cutting edge technology or applied research</li>
-<li>Are already familiar with the Ethereum community</li>
-<li>Have the ability to learn new concepts and technologies quickly, you are a polyglot</li>
-<li>Have passion for blockchain and decentralized technologies and understand how they work</li>
-<li>Have good communication skills (written and conversational)</li>
-<li>Have a strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></li>
-</ul>
-<h4>Bonus points if you have experience:</h4>
-<ul>
-<li>In Web development (TypeScript, JavaScript, etc)</li>
-<li>With js-libp2p or other libp2p implementations</li>
-<li>With transport layer: websocket, WebRTC, WebTransport</li>
-<li>In Web3 or blockchain development</li>
-<li>Working for an open source organization</li>
-<li>Working remotely</li>
-</ul>
-<p>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</p>
-<h4>Compensation:</h4>
-<p>We are happy to pay in either 100% fiat or any mix of fiat and/or crypto.&nbsp;</p>
-<p><strong>Hiring process:</strong></p>
-<ol>
-<li>Introductory call with member of the Talent team</li>
-<li>Culture and Pair programming session with js-waku Developer</li>
-<li>Technical &amp; Culture Interview with Waku Lead</li>
-<li>Final interview with Logos Lead&nbsp;</li>
-</ol>
-
-    
-
-    
 
                 </details>
                 </td>
@@ -710,6 +593,85 @@
 <p><strong>Compensation</strong></p>
 <p>The expected compensation range for this role is $65,000 - $80,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process. We are happy to pay in any mix of fiat/crypto).&nbsp;</p>
 <p>&nbsp;</p>
+
+    
+
+    
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
+                    <h3>Software Engineer (Typescript)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=5041268&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <h4>JS-Waku:</h4>
+<p>We are building Waku as a public good infrastructure. Waku is the messaging layer of Web3. It is a decentralized, censorship-resistant, privacy-preserving communication network that enables anyone to send and receive messages without worrying about surveillance or deplatforming. We are developing 3 open source implementations of Waku: nwaku, go-waku and js-waku. JS-Waku is the TypeScript implementation used in browser and web environments.</p>
+<p>Our main repo is https://github.com/waku-org/js-waku</p>
+<p>We are enabling Ethereum builders to create new projects with a fully decentralized architecture, think dApp to Wallet notifications, NFT marketplaces, censorship-resistant chat, layer-2 and more.</p>
+<p>We are looking for Software Engineers that are passionate about Ethereum, decentralization and developer experience. and who would relish the opportunity to create a first class decentralized machine-to-machine messaging interface and toolkit and bring these new capabilities to Web3 developers!</p>
+<h4>You will:&nbsp;</h4>
+<ul>
+<li>Design, implement and document Waku TypeScript libraries</li>
+<li>Implement new protocols as defined by the Research Team</li>
+<li>Investigate and fix issues in js-waku and upstream libraries such as js-libp2p</li>
+<li>Liaise with the libp2p team to resolve web-only libp2p matters (WebRTC, etc)</li>
+<li>Optimize js-waku and upstream libraries for the browser</li>
+<li>Support dApp developers in using js-waku and Waku TypeScript libraries</li>
+</ul>
+<h4>Ideally, you:&nbsp;</h4>
+<ul>
+<li>Have experience building applications with complex logic, cutting edge technology or applied research</li>
+<li>Are already familiar with the Ethereum community</li>
+<li>Have the ability to learn new concepts and technologies quickly, you are a polyglot</li>
+<li>Have passion for blockchain and decentralized technologies and understand how they work</li>
+<li>Have good communication skills (written and conversational)</li>
+<li>Have a strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></li>
+</ul>
+<h4>Bonus points if you have experience:</h4>
+<ul>
+<li>In Web development (TypeScript, JavaScript, etc)</li>
+<li>With js-libp2p or other libp2p implementations</li>
+<li>With transport layer: websocket, WebRTC, WebTransport</li>
+<li>In Web3 or blockchain development</li>
+<li>Working for an open source organization</li>
+<li>Working remotely</li>
+</ul>
+<p>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</p>
+<h4>Compensation:</h4>
+<p>We are happy to pay in either 100% fiat or any mix of fiat and/or crypto.&nbsp;</p>
+<p><strong>Hiring process:</strong></p>
+<ol>
+<li>Introductory call with member of the Talent team</li>
+<li>Culture and Pair programming session with js-waku Developer</li>
+<li>Technical &amp; Culture Interview with Waku Lead</li>
+<li>Final interview with Logos Lead&nbsp;</li>
+</ol>
 
     
 
