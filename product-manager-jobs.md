@@ -1,46 +1,117 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/2972/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/7719/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Carb Manager</h5>
+                    <h5>UENI</h5>
+                    <h3> SaaS Senior Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/ueni-saas-senior-product-manager" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0086/7719/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> United Kingdom
+    <br /><strong>URL:</strong> <a href="https://ueni.com/en-us">https://ueni.com/en-us</a>
+</p>
+
+<div>
+<strong>What’s the opportunity?<br></strong><br>
+</div><div>Are you a skilled Product Manager with a passion for building exceptional products? We're seeking an experienced, commercially-minded individual with strong communication skills, a proven track record in product management, project management, software development, and UX design, as well as significant experience with data architecture.<br><br>Please note that this role is based between GMT-5 to GMT+2.</div><div><br></div><div>
+<strong>Responsibilities </strong>- here are 2 of the initial projects that you would be expected to work on or lead:</div><ol>
+<li>Develop UENI for WordPress: Translate the UENI approach to website development and build it on the WordPress platform, combining proprietary tech, third-party tools, and operational processes for cost-effective outcomes.</li>
+<li>Implement a CRM: Utilize your expertise in data modeling and architecture to map out data architecture, data model diagrams, and data-collection/activation points throughout the customer journey. Drive the CRM project from architecture to implementation, in collaboration with tech and other stakeholders.</li>
+</ol><div><strong>Who are we looking for?</strong></div><ul>
+<li>Understands user experience and feels accountable for the product, end-to-end</li>
+<li>Highly autonomous and drives product development forward in the face of ambiguity</li>
+<li>Precisely defines use cases and communicates 'definitions of done'</li>
+<li>Collaborates well with varied stakeholders in the company to develop exceptional user experiences for external and internal customers</li>
+<li>Understands that 'product' encompasses all customer touchpoints</li>
+<li>Uses data for decisions; experience in querying and interpreting data (excellent SQL skills)</li>
+<li>Comfortable in technical discussions and skillful at defending pragmatic strategies and commercial objectives when working with technical people</li>
+<li>Able to simplify complex ideas</li>
+<li>Experience working with a product owner who you can bring on board to join us is a big plus<br><br>
+</li>
+</ul><div><strong>Requirements</strong></div><ul>
+<li>8+ years total work experience, including 5+ years as a Product Manager in Agile/Lean</li>
+<li>Background in startup B2C and B2B settings</li>
+<li>B.S. (or equivalent) in business, engineering, mathematics, design, or a related field</li>
+<li>Experience with SaaS, website builders, eCommerce, or fin-tech</li>
+<li>Strong expertise in data modeling and architecture, essential for CRM implementation</li>
+<li>Ability to organize, assimilate, and communicate complex problems and solutions</li>
+<li>Adept at cross-functional collaboration and shipping diverse product releases</li>
+<li>Strategic, can-do thinker with strong business acumen</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/ueni-saas-senior-product-manager">https://weworkremotely.com/remote-jobs/ueni-saas-senior-product-manager</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/7702/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>ClubRare</h5>
                     <h3> Senior Product Manager</h3>
                 </td>
                 <td width="300">
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/carb-manager-senior-product-manager" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/clubrare-senior-product-manager" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0084/2972/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0086/7702/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> United States
-    <br /><strong>URL:</strong> <a href="http://www.carbmanager.com">http://www.carbmanager.com</a>
+  <strong>Headquarters:</strong> London, England, United Kingdom
+    <br /><strong>URL:</strong> <a href="https://clubrare.xyz">https://clubrare.xyz</a>
 </p>
 
-<h3></h3>
-<h3>Company Overview:</h3>
-<p>Carb Manager is the #1 health and fitness app for people on low-carb, Keto, and other macro-focused diets, available on iOS, Android, and the web. Altogether, we've helped over 10 million people achieve their health goals since 2010. Carb Manager is a top health and fitness app in the iOS App Store, with a 4.8/5 rating with over 500,000 five-star reviews.<br></p>
-<p>We are seeking a highly motivated and talented individual to join our team as a Senior Product Manager. Reporting directly to the Chief Product Officer and working with a passionate and talented cross functional team, the Senior Product Manager will play a critical role in delivering on our growth strategy and optimizing retention and engagement of our existing users.<br></p>
-<p>This is an amazing company to work for. We offer:</p> <ul> <li>The benefits of  the work-from-home convenience</li> <li>The reach and impact of an established brand</li> <li>The energy and dynamism of a startup</li> <li>The stability of a profitable company</li> <li>A creative, entrepreneurial, friendly, and supportive culture</li> <li>The ability to make a real, positive impact on the world</li> </ul>
-<p><br></p> <h3>Responsibilities</h3>The Senior Product Manager will lead the roadmap on new user growth and existing user engagement &amp; retention. <ul> <li>Own the growth and retention outcomes from end to end</li> <li>Identify growth and engagement opportunities through a deep analysis of market trends including platform changes, new &amp; existing channels, user taste and needs shifts, and other opportunities</li> <li>Establish growth and engagement KPIs and goals</li> <li>Produce detailed product requirement documents and specifications</li> <li>Develop conceptual diagrams, wireframes, prototypes, and visual mockups</li> <li>Frequently utilize rapid experimentations, including but not limited to A/B testing, to inform and refine product hypotheses</li> <li>Follow our Agile processes and work closely with cross-functional teams consisting of UX researchers, product designers, engineering, content, and marketing to effectively set product OKRs and roadmap initiative plans</li> <li>Understand the competitive landscape for Carb Manager and use it to shape product strategy</li> <li>Coordinate/communicate updates and releases with internal cross-functional teams</li> <li>Manage multiple assignments and align them with business priorities &amp; deadlines</li> </ul>
-<p><strong>Requirements</strong></p>
+<p>ClubRare is working to create a platform that places collectors at the center of the shopping experience in the Metaverse. Through the use of Web3 technology and Phygital NFTs, the platform will connect collectors and creators directly, blurring the boundaries between the real world and the Metaverse.</p>
+<p>We are a fully remote company with no fixed headquarters. As a distributed company, we embrace a diverse and inclusive culture that transcends geographical borders. Our team members come from all over the world and bring a rich array of experiences, perspectives, and lifestyles to the team.</p>
 <p><br></p>
-<ul> <li>3- 5 years of experience in product management (consumer mobile or consumer web) with strong focus on growth and optimization</li> <li>Strong servant leadership mindset and practices</li> <li>Strong bias-for-action in moving opportunities forward with speed and discipline</li> <li>Ability to create wire-frames and product specifications</li> <li>Great data analysis and problem solving skills</li> <li>Strong Agile management skills and ability to coordinate work cross functionally</li> <li>Ability to lead, motivate, and develop a small team - including those who do not directly report to you</li> <li>A passion for creating engaging and high quality experiences</li> <li>Excellent written/verbal, organizational, analytical skills, and attention to detail</li> <li>Ability to provide clear direction based on deconstructing industry and competitor trends</li> <li>Previous start-up, digital platform, and/or consulting experience is a plus</li> <li>Past experience in managing teams is a strong plus</li> <li>Previous working experience as a product owner is a plus</li> <li>BA/BS degree</li> <li>MBA a plus</li> </ul>
-<p><strong>Benefits</strong></p>
-<p>We're a fun, friendly, talented group of product-minded professionals, who love designing features that delight and support our customers, learning new technologies, sharing memes, and swapping recipes. Our team hails from all corners of the globe, from the Americas to Europe to India and beyond.</p>
-<ul> <li>Work from anywhere</li> <li>Competitive salary</li> <li>Medical/dental/vision coverage</li> <li>401(k) option for U.S. employees</li> <li>Paid holidays and vacation days</li> <li>Fun, friendly, and talented coworkers</li> <li>The opportunity to make a positive change in the lives of millions</li> </ul>
-<p>To apply, please submit your resume and a cover letter including a brief description of your relevant experience. We look forward to hearing from you! </p>
+<h3>What's in It for you?</h3>
+<ul><li>Be a vital member of a cutting-edge project and take your career to the next level.</li></ul>
+<ul><li>Work from anywhere, on your own schedule, and be part of a team that shares your values and has a clear vision.</li></ul>
+<ul><li>Have the chance to shape the future of an innovative new model for cryptocurrency and blockchain applications.</li></ul>
+<ul><li>Get hands-on experience with the latest tech and systems, and challenge yourself to learn and grow.</li></ul>
+<ul><li>Play an active role in one of the most significant technological innovations in human history.</li></ul>
+<ul><li>Be compensated with a competitive salary paid in crypto for your dedication and efforts.</li></ul>
+<p><br></p>
+<h3>Who you are</h3>
+<p>Our team thrives on six core values: Integrity, always acting ethically; Intentionality, working purposefully; Empathy, understanding others; Resilience, overcoming challenges; Insight, bringing awareness; and Analysis, making data-driven decisions.</p>
+<p>We seek individuals who embody these principles, contribute unique perspectives, and are ready to make a meaningful impact.</p>
+<p>If this sounds like you - come join us if you are looking to disrupt.</p>
+<p><br></p>
+<h3>Responsibilities</h3>
+<ul> <li>Focused on our Marketplace, which recently added a new feature called "My Profile".</li> <li>Work on live product operation, ensuring the stability and functionality of the product, and troubleshooting any issues that arise. Continuously monitor and optimize the live product operation to improve user experience and business metrics.</li> <li>Develop and execute product strategy and roadmap, focusing on scaling and improving product operations.</li> <li>Manage the product development backlog, ensuring it is properly organized, prioritized, and kept up to date.</li> <li>Build and maintain strong relationships with the engineering team, ensuring timely delivery of product features and functionality.</li> <li>Plan and manage engineering and design sprints to ensure deadlines are met.</li> <li>Conduct ongoing market and competitive research to continuously assess our product's competitiveness and generate new ideas for product development.</li> <li>Collaborate with cross-functional teams to gather and analyze market feedback, customer needs, and competitive landscape to inform product decisions.</li> <li>Establish and maintain relationships with our user community to gather feedback and insights.</li> <li>Utilize community feedback to drive product innovation and ensure user satisfaction.</li> <li>Thrive in a fast-paced startup environment, with the ability to adapt quickly to changes and make sound decisions.</li> <li>Report to the CEO.</li> </ul>
+<p><strong>Requirements</strong></p>
+<ul> <li>5+ years of experience as a Product Manager with extensive knowledge of consumer-facing and social products, live product operations, and/or eCommerce.</li> <li>Proven track record of building successful products from conception to launch, scaling and improving product operations, and driving growth and profitability.</li> <li>Experience working on live product operations.</li> <li>Strong communication and collaboration skills with the ability to build strong relationships with cross-functional teams.</li> <li>Experience with community engagement and feedback gathering, with a focus on driving innovation and user satisfaction.</li> <li>Very consumer-facing with social elements.</li> <li>Ability to work in a fast-paced startup environment and adapt quickly to changes.</li> </ul>
+<p><br></p>
+<p>At ClubRare, we believe that talent knows no boundaries. Our company is built on a foundation of collaboration and teamwork, and we believe that the best ideas can come from anywhere, that's why we encourage you to apply, no matter where you are located.</p>
+<p>We are committed to creating a work environment that is inclusive and welcoming to all. As an equal-opportunity employer, we do not discriminate on the basis of race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or any other characteristic. We believe that diversity is a source of strength and all qualified candidates will be given equal consideration for employment at ClubRare.</p>
+<p>Discover more about ClubRare and what we stand for by visiting our website at <a href="http://www.clubrare.xyz/" class="external">www.clubrare.xyz</a></p>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/carb-manager-senior-product-manager">https://weworkremotely.com/remote-jobs/carb-manager-senior-product-manager</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clubrare-senior-product-manager">https://weworkremotely.com/remote-jobs/clubrare-senior-product-manager</a></p>
 
                 </details>
                 </td>
@@ -56,7 +127,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>95 days ago</text>
+                <text>97 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1" align="right" target="_blank">Apply</a>
@@ -125,7 +196,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>551 days ago</text>
+                <text>553 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
