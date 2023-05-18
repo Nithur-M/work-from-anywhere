@@ -1,5 +1,45 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/7766/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Little Bear Labs</h5>
+                    <h3> Staff Full Stack Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/little-bear-labs-staff-full-stack-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0086/7766/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Boulder, Colorado, United States
+    <br /><strong>URL:</strong> <a href="https://littlebearlabs.io/">https://littlebearlabs.io/</a>
+</p>
+
+<p>Little Bear Labs is a startup lab and consultancy working with startups to turn their visions into a reality.  We're a team of fully remote senior engineers that enjoy working together on difficult problems and have years of experience working with startups during their funding phases and guiding them to success.<br></p>
+<p><br>We're looking for a Staff Full Stack Engineer to join our all-senior team who thrives on wearing many hats and working directly with early startups where you get to collaborate with their executive team and engineers to understand their vision and bring it to life.<br><br>Base salary of $160 - 200k + Bonus + Benefits<br><br><a href="https://littlebearlabs.io/" class="external">https://littlebearlabs.io/</a><br><br></p> <p><strong>Who You Are</strong></p> <ul> <li>You are an expert in your craft with years of experience who loves working with the latest tech stack and working on challenging problems that could be the first of their kind.</li> <li>You love working with awesome people who leave their egos at the door and work as a team for the success of the client. </li> <li>You like helping your team learn from your mistakes and findings but also love learning from others and receiving feedback. </li> <li>You are not afraid of learning new technologies or tackling the never been done. </li> <li>You want to work with startups in their most critical phases where your contributions are most valued.</li> <li>You are comfortable working with consulting clients (or are willing to learn to be) and can be professional while representing your company.</li> <li>You have good communication skills and are at ease raising issues and concerns.</li> </ul>
+<p><strong>Requirements</strong></p>
+<ul> <li>5+ years of professional software development experience with JavaScript/TypeScript.</li> <li>Deep understanding of and production experience with React.</li> <li>Exposure to Next.js and other modern JS tooling.</li> <li>2+ years of professional software development experience with Go.</li> <li>Experience working with backend APIs and relational or NoSQL databases.</li> <li>Experience with writing automated tests.</li> <li>Experience with any major cloud provider (GCP, AWS, Azure).</li> <li>Familiarity with Docker.</li> <li>Excellent written and verbal communication skills.</li> <li>In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire.</li> </ul>
+<p><strong>Benefits</strong></p>
+<ul> <li>100% remote team</li> <li>Unlimited PTO</li> <li>Paid food Fridays (Postmates / Grubhub / etc)</li> <li>Weekly water coolers (board games / video games / catching up)</li> <li>Strong enthusiasm for tech, programming and pets</li> <li>Focus on continuous improvement and team collaboration</li> <li>401(k)</li> </ul>
+<p>#LI-REMOTE</p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/little-bear-labs-staff-full-stack-engineer">https://weworkremotely.com/remote-jobs/little-bear-labs-staff-full-stack-engineer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1387074696831672327/C7WTpiAb_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
