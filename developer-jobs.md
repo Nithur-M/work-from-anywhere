@@ -1,5 +1,92 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/7781/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Clutchy</h5>
+                    <h3> Senior Full-Stack Developer (React, Node.js)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/clutchy-senior-full-stack-developer-react-node-js" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0086/7781/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Europe
+    <br /><strong>URL:</strong> <a href="http://clutchy.io">http://clutchy.io</a>
+</p>
+
+<div>
+<strong>Please Note: This is a fully remote position for candidates based anywhere in Europe.<br></strong><br>
+</div><div>
+<br><br>
+</div><div>
+<strong>About Clutchy<br></strong><br>
+</div><div>Clutchy is an industry-leading Gaming and NFT marketplace on the SUI blockchain. As the first official marketplace partner of Mysten Labs, Clutchy works closely with all of the ecosystem's leading projects. Clutchy is home to an ambitious, cohesive, and high-achieving team that has exceeded all expectations since its inception with its dedication to innovation.<br><br>
+</div><div>
+<br><br>
+</div><div>
+<strong>The Role<br></strong><br>
+</div><div>We’re looking for a <strong>Senior Full-Stack Developer</strong> to develop for Clutchy´s innovative NFT and Gaming Marketplace.<br><br>
+</div><div>You will:</div><ul>
+<li>Write and maintain efficient, reusable, and reliable code for websites' front-end and back-end</li>
+<li>Implement current best practices and coding standards</li>
+<li>Have an entrepreneurial spirit and bring ideas to the development</li>
+<li>Work effectively with a degree of autonomy, but also enjoy working collaboratively in a team</li>
+</ul><div>
+<br><strong>Requirements</strong>
+</div><ul>
+<li>5+ years of experience in full-stack development</li>
+<li>Strong experience in front-end development with <strong>React</strong>
+</li>
+<li>Experience with <strong>TypeScript</strong>
+</li>
+<li>Strong experience in back-end development with <strong>Node.js</strong>
+</li>
+<li>Cloud: <strong>AWS</strong>: Lambdas, VPC, AppSync, RDS, EKS, Aurora</li>
+<li>Database: PostgreSQL or MySQL</li>
+<li>Experience with NoSQL: Dynamodb or MongoDB</li>
+</ul><div>
+<br><br>
+</div><div><strong>Nice to Haves</strong></div><ul>
+<li>Experience with Rust</li>
+<li>Experience with Docker</li>
+<li>Experience with Terraform</li>
+<li>Git with GitHub or GitLab</li>
+<li>SOLID principle, Hexagonal architecture, OOP, Aspect-oriented programming, reactive architectures</li>
+<li>Observability with DataDog, or similar</li>
+<li>Tests: unit tests, integrations tests (ideally test containers)</li>
+<li>Experience in a Web3 company or with Web3 technologies</li>
+<li>Interest and enthusiasm for crypto, blockchain technology, Web3 gaming, or NFTs</li>
+<li>Dapps: Some experience with Solidity</li>
+<li>Wallet Integrations: Metamask, or similar</li>
+<li>Cryptographic Knowledge: RSA</li>
+</ul><div>
+<br><strong>Benefits</strong>
+</div><ul>
+<li>Competitive salary + tokens/equity</li>
+<li>100% remote working</li>
+<li>Flexible working hours</li>
+<li>Opportunity to work with a diverse, global, and passionate team</li>
+<li>Collaboration with leading projects and thought leaders in the crypto space</li>
+</ul><div><br></div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clutchy-senior-full-stack-developer-react-node-js">https://weworkremotely.com/remote-jobs/clutchy-senior-full-stack-developer-react-node-js</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/7731/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +97,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-senior-whmsc-web-developer-lead" align="right" target="_blank">Apply</a>
@@ -94,7 +181,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proemion-embedded-linux-developer-all-genders-welcome-remote-in-europe" align="right" target="_blank">Apply</a>
@@ -169,7 +256,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/internet-projects-ltd-senior-symfony-php-full-stack-developer-remote-full-time-1" align="right" target="_blank">Apply</a>
@@ -218,7 +305,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>180 days ago</text>
+                <text>181 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/awesome-motive-wordpress-developer-1" align="right" target="_blank">Apply</a>
@@ -337,7 +424,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>841 days ago</text>
+                <text>842 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1" align="right" target="_blank">Apply</a>
@@ -419,7 +506,7 @@
                     <code>CSS,developer,excel,git</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -494,7 +581,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -571,7 +658,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -708,7 +795,7 @@
                     <code>azure,cloud,developer,django</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -773,7 +860,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -850,7 +937,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -994,7 +1081,7 @@
                     <code>CSS,developer,docker,blockchain</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/web-developer-1667108" align="right" target="_blank">Apply</a>
@@ -1050,7 +1137,7 @@
                     <code>developer,seo,social media,ai</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-ai-application-developer-cohort-4-1665505" align="right" target="_blank">Apply</a>
@@ -1090,7 +1177,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -1263,7 +1350,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b><span style="font-size: 18pt">Building the Internet of Money&nbsp;</span></b></div><div><br></div><div><span style="font-size: 10.5pt">Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</span></div><div><br></div><div><span style="font-size: 10.5pt">What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the adoption of cryptocurrency so the world can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Before you apply, please read the </span><a href="https://kraken-culture.notion.site/" style="font-size: 10.5pt" class="postings-link">Kraken Culture Explained</a><span style="font-size: 10.5pt"> to learn more about our internal culture, values, and mission.</span></div><div><br></div><div><span style="font-size: 10.5pt">As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who have a long track record of building premium products for professionals and institutions as well as newcomers to the space. Kraken is committed to industry-leading security through our products like </span><a href="https://pro.kraken.com/" style="font-size: 10.5pt" class="postings-link">Kraken Pro</a><span style="font-size: 10.5pt">, </span><a href="https://www.kraken.com/en-us/nft" style="font-size: 10.5pt" class="postings-link">Kraken NFT</a><span style="font-size: 10.5pt">, and </span><a href="https://cryptowat.ch/" style="font-size: 10.5pt" class="postings-link">Cryptowatch</a><span style="font-size: 10.5pt">, with a focus on world-class customer support and </span><a href="https://www.kraken.com/learn" style="font-size: 10.5pt" class="postings-link">crypto education</a><span style="font-size: 10.5pt"> for all.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Become a Krakenite and build the internet of money!</span></div><div><br></div><div><b style="font-size: 24px">Proof of work</b></div><div><br></div><div><b><span style="font-size: 18px">The team</span></b></div><div><br></div><div>At Staked we combine software and systems engineering to build and run large-scale, fault-tolerant staking node infrastructure for 40+ blockchains. We're looking for someone with a broad understanding of software Development, DevOps, and a deep knowledge of Blockchain preferably Ethereum.</div><div><br></div><div>Staked is hiring a Backend Blockchain Developer to join a high-impact team to identify and capitalize on algorithmic ways to improve yield from staking.&nbsp; The team focuses on Ethereum and other protocols, and is currently working on projects surrounding MEV across DeFi. Join the team on the cutting edge of blockchain technology and help us figure out how to deliver alpha to our customers.&nbsp;</div></div><div class="section page-centered"><div><h3>The opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Drive software development through the development lifecycle, taking prototypes from idea to production.&nbsp;&nbsp;</li><li>Contribute to thought-leadership and analytics that will inevitably change the roadmap and induce pivots.</li><li>Develop the software stack responsible for watching mempool transactions and identifying profitable MEV opportunities. This might include searchers (algorithmic logic) for liquidation or arbitrage, the software stack we use to evaluate transactions in the mempool, and our custom clients designed to deliver the most profitable block.</li><li>Evaluate third-party solutions like Flashbots to determine their suitability for inclusion in our strategy. As appropriate, design a solution that incorporates their technology.</li><li>Use our data stack to determine the most profitable strategies and mimic them.</li><div><br></div></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>Experience working with at least two software systems on a professional team.</li><li>Proficiency in one or more object oriented languages, such as typescript, golang or python with a flexibility to work in any language.</li><li>Experience with numerical methods/algorithms in optimization software.</li><li>Passion for performance-oriented, event-driven backend systems (Eg. trading technology, ad-tech, risk, finance, or distributed web-apps/systems).</li><li>Enough SQL skills to do basic analytics of time series data, and willing to learn more.</li><li>Nice to haves include experience with event-driven systems, Docker, Kubernetes, solidity, and developing smart contracts.</li><li>Smart and collaborative. These are hard problems with lots of potential solutions. We’re looking for people that want to solve them as part of a team.</li><li>Understanding of test-driven development and other techniques to make maintainable financial applications.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>#US #CANADA #LI-LM1</div><div><br></div><div><span style="font-size: 10.5pt">Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</span></div><div><br></div><div><span style="font-size: 10.5pt">As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</span></div><div><br></div><div><b><span style="font-size: 13.5pt">Stay in the know</span></b></div><div><br></div><div><a href="https://twitter.com/krakenfx" style="font-size: 10.5pt" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" style="font-size: 10.5pt" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" style="font-size: 10.5pt" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/cca5342c-2de7-4267-9aa2-bca911a06c9f/apply">Apply for this job</a></div>
+                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Internet of Money&nbsp;</b></div><div><br></div><div><span style="font-size: 10.5pt">Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</span></div><div><br></div><div><span style="font-size: 10.5pt">What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the adoption of cryptocurrency so the world can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Before you apply, please read the </span><a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture Explained</a><span style="font-size: 10.5pt"> to learn more about our internal culture, values, and mission.</span></div><div><br></div><div><span style="font-size: 10.5pt">As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who have a long track record of building premium products for professionals and institutions as well as newcomers to the space. Kraken is committed to industry-leading security through our products like </span><a href="https://pro.kraken.com/" style="font-size: 10.5pt" class="postings-link">Kraken Pro</a><span style="font-size: 10.5pt">, </span><a href="https://www.kraken.com/en-us/nft" style="font-size: 10.5pt" class="postings-link">Kraken NFT</a><span style="font-size: 10.5pt">, and </span><a href="https://cryptowat.ch/" style="font-size: 10.5pt" class="postings-link">Cryptowatch</a><span style="font-size: 10.5pt">, with a focus on world-class customer support and </span><a href="https://www.kraken.com/learn" style="font-size: 10.5pt" class="postings-link">crypto education</a><span style="font-size: 10.5pt"> for all.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Become a Krakenite and build the internet of money!</span></div><div><br></div><div><b style="font-size: 24px">Proof of work</b></div><div><br></div><div><b><span style="font-size: 18px">The team</span></b></div><div><br></div><div>At Staked we combine software and systems engineering to build and run large-scale, fault-tolerant staking node infrastructure for 40+ blockchains. We're looking for someone with a broad understanding of software Development, DevOps, and a deep knowledge of Blockchain preferably Ethereum.</div><div><br></div><div>Staked is hiring a Backend Blockchain Developer to join a high-impact team to identify and capitalize on algorithmic ways to improve yield from staking.&nbsp; The team focuses on Ethereum and other protocols, and is currently working on projects surrounding MEV across DeFi. Join the team on the cutting edge of blockchain technology and help us figure out how to deliver alpha to our customers.&nbsp;</div></div><div class="section page-centered"><div><h3>The opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Drive software development through the development lifecycle, taking prototypes from idea to production.&nbsp;&nbsp;</li><li>Contribute to thought-leadership and analytics that will inevitably change the roadmap and induce pivots.</li><li>Develop the software stack responsible for watching mempool transactions and identifying profitable MEV opportunities. This might include searchers (algorithmic logic) for liquidation or arbitrage, the software stack we use to evaluate transactions in the mempool, and our custom clients designed to deliver the most profitable block.</li><li>Evaluate third-party solutions like Flashbots to determine their suitability for inclusion in our strategy. As appropriate, design a solution that incorporates their technology.</li><li>Use our data stack to determine the most profitable strategies and mimic them.</li><div><br></div></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>Experience working with at least two software systems on a professional team.</li><li>Proficiency in one or more object oriented languages, such as typescript, golang or python with a flexibility to work in any language.</li><li>Experience with numerical methods/algorithms in optimization software.</li><li>Passion for performance-oriented, event-driven backend systems (Eg. trading technology, ad-tech, risk, finance, or distributed web-apps/systems).</li><li>Enough SQL skills to do basic analytics of time series data, and willing to learn more.</li><li>Nice to haves include experience with event-driven systems, Docker, Kubernetes, solidity, and developing smart contracts.</li><li>Smart and collaborative. These are hard problems with lots of potential solutions. We’re looking for people that want to solve them as part of a team.</li><li>Understanding of test-driven development and other techniques to make maintainable financial applications.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>#US #CANADA #LI-LM1</div><div><br></div><div><span style="font-size: 10.5pt">Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</span></div><div><br></div><div><span style="font-size: 10.5pt">As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</span></div><div><br></div><div><b style="font-size: 13.5pt">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" style="font-size: 10.5pt" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" style="font-size: 10.5pt" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" style="font-size: 10.5pt" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/cca5342c-2de7-4267-9aa2-bca911a06c9f/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -2085,30 +2172,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and  we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure everyone is successful. We are truly a great place to work. For more details about our company go to <a href="http://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">Cloudlinux.com</a>.</p><p>Imunify Security is an innovative security solution, powered by Artificial Intelligence for Linux web servers. It is designed specifically for shared and VPS/Dedicated servers. The automated, easy-to-use security solution with the six-layer approach to security delivers comprehensive and complete attack prevention.</p><p>Work is fully remote, so you can work from anywhere. </p><p>More details about the project you can find on the product website <a href="http://imunify360.com/" rel="nofollow noreferrer noopener" class="external">Imunify360.com</a>, and about the company on <a href="https://www.cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">Cloudlinux.com</a>.</p><p>Join us to make a difference!</p><p><strong>What you will do:</strong></p><ul> <li>Be involved in the development of Imunify360 products using Python. </li> <li>Cover your code with unit tests and/or functional tests.</li> <li>Review of code written by your colleagues using Gerrit.</li> <li>Architecture development and writing technical documentation for new features.</li> <li>Investigating issues reported by our clients, partners, or support team.</li> </ul><h3>Requirements: </h3><p><strong>Qualifications that we are looking for:</strong></p><ul> <li>3+ years of Python programming experience.</li> <li>Experience in system programming: sockets, filesystem, process management</li> <li>Experience with Linux servers administration is a huge plus</li> <li>Experience with network security is a plus</li> <li>Experience with automated testing and CI/CD systems is a plus</li> <li>Knowledge about rpm/deb package management is a plus</li> <li>Intermediate level of English language.</li> </ul><p><strong>Personal skills:</strong></p><ul> <li>Fast-learning, proactivity.</li> <li>Strong self-motivation, driven to achieve committed milestones.</li> <li>Strong prioritization skills and a flexible mindset </li> <li>The ability to independently analyze a task and find the right solution.</li> <li>The ability to work with vague requirements and making independent decisions</li> <li>The ability to work in a team.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> </li> <li>Flexible working hours</li> <li>Paid 24 days of vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>C Developer for Imunify - REMOTE/Work Anywhere</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/50A1FDB0BF" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We are looking to hire a C Developer, who will be part of our Imunify360 team.</p><p>Imunify360 Security Suite is a product of CloudLinux Inc., the maker of the #1 OS in security and stability for hosting providers. Imunify is an innovative security solution designed specifically for shared and VPS/Dedicated servers. The automated, easy-to-use solution with the six-layer approach to security delivers comprehensive and complete attack prevention. In this position, you will work and contribute to major, open-source projects like Apache HTTPD, OpenSSL, and MySQL. You will also backport security fixed to stable, maintaining versions of those projects.</p><p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and  we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure everyone is successful. We are truly a great place to work.</p> <p>For more details about our company go to <a href="http://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">Cloudlinux.com</a>.</p> <p><strong>As our C Developer, you will be responsible for:</strong></p><ul> <li>Designing and implementing  security modules for various Linux software (Apache, Nginx, PHP, dovecot, Pam)</li> <li>Optimizing algorithms used in existing code to reduce overhead</li> <li>Cover your code with unit and functional tests</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role you should have:</strong></p><ul> <li>5+ years of С programming experience</li> <li>GNU/Linux operating system administration and shell scripting experience</li> <li>Ability to work with various build systems like Autotools, make and cmake</li> <li>Experience with git-based development processes</li> <li>Experience in debugging (mostly gdb and command line)</li> <li>Experience in zend php extension development will be a plus</li> <li>Experience in the development of web-server modules: Nginx , Apache/OpenLiteSpeed and understanding of the web-server architecture and workflow will be a plus</li> <li>Golang language knowledge will be a plus</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> </li> <li>Flexible working hours</li> <li>Paid 24 days of vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em>
                 </details>
                 </td>
             </tr></table>
