@@ -1,5 +1,59 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/7819/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>QuickTrials</h5>
+                    <h3> Full Stack Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/quicktrials-full-stack-software-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0086/7819/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Switzerland
+    <br /><strong>URL:</strong> <a href="https://quicktrials.com">https://quicktrials.com</a>
+</p>
+
+<h1>Full Stack Software Engineer</h1><div>We’re growing and looking for a talented, full-stack web developer to join the QuickTrials team!  <br><br>
+</div><div>QuickTrials is a category-leading SaaS product that is used to collect field trial data around the world.  We play a part in helping to speed up agricultural innovation, which is important in these times of climate change and other global pressures.  The job is multifaceted and involves interesting computer science challenges that require deep thinking and strong coding skills.  You’ll be working with a great team of co-workers in a positive, results focused environment. It is a rewarding position where you can develop your skills and grow with the company.<br><br>
+</div><div><strong>Skills</strong></div><div>We are looking for a developer who is detail oriented and can work through complex issues to find elegant solutions.  Key technical skills include: </div><ul>
+<li>Python</li>
+<li>Typescript</li>
+<li>SQL</li>
+<li>HTML/CSS</li>
+</ul><div>The ideal candidate would also have good mathematical skills and know some: </div><ul>
+<li>Flutter</li>
+<li>Knockout.js</li>
+<li>Django</li>
+<li>Google Cloud</li>
+</ul><div>
+<br><strong>Location</strong>
+</div><div>This is a remote-work opportunity and is location-independent. Engineers from Europe or Brazil (or similar time zones) are preferred.  A good command of English is required. <br><br>
+</div><div><strong>Application Process </strong></div><div>We understand that job seeking can be time consuming and we try to keep the evaluation process to a minimum.  You can expect the following process.</div><ol>
+<li>Apply at the email below (5 min)</li>
+<li>If selected, complete an application form with some small coding exercises (60 min)</li>
+<li>If selected, complete a full technical interview with an engineer (30-60 min)</li>
+</ol><div>If this sounds like your kind of opportunity then we'd love to hear from you.  Please send us an email (jobs@quicktrials.com) with your CV and information about your availability.  We look forward to hearing from you!<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/quicktrials-full-stack-software-engineer">https://weworkremotely.com/remote-jobs/quicktrials-full-stack-software-engineer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/7766/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +64,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/little-bear-labs-staff-full-stack-engineer" align="right" target="_blank">Apply</a>
