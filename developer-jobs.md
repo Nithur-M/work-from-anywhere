@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/inspirehq-fullstack-developer-phoenix-liveview-elixir" align="right" target="_blank">Apply</a>
@@ -65,7 +65,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clutchy-senior-full-stack-developer-react-node-js" align="right" target="_blank">Apply</a>
@@ -152,7 +152,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-senior-whmsc-web-developer-lead" align="right" target="_blank">Apply</a>
@@ -229,17 +229,17 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Proemion</h5>
-                    <h3> Embedded Linux Developer (all genders welcome) Remote in Europe</h3>
+                    <h5>XM</h5>
+                    <h3> Senior PHP Web Developers– Cyprus, Greece or Remote</h3>
                 </td>
                 <td width="300">
-                    <code>Full-Stack Programming</code>
+                    <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>150 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proemion-embedded-linux-developer-all-genders-welcome-remote-in-europe" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -248,103 +248,41 @@
                 
 
 <p>
-  <strong>Headquarters:</strong> Germany Fulda
+  <strong>Headquarters:</strong> Cyprus, Greece or Remote
+    <br /><strong>URL:</strong> <a href="https://xm.com">https://xm.com</a>
 </p>
 
-<h2>Description</h2>
-<p>We are looking for you as as <strong>Embedded Linux Developer</strong> (all genders welcome) <strong>at the earliest possible date</strong> for our Headquarters in Fulda, Germany, remote in Europe, or at least 6h overlap with CET 9-17 working hours.</p>
-<p>In the Embedded Software team, we build the software that powers devices which connect to a modern analytics and visualization platform, collecting data from industrial machinery all around the globe.</p>
-<h2>In return, we offer you</h2>
-<ul>
-<li>Intensive Onboarding and targeted individual trainings and development opportunities</li>
-<li>A high degree of creative and decision-making freedom and plenty of room for innovative work</li>
-<li>Short lines of communication and accessible team leaders</li>
-<li>1on1 focused on helping you grow</li>
-<li>No micromanagement</li>
-<li>Flexitime and choice between fully remote and home office days to guarantee a nice work-life balance</li>
-<li>Well-established process for submitting ideas via RFCs and a lightweight approval process</li>
-<li>A company that already scores “high-performer” as per the metrics from the Accelerate book (AKA the "DORA" metrics) and wants all teams to achieve the same</li>
-<li>For onsite work: a modern and open working environment with lounges, kicker-table, pool billard table and team events, free soft drinks, coffee, cereals, and fresh fruit as well as free parking spaces</li>
-<li>Additional allowance for gym membership and childcare</li>
-</ul>
-<h2>Your Role</h2>
-<ul>
-<li>Integration of CODESYS environment in our product(s). We will provide any CODESYS training that might be required</li>
-<li>Maintaining the Linux system and board support package for system-on-chip based devices in a continuous integration environment</li>
-<li>Develop and maintain our higher level application(s)</li>
-<li>Develop and maintain low level drivers for custom built hardware</li>
-<li>Participate in the planning process, development and code reviews within the team</li>
-</ul>
-<h2>Your Skills</h2>
-<ul>
-<li>Excellent communication skills in English</li>
-<li>Desire to learn CODESYS and support its deployment into our solution</li>
-<li>Fluent software development on Linux embedded systems, C programming language and surrounding tools (autotools, make)</li>
-<li>Yocto experience</li>
-<li>Focus on high-quality and maintainable code</li>
-<li>You are curious and take responsibility for your work</li>
-<li>Experience with, or desire to assess, trial and adopt DevOps/DevSecOps best practices (i.e. Continuous Integration, Static code Analysis, Shifting Left, etc.)</li>
-<li>Python/Shell/Node.js programming and/or scripting
-<strong>Beneficial (most important first)</strong>  </li>
-<li>Trusted Firmware-A (ideally in the STM implementation)</li>
-<li>Experience with NetworkManager Linux network configuration tool suite</li>
-</ul>
-<h2>About Proemion</h2>
-<p>We are a <strong>fast-growing international industrial tech company at the forefront of the IoT and Telematics revolution</strong> with headquarters in Fulda. Outside of Germany, we have offices in the USA and South Korea, as well as numerous colleagues working remotely for us worldwide. Our headcount has more than tripled in the last six years from 60 to over 180 employees. With you, we want to continuously develop the company to the next level.</p>
-<p> With us, you can move things forward. There are <strong>short decision-making processes</strong> and a lot of creative freedom for you. Our corporate culture is characterized by <strong>internationality</strong>, <strong>diversity</strong> and <strong>agility</strong> as well as by a <strong>hands-on mentality</strong>.</p>
-<p>We are interested in you as a person with your skills and talents. We are happy to see you adding to our <strong>diversity</strong>.</p>
-
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proemion-embedded-linux-developer-all-genders-welcome-remote-in-europe">https://weworkremotely.com/remote-jobs/proemion-embedded-linux-developer-all-genders-welcome-remote-in-europe</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/7667/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Internet Projects Ltd</h5>
-                    <h3> Senior Symfony PHP Full Stack Developer - Remote & Full Time</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/internet-projects-ltd-senior-symfony-php-full-stack-developer-remote-full-time-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0086/7667/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> London, England, United Kingdom
-    <br /><strong>URL:</strong> <a href="https://www.internetprojects.com/">https://www.internetprojects.com/</a>
-</p>
-
-<div>Internet Projects Ltd is a UK-based developer and operator of high traffic, real time data websites with a strong focus on creating &amp; serving Search Engine Optimized web pages.<br><br>
-</div><div>Our current projects include:<br><br>
-</div><div>Airportia: one of the world's leading flight tracker websites <a href="https://www.airportia.com/"><strong>https://www.airportia.com/</strong></a><br>Scorebar: one of the world's fastest football/soccer livescore services <a href="https://www.scorebar.com/"><strong>https://www.scorebar.com/<br></strong></a><br>
-</div><div>We are looking for Symfony backend/frontend developers to increase our team's velocity. 3 years of experience as a minimum with Symfony. We give great importance to solid OOP foundations.<br><br>
-</div><div>This is a full-time, remote, permanent job position with a monthly salary in the $3000 per month range. We like to work with our Developers long term and full time, grow together and reward loyalty with regular salary revisits.<br><br>
-</div><div>You will be developing back end and front end technologies to manage, develop and track the performance of high traffic web properties.<br><br>
-</div><div>Our stack:<br>- Symfony and Yii2<br>- Doctrine ORM, Twig, CSS, HTML, Vanilla JS, Websockets, VueJS/NuxtJS<br>- Mysql and Postgresql<br>- Github<br>- Docker, Jenkins<br>- ChatGPT API, OpenAI API<br>- Project Management: Kanban, Github Projects &amp; Telegram<br>- Quality Management: Unit/Browser tests, QA, code reviews<br><br>
+<div>
+<strong>Reference Number: SPHPWD1021<br></strong><br>
 </div><div>
-<strong>Requirements<br></strong><br>
-</div><div>3 years of experience as a minimum with Symfony or Yii2 or Laravel. Good communication skills. You should be available at least 40h per week (9am/10am to 5pm/6pm on weekdays) and participate in 10 min daily calls.<br><br>
-</div><div>Our stack:<br><br>
-</div><div>- Symfony and Yii2</div><div>- Doctrine ORM, Twig, CSS, HTML, Vanilla JS, Websockets, VueJS/NuxtJS</div><div>- Mysql and Postgresql</div><div>- Github</div><div>- Docker, Jenkins</div><div>- OpenAI API</div><div>- Project Management: Kanban, Github Projects &amp; Telegram</div><div>- Quality Management: Unit/Browser tests, QA, code reviews<br><br>
+<strong> <br></strong><br>
 </div><div>
-<strong>Benefits<br></strong><br>
-</div><div>- Competitive compensation</div><div>- Global, dynamic team</div><div>- Growth path rewarding performance and loyalty<br><br>
-</div>
+<strong>The role:<br></strong><br>
+</div><div>As our new Senior PHP Developer, you will join an amazing team who is dedicated to taking the next step in software engineering. You will make key decisions on software processes, and use Kubernetes and Terraform on PHP, Go, React &amp; Angular on AWS. The team will keep you up-to-date with the latest technology stacks and processes and help you see challenging projects from beginning to end.<br><br>
+</div><div> <br><br>
+</div><div>
+<strong>The main responsibilities of the role include:<br></strong><br>
+</div><div>●        Design and implement new features/projects</div><div>●        Maintain and refactor existing web applications such as the company's website, registration forms, Members Area and internal web services</div><div>●        Research and integrate new web technologies</div><div>●        Write tests that will run on a continuous integration server 24/7 to ensure code testability, code coverage and quality conforms to the company’s highest standards</div><div>●        Resolve support tickets for IT related issues</div><div>
+<strong> <br></strong><br>
+</div><div>
+<strong>Main requirements:<br></strong><br>
+</div><div>●        BSc/MSc in information technology or any other relevant degree</div><div>●        At least 3 years of experience in a similar position</div><div>●        Very good knowledge of PHP 7+, MySQL, Redis, Git</div><div>●        Very good understanding of object-oriented programming principles</div><div>●        Experience in creating and consuming web services</div><div>●        Experience with modern PHP frameworks</div><div>●        Experience in writing tests with PHPUnit</div><div>●        Ability to research and adapt new web technologies that add value to the team</div><div>●        Strong organisational skills with the ability to multitask and prioritise</div><div>●        Problem solving and analytical skills</div><div>●        Ability to work independently and integrate well within a team</div><div>
+<strong> <br></strong><br>
+</div><div>
+<strong>The following will be considered an advantage:<br></strong><br>
+</div><div>●        Experience in Symfony framework</div><div>●        Experience in the development of REST APIs</div><div>●        Experience in software development practices like design patterns, SOLID principles, DRY</div><div>●        Very good understanding of security practices (OWASP)</div><div>●        Experience with cloud providers (e.g. AWS)</div><div>●        Experience in database query optimization</div><div>●        Experience in creating composer packages</div><div>●        Experience in front-end frameworks or libraries like Angular or React</div><div>
+<strong> <br></strong><br>
+</div><div>
+<strong>Benefit from:<br></strong><br>
+</div><div>●        Attractive remuneration package </div><div>●        Private health insurance</div><div>●        Food allowance</div><div>●        Intellectually stimulating work environment</div><div>●        Continuous personal development and international training opportunities</div><div> </div><div>
+<br>Type of employment: Full time<br><br>
+</div><div>
+<br>Location: Cyprus, Greece or Remote <br><br>
+</div><div>
+<br> <br><br>
+</div><div>Please visit our website <a href="http://www.xm.com/careers">www.xm.com/careers</a> to submit your online application for this position. </div><div> </div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/internet-projects-ltd-senior-symfony-php-full-stack-developer-remote-full-time-1">https://weworkremotely.com/remote-jobs/internet-projects-ltd-senior-symfony-php-full-stack-developer-remote-full-time-1</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1">https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1</a></p>
 
                 </details>
                 </td>
@@ -360,7 +298,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>182 days ago</text>
+                <text>184 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/awesome-motive-wordpress-developer-1" align="right" target="_blank">Apply</a>
@@ -479,7 +417,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -548,7 +486,7 @@
                     <code>CSS,developer,excel,git</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -623,7 +561,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -700,7 +638,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -837,7 +775,7 @@
                     <code>azure,cloud,developer,django</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -902,7 +840,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -979,7 +917,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1123,7 +1061,7 @@
                     <code>CSS,developer,docker,blockchain</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/web-developer-1667108" align="right" target="_blank">Apply</a>
@@ -1179,7 +1117,7 @@
                     <code>developer,seo,social media,ai</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-ai-application-developer-cohort-4-1665505" align="right" target="_blank">Apply</a>
