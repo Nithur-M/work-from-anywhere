@@ -10,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rocket-conversions-ad-creative-project-manager" align="right" target="_blank">Apply</a>
@@ -47,7 +47,7 @@
                     <code>analyst,api,cloud,copywriting</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/project-manager-1681158" align="right" target="_blank">Apply</a>
