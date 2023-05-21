@@ -10,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rocket-conversions-ad-creative-project-manager" align="right" target="_blank">Apply</a>
@@ -33,79 +33,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/rocket-conversions-ad-creative-project-manager">https://weworkremotely.com/remote-jobs/rocket-conversions-ad-creative-project-manager</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1681158/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Assemblyhq</h5>
-                    <h3>Project Manager</h3>
-                </td>
-                <td width="300">
-                    <code>analyst,api,cloud,copywriting</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/project-manager-1681158" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class='"content-intro"'>
-<p><strong><u>About Build With Assembly</u></strong></p>
-<p>We're an organization driven to give people time back in their day. We do this by solving challenges people experience in their lives that can be made easier with technology. We're Assembly, we help visionary leaders build platforms customers rely on and businesses thrive on.</p>
-<p>We partner with our clients to help them adopt the cloud and build the technology assets needed to transform their business, whether that be new <a href="%22https:/assemblyhq.com/capabilities/software-development/%22" rel="nofollow" target='"_blank"'>custom software development</a>, <a href="%22https:/assemblyhq.com/capabilities/cloud-migration%22" rel="nofollow" target='"_blank"'>cloud migrations</a>, or <a href="%22https:/assemblyhq.com/capabilities/application-modernization%22" rel="nofollow" target='"_blank"'>application modernization</a> of existing, legacy systems.  </p>
-<p>We’re a high-performing entrepreneurial team with nearly two decades of experience helping enterprise organizations, including <em>Honda, Acura, Brookfield, Canon, </em>and many more continuously evolve their tech to meet their business goals.</p>
-<p>We are a fully remote company that takes pride in having an unmatchable team of practitioners, in 5 countries across 4 continents, that have helped us rise to the ranks of being on the <em>Profit 500, Canada’s Fastest Growing Companies, Best Workplaces in Technology, and Best Workplaces in Canada (Top 50).</em></p>
-</div>
-<p><strong>The Position </strong></p>
-<p>Reporting to the Director, Engagement Management, the Project Manager is responsible for leading teams to deliver end to end web -based software applications and digital experience project(s) that span across one or more accounts. Your day to day responsibility is to ensure projects run smoothly and are on track to achieve their goals. This is a 100% client-facing role and you will be working with clients and internal senior leadership executives. Your project team will be comprised of resources from Business Analysis, Development, Quality Assurance, Cloud Engineering, and Technical Architecture practice areas. </p>
-<p>We are looking for fun, intelligent, team-oriented people who want to work in an agile environment and believe in our values: Refuse to Settle, Commit to Greatness, Commit to Goodness, and Make the Experience Matter. You will join a very driven, committed and growing Engagement Management team, where we take accountability for our teams, projects and clients.</p>
-<p><strong>Your Responsibilities</strong></p>
-<ul style="">
-<li style="">Elicit and understand clients’ business needs/goals and help them translate those into KPIs that will be used to govern the project(s) you will be managing</li>
-<li style="">Define, manage, and monitor project scope throughout the project lifecycle</li>
-<li style="">Estimate effort, create resource plans and budgets for defined scope</li>
-<li style="">Draft project proposals and support the sales process as needed</li>
-<li style="">Create and maintain project budget and plans with the intent of reporting project performance at working team and leadership levels on a regular cadence</li>
-<li style="">Act as Scrum Master for the development teams and ensure client and internal team engagement</li>
-<li style="">Partner with, and when needed act as, Business Analyst to elicit requirements at the appropriate level of detail to enable project scope definition, creation of work packages – epics, stories, tasks and sub-tasks, for development purposes</li>
-<li style="">Partner with Solution Architects and Tech leads to understand the technical solutions being implemented and take lead in translating technical details into simpler, business-friendly language to ensure client understanding and alignment</li>
-<li style="">Actively monitor and manage project scope with a keen focus on margin on the projects to ensure appropriate decisions are being made to minimize budget risks</li>
-<li style="">Effectively manage dedicated and shared resources to ensure your project needs are met while working closely with other project managers and leadership to ensure resource allocation and capacity thresholds are maintained</li>
-<li style="">Partner with development team and QA analysts to ensure roadblocks are removed and that sprint commitments are met</li>
-<li style="">Partner with clients and technical leads to ensure that releases are planned and executed appropriately, taking all technical, people and process elements into consideration</li>
-<li style="">Lead and motivate team members through information authority to enable project/engagement goals are met</li>
-<li style="">Actively participate in the growth and maturity of our Engagement Management practice area. Work with and help mentor junior team members.</li>
-</ul>
-<p><strong>About You </strong></p>
-<ul style="">
-<li style="">You have 5+ years of Project Management experience, working with the full digital product lifecycle, an understanding of software development, delivering primarily in an Agile environment</li>
-<li style="">You have 3+ years as Scrum Master, having served as Scrum Master for teams of 6+ members  </li>
-<li style="">You have 3+ years working with web application development, including marketing websites, eCommerce platforms and services, business applications and/or internal portals.</li>
-<li style="">You have experience with projects involving Sitecore CMS, Cloud Migrations, API Development, Web development using React, are preferred</li>
-<li style="">You have knowledge of UX Design, Digital Design, copywriting, content entry, web analytics and related web development</li>
-<li style="">You have experience in drafting proposals as part of pitches and sales process</li>
-<li style="">You have experience in taking high level goals and translating them into project scope</li>
-<li style="">You have experience with effort estimations, preferably using PERT, and then formulating project budgets and schedules</li>
-<li style="">You have extensive experience with using MS Project to create and manage project schedules</li>
-<li style="">You have experience with drafting SOWs, contracts, service agreements and Change Requests for project work</li>
-<li style="">You have experience with creating and maintaining project plans, status reports, budgets, RAID logs, and other technical and non-technical project documentation</li>
-<li style="">You have expert level proficiency with MS Project, Excel, PowerPoint, Visio, SharePoint </li>
-<li style="">You are comfortable with collaboration and issue tracking tools such as Jira, Confluence, Microsoft Teams, Slack</li>
-<li style="">You take the initiative to stay up to date with current best practices and emerging technologies </li>
-<li style="">You are positive person and have an upbeat attitude</li>
-<li style="">You are able to mentor and coach other team members and participate in company wide initiatives as needed</li>
-</ul>
-<div class='"content-conclusion"'>
-<p><em>We welcome and encourage applications from people with disabilities. Accommodations are available upon request for candidates taking part in all aspects of the selection process.</em></p>
-</div>
-<img src="https://remotive.com/job/track/1681158/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
