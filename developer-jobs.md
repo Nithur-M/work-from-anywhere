@@ -1,5 +1,62 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7016/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Bottomless</h5>
+                    <h3> Senior Full Stack Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-9" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/7016/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Seattle, Wa
+    <br /><strong>URL:</strong> <a href="https://www.bottomless.com/">https://www.bottomless.com/</a>
+</p>
+
+<div>We are looking for a jack-of-all-trades <strong><em>senior</em></strong> javascript/full stack developer.<br><br>The ideal candidate for this position would be able to dive into any kind of project, from frontend UI/UX tasks in React.js to backend tasks running on Node.js.<br><br>If you’re interested in variety and working hard to build something big, this might be a good fit.<br><br>We need to achieve <em>80% of the results with 20% of the effort</em>.<br><br><strong>Responsibilities:</strong>
+</div><ul>
+<li>Design and build infrastructure and products for a sensor-enabled e-commerce marketplace.</li>
+<li>Build robust infrastructure to support existing product lines and the ability to roll out new ones.</li>
+<li>Responsibility over the user-facing product</li>
+<li>Quick iteration on different fronts from fronted UX changes to database design to quick and dirty implementations.</li>
+<li>Responsible for full deployment and testing of applications.</li>
+</ul><div><br></div><div><strong>Skill, Qualifications, and Experience:</strong></div><div><br></div><div><em>Expert proficiency required:</em></div><ul>
+<li>Node.js</li>
+<li>NoSQL databases</li>
+<li>React.js</li>
+<li>English (written and verbal)</li>
+</ul><div><br></div><div><em>Intermediate proficiency, at a minimum:</em></div><ul>
+<li>UI/UX design</li>
+<li>Software architecture</li>
+</ul><div>
+<br>Not required, but a plus:</div><ul>
+<li>Python (background tasks)</li>
+<li>Embedded systems (C++)</li>
+</ul><div> <br><strong>Details:</strong>
+</div><ul>
+<li>Remote OK. Must be flexible with hours as we have a remote international team.</li>
+<li>Competitive equity and cash compensation</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-9">https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-9</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/7868/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +67,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/inspirehq-fullstack-developer-phoenix-liveview-elixir" align="right" target="_blank">Apply</a>
@@ -55,93 +112,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/7781/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Clutchy</h5>
-                    <h3> Senior Full-Stack Developer (React, Node.js)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/clutchy-senior-full-stack-developer-react-node-js" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0086/7781/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Europe
-    <br /><strong>URL:</strong> <a href="http://clutchy.io">http://clutchy.io</a>
-</p>
-
-<div>
-<strong>Please Note: This is a fully remote position for candidates based anywhere in Europe.<br></strong><br>
-</div><div>
-<br><br>
-</div><div>
-<strong>About Clutchy<br></strong><br>
-</div><div>Clutchy is an industry-leading Gaming and NFT marketplace on the SUI blockchain. As the first official marketplace partner of Mysten Labs, Clutchy works closely with all of the ecosystem's leading projects. Clutchy is home to an ambitious, cohesive, and high-achieving team that has exceeded all expectations since its inception with its dedication to innovation.<br><br>
-</div><div>
-<br><br>
-</div><div>
-<strong>The Role<br></strong><br>
-</div><div>We’re looking for a <strong>Senior Full-Stack Developer</strong> to develop for Clutchy´s innovative NFT and Gaming Marketplace.<br><br>
-</div><div>You will:</div><ul>
-<li>Write and maintain efficient, reusable, and reliable code for websites' front-end and back-end</li>
-<li>Implement current best practices and coding standards</li>
-<li>Have an entrepreneurial spirit and bring ideas to the development</li>
-<li>Work effectively with a degree of autonomy, but also enjoy working collaboratively in a team</li>
-</ul><div>
-<br><strong>Requirements</strong>
-</div><ul>
-<li>5+ years of experience in full-stack development</li>
-<li>Strong experience in front-end development with <strong>React</strong>
-</li>
-<li>Experience with <strong>TypeScript</strong>
-</li>
-<li>Strong experience in back-end development with <strong>Node.js</strong>
-</li>
-<li>Cloud: <strong>AWS</strong>: Lambdas, VPC, AppSync, RDS, EKS, Aurora</li>
-<li>Database: PostgreSQL or MySQL</li>
-<li>Experience with NoSQL: Dynamodb or MongoDB</li>
-</ul><div>
-<br><br>
-</div><div><strong>Nice to Haves</strong></div><ul>
-<li>Experience with Rust</li>
-<li>Experience with Docker</li>
-<li>Experience with Terraform</li>
-<li>Git with GitHub or GitLab</li>
-<li>SOLID principle, Hexagonal architecture, OOP, Aspect-oriented programming, reactive architectures</li>
-<li>Observability with DataDog, or similar</li>
-<li>Tests: unit tests, integrations tests (ideally test containers)</li>
-<li>Experience in a Web3 company or with Web3 technologies</li>
-<li>Interest and enthusiasm for crypto, blockchain technology, Web3 gaming, or NFTs</li>
-<li>Dapps: Some experience with Solidity</li>
-<li>Wallet Integrations: Metamask, or similar</li>
-<li>Cryptographic Knowledge: RSA</li>
-</ul><div>
-<br><strong>Benefits</strong>
-</div><ul>
-<li>Competitive salary + tokens/equity</li>
-<li>100% remote working</li>
-<li>Flexible working hours</li>
-<li>Opportunity to work with a diverse, global, and passionate team</li>
-<li>Collaboration with leading projects and thought leaders in the crypto space</li>
-</ul><div><br></div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clutchy-senior-full-stack-developer-react-node-js">https://weworkremotely.com/remote-jobs/clutchy-senior-full-stack-developer-react-node-js</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/7731/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -152,7 +122,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-senior-whmsc-web-developer-lead" align="right" target="_blank">Apply</a>
@@ -236,7 +206,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>151 days ago</text>
+                <text>152 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1" align="right" target="_blank">Apply</a>
@@ -298,7 +268,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>660 days ago</text>
+                <text>661 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -364,7 +334,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -433,7 +403,7 @@
                     <code>CSS,developer,excel,git</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -508,7 +478,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -585,7 +555,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -722,7 +692,7 @@
                     <code>azure,cloud,developer,django</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -787,7 +757,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -864,7 +834,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1008,7 +978,7 @@
                     <code>CSS,developer,docker,blockchain</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/web-developer-1667108" align="right" target="_blank">Apply</a>
@@ -1064,7 +1034,7 @@
                     <code>developer,seo,social media,ai</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-ai-application-developer-cohort-4-1665505" align="right" target="_blank">Apply</a>
