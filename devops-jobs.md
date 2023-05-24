@@ -1,5 +1,90 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1688497/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>SOAX</h5>
+                    <h3>DevOps Engineer (SRE)</h3>
+                </td>
+                <td width="300">
+                    <code>devops,docker,golang,kafka</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/devops/devops-engineer-sre-1688497" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="min-height: 1.5em;">📌 We are SOAX, an emerging company specializing in automated data collection services for companies worldwide. On the demand side, our priority is to deliver the best-in-class experience for data-hungry businesses across the globe while collecting public data on the web. Performance, security, and customer-centric approach are our core values in this direction.</p>
+<p style="min-height: 1.5em;">SOAX Team is now looking for a DevOps Engineer to join our Tech Team.</p>
+<p style="min-height: 1.5em;">We are building a geo-distributed system written in GoLang that uses protocols such as HTTP/HTTPS/SOCKS5/TCP/UDP. Our goal is to configure this system so that all these parts of the system interact with each other with a short response time, low error and loss, high availability and high speed of finding suitable nodes.</p>
+<p style="min-height: 1.5em;"> </p>
+<div class="h2">What You'll Do</div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Assistance in planning application architecture, scaling and orchestration;</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Setting up environments, automating the verification and distribution of applications to environments;</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Assistance in organizing the work of developers, system administrators and QA;</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">R&amp;D in optimizing existing solutions to reduce costs and increase productivity;</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Preparation and promotion of disaster recovery events;</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Making decisions on expanding/contracting infrastructure;</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Responsibility for the operability of environments and processes for testing and distributing applications;</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Assistance in organizing the storage and delivery of analytical data.</p>
+</li>
+</ul>
+<div class="h2">What You Need To Succeed</div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">3+ years of experience in a DevOps/SRE role;</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Experience with Gitlab, Docker Swarm, Linux, Prometheus, AlertManager, Grafana, Ansible;</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Experience with MySQL, MongoDB, Clickhouse, Kafka, Grafana, Ansible, K8s will be a plus.</p>
+</li>
+</ul>
+<div class="h2">What we can offer</div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">You can work from anywhere you want, including flexible hours! Furthermore, we don’t promote work-life balance in the traditional sense. Instead, we believe in work-life integration and care about results above all else</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Are you ready to wow the world? SOAX provides global opportunities to bring your creativity to fresh new challenges every day. We're a fast-growing startup and we have big goals! You will be able to help us achieve the next milestone in our journey</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">At SOAX you will thrive if you want to grow, learn, and stretch yourself. That’s why we provide learning and development budgets for courses and books</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">We know money talks, so we offer a competitive salary and benefits in GBP</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Great team of enthusiasts to work with, we have a culture that emphasizes collaboration, energy, and openness so that newcomers will feel at home with us quickly. Our onboarding process is fast-paced but still supportive :)</p>
+</li>
+</ul>
+<img src="https://remotive.com/job/track/1688497/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
