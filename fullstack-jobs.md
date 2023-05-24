@@ -1,54 +1,67 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/7819/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/9305/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>QuickTrials</h5>
-                    <h3> Full Stack Software Engineer</h3>
+                    <h5>OCR Labs</h5>
+                    <h3> Full Stack Engineer</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/quicktrials-full-stack-software-engineer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/ocr-labs-full-stack-engineer-2" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0086/7819/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0066/9305/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Switzerland
-    <br /><strong>URL:</strong> <a href="https://quicktrials.com">https://quicktrials.com</a>
+  <strong>Headquarters:</strong> Sydney / London / San Francisco
+    <br /><strong>URL:</strong> <a href="https://ocrlabs.com">https://ocrlabs.com</a>
 </p>
 
-<h1>Full Stack Software Engineer</h1><div>We’re growing and looking for a talented, full-stack web developer to join the QuickTrials team!  <br><br>
-</div><div>QuickTrials is a category-leading SaaS product that is used to collect field trial data around the world.  We play a part in helping to speed up agricultural innovation, which is important in these times of climate change and other global pressures.  The job is multifaceted and involves interesting computer science challenges that require deep thinking and strong coding skills.  You’ll be working with a great team of co-workers in a positive, results focused environment. It is a rewarding position where you can develop your skills and grow with the company.<br><br>
-</div><div><strong>Skills</strong></div><div>We are looking for a developer who is detail oriented and can work through complex issues to find elegant solutions.  Key technical skills include: </div><ul>
-<li>Python</li>
-<li>Typescript</li>
-<li>SQL</li>
-<li>HTML/CSS</li>
-</ul><div>The ideal candidate would also have good mathematical skills and know some: </div><ul>
-<li>Flutter</li>
-<li>Knockout.js</li>
-<li>Django</li>
-<li>Google Cloud</li>
-</ul><div>
-<br><strong>Location</strong>
-</div><div>This is a remote-work opportunity and is location-independent. Engineers from Europe or Brazil (or similar time zones) are preferred.  A good command of English is required. <br><br>
-</div><div><strong>Application Process </strong></div><div>We understand that job seeking can be time consuming and we try to keep the evaluation process to a minimum.  You can expect the following process.</div><ol>
-<li>Apply at the email below (5 min)</li>
-<li>If selected, complete an application form with some small coding exercises (60 min)</li>
-<li>If selected, complete a full technical interview with an engineer (30-60 min)</li>
-</ol><div>If this sounds like your kind of opportunity then we'd love to hear from you.  Please send us an email (jobs@quicktrials.com) with your CV and information about your availability.  We look forward to hearing from you!<br><br>
+<div>
+<strong>Full time – Remote – Sydney, Australia Timezone<br></strong><br>
+</div><div>Join a new team of passionate engineers and build a world-class platform to fight identity fraud at a global scale.  The technology is awesome, interesting and solves real world problems.</div><div> <br><br>
+</div><div>
+<strong>The Position<br></strong><br>
+</div><div>We are looking to add engineers to our team with strong PHP Laravel programming experience. You should be well-versed in MVC pattern and SQL database with a working knowledge of HTML, JavaScript, and CSS.  The role would include:</div><div>
+<br>·        Building new product features for both our customers and our product teams<br><br>
+</div><div>·        Work closely with product managers, designers, frontend engineers, and ops in order to create innovative and usable solutions</div><div>
+<br>·        Maintain, refactor and improve our application’s code base.<br><br>
+</div><div><br></div><div><strong>Needed qualifications</strong></div><div>
+<br>Whilst technical competence is critical, we place great emphasis on passion, communication, and collaboration across the business. </div><div>
+<br>·        You have minimum 3-5 years of commercial back-end development experience with PHP Laravel.<br><br>
+</div><div>·        Minimum 3 years working with complex web applications.<br><br>
+</div><div>·        Proficient in PHP.<br><br>
+</div><div>·        You have an In-depth understanding of Laravel, and relevant concepts<br><br>
+</div><div>·        Exposure to writing unit, integration and E2E tests<br><br>
+</div><div>·        Strong English written and verbal skills</div><div>
+<br>·        Experience using docker, Git and CI/CD<br><br>
+</div><div><br></div><div><strong>Nice to haves…</strong></div><div>
+<br>·        Working on a SaaS product (B2B)</div><div>
+<br>·        Experience with Typescript or Rust</div><div>
+<br>·        Experience working in a Fintech company</div><div>
+<br>·        Cloud-based or serverless architectures</div><div>
+<br>·        Any AWS technologies<br><br>
+</div><div><br></div><div>
+<strong>About us <br></strong><br>
+</div><div>OCR Labs is an identity verification software company that has developed world leading digital identity verification technology. Our technology eliminates identity fraud and makes sure people are who they say they are.</div><div> </div><div>We’ve built everything from the ground up and have a broad range of top customers across banking, telecommunications, government and more. We are growing very fast and scaling internationally.</div><div> </div><div>The successful candidate can be based remotely but will report to the Product Owner in Australia. The position is full time.  You’ll need to have good written and spoken English. </div><div>
+<br>Watch our brand video: https://youtu.be/CwBrBOr0ri4<br><br>
+</div><h1>Instructions on how to apply </h1><div>Send an email through to devjobs@ocrlabs.com with “Developing is fun” in the title. <br><br>Write a few lines about you and attach your resume.</div><div>
+<br>Add any link you think will help us assess your soft and hard skills. If you pique our interest, we’ll set up an interview and go from there!</div><div>
+<br> <br><br>
+</div><div>
+<br><br>
 </div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/quicktrials-full-stack-software-engineer">https://weworkremotely.com/remote-jobs/quicktrials-full-stack-software-engineer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/ocr-labs-full-stack-engineer-2">https://weworkremotely.com/remote-jobs/ocr-labs-full-stack-engineer-2</a></p>
 
                 </details>
                 </td>
@@ -64,7 +77,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/little-bear-labs-staff-full-stack-engineer" align="right" target="_blank">Apply</a>
