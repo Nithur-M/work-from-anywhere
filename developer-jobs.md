@@ -1,5 +1,119 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/8094/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Simplero</h5>
+                    <h3> Senior Rails Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/simplero-senior-rails-developer-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0086/8094/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> New York, New York
+    <br /><strong>URL:</strong> <a href="https://simplero.com">https://simplero.com</a>
+</p>
+
+<div>You LOVE programming. Been doing it for a long time. Can’t help build projects in your spare time.<br><br>You LOVE Ruby on Rails. Yeah, it’s not the most popular thing out there, but it fits your brain like a hand in a glove. Custom DSLs, ultra-flexible, great library. It just makes you happy.<br><br>And Javascript. React, React Native, Svelte, Stimulus, and of course plain vanilla JS. So cool what you can do &amp; how elegantly these days. You are also interested in OpenAI.<br><br>Speaking of, you LOVE simplicity. Elegantly simple is your middle name. you’re not satisfied until it has that feel, that smell of elegant simplicity. You’re not afraid to push back on requirements &amp; be creative in coming up with a better, simpler way.<br><br>You’re confident in yourself &amp; your abilities. You know what great looks like &amp; you’re not easily satisfied with your own work. You’re not afraid to speak what’s on your mind. <br><br>You thrive in an organized and focused environment where decisions are made swiftly and the vision is clear. You’re autonomous, and a great team player, able to take direction and build off of it.<br><br>What you DON’T love is red tape, politics, and dumb, complicated solutions just because no one had the courage to do better and stand up for their convictions.<br><br>If this is you, apply immediately!<br><br>
+</div><h1>What’s in it for you</h1><ul>
+<li>You’ll be able to point to exactly what you created, both features and open-source projects that we release.</li>
+<li>With just 8 engineers we created what other companies take armies to make, and we'll teach you how to work this effectively.</li>
+<li>You get to see how great it feels when you grant someone's wish that might take you 4 minutes, but totally makes their day!</li>
+<li>You’ll be part of a supportive team that has each other’s backs and doesn’t indulge in drama. We want to see everyone succeed because we want to see our customers taken care of. </li>
+</ul><h1>Benefits</h1><ul>
+<li>4 weeks of paid vacation per year, increasing to 5 after three years. Plus 10 holidays and 10 sick/wellness days.</li>
+<li>Wellness stipend to help pay for your gym. Exercise makes you smarter.</li>
+<li>We'll pay for a laptop or other gear you need to be productive (up to $1500).</li>
+<li>We’ll pay for an audible membership. Books also make you smarter.<br><br>
+</li>
+</ul><h1>What sets Simplero apart</h1><ul>
+<li>No VCs. No outside funding. No exit strategy. We do it because we love it today, and want to continue doing this in perpetuity, not because we hope to make out like bandits in the future.</li>
+<li>We're profitable and have been in business for 14 years. It's a solid, stable, proven company, product, and model, not some fly-by-night operation or risky gamble.</li>
+<li>We have 2,500+ active customers who have made almost $400M using Simplero. We’re the real deal.</li>
+<li>We're founded by a developer (Calvin) who is still personally and passionately leading Product and Engineering, so you've got deep technical understanding and support right from the top. He’s highly involved in the technical decisions of our company &amp; you’ll receive direct input from Calvin. </li>
+<li>We work efficiently and quickly and never do shitty work. Our team is unified, decisive and goals are clear.</li>
+<li>We solve real problems for real people that they're happy to pay us real money to solve for them. We go home each day knowing we made a difference in someone's life.</li>
+<li>We have a strong community around us, and cherish our close and mutually respectful relationships with our customers. It feels good knowing the people we’re serving.</li>
+<li>We do things differently from other companies. You'll see.<br><br>
+</li>
+</ul><h1>What we absolutely require</h1><div>I'll be honest. It's a big project with lots of moving parts, and we move fast (like a bullet train).<br><br>This job is not for everyone. We have high standards and communicate clearly. You’ll be held accountable for your work and we care about you as a person. Driven, ambitious, caring, and clear communicators fit well with us. If you think you'd fit in, get in touch.<br><br><em>Simplero asks respectfully to </em><strong><em>only apply through the application form and not email/apply to them directly.</em></strong><em> Recruiters and Agencies please do not contact Simplero directly.</em>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/simplero-senior-rails-developer-2">https://weworkremotely.com/remote-jobs/simplero-senior-rails-developer-2</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/7497/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>RemoteMore</h5>
+                    <h3> JavaScript Developer (React or Vue or Angular, with Node.js)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/remotemore-javascript-developer-react-or-vue-or-angular-with-node-js-3" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0064/7497/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Berlin/Chicago 
+    <br /><strong>URL:</strong> <a href="https://remotemore.com/candidates/?utm_source=wwr&amp;utm_medium=jobpost&amp;utm_campaign=javascript">https://remotemore.com/candidates/?utm_source=wwr&amp;utm_medium=jobpost&amp;utm_campaign=javascript</a>
+</p>
+
+<div>
+<strong>The position<br></strong><br>
+</div><div>RemoteMore is helping a large tech company with hiring JavaScript developers for its European and US teams.<br><br>
+</div><div>The company is one of the major tech companies and works on a big number of internal projects. Multiple JavaScript Developers will be hired and matched to the projects that are best fit for their expertise. The product teams are fully distributed. The company culture is to focus on work delivered and not hours spent.<br><br>
+</div><div>Good work-life balance is encouraged: 4-week paid holiday per year is part of the benefits package. You will work with senior colleagues with many opportunities to grow professionally. You can work from home or any other place of your choice.<br><br>
+</div><div>The position is full-time and remote.<br><br>
+</div><div><br></div><div>
+<strong>Your profile<br></strong><br>
+</div><div>Coming from a strong technical background, you are expected to have:<br><br>
+</div><ul>
+<li>Preferred frameworks: React, Node. Vue and Angular are also relevant.</li>
+<li>Top technical skills for your level of experience - Intermediate or Senior (2+ years of experience)</li>
+<li>The soft skills to work remotely. Strong individual contributor, strong communication skills.</li>
+<li>Passion for remote work. You understand the pros and cons of working remotely.</li>
+<li>Sufficient English language skills to work as part of an international team.</li>
+</ul><div><br></div><div>
+<strong>Why should YOU apply?<br></strong><br>
+</div><ul>
+<li>Work from anywhere you want.</li>
+<li>Competitive compensation based on your skills.</li>
+<li>Work in a team with other top developers.</li>
+<li>Make a difference.<br><br>
+</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/remotemore-javascript-developer-react-or-vue-or-angular-with-node-js-3">https://weworkremotely.com/remote-jobs/remotemore-javascript-developer-react-or-vue-or-angular-with-node-js-3</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7016/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +124,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-9" align="right" target="_blank">Apply</a>
@@ -57,61 +171,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/7868/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>InspireHQ</h5>
-                    <h3> Fullstack Developer (Phoenix LiveView / Elixir)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/inspirehq-fullstack-developer-phoenix-liveview-elixir" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0086/7868/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> 
-    <br /><strong>URL:</strong> <a href="https://inspirehq.team/">https://inspirehq.team/</a>
-</p>
-
-<p>InspireHQ is a software-as-a-service application that helps purpose-led organizations align their actions to strategy and culture. We empower people to achieve greatness through inspired alignment.</p><p>We’re on a mission to serve over a million people on the platform within ten years. See https://inspirehq.team for more information about the product and company.</p><p>We’ve had a successful rollout with our first customer (~500 users). Now we’re getting ready to bring on the next customers.<br><br>We’re looking for a Full-Stack developer to join our small and growing team.</p><p>We leverage Elixir and Postgres. Specifically Phoenix LiveView.<br></p><p>Responsibilities:</p><ul>
-<li><p>Develop features and maintain high code quality for InspireHQ</p></li>
-<li><p>Collaborate with the team to design and implement innovative and efficient solutions.</p></li>
-<li><p>Write clean, maintainable, and testable code with least complexity as possible.</p></li>
-<li><p>Optimize application performance and troubleshoot any issues that arise.</p></li>
-<li><p>Conduct thorough code reviews to ensure code quality and adherence to standards.</p></li>
-<li><p>Stay up-to-date with the latest developments in Elixir, Phoenix, and LiveView to continuously improve your skills and knowledge.</p></li>
-</ul><p>Qualifications:</p><ul>
-<li><p>Strong proficiency in Elixir programming language and functional programming concepts.</p></li>
-<li><p>Experience building web applications with Phoenix and the LiveView framework.</p></li>
-<li><p>Solid understanding of JavaScript, HTML, and CSS.</p></li>
-<li><p>Familiarity with database systems and PostgreSQL</p></li>
-<li><p>Knowledge of web application security best practices.</p></li>
-<li><p>Experience with Git and working with a team (e.g. Pull Requests)</p></li>
-<li><p>Strong problem-solving and debugging skills.</p></li>
-<li><p>Excellent communication and collaboration abilities.</p></li>
-<li><p>A portfolio or examples of previous Elixir LiveView projects is a plus.</p></li>
-</ul><p></p><p>NOTE: <br>In the form below we’re asking for a link to a 1-3 minute video explaining something you built.<br><br>Here are a few talking points on what you could tell us…</p><ol>
-<li><p>Why you built it?</p></li>
-<li><p>What you love about it/are most happy with?</p></li>
-<li><p>What you would do differently, knowing what you now know and why?</p></li>
-</ol><p></p>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/inspirehq-fullstack-developer-phoenix-liveview-elixir">https://weworkremotely.com/remote-jobs/inspirehq-fullstack-developer-phoenix-liveview-elixir</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/7731/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -122,7 +181,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-senior-whmsc-web-developer-lead" align="right" target="_blank">Apply</a>
@@ -206,7 +265,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>152 days ago</text>
+                <text>154 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1" align="right" target="_blank">Apply</a>
@@ -268,7 +327,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>661 days ago</text>
+                <text>663 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -334,7 +393,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -403,7 +462,7 @@
                     <code>CSS,developer,excel,git</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -478,7 +537,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -555,7 +614,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -692,7 +751,7 @@
                     <code>azure,cloud,developer,django</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -757,7 +816,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -834,7 +893,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -978,7 +1037,7 @@
                     <code>CSS,developer,docker,blockchain</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/web-developer-1667108" align="right" target="_blank">Apply</a>
@@ -1034,7 +1093,7 @@
                     <code>developer,seo,social media,ai</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-ai-application-developer-cohort-4-1665505" align="right" target="_blank">Apply</a>
@@ -1155,30 +1214,6 @@
 </ul>
 <h2>&nbsp;</h2></div>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1306325743580848130/mk0qvsZ9_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Kraken</h5>
-                    <h3>Backend Blockchain Developer - Staked</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/kraken/cca5342c-2de7-4267-9aa2-bca911a06c9f" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Internet of Money&nbsp;</b></div><div><br></div><div><span style="font-size: 10.5pt">Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</span></div><div><br></div><div><span style="font-size: 10.5pt">What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the adoption of cryptocurrency so the world can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Before you apply, please read the </span><a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture Explained</a><span style="font-size: 10.5pt"> to learn more about our internal culture, values, and mission.</span></div><div><br></div><div><span style="font-size: 10.5pt">As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who have a long track record of building premium products for professionals and institutions as well as newcomers to the space. Kraken is committed to industry-leading security through our products like </span><a href="https://pro.kraken.com/" style="font-size: 10.5pt" class="postings-link">Kraken Pro</a><span style="font-size: 10.5pt">, </span><a href="https://www.kraken.com/en-us/nft" style="font-size: 10.5pt" class="postings-link">Kraken NFT</a><span style="font-size: 10.5pt">, and </span><a href="https://cryptowat.ch/" style="font-size: 10.5pt" class="postings-link">Cryptowatch</a><span style="font-size: 10.5pt">, with a focus on world-class customer support and </span><a href="https://www.kraken.com/learn" style="font-size: 10.5pt" class="postings-link">crypto education</a><span style="font-size: 10.5pt"> for all.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Become a Krakenite and build the internet of money!</span></div><div><br></div><div><b style="font-size: 24px">Proof of work</b></div><div><br></div><div><b><span style="font-size: 18px">The team</span></b></div><div><br></div><div>At Staked we combine software and systems engineering to build and run large-scale, fault-tolerant staking node infrastructure for 40+ blockchains. We're looking for someone with a broad understanding of software Development, DevOps, and a deep knowledge of Blockchain preferably Ethereum.</div><div><br></div><div>Staked is hiring a Backend Blockchain Developer to join a high-impact team to identify and capitalize on algorithmic ways to improve yield from staking.&nbsp; The team focuses on Ethereum and other protocols, and is currently working on projects surrounding MEV across DeFi. Join the team on the cutting edge of blockchain technology and help us figure out how to deliver alpha to our customers.&nbsp;</div></div><div class="section page-centered"><div><h3>The opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Drive software development through the development lifecycle, taking prototypes from idea to production.&nbsp;&nbsp;</li><li>Contribute to thought-leadership and analytics that will inevitably change the roadmap and induce pivots.</li><li>Develop the software stack responsible for watching mempool transactions and identifying profitable MEV opportunities. This might include searchers (algorithmic logic) for liquidation or arbitrage, the software stack we use to evaluate transactions in the mempool, and our custom clients designed to deliver the most profitable block.</li><li>Evaluate third-party solutions like Flashbots to determine their suitability for inclusion in our strategy. As appropriate, design a solution that incorporates their technology.</li><li>Use our data stack to determine the most profitable strategies and mimic them.</li><div><br></div></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>Experience working with at least two software systems on a professional team.</li><li>Proficiency in one or more object oriented languages, such as typescript, golang or python with a flexibility to work in any language.</li><li>Experience with numerical methods/algorithms in optimization software.</li><li>Passion for performance-oriented, event-driven backend systems (Eg. trading technology, ad-tech, risk, finance, or distributed web-apps/systems).</li><li>Enough SQL skills to do basic analytics of time series data, and willing to learn more.</li><li>Nice to haves include experience with event-driven systems, Docker, Kubernetes, solidity, and developing smart contracts.</li><li>Smart and collaborative. These are hard problems with lots of potential solutions. We’re looking for people that want to solve them as part of a team.</li><li>Understanding of test-driven development and other techniques to make maintainable financial applications.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>#US #CANADA #LI-LM1</div><div><br></div><div><span style="font-size: 10.5pt">Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</span></div><div><br></div><div><span style="font-size: 10.5pt">As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</span></div><div><br></div><div><b style="font-size: 13.5pt">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" style="font-size: 10.5pt" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" style="font-size: 10.5pt" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" style="font-size: 10.5pt" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/cca5342c-2de7-4267-9aa2-bca911a06c9f/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1489,6 +1524,83 @@
 </div>
 <div id="about-body" class="external-panel__trix-content external-panel__trix-content--colored">
 <div><br>Follow along on&nbsp;<a href="https://our.status.im/">Our Status</a>.&nbsp;</div>
+</div>
+
+    
+
+    
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
+                    <h3>Senior Rust Developer </h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4412616&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <p><strong>About Logos</strong></p>
+<p><span style="font-weight: 400;">A group of Status Contributors is also involved in a new community lead project, called Logos, and this particular role will enable you to also focus on this project. Logos is a grassroots movement to provide trust-minimized, corruption-resistant governing services and social institutions to underserved citizens.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Logos’ infrastructure will provide a base for the provisioning of the next-generation of governing services and social institutions - paving the way to economic opportunities for those who need them most, whilst respecting basic human rights through the network’s design.</span><span style="font-weight: 400;">You can read more about Logos here:</span><a href="https://github.com/acid-info/public-assets/blob/master/logos-manual.pdf"><span style="font-weight: 400;"> in this small handbook</span></a><span style="font-weight: 400;"> for mindful readers like yourself. </span></p>
+<p><strong>Who are we?</strong></p>
+<p>We are the Blockchain Infrastructure Team, and we are building the foundation used by other projects at the&nbsp;<a href="https://statusnetwork.com/">Status Network</a>. We are researching consensus algorithms, Multi-Party Computation techniques, ZKPs and other cutting-edge solutions with the aim to take the blockchain technology to the next level of security, decentralization and scalability for a wide range of use cases. We are currently in a research phase, working with models and simulations. In the near future, we will start implementing the research. You will have the opportunity to participate in developing -and improving- the state of the art of blockchain technologies, as well as turning it into a reality.</p>
+<p><strong>Key Responsibilities</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Development and maintenance of internal rust libraries</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Help design and implement the architecture for a production-grade Node that will run in a highly adversarial environment.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">1st month: comfortable with dev framework, and simulation app.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A strong candidate will be able to contribute from the first month. </span></li>
+</ul>
+<div><strong>Ideally, you will have</strong></div>
+<div>
+<ul>
+<li><span style="font-weight: 400;">“Extensive” Rust experience. Ideally, they have some GitHub projects to show.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Alternative very extensive C/C++ experience and enough experience in Rust to write idiomatic code. We value more the understanding and experience of production systems.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Strong competency in developing and maintaining complex libraries or applications</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Peer-to-peer or networking experience</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience in, and passion for, blockchain technology.</span></li>
+<li><span style="font-weight: 400;">A strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></span></li>
+</ul>
+<p><strong>Bonus points if</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">&nbsp;Comfortable working remotely and asynchronously</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">&nbsp;Experience working for an open source organization.&nbsp;&nbsp;</span></li>
+</ul>
+<p><em>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role!]</em></p>
+<p><strong>Hiring Process&nbsp;</strong></p>
+<p><span style="font-weight: 400;">The hiring process for this role will be:</span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with our People Ops team</span></li>
+<li><span style="font-weight: 400;">Interview with Team Member&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Engineering Lead</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Logos Program Owner</span></li>
+</ol>
+<p><strong>Compensation</strong></p>
+<p><span style="font-weight: 400;">We are happy to pay in either 100% fiat or any mix of fiat and/or crypto. For more information regarding benefits at Status: </span><a href="https://people-ops.status.im/tag/perks/"><span style="font-weight: 400;">https://people-ops.status.im/tag/perks/</span></a></p>
+<p>&nbsp;</p>
 </div>
 
     
