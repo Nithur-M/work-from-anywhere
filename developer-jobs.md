@@ -1,5 +1,110 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/8156/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Hashlist</h5>
+                    <h3> Software Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/hashlist-software-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0086/8156/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://hashlist.com">https://hashlist.com</a>
+</p>
+
+<div>Join <strong>Stellantis</strong>, the world's third-largest automobile company, and help create innovative apps and services for their vehicles, including Maserati, Alfa Romeo, and Jeep. Stellantis is currently searching for many additions to its engineering team in Italy, France, Poland, India and Brazil.</div><div><br></div><div><strong>About us</strong></div><div>Hashlist is building a network for the world's best tech specialists to find remote and onsite work with top global tech companies.<br><br>
+</div><ul>
+<li>Work full-time, part-time, or as a contractor</li>
+<li>0 commissions. 0 fees. Get matched directly with the company.</li>
+<li>Career growth opportunities with the latest technologies<br><br>
+</li>
+</ul><div><br></div><div><strong>About the Job</strong></div><div><br></div><div>Join our team and play a vital role in developing cutting-edge technology! As a Software Developer, you'll be responsible for creating and integrating key components in the end-to-end experience pipeline, focusing on cockpit interfaces for multimodal UX. We're looking for someone with a solid understanding of embedded systems and real-time operating systems and experience in distributed service architecture. If you have a passion for bug-free software and thrive in a fast-paced environment, we want you on our team.</div><div><br></div><div><br></div><div><strong>Qualifications</strong></div><div><br></div><ul>
+<li>MS/M-Tech/BE/B-Tech degree in Computer Science or equivalent</li>
+<li>Experience in C++/Python and Linux</li>
+<li>Experience with Distributed Service Architecture using concepts like Interface</li>
+<li>Definition Language (e.g., Franca IDL), SOA, SOME/IP, etc.</li>
+<li>Experience in designing/developing Software that is deployed in multiple HW platforms</li>
+<li>Bonus: Experience within the automotive sector<br><br><br>
+</li>
+</ul><div><br></div><div><strong>Benefits</strong></div><div><br></div><ul>
+<li>Competitive Salary and Benefits Package</li>
+<li>Generous vacation and sick leave policies, and paid time off for holidays.</li>
+<li>Professional growth and development opportunities through regular training, mentorship, and career coaching.</li>
+<li>Opportunities to work on cross-functional teams and collaborate with colleagues from different departments and locations</li>
+<li>Work on impactful, sustainable projects. Help us achieve carbon net zero by 2038.<br><br><br>
+</li>
+</ul><div><br></div><div><strong>How to apply</strong></div><div><br></div><ul>
+<li>Click the link to complete a 10 minute application</li>
+<li>Your profile will be screened</li>
+<li>Once accepted, you will be able to connect directly with hiring managers from Stellantis.<br><br>
+</li>
+</ul><div><br></div><div>We welcome applications from people of all gender identities, ages, ethnicity, nationality, religion, sexual orientation, and disabilities</div><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/hashlist-software-developer">https://weworkremotely.com/remote-jobs/hashlist-software-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudCannon</h5>
+                    <h3> Developer Evangelist</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/cloudcannon-developer-evangelist" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Dunedin, Otago, New Zealand
+    <br /><strong>URL:</strong> <a href="http://cloudcannon.com">http://cloudcannon.com</a>
+</p>
+
+<p>Do you enjoy helping fellow developers, answering their questions, and showing them how to build cool projects using static site generators? As a Developer Evangelist, you're the bridge between the web developer community and CloudCannon. As part of our Marketing team, your work will involve crafting engaging content, teaching developers new technologies and workflows, forging solid relationships, and becoming a pillar in the static site generator community.<br></p>
+<p><br></p>
+<p><strong>Your day-to-day:</strong></p>
+<ul> <li> <strong>Be the Guide:</strong> Deliver inspiring presentations, lead informative workshops, and create top-notch content (blogs, videos, social media posts, etc.) that showcase CloudCannon in action.</li> <li> <strong>Be the Friend:</strong> Engage with developers across various online communities. Respond to their queries, celebrate their successes, and sometimes, just talk code. Participate in tech events, meetups, and hackathons - be there for the community.</li> <li> <strong>Be the Listener:</strong> Gather and share valuable feedback from developers with our product team - you help us make CloudCannon even better.</li> <li> <strong>Be the Connector:</strong> Build strong, meaningful relationships within the developer community. Win hearts, make friends, and inspire web developers to love CloudCannon.</li> </ul>
+<p><strong>Requirements</strong></p>
+<ul> <li>A strong web development background with proficiency in areas like HTML, CSS, JavaScript, Jamstack, CloudCannon, Static Site Generators, and Git.</li> <li>Stellar communication skills, with a knack for public speaking and content creation. If you can explain complex concepts in a simple, engaging way, you're our person!</li> <li>A people-first mindset, with the ability to forge and nurture relationships.</li> <li>A shared passion for our technology and a genuine desire to empower developers.</li> <li>A desire to learn and improve every day.</li> </ul>
+<p><strong>Benefits</strong></p>
+<p>We believe the best way to build a thriving and sustainable company is to look after our people. We do our best to cultivate an environment where people enjoy coming to work and take pride in offering benefits that put our people first:</p>
+<ul> <li>A 4-day workweek</li> <li>A modern, newly refurbished office space</li> <li>Flexible work hours</li> <li>The option to work from home</li> <li>An allowance for setting up your home office</li> <li>A transportation subsidy</li> <li>Regular social events to foster camaraderie</li> <li>Office snacks and beverages to keep you fuelled</li> <li>High-end equipment to power your creativity</li> <li>A culture that encourages balance, growth, and mutual support</li> </ul>
+<p>If you're ready to join a team that's dedicated to making a difference in the world of content collaboration, we'd love to hear from you!</p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/cloudcannon-developer-evangelist">https://weworkremotely.com/remote-jobs/cloudcannon-developer-evangelist</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/8094/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +115,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/simplero-senior-rails-developer-2" align="right" target="_blank">Apply</a>
@@ -67,7 +172,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/remotemore-javascript-developer-react-or-vue-or-angular-with-node-js-3" align="right" target="_blank">Apply</a>
@@ -124,7 +229,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-9" align="right" target="_blank">Apply</a>
@@ -181,7 +286,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-senior-whmsc-web-developer-lead" align="right" target="_blank">Apply</a>
@@ -265,7 +370,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>154 days ago</text>
+                <text>155 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1" align="right" target="_blank">Apply</a>
@@ -317,72 +422,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>A.Team</h5>
-                    <h3> Senior Independent Software Developer ($110-$190/hr)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>663 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0066/7400/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> NYC, SF, and TLV
-    <br /><strong>URL:</strong> <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a>
-</p>
-
-<div>
-<a href="https://build.a.team/wwrfastrackreferral">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. <br><br>After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.<br><br>As part of A·Team, you can expect:</div><ul>
-<li>
-<strong>High-paying, meaningful missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
-<li>
-<strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
-<li>
-<strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
-<li>
-<strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
-<li>
-<strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
-</ul><div>
-<br><strong>How to apply:<br></strong>Go here: <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a> + mention WWR under how you heard about A·Team. No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.<br><strong><br>What you’ll do:</strong>
-</div><ul>
-<li>Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would.</li>
-<li>Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </li>
-<li>You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </li>
-</ul><div>
-<br><strong>Who A</strong>·<strong>Team is for:</strong>
-</div><ul>
-<li>Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy.</li>
-<li>Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</li>
-<li>The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing.</li>
-</ul><div>
-<br><strong>Who A</strong>·<strong>Team is </strong><strong><em>not</em></strong><strong> for:</strong>
-</div><ul>
-<li>People looking for small gigs.</li>
-<li>Folks looking to build simple wordpress/wix/squarespace-style websites.</li>
-<li>Those still early in their careers and recent university/bootcamp grads (at least not yet).</li>
-</ul><div>
-<br><strong>Our long-term vision:<br></strong><a href="https://build.a.team/wwrfastrackreferral">A·Team</a> is a new type of company for a new kind of independent software builders. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </div><div>
-<br>To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1359476/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -393,7 +432,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -462,7 +501,7 @@
                     <code>CSS,developer,excel,git</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -537,7 +576,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -614,7 +653,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -751,7 +790,7 @@
                     <code>azure,cloud,developer,django</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -816,7 +855,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -893,7 +932,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1037,7 +1076,7 @@
                     <code>CSS,developer,docker,blockchain</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/web-developer-1667108" align="right" target="_blank">Apply</a>
@@ -1093,7 +1132,7 @@
                     <code>developer,seo,social media,ai</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-ai-application-developer-cohort-4-1665505" align="right" target="_blank">Apply</a>
