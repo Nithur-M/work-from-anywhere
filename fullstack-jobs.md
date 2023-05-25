@@ -1,5 +1,57 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0017/0951/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>TimeZest</h5>
+                    <h3> Senior Fullstack Engineer (Ruby/Rails)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/timezest-senior-fullstack-engineer-ruby-rails-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0017/0951/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Remote
+    <br /><strong>URL:</strong> <a href="https://timezest.com">https://timezest.com</a>
+</p>
+
+<div>TimeZest makes it easy for end users to schedule appointments with IT service providers. Since launching in 2019, TimeZest has grown amazingly fast, and we're a critical piece of software for over 1,000 businesses. We’ve been a remote-only company since the day we launched, and currently have 16 great people in Europe, the Philippines and the United States. We have a relaxed working environment and use just enough process to keep ourselves efficient. <br><br>
+</div><div>We offer engineering challenges to deliver an elegant, reliable and performant user experience while dealing with the complex nature of the APIs we use and our business domain under the hood. Our stack is Ruby on Rails, PostgreSQL, Sidekiq, TypeScript and React, all running on Heroku. We’re looking for people who can work independently, who’ll help us discover new technologies and better ways to work, and who are as passionate about keeping our customers delighted as we are. </div><div>
+<br>As a result of our growth, we're looking for a Senior Fullstack Engineer to join our team:<br> </div><div>
+<strong>Requirements</strong> </div><ul>
+<li>5+ years development experience in Ruby on Rails in real production environments.</li>
+<li>Ability to deliver entire new features based on functional specification, including making architecture and design decisions. </li>
+<li>PostgreSQL experience </li>
+<li>Previous experience working in a complex business domain. </li>
+<li>Experience writing tests and working with TDD, ideally using RSpec </li>
+<li>Git knowledge </li>
+<li>Fluent business English </li>
+</ul><div><br></div><div>
+<strong>Nice to Have</strong> </div><ul>
+<li>Frontend development experience, particularly in TypeScript and React. </li>
+<li>Experience with APIs and integrating to 3rd party software. </li>
+<li>A good eye for UI details. </li>
+<li>Previous experience working in a remote role. </li>
+</ul><div>This is a permanent, full-time position with a salary paid monthly. It is a remote position, and you can be based anywhere in the world, provided that you have 2-3 hours daily overlap with Central European Standard Time. <br><br>
+</div><div>We’re looking forward to hearing from you! </div><div> </div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/timezest-senior-fullstack-engineer-ruby-rails-1">https://weworkremotely.com/remote-jobs/timezest-senior-fullstack-engineer-ruby-rails-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/9305/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +62,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ocr-labs-full-stack-engineer-2" align="right" target="_blank">Apply</a>
@@ -62,46 +114,6 @@
 </div>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/ocr-labs-full-stack-engineer-2">https://weworkremotely.com/remote-jobs/ocr-labs-full-stack-engineer-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/7766/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Little Bear Labs</h5>
-                    <h3> Staff Full Stack Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>7 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/little-bear-labs-staff-full-stack-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0086/7766/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Boulder, Colorado, United States
-    <br /><strong>URL:</strong> <a href="https://littlebearlabs.io/">https://littlebearlabs.io/</a>
-</p>
-
-<p>Little Bear Labs is a startup lab and consultancy working with startups to turn their visions into a reality.  We're a team of fully remote senior engineers that enjoy working together on difficult problems and have years of experience working with startups during their funding phases and guiding them to success.<br></p>
-<p><br>We're looking for a Staff Full Stack Engineer to join our all-senior team who thrives on wearing many hats and working directly with early startups where you get to collaborate with their executive team and engineers to understand their vision and bring it to life.<br><br>Base salary of $160 - 200k + Bonus + Benefits<br><br><a href="https://littlebearlabs.io/" class="external">https://littlebearlabs.io/</a><br><br></p> <p><strong>Who You Are</strong></p> <ul> <li>You are an expert in your craft with years of experience who loves working with the latest tech stack and working on challenging problems that could be the first of their kind.</li> <li>You love working with awesome people who leave their egos at the door and work as a team for the success of the client. </li> <li>You like helping your team learn from your mistakes and findings but also love learning from others and receiving feedback. </li> <li>You are not afraid of learning new technologies or tackling the never been done. </li> <li>You want to work with startups in their most critical phases where your contributions are most valued.</li> <li>You are comfortable working with consulting clients (or are willing to learn to be) and can be professional while representing your company.</li> <li>You have good communication skills and are at ease raising issues and concerns.</li> </ul>
-<p><strong>Requirements</strong></p>
-<ul> <li>5+ years of professional software development experience with JavaScript/TypeScript.</li> <li>Deep understanding of and production experience with React.</li> <li>Exposure to Next.js and other modern JS tooling.</li> <li>2+ years of professional software development experience with Go.</li> <li>Experience working with backend APIs and relational or NoSQL databases.</li> <li>Experience with writing automated tests.</li> <li>Experience with any major cloud provider (GCP, AWS, Azure).</li> <li>Familiarity with Docker.</li> <li>Excellent written and verbal communication skills.</li> <li>In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire.</li> </ul>
-<p><strong>Benefits</strong></p>
-<ul> <li>100% remote team</li> <li>Unlimited PTO</li> <li>Paid food Fridays (Postmates / Grubhub / etc)</li> <li>Weekly water coolers (board games / video games / catching up)</li> <li>Strong enthusiasm for tech, programming and pets</li> <li>Focus on continuous improvement and team collaboration</li> <li>401(k)</li> </ul>
-<p>#LI-REMOTE</p>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/little-bear-labs-staff-full-stack-engineer">https://weworkremotely.com/remote-jobs/little-bear-labs-staff-full-stack-engineer</a></p>
 
                 </details>
                 </td>
