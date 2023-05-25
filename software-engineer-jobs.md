@@ -1,71 +1,5 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/5180/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Paymentology</h5>
-                    <h3> Senior Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>68 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/paymentology-senior-software-engineer-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/5180/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> London, UK
-    <br /><strong>URL:</strong> <a href="https://paymentology.com">https://paymentology.com</a>
-</p>
-
-<div>Paymentology is the first truly global issuer-processor, giving banks and fintechs the technology, team and experience to rapidly issue and process Mastercard, Visa and UnionPay cards across more than 50 countries, at scale. </div><div>Our advanced, multi-cloud platform, offering both shared and dedicated processing instances, vast global presence and richer, real-time data, set us apart as the leader in payments.<br><br>
-</div><div>As a <strong>Remote Senior Software Developer</strong> at Paymentology you'll be working in the Engineering team to build enterprise-level, highly scalable, highly secure financial processing systems that power tens of millions of transactions and tie them to web, mobile and API interfaces that make it easy for people to issue, redeem and reconcile prepaid and credit cards all over the world.<br><br><strong>What you get to do:</strong><br><br>This position requires the ability to develop high-quality and resilient solutions to meet the rapidly evolving needs of an issuer processor serving an international expanding customer base and to communicate effectively at all levels, from providing the right level of details in the status updates on your work to explaining technical trade-offs, technical complexities and design options so Paymentology can make informed decisions.</div><ul>
-<li>Work within a remote team disseminated throughout the world</li>
-<li>Architect, design and develop projects from end to end</li>
-<li>Make things simple for ourselves and our customers</li>
-<li>Collaborate with other engineers to prioritize and ship features</li>
-<li>Mentor other engineers on the team, and be mentored by others</li>
-<li>Partner with Product Managers to scope and estimate new work</li>
-<li>Participate in on-call coverage</li>
-</ul><div>
-<br><strong>What it takes to succeed:<br></strong><br>
-</div><div>We're looking for people that make stuff work with:</div><ul>
-<li>Experience developing in Java at scale (large systems with high availability and TPS requirements), but we welcome experience in other programming languages</li>
-<li>Experience with relational databases (MySQL, Postgres, MS SQL Server, Oracle, etc.)</li>
-<li>Experience in financial transaction processing/banking or related industries</li>
-<li>Experience with AWS as a cloud provider an advantage</li>
-</ul><div>
-<br><strong>Above all, we are looking for developers...</strong>
-</div><div><br></div><div>                                                         <em>Who love to write great software</em>
-</div><div>                                                     <em>Who are passionate about their craft</em>
-</div><div>                                               <em>Who are willing to learn, as well as coach</em>
-</div><div><br></div><div>Let’s also not forget languages (not the programming kind); While you will work with colleagues located throughout the world, English is our company language so it's important that you be able to communicate at a fluent level, in both spoken and written form.</div><div>Flexible hours are a must for our remote team. You’ll need to be able to occasionally shift your work hours to participate into on-call duties and better align with colleagues for the scope of specific projects.<br><br>
-</div><ul>
-<li>Developing, managing and maintaining card network transactions at scale</li>
-<li>Building best-of-breed backend experiences for our customers, internal and external</li>
-<li>Create and review engineering design documentation</li>
-<li>Continuously improve our systems, infrastructure and processes with a focus on quality</li>
-<li>Create features, review each other's code and collaborate with a diverse set of stakeholders across the company</li>
-<li>Coach others</li>
-<li>Influence/drive the architectural decisions and processes on the platform, from unit testing/documentation requirements to implementation processes</li>
-</ul><div>
-<br><strong>What you can look forward to:</strong><br><br>
-</div><div>At Paymentology we value making a difference to the lives of the people who work for us and who live in the communities where we operate. You can look forward to working with a diverse, global team where Paymentologists at all levels play an important part in our global mission to advance the world through payments and make a difference on a global scale. </div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/paymentology-senior-software-engineer-1">https://weworkremotely.com/remote-jobs/paymentology-senior-software-engineer-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -76,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>121 days ago</text>
+                <text>122 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -118,6 +52,30 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c">https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1569512792381878278/Smf8h3tt_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>ConvertKit</h5>
+                    <h3>Senior Software Engineer, Platform</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/convertkit/j/DBBFD1D473" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>ConvertKit is a creator marketing platform built to empower creators to earn a living online. We help them own their audience and turn fans into customers. For makers, authors, chefs, musicians, athletes, and anyone else making a living by creating the culture we all love, there isn’t a better tool for reaching inboxes. More importantly, there isn’t a team more committed to helping creators earn a living doing work that matters.</p><p>We’re on a mission to help creators earn $1 billion using our SaaS marketing platform. We have always been 100% independent and 100% remote. We are proud to have built a product that our customers love, that 25,000+ creators use to earn a living, and we look for people who have enthusiasm and belief in our mission, vision, and values to join our team.</p><h3><br></h3><h3>The Role</h3><p>You’ll join a strong team of engineers responsible for building and supporting ConvertKit's core application logic, including our<a href="https://convertkit.com/features/email-marketing" rel="nofollow noreferrer noopener" class="external"> email marketing</a>,<a href="https://convertkit.com/features/automations" rel="nofollow noreferrer noopener" class="external"> visual automation</a>, and<a href="https://developers.convertkit.com/" rel="nofollow noreferrer noopener" class="external"> API</a> products. This team tackles some of the ConvertKit's most challenging aspects of the platform, like background processing systems which handle 100 million jobs a day. You’ll collaborate with other engineers, designers, and product managers to build sound, scalable features and refactor code to meet the demands of growth and scale.</p><p>To learn more about how our engineering team works, you can peruse<a href="https://convertkit.engineering/" rel="nofollow noreferrer noopener" class="external"> our engineering blog</a>.<br></p><h3>Requirements: </h3><ul> <li>At least four years building software in a team environment or equivalent experience. Years of experience doesn’t always capture expertise, so we encourage you to apply if you can demonstrate you’re well versed in building software in a team environment</li> <li>At least two years working professionally on a Ruby on Rails application or equivalent experience. Years of experience doesn’t always capture expertise, so we encourage you to apply if you can demonstrate a confident grasp of Ruby on Rails. Have more experience than that? Even better</li> <li>Experience writing code that is accessible, scalable, maintainable, and performant</li> <li>Experience working with background job processing environments - like Sidekiq and Redis</li> <li>Experience writing complex queries for relational databases - we use MySQL.</li> <li>Comfortable working remotely in an autonomous environment - you don’t mind asking questions and problem solving in public communication channels.</li> <li>Able to work in US time zones - you don’t have to live in those time zones, but you have to be able to collaborate with your teammates during those times</li> <li>Belief in our<a href="https://convertkit.com/mission" rel="nofollow noreferrer noopener" class="external"> mission, vision, and values</a> </li> <li>Attend our bi-annual company retreats. </li> </ul><p><br></p><p>To get a better idea of the type of work you’ll do with us, here are some examples of our recent work:</p><ul> <li>Enable queries to a replica database to handle varying levels of acceptable latency</li> <li>Optimize our business logic to prevent unnecessary table scans in MySQL</li> <li>Migrate data and queries from MySQL to Elasticsearch and ensure data consistency</li> <li>Pitch an improvement to our Elastic Stack cluster architecture</li> <li>Conceptualize<a href="https://betterprogramming.pub/a-short-practical-programmers-guide-to-graph-theory-bfc87bc52581" rel="nofollow noreferrer noopener" class="external"> Graph Theory</a> and pinpoint where our logic may be overly expensive</li> <li>Respectfully poke holes in a discussion about pub/sub implementation across our codebase</li> <li>Set a dynamic Cassandra bucket threshold to prevent long hashing times</li> <li>Upgrade our application to newer versions of Ruby and Rails!</li> </ul><h3>Benefits: </h3><p>ConvertKit has standardized salaries based on position, no matter where you live. We have six engineering levels. For this role, we are hiring a strong level 4 ($174,000). The level is based upon your experience, our interview process, and our engineering matrix.</p><p><br></p><p>Other benefits include:<br></p><ul> <li>Profit Sharing - <a href="https://twitter.com/nathanbarry/status/1491429183977050114" target="_blank" rel="nofollow noreferrer noopener" class="external">Learn about profit sharing and compensation at ConvertKit</a> </li> <li>Twenty (20) days of paid time off during each year of employment</li> <li>Paid paid vacation: An after-tax bonus of $1,000 for taking five consecutive days of vacation where you’re fully unplugged from work</li> <li>Ten paid holidays a year</li> <li>Monthly medical benefits up to $1,750 a month toward premiums. Dental and vision premiums covered 100%</li> <li>Two weeks of paid sick time each year, including mental health + well being days</li> <li>12 weeks paid parental leave and flexible scheduling in your child’s first year</li> <li>Childcare benefit up to $3,000 annually</li> <li>Up to six weeks of paid bereavement leave, medical leave, and disaster after six months of employment, two weeks of each paid leave in your first six months=</li> <li>Gender affirming benefits</li> <li>$4,000 equipment allowance for your first two years, $3,000 budget every following two years</li> <li>Individual learning + development budget ($3,500/year)</li> <li>Four-week, paid sabbatical after five years with the team</li> <li>Fantastic in-person or virtual retreats with the team twice a year</li> </ul><h3><br></h3><h3>How to Apply</h3><p>We know that interviewing can be a stressful and anxiety-inducing process (we relate!). We aim to make it as good an experience as we can, and part of that includes keeping you informed during the process.</p><p>Here’s what the full set of hiring steps looks like:<br></p><ul> <li>Complete your application, which includes two, short-answer questions</li> <li>Recruiter screen</li> <li>Phone screen with the hiring manager</li> <li>Complete a short 2-hour coding and writing assignment</li> <li>Technical interview to discuss the homework assignment and your technical knowledge with two engineers on the team</li> <li>Culture contribution interview with a product team member and another person from the team</li> <li>Technical storytelling interview with two members of the team (at least one from engineering)</li> </ul><p><br></p><p>To get started, complete this application, including answers to the questions on the next page. <strong>We read every single application, thoroughly and your responses to our application questions help put your experience into context.</strong></p><p><br></p><p><em>ConvertKit is an equal opportunity employer. We value diversity in all of its forms and we hire the best person for each role, no matter your personal background. Research tells us that applicants who are female or non-binary, as well as applicants who are people of color, are less likely to apply for roles they do not feel 100% qualified for.</em></p><p><em>We encourage every person who is interested to apply. We’re imperfect communicators, so think of our job postings as the starting point for discussion rather than proof that you shouldn’t apply. Take the leap - you never know, you might just be the perfect person for one of our open roles, even if you don’t match 100% of the job description</em></p>
                 </details>
                 </td>
             </tr>,<tr>
