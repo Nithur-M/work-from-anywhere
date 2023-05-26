@@ -10,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/hashlist-software-developer" align="right" target="_blank">Apply</a>
@@ -72,7 +72,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/cloudcannon-developer-evangelist" align="right" target="_blank">Apply</a>
@@ -115,7 +115,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/simplero-senior-rails-developer-2" align="right" target="_blank">Apply</a>
@@ -172,7 +172,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/remotemore-javascript-developer-react-or-vue-or-angular-with-node-js-3" align="right" target="_blank">Apply</a>
@@ -229,7 +229,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-9" align="right" target="_blank">Apply</a>
@@ -286,7 +286,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-senior-whmsc-web-developer-lead" align="right" target="_blank">Apply</a>
@@ -370,7 +370,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>155 days ago</text>
+                <text>156 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1" align="right" target="_blank">Apply</a>
@@ -432,7 +432,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -501,7 +501,7 @@
                     <code>CSS,developer,excel,git</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -576,7 +576,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -653,7 +653,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -790,7 +790,7 @@
                     <code>azure,cloud,developer,django</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -855,7 +855,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -932,7 +932,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1076,7 +1076,7 @@
                     <code>CSS,developer,docker,blockchain</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/web-developer-1667108" align="right" target="_blank">Apply</a>
@@ -1118,46 +1118,6 @@
 </ul>
 <p><br><a href="https://docs.google.com/document/d/1irpAIUmYq8XiZ3x9HWDWg9_70dA_L176pKK8hBlbI1Y/edit?usp=sharing" rel="nofollow" target="_blank">Candidate Privacy Notice</a></p>
 <img src="https://remotive.com/job/track/1667108/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1665505/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Contra</h5>
-                    <h3>Freelance AI Application Developer Cohort 4</h3>
-                </td>
-                <td width="300">
-                    <code>developer,seo,social media,ai</code>
-                </td>
-                <td width="200">
-                <text>31 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/freelance-ai-application-developer-cohort-4-1665505" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Are you a creative AI Application Developer with domain expertise in <strong>ChatGPT Applications</strong>, <strong>AI Web Applications</strong> and <strong>AI Chatbots</strong> and a passion for sharing your knowledge with others? Join the <a href="http://bit.ly/3J5ZhdS" rel="nofollow">Contra</a> Creator program to create and share high-quality projects and the portfolio of your dreams based on your unique skillset.</p><p><br></p><p>As a member of the Contra Creator program, you’ll be creating high-quality portfolio projects about AI development. These will be featured on Contra and around the web. You will be paid <strong>$2000 USD</strong> for a 1 month project for the following scope.</p><p><br></p><div class="h3">Scope</div><ul style="">
-<li style="">Create and share 8 - 10 high-quality projects on your Contra Portfolio. Contra will help you choose the topics that will be most beneficial to your portfolio. We will also do SEO research on each topic to make sure your portfolio gets tons of visibility.</li>
-<li style="">Host the content on your Contra portfolio that lives on your custom domain (we can help you get one if you don’t have one already)</li>
-<li style="">Ensure that content is easy to share and engage with on social media platforms and other online channels</li>
-<li style="">Share content on your social platforms and/or in communities</li>
-</ul><p><br></p><div class="h3">What We’re Looking For</div><ul style="">
-<li style="">Experience creating and editing high-quality content</li>
-<li style="">Strong domain expertise in the AI space</li>
-<li style="">Active on social media and familiar with engagement strategies (a plus)</li>
-</ul><p><br></p><div class="h3">What You’ll Get</div><ul style="">
-<li style="">Build the Portfolio of your dreams 💭</li>
-<li style="">Boost your reputation on Contra and as an independent</li>
-<li style="">Increased discoverability of your unique expertise</li>
-<li style="">Community of fellow freelancers and thought leaders</li>
-</ul><p><br></p><div class="h3">About Contra</div><p>The Contra team wants to continue to support the independent community and we believe there is no better way to do this than with paid opportunities 🚀 Contra allows Independents to build their digital portfolio, get discovered by clients around the world, and earn money commission-free; while connecting Clients with top Independent talent. We believe in empowering people to work the way <em>they want.</em></p><p>If you are passionate about sharing your knowledge and want to be part of a growing community of creators, please apply!</p><p>
-</p><div class="h3">Learn more about <a href="http://bit.ly/3Dbh5jQ" rel="nofollow">Contra here</a>!</div>
-<img src="https://remotive.com/job/track/1665505/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
