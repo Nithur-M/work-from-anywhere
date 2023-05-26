@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>122 days ago</text>
+                <text>123 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -630,86 +630,6 @@
 <li>Technical &amp; Culture Interview with Waku Lead</li>
 <li>Final interview with Logos Lead&nbsp;</li>
 </ol>
-
-    
-
-    
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/D4E0BAQGvUyfPVBWDyg/company-logo_200_200/0/1657595552015?e=2147483647&v=beta&t=EecsDCOy3Fh_26M1noQDDIYw8-JuGKz_d1JDvcBZ-yI" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Bobtail</h5>
-                    <h3>Software Engineer - Mobile (Flutter)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/bobtail/jobs/4008379005" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    
-
-    <h2><span style="font-weight: 400;">About Bobtail</span></h2>
-<p><span style="font-weight: 400;">Bobtail is dedicated to increasing happiness by eliminating inefficiencies in the supply chain.&nbsp; We envision a supply chain without friction, fraud, waste, and abuse where companies succeed based on the value they create.&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">We work in a unique way at Bobtail, where we value teams over individuals and encourage experimentation and iteration to constantly improve.&nbsp; Teams are given flexibility in working towards a shared purpose and given the freedom to decide how they will accomplish their goals.&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">If you are an out of the box thinker that takes a proactive approach in collaborating with others to solve problems and achieve your goals - we would love to talk to you.&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">The things we value:</span></p>
-<ol>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Mission</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Teams over individuals</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Collaboration</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Communication</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Iteration</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experimentation and failing fast</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Initiative and solutions oriented approach</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Documentation</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Data</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Mental health and work life balance</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Diversity</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Transparency</span></li>
-</ol>
-<h2><span style="font-weight: 400;">You should apply if you have:</span></h2>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Computer Science or similar Software Engineering degree.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Proficiency in the English language, both written and verbal, sufficient for success in a remote and largely asynchronous work environment</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Highly effective collaboration, you work well with your team and your partners in product and design towards common goals</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Thrive in remote work environments - can accomplish a lot with minimal guidance but know when to reach out to support others or ask for help.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with either Flutter, iOS, or Android</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">5+ years of experience in software engineering with demonstrated proficiency in programming languages, such as and system design.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Strong theoretical fundamentals and hands-on experience designing and implementing highly available and performant fault-tolerant distributed systems.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have strong opinions about your design and coding principles.&nbsp; Don’t require hand holding and flourish in an independent environment.&nbsp;&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with credit card processing and payments applications</span></li>
-</ul>
-<h2><span style="font-weight: 400;">You will be responsible for:</span></h2>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Contribution to design and development of enterprise scale flutter application</span></li>
-<li><span style="font-weight: 400;">Debugging production level issues throughout the application</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Developing features and improvements to the Bobtail product in a secure, well-tested, and performant way</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Shipping large sized features and improvements with minimal guidance and support from other team members as well as collaborating with the team on larger projects</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Solve complex problems with smart people</span></li>
-</ul>
-<h2><span style="font-weight: 400;">Benefits</span></h2>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Monthly Mental Break Day</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Paid Time Off</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Work from home (or wherever)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Parental leave</span><span style="font-weight: 400;"><br><br></span></li>
-</ul>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">Creating a diverse and inclusive workplace is Bobtail’s nucleus. We are an equal opportunity employer and embrace people of different backgrounds, cultures, religions, national origins, races, colors, genders, gender expressions, sexual orientations, ages, marital status, veteran status, experiences, abilities and perspective</span><span style="font-weight: 400;">s.</span><span style="font-weight: 400;"> </span><span style="font-weight: 400;"><br><br></span></p>
-<p><br><br></p>
 
     
 
