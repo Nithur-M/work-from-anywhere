@@ -10,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/hashlist-software-developer" align="right" target="_blank">Apply</a>
@@ -72,7 +72,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/cloudcannon-developer-evangelist" align="right" target="_blank">Apply</a>
@@ -115,7 +115,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/simplero-senior-rails-developer-2" align="right" target="_blank">Apply</a>
@@ -172,7 +172,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/remotemore-javascript-developer-react-or-vue-or-angular-with-node-js-3" align="right" target="_blank">Apply</a>
@@ -219,147 +219,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7016/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Bottomless</h5>
-                    <h3> Senior Full Stack Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-9" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/7016/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Seattle, Wa
-    <br /><strong>URL:</strong> <a href="https://www.bottomless.com/">https://www.bottomless.com/</a>
-</p>
-
-<div>We are looking for a jack-of-all-trades <strong><em>senior</em></strong> javascript/full stack developer.<br><br>The ideal candidate for this position would be able to dive into any kind of project, from frontend UI/UX tasks in React.js to backend tasks running on Node.js.<br><br>If you’re interested in variety and working hard to build something big, this might be a good fit.<br><br>We need to achieve <em>80% of the results with 20% of the effort</em>.<br><br><strong>Responsibilities:</strong>
-</div><ul>
-<li>Design and build infrastructure and products for a sensor-enabled e-commerce marketplace.</li>
-<li>Build robust infrastructure to support existing product lines and the ability to roll out new ones.</li>
-<li>Responsibility over the user-facing product</li>
-<li>Quick iteration on different fronts from fronted UX changes to database design to quick and dirty implementations.</li>
-<li>Responsible for full deployment and testing of applications.</li>
-</ul><div><br></div><div><strong>Skill, Qualifications, and Experience:</strong></div><div><br></div><div><em>Expert proficiency required:</em></div><ul>
-<li>Node.js</li>
-<li>NoSQL databases</li>
-<li>React.js</li>
-<li>English (written and verbal)</li>
-</ul><div><br></div><div><em>Intermediate proficiency, at a minimum:</em></div><ul>
-<li>UI/UX design</li>
-<li>Software architecture</li>
-</ul><div>
-<br>Not required, but a plus:</div><ul>
-<li>Python (background tasks)</li>
-<li>Embedded systems (C++)</li>
-</ul><div> <br><strong>Details:</strong>
-</div><ul>
-<li>Remote OK. Must be flexible with hours as we have a remote international team.</li>
-<li>Competitive equity and cash compensation</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-9">https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-9</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/7731/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>RapidSeedbox Ltd</h5>
-                    <h3> Senior WHMSC Web Developer Lead</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>9 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-senior-whmsc-web-developer-lead" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0086/7731/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> 100% Remote
-    <br /><strong>URL:</strong> <a href="https://www.rapidseedbox.com/">https://www.rapidseedbox.com/</a>
-</p>
-
-<div>▬▬▬▬▬▬▬▬▬▬▬</div><div>A video from RapidSeedbox CEO and Co-Founder<br>▬▬▬▬▬▬▬▬▬▬▬</div><div>
-<br>https://www.dropbox.com/s/6p53rj1xob7wk74/RapidSeedbox%20Job%20Post%20Intro.mp4?dl=0<br><br>
-</div><div>▬▬▬▬▬▬▬▬▬▬▬</div><div>Our core values</div><div>▬▬▬▬▬▬▬▬▬▬▬</div><div><br></div><div>→ <strong>Excellence in everything we do </strong>(“<em>I go above and beyond!</em>”) - We believe in being excellent and showing it with our actions and mindset in absolutely everything we do day to day.<br><br>
-</div><div>→<strong> Ownership and responsibility</strong> (<em>“I own it”</em>) - We believe in taking full ownership and full responsibility for everything we do. That means taking full ownership of every small task and taking responsibility for deliverables and outcomes.<br><br>
-</div><div>→ <strong>Push the limits </strong>(“I<em> don't take No as an answer</em>”) - We love pushing the limits and we do not take no as an answer. WE push their limits so that we can grow professionally.<br><br>
-</div><div>→ <strong>Cooperate and Serve</strong> (“<em>Everyone matters”</em>) - We believe in team cooperation and serving both our external customers and serving all of our internal team.<br><br>
-</div><div>Our company is looking to grow in the Seedbox/IP space and we are looking for growth-oriented people who want to join our growth journey. If this sounds like the team for you, read on!<br><br><strong>About the role</strong><br>▬▬▬▬▬▬▬▬▬▬▬<br><br>
-</div><div>As a senior web development lead, you will be responsible for leading all main developments of the company and integrating our solutions, and for the maintenance of our systems.<br><br>
-</div><div><strong>Top technical skills you need to have:<br>──────────────────────</strong></div><ul>
-<li>Proficiency in WHMCS — WHMCS is a leading web hosting automation platform, and mastering its features, functionality, and customization options is essential for developing and managing hosting-related solutions efficiently. <strong>(Minimum of 4 years of direct experience working with WHMSC)</strong>
-</li>
-<li>Expertise in PHP 7/8 — PHP is a widely-used server-side scripting language for web development. Familiarity with the latest versions ensures you can create high-performance, secure, and scalable web applications.</li>
-<li>Smarty template engine skills — Smarty is a popular PHP-based template engine, and proficiency in it allows for more efficient separation of presentation and application logic, leading to cleaner and more maintainable code.</li>
-<li>Strong MySQL database knowledge — MySQL is a widely-used open-source relational database management system. Expertise in MySQL ensures you can design, develop, and optimize database systems to support high-performing web applications.</li>
-<li>API integration and development — Integrating and developing RESTful APIs enables seamless data exchange and communication between different software systems, enhancing the overall functionality and user experience of web applications.<ul><li>As APIs allow different software systems to interact, expertise in API integrations, particularly RestAPI, is vital for a Senior Web Developer. This skill enables seamless data exchange and enhances the overall functionality of web applications.</li></ul>
-</li>
-<li>Version control using Git — Proficiency in Git is crucial for managing codebase changes, collaborating with other developers, and maintaining an organized and efficient development workflow.</li>
-<li>(Optional but recommended) Front-end development skills — Mastery of HTML, CSS, and JavaScript ensures you can create visually appealing, responsive, and user-friendly web interfaces that meet modern web standards.</li>
-</ul><div>
-<br><strong>About you</strong><br>▬▬▬▬▬▬▬▬▬▬▬<br><strong>Top personality/character traits you need to have:<br>──────────────────────</strong>
-</div><ul>
-<li>Strong problem-solving abilities — The ability to identify, analyze, and resolve complex technical issues is essential for delivering high-quality solutions in a timely manner.</li>
-<li>Excellent communication skills — Clear and effective communication with team members, stakeholders, and clients ensures a better understanding of project requirements, promotes collaboration, and prevents misunderstandings.</li>
-<li>Time management and prioritization — Balancing multiple tasks, deadlines, and responsibilities to stay productive and deliver projects on schedule.</li>
-<li>Adaptability and continuous learning — The tech industry evolves rapidly; being open to learning new technologies and adapting to changes ensures you stay relevant and bring innovation to your projects.</li>
-<li>Leadership and mentoring — As a Senior Web Developer, guiding and mentoring junior developers helps foster a collaborative environment and ensures the team stays aligned with best practices and project goals.</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>Benefits</strong><br>▬▬▬▬▬▬▬▬▬▬▬<br><br>
-</div><div>
-<strong>What’s in it for you?<br></strong><br>
-</div><ul>
-<li>
-<strong>100% Remote: </strong>Fully remote and full-time role. Fully flexible working schedule; you can be online at any time during the day as long as you clock 40 hours per work week and deliver results. The company measures only performance and results</li>
-<li>
-<strong>Emergency fund</strong>: We provide an emergency fund in case of emergencies up to $1,000, interest free and in a comfortable payouts.</li>
-<li>
-<strong>Personal development: </strong>We provide a personal development fund to aid your personal development</li>
-<li>
-<strong>Focused time blocks:</strong> We discourage meetings before noon so employees can have undistracted time to work.</li>
-<li>
-<strong>Incredible Growth and Promotion Opportunities: </strong>We are a small company and there is a lot of opportunity to make your mark, grow professionally and also be promoted.</li>
-<li>
-<strong>Swag:</strong> You get company gear swag shipped to you.</li>
-<li>
-<strong>Bonus structure:</strong> Based off performance, we create bonus structures</li>
-</ul><div>
-<strong>Reached the end and still interested? Here are the next steps</strong><br>▬▬▬▬▬▬▬▬▬▬▬<br><br><strong>This position will be closed as soon as we find the perfect match</strong>. So, make sure to read the description carefully, apply promptly, and take your time to submit a high-quality application that stands out.<br><br>
-</div><div>The hiring process would include the following steps:<br>↪︎ Filling in an initial questionnaire<br>↪︎ Linux and technical tests<br>↪︎ Reading a book<br>↪︎ Interviews within the company<br>↪︎ Personality tests<br>↪︎ Paid tasks<br>↪︎ Referencing<br><br>
-</div><div><br></div><div>▬▬▬▬▬▬▬▬▬▬▬</div><div>Next Step<br>▬▬▬▬▬▬▬▬▬▬▬<br><br>Filling in the application form once you click “Apply”</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-senior-whmsc-web-developer-lead">https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-senior-whmsc-web-developer-lead</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -370,7 +229,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>156 days ago</text>
+                <text>157 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1" align="right" target="_blank">Apply</a>
@@ -432,7 +291,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -501,7 +360,7 @@
                     <code>CSS,developer,excel,git</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -576,7 +435,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -653,7 +512,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -790,7 +649,7 @@
                     <code>azure,cloud,developer,django</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -855,7 +714,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -932,7 +791,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1076,7 +935,7 @@
                     <code>CSS,developer,docker,blockchain</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/web-developer-1667108" align="right" target="_blank">Apply</a>
