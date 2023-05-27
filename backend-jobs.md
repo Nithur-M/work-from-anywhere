@@ -10,7 +10,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/covergo-senior-backend-engineer-net-fully-remote" align="right" target="_blank">Apply</a>
@@ -62,7 +62,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>126 days ago</text>
+                <text>127 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-backend" align="right" target="_blank">Apply</a>
