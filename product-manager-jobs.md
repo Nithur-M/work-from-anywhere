@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/planning-center-product-manager" align="right" target="_blank">Apply</a>
@@ -120,7 +120,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ueni-saas-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -180,7 +180,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clubrare-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -237,7 +237,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>107 days ago</text>
+                <text>108 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1" align="right" target="_blank">Apply</a>
@@ -292,6 +292,86 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1">https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1679391/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Ingenious</h5>
+                    <h3>Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>cloud,product manager,scrum,growth</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/product-manager-1679391" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class='"content-intro"'>
+<p>At INGENIOUS.BUILD, we’ve cracked the code and built a world-class platform for companies of all sizes within the real estate and construction industries across the globe, enabling them to simply and effortlessly manage all aspects of their projects--from inception to completion, and both internally and in conjunction with the other project participants.</p>
+<p>Project managers drool. Data geeks giggle. Execs actually sleep well. And the rest simply stare slack-jawed at their screens unable to comprehend how in the world we pulled this off...</p>
+<p><strong><em>Think about what you could do here</em></strong>… At INGENIOUS.BUILD, you’ll be participating in one of the most exciting and unparalleled journeys of your career--a journey to pioneer the first cloud application to manage the entire lifecycle of a real estate construction project. In short, you’ll be building what some have claimed is the holy grail of construction project management.</p>
+<p>It’s big. Bold. Audacious, even. But that's how we roll...</p>
+<p>And if you’ve got what it takes, you’ll be directly involved in its development. The rest, as they say, will be history...</p>
+<p>So... think you've got the right stuff?</p>
+</div>
+<div class='"styles--2BkR3"'>
+<div class='"styles--2Kv6p"'>
+<p>The Product Manager is responsible for shipping incredible value to the customer for the more technical Delivery Team that focuses on external integrations.  This is done by gathering customer requirements, prioritizing the work, and partnering with cross-functional teams to ensure the product is delivered on-time, within budget, and to the highest quality standards.</p>
+<p>We are looking for a tenacious, well-rounded person who thrives in a fast paced environment and can relentlessly transform fragmented information into valuable software for our users.</p>
+<p><strong>Responsibilities</strong></p>
+<ul style="">
+<li style="">Set the product vision and strategy for 3rd party integrations using data driven decisions.</li>
+<li style="">Ingest information about your clients, research the market, conduct user tests as needed, and partner with stakeholders to build a roadmap that optimizes value and delivers the Right Thing at the Right Time.</li>
+<li style="">Monitor product performance and key metrics to identify areas for improvement and growth opportunities.</li>
+<li style="">Collaborate with Delivery Teams (Software, Design, Quality Assurance) to ship impactful, world class products. </li>
+<li style="">Develop clear GTM strategies for internal stakeholders and customers.</li>
+<li style="">Communicate with various internal and external stakeholders.</li>
+</ul>
+<div class="h4"><strong>Required Qualifications</strong></div>
+<ul style="">
+<li style="">2+ years of career experience in a related field.</li>
+<li style="">Proficient in discussing APIs and data structures.</li>
+<li style="">Demonstrated history of advancing business outcomes through thoughtful leadership, logical thinking, and cross-functional partnership.</li>
+<li style="">Track record of independently initiating new ideas.</li>
+<li style="">Proven ability to successfully wear many hats/roles.</li>
+<li style="">Excellent written and verbal communication skills.</li>
+<li style="">Values humility and is willing to hear feedback from their peers.</li>
+</ul>
+<div class="h4"><strong>Preferred Qualifications</strong></div>
+<ul style="">
+<li style="">Experience in a start-up environment. </li>
+<li style="">Experience with iPaaS.</li>
+<li style="">Experience with integrations.</li>
+<li style="">2+ years as a Product Manager.</li>
+<li style="">Experience in AECO or PropTech industry. </li>
+<li style="">Scrum/Agile Methodologies.</li>
+<li style="">Ability to effectively manage and interpret data analytics. </li>
+<li style="">Experience with our tooling: Jira, Figma, Productboard.</li>
+</ul>
+<div class="h4"><strong>Benefits</strong></div>
+<ul style="">
+<li style="">Hardware (Computer and other relevant office equipment).</li>
+<li style="">Unlimited PTO.</li>
+<li style="">Health Care Plan (Medical, Dental &amp; Vision).</li>
+<li style="">Stock Option Plan.</li>
+</ul>
+<div class="h4"><strong>Compensation</strong></div>
+<p>As we are willing to consider a wide range of experience levels for this position—and are considering a rather wide-ranging spectrum of factors in our evaluation (including, but not limited to, specific skills, prior experience (both in the position and otherwise), location, fit, and aptitude, and are willing to hire based upon a broad mix of the foregoing)—the compensation range for this position is quite broad, and we in good faith believe it to be anywhere between $80,000 and $130,000; provided, however, that we may ultimately pay more or less than this range depending upon circumstances we did not reasonably foresee when making this posting.</p>
+</div>
+</div>
+<div class='"content-conclusion"'>
+<p>We're fired up to learn more about you to see how you can help us on our mission!  We genuinely look forward to receiving your application to gain further detail on who you are and how you tick... and hopefully start the process of bringing you into the Ingenious family ;).</p>
+</div>
+<img src="https://remotive.com/job/track/1679391/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
