@@ -10,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/hashlist-software-developer" align="right" target="_blank">Apply</a>
@@ -72,7 +72,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/cloudcannon-developer-evangelist" align="right" target="_blank">Apply</a>
@@ -115,7 +115,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/simplero-senior-rails-developer-2" align="right" target="_blank">Apply</a>
@@ -172,7 +172,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/remotemore-javascript-developer-react-or-vue-or-angular-with-node-js-3" align="right" target="_blank">Apply</a>
@@ -229,7 +229,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>157 days ago</text>
+                <text>158 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1" align="right" target="_blank">Apply</a>
@@ -291,7 +291,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -435,7 +435,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -512,7 +512,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -649,7 +649,7 @@
                     <code>azure,cloud,developer,django</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -714,7 +714,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -791,7 +791,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -921,62 +921,6 @@
 </li>
 </ul>
 <img src="https://remotive.com/job/track/1606658/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1667108/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>1inch Network</h5>
-                    <h3>Web Developer</h3>
-                </td>
-                <td width="300">
-                    <code>CSS,developer,docker,blockchain</code>
-                </td>
-                <td width="200">
-                <text>31 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/web-developer-1667108" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We are looking for an experienced web developer to help us build 1inch dApp <a href="https://app.1inch.io/" rel="nofollow" style="background-color: #ffffff;">https://app.1inch.io/</a></p>
-<p> </p>
-<p><strong>Must know:</strong></p>
-<ul style="">
-<li style="">Latest Angular, RxJS, TypeScript, Service Worker, PWA</li>
-<li style="">DOM, SCSS/CSS</li>
-<li style="">Unit Testing / Jest</li>
-<li style="">Understanding of common software design patterns &amp; principles</li>
-<li style="">HTTP<br><br></li>
-</ul>
-<p><strong>1inch - No.1 Ethereum DeFi aggregator and high efficient AMM<br></strong></p>
-<p>No.1 DeFi aggregator with the most liquidity and the best rates on Ethereum and Binance Smart Chain, 1inch dApp is an entry point to the 1inch Network's tech.</p>
-<p><strong><br>Strongly desirable:</strong></p>
-<ul style="">
-<li style="">Experience with: Blockchain, Ethereum, JSON-RPC, Solidity/Smart Contracts, Web3, Ethers, EIP-2612, AMM, HD Wallet</li>
-<li style="">Github Actions / Docker / Microservice</li>
-<li style="">NestJs, TypeORM, Swagger</li>
-<li style="">e2e testing, Cypress</li>
-<li style="">Experience of chrome extension development</li>
-</ul>
-<p><strong><br>Terms:</strong></p>
-<p> </p>
-<ul style="">
-<li style="">Remote work, flexible hours (our team is distributed around the world).</li>
-<li style="">Young creative team, vibrant environment and adequate leadership.</li>
-<li style="">Suggestions welcome: propose an idea and execute it.</li>
-<li style="">Competitive salary based on a candidate's skills and experience.</li>
-<li style="">Work for a leader in its segment.</li>
-<li style="">Compensation for work equipment.</li>
-<li style="">Annual team building event at an international resort.</li>
-</ul>
-<p><br><a href="https://docs.google.com/document/d/1irpAIUmYq8XiZ3x9HWDWg9_70dA_L176pKK8hBlbI1Y/edit?usp=sharing" rel="nofollow" target="_blank">Candidate Privacy Notice</a></p>
-<img src="https://remotive.com/job/track/1667108/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1946,30 +1890,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>We are looking to hire (3) C Developers, who will be part of our Imunify360 team.</p><p>Imunify360 Security Suite is a product of CloudLinux Inc., the maker of the #1 OS in security and stability for hosting providers. Imunify is an innovative security solution designed specifically for shared and VPS/Dedicated servers. The automated, easy-to-use solution with the six-layer approach to security delivers comprehensive and complete attack prevention. In this position you will work and contribute to major, open source projects like Apache HTTPD, OpenSSL, MySQL. You will also backport security fixed to stable, maintaining versions of those projects.</p><p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and  we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure everyone is successful. We are truly a great place to work.</p> <p>For more details about our company go to <a href="http://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">Cloudlinux.com</a>.</p> <p><strong>As our C Developer you will be responsible for:</strong></p><ul> <li>Work on implementing security modules for various Linux software (apache, nginx, PHP, dovecot, pam)</li> <li>Optimizing algorithms used in existing code to reduce overhead</li> <li>Cover your code with unit and functional tests</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role you should have:</strong></p><ul> <li>5+ years of С programming experience</li> <li>GNU/Linux operating system and shell scripting experience</li> <li>Ability to work with various build systems like autotools, make and cmake</li> <li>Experience with git-based development processes</li> <li>Experience in debugging(mostly gdb and command line)</li> <li>Experience in the development of web-server modules: Nginx , Apache/OpenLiteSpeed and understanding of the web-server architecture and workflow will be a plus</li> <li>Golang language knowledge will be a plus</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> </li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p><br></p><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Senior Python Developer for Imunify - REMOTE/Work Anywhere</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/3CAE9AC6C3" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and  we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure everyone is successful. We are truly a great place to work. For more details about our company go to <a href="http://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">Cloudlinux.com</a>.</p><p>Imunify Security is an innovative security solution, powered by Artificial Intelligence for Linux web servers. It is designed specifically for shared and VPS/Dedicated servers. The automated, easy-to-use security solution with the six-layer approach to security delivers comprehensive and complete attack prevention.</p><p>Work is fully remote, so you can work from anywhere. </p><p>More details about the project you can find on the product website <a href="http://imunify360.com/" rel="nofollow noreferrer noopener" class="external">Imunify360.com</a>, and about the company on <a href="https://www.cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">Cloudlinux.com</a>.</p><p>Join us to make a difference!</p><p><strong>What you will do:</strong></p><ul> <li>Be involved in the development of Imunify360 products using Python. </li> <li>Cover your code with unit tests and/or functional tests.</li> <li>Review of code written by your colleagues using Gerrit.</li> <li>Architecture development and writing technical documentation for new features.</li> <li>Investigating issues reported by our clients, partners, or support team.</li> </ul><h3>Requirements: </h3><p><strong>Qualifications that we are looking for:</strong></p><ul> <li>3+ years of Python programming experience.</li> <li>Experience in system programming: sockets, filesystem, process management</li> <li>Experience with Linux servers administration is a huge plus</li> <li>Experience with network security is a plus</li> <li>Experience with automated testing and CI/CD systems is a plus</li> <li>Knowledge about rpm/deb package management is a plus</li> <li>Intermediate level of English language.</li> </ul><p><strong>Personal skills:</strong></p><ul> <li>Fast-learning, proactivity.</li> <li>Strong self-motivation, driven to achieve committed milestones.</li> <li>Strong prioritization skills and a flexible mindset </li> <li>The ability to independently analyze a task and find the right solution.</li> <li>The ability to work with vague requirements and making independent decisions</li> <li>The ability to work in a team.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> </li> <li>Flexible working hours</li> <li>Paid 24 days of vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em>
                 </details>
                 </td>
             </tr></table>
