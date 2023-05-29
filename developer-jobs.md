@@ -10,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/hashlist-software-developer" align="right" target="_blank">Apply</a>
@@ -72,7 +72,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/cloudcannon-developer-evangelist" align="right" target="_blank">Apply</a>
@@ -115,7 +115,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/simplero-senior-rails-developer-2" align="right" target="_blank">Apply</a>
@@ -162,63 +162,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/7497/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>RemoteMore</h5>
-                    <h3> JavaScript Developer (React or Vue or Angular, with Node.js)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/remotemore-javascript-developer-react-or-vue-or-angular-with-node-js-3" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0064/7497/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Berlin/Chicago 
-    <br /><strong>URL:</strong> <a href="https://remotemore.com/candidates/?utm_source=wwr&amp;utm_medium=jobpost&amp;utm_campaign=javascript">https://remotemore.com/candidates/?utm_source=wwr&amp;utm_medium=jobpost&amp;utm_campaign=javascript</a>
-</p>
-
-<div>
-<strong>The position<br></strong><br>
-</div><div>RemoteMore is helping a large tech company with hiring JavaScript developers for its European and US teams.<br><br>
-</div><div>The company is one of the major tech companies and works on a big number of internal projects. Multiple JavaScript Developers will be hired and matched to the projects that are best fit for their expertise. The product teams are fully distributed. The company culture is to focus on work delivered and not hours spent.<br><br>
-</div><div>Good work-life balance is encouraged: 4-week paid holiday per year is part of the benefits package. You will work with senior colleagues with many opportunities to grow professionally. You can work from home or any other place of your choice.<br><br>
-</div><div>The position is full-time and remote.<br><br>
-</div><div><br></div><div>
-<strong>Your profile<br></strong><br>
-</div><div>Coming from a strong technical background, you are expected to have:<br><br>
-</div><ul>
-<li>Preferred frameworks: React, Node. Vue and Angular are also relevant.</li>
-<li>Top technical skills for your level of experience - Intermediate or Senior (2+ years of experience)</li>
-<li>The soft skills to work remotely. Strong individual contributor, strong communication skills.</li>
-<li>Passion for remote work. You understand the pros and cons of working remotely.</li>
-<li>Sufficient English language skills to work as part of an international team.</li>
-</ul><div><br></div><div>
-<strong>Why should YOU apply?<br></strong><br>
-</div><ul>
-<li>Work from anywhere you want.</li>
-<li>Competitive compensation based on your skills.</li>
-<li>Work in a team with other top developers.</li>
-<li>Make a difference.<br><br>
-</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/remotemore-javascript-developer-react-or-vue-or-angular-with-node-js-3">https://weworkremotely.com/remote-jobs/remotemore-javascript-developer-react-or-vue-or-angular-with-node-js-3</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -229,7 +172,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>158 days ago</text>
+                <text>159 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1" align="right" target="_blank">Apply</a>
@@ -281,6 +224,120 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/0942/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>much</h5>
+                    <h3> Remote Senior Odoo Developer (m/f/d)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>180 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/much-remote-senior-odoo-developer-m-f-d" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0082/0942/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://muchconsulting.de">https://muchconsulting.de</a>
+</p>
+
+<div>You want to work as a remote developer with the prospect of coming to Portugal after a successful freelance cooperation?<br><br>We are a boutique consultancy in the heart of Munich and in sunny Lisbon with a focus on business IT &amp; ERP systems.<br><br>Our customers are fast-growing, international start-ups and medium-sized companies. We are ambitious, team-oriented and passionate about our work.<br>We are looking for a dedicated full time Odoo developer to support our Team in ERP development.<br><br><strong><br>Our offer:</strong>
+</div><ul>
+<li>The chance to come to Portugal after your freelance work </li>
+<li>Support with visa process, bureaucracy &amp; relocation</li>
+<li>Inclusion in our motivated &amp; high-performing international team through daily  meetings  </li>
+<li>Challenging projects and autonomy</li>
+<li>Flexible working hours</li>
+<li>Above-average remuneration  </li>
+</ul><div>
+<br><strong>Your profile:</strong>
+</div><ul>
+<li>Studies in computer engineering or similar </li>
+<li>5 or more years experience in Odoo and QWeb</li>
+<li>Ninja programming skills in Python</li>
+<li>Adaptive, quick working method &amp;  high commitment style</li>
+<li>Independent working style </li>
+<li>English speaking team player </li>
+</ul><div><br></div><div><strong>Your tasks:</strong></div><ul>
+<li>Evolve and maintain custom and  open source used modules in our  ERP System Odoo </li>
+<li>Assist our consultants analysing  customer needs to design and build  the best fit IT solutions  </li>
+<li>Development, maintenance, technical fixing &amp; management of  our systems </li>
+</ul><div>
+<br>Learn more about much. Consulting at muchconsulting.com/join</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/much-remote-senior-odoo-developer-m-f-d">https://weworkremotely.com/remote-jobs/much-remote-senior-odoo-developer-m-f-d</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1692870/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Brave Achievers Foundation - The LightHouse International</h5>
+                    <h3>Game Developer (Low-Code and Traditional Coding)</h3>
+                </td>
+                <td width="300">
+                    <code>android,C,C#,C++</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/game-developer-low-code-and-traditional-coding-1692870" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Job Brief:<br>Are you a talented and versatile Game Developer who excels in both low-code game development and traditional coding? Join our dynamic and innovative team at Brave Achievers and be a key contributor in creating captivating and immersive gaming experiences using a combination of low-code tools, including GameSalad, and coding languages.</p>
+<p>Responsibilities:</p>
+<ul style="">
+<li style="">Collaborate with the game design team to conceptualize and develop game mechanics, features, and overall gameplay experience using a combination of low-code game development tools, including GameSalad, and traditional coding.</li>
+<li style="">Utilize low-code platforms, such as GameSalad, Buildbox, GameMaker Studio, Construct, as well as traditional coding languages (C++, C#, Python, etc.), to build and customize game elements, interfaces, and functionalities.</li>
+<li style="">Implement game assets, including 3D models, textures, animations, and audio, ensuring seamless integration within both low-code and traditional coding environments.</li>
+<li style="">Conduct thorough testing, debugging, and optimization to deliver high-quality, performant, and bug-free games.</li>
+<li style="">Stay up-to-date with the latest advancements in low-code game development tools, traditional coding languages, and emerging technologies.</li>
+<li style="">Work closely with artists, designers, and other developers to ensure the successful integration of game assets and features across different development approaches.</li>
+<li style="">Actively participate in design discussions, providing technical expertise, and contributing creative ideas to enhance the game development process.</li>
+</ul>
+<p>Requirements:</p>
+<ul style="">
+<li style="">Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent experience).</li>
+<li style="">Proven experience in game development, showcasing your work using a combination of low-code game development tools, including GameSalad, and traditional coding languages.</li>
+<li style="">Proficiency in popular low-code platforms for game development, such as GameSalad, Buildbox, GameMaker Studio, Construct, as well as strong programming skills in traditional languages (C++, C#, Python, etc.).</li>
+<li style="">Strong understanding of game mechanics, physics, and AI algorithms.</li>
+<li style="">Familiarity with asset creation and optimization for both low-code platforms and traditional coding environments.</li>
+<li style="">Strong problem-solving skills and ability to work in a fast-paced, collaborative environment.</li>
+<li style="">Excellent communication skills and a strong desire to contribute to a team-oriented environment.</li>
+<li style="">Passion for gaming and a good understanding of current industry trends.</li>
+</ul>
+<p>Bonus Skills:</p>
+<ul style="">
+<li style="">Experience with mobile game development using low-code platforms (iOS/Android).</li>
+<li style="">Knowledge of game monetization strategies and in-app purchases within both low-code and traditional coding environments.</li>
+<li style="">Familiarity with additional low-code platforms or visual scripting languages.</li>
+<li style="">Proficiency in other programming languages or frameworks (JavaScript, Unity, Unreal Engine, etc.).</li>
+<li style="">Familiarity with version control systems (Git, SVN) and agile development methodologies.</li>
+</ul>
+<p>We offer competitive compensation packages, including benefits and flexible working hours, along with the opportunity to work on cutting-edge projects in a fun and creative environment. Join our team at Brave Achievers and leverage your expertise in both low-code and traditional coding, including GameSalad, to create extraordinary gaming experiences that will captivate players worldwide.</p>
+<p>To apply, please submit your resume, portfolio, and any relevant work samples to [email address]. We look forward to reviewing your application and exploring the exciting possibilities of game development together!</p>
+<p>Note: Only shortlisted candidates will be contacted for an interview.</p>
+<p><br><br> </p>
+<img src="https://remotive.com/job/track/1692870/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1359476/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -291,7 +348,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -360,7 +417,7 @@
                     <code>CSS,developer,excel,git</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -435,7 +492,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -512,7 +569,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -649,7 +706,7 @@
                     <code>azure,cloud,developer,django</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -714,7 +771,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -777,150 +834,6 @@
 <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a new type of company for a new kind of independent software builder. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </span></p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</span></p>
 <img src="https://remotive.com/job/track/814298/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1606658/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify</h5>
-                    <h3>Senior Unity Developer</h3>
-                </td>
-                <td width="300">
-                    <code>C,C#,developer,mobile</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The Role:</span></p>
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">We are searching for a Senior Unity </span><span style="color: #252525; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Developer.</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </span></p>
-<p><strong><br><br></strong></p>
-<div class="h3" dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">What we are looking for:</span></div>
-<p><strong> </strong></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have +3 years of experience with Unity / Unity3D;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Strong ability with C# object-oriented programming language</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Experience with game assets (ex: meshes, animations, materials)</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have in-depth knowledge of 3D development and integrated game physics;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You own experience with both console and mobile game development;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You got experience with memory and space optimization;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You possess knowledge of scripting, animation, session management, and textures;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have good troubleshooting skills.</span></p>
-</li>
-</ul>
-<div class="h4" dir="ltr" style="line-height: 1.9871999999999999; background-color: #ffffff; margin-top: 14pt; margin-bottom: 12pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Nice-to-have:</span><span style="color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> </span></div>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #252525; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Timezone: CET (+/- 3 hours);</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #252525; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Knowledge of TypeScript.</span></p>
-</li>
-</ul>
-<div class="h4" dir="ltr" style="line-height: 1.9871999999999999; background-color: #ffffff; margin-top: 0pt; margin-bottom: 12pt; padding: 2pt 0pt 0pt 0pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> </span></div>
-<div class="h4" dir="ltr" style="line-height: 1.9871999999999999; background-color: #ffffff; margin-top: 0pt; margin-bottom: 12pt; padding: 2pt 0pt 0pt 0pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Responsibilities:</span></div>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Establishing strategy and development pipelines;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Planning and implementing game functionality;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Transforming design ideas into functional games;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Designing and building game codes;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Identifying and fixing code errors and game bottlenecks;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Testing game functionality and theme dynamics;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Ensuring products conform to high industry standards;</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Designing and building game patches and upgrades;</span></p>
-</li>
-</ul>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Stay up-to-date with the latest technologies.</span></p>
-</li>
-</ul>
-<p><strong><br><br></strong></p>
-<p align="left" dir="ltr" style="margin-left: 0pt;"> </p>
-<table style="border: none; border-collapse: collapse;"><colgroup><col width="600"></colgroup>
-<tbody>
-<tr style="height: 132.75pt;">
-<td style="vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 0.99609pt;">
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">What we offer:</span></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">💻 </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">100% remote work</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Work from anywhere.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">👌🏻 </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Flexibility</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: The ability to change the project to another one.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">💵 </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Financial growth</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Competitive compensation and performance-based increases.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">🧘🏻‍♂️ </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Freedom</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Very flexible working schedule.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">🚀 </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">360-degree growth</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Opportunities for professional development and personal growth.</span></p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><br><br></strong></p>
-<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Your benefits with Proxify:</span></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Be part of the Proxify community</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Network with like-minded and enthusiastic individuals to make a difference. </span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Make an impact</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: You get the opportunity to work on projects that inspire you and add value to your career.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Transparency</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Contracts with transparency in earnings and working hours.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Save your time</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Fast and efficient hiring process to match you with the project of your preference.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: bold; vertical-align: baseline; white-space: pre-wrap;">Ownership: </span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Take ownership of your work and enjoy more freedom in your career.</span></p>
-</li>
-</ul>
-<img src="https://remotive.com/job/track/1606658/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1866,6 +1779,30 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div>We at Collabora are looking for Fullstack Web Application Developers to join our in-house Tools team.</div><div><br></div><div>The  Tools team develops and supports applications used by our colleagues to  execute, analyse and inform the delivery of projects in every area of  the business. We want to build the future of business automation in the free software domain.</div><div><br></div><div>As  a Senior Fullstack Developer you will be working closely with other  Tools Developers, users, Product Owners, the Delivery Team and People Leads to give them the tooling they need to support and protect the  unique way in which Collabora works.</div><div><br></div><div>You  will need to be a specialist in building secure, well-tested web  applications using Django, make sensible choices about UI and know how  to get things deployed.</div><div><br></div><div>You'll  be able to capture, simplify and model real-world processes and  structures, and keep those models updated as requirements evolve.</div><div><br></div><div>You will know how to reverse engineer and fix things you haven't seen before, and you will know how to make slow things go fast.</div></div><div class="section page-centered"><div><h3>You will be patient and pragmatic, careful and caring, and will take seriously the team's mission to maximise:</h3><ul class="posting-requirements plain-list"><ul><li>Engineers' freedom to work on things at which they are *excellent*</li><li>Our colleagues' headspace for personal development and learning</li><li>The role of open source in all business operations</li><li>The richness of everybody's cultural experience within Collabora</li></ul></ul></div></div><div class="section page-centered"><div><h3>In return, the business will provide:</h3><ul class="posting-requirements plain-list"><ul><li>An open engineering culture where you will be able to exchange ideas with technical experts in a wide range of software fields</li><li>Meetups and conference attendance (COVID permitting)</li><li>Flexible hours and a battle-tested remote working culture</li><div><br></div><div>If you care about open source and writing software to help companies regain control of their operations, then please apply!</div></ul></ul></div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li>Strong Python, Django, SQL, JavaScript, HTML, CSS</li><li>Experience designing and implementing web architectures, and configuring their components (e.g. NGinx, Redis)</li><li>Willingness to support and mentor other engineers</li><li>Experience solving challenges with observability and diagnostics</li><li>A respectful and pragmatic approach to providing technical support to users</li><li>A solid grounding in Linux system administration and networking concepts</li><li>Good English proficiency</li><li>Familiarity with container-based working, e.g. Docker or Podman, Kubernetes</li><li>Experience using, maintaining and designing CI and other DevOps processes</li><li>Experience with database schema design and optimisation</li><li>Willingness to occasionally do some PHP even if through gritted teeth</li><li>Demonstrable technical writing skills (documentation, blogs)</li><li>Knowledge of security- and privacy-by-design principles</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><b>About Collabora</b></div><div><br></div><div>Collabora  is a software consultancy specializing in bringing companies and the  Open Source community together. We combine years of Open Source software  leadership with an understanding of the challenges that businesses,  non-profits, and governments face.</div><div><br></div><div>Collabora  brings deep technical expertise in system integration &amp;  architecture, graphics, multimedia, web engines and communications to a  number of market verticals, including mobile, IVI/automotive, set top  box/smart TV, and a range of other specialized embedded applications.</div><div><br></div><div>Collabora  has the unique business model of enabling enterprises to leverage Open  Source software in their solutions. Having worked with notable industry  leading companies in the automotive, aerospace and handset mobile  verticals amongst many others, Collabora has established a broad customer portfolio.</div><div><br></div><div>#LI-Remote</div><div><br></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/d724930d-ce73-4415-ac7e-a3ef275db155/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Middle Python Developer for CloudLinux OS - REMOTE/Work Anywhere</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/450E10EC33" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and  we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful. <br></p><p><strong>We are looking for Middle Python Developers to join our CloudLinux OS team.</strong></p><p>CloudLinux OS, our flagship product, runs on more than 25,000 production servers today, powering over 20 million websites, and is recognized as the best OS for security and efficiency in a shared hosting environment. CloudLinux OS increases server density and enhances security, thus reducing operating costs, decreasing churn rates, and increasing profitability. Check out our website for more information about our CLOS Product <a href="https://www.cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">https://www.cloudlinux.com/</a></p><p>You will be involved in backend development for CloudLinux projects using Python.<br></p><p>It is required to cover your code with unit-tests using Python and/or with functional tests.</p><p><strong>Additional activities may include:</strong></p><ul> <li>investigating issues reported by our clients, partners or support team;</li> <li>communication with our 3rd level support team to provide consultations or help related to CloudLinux projects;</li> <li>writing technical documentation for new features;</li> <li>review of code written by your colleagues using Gerrit.</li> </ul><p>Work is fully remote, with flexible hours, where you can plan your day and work from anywhere.</p><p>More details about the company on <a href="https://www.cloudlinux.com/" target="_blank" rel="nofollow noreferrer noopener" class="external">Cloudlinux.com</a>.</p><p>Join us to make the difference!</p><p><br></p><h3>Requirements: </h3><p><br></p><ul> <li>3+ years of experience with Python</li> <li>Basic algorithms and data structures</li> <li>Good knowledge of SQL</li> <li>Experience in system programming for Linux OS</li> <li>Research and propose performance optimization solutions for PHP sites, including those working on WordPress.</li> <li>Basic knowledge of Git</li> <li>Able to read code</li> <li>The ability to read and write in English</li> <li>Shell scripting </li> <li>Knowledge of Ansible, Vagrant, Jenkins</li> <li>Experience with building RPM packages</li> </ul><p><strong>Will be a plus:</strong></p><ul><li>Knowledge of C, PHP, Perl and JavaScript </li></ul><p><strong>Personal skills:</strong></p><ul> <li>Fast-learning, proactivity</li> <li>Desire to work in a fast-paced growing deadline-driven startup-up environment</li> <li>Strong self-motivation, driven to achieve committed milestones</li> <li>The ability to independently analyze a task and find the right solution</li> <li>The ability to work in a team</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A great opportunity for professional development within the young and fast-growing company</li> <li>Interesting and challenging projects</li> <li>Knowledge-Exchange</li> <li>Remote work with long-term employment on a full-time basis under contract</li> <li>High-level compensation based on the performance reviews</li> <li>Flexible working hours</li> <li>Paid one month vacation per year and sick leaves</li> <li>Medical insurance reimbursement</li> <li>English educational programs</li> <li>Ability to study and attend seminars and training according to the request</li> <li>Co-working and gym/sports compensations</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
                 </details>
                 </td>
             </tr>,<tr>
