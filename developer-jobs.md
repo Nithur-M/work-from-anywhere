@@ -10,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/hashlist-software-developer" align="right" target="_blank">Apply</a>
@@ -72,7 +72,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/cloudcannon-developer-evangelist" align="right" target="_blank">Apply</a>
@@ -105,63 +105,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/8094/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Simplero</h5>
-                    <h3> Senior Rails Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/simplero-senior-rails-developer-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0086/8094/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> New York, New York
-    <br /><strong>URL:</strong> <a href="https://simplero.com">https://simplero.com</a>
-</p>
-
-<div>You LOVE programming. Been doing it for a long time. Can’t help build projects in your spare time.<br><br>You LOVE Ruby on Rails. Yeah, it’s not the most popular thing out there, but it fits your brain like a hand in a glove. Custom DSLs, ultra-flexible, great library. It just makes you happy.<br><br>And Javascript. React, React Native, Svelte, Stimulus, and of course plain vanilla JS. So cool what you can do &amp; how elegantly these days. You are also interested in OpenAI.<br><br>Speaking of, you LOVE simplicity. Elegantly simple is your middle name. you’re not satisfied until it has that feel, that smell of elegant simplicity. You’re not afraid to push back on requirements &amp; be creative in coming up with a better, simpler way.<br><br>You’re confident in yourself &amp; your abilities. You know what great looks like &amp; you’re not easily satisfied with your own work. You’re not afraid to speak what’s on your mind. <br><br>You thrive in an organized and focused environment where decisions are made swiftly and the vision is clear. You’re autonomous, and a great team player, able to take direction and build off of it.<br><br>What you DON’T love is red tape, politics, and dumb, complicated solutions just because no one had the courage to do better and stand up for their convictions.<br><br>If this is you, apply immediately!<br><br>
-</div><h1>What’s in it for you</h1><ul>
-<li>You’ll be able to point to exactly what you created, both features and open-source projects that we release.</li>
-<li>With just 8 engineers we created what other companies take armies to make, and we'll teach you how to work this effectively.</li>
-<li>You get to see how great it feels when you grant someone's wish that might take you 4 minutes, but totally makes their day!</li>
-<li>You’ll be part of a supportive team that has each other’s backs and doesn’t indulge in drama. We want to see everyone succeed because we want to see our customers taken care of. </li>
-</ul><h1>Benefits</h1><ul>
-<li>4 weeks of paid vacation per year, increasing to 5 after three years. Plus 10 holidays and 10 sick/wellness days.</li>
-<li>Wellness stipend to help pay for your gym. Exercise makes you smarter.</li>
-<li>We'll pay for a laptop or other gear you need to be productive (up to $1500).</li>
-<li>We’ll pay for an audible membership. Books also make you smarter.<br><br>
-</li>
-</ul><h1>What sets Simplero apart</h1><ul>
-<li>No VCs. No outside funding. No exit strategy. We do it because we love it today, and want to continue doing this in perpetuity, not because we hope to make out like bandits in the future.</li>
-<li>We're profitable and have been in business for 14 years. It's a solid, stable, proven company, product, and model, not some fly-by-night operation or risky gamble.</li>
-<li>We have 2,500+ active customers who have made almost $400M using Simplero. We’re the real deal.</li>
-<li>We're founded by a developer (Calvin) who is still personally and passionately leading Product and Engineering, so you've got deep technical understanding and support right from the top. He’s highly involved in the technical decisions of our company &amp; you’ll receive direct input from Calvin. </li>
-<li>We work efficiently and quickly and never do shitty work. Our team is unified, decisive and goals are clear.</li>
-<li>We solve real problems for real people that they're happy to pay us real money to solve for them. We go home each day knowing we made a difference in someone's life.</li>
-<li>We have a strong community around us, and cherish our close and mutually respectful relationships with our customers. It feels good knowing the people we’re serving.</li>
-<li>We do things differently from other companies. You'll see.<br><br>
-</li>
-</ul><h1>What we absolutely require</h1><div>I'll be honest. It's a big project with lots of moving parts, and we move fast (like a bullet train).<br><br>This job is not for everyone. We have high standards and communicate clearly. You’ll be held accountable for your work and we care about you as a person. Driven, ambitious, caring, and clear communicators fit well with us. If you think you'd fit in, get in touch.<br><br><em>Simplero asks respectfully to </em><strong><em>only apply through the application form and not email/apply to them directly.</em></strong><em> Recruiters and Agencies please do not contact Simplero directly.</em>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/simplero-senior-rails-developer-2">https://weworkremotely.com/remote-jobs/simplero-senior-rails-developer-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -172,7 +115,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>159 days ago</text>
+                <text>160 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1" align="right" target="_blank">Apply</a>
@@ -234,7 +177,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>180 days ago</text>
+                <text>181 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/much-remote-senior-odoo-developer-m-f-d" align="right" target="_blank">Apply</a>
@@ -280,6 +223,229 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0017/3489/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>OpenCraft</h5>
+                    <h3> Senior Open Source Developer & DevOps (Python, Django, React, AWS/OpenStack)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>930 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0017/3489/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Fully remote company (worldwide, incorporated in Berlin)
+    <br /><strong>URL:</strong> <a href="https://opencraft.com/">https://opencraft.com/</a>
+</p>
+
+<div>Do you care about contributing to open-source, and appreciate a good challenge? We do too! :) <br><br>
+</div><div>
+<strong>Open-source<br></strong><br>
+</div><div>We are a team of veteran open-source developers, working on educational and community-based projects in an<a href="https://handbook.opencraft.com/en/latest/open_first/"> open-first</a> environment – and we are looking for new members. By joining us, you will work full-time on open-source, pushing your changes to free software projects upstream through pull requests, contributing features, documentation, or help on public forums. </div><div>
+<br>We care deeply about contributing our work upstream. You will see the results of your work reused and recognized across the educational community, increasing access to quality education for everyone, everywhere.</div><div>
+<br><strong>Remote-first</strong>
+</div><div>
+<br>Unlike companies who reluctantly started to accept remote workers recently, we have embraced it from day 1. For the past 7 years, we have based and refined our way of working around remote-friendly workflows, from the ground up. No day-long video meetings, mandatory work hours, or risk of being forced back into an office one day -- as long as you have a good internet connection, it’s none of our business when or where you work from. :)</div><div>
+<br>We are all working remotely, from all continents (except Antarctica, at least so far - applicants welcome!). We use remote-friendly and timezone-agnostic workflows based on asynchronous principles and good documentation practices.</div><div>
+<br><strong>Online education<br></strong><br>
+</div><div>We are one of the main contributors to the <a href="https://open.edx.org/">Open edX project</a>, the main open-source MOOC platform created by MIT, Harvard and many other top universities. It powers sites like <a href="https://www.edx.org/">edX.org</a>, the <a href="https://openlearning.mit.edu/courses-programs/open-learning-library">MIT Open Learning Library</a>, and the <a href="https://www.fun-mooc.fr/">national online learning platform for France</a>. We provide development and hosting for institutions like <a href="https://onlinelearning.hms.harvard.edu/hmx/">Harvard Medical School</a>, <a href="https://www.labxchange.org">Harvard LabXchange</a>, <a href="https://ondemand.cloudera.com">Cloudera</a>, <a href="https://www.upskill.autodesk.com">Autodesk</a>, and several governments. We are not affiliated with <a href="https://www.edx.org/">edX.org</a>, but we contribute and work with them on various projects. </div><div>
+<br><strong>Technical stack</strong><br><br>
+</div><div>The Open edX project is a large Python/Django codebase, with good code standards and architecture. Tasks are varied, from developing core platform features, custom exercises and tools for specific courses (XBlocks), customizing and deploying instances, working full-stack, operating our service infrastructure, improving our hosting platform, etc. You won't get bored here.<br><br>
+</div><div>
+<strong>Contracting terms<br></strong><br>
+</div><div>This is a full-time, permanent contract position. We aim for long-term relationships -- once in, almost all team members stay for many years. </div><div><br></div><div>We care about paying fairly: </div><ul>
+<li>Team members set their own compensation level, which is paid based on hours worked (no unpaid overtime!). </li>
+<li>When determining your rate, we will expect you to factor in benefits (vacation, healthcare, purchase budgets, etc.) - the idea is to let <em>you</em> pick the benefits that are useful to you, rather than offer one-size-fits-all packages that aren’t always very valuable.</li>
+<li>We also proactively apply generous raises team-wide, based on the company results at the end of each year. <a href="https://handbook.opencraft.com/en/latest/team_compensation/">See the details about how we approach compensation in our handbook</a>.</li>
+</ul><div>We also firmly believe in work-life balance: as long as you deliver what you commit to, there is a lot of latitude in how much work you can choose to accept. We are open to time commitments anywhere in the 30h to 40h/week range, and highly discourage working more than that. It’s important to have time to ourselves, as well as having some slack, and there are diminishing returns in working more anyway. We are currently recruiting precisely to preserve that balance, and ensure we have plenty of capacity to handle our projects.</div><div><br></div><div>We welcome applicants of all genders and ethnicities.</div><div>
+<br><strong>Basic Requirements:</strong>
+</div><ul>
+<li>Experience with contributing to free software projects - small contributions are completely fine, but you <em>must</em> have at least one patch or pull request merged in a third-party project, or been a maintainer of an open source project with significant adoption. (Note that you can contribute now to satisfy this requirement - see for example the <a href="https://github.com/openedx/build-test-release-wg/projects/1">Open edX release issues</a>, fixing one of these issues guarantees an interview.)</li>
+<li>Senior developer with 3+ years working with Python</li>
+<li>Experience with Python web frameworks, specifically Django</li>
+<li>3+ years of HTML, Javascript, and CSS (experience with React and/or Typescript is a big plus!)</li>
+<li>Experience with unit testing</li>
+<li>Comfortable working in a Linux environment, specifically Debian or Ubuntu</li>
+<li>Experience with databases: MySQL, MongoDB, PostgreSQL</li>
+</ul><div>
+<strong>Additional Skills:</strong><br><br>
+</div><div>You will work on tasks from the following categories, but you can pick up the skills on the job if you haven't mastered these yet:</div><ul>
+<li>DevOps experience, especially on Debian/Ubuntu servers, Terraform, Vault, Packer, Prometheus, ELK, Docker. We are building a modern infrastructure and having a strong DevOps presence on top of core software engineering skills is a big plus with us.</li>
+<li>Cloud computing, like AWS or OpenStack</li>
+<li>Configuration management tools such as Ansible, Consul</li>
+<li>RabbitMQ, Redis &amp; Elasticsearch</li>
+<li>Mobile development (iOS and/or Android)</li>
+<li>Managing clients &amp; projects from beginning to completion (senior developer)</li>
+<li>Public speaking at conferences (you would present a talk every year at the Open edX Con)</li>
+</ul><div>
+<br><strong>Apply for this Position</strong><br><br>
+</div><div>Our recruitment process differs from most other companies - we don’t believe resumes and the traditional interviews to be particularly effective. Often, they tell more about how good someone is at interviewing, rather than at the actual work. So, our initial interview is lighter and easier to pass than in other companies - but we then provide you with real (and paid!) work to see how it works out in reality.</div><ul>
+<li>Step 1: You apply by filling out this form: <a href="https://opencraft.com/jobs/open-source-developer/">https://opencraft.com/jobs/open-source-developer/</a> </li>
+<li>Step 2: We do two interviews with candidates matching the requirements listed above. The first interview includes a (simple) coding exercise.</li>
+<li>Step 3: If this works out, we hire you! We start with a 2 months <a href="https://handbook.opencraft.com/en/latest/processes/#recruitment">trial period</a>, which allows both you and the rest of the team to fully evaluate how we work together, and is followed by a final review and confirmation. </li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack">https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1606658/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Proxify</h5>
+                    <h3>Senior Unity Developer</h3>
+                </td>
+                <td width="300">
+                    <code>C,C#,developer,mobile</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The Role:</span></p>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">We are searching for a Senior Unity </span><span style="color: #252525; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Developer.</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </span></p>
+<p><strong><br><br></strong></p>
+<div class="h3" dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">What we are looking for:</span></div>
+<p><strong> </strong></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have +3 years of experience with Unity / Unity3D;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Strong ability with C# object-oriented programming language</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Experience with game assets (ex: meshes, animations, materials)</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have in-depth knowledge of 3D development and integrated game physics;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You own experience with both console and mobile game development;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You got experience with memory and space optimization;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You possess knowledge of scripting, animation, session management, and textures;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have good troubleshooting skills.</span></p>
+</li>
+</ul>
+<div class="h4" dir="ltr" style="line-height: 1.9871999999999999; background-color: #ffffff; margin-top: 14pt; margin-bottom: 12pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Nice-to-have:</span><span style="color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> </span></div>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #252525; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Timezone: CET (+/- 3 hours);</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #252525; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Knowledge of TypeScript.</span></p>
+</li>
+</ul>
+<div class="h4" dir="ltr" style="line-height: 1.9871999999999999; background-color: #ffffff; margin-top: 0pt; margin-bottom: 12pt; padding: 2pt 0pt 0pt 0pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> </span></div>
+<div class="h4" dir="ltr" style="line-height: 1.9871999999999999; background-color: #ffffff; margin-top: 0pt; margin-bottom: 12pt; padding: 2pt 0pt 0pt 0pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Responsibilities:</span></div>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Establishing strategy and development pipelines;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Planning and implementing game functionality;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Transforming design ideas into functional games;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Designing and building game codes;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Identifying and fixing code errors and game bottlenecks;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Testing game functionality and theme dynamics;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Ensuring products conform to high industry standards;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Designing and building game patches and upgrades;</span></p>
+</li>
+</ul>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Stay up-to-date with the latest technologies.</span></p>
+</li>
+</ul>
+<p><strong><br><br></strong></p>
+<p align="left" dir="ltr" style="margin-left: 0pt;"> </p>
+<table style="border: none; border-collapse: collapse;"><colgroup><col width="600"></colgroup>
+<tbody>
+<tr style="height: 132.75pt;">
+<td style="vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 0.99609pt;">
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">What we offer:</span></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">💻 </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">100% remote work</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Work from anywhere.</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">👌🏻 </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Flexibility</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: The ability to change the project to another one.</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">💵 </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Financial growth</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Competitive compensation and performance-based increases.</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">🧘🏻‍♂️ </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Freedom</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Very flexible working schedule.</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">🚀 </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">360-degree growth</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Opportunities for professional development and personal growth.</span></p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><br><br></strong></p>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Your benefits with Proxify:</span></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Be part of the Proxify community</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Network with like-minded and enthusiastic individuals to make a difference. </span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Make an impact</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: You get the opportunity to work on projects that inspire you and add value to your career.</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Transparency</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Contracts with transparency in earnings and working hours.</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Save your time</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Fast and efficient hiring process to match you with the project of your preference.</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: bold; vertical-align: baseline; white-space: pre-wrap;">Ownership: </span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Take ownership of your work and enjoy more freedom in your career.</span></p>
+</li>
+</ul>
+<img src="https://remotive.com/job/track/1606658/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1692870/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -290,7 +456,7 @@
                     <code>android,C,C#,C++</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/game-developer-low-code-and-traditional-coding-1692870" align="right" target="_blank">Apply</a>
@@ -348,7 +514,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -417,7 +583,7 @@
                     <code>CSS,developer,excel,git</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -492,7 +658,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -569,7 +735,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -706,7 +872,7 @@
                     <code>azure,cloud,developer,django</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -757,83 +923,6 @@
 <li style="">Strong problem-solving and verbal and written communication skills</li>
 </ul><p><br></p><p>Please send your CV to admin@mindtales.me</p>
 <img src="https://remotive.com/job/track/1674036/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/814298/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>A.Team</h5>
-                    <h3>Senior Independent Software Developer</h3>
-                </td>
-                <td width="300">
-                    <code>developer,go,wordpress,hr</code>
-                </td>
-                <td width="200">
-                <text>29 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="text-size-adjust: 100%; overflow-wrap: break-word;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. </p>
-<p style="text-size-adjust: 100%; overflow-wrap: break-word;">After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.</p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><em>As part of A·Team, you can expect:</em></span></p>
-<ul style="margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;">
-<li><strong>High-paying, meaningful missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
-<li><strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
-<li><strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
-<li><strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
-<li><strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
-</ul>
-<p> </p>
-<p> </p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>How to apply:</strong></span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Go here: <a href="https://build.a.team/remotivereferral" rel="nofollow">https://build.a.team/remotivereferral</a> + mention Remotive. </span>No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.</p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>What you’ll do:</strong></span></p>
-<ul style="margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;">
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would</span></p>
-</li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </span></p>
-</li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><strong><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Who A</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">·</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Team is for:</span></strong></p>
-<ul style="margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;">
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy.</span></p>
-</li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</span></p>
-</li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing</span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><strong><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Who A</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">·</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Team is </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">not</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"> for:</span></strong></p>
-<ul style="margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;">
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">People looking for small gigs</span></p>
-</li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Folks looking to build simple wordpress/wix/squarespace-style websites</span></p>
-</li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Those still early in their careers and recent university/bootcamp grads (at least not yet)</span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>Our long-term vision:</strong></span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a new type of company for a new kind of independent software builder. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</span></p>
-<img src="https://remotive.com/job/track/814298/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
