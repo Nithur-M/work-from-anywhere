@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pictureworks-group-pty-ltd-lead-devops-engineer-and-systems-administrator" align="right" target="_blank">Apply</a>
@@ -72,88 +72,79 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1685812/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Status</h5>
-                    <h3>Senior DevOps Engineer</h3>
+                    <h5>GEEKFOX</h5>
+                    <h3>DevOps Engineer</h3>
                 </td>
                 <td width="300">
-                    <code></code>
+                    <code>AWS,azure,cloud,devops</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4797968&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/devops/devops-engineer-1685812" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <p>&nbsp;</p>
-<p><a href="https://nimbus.team/"><span style="font-weight: 400;">Nimbus</span></a><span style="font-weight: 400;"> is a research team that focuses on developing an Ethereum client and library targeting both Ethereum and the upcoming, proof-of-stake-based ETH2. We believe that the largest deployment of Ethereum will potentially be on embedded systems, Nimbus will be designed to perform well on embedded, mobile, and generally resource-restricted devices. The extensible, configurable, and modular design of Nimbus will make it production ready for Web 3.0 and will ensure that it can be supported and maintained across all goals of Ethereum 2.0.</span></p>
-<p><span style="font-weight: 400;">Building the stack from the ground up, we’re translating the latest Ethereum 2.0 research into practical, performant and reusable libraries to provide fertile exploration ground for further R&amp;D. </span><a href="https://our.status.im/nimbus-update-september-11th/"><span style="font-weight: 400;">Check our latest update!</span></a></p>
-<p>&nbsp;</p>
-<p><strong>Key responsibilities&nbsp;</strong></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Automation of infrastructure deployment, configuration, and scaling</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Maintenance of monitoring, logging, and backup systems</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Development of continuous integration platforms and scripts</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Ensuring security of hosts and other online resources</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Daily monitoring of all services and responding to breakage and security incidents</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Maintaining a written knowledge base regarding all practices and processes followed by the team, including step-by-step guides, check lists, trouble-shooting tips and other resources</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Improving the observability of the Nimbus software by implementing additional metrics and tuning the logging output</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Detailed reporting of all encountered issues to the Nimbus development team</span></li>
+                <p>We are seeking an experienced and highly skilled DevOps Engineer. As a DevOps Engineer, you will play a crucial role in building and maintaining our software delivery pipelines, infrastructure, and deployment processes.</p>
+<p> </p>
+<p>You will work closely with development, QA, and operations teams to automate and streamline our software development and deployment lifecycle. Your expertise in cloud technologies, CI/CD tools, and infrastructure management will be instrumental in ensuring the scalability, reliability, and performance of our software applications.</p>
+<p> </p>
+<p> </p>
+<p><strong>Responsibilities:</strong></p>
+<ul style="">
+<li style="">Design, implement, and maintain scalable and highly available infrastructure solutions on public and private cloud platforms (such as AWS, Azure, or Google Cloud) using infrastructure-as-code (IaC) methodologies.</li>
+<li style="">Develop and maintain CI/CD pipelines for efficient software delivery, including code compilation, automated testing, and deployment processes.</li>
+<li style="">Collaborate with development teams to optimize application performance, scalability, and reliability by providing infrastructure recommendations and implementing best practices.</li>
+<li style="">Monitor and troubleshoot production systems, ensuring high availability and performance.</li>
+<li style="">Implement and maintain monitoring, logging, and alerting solutions to proactively identify and resolve issues.</li>
+<li style="">Work closely with security teams to implement and maintain secure infrastructure and systems.</li>
+<li style="">Continuously evaluate and integrate new tools and technologies to improve the DevOps process and productivity.</li>
+<li style="">Document infrastructure configurations, processes, and procedures.</li>
+<li style="">Collaborate effectively with cross-functional teams, including developers, QA engineers, and system administrators.<br> </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>You ideally will have&nbsp;</strong></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience or interest in Ethereum and/or the ecosystem</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Openness to learning &amp; using new programming languages, e.g. Nim</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with configuration management software such as Ansible, Puppet, Chef and cfEngine, etc.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience or/and interest in working in a bare metal environment with experience with bare metal automation tooling such as Canonical MaaS, TinkerBell and OpenStack Ironic&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">High proficiency with Linux operating systems (Ubuntu/Debian), REST API’s, Docker, and ZFS</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Prior experience as a programmer/engineer using low-level languages (C, C++, etc.)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience in, and passion for, blockchain technology.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">A strong alignment to our principles: </span><a href="https://status.im/about/#our-principles"><span style="font-weight: 400;">https://status.im/about/#our-principles</span></a></li>
+<p> </p>
+<p><strong>Requirements:</strong></p>
+<ul style="">
+<li style="">Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent work experience).</li>
+<li style="">At least 2 years of proven experience as a DevOps Engineer or a similar role, preferably in an <strong>Agile software development environment</strong>.</li>
+<li style="">At least 1 year experience with<strong> cloud computing platforms </strong>(AWS, Azure, Google Cloud)</li>
+<li style="">Experience with infrastructure-as-code tools (e.g., T<strong>erraform</strong>, CloudFormation).</li>
+<li style="">Proficiency in designing and implementing CI/CD pipelines using tools like Jenkins, GitLab CI/CD, or CircleCI.</li>
+<li style="">Hands-on experience with containerization technologies (<strong>Docker, Kubernetes</strong>) and container orchestration platforms.</li>
+<li style="">Experience with<strong> monitoring and logging tools</strong> (e.g., <strong>ELK stack, Prometheus, Grafana)</strong>.</li>
+<li style="">Strong problem-solving and troubleshooting skills.</li>
+<li style="">Excellent collaboration and communication skills.</li>
+<li style="">Good knowlege of English<br> </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>Bonus points if</strong></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with Nim</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Ability and willingness to work with a little bit of research: will be among other things to get information directly from the open-source blockchain code and deal with cases where no documentation is provided</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with running different Ethereum nodes (Geth, OpenEthereum, Erigon, etc)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with running ETH2.0 validator and beacon chain nodes (Lighthouse, Prysm, Teku, etc)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Deep understanding and expertise on the technical level of the ETH2 protocol (such as validation, slashing, network edge cases)</span></li>
+<p> </p>
+<p><strong>Preferred Qualifications:</strong></p>
+<ul style="">
+<li style="">Relevant certifications in cloud technologies (AWS Certified DevOps Engineer, Azure DevOps Engineer, Google Cloud Certified - Professional Cloud DevOps Engineer).</li>
+<li style="">Experience with serverless computing architectures (AWS Lambda, Azure Functions).</li>
+<li style="">Knowledge of networking concepts and security principles.</li>
+<li style="">Understanding of agile methodologies and DevOps practices.</li>
+<li style="">Familiarity with microservices architecture.</li>
 </ul>
-<p><span style="font-weight: 400;">[<em>Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</em></span></p>
-<p>&nbsp;</p>
-<p><strong>Hiring Process&nbsp;</strong></p>
-<ol>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with our People Ops team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Head of Infra&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Nimbus Team Lead</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Program Lead</span></li>
-</ol>
-<p>&nbsp;</p>
-<p><strong>Compensation</strong></p>
-<p><span style="font-weight: 400;">The expected compensation range for this role is $100,000 - $120,000 (<strong>the upper amount indicated is the expected range for a very senior candidate! We'll happily consider capable candidates with less experience, but in these cases we would apply an alternate salary range where appropriate)</strong></span></p>
-<p>&nbsp;</p>
-
-    
-
-    
-
+<p> </p>
+<p> </p>
+<p><strong>What we offer:</strong></p>
+<ul style="">
+<li style=""><strong>Collaborative and innovative environment</strong></li>
+<li style="">Performance bonus</li>
+<li style="">Work-Life balance: <strong>enjoy a flexible schedule</strong></li>
+<li style="">Professional development and<strong> training programs in tech</strong></li>
+<li style=""><strong>100% remote opportunity</strong></li>
+<li style="">Corporate benefits<br> </li>
+</ul>
+<p> </p>
+<p>If you are passionate about DevOps and want to be part of a dynamic team that values innovation and collaboration, <strong>we would love to hear from you</strong>. Don't hesitate anymore, apply now!</p>
+<img src="https://remotive.com/job/track/1685812/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
