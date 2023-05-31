@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/planning-center-product-manager" align="right" target="_blank">Apply</a>
@@ -120,7 +120,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ueni-saas-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -180,7 +180,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clubrare-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -237,7 +237,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>566 days ago</text>
+                <text>567 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -289,6 +289,61 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1686899/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Paymentology</h5>
+                    <h3>Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>backend,cloud,product manager,saas</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/product-manager-1686899" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="h1">Description</div>
+<p>Paymentology is the first truly global issuer-processor, giving banks and FinTechs the technology, team, and experience to rapidly issue and process Mastercard, Visa, and UnionPay cards across more than 50 countries, at scale. </p>
+<p>As a rapidly scaling digital payments company, Product is at the core of everything we do. We have built globally distributed teams and are looking for amazing <strong>Product Managers</strong> to join our advanced, multi-cloud platform, offering both shared and dedicated processing instances, a vast global presence, and richer, real-time data to set us apart as the leader in payments. </p>
+<p><br><br>What you get to do:: </p>
+<p>A key part of your role as a Product Manager at Paymentology will be guiding product &amp; engineering teams to ensure conformation to our design, and governance through a well-formulated process.</p>
+<p>You will work within a remote team of solution architects and multiple developers disseminated throughout the world.</p>
+<p>The ideal candidate will combine excellent problem-solving skills and communications expertise with a collaborative approach.</p>
+<p><br><br>What you can look forward to:: </p>
+<p>At Paymentology we value making a difference to the lives of the people who work for us and who live in the communities where we operate. You can look forward to working with a diverse, global team where Paymentologists at all levels play an important part in our global mission to advance the world through payments and make a difference on a global scale. </p>
+<p>#LI-Remote</p>
+<p><br><br>Travel: <br>&lt; 5%</p>
+<div class="h1">Requirements</div>
+<p><strong>What it takes to succeed:</strong></p>
+<ul style="">
+<li style="">Experience in payments is crucial for succeeding in this role, as well as a strong technical core competence.</li>
+<li style="">In particular, familiarity with payment scheme standards such as ISO8583 &amp; ISO20022 is invaluable.</li>
+<li style="">5+ years of experience as a Product Manager, preferably in a start-up environment, with a minimum of 5 years working in the software industry.</li>
+<li style="">Investigate, analyze, visualize, articulate, and solve complex problems and concepts and make disciplined decisions based on available information.</li>
+<li style="">Use knowledge of Requirement Gathering and Analysis to create requirements documents and high-level process maps.</li>
+<li style="">Is aware of and understands agile methodology and how to apply the agile mindset to all aspects of their work.</li>
+<li style="">Understanding and experience of backend SaaS concepts related to APIs and webhooks is essential.</li>
+<li style="">Write epics, user features, and bug stories with QA-minded acceptance criteria, as well as supporting documentation.</li>
+<li style="">Experience with JIRA, Figma, and/or other relevant tools.</li>
+<li style="">A nice to have is the ability to construct SQL to retrieve data from databases. </li>
+</ul>
+<p><em>We would especially like to meet you if you have experience in the following fields:</em></p>
+<ul style="">
+<li style="">Experience, knowledge, and understanding of MasterCard/Visa operating regulations and dispute resolution rules for card-present and card-not-present transactions in the full dispute life cycle from 1st chargebacks to arbitration cases.</li>
+<li style="">Experience working on data-centric tools, including dashboards and automated reports, particularly financial and other reconciliation-related reports.</li>
+<li style="">Experience building frameworks and tools to facilitate the migration of financial records across platforms, including from external platforms into Paymentology platforms as well migration across internal platforms in a way that is transparent and seamless for our clients.</li>
+</ul>
+<img src="https://remotive.com/job/track/1686899/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
