@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>127 days ago</text>
+                <text>128 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -312,87 +312,6 @@
                 </td>
                 <td width="300">
                     <h5>Status</h5>
-                    <h3>Software Engineer (Distributed Systems Testing)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4872413&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <p>&nbsp;</p>
-<p><strong>About Codex</strong></p>
-<p><span style="font-weight: 400;">We’re a diverse team of experienced researchers and engineers scattered around the world working at the intersection of P2P networks and bleeding-edge Zero Knowledge technology. We’re building the next generation storage engine that attempts to “untie the knot” of incentivized storage. Our goal is to deliver a more advanced decentralized storage protocol that pushes the state of the art of decentralized storage solutions forward.&nbsp;</span></p>
-<p><span style="font-weight: 400;">We’re looking for an experienced Distributed Testing Engineer with hands-on experience setting up, running and testing complex distributed network deployments; including but not limited to distributed databases, blockchains and p2p storage networks.</span></p>
-<p><a href="https://codex.storage/" target="_blank">https://codex.storage/</a></p>
-<p>&nbsp;</p>
-<p><strong>Key responsibilities</strong></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Conduct tests and simulations around various peer-to-peer algorithms and protocols being developed</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Collect, analyze, and report on data and key insights from said experiments</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Discern scaling boundaries and failure modes of tested distributed systems in realistic environments</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Work with 3rd party vendors, tooling developers, and the broader community to establish best practices for testing the systems in question</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Document findings to be consumed by both stakeholders and the general community</span></li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>You ideally will have&nbsp;</strong></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">A strong background in testing distributed systems and their common failure modes</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">A strong communication and documentation skills when explaining results and key findings</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">The ability to identify and mitigate false assumptions or weaknesses within a set of experiments or tests</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience or familiarity with networking protocols and P2P systems</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience or familiarity with Rust and/or Nim</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience in Linux</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience or familiarity with Docker</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">A strong alignment to our principles: </span><a href="https://status.im/about/#our-principles"><span style="font-weight: 400;">https://status.im/about/#our-principles</span></a><span style="font-weight: 400;">&nbsp;</span></li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>Bonus points if&nbsp;</strong></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You have experience with Ansible, Terraform or other automated deployments platforms</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You have worked with CI/CD tools like Jenkins, GitLab, AWS CodeDeploy</span></li>
-</ul>
-<p><em><span style="font-weight: 400;">[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter]</span></em></p>
-<p>&nbsp;</p>
-<p><strong>Hiring Process&nbsp;</strong></p>
-<ol>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with People Ops team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Codex team member</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Pair programming task w/ Codex team member</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Codex team member</span></li>
-</ol>
-<p>&nbsp;</p>
-<p><strong>Compensation</strong></p>
-<p>The expected compensation range for this role is $100,000 - $120,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process). We are happy to pay in any mix of fiat/crypto.</p>
-
-    
-
-    
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Status</h5>
                     <h3>Nim Software Engineer</h3>
                 </td>
                 <td width="300">
@@ -498,7 +417,7 @@
 
     <h4>&nbsp;</h4>
 <h4><strong>About Waku</strong></h4>
-<p><span style="font-weight: 400;">We are building Waku as a public good infrastructure. Waku is the messaging layer of Web3.</span></p>
+<p><span style="font-weight: 400;">We are building Waku (Waku.org) as a public good infrastructure. Waku is the messaging layer of Web3.</span></p>
 <p><span style="font-weight: 400;">It is a decentralized, censorship-resistant, privacy-preserving communication network that enables anyone to send and receive messages without worrying about surveillance or deplatforming.</span></p>
 <p><span style="font-weight: 400;">We are developing 3 open source implementations of Waku:</span></p>
 <ul>
@@ -549,87 +468,8 @@
 </ol>
 <p>&nbsp;</p>
 <p><strong>Compensation</strong></p>
-<p>The expected compensation range for this role is $65,000 - $80,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process. We are happy to pay in any mix of fiat/crypto).&nbsp;</p>
+<p>The expected compensation range for this role is $65,000 - $80,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process). <br><br>We are happy to pay in any mix of fiat/crypto.&nbsp;</p>
 <p>&nbsp;</p>
-
-    
-
-    
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Status</h5>
-                    <h3>Software Engineer (Typescript)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=5041268&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <h4>JS-Waku:</h4>
-<p>We are building Waku as a public good infrastructure. Waku is the messaging layer of Web3. It is a decentralized, censorship-resistant, privacy-preserving communication network that enables anyone to send and receive messages without worrying about surveillance or deplatforming. We are developing 3 open source implementations of Waku: nwaku, go-waku and js-waku. JS-Waku is the TypeScript implementation used in browser and web environments.</p>
-<p>Our main repo is https://github.com/waku-org/js-waku</p>
-<p>We are enabling Ethereum builders to create new projects with a fully decentralized architecture, think dApp to Wallet notifications, NFT marketplaces, censorship-resistant chat, layer-2 and more.</p>
-<p>We are looking for Software Engineers that are passionate about Ethereum, decentralization and developer experience. and who would relish the opportunity to create a first class decentralized machine-to-machine messaging interface and toolkit and bring these new capabilities to Web3 developers!</p>
-<h4>You will:&nbsp;</h4>
-<ul>
-<li>Design, implement and document Waku TypeScript libraries</li>
-<li>Implement new protocols as defined by the Research Team</li>
-<li>Investigate and fix issues in js-waku and upstream libraries such as js-libp2p</li>
-<li>Liaise with the libp2p team to resolve web-only libp2p matters (WebRTC, etc)</li>
-<li>Optimize js-waku and upstream libraries for the browser</li>
-<li>Support dApp developers in using js-waku and Waku TypeScript libraries</li>
-</ul>
-<h4>Ideally, you:&nbsp;</h4>
-<ul>
-<li>Have experience building applications with complex logic, cutting edge technology or applied research</li>
-<li>Are already familiar with the Ethereum community</li>
-<li>Have the ability to learn new concepts and technologies quickly, you are a polyglot</li>
-<li>Have passion for blockchain and decentralized technologies and understand how they work</li>
-<li>Have good communication skills (written and conversational)</li>
-<li>Have a strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></li>
-</ul>
-<h4>Bonus points if you have experience:</h4>
-<ul>
-<li>In Web development (TypeScript, JavaScript, etc)</li>
-<li>With js-libp2p or other libp2p implementations</li>
-<li>With transport layer: websocket, WebRTC, WebTransport</li>
-<li>In Web3 or blockchain development</li>
-<li>Working for an open source organization</li>
-<li>Working remotely</li>
-</ul>
-<p>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</p>
-<h4>Compensation:</h4>
-<p>We are happy to pay in either 100% fiat or any mix of fiat and/or crypto.&nbsp;</p>
-<p><strong>Hiring process:</strong></p>
-<ol>
-<li>Introductory call with member of the Talent team</li>
-<li>Culture and Pair programming session with js-waku Developer</li>
-<li>Technical &amp; Culture Interview with Waku Lead</li>
-<li>Final interview with Logos Lead&nbsp;</li>
-</ol>
 
     
 
