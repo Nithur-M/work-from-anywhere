@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-lead-full-stack-php-developer" align="right" target="_blank">Apply</a>
@@ -63,7 +63,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/method-labs-llc-flexible-web-developer-for-ai-driven-startup-studio" align="right" target="_blank">Apply</a>
@@ -97,7 +97,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/public-knowledge-project-systems-developer" align="right" target="_blank">Apply</a>
@@ -166,7 +166,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/designfiles-full-stack-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -238,7 +238,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/hashlist-software-developer" align="right" target="_blank">Apply</a>
@@ -293,49 +293,6 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>CloudCannon</h5>
-                    <h3> Developer Evangelist</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>7 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/cloudcannon-developer-evangelist" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Dunedin, Otago, New Zealand
-    <br /><strong>URL:</strong> <a href="http://cloudcannon.com">http://cloudcannon.com</a>
-</p>
-
-<p>Do you enjoy helping fellow developers, answering their questions, and showing them how to build cool projects using static site generators? As a Developer Evangelist, you're the bridge between the web developer community and CloudCannon. As part of our Marketing team, your work will involve crafting engaging content, teaching developers new technologies and workflows, forging solid relationships, and becoming a pillar in the static site generator community.<br></p>
-<p><br></p>
-<p><strong>Your day-to-day:</strong></p>
-<ul> <li> <strong>Be the Guide:</strong> Deliver inspiring presentations, lead informative workshops, and create top-notch content (blogs, videos, social media posts, etc.) that showcase CloudCannon in action.</li> <li> <strong>Be the Friend:</strong> Engage with developers across various online communities. Respond to their queries, celebrate their successes, and sometimes, just talk code. Participate in tech events, meetups, and hackathons - be there for the community.</li> <li> <strong>Be the Listener:</strong> Gather and share valuable feedback from developers with our product team - you help us make CloudCannon even better.</li> <li> <strong>Be the Connector:</strong> Build strong, meaningful relationships within the developer community. Win hearts, make friends, and inspire web developers to love CloudCannon.</li> </ul>
-<p><strong>Requirements</strong></p>
-<ul> <li>A strong web development background with proficiency in areas like HTML, CSS, JavaScript, Jamstack, CloudCannon, Static Site Generators, and Git.</li> <li>Stellar communication skills, with a knack for public speaking and content creation. If you can explain complex concepts in a simple, engaging way, you're our person!</li> <li>A people-first mindset, with the ability to forge and nurture relationships.</li> <li>A shared passion for our technology and a genuine desire to empower developers.</li> <li>A desire to learn and improve every day.</li> </ul>
-<p><strong>Benefits</strong></p>
-<p>We believe the best way to build a thriving and sustainable company is to look after our people. We do our best to cultivate an environment where people enjoy coming to work and take pride in offering benefits that put our people first:</p>
-<ul> <li>A 4-day workweek</li> <li>A modern, newly refurbished office space</li> <li>Flexible work hours</li> <li>The option to work from home</li> <li>An allowance for setting up your home office</li> <li>A transportation subsidy</li> <li>Regular social events to foster camaraderie</li> <li>Office snacks and beverages to keep you fuelled</li> <li>High-end equipment to power your creativity</li> <li>A culture that encourages balance, growth, and mutual support</li> </ul>
-<p>If you're ready to join a team that's dedicated to making a difference in the world of content collaboration, we'd love to hear from you!</p>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/cloudcannon-developer-evangelist">https://weworkremotely.com/remote-jobs/cloudcannon-developer-evangelist</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
                     <h5>BBE Marketing Inc</h5>
                     <h3> Full-Stack Wordpress Developer</h3>
                 </td>
@@ -343,7 +300,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-4" align="right" target="_blank">Apply</a>
@@ -377,6 +334,89 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/3228/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Lifetimely</h5>
+                    <h3> Principal Ruby on Rails Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>60 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0071/3228/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Singapore
+    <br /><strong>URL:</strong> <a href="https://www.lifetimely.io/">https://www.lifetimely.io/</a>
+</p>
+
+<div>
+<strong>Lifetimely is a SaaS company looking for an experienced Ruby on Rails engineer to help build out our SaaS product serving 6000+ e-commerce stores. Our users include names like MrBeast’s snacking brand Feastables, Liquid Death, and Colgate.<br></strong><br>
+</div><div>You can read about our app <a href="https://apps.shopify.com/lifetimely-lifetime-value-and-profit-analytics/">on the Shopify app store</a>. We provide real-time reporting to ecommerce shop owners. To give you a sense of scale - we collect data on millions of orders per day from thousands of ecommerce stores and process many millions of background jobs to be able to deliver quality reporting and insights to our customers.<br><br>
+</div><div>We're looking to add a great backend RoR developer to our existing team.<br><br>
+</div><div>
+<strong><br>We are looking for someone who</strong>:<br><br>
+</div><ul>
+<li>has worked on and had to support a web app in production at scale for at least 5 years</li>
+<li>At least 5 years of working experience writing maintainable and well-tested Ruby on Rails apps</li>
+<li>humble, can mentor others, both provide and receive direction and is always willing to share what they learn</li>
+<li>overlaps with CET zone at least 5 hours ( prefer Europe )</li>
+</ul><div>
+<strong><br>What you will do:<br></strong><br>
+</div><ul>
+<li>extend the product to integrate with new ecommerce platforms (like Amazon)</li>
+<li>build and have ownership over new integrations with external data sources we use to augment our reports (we integrate with wide range of systems from ad platforms to CRMs and shipping services.)</li>
+<li>optimize our existing complex backend processing jobs</li>
+<li>optimize existing data pipelines</li>
+<li>participate in building new app features for thousands of merchants who trust us with their reporting data</li>
+</ul><div>
+<strong><br>Where we are and how we work:<br></strong><br>
+</div><ul>
+<li>We are a distributed team all over the globe but our development team is mainly working during Western European working hours.</li>
+<li>We are used to async communication over Slack but also have regular weekly meetings to sync up.</li>
+<li>Our tech stack is Ruby / Javascript / Stimulus / Tailwind CSS / SQL / Git</li>
+<li>We optimize new features for the long term. For us, this is not a sprint but a marathon.</li>
+</ul><div>Working for Lifetimely doesn't feel like the usual office or startup gig: we are a distributed group of twelve people across eight different countries with our own way of working. Some of us are nomads, some just like working remotely. We highly encourage written (long-form) communication and documenting things on Notion, and generally don't like tight fixed schedules.<br><br>
+</div><div>
+<strong>We expect you to be independent and know how to manage yourself.</strong> We prioritize shipping and results above how or when you do the work.<br><br>
+</div><div>Two meetings per week, one for the devs on Tuesday, and another one on Thursday for everyone. That's it.<br><br>
+</div><div>If you prefer to do meetings and calls or just know that you need a lot of human interaction, Lifetimely is probably not the best place for you to work at. But if you are into distributed work and prefer the lifestyle aspects or maybe live somewhere with not a lot of exciting product companies to work for, you will enjoy working with us.<br><br>
+</div><div>
+<strong><br>Compensation<br></strong><br>
+</div><div>This is a full-time position with annual compensation of <strong>USD 70 000 to USD 110 000</strong> and varies with experience and skill set. You can be a full-time employee with PTO (through Multiplier) or a full-time contractor, depending on your location and preferences. We will provide you the necessary equipment and pay for a co-working space if you have one nearby.<br><br>
+</div><div>
+<strong><br>Hiring process<br></strong><br>
+</div><div>Our process has three steps:<br><br>
+</div><ol>
+<li>A simple coding task that takes no more than 30 min and can be done at your convenience</li>
+<li>Video call where we discuss the task and ask you about your experience</li>
+<li>A paid trial two-week contract (if your current role allows) where you work with us as if you were full-time. If this is not possible, we can also do a traditional tech interview instead.</li>
+</ol><div>
+<strong><br>How to apply:<br></strong><br>
+</div><div>Tell us about:<br><br>
+</div><ol>
+<li>Describe the largest web app you worked on and the most challenging problem you worked on?</li>
+<li>The timezone you are in?</li>
+<li>When can you start at the earliest?</li>
+<li>Your salary requirements</li>
+</ol><div>After you've applied, we will reach out to you for a test task if you're selected for the first round of interviews.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer">https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -387,7 +427,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>91 days ago</text>
+                <text>92 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -469,7 +509,7 @@
                     <code>developer,excel,agile,community</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/sap-sr-developer-1696496" align="right" target="_blank">Apply</a>
@@ -520,7 +560,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -597,7 +637,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -741,7 +781,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -810,7 +850,7 @@
                     <code>CSS,developer,excel,git</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -885,7 +925,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -962,7 +1002,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -1099,7 +1139,7 @@
                     <code>azure,cloud,developer,django</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
