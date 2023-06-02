@@ -1,5 +1,63 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/3712/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Tiller</h5>
+                    <h3> UI/UX Designer</h3>
+                </td>
+                <td width="300">
+                    <code>Design</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/tiller-ui-ux-designer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0071/3712/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Seattle, WA
+    <br /><strong>URL:</strong> <a href="https://www.tillerhq.com">https://www.tillerhq.com</a>
+</p>
+
+<div>Tiller (<a href="https://www.tillerhq.com/">tillerhq.com</a>) is a nimble, distributed company offering the only automated personal finance service built on Google Sheets and Microsoft Excel. Tens of thousands of people trust Tiller each day to navigate their financial lives and manage their money, their way. <br><br>
+</div><div>As a healthy and growing startup, Tiller is now investing in creating a distinct visual identity that reflects our values and the uniqueness of our product, which includes Tiller Money Feeds, flexible templates, daily account summary emails, and top-rated customer support. <br><br>
+</div><div>We are looking for a <strong>UI/UX Designer</strong> with a<strong> </strong>passion for building effective, efficient, and beautiful user interfaces for consumers, especially in constrained environments like spreadsheets. You will collaborate directly with engineers, stakeholders and others to take complex concepts and make them intuitive. You will help shape and strengthen Tiller’s brand and voice.<br><br>
+</div><div><strong>Your Responsibilities</strong></div><ul>
+<li>Design consistent and delightful user interfaces for web as well as spreadsheet templates and plugins for Microsoft Excel and Google Sheets.</li>
+<li>Utilize wireframes, static mockups, prototypes, and other tools to effectively communicate about and iterate on design concepts with the product and engineering team.</li>
+<li>Take ownership of Tiller’s design language and lead the development of a unified design system.</li>
+<li>Conduct user research and testing to learn from existing solutions and validate design decisions for new solutions and improvements.</li>
+<li>Immerse yourself into the world of personal finance, understanding best practices broadly as well as the unique goals of our customers. </li>
+</ul><div><strong>Qualifications</strong></div><ul>
+<li>Strong understanding of user-centered design principles and processes</li>
+<li>A portfolio of UI/UX design work that showcases your approach to design</li>
+<li>Strong proficiency in design software such as Sketch, Figma, or Adobe Creative Suite</li>
+<li>Excellent communication and problem-solving skills</li>
+<li>A passion for spreadsheets and personal finance is a plus</li>
+<li>Understanding of the Jobs To Be Done framework is a plus</li>
+<li>Proficiency with WordPress is a plus  </li>
+</ul><div>
+<strong><br>Position Details:<br></strong><br>
+</div><ul>
+<li>Full-time or ½ time employee, and <strong>contractors also welcome</strong>
+</li>
+<li>Remote, US, or international <strong>overlapping with North American time zones</strong>
+</li>
+</ul><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tiller-ui-ux-designer">https://weworkremotely.com/remote-jobs/tiller-ui-ux-designer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/8458/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +68,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/nebula-careers-ui-designer" align="right" target="_blank">Apply</a>
@@ -85,7 +143,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
