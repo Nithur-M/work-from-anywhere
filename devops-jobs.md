@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/builder-prime-senior-devops-engineer" align="right" target="_blank">Apply</a>
@@ -61,7 +61,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>35 days ago</text>
+                <text>36 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pictureworks-group-pty-ltd-lead-devops-engineer-and-systems-administrator" align="right" target="_blank">Apply</a>
@@ -119,83 +119,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/pictureworks-group-pty-ltd-lead-devops-engineer-and-systems-administrator">https://weworkremotely.com/remote-jobs/pictureworks-group-pty-ltd-lead-devops-engineer-and-systems-administrator</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1685812/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>GEEKFOX</h5>
-                    <h3>DevOps Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>AWS,azure,cloud,devops</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/devops/devops-engineer-1685812" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We are seeking an experienced and highly skilled DevOps Engineer. As a DevOps Engineer, you will play a crucial role in building and maintaining our software delivery pipelines, infrastructure, and deployment processes.</p>
-<p> </p>
-<p>You will work closely with development, QA, and operations teams to automate and streamline our software development and deployment lifecycle. Your expertise in cloud technologies, CI/CD tools, and infrastructure management will be instrumental in ensuring the scalability, reliability, and performance of our software applications.</p>
-<p> </p>
-<p> </p>
-<p><strong>Responsibilities:</strong></p>
-<ul style="">
-<li style="">Design, implement, and maintain scalable and highly available infrastructure solutions on public and private cloud platforms (such as AWS, Azure, or Google Cloud) using infrastructure-as-code (IaC) methodologies.</li>
-<li style="">Develop and maintain CI/CD pipelines for efficient software delivery, including code compilation, automated testing, and deployment processes.</li>
-<li style="">Collaborate with development teams to optimize application performance, scalability, and reliability by providing infrastructure recommendations and implementing best practices.</li>
-<li style="">Monitor and troubleshoot production systems, ensuring high availability and performance.</li>
-<li style="">Implement and maintain monitoring, logging, and alerting solutions to proactively identify and resolve issues.</li>
-<li style="">Work closely with security teams to implement and maintain secure infrastructure and systems.</li>
-<li style="">Continuously evaluate and integrate new tools and technologies to improve the DevOps process and productivity.</li>
-<li style="">Document infrastructure configurations, processes, and procedures.</li>
-<li style="">Collaborate effectively with cross-functional teams, including developers, QA engineers, and system administrators.<br> </li>
-</ul>
-<p> </p>
-<p><strong>Requirements:</strong></p>
-<ul style="">
-<li style="">Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent work experience).</li>
-<li style="">At least 2 years of proven experience as a DevOps Engineer or a similar role, preferably in an <strong>Agile software development environment</strong>.</li>
-<li style="">At least 1 year experience with<strong> cloud computing platforms </strong>(AWS, Azure, Google Cloud)</li>
-<li style="">Experience with infrastructure-as-code tools (e.g., T<strong>erraform</strong>, CloudFormation).</li>
-<li style="">Proficiency in designing and implementing CI/CD pipelines using tools like Jenkins, GitLab CI/CD, or CircleCI.</li>
-<li style="">Hands-on experience with containerization technologies (<strong>Docker, Kubernetes</strong>) and container orchestration platforms.</li>
-<li style="">Experience with<strong> monitoring and logging tools</strong> (e.g., <strong>ELK stack, Prometheus, Grafana)</strong>.</li>
-<li style="">Strong problem-solving and troubleshooting skills.</li>
-<li style="">Excellent collaboration and communication skills.</li>
-<li style="">Good knowlege of English<br> </li>
-</ul>
-<p> </p>
-<p><strong>Preferred Qualifications:</strong></p>
-<ul style="">
-<li style="">Relevant certifications in cloud technologies (AWS Certified DevOps Engineer, Azure DevOps Engineer, Google Cloud Certified - Professional Cloud DevOps Engineer).</li>
-<li style="">Experience with serverless computing architectures (AWS Lambda, Azure Functions).</li>
-<li style="">Knowledge of networking concepts and security principles.</li>
-<li style="">Understanding of agile methodologies and DevOps practices.</li>
-<li style="">Familiarity with microservices architecture.</li>
-</ul>
-<p> </p>
-<p> </p>
-<p><strong>What we offer:</strong></p>
-<ul style="">
-<li style=""><strong>Collaborative and innovative environment</strong></li>
-<li style="">Performance bonus</li>
-<li style="">Work-Life balance: <strong>enjoy a flexible schedule</strong></li>
-<li style="">Professional development and<strong> training programs in tech</strong></li>
-<li style=""><strong>100% remote opportunity</strong></li>
-<li style="">Corporate benefits<br> </li>
-</ul>
-<p> </p>
-<p>If you are passionate about DevOps and want to be part of a dynamic team that values innovation and collaboration, <strong>we would love to hear from you</strong>. Don't hesitate anymore, apply now!</p>
-<img src="https://remotive.com/job/track/1685812/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
