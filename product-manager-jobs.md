@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/planning-center-product-manager" align="right" target="_blank">Apply</a>
@@ -120,7 +120,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ueni-saas-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -170,7 +170,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/8210/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0093/2805/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>ClubRare</h5>
@@ -180,7 +180,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clubrare-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -189,10 +189,10 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0086/8210/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0093/2805/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Paris, Île-de-France, France
+  <strong>Headquarters:</strong> Madrid, Community of Madrid, Spain
     <br /><strong>URL:</strong> <a href="https://clubrare.xyz">https://clubrare.xyz</a>
 </p>
 
@@ -237,7 +237,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>568 days ago</text>
+                <text>569 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -289,61 +289,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1686899/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Paymentology</h5>
-                    <h3>Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>backend,cloud,product manager,saas</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/product-manager-1686899" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="h1">Description</div>
-<p>Paymentology is the first truly global issuer-processor, giving banks and FinTechs the technology, team, and experience to rapidly issue and process Mastercard, Visa, and UnionPay cards across more than 50 countries, at scale. </p>
-<p>As a rapidly scaling digital payments company, Product is at the core of everything we do. We have built globally distributed teams and are looking for amazing <strong>Product Managers</strong> to join our advanced, multi-cloud platform, offering both shared and dedicated processing instances, a vast global presence, and richer, real-time data to set us apart as the leader in payments. </p>
-<p><br><br>What you get to do:: </p>
-<p>A key part of your role as a Product Manager at Paymentology will be guiding product &amp; engineering teams to ensure conformation to our design, and governance through a well-formulated process.</p>
-<p>You will work within a remote team of solution architects and multiple developers disseminated throughout the world.</p>
-<p>The ideal candidate will combine excellent problem-solving skills and communications expertise with a collaborative approach.</p>
-<p><br><br>What you can look forward to:: </p>
-<p>At Paymentology we value making a difference to the lives of the people who work for us and who live in the communities where we operate. You can look forward to working with a diverse, global team where Paymentologists at all levels play an important part in our global mission to advance the world through payments and make a difference on a global scale. </p>
-<p>#LI-Remote</p>
-<p><br><br>Travel: <br>&lt; 5%</p>
-<div class="h1">Requirements</div>
-<p><strong>What it takes to succeed:</strong></p>
-<ul style="">
-<li style="">Experience in payments is crucial for succeeding in this role, as well as a strong technical core competence.</li>
-<li style="">In particular, familiarity with payment scheme standards such as ISO8583 &amp; ISO20022 is invaluable.</li>
-<li style="">5+ years of experience as a Product Manager, preferably in a start-up environment, with a minimum of 5 years working in the software industry.</li>
-<li style="">Investigate, analyze, visualize, articulate, and solve complex problems and concepts and make disciplined decisions based on available information.</li>
-<li style="">Use knowledge of Requirement Gathering and Analysis to create requirements documents and high-level process maps.</li>
-<li style="">Is aware of and understands agile methodology and how to apply the agile mindset to all aspects of their work.</li>
-<li style="">Understanding and experience of backend SaaS concepts related to APIs and webhooks is essential.</li>
-<li style="">Write epics, user features, and bug stories with QA-minded acceptance criteria, as well as supporting documentation.</li>
-<li style="">Experience with JIRA, Figma, and/or other relevant tools.</li>
-<li style="">A nice to have is the ability to construct SQL to retrieve data from databases. </li>
-</ul>
-<p><em>We would especially like to meet you if you have experience in the following fields:</em></p>
-<ul style="">
-<li style="">Experience, knowledge, and understanding of MasterCard/Visa operating regulations and dispute resolution rules for card-present and card-not-present transactions in the full dispute life cycle from 1st chargebacks to arbitration cases.</li>
-<li style="">Experience working on data-centric tools, including dashboards and automated reports, particularly financial and other reconciliation-related reports.</li>
-<li style="">Experience building frameworks and tools to facilitate the migration of financial records across platforms, including from external platforms into Paymentology platforms as well migration across internal platforms in a way that is transparent and seamless for our clients.</li>
-</ul>
-<img src="https://remotive.com/job/track/1686899/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -421,6 +366,124 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1428393724527190022/4mt5PACL_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sourcegraph</h5>
+                    <h3>Product Manager, Growth</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/sourcegraph91/jobs/4898329004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
+<h2><span style="color: #a112ff;">Who we are</span></h2>
+<p><span style="font-weight: 400;">Our mission at Sourcegraph is to make it so that </span><a href="https://handbook.sourcegraph.com/strategy-goals/strategy"><span style="font-weight: 400;">everyone can code</span></a><span style="font-weight: 400;">, not just ~0.1% of the population. Our code intelligence platform helps developers and </span><a href="https://about.sourcegraph.com/customers/"><span style="font-weight: 400;">companies</span></a><span style="font-weight: 400;"> with billions of lines of code create the software you use every day. By enabling more people to code, we believe we will create economic opportunity across the world and will drive progress that benefits everyone.</span></p>
+<p><span style="font-weight: 400;">It’s an exciting time to join Sourcegraph. Our business is growing rapidly: we’ve experienced exponential growth and our </span><a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/"><span style="font-weight: 400;">$125M Series D from Andreessen Horowitz</span></a><span style="font-weight: 400;"> and </span><a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"><span style="font-weight: 400;">$50M Series C from Sequoia</span></a><span style="font-weight: 400;"> have given us the opportunity to make big ambitious bets on our future. We have a huge market (every company that builds software) and massive opportunity (most developers haven't even heard of code intelligence yet, but once you've used it, you can't live without it--just like Google). By continuing to hire exceptional people, we have the opportunity to make Sourcegraph one of the biggest technology companies in the world. </span></p></div>
+
+    <h2><span style="color: #8c33ec;"><strong>Working hours</strong></span></h2>
+<p><span style="font-weight: 400;">🌎 Given that we are an all-remote company and hire </span><a href="https://handbook.sourcegraph.com/departments/people-ops/process/how-we-engage-talent-outside-the-us/"><span style="font-weight: 400;">almost anywhere</span></a><span style="font-weight: 400;"> in the world, we don’t have a location requirement for this role. However, your working hours must overlap with Pacific Time for at least 5 hours/week.</span></p>
+<h2><span style="color: #8c33ec;"><strong>Why this job is exciting</strong></span></h2>
+<p><span style="font-weight: 400;">As a product-led organization, our Growth team is critical to our continued success by setting the direction and creating the initiatives to help us achieve our engagement and revenue goals. As the Product Manager for the Product Growth team, you have a unique opportunity to have an outsized impact on the business and the product, while collaborating across teams to infuse growth strategies within team product roadmaps that will make our product more sticky and intrinsic to the workflows of developers around the world. You will work closely in collaboration with engineering, product designers, and other cross-functional team members such as Customer Engineering&nbsp; and Sales. You will be the go-to for defining&nbsp; a crucial member of our exceptional</span><a href="https://about.sourcegraph.com/company/values#high-agency"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">high agency</span></a><a href="https://about.sourcegraph.com/company/remote"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">all-remote team</span></a><span style="font-weight: 400;">, and will help us to achieve ambitious objectives to build a code intelligence platform.</span></p>
+<p><span style="font-weight: 400;">📅 Within one month, you will…</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You will start building a trusting relationship with your team and peers.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You will understand the what, why, and how of the projects that your team is working on, how those projects contribute to our company goals, as well as current status, risks, and mitigations.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Be transparent in your internal and external communication. Sourcegraph is open source, so most discussions are public or in channels where you communicate directly with our customers.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Maintain the roadmap, backlog, and curate and solicit feedback for the product area.</span></li>
+</ul>
+<p><span style="font-weight: 400;">📅 Within three months, you will…</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Uphold your side of the PM – EM partnership</span><a href="https://about.sourcegraph.com/handbook/product/roles/product_manager_engineering_manager_responsibilities"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">responsibilities</span></a><span style="font-weight: 400;">.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Begin to define and track activation metrics&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Analyze our user trial life cycle and onboarding&nbsp; to identify&nbsp; early opportunities to deploy your first experiments to improve target metrics</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Gather customer feedback to validate priorities, improve documentation, and define product requirements.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Your peers are enthusiastic to work with you because you reliably follow-through with your commitments.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You will be able to communicate the 1-year vision for your team.</span></li>
+</ul>
+<p><span style="font-weight: 400;">📅 Within six months, you will…</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You will have improved planning, communication, and collaboration processes to help the team scale as we grow.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Add value to the user by surfacing real problems to improve the trial start flow for cloud and self-managed, in-product onboarding and activations, and in-product calls-to-action</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Grow usage and engagement of your ownership area and Sourcegraph as a whole.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You will celebrate the fact that your team has delivered key results in support of their objectives for the year.&nbsp;</span></li>
+</ul>
+<p><span style="font-weight: 400;">📅 Within one year, you will…</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You will collaborate with product and engineering leadership to develop the next set of ambitious goals that your org should work towards.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Communicate product-led growth ideas clearly by focusing on a specific metrics such as usage data and pipeline</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have achieved significant impact on Activation and Retention.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Communicate product ideas clearly by focusing on the problems that are being solved, the outcomes, and how we will measure success.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Have developed a clear growth and execution strategy to help us achieve the next set of goals</span></li>
+</ul>
+<h2><span style="color: #8c33ec;"><strong>About you&nbsp;</strong></span></h2>
+<p><span style="font-weight: 400;">As a Product Manager, you’re the storyteller of the organization, pulling together the story of “why”, and getting people excited about growth and what your team is doing. You collaborate with all parts of the organization to understand our market, our business model and the problems our customers are trying to solve to articulate a growth strategy. You are organized, results driven and provide clarity across the organization and your team, to help inspire focus and reinforce that they are working on the right things. You are constantly curious - wanting to dig into the data, discover optimization opportunities to get our users to value faster. You can identify root causes of friction and devise experiments to address them. You’re empathetic - you bring the voice of the user into every conversation, and hold empathy and understanding for your teammates to align on an experimentation approach that is right.</span></p>
+<p><span style="font-weight: 400;">🔍 Qualifications:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">5+ years of experience as a Product Manager with a specialization in driving growth strategies</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience as a software engineer or other technical background, particularly data-centric</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have relevant domain knowledge and experience in one or more of the following areas: single-tenant cloud products, B2B, SaaS, developer tools, growth, product analytics, and user research</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience working with complex products that require integrations or complex implementations&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience driving expansion and growth of users within existing enterprise customers</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with funnel optimization, A/B multivariate testing</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Your working hours overlap with 8am-5pm </span><a href="https://time.is/PT"><span style="font-weight: 400;">Pacific Time</span></a><span style="font-weight: 400;"> for at least 5 hours per week so we have time to collaborate synchronously when necessary.</span></li>
+</ul>
+<h2><span style="color: #8c33ec;"><strong>Level</strong></span></h2>
+<p><span style="font-weight: 400;">📊 This job is an IC5</span><span style="font-weight: 400;">.</span><span style="font-weight: 400;">&nbsp; You can read more about </span><a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/leveling-guide/"><span style="font-weight: 400;">our job leveling philosophy</span></a><span style="font-weight: 400;"> in our Handbook.</span></p>
+<h2><span style="color: #8c33ec;"><strong>Compensation</strong></span></h2>
+<p><strong>💸 We pay you an above-average salary</strong><span style="font-weight: 400;"> because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. You will have the flexibility to work and live anywhere in the world</span><em><span style="font-weight: 400;"> (unless specified otherwise in the job description)</span></em><span style="font-weight: 400;">, and we’ll never take your location or current/past salary information into account when determining your compensation.&nbsp; As an </span><a href="https://handbook.sourcegraph.com/company-info-and-process/values/#sts=Open%20and%20transparent"><span style="font-weight: 400;">open and transparent </span></a><span style="font-weight: 400;">company that values equitable and competitive compensation for everyone, our </span><a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/"><span style="font-weight: 400;">compensation ranges are visible</span></a><span style="font-weight: 400;"> to every single Sourcegraph Teammate. To determine your salary, we use a number of market and data-driven salary sources and target the high-end of the range, ensuring that we’re always paying above market regardless of where you live in the world.&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">💰 The target compensation for this role is </span><span style="font-weight: 400;">$<span class="collapsed-field-text">203,500 </span>USD base</span></p>
+<p><span style="font-weight: 400;">📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous </span><a href="https://handbook.sourcegraph.com/benefits-pay-perks/benefits-perks/"><span style="font-weight: 400;">perks &amp; benefits</span></a><span style="font-weight: 400;">.</span></p>
+<h2><span style="color: #8c33ec;"><strong>Interview process&nbsp;</strong></span></h2>
+<p><em><span style="font-weight: 400;">Below is the interview process you can expect for this role (you can read more about</span></em><a href="https://handbook.sourcegraph.com/talent/types_of_interviews"><em><span style="font-weight: 400;"> </span></em><em><span style="font-weight: 400;">the types of interviews</span></em></a><em><span style="font-weight: 400;"> in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!</span></em></p>
+<p><span style="font-weight: 400;">We expect the interview process to take 5.5 hours in total.</span></p>
+<p><strong>👋 Introduction Stage</strong><span style="font-weight: 400;"> - we have initial conversations to get to know you better…</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30m]</span><a href="https://handbook.sourcegraph.com/departments/product-engineering/product/roles/interviews/initial_screen"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Recruiter Screen</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30m]</span><a href="https://handbook.sourcegraph.com/departments/product-engineering/product/roles/interviews/hm_intro_call"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Hiring Manager Screen</span></a></li>
+</ul>
+<p><strong>🧑‍💻 Team Interview Stage</strong><span style="font-weight: 400;"> - we then delve into your experience in more depth and introduce you to members of the team…</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[1hr]</span><a href="https://handbook.sourcegraph.com/departments/product-engineering/product/roles/interviews/product_manager/pm_rfc_project"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Async - RFC Assignment</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[1hr]</span><a href="https://handbook.sourcegraph.com/departments/talent/process/types_of_interviews/#product-interview"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Product Interview</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30m]</span><a href="https://handbook.sourcegraph.com/departments/talent/process/types_of_interviews/#engineering-collaboration"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Engineering Collaboration</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[1hr]</span><a href="https://handbook.sourcegraph.com/departments/talent/process/types_of_interviews#resume-deep-dive"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Resume Deep Dive</span></a></li>
+</ul>
+<p><strong>🎉 Final Interview Stage </strong><span style="font-weight: 400;">- we move you to our final round, where you meet cross-functional partners and gain a better understanding of our business and values holistically…</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#values-interview"><span style="font-weight: 400;">Values Interview</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#leadership-interview"><span style="font-weight: 400;">Leadership Interview</span></a><span style="font-weight: 400;"> with co-founder</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">We check references and conduct your background check</span></li>
+</ul>
+<p><span style="font-weight: 400;">Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.</span></p>
+
+    
+
+    <div class="content-conclusion"><h2><span style="color: #a112ff;">Not sure if this is you?</span></h2>
+<p><span style="font-weight: 400;">We want a diverse, global team, with a broad range of experience and perspectives. If this job sounds great, but you’re not sure if you qualify, apply anyway! We carefully consider every application, and will either move forward with you, find another team that might be a better fit, keep in touch for future opportunities, or thank you for your time.</span></p>
+<h2><span style="color: #a112ff;">Learn more about us</span></h2>
+<p><span style="font-weight: 400;">To create a product that serves the needs of all developers, we are building a diverse </span><a href="https://handbook.sourcegraph.com/company-info-and-process/remote"><span style="font-weight: 400;">all-remote team</span></a><span style="font-weight: 400;"> that is </span><a href="https://handbook.sourcegraph.com/team"><span style="font-weight: 400;">distributed across the world</span></a><span style="font-weight: 400;">. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We provide </span><a href="https://about.sourcegraph.com/handbook/people-ops/compensation"><span style="font-weight: 400;">competitive compensation</span></a><span style="font-weight: 400;"> and </span><a href="https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks"><span style="font-weight: 400;">practical benefits</span></a><span style="font-weight: 400;"> to keep you happy and healthy so that you can do your best work.&nbsp;</span><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Learn more about what it is like to work at Sourcegraph by reading </span><a href="https://about.sourcegraph.com/handbook/"><span style="font-weight: 400;">our handbook</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process.</span></p>
+<p><span style="font-weight: 400;">Go back to the </span><a href="https://about.sourcegraph.com/jobs/"><span style="font-weight: 400;">careers page</span></a><span style="font-weight: 400;"> for all open positions.</span></p>
+<p>&nbsp;</p>
+<p><em><span style="font-weight: 400;">Sourcegraph participates in <a href="https://handbook.sourcegraph.com/departments/people-talent/e-verify/" target="_blank">E-Verify</a> for U.S. Employees</span></em></p></div>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1592609773958025216/CaG1yAqK_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -441,6 +504,30 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt">Mechanical Orchard is a new kind of software consultancy. We build new applications and replace legacy systems for a wide range of customers, spanning from seed stage startups to the Fortune 500, but it doesn’t end there. We run what we build, and build what we run. Our customers focus on their business, rather than manage all the cost, complexity, and risk that comes with operating production systems.</span></div><div><br></div><div><span style="font-size: 11pt">Our background in software development and the impact on the industry is well known, and we've helped write the book on XP and other effective agile practices. We believe in the durable principles behind agile, and embrace the power of cross-functional teams, collective ownership, test driven development, short feedback loops, and continuous improvement.</span></div><div><br></div><div><span style="font-size: 11pt">We are Generous, Ethical, Effective, and Kind.</span></div><div><br></div><div><span style="font-size: 11pt">As a Product Manager at Mechanical Orchard, you will be expected to:</span></div><div><br></div><div><span style="font-size: 11pt">- Work as part of a cross functional development team, collaborating with product designers, engineers, and other roles to build software for clients and/or Mechanical Orchard</span></div><div><span style="font-size: 11pt">- Work closely with customers to understand their needs, and use this knowledge to help shape product strategy and inform decision-making for the given project or engagement</span></div><div><span style="font-size: 11pt">- Use lean startup and lean UX principles to develop and test product ideas quickly and efficiently</span></div><div><span style="font-size: 11pt">- Work in partnership with product designer(s) to conduct user research, develop solutions, validate design effectiveness, and iterate on designs based on qualitative and quantitative feedback from users, customers, and the development team</span></div><div><span style="font-size: 11pt">- Manage a fine grained backlog in Pivotal Tracker that drives incremental progress in terms of learning and value</span></div><div><span style="font-size: 11pt">- Organize and facilitate regular project planning meetings, brainstorming sessions, team retrospectives, and other agile team ceremonies&nbsp;</span></div><div><span style="font-size: 11pt">- Monitor, analyze, and discern learnings from qualitative and quantitative data&nbsp;</span></div><div><span style="font-size: 11pt">- Collaborate with internal and external stakeholders as needed</span></div><div><span style="font-size: 11pt">- Apply and advocate for modern product practices including lean / lean UX and user centered design</span></div><div><br></div><div><span style="font-size: 11pt">The ideal candidate has worked as a product manager in a professional, team-based environment, with experience across the entire product lifecycle, and a deep understanding of product management principles.</span></div><div><br></div><div><span style="font-size: 11pt">Some consulting experience is a bonus.</span></div><div><br></div><div><span style="font-size: 11pt">Strong communication and collaboration skills as well as empathy are essential for working closely with the development team, customers, and others at Mechanical Orchard.</span></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 11pt">Mechanical Orchard, Inc. is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind. Mechanical Orchard, Inc. is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Mechanical Orchard, Inc. are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Mechanical Orchard, Inc. will not tolerate discrimination or harassment based on any of these characteristics. Mechanical Orchard, Inc. encourages applicants of all ages. Mechanical Orchard, Inc. will provide reasonable accommodation to employees who have protected disabilities consistent with local law.</span></div><div><br></div><div>We look forward to reviewing your application. Thanks!</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/mechanicalorchard/e9e79713-9cd4-41f9-92c0-c20dc588a262/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1592609773958025216/CaG1yAqK_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Mechanical Orchard</h5>
+                    <h3>Technical Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/mechanicalorchard/3c765c59-5403-45d9-be24-1b000afeec4f" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt">Mechanical Orchard is a new kind of software consultancy. We build new applications and replace legacy systems for a wide range of customers, spanning from seed stage startups to the Fortune 500, but it doesn’t end there. We run what we build, and build what we run. Our customers focus on their business, rather than manage all the cost, complexity, and risk that comes with operating production systems.</span></div><div><br></div><div><span style="font-size: 11pt">Our background in software development and the impact on the industry is well known, and we've helped write the book on XP and other effective agile practices. We believe in the durable principles behind agile, and embrace the power of cross-functional teams, collective ownership, test driven development, short feedback loops, and continuous improvement.</span></div><div><br></div><div><span style="font-size: 11pt">We are Generous, Ethical, Effective, and Kind.</span></div><div><br></div><div><span style="font-size: 11pt">We're seeking an experienced Platform Product Manager to join our managed operations (Run) team. This individual will help define and lead the strategic direction of our internal software deployment platform on cloud infrastructure.&nbsp; The role is crucial to enabling our client-facing build teams and customers to benefit from high reliability, observability, security, and performance of their applications.</span></div><div><br></div><div><span style="font-size: 11pt">Your responsibilities will include:</span></div><div><br></div><div><b><span style="font-size: 11pt">Product Vision &amp; Strategy</span></b><span style="font-size: 11pt">: Collaborate with business leaders to define the product strategy and roadmap for our internal software deployment platform, with focus on continuous delivery of value to our customers and internal application teams.</span></div><div><br></div><div><b><span style="font-size: 11pt">Customer Focus</span></b><span style="font-size: 11pt">: Prioritize efforts to increase application and platform reliability based on insights derived from customer feedback, internal application team needs, and industry best practices.</span></div><div><br></div><div><b><span style="font-size: 11pt">Customer Support</span></b><span style="font-size: 11pt">: Organize and manage cross-team on-call scheduling and incident management for the platform and customer applications.</span></div><div><br></div><div><b><span style="font-size: 11pt">Technical Expertise</span></b><span style="font-size: 11pt">: Leverage deep understanding of cloud infrastructure and related technologies to drive platform enhancements, reliability, security, observability, and operational efficiency. Collaborate closely with the platform engineering team to translate platform and customer needs into technical solutions.</span></div><div><br></div><div><b><span style="font-size: 11pt">Stakeholder Management</span></b><span style="font-size: 11pt">: Communicate effectively with internal and external stakeholders to set expectations, manage project timelines, and respond to feedback.</span></div><div><br></div><div><b><span style="font-size: 11pt">Product Lifecycle Management</span></b><span style="font-size: 11pt">: Manage the entire product life cycle from strategic planning to tactical, fine-grained execution&nbsp;</span></div><div><br></div><div><b><span style="font-size: 11pt">Team Facilitation</span></b><span style="font-size: 11pt">: Organize and facilitate regular project planning meetings, standups, brainstorming sessions, team retrospectives, and other agile team ceremonies.&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">The ideal candidate has worked as a product manager in a professional, team-based, agile environment, preferably in software or platform products. They have experience across the entire product lifecycle, and a deep understanding of product management principles.</span></div><div><br></div><div><span style="font-size: 11pt">A deep technical background with understanding and/or hands-on experience in software development and cloud infrastructure is preferred.</span></div><div><br></div><div><span style="font-size: 11pt">Strong communication and collaboration skills as well as empathy are essential for working closely with the development team, customers, and others at Mechanical Orchard.</span></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 11pt">Mechanical Orchard, Inc. is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind. Mechanical Orchard, Inc. is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Mechanical Orchard, Inc. are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Mechanical Orchard, Inc. will not tolerate discrimination or harassment based on any of these characteristics. Mechanical Orchard, Inc. encourages applicants of all ages. Mechanical Orchard, Inc. will provide reasonable accommodation to employees who have protected disabilities consistent with local law.</span></div><div><br></div><div>We look forward to reviewing your application. Thanks!</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/mechanicalorchard/3c765c59-5403-45d9-be24-1b000afeec4f/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr></table>
