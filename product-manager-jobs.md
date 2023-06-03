@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/planning-center-product-manager" align="right" target="_blank">Apply</a>
@@ -120,7 +120,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ueni-saas-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -180,7 +180,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clubrare-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -237,7 +237,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>569 days ago</text>
+                <text>570 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -427,16 +427,24 @@
 <li style="font-weight: 400;"><span style="font-weight: 400;">Have developed a clear growth and execution strategy to help us achieve the next set of goals</span></li>
 </ul>
 <h2><span style="color: #8c33ec;"><strong>About you&nbsp;</strong></span></h2>
-<p><span style="font-weight: 400;">As a Product Manager, you’re the storyteller of the organization, pulling together the story of “why”, and getting people excited about growth and what your team is doing. You collaborate with all parts of the organization to understand our market, our business model and the problems our customers are trying to solve to articulate a growth strategy. You are organized, results driven and provide clarity across the organization and your team, to help inspire focus and reinforce that they are working on the right things. You are constantly curious - wanting to dig into the data, discover optimization opportunities to get our users to value faster. You can identify root causes of friction and devise experiments to address them. You’re empathetic - you bring the voice of the user into every conversation, and hold empathy and understanding for your teammates to align on an experimentation approach that is right.</span></p>
-<p><span style="font-weight: 400;">🔍 Qualifications:</span></p>
+<p>As a Product Manager, you’re the storyteller of the organization, pulling together the story of “why”, and getting people excited about growth and what your team is doing. You collaborate with all parts of the organization to understand our market, our business model and the problems our customers are trying to solve to articulate a growth strategy. You are organized, results driven and provide clarity across the organization and your team, to help inspire focus and reinforce that they are working on the right things. You are constantly curious - wanting to dig into the data, discover optimization opportunities to get our users to value faster. You can identify root causes of friction and devise experiments to address them. You’re empathetic - you bring the voice of the user into every conversation, and hold empathy and understanding for your teammates to align on an experimentation approach that is right.</p>
+<p>🔍 Qualifications:</p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">5+ years of experience as a Product Manager with a specialization in driving growth strategies</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience as a software engineer or other technical background, particularly data-centric</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You have relevant domain knowledge and experience in one or more of the following areas: single-tenant cloud products, B2B, SaaS, developer tools, growth, product analytics, and user research</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience working with complex products that require integrations or complex implementations&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience driving expansion and growth of users within existing enterprise customers</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with funnel optimization, A/B multivariate testing</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Your working hours overlap with 8am-5pm </span><a href="https://time.is/PT"><span style="font-weight: 400;">Pacific Time</span></a><span style="font-weight: 400;"> for at least 5 hours per week so we have time to collaborate synchronously when necessary.</span></li>
+<li>5+ years of experience as a Product Manager with a specialization in driving growth strategies</li>
+<li>Experience as a software engineer or other technical background, particularly data-centric</li>
+<li>You have relevant domain knowledge and experience in one or more of the following areas: single-tenant cloud products, B2B, SaaS, developer tools, growth, product analytics, and user research</li>
+<li>Experience working with complex products that require integrations or complex implementations&nbsp;</li>
+<li>Experience driving expansion and growth of users within existing enterprise customers</li>
+<li>Experience with funnel optimization, A/B multivariate testing</li>
+<li>Your working hours overlap with 8am-5pm <a href="https://time.is/PT">Pacific Time</a> for at least 5&nbsp; hours per week so we have time to collaborate synchronously when necessary.</li>
+</ul>
+<p>💪 Nice to haves:</p>
+<ul>
+<li>Experience with LLMs and prompt engineering fundamentals</li>
+<li>Recent meaningful coding experience with an LLM-backed coding assistant</li>
+<li>Familiarity with the latest competitive landscape of coding assistants</li>
+<li>Deep experience with at least one major IDE such as VSCode or IntelliJ</li>
+<li>A deep understanding of dev-rel and how it dovetails with the PLG journey</li>
 </ul>
 <h2><span style="color: #8c33ec;"><strong>Level</strong></span></h2>
 <p><span style="font-weight: 400;">📊 This job is an IC5</span><span style="font-weight: 400;">.</span><span style="font-weight: 400;">&nbsp; You can read more about </span><a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/leveling-guide/"><span style="font-weight: 400;">our job leveling philosophy</span></a><span style="font-weight: 400;"> in our Handbook.</span></p>
