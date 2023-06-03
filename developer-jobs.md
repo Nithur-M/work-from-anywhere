@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-lead-full-stack-php-developer" align="right" target="_blank">Apply</a>
@@ -63,7 +63,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/method-labs-llc-flexible-web-developer-for-ai-driven-startup-studio" align="right" target="_blank">Apply</a>
@@ -97,7 +97,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/public-knowledge-project-systems-developer" align="right" target="_blank">Apply</a>
@@ -156,78 +156,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8558/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>DesignFiles</h5>
-                    <h3> Full-Stack Ruby on Rails Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/designfiles-full-stack-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/8558/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Remote
-    <br /><strong>URL:</strong> <a href="https://designfiles.co">https://designfiles.co</a>
-</p>
-
-<div>
-<strong>At DesignFiles we're looking for a Full-Stack Ruby on Rails Developer to join our engineering team.<br></strong><br>
-</div><div><strong>About the Job:</strong></div><div>
-<br>DesignFiles is an interior design project management software company on a mission to help interior designers and home furnishing retailers take their design services and businesses to new heights. With 5,000+ customers and 20+ team members located all over the world, we're growing quickly and looking for our next driven and talented team member.<br><br>
-</div><div>We’re looking for a Full Stack Ruby on Rails Developer to join the company to drive product development from the ground level.<br><br>
-</div><div>
-<em>Please note: This is a contract role and we are looking for individuals (not agencies) that can commit 40+ hours a week to become a core member of our team.<br></em><br>
-</div><div>
-<br><strong>What You'll Do:</strong>
-</div><ul>
-<li>Write, review and improve Ruby and JavaScript code working in Unix environment.<br><br>
-</li>
-<li>Collaborate with our product team to bring features from conception to completion.<br><br>
-</li>
-<li>Develop features with an emphasis on consistency and integrity at all levels of the stack.<br><br>
-</li>
-<li>Improve DesignFiles' engineering culture with an eye for best practices, code quality and code reviews.<br><br>
-</li>
-<li>Actively contribute to the project with ideas and solutions to constantly improve the lives of our designers and their clients.<br><br>
-</li>
-<li>Participate in Sprint Planning, Retros, 1:1s<br><br>
-</li>
-</ul><div>
-<br><strong>What We Want From You:</strong>
-</div><ul>
-<li>5+ years experience as a full-stack developer.<br><br>
-</li>
-<li>3+ years of hands-on Ruby on Rails experience.<br><br>
-</li>
-<li>Strong experience with Ruby on Rails: rubocop, minitest-spec-rails, delayed job, paperclip, paranoia, etc.<br><br>
-</li>
-<li>Strong experience with modern JavaScript/CSS: Webpack, Gulp, eslint, prettier, BEM.<br><br>
-</li>
-<li>Solid knowledge of unix shell, PostgreSQL, Docker, Node.js, AWS S3.<br><br>
-</li>
-<li>Fluent English, good communication skills and full presence during agreed work hours.<br><br>
-</li>
-<li>Taking responsibility for testing own code, thinking through the edge cases and ability to work productively without close supervision.</li>
-</ul><div><br></div><div>Sounds interesting? Apply here &gt;&gt; https://designfiles.homerun.co/full-stack-ruby-on-rails-developer</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/designfiles-full-stack-ruby-on-rails-developer">https://weworkremotely.com/remote-jobs/designfiles-full-stack-ruby-on-rails-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/8156/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -238,7 +166,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/hashlist-software-developer" align="right" target="_blank">Apply</a>
@@ -300,7 +228,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-4" align="right" target="_blank">Apply</a>
@@ -344,7 +272,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>60 days ago</text>
+                <text>61 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -427,7 +355,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>92 days ago</text>
+                <text>93 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -499,53 +427,202 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1696496/logo" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0067/1147/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>In All Media Inc</h5>
-                    <h3>SAP Sr Developer</h3>
+                    <h5>OperateBeyond</h5>
+                    <h3> PHP Developer</h3>
                 </td>
                 <td width="300">
-                    <code>developer,excel,agile,community</code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>600 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/sap-sr-developer-1696496" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>InallMedia.com is a Global community in charge of allocating and administrating complete</p>
-<p>teams according to our client's needs, always under agile methodology and nearshoring.</p>
-<p>At this moment we are looking for a SAP Developer, this position is for our top client. We</p>
-<p>work 100% remotely and you get paid in US dollars.</p>
-<p> </p>
-<p>Customer Description:</p>
-<p>Leading company in technology and entertainment recognized worldwide. With an</p>
-<p>outstanding trajectory in the industry, it has been a pioneer in the development of</p>
-<p>innovative and high-quality products.</p>
-<p> </p>
-<p>The client offers a wide range of products and services that exceed everyone's</p>
-<p>expectations. Its focus on excellence and creativity is reflected in every aspect of its</p>
-<p>business, consolidating it as a trusted and respected brand worldwide.</p>
-<p> </p>
-<p>Must-Have:</p>
-<p>● Strong SAP BPC-EPM development experience leveraging EPM Excel functions and</p>
-<p>report editor</p>
-<p>● Basic SAP BPC configuration skills such as configuring business rules, script logic,</p>
-<p>business process flow (BPFs), work status, etc.</p>
-<p>● Proficiency in Excel</p>
-<p>● Experience with integrating offline Excel workbooks with EPM</p>
-<p>● Experience with linking macros with EPM</p>
-<p>● SAP ABAP/BW/HANA experience</p>
-<p> </p>
-<p>Nice to have:</p>
-<p>● Strong FP&amp;A functional knowledge/experience</p>
-<p>● Entertainment industry knowledge/experience</p>
-<img src="https://remotive.com/job/track/1696496/blank.gif?source=public_api" alt=""/>
+                <img src="https://we-work-remotely.imgix.net/logos/0067/1147/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Michigan
+    <br /><strong>URL:</strong> <a href="http://operatebeyond.com/">http://operatebeyond.com/</a>
+</p>
+
+<div><br></div><div>OperateBeyond is a fast growing technology company building web and mobile applications. We specialize in delivering top-notch user experiences paired with solid technology in non-auto vehicle software industry. Our successes come from our teamwork and mutual respect for each other’s talents and unique perspectives.<br><br>
+</div><div>
+<br>So when we say we are looking for a PHP Developer we do want want you to be an awesome back-end developer who’s dabbled with many different projects. We are looking for someone who can hold their own when when it comes to system integrations, databases, and even be interested in understanding more about user experience to help us shape amazing products.<br><br>
+</div><div>
+<strong><br>What you might do on any given day:<br></strong><br>
+</div><ul>
+<li>Work with a variety of technologies and platforms such as PHP, ZF2, ZF1, Laravel, ElasticSearch, MySQL, Vue.js, jQuery and many more technologies we may introduce<br><br>
+</li>
+<li>Collaborate with product managers and technical leads<br><br>
+</li>
+<li>Develop comprehensive use cases and test conditions<br><br>
+</li>
+<li>Take part in analysis efforts, identification, and recommendation of solutions, integration points and related implementation architecture for business usage improvements, scalability and performance.<br><br>
+</li>
+<li>Provide guidance in the form of code review, solution design, and recommended training and development plans.<br><br>
+</li>
+<li>Write unit tests, specs, integration tests, UI tests, and acceptance tests.<br><br>
+</li>
+<li>Advocate for new or improved development practices that increase craftsmanship, availability, resilience, and scalability of our solutions<br><br>
+</li>
+</ul><div>
+<strong><br>We think you’ll enjoy working with our team if you:<br></strong><br>
+</div><ul>
+<li>Bring a passion to stay on top of tech trends, experiment with and learn new technologies, participate in technology communities.<br><br>
+</li>
+<li>Can be flexible, agile, dependable, and responsive even when there are a lot of moving parts and prefer that over following rigid processes and guidelines.<br><br>
+</li>
+<li>Believe that good application development includes good testing, good documentation, and good collaboration.<br><br>
+</li>
+<li>Have great communication and reasoning skills, including the ability to make a strong case for technology choices while understanding other viewpoints and the need to find the best possible solution for everyone.<br><br>
+</li>
+<li>Have a positive yet practical attitude; You are willing to take on any task that might help take one of our products, or our company, a little further.<br><br>
+</li>
+</ul><div><br></div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer">https://weworkremotely.com/remote-jobs/operatebeyond-php-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1697846/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>AirCrew by Outliant</h5>
+                    <h3>Senior Python Backend Developer</h3>
+                </td>
+                <td width="300">
+                    <code>api,AWS,backend,consulting</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-python-backend-developer-1697846" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="min-height: 1.5em;">We’re looking to hire a full-time, remote <strong>Senior Python Backend Developer (with ChatGPT API experience)</strong>. For this role, your primary focus will be collaborating with a team of developers in creating and implementing software applications and components. You’ll have the opportunity to choose your hours and work and learn with a team of world-class engineers and designers, through a commitment to team collaboration, communication, and product quality.</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Seniority Level: </strong>Mid-Senior Level</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Responsibilities:</strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Design and develop scalable and efficient backend systems using Python and related frameworks</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Write clean, efficient, and maintainable code</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Develop and maintain ChatGPT API integrations with third-party applications</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Collaborate with cross-functional teams to design and implement new features and enhancements to the ChatGPT API</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Troubleshoot and resolve issues related to backend systems and APIs</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Conduct code reviews </p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Stay updated with the latest developments in Python, APIs, and related technologies</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Requirements:</strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;"><strong>5 years</strong> of experience as a<strong> software engineer</strong></p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>4 years </strong>of experience with <strong>Python </strong></p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Experience with Python frameworks such as <strong>Flask or Django</strong> </p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Expertise in SQL databases</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Strong proficiency in API development, particularly with <strong>ChatGPT API</strong></p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Excellent problem-solving and analytical skills </p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Strong communication and collaboration skills</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Full-time availability (40 hours/week)</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">A personal computer with stable internet</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Experience with <strong>AWS, DevOps</strong>, and Data Engineering/Machine Learning is <strong>(a </strong><em><strong>big plus!)</strong></em></p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">PhD or Master's degree in Machine Learning or AI <strong>(a big plus!)</strong></p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Experience working for enterprise companies or FAANG companies <strong>(a big plus!)</strong></p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>About Us </strong></p>
+<p style="min-height: 1.5em;">Outliant is a fully-remote, US-based, digital product development and startup consulting company, with a team of culturally diverse creators whose exceptional skills and talents help conceive seamless digital products. Our teams exhibit work-play energy that supports individual growth and encourages the freedom of creativity and “thinking outside the box.”</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Why You Should Work with Us</strong></p>
+<p style="min-height: 1.5em;">As a full-time member of our team, you’ll enjoy:</p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Work wherever you choose!</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Very flexible work hours</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Unlimited PTO</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Non-working holidays depending on which country you’re in</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">13th-month bonus</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Salary and salary increases</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Financial support for online courses</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Mental health and well-being programs</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Fun and casual work environment</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Employee engagement activities and virtual gatherings</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">We are a very diverse bunch! 🌍</p>
+</li>
+</ul>
+<img src="https://remotive.com/job/track/1697846/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -560,7 +637,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -637,7 +714,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -781,7 +858,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -850,7 +927,7 @@
                     <code>CSS,developer,excel,git</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -925,7 +1002,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -1002,7 +1079,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -1139,7 +1216,7 @@
                     <code>azure,cloud,developer,django</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
