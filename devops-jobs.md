@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/builder-prime-senior-devops-engineer" align="right" target="_blank">Apply</a>
@@ -61,7 +61,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>37 days ago</text>
+                <text>38 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pictureworks-group-pty-ltd-lead-devops-engineer-and-systems-administrator" align="right" target="_blank">Apply</a>
