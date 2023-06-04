@@ -1,42 +1,5 @@
 <div align="center"><h2>PROJECT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/0762/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Rocket Conversions</h5>
-                    <h3> Ad Creative Project Manager</h3>
-                </td>
-                <td width="300">
-                    <code>Design</code>
-                </td>
-                <td width="200">
-                <text>28 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/rocket-conversions-ad-creative-project-manager" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0082/0762/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Hong Kong
-    <br /><strong>URL:</strong> <a href="https://rocket-conversions.com/">https://rocket-conversions.com/</a>
-</p>
-
-<div>Hey <strong>Creative People</strong>, </div><div><br></div><div>We're Rocket Conversions, a digital advertising growth team 🚀. <br><br>
-</div><div><br></div><div>We help grow businesses through digital advertising, and a big part of that is through world-class ad creatives.<br><br>
-</div><div><br></div><div>We're seeking an expert-level ad creative project manager with a strong work ethic to board this rocketship, manage our ad creative system, and come on a journey of personal &amp; professional growth with us.<br><br>If this seems like something you'd like to explore further, or chat with us about, <strong>submit your details in the form below</strong> and we'll get back to you within 48 hours if it looks like we'd be a good fit for each other.<br><br>
-</div><h1><strong> 🙏 Thank You! 🙏</strong></h1>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/rocket-conversions-ad-creative-project-manager">https://weworkremotely.com/remote-jobs/rocket-conversions-ad-creative-project-manager</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/8210/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -47,7 +10,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>91 days ago</text>
+                <text>92 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/university-of-virginia-senior-project-manager-for-cloud-applications" align="right" target="_blank">Apply</a>
