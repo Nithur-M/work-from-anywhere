@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-lead-full-stack-php-developer" align="right" target="_blank">Apply</a>
@@ -63,7 +63,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/method-labs-llc-flexible-web-developer-for-ai-driven-startup-studio" align="right" target="_blank">Apply</a>
@@ -97,7 +97,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/public-knowledge-project-systems-developer" align="right" target="_blank">Apply</a>
@@ -166,7 +166,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/hashlist-software-developer" align="right" target="_blank">Apply</a>
@@ -228,7 +228,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-4" align="right" target="_blank">Apply</a>
@@ -272,7 +272,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>61 days ago</text>
+                <text>62 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -355,7 +355,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>93 days ago</text>
+                <text>94 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -504,7 +504,7 @@
                     <code>api,AWS,backend,consulting</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-backend-developer-1697846" align="right" target="_blank">Apply</a>
@@ -637,7 +637,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -714,7 +714,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -858,7 +858,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -927,7 +927,7 @@
                     <code>CSS,developer,excel,git</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -1002,7 +1002,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -1079,7 +1079,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -1202,71 +1202,6 @@
 </ul>
 <p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Ownership: </span><span style="color: #0e101a; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Take ownership of your work and enjoy more freedom in your career.</span></p>
 <img src="https://remotive.com/job/track/1422554/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1674036/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MindTales</h5>
-                    <h3>Senior Python Back End Developer</h3>
-                </td>
-                <td width="300">
-                    <code>azure,cloud,developer,django</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); background: var(--artdeco-reset-base-background-transparent); --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9); caret-color: rgba(0, 0, 0, 0.9); text-size-adjust: auto;">Are you excited about joining a driven team to champion an impactful health movement? As a technological expert, do you have a background in helping start-ups to grow? If so, this might be the role for you!</p>
-<p style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); background: var(--artdeco-reset-base-background-transparent); --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9); caret-color: rgba(0, 0, 0, 0.9); text-size-adjust: auto;">MindTales' mission is to transform the corporate wellbeing landscape by making digital wellness support accessible, convenient and inclusive.</p>
-<p style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); background: var(--artdeco-reset-base-background-transparent); --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9); caret-color: rgba(0, 0, 0, 0.9); text-size-adjust: auto;"> </p>
-<p style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); background: var(--artdeco-reset-base-background-transparent); --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9); caret-color: rgba(0, 0, 0, 0.9); text-size-adjust: auto;">As a fast-growing organisation, we have an immediate hire for a Senior Python Back-end developer. We are looking for someone highly motivated and passionate about finding innovative solutions. We are a growing team that values self-improvement, collaboration and excellence.</p>
-<p style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); background: var(--artdeco-reset-base-background-transparent); --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9); caret-color: rgba(0, 0, 0, 0.9); text-size-adjust: auto;"> </p>
-<p style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); background: var(--artdeco-reset-base-background-transparent); --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9); caret-color: rgba(0, 0, 0, 0.9); text-size-adjust: auto;"><span style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border: var(--artdeco-reset-base-border-zero); vertical-align: var(--artdeco-reset-base-vertical-align-baseline); background: var(--artdeco-reset-base-background-transparent); outline: var(--artdeco-reset-base-outline-zero);"><strong>Responsibilities</strong></span></p>
-<ul style="">
-<li style="">Write effective, scalable code</li>
-<li style="">Develop back-end components to improve responsiveness and overall performance</li>
-<li style="">Integrate user-facing elements into applications</li>
-<li style="">Test and debug programs</li>
-<li style="">Improve functionality of existing systems</li>
-<li style="">Implement security and data protection solutions</li>
-<li style="">Assess and prioritize feature requests</li>
-<li style="">Compile and analyze data, processes, and codes to troubleshoot problems and identify areas for improvement.</li>
-<li style="">Collaborating with the front-end developers and other team members to establish objectives and design more functional, cohesive codes to enhance the user experience.</li>
-<li style="">Developing ideas for new programs, products, or features by monitoring industry developments and trends.</li>
-<li style="">Recording and reporting data to appropriate parties, such as clients or leadership.</li>
-<li style="">Participating in continuing education and training to remain current on best practices, learn new programming languages, and better assist other team members.</li>
-<li style="">Taking the lead on projects as needed.</li>
-</ul>
-<p> </p>
-<p><strong>Requirements</strong></p>
-<ul style="">
-<li style="">BSc degree in Computer Science/Computer Engineering. Master is a plus.</li>
-<li style="">In-depth solid understanding of the entire web development process (design, development, and deployment)</li>
-<li style="">Strong competencies in algorithms and software architecture.</li>
-<li style="">4+ years of experience as a Python Back-end developer.</li>
-<li style="">3+ years of experience in developing REST APIs.</li>
-<li style="">Strong experience in Django, Github</li>
-<li style="">Strong experience in Relational Databases (MySQL, SQL Server or PostgreSQL)</li>
-<li style="">Experience using Azure cloud and its resources/services is a big plus.</li>
-<li style="">Previous experience in automated testing, including unit testing &amp;</li>
-<li style="">Strong knowledge in Continuous Integration &amp; Continuous Deployment (CI/CD).</li>
-<li style="">Knowledge of object-relational mapping (ORM)</li>
-<li style="">Familiarity with front-end technologies (like JavaScript and HTML5)</li>
-<li style="">Ability to collaborate on projects and work independently when required.</li>
-<li style="">Focus on efficiency, user experience, and process improvement.</li>
-<li style="">Excellent project and time management skills.</li>
-<li style="">Strong problem-solving and verbal and written communication skills</li>
-</ul><p><br></p><p>Please send your CV to admin@mindtales.me</p>
-<img src="https://remotive.com/job/track/1674036/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
