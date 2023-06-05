@@ -1,61 +1,5 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Sticker Mule</h5>
-                    <h3> Software Engineer (C++)</h3>
-                </td>
-                <td width="300">
-                    <code>DevOps and Sysadmin</code>
-                </td>
-                <td width="200">
-                <text>132 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> New York, NY
-    <br /><strong>URL:</strong> <a href="https://www.stickermule.com/careers">https://www.stickermule.com/careers</a>
-</p>
-
-<div><strong>About Sticker Mule</strong></div><div>Sticker Mule is the Internet's most "kick ass" brand. We are privately-owned, profitable, and powered by a globally distributed team that enjoys building happy customer experience at the highest technical standards. Our software team operates from 17 countries, and we're always looking for more exceptional engineers.<br><br>
-</div><div><a href="https://www.stickermule.com/about"><strong>See more about our teams here</strong></a></div><div><br></div><div><strong>We offer</strong></div><ol>
-<li>Remote work with flexible schedules</li>
-<li>A privately owned, low-stress culture.</li>
-<li>A fun "no bullshit" work environment</li>
-</ol><div><strong>We like you to know</strong></div><ol>
-<li>C++</li>
-<li>Go</li>
-<li>Postgres</li>
-<li>Docker</li>
-<li>Cloud Infrastructure</li>
-<li>Familiarity with C#</li>
-<li>Excellent communication skills (English)</li>
-<li>Degree in Computer Science or equivalent practical experience</li>
-</ol><div><strong>Challenges</strong></div><ol>
-<li>Improve factory automation software</li>
-<li>Migrate legacy services to Go</li>
-<li>Maintain a large C++ codebase</li>
-</ol><div><strong>Compensation and benefits</strong></div><ol>
-<li>Salary: $135k+ based on experience</li>
-<li>$20,000 signing bonus</li>
-<li>4 weeks vacation + holidays based on your country of residence</li>
-</ol>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c">https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1569512792381878278/Smf8h3tt_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -619,6 +563,30 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt">Mechanical Orchard is a new kind of software consultancy. We build new applications and replace legacy systems for a wide range of customers, spanning from seed stage startups to the Fortune 500, but it doesn’t end there. We run what we build, and build what we run. Our customers focus on their business, rather than manage all the cost, complexity, and risk that comes with operating production systems.</span></div><div><br></div><div><span style="font-size: 11pt">Our background in software development and the impact on the industry is well known, and we've helped write the book on XP and other effective agile practices. We believe in the durable principles behind agile, and embrace the power of cross-functional teams, collective ownership, test driven development, short feedback loops, and continuous improvement.</span></div><div><br></div><div><span style="font-size: 11pt">We are Generous, Ethical, Effective, and Kind.</span></div><div><br></div><div><span style="font-size: 11pt">As a Software Engineer at Mechanical Orchard, you will be expected to:</span></div><div><br></div><div><span style="font-size: 11pt">- Work as part of small, cross functional XP teams building production applications for customers or for Mechanical Orchard using Elixir or other modern programming languages </span></div><div><span style="font-size: 11pt">- Pair program with other engineers and collaborate closely with other roles such as&nbsp; product managers and designers</span></div><div><span style="font-size: 11pt">- Apply and evolve XP engineering practices such pair programming, test-driven development, refactoring, continuous integration and continuous delivery</span></div><div><span style="font-size: 11pt">- Operate and support production applications as a team in the context of the agile DevOps model</span></div><div><span style="font-size: 11pt">- Help onboard client developers and/or new Mechanical Orchard team members with practices and techniques</span></div><div><span style="font-size: 11pt">- Lead and collaborate on technical discovery efforts for existing customer systems including legacy applications</span></div><div><span style="font-size: 11pt">- Continuously learn about relevant emerging technologies or practices and foster the growth of the organization through mentorship, tech talks, and other means</span></div><div><br></div><div><span style="font-size: 11pt">The ideal candidate has worked as a software engineer in a professional, team based environment, with some exposure or demonstrated passion for&nbsp; XP practices such as pair programming and test driven development.&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">They are comfortable as a full stack developer, and have expertise in at least one modern programming language and application framework.</span></div><div><br></div><div><span style="font-size: 11pt">Strong communication and collaboration skills as well as empathy are essential for working closely with the development team, customers, and others at Mechanical Orchard.</span></div><div><br></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 11pt">Mechanical Orchard, Inc. is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind. Mechanical Orchard, Inc. is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Mechanical Orchard, Inc. are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Mechanical Orchard, Inc. will not tolerate discrimination or harassment based on any of these characteristics. Mechanical Orchard, Inc. encourages applicants of all ages. Mechanical Orchard, Inc. will provide reasonable accommodation to employees who have protected disabilities consistent with local law.</span></div><div><br></div><div>We look forward to reviewing your application. Thanks!</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/mechanicalorchard/b60587e2-0046-4e35-b7c3-5da3ff46348f/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1663581815960145923/EiMoGuaS_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Umbrel</h5>
+                    <h3>Software Engineer (Security)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://umbrel.crew.work/jobs/6259615ddfd5aa851d95852e" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Engineers on our team today:</p><ul><li>Work primarily in JavaScript, and dabble in Shell/Python as necessary</li><li>Build APIs in Node.js</li><li>Are extremely supportive, especially when teammates are faced with new challenges</li><li>Leave no opportunity to&nbsp;<a href="https://twitter.com/search?q=karen%20getumbrel&amp;src=typed_query" rel="noopener noreferrer" target="_blank">sneak jokes</a>&nbsp;into the source code</li><li>Are left to autonomously figure out solutions to their challenges</li><li>Think hard about every problem and its solution from user’s perspective</li><li>Value clear and frequent communication (we do a lot of reading and writing)</li><li>Enjoy being a generalist and are not tied down to a specific framework or surface area of our codebase</li><li>Are naturally curious and willing to learn something they don’t have experience in</li><li>Feel a great sense of accountability to each other</li><li>Have good judgement of when to ship: perfect is the enemy of good</li><li>Have a deep understanding of Linux/Docker/networking</li></ul><p><br></p><p>Bonus: If you have some CVEs or vulnerability disclosures under your belt.</p><p><br></p><p>Here are some of the things we wish to work on:</p><ul><li>Get our stable release out by ticking off everything listed in our&nbsp;<a href="https://github.com/getumbrel/umbrel/blob/master/SECURITY.md" rel="noopener noreferrer" target="_blank">security disclosure</a></li><li>Build out 3rd party security audit cycle</li><li>Think about how we can make Umbrel more secure than the average home IoT device</li><li>Build great security practices without losing velocity of shipping product</li></ul>
                 </details>
                 </td>
             </tr></table>
