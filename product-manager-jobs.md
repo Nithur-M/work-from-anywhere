@@ -1,115 +1,5 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0017/2482/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Planning Center</h5>
-                    <h3> Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>Product</code>
-                </td>
-                <td width="200">
-                <text>17 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/planning-center-product-manager" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0017/2482/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Carlsbad, CA
-    <br /><strong>URL:</strong> <a href="https://planningcenter.com">https://planningcenter.com</a>
-</p>
-
-<h1><strong>About the work</strong></h1><div>We are looking for a Product Manager (PM) experienced in working within software teams. They’ll guide the development of a product and enable its success. This product manager will work under an Area Product Manager (APM) to own the strategy, vision, prioritization, and overall execution and communication of one of our products.</div><div><br></div><div>
-<br>Product Management at Planning Center is a multi-faceted collaborative role. The right candidate is adept at casting vision to their teams, navigating tradeoffs with their Engineering Manager partner, and collaborating with their peers. You will interact directly with customers, developers, designers, project coordinators (QA), support agents, and other PMs as you carry out your responsibilities.<br><br>
-</div><div>
-<br>We work in six-week cycles to deliver quality features and updates. Our approach to building products is largely inspired by <a href="https://basecamp.com/shapeup"><em>Shape Up</em></a>. Methodologies like <em>Start with Why,</em> and <em>Jobs to Be Done</em> have also greatly impacted our thinking, but we’re consistently looking for ways to iterate on our processes. If you have a recommendation, let us know in your cover letter!<br><br>
-</div><div>
-<strong><br>At Planning Center, a PM’s responsibilities include, but are not limited to:<br></strong><br>
-</div><ul>
-<li>Planning and prioritizing the work that will make it into production using qualitative and quantitative data to inform decisions</li>
-<li>Interviewing customers to understand pain points and workflows</li>
-<li>Working on mockups with the UX and design teams</li>
-<li>Working with the Engineering Manager to identify tradeoffs and create actionable plans</li>
-<li>Encouraging iteration, cutting scope, and shipping on time by leveraging strong leadership and communication skills</li>
-<li>Proactively communicating upcoming changes to other teams like support, documentation, and marketing</li>
-<li>Prioritizing and solving bugs with the Engineering Manager as they arise</li>
-<li>Collaborating with other PMs on projects in their domain</li>
-<li>Leveraging user data and analytics to improve feature and product impact and adoption</li>
-<li>Communicating, both publicly and in written form, about vision and strategy to large groups of people</li>
-<li>Pursuing further education and training through online and written materials, book clubs, conferences, classes, etc.</li>
-</ul><h1><strong>About You</strong></h1><div>The best fits for any role on the Planning Center team are people embodying our <strong>Core Values</strong>:<br><br>
-</div><ul>
-<li>
-<strong>Engage with Humility -</strong> We actively participate with openness and receptiveness. We are ready to listen, learn, and speak thoughtfully and kindly—regardless of skill level, expertise, or place on the org chart**.**</li>
-<li>
-<strong>Invest in our team -</strong> We give our time and energy to our team’s success—improving collaboration with effective communication, making space for diverse perspectives, sharing knowledge, and asking questions.</li>
-<li>
-<strong>Do Our Best Work -</strong> We aspire to do our best possible work—continually looking for ways to improve the quality of our individual output and contribute to our team's overall success and growth.</li>
-<li>
-<strong>Focus on Customer Impact -</strong> We advocate for our customer’s best interests in our decision-making—we can trace the goal of every project back to creating positive value for our customers.</li>
-<li>
-<strong>Think Holistically, Work Iteratively -</strong> We focus on taking practical steps towards our goals with an awareness of the broader context—thinking big, working small.</li>
-</ul><div>
-<strong><br>Successful Product Managers at Planning Center are:<br></strong><br>
-</div><ul>
-<li>
-<strong>Passionate</strong> <strong>-</strong> They enjoy solving problems and working hard to deliver elegant solutions that delight our customers.</li>
-<li>
-<strong>Collaborative</strong> <strong>-</strong> They have the ability to interact with a broad spectrum of people to get everyone moving toward a shared vision.</li>
-<li>
-<strong>Inquisitive -</strong> They aren’t afraid to dive into the “why” behind feature requests, technical limitations, or product direction.</li>
-</ul><h1><strong>Benefits</strong></h1><div>We love our team. It’s one of the <a href="https://www.planningcenter.com/about">core pillars</a> we work off of every day, which is why we take care of you as best we can. Here are a few highlights, but you can find <a href="https://www.planningcenter.com/careers">all of our benefits here</a>.<br><br>
-</div><div>
-<strong><br>Get paid<br></strong><br>
-</div><div>
-<br>We pay in the top 10% of the New York City rates (no matter where you live), contribute to your 401k, provide a charitable giving match of up to $2,000 a year, have a generous allowance for continued education, and offer a co-working stipend. The annual salary range for this position is $112,000 – $168,000.<br><br>
-</div><div>
-<strong><br>Get out<br></strong><br>
-</div><div>
-<br>Enjoy paid Fridays off in the summer, every other Friday off the rest of the year, a month-long sabbatical every five years, one week off between Christmas and New Years, one week off each year to serve with a non-profit, and two weeks paid vacation each year, increasing to three over time.<br><br>
-</div><div>
-<strong><br>Be healthy<br></strong><br>
-</div><div>
-<br>Generous paid sick time, $200 monthly for physical fitness and mental health, 95% medical and 100% dental premium health coverage.<br><br>
-</div><h1><strong>The Hiring Process</strong></h1><div>Applications will be accepted until Sunday, June 4th. We aim to have a final decision made by no later than Thursday, July 13th, with a candidate starting by the first week of August.</div><div><br></div><div>
-<strong><br>Below is an outline of the steps in our hiring process:<br></strong><br>
-</div><ol>
-<li>Apply to the position with a resume showing any applicable experience and a cover letter. The cover letter should speak to why you’re interested in Planning Center specifically.</li>
-<li>An intro Zoom call for us to meet each other to discuss work and culture.</li>
-<li>Take-home test involving some questions specific to Planning Center and a product-thinking related exercise.</li>
-<li>Team interview over Zoom with a few product managers. We’ll discuss your exercise and ask deeper questions about your work history and approach to product.</li>
-<li>In-person interview (flying to our Carlsbad, CA offices).</li>
-<li>Offer extended.</li>
-</ol><div>
-<br>You’ll have a chance to interact with several team members during the hiring process. We strongly encourage you to bring any questions you have — you’re interviewing us as much as we’re interviewing you.<br><br>
-</div><div>
-<strong><br>Here are some of the teammates you’ll encounter along the way:<br></strong><br>
-</div><ul>
-<li>The Area Product Manager (APM) you’ll be reporting to</li>
-<li>Managers from other teams and departments in the company</li>
-<li>The head of Recruiting and Growth Strategy</li>
-<li>Members of our Executive Team</li>
-</ul><div>
-<br>Apply with a resume and a cover letter. <strong>Your cover letter should speak directly to your interest in this position. We want to know what got you into product management, how your experience has set you up for success in this role, and why you want to join our team.<br></strong><br>
-</div><div>
-<br>Listen, we’ve read a lot of cover letters and have a pretty good sense of what ChatGPT and other AI software sound like. <em>Please show us who you really are and avoid AI cover letters.<br></em><br>
-</div><div>
-<em><br>Research shows that while men apply to jobs when they meet ~60% of the criteria, women and those in underrepresented groups tend only to apply when they check every box. If you’re unsure if your experience qualifies strong competency, we’d still love to hear from you and see if it’s a good fit!<br></em><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/planning-center-product-manager">https://weworkremotely.com/remote-jobs/planning-center-product-manager</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/7719/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -120,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ueni-saas-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -237,7 +127,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>571 days ago</text>
+                <text>572 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -303,7 +193,7 @@
                     <code>developer,marketing,microsoft,mobile</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/product-manager-bilingual-french-1690771" align="right" target="_blank">Apply</a>
