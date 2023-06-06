@@ -1,5 +1,111 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7232/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CoW Protocol</h5>
+                    <h3> Software Engineering Team Lead (Web3)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/cow-protocol-software-engineering-team-lead-web3" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/7232/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Lisbon, Portugal
+    <br /><strong>URL:</strong> <a href="https://cow.fi/">https://cow.fi/</a>
+</p>
+
+<div><br></div><div>
+<strong>About the role<br></strong><br>
+</div><div>
+<em>Location: We are a fully remote team, and although we hire globally, there is a preference for this role to be based in </em><strong><em>Europe or remote +/- 4 hours CEST time</em></strong>
+</div><div>
+<em>Position: </em><strong><em>Full-time contractor</em></strong>
+</div><div><br></div><div>We are looking for an experienced Software Engineering people lead with a passion for systems engineering and Web3 to support our team of talented backend and infrastructure engineers on their mission to create the best and most reliable decentralised trading protocol.<br><br>
+</div><div>You will lead a team of four Rust as well as two DevOps engineers and work closely together with other leads and their teams (Product, Data, Frontend, and Solver) in prioritising and executing our roadmap with a focus on delivering value to our customers.<br><br>
+</div><div>
+<strong><br>What you'll do<br></strong><br>
+</div><ul>
+<li>Foster a positive and inclusive team culture that encourages knowledge sharing, collaboration, innovation, and continuous learning.</li>
+<li>Conduct regular one-on-one meetings to support team members in their career growth and provide guidance on skill development.</li>
+<li>Set clear goals and expectations both for individuals as well as your team, identifying and implementing strategies to improve efficiency and reduce pain points.</li>
+<li>Project planning and development of new functionality for both our off-chain services (optimising transaction execution, scaling order throughput, increasing protocol decentralisation) and the infrastructure that is serving them (Pulumi, K8S, AWS)</li>
+<li>Support the team in its on-call rotation to ensure we provide an always-on, world-class product experience.</li>
+<li>Give thoughtful and in-depth code reviews of your colleagues’ contributions to our open-source codebase and ensure we follow best practices, coding standards, and security guidelines.</li>
+<li>Stay up-to-date with industry trends and advancements in both Web3 and Web2 technologies, and ensure the team is utilizing the most appropriate tools.</li>
+</ul><div>
+<strong><br>You are a good fit if you are:<br></strong><br>
+</div><ul>
+<li>A <strong>Web3 believer</strong> and passion for the future of decentralized systems.</li>
+<li>
+<strong>Up to speed</strong> in managing a team of backend and infrastructure teams in the Web3 space.</li>
+<li>
+<strong>Data-Driven:</strong> You foster open debates and arguments and let yourself be convinced by code and data to make informed decisions.</li>
+<li>
+<strong>Strong Ownership</strong> - you own the responsibilities, lead the projects, and get things done.</li>
+<li>
+<strong>Collaborative</strong> - A strong leader fosters a collaborative environment and thrives on building solid relationships with internal and external stakeholders.</li>
+<li>
+<strong>Result Oriented</strong> - you deliver measurable impact and have a dedication to bringing things over the finish line.</li>
+<li>
+<strong>Adaptable</strong> - As a startup, we move at a fast pace and may need you to be able to pivot and adapt strategies quickly.</li>
+<li>
+<strong>Humble</strong> enough to step aside and listen to others.</li>
+</ul><div>
+<strong><br>Requirement:<br></strong><br>
+</div><ul>
+<li>You have strong leadership and people management skills, with a minimum of 3 years of experience in a technical leadership role.</li>
+<li>Proficiency in any programming language such as Solidity, Rust, TypeScript, Python, or Go.</li>
+<li>Experience in building and integrating with blockchain platforms (Ethereum, Polkadot, etc.) and deploying and serving reliable systems at scale.</li>
+<li>You are an excellent communicator with strong interpersonal skills and are able to effectively collaborate with cross-functional and remote teams.</li>
+<li>You have a proactive approach and exhibit excellent problem-solving skills.</li>
+<li>Passion for staying updated with the latest industry trends and advancements.</li>
+</ul><div>
+<strong><br>What we can offer you<br></strong><br>
+</div><ul>
+<li>
+<strong>Being a part of an international team,</strong> where everyone treats each other with respect and moves towards the same goal.</li>
+<li>
+<strong>Flexible work environment:</strong> join our hub in Lisbon or work remotely.</li>
+<li>
+<strong>Freedom and responsibility.</strong> You do not need to be told what to do.</li>
+<li>
+<strong>Flexible work schedule.</strong> We do not track time, we measure impact.</li>
+<li><strong>Competitive salary and token plan.</strong></li>
+<li>
+<strong>Regular trips to reunite with the rest of the team.</strong> Despite being a remote-first company, we believe that face-to-face meetings with the team bring great value.</li>
+<li>
+<strong>Conference budget</strong> to keep up to date with the developments of the ecosystem.</li>
+<li>
+<strong>Learning budget</strong> to support your higher ambitions.</li>
+<li>
+<strong>Impact:</strong> you are joining a startup where you can make a huge difference. Your work matters!</li>
+<li>Flat hierarchies: this means fewer processes and bureaucracy - see more of your ideas come to life!</li>
+<li>
+<strong>Flexible work and vacation times:</strong> We truly believe in and stand for work-life balance. We have an excellent flexible work policy and a generous vacation allowance.</li>
+<li>
+<strong>Grow with us:</strong> We're growing rapidly, the industry is expanding fast, and we have a lot to do.</li>
+</ul><div>
+<br>If you're someone who loves taking the initiative and getting things done, there are a lot of opportunities for your individual growth.<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/cow-protocol-software-engineering-team-lead-web3">https://weworkremotely.com/remote-jobs/cow-protocol-software-engineering-team-lead-web3</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1569512792381878278/Smf8h3tt_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
