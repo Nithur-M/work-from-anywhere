@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ueni-saas-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -60,7 +60,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0093/2805/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0093/3029/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>ClubRare</h5>
@@ -70,7 +70,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clubrare-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -79,10 +79,10 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0093/2805/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0093/3029/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Madrid, Community of Madrid, Spain
+  <strong>Headquarters:</strong> Berlin, Germany
     <br /><strong>URL:</strong> <a href="https://clubrare.xyz">https://clubrare.xyz</a>
 </p>
 
@@ -127,7 +127,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>572 days ago</text>
+                <text>573 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -179,256 +179,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1690771/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Tigersun</h5>
-                    <h3>Product Manager (bilingual French)</h3>
-                </td>
-                <td width="300">
-                    <code>developer,marketing,microsoft,mobile</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/product-manager-bilingual-french-1690771" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <figure style="box-sizing: inherit; display: block; margin: 0px 10px 10px 0px; ; padding: 0px; clear: both; color: #121317; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; max-width: 38px; float: left; width: 100%; outline: none !important;"><img src="https://recruitee-main.s3.eu-central-1.amazonaws.com/uploads/7ayd1h5a2o/image.png" style="box-sizing: inherit; max-width: 38px; vertical-align: middle; border: 0px; outline: none !important; height: auto !important; width: 100%;"></figure>
-<p><span style="color: #c0504d;"> </span></p>
-<p><strong><span style="color: #c0504d;">Product Manager</span></strong><strong><span style="color: #c0504d;"><strong><span style="color: #c0504d;"><br></span></strong></span></strong><strong><span style="color: #c0504d;"><strong><span style="color: #c0504d;"><br></span></strong></span></strong></p>
-<p dir="ltr"><strong>Full-time permanent contract: </strong>37,5 hours - Monday to Friday</p>
-<p dir="ltr"><strong>Location: </strong>Fully remote</p>
-<p dir="ltr"><strong>Salary range</strong>: £42k to £62k / year</p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr">Medical insurance</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">28 days of holiday + 8 holidays per year</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Payroll paid twice a month (50% mid-month, 50% end of month)</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">For formalities: UK National Insurance number required to start work</p>
-</li>
-</ul>
-<p dir="ltr"><strong>Start date</strong><strong>:</strong> As soon as possible (we can always try :D but mainly as soon as you are available!)</p>
-<p dir="ltr"> </p>
-<p><strong><span style="color: #c0504d;">Main Responsibilities<br></span></strong></p>
-<p><strong><span style="color: #c0504d;"> </span></strong></p>
-<p dir="ltr">Working closely <strong>with the CEO</strong>, the product manager is responsible for planning, implementing and managing the life of the project (mobile app, extension, website), defining product strategy, monetization goals and budget planning.</p>
-<ol style="">
-<li dir="ltr" style="">
-<p dir="ltr"><strong>Define long-term vision</strong> and goals, project launch plan.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr"><strong>Identify user needs</strong> and use them to inform the functionality of the application, website, extension.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr"><strong>Manage various stakeholders</strong> including development, design, marketing and sales teams.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr"><strong>Track project performance</strong> and use data to make decisions on improvements.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr"><strong>Communicate effectively</strong> with users to gather feedback and ideas.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr"><strong>Collaborate </strong>with development teams to ensure that project features (on the mobile app, extensions, site) are developed in a timely and efficient manner.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr"><strong>Ensure</strong> budget and schedule management for the project.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr"><strong>Monitor trends and innovations</strong> in our field to ensure that the app, site and extensions remain competitive.</p>
-</li>
-<li dir="ltr" style=""><strong>Conduct market research</strong> as part of the product strategy and use this research to:
-<ol style="">
-<li dir="ltr" style="">
-<p dir="ltr">Understand consumer needs and expectations, market trends, competition, and the economic environment.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Develop an effective marketing strategy, define product characteristics and target appropriate market segments.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Identify opportunities for new product development and evaluate the potential for product success prior to launch.</p>
-</li>
-</ol>
-</li>
-</ol>
-<p><strong> </strong></p>
-<p><strong>🧐 <strong><span style="color: #c0504d;">T</span><span style="color: #c0504d;">he Project</span></strong><span style="color: #c0504d;">?!</span></strong></p>
-<p><strong> </strong></p>
-<p dir="ltr">Tigersun Media Group is an independent pure-player that has been putting innovation at the heart of its services for 20 years.</p>
-<p dir="ltr">We are starting an important page of our history by launching <strong>a pole dedicated to the creation of anti-crisis solutions for all consumers</strong>, everywhere in the world.</p>
-<p dir="ltr">As Google has done with the web for the past 25 years via its search engine, we propose to simply provide users with <strong>r</strong><strong>eal anti-crisis solutions</strong> accessible to all those who wish to save without depriving themselves.</p>
-<p>In a context of recession, inflation and shortages, Tigersun intends to offer a panel of really <strong>innovative solutions</strong>, which can give back<strong> purchasing power</strong> to 4 billion people on earth.</p>
-<p> </p>
-<p><strong>🚀 </strong><strong>Our team </strong>works on complex and high value-added problems:</p>
-<ul style="">
-<li style="">Creation of a new position, so the product will be the first of the product team. The project already includes several software engineers, web developers.</li>
-<li style="">Currently recruiting: mobile developer, marketing &amp; communications manager.</li>
-</ul>
-<p>👀 Today, our challenges are to prepare the product strategy and launch the project in 30 countries.<br><br></p>
-<figure style="max-width: 32px; float: left; width: 100%; margin: 0px 10px 10px 0px;"><br><img src="https://recruitee-main.s3.eu-central-1.amazonaws.com/uploads/hrdb9554tt/image.png" style="max-width: 32px; width: 100%;"></figure>
-<p><strong><span style="color: #c0504d;"><strong> </strong></span></strong></p>
-<p><strong><span style="color: #c0504d;"><strong>Ideal Profile</strong></span></strong><strong><span style="color: #c0504d;"><strong><br></strong></span></strong></p>
-<p><strong><span style="color: #c0504d;"><strong> </strong></span></strong></p>
-<p dir="ltr">For this position, we are looking for a <strong>methodical</strong> person skilled in tech product strategy.<br><br></p>
-<figure style="box-sizing: inherit; display: block; margin: 0px 10px 10px 0px; ; padding: 0px; clear: both; color: #333333; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; max-width: 73px; float: left; width: 100%; outline: none !important;"><img src="https://recruitee-main.s3.eu-central-1.amazonaws.com/uploads/dotpnou6bm/3.JPG" style="box-sizing: inherit; border: 0px; max-width: 73px; vertical-align: middle; outline: none !important; height: auto !important; width: 100%;"></figure>
-<p><strong><strong>What characterizes you:</strong></strong><span style="color: #000000;"><br></span></p>
-<ul style="">
-<li style="">You like to grow in a startup / B2B / B2C environment.</li>
-<li style="">Team-player, ambitious and ultra-dynamic.</li>
-<li style="">Passionate and curious.</li>
-<li style="">You are driven by challenges and technological evolution.</li>
-</ul>
-<p><span style="color: #000000;"> </span></p>
-<figure style="box-sizing: inherit; display: block; margin: 0px 10px 10px 0px; ; padding: 0px; clear: both; color: #333333; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; max-width: 78px; float: left; width: 100%; outline: none !important;"><img src="https://recruitee-main.s3.eu-central-1.amazonaws.com/uploads/gsk5a82ulu/2.JPG" style="box-sizing: inherit; border: 0px; max-width: 78px; vertical-align: middle; outline: none !important; height: auto !important; width: 100%;"></figure>
-<p><strong><span style="color: #000000;"><strong><strong>Your key skills:</strong></strong></span></strong></p>
-<ul style="">
-<li style="">You <strong>have a good level of French</strong> that allows you to communicate orally.</li>
-<li style="">Knowledge of data analysis tools: to monitor the performance of the site and the application and deduce improvements to be made.</li>
-<li style="">Knowledge of project management: to manage project development, budget and schedule.</li>
-<li style="">Knowledge of the affiliate marketing industry or other relevant industries.</li>
-<li style="">Knowledge of the different acquisition channels.</li>
-<li style="">You take the time to understand the perspectives and ideas of others.</li>
-<li style="">You are able to develop a long term vision: you have a clear vision of the future of the product and the company, where you are going and how to get there.</li>
-</ul>
-<p> </p>
-<p><strong><strong>You have:</strong></strong></p>
-<ul style="">
-<li style="">The heart for finding solutions to improve the functionality of a product/project.</li>
-<li style="">A desire to be a driving force in the launch of our new project.</li>
-<li style="">The need to work in a team.</li>
-</ul>
-<p> </p>
-<p><strong>Your stack:</strong></p>
-<ul style="">
-<li style=""><strong>Project tracking tools</strong>: such as Trello, Asana, Jira or Monday, to plan and track team tasks and deadlines.</li>
-<li style=""><strong>Data tracking tools</strong>: to collect and analyze data, such as Google Analytics, Mixpanel, Amplitude or Heap, to track their product performance and make informed decisions.</li>
-<li style=""><strong>Communication tools</strong>: such as Slack, Discord, Microsoft Teams or Zoom, etc.</li>
-<li style=""><strong>Wireframe and prototyping tools</strong>: to create wireframes and prototypes, such as Figma, Adobe XD, InVision or Axure.</li>
-<li style=""><strong>Competitive analysis tools</strong>: such as SimilarWeb, Ahrefs, SEMrush or Google Trends.</li>
-<li style=""><strong>User feedback tools</strong>: to collect user feedback, such as UserTesting, SurveyMonkey, or Qualtrics etc.</li>
-</ul>
-<p><strong><span style="color: #000000;"><span style="color: #c0504d;"> </span></span></strong></p>
-<figure style="box-sizing: inherit; display: block; margin: 0px 10px 10px 0px; ; padding: 0px; clear: both; color: #333333; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; max-width: 102px; float: left; width: 100%; outline: none !important;"><img src="https://recruitee-main.s3.eu-central-1.amazonaws.com/uploads/b5ktd8r931/1.JPG" style="box-sizing: inherit; border: 0px; max-width: 102px; vertical-align: middle; outline: none !important; height: auto !important; width: 100%;"></figure>
-<p><strong><span style="color: #000000;"><span style="color: #c0504d;"><strong><strong>Working Environment</strong></strong></span></span></strong><strong><span style="color: #000000;"><span style="color: #c0504d;"><strong><strong><br><br></strong></strong></span></span></strong></p>
-<p dir="ltr">A <strong>fully remote team</strong> in close collaboration with the management of the group.</p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr">A benevolent, healthy and simple atmosphere.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">A friendly team.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Motivated, passionate and supportive team members.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">A team that loves challenges, that wants to contribute to powerful projects that compete with the giants of the web.</p>
-</li>
-</ul>
-<p> </p>
-<figure style="box-sizing: inherit; display: block; margin: 0px 10px 10px 0px; ; padding: 0px; clear: both; color: #333333; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; max-width: 32px; float: left; width: 100%; outline: none !important;"><img src="https://recruitee-main.s3.eu-central-1.amazonaws.com/uploads/nfb4h8wmyb/image.png" style="box-sizing: inherit; border: 0px; max-width: 32px; vertical-align: middle; outline: none !important; height: auto !important; width: 100%;"></figure>
-<p><strong><span style="color: #000000;"><strong><strong>Benefits (and evidence) of working at Tigersun Media Group</strong></strong></span></strong></p>
-<p> </p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr">You have a <strong>great deal of autonomy</strong> and your <strong>suggestions are greatly appreciated</strong>.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">We take care of your concentration, <strong>so no untimely interruptions</strong>!</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">You will develop <strong>multiple projects for our group Tigersun</strong> (no assignments for the customer).</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">A <strong>rich business environment</strong> that will be a real career gas pedal and support throughout your professional career.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr"><strong>Possible evolutionary position</strong>: our top managers are all employees recruited more than 5 years ago at a lower level and have evolved very quickly. All our employees benefit from training (internal and external) and work on current technologies.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Our teams have been gathering <strong>experts</strong> in their specialty for more than 5 years. We <strong>listen</strong> to good practices, new ideas; <strong>challenges</strong> and <strong>projects</strong> keep them loyal.</p>
-</li>
-<li dir="ltr" style="">You evolve and participate in the rise of a structure that is exploding:
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr">All our projects are <strong>self-financed</strong>!</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Our two blogging platforms were in the <strong>top 3</strong> of the most used French platforms about ten years ago.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Our first advertising network Ad6media <strong>became n°1</strong> on its core target in only a few months after its launch. Big partners, big web companies, have signed up with us: Le Monde, Le Parisien, Paris Match... Just imagine what we will do with AudienceRun and our other projects!</p>
-</li>
-</ul>
-</li>
-</ul>
-<p> </p>
-<figure style="box-sizing: inherit; display: block; margin: 0px 10px 10px 0px; ; padding: 0px; clear: both; color: #333333; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; max-width: 33px; float: left; width: 100%; outline: none !important;"><img src="https://recruitee-main.s3.eu-central-1.amazonaws.com/uploads/7pw73rrsl7/image.png" style="box-sizing: inherit; border: 0px; max-width: 33px; vertical-align: middle; outline: none !important; height: auto !important; width: 100%;"></figure>
-<p><strong><span style="color: #000000;"><strong><strong>We are made to work together if you like:</strong></strong></span></strong></p>
-<ul style="">
-<li style="">Autonomy, taking initiatives, challenges, constant improvement in skills...</li>
-<li style="">To grow within an ultra friendly team without negative stress.</li>
-<li style="">Gaming and South Park!</li>
-</ul>
-<p> </p>
-<figure style="box-sizing: inherit; display: block; margin: 0px 10px 10px 0px; ; padding: 0px; clear: both; color: #333333; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; max-width: 29px; float: left; width: 100%; outline: none !important;"><img src="https://recruitee-main.s3.eu-central-1.amazonaws.com/uploads/5cp15cn5ct/image.png" style="box-sizing: inherit; border: 0px; max-width: 29px; vertical-align: middle; outline: none !important; height: auto !important; width: 100%;"></figure>
-<p><strong><span style="color: #000000;"><strong><strong>Turn around if you... </strong></strong></span></strong><span style="color: #000000;"><br></span></p>
-<ul style="">
-<li style="">Don't like to manage a project from its inception.</li>
-<li style="">Don't accept criticism from users.</li>
-<li style="">Don't like to be in slippers at home.</li>
-</ul>
-<p> </p>
-<figure style="box-sizing: inherit; display: block; margin: 0px 10px 10px 0px; ; padding: 0px; clear: both; color: #333333; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; max-width: 37px; float: left; width: 100%; outline: none !important;"><img src="https://recruitee-main.s3.eu-central-1.amazonaws.com/uploads/k1rsyu8ewv/image.png" style="box-sizing: inherit; border: 0px; max-width: 37px; vertical-align: middle; outline: none !important; height: auto !important; width: 100%;"></figure>
-<p><strong><span style="color: #000000;"><strong><strong>Don't wait any longer, apply!</strong></strong></span></strong></p>
-<p><strong><span style="color: #000000;"><span style="color: #c0504d;"> </span></span></strong></p>
-<figure style="box-sizing: inherit; display: block; margin: 0px 10px 10px 0px; ; padding: 0px; clear: both; color: #333333; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; max-width: 52px; float: left; width: 100%; outline: none !important;"><img src="https://recruitee-main.s3.eu-central-1.amazonaws.com/uploads/vrgku3pw1w/image.png" style="box-sizing: inherit; border: 0px; max-width: 52px; vertical-align: middle; outline: none !important; height: auto !important; width: 100%;"></figure>
-<p><strong><span style="color: #c0504d;"><strong>Our Detailed Recruitment Process</strong></span></strong></p>
-<p><strong><br></strong><strong>2 WEEKS GLOBAL PROCESS:</strong></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr">A <strong>first</strong> 30-minute <strong>telephone interview </strong>with the recruitment manager to better understand your career plan and answer all your questions.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">A <strong>test</strong> on the EasyHire test platform to assess your knowledge/skills and give you a taste of what you could be working on.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">A <strong>60-minute video conference interview</strong> with your future manager and a member of the team to create a strong alignment on what he/she will expect from you and to tell you more about his/her way of working.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">A <strong>case study.</strong></p>
-</li>
-</ul>
-<p dir="ltr"><strong>We decide quickly, the hiring proposal follows within 48 hours :).</strong><br><br></p>
-<p><strong><span style="color: #c0504d;"><strong>About Tigersun Media Group</strong></span></strong></p>
-<p> </p>
-<p dir="ltr">Tigersun is an <strong>independent pure-player media</strong> group.</p>
-<p dir="ltr"> </p>
-<p dir="ltr"> </p>
-<p dir="ltr">The group is characterized by the eclecticism of its <strong>digital activities</strong>, from <strong>publishing</strong> to <strong>advertising</strong> and <strong>entertainment</strong>. Each project has the solidity of the group, but works systematically in a start-up spirit thanks to innovative and ambitious projects, within human-sized teams.</p>
-<p dir="ltr"> </p>
-<p dir="ltr"> </p>
-<p dir="ltr">We are always looking for <strong>curious and motivated talents</strong> who share our desire to surpass themselves in order to reach high-level objectives.</p>
-<p dir="ltr"> </p>
-<p dir="ltr"> </p>
-<p dir="ltr">We pay great attention to the <strong>quality of life at work</strong> of all our employees by ensuring that each one occupies the position that suits him/her, by making the most of the skills he/she has while evolving on new technologies and new responsibilities.</p>
-<p><br><br></p>
-<img src="https://remotive.com/job/track/1690771/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -660,7 +410,7 @@
                 </td>
                 <td width="300">
                     <h5>Mechanical Orchard</h5>
-                    <h3>Technical Product Manager</h3>
+                    <h3>Platform Product Manager</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -675,7 +425,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt">Mechanical Orchard is a new kind of software consultancy. We build new applications and replace legacy systems for a wide range of customers, spanning from seed stage startups to the Fortune 500, but it doesn’t end there. We run what we build, and build what we run. Our customers focus on their business, rather than manage all the cost, complexity, and risk that comes with operating production systems.</span></div><div><br></div><div><span style="font-size: 11pt">Our background in software development and the impact on the industry is well known, and we've helped write the book on XP and other effective agile practices. We believe in the durable principles behind agile, and embrace the power of cross-functional teams, collective ownership, test driven development, short feedback loops, and continuous improvement.</span></div><div><br></div><div><span style="font-size: 11pt">We are Generous, Ethical, Effective, and Kind.</span></div><div><br></div><div><span style="font-size: 11pt">We're seeking an experienced Platform Product Manager to join our managed operations (Run) team. This individual will help define and lead the strategic direction of our internal software deployment platform on cloud infrastructure.&nbsp; The role is crucial to enabling our client-facing build teams and customers to benefit from high reliability, observability, security, and performance of their applications.</span></div><div><br></div><div><span style="font-size: 11pt">Your responsibilities will include:</span></div><div><br></div><div><b><span style="font-size: 11pt">Product Vision &amp; Strategy</span></b><span style="font-size: 11pt">: Collaborate with business leaders to define the product strategy and roadmap for our internal software deployment platform, with focus on continuous delivery of value to our customers and internal application teams.</span></div><div><br></div><div><b><span style="font-size: 11pt">Customer Focus</span></b><span style="font-size: 11pt">: Prioritize efforts to increase application and platform reliability based on insights derived from customer feedback, internal application team needs, and industry best practices.</span></div><div><br></div><div><b><span style="font-size: 11pt">Customer Support</span></b><span style="font-size: 11pt">: Organize and manage cross-team on-call scheduling and incident management for the platform and customer applications.</span></div><div><br></div><div><b><span style="font-size: 11pt">Technical Expertise</span></b><span style="font-size: 11pt">: Leverage deep understanding of cloud infrastructure and related technologies to drive platform enhancements, reliability, security, observability, and operational efficiency. Collaborate closely with the platform engineering team to translate platform and customer needs into technical solutions.</span></div><div><br></div><div><b><span style="font-size: 11pt">Stakeholder Management</span></b><span style="font-size: 11pt">: Communicate effectively with internal and external stakeholders to set expectations, manage project timelines, and respond to feedback.</span></div><div><br></div><div><b><span style="font-size: 11pt">Product Lifecycle Management</span></b><span style="font-size: 11pt">: Manage the entire product life cycle from strategic planning to tactical, fine-grained execution&nbsp;</span></div><div><br></div><div><b><span style="font-size: 11pt">Team Facilitation</span></b><span style="font-size: 11pt">: Organize and facilitate regular project planning meetings, standups, brainstorming sessions, team retrospectives, and other agile team ceremonies.&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">The ideal candidate has worked as a product manager in a professional, team-based, agile environment, preferably in software or platform products. They have experience across the entire product lifecycle, and a deep understanding of product management principles.</span></div><div><br></div><div><span style="font-size: 11pt">A deep technical background with understanding and/or hands-on experience in software development and cloud infrastructure is preferred.</span></div><div><br></div><div><span style="font-size: 11pt">Strong communication and collaboration skills as well as empathy are essential for working closely with the development team, customers, and others at Mechanical Orchard.</span></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 11pt">Mechanical Orchard, Inc. is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind. Mechanical Orchard, Inc. is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Mechanical Orchard, Inc. are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Mechanical Orchard, Inc. will not tolerate discrimination or harassment based on any of these characteristics. Mechanical Orchard, Inc. encourages applicants of all ages. Mechanical Orchard, Inc. will provide reasonable accommodation to employees who have protected disabilities consistent with local law.</span></div><div><br></div><div>We look forward to reviewing your application. Thanks!</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/mechanicalorchard/3c765c59-5403-45d9-be24-1b000afeec4f/apply">Apply for this job</a></div>
+                <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt">Mechanical Orchard is a new kind of software consultancy. We build new applications and replace legacy systems for a wide range of customers, spanning from seed stage startups to the Fortune 500, but it doesn’t end there. We run what we build, and build what we run. Our customers focus on their business, rather than manage all the cost, complexity, and risk that comes with operating production systems.</span></div><div><br></div><div><span style="font-size: 11pt">Our background in software development and the impact on the industry is well known, and we've helped write the book on XP and other effective agile practices. We believe in the durable principles behind agile, and embrace the power of cross-functional teams, collective ownership, test driven development, short feedback loops, and continuous improvement.</span></div><div><br></div><div><span style="font-size: 11pt">We are Generous, Ethical, Effective, and Kind.</span></div><div><br></div><div><span style="font-size: 11pt">We're seeking an experienced Platform Product Manager to join our managed operations (Run) team. This individual will help define and lead the strategic direction of our internal software deployment platform on cloud infrastructure.&nbsp; The role is crucial to enabling our client-facing build teams and customers to benefit from high reliability, observability, security, and performance of their applications.</span></div><div><br></div><div><span style="font-size: 11pt">Your responsibilities will include:</span></div><div><br></div><div><b style="font-size: 11pt">Product Vision &amp; Strategy</b><span style="font-size: 11pt">: Collaborate with business leaders to define the product strategy and roadmap for our internal software deployment platform, with focus on continuous delivery of value to our customers and internal application teams.</span></div><div><br></div><div><b style="font-size: 11pt">Customer Focus</b><span style="font-size: 11pt">: Prioritize efforts to increase application and platform reliability based on insights derived from customer feedback, internal application team needs, and industry best practices.</span></div><div><br></div><div><b style="font-size: 11pt">Customer Support</b><span style="font-size: 11pt">: Organize and manage cross-team on-call scheduling and incident management for the platform and customer applications.</span></div><div><br></div><div><b style="font-size: 11pt">Technical Expertise</b><span style="font-size: 11pt">: Leverage deep understanding of cloud infrastructure and related technologies to drive platform enhancements, reliability, security, observability, and operational efficiency. Collaborate closely with the platform engineering team to translate platform and customer needs into technical solutions.</span></div><div><br></div><div><b style="font-size: 11pt">Stakeholder Management</b><span style="font-size: 11pt">: Communicate effectively with internal and external stakeholders to set expectations, manage project timelines, and respond to feedback.</span></div><div><br></div><div><b style="font-size: 11pt">Product Lifecycle Management</b><span style="font-size: 11pt">: Manage the entire product life cycle from strategic planning to tactical, fine-grained execution&nbsp;</span></div><div><br></div><div><b style="font-size: 11pt">Team Facilitation</b><span style="font-size: 11pt">: Organize and facilitate regular project planning meetings, standups, brainstorming sessions, team retrospectives, and other agile team ceremonies.&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">The ideal candidate has worked as a product manager in a professional, team-based, agile environment, preferably in software or platform products. They have experience across the entire product lifecycle, and a deep understanding of product management principles.</span></div><div><br></div><div><span style="font-size: 11pt">A deep technical background with understanding and/or hands-on experience in software development and cloud infrastructure is preferred.</span></div><div><br></div><div><span style="font-size: 11pt">Strong communication and collaboration skills as well as empathy are essential for working closely with the development team, customers, and others at Mechanical Orchard.</span></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 11pt">Mechanical Orchard, Inc. is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind. Mechanical Orchard, Inc. is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Mechanical Orchard, Inc. are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Mechanical Orchard, Inc. will not tolerate discrimination or harassment based on any of these characteristics. Mechanical Orchard, Inc. encourages applicants of all ages. Mechanical Orchard, Inc. will provide reasonable accommodation to employees who have protected disabilities consistent with local law.</span></div><div><br></div><div>We look forward to reviewing your application. Thanks!</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/mechanicalorchard/3c765c59-5403-45d9-be24-1b000afeec4f/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr></table>
