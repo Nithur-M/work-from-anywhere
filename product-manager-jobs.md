@@ -70,7 +70,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clubrare-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -127,7 +127,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>573 days ago</text>
+                <text>574 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
