@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/vicoland-talented-backend-developer-m-f-d" align="right" target="_blank">Apply</a>
@@ -79,7 +79,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/onthegosystems-junior-developer-with-a-passion-for-technical-documentation" align="right" target="_blank">Apply</a>
@@ -128,7 +128,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-lead-full-stack-php-developer" align="right" target="_blank">Apply</a>
@@ -181,7 +181,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/public-knowledge-project-systems-developer" align="right" target="_blank">Apply</a>
@@ -240,112 +240,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/8156/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Hashlist</h5>
-                    <h3> Software Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>12 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/hashlist-software-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0086/8156/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> 
-    <br /><strong>URL:</strong> <a href="https://hashlist.com">https://hashlist.com</a>
-</p>
-
-<div>Join <strong>Stellantis</strong>, the world's third-largest automobile company, and help create innovative apps and services for their vehicles, including Maserati, Alfa Romeo, and Jeep. Stellantis is currently searching for many additions to its engineering team in Italy, France, Poland, India and Brazil.</div><div><br></div><div><strong>About us</strong></div><div>Hashlist is building a network for the world's best tech specialists to find remote and onsite work with top global tech companies.<br><br>
-</div><ul>
-<li>Work full-time, part-time, or as a contractor</li>
-<li>0 commissions. 0 fees. Get matched directly with the company.</li>
-<li>Career growth opportunities with the latest technologies<br><br>
-</li>
-</ul><div><br></div><div><strong>About the Job</strong></div><div><br></div><div>Join our team and play a vital role in developing cutting-edge technology! As a Software Developer, you'll be responsible for creating and integrating key components in the end-to-end experience pipeline, focusing on cockpit interfaces for multimodal UX. We're looking for someone with a solid understanding of embedded systems and real-time operating systems and experience in distributed service architecture. If you have a passion for bug-free software and thrive in a fast-paced environment, we want you on our team.</div><div><br></div><div><br></div><div><strong>Qualifications</strong></div><div><br></div><ul>
-<li>MS/M-Tech/BE/B-Tech degree in Computer Science or equivalent</li>
-<li>Experience in C++/Python and Linux</li>
-<li>Experience with Distributed Service Architecture using concepts like Interface</li>
-<li>Definition Language (e.g., Franca IDL), SOA, SOME/IP, etc.</li>
-<li>Experience in designing/developing Software that is deployed in multiple HW platforms</li>
-<li>Bonus: Experience within the automotive sector<br><br><br>
-</li>
-</ul><div><br></div><div><strong>Benefits</strong></div><div><br></div><ul>
-<li>Competitive Salary and Benefits Package</li>
-<li>Generous vacation and sick leave policies, and paid time off for holidays.</li>
-<li>Professional growth and development opportunities through regular training, mentorship, and career coaching.</li>
-<li>Opportunities to work on cross-functional teams and collaborate with colleagues from different departments and locations</li>
-<li>Work on impactful, sustainable projects. Help us achieve carbon net zero by 2038.<br><br><br>
-</li>
-</ul><div><br></div><div><strong>How to apply</strong></div><div><br></div><ul>
-<li>Click the link to complete a 10 minute application</li>
-<li>Your profile will be screened</li>
-<li>Once accepted, you will be able to connect directly with hiring managers from Stellantis.<br><br>
-</li>
-</ul><div><br></div><div>We welcome applications from people of all gender identities, ages, ethnicity, nationality, religion, sexual orientation, and disabilities</div><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/hashlist-software-developer">https://weworkremotely.com/remote-jobs/hashlist-software-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>BBE Marketing Inc</h5>
-                    <h3> Full-Stack Wordpress Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>36 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-4" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Hurst, TX
-    <br /><strong>URL:</strong> <a href="http://bbemarketing.com/">http://bbemarketing.com/</a>
-</p>
-
-<div>BBE Marketing creates online products that help businesses connect with celebrities and influencers. We are looking for a talented Full-Stack Wordpress Developer to join our team, who could help us in shipping features for our application and drive our application design and architecture as we grow.<br><br>
-</div><div>The tasks include:<br><br>
-</div><div>- Developing plugins<br>- Making fixes and updates to existing plugins<br>- Work with team in planning and strategizing<br>- Working with designer in developing designs<br>- Various backend tasks<br><br>
-</div><div>You will love this role if:<br><br>
-</div><div>- You like working with the stakeholders directly. We’re a relatively small startup, there’s no bureaucracy and complex hierarchy. You’ll be communicating directly with all the team members, from CEO to Customer Support.<br>- You like to work and ship stuff fast without compromising quality. You know when to stop and call it done without trying to achieve the unattainable perfection.<br>- You’re not afraid to prove your point when necessary. We trust our team members and believe they have businesses best interest at heart. If there’s no simple solution to a problem, you can provide the arguments and clearly communicate the risks.<br>- Self-starter, we don’t like to micro-manage our team<br>- You treat privileged information with care. You can be trusted with sensitive company data<br>- Great communication skills<br><br>
-</div><div>Requirements:<br>- Experience with PHP<br>- Experience with Wordpress<br>- Experience with MySQL;<br>- Experience with Asana (preferred)<br>- Written and spoken English (required).<br>- Able to work 4 hours overlap within 07:00 - 18:00 PST<br><br>
-</div><div>
-<br><br>
-</div><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-4">https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-4</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/3228/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -356,7 +250,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>64 days ago</text>
+                <text>65 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -439,7 +333,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>96 days ago</text>
+                <text>97 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -521,7 +415,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>603 days ago</text>
+                <text>604 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer" align="right" target="_blank">Apply</a>
@@ -578,6 +472,175 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1701863/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Jitera</h5>
+                    <h3>Senior Full-stack Developer (Reactjs, Nodejs)</h3>
+                </td>
+                <td width="300">
+                    <code>AWS,backend,developer,docker</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-reactjs-nodejs-1701863" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Job Overview - visit website <a class="external" href="https://jitera.app/" rel="nofollow">https://jitera.app/</a></strong></p>
+<p><strong>Jitera</strong> - an automation product (No-Code, Low-Code, and code generator), is seeking a Senior Full-stack Developer with experience in Reactjs and Nodejs for a remote position. As a member of the Jitera team, you will be contributing to Building The Next Era of Software Development. At Jitera, we understand the difficulties and challenges that come with software development. Our goal is to find a better way to develop software and create more value for everybody. If you are excited about creating innovative software and eager to join a team focused on driving change in the professional remote team from all over the world., we encourage you to apply.</p>
+<p><strong>Why Candidate should apply for this position?</strong></p>
+<ul style="">
+<li style="">We are a startup developing technically challenging automation software. Talented engineers who are passionate to work on challenging issues are on our team.</li>
+<li style="">You can work from everywhere, and anywhere. We’re a remote and flextime team. (Permanent WFH)</li>
+</ul>
+<ul style="">
+<li style="">Can have the option to work part-time during the probation as a second job if you recently have a full-time job</li>
+</ul>
+<p><strong>Duties and Responsibilities</strong></p>
+<ul style="">
+<li style="">Design, implement, test and release high-quality software.</li>
+<li style="">Work with other engineers, designers, and product owners to implement various features while considering maintainability, security, and performance.</li>
+<li style="">Represent the engineering team in meetings, contributing to ideas relevant to the product roadmap with a strong understanding of future customers and their desires.</li>
+<li style="">Monitor and bug fix to ensure that customers can use the application expectedly.</li>
+<li style="">Create technical documentation and communicate clearly across the product team.</li>
+<li style="">Support team members to review, feedback, and onboard.</li>
+</ul>
+<p><strong>Requirements</strong></p>
+<ul style="">
+<li style="">More than 5 years of experience in software development</li>
+<li style="">More than 3 years of experience in both Node/React and TypeScript (either FE or BE heavy - at least you have experience with both of them)</li>
+<li style="">Good understanding of fundamental design patterns in software design.</li>
+<li style="">Demonstrating a strong ability to work independently is a key strength.</li>
+<li style="">Confidently communicate and take initiative to collaborate effectively within a remote team.</li>
+<li style="">Ability to prepare a remote work environment where you can focus on your work with a stable network place.</li>
+<li style="">Business-level English skills (speaking/listening/ writing/ reading)</li>
+</ul>
+<p> </p>
+<p><strong>Desirable Experiences</strong></p>
+<ul style="">
+<li style="">Experience in mobile application development with React Native</li>
+<li style="">Experience with GraphQL and Apollo Client</li>
+<li style="">Experience in server-side development, especially with Ruby on Rails</li>
+<li style="">Experience to develop applications with NoCode services.</li>
+</ul>
+<p><strong>Tech Stack </strong></p>
+<p><em>(we don't expect you to have all of these skills, but we'd love to give you the environment to develop them while working at Jitera)</em></p>
+<ul style="">
+<li style="">Frontend: TypeScript, React, React Native, Styled Components, Apollo Client</li>
+<li style="">Backend: Node.js, GraphQL, PHP lavarel, Ruby on Rails.</li>
+<li style="">Database: MySQL, MongoDB, Redis</li>
+<li style="">Infrastructure: AWS, GCP, Docker, Terraform, HashiCorp Vault</li>
+<li style="">CI/CD: GitHub Actions, AWS CodePipeline</li>
+<li style="">Project management: Github, Jira</li>
+<li style="">Documentation: Notion, Google Workspace, Miro</li>
+<li style="">Communication: Slack, Gather, DailyBot</li>
+</ul>
+<p><strong>Selection Process</strong></p>
+<ol style="">
+<li style="">Culture interview (~20 min)</li>
+<li style="">Take-home assignment (homework without any deadline)</li>
+<li style="">Technical interview (~40 mins)</li>
+<li style="">Final interview with COO (30mins)</li>
+<li style="">Probation (4 weeks) <a class="external" href="https://docsend.com/view/3u4vd82g2k797ak9" rel="nofollow" target="_blank">(you can also work part-time during only this probationary period)</a></li>
+</ol>
+<p><strong>Benefits</strong></p>
+<ul style="">
+<li style="">Premium insurance, private health insurance (900 USD)</li>
+<li style="">MacBook M2 Pro provided and additional devices to support your work</li>
+<li style="">22 annual leaves, paid time off (plus a week for parental leaves)</li>
+<li style="">Adding Tax payment (maximum 10% of salary from Employer)</li>
+<li style="">ESOP program</li>
+<li style="">Special events, occasions celebrations, and gifts as cash</li>
+<li style="">Co-working space Support</li>
+<li style="">Sponsorship for classes/ professional courses according to your demand.</li>
+</ul>
+<img src="https://remotive.com/job/track/1701863/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1383531/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Proxify</h5>
+                    <h3>Senior Front-end Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,ui,ux,growth</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"> </p>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">The Role:</span></p>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">We are searching for a </span><span style="color: #252525; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Senior Front-End Developer (Angular.js/React.js)</span><span style="color: #0e101a; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </span></p>
+<p><br><br></p>
+<div class="h3" dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">What we are looking for:</span></div>
+<ul style="">
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">You have +3 years experience with React.js/Angular.js;</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">You follow best practices and conventions;</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Relevant experience in CI/CD and related tools;</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Responsible and able to work with minimal supervision;</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Upper-intermediate English level;</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">You can communicate well with both technical and non-technical clients.</span></li>
+</ul>
+<div class="h4" dir="ltr" style="line-height: 1.9872; margin-top: 14pt; margin-bottom: 12pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Nice-to-have:</span></div>
+<ul style="">
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Timezone: CET (+/- 3 hours);</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Basic back-end knowledge for minor back-end jobs where necessary.</span></li>
+</ul>
+<div class="h4" dir="ltr" style="line-height: 1.9872; margin-top: 14pt; margin-bottom: 12pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Responsibilities:</span></div>
+<ul style="">
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Build reusable code and libraries for future use;</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Ensure the technical feasibility of UI/UX designs;</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Transform visual designs and wireframes into working products;</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Accurate planning of the feature delivery;</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Collaborate with other team members and stakeholders</span></li>
+</ul>
+<p><br><br></p>
+<p align="left" dir="ltr" style="margin-left: 0pt;"> </p>
+<table style="border-width: initial; border-style: none;"><colgroup><col width="600"></colgroup>
+<tbody>
+<tr style="height: 132.75pt;">
+<td style="border-width: 0.99609pt; border-color: #000000; vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;">
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">What we offer:</span></p>
+<ul style="">
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">💻 </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">100% remote work</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Work from anywhere.</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">👌🏻 </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Flexibility</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: The ability to change the project to another one.</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">💵 </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Financial growth</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Competitive compensation and performance-based increases.</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">🧘🏻‍♂️ </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Freedom</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Very flexible working schedule.</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">🚀 </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">360 degree growth</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Opportunities for professional development and personal growth.</span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"> </p>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Your benefits with Proxify:</span></p>
+<ul style="">
+<li style=""><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Be part of Proxify community</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Network with like-minded and enthusiastic individuals to make a difference. </span></li>
+<li style=""><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Make an impact</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: You get the opportunity to work on the projects that inspire you and add value to your career.</span></li>
+<li style=""><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Transparency</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Contracts with transparency in earnings and working hours.</span></li>
+<li style=""><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Save your time</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Fast and efficient hiring process to match you with the project of your preference.</span></li>
+</ul>
+<p><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Ownership: </span><span style="color: #0e101a; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Take ownership of your work and enjoy more freedom in your career.</span></p>
+<img src="https://remotive.com/job/track/1383531/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1422554/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -588,7 +651,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -725,7 +788,7 @@
                     <code>azure,cloud,developer,django</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -790,7 +853,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -867,7 +930,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1011,7 +1074,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -1932,30 +1995,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and  we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful. <br></p><p><strong>We are looking for Middle Python Developers to join our CloudLinux OS team.</strong></p><p>CloudLinux OS, our flagship product, runs on more than 25,000 production servers today, powering over 20 million websites, and is recognized as the best OS for security and efficiency in a shared hosting environment. CloudLinux OS increases server density and enhances security, thus reducing operating costs, decreasing churn rates, and increasing profitability. Check out our website for more information about our CLOS Product <a href="https://www.cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">https://www.cloudlinux.com/</a></p><p>You will be involved in backend development for CloudLinux projects using Python.<br></p><p>It is required to cover your code with unit-tests using Python and/or with functional tests.</p><p><strong>Additional activities may include:</strong></p><ul> <li>investigating issues reported by our clients, partners or support team;</li> <li>communication with our 3rd level support team to provide consultations or help related to CloudLinux projects;</li> <li>writing technical documentation for new features;</li> <li>review of code written by your colleagues using Gerrit.</li> </ul><p>Work is fully remote, with flexible hours, where you can plan your day and work from anywhere.</p><p>More details about the company on <a href="https://www.cloudlinux.com/" target="_blank" rel="nofollow noreferrer noopener" class="external">Cloudlinux.com</a>.</p><p>Join us to make the difference!</p><p><br></p><h3>Requirements: </h3><p><br></p><ul> <li>3+ years of experience with Python</li> <li>Basic algorithms and data structures</li> <li>Good knowledge of SQL</li> <li>Experience in system programming for Linux OS</li> <li>Research and propose performance optimization solutions for PHP sites, including those working on WordPress.</li> <li>Basic knowledge of Git</li> <li>Able to read code</li> <li>The ability to read and write in English</li> <li>Shell scripting </li> <li>Knowledge of Ansible, Vagrant, Jenkins</li> <li>Experience with building RPM packages</li> </ul><p><strong>Will be a plus:</strong></p><ul><li>Knowledge of C, PHP, Perl and JavaScript </li></ul><p><strong>Personal skills:</strong></p><ul> <li>Fast-learning, proactivity</li> <li>Desire to work in a fast-paced growing deadline-driven startup-up environment</li> <li>Strong self-motivation, driven to achieve committed milestones</li> <li>The ability to independently analyze a task and find the right solution</li> <li>The ability to work in a team</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A great opportunity for professional development within the young and fast-growing company</li> <li>Interesting and challenging projects</li> <li>Knowledge-Exchange</li> <li>Remote work with long-term employment on a full-time basis under contract</li> <li>High-level compensation based on the performance reviews</li> <li>Flexible working hours</li> <li>Paid one month vacation per year and sick leaves</li> <li>Medical insurance reimbursement</li> <li>English educational programs</li> <li>Ability to study and attend seminars and training according to the request</li> <li>Co-working and gym/sports compensations</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>C Developer for CloudLinux - REMOTE/Work Anywhere</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/8FAA3B3FED" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We are looking to hire C Developers, who will be part of our CL OS team.</p><p>CloudLinux OS, our flagship product, runs on more than 25,000 production servers today, powering over 20 million websites, and is recognized as the best OS for security and efficiency in a shared hosting environment. CloudLinux OS increases server density and enhances security, thus reducing operating costs, decreasing churn rates, and increasing profitability. Check out our website for more information about our CLOS Product <a href="https://www.cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">https://www.cloudlinux.com/</a></p><p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and  we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure everyone is successful. We are truly a great place to work.</p> <p>For more details about our company go to <a href="http://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">Cloudlinux.com</a>.</p> <p><strong>As our C Developer you will be responsible for:</strong></p><ul> <li>Work on implementing security modules for various Linux software (apache, nginx, PHP, dovecot, pam)</li> <li>Optimizing algorithms used in existing code to reduce overhead</li> <li>Cover your code with unit and functional tests</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role you should have:</strong></p><ul> <li>5+ years of С programming experience</li> <li>GNU/Linux operating system and shell scripting experience</li> <li>Ability to work with various build systems like autotools, make and cmake</li> <li>Experience with git-based development processes</li> <li>Experience in debugging(mostly gdb and command line)</li> <li>Experience in the development of web-server modules: Nginx , Apache/OpenLiteSpeed and understanding of the web-server architecture and workflow will be a plus</li> <li>Golang language knowledge will be a plus</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> </li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p><br></p><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
                 </details>
                 </td>
             </tr></table>
