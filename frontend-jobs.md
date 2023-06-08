@@ -10,7 +10,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-cms-frontend-engineer-acquisition-team" align="right" target="_blank">Apply</a>
@@ -91,7 +91,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-frontend-engineer-angular-3" align="right" target="_blank">Apply</a>
@@ -175,7 +175,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/adblock-inc-frontend-engineer-marketing" align="right" target="_blank">Apply</a>
