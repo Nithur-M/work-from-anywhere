@@ -1,56 +1,5 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/8093/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Builder Prime</h5>
-                    <h3> Senior DevOps Engineer (SaaS)</h3>
-                </td>
-                <td width="300">
-                    <code>DevOps and Sysadmin</code>
-                </td>
-                <td width="200">
-                <text>14 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/builder-prime-senior-devops-engineer-saas" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0086/8093/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Staten Island, NY
-    <br /><strong>URL:</strong> <a href="https://builderprime.com">https://builderprime.com</a>
-</p>
-
-<h1>Summary</h1><div>Hi!  I’m the founder of Builder Prime, a growing B2B SaaS startup helping home improvement companies grow their businesses.  I am a technical founder and was the sole developer until about 2 years ago. I have long relied on using Heroku as a platform as a service, but as the company is growing we need your expertise in running a world-class operation. This is where you come in. <br><br>I am looking for a Senior DevOps Engineer to join a small team and make a big impact.<br><br>We already have the absolute best platform out there for home improvement contractors. Our customers love our software and the support they receive from us.  Check out our reviews on Capterra and Facebook to see what some of our customers are saying about us.  We have a highly available platform (see https://builderprime.statuspage.io) with extensive observability tools. Yet, there is more to be done using your experience to improve and further mature our tech stack and operations.    <br><br>This is a full-time and long-term position that is 100% remote.  All of our meetings, as well as any meetings with customers, will be conducted remotely, mostly over Zoom.  You will need to work during or close to US East Coast business hours.  Currently, we try to meet as an entire company for an off-site retreat at least once per year and would cover your expenses to join us.<br><br>
-</div><h1>Why YOU Should Apply</h1><div>This is a unique opportunity to get in at the earlier stages of a growing software startup company.  We are profitable and growth is accelerating.  We need your help to continue that acceleration.<br><br>You will be working directly with me, the founder &amp; developer, as well as the lead developer that has been working with me for the last couple years, so there is no red tape or layers of management to deal with. You will be able to influence and make real changes, and see the results of those changes immediately. You will be the keeper of the platform that makes a huge difference in businesses and that people love to use every single day.<br><br>
-</div><h1>Responsibilities and Day-to-Day</h1><div>We are a small and scrappy company, so you will need to wear a few different hats.  Flexibility and adaptability are key traits that you will need to possess to be successful in this role.<br><br>Your first priority in this role will be site stability. You will be proactive in minimizing software failures and reducing the lead time between fixes. We are currently running Java Spring on Heroku with AngularJS frontend connected to a multi-tenant PostgreSQL database. The app is instrumented with Sentry, NewRelic, and Librato with aggregated logs through Papertrail. <br><br>Your next priority will be helping to speed up the different aspects of developing, testing and releasing software. We run a Kanban-like process with weekly releases using GitHub Actions for our automated pipelines.<br><br>In addition to these top two priorities, you may also be asked to interact directly with our service partners over email, phone, and Zoom meetings.  These types of interactions would typically be required for assessing new integrations or trouble-shooting existing connectivity. <br><br>Finally, I will be looking for you to play a role in the future direction of the platform.  I will look for your input on migration of our platform from Heroku to our new cloud hosted home as well as system architecture, monitoring, and scaling cost-effectively. This truly is a great opportunity to have a lot of influence on the future of the software and the business.<br><br>
-</div><h1>Requirements</h1><div>In this role, you will need to take ownership and responsibility of the platform - you will shape and lead the direction of our entire cloud operations. You will be given all of the tools and support to be successful without being told what to do every step of the way.  If this appeals to you, then this may be the perfect position for you.<br><br>Here are some other qualifications that would make this role a good fit for you: <br><br>
-</div><ul>
-<li>You implement secure, long-term solutions through simplification and automation.</li>
-<li>You not only keep the lights on, you make them shine brighter and better everyday. </li>
-<li>You can dive deep and identify failure patterns to resolve problems at their root (and rarely, in the middle of the night). </li>
-<li>You have 5+ years of experience in a DevOps role working in a cloud hosted environment (AWS, GCP, Azure, Heroku, Render, etc.).</li>
-<li>You have 3+ years of experience with SQL and wrangling relational databases.</li>
-<li>You believe in infrastructure as code with a good knowledge of Git and a strong understanding of continuous integration and delivery </li>
-<li>You must have a reliable and fast internet connection with at least 50 Mb/s download and 10 Mb/s upload speed.  That should be the actual speed based on how you connect, not the theoretical speed that your ISP advertises.</li>
-<li>You love the idea of efficiency.  You are constantly striving to make yourself more efficient, and the idea of making other people more efficient excites you.</li>
-<li>You are curious and love to learn, and you love finding new ways to get things done better and faster.</li>
-<li>You enjoy leaving a document trail so others can learn and follow your lead.</li>
-</ul><div>
-<br>Any knowledge or experience in the Construction or Home Improvement industry is a plus.<br><br>I can’t wait to work with you, learn from you, and build something truly amazing!<br><br><em>Builder Prime asks respectfully to </em><strong><em>only apply through the application form and not email/apply to them directly</em></strong><em>. Recruiters and Agencies please do not contact Builder Prime directly.</em>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/builder-prime-senior-devops-engineer-saas">https://weworkremotely.com/remote-jobs/builder-prime-senior-devops-engineer-saas</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/5497/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -61,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>41 days ago</text>
+                <text>42 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pictureworks-group-pty-ltd-lead-devops-engineer-and-systems-administrator" align="right" target="_blank">Apply</a>
@@ -119,6 +68,76 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/pictureworks-group-pty-ltd-lead-devops-engineer-and-systems-administrator">https://weworkremotely.com/remote-jobs/pictureworks-group-pty-ltd-lead-devops-engineer-and-systems-administrator</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1694325/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>ElectroNeek</h5>
+                    <h3>Senior DevOps Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>AWS,cloud,devops,docker</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1694325" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="h1">Description</div>
+<p><strong>About ElectroNeek</strong></p>
+<p>ElectroNeek is an Intelligent Automation platform empowering MSPs (Managed Service Providers) and their clients with cutting-edge technology that seamlessly automates business processes (end-to-end). This MSP-oriented platform offers a wide range of exciting low-code automation tools, based on RPA, IDP, AI, and GPT4 (Conversational and Generative) technologies.</p>
+<p><strong>Role description</strong></p>
+<p>We are looking for an experienced Senior DevOps Engineer to join our core software team on a full-time remote basis to help us facilitate releasing products faster, securely, and scalably and bring our infrastructure to the next level.</p>
+<p><strong>Responsibilities:</strong></p>
+<ul style="">
+<li style="">Maintenance of cloud infrastructure;</li>
+<li style="">Design and implement build, deployment, and configuration management;</li>
+<li style="">Test system integrity;</li>
+<li style="">Build and test automation tools for infrastructure provisioning;</li>
+<li style="">Handle code deployments in all environments;</li>
+<li style="">Provide technical guidance and educate team members and coworkers on development and operations;</li>
+<li style="">Brainstorm for new ideas and ways to improve development delivery;</li>
+<li style="">Build, maintain, and monitor configuration standards;</li>
+<li style="">Manage CI and CD tools;</li>
+<li style="">Document and design various processes; update existing processes;</li>
+<li style="">Improve infrastructure development and application development;</li>
+<li style="">Finding and implementing ways to improve cost-efficiency;</li>
+<li style="">Monitor reliability and performance of all internal systems to suggest improvements.</li>
+</ul>
+<p><br><br>Conditions: </p>
+<ul style="">
+<li style="">You can work remotely from any place in the World (Slack)</li>
+<li style="">A friendly and dedicated team of RPA professionals</li>
+<li style="">Stable and competitive salary in USD</li>
+<li style="">Stock option plan</li>
+<li style="">Paid vacation and days off</li>
+</ul>
+<div class="h1">Requirements</div>
+<ul style="">
+<li style="">Fluent English</li>
+<li style="">5+ years of DevOps experience</li>
+<li style="">Ability to work in EST Time Zone</li>
+<li style="">AWS Console administration</li>
+<li style="">Docker, Helm, Kubernetes, Terraform</li>
+<li style="">Gitlab CI / bitbucket-pipelines / Jenkins</li>
+<li style="">Bash</li>
+<li style="">Linux/Ubuntu Server</li>
+<li style="">Jira</li>
+<li style="">Zabbix/Grafana configuration or other monitoring systems</li>
+<li style="">MongoDB</li>
+<li style="">Graylog/ELK or similar</li>
+<li style="">Discipline, self-organization, responsibility</li>
+<li style="">Team leadership/management experience (not required, but a plus)</li>
+</ul>
+<img src="https://remotive.com/job/track/1694325/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
