@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/cow-protocol-software-engineering-team-lead-web3" align="right" target="_blank">Apply</a>
@@ -106,6 +106,62 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/3890/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Springboard</h5>
+                    <h3> Mentor - Software Engineering Career Track (Part-time/Remote)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>330 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0016/3890/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> San Francisco, CA
+    <br /><strong>URL:</strong> <a href="https://www.springboard.com/">https://www.springboard.com/</a>
+</p>
+
+<div><strong>The Opportunity</strong></div><div><br></div><div>Springboard runs an online, self-paced Software Engineering Career Track in which participants learn with the help of a curated curriculum and 1-1 guidance from an expert mentor. Our mentor community - the biggest strength of our programs - comprises some of the best software engineering experts in the field.</div><div><br></div><div>If you are as passionate about mentoring as you are about software engineering, and can give a few hours per week in return for an honorarium, we would love to hear from you.</div><div><br></div><div>Please reach out to us with any questions at mentorrecruiting@springboard.com <br><br><strong>The Program</strong>
+</div><ul>
+<li>Completely online and self-paced</li>
+<li>Students become proficient in Software Engineering with the help of a curated online curriculum and project-based deliverables</li>
+<li>Coursework is made up of 800+ hour expert-curated curriculum in partnership with <a href="https://www.rithmschool.com/">Rithm School</a>
+</li>
+<li>On average, students finish in 9 months</li>
+<li>Students are working professionals from all over the world, dedicated to switching careers into Software Engineering</li>
+<li>Students have a weekly 30-minute checkin with their mentor to discuss questions, projects, and career advice!</li>
+</ul><div><strong>You</strong></div><ul>
+<li>are as passionate about teaching coding as about software engineering itself</li>
+<li>are proficient in the topics covered in our <a href="https://ddf46429.springboard.com/uploads/resources/1572915743_Software_Engineering_Career_Track_-_Syllabus_2019.11.04.pdf">Software Engineering Career Track</a> and are fluent in technologies such as HTML, CSS, JavaScript, React, Python, Flask, SQL, Data Structures and Algorithms</li>
+<li>have at least 3+ years of relevant work experience </li>
+<li>are available for weekly, 30-minute video check-ins with students to help them set and achieve learning goals, answer subject matter questions, provide feedback on projects, and offer career advice</li>
+<li>have experience critiquing work, in particular giving meaningful feedback on web development, and are able to think on your feet quickly</li>
+<li>are empathetic and have excellent communication skills</li>
+</ul><div><strong>Benefits</strong></div><ul>
+<li>Software Engineering mentors are paid an honorarium between $17.50-$32.50 per 30 minute call with students</li>
+<li>Membership in a rich community of expert mentors from great companies like AirBnB, Uber, Google, and Pivotal</li>
+<li>Change the lives of students in our program</li>
+<li>Help us revolutionize online education and inspire the next generation of software engineers!</li>
+<li>Work at your convenience</li>
+</ul><div><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3">https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1569512792381878278/Smf8h3tt_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -149,7 +205,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>ConvertKit is a powerful marketing platform built for creators, by creators. We help creators grow and monetize their audience with ease. For coaches, YouTubers, authors, podcasters, and other creatives, there isn’t a better marketing hub to rely on to grow audiences, automate email marketing, and sell digital products - all within one platform. More importantly, there isn’t a team more committed to helping creators earn a living.</p><p>We’re on a mission to help creators earn $1 billion using our creator marketing platform. We have always been 100% independent and 100% remote. We are proud to have built a product that our customers love, and we look for people who have enthusiasm and belief in our mission, vision, and values to join our team.</p><h3><br></h3><h3>The Role<br> </h3><p>You’ll join a team of engineers responsible for building out the newest component of our mission to help creators to earn a living online: the Creator Network. The Creator Network enables creators to join forces to help each other grow through recommendations, sponsorships, and more.</p><p> <br>This group cares deeply about creators and helping them along their journey. We’re looking for an engineer that enjoys the product side of product development; has empathy for the creators that we serve, and is eager to work in on a fast paced team that ships consistently. </p><p>To learn more about how our engineering team works, you can peruse <a href="https://convertkit.engineering/" rel="nofollow noreferrer noopener" class="external">our engineering blog</a>.</p><p><strong>Responsibilities</strong></p><ul> <li>Own solving problems across the full stack in collaboration with your team</li> <li>Actively participate in driving the technical direction of our codebase</li> <li>Collaborate with team members across the organization</li> </ul><h3>Requirements: </h3><ul> <li>At least 5 years building software in a team environment or equivalent experience. Years of experience doesn’t always capture expertise, so we encourage you to apply if you can demonstrate you’re well versed in building software in a team environment</li> <li>At least 2 years working professionally on a Ruby on Rails application - if you don’t have two years of experience but can demonstrate a confident grasp of Ruby on Rails, we encourage you to apply</li> <li>Experience working with JavaScript and React (or comparable framework)</li> <li>Experience writing code that is accessible, scalable, maintainable, and performant</li> <li>Comfortable working remotely in an autonomous environment - you don’t mind asking questions and problem solving in public communication channels</li> <li>Able to work in US time zones - you don’t have to live in those time zones, but you have to be able to collaborate with your teammates during those times</li> <li>Belief in our <a href="https://convertkit.com/mission" rel="nofollow noreferrer noopener" class="external">mission, vision, and values</a> </li> </ul><p><strong>Nice to Haves</strong></p><ul> <li>Experience building and/or integrating with machine learning models. </li> <li>Experience with algorithms for surfacing relevant content to users based on shared traits or interests</li> <li>Experience with Elasticsearch</li> </ul><h3>Benefits: </h3><p>ConvertKit has standardized salaries based on position, no matter where you live. For this role, we’re hiring at a level 3 ($147,000) or level 4 ($174,000 ), out of five levels. Level is determined based on experience and our interview process.</p><p><strong>Other benefits include:</strong></p><ul> <li>Profit Sharing - <a target="_blank" href="https://twitter.com/nathanbarry/status/1491429183977050114" rel="nofollow noreferrer noopener" class="external">Learn about profit sharing and compensation at ConvertKit</a> </li> <li>Twenty (20) days of paid time off during each year of employment</li> <li>Paid paid vacation: An after-tax bonus of $1,000 for taking five consecutive days of vacation where you’re fully unplugged from work</li> <li>Ten paid holidays a year</li> <li>Monthly medical benefits up to $1,750 a month toward premiums. Dental and vision premiums covered 100%</li> <li>Two weeks of paid sick time each year, including mental health + well being days</li> <li>12 weeks paid parental leave and flexible scheduling in your child’s first year</li> <li>Childcare benefit up to $3,000 annually</li> <li>Up to six weeks of paid bereavement leave, medical leave, and disaster after six months of employment, two weeks of each paid leave in your first six months=</li> <li>Gender affirming benefits</li> <li>$4,000 equipment allowance for your first two years, $3,000 budget every following two years</li> <li>Individual learning + development budget ($3,500/year)</li> <li>Four-week, paid sabbatical after five years with the team</li> <li>Fantastic in-person or virtual retreats with the team twice a year</li> </ul><p><strong>How to Apply</strong></p><p>We know that most people hate interviewing (we relate!). We aim to make it as good of an experience as we can, and part of that includes keeping you informed during the process.</p><p>Here’s what you can expect from the process:</p><ol> <li>30 min - Recruiter screen</li> <li>30-45 min - Hiring Manager screen</li> <li>Homework Assignment</li> <li>60 min - Technical Interview to discuss HW</li> <li>60 min - Culture Contribution Chat</li> </ol><p>To get started, complete this application, including answers to the questions on the next page. <strong>We read every single application, and your responses to our application questions help put your experience into context.</strong></p><p><br></p><p>ConvertKit is an equal opportunity employer. We value diversity in all of its forms, and we hire the best person we can for each role, no matter your personal background. Research tells us that applicants who are female or non-binary, as well as applicants who are people of color, are less likely to apply for roles they do not feel 100% qualified for. If you think you meet more than 50% of our requirements but fewer than 100% of them, please apply. We’re imperfect communicators, so think of our job postings as the starting point for discussion rather than proof that you shouldn’t apply.</p><p><a href="https://apply.workable.com/convertkit/j/189B4A4E1C/apply/" rel="nofollow noreferrer noopener" class="external">Apply for this job</a></p>
+                <p>ConvertKit is a powerful marketing platform built for creators, by creators. We help creators grow and monetize their audience with ease. For coaches, YouTubers, authors, podcasters, and other creatives, there isn’t a better marketing hub to rely on to grow audiences, automate email marketing, and sell digital products - all within one platform. More importantly, there isn’t a team more committed to helping creators earn a living.</p><p>We’re on a mission to help creators earn $1 billion using our creator marketing platform. We have always been 100% independent and 100% remote. We are proud to have built a product that our customers love, and we look for people who have enthusiasm and belief in our mission, vision, and values to join our team.</p><h3><br></h3><h3>The Role<br> </h3><p>There are two teams currently hiring at ConvertKit. You’ll join a team of engineers responsible for building out the newest component of our mission to help creators to earn a living online: the Creator Network. The Creator Network enables creators to join forces to help each other grow through recommendations, sponsorships, and more.</p><p>Or you'll be joining the Builders Squad, which is responsible for building the suite of tools creators use to build their emails, landing pages, Creator Profile, and more. They build and support features that directly impact our growth, conversions, and churn. </p><p>These groups care deeply about creators and helping them along their journey. We’re looking for an engineer that enjoys the product side of product development; has empathy for the creators that we serve, and is eager to work in on a fast paced team that ships consistently. </p><p>To learn more about how our engineering team works, you can peruse <a href="https://convertkit.engineering/" rel="nofollow noreferrer noopener" class="external">our engineering blog</a>.</p><p><strong>Responsibilities</strong></p><ul> <li>Own solving problems across the full stack in collaboration with your team</li> <li>Actively participate in driving the technical direction of our codebase</li> <li>Collaborate with team members across the organization</li> </ul><h3>Requirements: </h3><ul> <li>At least 5 years building software in a team environment or equivalent experience. Years of experience doesn’t always capture expertise, so we encourage you to apply if you can demonstrate you’re well versed in building software in a team environment</li> <li>At least 2 years working professionally on a Ruby on Rails application - if you don’t have two years of experience but can demonstrate a confident grasp of Ruby on Rails, we encourage you to apply</li> <li>Experience working with JavaScript and React (or comparable framework)</li> <li>Experience writing code that is accessible, scalable, maintainable, and performant</li> <li>Comfortable working remotely in an autonomous environment - you don’t mind asking questions and problem solving in public communication channels</li> <li>Able to work in US time zones - you don’t have to live in those time zones, but you have to be able to collaborate with your teammates during those times</li> <li>Belief in our <a href="https://convertkit.com/mission" rel="nofollow noreferrer noopener" class="external">mission, vision, and values</a> </li> </ul><p><strong>Nice to Haves</strong></p><ul> <li>Experience building and/or integrating with machine learning models. </li> <li>Experience with algorithms for surfacing relevant content to users based on shared traits or interests</li> <li>Experience with Elasticsearch</li> </ul><h3>Benefits: </h3><p>ConvertKit has standardized salaries based on position, no matter where you live. For this role, we’re hiring at a level 3 ($147,000) or level 4 ($174,000 ), out of five levels. Level is determined based on experience and our interview process.</p><p><strong>Other benefits include:</strong></p><ul> <li>Profit Sharing - <a target="_blank" href="https://twitter.com/nathanbarry/status/1491429183977050114" rel="nofollow noreferrer noopener" class="external">Learn about profit sharing and compensation at ConvertKit</a> </li> <li>Twenty (20) days of paid time off during each year of employment</li> <li>Paid paid vacation: An after-tax bonus of $1,000 for taking five consecutive days of vacation where you’re fully unplugged from work</li> <li>Ten paid holidays a year</li> <li>Monthly medical benefits up to $1,750 a month toward premiums. Dental and vision premiums covered 100%</li> <li>Two weeks of paid sick time each year, including mental health + well being days</li> <li>12 weeks paid parental leave and flexible scheduling in your child’s first year</li> <li>Childcare benefit up to $3,000 annually</li> <li>Up to six weeks of paid bereavement leave, medical leave, and disaster after six months of employment, two weeks of each paid leave in your first six months=</li> <li>Gender affirming benefits</li> <li>$4,000 equipment allowance for your first two years, $3,000 budget every following two years</li> <li>Individual learning + development budget ($3,500/year)</li> <li>Four-week, paid sabbatical after five years with the team</li> <li>Fantastic in-person or virtual retreats with the team twice a year</li> </ul><p><strong>How to Apply</strong></p><p>We know that most people hate interviewing (we relate!). We aim to make it as good of an experience as we can, and part of that includes keeping you informed during the process.</p><p>Here’s what you can expect from the process:</p><ol> <li>30 min - Recruiter screen</li> <li>30-45 min - Hiring Manager screen</li> <li>Homework Assignment</li> <li>60 min - Technical Interview to discuss HW</li> <li>60 min - Culture Contribution Chat</li> </ol><p>To get started, complete this application, including answers to the questions on the next page. <strong>We read every single application, and your responses to our application questions help put your experience into context.</strong></p><p><br></p><p>ConvertKit is an equal opportunity employer. We value diversity in all of its forms, and we hire the best person we can for each role, no matter your personal background. Research tells us that applicants who are female or non-binary, as well as applicants who are people of color, are less likely to apply for roles they do not feel 100% qualified for. If you think you meet more than 50% of our requirements but fewer than 100% of them, please apply. We’re imperfect communicators, so think of our job postings as the starting point for discussion rather than proof that you shouldn’t apply.</p><p><a href="https://apply.workable.com/convertkit/j/189B4A4E1C/apply/" rel="nofollow noreferrer noopener" class="external">Apply for this job</a></p>
                 </details>
                 </td>
             </tr>,<tr>
@@ -520,6 +576,85 @@
 <p><strong>Compensation</strong></p>
 <p>The expected compensation range for this role is $65,000 - $80,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process). <br><br>We are happy to pay in any mix of fiat/crypto.&nbsp;</p>
 <p>&nbsp;</p>
+
+    
+
+    
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
+                    <h3>Software Engineer (Typescript)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=5041268&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <h4>JS-Waku:</h4>
+<p>We are building Waku as a public good infrastructure. Waku is the messaging layer of Web3. It is a decentralized, censorship-resistant, privacy-preserving communication network that enables anyone to send and receive messages without worrying about surveillance or deplatforming. We are developing 3 open source implementations of Waku: nwaku, go-waku and js-waku. JS-Waku is the TypeScript implementation used in browser and web environments.</p>
+<p>Our main repo is https://github.com/waku-org/js-waku</p>
+<p>We are enabling Ethereum builders to create new projects with a fully decentralized architecture, think dApp to Wallet notifications, NFT marketplaces, censorship-resistant chat, layer-2 and more.</p>
+<p>We are looking for Software Engineers that are passionate about Ethereum, decentralization and developer experience. and who would relish the opportunity to create a first class decentralized machine-to-machine messaging interface and toolkit and bring these new capabilities to Web3 developers!</p>
+<h4>You will:&nbsp;</h4>
+<ul>
+<li>Design, implement and document Waku TypeScript libraries</li>
+<li>Implement new protocols as defined by the Research Team</li>
+<li>Investigate and fix issues in js-waku and upstream libraries such as js-libp2p</li>
+<li>Liaise with the libp2p team to resolve web-only libp2p matters (WebRTC, etc)</li>
+<li>Optimize js-waku and upstream libraries for the browser</li>
+<li>Support dApp developers in using js-waku and Waku TypeScript libraries</li>
+</ul>
+<h4>Ideally, you:&nbsp;</h4>
+<ul>
+<li>Have experience building applications with complex logic, cutting edge technology or applied research</li>
+<li>Are already familiar with the Ethereum community</li>
+<li>Have the ability to learn new concepts and technologies quickly, you are a polyglot</li>
+<li>Have passion for blockchain and decentralized technologies and understand how they work</li>
+<li>Have good communication skills (written and conversational)</li>
+<li>Have a strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></li>
+</ul>
+<h4>Bonus points if you have experience:</h4>
+<ul>
+<li>In Web development (TypeScript, JavaScript, etc)</li>
+<li>With js-libp2p or other libp2p implementations</li>
+<li>With transport layer: websocket, WebRTC, WebTransport</li>
+<li>In Web3 or blockchain development</li>
+<li>Working for an open source organization</li>
+<li>Working remotely</li>
+</ul>
+<p>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</p>
+<h4>Compensation:</h4>
+<p>We are happy to pay in either 100% fiat or any mix of fiat and/or crypto.&nbsp;</p>
+<p><strong>Hiring process:</strong></p>
+<ol>
+<li>Introductory call with member of the Talent team</li>
+<li>Culture and Pair programming session with js-waku Developer</li>
+<li>Technical &amp; Culture Interview with Waku Lead</li>
+<li>Final interview with Logos Lead&nbsp;</li>
+</ol>
 
     
 
