@@ -1,5 +1,77 @@
 <div align="center"><h2>SITE RELIABILITY ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0093/3276/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Wikimedia Foundation</h5>
+                    <h3> Senior Site Reliability Engineer (Database)</h3>
+                </td>
+                <td width="300">
+                    <code>DevOps and Sysadmin</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/wikimedia-foundation-senior-site-reliability-engineer-database" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0093/3276/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> San Francisco 
+    <br /><strong>URL:</strong> <a href="https://wikimediafoundation.org">https://wikimediafoundation.org</a>
+</p>
+
+<div>
+<strong><br>Summary<br></strong><br>
+</div><div>The Wikimedia Foundation is seeking a Senior Site Reliability Engineer (Databases). Our objective is to make the sum of all human knowledge available to everyone, and we persist most of this knowledge in MariaDB. Our project sites are some of the most highly trafficked on the internet, with more page views per engineer than any other site.</div><div>
+<br>As a Senior Site Reliability Engineer for databases at the Wikimedia Foundation, you will be part of a small, focused team of skilled and experienced engineers. In this role, you will be responsible for ensuring the health of our database systems - including their availability and performance. Your responsibilities will include troubleshooting issues, planning for disaster recovery, and enhancing and maintaining backups. You do not have to be a database expert but must be willing to be trained to be one.</div><div>
+<br>The work we do is crucial and is used by hundreds of millions of people. This is a unique opportunity to have a huge impact.</div><div><strong><br>Responsibilities</strong></div><ul>
+<li>Implementation, maintenance and troubleshooting of relational database systems in production and staging environments</li>
+<li>Database performance tuning, high availability, replication, backups, and general optimization</li>
+<li>Supporting the development and deployment of new services and systems</li>
+<li>Handling configuration management, (Debian) package maintenance, patching and building, working with upstream on bug identification and resolution</li>
+<li>Improving observability (alerting, metrics, monitoring) of database infrastructure</li>
+<li>Multi-datacenter design, capacity and infrastructure planning</li>
+<li>Taking part in incident response, diagnosis and follow-up on system outages or alerts across Wikimedia’s production infrastructure and participating in an on call rotation</li>
+<li>Sharing our<a href="https://wikimediafoundation.org/wiki/Values"> values</a> and work in accordance with them</li>
+</ul><div><strong>Qualifications</strong></div><ul>
+<li>5+ years experience in an DBA/SRE/Operations/DevOps role as part of a team</li>
+<li>Experience with Open Source configuration management and orchestration tools (Puppet, Ansible, Chef, SaltStack, etc.), as well as modern observability infrastructure (Prometheus, Grafana, Graphite, Logstash/Kibana, Icinga/Nagios, etc.)</li>
+<li>Advanced knowledge of Linux and IO/data storage concepts, internals and troubleshooting</li>
+<li>Experience with managing remotely both bare-metal servers and virtualized environments</li>
+<li>Proficient at automation/programming/scripting skills</li>
+<li>Experience with high traffic and highly available website architectures and operations</li>
+<li>Strong English language skills</li>
+<li>Ability to work independently in a fast paced environment, as an effective part of a globally distributed team, including ticket tracking systems and asynchronous communication tools</li>
+<li>B.S. or M.S. in Computer Science or equivalent work experience</li>
+</ul><div><strong>Optional qualifications</strong></div><ul>
+<li>Advanced level of experience with MariaDB or MySQL database administration and replication topologies at scale</li>
+<li>Proficiency in SQL</li>
+<li>Solid knowledge of relational database concepts and working experience with storage systems and architecturesExperience with LAMP stack technologies (PHP/HHVM, memcached/Redis) - MediaWiki experience is a definite plus</li>
+<li>Experience with advanced distributed storage and database systems (Swift, Ceph, Cassandra, etc.) or graph databases (Titan, Blazegraph, etc.) is a big plus</li>
+<li>Experience in architecture, design, and implementation of persistent data storage &amp; query infrastructure</li>
+<li>Strong track record of open source contributions is a major plus</li>
+</ul><div><strong>About the Wikimedia Foundation</strong></div><div>
+<br>The Wikimedia Foundation is the nonprofit organization that operates Wikipedia and the other Wikimedia free knowledge projects. Our vision is a world in which every single human can freely share in the sum of all knowledge. We believe that everyone has the potential to contribute something to our shared knowledge, and that everyone should be able to access that knowledge freely. We host Wikipedia and the Wikimedia projects, build software experiences for reading, contributing, and sharing Wikimedia content, support the volunteer communities and partners who make Wikimedia possible, and advocate for policies that enable Wikimedia and free knowledge to thrive. <br><br>
+</div><div>The Wikimedia Foundation is a charitable, not-for-profit organization that relies on donations. We receive donations from millions of individuals around the world, with an average donation of about $15. We also receive donations through institutional grants and gifts. The Wikimedia Foundation is a United States 501(c)(3) tax-exempt organization with offices in San Francisco, California, USA.</div><div>
+<strong><em><br>As an equal opportunity employer, the Wikimedia Foundation values having a diverse workforce and continuously strives to maintain an inclusive and equitable workplace. We encourage people with a diverse range of backgrounds to apply. We do not discriminate against any person based upon their race, traits historically associated with race, religion, color, national origin, sex, pregnancy or related medical conditions, parental status, sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, or any other legally protected characteristics.<br></em></strong><br>
+</div><div>The Wikimedia Foundation is a remote-first organization with staff members including contractors based in more than 50 countries. Salaries at the Wikimedia Foundation are set in a way that is competitive, equitable, and consistent with our values and culture. The anticipated annual pay range of this position for applicants based within the United States is US$ 101,161 to US$ 157,200  with multiple individualized factors, including cost of living in the location, being the determinants of the offered pay. For applicants located outside of the US, the pay range will be adjusted to the country of hire. We neither ask for nor take into consideration the salary history of applicants. The compensation for a successful applicant will be based on their skills, experience and location.</div><div>
+<br>All applicants can reach out to their recruiter to understand more about the specific pay range for their location during the interview process.<br><br>
+</div><div>
+<strong><em>If you are a qualified applicant requiring assistance or an accommodation to complete any step of the application process due to a disability, you may contact us at recruiting@wikimedia.org or (415) 839-6885.<br></em></strong><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/wikimedia-foundation-senior-site-reliability-engineer-database">https://weworkremotely.com/remote-jobs/wikimedia-foundation-senior-site-reliability-engineer-database</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1387074696831672327/C7WTpiAb_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
