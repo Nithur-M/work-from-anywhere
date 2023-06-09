@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/vicoland-talented-backend-developer-m-f-d" align="right" target="_blank">Apply</a>
@@ -79,7 +79,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/onthegosystems-junior-developer-with-a-passion-for-technical-documentation" align="right" target="_blank">Apply</a>
@@ -128,7 +128,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/public-knowledge-project-systems-developer" align="right" target="_blank">Apply</a>
@@ -197,7 +197,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/yoko-co-full-stack-web-developer-wordpress-more" align="right" target="_blank">Apply</a>
@@ -257,7 +257,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>66 days ago</text>
+                <text>67 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -340,7 +340,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>98 days ago</text>
+                <text>99 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -412,165 +412,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0067/1147/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>OperateBeyond</h5>
-                    <h3> PHP Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>604 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0067/1147/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Michigan
-    <br /><strong>URL:</strong> <a href="http://operatebeyond.com/">http://operatebeyond.com/</a>
-</p>
-
-<div><br></div><div>OperateBeyond is a fast growing technology company building web and mobile applications. We specialize in delivering top-notch user experiences paired with solid technology in non-auto vehicle software industry. Our successes come from our teamwork and mutual respect for each other’s talents and unique perspectives.<br><br>
-</div><div>
-<br>So when we say we are looking for a PHP Developer we do want want you to be an awesome back-end developer who’s dabbled with many different projects. We are looking for someone who can hold their own when when it comes to system integrations, databases, and even be interested in understanding more about user experience to help us shape amazing products.<br><br>
-</div><div>
-<strong><br>What you might do on any given day:<br></strong><br>
-</div><ul>
-<li>Work with a variety of technologies and platforms such as PHP, ZF2, ZF1, Laravel, ElasticSearch, MySQL, Vue.js, jQuery and many more technologies we may introduce<br><br>
-</li>
-<li>Collaborate with product managers and technical leads<br><br>
-</li>
-<li>Develop comprehensive use cases and test conditions<br><br>
-</li>
-<li>Take part in analysis efforts, identification, and recommendation of solutions, integration points and related implementation architecture for business usage improvements, scalability and performance.<br><br>
-</li>
-<li>Provide guidance in the form of code review, solution design, and recommended training and development plans.<br><br>
-</li>
-<li>Write unit tests, specs, integration tests, UI tests, and acceptance tests.<br><br>
-</li>
-<li>Advocate for new or improved development practices that increase craftsmanship, availability, resilience, and scalability of our solutions<br><br>
-</li>
-</ul><div>
-<strong><br>We think you’ll enjoy working with our team if you:<br></strong><br>
-</div><ul>
-<li>Bring a passion to stay on top of tech trends, experiment with and learn new technologies, participate in technology communities.<br><br>
-</li>
-<li>Can be flexible, agile, dependable, and responsive even when there are a lot of moving parts and prefer that over following rigid processes and guidelines.<br><br>
-</li>
-<li>Believe that good application development includes good testing, good documentation, and good collaboration.<br><br>
-</li>
-<li>Have great communication and reasoning skills, including the ability to make a strong case for technology choices while understanding other viewpoints and the need to find the best possible solution for everyone.<br><br>
-</li>
-<li>Have a positive yet practical attitude; You are willing to take on any task that might help take one of our products, or our company, a little further.<br><br>
-</li>
-</ul><div><br></div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer">https://weworkremotely.com/remote-jobs/operatebeyond-php-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1701863/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Jitera</h5>
-                    <h3>Senior Full-stack Developer (Reactjs, Nodejs)</h3>
-                </td>
-                <td width="300">
-                    <code>AWS,backend,developer,docker</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-reactjs-nodejs-1701863" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Job Overview - visit website <a class="external" href="https://jitera.app/" rel="nofollow">https://jitera.app/</a></strong></p>
-<p><strong>Jitera</strong> - an automation product (No-Code, Low-Code, and code generator), is seeking a Senior Full-stack Developer with experience in Reactjs and Nodejs for a remote position. As a member of the Jitera team, you will be contributing to Building The Next Era of Software Development. At Jitera, we understand the difficulties and challenges that come with software development. Our goal is to find a better way to develop software and create more value for everybody. If you are excited about creating innovative software and eager to join a team focused on driving change in the professional remote team from all over the world., we encourage you to apply.</p>
-<p><strong>Why Candidate should apply for this position?</strong></p>
-<ul style="">
-<li style="">We are a startup developing technically challenging automation software. Talented engineers who are passionate to work on challenging issues are on our team.</li>
-<li style="">You can work from everywhere, and anywhere. We’re a remote and flextime team. (Permanent WFH)</li>
-</ul>
-<ul style="">
-<li style="">Can have the option to work part-time during the probation as a second job if you recently have a full-time job</li>
-</ul>
-<p><strong>Duties and Responsibilities</strong></p>
-<ul style="">
-<li style="">Design, implement, test and release high-quality software.</li>
-<li style="">Work with other engineers, designers, and product owners to implement various features while considering maintainability, security, and performance.</li>
-<li style="">Represent the engineering team in meetings, contributing to ideas relevant to the product roadmap with a strong understanding of future customers and their desires.</li>
-<li style="">Monitor and bug fix to ensure that customers can use the application expectedly.</li>
-<li style="">Create technical documentation and communicate clearly across the product team.</li>
-<li style="">Support team members to review, feedback, and onboard.</li>
-</ul>
-<p><strong>Requirements</strong></p>
-<ul style="">
-<li style="">More than 5 years of experience in software development</li>
-<li style="">More than 3 years of experience in both Node/React and TypeScript (either FE or BE heavy - at least you have experience with both of them)</li>
-<li style="">Good understanding of fundamental design patterns in software design.</li>
-<li style="">Demonstrating a strong ability to work independently is a key strength.</li>
-<li style="">Confidently communicate and take initiative to collaborate effectively within a remote team.</li>
-<li style="">Ability to prepare a remote work environment where you can focus on your work with a stable network place.</li>
-<li style="">Business-level English skills (speaking/listening/ writing/ reading)</li>
-</ul>
-<p> </p>
-<p><strong>Desirable Experiences</strong></p>
-<ul style="">
-<li style="">Experience in mobile application development with React Native</li>
-<li style="">Experience with GraphQL and Apollo Client</li>
-<li style="">Experience in server-side development, especially with Ruby on Rails</li>
-<li style="">Experience to develop applications with NoCode services.</li>
-</ul>
-<p><strong>Tech Stack </strong></p>
-<p><em>(we don't expect you to have all of these skills, but we'd love to give you the environment to develop them while working at Jitera)</em></p>
-<ul style="">
-<li style="">Frontend: TypeScript, React, React Native, Styled Components, Apollo Client</li>
-<li style="">Backend: Node.js, GraphQL, PHP lavarel, Ruby on Rails.</li>
-<li style="">Database: MySQL, MongoDB, Redis</li>
-<li style="">Infrastructure: AWS, GCP, Docker, Terraform, HashiCorp Vault</li>
-<li style="">CI/CD: GitHub Actions, AWS CodePipeline</li>
-<li style="">Project management: Github, Jira</li>
-<li style="">Documentation: Notion, Google Workspace, Miro</li>
-<li style="">Communication: Slack, Gather, DailyBot</li>
-</ul>
-<p><strong>Selection Process</strong></p>
-<ol style="">
-<li style="">Culture interview (~20 min)</li>
-<li style="">Take-home assignment (homework without any deadline)</li>
-<li style="">Technical interview (~40 mins)</li>
-<li style="">Final interview with COO (30mins)</li>
-<li style="">Probation (4 weeks) <a class="external" href="https://docsend.com/view/3u4vd82g2k797ak9" rel="nofollow" target="_blank">(you can also work part-time during only this probationary period)</a></li>
-</ol>
-<p><strong>Benefits</strong></p>
-<ul style="">
-<li style="">Premium insurance, private health insurance (900 USD)</li>
-<li style="">MacBook M2 Pro provided and additional devices to support your work</li>
-<li style="">22 annual leaves, paid time off (plus a week for parental leaves)</li>
-<li style="">Adding Tax payment (maximum 10% of salary from Employer)</li>
-<li style="">ESOP program</li>
-<li style="">Special events, occasions celebrations, and gifts as cash</li>
-<li style="">Co-working space Support</li>
-<li style="">Sponsorship for classes/ professional courses according to your demand.</li>
-</ul>
-<img src="https://remotive.com/job/track/1701863/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1383531/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -581,7 +422,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -658,7 +499,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -795,7 +636,7 @@
                     <code>azure,cloud,developer,django</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -860,7 +701,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -937,7 +778,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1081,7 +922,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -1150,7 +991,7 @@
                     <code>CSS,developer,excel,git</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
