@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/vicoland-talented-backend-developer-m-f-d" align="right" target="_blank">Apply</a>
@@ -69,124 +69,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/2990/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>OnTheGoSystems</h5>
-                    <h3> Junior Developer with a Passion for Technical Documentation</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/onthegosystems-junior-developer-with-a-passion-for-technical-documentation" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/2990/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> 100% remote
-    <br /><strong>URL:</strong> <a href="https://onthegosystems.com">https://onthegosystems.com</a>
-</p>
-
-<div>Looking to join a team of experienced developers, work on an exciting project, and grow your skills? <br><br>
-</div><div>
-<a href="https://onthegosystems.com">OnTheGoSystems</a> is searching for a junior developer who will be a jack of all trades.  Join us in building our <a href="https://ptc.wpml.org/">Private Translation Cloud</a> (PTC), a new tool for developers. We are seeking a talented, passionate, and dedicated individual to join our team and contribute to software development, architecture, and technical documentation.</div><h1><strong>Role and Responsibilities</strong></h1><div>As a junior developer at OnTheGoSystems, you will have the opportunity to work on various aspects of our project. Roughly 50% of your time will be dedicated to writing technical documentation, ensuring that our product is well-documented and easily understandable for users and developers alike. The remaining 50% will involve hands-on work on the front-end and back-end of the product, contributing to its development and architecture.</div><h1><strong>Our Tech Stack</strong></h1><div>Our backend runs mostly on <strong>Ruby on Rails</strong>. For the front-end, we typically use <strong>React</strong>. For internal tools we use <strong>Python</strong>. And we encourage our developers to introduce the languages and tools that are best for each project we work on.</div><div><br></div><h1><strong>Work Hours</strong></h1><div>Our development team gets together in the European morning (9AM Central European Time) and collaborates during the day. We work Mondays to Fridays.<br><br>
-</div><h1><strong>Requirements</strong></h1><ul>
-<li>Proficiency in Ruby/Rails, React, or Python, or a strong willingness to learn these languages and frameworks.</li>
-<li>Experience in writing automated tests; we prioritize thorough test coverage before merging any code changes.</li>
-<li>Excellent English communication skills, both written and spoken.</li>
-</ul><div>Previous professional experience is not a strict requirement; however, we value seeing your past projects or impressive personal/academic development initiatives.<br><br>
-</div><div>At OnTheGoSystems, we prioritize efficiency and encourage the use of AI tools to expedite writing and coding tasks. Our lean team utilizes these technologies to accomplish a remarkable amount of work. <br><br>
-</div><div><strong>If you are driven, adaptable, and eager to contribute to an innovative project while honing your skills, this role is designed for you.</strong></div><h1><strong>What we Offer</strong></h1><ul>
-<li>100% remote position</li>
-<li>Full-time position with paid public holidays, vacation, and sick leave</li>
-<li>Being part of a team of highly talented and self-driven individuals</li>
-<li>Ample opportunities to progress and advance</li>
-<li>Collaboration with team members from all around the world, with different cultures and languages.</li>
-</ul><div>Join our team and embark on an exciting journey where you can make a difference while working alongside seasoned professionals. </div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/onthegosystems-junior-developer-with-a-passion-for-technical-documentation">https://weworkremotely.com/remote-jobs/onthegosystems-junior-developer-with-a-passion-for-technical-documentation</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/8356/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Public Knowledge Project</h5>
-                    <h3> Systems Developer</h3>
-                </td>
-                <td width="300">
-                    <code>DevOps and Sysadmin</code>
-                </td>
-                <td width="200">
-                <text>9 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/public-knowledge-project-systems-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0086/8356/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Public Knowledge Project, VPRI, SFU
-    <br /><strong>URL:</strong> <a href="https://pkp.sfu.ca/">https://pkp.sfu.ca/</a>
-</p>
-
-<div>The Public Knowledge Project (PKP) at Simon Fraser University is seeking a remote, full-time Systems Developer. As a Systems team member, you will have the opportunity to contribute to strategic software projects, provide technical expertise and operational support to PKP's hosting services, and work with clients to help them realize their publishing visions. You will be responsible for developing secure, user-friendly, and cross-platform software solutions using PHP, MySQL, and JavaScript. As part of a small international group, you will have the opportunity to work on multiple open source projects and contribute feature enhancements, bug fixes, and plugins that will be distributed to a diverse global user community.<br><br>
-</div><div>
-<br>In this role, you will be able to work anywhere in the world during the hours that work best for you (apart from regularly scheduled team meetings). PKP aims to build a diverse, inclusive team that reflects our global community of users and welcomes applications from marginalized communities and those beyond our institutional home in Canada and North America. You will have opportunities to travel, participate in conferences and workshops, and interact with a growing international community of users in the academic, software development, and publishing worlds. This is a fixed-term contract with a probationary period and good potential for continuing work. Salary is negotiable based on qualifications and experience.<br><br>
-</div><div>
-<br>Required qualifications:<br><br>
-</div><ul>
-<li>Experience with PHP and JavaScript</li>
-<li>Experience with MySQL</li>
-<li>Experience with git<br><br>
-</li>
-</ul><div>
-<br>Additional consideration will be given to candidates for:<br><br>
-</div><ul>
-<li>Experience with modern PHP frameworks such as Laravel or Symfony.</li>
-<li>Experience with modern JavaScript frameworks such as Vue or React.</li>
-<li>Experience with Linux, Nginx, Apache, and Docker.</li>
-<li>Experience with GitHub or GitLab.</li>
-<li>Experience with task automation through scripting. </li>
-<li>Experience with PKP software or a large, open source project.</li>
-<li>Enthusiasm for “open”, including open access, standards, and data.</li>
-<li>Experience with remote work in a small, distributed team.</li>
-<li>Excellent problem-solving, time management, and organizational skills.</li>
-<li>Excellent communication, interpersonal, and teamwork skills.<br><br>
-</li>
-</ul><div>
-<br>Interested applicants should provide the following:<br><br>
-</div><ul>
-<li>cover letter</li>
-<li>resume with two references</li>
-<li>code samples via links to public code repositories<br><br>
-</li>
-</ul><div>
-<br>Please send the above as a PDF attachment to Michael Felczak, Head of Systems, via <a href="mailto:pkpjobs@sfu.ca">pkpjobs@sfu.ca</a> with the subject “Systems Developer Position”.<br><br>
-</div><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/public-knowledge-project-systems-developer">https://weworkremotely.com/remote-jobs/public-knowledge-project-systems-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/9650/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -197,7 +79,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/yoko-co-full-stack-web-developer-wordpress-more" align="right" target="_blank">Apply</a>
@@ -257,7 +139,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>67 days ago</text>
+                <text>69 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -330,88 +212,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior Ruby on Rails Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>99 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div><strong>The Role:</strong></div><div>
-<br>We are searching for a Senior Ruby on Rails Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
-<br><br>
-</div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
-<li>You have +3 years of experience with Ruby on Rails;</li>
-<li>You have experience working with the libraries like Resque and RSpec;</li>
-<li>You are able to write clean Ruby code;</li>
-<li>You have proficiency with code versioning tools including Git, Github, SVN, and Mercurial;</li>
-<li>You got experience with Angular or ReactJS;</li>
-<li>You are familiar with MVC, Mocking, RESTful, and ORM;</li>
-<li>You have a good understanding of front-end technologies including HTML5, JavaScript, and CSS3;</li>
-<li>You possess knowledge of server-side templating languages including Slim and Liquid;</li>
-<li>You got familiar with testing tools.</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>Nice-to-have:</strong> <br><br>
-</div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Knowledge of TypeScript.</li>
-</ul><div><br></div><div>
-<strong>Responsibilities:<br></strong><br>
-</div><ul>
-<li>Designing and developing new web applications;</li>
-<li>Maintaining and troubleshooting existing web applications;</li>
-<li>Writing and maintaining reliable Ruby code;</li>
-<li>Integrating data storage solutions;</li>
-<li>Creating back-end components;</li>
-<li>Identifying and fixing bottlenecks and bugs;</li>
-<li>Integrating user-facing elements designed by the front-end team;</li>
-<li>Connecting applications with additional web servers;</li>
-<li>Maintaining the APIs.</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
-<br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of the Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1383531/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -422,7 +222,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -499,7 +299,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -636,7 +436,7 @@
                     <code>azure,cloud,developer,django</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -701,7 +501,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -778,7 +578,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -922,7 +722,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -991,7 +791,7 @@
                     <code>CSS,developer,excel,git</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
