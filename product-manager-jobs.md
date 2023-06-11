@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ueni-saas-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -70,7 +70,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clubrare-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -127,7 +127,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>576 days ago</text>
+                <text>578 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
