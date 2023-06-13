@@ -1,69 +1,119 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/1275/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Vicoland</h5>
-                    <h3> Talented Backend Developer (m/f/d)</h3>
+                    <h5>CobbleWeb</h5>
+                    <h3> Senior Full-stack PHP Developer</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/vicoland-talented-backend-developer-m-f-d" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/cobbleweb-senior-full-stack-php-developer-3" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
+                <img src="https://we-work-remotely.imgix.net/logos/0084/1275/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Germany Frankfurt
+  <strong>Headquarters:</strong> London
+    <br /><strong>URL:</strong> <a href="https://www.cobbleweb.co.uk">https://www.cobbleweb.co.uk</a>
 </p>
 
-<p>At Vicoland, we transform the two-trillion professional services market. We do so by giving the gig economy a new dimension: Virtual Companies, in short: “Vicos”. The Vicos allow freelancers to team up and act as if they were a real company, competing successfully for interesting, large projects. Our digital platform provides legal, organizational, and transactional tech which enables collaboration of Vicos and clients throughout projects. Vicoland has started operations with Fortune 500 companies (e.g. Netflix, WPP, BD) and smaller clients. Our technology is appraised by partners and research (e.g.: SAP, Forrester, Kelly).</p>
-<p>To further develop our platform and accelerate growth we are looking for an outstanding developer. Someone who is 10x not only for him- or herself but who propels a whole team. Someone with a track-record of making a notable difference in developing outstanding software at high productivity. Someone who can quickly assess a problem and choose the best route to solve it fast and efficiently. Someone who has been staying abreast of innovation, most recently of AI tools. If that’s you, this is your opportunity.</p>
-<h2>Tasks</h2>
-<ul>
-<li>Design software solutions for complex user stories to enable solid, versatile architecture and efficient coding.</li>
-<li>Interact with product managers and UX designers end-to-end to create the best possible solutions from a user and tech perspective.</li>
-<li>Design, develop, maintain, and test high-performance, scalable, testable and secure code for complex, well-documented web applications.</li>
-<li>Use PHP in backend and, if you are fullstack, Angular for frontend.</li>
-<li>Participate in code reviews to ensure that code is of high quality. Troubleshoot and debug issues as they arise. </li>
-<li>Explore and evangelize AI usage, in general, to expedite the coding process and improve the product.e application.</li>
-<li>Utilize GitHub Copilot extensively to improve the speed and accuracy of coding.</li>
-<li>Explore and evangelize AI usage, in general, to expedite the coding process and improve the product. the coding process and improve the product.</li>
-<li>Stay up to date with emerging trends and technologies in PHP (and Angular) development.</li>
+<div><strong>What are we looking for?</strong></div><div>We are looking for solution-focused individuals with a can-do attitude. Your commitment to continuous learning means you are tech agnostic – always looking for the best way to execute a project or task. You share our philosophy of purpose-driven development that ensures the best possible outcomes for our clients. Like us, you believe in a strong work ethic and take pride in the quality of your code. You see the big picture and strive for the sense of accomplishment that comes from successfully executing a new project, such as an online marketplace that is perfectly geared for growth. Last but not least, you enjoy collaborating with a team of equally motivated developers and digital strategists.</div><div><br></div><div><strong>Job requirements</strong></div><ul>
+<li>Expert with Symfony framework (3+years experience)</li>
+<li>Expert PHP5, PHP7 (5+years experience)</li>
+<li>Strong Experience developing within ReactJS (2+years experience)</li>
+<li>Expert MySQL / Doctrine 2 (3+years experience)</li>
+<li>Experience Developing Frontend with Bootstrap/Material (1+years experience).</li>
+<li>Very strong Object Oriented Programming skills</li>
+<li>Experience with REST APIs</li>
+<li>Use of Docker in local and production environments</li>
+<li>Adoption of Agile methodologies</li>
+<li>Experience with techniques such as TDD, continuous integration and continuous delivery</li>
+<li>Experience with test automation using Behat, Jenkins, Selenium or other testing frameworks would be advantageous</li>
+<li>RabbitMQ, Redis, AWS or Elastisearch is a plus</li>
+<li>Be willing to help your teammates, share your knowledge with them, and learn from them.</li>
+<li>Be open to receiving feedback.</li>
+<li>Be conscientious and have a good work ethic.</li>
 </ul>
-<h2>Requirements</h2>
-<ul>
-<li>Strong problem-solving skills and the ability to troubleshoot and debug complex issues.</li>
-<li>Passion for creating elegant, efficient, and maintainable architecture and code.</li>
-<li>Excellent communication and collaboration skills.</li>
-<li>Successful experience in PHP development with a deep understanding of object-oriented programming principles.</li>
-<li>Strong know-how with PHP frameworks such as Laravel and Symfony.</li>
-<li>Proficiency in using GitHub Copilot to expedite the coding process.</li>
-<li>Expertise with relational databases such as MySQL or PostgreSQL.</li>
-<li>Knowledge of version control systems such as Git.</li>
-</ul>
-<h2>Benefits</h2>
-<ul>
-<li>Become a tech development rockstar in a company with a transformative mission and large-scale potential.</li>
-<li>Join a forward-thinking product development teamof 30 with talented developers, embracing innovation.</li>
-<li>Collaborate with product managers and designers who are passionate about creating outstanding user experiences.</li>
-<li>Enjoy a flexible work schedule that allows you to balance work and personal life, working from one of our offices in Germany or Spain or from anywhere else.</li>
-<li>Get access to learning and development opportunities to improve or acquire skills and advance your career.</li>
-<li>Work in a dynamic, diverse (19 nations) and fast-paced environment where you can make a meaningful impact on the product and the company.</li>
-<li>Benefit from a competitive salary and a share in the company.</li>
-</ul>
-<p>We believe in learning. If you think you qualify based on the above, but lack some of the hard skills, still apply. Hard skills are easy to learn if you have the right mindset.</p>
 
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/cobbleweb-senior-full-stack-php-developer-3">https://weworkremotely.com/remote-jobs/cobbleweb-senior-full-stack-php-developer-3</a></p>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/vicoland-talented-backend-developer-m-f-d">https://weworkremotely.com/remote-jobs/vicoland-talented-backend-developer-m-f-d</a></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/8356/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Public Knowledge Project</h5>
+                    <h3> Systems Developer</h3>
+                </td>
+                <td width="300">
+                    <code>DevOps and Sysadmin</code>
+                </td>
+                <td width="200">
+                <text>13 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/public-knowledge-project-systems-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0086/8356/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Public Knowledge Project, VPRI, SFU
+    <br /><strong>URL:</strong> <a href="https://pkp.sfu.ca/">https://pkp.sfu.ca/</a>
+</p>
+
+<div>The Public Knowledge Project (PKP) at Simon Fraser University is seeking a remote, full-time Systems Developer. As a Systems team member, you will have the opportunity to contribute to strategic software projects, provide technical expertise and operational support to PKP's hosting services, and work with clients to help them realize their publishing visions. You will be responsible for developing secure, user-friendly, and cross-platform software solutions using PHP, MySQL, and JavaScript. As part of a small international group, you will have the opportunity to work on multiple open source projects and contribute feature enhancements, bug fixes, and plugins that will be distributed to a diverse global user community.<br><br>
+</div><div>
+<br>In this role, you will be able to work anywhere in the world during the hours that work best for you (apart from regularly scheduled team meetings). PKP aims to build a diverse, inclusive team that reflects our global community of users and welcomes applications from marginalized communities and those beyond our institutional home in Canada and North America. You will have opportunities to travel, participate in conferences and workshops, and interact with a growing international community of users in the academic, software development, and publishing worlds. This is a fixed-term contract with a probationary period and good potential for continuing work. Salary is negotiable based on qualifications and experience.<br><br>
+</div><div>
+<br>Required qualifications:<br><br>
+</div><ul>
+<li>Experience with PHP and JavaScript</li>
+<li>Experience with MySQL</li>
+<li>Experience with git<br><br>
+</li>
+</ul><div>
+<br>Additional consideration will be given to candidates for:<br><br>
+</div><ul>
+<li>Experience with modern PHP frameworks such as Laravel or Symfony.</li>
+<li>Experience with modern JavaScript frameworks such as Vue or React.</li>
+<li>Experience with Linux, Nginx, Apache, and Docker.</li>
+<li>Experience with GitHub or GitLab.</li>
+<li>Experience with task automation through scripting. </li>
+<li>Experience with PKP software or a large, open source project.</li>
+<li>Enthusiasm for “open”, including open access, standards, and data.</li>
+<li>Experience with remote work in a small, distributed team.</li>
+<li>Excellent problem-solving, time management, and organizational skills.</li>
+<li>Excellent communication, interpersonal, and teamwork skills.<br><br>
+</li>
+</ul><div>
+<br>Interested applicants should provide the following:<br><br>
+</div><ul>
+<li>cover letter</li>
+<li>resume with two references</li>
+<li>code samples via links to public code repositories<br><br>
+</li>
+</ul><div>
+<br>Please send the above as a PDF attachment to Michael Felczak, Head of Systems, via <a href="mailto:pkpjobs@sfu.ca">pkpjobs@sfu.ca</a> with the subject “Systems Developer Position”.<br><br>
+</div><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/public-knowledge-project-systems-developer">https://weworkremotely.com/remote-jobs/public-knowledge-project-systems-developer</a></p>
 
                 </details>
                 </td>
@@ -79,7 +129,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/yoko-co-full-stack-web-developer-wordpress-more" align="right" target="_blank">Apply</a>
@@ -139,7 +189,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>69 days ago</text>
+                <text>71 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -212,6 +262,81 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1680495/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Coalition Technologies </h5>
+                    <h3>Front End Developer</h3>
+                </td>
+                <td width="300">
+                    <code>CSS,developer,excel,git</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="h3">WHY YOU SHOULD APPLY:</div>
+<p> </p>
+<p>Coalition Technologies is devoted to delivering clients the highest quality work while providing our team a fun, thriving, and innovative environment. Along with the opportunity for tremendous career growth and rapid advancement, CT offers:</p>
+<ul style="">
+<li style="">The most competitive profit-sharing bonus plan in the industry, paying up to 50% of company profits to full-time employees each month!</li>
+<li style="">A highly competitive Paid Time Off plan, promoting quality work-life balance.</li>
+<li style="">Subsidized gym memberships to help team members feel their best.</li>
+<li style="">Medical, dental, vision, and life insurance packages for all US-based team members.</li>
+<li style="">International Health Insurance Reimbursement Program for all international team members, a benefit unique to Coalition.</li>
+<li style="">Device upgrade and learning reimbursement programs.</li>
+<li style="">Motivating career development plans with clearly defined goals and rewards.</li>
+<li style="">Additional job-specific incentives and bonuses.</li>
+</ul>
+<p>Plus, 100% of our team works remotely with the support of time tracking software. Our company culture specializes in supporting remote team members, and we’ve been doing so for more than a decade. CT welcomes your application, wherever in the world it's coming from!</p>
+<div class="h3"> </div>
+<div class="h3">YOU SHOULD HAVE:</div>
+<p> </p>
+<ul style="">
+<li style="">An expertise in HTML5, CSS3 and jQuery</li>
+<li style="">A thorough understanding of cross-browser compatibility issues</li>
+<li style="">Experience with media queries</li>
+<li style="">A knowledge of CSS platforms such as Twitter’s Bootstrap</li>
+<li style="">An ability to multi-task on multiple projects and tasks at the same time</li>
+<li style="">Great attention to detail and be highly organized</li>
+<li style="">A positive and upbeat attitude with the ability to learn quickly</li>
+<li style="">Proficiency in PHP/MYSQL and AJAX (preferred)</li>
+<li style="">Experience with WordPress, BigCommerce, Magento, and Shopify (preferred)</li>
+<li style="">Excellent written and spoken English</li>
+<li style="">The availability to work 40 hours per week from 9:00 am to 6:00 pm PST</li>
+<li style="">The ability to adapt to a diverse and multicultural environment</li>
+<li style="">Passion to build a startup</li>
+<li style="">Reliable transportation if working in-house</li>
+<li style="">A reliable workstation with a fast computer, microphone and speakers, reliable internet and power if working remotely</li>
+</ul>
+<div class="h3"> </div>
+<div class="h3">YOUR DUTIES AND TASKS:</div>
+<p> </p>
+<ul style="">
+<li style="">Transforming complex layout PSDs into pixel-perfect presentation-layer HTML5/CSS3 templates</li>
+<li style="">Creating responsive website designs</li>
+<li style="">Building websites with WordPress, extending and developing plugins and themes</li>
+<li style="">Working with Photoshop, Illustrator, and Fireworks to create images optimized for the web</li>
+<li style="">Working with version control systems such as GIT / SVN</li>
+<li style="">Working under tight deadlines</li>
+<li style="">Handling multiple projects at the same time</li>
+<li style="">Producing high quality of work with a strong focus on detail</li>
+</ul>
+<div class="h5"> </div>
+<div class="h5">We are looking for talented and diligent candidates who excel in our skills tests, and will consider these candidates even if past experience or educational background criteria aren't met.</div>
+<p> </p>
+<p>*Starting base pay in the US states of California, New York, Washington and Colorado for this position ranges between $15 - $35 per hour</p>
+<img src="https://remotive.com/job/track/1680495/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1383531/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -222,7 +347,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -299,7 +424,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -436,7 +561,7 @@
                     <code>azure,cloud,developer,django</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -501,7 +626,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -578,7 +703,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -722,7 +847,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -777,81 +902,6 @@
 <p>Save your time: Fast and efficient hiring process to match you with the project of your preference.</p>
 <p>Ownership: Take ownership of your work and enjoy more freedom in your career.</p>
 <img src="https://remotive.com/job/track/1359476/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1680495/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Coalition Technologies </h5>
-                    <h3>Front End Developer</h3>
-                </td>
-                <td width="300">
-                    <code>CSS,developer,excel,git</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="h3">WHY YOU SHOULD APPLY:</div>
-<p> </p>
-<p>Coalition Technologies is devoted to delivering clients the highest quality work while providing our team a fun, thriving, and innovative environment. Along with the opportunity for tremendous career growth and rapid advancement, CT offers:</p>
-<ul style="">
-<li style="">The most competitive profit-sharing bonus plan in the industry, paying up to 50% of company profits to full-time employees each month!</li>
-<li style="">A highly competitive Paid Time Off plan, promoting quality work-life balance.</li>
-<li style="">Subsidized gym memberships to help team members feel their best.</li>
-<li style="">Medical, dental, vision, and life insurance packages for all US-based team members.</li>
-<li style="">International Health Insurance Reimbursement Program for all international team members, a benefit unique to Coalition.</li>
-<li style="">Device upgrade and learning reimbursement programs.</li>
-<li style="">Motivating career development plans with clearly defined goals and rewards.</li>
-<li style="">Additional job-specific incentives and bonuses.</li>
-</ul>
-<p>Plus, 100% of our team works remotely with the support of time tracking software. Our company culture specializes in supporting remote team members, and we’ve been doing so for more than a decade. CT welcomes your application, wherever in the world it's coming from!</p>
-<div class="h3"> </div>
-<div class="h3">YOU SHOULD HAVE:</div>
-<p> </p>
-<ul style="">
-<li style="">An expertise in HTML5, CSS3 and jQuery</li>
-<li style="">A thorough understanding of cross-browser compatibility issues</li>
-<li style="">Experience with media queries</li>
-<li style="">A knowledge of CSS platforms such as Twitter’s Bootstrap</li>
-<li style="">An ability to multi-task on multiple projects and tasks at the same time</li>
-<li style="">Great attention to detail and be highly organized</li>
-<li style="">A positive and upbeat attitude with the ability to learn quickly</li>
-<li style="">Proficiency in PHP/MYSQL and AJAX (preferred)</li>
-<li style="">Experience with WordPress, BigCommerce, Magento, and Shopify (preferred)</li>
-<li style="">Excellent written and spoken English</li>
-<li style="">The availability to work 40 hours per week from 9:00 am to 6:00 pm PST</li>
-<li style="">The ability to adapt to a diverse and multicultural environment</li>
-<li style="">Passion to build a startup</li>
-<li style="">Reliable transportation if working in-house</li>
-<li style="">A reliable workstation with a fast computer, microphone and speakers, reliable internet and power if working remotely</li>
-</ul>
-<div class="h3"> </div>
-<div class="h3">YOUR DUTIES AND TASKS:</div>
-<p> </p>
-<ul style="">
-<li style="">Transforming complex layout PSDs into pixel-perfect presentation-layer HTML5/CSS3 templates</li>
-<li style="">Creating responsive website designs</li>
-<li style="">Building websites with WordPress, extending and developing plugins and themes</li>
-<li style="">Working with Photoshop, Illustrator, and Fireworks to create images optimized for the web</li>
-<li style="">Working with version control systems such as GIT / SVN</li>
-<li style="">Working under tight deadlines</li>
-<li style="">Handling multiple projects at the same time</li>
-<li style="">Producing high quality of work with a strong focus on detail</li>
-</ul>
-<div class="h5"> </div>
-<div class="h5">We are looking for talented and diligent candidates who excel in our skills tests, and will consider these candidates even if past experience or educational background criteria aren't met.</div>
-<p> </p>
-<p>*Starting base pay in the US states of California, New York, Washington and Colorado for this position ranges between $15 - $35 per hour</p>
-<img src="https://remotive.com/job/track/1680495/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
