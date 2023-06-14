@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/cobbleweb-senior-full-stack-php-developer-3" align="right" target="_blank">Apply</a>
@@ -60,7 +60,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/public-knowledge-project-systems-developer" align="right" target="_blank">Apply</a>
@@ -119,66 +119,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/9650/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Yoko Co</h5>
-                    <h3> Full Stack Web Developer - WordPress & More </h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>35 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/yoko-co-full-stack-web-developer-wordpress-more" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0018/9650/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> McLean, VA
-    <br /><strong>URL:</strong> <a href="https://www.yokoco.com/">https://www.yokoco.com/</a>
-</p>
-
-<div>We're looking for a senior developer with a strong sense of teamwork and a desire to make a positive impact on the world. You'll take on a player/coach position, and contribute directly to some great projects while also providing guidance and mentorship to our team. </div><div><br></div><div><strong>Why work at Yoko Co?</strong></div><div><br></div><ul>
-<li>
-<strong>Do good, better:</strong> We exclusively serve clients who make a positive impact on the world. This is your chance to build things that help create a better place for all of us.</li>
-<li>
-<strong>4-day work week and lots of holidays.</strong> Mondays are flex days, meaning you’re free to take them off if you’re caught up on your work. Plus, we’re closed for nearly a full week at Thanksgiving (November), and two weeks at the end of the year, plus a bunch of other days, too. Work-life balance FTW!</li>
-<li>
-<strong>High performance, no jerks.</strong> You'll collaborate with good people who believe in doing great work.</li>
-<li>
-<strong>Best Place to Work (and that’s not just our opinion).</strong> We’ve been named a Best Place to Work by the Inc. 5000 and Washington Business Journal.</li>
-</ul><div><br></div><div>We value team members who are motivated by our mission and driven to make a positive impact. If you have a passion for excellence, a growth mindset, and a commitment to collaboration, we'd love to hear from you.</div><div><br></div><div><strong>In this role, you’ll:</strong></div><div><br></div><ul>
-<li>Work on multiple projects at once, collaborating with other developers, designers, project managers, and strategists on a variety of engagements </li>
-<li>Help expand our codebase, workflows, and tools, while maintaining focus on reliability and scalability</li>
-<li>Participate in code reviews and provide constructive feedback to foster a culture of continuous improvement</li>
-<li>Help shape the future of our team by contributing to strategy and planning</li>
-<li>Work on complex projects involving advanced technologies and integrations, alongside our core offerings (like WordPress)</li>
-</ul><div><br></div><div><strong>To succeed in this position, you’ll need: </strong></div><div><br></div><ul>
-<li>Extensive experience with WordPress development, including custom plugins, functionality, themes, data structures, and integrations</li>
-<li>Strong proficiency in Git, PHP, MySQL, Javascript, HTML, CSS </li>
-<li>Experience working with modern frontend frameworks and libraries like React or VueJS </li>
-<li>Exceptional leadership and communication skills to inspire and mentor team members</li>
-<li>A solution-oriented mentality, and the perspective, context, and awareness to solve complex problems in a sustainable way </li>
-<li>8+ years of experience building cool stuff for the internet, and a commitment to continuous learning (for yourself and others)</li>
-<li>Availability to work at least 5 hours overlap with 9-5pm ET</li>
-<li>A genuine desire to contribute to the growth of our team and the quality of our work</li>
-</ul><div><br></div><div><strong>What you get:</strong></div><div><br></div><div>You’ll get a flexible schedule, unlimited time off, a competitive salary, a profit share bonus (starting in your second year), the ability to work wherever you want, a personal development budget, and all US federal holidays and multiple weeks off at the end of the year to recharge. We’ll also offset your entire carbon footprint. If you’re in the US, we also offer health insurance, disability and life insurance, and 401(k) matching.</div><div><br></div><div><strong>More about us:</strong></div><div><br></div><div>We’re a group of people who are passionate about the work we do, the clients we serve, and improving our craft. We also care about each other — we don’t think of one another as coworkers or employees, but as fellow humans. From developers to designers, project managers to strategists, we bring out the best in each other.</div><div><br></div><div>We’ve been in business for over a decade, our whole team is remote, we’ve been named a Best Place to Work by the Inc. 5000 and the Washington Business Journal. </div><div><br></div><div><strong>To apply:</strong></div><div><br></div><div>If you’re interested, send an email to careers@yokoco.com with the subject line “<strong>Secret Treehouse Club</strong>” — and while you’re at it, we’d love to learn a bit more about you and get a link to your website, your GitHub, and/or some neat stuff you’ve built.  </div><div><br></div><div>We take applicants from all over the world. However, you must be willing to work a schedule that overlaps with normal US business hours. </div><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/yoko-co-full-stack-web-developer-wordpress-more">https://weworkremotely.com/remote-jobs/yoko-co-full-stack-web-developer-wordpress-more</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/3228/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -189,7 +129,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>71 days ago</text>
+                <text>72 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -272,7 +212,7 @@
                     <code>CSS,developer,excel,git</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -347,7 +287,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -424,7 +364,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -561,7 +501,7 @@
                     <code>azure,cloud,developer,django</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -626,7 +566,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -703,7 +643,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -847,7 +787,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
