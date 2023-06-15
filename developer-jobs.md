@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/cobbleweb-senior-full-stack-php-developer-3" align="right" target="_blank">Apply</a>
@@ -60,7 +60,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/public-knowledge-project-systems-developer" align="right" target="_blank">Apply</a>
@@ -129,7 +129,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>72 days ago</text>
+                <text>73 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -202,6 +202,88 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/8032/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Storetasker</h5>
+                    <h3> Senior Shopify Developer (Remote + Flexible)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>870 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0074/8032/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Brooklyn, NY
+    <br /><strong>URL:</strong> <a href="https://resources.storetasker.com/become-an-expert?apply=true&amp;source=weworkremotely_best_2021">https://resources.storetasker.com/become-an-expert?apply=true&amp;source=weworkremotely_best_2021</a>
+</p>
+
+<h1>Shopify developers love to freelance with Storetasker.</h1><ul>
+<li>
+<strong>Endless, quality clients: </strong>from well known DTC brands to top agencies. </li>
+<li>
+<strong>Fully remote, flexible: </strong>work as much or as little as you want, wherever you want. </li>
+<li>
+<strong>A talented and helpful community: </strong>it's freelance (with a team).</li>
+<li>
+<strong>Earn $80-$120 per hour: </strong>pick your clients, and send your own quotes or retainers. <br><br>
+</li>
+</ul><div>We've connected our community of Shopify developers to over 32,000 e-commerce brands. From new brands pre-launch, to some of the most successful Shopify Plus sites, to top creative agencies. Clients include: <a href="https://www.alphaindustries.com/">Alpha Industries</a>, <a href="https://www.bollandbranch.com/">Boll &amp; Branch</a>, <a href="https://getsuperfluid.com">Superfluid</a>, <a href="https://jackhenry.co/">Jack Henry</a>, <a href="http://plenaire.co/">Plenaire</a>, and <a href="https://walkfulton.com/">Fulton</a> among many more. <br><br><strong>Why Storetasker?</strong>
+</div><ul>
+<li>
+<strong>Endless clients &amp; project opportunities:</strong> you’ll see between 5 - 50 new opportunities per day and can pick any lead you want. </li>
+<li>
+<strong>You’ll earn more:</strong> some experts are making $150-200k per year. </li>
+<li>
+<strong>A high quality community:</strong> we carefully select about 5% of those who apply. </li>
+<li>
+<strong>Remote:</strong> work from anywhere, anytime. </li>
+<li>
+<strong>Flexible:</strong> take on as many clients as you want.</li>
+<li>
+<strong>No external ratings:</strong> you’re already a professional. No need to prove it. </li>
+<li>
+<strong>Great Software:</strong> that makes it easy to manage more clients and increase billable hours.</li>
+<li>
+<strong>Support when you need it:</strong> we offer project support 7 days per week. </li>
+<li>
+<strong>Community (not competition):</strong> you pick your clients, projects, and never compete against other Experts in the community. </li>
+</ul><div><br></div><div>
+<a href="https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_best_2021"><strong>Learn more and join</strong></a>! It’s confidential, and takes less than 5 minutes. <br><br><strong>Here's who we're looking for:</strong>
+</div><ul>
+<li>Ambitious part time and full-time freelancers and boutique agencies.</li>
+<li>Who have 3+ years of Shopify experience, and 5+ years of web development experience. </li>
+<li>And who have managed projects, deadlines, and communication successfully. </li>
+</ul><div>
+<br><strong>Especially people with some of these skills:</strong>
+</div><ul>
+<li>Front-end or full-stack Shopify development</li>
+<li>Klaviyo Email flows</li>
+<li>Headless e-commerce development</li>
+<li>Conversion rate optimization</li>
+<li>E-commerce expertise and strategy</li>
+<li>SEO </li>
+<li>Site Speed</li>
+<li>Builder and/or Shogun</li>
+</ul><div>
+<br><a href="https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_best_2021"><strong>It takes just a few minutes to join.</strong></a><br><br><strong>Here's what a few current members have to say:</strong><br><br>"Storetasker has changed my life - I'm not only making more, but I'm getting quality leads, a diverse slate of projects, and access to an amazing group of developers. Plus, I love the HQ team!" - Adan, United States, Storetasker Expert since March 2020<br><br>"Storetasker has connected me with clients that would never have been possible without them. That combined with an incredible support network and community makes joining an amazing opportunity for any developer”" - Mark, England, Storetasker Expert since 2019<br><br>"Storetasker has allowed me to live out my dreams as an independent developer - to move to Toronto and continue doing what I love: solving interesting problems and helping apparel companies grow." - Siah, Canada, Storetasker Expert since 2017<br><br><strong>Our Mission: </strong><br><br>We're a company built by ex-freelancers who know the ins and outs of being an independent entrepreneur. We've experienced first-hand the shortcomings of other freelance platforms and the pain-points of being fully independent. Our mission is to empower e-commerce entrepreneurs by giving them the experts, insights, and resources to succeed.  <br><br><strong>Questions?</strong> Reach out at experts@storetasker.com.</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1">https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1680495/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -212,7 +294,7 @@
                     <code>CSS,developer,excel,git</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -287,7 +369,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -364,7 +446,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -501,7 +583,7 @@
                     <code>azure,cloud,developer,django</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -566,7 +648,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -643,7 +725,7 @@
                     <code>C,C#,developer,mobile</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -787,7 +869,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
