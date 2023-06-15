@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ueni-saas-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -60,63 +60,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0094/0275/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>ClubRare</h5>
-                    <h3> Senior Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>Product</code>
-                </td>
-                <td width="200">
-                <text>29 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/clubrare-senior-product-manager" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0094/0275/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Toronto, Ontario, Canada
-    <br /><strong>URL:</strong> <a href="https://clubrare.xyz">https://clubrare.xyz</a>
-</p>
-
-<p>ClubRare is working to create a platform that places collectors at the center of the shopping experience in the Metaverse. Through the use of Web3 technology and Phygital NFTs, the platform will connect collectors and creators directly, blurring the boundaries between the real world and the Metaverse.</p>
-<p>We are a fully remote company with no fixed headquarters. As a distributed company, we embrace a diverse and inclusive culture that transcends geographical borders. Our team members come from all over the world and bring a rich array of experiences, perspectives, and lifestyles to the team.</p>
-<p><br></p>
-<h3>What's in It for you?</h3>
-<ul><li>Be a vital member of a cutting-edge project and take your career to the next level.</li></ul>
-<ul><li>Work from anywhere, on your own schedule, and be part of a team that shares your values and has a clear vision.</li></ul>
-<ul><li>Have the chance to shape the future of an innovative new model for cryptocurrency and blockchain applications.</li></ul>
-<ul><li>Get hands-on experience with the latest tech and systems, and challenge yourself to learn and grow.</li></ul>
-<ul><li>Play an active role in one of the most significant technological innovations in human history.</li></ul>
-<ul><li>Be compensated with a competitive salary paid in crypto for your dedication and efforts.</li></ul>
-<p><br></p>
-<h3>Who you are</h3>
-<p>Our team thrives on six core values: Integrity, always acting ethically; Intentionality, working purposefully; Empathy, understanding others; Resilience, overcoming challenges; Insight, bringing awareness; and Analysis, making data-driven decisions.</p>
-<p>We seek individuals who embody these principles, contribute unique perspectives, and are ready to make a meaningful impact.</p>
-<p>If this sounds like you - come join us if you are looking to disrupt.</p>
-<p><br></p>
-<h3>Responsibilities</h3>
-<ul> <li>Focused on our Marketplace, which recently added a new feature called "My Profile".</li> <li>Work on live product operation, ensuring the stability and functionality of the product, and troubleshooting any issues that arise. Continuously monitor and optimize the live product operation to improve user experience and business metrics.</li> <li>Develop and execute product strategy and roadmap, focusing on scaling and improving product operations.</li> <li>Manage the product development backlog, ensuring it is properly organized, prioritized, and kept up to date.</li> <li>Build and maintain strong relationships with the engineering team, ensuring timely delivery of product features and functionality.</li> <li>Plan and manage engineering and design sprints to ensure deadlines are met.</li> <li>Conduct ongoing market and competitive research to continuously assess our product's competitiveness and generate new ideas for product development.</li> <li>Collaborate with cross-functional teams to gather and analyze market feedback, customer needs, and competitive landscape to inform product decisions.</li> <li>Establish and maintain relationships with our user community to gather feedback and insights.</li> <li>Utilize community feedback to drive product innovation and ensure user satisfaction.</li> <li>Thrive in a fast-paced startup environment, with the ability to adapt quickly to changes and make sound decisions.</li> <li>Report to the CEO.</li> </ul>
-<p><strong>Requirements</strong></p>
-<ul> <li>5+ years of experience as a Product Manager with extensive knowledge of consumer-facing and social products, live product operations, and/or eCommerce.</li> <li>Proven track record of building successful products from conception to launch, scaling and improving product operations, and driving growth and profitability.</li> <li>Experience working on live product operations.</li> <li>Strong communication and collaboration skills with the ability to build strong relationships with cross-functional teams.</li> <li>Experience with community engagement and feedback gathering, with a focus on driving innovation and user satisfaction.</li> <li>Very consumer-facing with social elements.</li> <li>Ability to work in a fast-paced startup environment and adapt quickly to changes.</li> </ul>
-<p><br></p>
-<p>At ClubRare, we believe that talent knows no boundaries. Our company is built on a foundation of collaboration and teamwork, and we believe that the best ideas can come from anywhere, that's why we encourage you to apply, no matter where you are located.</p>
-<p>We are committed to creating a work environment that is inclusive and welcoming to all. As an equal-opportunity employer, we do not discriminate on the basis of race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or any other characteristic. We believe that diversity is a source of strength and all qualified candidates will be given equal consideration for employment at ClubRare.</p>
-<p>Discover more about ClubRare and what we stand for by visiting our website at <a href="http://www.clubrare.xyz/" class="external">www.clubrare.xyz</a></p>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clubrare-senior-product-manager">https://weworkremotely.com/remote-jobs/clubrare-senior-product-manager</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -127,7 +70,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>581 days ago</text>
+                <text>582 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -179,6 +122,161 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1691459/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Acadarena</h5>
+                    <h3>👩‍💻Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>api,marketing,mobile,product manager</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/product-manager-1691459" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="min-height: 1.5em;">AcadArena is the home of campus gaming across the Philippines and Southeast Asia. We’re building a better future for student gamers by creating a place for them to play, connect, and learn.</p>
+<p style="min-height: 1.5em;">Though our team started in 2019 as a group of volunteers, we've grown into a venture-backed 30+ team that creates communities, platforms, and experiences that have brought hundreds of thousands of students into gaming.</p>
+<p style="min-height: 1.5em;">Our vision is to create a place where students around the world can achieve their dreams — a university without borders.</p>
+<p style="min-height: 1.5em;"> </p>
+<div class="h2"><strong>About The Team</strong></div>
+<p style="min-height: 1.5em;">Product Managers at AcadArena work on our Product team, building out the machinery that powers our community as a whole — including our global student platform for games and scholarships, our new suite of Discord support tools and MMO-lite experiences, and more.</p>
+<p style="min-height: 1.5em;">You’ll be working with and supporting a diverse, global team of engineers, designers, researchers to build and shape the tools we need to serve our global network of students and leaders.</p>
+<p style="min-height: 1.5em;">As a Product Manager, we’re looking for someone with superior organization, communication, technical excellence, and foresight who can help lead our team from the frontlines.</p>
+<p style="min-height: 1.5em;"> </p>
+<div class="h2"><strong>Your Responsibilities</strong></div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Work with our other Production group members to spearhead operational excellence for the team by setting clear problems, priorities, and KPI’s</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Design and oversee superior QA practices for new and upcoming features</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Craft and execute a data-informed community management strategy</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Act as a liaison between Product and Growth by establishing standards for key metrics and success indicators</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Lead post-launch product marketing and content strategy </p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Provide directional support by conducting UX and market research around new features and content ideas and presenting these to the team</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Use post-research insights to create and maintain a strong knowledge base of user personas, demographic information, and more</p>
+</li>
+</ul>
+<div class="h2"> </div>
+<div class="h2"><strong>Your Qualifications</strong></div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;"><strong>Product Shipping Experience:</strong> 3+ years of industry experience as a Product Manager or equivalent role, with experience in:</p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Game production</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Product marketing</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Live operations</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">UX research and analytics</p>
+</li>
+</ul>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>Conceptually proficient:</strong> Has knowledge and working proficiency with:</p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Project management principles</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">UI/UX design</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Mobile game development</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Discord bot development</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Quality assurance</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Community management</p>
+</li>
+</ul>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>Effective Team Player:</strong> Has a proven track record in shipping projects from scratch while working with and/or leading a team.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>Goal Oriented:</strong> Laser-focused on directives and tasks. Able to contribute to sprint planning and estimations.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>Efficient:</strong> You advocate for the creation of new software only when it is necessary, and you can determine when to build a solution versus when to use off the shelf components</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>Values-Driven &amp; Youth Focused.</strong> You strongly believe in youth empowerment and have a good grasp of their needs and struggles.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>Strong Communicator:</strong> Proficient writing, communication and presentation skills in both English and ideally, a SEA language.</p>
+<p style="min-height: 1.5em;"> </p>
+</li>
+</ul>
+<div class="h2"><strong>Your Pluses</strong></div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Strong understanding of gaming, esports, and/or communities</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Experience working in startups with a lean and close-knit team</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Familiar with regional culture and trends in SEA, Brazil, or South Korea</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Familiar with Discord API + Bot Development.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Proficiency in any of the ff. languages:</p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Bisaya</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Hiligaynon</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Mandarin</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Vietnamese</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Bahasa Indonesia</p>
+</li>
+</ul>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><em>AcadArena is a Southeast Asian campus gaming start-up building the place where students play, connect and earn through gaming and the metaverse. We're backed by an all-star cast of investors including Iterative, 1KX, Hashed, Kevin Lin (Twitch), Kun Gao (Crunchyroll) and Holly Liu (Kabam).</em></p>
+<p style="min-height: 1.5em;"> </p>
+<img src="https://remotive.com/job/track/1691459/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
