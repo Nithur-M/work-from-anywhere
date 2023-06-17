@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/cobbleweb-senior-full-stack-php-developer-3" align="right" target="_blank">Apply</a>
@@ -60,7 +60,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/public-knowledge-project-systems-developer" align="right" target="_blank">Apply</a>
@@ -119,84 +119,120 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/3228/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Lifetimely</h5>
-                    <h3> Principal Ruby on Rails Developer</h3>
+                    <h5>Awesome Motive</h5>
+                    <h3> WordPress Developer</h3>
                 </td>
                 <td width="300">
-                    <code>Back-End Programming</code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>73 days ago</text>
+                <text>211 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/awesome-motive-wordpress-developer-1" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0071/3228/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
-  <strong>Headquarters:</strong> Singapore
-    <br /><strong>URL:</strong> <a href="https://www.lifetimely.io/">https://www.lifetimely.io/</a>
+  <strong>Headquarters:</strong> West Palm Beach, FL
+    <br /><strong>URL:</strong> <a href="https://awesomemotive.com">https://awesomemotive.com</a>
 </p>
 
 <div>
-<strong>Lifetimely is a SaaS company looking for an experienced Ruby on Rails engineer to help build out our SaaS product serving 6000+ e-commerce stores. Our users include names like MrBeast’s snacking brand Feastables, Liquid Death, and Colgate.<br></strong><br>
-</div><div>You can read about our app <a href="https://apps.shopify.com/lifetimely-lifetime-value-and-profit-analytics/">on the Shopify app store</a>. We provide real-time reporting to ecommerce shop owners. To give you a sense of scale - we collect data on millions of orders per day from thousands of ecommerce stores and process many millions of background jobs to be able to deliver quality reporting and insights to our customers.<br><br>
-</div><div>We're looking to add a great backend RoR developer to our existing team.<br><br>
+<strong>Description<br></strong><br>
+</div><div>As a WordPress Developer, you're responsible for Making Stuff Go. You will build infrastructure to create new features, improve existing code, squash bugs, and help us rapidly scale our platform.<br><br>
 </div><div>
-<strong><br>We are looking for someone who</strong>:<br><br>
+<strong>💡 Interested in applying?<br></strong><br>
+</div><div>
+<strong>🔍 Please read/follow the next steps outlined in "How to Apply" at the bottom of this listing.<br></strong><br>
+</div><div>
+<em>Attention to detail is one of our </em><a href="https://wpforms.com/about-us/#core-values"><strong><em>core values</em></strong></a><em>! This is your chance to stand out :)<br></em><br>
+</div><div>
+<strong>To love this role, here’s the type of person you are:<br></strong><br>
 </div><ul>
-<li>has worked on and had to support a web app in production at scale for at least 5 years</li>
-<li>At least 5 years of working experience writing maintainable and well-tested Ruby on Rails apps</li>
-<li>humble, can mentor others, both provide and receive direction and is always willing to share what they learn</li>
-<li>overlaps with CET zone at least 5 hours ( prefer Europe )</li>
+<li>You’re a self-starter who loves taking initiative and seeing things through from conception to completion. Our developers often "own" features/tasks and are responsible for scoping, development, and testing.</li>
+<li>You're an excellent communicator, fluent in both verbal and written English, who makes sure nothing slips through the cracks. We believe communication is <strong>critical </strong>and there is no such thing as over communicating.</li>
+<li>You have the curiosity and desire to learn and grow your skills.</li>
+<li>You're passionate about leaving your mark on the web for all to see and are excited to work on tasks that impact <em>millions</em> of users.</li>
+<li>You take pride in the quality and craftsmanship of your work rather than just doing it to get it done.</li>
+<li>You're a team player who is comfortable working along side and helping other developers, and you don't take critical feedback personally.</li>
+<li>You're happy jumping between front-end and back-end development tasks, or tackling tasks which require both.</li>
+<li>You're happy working on tasks of all sizes - from small bug fixes and enhancements to large features/rewrites.</li>
 </ul><div>
-<strong><br>What you will do:<br></strong><br>
+<br><strong>Common responsibilities include (but are not limited to):<br></strong><br>
 </div><ul>
-<li>extend the product to integrate with new ecommerce platforms (like Amazon)</li>
-<li>build and have ownership over new integrations with external data sources we use to augment our reports (we integrate with wide range of systems from ad platforms to CRMs and shipping services.)</li>
-<li>optimize our existing complex backend processing jobs</li>
-<li>optimize existing data pipelines</li>
-<li>participate in building new app features for thousands of merchants who trust us with their reporting data</li>
+<li>Triaging bugs and small enhancements that come into GitHub.</li>
+<li>Scoping, writing, and testing new product features and addons.</li>
+<li>Refactoring legacy code with a particular attention to backwards compatibility.</li>
+<li>Providing feedback and peer review for other developers (Github PRs).</li>
+<li>Communicating with the team and supporting your peers using chat, audio, and video.</li>
 </ul><div>
-<strong><br>Where we are and how we work:<br></strong><br>
+<br><strong>Requirements<br></strong><br>
 </div><ul>
-<li>We are a distributed team all over the globe but our development team is mainly working during Western European working hours.</li>
-<li>We are used to async communication over Slack but also have regular weekly meetings to sync up.</li>
-<li>Our tech stack is Ruby / Javascript / Stimulus / Tailwind CSS / SQL / Git</li>
-<li>We optimize new features for the long term. For us, this is not a sprint but a marathon.</li>
-</ul><div>Working for Lifetimely doesn't feel like the usual office or startup gig: we are a distributed group of twelve people across eight different countries with our own way of working. Some of us are nomads, some just like working remotely. We highly encourage written (long-form) communication and documenting things on Notion, and generally don't like tight fixed schedules.<br><br>
+<li>Professional experience with WordPress <strong>plugin </strong>development, architecture, and standards.</li>
+<li>Advanced proficiency with PHP and MySQL, including modern PHP practices (OOP, autoloading, namespacing, traits, interfaces, etc).</li>
+<li>Strong familiarity with JavaScript (vanilla JS, jQuery, ES6, etc).</li>
+<li>Ability to use and extend build tools like gulp and webpack.</li>
+<li>Familiarity with package managers such as Composer and NPM.</li>
+<li>Experience working with third-party APIs (Eg Stripe, Drip, Zapier, etc).</li>
+<li>Competent with version control through git and GitHub.</li>
+<li>The ability to iterate and ship ideas quickly.</li>
+<li>Exceptional troubleshooting skills.</li>
+<li>Ability to keep complex ideas and features <em>simple</em>. (Simplicity is a core value!)</li>
+<li>Previous freelance or remote work experience.</li>
+<li>Personal Computer with Internet Access</li>
+<li>Availability to participate in audio/video meetings between the hours 9 am - 5 pm EST.</li>
+</ul><div>
+<br><strong>Bonus points if you also have:<br></strong><br>
+</div><ul>
+<li>Advanced proficiency in JavaScript frameworks like VueJS or React.</li>
+<li>Experience with e-commerce platforms or related APIs (Easy Digital Downloads, WooCommerce, Stripe, PayPal, etc).</li>
+<li>Experience with DevOps or infrastructure management.</li>
+</ul><div>
+<br><strong>Benefits<br></strong><br>
+</div><div>Working for a fast-growing bootstrapped company is a rare opportunity, one we consider a lifestyle choice rather than a job choice. Our positions are challenging, but also come with amazing advantages and fulfillment to those who earn them. Here’s what we offer.<br><br>
+</div><ul>
+<li>Competitive Salary.</li>
+<li>Health, Dental and Vision Insurance benefits for full-time U.S. employees.</li>
+<li>Health Insurance benefits for all employees in India, Pakistan, Brazil, and Ukraine.</li>
+<li>Work from your home. We’re spread out all over the world – United States, Canada, Ukraine, India, Pakistan, Singapore and more.</li>
+<li>Unlimited PTO after 90 days of employment. We encourage employees to take the time they need for vacation, to stay healthy, and to spend time with friends and family.</li>
+<li>Paid maternity and paternity leave.</li>
+<li>We happily provide or reimburse software you’ll need as well as books or courses that promote continued learning.</li>
+<li>We give you the opportunity to solve challenging and meaningful problems that make a difference.</li>
+<li>Custom Branded laptop at your five year anniversary.</li>
+<li>We cover all costs of company travel (including our annual all-company retreat and mini-team meetups).</li>
+<li>Ability to work with some of the best people in the business through frequent, if not daily, interactions.</li>
+<li>And in case you were wondering: no politics, no b.s., and no jerks.</li>
+</ul><div>
+<br><strong>Location<br></strong><br>
+</div><div>This is a remote position - our team is spread around the globe! Our home base is in Florida, USA, so company operating hours are 9am - 5pm ET (UTC -5). While full coverage is not a requirement, you must be available during a portion of the day.<br><br>
 </div><div>
-<strong>We expect you to be independent and know how to manage yourself.</strong> We prioritize shipping and results above how or when you do the work.<br><br>
-</div><div>Two meetings per week, one for the devs on Tuesday, and another one on Thursday for everyone. That's it.<br><br>
-</div><div>If you prefer to do meetings and calls or just know that you need a lot of human interaction, Lifetimely is probably not the best place for you to work at. But if you are into distributed work and prefer the lifestyle aspects or maybe live somewhere with not a lot of exciting product companies to work for, you will enjoy working with us.<br><br>
+<strong>Inclusion Statement<br></strong><br>
+</div><div>At Awesome Motive, we strive to have the broadest possible view of diversity, going beyond visible differences to include the background, experiences, skills, and perspectives that make each person unique. Awesome Motive is proud to be an equal opportunity workplace and is committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, Veteran status, or any other basis protected by federal, state, or local law.<br><br>
 </div><div>
-<strong><br>Compensation<br></strong><br>
-</div><div>This is a full-time position with annual compensation of <strong>USD 70 000 to USD 110 000</strong> and varies with experience and skill set. You can be a full-time employee with PTO (through Multiplier) or a full-time contractor, depending on your location and preferences. We will provide you the necessary equipment and pay for a co-working space if you have one nearby.<br><br>
+<strong>How to apply?<br></strong><br>
+</div><div>If all of this sounds interesting, then please submit your application!<br><br>
 </div><div>
-<strong><br>Hiring process<br></strong><br>
-</div><div>Our process has three steps:<br><br>
-</div><ol>
-<li>A simple coding task that takes no more than 30 min and can be done at your convenience</li>
-<li>Video call where we discuss the task and ask you about your experience</li>
-<li>A paid trial two-week contract (if your current role allows) where you work with us as if you were full-time. If this is not possible, we can also do a traditional tech interview instead.</li>
-</ol><div>
-<strong><br>How to apply:<br></strong><br>
-</div><div>Tell us about:<br><br>
-</div><ol>
-<li>Describe the largest web app you worked on and the most challenging problem you worked on?</li>
-<li>The timezone you are in?</li>
-<li>When can you start at the earliest?</li>
-<li>Your salary requirements</li>
-</ol><div>After you've applied, we will reach out to you for a test task if you're selected for the first round of interviews.</div>
+<strong>Please clearly include the following in your cover letter:<br></strong><br>
+</div><ul>
+<li>Your experience with WordPress plugin development.</li>
+<li>What is your favorite WordPress hook/function and why.</li>
+<li>Tell us a bit about yourself and why you should be considered. Details about your experience, qualifications, personality, etc are very helpful.</li>
+<li>Profile links with code samples (GitHub, GitLab, WordPress.org, etc).</li>
+<li>Other profile links if available (Your website, Twitter, LinkedIn, etc).</li>
+</ul><div>
+<br>Also note, don't forget to proofread before submitting. Check spelling, capitalization, etc. This is your chance to make your application stand out :)<br><br>We won’t be able to individually respond to all applications, but if we feel you’re a strong match, someone will be in touch shortly. Qualified candidates will be asked to do a simple code challenge.<br><br>Thanks and we look forward to hearing from you!<br><br>
+</div><div><a href="https://apply.workable.com/awesomemotive/j/198E2696EB/apply/"><strong>Apply for this job</strong></a></div><div><br></div><div><br></div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer">https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/awesome-motive-wordpress-developer-1">https://weworkremotely.com/remote-jobs/awesome-motive-wordpress-developer-1</a></p>
 
                 </details>
                 </td>
@@ -212,7 +248,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>870 days ago</text>
+                <text>872 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1" align="right" target="_blank">Apply</a>
@@ -291,10 +327,10 @@
                     <h3>Front End Developer</h3>
                 </td>
                 <td width="300">
-                    <code>CSS,developer,excel,git</code>
+                    <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -366,10 +402,10 @@
                     <h3>Senior Front-end Developer</h3>
                 </td>
                 <td width="300">
-                    <code>developer,ui,ux,growth</code>
+                    <code>UI/UX,CI/CD</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -443,10 +479,10 @@
                     <h3>Senior Solidity Developer</h3>
                 </td>
                 <td width="300">
-                    <code>developer,kubernetes,python,security</code>
+                    <code>C++,javascript,python,security</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -580,10 +616,10 @@
                     <h3>Senior Python Back End Developer</h3>
                 </td>
                 <td width="300">
-                    <code>azure,cloud,developer,django</code>
+                    <code>api,azure,cloud,django</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -645,10 +681,10 @@
                     <h3>Senior Independent Software Developer</h3>
                 </td>
                 <td width="300">
-                    <code>developer,go,wordpress,hr</code>
+                    <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -722,10 +758,10 @@
                     <h3>Senior Unity Developer</h3>
                 </td>
                 <td width="300">
-                    <code>C,C#,developer,mobile</code>
+                    <code>C,C#,unity,unity3D</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -866,10 +902,10 @@
                     <h3>Senior Full Stack Developer</h3>
                 </td>
                 <td width="300">
-                    <code>backend,developer,frontend,fullstack</code>
+                    <code>backend,frontend,fullstack,javascript</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
