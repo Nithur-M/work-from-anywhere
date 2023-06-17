@@ -1,36 +1,100 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4287/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0097/0560/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Stimulus</h5>
-                    <h3> Software engineer</h3>
+                    <h5>Strategy11</h5>
+                    <h3> Senior WordPress Software Engineer</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>246 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/strategy11-senior-wordpress-software-engineer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/4287/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0097/0560/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Amsterdam, NY
-    <br /><strong>URL:</strong> <a href="https://www.stimulus.com/">https://www.stimulus.com/</a>
+  <strong>Headquarters:</strong> Utah
+    <br /><strong>URL:</strong> <a href="https://strategy11.com/">https://strategy11.com/</a>
 </p>
 
-<div><strong>About Stimulus</strong></div><div>
-<a href="https://www.stimulus.com/jobs/Stimulus.com">Stimulus</a> is a social platform started by Sticker Mule to show what's possible if your mission is to increase human happiness.</div><div><br></div><div><strong>We offer</strong></div><div>1. Remote work with flexible schedules</div><div>2. A privately owned, low-stress culture.</div><div>3. A fun "no bullshit" work environment</div><div><br></div><div>
-<strong>We like you to know<br></strong>1. Docker<br>2. NextJS<br>3. TypeScript<br>4. React<br>5. NodeJS<br>6. GraphQL<br>7. Redis</div><div><br></div><div><strong>Compensation and benefits</strong></div><div>1. Salary: $135k+ based on experience</div><div>2. $20,000 signing bonus</div><div>3. 4 weeks vacation + holidays based on your country of residence</div><div><br></div>
+<div>Hi! We’re Strategy11. We are the company behind Formidable Forms, WP Tasty, and Business Directory Plugin. No matter what product we’re working on, our goal is to make big projects possible without big resources, and make complex tasks simple. Our software is running on over 400,000 websites, and our team is growing fast. We have tons of big plans for the future, and would love for you to be a part of it.<br><br>
+</div><div>As a Senior WordPress Software Engineer, you’re responsible for Making Stuff Go. You will build infrastructure to create new features, help plan the roadmap, improve existing code, squash bugs, and help us rapidly scale our platform.<br><br>
+</div><div>We are looking for energetic and fun people who love to work hard and get things done.<br><br>
+</div><div>Interested? See “How to Apply” below to learn more before applying.<br><br>
+</div><div>
+<br>To love this role, here’s the type of person you are:<br><br>
+</div><ul>
+<li>You’re a self-starter who loves taking initiative and seeing things through from conception to completion. Our developers often “own” features/tasks and are responsible for scoping, development, and testing.</li>
+<li>You’re an excellent communicator, fluent in both verbal and written English, who makes sure nothing slips through the cracks. We believe communication is critical and there is no such thing as over-communicating.</li>
+<li>You have the curiosity and desire to learn and grow your skills.</li>
+<li>You’re passionate about leaving your mark on the web for all to see and are excited to work on tasks that impact <em>thousands</em> of users.</li>
+<li>You take pride in the quality and craftsmanship of your work rather than just doing it to get it done.</li>
+<li>You’re a team player who is comfortable working alongside and helping other developers, and you don’t take critical feedback personally.</li>
+<li>You’re happy jumping between front-end and back-end development tasks or tackling tasks that require both.</li>
+<li>You’re happy working on tasks of all sizes – from small bug fixes and enhancements to large features/rewrites.</li>
+</ul><div>
+<br>Common responsibilities include (but are not limited to):<br><br>
+</div><ul>
+<li>Triaging bugs and small enhancements that come into GitHub.</li>
+<li>Scoping, writing, and testing new product features and add-ons.</li>
+<li>Refactoring legacy code with particular attention to backward compatibility.</li>
+<li>Providing feedback and peer review for other developers (Github PRs).</li>
+<li>When tickets are escalated, debug customer issues in our help desk.</li>
+</ul><div>
+<br>Here are some skills that will come in handy:<br><br>
+</div><ul>
+<li>Professional experience with WordPress plugin development, architecture, and standards.</li>
+<li>Advanced proficiency with PHP and MySQL, including modern PHP practices (OOP, autoloading, traits, interfaces, etc).</li>
+<li>Strong familiarity with JavasScript (vanilla JS, jQuery, etc).</li>
+<li>Ability to use and extend build tools like webpack.</li>
+<li>Familiarity with package managers such as NPM.</li>
+<li>Experience working with third-party APIs (Eg Stripe, MailChimp, Zapier, etc).</li>
+<li>Competent with version control through Git and GitHub.</li>
+<li>The ability to iterate and ship ideas quickly.</li>
+<li>Exceptional troubleshooting skills.</li>
+<li>Ability to keep complex ideas and features <em>simple</em>. (Simplicity is a core value!)</li>
+<li>Previous freelance or remote work experience.</li>
+</ul><div>
+<br>Bonus points if you also have these skills:<br><br>
+</div><ul>
+<li>Advanced proficiency in JavaScript frameworks like VueJS or React.</li>
+<li>Experience with e-commerce platforms or related APIs (WooCommerce, Stripe, PayPal, etc).</li>
+<li>Experience with DevOps or infrastructure management.</li>
+</ul><div>
+<br>What we offer:<br><br>
+</div><div>Working for a fast-growing bootstrapped company is a rare opportunity, one we consider a lifestyle choice rather than a job choice. Our positions are challenging, but also come with amazing advantages and fulfillment for those who earn them. Here’s what we offer.<br><br>
+</div><ul>
+<li>Competitive Salary.</li>
+<li>Work from your home. We’re spread out all over the world – United States, Africa, Ireland, Philippines, and more.</li>
+<li>Unlimited PTO after 60 days of employment. We encourage employees to take the time they need for vacation, to stay healthy, and to spend time with friends and family.</li>
+<li>We happily provide or reimburse software you’ll need as well as books or courses that promote continued learning.</li>
+<li>We give you the opportunity to solve challenging and meaningful problems that make a difference.</li>
+<li>Ability to work with some of the best people in the business through frequent interactions.</li>
+<li>And in case you were wondering: no politics, no b.s., and no jerks.</li>
+</ul><div>
+<br>Location Details:<br><br>
+</div><div>This is a remote position – our team is spread around the globe! Our home base is in Utah, USA, so company operating hours are 9am – 5pm MST (UTC -7). While full coverage is not a requirement, you must be available during a portion of the day.<br><br>
+</div><div>
+<br>Inclusion Statement:<br><br>
+</div><div>At Strategy11 (Formidable Forms, Business Directory Plugin, WP Tasty), we strive to have the broadest possible view of diversity, going beyond visible differences to include the background, experiences, skills, and perspectives that make each person unique. Strategy11 is proud to be an equal opportunity workplace and is committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, Veteran status, or any other basis protected by federal, state, or local law.<br><br>
+</div><div>
+<br>How to apply:<br><br>
+</div><div>If all of this sounds interesting, then please submit your application!<br><br>
+</div><div>Also, note, don’t forget to proofread before submitting. Check spelling, capitalization, etc. This is your chance to make your application stand out 😃<br><br>
+</div><div>We won’t be able to individually respond to all applications, but if we feel you’re a strong match, someone will be in touch shortly. Qualified candidates will be asked to do a simple code challenge.<br><br>
+</div><div>Thanks and we look forward to hearing from you!<br><br>
+</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer">https://weworkremotely.com/remote-jobs/stimulus-software-engineer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/strategy11-senior-wordpress-software-engineer">https://weworkremotely.com/remote-jobs/strategy11-senior-wordpress-software-engineer</a></p>
 
                 </details>
                 </td>
