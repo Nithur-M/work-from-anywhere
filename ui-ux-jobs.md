@@ -10,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tiller-ui-ux-designer" align="right" target="_blank">Apply</a>
@@ -68,7 +68,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/nebula-careers-ui-designer" align="right" target="_blank">Apply</a>
@@ -143,7 +143,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>582 days ago</text>
+                <text>584 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -206,10 +206,10 @@
                     <h3>Senior Independent UX/UI Designer</h3>
                 </td>
                 <td width="300">
-                    <code>go,ui,ux,wordpress</code>
+                    <code>go,UI/UX,wordpress,chat</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
