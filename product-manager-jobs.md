@@ -1,65 +1,5 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/7719/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>UENI</h5>
-                    <h3> SaaS Senior Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>Product</code>
-                </td>
-                <td width="200">
-                <text>29 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/ueni-saas-senior-product-manager" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0086/7719/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> United Kingdom
-    <br /><strong>URL:</strong> <a href="https://ueni.com/en-us">https://ueni.com/en-us</a>
-</p>
-
-<div>
-<strong>What’s the opportunity?<br></strong><br>
-</div><div>Are you a skilled Product Manager with a passion for building exceptional products? We're seeking an experienced, commercially-minded individual with strong communication skills, a proven track record in product management, project management, software development, and UX design, as well as significant experience with data architecture.<br><br>Please note that this role is based between GMT-5 to GMT+2.</div><div><br></div><div>
-<strong>Responsibilities </strong>- here are 2 of the initial projects that you would be expected to work on or lead:</div><ol>
-<li>Develop UENI for WordPress: Translate the UENI approach to website development and build it on the WordPress platform, combining proprietary tech, third-party tools, and operational processes for cost-effective outcomes.</li>
-<li>Implement a CRM: Utilize your expertise in data modeling and architecture to map out data architecture, data model diagrams, and data-collection/activation points throughout the customer journey. Drive the CRM project from architecture to implementation, in collaboration with tech and other stakeholders.</li>
-</ol><div><strong>Who are we looking for?</strong></div><ul>
-<li>Understands user experience and feels accountable for the product, end-to-end</li>
-<li>Highly autonomous and drives product development forward in the face of ambiguity</li>
-<li>Precisely defines use cases and communicates 'definitions of done'</li>
-<li>Collaborates well with varied stakeholders in the company to develop exceptional user experiences for external and internal customers</li>
-<li>Understands that 'product' encompasses all customer touchpoints</li>
-<li>Uses data for decisions; experience in querying and interpreting data (excellent SQL skills)</li>
-<li>Comfortable in technical discussions and skillful at defending pragmatic strategies and commercial objectives when working with technical people</li>
-<li>Able to simplify complex ideas</li>
-<li>Experience working with a product owner who you can bring on board to join us is a big plus<br><br>
-</li>
-</ul><div><strong>Requirements</strong></div><ul>
-<li>8+ years total work experience, including 5+ years as a Product Manager in Agile/Lean</li>
-<li>Background in startup B2C and B2B settings</li>
-<li>B.S. (or equivalent) in business, engineering, mathematics, design, or a related field</li>
-<li>Experience with SaaS, website builders, eCommerce, or fin-tech</li>
-<li>Strong expertise in data modeling and architecture, essential for CRM implementation</li>
-<li>Ability to organize, assimilate, and communicate complex problems and solutions</li>
-<li>Adept at cross-functional collaboration and shipping diverse product releases</li>
-<li>Strategic, can-do thinker with strong business acumen</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/ueni-saas-senior-product-manager">https://weworkremotely.com/remote-jobs/ueni-saas-senior-product-manager</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -70,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>582 days ago</text>
+                <text>584 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -122,161 +62,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1691459/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Acadarena</h5>
-                    <h3>👩‍💻Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>api,marketing,mobile,product manager</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/product-manager-1691459" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="min-height: 1.5em;">AcadArena is the home of campus gaming across the Philippines and Southeast Asia. We’re building a better future for student gamers by creating a place for them to play, connect, and learn.</p>
-<p style="min-height: 1.5em;">Though our team started in 2019 as a group of volunteers, we've grown into a venture-backed 30+ team that creates communities, platforms, and experiences that have brought hundreds of thousands of students into gaming.</p>
-<p style="min-height: 1.5em;">Our vision is to create a place where students around the world can achieve their dreams — a university without borders.</p>
-<p style="min-height: 1.5em;"> </p>
-<div class="h2"><strong>About The Team</strong></div>
-<p style="min-height: 1.5em;">Product Managers at AcadArena work on our Product team, building out the machinery that powers our community as a whole — including our global student platform for games and scholarships, our new suite of Discord support tools and MMO-lite experiences, and more.</p>
-<p style="min-height: 1.5em;">You’ll be working with and supporting a diverse, global team of engineers, designers, researchers to build and shape the tools we need to serve our global network of students and leaders.</p>
-<p style="min-height: 1.5em;">As a Product Manager, we’re looking for someone with superior organization, communication, technical excellence, and foresight who can help lead our team from the frontlines.</p>
-<p style="min-height: 1.5em;"> </p>
-<div class="h2"><strong>Your Responsibilities</strong></div>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Work with our other Production group members to spearhead operational excellence for the team by setting clear problems, priorities, and KPI’s</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Design and oversee superior QA practices for new and upcoming features</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Craft and execute a data-informed community management strategy</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Act as a liaison between Product and Growth by establishing standards for key metrics and success indicators</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Lead post-launch product marketing and content strategy </p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Provide directional support by conducting UX and market research around new features and content ideas and presenting these to the team</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Use post-research insights to create and maintain a strong knowledge base of user personas, demographic information, and more</p>
-</li>
-</ul>
-<div class="h2"> </div>
-<div class="h2"><strong>Your Qualifications</strong></div>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;"><strong>Product Shipping Experience:</strong> 3+ years of industry experience as a Product Manager or equivalent role, with experience in:</p>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Game production</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Product marketing</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Live operations</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">UX research and analytics</p>
-</li>
-</ul>
-</li>
-<li style="">
-<p style="min-height: 1.5em;"><strong>Conceptually proficient:</strong> Has knowledge and working proficiency with:</p>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Project management principles</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">UI/UX design</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Mobile game development</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Discord bot development</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Quality assurance</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Community management</p>
-</li>
-</ul>
-</li>
-<li style="">
-<p style="min-height: 1.5em;"><strong>Effective Team Player:</strong> Has a proven track record in shipping projects from scratch while working with and/or leading a team.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;"><strong>Goal Oriented:</strong> Laser-focused on directives and tasks. Able to contribute to sprint planning and estimations.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;"><strong>Efficient:</strong> You advocate for the creation of new software only when it is necessary, and you can determine when to build a solution versus when to use off the shelf components</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;"><strong>Values-Driven &amp; Youth Focused.</strong> You strongly believe in youth empowerment and have a good grasp of their needs and struggles.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;"><strong>Strong Communicator:</strong> Proficient writing, communication and presentation skills in both English and ideally, a SEA language.</p>
-<p style="min-height: 1.5em;"> </p>
-</li>
-</ul>
-<div class="h2"><strong>Your Pluses</strong></div>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Strong understanding of gaming, esports, and/or communities</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Experience working in startups with a lean and close-knit team</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Familiar with regional culture and trends in SEA, Brazil, or South Korea</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Familiar with Discord API + Bot Development.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Proficiency in any of the ff. languages:</p>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Bisaya</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Hiligaynon</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Mandarin</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Vietnamese</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Bahasa Indonesia</p>
-</li>
-</ul>
-</li>
-</ul>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><em>AcadArena is a Southeast Asian campus gaming start-up building the place where students play, connect and earn through gaming and the metaverse. We're backed by an all-star cast of investors including Iterative, 1KX, Hashed, Kevin Lin (Twitch), Kun Gao (Crunchyroll) and Holly Liu (Kabam).</em></p>
-<p style="min-height: 1.5em;"> </p>
-<img src="https://remotive.com/job/track/1691459/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -607,14 +392,13 @@
 <p><strong>👋 Introduction Stage</strong><span style="font-weight: 400;"> - we have initial conversations to get to know you better…</span></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[30m]</span><a href="https://handbook.sourcegraph.com/departments/product-engineering/product/roles/interviews/initial_screen"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Recruiter Screen</span></a><span style="font-weight: 400;">&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30m]</span><a href="https://handbook.sourcegraph.com/departments/product-engineering/product/roles/interviews/hm_intro_call"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Hiring Manager Screen</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[60m]</span><a href="https://handbook.sourcegraph.com/departments/product-engineering/product/roles/interviews/hm_intro_call"><span style="font-weight: 400;"> </span></a><a href="https://handbook.sourcegraph.com/departments/talent/process/types_of_interviews#resume-deep-dive">Resume Deep Dive</a></li>
 </ul>
 <p><strong>🧑‍💻 Team Interview Stage</strong><span style="font-weight: 400;"> - we then delve into your experience in more depth and introduce you to members of the team…</span></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[1hr]</span><a href="https://handbook.sourcegraph.com/departments/product-engineering/product/roles/interviews/product_manager/pm_rfc_project"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Async - RFC Assignment</span></a></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[1hr]</span><a href="https://handbook.sourcegraph.com/departments/talent/process/types_of_interviews/#product-interview"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Product Interview</span></a></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30m]</span><a href="https://handbook.sourcegraph.com/departments/talent/process/types_of_interviews/#engineering-collaboration"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Engineering Collaboration</span></a></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[1hr]</span><a href="https://handbook.sourcegraph.com/departments/talent/process/types_of_interviews#resume-deep-dive"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Resume Deep Dive</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[1hr] Async Assignment</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[1hr] Assignment Review / Working Session</span></li>
+<li style="font-weight: 400;">[45m] Peer Interview&nbsp;</li>
 </ul>
 <p><strong>🎉 Final Interview Stage </strong><span style="font-weight: 400;">- we move you to our final round, where you meet cross-functional partners and gain a better understanding of our business and values holistically…</span></p>
 <ul>
