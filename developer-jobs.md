@@ -1,55 +1,5 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/1275/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CobbleWeb</h5>
-                    <h3> Senior Full-stack PHP Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/cobbleweb-senior-full-stack-php-developer-3" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0084/1275/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> London
-    <br /><strong>URL:</strong> <a href="https://www.cobbleweb.co.uk">https://www.cobbleweb.co.uk</a>
-</p>
-
-<div><strong>What are we looking for?</strong></div><div>We are looking for solution-focused individuals with a can-do attitude. Your commitment to continuous learning means you are tech agnostic – always looking for the best way to execute a project or task. You share our philosophy of purpose-driven development that ensures the best possible outcomes for our clients. Like us, you believe in a strong work ethic and take pride in the quality of your code. You see the big picture and strive for the sense of accomplishment that comes from successfully executing a new project, such as an online marketplace that is perfectly geared for growth. Last but not least, you enjoy collaborating with a team of equally motivated developers and digital strategists.</div><div><br></div><div><strong>Job requirements</strong></div><ul>
-<li>Expert with Symfony framework (3+years experience)</li>
-<li>Expert PHP5, PHP7 (5+years experience)</li>
-<li>Strong Experience developing within ReactJS (2+years experience)</li>
-<li>Expert MySQL / Doctrine 2 (3+years experience)</li>
-<li>Experience Developing Frontend with Bootstrap/Material (1+years experience).</li>
-<li>Very strong Object Oriented Programming skills</li>
-<li>Experience with REST APIs</li>
-<li>Use of Docker in local and production environments</li>
-<li>Adoption of Agile methodologies</li>
-<li>Experience with techniques such as TDD, continuous integration and continuous delivery</li>
-<li>Experience with test automation using Behat, Jenkins, Selenium or other testing frameworks would be advantageous</li>
-<li>RabbitMQ, Redis, AWS or Elastisearch is a plus</li>
-<li>Be willing to help your teammates, share your knowledge with them, and learn from them.</li>
-<li>Be open to receiving feedback.</li>
-<li>Be conscientious and have a good work ethic.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/cobbleweb-senior-full-stack-php-developer-3">https://weworkremotely.com/remote-jobs/cobbleweb-senior-full-stack-php-developer-3</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/8356/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -60,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/public-knowledge-project-systems-developer" align="right" target="_blank">Apply</a>
@@ -129,7 +79,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>211 days ago</text>
+                <text>213 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/awesome-motive-wordpress-developer-1" align="right" target="_blank">Apply</a>
@@ -248,7 +198,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>872 days ago</text>
+                <text>873 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1" align="right" target="_blank">Apply</a>
@@ -330,7 +280,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -405,7 +355,7 @@
                     <code>UI/UX,CI/CD</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -482,7 +432,7 @@
                     <code>C++,javascript,python,security</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -619,7 +569,7 @@
                     <code>api,azure,cloud,django</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -684,7 +634,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -761,7 +711,7 @@
                     <code>C,C#,unity,unity3D</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -891,75 +841,6 @@
 </li>
 </ul>
 <img src="https://remotive.com/job/track/1606658/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1359476/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify</h5>
-                    <h3>Senior Full Stack Developer</h3>
-                </td>
-                <td width="300">
-                    <code>backend,frontend,fullstack,javascript</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>About us: </p>
-<p> </p>
-<p>"Talent has no borders." We strongly believe in uplifting talent by providing them with the right opportunities - no matter which part of the world you are from, we value your skills and offer every member the growth possibilities they deserve. 🙂</p>
-<p> </p>
-<p>Proxify is a global network and a supportive community of talented developers interested in long-term remote jobs. </p>
-<p>With us, you will get opportunities:</p>
-<p>To work remotely on exciting projects with leading brands and fast-growing startups.</p>
-<p>To work on commision free project-based jobs.</p>
-<p>To work with companies that respect and value your skills.</p>
-<p> </p>
-<p>Since our launch, talented developers on Proxify have worked with 620+ happy clients to build their products and growth features. 1400+ talented developers trust Proxify and the community we are building to fulfil their dreams and objectives. </p>
-<p><br><br></p>
-<p>The Role:</p>
-<p>We are searching for a Senior Full Stack Developer skilled in React.js and Node.js. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </p>
-<p><br><br></p>
-<p>What we are looking for:</p>
-<p>4+ years of working experience as a FullStack;</p>
-<p>Frontend:</p>
-<p>- React JS;</p>
-<p>- Design System;</p>
-<p>Backend:</p>
-<p>- Microservices architecture;</p>
-<p>- NodeJS; </p>
-<p>Database:</p>
-<p>- SQL;</p>
-<p>- MongoDB;</p>
-<p>Upper-intermediate or higher English level.</p>
-<p> </p>
-<p>Nice-to-have: </p>
-<p>Timezone: CET (+/- 3 hours);</p>
-<p>Database Architecture knowledge</p>
-<p><br><br></p>
-<p>What we offer:</p>
-<p>💻 100% remote work: Work from anywhere.</p>
-<p>👌🏻 Flexibility: The ability to change the project to another one.</p>
-<p>💵 Financial growth: Competitive compensation and performance-based increases.</p>
-<p>🧘🏻‍♂️ Freedom: Very flexible working schedule.</p>
-<p>🚀 360 degree growth: Opportunities for professional development and personal growth.</p>
-<p><br><br><br></p>
-<p>Your benefits with Proxify:</p>
-<p>Be part of Proxify community: Network with like-minded and enthusiastic individuals to make a difference. </p>
-<p>Make an impact: You get the opportunity to work on the projects that inspire you and add value to your career.</p>
-<p>Transparency: Contracts with transparency in earnings and working hours.</p>
-<p>Save your time: Fast and efficient hiring process to match you with the project of your preference.</p>
-<p>Ownership: Take ownership of your work and enjoy more freedom in your career.</p>
-<img src="https://remotive.com/job/track/1359476/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
