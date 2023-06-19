@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/strategy11-senior-wordpress-software-engineer" align="right" target="_blank">Apply</a>
@@ -225,30 +225,6 @@
                 </td>
                 <td width="300">
                     <h5>Kraken</h5>
-                    <h3>Senior Software Engineer - React-Native - Mobile</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/kraken/77ff94a3-aabe-4dce-9a2e-8683c516bce6" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Internet of Money&nbsp;</b></div><div><br></div><div><span style="font-size: 10.5pt">Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</span></div><div><br></div><div><span style="font-size: 10.5pt">What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the adoption of cryptocurrency so the world can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Before you apply, please read the </span><a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture Explained</a><span style="font-size: 10.5pt"> to learn more about our internal culture, values, and mission.</span></div><div><br></div><div><span style="font-size: 10.5pt">As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who have a long track record of building premium products for professionals and institutions as well as newcomers to the space. Kraken is committed to industry-leading security through our products like </span><a href="https://pro.kraken.com/" style="font-size: 10.5pt" class="postings-link">Kraken Pro</a><span style="font-size: 10.5pt">, </span><a href="https://www.kraken.com/en-us/nft" style="font-size: 10.5pt" class="postings-link">Kraken NFT</a><span style="font-size: 10.5pt">, and </span><a href="https://cryptowat.ch/" style="font-size: 10.5pt" class="postings-link">Cryptowatch</a><span style="font-size: 10.5pt">, with a focus on world-class customer support and </span><a href="https://www.kraken.com/learn" style="font-size: 10.5pt" class="postings-link">crypto education</a><span style="font-size: 10.5pt"> for all.&nbsp;</span></div><div><br></div><div><span style="font-size: 10.5pt">Become a Krakenite and build the internet of money!</span></div><div><br></div><div><b style="font-size: 24px">Proof of work</b></div><div><br></div><div><b style="font-size: 18px">The team</b></div><div><br></div><div>We are currently seeking an experienced Senior Software Engineer to join our growing Engineering team. In this role, you will be responsible for developing and maintaining both our Web and Mobile user interfaces using React and React Native, respectively. Your expertise in building scalable and high-performance applications will directly contribute to the success of our platform.</div></div><div class="section page-centered"><div><h3>The opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Design, develop, and maintain high-quality web and mobile applications using React and React Native</li><li>Collaborate with cross-functional teams, including Product, Design, and Backend Engineering, to ensure seamless integration of new features and improvements</li><li>Contribute to the architecture and design of our web and mobile applications</li><li>Identify, analyze, and resolve performance bottlenecks and inefficiencies in the codebase</li><li>Write and maintain comprehensive unit tests and documentation</li><li>Stay up-to-date with the latest industry trends and technologies to ensure our applications remain current and competitive</li><li>Mentor junior developers and participate in code reviews to maintain a high standard of code quality</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>Bachelor's degree in Computer Science or a related field, or equivalent experience</li><li>5+ years of experience in software development, with a focus on web and mobile applications</li><li>Deep understanding of JavaScript/TypeScript and proficiency with React and React Native frameworks</li><li>Experience with <a href="http://Next.js" class="postings-link">Next.js</a>, RESTful APIs and WebSockets</li><li>Experience with frontend testing frameworks</li><li>Familiarity with modern front-end build pipelines and tooling</li><li>Strong understanding of UI/UX best practices and principles</li><li>Excellent problem-solving skills, attention to detail, and ability to work independently and as part of a team</li><li>Strong written and verbal communication skills in English</li></ul></ul></div></div><div class="section page-centered"><div><h3>Nice to Haves</h3><ul class="posting-requirements plain-list"><ul><li>Knowledge of the cryptocurrency industry and blockchain technology</li><li>Familiarity with native mobile app development (iOS/Android)</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 15px">Location Tagging: </span>#US #EU #LI-LM1 #LI-Remote #Canada</div><div><br></div><div><span style="font-size: 10.5pt">Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</span></div><div><br></div><div><span style="font-size: 10.5pt">As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</span></div><div><br></div><div><b style="font-size: 13.5pt">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" style="font-size: 10.5pt" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" style="font-size: 10.5pt" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" style="font-size: 10.5pt" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/77ff94a3-aabe-4dce-9a2e-8683c516bce6/apply">Apply for this job</a></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1306325743580848130/mk0qvsZ9_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Kraken</h5>
                     <h3>Staff Software Engineer - React Native - Mobile</h3>
                 </td>
                 <td width="300">
@@ -398,6 +374,88 @@
 <p><strong>Compensation</strong><span style="font-weight: 400;">:</span></p>
 <p><span style="font-weight: 400;">We are happy to pay salaries in either 100% fiat or any mix of fiat and/or crypto. For more information regarding benefits at Status: https://people-ops.status.im/tag/perks/</span></p>
 <p>&nbsp;</p>
+
+    
+
+    
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
+                    <h3>Software Engineer (Distributed Systems Testing)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=5113467&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <h3 data-startline="9" data-endline="12">The team:</h3>
+<p data-startline="9" data-endline="12">We are the&nbsp;<a href="https://vac.dev/" target="_blank">Vac</a> Distributed Systems Testing R&amp;D service unit.</p>
+<p data-startline="9" data-endline="12">We specialize in developing software tools and methodologies to test and analyze the behaviour of distributed systems within the Logos collective: https://github.com/acid-info</p>
+<p data-startline="9" data-endline="12">Our primary objective is to ensure the scalability and reliability of Logos projects by providing comprehensive testing solutions.<br>Through the utilization of tools like wakurtosis, we empower projects to evaluate the scaling behaviour of their nodes within larger networks and plan conduct through regression testing.</p>
+<h3 id="The-role" data-startline="14" data-endline="14">The role:</h3>
+<p data-startline="16" data-endline="19">We are seeking a skilled and passionate Software Engineer to join our Vac Distributed Systems Testing (DST) team.&nbsp;You will play a crucial role in ensuring the reliability, performance, and scalability of distributed systems within Vac and the Logos collective.</p>
+<h3 id="Key-responsibilities" data-startline="21" data-endline="21">Key responsibilities:</h3>
+<p>Your responsibilities will include developing and executing comprehensive test plans, as well as contributing to the identification and resolution of complex issues.</p>
+<p>Leveraging your expertise in Python programming and systems knowledge, you will design and implement network simulation tools and solutions to validate the functionality and performance of distributed systems.&nbsp;</p>
+<ul data-startline="23" data-endline="30">
+<li data-startline="23" data-endline="23">Develop, implement, and maintain integration tests in collaboration with a Test Analyst</li>
+<li data-startline="24" data-endline="24">Execute and automate test plans, test cases, and test scripts to validate the functionality, performance, and scalability of distributed systems</li>
+<li data-startline="25" data-endline="25">Identify, reproduce, and debug complex issues in distributed systems, working closely with Logos development teams</li>
+<li data-startline="26" data-endline="26">Design, implement, and document Python-based solutions for distributed systems</li>
+<li data-startline="27" data-endline="27">Collaborate with the Vac DST team on concurrent/distributed system programming and design</li>
+<li data-startline="28" data-endline="28">Work with Docker, Kubernetes, and POSIX-like systems</li>
+<li data-startline="29" data-endline="30">Optimize solutions for performance and scalability</li>
+</ul>
+<h3 id="You-ideally-will-have" data-startline="31" data-endline="31">You ideally will have:</h3>
+<ul data-startline="33" data-endline="39">
+<li data-startline="33" data-endline="33">Solid experience with Python programming and a systems language like Rust, C++, Nim, Go.</li>
+<li data-startline="34" data-endline="34">Strong foundation in networks and systems programming</li>
+<li data-startline="35" data-endline="35">Good algorithm design skills</li>
+<li data-startline="36" data-endline="36">Working knowledge of Docker, Kubernetes, and POSIX-like system</li>
+<li data-startline="38" data-endline="39">Alignment with our core values and principles: https://our.status.im/our-principles/</li>
+</ul>
+<h3 id="Bonus-points" data-startline="40" data-endline="40">Bonus points:</h3>
+<ul data-startline="42" data-endline="46">
+<li data-startline="42" data-endline="42">Experience with off-the-shelf networking stacks such as libp2p</li>
+<li data-startline="43" data-endline="43">Experience in performance modeling and measurement</li>
+<li data-startline="44" data-endline="44">Experience working with the Python scientific stack: Pandas, NumPy, Jupyter, etc.</li>
+<li data-startline="45" data-endline="45">Experience in blockchain technology</li>
+<li data-startline="46" data-endline="46">Experience working for an open-source organization</li>
+</ul>
+<p>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter]</p>
+<h3>Hiring Process:&nbsp;</h3>
+<ol>
+<li>Interview with our POps team</li>
+<li>Interview with team member from the Vac DST team</li>
+<li>Pair programming task with Vac team member</li>
+<li>Interview with Vac team lead&nbsp;</li>
+</ol>
+<p>[The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline].</p>
+<h3>Compensation:</h3>
+<p>We are happy to pay in any mix of fiat/crypto.</p>
 
     
 
