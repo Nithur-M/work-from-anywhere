@@ -59,6 +59,103 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1607488740959608832/m80nYXA3_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>DuckDuckGo</h5>
+                    <h3>
+            Senior Backend Engineer (Remote)
+          </h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://duckduckgo.recruitee.com/o/senior-backend-engineer-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+            <p>Hi, we’re DuckDuckGo, the Internet privacy company for everyone who wants to take back their privacy now. For over a decade, we've been building our all-in-one product, developing new privacy technology, and working with policymakers to make online privacy simple and accessible for all. </p>
+<p><br></p>
+<p><br></p>
+<p>Our app is now downloaded more than 78M times a year, and our private search engine packaged with it has become the #2 search engine on mobile in the United States and 18 other countries, including the United Kingdom, Canada, Australia, Germany, and the Netherlands. Oh, and we've been profitable since 2014, with revenue exceeding $100 million a year! Now, we’re rolling out a suite of new privacy solutions, including <u><a href="https://www.spreadprivacy.com/introducing-email-protection-beta/" rel="noopener">Email Protection</a></u>,  <u><a href="https://spreadprivacy.com/introducing-app-tracking-protection/%20" rel="noopener">App Tracking Protection</a></u> and our first-ever Desktop Apps for <u><a href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/" rel="noopener">Mac</a></u><a href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/" rel="noopener"> </a>and Windows.</p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p>We’re looking for a <strong>Senior Backend Engineer </strong>to help shape our all-in-one privacy solution and join our mission to show the world that protecting your privacy online can be simple.  </p>
+<p><br></p>
+<p><br></p>
+<p><strong>The Opportunity</strong> </p>
+<p><br></p>
+<p>In this role, you will lead complex projects across key company-wide objectives, writing pragmatic, testable code that's performant and works consistently. You'll collaborate remotely with your peers and take responsibility for solving product issues impacting our all-in-one privacy solution, whether large or small. In time, you'll formally mentor other engineers, supporting their career growth and the growth of the Backend Team at DuckDuckGo.</p>
+<p><br></p>
+<p><br></p>
+<p><strong>What You Will Bring to DuckDuckGo</strong> </p>
+<ul>
+<li>7+ years backend engineering experience, having worked on the backend side of at least one large application.</li>
+<li>A fundamental understanding of complex data structures and algorithms. You can develop and apply new solutions and confidently navigate and improve existing code. If you're curious, we mostly use Perl.</li>
+<li>A creative approach to problem-solving. You like to take the initiative to push a project forward but know when to get others involved.</li>
+<li>Effective project management skills.</li>
+<li>Excellent communication skills. You can validate and communicate your decisions clearly.</li>
+<li>Previous experience leading and mentoring experienced engineers, supporting their career goals, and unlocking their potential.</li>
+</ul>
+<p><br></p>
+<p><strong>How We Will Support You </strong> </p>
+<p>Our core values -- build trust, question assumptions, and validate direction -- underpin how we work day-to-day and the support we give our team members. We strive to empower our team members to be self-directed and self-motivated in their work.  </p>
+<p><br></p>
+<ul>
+<li>
+<strong>Remote First, Always</strong>: We've always been a fully distributed company with team members all over the world. We trust you to get your work done wherever, whenever.   </li>
+<li>
+<strong>Commitment to Personal Growth:</strong> Every team member has an annual budget of $1,250 USD to invest in their professional development. Every team member also has a dedicated Career Advisor, who serves as a guide to help you develop your strengths, identify your motivations, and understand your opportunities for growth. </li>
+<li>
+<strong>Leadership:</strong> We have many different types of leaders and possible combinations of leadership roles, so you can grow your career in a way that aligns best with your personal goals. You can seek additional leadership roles by being directly responsible for projects, taking ownership of areas of the company, developing and maintaining internal processes, or pursuing advisory roles. </li>
+<li>
+<strong>Work/Life Balance: </strong>Team members have the freedom and flexibility to organize their own work schedules. We want you to thrive both in and out of the office. We trust you to use good judgment and take the time off that you need to bring your best self to work.  </li>
+</ul>
+<p><br></p>
+<p>We also offer paid parental leave, a co-working stipend, office setup reimbursement, and a wellness stipend. More support resources can be found in our <u><a href="https://duckduckgo.com/assets/hiring/team_support_guide.pdf" rel="noopener">Team Member Support Guide</a></u>, which explains how we make your well-being a priority. </p>
+<p><br></p>
+<p>For more information on how we collaborate worldwide, from leadership in our relatively flat organization to start-to-finish ownership<strong>,</strong> check out <u><a href="https://duckduckgo.com/assets/hiring/how_we_work.pdf" rel="noopener">DuckDuckGo Culture: How We Work.</a></u> </p>
+<p><br></p>
+<p><strong>Compensation</strong> </p>
+<p>Annual compensation: $170,000 USD and stock options. Compensation is the same within a professional level, regardless of geographic location or functional area, and the compensation for each professional level is transparent across the organization.</p>
+<p><br></p>
+<p><strong>Hiring Process</strong> </p>
+<p>Hiring works best when it's a two-way street. Learn how we help you get to know DuckDuckGo and envision your future role here. Find out more about <u><a href="https://duckduckgo.com/assets/hiring/how_we_hire.pdf" rel="noopener">how we hire</a></u>. </p>
+<p><br></p>
+<p><strong>Diversity, Equity, and Inclusion</strong> </p>
+<p>DuckDuckGo provides equal work opportunities to all team members and applicants<u>,</u> and it prohibits discrimination and harassment of any type on the basis of race, color, ethnicity, caste, religion, age, sex (including pregnancy), national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by our policies or federal, state, or local laws.</p>
+<p><br></p>
+<p>We want to ensure that our hiring process is accessible. If you need reasonable accommodation for any part of the application process because of a medical condition or disability, please send an email to <u><a href="mailto:careers@duckduckgo.com" rel="noopener">careers@duckduckgo.com</a></u> to let us know the nature of your request.  </p>
+<p><br></p>
+<p>If you think you might thrive in this environment, we would love to hear from you. </p>
+<p><br></p>
+<p><strong>Please note that:</strong> </p>
+<ul>
+<li>Sometimes we meet up! Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.</li>
+<li>While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week. </li>
+<li>A successful candidate will be subject to a background check and must receive satisfactory results of the same, as a condition of joining the team. </li>
+<li>By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.  </li>
+</ul>
+<p><br></p>
+<p><br></p>
+<div><br></div>
+<div><p>#US #UK #SP #PL #IR #IC #HN #CR #CN #AU</p></div>
+<div><br></div>
+<p><br></p>
+<p><br></p>
+          
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://media.licdn.com/dms/image/D4E0BAQGvUyfPVBWDyg/company-logo_200_200/0/1657595552015?e=2147483647&v=beta&t=EecsDCOy3Fh_26M1noQDDIYw8-JuGKz_d1JDvcBZ-yI" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -233,6 +330,72 @@
 
     
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Software Engineer - App Stores Backend (Remote)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/3159992" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <h2><strong>Summary</strong></h2>
+<p>This is an exciting opportunity for an experienced software engineer passionate about open source software, Linux, and Web Services at scale. Come build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, a growing international software company.</p>
+<p>Canonical's Store team develops and operates the backend services that power the <a href="https://snapcraft.io/store">Snap Store</a> and <a href="https://charmhub.io">Charmhub.io</a> marketplaces. Our services are built primarily in Python, within a bit of Golang. If you have a passion for clean APIs, have a bias towards shipping and believe that tests are the key to higher velocity and reliability, you'll fit right in.</p>
+<p>We have some exciting challenges ahead including continuing to scale our production architecture, expand the store backend to handle additional package types, and enhance our on-prem offering for IoT and Enterprise solutions.</p>
+<h2><strong>What you’ll do</strong></h2>
+<ul>
+<li>Collaborate remotely with a globally distributed team.</li>
+<li>Write clean web service APIs to support both CLI and web frontend clients, using Python (and optionally Golang).</li>
+<li>Design and implement new features and enhancements from spec to production and ongoing operations at scale.</li>
+<li>Review code and technical designs produced by other engineers.</li>
+<li>Discuss ideas and collaborate on finding good solutions.</li>
+<li>Work remotely with global travel 2 to 4 weeks for internal and external events.</li>
+</ul>
+<h2><strong>Who you are</strong></h2>
+<ul>
+<li>You love technology and working with a diverse set of talented people.</li>
+<li>You are curious, flexible, articulate, and accountable.</li>
+<li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated.</li>
+<li>You have a broad technology base but favor backend code and infrastructure.</li>
+<li>You have proficiency developing public-facing APIs and web applications, preferably using Python and/or Golang.</li>
+<li>You know your way around relational and non-relational databases and can effectively design data models that perform well, and tune queries to access them.</li>
+<li>You are comfortable with Ubuntu as a development and deployment platform.</li>
+<li>You have a Bachelor’s or equivalent in Computer Science, STEM or similar degree.</li>
+</ul>
+<h2><strong>About Canonical</strong></h2>
+<p>Canonical is a growing, international software company that works with the open-source community to deliver Ubuntu -- the world’s #1 cloud operating system. Our mission is to realise the potential of free software in the lives of individuals and organisations. Our services are helping businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.&nbsp; Canonical is a unique tech company - global, remote-first, open source, with 700 professionals across 50 countries - we want to be the world’s best, not biggest, global software company. With almost every team remote by default, Canonical sets the pace on the 21st-century digital workplace.</p>
+<h3><strong>What Canonical offers:</strong></h3>
+<ul>
+<li>Work from home</li>
+<li>Learning and development allowances</li>
+<li>Competitive Salary</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Generous annual leave</li>
+<li>Paid maternity, paternity and sick leave</li>
+<li>Priority Pass for travel</li>
+<li>Exposure to international business and technology</li>
+</ul>
+<p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.</em></p>
+<p>#LI-remote</p>
+<p>#stack</p><p>Requisition ID: 545</p><p></p>
+    
                 </details>
                 </td>
             </tr>,<tr>
