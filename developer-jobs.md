@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-10" align="right" target="_blank">Apply</a>
@@ -67,7 +67,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/public-knowledge-project-systems-developer" align="right" target="_blank">Apply</a>
@@ -245,6 +245,72 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>A.Team</h5>
+                    <h3> Senior Independent Software Developer ($110-$190/hr)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>690 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0066/7400/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> NYC, SF, and TLV
+    <br /><strong>URL:</strong> <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a>
+</p>
+
+<div>
+<a href="https://build.a.team/wwrfastrackreferral">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. <br><br>After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.<br><br>As part of A·Team, you can expect:</div><ul>
+<li>
+<strong>High-paying, meaningful missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
+<li>
+<strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
+<li>
+<strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
+<li>
+<strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
+<li>
+<strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
+</ul><div>
+<br><strong>How to apply:<br></strong>Go here: <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a> + mention WWR under how you heard about A·Team. No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.<br><strong><br>What you’ll do:</strong>
+</div><ul>
+<li>Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would.</li>
+<li>Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </li>
+<li>You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is for:</strong>
+</div><ul>
+<li>Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy.</li>
+<li>Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</li>
+<li>The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing.</li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is </strong><strong><em>not</em></strong><strong> for:</strong>
+</div><ul>
+<li>People looking for small gigs.</li>
+<li>Folks looking to build simple wordpress/wix/squarespace-style websites.</li>
+<li>Those still early in their careers and recent university/bootcamp grads (at least not yet).</li>
+</ul><div>
+<br><strong>Our long-term vision:<br></strong><a href="https://build.a.team/wwrfastrackreferral">A·Team</a> is a new type of company for a new kind of independent software builders. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </div><div>
+<br>To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/8032/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -255,7 +321,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>874 days ago</text>
+                <text>875 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1" align="right" target="_blank">Apply</a>
@@ -337,7 +403,7 @@
                     <code>backend,frontend,fullstack,javascript</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -481,7 +547,7 @@
                     <code>UI/UX,CI/CD</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -558,7 +624,7 @@
                     <code>C++,javascript,python,security</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -695,7 +761,7 @@
                     <code>api,azure,cloud,django</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -760,7 +826,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -837,7 +903,7 @@
                     <code>C,C#,unity,unity3D</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1742,6 +1808,30 @@
                 </td>
                 <td width="300">
                     <h5>CloudLinux</h5>
+                    <h3>Senior C Developer for KernelCare - REMOTE/ Work Anywhere</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/9A7751A4D1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>We are looking for a Senior C/Linux/POSIX Developer to join our KernelCare team. KernelCare, CloudLinux’s fastest-growing product, provides automated kernel security updates for the most popular Linux distributions without reboots. It ensures optimal performance and uptime by allowing hosting providers and enterprises to keep kernels up-to-date with all security patches while keeping servers online.</p><p>We are Cloud Linux Inc., the maker of the #1 OS for web hosting providers. Using the most innovative technologies, we develop our products - CloudLinux OS, KernelCare, and Imunify360. Our products are used by thousands of companies around the world.</p><h3>Requirements: </h3><ul> <li>BS/BA degree in Computer Science, Engineering, or another technical-related field</li> <li>5+ years of experience developing applications in C/C++ in a Linux Environment preferably with GCC/GNU tool chains</li> <li>Knowledge of POSIX API</li> <li>Knowledge of compilers, assemblers, and libraries internals</li> <li>Experience with C and C++ ABI, exception handling, stack unwinding, ptrace</li> <li>Experience with Linux, Python, and BASH scripting</li> <li>A passion for solving challenging problems</li> <li>Experience with parallel, concurrent, and multi-threaded programming</li> <li>Happy in an agile, fast-paced environment. </li> <li>Excellent interpersonal and teamwork skills</li> </ul> <ul><li>Have a track record of contributing to open-source solutions (good to have)</li></ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> </li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p><br></p><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
                     <h3>Senior Python Developer for CloudLinux OS - REMOTE/Work Anywhere</h3>
                 </td>
                 <td width="300">
@@ -1758,6 +1848,318 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and  we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful. <br></p><p><strong>We are looking for Middle Python Developers to join our CloudLinux OS team.</strong></p><p>CloudLinux OS, our flagship product, runs on more than 25,000 production servers today, powering over 20 million websites, and is recognized as the best OS for security and efficiency in a shared hosting environment. CloudLinux OS increases server density and enhances security, thus reducing operating costs, decreasing churn rates, and increasing profitability. Check out our website for more information about our CLOS Product <a href="https://www.cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">https://www.cloudlinux.com/</a></p><p>You will be involved in backend development for CloudLinux projects using Python.<br></p><p>It is required to cover your code with unit-tests using Python and/or with functional tests.</p><p><strong>Additional activities may include:</strong></p><ul> <li>investigating issues reported by our clients, partners or support team;</li> <li>communication with our 3rd level support team to provide consultations or help related to CloudLinux projects;</li> <li>writing technical documentation for new features;</li> <li>review of code written by your colleagues using Gerrit.</li> </ul><p>Work is fully remote, with flexible hours, where you can plan your day and work from anywhere.</p><p>More details about the company on <a href="https://www.cloudlinux.com/" target="_blank" rel="nofollow noreferrer noopener" class="external">Cloudlinux.com</a>.</p><p>Join us to make the difference!</p><p><br></p><h3>Requirements: </h3><p><br></p><ul> <li>3+ years of experience with Python</li> <li>Basic algorithms and data structures</li> <li>Good knowledge of SQL</li> <li>Experience in system programming for Linux OS</li> <li>Research and propose performance optimization solutions for PHP sites, including those working on WordPress.</li> <li>Basic knowledge of Git</li> <li>Able to read code</li> <li>The ability to read and write in English</li> <li>Shell scripting </li> <li>Knowledge of Ansible, Vagrant, Jenkins</li> <li>Experience with building RPM packages</li> </ul><p><strong>Will be a plus:</strong></p><ul><li>Knowledge of C, PHP, Perl and JavaScript </li></ul><p><strong>Personal skills:</strong></p><ul> <li>Fast-learning, proactivity</li> <li>Desire to work in a fast-paced growing deadline-driven startup-up environment</li> <li>Strong self-motivation, driven to achieve committed milestones</li> <li>The ability to independently analyze a task and find the right solution</li> <li>The ability to work in a team</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A great opportunity for professional development within the young and fast-growing company</li> <li>Interesting and challenging projects</li> <li>Knowledge-Exchange</li> <li>Remote work with long-term employment on a full-time basis under contract</li> <li>High-level compensation based on the performance reviews</li> <li>Flexible working hours</li> <li>Paid one month vacation per year and sick leaves</li> <li>Medical insurance reimbursement</li> <li>English educational programs</li> <li>Ability to study and attend seminars and training according to the request</li> <li>Co-working and gym/sports compensations</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1410605776171790343/H2oHr9kW_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Clevertech</h5>
+                    <h3>Native Android Developer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://clevertech.biz/remote-jobs/android-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Experience Remote done Right.
+Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects
+
+#### What we're working on:
+Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries
+
+#### Requirements
+
+- 7+ years of professional experience (A technical assessment will be required)
+- Senior-level experience of at least 4 years of experience in mobile development
+- Must have apps on the app store with over 100 reviews
+- 5+ years of production-level software development experience
+- Recent experience with RxJava
+- Strong design and coding skills (Java/Android)
+- Written and verbal Advanced English fluency
+
+#### Straight from the Devs
+Watch short snippets of actual developers (Real, not scripted) share why they joined [YouTube Playlist](https://cleverte.ch/3)
+
+#### Why Clevertech is an amazing place to work at
+At Clevertech, you can expect that you will:
+
+- Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow
+- Be a part of a team of talented and friendly senior-level developers
+- Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery
+
+The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.
+
+Job is 100% Remote, please make sure you have a comfortable office set at your desired work location.
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1410605776171790343/H2oHr9kW_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Clevertech</h5>
+                    <h3>iOS Native Developer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://clevertech.biz/remote-jobs/i-os-mobile-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Experience Remote done Right.
+Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects
+
+#### Requirements
+
+* 7+ years of experience with iOS
+* Ability to effectively articulate technical challenges and solutions
+* Strong design and coding skills (Swift/Java/Objective-C)
+* A solid grasp of fundamental algorithms and mobile applications
+* Deal well with ambiguous/undefined problems; ability to think abstractly
+* Passion for operational excellence
+* Strong communicator and fluent in English with excellent written and verbal communication skills.
+* Knowledge about the Lean Startup and Agile Methodologies
+
+#### Straight from the Devs
+Watch short snippets of actual developers (Real, not scripted) share why they joined [YouTube Playlist](https://cleverte.ch/3)
+
+#### Why Clevertech is an amazing place to work at
+At Clevertech, you can expect that you will:
+
+- Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow
+- Be a part of a team of talented and friendly senior-level developers
+- Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery
+
+The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.
+
+Job is 100% Remote, please make sure you have a comfortable office set at your desired work location.
+
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1410605776171790343/H2oHr9kW_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Clevertech</h5>
+                    <h3>Fullstack Python/React Developer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://clevertech.biz/remote-jobs/python-react-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                #### Experience Remote done Right.
+With over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, and provide exceptional opportunities for career growth while working with stellar clients on ambitious projects
+
+#### What we're working on:
+Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit, and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media, or other complex multifactor industries
+
+#### Requirements
+
+* 7+ years experience in Python and React
+* Senior-level experience with Javascript, React, Python, and Django
+* Nice to have experience with AgGrid, Bulma, Sass, and React Testing Library
+* Ability to create clean, modern, testable, well-documented code
+* Ideally, you have delivered business-critical software to large enterprises
+* Advanced-level English; ability to clearly communicate complex concepts verbally
+
+
+#### Straight from the Devs
+Watch short snippets of actual developers (Real, not scripted) share why they joined [YouTube Playlist](https://cleverte.ch/3)
+
+#### Why Clevertech is an amazing place to Work at
+At Clevertech, you can expect that you will:
+
+- Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow
+- Be a part of a team of talented and friendly senior-level developers
+- Work on projects that allow you to use cutting-edge tech. We believe in constantly evolving your mastery
+
+The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1410605776171790343/H2oHr9kW_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Clevertech</h5>
+                    <h3>Senior Ionic Developer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://clevertech.biz/remote-jobs/senior-ionic" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Experience Remote done Right.
+Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects
+
+#### What we're working on:
+Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries.
+
+#### Requirements
+- 7+ years of professional experience (A technical assessment will be required)
+- Senior-level experience of at least 4 years of experience building mobile apps with Ionic + Angular
+- Ability to implement an Ionic Logic Flow
+- Strong familiarity with iOS and Android applications
+- Experience deploying apps to AppStore Connect and Google Play platforms
+- Advanced English fluency, verbal and written
+
+#### Straight from the Devs
+Watch short snippets of actual developers (Real, not scripted) share why they joined [YouTube Playlist](https://cleverte.ch/3)
+
+#### Why Clevertech is an amazing place to work at
+At Clevertech, you can expect that you will:
+
+- Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow
+- Be a part of a team of talented and friendly senior-level developers
+- Work on projects that allow you to use cutting-edge tech. We believe in constantly evolving your mastery
+
+The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.
+
+Job is 100% Remote, please make sure you have a comfortable office set at your desired work location.
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1410605776171790343/H2oHr9kW_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Clevertech</h5>
+                    <h3>Senior React Native Developer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://clevertech.biz/remote-jobs/senior-react-native-dev" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Experience Remote done Right.
+Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects
+
+#### What we're working on:
+Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries
+
+
+#### Requirements
+
+- 7+ years of professional experience (A technical assessment will be required)
+- Senior-level experience of at least 4 years of experience building mobile apps with React Native as well as with Ionic Deploy
+- Ability to create clean, modern, testable, well-documented code
+- Experience deploying apps to AppStore Connect and Google Play platforms
+- Advanced English fluency, verbal and written
+- Problem solver, proactive, go getter
+
+#### Straight from the Devs
+Watch short snippets of actual developers (Real, not scripted) share why they joined [YouTube Playlist](https://cleverte.ch/3)
+
+#### Why Clevertech is an amazing place to work at
+At Clevertech, you can expect that you will:
+
+- Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow
+- Be a part of a team of talented and friendly senior-level developers
+- Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery
+
+The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.
+
+Job is 100% Remote, please make sure you have a comfortable office set at your desired work location.
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1410605776171790343/H2oHr9kW_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Clevertech</h5>
+                    <h3>Senior Ionic + React Developer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://clevertech.biz/remote-jobs/senior-ionic-react" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Experience Remote done Right.
+Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects
+
+#### What we're working on:
+Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries.
+
+#### Requirements
+- 7+ years of professional experience (A technical assessment will be required)
+- Senior-level experience with at least of 4 years of experience building mobile apps with Ionic + React
+- Ability to implement an Ionic Logic Flow
+- Senior-level experience with Javascript, React, Redux, Websockets, Async/Await
+- Ability to create clean, modern, testable, well-documented code
+- Strong familiarity with iOS and Android applications
+- Experience deploying apps to AppStore Connect and Google Play platforms
+- Advanced English fluency, verbal and written
+
+#### Straight from the Devs
+Watch short snippets of actual developers (Real, not scripted) share why they joined [YouTube Playlist](https://cleverte.ch/3)
+
+#### Why Clevertech is an amazing place to work at
+At Clevertech, you can expect that you will:
+
+- Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow
+- Be a part of a team of talented and friendly senior-level developers
+- Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery
+
+The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.
+
+Job is 100% Remote, please make sure you have a comfortable office set at your desired work location.
+
                 </details>
                 </td>
             </tr></table>
