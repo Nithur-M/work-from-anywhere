@@ -309,6 +309,30 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1382655628523364355/MWPIbbID_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CoverGo</h5>
+                    <h3>Senior Backend Engineer .Net (Fully Remote)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/covergo/j/C0E79DC52C" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Top 3 Reasons To Join Us</strong></p><ul> <li>Competitive Salary</li> <li>100% Remote</li> <li>Working on the latest tech for the Insurtech Market Leader</li> </ul><p><strong>About Us</strong></p><p>At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.</p><ul> <li>We are a leading global no-code insurance platform for health, life, and P&amp;C</li> <li>We’re the winner of the Insurtech of the Year in all of Asia and other awards globally</li> <li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more</li> <li>We're an international, diverse team of over 120 people with 30 nationalities and team members working remotely from all over the world</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors</li> <li>We have offices in the US, Singapore, Hong Kong, UAE and Vietnam</li> <li>We’ve grown our annualized revenue by over 30x since January 2021</li> <li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world</li> </ul><p><strong>About the Role</strong></p><p>.Net Backend engineering is the heart of our technical excellence. We are looking for people who are able to analyze complex insurance domains and build high-quality API and microservices in cross-functional product and project teams.</p><p>CoverGo is a Kubernetes-native platform that consists of around twenty microservices exposed via a GraphQL gateway (<a target="_blank" href="https://api.covergo.com/playground" rel="nofollow noreferrer noopener" class="external">https://api.covergo.com/playground</a>), based on .net 6.</p><p><strong>What You Will Do</strong><br></p><ul> <li>Help us build, grow and maintain our services</li> <li>Apply your skills to develop robust and scalable software</li> </ul><p>You'll be successful in this role if:</p><ul> <li>You are a hands-on engineer, and you love what you do</li> <li>You are a quick learner and excited about learning new technologies</li> <li>You are passionate about automated testing, code quality and engineering best practices</li> <li>You advocate software craftsmanship and take pride in your work</li> <li>You enjoy collaborating with engineers across functional teams and have excellent communication skills</li> <li>You enjoy taking full ownership of projects from conception to production</li> </ul><p><strong>What We Need</strong><br></p><ul> <li>Experience in Event sourcing, CQRS, and DDD (Domain Driven Design)</li> <li>Excellent understanding of .NET Core and C#</li> <li>Experience with Docker</li> <li>Familiarity with microservices using GraphQL</li> <li>Experience with database technologies like MongoDB, PostgreSQL</li> <li>Intensive TDD practice</li> </ul><p>It'll be nice if you have some experience in areas:</p><ul> <li>Event Storming or Event Modeling</li> <li>SpecFlow and BDD</li> <li>GitHub Actions</li> <li>Cloud Computing platforms: Amazon AWS, Microsoft Azure, Google Cloud, Alibaba etc.</li> <li>MS/BS in Computer Science or a related degree</li> <li>Insurance and fintech experience</li> <li>Read and understood books from Vaughn Vernon, Eric Evans, Martin Fowler</li> <li>Kubernetes</li> <li>GitOps</li> </ul><p><strong>Why You'll Love Working Here</strong></p><ul> <li>Salary: Up to 6,000 USD/Month</li> <li>Fully remote employment. Work from anywhere and/or from one of our physical offices in Vietnam, Singapore or Hong Kong occasionally.</li> <li>Paid annual leave.</li> <li>Employee stock options</li> <li>Company Performance Bonus</li> <li>Company activities &amp; Team offsites</li> <li>Training and Development Plan</li> </ul><p><strong>CoverGo Company </strong><a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"><strong>Video</strong></a></p><h3>Requirements: </h3><h3>Benefits: </h3>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1663581815960145923/EiMoGuaS_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -329,6 +353,59 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>Engineers on our team today:</p><ul><li>Work primarily in JavaScript, and dabble in Shell/Python as necessary</li><li>Build APIs in Node.js</li><li>Are extremely supportive, especially when teammates are faced with new challenges</li><li>Leave no opportunity to&nbsp;<a href="https://twitter.com/search?q=karen%20getumbrel&amp;src=typed_query" rel="noopener noreferrer" target="_blank">sneak jokes</a>&nbsp;into the source code</li><li>Are left to autonomously figure out solutions to their challenges</li><li>Think hard about every problem and its solution from user’s perspective</li><li>Value clear and frequent communication (we do a lot of reading and writing)</li><li>Enjoy being a generalist and are not tied down to a specific framework or surface area of our codebase</li><li>Are naturally curious and willing to learn something they don’t have experience in</li><li>Feel a great sense of accountability to each other</li><li>Have good judgement of when to ship: perfect is the enemy of good</li><li>Have a fundamental understanding of Linux/Docker/networking</li></ul>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1410605776171790343/H2oHr9kW_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Clevertech</h5>
+                    <h3>Senior Backend Engineer - Node </h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://clevertech.biz/remote-jobs/senior-node-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Experience Remote done Right.
+Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects
+
+#### What we're working on:
+Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries
+
+#### Requirements
+
+- 7+ years of professional experience (A technical assessment will be required)
+- Senior-level experience of at least 4 years of experience with Javascript, NodeJS, Express, Mongo
+- Ability to create clean, modern, testable, well-documented code
+- Serverless experience with AWS lambda or Azure functions
+- Advanced English fluency, verbal and written
+- Professional, empathic, team player
+- Problem solver, proactive, go-getter
+
+#### Straight from the Devs
+Watch short snippets of actual developers (Real, not scripted) share why they joined [YouTube Playlist](https://cleverte.ch/3)
+
+#### Why Clevertech is an amazing place to work at
+At Clevertech, you can expect that you will:
+
+- Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow
+- Be a part of a team of talented and friendly senior-level developers
+- Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery
+
+The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.
+
+Job is 100% Remote, please make sure you have a comfortable office set at your desired work location.
+
                 </details>
                 </td>
             </tr></table>
