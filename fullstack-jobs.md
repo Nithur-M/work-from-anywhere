@@ -208,6 +208,98 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1569586501335359494/4rq0Hb99_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Appwrite</h5>
+                    <h3>Full Stack Engineer - Integrations</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://careers.appwrite.io/full-stack-engineer-integrations" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+<aside class="mask" style="opacity: 1;"></aside><div class="body" data-columns="1"><div class="article" data-medium-editor-element="" style=";">
+<h1>About the job</h1>
+<p>Appwrite is looking for a Fullstack Engineer to join the team and help build reliable, performant, and scalable APIs and developer tools. This role will have a focus on our SDKs, integrations and building demo apps. You must demonstrate experience building different kinds of integrations and demo apps, writing blog posts and other forms of educational content for developers. </p>
+<p>You should have a good understanding of web technologies, networking concepts, database design and other computer science fundamentals. Experience with back-end languages such as PHP, Node.js, Python, Dart, Go, Deno, or Ruby is an advantage.</p>
+</div></div>
+<style>
+                @media only screen and (max-width: 767px) {
+                    #block-1 {
+                        padding-top: 25px !important; padding-bottom: 25px !important;
+                    }
+                }
+                </style>
+
+<aside class="mask" style="opacity: 1;"></aside><div class="body" data-columns="1"><div class="article" data-medium-editor-element="" style=";">
+<h1>Responsibilities</h1>
+<ul>
+<li><p>Create demo apps and tutorials to showcase integrations.</p></li>
+<li>Create educational content like blog posts, tutorials and articles to compliment the demo apps and examples.</li>
+<li>Maintain and improve our SDKs and libraries to ensure an awesome developer experience.</li>
+<li>Collaborate with the developer relations team to prioritize integration ideas and identify areas for improvement.</li>
+<li>Design and improve new and existing product features.</li>
+<li>Contribute to the overall development of our software applications and systems</li>
+<li>Engage with developers in the open-source community who use our products and demonstrate new product features and capabilities.</li>
+</ul>
+<p><br></p>
+<h1>Requirements</h1>
+<ul>
+<li><p>Bachelor's degree in Computer Science or related field, or equivalent practical experience.</p></li>
+<li>Experience with Flutter or Web Technologies.</li>
+<li>Ability to write highly engaging and interactive blog posts, articles and tutorials.</li>
+<li>Experience building and consuming REST or GraphQL APIs.</li>
+<li>Ability to learn and adapt to working with multiple programming languages and produce high-quality native code.</li>
+<li>Passion for simplicity and a great developer experience.</li>
+<li>Passion for open-source, building developer tools, and working with our developer community.</li>
+<li>Comfortable working in both monolithic and microservice based architectures.</li>
+<li>Strong collaboration skills and ability to work effectively in a team.</li>
+<li>Excellent problem-solving skills and attention to detail.</li>
+</ul>
+<p><br></p>
+<h1>Benefits</h1>
+<p>🏠&nbsp;<span><b>100% Remote</b></span></p>
+<p>Our entire company is distributed, so we take remote work seriously. If you’d rather not work from home, we will cover the cost of a coworking or office space.</p>
+<p>📈&nbsp;<span><b>Stock Options</b></span></p>
+<p>Get generous stock options for a company that is growing blazing fast and is backed by top VCs&nbsp;</p>
+<p>🕰&nbsp;<span><b>Flexible Hours &amp; Days</b></span></p>
+<p>We're a remote team working in different time zones, from UTC+06:00 to UTC-06:00. Choose the hours and days that work best for you!</p>
+<p>🏥&nbsp;<span><b>Healthcare</b></span></p>
+<p>Employees receive generous medical, dental, vision, and life insurance. Full-time contractors will have the cost of healthcare factored into their salary. Our recruiting team can help confirm which applies to you.</p>
+<p>❤️&nbsp;<span><b>Github Sponsorship of Your Choice</b></span></p>
+<p>We would love to give an annual sponsorship to any GitHub project of your choice!</p>
+<p>🎓&nbsp;<span><b>Learning</b></span></p>
+<p>Appwrite provides $3,000 USD for employees to attend conferences, take classes, or otherwise further their education.</p>
+<p>✈️&nbsp;<span><b>Gatherings</b></span></p>
+<p>We typically meet up couple times a year in person for work and fun! What will be our next location? NYC, London, LA, or Barcelona? Help us decide!</p>
+<p>🖥&nbsp;<span><b>Top Notch Equipment</b></span></p>
+<p>Appwrite will let you choose a new laptop of your choice (up to $3,000 USD) and will reimburse up to $500 USD for office expenses.</p>
+<p>🧦&nbsp;<span><b>Unlimited SWAGS</b></span></p>
+<p>At Appwrite, we really love Swags. Each new team member gets unlimited credits to grab any official Appwrite Swag that they wish.</p>
+<ul></ul>
+</div></div>
+<style>
+                @media only screen and (max-width: 767px) {
+                    #block-2 {
+                        padding-top: 25px !important; padding-bottom: 25px !important;
+                    }
+                }
+                </style>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1663581815960145923/EiMoGuaS_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
