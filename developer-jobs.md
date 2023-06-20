@@ -1444,6 +1444,99 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1569586501335359494/4rq0Hb99_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Appwrite</h5>
+                    <h3>Developer Advocate (YouTube & Developer Education focused) - Europe</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://careers.appwrite.io/developer-advocate-youtube-developer-education-focused-europe" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+<aside class="mask" style="opacity: 1;"></aside><div class="body" data-columns="1"><div class="article" data-medium-editor-element="" style=";">
+<h1>About the job</h1>
+<p>Appwrite is seeking a passionate and versatile Developer Advocate to focus on the growth of our YouTube channel and creating Appwrite how-to videos. Your primary role will be to develop and execute our video content strategy while also contributing to the overall growth of our developer community. This position is open for candidates located in Europe. Knowledge of Flutter is a big plus but not required. Although travel is optional, you should be open to attending a few in-person company gatherings and events, with up to 25% travel. If you enjoy working with a fast-moving, fast-growing startup and being part of a fun, collaborative, and diverse team, this is the perfect opportunity for you!</p>
+<p>The Developer Relations team at Appwrite operates as an independent department and is currently a team of 6 individuals and growing. Our Founder and a significant part of our company are deeply involved in developer communities. We believe Developer Relations is an important part of our organization and are highly valued and understood by leadership and throughout our organization. We understand and appreciate the impact of the DevRel role on our success and strive to create an environment where you feel supported and empowered. Communication and transparency are our core values, and we developer experience and collaborate to integrate developer feedback into our work.</p>
+</div></div>
+<style>
+                @media only screen and (max-width: 767px) {
+                    #block-1 {
+                        padding-top: 25px !important; padding-bottom: 25px !important;
+                    }
+                }
+                </style>
+
+<aside class="mask" style="opacity: 1;"></aside><div class="body" data-columns="1"><div class="article" data-medium-editor-element="" style=";">
+<h1>Responsibilities</h1>
+<ul>
+<li><p>YouTube Channel Growth: Strategize and execute plans to grow our YouTube channel, focusing on creating engaging video content related to Appwrite how-tos and other developer topics.</p></li>
+<li><p>Content Creation: Develop high-quality video content, blog posts, presentations, live streams, and more to educate developers and promote Appwrite.<br></p></li>
+<li><p>Community Engagement: Attend, speak, and sponsor in-person and virtual events to connect with various developer communities.<br></p></li>
+<li><p>Advocate: Represent Appwrite as a thought leader in different communities, advocate for Appwrite's community internally, and promote Appwrite externally.</p></li>
+<li><p>Partnerships: Collaborate with Integrations Engineers to identify and establish potential partnerships for collaboration/integration projects, ensuring a smooth handoff of responsibilities for code development and cross-marketing opportunities.<br></p></li>
+<li><p>Internal Advocacy: Act as the voice of the developer within the company, ensuring that product, engineering, and marketing teams understand and address the needs and concerns of the developer community.</p></li>
+<li><p><span>Marketing Collaboration: Work closely with the marketing team to ensure content is shared and promoted through our social calendar.</span></p></li>
+<li><p><span>Developer Feedback: Gather and analyze developer feedback, sharing insights with the Engineering teams to improve our product and services.<br></span></p></li>
+</ul>
+<h1>Requirements</h1>
+<div><ul>
+<li>
+<span>Located in Europe.</span><br>
+</li>
+<li><span>Established experience in producing high-quality video content.<br></span></li>
+<li>Experience with Open Source communities and projects.</li>
+<li>Proficiency in at least two programming languages and/or frameworks, such as Node, Vue, PHP, Dart, Swift, Flutter, etc.</li>
+<li>Passion for teaching developers how to build cool stuff.</li>
+<li>Basic understanding of developer experience and funneling feedback from developers to internal teams.</li>
+<li>Demonstrated track record of creating quality technical video content.</li>
+<li>Willingness to travel up to 25% (optional).</li>
+<li>Ability to work with a diverse, globally-located company and team, collaborating across different time zones.</li>
+<li>Thrives in a fast-paced startup environment, demonstrating adaptability, resilience, and a strong work ethic.</li>
+</ul></div>
+<p><br></p>
+<h1>Benefits</h1>
+<p>🏠 <b>100% Remote</b></p>
+<p>Our entire company is distributed, so we take remote work seriously. If you’d rather not work from home, we will cover the cost of a coworking or office space.</p>
+<p>📈 <b>Stock Options</b></p>
+<p>Get generous stock options for a company that is growing blazing fast and is backed by top VCs :)</p>
+<p>🕰 <b>Flexible Hours &amp; Days</b></p>
+<p>We're a remote team working in different time zones, from UTC+06:00 to UTC-06:00. Choose the hours and days that work best for you!</p>
+<p>🏥 <b>Healthcare</b></p>
+<p>Employees receive generous medical, dental, vision, and life insurance. Full-time contractors will have the cost of healthcare factored into their salary. Our recruiting team can help confirm which applies to you.</p>
+<p>❤️ <b>Github Sponsorship of Your Choice</b></p>
+<p>We would love to give an annual sponsorship to any GitHub project of your choice!</p>
+<p>🎓 <b>Learning</b></p>
+<p>Appwrite provides $3,000 USD for employees to attend conferences, take classes, or otherwise further their education.</p>
+<p>✈️ <b>Gatherings</b></p>
+<p>We typically meet up couple times a year in person for work and fun! What will be our next location? NYC, London, LA, or Barcelona? Help us decide!</p>
+<p>🖥 <b>Top Notch Equipment</b></p>
+<p>Appwrite will let you choose a new laptop of your choice (up to $3,000 USD) and will reimburse up to $500 USD for office expenses.</p>
+<p>🧦 <b>Unlimited SWAGS</b></p>
+<p>At Appwrite, we really love Swags. Each new team member gets unlimited credits to grab any official Appwrite Swag that they wish.</p>
+</div></div>
+<style>
+                @media only screen and (max-width: 767px) {
+                    #block-2 {
+                        padding-top: 25px !important; padding-bottom: 25px !important;
+                    }
+                }
+                </style>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -1560,6 +1653,247 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18px">Location: Remote - Anywhere</b> (Open to applicants located anywhere around the globe.)</div><div>&nbsp;</div><div>At 10up, we call developers like you <i>engineers</i> because you aren’t just a “coder”: you’re an innovative problem solver that uses web programming skills to divine smart, creative solutions to client challenges. As a Lead Web Engineer at 10up, you are taking the driving seat in building websites and solutions utilized by millions of people daily. 10uppers have been pushing the boundaries of WordPress for over 12 years—help innovate the internet by building exciting projects alongside a top-in-the-field team.</div><div><br></div><div>You’ll work on a combination of unique projects and ongoing support engagements that help season your technical leading skills. As a leading digital agency, 10up’s client roster spans from innovative startups and impactful non-profits to some of the biggest names in the industry, such as ESPN, Google, The New York Times Co., Microsoft, and The Nobel Prize Committee.</div><div><br></div><div>As a 10upper, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 40 countries, 10up fully embraces the benefits of distributed work.</div></div><div class="section page-centered"><div><h3>What you will do: </h3><ul class="posting-requirements plain-list"><ul><li>Develop enterprise-level WordPress plugins and/or themes primarily using PHP and Gutenberg blocks in React.js.</li><li>Drive strategy in collaboration with experts across multiple disciplines, and lead overall technical vision and delivery on large-scale projects.</li><li>Engage meaningfully with clients; leading demos and driving discussions.</li><li>Contribute to the improvement of the Engineering discipline by leading and mentoring other fellow engineers</li><li>Ultimately you will make the web better by finely crafting websites, apps, and tools that reach millions of online visitors every day.</li></ul></ul></div></div><div class="section page-centered"><div><h3>About you: </h3><ul class="posting-requirements plain-list"><ul><li>Your experience leading large-scale enterprise projects makes you well-suited to lead a team of senior engineers, and wrangle multiple stakeholders, to find simple yet elegant solutions to complex problems.</li><li>Your expert skills in WordPress engineering with PHP, <a href="http://React.js" class="postings-link">React.js</a>, and Gutenberg consistently follow best practices and set the highest standards of excellence.</li><li>You have a code portfolio. Link us to your best WordPress work on GitHub and you’ll never have to do any live coding or whiteboard testing!&nbsp;</li><li>You have the ability to expertly debug performance and caching issues across environments.</li><li>You prefer to work fully remote and are effectively engaging in a distributed team from the location of your choosing.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Benefits of interest:</h3><ul class="posting-requirements plain-list"><ul><li>Multiple paid time off programs, including accrued PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day.</li><li>Health, dental, and life insurance programs (available for United States team members).</li><li>Retirement contribution programs (currently available in the U.S. and U.K.).</li><li>Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations.</li><li>$3,000 USD accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study.</li><li>Global Company summits – opportunities to meet, socialize and learn with fellow 10uppers in person at remarkable destinations.&nbsp;</li><li>An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year.</li><li>A Director of Engineering that supports your career growth and development.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="salary-range"><div>$80,000 - $140,000 a year</div><small><div>The expected annual salary range for this position is between $80,000 and $140,000 USD. Compensation is determined based on a variety of factors including relevant experience, other job related qualifications/skills, geographic location, and business needs.</div></small></div><div class="section page-centered" data-qa="closing-description"><div><b style="font-size: 18px">Join our team!&nbsp;</b></div><div><br></div><div>If you are passionate about 10up's mission and think you have what it takes to be successful in this role even if you don't check all the boxes, please apply. We'd appreciate the opportunity to personally review your application. Everyone gets a response.</div><div><br></div><div>Read more about <a href="https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view" class="postings-link">What to Expect </a>through our Recruiting process.</div><div><br></div><div>We don't want you to miss any communication from us! To ensure you receive updates on your application, please add jobs@10up.com to your contacts list! #LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/10up-2/765484c6-4f6c-483e-a3aa-9b51e0a61490/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Developer Relations Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/3655681" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <h2>The role of a Developer Relations Engineer at Canonical</h2>
+<p>The Developer Relations team at Canonical engage with community and enterprise software developers to help them embrace the Canonical approach to open source. We enable community developers and ISVs to deliver their applications to millions of Linux users and devices as snaps, charms, debs and Docker images. We also bring their feedback to engineering teams at Canonical for continuous improvement.</p>
+<p>As a Developer Relations Engineer, you will spearhead the adoption of new technologies in upstream communities. You will identify exciting new areas of development, programming languages, and classes of application, and explore ways to deliver those applications to Ubuntu users. Then you will reach out to community leaders and technical leaders in those ecosystems and build a common understanding of the best approach to application delivery on Ubuntu for their work. You will contribute to code and technical documentation. This position will challenge you to become an expert in the technologies on which we build the Ubuntu ecosystem, and will utilize your communication, presentation and persuasion skills. We aim to inspire the next generation of engineers to work more efficiently with open source, adopting the latest practices and shaping Canonical tools to suit new workflows and priorities.</p>
+<p>This role is a good fit for someone who is tech-savvy, passionate, collaborative, and who can communicate with a wide range of audiences. You must be a professionally qualified software engineer with open source experience. You will definitely need to be technically skilled with Linux. Experience with Ubuntu, snaps, charms or Docker images and familiarity with desktop and Linux server software development are valuable skills for the role.</p>
+<p>You will represent not only the Ubuntu community but also Canonical as a contributor to the wider open source ecosystem. You will work in a distributed team and travel internationally 2-4 times per year for engineering sprints, community summits, industry events, and strategic planning sessions.</p>
+<p><strong>Location</strong>: This is a Globally remote role.</p>
+<h2>What your day will look like</h2>
+<ul>
+<li>Gain a deep understanding of snaps, charms, debs and Docker images</li>
+<li>Grow the developer community by attracting software developers and ISVs to the platform</li>
+<li>Create content to scale up adoption, demonstrate best practices, and showcase new features</li>
+<li>Provide input to development teams at Canonical based on feedback from ISVs, developers, and the wider community</li>
+<li>Collaborate with software developers, product managers and technical writers</li>
+<li>Write ecosystem specific guides, tutorials, release notes, and white papers</li>
+<li>Curate existing documentation, performing periodic reviews, triage user feedback/bug reports and determine priorities for remedial work</li>
+<li>Engage with the community through various means, including discourse, IRC, social media, conferences, etc</li>
+<li>Identify relevant influencers and devising plans on how to effectively engage with them</li>
+<li>Deliver training workshops in person and remotely</li>
+<li>Represent the platform via speaking engagements at industry events and community conferences</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<ul>
+<li>You love technology and working with brilliant people</li>
+<li>You are curious, flexible, articulate, and accountable</li>
+<li>You value soft skills and are enthusiastic, thoughtful, and self-motivated</li>
+<li>You have experience with developer tools and open source projects</li>
+<li>You have a clear public record of accomplishments (talks, blog posts, GitHub, Twitter, etc)</li>
+<li>You have interest and experience with two or more of Ubuntu Linux - kernel or userspace, DevOps, software development, testing and QA, package management, container technology</li>
+<li>You can work autonomously and assume full ownership of objectives as needed</li>
+<li>You can be flexible with your time and enjoy working with new technology in a fast-paced environment</li>
+<li>You are experienced working with open source communities and understand the workflow of volunteer contributors</li>
+</ul>
+<h2>Additional skills that you might also bring</h2>
+<ul>
+<li>Experience with community management</li>
+<li>Experience with developer advocacy</li>
+<li>Experience as a software developer</li>
+<li>Examples of contributions to the Ubuntu Community</li>
+<li>Experience with contributing to open source projects</li>
+</ul>
+<h2>What we offer you</h2>
+<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.</p>
+<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.</p>
+<ul>
+<li>Fully remote working environment - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of 2,000USD per annum</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Parental Leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues at ‘sprints’</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote</p><p>Requisition ID: 799</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Developer Relations Manager</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/4322699" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <h2>The role of a Developer Relations Manager at Canonical</h2>
+<p>The Developer Relations team at Canonical engage with community and enterprise software developers to help them embrace the Canonical approach to open source. We enable community developers and ISVs to deliver their applications to millions of Linux users and devices as snaps, charms, debs and Docker images. We also bring their feedback to engineering teams at Canonical for continuous improvement.</p>
+<p>As a Developer Relations Manager, you will lead a team of developer relations engineers who engage with developer communities and ISVs to help them reach the Ubuntu ecosystem. Typically we help them shape their snaps, charms, or Ubuntu-based Docker images, and ensure that Ubuntu is fully enabled in their CI/CD pipelines.</p>
+<p>This is a role that requires strong technical grounding in software engineering, Linux and open source communities, container technologies and devops. It is also a management role that requires judgement, empathy and drive. You and your team will represent not only the Ubuntu community but also Canonical as a contributor to the wider Linux ecosystem. You will lead a distributed team and travel internationally 2-4 times per year for engineering sprints, community summits, industry events, and strategic planning sessions.</p>
+<p><strong>Location</strong>: This is a Globally remote role.</p>
+<h2>What your day will look like</h2>
+<ul>
+<li>Build and lead a developer relations team at Canonical</li>
+<li>Gain a deep understanding of snaps, Juju charms, or Docker containers</li>
+<li>Grow the developer community by attracting software developers and ISVs to the platform</li>
+<li>Create content to scale up adoption, demonstrate best practices, and showcase new features</li>
+<li>Provide input to development teams at Canonical based on feedback from ISVs, developers, and the wider community</li>
+<li>Collaborate with software developers, product managers and technical writers on developing documentation</li>
+<li>Write ecosystem specific guides, tutorials, release notes, and white papers</li>
+<li>Curate existing documentation, performing periodic reviews, triage user feedback/bug reports and determine priorities for remedial work</li>
+<li>Engage with the community through various means, including discourse, IRC, social media, conferences, etc</li>
+<li>Identify relevant influencers and devising plans on how to effectively engage with them</li>
+<li>Deliver training workshops in person and remotely</li>
+<li>Represent the platform via speaking engagements at industry events and community conferences</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<ul>
+<li>You love technology and working with brilliant people</li>
+<li>You are curious, flexible, articulate, and accountable</li>
+<li>You value soft skills and are passionate, thoughtful, and self-motivated</li>
+<li>You have experience with developer tools and open source projects</li>
+<li>You have a clear public record of accomplishments (talks, blog posts, GitHub, Twitter, etc)</li>
+<li>You have interest and experience with two or more of the following: Ubuntu Linux - kernel or userspace, DevOps, software development, testing and QA, package management, container technology</li>
+<li>You can work autonomously and assume full ownership of objectives as needed</li>
+<li>You can be flexible with your time and enjoy working with new technology in a fast-paced environment</li>
+<li>You are experienced working with open source communities and understand the workflow of volunteer contributors</li>
+</ul>
+<h2>Additional skills that you might also bring</h2>
+<ul>
+<li>Experience as a software developer</li>
+<li>Examples of contributions to the Ubuntu Community</li>
+<li>Experience with contributing to open source projects</li>
+</ul>
+<h2>What we offer you</h2>
+<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.</p>
+<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.</p>
+<ul>
+<li>Fully remote working environment - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of 2,000USD per annum</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Parental Leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues at ‘sprints’</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote</p><p>Requisition ID: 924</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Senior Observability Platform Developer - Python/Go</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/2166631" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>Canonical seeks an experienced developer with a proven track record in Python and/or Go. As part of the Observability team, you will develop a cloud-native monitoring stack that composes best-in-class open-source monitoring tools. The stack is opinionated, resilient, and scalable, providing deep insights out of the box. The user experience is polished and seamless for the end-users, and its administrators will enjoy smooth, lightweight Day 1 and Day 2 operations.&nbsp;</p>
+<p>This is an exciting opportunity for a software engineer passionate about open source software, Linux, Kubernetes, and Observability. Build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, the growing international software company behind Ubuntu.</p>
+<p>The monitoring stack will monitor applications running on a mix of cloud technologies such as Kubernetes and OpenStack, as well as bare-metal, virtual machines and containers. The stack will be capable of monitoring applications and infrastructure irrespective of whether they are operated by Juju, and will leverage multiple data sources at various levels of the architecture, including Juju itself, to contextualize the collected telemetry and insights delivered to the end-users.</p>
+<p>You can read more about the project <a href="https://grafana.com/blog/2021/10/28/open-source-done-right-why-canonical-adopted-grafana-loki-and-grafana-agent-for-their-new-stack/">here</a> and <a href="https://juju.is/blog/model-driven-observability-part-1">here</a>.</p>
+<p><strong>Location: </strong><em>This role will be based remotely in the EMEA and Americas regions</em></p>
+<h2>What your day will look like</h2>
+<ul>
+<li>Collaborate proactively with a globally distributed team</li>
+<li>Write, test and document high quality code to create new features</li>
+<li>Debug issues and interact with a vibrant community</li>
+<li>Review code produced by other engineers</li>
+<li>Attend conferences to represent Canonical and the Charmed Observability Stack</li>
+<li>Work from home with global travel 2 to 4 weeks for internal and external events</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<ul>
+<li>You love technology, observability and working with brilliant people</li>
+<li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li>
+<li>You have a Bachelor’s or equivalent in Computer Science, STEM or similar degree</li>
+<li>You have a proven understanding of the importance of observability and monitoring for keeping software running smoothly</li>
+<li>You have strong working knowledge of modern monitoring technologies like Prometheus, Alertmanager, Grafana, Loki, Mimir, etc., and how they fit together</li>
+<li>You are a skilled Python developer, preferably with a track record in open source</li>
+<li>You have a working knowledge of Go</li>
+<li>You have proven, hands-on experience deploying, configuring and using Kubernetes</li>
+<li>You are comfortable contributing to open source codebases maintained by other companies, you have a history of driving consensus in groups of multiple stakeholders with different interests and getting the resulting work delivered</li>
+<li>You have experience with infrastructure-as-code and configuration management tools</li>
+<li>You have interest and experience with two or more of the following: Ubuntu Linux, container images, Debian packaging, snap, distributed systems.</li>
+</ul>
+<h2>What we offer you</h2>
+<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.&nbsp;&nbsp;</p>
+<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, please ask your Talent Partner.</p>
+<ul>
+<li>Fully remote working environment - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of 2,000USD per annum</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Parental Leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues at ‘sprints’</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote&nbsp;</p><p>Requisition ID: 405</p><p></p>
+    
                 </details>
                 </td>
             </tr>,<tr>
