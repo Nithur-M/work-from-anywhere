@@ -1,5 +1,55 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0097/1479/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>TrendSpider</h5>
+                    <h3> Front End Software Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/trendspider-front-end-software-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0097/1479/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Chicago
+    <br /><strong>URL:</strong> <a href="https://trendspider.com">https://trendspider.com</a>
+</p>
+
+<div><strong>Front End Developer</strong></div><div><br></div><div><strong>Company Description:</strong></div><div>TrendSpider/SignalStack is a trading software firm headquartered in Chicago. Our products are used by tens of thousands of traders and investors, ranging from average retail users to multi-billion dollar asset managers. Our team is looking for a front end software developer that is excited about financial markets, and interested in helping to build the future of investing software. </div><div><br></div><div>This role is focused on helping expand the functionality of our automated  smart order routing product, SignalStack, by enabling traders to automate trading strategies without needing to become software developers themselves. This next team member should be passionate about trading and love working in a fast paced environment working in very quick sprints.  </div><div><br></div><div><strong>Job Description:</strong></div><div>We are currently seeking a highly skilled Front End Developer to work on our order routing trade automation platform, SignalStack. The ideal candidate will have experience working with specific technologies that we will list below, as well as the ability to work independently in a small team with minimal supervision. </div><div><br></div><div>As our development process differs from traditional team management practices, we require a developer who can manage their own tasks in Jira, provide regular progress reports every 2-3 days, make appropriate decisions, and proactively seek clarification when necessary. In other words, we’re looking for a creative problem solver who can help envision dashboard layouts that make monitoring trading and building easy order set-up tools easy for even the most basic trader.</div><div><br></div><div><strong>Responsibilities:</strong></div><ul>
+<li>Independently manage and prioritize tasks using Jira, ensuring timely completion of assigned work.</li>
+<li>Provide progress reports to the team every 2-3 days, keeping all stakeholders informed of the project status.</li>
+<li>Demonstrate the ability to make well-informed decisions when faced with development challenges.</li>
+<li>Proactively seek clarification or guidance when necessary to ensure project requirements are met effectively.</li>
+<li>Collaborate with team members, including backend developers, to deliver high-quality software solutions.</li>
+<li>Develop responsive and user-friendly front end interfaces using TypeScript, GraphQL, and React.</li>
+<li>Occasionally contribute to backend development tasks using Node.js, Apollo server, Sequelize + Postgresql, and Elastic Beanstalk.</li>
+</ul><div><br></div><div><strong>Requirements:</strong></div><ul>
+<li>Proven experience as a Front End Developer with a strong portfolio showcasing successful projects.</li>
+<li>Proficiency in TypeScript, GraphQL, and React, with demonstrable experience developing robust front end applications.</li>
+<li>Familiarity with backend technologies such as Node.js, Apollo server, Sequelize + Postgresql, and Elastic Beanstalk.</li>
+<li>Strong problem-solving skills and the ability to think creatively to overcome technical challenges.</li>
+<li>Excellent communication skills, both written and verbal, to effectively collaborate with team members and stakeholders.</li>
+<li>Self-motivated and able to work independently with minimal supervision.</li>
+<li>Detail-oriented and highly organized, ensuring that tasks and project requirements are not overlooked or delayed.</li>
+</ul><div><br></div><div>We offer a competitive salary package, a dynamic and challenging work environment, and the opportunity to contribute to cutting-edge Fintech projects that leverage interesting and innovative technologies to solve intricate and difficult problems. If you are a motivated and talented Front End Developer who thrives in a fast-paced, innovative setting, we invite you to apply and join our team.</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/trendspider-front-end-software-developer">https://weworkremotely.com/remote-jobs/trendspider-front-end-software-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7016/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +60,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-10" align="right" target="_blank">Apply</a>
@@ -67,7 +117,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/public-knowledge-project-systems-developer" align="right" target="_blank">Apply</a>
@@ -126,125 +176,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Awesome Motive</h5>
-                    <h3> WordPress Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>215 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/awesome-motive-wordpress-developer-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> West Palm Beach, FL
-    <br /><strong>URL:</strong> <a href="https://awesomemotive.com">https://awesomemotive.com</a>
-</p>
-
-<div>
-<strong>Description<br></strong><br>
-</div><div>As a WordPress Developer, you're responsible for Making Stuff Go. You will build infrastructure to create new features, improve existing code, squash bugs, and help us rapidly scale our platform.<br><br>
-</div><div>
-<strong>💡 Interested in applying?<br></strong><br>
-</div><div>
-<strong>🔍 Please read/follow the next steps outlined in "How to Apply" at the bottom of this listing.<br></strong><br>
-</div><div>
-<em>Attention to detail is one of our </em><a href="https://wpforms.com/about-us/#core-values"><strong><em>core values</em></strong></a><em>! This is your chance to stand out :)<br></em><br>
-</div><div>
-<strong>To love this role, here’s the type of person you are:<br></strong><br>
-</div><ul>
-<li>You’re a self-starter who loves taking initiative and seeing things through from conception to completion. Our developers often "own" features/tasks and are responsible for scoping, development, and testing.</li>
-<li>You're an excellent communicator, fluent in both verbal and written English, who makes sure nothing slips through the cracks. We believe communication is <strong>critical </strong>and there is no such thing as over communicating.</li>
-<li>You have the curiosity and desire to learn and grow your skills.</li>
-<li>You're passionate about leaving your mark on the web for all to see and are excited to work on tasks that impact <em>millions</em> of users.</li>
-<li>You take pride in the quality and craftsmanship of your work rather than just doing it to get it done.</li>
-<li>You're a team player who is comfortable working along side and helping other developers, and you don't take critical feedback personally.</li>
-<li>You're happy jumping between front-end and back-end development tasks, or tackling tasks which require both.</li>
-<li>You're happy working on tasks of all sizes - from small bug fixes and enhancements to large features/rewrites.</li>
-</ul><div>
-<br><strong>Common responsibilities include (but are not limited to):<br></strong><br>
-</div><ul>
-<li>Triaging bugs and small enhancements that come into GitHub.</li>
-<li>Scoping, writing, and testing new product features and addons.</li>
-<li>Refactoring legacy code with a particular attention to backwards compatibility.</li>
-<li>Providing feedback and peer review for other developers (Github PRs).</li>
-<li>Communicating with the team and supporting your peers using chat, audio, and video.</li>
-</ul><div>
-<br><strong>Requirements<br></strong><br>
-</div><ul>
-<li>Professional experience with WordPress <strong>plugin </strong>development, architecture, and standards.</li>
-<li>Advanced proficiency with PHP and MySQL, including modern PHP practices (OOP, autoloading, namespacing, traits, interfaces, etc).</li>
-<li>Strong familiarity with JavaScript (vanilla JS, jQuery, ES6, etc).</li>
-<li>Ability to use and extend build tools like gulp and webpack.</li>
-<li>Familiarity with package managers such as Composer and NPM.</li>
-<li>Experience working with third-party APIs (Eg Stripe, Drip, Zapier, etc).</li>
-<li>Competent with version control through git and GitHub.</li>
-<li>The ability to iterate and ship ideas quickly.</li>
-<li>Exceptional troubleshooting skills.</li>
-<li>Ability to keep complex ideas and features <em>simple</em>. (Simplicity is a core value!)</li>
-<li>Previous freelance or remote work experience.</li>
-<li>Personal Computer with Internet Access</li>
-<li>Availability to participate in audio/video meetings between the hours 9 am - 5 pm EST.</li>
-</ul><div>
-<br><strong>Bonus points if you also have:<br></strong><br>
-</div><ul>
-<li>Advanced proficiency in JavaScript frameworks like VueJS or React.</li>
-<li>Experience with e-commerce platforms or related APIs (Easy Digital Downloads, WooCommerce, Stripe, PayPal, etc).</li>
-<li>Experience with DevOps or infrastructure management.</li>
-</ul><div>
-<br><strong>Benefits<br></strong><br>
-</div><div>Working for a fast-growing bootstrapped company is a rare opportunity, one we consider a lifestyle choice rather than a job choice. Our positions are challenging, but also come with amazing advantages and fulfillment to those who earn them. Here’s what we offer.<br><br>
-</div><ul>
-<li>Competitive Salary.</li>
-<li>Health, Dental and Vision Insurance benefits for full-time U.S. employees.</li>
-<li>Health Insurance benefits for all employees in India, Pakistan, Brazil, and Ukraine.</li>
-<li>Work from your home. We’re spread out all over the world – United States, Canada, Ukraine, India, Pakistan, Singapore and more.</li>
-<li>Unlimited PTO after 90 days of employment. We encourage employees to take the time they need for vacation, to stay healthy, and to spend time with friends and family.</li>
-<li>Paid maternity and paternity leave.</li>
-<li>We happily provide or reimburse software you’ll need as well as books or courses that promote continued learning.</li>
-<li>We give you the opportunity to solve challenging and meaningful problems that make a difference.</li>
-<li>Custom Branded laptop at your five year anniversary.</li>
-<li>We cover all costs of company travel (including our annual all-company retreat and mini-team meetups).</li>
-<li>Ability to work with some of the best people in the business through frequent, if not daily, interactions.</li>
-<li>And in case you were wondering: no politics, no b.s., and no jerks.</li>
-</ul><div>
-<br><strong>Location<br></strong><br>
-</div><div>This is a remote position - our team is spread around the globe! Our home base is in Florida, USA, so company operating hours are 9am - 5pm ET (UTC -5). While full coverage is not a requirement, you must be available during a portion of the day.<br><br>
-</div><div>
-<strong>Inclusion Statement<br></strong><br>
-</div><div>At Awesome Motive, we strive to have the broadest possible view of diversity, going beyond visible differences to include the background, experiences, skills, and perspectives that make each person unique. Awesome Motive is proud to be an equal opportunity workplace and is committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, Veteran status, or any other basis protected by federal, state, or local law.<br><br>
-</div><div>
-<strong>How to apply?<br></strong><br>
-</div><div>If all of this sounds interesting, then please submit your application!<br><br>
-</div><div>
-<strong>Please clearly include the following in your cover letter:<br></strong><br>
-</div><ul>
-<li>Your experience with WordPress plugin development.</li>
-<li>What is your favorite WordPress hook/function and why.</li>
-<li>Tell us a bit about yourself and why you should be considered. Details about your experience, qualifications, personality, etc are very helpful.</li>
-<li>Profile links with code samples (GitHub, GitLab, WordPress.org, etc).</li>
-<li>Other profile links if available (Your website, Twitter, LinkedIn, etc).</li>
-</ul><div>
-<br>Also note, don't forget to proofread before submitting. Check spelling, capitalization, etc. This is your chance to make your application stand out :)<br><br>We won’t be able to individually respond to all applications, but if we feel you’re a strong match, someone will be in touch shortly. Qualified candidates will be asked to do a simple code challenge.<br><br>Thanks and we look forward to hearing from you!<br><br>
-</div><div><a href="https://apply.workable.com/awesomemotive/j/198E2696EB/apply/"><strong>Apply for this job</strong></a></div><div><br></div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/awesome-motive-wordpress-developer-1">https://weworkremotely.com/remote-jobs/awesome-motive-wordpress-developer-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -255,7 +186,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>690 days ago</text>
+                <text>691 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -311,88 +242,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/8032/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Storetasker</h5>
-                    <h3> Senior Shopify Developer (Remote + Flexible)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>875 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/8032/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Brooklyn, NY
-    <br /><strong>URL:</strong> <a href="https://resources.storetasker.com/become-an-expert?apply=true&amp;source=weworkremotely_best_2021">https://resources.storetasker.com/become-an-expert?apply=true&amp;source=weworkremotely_best_2021</a>
-</p>
-
-<h1>Shopify developers love to freelance with Storetasker.</h1><ul>
-<li>
-<strong>Endless, quality clients: </strong>from well known DTC brands to top agencies. </li>
-<li>
-<strong>Fully remote, flexible: </strong>work as much or as little as you want, wherever you want. </li>
-<li>
-<strong>A talented and helpful community: </strong>it's freelance (with a team).</li>
-<li>
-<strong>Earn $80-$120 per hour: </strong>pick your clients, and send your own quotes or retainers. <br><br>
-</li>
-</ul><div>We've connected our community of Shopify developers to over 32,000 e-commerce brands. From new brands pre-launch, to some of the most successful Shopify Plus sites, to top creative agencies. Clients include: <a href="https://www.alphaindustries.com/">Alpha Industries</a>, <a href="https://www.bollandbranch.com/">Boll &amp; Branch</a>, <a href="https://getsuperfluid.com">Superfluid</a>, <a href="https://jackhenry.co/">Jack Henry</a>, <a href="http://plenaire.co/">Plenaire</a>, and <a href="https://walkfulton.com/">Fulton</a> among many more. <br><br><strong>Why Storetasker?</strong>
-</div><ul>
-<li>
-<strong>Endless clients &amp; project opportunities:</strong> you’ll see between 5 - 50 new opportunities per day and can pick any lead you want. </li>
-<li>
-<strong>You’ll earn more:</strong> some experts are making $150-200k per year. </li>
-<li>
-<strong>A high quality community:</strong> we carefully select about 5% of those who apply. </li>
-<li>
-<strong>Remote:</strong> work from anywhere, anytime. </li>
-<li>
-<strong>Flexible:</strong> take on as many clients as you want.</li>
-<li>
-<strong>No external ratings:</strong> you’re already a professional. No need to prove it. </li>
-<li>
-<strong>Great Software:</strong> that makes it easy to manage more clients and increase billable hours.</li>
-<li>
-<strong>Support when you need it:</strong> we offer project support 7 days per week. </li>
-<li>
-<strong>Community (not competition):</strong> you pick your clients, projects, and never compete against other Experts in the community. </li>
-</ul><div><br></div><div>
-<a href="https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_best_2021"><strong>Learn more and join</strong></a>! It’s confidential, and takes less than 5 minutes. <br><br><strong>Here's who we're looking for:</strong>
-</div><ul>
-<li>Ambitious part time and full-time freelancers and boutique agencies.</li>
-<li>Who have 3+ years of Shopify experience, and 5+ years of web development experience. </li>
-<li>And who have managed projects, deadlines, and communication successfully. </li>
-</ul><div>
-<br><strong>Especially people with some of these skills:</strong>
-</div><ul>
-<li>Front-end or full-stack Shopify development</li>
-<li>Klaviyo Email flows</li>
-<li>Headless e-commerce development</li>
-<li>Conversion rate optimization</li>
-<li>E-commerce expertise and strategy</li>
-<li>SEO </li>
-<li>Site Speed</li>
-<li>Builder and/or Shogun</li>
-</ul><div>
-<br><a href="https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_best_2021"><strong>It takes just a few minutes to join.</strong></a><br><br><strong>Here's what a few current members have to say:</strong><br><br>"Storetasker has changed my life - I'm not only making more, but I'm getting quality leads, a diverse slate of projects, and access to an amazing group of developers. Plus, I love the HQ team!" - Adan, United States, Storetasker Expert since March 2020<br><br>"Storetasker has connected me with clients that would never have been possible without them. That combined with an incredible support network and community makes joining an amazing opportunity for any developer”" - Mark, England, Storetasker Expert since 2019<br><br>"Storetasker has allowed me to live out my dreams as an independent developer - to move to Toronto and continue doing what I love: solving interesting problems and helping apparel companies grow." - Siah, Canada, Storetasker Expert since 2017<br><br><strong>Our Mission: </strong><br><br>We're a company built by ex-freelancers who know the ins and outs of being an independent entrepreneur. We've experienced first-hand the shortcomings of other freelance platforms and the pain-points of being fully independent. Our mission is to empower e-commerce entrepreneurs by giving them the experts, insights, and resources to succeed.  <br><br><strong>Questions?</strong> Reach out at experts@storetasker.com.</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1">https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1359476/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -403,7 +252,7 @@
                     <code>backend,frontend,fullstack,javascript</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -472,7 +321,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -547,7 +396,7 @@
                     <code>UI/UX,CI/CD</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -624,7 +473,7 @@
                     <code>C++,javascript,python,security</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -761,7 +610,7 @@
                     <code>api,azure,cloud,django</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -826,7 +675,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -903,7 +752,7 @@
                     <code>C,C#,unity,unity3D</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1064,6 +913,105 @@
 
     <h2><span style="color: #8c33ec;"><strong>Working hours</strong></span></h2>
 <p><span style="font-weight: 400;">&nbsp;Given that we are an all-remote company and hire </span><a href="https://handbook.sourcegraph.com/departments/people-ops/process/how-we-engage-talent-outside-the-us/"><span style="font-weight: 400;">almost anywhere</span></a><span style="font-weight: 400;"> in the world, we don’t have a particular time-zone preference for this role.</span></p>
+<h2><span style="color: #8c33ec;"><strong>Why this job is exciting</strong></span></h2>
+<p><a href="https://about.sourcegraph.com/cody?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=19895311885&amp;utm_term=sourcegraph%20cody&amp;gclid=CjwKCAjw0ZiiBhBKEiwA4PT9z9jbT-6ncbQS5bLcQHfuIy9Je5bCogDwICrbbZ8Z9TkwiKkenGMuFRoCptEQAvD_BwE"><span style="font-weight: 400;">Cody</span></a><span style="font-weight: 400;"> is the best AI coding assistant today, and you'll get to help build it and get it in the hands of millions of devs. AI applied to software engineering will change the world more than any single other technology. We're perfectly positioned to keep building the best coding AI because of our large-scale, deep understanding of code inside the most advanced companies in the world and across the world of public code.</span></p>
+<h2><span style="color: #8c33ec;"><strong>Job Responsibilities</strong></span></h2>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Build apps with Cody in public</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Build integrations on top of Cody (such as teaching Cody how to use and gather information from other dev tools, including logging, perf, etc., tools)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Livestream and record demos of what you build, for Twitter, YouTube, Twitch, etc.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Be an incredibly helpful and inspirational member of our dev community yourself and help grow it</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Represent our user community within Sourcegraph</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Write awesome technical blog posts and docs pages</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Promote Sourcegraph on social media</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Help connect our user community growth to our product-led growth engine</span></li>
+</ul>
+<h2><span style="color: #8c33ec;"><strong>Skills and experience</strong></span></h2>
+<p><span style="font-weight: 400;">Your skill-set:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You are intrinsically motivated by Sourcegraph’s mission and </span><a href="https://about.sourcegraph.com/cody?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=19895311885&amp;utm_term=sourcegraph%20cody&amp;gclid=CjwKCAjw0ZiiBhBKEiwA4PT9z9jbT-6ncbQS5bLcQHfuIy9Je5bCogDwICrbbZ8Z9TkwiKkenGMuFRoCptEQAvD_BwE"><span style="font-weight: 400;">Cody</span></a><span style="font-weight: 400;">.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience as a software engineer or prolific coding</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">TypeScript skills (</span><a href="https://sourcegraph.com/github.com/sourcegraph/sourcegraph/-/tree/client/cody"><span style="font-weight: 400;">Cody's code</span></a><span style="font-weight: 400;"> is open source)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Able to communicate technical concepts in a simple and engaging way</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience creating high-quality technical writing and videos</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience working in a high-agency environment that requires ownership</span></li>
+</ul>
+<p><span style="font-weight: 400;">&nbsp;Bonus Points:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You’ve established a strong following on social media platforms</span></li>
+</ul>
+<h2><span style="color: #8c33ec;"><strong>Level</strong></span></h2>
+<p><span style="font-weight: 400;">This job is an IC3 - IC4.&nbsp; You can read more about </span><a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/leveling-guide/"><span style="font-weight: 400;">our job leveling philosophy</span></a><span style="font-weight: 400;"> in our Handbook.</span></p>
+<h2><span style="color: #8c33ec;"><strong>Compensation</strong></span></h2>
+<p><strong>We pay you an above-average salary</strong><span style="font-weight: 400;"> because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. You will have the flexibility to work and live anywhere in the world</span><em><span style="font-weight: 400;"> (unless specified otherwise in the job description)</span></em><span style="font-weight: 400;">, and we’ll never take your location or current/past salary information into account when determining your compensation.&nbsp; As an </span><a href="https://handbook.sourcegraph.com/company-info-and-process/values/#sts=Open%20and%20transparent"><span style="font-weight: 400;">open and transparent </span></a><span style="font-weight: 400;">company that values equitable and competitive compensation for everyone, our </span><a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/"><span style="font-weight: 400;">compensation ranges are visible</span></a><span style="font-weight: 400;"> to every single Sourcegraph Teammate. To determine your salary, we use a number of market and data-driven salary sources and target the high-end of the range, ensuring that we’re always paying above market regardless of where you live in the world.&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">The target compensation for this role is $158,404 USD base.</span></p>
+<p><span style="font-weight: 400;">In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous </span><a href="https://handbook.sourcegraph.com/benefits-pay-perks/benefits-perks/"><span style="font-weight: 400;">perks &amp; benefits</span></a><span style="font-weight: 400;">.</span></p>
+<h2><strong><span style="color: #8c33ec;">Interview process</span>&nbsp;</strong></h2>
+<p><em><span style="font-weight: 400;">Below is the interview process you can expect for this role (you can read more about </span></em><a href="https://handbook.sourcegraph.com/talent/types_of_interviews"><em><span style="font-weight: 400;">the types of interviews</span></em></a><em><span style="font-weight: 400;"> in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&nbsp;</span></em></p>
+<p><span style="font-weight: 400;">We expect the interview process to take 4.5</span><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;">hours in total.</span><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;"><br><br></span></p>
+<p><strong>👋 Introduction Stage</strong><span style="font-weight: 400;"> - we have initial conversations to get to know you better…</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#recruiter-screen"><span style="font-weight: 400;">Recruiter Screen</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#hiring-manager-screen"><span style="font-weight: 400;">Hiring Manager Screen</span></a></li>
+</ul>
+<p><strong>🧑‍💻 Team Interview Stage</strong><span style="font-weight: 400;"> - we then delve into your experience in more depth and introduce you to members of the team…</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive"><span style="font-weight: 400;">Resume Deep Dive</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[60m] Working Session</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[45m] Cross-functional Collaboration</span></li>
+</ul>
+<p><strong>🎉 Final Interview Stage </strong><span style="font-weight: 400;">- we move you to our final round, where you meet cross-functional partners and gain a better understanding of our business and values holistically…</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#values-interview"><span style="font-weight: 400;">Values Interview</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#leadership-interview"><span style="font-weight: 400;">Leadership Interview</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">We check references and conduct your background check</span></li>
+</ul>
+<p><span style="font-weight: 400;">Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.</span></p>
+
+    
+
+    <div class="content-conclusion"><h2><span style="color: #a112ff;">Not sure if this is you?</span></h2>
+<p><span style="font-weight: 400;">We want a diverse, global team, with a broad range of experience and perspectives. If this job sounds great, but you’re not sure if you qualify, apply anyway! We carefully consider every application, and will either move forward with you, find another team that might be a better fit, keep in touch for future opportunities, or thank you for your time.</span></p>
+<h2><span style="color: #a112ff;">Learn more about us</span></h2>
+<p><span style="font-weight: 400;">To create a product that serves the needs of all developers, we are building a diverse </span><a href="https://handbook.sourcegraph.com/company-info-and-process/remote"><span style="font-weight: 400;">all-remote team</span></a><span style="font-weight: 400;"> that is </span><a href="https://handbook.sourcegraph.com/team"><span style="font-weight: 400;">distributed across the world</span></a><span style="font-weight: 400;">. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We provide </span><a href="https://about.sourcegraph.com/handbook/people-ops/compensation"><span style="font-weight: 400;">competitive compensation</span></a><span style="font-weight: 400;"> and </span><a href="https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks"><span style="font-weight: 400;">practical benefits</span></a><span style="font-weight: 400;"> to keep you happy and healthy so that you can do your best work.&nbsp;</span><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Learn more about what it is like to work at Sourcegraph by reading </span><a href="https://about.sourcegraph.com/handbook/"><span style="font-weight: 400;">our handbook</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process.</span></p>
+<p><span style="font-weight: 400;">Go back to the </span><a href="https://about.sourcegraph.com/jobs/"><span style="font-weight: 400;">careers page</span></a><span style="font-weight: 400;"> for all open positions.</span></p>
+<p>&nbsp;</p>
+<p><em><span style="font-weight: 400;">Sourcegraph participates in <a href="https://handbook.sourcegraph.com/departments/people-talent/e-verify/" target="_blank">E-Verify</a> for U.S. Employees</span></em></p></div>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1428393724527190022/4mt5PACL_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sourcegraph</h5>
+                    <h3>Developer Advocate (based in San Francisco, CA)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/sourcegraph91/jobs/4913314004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
+<h2><span style="color: #a112ff;">Who we are</span></h2>
+<p><span style="font-weight: 400;">Our mission at Sourcegraph is to make it so that </span><a href="https://handbook.sourcegraph.com/strategy-goals/strategy"><span style="font-weight: 400;">everyone can code</span></a><span style="font-weight: 400;">, not just ~0.1% of the population. Our code intelligence platform helps developers and </span><a href="https://about.sourcegraph.com/customers/"><span style="font-weight: 400;">companies</span></a><span style="font-weight: 400;"> with billions of lines of code create the software you use every day. By enabling more people to code, we believe we will create economic opportunity across the world and will drive progress that benefits everyone.</span></p>
+<p><span style="font-weight: 400;">It’s an exciting time to join Sourcegraph. Our business is growing rapidly: we’ve experienced exponential growth and our </span><a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/"><span style="font-weight: 400;">$125M Series D from Andreessen Horowitz</span></a><span style="font-weight: 400;"> and </span><a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"><span style="font-weight: 400;">$50M Series C from Sequoia</span></a><span style="font-weight: 400;"> have given us the opportunity to make big ambitious bets on our future. We have a huge market (every company that builds software) and massive opportunity (most developers haven't even heard of code intelligence yet, but once you've used it, you can't live without it--just like Google). By continuing to hire exceptional people, we have the opportunity to make Sourcegraph one of the biggest technology companies in the world. </span></p></div>
+
+    <h2><span style="color: #8c33ec;"><strong>Working hours</strong></span></h2>
+<p>While Sourcegraph is fully remote, we require the successful candidate for this role to reside in San Francisco. Regular attendance at weekly DevRel events in the city is an essential aspect of this position</p>
 <h2><span style="color: #8c33ec;"><strong>Why this job is exciting</strong></span></h2>
 <p><a href="https://about.sourcegraph.com/cody?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=19895311885&amp;utm_term=sourcegraph%20cody&amp;gclid=CjwKCAjw0ZiiBhBKEiwA4PT9z9jbT-6ncbQS5bLcQHfuIy9Je5bCogDwICrbbZ8Z9TkwiKkenGMuFRoCptEQAvD_BwE"><span style="font-weight: 400;">Cody</span></a><span style="font-weight: 400;"> is the best AI coding assistant today, and you'll get to help build it and get it in the hands of millions of devs. AI applied to software engineering will change the world more than any single other technology. We're perfectly positioned to keep building the best coding AI because of our large-scale, deep understanding of code inside the most advanced companies in the world and across the world of public code.</span></p>
 <h2><span style="color: #8c33ec;"><strong>Job Responsibilities</strong></span></h2>
@@ -2142,6 +2090,30 @@
                 </td>
                 <td width="300">
                     <h5>CloudLinux</h5>
+                    <h3>Senior C Developer for popular open source projects - REMOTE/Work Anywhere</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/42BDB0E928" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>We are looking to hire a C Developer, who will be part of our <a href="https://tuxcare.com/extended-lifecycle-support/" rel="nofollow noreferrer noopener" class="external">Extended Lifecycle</a> team. In this position you will backport security fixes to stable, maintaining by our company versions of those projects. You will also work and contribute to major, open source projects like Apache HTTPD, OpenSSL, MySQL.</p><p>TuxCare is a Division of CloudLinux Inc., the maker of the #1 OS in security and stability for hosting providers. TuxCare provides a set of services to automate, simplify and enhance enterprise Linux operations. It reduces the management tasks and patch delay risks with live patching, completely bypassing the need for complex service migration orchestration even when you have high availability in place. For more information about TuxCare check out our website <a href="https://tuxcare.com" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com</a></p><p><strong>What you will do:</strong></p><ul> <li>Backport security and bug fixes from newer upstream versions or writing patches from scratch. </li> <li>Create reproducers and tests for vulnerabilities.</li> <li>Contribute to upstream projects</li> <li>Work on various open-source projects like Apache httpd, Python, OpenSSL, etc.</li> <li>Automation of routine processes like CVEs monitoring, patches applying and testing.</li> </ul><h3>Requirements: </h3><ul> <li>You have 5+ years of С programming experience</li> <li>You have GNU/Linux operating system and shell scripting experience  </li> <li>You have ability to work with various build systems like autotools, make and cmake</li> <li>You have experience with git-based development processes  </li> <li>Python or other scripting language knowledge will be a plus</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> </li> <li>Flexible working hours</li> <li>Paid 24 days of vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
                     <h3>Senior C Developer for KernelCare - REMOTE/ Work Anywhere</h3>
                 </td>
                 <td width="300">
@@ -2157,343 +2129,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>We are looking for a Senior C/Linux/POSIX Developer to join our KernelCare team. KernelCare, CloudLinux’s fastest-growing product, provides automated kernel security updates for the most popular Linux distributions without reboots. It ensures optimal performance and uptime by allowing hosting providers and enterprises to keep kernels up-to-date with all security patches while keeping servers online.</p><p>We are Cloud Linux Inc., the maker of the #1 OS for web hosting providers. Using the most innovative technologies, we develop our products - CloudLinux OS, KernelCare, and Imunify360. Our products are used by thousands of companies around the world.</p><h3>Requirements: </h3><ul> <li>BS/BA degree in Computer Science, Engineering, or another technical-related field</li> <li>5+ years of experience developing applications in C/C++ in a Linux Environment preferably with GCC/GNU tool chains</li> <li>Knowledge of POSIX API</li> <li>Knowledge of compilers, assemblers, and libraries internals</li> <li>Experience with C and C++ ABI, exception handling, stack unwinding, ptrace</li> <li>Experience with Linux, Python, and BASH scripting</li> <li>A passion for solving challenging problems</li> <li>Experience with parallel, concurrent, and multi-threaded programming</li> <li>Happy in an agile, fast-paced environment. </li> <li>Excellent interpersonal and teamwork skills</li> </ul> <ul><li>Have a track record of contributing to open-source solutions (good to have)</li></ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> </li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p><br></p><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Senior Python Developer for CloudLinux OS - REMOTE/Work Anywhere</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/450E10EC33" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and  we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful. <br></p><p><strong>We are looking for Middle Python Developers to join our CloudLinux OS team.</strong></p><p>CloudLinux OS, our flagship product, runs on more than 25,000 production servers today, powering over 20 million websites, and is recognized as the best OS for security and efficiency in a shared hosting environment. CloudLinux OS increases server density and enhances security, thus reducing operating costs, decreasing churn rates, and increasing profitability. Check out our website for more information about our CLOS Product <a href="https://www.cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">https://www.cloudlinux.com/</a></p><p>You will be involved in backend development for CloudLinux projects using Python.<br></p><p>It is required to cover your code with unit-tests using Python and/or with functional tests.</p><p><strong>Additional activities may include:</strong></p><ul> <li>investigating issues reported by our clients, partners or support team;</li> <li>communication with our 3rd level support team to provide consultations or help related to CloudLinux projects;</li> <li>writing technical documentation for new features;</li> <li>review of code written by your colleagues using Gerrit.</li> </ul><p>Work is fully remote, with flexible hours, where you can plan your day and work from anywhere.</p><p>More details about the company on <a href="https://www.cloudlinux.com/" target="_blank" rel="nofollow noreferrer noopener" class="external">Cloudlinux.com</a>.</p><p>Join us to make the difference!</p><p><br></p><h3>Requirements: </h3><p><br></p><ul> <li>3+ years of experience with Python</li> <li>Basic algorithms and data structures</li> <li>Good knowledge of SQL</li> <li>Experience in system programming for Linux OS</li> <li>Research and propose performance optimization solutions for PHP sites, including those working on WordPress.</li> <li>Basic knowledge of Git</li> <li>Able to read code</li> <li>The ability to read and write in English</li> <li>Shell scripting </li> <li>Knowledge of Ansible, Vagrant, Jenkins</li> <li>Experience with building RPM packages</li> </ul><p><strong>Will be a plus:</strong></p><ul><li>Knowledge of C, PHP, Perl and JavaScript </li></ul><p><strong>Personal skills:</strong></p><ul> <li>Fast-learning, proactivity</li> <li>Desire to work in a fast-paced growing deadline-driven startup-up environment</li> <li>Strong self-motivation, driven to achieve committed milestones</li> <li>The ability to independently analyze a task and find the right solution</li> <li>The ability to work in a team</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A great opportunity for professional development within the young and fast-growing company</li> <li>Interesting and challenging projects</li> <li>Knowledge-Exchange</li> <li>Remote work with long-term employment on a full-time basis under contract</li> <li>High-level compensation based on the performance reviews</li> <li>Flexible working hours</li> <li>Paid one month vacation per year and sick leaves</li> <li>Medical insurance reimbursement</li> <li>English educational programs</li> <li>Ability to study and attend seminars and training according to the request</li> <li>Co-working and gym/sports compensations</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1410605776171790343/H2oHr9kW_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Clevertech</h5>
-                    <h3>Native Android Developer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://clevertech.biz/remote-jobs/android-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                Experience Remote done Right.
-Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects
-
-#### What we're working on:
-Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries
-
-#### Requirements
-
-- 7+ years of professional experience (A technical assessment will be required)
-- Senior-level experience of at least 4 years of experience in mobile development
-- Must have apps on the app store with over 100 reviews
-- 5+ years of production-level software development experience
-- Recent experience with RxJava
-- Strong design and coding skills (Java/Android)
-- Written and verbal Advanced English fluency
-
-#### Straight from the Devs
-Watch short snippets of actual developers (Real, not scripted) share why they joined [YouTube Playlist](https://cleverte.ch/3)
-
-#### Why Clevertech is an amazing place to work at
-At Clevertech, you can expect that you will:
-
-- Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow
-- Be a part of a team of talented and friendly senior-level developers
-- Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery
-
-The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.
-
-Job is 100% Remote, please make sure you have a comfortable office set at your desired work location.
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1410605776171790343/H2oHr9kW_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Clevertech</h5>
-                    <h3>iOS Native Developer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://clevertech.biz/remote-jobs/i-os-mobile-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                Experience Remote done Right.
-Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects
-
-#### Requirements
-
-* 7+ years of experience with iOS
-* Ability to effectively articulate technical challenges and solutions
-* Strong design and coding skills (Swift/Java/Objective-C)
-* A solid grasp of fundamental algorithms and mobile applications
-* Deal well with ambiguous/undefined problems; ability to think abstractly
-* Passion for operational excellence
-* Strong communicator and fluent in English with excellent written and verbal communication skills.
-* Knowledge about the Lean Startup and Agile Methodologies
-
-#### Straight from the Devs
-Watch short snippets of actual developers (Real, not scripted) share why they joined [YouTube Playlist](https://cleverte.ch/3)
-
-#### Why Clevertech is an amazing place to work at
-At Clevertech, you can expect that you will:
-
-- Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow
-- Be a part of a team of talented and friendly senior-level developers
-- Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery
-
-The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.
-
-Job is 100% Remote, please make sure you have a comfortable office set at your desired work location.
-
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1410605776171790343/H2oHr9kW_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Clevertech</h5>
-                    <h3>Fullstack Python/React Developer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://clevertech.biz/remote-jobs/python-react-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                #### Experience Remote done Right.
-With over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, and provide exceptional opportunities for career growth while working with stellar clients on ambitious projects
-
-#### What we're working on:
-Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit, and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media, or other complex multifactor industries
-
-#### Requirements
-
-* 7+ years experience in Python and React
-* Senior-level experience with Javascript, React, Python, and Django
-* Nice to have experience with AgGrid, Bulma, Sass, and React Testing Library
-* Ability to create clean, modern, testable, well-documented code
-* Ideally, you have delivered business-critical software to large enterprises
-* Advanced-level English; ability to clearly communicate complex concepts verbally
-
-
-#### Straight from the Devs
-Watch short snippets of actual developers (Real, not scripted) share why they joined [YouTube Playlist](https://cleverte.ch/3)
-
-#### Why Clevertech is an amazing place to Work at
-At Clevertech, you can expect that you will:
-
-- Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow
-- Be a part of a team of talented and friendly senior-level developers
-- Work on projects that allow you to use cutting-edge tech. We believe in constantly evolving your mastery
-
-The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1410605776171790343/H2oHr9kW_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Clevertech</h5>
-                    <h3>Senior Ionic Developer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://clevertech.biz/remote-jobs/senior-ionic" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                Experience Remote done Right.
-Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects
-
-#### What we're working on:
-Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries.
-
-#### Requirements
-- 7+ years of professional experience (A technical assessment will be required)
-- Senior-level experience of at least 4 years of experience building mobile apps with Ionic + Angular
-- Ability to implement an Ionic Logic Flow
-- Strong familiarity with iOS and Android applications
-- Experience deploying apps to AppStore Connect and Google Play platforms
-- Advanced English fluency, verbal and written
-
-#### Straight from the Devs
-Watch short snippets of actual developers (Real, not scripted) share why they joined [YouTube Playlist](https://cleverte.ch/3)
-
-#### Why Clevertech is an amazing place to work at
-At Clevertech, you can expect that you will:
-
-- Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow
-- Be a part of a team of talented and friendly senior-level developers
-- Work on projects that allow you to use cutting-edge tech. We believe in constantly evolving your mastery
-
-The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.
-
-Job is 100% Remote, please make sure you have a comfortable office set at your desired work location.
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1410605776171790343/H2oHr9kW_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Clevertech</h5>
-                    <h3>Senior React Native Developer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://clevertech.biz/remote-jobs/senior-react-native-dev" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                Experience Remote done Right.
-Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects
-
-#### What we're working on:
-Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries
-
-
-#### Requirements
-
-- 7+ years of professional experience (A technical assessment will be required)
-- Senior-level experience of at least 4 years of experience building mobile apps with React Native as well as with Ionic Deploy
-- Ability to create clean, modern, testable, well-documented code
-- Experience deploying apps to AppStore Connect and Google Play platforms
-- Advanced English fluency, verbal and written
-- Problem solver, proactive, go getter
-
-#### Straight from the Devs
-Watch short snippets of actual developers (Real, not scripted) share why they joined [YouTube Playlist](https://cleverte.ch/3)
-
-#### Why Clevertech is an amazing place to work at
-At Clevertech, you can expect that you will:
-
-- Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow
-- Be a part of a team of talented and friendly senior-level developers
-- Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery
-
-The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.
-
-Job is 100% Remote, please make sure you have a comfortable office set at your desired work location.
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1410605776171790343/H2oHr9kW_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Clevertech</h5>
-                    <h3>Senior Ionic + React Developer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://clevertech.biz/remote-jobs/senior-ionic-react" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                Experience Remote done Right.
-Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects
-
-#### What we're working on:
-Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries.
-
-#### Requirements
-- 7+ years of professional experience (A technical assessment will be required)
-- Senior-level experience with at least of 4 years of experience building mobile apps with Ionic + React
-- Ability to implement an Ionic Logic Flow
-- Senior-level experience with Javascript, React, Redux, Websockets, Async/Await
-- Ability to create clean, modern, testable, well-documented code
-- Strong familiarity with iOS and Android applications
-- Experience deploying apps to AppStore Connect and Google Play platforms
-- Advanced English fluency, verbal and written
-
-#### Straight from the Devs
-Watch short snippets of actual developers (Real, not scripted) share why they joined [YouTube Playlist](https://cleverte.ch/3)
-
-#### Why Clevertech is an amazing place to work at
-At Clevertech, you can expect that you will:
-
-- Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow
-- Be a part of a team of talented and friendly senior-level developers
-- Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery
-
-The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.
-
-Job is 100% Remote, please make sure you have a comfortable office set at your desired work location.
-
+                <p>We are looking for a Senior C/Linux/POSIX Developer to join our KernelCare team. KernelCare, CloudLinux’s fastest-growing product, provides automated kernel security updates for the most popular Linux distributions without reboots. It ensures optimal performance and uptime by allowing hosting providers and enterprises to keep kernels up-to-date with all security patches while keeping servers online.</p><p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure everyone is successful. We are truly a great place to work.</p><p>For more details about our company go to <a href="http://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">Cloudlinux.com</a>.</p><p><strong>As our Senior C developer you will be responsible for:</strong></p><ul> <li>Develop the engine and toolchain of the live-patching services for userspace</li> <li>Implement, backport and adapt CVE patches for glibc, openssl, QEMU</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role you should have:</strong></p><ul> <li>5+ years of experience developing applications in C/C++ in a Linux Environment preferably with GCC/GNU tool chains</li> <li>Knowledge of POSIX API</li> <li>Knowledge of compilers, assemblers, and libraries internals</li> <li>Experience with C and C++ ABI, exception handling, stack unwinding, ptrace</li> <li>Experience with Linux, Python, and BASH scripting</li> <li>Experience with parallel, concurrent, and multi-threaded programming</li> <li>Have a track record of contributing to open-source solutions (good to have)</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> </li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p><br></p><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
                 </details>
                 </td>
             </tr></table>
