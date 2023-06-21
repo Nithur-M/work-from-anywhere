@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/wikimedia-foundation-senior-site-reliability-engineer-database" align="right" target="_blank">Apply</a>
@@ -82,7 +82,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>242 days ago</text>
+                <text>243 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-site-reliability-engineer-1" align="right" target="_blank">Apply</a>
@@ -277,7 +277,7 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 
-      <p>This role is an opportunity for a hands-on, but literally hands-off, technologist with a passion for Linux to build a career with Canonical and drive the success with those leveraging Ubuntu and open source products.&nbsp; If you have an affinity for operations automation and a passion for technology, then you will enjoy working with some of the best people in the industry at Canonical.</p>
+      <p>This role is an opportunity for a hands-on, but literally hands-off, technologist with a passion for Linux to build a career with Canonical and drive the success with those leveraging Ubuntu and open source products. &nbsp;If you have experience of IT operations automation, Infrastructure as Code and a passion for technology, then you will enjoy working with some of the best people in the industry at Canonical.<br></p>
 <h2>Job Summary</h2>
 <p>The IS team at Canonical supports and maintains all of Canonical’s IT production services. The team is in charge of running services used by over 60 million Ubuntu users.</p>
 <p>As an SRE &amp; Gitops engineer you’ll be in a unique position to drive operations automation to the next level, both in our own private clouds as well as in the public clouds. We do this by utilizing the best of open source infrastructure as code software, software development practices such as CI/CD pipelines, and Canonical’s leading products for software operation automation.</p>
@@ -285,20 +285,21 @@
 <p>You’ll be part of a global team of SREs that work together and support each other to provide the best possible services to our company, Canonical’s customers and the Ubuntu Community.</p>
 <h2>As a Site Reliability / Gitops Engineer engineer you will</h2>
 <ul>
-<li>Automate software operations for reusability and consistency across private and public clouds, taking into consideration the complexities of distributed systems</li>
-<li>Develop infrastructure as code practice within IS by constantly increase automation and improve IaC processes</li>
+<li>Apply your experience of IaC to develop infrastructure as code practice within IS by constantly increasing automation and improving IaC processes</li>
+<li>Automate software operations for re-usability and consistency across private and public clouds, taking into consideration the complexities of distributed systems</li>
 <li>Develop new features and improve the resilience and scalability of the existing cloud and container portfolio at Canonical</li>
 <li>Maintain operational responsibility for all of Canonical’s core services, networks, and infrastructure</li>
-<li>Develop skills in troubleshooting, capacity planning, and performance investigation,</li>
-<li>Setting up, maintaining and using observability tools such as Prometheus, Grafana, and Elasticsearch; design, implement and maintain Implementing monitoring and alerting for various systems and services&nbsp;&nbsp;</li>
+<li>Develop skills in troubleshooting, capacity planning, and performance investigation, Setting up, maintaining and using observability tools such as Prometheus, Grafana, and Elasticsearch; design, implement and maintain monitoring and alerting for various systems and services</li>
 <li>Collaborate with development teams to design service architecture, documentation, playbooks, policies and operational procedures</li>
 <li>Provide assistance and work with globally distributed engineering, operations, and support peers</li>
-<li>Be given uninterrupted software development time to focus on larger projects and automation of manual tasks</li>
+<li>Be given uninterrupted development time to focus on larger projects and automation of manual tasks</li>
+<li>Share your experience, know-how and best practices with other team members in design sessions, mentorship and ‘doing work together’</li>
 <li>Carry final responsibility for time-critical escalations</li>
 </ul>
-<h2>The successful candidate will have</h2>
+<h2></h2>
+<h2>What we are looking for in you</h2>
 <ul>
-<li>A strong drive to define operations in code, using version control, peer review and CI/CD to roll out changes both to applications and infrastructure.</li>
+<li>A deep experience of, and knowledge to define operations in code, using version control, peer review and CI/CD to roll out changes both to applications and infrastructure</li>
 <li>Strong modern engineering background (peer-review, unit testing, SCM, CI/CD, Agile)</li>
 <li>Python software development experience, with large projects</li>
 <li>Practical knowledge of Linux networking, routing, and firewalls</li>
@@ -311,12 +312,12 @@
 <li>A willingness to be flexible and able to learn new things quickly</li>
 <li>Be inspired by the needs of fast-changing environments</li>
 <li>Happy to work within distributed teams</li>
-<li>Be passionate and familiarized about open-source, especially Ubuntu or Debian</li>
-<li>There are multiple openings in APAC and Americas. A residence in one of those regions is required.<br></li>
+<li>Be passionate and familiarized about open-source, especially Ubuntu or Debian<br></li>
 </ul>
+
 <h2>What we offer you</h2>
-<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. Our compensation philosophy is to ensure equity right across our global workforce.&nbsp;&nbsp;</p>
-<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, please ask in the later stages of the recruitment process.</p>
+<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilization. Our compensation philosophy is to ensure equity right across our global workforce.&nbsp;&nbsp;</p>
+<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.</p>
 <ul>
 <li>Fully remote working environment - we’ve been working remotely since 2004!</li>
 <li>Personal learning and development budget of 2,000USD per annum</li>
@@ -333,8 +334,8 @@
 <p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
 <h2>Canonical is an equal opportunity employer</h2>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-
-<p>#LI-remote&nbsp;</p><p>Requisition ID: 263</p><p></p>
+<p>#LI-remote&nbsp;</p>
+<p>Requisition ID: 263</p><p></p>
     
                 </details>
                 </td>
