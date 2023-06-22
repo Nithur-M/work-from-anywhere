@@ -60,7 +60,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-10" align="right" target="_blank">Apply</a>
@@ -117,7 +117,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/public-knowledge-project-systems-developer" align="right" target="_blank">Apply</a>
@@ -186,7 +186,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>691 days ago</text>
+                <text>692 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -242,6 +242,44 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1713667/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Social Discovery Group</h5>
+                    <h3>Senior IOS Developer (EVA AI)</h3>
+                </td>
+                <td width="300">
+                    <code>ios,swift,video,AI/ML</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-ios-developer-eva-ai-1713667" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Social Discovery Group</strong> is an international online holding company with a line of social discovery products with an audience of 180 million users worldwide. For more than 20 years we have been creating premium international online services in the sphere of global dating, and inside our own startup lab SDG Lab we launch new projects in the segment of entertainment, social games and streaming.Our team of 700 people in 11 offices on different continents creates innovative products that change the experience of virtual communication.</p>
+<p>At SDG Lab we are launching and developing new projects and are currently looking for a <strong>Senior IOS Developer</strong> to take part in the development of our own product <strong>EVA AI</strong>.</p>
+<p><strong>EVA AI </strong>is an AI companion designed for everyday communication and support. EVA AI is always ready to listen, engage in conversation, and provide emotional support. It serves as an ideal conversational partner, creating a safe space free from judgment or offense.</p>
+<p>EVA AI helps alleviate loneliness and boredom, reduce stress levels, and fulfill the need for social interaction. It leverages advanced artificial intelligence algorithms to create a rich interactive experience. Our virtual friend can offer advice, sometimes even disagreeing with the user, and requires a little attention in return. It has its own backstory, and the relationship with EVA AI continuously evolves. The more users engage with EVA AI, the more additional features and capabilities they unlock.</p>
+<p>We are part of a major holding company and have a clear mission: to create something significant. Our goal is to build a billion-dollar+ business. However, we enjoy the benefits of a startup without its drawbacks, as we are backed by a large holding company. We have access to infrastructure and financial support that only large corporations can provide.</p>
+<p>Currently, we offer real-time voice messaging, and we have plans to introduce virtual characters for video communication in the future. Our character is likely to have the ability to understand user emotions.</p>
+<p><strong>Your main tasks will be:</strong><br></p>
+<ul style=""><li style="">Participation in the design of the architecture for a large high-load application;</li><li style="">Development of new functionality and enhancement of existing features. Integration of neural networks into the product;</li><li style="">Implementation of components and services;</li><li style="">Quality control of implementation.</li></ul>
+<p><strong>Required hard skills:</strong></p>
+<ul style=""><li style="">Knowledge of ObjC, Swift;</li><li style="">SOLID and clean architecture.</li></ul>
+<p><strong>Nice to have hard skills:</strong></p>
+<ul style=""><li style="">FRP (rxSwift/Combine).</li></ul>
+<p><strong>We offer:</strong></p>
+<ul style=""><li style="">REMOTE OPPORTUNITY to work full time;</li><li style="">Bonuses up to $5000 for recommending successful applicants for positions in the company;</li><li style="">Full payment for professional training, international conferences and meetings;</li><li style="">Corporate discount for English lessons;</li><li style="">​Health benefits. If you are not eligible for Corporate Medical Insurance, the company will compensate up to $1000 gross per year per employee according to the paychecks. This can be spent on self-purchase of health insurance, or on doctor's fees for yourself and close relatives (spouse, children);</li><li style="">​Children's education reimbursement. The company will compensate 50% of the costs of education for children ( kindergarten or school), but no more than $1000 gross per year per child according to the paychecks;</li><li style="">​Workplace organization. The company provides all employees with an equipped workplace and all the necessary equipment (table, armchair, wifi, etc.) in the locations where we have offices or co-workings. In the other locations the company provides reimbursement of the workplace costs up to $ 1000 gross once every 3 years according to the paychecks. This money can be spent on the rent of the co-working room, on equipping the working place at home (desk, chair, Internet, etc.) during those 3 years;</li><li style="">Own line of branded clothing and accessories with corporate logo for different occasions;</li><li style="">Library of technical and business literature, lectures on Art&amp;Technology and HLS;</li><li style="">Internal gamified gratitude system: receive bonuses from colleagues and exchange them for time off, merch, team building activities, massage certificates, etc;</li><li style="">7 wellness days/ 7 paid days per year (time off) that can be used to deal with household issues, to lie down and recover without taking sick leave.</li></ul>
+<img src="https://remotive.com/job/track/1713667/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1359476/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -252,7 +290,7 @@
                     <code>backend,frontend,fullstack,javascript</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -321,7 +359,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -396,7 +434,7 @@
                     <code>UI/UX,CI/CD</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -473,7 +511,7 @@
                     <code>C++,javascript,python,security</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -610,7 +648,7 @@
                     <code>api,azure,cloud,django</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -675,7 +713,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -752,7 +790,7 @@
                     <code>C,C#,unity,unity3D</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -882,6 +920,116 @@
 </li>
 </ul>
 <img src="https://remotive.com/job/track/1606658/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1651226564728700928/h0tz5UT1_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Supabase</h5>
+                    <h3>Front-End Developers (o11y focus)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/supabase/jobs/4910374004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p><img src="https://pbs.twimg.com/media/FIdU8GJWQAUGWRA?format=jpg&amp;name=small" alt="Join Supabase" width="680" height="453"></p></div>
+
+    <p>We're looking for a Senior Front End Developer to join our team to help change the way developers build their applications.</p>
+<p>You'll be primarily responsible for growing our NextJS apps to a comprehensive development stack, including our backend API, user authentication and expanding our React UI. You'll be an indispensable part of the team, by working very closely with our frontend team, designers, founders and backend engineers; you'll be directly contributing to technical choices, building a team culture and co-authoring internal processes for a growing team.</p>
+<p>This role is specifically focused around observability (”o11y”). You will work to improve logging, reporting and analytics in the Dashboard for all of our tools.</p>
+<p>This is an opportunity to truly take ownership of a web platform, defining how it evolves, and how we can scale our users, team, product and processes.</p>
+<p><strong>What we need</strong></p>
+<p>This role requires three critical attributes:</p>
+<ol>
+<li>You’ve got a background in working with data. In addition to your frontend skills, you’ve got experience with wrangling and visualizing data. You might have worked on other customer-facing dashboards, building time-series visualizations for reporting metrics like usage and utilization. You have meaningful experience presenting data to users. You don’t need to be a database expert, but you are solid SQL—optimizing SQL queries would be a common task, for example.<br><br></li>
+<li>Ability to write great production <strong>React</strong> code in Next.JS. You know React and Next.JS very well. You know a state management tool like Redux or MobX really well. You implicitly know many of the reasons why we’re rewriting our Dashboard to use React Query instead of MobX. You can take a MobX store and rewrite it using React Query.<br><br></li>
+<li>&nbsp;Ability to self-manage. Every company will expect you to self-manage to some degree, but Supabase takes this to a new level. We are a flat, early-stage startup without a lot of structure. To thrive in this environment, you’ll need to be a motivated self-starter who is good working asynchronously across multiple teams. We’re looking for someone who will identify things that need improvement and put their heads down until it’s shipped.</li>
+</ol>
+<p><strong>What you’ll do</strong></p>
+<ul>
+<li>Build our logging, reporting and analytics tools in the Dashboard, iterating existing features and building new ones.</li>
+<li>Take ownership of the Dashboard front end stack, planning and iterating on it based on a roadmap that you have an active voice in moulding.</li>
+<li>Build tools within the Supabase ecosystem, occasionally dogfooding our own work</li>
+<li>Interacting with customers on a daily basis.</li>
+<li>Help build out the test suite for the Dashboard</li>
+<li>Improve the speed, performance and code quality of our Dashboard</li>
+<li>Triage and fix GitHub issues</li>
+</ul>
+<p><strong>Must haves</strong></p>
+<ul>
+<li>5+ years experience in web development (React, Typescript, HTML, CSS, Node.js, relational databases);</li>
+<li>Knowledge of modern JS (ES6 etc), React UI Components (we use Radix), state management (Mobx, Redux, etc), and data fetching strategies using React Query / SWR, etc;</li>
+<li>Experience with building visual tools for logging, reporting analytics;</li>
+<li>Experience with relational databases (especially Postgres) and SQL</li>
+<li>Willingness to evolve and shape the development tools/stack;</li>
+<li>Willingness to regularly talk to customers to ensure we’re solving problems they have;</li>
+<li>Willingness to work in a fast-paced environment.</li>
+</ul>
+<p><strong>Nice to haves</strong></p>
+<ul>
+<li>Experience with <a href="https://d3js.org/">d3js</a>;</li>
+<li>Experience working on large projects, and the code and contribution complexities that come with it;</li>
+<li>Web accessibility experience;</li>
+<li>Experience working on a large, open-source project.</li>
+</ul>
+<p><strong>We offer:</strong></p>
+<ul>
+<li>100% remote work from anywhere in the world. No location-based adjustment to your salary.</li>
+<li>ESOP (equity ownership in the company)</li>
+<li>Autonomous work. We work collaboratively on projects, but you set your own pace.</li>
+<li>Health, Vision and Dental benefits. Supabase covers 100% of the cost for employees and 80% for dependents</li>
+<li>Generous Tech Allowance for any office setup you need</li>
+<li>Annual Education Allowance</li>
+<li>Annually run off-sites.</li>
+</ul>
+
+    
+
+    <div class="content-conclusion"><h3>BUILD IN A WEEKEND. SCALE TO BILLIONS</h3>
+<p>Supabase adds auth, realtime, and restful APIs to Postgres without a single line of code.</p>
+<p>Each project within Supabase is an isolated&nbsp;Postgres cluster, allowing customers to scale independently, while still providing the features that you need to build: instant database setup, auth, row level security, realtime data streams, auto-generating APIs, and a simple to use web interface.</p>
+<p>We are a fully remote company.</p>
+<p>Key Tech: Javascript, Typescript, Go, Elixir, PostgREST (haskell), Postgres, Pulumi.</p>
+<h3><a id="about-the-team" class="anchor"></a>About the team</h3>
+<ul>
+<li>We're a startup. It's unstructured.</li>
+<li>Collectively founded more than a dozen venture-backed companies.</li>
+<li>More than 10 different nationalities.</li>
+<li>We deeply believe in <a href="https://supabase.com/blog/2022/03/25/should-i-open-source-my-company" target="_blank">the efficacy of collaborative open source</a>. We support existing communities and tools, rather than building "yet another xx".</li>
+<li>We "dogfood" everything. If you use it in your project, we use it in Supabase.</li>
+</ul>
+<h2><a id="process" class="anchor"></a>Process</h2>
+<ul>
+<li>The entire process is fully remote and all communication will happen over email or via video chat.</li>
+<li>Once you've submitted your application, the team will review your submission, and may reach out for a short screening interview over video call.</li>
+<li>If you pass the screen you will be invited to up to four follow up interviews. The calls:
+<ul>
+<li>usually take between 20-45 minutes each depending on the interviewer.</li>
+<li>are all 1:1.</li>
+<li>will be with both founders, a member of either the growth or engineering team (depending on the role), and usually one other person from your immediate team or function.</li>
+</ul>
+</li>
+<li>Once the interviews are over, the team will meet to discuss several roles and candidates and may:
+<ul>
+<li>ask one or two follow-up questions over email or a quick call.</li>
+<li>go directly to making an offer.</li>
+</ul>
+</li>
+</ul>
+<h2>&nbsp;</h2></div>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -2129,7 +2277,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>We are looking for a Senior C/Linux/POSIX Developer to join our KernelCare team. KernelCare, CloudLinux’s fastest-growing product, provides automated kernel security updates for the most popular Linux distributions without reboots. It ensures optimal performance and uptime by allowing hosting providers and enterprises to keep kernels up-to-date with all security patches while keeping servers online.</p><p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure everyone is successful. We are truly a great place to work.</p><p>For more details about our company go to <a href="http://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">Cloudlinux.com</a>.</p><p><strong>As our Senior C developer you will be responsible for:</strong></p><ul> <li>Develop the engine and toolchain of the live-patching services for userspace</li> <li>Implement, backport and adapt CVE patches for glibc, openssl, QEMU</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role you should have:</strong></p><ul> <li>5+ years of experience developing applications in C/C++ in a Linux Environment preferably with GCC/GNU tool chains</li> <li>Knowledge of POSIX API</li> <li>Knowledge of compilers, assemblers, and libraries internals</li> <li>Experience with C and C++ ABI, exception handling, stack unwinding, ptrace</li> <li>Experience with Linux, Python, and BASH scripting</li> <li>Experience with parallel, concurrent, and multi-threaded programming</li> <li>Have a track record of contributing to open-source solutions (good to have)</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> </li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p><br></p><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
+                <p>We are looking for a Senior C/Linux/POSIX Developer to join our LibCare Developers team. As a Senior C Developer, you will contribute to the development and maintenance of the Libcare library. You will work closely with a talented team of developers to create high-quality code and deliver innovative solutions. </p><p>Libcare serves as a powerful toolkit for software developers, empowering them to build high-performing, secure, and reliable applications while reducing development complexities. It is part of KernelCare, CloudLinux’s fastest-growing product, which provides automated kernel security updates for the most popular Linux distributions without reboots. It ensures optimal performance and uptime by allowing hosting providers and enterprises to keep kernels up-to-date with all security patches while keeping servers online.</p><p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure everyone is successful. We are truly a great place to work.</p><p>For more details about our company go to <a href="http://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">Cloudlinux.com</a>.</p><p><strong>As a Senior C developer, you will be responsible for:</strong></p><ul> <li>Develop the engine and toolchain of the live-patching services for userspace</li> <li>Implement, backport and adapt CVE patches for glibc, openssl, QEMU</li> <li>Code debugging</li> <li>Participate in Code Review processes to ensure code quality and knowledge sharing across the team.</li> <li>Collaborate with the team to define software require</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role you should have:</strong></p><ul> <li>5+ years of experience developing applications in C/C++ in a Linux Environment preferably with GCC/GNU tool chains</li> <li>Knowledge of POSIX API</li> <li>Knowledge of compilers, assemblers, and libraries internals</li> <li>Experience with C and C++ ABI, exception handling, stack unwinding, ptrace</li> <li>Experience with Linux, Python, and BASH scripting</li> <li>Experience with parallel, concurrent, and multi-threaded programming</li> <li>Have a track record of contributing to open-source solutions (good to have)</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> </li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p><br></p><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
                 </details>
                 </td>
             </tr></table>
