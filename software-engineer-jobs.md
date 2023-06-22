@@ -1,100 +1,56 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0097/0560/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Strategy11</h5>
-                    <h3> Senior WordPress Software Engineer</h3>
+                    <h5>Sticker Mule</h5>
+                    <h3> Software Engineer (C++)</h3>
                 </td>
                 <td width="300">
-                    <code>Full-Stack Programming</code>
+                    <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>150 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/strategy11-senior-wordpress-software-engineer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0097/0560/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
-  <strong>Headquarters:</strong> Utah
-    <br /><strong>URL:</strong> <a href="https://strategy11.com/">https://strategy11.com/</a>
+  <strong>Headquarters:</strong> New York, NY
+    <br /><strong>URL:</strong> <a href="https://www.stickermule.com/careers">https://www.stickermule.com/careers</a>
 </p>
 
-<div>Hi! We’re Strategy11. We are the company behind Formidable Forms, WP Tasty, and Business Directory Plugin. No matter what product we’re working on, our goal is to make big projects possible without big resources, and make complex tasks simple. Our software is running on over 400,000 websites, and our team is growing fast. We have tons of big plans for the future, and would love for you to be a part of it.<br><br>
-</div><div>As a Senior WordPress Software Engineer, you’re responsible for Making Stuff Go. You will build infrastructure to create new features, help plan the roadmap, improve existing code, squash bugs, and help us rapidly scale our platform.<br><br>
-</div><div>We are looking for energetic and fun people who love to work hard and get things done.<br><br>
-</div><div>Interested? See “How to Apply” below to learn more before applying.<br><br>
-</div><div>
-<br>To love this role, here’s the type of person you are:<br><br>
-</div><ul>
-<li>You’re a self-starter who loves taking initiative and seeing things through from conception to completion. Our developers often “own” features/tasks and are responsible for scoping, development, and testing.</li>
-<li>You’re an excellent communicator, fluent in both verbal and written English, who makes sure nothing slips through the cracks. We believe communication is critical and there is no such thing as over-communicating.</li>
-<li>You have the curiosity and desire to learn and grow your skills.</li>
-<li>You’re passionate about leaving your mark on the web for all to see and are excited to work on tasks that impact <em>thousands</em> of users.</li>
-<li>You take pride in the quality and craftsmanship of your work rather than just doing it to get it done.</li>
-<li>You’re a team player who is comfortable working alongside and helping other developers, and you don’t take critical feedback personally.</li>
-<li>You’re happy jumping between front-end and back-end development tasks or tackling tasks that require both.</li>
-<li>You’re happy working on tasks of all sizes – from small bug fixes and enhancements to large features/rewrites.</li>
-</ul><div>
-<br>Common responsibilities include (but are not limited to):<br><br>
-</div><ul>
-<li>Triaging bugs and small enhancements that come into GitHub.</li>
-<li>Scoping, writing, and testing new product features and add-ons.</li>
-<li>Refactoring legacy code with particular attention to backward compatibility.</li>
-<li>Providing feedback and peer review for other developers (Github PRs).</li>
-<li>When tickets are escalated, debug customer issues in our help desk.</li>
-</ul><div>
-<br>Here are some skills that will come in handy:<br><br>
-</div><ul>
-<li>Professional experience with WordPress plugin development, architecture, and standards.</li>
-<li>Advanced proficiency with PHP and MySQL, including modern PHP practices (OOP, autoloading, traits, interfaces, etc).</li>
-<li>Strong familiarity with JavasScript (vanilla JS, jQuery, etc).</li>
-<li>Ability to use and extend build tools like webpack.</li>
-<li>Familiarity with package managers such as NPM.</li>
-<li>Experience working with third-party APIs (Eg Stripe, MailChimp, Zapier, etc).</li>
-<li>Competent with version control through Git and GitHub.</li>
-<li>The ability to iterate and ship ideas quickly.</li>
-<li>Exceptional troubleshooting skills.</li>
-<li>Ability to keep complex ideas and features <em>simple</em>. (Simplicity is a core value!)</li>
-<li>Previous freelance or remote work experience.</li>
-</ul><div>
-<br>Bonus points if you also have these skills:<br><br>
-</div><ul>
-<li>Advanced proficiency in JavaScript frameworks like VueJS or React.</li>
-<li>Experience with e-commerce platforms or related APIs (WooCommerce, Stripe, PayPal, etc).</li>
-<li>Experience with DevOps or infrastructure management.</li>
-</ul><div>
-<br>What we offer:<br><br>
-</div><div>Working for a fast-growing bootstrapped company is a rare opportunity, one we consider a lifestyle choice rather than a job choice. Our positions are challenging, but also come with amazing advantages and fulfillment for those who earn them. Here’s what we offer.<br><br>
-</div><ul>
-<li>Competitive Salary.</li>
-<li>Work from your home. We’re spread out all over the world – United States, Africa, Ireland, Philippines, and more.</li>
-<li>Unlimited PTO after 60 days of employment. We encourage employees to take the time they need for vacation, to stay healthy, and to spend time with friends and family.</li>
-<li>We happily provide or reimburse software you’ll need as well as books or courses that promote continued learning.</li>
-<li>We give you the opportunity to solve challenging and meaningful problems that make a difference.</li>
-<li>Ability to work with some of the best people in the business through frequent interactions.</li>
-<li>And in case you were wondering: no politics, no b.s., and no jerks.</li>
-</ul><div>
-<br>Location Details:<br><br>
-</div><div>This is a remote position – our team is spread around the globe! Our home base is in Utah, USA, so company operating hours are 9am – 5pm MST (UTC -7). While full coverage is not a requirement, you must be available during a portion of the day.<br><br>
-</div><div>
-<br>Inclusion Statement:<br><br>
-</div><div>At Strategy11 (Formidable Forms, Business Directory Plugin, WP Tasty), we strive to have the broadest possible view of diversity, going beyond visible differences to include the background, experiences, skills, and perspectives that make each person unique. Strategy11 is proud to be an equal opportunity workplace and is committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, Veteran status, or any other basis protected by federal, state, or local law.<br><br>
-</div><div>
-<br>How to apply:<br><br>
-</div><div>If all of this sounds interesting, then please submit your application!<br><br>
-</div><div>Also, note, don’t forget to proofread before submitting. Check spelling, capitalization, etc. This is your chance to make your application stand out 😃<br><br>
-</div><div>We won’t be able to individually respond to all applications, but if we feel you’re a strong match, someone will be in touch shortly. Qualified candidates will be asked to do a simple code challenge.<br><br>
-</div><div>Thanks and we look forward to hearing from you!<br><br>
-</div>
+<div><strong>About Sticker Mule</strong></div><div>Sticker Mule is the Internet's most "kick ass" brand. We are privately-owned, profitable, and powered by a globally distributed team that enjoys building happy customer experience at the highest technical standards. Our software team operates from 17 countries, and we're always looking for more exceptional engineers.<br><br>
+</div><div><a href="https://www.stickermule.com/about"><strong>See more about our teams here</strong></a></div><div><br></div><div><strong>We offer</strong></div><ol>
+<li>Remote work with flexible schedules</li>
+<li>A privately owned, low-stress culture.</li>
+<li>A fun "no bullshit" work environment</li>
+</ol><div><strong>We like you to know</strong></div><ol>
+<li>C++</li>
+<li>Go</li>
+<li>Postgres</li>
+<li>Docker</li>
+<li>Cloud Infrastructure</li>
+<li>Familiarity with C#</li>
+<li>Excellent communication skills (English)</li>
+<li>Degree in Computer Science or equivalent practical experience</li>
+</ol><div><strong>Challenges</strong></div><ol>
+<li>Improve factory automation software</li>
+<li>Migrate legacy services to Go</li>
+<li>Maintain a large C++ codebase</li>
+</ol><div><strong>Compensation and benefits</strong></div><ol>
+<li>Salary: $135k+ based on experience</li>
+<li>$20,000 signing bonus</li>
+<li>4 weeks vacation + holidays based on your country of residence</li>
+</ol>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/strategy11-senior-wordpress-software-engineer">https://weworkremotely.com/remote-jobs/strategy11-senior-wordpress-software-engineer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c">https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c</a></p>
 
                 </details>
                 </td>
@@ -120,98 +76,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>ConvertKit is a creator marketing platform built to empower creators to earn a living online. We help them own their audience and turn fans into customers. For makers, authors, chefs, musicians, athletes, and anyone else making a living by creating the culture we all love, there isn’t a better tool for reaching inboxes. More importantly, there isn’t a team more committed to helping creators earn a living doing work that matters.</p><p>We’re on a mission to help creators earn $1 billion using our SaaS marketing platform. We have always been 100% independent and 100% remote. We are proud to have built a product that our customers love, that 25,000+ creators use to earn a living, and we look for people who have enthusiasm and belief in our mission, vision, and values to join our team.</p><h3><br></h3><h3>The Role</h3><p>You’ll join a strong team of engineers responsible for building and supporting ConvertKit's core application logic, including our<a href="https://convertkit.com/features/email-marketing" rel="nofollow noreferrer noopener" class="external"> email marketing</a>,<a href="https://convertkit.com/features/automations" rel="nofollow noreferrer noopener" class="external"> visual automation</a>, and<a href="https://developers.convertkit.com/" rel="nofollow noreferrer noopener" class="external"> API</a> products. This team tackles some of the ConvertKit's most challenging aspects of the platform, like background processing systems which handle 100 million jobs a day. You’ll collaborate with other engineers, designers, and product managers to build sound, scalable features and refactor code to meet the demands of growth and scale.</p><p>To learn more about how our engineering team works, you can peruse<a href="https://convertkit.engineering/" rel="nofollow noreferrer noopener" class="external"> our engineering blog</a>.<br></p><h3>Requirements: </h3><ul> <li>At least four years building software in a team environment or equivalent experience. Years of experience doesn’t always capture expertise, so we encourage you to apply if you can demonstrate you’re well versed in building software in a team environment</li> <li>At least two years working professionally on a Ruby on Rails application or equivalent experience. Years of experience doesn’t always capture expertise, so we encourage you to apply if you can demonstrate a confident grasp of Ruby on Rails. Have more experience than that? Even better</li> <li>Experience writing code that is accessible, scalable, maintainable, and performant</li> <li>Experience working with background job processing environments - like Sidekiq and Redis</li> <li>Experience writing complex queries for relational databases - we use MySQL.</li> <li>Comfortable working remotely in an autonomous environment - you don’t mind asking questions and problem solving in public communication channels.</li> <li>Able to work in US time zones - you don’t have to live in those time zones, but you have to be able to collaborate with your teammates during those times</li> <li>Belief in our<a href="https://convertkit.com/mission" rel="nofollow noreferrer noopener" class="external"> mission, vision, and values</a> </li> <li>Attend our bi-annual company retreats. </li> </ul><p><br></p><p>To get a better idea of the type of work you’ll do with us, here are some examples of our recent work:</p><ul> <li>Enable queries to a replica database to handle varying levels of acceptable latency</li> <li>Optimize our business logic to prevent unnecessary table scans in MySQL</li> <li>Migrate data and queries from MySQL to Elasticsearch and ensure data consistency</li> <li>Pitch an improvement to our Elastic Stack cluster architecture</li> <li>Conceptualize<a href="https://betterprogramming.pub/a-short-practical-programmers-guide-to-graph-theory-bfc87bc52581" rel="nofollow noreferrer noopener" class="external"> Graph Theory</a> and pinpoint where our logic may be overly expensive</li> <li>Respectfully poke holes in a discussion about pub/sub implementation across our codebase</li> <li>Set a dynamic Cassandra bucket threshold to prevent long hashing times</li> <li>Upgrade our application to newer versions of Ruby and Rails!</li> </ul><h3>Benefits: </h3><p>ConvertKit has standardized salaries based on position, no matter where you live. We have six engineering levels. For this role, we are hiring a strong level 4 ($174,000). The level is based upon your experience, our interview process, and our engineering matrix.</p><p><br></p><p>Other benefits include:<br></p><ul> <li>Profit Sharing - <a href="https://twitter.com/nathanbarry/status/1491429183977050114" target="_blank" rel="nofollow noreferrer noopener" class="external">Learn about profit sharing and compensation at ConvertKit</a> </li> <li>Twenty (20) days of paid time off during each year of employment</li> <li>Paid paid vacation: An after-tax bonus of $1,000 for taking five consecutive days of vacation where you’re fully unplugged from work</li> <li>Ten paid holidays a year</li> <li>Monthly medical benefits up to $1,750 a month toward premiums. Dental and vision premiums covered 100%</li> <li>Two weeks of paid sick time each year, including mental health + well being days</li> <li>12 weeks paid parental leave and flexible scheduling in your child’s first year</li> <li>Childcare benefit up to $3,000 annually</li> <li>Up to six weeks of paid bereavement leave, medical leave, and disaster after six months of employment, two weeks of each paid leave in your first six months=</li> <li>Gender affirming benefits</li> <li>$4,000 equipment allowance for your first two years, $3,000 budget every following two years</li> <li>Individual learning + development budget ($3,500/year)</li> <li>Four-week, paid sabbatical after five years with the team</li> <li>Fantastic in-person or virtual retreats with the team twice a year</li> </ul><h3><br></h3><h3>How to Apply</h3><p>We know that interviewing can be a stressful and anxiety-inducing process (we relate!). We aim to make it as good an experience as we can, and part of that includes keeping you informed during the process.</p><p>Here’s what the full set of hiring steps looks like:<br></p><ul> <li>Complete your application, which includes two, short-answer questions</li> <li>Recruiter screen</li> <li>Phone screen with the hiring manager</li> <li>Complete a short 2-hour coding and writing assignment</li> <li>Technical interview to discuss the homework assignment and your technical knowledge with two engineers on the team</li> <li>Culture contribution interview with a product team member and another person from the team</li> <li>Technical storytelling interview with two members of the team (at least one from engineering)</li> </ul><p><br></p><p>To get started, complete this application, including answers to the questions on the next page. <strong>We read every single application, thoroughly and your responses to our application questions help put your experience into context.</strong></p><p><br></p><p><em>ConvertKit is an equal opportunity employer. We value diversity in all of its forms and we hire the best person for each role, no matter your personal background. Research tells us that applicants who are female or non-binary, as well as applicants who are people of color, are less likely to apply for roles they do not feel 100% qualified for.</em></p><p><em>We encourage every person who is interested to apply. We’re imperfect communicators, so think of our job postings as the starting point for discussion rather than proof that you shouldn’t apply. Take the leap - you never know, you might just be the perfect person for one of our open roles, even if you don’t match 100% of the job description</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1607488740959608832/m80nYXA3_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>DuckDuckGo</h5>
-                    <h3>
-            Senior Software Engineer, Windows Desktop App (Remote)
-          </h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://duckduckgo.recruitee.com/o/senior-software-engineer-windows-desktop-app-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-            <p>Hi, we’re DuckDuckGo, the Internet privacy company for everyone who wants to take back their privacy now. For over a decade, we've been building our all-in-one product, developing new privacy technology, and working with policymakers to make online privacy simple and accessible for all.  </p>
-<p><br></p>
-<p>Our app is now downloaded more than 75M times a year, and our private search engine packaged with it has become the #2 search engine on mobile in over 21 countries, including the United States, United Kingdom, Canada, Australia, Germany, and the Netherlands. Oh, and we've been profitable since 2014 with revenue currently exceeding $100 million a year! Now, we’re rolling out a suite of new privacy solutions, including <u><a href="https://www.spreadprivacy.com/introducing-email-protection-beta/" rel="noopener">Email Protection</a></u>,  <u><a href="https://spreadprivacy.com/introducing-app-tracking-protection/" rel="noopener">App Tracking Protection</a></u><a rel="noopener">&nbsp;&nbsp;</a>and our first-ever Desktop Apps for <u><a href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/" rel="noopener">Mac</a></u><a href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/" rel="noopener"> </a>and Windows.</p>
-<p><br></p>
-<p>We’re looking for a <strong><strong>Senior Software Engineer, Windows Desktop App</strong></strong> to help shape our all-in-one privacy solution and join our mission to show the world that protecting your privacy online can be simple.  </p>
-<p><br></p>
-<p><strong>The Opportunity</strong> </p>
-<p>In this role, you will work on the team responsible for launching our first ever DuckDuckGo Privacy App for Windows. You'll collaborate with Product Managers, Designers, and Engineers across Native Apps to craft a world-class browser with embedded privacy features that will revolutionize the way people search, surf, and exist online. </p>
-<p><br></p>
-<p>You will be critical to the successful launch of this product and responsible for taking pieces of the puzzle and autonomously building solutions to get us closer to our first release. You will help define the roadmap, take ownership of significant application features and experiment with ways to improve them. </p>
-<p><br></p>
-<p>You will lay the foundations of what will become one of DuckDuckGo's flagship products and critical levers for growing privacy online. </p>
-<p><br></p>
-<p><strong>What You Will Bring to DuckDuckGo</strong> </p>
-<ul>
-<li>Experience implementing ideas from scratch, owning major application features, and taking responsibility for their maintenance and improvement over time.</li>
-<li>Experience participating in technical architecture decisions for complex products, essentially shaping the software architecture of a consumer product.</li>
-<li>Experience building at least one desktop application (ideally with WPF, UWP, WinUI, WinForms, or other relevant .NET UI).</li>
-<li>An advanced level of programming expertise, with knowledge of C#. We currently use .NET 6.</li>
-<li>A significant level of experience in building customer facing applications, including crafting user interfaces.<br>
-</li>
-<li>Deep understanding of software design patterns such as MVVM, MVP, etc.</li>
-<li>Event-driven programming (e.g., using Rx.NET) experience is considered an advantage.</li>
-</ul>
-<p><br></p>
-<p><strong>How We Will Support You </strong> </p>
-<p>Our core values -- build trust, question assumptions, and validate direction -- underpin how we work day-to-day and the support we give our team members. We strive to empower our team members to be self-directed and self-motivated in their work.  </p>
-<p><br></p>
-<ul>
-<li>
-<strong>Remote First, Always</strong>: We've always been a fully distributed company with team members all over the world. We trust you to get your work done wherever, whenever.</li>
-<li>
-<strong>Commitment to Personal Growth:</strong> Every team member has an annual budget of $1,250 USD to invest in their professional development. Every team member also has a dedicated Career Advisor, who serves as a guide to help you develop your strengths, identify your motivations, and understand your opportunities for growth.</li>
-<li>
-<strong>Leadership:</strong> We have many different types of leaders and possible combinations of leadership roles, so you can grow your career in a way that aligns best with your personal goals. You can seek additional leadership roles by being directly responsible for projects, taking ownership of areas of the company, developing and maintaining internal processes, or pursuing advisory roles.</li>
-<li>
-<strong>Work/Life Balance: </strong>Team members have the freedom and flexibility to organize their own work schedules. We want you to thrive both in and out of the office. We trust you to use good judgment and take the time off that you need to bring your best self to work.  </li>
-</ul>
-<p><br></p>
-<p>We also offer <strong>paid parental leave, a co-working stipend, office setup reimbursement, </strong>and<strong> a wellness stipend.</strong> More support resources can be found in our, <u><a href="https://duckduckgo.com/assets/hiring/team_support_guide.pdf" rel="noopener">Team Member Support Guide</a></u>, which explains how we make your well-being a priority. </p>
-<p><br></p>
-<p>For more information on how we collaborate worldwide, from leadership in our relatively flat organization to start-to-finish ownership, check out <u><a href="https://duckduckgo.com/assets/hiring/how_we_work.pdf" rel="noopener">DuckDuckGo Culture: How We Work.</a></u> </p>
-<p><br></p>
-<p><strong>Compensation</strong> </p>
-<p>Annual compensation: <strong>$170,000</strong>&nbsp;<strong>USD</strong> and stock options.&nbsp;Compensation is the same within a professional level, regardless of geographic location or functional area, and the compensation for each professional level is transparent across the organization.</p>
-<p><br></p>
-<p><strong>Hiring Process</strong> </p>
-<p>Hiring works best when it's a two-way street. Learn how we help you get to know DuckDuckGo and envision your future role here. Find out more about <u><a href="https://duckduckgo.com/assets/hiring/how_we_hire.pdf" rel="noopener">how we hire</a></u>. </p>
-<p><br></p>
-<p><strong>Diversity, Equity, and Inclusion</strong> </p>
-<p>DuckDuckGo provides equal work opportunities to all team members and applicants<u>,</u> and it prohibits discrimination and harassment of any type&nbsp;on the basis of race, color, ethnicity, caste, religion, age, sex (including pregnancy), national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by our policies or federal, state, or local laws.</p>
-<p><br></p>
-<p>We want to ensure that our hiring process is accessible. If you need reasonable accommodation for any part of the application process because of a medical condition or disability, please send an email to <u><a rel="noopener">careers@duckduckgo.com</a></u> to let us know the nature of your request.  </p>
-<p><br></p>
-<p>If you think you might thrive in this environment, we would love to hear from you. </p>
-<p><br></p>
-<p><strong>Please note that:</strong> </p>
-<ul>
-<li><p>Sometimes we meet up! Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.</p></li>
-<li>While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week. </li>
-<li>A successful candidate will be subject to a background check and must receive satisfactory results of the same, as a condition of joining the team. </li>
-<li>By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.</li>
-</ul>
-<p>#US #UK #SP #PL #IR #IC #HN #CR #CN #AU</p>
-<p><br></p>
-          
                 </details>
                 </td>
             </tr>,<tr>
