@@ -1,5 +1,139 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1713088/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Keyrock</h5>
+                    <h3>DevOps Engineer/Site Reliability Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>AWS,cloud,crypto,docker</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/devops/devops-engineer-site-reliability-engineer-1713088" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="min-height: 1.5em;"><em><strong>Keyrock is hiring!</strong></em></p>
+<p style="min-height: 1.5em;">'Keyrock was founded in 2017 and has quickly grown from 3 to around 100 people today. As an industry recognized liquidity provider and market maker, Keyrock is a leading European creator of algorithmic trading technology in the digital asset space. With VC backing and a constantly expanding global client base, Keyrock is one of Belgium’s fastest-growing fintech companies.</p>
+<p style="min-height: 1.5em;">We’re currently active on over 80 exchanges and count numerous marketplaces and asset issuers among our clients, including some of the best-known companies in the crypto space.</p>
+<p style="min-height: 1.5em;">Keyrock's beating heart is its technical team filled with software engineers, digital scientists and PhDs, who themselves are supported by university professors, industry-leading experts and a strong management team. Over the years Keyrock has become a company that is both idealistic and practical.'</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>We are looking for:</strong></p>
+<p style="min-height: 1.5em;">A DevOps/Site Reliability Engineer to coordinate the growth of our infrastructure, which is based on an exciting and constantly evolving technology stack. It currently includes AWS, Terraform, Ansible, Docker, Kubernetes, Rust, Node.js, Python, PostgreSQL, MongoDB, ArgoCD, Gitlab, GitHub, Grafana and Datadog (we do not, however, expect a candidate to be familiar with every single one of these technologies).</p>
+<p style="min-height: 1.5em;">We're in search of cloud engineers with experience operating modern cloud-native distributed systems and a solid understanding of Site Reliability Engineering, DevSecOps, Infrastructure as Code, Automated Testing, Containerization, Container Orchestration, and Platform Engineering. In the Infra team, we consider our cloud infrastructure as our own internal product. We are searching for engineers who are passionate about best practices and willing to take ownership, pushing us to the next level. Your mission will be to architect, design, implement, maintain and own end-to-end our cloud infrastructure environments,  deployment pipelines, databases and datastores, clusters, and running instances. You will also be expected to take the initiative to adopt any other technology that would benefit our infrastructure and business.</p>
+<p style="min-height: 1.5em;"><strong>Job description</strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Work with us to build, scale, and architect an infrastructure that powers systems opening millions of orders every day</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Identify deficiencies, propose infrastructure improvements, and fix infrastructure production issues</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Work on simplifying and automating the releases across multiple environments and achieve deployments with zero/minimal downtime</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Contribute actively to hardening the security of our environments</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Monitor the health of the infrastructure, own uptime SLAs, and contribute to improvements around the availability and reliability of our environments</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Plan for system failure/recovery considerations and disaster recovery</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Develop and extend custom tooling to enable Self-Service Infrastructure components for our internal clients</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"><strong>Background and experience</strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Knowledge in Linux administration, networking, security, and clustering</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Experience in Containerization (Docker) &amp; Orchestration (Kubernetes)</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Infrastructure as code (Terraform)</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Configuration Management (ideally Ansible)</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">2 years of experience in operating distributed systems</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">2 years of experience with Cloud Providers (ideally AWS)</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">3 years of experience in automation tasks</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Experience building and maintaining CI/CD pipelines</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"><strong>Competences and personality</strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Team player</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Excellent written and verbal communication in English</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Ability to learn new technologies and techniques quickly</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Ability to interact efficiently with various technical and non-technical stakeholders</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"><strong>That little extra</strong></p>
+<p style="min-height: 1.5em;">The following aren't essential for the role, but will be considered an asset:</p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Interest in Blockchain/DLT and digital assets</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Background or interest in financial/capital markets</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Experience in an environment with streaming data</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Experience in securing modern cloud-native environments</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Familiar with the DevSecOps space or experience in a Site Reliability role</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"><strong>Our recruitment philosophy</strong></p>
+<p style="min-height: 1.5em;">We believe the most important aspect of our recruitment process is self-awareness: we are looking for people who have a clear understanding of themselves and what they are looking for in their professional career. That means that we expect to work with people who not only have the right skills, but who have also made the conscious decision to look for a company in our industry and with our characteristics.</p>
+<p style="min-height: 1.5em;"><strong><u>Our offer</u></strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">A competitive salary package, including benefits that you choose and manage according to your needs and those of your family (car/bike, meal vouchers, health insurance, 25 days  off, etc.) </p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Complete autonomy in your time management thanks to flexible working hours and the opportunity to work remotely </p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">The freedom to create your own entrepreneurial experience by being part of a team of people in search of excellence </p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;">Keyrock offers you both a career and a large range of benefits that we will gladly discuss in the course of the application process.</p>
+<p style="min-height: 1.5em;">As an employer we are committed to build an inclusive, diverse and non-discriminating work environment. We welcome employees of all backgrounds, ethnicities, genders, creed and sexual orientation. We hire, reward and promote entirely based on merit and performance.</p>
+<img src="https://remotive.com/job/track/1713088/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1607488740959608832/m80nYXA3_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
