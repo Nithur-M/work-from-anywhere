@@ -1,5 +1,159 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4499/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>10ex.dev</h5>
+                    <h3> Software Developer (Elixir)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/10ex-dev-software-developer-elixir" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0071/4499/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Phoenix, Arizona
+    <br /><strong>URL:</strong> <a href="https://10ex.dev/developers">https://10ex.dev/developers</a>
+</p>
+
+<div>We are looking for a Mid/Senior Backend Engineer who is passionate about creating next-generation immersive experiences that bring new forms of audience engagement to life in fun and unexpected ways, in original projects that bridge the gap between the digital and physical worlds in unique, story-driven ways.<br><br>
+</div><div>
+<br>Our ideal candidate is a seasoned technical leader and software engineer with previous experience developing/integrating scalable backend solutions for mobile games. You care deeply about writing beautiful, performant code that will act as the foundation of development for years to come. You also know how to build and lead a team of engineers and mentor them on their career paths. You should enjoy working as part of cross-functional teams to help architect solutions to unique problems that help the entire platform.<br><br>
+</div><div>
+<br>QUALIFICATIONS<br><br>
+</div><ul>
+<li>4+ Years of creating and delivering high-performance APIs</li>
+<li>Bachelor's degree in Computer Science or equivalent</li>
+<li>Advanced knowledge of Elixir/Phoenix/LiveView</li>
+<li>Advanced knowledge of PostgreSQL/Ecto</li>
+<li>Advanced knowledge of AWS/Docker/Terraform deployment</li>
+<li>Experience using Elixir in production at scale</li>
+<li>Extensive experience debugging and optimizing backend applications</li>
+<li>Experience working with a team of developers, artists and technical leads</li>
+<li>Proficiency with Git and GitHub</li>
+<li>Excellent oral and written English language skills</li>
+<li>Ability to both think high-level and be detail oriented</li>
+</ul><div>
+<br>RESPONSIBILITIES</div><ul>
+<li>Lead the development of and help design the architecture for a greenfield gaming platform</li>
+<li>Convert complex requirements into elegant working software</li>
+<li>Architect and maintain key infrastructure</li>
+<li>Work closely with the User Experience Design Team to design and implement new concepts and features</li>
+<li>Work closely with the Client Engineering team to design and integrate internal and external APIs</li>
+<li>Collaborate with other engineers to solve problems</li>
+<li>Produce code that is clear and concise, and consistent with best-in-class coding standards</li>
+<li>Deliver in accordance with prescribed deadlines, on time and with high quality</li>
+<li>Self-manage and work in an environment of high autonomy</li>
+<li>Participate in and lead code reviews</li>
+<li>Work closely with the rest of the engineering team on a day to day basis</li>
+<li>Document new features for both internal and external reference</li>
+<li>Ability to progress into a position which oversees a small development and engineering team</li>
+</ul><div>
+<br>PREFERENCES</div><ul>
+<li>Proficiency with Javascript and HTML/CSS</li>
+<li>Experience writing documentation</li>
+<li>A thorough understanding of development from design to deployment</li>
+<li>Agile methodology experience</li>
+<li>Experience with other functional programming languages</li>
+</ul><div>
+<br>BENEFITS<br><br>
+</div><ul>
+<li>Health / Vision / Dental</li>
+<li>Paid Time Off</li>
+<li>Paid Holidays</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/10ex-dev-software-developer-elixir">https://weworkremotely.com/remote-jobs/10ex-dev-software-developer-elixir</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0098/0004/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Planning Center</h5>
+                    <h3> Full Stack Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/planning-center-full-stack-developer-3" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0098/0004/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Carlsbad, CA (Remote)
+    <br /><strong>URL:</strong> <a href="https://planningcenter.com">https://planningcenter.com</a>
+</p>
+
+<div><strong>About Us</strong></div><div>
+<br>Planning Center launched in 2006 and has grown to support over 70,000 churches around the world. We are independently owned with no outside investors, no debt, and no sales team.</div><div>
+<br>Churches use our tools to communicate and connect with their congregations, organize information, and coordinate events. We’re obsessed with building great products that solve real problems, aligning us with our manta: We love our people, we love our products, and we love our churches.<br><br>
+</div><div>We’re a remote company of 130+ people that rely on tools like GitHub, Slack, Notion, and Zoom. We value asynchronous work while also encouraging pairing to shape work and tackle problems together. We gather at our main offices in Carlsbad, CA, four times a year to connect face-to-face and foster better working relationships.</div><div><strong><br>About the work</strong></div><div>
+<br>We’re seeking a Full Stack Developer experienced in Ruby on Rails and React. You’ll work on building out new features from start to finish, refining existing features, improving performance, and ensuring the security of our customer’s data.</div><div>
+<br>What a typical week might look like:</div><ul>
+<li>Translating the product manager’s feature pitches into technical specifications</li>
+<li>Implementing those technical specifications as a series of small, descriptive, and well-tested GitHub pull requests</li>
+<li>Pairing with your designer and developer teammates</li>
+<li>Reviewing your teammates’ pull requests to increase the quality of what we build and learn from one another</li>
+<li>Deploying to production with one click</li>
+<li>Investigating customer-reported bugs that have been triaged and researched by our fantastic support team</li>
+<li>Diagnosing errors that come in through our error monitoring tools</li>
+<li>Improving performance guided by Datadog and AWS Performance Insights</li>
+<li>Participating in book and code clubs to learn with/from other developers</li>
+</ul><div><strong>Requirements</strong></div><ol>
+<li>Reside in the United States</li>
+<li>Eligible to work in the United States (<em>we are currently unable to offer employment to those with H-1B visas</em>)</li>
+<li>Be willing to travel four times each year to connect with the rest of the team (not during a pandemic)</li>
+<li>Experience in Ruby on Rails and React, with strong competency in at least one</li>
+</ol><div>
+<strong>Benefits<br></strong><br>
+</div><div>We love our team. It’s one of the <a href="https://www.planningcenter.com/about">core pillars</a> we work off of every day, which is why we take care of you as best we can. Here are a few highlights, but you can find <a href="https://www.planningcenter.com/careers">all our benefits here</a>.</div><div>
+<strong><br>Get paid: </strong>We pay in the top 10% of the New York City rates no matter where you live, contribute to your 401k, provide a charitable giving match of up to $2,000 a year, have a generous allowance for continued education, and offer a co-working stipend. The annual salary range for this position is $142,451 – $162,802.</div><div>
+<strong><br>Be healthy:</strong> Generous paid sick time and vacation time, $200 a month for physical fitness and mental health, 95% medical &amp; 100% dental premium health coverage.<br><br>
+</div><div>
+<strong>Get out:</strong> Paid Fridays off in the summer, every other Friday off the rest of the year, a month-long sabbatical every five years, one week off between Christmas &amp; New Year, one week off a year to serve with a non-profit, and two weeks paid vacation a year increasing to three over time.<br><br>
+</div><div><strong>The Hiring Process</strong></div><div>
+<strong><br>Applications will be accepted until Sunday, July 16th.</strong> We aim to have a final decision made by no later than Monday, August 14th, with a new hire starting on Monday, August 28th.<br><br>
+</div><div>Below is an outline of the steps in our hiring process.<br><br>
+</div><div>
+<strong>Step one:</strong> Initial Zoom call with a member of the hiring team, so you to get to know us<br><strong>Step two:</strong> Online coding assessment to get a rough understanding of your experience<br><strong>Step three:</strong> Team interview over Zoom with a few developers<br><strong>Step four:</strong> Technical interview over Zoom with a few developers<br><strong>Step five:</strong> Offer extended (optional meeting with our Executive Team)<br><br>
+</div><div>You’ll have a chance to interact with several team members during the hiring process. We strongly encourage you to bring any questions you have. We also invite you to read reviews on <a href="https://www.glassdoor.com/Overview/Working-at-Planning-Center-EI_IE2976222.11,26.htm">Glassdoor</a> and check out our <a href="https://peoplefirstjobs.com/companies/planning-center">People-First Jobs profile</a>; you’re interviewing us as much as we’re interviewing you.</div><div>
+<br>The teammates you’ll encounter along the way:</div><ul>
+<li>The manager you’ll be reporting to</li>
+<li>One or more developers from the team you’ll be joining</li>
+<li>Developers from other teams within the company</li>
+<li>Members of our executive team</li>
+</ul><div>Apply with a resume, cover letter*, and an answer to the question below. <strong>Your cover letter should speak directly to this position. We want to know what got you into software development, how your experience has set you up for success in this role, and why you want to join our team.</strong> If you’ve applied in the past, feel free to apply again.</div><div>
+<em><br>*Listen, we’ve read a lot of cover letters and have a pretty good sense of what ChatGPT and other AI software sound like. Please show us who you really are and avoid AI-generated cover letters.<br></em><br>
+</div><div><strong>Application Submission Question</strong></div><div>
+<br>We value rest at Planning Center. We don't work the majority of Fridays, and employees earn a four-week sabbatical every five years. Rested people enjoy work more. What about you? What do you do to rest? More specifically—what would you do with an entire month off work with full pay? (One or two paragraphs is all we're looking for.)</div><div><em><br>Research shows that while men apply to jobs when they meet ~60% of the criteria, women and those in underrepresented groups tend only to apply when they check every box. If you’re unsure if your experience qualifies strong competency in React or Rails, we’d still love to hear from you and see if it’s a good fit!</em></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/planning-center-full-stack-developer-3">https://weworkremotely.com/remote-jobs/planning-center-full-stack-developer-3</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0097/1479/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +164,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/trendspider-front-end-software-developer" align="right" target="_blank">Apply</a>
@@ -50,63 +204,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7016/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Bottomless</h5>
-                    <h3> Senior Full Stack Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-10" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/7016/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Seattle, Wa
-    <br /><strong>URL:</strong> <a href="https://www.bottomless.com/">https://www.bottomless.com/</a>
-</p>
-
-<div>We are looking for a jack-of-all-trades <strong><em>senior</em></strong> javascript/full stack developer.<br><br>The ideal candidate for this position would be able to dive into any kind of project, from frontend UI/UX tasks in React.js to backend tasks running on Node.js.<br><br>If you’re interested in variety and working hard to build something big, this might be a good fit.<br><br>We need to achieve <em>80% of the results with 20% of the effort</em>.<br><br><strong>Responsibilities:</strong>
-</div><ul>
-<li>Design and build infrastructure and products for a sensor-enabled e-commerce marketplace.</li>
-<li>Build robust infrastructure to support existing product lines and the ability to roll out new ones.</li>
-<li>Responsibility over the user-facing product</li>
-<li>Quick iteration on different fronts from fronted UX changes to database design to quick and dirty implementations.</li>
-<li>Responsible for full deployment and testing of applications.</li>
-</ul><div><br></div><div><strong>Skill, Qualifications, and Experience:</strong></div><div><br></div><div><em>Expert proficiency required:</em></div><ul>
-<li>Node.js</li>
-<li>NoSQL databases</li>
-<li>React.js</li>
-<li>English (written and verbal)</li>
-</ul><div><br></div><div><em>Intermediate proficiency, at a minimum:</em></div><ul>
-<li>UI/UX design</li>
-<li>Software architecture</li>
-</ul><div>
-<br>Not required, but a plus:</div><ul>
-<li>Python (background tasks)</li>
-<li>Embedded systems (C++)</li>
-</ul><div> <br><strong>Details:</strong>
-</div><ul>
-<li>Remote OK. Must be flexible with hours as we have a remote international team.</li>
-<li>Competitive equity and cash compensation</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-10">https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-10</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -117,7 +214,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>693 days ago</text>
+                <text>696 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -173,44 +270,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1713667/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Social Discovery Group</h5>
-                    <h3>Senior IOS Developer (EVA AI)</h3>
-                </td>
-                <td width="300">
-                    <code>ios,swift,video,AI/ML</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-ios-developer-eva-ai-1713667" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Social Discovery Group</strong> is an international online holding company with a line of social discovery products with an audience of 180 million users worldwide. For more than 20 years we have been creating premium international online services in the sphere of global dating, and inside our own startup lab SDG Lab we launch new projects in the segment of entertainment, social games and streaming.Our team of 700 people in 11 offices on different continents creates innovative products that change the experience of virtual communication.</p>
-<p>At SDG Lab we are launching and developing new projects and are currently looking for a <strong>Senior IOS Developer</strong> to take part in the development of our own product <strong>EVA AI</strong>.</p>
-<p><strong>EVA AI </strong>is an AI companion designed for everyday communication and support. EVA AI is always ready to listen, engage in conversation, and provide emotional support. It serves as an ideal conversational partner, creating a safe space free from judgment or offense.</p>
-<p>EVA AI helps alleviate loneliness and boredom, reduce stress levels, and fulfill the need for social interaction. It leverages advanced artificial intelligence algorithms to create a rich interactive experience. Our virtual friend can offer advice, sometimes even disagreeing with the user, and requires a little attention in return. It has its own backstory, and the relationship with EVA AI continuously evolves. The more users engage with EVA AI, the more additional features and capabilities they unlock.</p>
-<p>We are part of a major holding company and have a clear mission: to create something significant. Our goal is to build a billion-dollar+ business. However, we enjoy the benefits of a startup without its drawbacks, as we are backed by a large holding company. We have access to infrastructure and financial support that only large corporations can provide.</p>
-<p>Currently, we offer real-time voice messaging, and we have plans to introduce virtual characters for video communication in the future. Our character is likely to have the ability to understand user emotions.</p>
-<p><strong>Your main tasks will be:</strong><br></p>
-<ul style=""><li style="">Participation in the design of the architecture for a large high-load application;</li><li style="">Development of new functionality and enhancement of existing features. Integration of neural networks into the product;</li><li style="">Implementation of components and services;</li><li style="">Quality control of implementation.</li></ul>
-<p><strong>Required hard skills:</strong></p>
-<ul style=""><li style="">Knowledge of ObjC, Swift;</li><li style="">SOLID and clean architecture.</li></ul>
-<p><strong>Nice to have hard skills:</strong></p>
-<ul style=""><li style="">FRP (rxSwift/Combine).</li></ul>
-<p><strong>We offer:</strong></p>
-<ul style=""><li style="">REMOTE OPPORTUNITY to work full time;</li><li style="">Bonuses up to $5000 for recommending successful applicants for positions in the company;</li><li style="">Full payment for professional training, international conferences and meetings;</li><li style="">Corporate discount for English lessons;</li><li style="">​Health benefits. If you are not eligible for Corporate Medical Insurance, the company will compensate up to $1000 gross per year per employee according to the paychecks. This can be spent on self-purchase of health insurance, or on doctor's fees for yourself and close relatives (spouse, children);</li><li style="">​Children's education reimbursement. The company will compensate 50% of the costs of education for children ( kindergarten or school), but no more than $1000 gross per year per child according to the paychecks;</li><li style="">​Workplace organization. The company provides all employees with an equipped workplace and all the necessary equipment (table, armchair, wifi, etc.) in the locations where we have offices or co-workings. In the other locations the company provides reimbursement of the workplace costs up to $ 1000 gross once every 3 years according to the paychecks. This money can be spent on the rent of the co-working room, on equipping the working place at home (desk, chair, Internet, etc.) during those 3 years;</li><li style="">Own line of branded clothing and accessories with corporate logo for different occasions;</li><li style="">Library of technical and business literature, lectures on Art&amp;Technology and HLS;</li><li style="">Internal gamified gratitude system: receive bonuses from colleagues and exchange them for time off, merch, team building activities, massage certificates, etc;</li><li style="">7 wellness days/ 7 paid days per year (time off) that can be used to deal with household issues, to lie down and recover without taking sick leave.</li></ul>
-<img src="https://remotive.com/job/track/1713667/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1359476/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -221,7 +280,7 @@
                     <code>backend,frontend,fullstack,javascript</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -290,7 +349,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -365,7 +424,7 @@
                     <code>UI/UX,CI/CD</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -442,7 +501,7 @@
                     <code>C++,javascript,python,security</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -579,7 +638,7 @@
                     <code>api,azure,cloud,django</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -644,7 +703,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -721,7 +780,7 @@
                     <code>C,C#,unity,unity3D</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1196,6 +1255,89 @@
                 </td>
                 <td width="300">
                     <h5>Status</h5>
+                    <h3>Web Developer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4365480&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <p>&nbsp;</p>
+<p><strong>The project</strong></p>
+<p>Our organization is closely involved in a new community lead project, called Logos, and this role will enable you to focus on its development. Logos is a grassroots movement to provide trust-minimized, corruption resistant governing services and social institutions to underserved citizens. Logos’ infrastructure will provide a base for the provisioning of the next-generation of governing services and social institutions - paving the way to economic opportunities to those who need them most, whilst respecting basic human rights through the network’s design.</p>
+<p>In order to promote the ideas behind Logos and its vision, we have created a brand studio called acid.info and you will be part of it. <a href="http://acid.info/">Acid.info</a> is the studio and creative engine within the Logos DAO. Our mission is to build, and ensure, technologies and creativity that supports freedom, justice, and innovation for all people of the world.&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>The role</strong></p>
+<p>As a Web Developer, you will be responsible for the development and technical maintenance of various web-based projects in the studio. Your role will involve decision-making for code architecture, writing tests, choosing the right technology stack, and any other related tasks. You will work closely with the development team, studio lead, and design team to bring our web projects to life. You will take care of all technical aspects of all web projects (from development and testing to deployment and maintenance)&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Responsibilities</strong></p>
+<ul>
+<li>You will be developing and implementing internal tools, including our wiki engine framework, branding design portal our design systems implementation in React</li>
+<li>You will co-write documentation for all the above mentioned products/projects</li>
+<li>You will be responsible for maintaining our open-sourced codebases on Github</li>
+<li>You will be improving the architect and implementation<a href="https://github.com/acid-info/logos-site-builder"> our current site-generator framework</a> (built on top NextJS) and develop it further</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>You ideally will have</strong></p>
+<ul>
+<li>Experience in ReactJS and NodeJs (all in Typescript)&nbsp;</li>
+<li>Good understanding of software architecture</li>
+<li>Experience in implementation of frontend libraries and design systems</li>
+<li>Experience working with Git, Docker and NextJS framework as well as Vercel and/or Netlify</li>
+<li>A strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Bonus points if</strong></p>
+<ul>
+<li>You are comfortable in working remotely and asynchronously</li>
+<li>You have experience working for an open source organisation</li>
+<li>You have exposure to creative coding (processing, open frameworks, WebGL, writing shaders, p5js)</li>
+</ul>
+<p><em>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</em></p>
+<p>&nbsp;</p>
+<p><strong>Compensation</strong></p>
+<p><span style="font-weight: 400;">The expected compensation range for this role is $40,000 - $60,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process. </span></p>
+<p>&nbsp;</p>
+<p><strong>Hiring process</strong></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with POps team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Web Developer and Design Studio Lead</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Assessment (paid)</span></li>
+</ol>
+<p><em><span style="font-weight: 400;">[The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline!]</span></em></p>
+<p>&nbsp;</p>
+<p><strong>Get to know us</strong></p>
+<p><span style="font-weight: 400;">Find out about the Logos here: </span><a href="https://logos.co"><span style="font-weight: 400;">https://logos.co</span></a></p>
+
+    
+
+    
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
                     <h3>Senior React Native UI Developer</h3>
                 </td>
                 <td width="300">
@@ -1223,13 +1365,6 @@
     <div id="external-jobs-show-description" class="external-panel__trix-content external-panel__trix-content--colored external-panel__trix-content--lead-in">
 <div data-react-class="external/careersPage/RenderPlyrVideo" data-react-props="{&quot;htmlString&quot;:&quot;\u003cdiv\u003eWe're growing our mobile development team. Join us in building a fully decentralized, censorship resistant, privacy first group chat platform that leverages the Ethereum blockchain to enable individuals and groups worldwide to communicate and transact with one another freely without restriction.\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003eStatus is looking for an UI Engineer to join our mobile development team who will work closely with Design to transform UI specifications into beautiful, smooth, performant and near pixel perfect interactive interfaces. The ideal person will be comfortable working on features end-to-end\u003ca href=\&quot;https://github.com/status-im/status-go\&quot;\u003e,\u003c/a\u003e has an eye for design and visual detail, enjoys working with designers as well as developers, and who can transform reused UI patterns such as list items into reusable UI components.&nbsp; The ideal candidate will love finessing UI implementations to the highest levels of quality and will care deeply about things like code cleanliness, reusability, maintainability, performance, and UI layout accuracy - as well as doing whatever needed to create a best-in-class user experience for Status’s users.\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003eWillingness to both learn and share your knowledge with others, product-orientation, and making sure all team members are aligned when developing new features, will make you successful in the role. Status is a fast-paced, flat organization, working on cutting edge blockchain and decentralized messaging technologies in a dynamic landscape. We look forward to meeting you!\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e&quot;}" data-react-cache-id="external/careersPage/RenderPlyrVideo-0">
 <div>
-<h3><strong>About Status</strong></h3>
-<p><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
-<p><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 100+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p>
 <h3><strong>The role</strong>&nbsp;</h3>
 <div>We're growing our mobile development team. Join us in building a fully decentralized, censorship resistant, privacy first group chat platform that leverages the Ethereum blockchain to enable individuals and groups worldwide to communicate and transact with one another freely without restriction.<br><br></div>
 <div>Status is looking for an UI Engineer to join our mobile development team who will work closely with Design to transform UI specifications into beautiful, smooth, performant and near pixel perfect interactive interfaces. The ideal person will be comfortable working on features end-to-end<a href="https://github.com/status-im/status-go">,</a>&nbsp;has an eye for design and visual detail, enjoys working with designers as well as developers, and who can transform reused UI patterns such as list items into reusable UI components.&nbsp; The ideal candidate will love finessing UI implementations to the highest levels of quality and will care deeply about things like code cleanliness, reusability, maintainability, performance, and UI layout accuracy - as well as doing whatever needed to create a best-in-class user experience for Status’s users.<br><br></div>
