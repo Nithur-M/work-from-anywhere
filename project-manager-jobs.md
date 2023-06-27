@@ -1,5 +1,90 @@
 <div align="center"><h2>PROJECT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0098/0239/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Betterproducts</h5>
+                    <h3> COO & Senior Project Manager for Marketing Agency</h3>
+                </td>
+                <td width="300">
+                    <code>Management and Finance</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/betterproducts-coo-senior-project-manager-for-marketing-agency" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0098/0239/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Berlin, Germany
+    <br /><strong>URL:</strong> <a href="http://www.betterproducts.co">http://www.betterproducts.co</a>
+</p>
+
+<div>
+<br>We are looking for a freelance full-time Project Manager for our marketing agency, starting direct or in the next 3 weeks, for a long-term collaboration. You will start in a project manager role and (assuming you do well) will take on the COO role. </div><div>
+<br>You will manage several client projects at once and manage a remote team of about 7 people. You will work directly with clients and have monthly progress meetings with them. Your responsibility it to keep clients happy, ensure we deliver what we promised, and follow our processes to ensure quality. <br><br>
+</div><div>Our clients are all B2B SaaS companies, and for most we offer an email outreach service, and for some we also run other marketing channels like ads, landing pages, etc. We always follow an exciting growth hacking approach with clear hypotheses, A/B testing, data collection, etc.<br><br>
+</div><div><strong>Your skills</strong></div><ul>
+<li>You worked as a <strong>marketing project manager</strong> for at least <strong>3+yrs and </strong>managed teams of 6 people or more<ul>
+<li>You like to take <strong>ownership</strong>, and have no trouble <strong>resolving most problems</strong> yourself with help of the team. </li>
+<li>You have at least 2 yrs of experience creating various types of marketing campaigns yourself </li>
+<li>You like to come up with ideas and take action </li>
+</ul>
+</li>
+<li>You <strong>worked directly with clients for 3+yrs</strong>. <ul>
+<li>You have experience managing whole client relationships and delivery by yourself, with minimal help from managers above you.</li>
+<li>Good sense of <strong>clear communication</strong> and quality. I.e. to ensure campaigns/experiments we share are easy to understand and don't leave any questions unanswered. </li>
+<li>In resolving <strong>issues</strong> with clients, you communicate <strong>clearly</strong> and make it <strong>easy</strong> for them to take a decision. </li>
+<li>You have a good <strong>feeling for priorities/urgency</strong> and never miss a deadline without letting your client know and having a recovery plan</li>
+<li>You think <strong>strategically</strong>, have a feeling for <strong>priorities</strong> and are always focused on delivering <strong>maximum value to the customer</strong>
+</li>
+</ul>
+</li>
+<li>You are <strong>process-oriented</strong> and you ensure that you and your teams follow our delivery processes</li>
+<li>You work <strong>Accurately</strong>. Your calculations and spelling is always correct, your choice of words is accurate. </li>
+<li>You speak <strong>English fluently.</strong>
+</li>
+<li>You're strong in quickly <strong>learning new tools</strong>, and worked with many marketing tools in the past. You're not technical.</li>
+<li>You have your own methods for staying in contact / <strong>on top</strong> enough with <strong>team</strong> members, not too much, not too little and that's a good mix of meetings and text communication. </li>
+<li>Experience with <strong>email/linkedin outreach, advertising</strong> and growth hacking is a plus</li>
+<li>Experience with <strong>B2B SaaS startups</strong> is a plus</li>
+<li>We are currently not looking for candidates from India, Pakistan, Russia, Ireland, West Coast of US and China. </li>
+<li>This is a remote freelance position (32-40 hours per week), you are paid for worked time and are required to use our time tracker. </li>
+<li>Your <strong>working hours overlap</strong> at least 4 hours from 10 am - 10 pm in Berlin, and you are able to take client meetings between 14:00-19:00 Berlin time. </li>
+</ul><div>
+<br><br>
+</div><div><strong><br>Please do not apply if you:</strong></div><div>To ensure we attract the right candidates, here is a somewhat exaggerated list of when not to apply. It's OK if you disagree with one or two.</div><ul>
+<li>You don't consider yourself a bit of a workaholic and never work more than 8hrs</li>
+<li>You don't believe the customer is always right</li>
+<li>You think it's OK if campaign launch deadlines are missed and you wouldn't even inform the customer</li>
+<li>You think it's OK to not answer a client complaint/issue mail within 24hrs</li>
+<li>You don't believe in checking your team's work and regular checkins</li>
+<li>You consider yourself not very technical and struggle to learn new tools</li>
+<li>You're not process and data-oriented, or you hate documenting processes</li>
+<li>You don't like being on top of the team, monitoring deadlines, budgets, etc</li>
+<li>You hate meetings with your team and clients</li>
+<li>You are not constantly full of ideas of how to do things better, lack energy and always have a critical tone</li>
+<li>You think using Grammarly is useless. </li>
+<li>You prefer to do things yourself instead of delegating. </li>
+</ul><div>
+<br><br>
+</div><div><strong><br>Question? Or apply right away?</strong></div><div>
+<br>If you have any questions about this position, don't hesitate to contact hr@betterproducts.co (not: .com). <br><br>
+</div><div>To apply please send your CV to hr@betterproducts.co, no motivation letter is required. We will send you some short screening questions to answer, which we will use to select a shortlist of candidates that we will interview. A skill test is part of the process.<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/betterproducts-coo-senior-project-manager-for-marketing-agency">https://weworkremotely.com/remote-jobs/betterproducts-coo-senior-project-manager-for-marketing-agency</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/0762/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +95,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>51 days ago</text>
+                <text>52 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rocket-conversions-ad-creative-project-manager" align="right" target="_blank">Apply</a>
