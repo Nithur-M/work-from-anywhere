@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/10ex-dev-software-developer-elixir" align="right" target="_blank">Apply</a>
@@ -89,7 +89,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/planning-center-full-stack-developer-3" align="right" target="_blank">Apply</a>
@@ -164,7 +164,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/trendspider-front-end-software-developer" align="right" target="_blank">Apply</a>
@@ -214,7 +214,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>696 days ago</text>
+                <text>697 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -270,6 +270,48 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1719193/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>WeSchool</h5>
+                    <h3>Senior Back End Developer</h3>
+                </td>
+                <td width="300">
+                    <code>api,AWS,backend,big data</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1719193" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="h2"><strong>Who we are</strong></div>
+<p>WeSchool is the leading Italian EdTech Company. We are on a mission to ensure learning never stops, our goal is to empower educators and students and encourage them to innovate learning by making it more inclusive, collaborative and engaging.</p>
+<p>We provide a collaborative e-learning platform, developed in-house by our Tech team, that has enabled 1.7M (20% of) Italian students not to miss school during the outbreak of the pandemic and to amplify their learning experience by leveraging digital tools. </p>
+<p>We are a young and fast-paced team that values collaboration and innovation as keys to reach our mission. Our company is home to almost 70 full-time employees, and we plan to keep growing in 2023 to push on our international expansion with a remote-first, objective-based approach.</p>
+<div class="h2"><strong>What's in for you</strong></div>
+<p>As we are expanding our Engineering Team, we are looking for a passionate Senior Backend Developer who is excited about shaping the future of Education. WeSchool is creating an area that is capable of handling the technical needs of the entire company, both for the web platform and the mobile app. Together with the Product Team, our goal is to make the user experience increasingly user-centered and frictionless.</p>
+<p>Some of the technology challenges we face at WeSchool are related to:</p>
+<ul style=""><li style="">Real-time collaboration</li><li style="">Scalability</li><li style="">Big data analytics and AI-based features </li></ul>
+<p><strong>About you</strong></p>
+<p><u>We expect you to be:</u></p>
+<ul style=""><li style="">Expert in designing scalable and maintainable interfaces that achieve high performance</li><li style="">Expert in the technologies we have used to develop our platform</li><li style="">Capable of co-creating improvements with all team members and with the product area</li><li style="">Able to communicate effectively with all team members</li><li style="">Curious and passionate about software development</li></ul>
+<p><u>Basic Qualifications</u></p>
+<ul style=""><li style="">5+ years of work experience as a software developer</li><li style="">Excellent knowledge of PHP, with frameworks such as Symfony or Laravel and API REST development</li><li style="">Good knowledge of SOLID principles and MVC development patterns</li><li style="">Good knowledge and experience with both relational and non-relational documental and key/value databases</li><li style="">Experience and passion for testing</li><li style="">Fluent English </li></ul>
+<p><u>Preferred Qualifications</u></p>
+<ul style=""><li style="">Experience with free/open-source projects</li><li style="">Knowledge of another object-oriented or functional programming language</li><li style="">Good knowledge of Domain Driven Design</li><li style="">Experience in developing microservices</li><li style="">Experience with GraphQL</li><li style="">Experience with Docker</li><li style="">Experience with message brokers</li><li style="">Experience with AWS cloud services</li></ul>
+<div class="h2"><strong>What we offer</strong></div>
+<ul style=""><li style="">Competitive salary</li><li style="">Flexible working hours</li><li style="">Full-remote (with availability to be in the office for the onboarding process and when needed during the collaboration)</li><li style="">A learning environment where you can build upon your skills and interests, we support you with a yearly personal development budget A diverse, inclusive, and multicultural working environment</li></ul>
+<p></p>
+<img src="https://remotive.com/job/track/1719193/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1359476/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -280,7 +322,7 @@
                     <code>backend,frontend,fullstack,javascript</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -349,7 +391,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -424,7 +466,7 @@
                     <code>UI/UX,CI/CD</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -501,7 +543,7 @@
                     <code>C++,javascript,python,security</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -638,7 +680,7 @@
                     <code>api,azure,cloud,django</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -703,7 +745,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -780,7 +822,7 @@
                     <code>C,C#,unity,unity3D</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1024,6 +1066,122 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1651226564728700928/h0tz5UT1_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Supabase</h5>
+                    <h3>Rust Developer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/supabase/jobs/4917893004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p><img src="https://pbs.twimg.com/media/FIdU8GJWQAUGWRA?format=jpg&amp;name=small" alt="Join Supabase" width="680" height="453"></p></div>
+
+    <p>We're looking for a Rust Developer to join our team to help innovate on our PostgreSQL projects.</p>
+<p>You'll primarily collaborate with the PostgreSQL tools team and directly contribute to technical choices and internal processes.</p>
+<p>The key tasks associated with this role revolve around Rust development in the PostgreSQL ecosystem. You will work to refine and expand our PostgreSQL extensions, develop CLI tooling for the dbdev package index, and assist in the development of several other repositories.</p>
+<p>In this role, you will be mainly responsible for:</p>
+<ul>
+<li>contributing to our Rust repos:
+<ul>
+<li>Public Projects <a href="https://github.com/supabase/pg_graphql">pg_graphql</a>, <a href="https://github.com/supabase/dbdev">dbdev</a>, <a href="https://github.com/supabase/wrappers">wrappers</a>, <a href="https://github.com/supabase/pg_jsonschema">pg_jsonschema</a></li>
+<li>Pre-Public Projects: e.g. an implementation of the PostgreSQL wire protocol</li>
+<li>Internal repos</li>
+</ul>
+</li>
+<li>participating in the successful rollout of <a href="https://github.com/tcdi/plrust">pl/rust</a></li>
+</ul>
+<p><strong>What we need</strong></p>
+<p>This role requires three critical attributes:</p>
+<ol>
+<li>You have a strong background in Rust programming. You're well-versed in Rust's unique features and understand how to leverage them to create efficient, reliable software. You are comfortable making architectural decisions and navigating/contributing to large codebases.</li>
+<li>Experience with PostgreSQL. While not strictly necessary, experience with PostgreSQL will be a significant advantage in this role. You may have previously worked with PostgreSQL extensions or used PostgreSQL in a high-performance context.</li>
+<li>Ability to self-manage. Every company will expect you to self-manage to some degree, but Supabase takes this to a new level. We are a flat, early-stage startup without a lot of structure. To thrive in this environment, you’ll need to be a motivated self-starter who is good working asynchronously across multiple teams. We’re looking for someone who will identify things that need improvement and put their heads down until it’s shipped.</li>
+</ol>
+<p><strong>What you’ll do</strong></p>
+<ul>
+<li>Contribute to the development of our Rust projects, refining existing features and developing new ones.</li>
+<li>Participate in the design and development of our PostgreSQL extensions and package index.</li>
+<li>Build tools within the Supabase ecosystem, occasionally dogfooding our own work.</li>
+<li>Interacting with customers on a daily basis.</li>
+<li>Triage and fix GitHub issues.</li>
+</ul>
+<p><strong>Must haves</strong></p>
+<ul>
+<li>3+ years experience in Rust development.</li>
+<li>Experience with Git and version control practices.</li>
+<li>Willingness to evolve and shape our development tools/stack.</li>
+<li>Willingness to regularly talk to customers to ensure we’re solving problems they have.</li>
+<li>Willingness to work in a fast-paced environment.</li>
+</ul>
+<p><strong>Nice to haves</strong></p>
+<ul>
+<li>Experience with PostgreSQL as a user and/or extension author.</li>
+<li>Experience with GraphQL.</li>
+<li>Experience working on a large, open-source projects.</li>
+<li>Open source rust contributions.</li>
+</ul>
+<p><strong>We offer:</strong></p>
+<ul>
+<li>100% remote work from anywhere in the world. No location-based adjustment to your salary.</li>
+<li>ESOP (equity ownership in the company)</li>
+<li>Autonomous work. We work collaboratively on projects, but you set your own pace.</li>
+<li>Health, Vision and Dental benefits. Supabase covers 100% of the cost for employees and 80% for dependents</li>
+<li>Generous Tech Allowance for any office setup you need</li>
+<li>Annual Education Allowance</li>
+<li>Annually run off-sites.</li>
+</ul>
+
+    
+
+    <div class="content-conclusion"><h3>BUILD IN A WEEKEND. SCALE TO BILLIONS</h3>
+<p>Supabase adds auth, realtime, and restful APIs to Postgres without a single line of code.</p>
+<p>Each project within Supabase is an isolated&nbsp;Postgres cluster, allowing customers to scale independently, while still providing the features that you need to build: instant database setup, auth, row level security, realtime data streams, auto-generating APIs, and a simple to use web interface.</p>
+<p>We are a fully remote company.</p>
+<p>Key Tech: Javascript, Typescript, Go, Elixir, PostgREST (haskell), Postgres, Pulumi.</p>
+<h3><a id="about-the-team" class="anchor"></a>About the team</h3>
+<ul>
+<li>We're a startup. It's unstructured.</li>
+<li>Collectively founded more than a dozen venture-backed companies.</li>
+<li>More than 10 different nationalities.</li>
+<li>We deeply believe in <a href="https://supabase.com/blog/2022/03/25/should-i-open-source-my-company" target="_blank">the efficacy of collaborative open source</a>. We support existing communities and tools, rather than building "yet another xx".</li>
+<li>We "dogfood" everything. If you use it in your project, we use it in Supabase.</li>
+</ul>
+<h2><a id="process" class="anchor"></a>Process</h2>
+<ul>
+<li>The entire process is fully remote and all communication will happen over email or via video chat.</li>
+<li>Once you've submitted your application, the team will review your submission, and may reach out for a short screening interview over video call.</li>
+<li>If you pass the screen you will be invited to up to four follow up interviews. The calls:
+<ul>
+<li>usually take between 20-45 minutes each depending on the interviewer.</li>
+<li>are all 1:1.</li>
+<li>will be with both founders, a member of either the growth or engineering team (depending on the role), and usually one other person from your immediate team or function.</li>
+</ul>
+</li>
+<li>Once the interviews are over, the team will meet to discuss several roles and candidates and may:
+<ul>
+<li>ask one or two follow-up questions over email or a quick call.</li>
+<li>go directly to making an offer.</li>
+</ul>
+</li>
+</ul>
+<h2>&nbsp;</h2></div>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1428393724527190022/4mt5PACL_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -1050,7 +1208,7 @@
 <p><span style="font-weight: 400;">It’s an exciting time to join Sourcegraph. Our business is growing rapidly: we’ve experienced exponential growth and our </span><a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/"><span style="font-weight: 400;">$125M Series D from Andreessen Horowitz</span></a><span style="font-weight: 400;"> and </span><a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"><span style="font-weight: 400;">$50M Series C from Sequoia</span></a><span style="font-weight: 400;"> have given us the opportunity to make big ambitious bets on our future. We have a huge market (every company that builds software) and massive opportunity (most developers haven't even heard of code intelligence yet, but once you've used it, you can't live without it--just like Google). By continuing to hire exceptional people, we have the opportunity to make Sourcegraph one of the biggest technology companies in the world. </span></p></div>
 
     <h2><span style="color: #8c33ec;"><strong>Working hours</strong></span></h2>
-<p><span style="font-weight: 400;">&nbsp;Given that we are an all-remote company and hire </span><a href="https://handbook.sourcegraph.com/departments/people-ops/process/how-we-engage-talent-outside-the-us/"><span style="font-weight: 400;">almost anywhere</span></a><span style="font-weight: 400;"> in the world, we don’t have a particular time-zone preference for this role.</span></p>
+<p>While Sourcegraph is fully remote, we are specifically seeking candidates located in North America to be able to attend events regularly.&nbsp;</p>
 <h2><span style="color: #8c33ec;"><strong>Why this job is exciting</strong></span></h2>
 <p><a href="https://about.sourcegraph.com/cody?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=19895311885&amp;utm_term=sourcegraph%20cody&amp;gclid=CjwKCAjw0ZiiBhBKEiwA4PT9z9jbT-6ncbQS5bLcQHfuIy9Je5bCogDwICrbbZ8Z9TkwiKkenGMuFRoCptEQAvD_BwE"><span style="font-weight: 400;">Cody</span></a><span style="font-weight: 400;"> is the best AI coding assistant today, and you'll get to help build it and get it in the hands of millions of devs. AI applied to software engineering will change the world more than any single other technology. We're perfectly positioned to keep building the best coding AI because of our large-scale, deep understanding of code inside the most advanced companies in the world and across the world of public code.</span></p>
 <h2><span style="color: #8c33ec;"><strong>Job Responsibilities</strong></span></h2>
@@ -2320,30 +2478,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>We are looking to hire a C Developer, who will be part of our <a href="https://tuxcare.com/extended-lifecycle-support/" rel="nofollow noreferrer noopener" class="external">Extended Lifecycle</a> team. In this position you will backport security fixes to stable, maintaining by our company versions of those projects. You will also work and contribute to major, open source projects like Apache HTTPD, OpenSSL, MySQL.</p><p>TuxCare is a Division of CloudLinux Inc., the maker of the #1 OS in security and stability for hosting providers. TuxCare provides a set of services to automate, simplify and enhance enterprise Linux operations. It reduces the management tasks and patch delay risks with live patching, completely bypassing the need for complex service migration orchestration even when you have high availability in place. For more information about TuxCare check out our website <a href="https://tuxcare.com" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com</a></p><p><strong>What you will do:</strong></p><ul> <li>Backport security and bug fixes from newer upstream versions or writing patches from scratch. </li> <li>Create reproducers and tests for vulnerabilities.</li> <li>Contribute to upstream projects</li> <li>Work on various open-source projects like Apache httpd, Python, OpenSSL, etc.</li> <li>Automation of routine processes like CVEs monitoring, patches applying and testing.</li> </ul><h3>Requirements: </h3><ul> <li>You have 5+ years of С programming experience</li> <li>You have GNU/Linux operating system and shell scripting experience  </li> <li>You have ability to work with various build systems like autotools, make and cmake</li> <li>You have experience with git-based development processes  </li> <li>Python or other scripting language knowledge will be a plus</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> </li> <li>Flexible working hours</li> <li>Paid 24 days of vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Senior C Developer for KernelCare - REMOTE/ Work Anywhere</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/9A7751A4D1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We are looking for a Senior C/Linux/POSIX Developer to join our LibCare Developers team. As a Senior C Developer, you will contribute to the development and maintenance of the Libcare library. You will work closely with a talented team of developers to create high-quality code and deliver innovative solutions. </p><p>Libcare serves as a powerful toolkit for software developers, empowering them to build high-performing, secure, and reliable applications while reducing development complexities. It is part of KernelCare, CloudLinux’s fastest-growing product, which provides automated kernel security updates for the most popular Linux distributions without reboots. It ensures optimal performance and uptime by allowing hosting providers and enterprises to keep kernels up-to-date with all security patches while keeping servers online.</p><p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure everyone is successful. We are truly a great place to work.</p><p>For more details about our company go to <a href="http://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">Cloudlinux.com</a>.</p><p><strong>As a Senior C developer, you will be responsible for:</strong></p><ul> <li>Develop the engine and toolchain of the live-patching services for userspace</li> <li>Implement, backport and adapt CVE patches for glibc, openssl, QEMU</li> <li>Code debugging</li> <li>Participate in Code Review processes to ensure code quality and knowledge sharing across the team.</li> <li>Collaborate with the team to define software require</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role you should have:</strong></p><ul> <li>5+ years of experience developing applications in C/C++ in a Linux Environment preferably with GCC/GNU tool chains</li> <li>Knowledge of POSIX API</li> <li>Knowledge of compilers, assemblers, and libraries internals</li> <li>Experience with C and C++ ABI, exception handling, stack unwinding, ptrace</li> <li>Experience with Linux, Python, and BASH scripting</li> <li>Experience with parallel, concurrent, and multi-threaded programming</li> <li>Have a track record of contributing to open-source solutions (good to have)</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> </li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p><br></p><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
                 </details>
                 </td>
             </tr></table>
