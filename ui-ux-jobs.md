@@ -10,7 +10,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/baymard-institute-e-commerce-ux-auditor-1" align="right" target="_blank">Apply</a>
@@ -138,6 +138,81 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0086/8458/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Nebula Careers</h5>
+                    <h3> UI Designer</h3>
+                </td>
+                <td width="300">
+                    <code>Design</code>
+                </td>
+                <td width="200">
+                <text>28 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/nebula-careers-ui-designer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0086/8458/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> New York City
+    <br /><strong>URL:</strong> <a href="https://vonq.io/3WJC6Lk">https://vonq.io/3WJC6Lk</a>
+</p>
+
+<p><strong><em>First off, this description is a wishlist, not a checklist. We want to find a super-amazing person to join our team, and we’re well aware that “super-amazing” can come in all different forms. If you’re a little less experienced on a specific bullet point, or if you didn’t go to a fancy school, apply anyway. We look at candidates, not resumes.</em></strong></p>
+<p><strong>About Us</strong></p>
+<p>Standard is a sort of talent management agency and production company for thoughtful YouTubers and podcasters. We do a lot of things, so it’s hard to explain it all in a single paragraph, but our mission is to empower independent creators. Most of our time is spent talking or working with the creators directly, one on one or in a group, coming up with better tools and toys for them.</p>
+<p>We’re a distributed company. We have offices in NYC and Denver, but more than 50% of the team is remote, in exotic locations like the UK, the Netherlands, France, and Ohio.</p>
+<p>There are things to do and meetings to be had, but we pride ourselves on our flexibility. We think this makes Standard a great place to work for people with families, or whose productive hours tend to be outside of the 9-5. We care about what you do more than when you do it.</p><p><strong>About the Role</strong></p>
+<p>Nebula is looking for a talented UI Designer with technical expertise, solid and confident UI skills, design systems experience, a passion for order and a scrupulous eye for detail. You’ll be joining a small design team building the Nebula user interface across all our current and future platforms.</p>
+<p><strong>Responsibilities </strong></p>
+<ul>
+<li>Work closely with the design and product teams to create and enhance the Nebula user interface.</li>
+<li>Create design deliverables such as user flows, wireframes, lo-fi and hi-fi layouts, prototypes.</li>
+<li>Design, maintain, and document a library of multi-platform UI components.</li>
+<li>Coordinate with other design team members to ensure consistent and accurate communication.</li>
+</ul>
+<p><strong>What We're Looking for</strong></p>
+<ul>
+<li>A confident UI designer with at least 5 years of experience and strong UI design skills; typography, layout, usability, accessibility</li>
+<li>Experience in creating and maintaining design systems</li>
+<li>Good knowledge of major platform guidelines (Apple HIG, Material Design, etc.) and ability to adapt UI components according to these guidelines</li>
+<li>Ability to work across multiple target platforms</li>
+<li>Strong experience creating documentation for developers and designers</li>
+<li>A critical thinker with creative problem-solving skills and a high level of attention to detail</li>
+<li>Open and flexible communication skills, responsive and responsible mindset (experience working on a distributed team is a plus)</li>
+<li>Proactive, independent working style</li>
+<li>Unwavering commitment to usability</li>
+</ul>
+<p><strong>Nice to have</strong></p>
+<ul>
+<li>Experience with TV app platforms</li>
+<li>Experience following A11y standards</li>
+</ul>
+<p><strong>Perks</strong></p>
+<ul>
+<li>Competitive salary between $60,000-$100,000 USD or local international equivalent. We do not use formal job titles internally and similarly named positions may have different compensation levels. Actual starting salary will depend on various considerations, including: work experience, skills, specializations, training, and location.</li>
+<li>Flexible work hours and vacation policy.</li>
+<li>Diverse, socially-minded team of nice people.</li>
+<li>Medical, dental, and vision plans.</li>
+<li>401(k) and other benefits.</li>
+</ul><p><strong>How We Hire</strong></p>
+<p>We think that diversity is important. Many of us have non-traditional backgrounds. We work in the online education space, so we understand how much can be learned on your own, on the Internet, outside of a classroom.</p>
+<p>We’re looking for people who are curious and passionate. Our team should be made up of people of all sorts of backgrounds, gender identities, and bodies who can help to expand our perspective and improve our ability to treat our creators and our audience with thoughtfulness and empathy.</p>
+<p>If that sounds like you, we’re happy to care less how many years of experience you have or where you went to school. Apply anyway. And if you have any feedback on how we could reach or appeal to a more diverse pool of talent, get in touch.</p>
+<p><strong>Tip: “tv” is part of our domain, not our name.</strong></p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/nebula-careers-ui-designer">https://weworkremotely.com/remote-jobs/nebula-careers-ui-designer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4150/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -148,7 +223,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>594 days ago</text>
+                <text>595 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -214,7 +289,7 @@
                     <code>go,UI/UX,wordpress,chat</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
