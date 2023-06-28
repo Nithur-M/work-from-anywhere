@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>594 days ago</text>
+                <text>595 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -62,6 +62,130 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1713348/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sona</h5>
+                    <h3>Senior Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>excel,AI/ML,product management,product development</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/senior-product-manager-1713348" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="min-height: 1.5em;">The real economy employs 3 billion people in frontline jobs, yet frontline teams have been underserved by technology for decades and are left to choose between paper or 20-year-old workforce management solutions, which harm both their employees and their business.</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;">At Sona, we’re building the Frontline Operating System; an end-to-end platform to manage the entirety of a shift-based workforce. Sona combines the functionality you expect from any workforce management software - including scheduling, time &amp; attendance, and absence management - with industry-specific plugins and dedicated features to empower staff, all in one easy-to-use platform that simplifies frontline work for everyone.  </p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;">We have the opportunity to build a very large, impactful and sector-defining business, and we’re off to a fast start. In year 1, we reached tens of thousands of frontline workers and raised over $10 million from Google’s AI fund - Gradient Ventures, SpeedInvest, Notion Capital and angels like Tom Blomfield, to help us reach more.</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;">It’s a hugely exciting time to be joining the team, as we’re still small enough that you’ll have a significant impact on the company, growth trajectory and culture, but large enough that we have a great structure, experienced leaders and world-class benefits in place (such as being fully remote and flexible, and only working 4.5 days a week)</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>About the Role</strong></p>
+<p style="min-height: 1.5em;">We’re taking the modern product experience that we’ve all come to expect in our consumer lives and putting it in the hands of front line teams. As our third Product Manager, you’ll help define our ambitious Product roadmap, driven by huge customer demand, and work closely with a growing, cross-functional product team to execute it. </p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;">Our product serves several sectors and we’ll break into even more in future. This means you’ll be turning a newly-established product into a true market leader and guiding us through the early product-market fit stages in fresh sectors as we continue to grow. </p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;">To excel in this role, you’ll need to be comfortable balancing multiple work streams and able to factor commercial context into product decisions, while still being a champion for our users and committed to building a best-in-class product.</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Responsibilities </strong></p>
+<p style="min-height: 1.5em;">Day to day, you will be: </p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Defining and prioritising our roadmap and ensuring it’s transparent and visible throughout Sona</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Working with our engineers, designers, and wider product team to deliver new features for our product.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Building a deep understanding of our users' needs through direct interaction and close collaboration with our customer and commercial team</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Contributing to the continuous improvement of our product development process and practices </p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Requirements</strong></p>
+<p style="min-height: 1.5em;">We don’t have hard and fast requirements, but hopefully lot’s of the following apply to you: </p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">You’re an experienced Product Manager, capable of owning a product area and coordinating your team to ship high-quality features quickly. </p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">You communicate clearly and transparently, erring on the side of over-communicating with your team and the wider business. </p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">You’re flexible and comfortable dealing with the rapid course correction needed to navigate the early stages of finding product market fit and becoming a category leader. </p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">You have the needs of users top-of-mind when building products, but you’re also able to understand and factor-in commercial context.</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Benefits:</strong> </p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">£65-90k (or local equivalent)</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">4.5 day standard working week </p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Share options</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Fully remote and flexible working</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">35 days annual leave (25 days standard plus 10 flexible public holiday days)</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Pension contributions matched up to 5%</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Comprehensive health insurance via Bupa</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Enhanced parental leave &amp; pay</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Co-working space stipend</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Quarterly all expenses paid team retreats</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">The latest Macbook and equipment for your home office</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Professional development budget</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Unlimited free books</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Working at Sona</strong></p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;">We take our health and mental health seriously, believing that we can only perform to our best when we are healthy, happy, and in control of when, where, and how we work. That's why we're 100% remote and everyone works a 4.5 day week (you choose when you take the half day) with a fully flexible schedule.</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;">We balance this with regular virtual stand-ups and all-hands so we're all aligned, and paid-for, in-person meet-ups so you can get to know your colleagues.</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;">You can learn more about the team and what it’s like working at Sona <a href="https://www.notion.so/getsona/Working-at-Sona-4e3c00206c414d8c9eb9b7a617cdc6d7" rel="nofollow" target="_blank"><u>here</u></a>.</p>
+<img src="https://remotive.com/job/track/1713348/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -257,8 +381,8 @@
                 
     <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
 <h2><span style="color: #a112ff;">Who we are</span></h2>
-<p><span style="font-weight: 400;">Our mission at Sourcegraph is to make it so that </span><a href="https://handbook.sourcegraph.com/strategy-goals/strategy"><span style="font-weight: 400;">everyone can code</span></a><span style="font-weight: 400;">, not just ~0.1% of the population. Our code intelligence platform helps developers and </span><a href="https://about.sourcegraph.com/customers/"><span style="font-weight: 400;">companies</span></a><span style="font-weight: 400;"> with billions of lines of code create the software you use every day. By enabling more people to code, we believe we will create economic opportunity across the world and will drive progress that benefits everyone.</span></p>
-<p><span style="font-weight: 400;">It’s an exciting time to join Sourcegraph. Our business is growing rapidly: we’ve experienced exponential growth and our </span><a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/"><span style="font-weight: 400;">$125M Series D from Andreessen Horowitz</span></a><span style="font-weight: 400;"> and </span><a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"><span style="font-weight: 400;">$50M Series C from Sequoia</span></a><span style="font-weight: 400;"> have given us the opportunity to make big ambitious bets on our future. We have a huge market (every company that builds software) and massive opportunity (most developers haven't even heard of code intelligence yet, but once you've used it, you can't live without it--just like Google). By continuing to hire exceptional people, we have the opportunity to make Sourcegraph one of the biggest technology companies in the world. </span></p></div>
+<p><span style="font-weight: 400;">Our mission at Sourcegraph is to make it so that </span><a href="https://handbook.sourcegraph.com/strategy-goals/strategy"><span style="font-weight: 400;">everyone can code</span></a><span style="font-weight: 400;">, not just ~0.1% of the population. Our code AI platform helps developers and </span><a href="https://about.sourcegraph.com/customers/"><span style="font-weight: 400;">companies</span></a><span style="font-weight: 400;"> with billions of lines of code create the software you use every day. By enabling more people to code, we believe we will create economic opportunity across the world and will drive progress that benefits everyone.</span></p>
+<p><span style="font-weight: 400;">It’s an exciting time to join Sourcegraph. Our business is growing rapidly: we’ve experienced exponential growth and our </span><a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/"><span style="font-weight: 400;">$125M Series D from Andreessen Horowitz</span></a><span style="font-weight: 400;"> and </span><a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"><span style="font-weight: 400;">$50M Series C from Sequoia</span></a><span style="font-weight: 400;"> have given us the opportunity to make big ambitious bets on our future. We have a huge market (every company that builds software) and massive opportunity (most developers haven't even heard of code AI yet, but once you've used it, you can't live without it--just like Google). By continuing to hire exceptional people, we have the opportunity to make Sourcegraph one of the biggest technology companies in the world. </span></p></div>
 
     <h2><span style="color: rgb(140, 51, 236);">Why this job is exciting</span></h2>
 <p>Sourcegraphs deep code expertise sits at the heart of Cody’s industry leading technical capabilities. Our Code AI platform is core to everything we do at Sourcegraph (read more in <a href="https://handbook.sourcegraph.com/strategy-goals/strategy/#our-product-framework">our handbook</a>). As the Product Manager for our Code AI Platform, you will be responsible for continuing to push the boundaries of what it means to build an open and universal platform in the age of LLMs. How do we measure the impact of an admin’s LLM choice to their developers user experience? How do we help admins in extremely secure organizations trust our platform? Why would a developer build with our platform over competitors? Ideally, you will define a compelling vision at the center of our unique differentiation, an untapped part of the market, and something our customers are willing to pay for. You will be the go-to for defining&nbsp; a crucial member of our exceptional<a href="https://about.sourcegraph.com/company/values#high-agency"> high agency</a><a href="https://about.sourcegraph.com/company/remote"> all-remote team</a>, and will help us to achieve ambitious objectives to build a code intelligence platform.</p>
@@ -370,8 +494,8 @@
                 
     <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
 <h2><span style="color: #a112ff;">Who we are</span></h2>
-<p><span style="font-weight: 400;">Our mission at Sourcegraph is to make it so that </span><a href="https://handbook.sourcegraph.com/strategy-goals/strategy"><span style="font-weight: 400;">everyone can code</span></a><span style="font-weight: 400;">, not just ~0.1% of the population. Our code intelligence platform helps developers and </span><a href="https://about.sourcegraph.com/customers/"><span style="font-weight: 400;">companies</span></a><span style="font-weight: 400;"> with billions of lines of code create the software you use every day. By enabling more people to code, we believe we will create economic opportunity across the world and will drive progress that benefits everyone.</span></p>
-<p><span style="font-weight: 400;">It’s an exciting time to join Sourcegraph. Our business is growing rapidly: we’ve experienced exponential growth and our </span><a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/"><span style="font-weight: 400;">$125M Series D from Andreessen Horowitz</span></a><span style="font-weight: 400;"> and </span><a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"><span style="font-weight: 400;">$50M Series C from Sequoia</span></a><span style="font-weight: 400;"> have given us the opportunity to make big ambitious bets on our future. We have a huge market (every company that builds software) and massive opportunity (most developers haven't even heard of code intelligence yet, but once you've used it, you can't live without it--just like Google). By continuing to hire exceptional people, we have the opportunity to make Sourcegraph one of the biggest technology companies in the world. </span></p></div>
+<p><span style="font-weight: 400;">Our mission at Sourcegraph is to make it so that </span><a href="https://handbook.sourcegraph.com/strategy-goals/strategy"><span style="font-weight: 400;">everyone can code</span></a><span style="font-weight: 400;">, not just ~0.1% of the population. Our code AI platform helps developers and </span><a href="https://about.sourcegraph.com/customers/"><span style="font-weight: 400;">companies</span></a><span style="font-weight: 400;"> with billions of lines of code create the software you use every day. By enabling more people to code, we believe we will create economic opportunity across the world and will drive progress that benefits everyone.</span></p>
+<p><span style="font-weight: 400;">It’s an exciting time to join Sourcegraph. Our business is growing rapidly: we’ve experienced exponential growth and our </span><a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/"><span style="font-weight: 400;">$125M Series D from Andreessen Horowitz</span></a><span style="font-weight: 400;"> and </span><a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"><span style="font-weight: 400;">$50M Series C from Sequoia</span></a><span style="font-weight: 400;"> have given us the opportunity to make big ambitious bets on our future. We have a huge market (every company that builds software) and massive opportunity (most developers haven't even heard of code AI yet, but once you've used it, you can't live without it--just like Google). By continuing to hire exceptional people, we have the opportunity to make Sourcegraph one of the biggest technology companies in the world. </span></p></div>
 
     <h2><span style="color: #8c33ec;"><strong>Working hours</strong></span></h2>
 <p><span style="font-weight: 400;">🌎 Given that we are an all-remote company and hire </span><a href="https://handbook.sourcegraph.com/departments/people-ops/process/how-we-engage-talent-outside-the-us/"><span style="font-weight: 400;">almost anywhere</span></a><span style="font-weight: 400;"> in the world, we don’t have a location requirement for this role. However, your working hours must overlap with Pacific Time for at least 5 hours/week.</span></p>
