@@ -10,7 +10,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/baymard-institute-e-commerce-ux-auditor-1" align="right" target="_blank">Apply</a>
@@ -90,7 +90,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tiller-ui-ux-designer" align="right" target="_blank">Apply</a>
@@ -148,7 +148,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/nebula-careers-ui-designer" align="right" target="_blank">Apply</a>
@@ -223,7 +223,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>595 days ago</text>
+                <text>596 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -279,6 +279,44 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1685699/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Mood</h5>
+                    <h3>Senior UX/UI designer</h3>
+                </td>
+                <td width="300">
+                    <code>CSS,html,javascript,UI/UX</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/design/senior-ux-ui-designer-1685699" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Job Title</strong>: Senior UX/UI Designer</p>
+<p><strong>Location</strong>: Remote</p>
+<p><strong>Company Overview:</strong></p>
+<p>We are a rapidly growing e-commerce company selling legal hemp THC products. We have experienced significant growth since our launch in August 2022 and are now a team of about 90 people. We generate significant revenue, are growing rapidly this year, and are profitable. Our leadership team consists of a CEO, CMO, CFO, and CTO.</p>
+<p>We're basically a cannabis company that functions like a tech company and we believe in old fashioned business principles: sell high quality products and treat people well!</p>
+<p>We are looking for a Senior UX/UI Designer to join our core product trio, which includes a lead engineer and a product manager, reporting directly to the Head of Digital Product. As a Senior UX/UI Designer, you will be responsible for a range of UX design activities, from research to high-fidelity design, in order to help us create and maintain a design system for our digital products. You will work closely with our Head of Digital product and lead engineer to ideate, research, validate, and execute on product solutions.</p>
+<p><strong>Responsibilities:</strong></p>
+<ol style=""> <li style="">Conduct weekly user research and usability testing to gather insights and validate product ideas</li> <li style="">Work closely with a world-class branding agency to design digital product components that are anchored on Mood's personality and values</li> <li style="">Develop user flows, wireframes, and prototypes to communicate design concepts</li> <li style="">Create high-fidelity designs using Figma</li> <li style="">Collaborate with the Head of Digital Product and Lead Engineer to ensure design solutions align with product goals and technical feasibility</li> <li style="">Maintain all high-fidelity flows and mockups in Figma and ensure that design system is up-to-date and adheres to branding guidelines</li> <li style="">Continuously seek feedback and iterate on designs based on user data</li> <li style="">Contribute to creating a culture of design thinking and continuous improvement within the product trio and across the organization</li> </ol>
+<p><strong>Requirements:</strong></p>
+<ol style=""> <li style="">5+ years of experience in UX/UI design, with a portfolio showcasing your work and design process</li> <li style="">Proficiency in Figma</li> <li style="">Experience creating design systems and pattern libraries</li> <li style="">Experience conducting regular user research and usability testing</li> <li style="">Strong collaboration skills and ability to work effectively in a team</li> <li style="">Excellent communication and presentation skills, with the ability to clearly articulate design decisions and rationale to stakeholders</li> <li style="">Strong problem-solving skills and ability to think creatively to solve complex design problems</li> <li style="">The ability to balance quantitative and qualitative learnings</li> <li style="">Empathy for users and ability to put yourself in their shoes to create intuitive and delightful user experiences</li> </ol>
+<p><strong>Nice-to-haves:</strong></p>
+<ol style=""> <li style="">Experience with the practices described in Continuous Discovery Habits by Teresa Torres</li> <li style="">Familiarity with front-end development technologies such as HTML, CSS, and JavaScript</li> <li style="">Experience using self-service analytics tools such as PostHog or Mixpanel</li> <li style="">Experience working in high-volume D2C e-commerce companies</li> </ol>
+<p><strong>How to Apply:</strong></p>
+<p>If you're interested in applying for this position, please submit your resume, portfolio showcasing your design work and process, and a short cover letter (ideally less than 10 sentences) telling us about a time a project went poorly, but left you with valuable learnings. We look forward to hearing from you!</p>
+<img src="https://remotive.com/job/track/1685699/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/986276/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -289,7 +327,7 @@
                     <code>go,UI/UX,wordpress,chat</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
