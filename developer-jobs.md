@@ -1,5 +1,78 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/3940/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Better Proposals</h5>
+                    <h3> PHP Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/better-proposals-php-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0076/3940/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Brighton, UK
+    <br /><strong>URL:</strong> <a href="https://betterproposals.io/">https://betterproposals.io/</a>
+</p>
+
+<div>Over the last 6 years Better Proposals has grown from a simple idea for an internal tool into one of the “big 4” in the proposal space. Continual growth on a month-by-month basis is always the goal but doing it by continually innovating, creating new things and making our customers happy. <br> <br><strong>Are you “the one”?<br></strong> <br>We are looking for multiple talented and enthusiastic PHP developers, with varying levels of skill, to join our experienced product team. We are ideally looking for "full stack" developers but "front-end" and "back-end" developers who are keen to learn should also speak to us. You will be contributing to improving the product by working on new features and improving existing ones. <br> <br>Better Proposals is one of the world’s leading proposal tools, which helps businesses send web-based, high-converting business proposals, contracts and other types of documents. By sending trackable, modern documents with the ability to sign and pay online, our software helps sales representatives win more clients and get paid faster. <br> <br>With 10,000+ users around the globe, we’re just getting started. <br> <br><strong>A day in the life of a Better Proposals developer<br></strong> <br>Typically you’ll be working on new features for the Better Proposals product. Be that planning it out, investigating possibilities, straight coding or working with our CTO to launch the feature without issues. Perhaps there’s a bug or issue with the product and we need to make a quick change - you’ll be expected after a while to know where to look, make the change and push it live without a problem. <br> <br>In this role, you will be responsible for coding, testing, modifying, and implementing new or existing features for the product. Your duties will include liaising with the CTO, writing clean, scalable code, following testing protocols, fixing bugs, and deploying updates. <br> <br><strong>What you’ll do</strong>
+</div><ul>
+<li>Assisting with all aspects of coding and some feature planning.</li>
+<li>Attending and contributing to company development meetings.</li>
+<li>Learning the codebase and improving your coding skills. </li>
+<li>Writing and maintaining code. </li>
+<li>Working on minor bug fixes. </li>
+<li>Monitoring the ongoing security around the product. </li>
+<li>Considering ongoing updates and improvements to our tech stack. </li>
+</ul><div>
+<br><strong>Benefits</strong><br><br>
+</div><ul>
+<li>Working on various development tasks across different areas of our SaaS business.</li>
+<li>Remote work in a global company, with a friendly and hard working team. </li>
+<li>Opportunity to grow within the company, head up departments and earn promotions and pay rises. </li>
+<li>Flexible working hours </li>
+<li>Salary dependent on skills and experience </li>
+<li>No work on your birthday </li>
+<li>3 weeks holiday + 1 week for every year (capped at 6 weeks). </li>
+<li>Sizeable annual bonus based on personal performance and company performance </li>
+</ul><div>
+<br><strong>Requirements</strong> <br><br>
+</div><ul>
+<li>In-depth knowledge of PHP,  Javascript and MySQL. </li>
+<li>Working knowledge of front-end technologies including HTML5 and CSS3. </li>
+<li>Good experience with Git. </li>
+<li>Prior experience with AWS infrastructure is a bonus. </li>
+<li>Excellent knowledge and experience around debugging. </li>
+<li>Ideally, you have experience working in SaaS before but not essential. </li>
+<li>Ability to learn new software and technologies quickly. </li>
+<li>Detail-orientated and excellent problem solving skills. </li>
+<li>Ability to work to deadlines and estimate timeframes accurately. </li>
+</ul><div> <br><strong>Next steps </strong><br>  <br>Assuming everything goes well, here’s how our hiring process goes: </div><ul>
+<li>You apply </li>
+<li>We have an initial interview </li>
+<li>We will have a 2nd interview </li>
+<li>We will conduct a test task to analyse your skill level. </li>
+<li>We offer you the job </li>
+<li>You’re expected to accept it within 1 business day.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/better-proposals-php-developer">https://weworkremotely.com/remote-jobs/better-proposals-php-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4499/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +83,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/10ex-dev-software-developer-elixir" align="right" target="_blank">Apply</a>
@@ -89,7 +162,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/planning-center-full-stack-developer-3" align="right" target="_blank">Apply</a>
@@ -164,7 +237,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/trendspider-front-end-software-developer" align="right" target="_blank">Apply</a>
@@ -204,6 +277,162 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8558/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>DesignFiles</h5>
+                    <h3> Full-Stack Ruby on Rails Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/designfiles-full-stack-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/8558/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Remote
+    <br /><strong>URL:</strong> <a href="https://designfiles.co">https://designfiles.co</a>
+</p>
+
+<div>
+<strong>At DesignFiles we're looking for a Full-Stack Ruby on Rails Developer to join our engineering team.<br></strong><br>
+</div><div><strong>About the Job:</strong></div><div>
+<br>DesignFiles is an interior design project management software company on a mission to help interior designers and home furnishing retailers take their design services and businesses to new heights. With 5,000+ customers and 20+ team members located all over the world, we're growing quickly and looking for our next driven and talented team member.<br><br>
+</div><div>We’re looking for a Full Stack Ruby on Rails Developer to join the company to drive product development from the ground level.<br><br>
+</div><div>
+<em>Please note: This is a contract role and we are looking for individuals (not agencies) that can commit 40+ hours a week to become a core member of our team.<br></em><br>
+</div><div>
+<br><strong>What You'll Do:</strong>
+</div><ul>
+<li>Write, review and improve Ruby and JavaScript code working in Unix environment.<br><br>
+</li>
+<li>Collaborate with our product team to bring features from conception to completion.<br><br>
+</li>
+<li>Develop features with an emphasis on consistency and integrity at all levels of the stack.<br><br>
+</li>
+<li>Improve DesignFiles' engineering culture with an eye for best practices, code quality and code reviews.<br><br>
+</li>
+<li>Actively contribute to the project with ideas and solutions to constantly improve the lives of our designers and their clients.<br><br>
+</li>
+<li>Participate in Sprint Planning, Retros, 1:1s<br><br>
+</li>
+</ul><div>
+<br><strong>What We Want From You:</strong>
+</div><ul>
+<li>5+ years experience as a full-stack developer.<br><br>
+</li>
+<li>3+ years of hands-on Ruby on Rails experience.<br><br>
+</li>
+<li>Strong experience with Ruby on Rails: rubocop, minitest-spec-rails, delayed job, paperclip, paranoia, etc.<br><br>
+</li>
+<li>Strong experience with modern JavaScript/CSS: Webpack, Gulp, eslint, prettier, BEM.<br><br>
+</li>
+<li>Solid knowledge of unix shell, PostgreSQL, Docker, Node.js, AWS S3.<br><br>
+</li>
+<li>Fluent English, good communication skills and full presence during agreed work hours.<br><br>
+</li>
+<li>Taking responsibility for testing own code, thinking through the edge cases and ability to work productively without close supervision.</li>
+</ul><div><br></div><div>Sounds interesting? Apply here &gt;&gt; https://designfiles.homerun.co/full-stack-ruby-on-rails-developer</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/designfiles-full-stack-ruby-on-rails-developer">https://weworkremotely.com/remote-jobs/designfiles-full-stack-ruby-on-rails-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Proxify AB</h5>
+                    <h3> Senior Ruby on Rails Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>120 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Sweden
+    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
+</p>
+
+<div><strong>The Role:</strong></div><div>
+<br>We are searching for a Senior Ruby on Rails Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
+<br><br>
+</div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
+<li>You have +3 years of experience with Ruby on Rails;</li>
+<li>You have experience working with the libraries like Resque and RSpec;</li>
+<li>You are able to write clean Ruby code;</li>
+<li>You have proficiency with code versioning tools including Git, Github, SVN, and Mercurial;</li>
+<li>You got experience with Angular or ReactJS;</li>
+<li>You are familiar with MVC, Mocking, RESTful, and ORM;</li>
+<li>You have a good understanding of front-end technologies including HTML5, JavaScript, and CSS3;</li>
+<li>You possess knowledge of server-side templating languages including Slim and Liquid;</li>
+<li>You got familiar with testing tools.</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong>Nice-to-have:</strong> <br><br>
+</div><ul>
+<li>Timezone: CET (+/- 3 hours);</li>
+<li>Knowledge of TypeScript.</li>
+</ul><div><br></div><div>
+<strong>Responsibilities:<br></strong><br>
+</div><ul>
+<li>Designing and developing new web applications;</li>
+<li>Maintaining and troubleshooting existing web applications;</li>
+<li>Writing and maintaining reliable Ruby code;</li>
+<li>Integrating data storage solutions;</li>
+<li>Creating back-end components;</li>
+<li>Identifying and fixing bottlenecks and bugs;</li>
+<li>Integrating user-facing elements designed by the front-end team;</li>
+<li>Connecting applications with additional web servers;</li>
+<li>Maintaining the APIs.</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
+<br><br>
+</div><div><strong>Your benefits with Proxify:</strong></div><ul>
+<li>
+<strong>Be part of the Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
+<li>
+<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
+<li>
+<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
+<li>
+<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
+<li>
+<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
+</ul><div>
+<br><strong>Salary Range: </strong>€3,200  - €6,400 per month<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0017/3489/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -214,7 +443,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>960 days ago</text>
+                <text>961 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
@@ -283,6 +512,150 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1606658/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Proxify</h5>
+                    <h3>Senior Unity Developer</h3>
+                </td>
+                <td width="300">
+                    <code>C,C#,unity,unity3D</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The Role:</span></p>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">We are searching for a Senior Unity </span><span style="color: #252525; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Developer.</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </span></p>
+<p><strong><br><br></strong></p>
+<div class="h3" dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">What we are looking for:</span></div>
+<p><strong> </strong></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have +3 years of experience with Unity / Unity3D;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Strong ability with C# object-oriented programming language</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Experience with game assets (ex: meshes, animations, materials)</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have in-depth knowledge of 3D development and integrated game physics;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You own experience with both console and mobile game development;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You got experience with memory and space optimization;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You possess knowledge of scripting, animation, session management, and textures;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You have good troubleshooting skills.</span></p>
+</li>
+</ul>
+<div class="h4" dir="ltr" style="line-height: 1.9871999999999999; background-color: #ffffff; margin-top: 14pt; margin-bottom: 12pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Nice-to-have:</span><span style="color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> </span></div>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #252525; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Timezone: CET (+/- 3 hours);</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #252525; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Knowledge of TypeScript.</span></p>
+</li>
+</ul>
+<div class="h4" dir="ltr" style="line-height: 1.9871999999999999; background-color: #ffffff; margin-top: 0pt; margin-bottom: 12pt; padding: 2pt 0pt 0pt 0pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> </span></div>
+<div class="h4" dir="ltr" style="line-height: 1.9871999999999999; background-color: #ffffff; margin-top: 0pt; margin-bottom: 12pt; padding: 2pt 0pt 0pt 0pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Responsibilities:</span></div>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Establishing strategy and development pipelines;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Planning and implementing game functionality;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Transforming design ideas into functional games;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Designing and building game codes;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Identifying and fixing code errors and game bottlenecks;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Testing game functionality and theme dynamics;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Ensuring products conform to high industry standards;</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Designing and building game patches and upgrades;</span></p>
+</li>
+</ul>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Stay up-to-date with the latest technologies.</span></p>
+</li>
+</ul>
+<p><strong><br><br></strong></p>
+<p align="left" dir="ltr" style="margin-left: 0pt;"> </p>
+<table style="border: none; border-collapse: collapse;"><colgroup><col width="600"></colgroup>
+<tbody>
+<tr style="height: 132.75pt;">
+<td style="vertical-align: top; padding: 5pt 5pt 5pt 5pt; overflow: hidden; overflow-wrap: break-word; border: solid #000000 0.99609pt;">
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">What we offer:</span></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">💻 </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">100% remote work</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Work from anywhere.</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">👌🏻 </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Flexibility</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: The ability to change the project to another one.</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">💵 </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Financial growth</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Competitive compensation and performance-based increases.</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">🧘🏻‍♂️ </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Freedom</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Very flexible working schedule.</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">🚀 </span><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">360-degree growth</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Opportunities for professional development and personal growth.</span></p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><br><br></strong></p>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Your benefits with Proxify:</span></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Be part of the Proxify community</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Network with like-minded and enthusiastic individuals to make a difference. </span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Make an impact</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: You get the opportunity to work on projects that inspire you and add value to your career.</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Transparency</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Contracts with transparency in earnings and working hours.</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Save your time</span><span style="color: #0e101a; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: Fast and efficient hiring process to match you with the project of your preference.</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: bold; vertical-align: baseline; white-space: pre-wrap;">Ownership: </span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Take ownership of your work and enjoy more freedom in your career.</span></p>
+</li>
+</ul>
+<img src="https://remotive.com/job/track/1606658/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1359476/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -293,7 +666,7 @@
                     <code>backend,frontend,fullstack,javascript</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -437,7 +810,7 @@
                     <code>UI/UX,CI/CD</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -514,7 +887,7 @@
                     <code>C++,javascript,python,security</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -651,7 +1024,7 @@
                     <code>api,azure,cloud,django</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
@@ -702,83 +1075,6 @@
 <li style="">Strong problem-solving and verbal and written communication skills</li>
 </ul><p><br></p><p>Please send your CV to admin@mindtales.me</p>
 <img src="https://remotive.com/job/track/1674036/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/814298/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>A.Team</h5>
-                    <h3>Senior Independent Software Developer</h3>
-                </td>
-                <td width="300">
-                    <code>go,wordpress,chat,apple</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="text-size-adjust: 100%; overflow-wrap: break-word;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. </p>
-<p style="text-size-adjust: 100%; overflow-wrap: break-word;">After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.</p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><em>As part of A·Team, you can expect:</em></span></p>
-<ul style="">
-<li style=""><strong>High-paying, meaningful missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
-<li style=""><strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
-<li style=""><strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
-<li style=""><strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
-<li style=""><strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
-</ul>
-<p> </p>
-<p> </p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>How to apply:</strong></span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Go here: <a href="https://build.a.team/remotivereferral" rel="nofollow">https://build.a.team/remotivereferral</a> + mention Remotive. </span>No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.</p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>What you’ll do:</strong></span></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><strong><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Who A</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">·</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Team is for:</span></strong></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing</span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><strong><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Who A</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">·</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Team is </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">not</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"> for:</span></strong></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">People looking for small gigs</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Folks looking to build simple wordpress/wix/squarespace-style websites</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Those still early in their careers and recent university/bootcamp grads (at least not yet)</span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>Our long-term vision:</strong></span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a new type of company for a new kind of independent software builder. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</span></p>
-<img src="https://remotive.com/job/track/814298/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1721,7 +2017,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -1806,7 +2102,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -1889,7 +2185,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
