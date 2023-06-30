@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>596 days ago</text>
+                <text>597 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -66,126 +66,26 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1713348/logo" width="38px" height="auto">
+                    <img src="https://pbs.twimg.com/profile_images/1177267684574208000/54eG3WmW_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Sona</h5>
-                    <h3>Senior Product Manager</h3>
+                    <h5>SafetyWing</h5>
+                    <h3>Product Manager Intern</h3>
                 </td>
                 <td width="300">
-                    <code>excel,AI/ML,product management,product development</code>
+                    <code></code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/senior-product-manager-1713348" align="right" target="_blank">Apply</a>
+                <a href="https://safetywing.pinpointhq.com/en/jobs/117592" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p style="min-height: 1.5em;">The real economy employs 3 billion people in frontline jobs, yet frontline teams have been underserved by technology for decades and are left to choose between paper or 20-year-old workforce management solutions, which harm both their employees and their business.</p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;">At Sona, we’re building the Frontline Operating System; an end-to-end platform to manage the entirety of a shift-based workforce. Sona combines the functionality you expect from any workforce management software - including scheduling, time &amp; attendance, and absence management - with industry-specific plugins and dedicated features to empower staff, all in one easy-to-use platform that simplifies frontline work for everyone.  </p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;">We have the opportunity to build a very large, impactful and sector-defining business, and we’re off to a fast start. In year 1, we reached tens of thousands of frontline workers and raised over $10 million from Google’s AI fund - Gradient Ventures, SpeedInvest, Notion Capital and angels like Tom Blomfield, to help us reach more.</p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;">It’s a hugely exciting time to be joining the team, as we’re still small enough that you’ll have a significant impact on the company, growth trajectory and culture, but large enough that we have a great structure, experienced leaders and world-class benefits in place (such as being fully remote and flexible, and only working 4.5 days a week)</p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>About the Role</strong></p>
-<p style="min-height: 1.5em;">We’re taking the modern product experience that we’ve all come to expect in our consumer lives and putting it in the hands of front line teams. As our third Product Manager, you’ll help define our ambitious Product roadmap, driven by huge customer demand, and work closely with a growing, cross-functional product team to execute it. </p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;">Our product serves several sectors and we’ll break into even more in future. This means you’ll be turning a newly-established product into a true market leader and guiding us through the early product-market fit stages in fresh sectors as we continue to grow. </p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;">To excel in this role, you’ll need to be comfortable balancing multiple work streams and able to factor commercial context into product decisions, while still being a champion for our users and committed to building a best-in-class product.</p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>Responsibilities </strong></p>
-<p style="min-height: 1.5em;">Day to day, you will be: </p>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Defining and prioritising our roadmap and ensuring it’s transparent and visible throughout Sona</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Working with our engineers, designers, and wider product team to deliver new features for our product.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Building a deep understanding of our users' needs through direct interaction and close collaboration with our customer and commercial team</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Contributing to the continuous improvement of our product development process and practices </p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>Requirements</strong></p>
-<p style="min-height: 1.5em;">We don’t have hard and fast requirements, but hopefully lot’s of the following apply to you: </p>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">You’re an experienced Product Manager, capable of owning a product area and coordinating your team to ship high-quality features quickly. </p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">You communicate clearly and transparently, erring on the side of over-communicating with your team and the wider business. </p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">You’re flexible and comfortable dealing with the rapid course correction needed to navigate the early stages of finding product market fit and becoming a category leader. </p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">You have the needs of users top-of-mind when building products, but you’re also able to understand and factor-in commercial context.</p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>Benefits:</strong> </p>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">£65-90k (or local equivalent)</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">4.5 day standard working week </p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Share options</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Fully remote and flexible working</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">35 days annual leave (25 days standard plus 10 flexible public holiday days)</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Pension contributions matched up to 5%</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Comprehensive health insurance via Bupa</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Enhanced parental leave &amp; pay</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Co-working space stipend</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Quarterly all expenses paid team retreats</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">The latest Macbook and equipment for your home office</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Professional development budget</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Unlimited free books</p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>Working at Sona</strong></p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;">We take our health and mental health seriously, believing that we can only perform to our best when we are healthy, happy, and in control of when, where, and how we work. That's why we're 100% remote and everyone works a 4.5 day week (you choose when you take the half day) with a fully flexible schedule.</p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;">We balance this with regular virtual stand-ups and all-hands so we're all aligned, and paid-for, in-person meet-ups so you can get to know your colleagues.</p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;">You can learn more about the team and what it’s like working at Sona <a href="https://www.notion.so/getsona/Working-at-Sona-4e3c00206c414d8c9eb9b7a617cdc6d7" rel="nofollow" target="_blank"><u>here</u></a>.</p>
-<img src="https://remotive.com/job/track/1713348/blank.gif?source=public_api" alt=""/>
+                <h2>🧘 What we offer</h2> <div><!--block-->We offer a great team to learn from and collaborate with and a fully remote work environment – work from anywhere globally 🌏<br><br>You will get a monthly salary, and if you are successful with your internship, we will do our best to offer you a longer-term collaboration 🚀<br><br>We are looking forward to hearing from you!</div> <div><!--block--><strong>SafetyWing</strong> (YC W18) is seeking a Product Manager Intern to join our Remote Health team.<br>&nbsp;</div><div><!--block-->We are building a global social safety net, including health and retirement for remote workers worldwide, as a replacement for national welfare systems. If we succeed, we believe this will help ensure freedom and equal opportunity for everyone, and it is one of the more important tasks of our time that no one else is working on.</div> <h2>💻 Your responsibilities will include</h2>  <ul><li><!--block-->As a Product Manager Intern, you will be responsible for user and product research, as well as product implementation and testing. This includes coordination with multiple stakeholders, such as legal, partnerships, marketing and customer service.</li></ul> <h2>🧪 We are looking for someone who</h2> <ul><li><!--block-->Has experience with managing product development</li><li><!--block-->Is good at copywriting</li><li><!--block-->Is entrepreneurial and self-driven</li><li><!--block-->Is passionate about shaping products that people love</li><li><!--block-->Has a grasp understanding of the product management lifecycle</li></ul><div><!--block--><br></div><div><!--block--><strong>😀 We like to work with people who:</strong></div><ul><li><!--block-->Want to help build a global social safety net on the Internet.</li><li><!--block-->Think for themselves instead of copying others.</li><li><!--block-->Are willing to try new things, even with the risk of failure.</li><li><!--block-->Are intellectually curious and open to new ideas.</li><li><!--block-->Are creative and bold in the face of any problems.</li><li><!--block-->Have strong integrity and do the right thing.</li></ul><div><!--block--><br></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -472,131 +372,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1428393724527190022/4mt5PACL_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Sourcegraph</h5>
-                    <h3>Product Manager, Growth</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/sourcegraph91/jobs/4898329004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
-<h2><span style="color: #a112ff;">Who we are</span></h2>
-<p><span style="font-weight: 400;">Our mission at Sourcegraph is to make it so that </span><a href="https://handbook.sourcegraph.com/strategy-goals/strategy"><span style="font-weight: 400;">everyone can code</span></a><span style="font-weight: 400;">, not just ~0.1% of the population. Our code AI platform helps developers and </span><a href="https://about.sourcegraph.com/customers/"><span style="font-weight: 400;">companies</span></a><span style="font-weight: 400;"> with billions of lines of code create the software you use every day. By enabling more people to code, we believe we will create economic opportunity across the world and will drive progress that benefits everyone.</span></p>
-<p><span style="font-weight: 400;">It’s an exciting time to join Sourcegraph. Our business is growing rapidly: we’ve experienced exponential growth and our </span><a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/"><span style="font-weight: 400;">$125M Series D from Andreessen Horowitz</span></a><span style="font-weight: 400;"> and </span><a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"><span style="font-weight: 400;">$50M Series C from Sequoia</span></a><span style="font-weight: 400;"> have given us the opportunity to make big ambitious bets on our future. We have a huge market (every company that builds software) and massive opportunity (most developers haven't even heard of code AI yet, but once you've used it, you can't live without it--just like Google). By continuing to hire exceptional people, we have the opportunity to make Sourcegraph one of the biggest technology companies in the world. </span></p></div>
-
-    <h2><span style="color: #8c33ec;"><strong>Working hours</strong></span></h2>
-<p><span style="font-weight: 400;">🌎 Given that we are an all-remote company and hire </span><a href="https://handbook.sourcegraph.com/departments/people-ops/process/how-we-engage-talent-outside-the-us/"><span style="font-weight: 400;">almost anywhere</span></a><span style="font-weight: 400;"> in the world, we don’t have a location requirement for this role. However, your working hours must overlap with Pacific Time for at least 5 hours/week.</span></p>
-<h2><span style="color: #8c33ec;"><strong>Why this job is exciting</strong></span></h2>
-<p><span style="font-weight: 400;">As a product-led organization, our Growth team is critical to our continued success by setting the direction and creating the initiatives to help us achieve our engagement and revenue goals. As the Product Manager for the Product Growth team, you have a unique opportunity to have an outsized impact on the business and the product, while collaborating across teams to infuse growth strategies within team product roadmaps that will make our product more sticky and intrinsic to the workflows of developers around the world. You will work closely in collaboration with engineering, product designers, and other cross-functional team members such as Customer Engineering&nbsp; and Sales. You will be the go-to for defining&nbsp; a crucial member of our exceptional</span><a href="https://about.sourcegraph.com/company/values#high-agency"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">high agency</span></a><a href="https://about.sourcegraph.com/company/remote"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">all-remote team</span></a><span style="font-weight: 400;">, and will help us to achieve ambitious objectives to build a code intelligence platform.</span></p>
-<p><span style="font-weight: 400;">📅 Within one month, you will…</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You will start building a trusting relationship with your team and peers.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You will understand the what, why, and how of the projects that your team is working on, how those projects contribute to our company goals, as well as current status, risks, and mitigations.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Be transparent in your internal and external communication. Sourcegraph is open source, so most discussions are public or in channels where you communicate directly with our customers.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Maintain the roadmap, backlog, and curate and solicit feedback for the product area.</span></li>
-</ul>
-<p><span style="font-weight: 400;">📅 Within three months, you will…</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Uphold your side of the PM – EM partnership</span><a href="https://about.sourcegraph.com/handbook/product/roles/product_manager_engineering_manager_responsibilities"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">responsibilities</span></a><span style="font-weight: 400;">.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Begin to define and track activation metrics&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Analyze our user trial life cycle and onboarding&nbsp; to identify&nbsp; early opportunities to deploy your first experiments to improve target metrics</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Gather customer feedback to validate priorities, improve documentation, and define product requirements.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Your peers are enthusiastic to work with you because you reliably follow-through with your commitments.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You will be able to communicate the 1-year vision for your team.</span></li>
-</ul>
-<p><span style="font-weight: 400;">📅 Within six months, you will…</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You will have improved planning, communication, and collaboration processes to help the team scale as we grow.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Add value to the user by surfacing real problems to improve the trial start flow for cloud and self-managed, in-product onboarding and activations, and in-product calls-to-action</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Grow usage and engagement of your ownership area and Sourcegraph as a whole.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You will celebrate the fact that your team has delivered key results in support of their objectives for the year.&nbsp;</span></li>
-</ul>
-<p><span style="font-weight: 400;">📅 Within one year, you will…</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You will collaborate with product and engineering leadership to develop the next set of ambitious goals that your org should work towards.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Communicate product-led growth ideas clearly by focusing on a specific metrics such as usage data and pipeline</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have achieved significant impact on Activation and Retention.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Communicate product ideas clearly by focusing on the problems that are being solved, the outcomes, and how we will measure success.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Have developed a clear growth and execution strategy to help us achieve the next set of goals</span></li>
-</ul>
-<h2><span style="color: #8c33ec;"><strong>About you&nbsp;</strong></span></h2>
-<p>As a Product Manager, you’re the storyteller of the organization, pulling together the story of “why”, and getting people excited about growth and what your team is doing. You collaborate with all parts of the organization to understand our market, our business model and the problems our customers are trying to solve to articulate a growth strategy. You are organized, results driven and provide clarity across the organization and your team, to help inspire focus and reinforce that they are working on the right things. You are constantly curious - wanting to dig into the data, discover optimization opportunities to get our users to value faster. You can identify root causes of friction and devise experiments to address them. You’re empathetic - you bring the voice of the user into every conversation, and hold empathy and understanding for your teammates to align on an experimentation approach that is right.</p>
-<p>🔍 Qualifications:</p>
-<ul>
-<li>5+ years of experience as a Product Manager with a specialization in driving growth strategies</li>
-<li>Experience as a software engineer or other technical background, particularly data-centric</li>
-<li>You have relevant domain knowledge and experience in one or more of the following areas: single-tenant cloud products, B2B, SaaS, developer tools, growth, product analytics, and user research</li>
-<li>Experience working with complex products that require integrations or complex implementations&nbsp;</li>
-<li>Experience driving expansion and growth of users within existing enterprise customers</li>
-<li>Experience with funnel optimization, A/B multivariate testing</li>
-<li>Your working hours overlap with 8am-5pm <a href="https://time.is/PT">Pacific Time</a> for at least 5&nbsp; hours per week so we have time to collaborate synchronously when necessary.</li>
-</ul>
-<p>💪 Nice to haves:</p>
-<ul>
-<li>Experience with LLMs and prompt engineering fundamentals</li>
-<li>Recent meaningful coding experience with an LLM-backed coding assistant</li>
-<li>Familiarity with the latest competitive landscape of coding assistants</li>
-<li>Deep experience with at least one major IDE such as VSCode or IntelliJ</li>
-<li>A deep understanding of dev-rel and how it dovetails with the PLG journey</li>
-</ul>
-<h2><span style="color: #8c33ec;"><strong>Level</strong></span></h2>
-<p><span style="font-weight: 400;">📊 This job is an IC5</span><span style="font-weight: 400;">.</span><span style="font-weight: 400;">&nbsp; You can read more about </span><a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/leveling-guide/"><span style="font-weight: 400;">our job leveling philosophy</span></a><span style="font-weight: 400;"> in our Handbook.</span></p>
-<h2><span style="color: #8c33ec;"><strong>Compensation</strong></span></h2>
-<p><strong>💸 We pay you an above-average salary</strong><span style="font-weight: 400;"> because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. You will have the flexibility to work and live anywhere in the world</span><em><span style="font-weight: 400;"> (unless specified otherwise in the job description)</span></em><span style="font-weight: 400;">, and we’ll never take your location or current/past salary information into account when determining your compensation.&nbsp; As an </span><a href="https://handbook.sourcegraph.com/company-info-and-process/values/#sts=Open%20and%20transparent"><span style="font-weight: 400;">open and transparent </span></a><span style="font-weight: 400;">company that values equitable and competitive compensation for everyone, our </span><a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/"><span style="font-weight: 400;">compensation ranges are visible</span></a><span style="font-weight: 400;"> to every single Sourcegraph Teammate. To determine your salary, we use a number of market and data-driven salary sources and target the high-end of the range, ensuring that we’re always paying above market regardless of where you live in the world.&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">💰 The target compensation for this role is </span><span style="font-weight: 400;">$<span class="collapsed-field-text">203,500 </span>USD base</span></p>
-<p><span style="font-weight: 400;">📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous </span><a href="https://handbook.sourcegraph.com/benefits-pay-perks/benefits-perks/"><span style="font-weight: 400;">perks &amp; benefits</span></a><span style="font-weight: 400;">.</span></p>
-<h2><span style="color: #8c33ec;"><strong>Interview process&nbsp;</strong></span></h2>
-<p><em><span style="font-weight: 400;">Below is the interview process you can expect for this role (you can read more about</span></em><a href="https://handbook.sourcegraph.com/talent/types_of_interviews"><em><span style="font-weight: 400;"> </span></em><em><span style="font-weight: 400;">the types of interviews</span></em></a><em><span style="font-weight: 400;"> in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!</span></em></p>
-<p><span style="font-weight: 400;">We expect the interview process to take 5.5 hours in total.</span></p>
-<p><strong>👋 Introduction Stage</strong><span style="font-weight: 400;"> - we have initial conversations to get to know you better…</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30m]</span><a href="https://handbook.sourcegraph.com/departments/product-engineering/product/roles/interviews/initial_screen"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Recruiter Screen</span></a><span style="font-weight: 400;">&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[60m]</span><a href="https://handbook.sourcegraph.com/departments/product-engineering/product/roles/interviews/hm_intro_call"><span style="font-weight: 400;"> </span></a><a href="https://handbook.sourcegraph.com/departments/talent/process/types_of_interviews#resume-deep-dive">Resume Deep Dive</a></li>
-</ul>
-<p><strong>🧑‍💻 Team Interview Stage</strong><span style="font-weight: 400;"> - we then delve into your experience in more depth and introduce you to members of the team…</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[1hr] Async Assignment</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[1hr] Assignment Review / Working Session</span></li>
-<li style="font-weight: 400;">[45m] Peer Interview&nbsp;</li>
-</ul>
-<p><strong>🎉 Final Interview Stage </strong><span style="font-weight: 400;">- we move you to our final round, where you meet cross-functional partners and gain a better understanding of our business and values holistically…</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#values-interview"><span style="font-weight: 400;">Values Interview</span></a></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#leadership-interview"><span style="font-weight: 400;">Leadership Interview</span></a><span style="font-weight: 400;"> with co-founder</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">We check references and conduct your background check</span></li>
-</ul>
-<p><span style="font-weight: 400;">Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.</span></p>
-
-    
-
-    <div class="content-conclusion"><h2><span style="color: #a112ff;">Not sure if this is you?</span></h2>
-<p><span style="font-weight: 400;">We want a diverse, global team, with a broad range of experience and perspectives. If this job sounds great, but you’re not sure if you qualify, apply anyway! We carefully consider every application, and will either move forward with you, find another team that might be a better fit, keep in touch for future opportunities, or thank you for your time.</span></p>
-<h2><span style="color: #a112ff;">Learn more about us</span></h2>
-<p><span style="font-weight: 400;">To create a product that serves the needs of all developers, we are building a diverse </span><a href="https://handbook.sourcegraph.com/company-info-and-process/remote"><span style="font-weight: 400;">all-remote team</span></a><span style="font-weight: 400;"> that is </span><a href="https://handbook.sourcegraph.com/team"><span style="font-weight: 400;">distributed across the world</span></a><span style="font-weight: 400;">. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.&nbsp;</span></p>
-<p><span style="font-weight: 400;">We provide </span><a href="https://about.sourcegraph.com/handbook/people-ops/compensation"><span style="font-weight: 400;">competitive compensation</span></a><span style="font-weight: 400;"> and </span><a href="https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks"><span style="font-weight: 400;">practical benefits</span></a><span style="font-weight: 400;"> to keep you happy and healthy so that you can do your best work.&nbsp;</span><span style="font-weight: 400;">&nbsp;</span></p>
-<p><span style="font-weight: 400;">Learn more about what it is like to work at Sourcegraph by reading </span><a href="https://about.sourcegraph.com/handbook/"><span style="font-weight: 400;">our handbook</span></a><span style="font-weight: 400;">.</span></p>
-<p><span style="font-weight: 400;">We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process.</span></p>
-<p><span style="font-weight: 400;">Go back to the </span><a href="https://about.sourcegraph.com/jobs/"><span style="font-weight: 400;">careers page</span></a><span style="font-weight: 400;"> for all open positions.</span></p>
-<p>&nbsp;</p>
-<p><em><span style="font-weight: 400;">Sourcegraph participates in <a href="https://handbook.sourcegraph.com/departments/people-talent/e-verify/" target="_blank">E-Verify</a> for U.S. Employees</span></em></p></div>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1592609773958025216/CaG1yAqK_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -641,6 +416,78 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt">Mechanical Orchard is a new kind of software consultancy. We build new applications and replace legacy systems for a wide range of customers, spanning from seed stage startups to the Fortune 500, but it doesn’t end there. We run what we build, and build what we run. Our customers focus on their business, rather than manage all the cost, complexity, and risk that comes with operating production systems.</span></div><div><br></div><div><span style="font-size: 11pt">Our background in software development and the impact on the industry is well known, and we've helped write the book on XP and other effective agile practices. We believe in the durable principles behind agile, and embrace the power of cross-functional teams, collective ownership, test driven development, short feedback loops, and continuous improvement.</span></div><div><br></div><div><span style="font-size: 11pt">We are Generous, Ethical, Effective, and Kind.</span></div><div><br></div><div><span style="font-size: 11pt">We're seeking an experienced Platform Product Manager to join our managed operations (Run) team. This individual will help define and lead the strategic direction of our internal software deployment platform on cloud infrastructure.&nbsp; The role is crucial to enabling our client-facing build teams and customers to benefit from high reliability, observability, security, and performance of their applications.</span></div><div><br></div><div><span style="font-size: 11pt">Your responsibilities will include:</span></div><div><br></div><div><b style="font-size: 11pt">Product Vision &amp; Strategy</b><span style="font-size: 11pt">: Collaborate with business leaders to define the product strategy and roadmap for our internal software deployment platform, with focus on continuous delivery of value to our customers and internal application teams.</span></div><div><br></div><div><b style="font-size: 11pt">Customer Focus</b><span style="font-size: 11pt">: Prioritize efforts to increase application and platform reliability based on insights derived from customer feedback, internal application team needs, and industry best practices.</span></div><div><br></div><div><b style="font-size: 11pt">Customer Support</b><span style="font-size: 11pt">: Organize and manage cross-team on-call scheduling and incident management for the platform and customer applications.</span></div><div><br></div><div><b style="font-size: 11pt">Technical Expertise</b><span style="font-size: 11pt">: Leverage deep understanding of cloud infrastructure and related technologies to drive platform enhancements, reliability, security, observability, and operational efficiency. Collaborate closely with the platform engineering team to translate platform and customer needs into technical solutions.</span></div><div><br></div><div><b style="font-size: 11pt">Stakeholder Management</b><span style="font-size: 11pt">: Communicate effectively with internal and external stakeholders to set expectations, manage project timelines, and respond to feedback.</span></div><div><br></div><div><b style="font-size: 11pt">Product Lifecycle Management</b><span style="font-size: 11pt">: Manage the entire product life cycle from strategic planning to tactical, fine-grained execution&nbsp;</span></div><div><br></div><div><b style="font-size: 11pt">Team Facilitation</b><span style="font-size: 11pt">: Organize and facilitate regular project planning meetings, standups, brainstorming sessions, team retrospectives, and other agile team ceremonies.&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">The ideal candidate has worked as a product manager in a professional, team-based, agile environment, preferably in software or platform products. They have experience across the entire product lifecycle, and a deep understanding of product management principles.</span></div><div><br></div><div><span style="font-size: 11pt">A deep technical background with understanding and/or hands-on experience in software development and cloud infrastructure is preferred.</span></div><div><br></div><div><span style="font-size: 11pt">Strong communication and collaboration skills as well as empathy are essential for working closely with the development team, customers, and others at Mechanical Orchard.</span></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 11pt">Mechanical Orchard, Inc. is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind. Mechanical Orchard, Inc. is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Mechanical Orchard, Inc. are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Mechanical Orchard, Inc. will not tolerate discrimination or harassment based on any of these characteristics. Mechanical Orchard, Inc. encourages applicants of all ages. Mechanical Orchard, Inc. will provide reasonable accommodation to employees who have protected disabilities consistent with local law.</span></div><div><br></div><div>We look forward to reviewing your application. Thanks!</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/mechanicalorchard/3c765c59-5403-45d9-be24-1b000afeec4f/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1382655628523364355/MWPIbbID_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CoverGo</h5>
+                    <h3>Senior Product Manager (Health) - Fully Remote</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/covergo/j/D1A8A02DBC" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Top 3 Reasons To Join Us </strong></p><ul> <li>Employee Stock Options </li> <li>100% Remote </li> <li>Insurtech industry leader worldwide </li> </ul><p></p><p><strong>About Us</strong></p><p>At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.</p><ul> <li>We are a leading global no-code insurance platform for health, life, and P&amp;C;</li> <li>We’re the winner of the Insurtech of the Year in all of Asia and other awards globally;</li> <li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more;</li> <li>We're an international, diverse team of over 120 people with 34 nationalities and team members working remotely from all over the world;</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors;</li> <li>We have offices in the US, Singapore, Hong Kong, UAE and Vietnam;</li> <li>We’ve grown our annualized revenue by over 30x since January 2021;</li> <li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world.</li> </ul><p></p><p><strong>What You Will Do:</strong></p><ul> <li>Product Strategy: Develop and execute a compelling product strategy for our products, aligned with the company's vision and objectives.</li> <li>Market Analysis: Conduct market research, analyze industry trends, and gather customer insights to identify opportunities for product innovation and differentiation.</li> <li>Product Roadmap: Define and communicate a clear and prioritized product roadmap, considering market dynamics, customer insights, and business goals.</li> <li>Requirements Gathering: Collaborate with stakeholders to gather and document detailed product requirements, ensuring a deep understanding of customer pain points and business priorities.</li> <li>User Experience: Work closely with design and engineering teams to create exceptional user experiences, employing best practices in user interface (UI) and user experience (UX) design.</li> <li>Cross-functional teams collaboration: Work cross-functional teams through iterative development cycles, and ensure timely delivery of high-quality product releases.</li> <li>Go-to-market Strategy: Collaborate with finance and marketing teams to establish go-to-market strategies for health insurance products.</li> <li>Performance Tracking: Define key performance indicators (KPIs) and implement robust tracking mechanisms to measure product performance, identify areas for improvement, and drive data-driven decision-making.</li> <li>Stakeholder Collaboration: Collaborate effectively with internal and external stakeholders, including executive leadership, sales teams, and industry partners, to drive product adoption and achieve business objectives.</li> <li>Any  other task as may be assigned</li> </ul> <p></p><p><strong>What We Need:</strong></p><ul> <li>Bachelor's degree in business, computer science, or a related field.</li> <li>At least 7 years of insurance product management experience, especially health insurance, prefer to have experience with other insurance products such as life and P&amp;C.</li> <li>Solid insurance knowledge is a must, specifically health insurance.</li> <li>Demonstrated success in managing the entire product lifecycle, from ideation to launch and post-launch optimization.</li> <li>Strong analytical skills, with the ability to gather and interpret market data, customer insights, and competitive intelligence.</li> <li>Experience working with cross-functional teams and driving collaboration in an Agile development environment.</li> <li>Nice to have experience in working with Jira and Confluence suite of products</li> <li>Excellent English communication and presentation skills, with the ability to convey complex concepts to both technical and non-technical stakeholders.</li> <li>Strategic mindset, with the ability to think long-term and translate vision into actionable plans.</li> <li>A critical thinker, an innovator and has good problem-solving skills</li> <li>Results-oriented and data-driven, with a passion for delivering exceptional customer experiences and achieving business objectives.</li> </ul> <p></p><p><strong>Why You'll Love Working Here</strong></p><ul> <li>Full-remote employment</li> <li>Local time zone office hours, work by your schedule </li> <li>Paid annual leaves </li> <li>Employee stock options </li> <li>Performance bonus </li> <li>Company activities &amp; team offsites to exotic locations </li> <li>Training and development plan </li> </ul>Covergo Company<a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"> Video</a><h3>Requirements: </h3><h3>Benefits: </h3>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1382655628523364355/MWPIbbID_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CoverGo</h5>
+                    <h3>Senior Product Manager (Health) - Fully Remote</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/covergo/j/D0450EB6A9" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Top 3 Reasons To Join Us </strong></p><ul> <li>Employee Stock Options </li> <li>100% Remote </li> <li>Insurtech industry leader worldwide </li> </ul><p></p><p><strong>About Us</strong></p><p>At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.</p><ul> <li>We are a leading global no-code insurance platform for health, life, and P&amp;C;</li> <li>We’re the winner of the Insurtech of the Year in all of Asia and other awards globally;</li> <li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more;</li> <li>We're an international, diverse team of over 120 people with 34 nationalities and team members working remotely from all over the world;</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors;</li> <li>We have offices in the US, Singapore, Hong Kong, UAE and Vietnam;</li> <li>We’ve grown our annualized revenue by over 30x since January 2021;</li> <li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world.</li> </ul><p></p><p><strong>What You Will Do:</strong></p><ul> <li>Product Strategy: Develop and execute a compelling product strategy for our products, aligned with the company's vision and objectives.</li> <li>Market Analysis: Conduct market research, analyze industry trends, and gather customer insights to identify opportunities for product innovation and differentiation.</li> <li>Product Roadmap: Define and communicate a clear and prioritized product roadmap, considering market dynamics, customer insights, and business goals.</li> <li>Requirements Gathering: Collaborate with stakeholders to gather and document detailed product requirements, ensuring a deep understanding of customer pain points and business priorities.</li> <li>User Experience: Work closely with design and engineering teams to create exceptional user experiences, employing best practices in user interface (UI) and user experience (UX) design.</li> <li>Cross-functional teams collaboration: Work cross-functional teams through iterative development cycles, and ensure timely delivery of high-quality product releases.</li> <li>Go-to-market Strategy: Collaborate with finance and marketing teams to establish go-to-market strategies for health insurance products.</li> <li>Performance Tracking: Define key performance indicators (KPIs) and implement robust tracking mechanisms to measure product performance, identify areas for improvement, and drive data-driven decision-making.</li> <li>Stakeholder Collaboration: Collaborate effectively with internal and external stakeholders, including executive leadership, sales teams, and industry partners, to drive product adoption and achieve business objectives.</li> <li>Any  other task as may be assigned</li> </ul> <p></p><p><strong>What We Need:</strong></p><ul> <li>Bachelor's degree in business, computer science, or a related field.</li> <li>At least 7 years of insurance product management experience, especially health insurance, prefer to have experience with other insurance products such as life and P&amp;C.</li> <li>Solid insurance knowledge is a must, specifically health insurance.</li> <li>Demonstrated success in managing the entire product lifecycle, from ideation to launch and post-launch optimization.</li> <li>Strong analytical skills, with the ability to gather and interpret market data, customer insights, and competitive intelligence.</li> <li>Experience working with cross-functional teams and driving collaboration in an Agile development environment.</li> <li>Nice to have experience in working with Jira and Confluence suite of products</li> <li>Excellent English communication and presentation skills, with the ability to convey complex concepts to both technical and non-technical stakeholders.</li> <li>Strategic mindset, with the ability to think long-term and translate vision into actionable plans.</li> <li>A critical thinker, an innovator and has good problem-solving skills</li> <li>Results-oriented and data-driven, with a passion for delivering exceptional customer experiences and achieving business objectives.</li> </ul> <p></p><p><strong>Why You'll Love Working Here</strong></p><ul> <li>Full-remote employment</li> <li>Local time zone office hours, work by your schedule </li> <li>Paid annual leaves </li> <li>Employee stock options </li> <li>Performance bonus </li> <li>Company activities &amp; team offsites to exotic locations </li> <li>Training and development plan </li> </ul>Covergo Company<a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"> Video</a><h3>Requirements: </h3><h3>Benefits: </h3>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1382655628523364355/MWPIbbID_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CoverGo</h5>
+                    <h3>Senior Product Manager (Health) - Fully Remote</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/covergo/j/6296635E4D" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Top 3 Reasons To Join Us </strong></p><ul> <li>Employee Stock Options </li> <li>100% Remote </li> <li>Insurtech industry leader worldwide </li> </ul><p></p><p><strong>About Us</strong></p><p>At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.</p><ul> <li>We are a leading global no-code insurance platform for health, life, and P&amp;C;</li> <li>We’re the winner of the Insurtech of the Year in all of Asia and other awards globally;</li> <li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more;</li> <li>We're an international, diverse team of over 120 people with 34 nationalities and team members working remotely from all over the world;</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors;</li> <li>We have offices in the US, Singapore, Hong Kong, UAE and Vietnam;</li> <li>We’ve grown our annualized revenue by over 30x since January 2021;</li> <li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world.</li> </ul><p></p><p><strong>What You Will Do:</strong></p><ul> <li>Product Strategy: Develop and execute a compelling product strategy for our products, aligned with the company's vision and objectives.</li> <li>Market Analysis: Conduct market research, analyze industry trends, and gather customer insights to identify opportunities for product innovation and differentiation.</li> <li>Product Roadmap: Define and communicate a clear and prioritized product roadmap, considering market dynamics, customer insights, and business goals.</li> <li>Requirements Gathering: Collaborate with stakeholders to gather and document detailed product requirements, ensuring a deep understanding of customer pain points and business priorities.</li> <li>User Experience: Work closely with design and engineering teams to create exceptional user experiences, employing best practices in user interface (UI) and user experience (UX) design.</li> <li>Cross-functional teams collaboration: Work cross-functional teams through iterative development cycles, and ensure timely delivery of high-quality product releases.</li> <li>Go-to-market Strategy: Collaborate with finance and marketing teams to establish go-to-market strategies for health insurance products.</li> <li>Performance Tracking: Define key performance indicators (KPIs) and implement robust tracking mechanisms to measure product performance, identify areas for improvement, and drive data-driven decision-making.</li> <li>Stakeholder Collaboration: Collaborate effectively with internal and external stakeholders, including executive leadership, sales teams, and industry partners, to drive product adoption and achieve business objectives.</li> <li>Any  other task as may be assigned</li> </ul> <p></p><p><strong>What We Need:</strong></p><ul> <li>Bachelor's degree in business, computer science, or a related field.</li> <li>At least 7 years of insurance product management experience, especially health insurance, prefer to have experience with other insurance products such as life and P&amp;C.</li> <li>Solid insurance knowledge is a must, specifically health insurance.</li> <li>Demonstrated success in managing the entire product lifecycle, from ideation to launch and post-launch optimization.</li> <li>Strong analytical skills, with the ability to gather and interpret market data, customer insights, and competitive intelligence.</li> <li>Experience working with cross-functional teams and driving collaboration in an Agile development environment.</li> <li>Nice to have experience in working with Jira and Confluence suite of products</li> <li>Excellent English communication and presentation skills, with the ability to convey complex concepts to both technical and non-technical stakeholders.</li> <li>Strategic mindset, with the ability to think long-term and translate vision into actionable plans.</li> <li>A critical thinker, an innovator and has good problem-solving skills</li> <li>Results-oriented and data-driven, with a passion for delivering exceptional customer experiences and achieving business objectives.</li> </ul> <p></p><p><strong>Why You'll Love Working Here</strong></p><ul> <li>Full-remote employment</li> <li>Local time zone office hours, work by your schedule </li> <li>Paid annual leaves </li> <li>Employee stock options </li> <li>Performance bonus </li> <li>Company activities &amp; team offsites to exotic locations </li> <li>Training and development plan </li> </ul>Covergo Company<a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"> Video</a><h3>Requirements: </h3><h3>Benefits: </h3>
                 </details>
                 </td>
             </tr></table>
