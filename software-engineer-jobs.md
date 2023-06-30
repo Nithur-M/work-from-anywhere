@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>157 days ago</text>
+                <text>158 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -56,7 +56,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1607488740959608832/m80nYXA3_400x400.jpg" width="38px" height="auto">
+                    <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>DuckDuckGo</h5>
@@ -461,7 +461,7 @@
 
     <h3 data-startline="9" data-endline="12">The team:</h3>
 <p data-startline="9" data-endline="12">We are the&nbsp;<a href="https://vac.dev/" target="_blank">Vac</a> Distributed Systems Testing R&amp;D service unit.</p>
-<p data-startline="9" data-endline="12">We specialize in developing software tools and methodologies to test and analyze the behaviour of distributed systems within the Logos collective: https://github.com/acid-info</p>
+<p data-startline="9" data-endline="12">We specialize in developing software tools and methodologies to test and analyze the behaviour of distributed systems within the <a href="https://logos.co/">Logos collective</a></p>
 <p data-startline="9" data-endline="12">Our primary objective is to ensure the scalability and reliability of Logos projects by providing comprehensive testing solutions.<br>Through the utilization of tools like wakurtosis, we empower projects to evaluate the scaling behaviour of their nodes within larger networks and plan conduct through regression testing.</p>
 <h3 id="The-role" data-startline="14" data-endline="14">The role:</h3>
 <p data-startline="16" data-endline="19">We are seeking a skilled and passionate Software Engineer to join our Vac Distributed Systems Testing (DST) team.&nbsp;You will play a crucial role in ensuring the reliability, performance, and scalability of distributed systems within Vac and the Logos collective.</p>
@@ -499,7 +499,7 @@
 <li>Interview with our POps team</li>
 <li>Interview with team member from the Vac DST team</li>
 <li>Pair programming task with Vac team member</li>
-<li>Interview with Vac team lead&nbsp;</li>
+<li>Interview with Vac Team Lead&nbsp;</li>
 </ol>
 <p>[The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline].</p>
 <h3>Compensation:</h3>
@@ -768,7 +768,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -828,7 +828,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -885,7 +885,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -966,7 +966,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -1037,7 +1037,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -1118,7 +1118,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -1192,7 +1192,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -1261,7 +1261,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -1318,7 +1318,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
@@ -1389,7 +1389,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1399822806/canonical_aubergine_hex_400x400.png" width="38px" height="auto">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
