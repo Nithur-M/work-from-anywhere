@@ -10,7 +10,7 @@
                     <code>Management and Finance</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/betterproducts-coo-senior-project-manager-for-marketing-agency" align="right" target="_blank">Apply</a>
@@ -95,7 +95,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>55 days ago</text>
+                <text>56 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rocket-conversions-ad-creative-project-manager" align="right" target="_blank">Apply</a>
@@ -122,26 +122,55 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1306325743580848130/mk0qvsZ9_400x400.jpg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/8210/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Kraken</h5>
-                    <h3>Design Project Manager</h3>
+                    <h5>University of Virginia</h5>
+                    <h3> Senior Project Manager for Cloud Applications</h3>
                 </td>
                 <td width="300">
-                    <code></code>
+                    <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>119 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/kraken/3137ca0e-5386-4e90-ab67-fa98fd6a6cef" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/university-of-virginia-senior-project-manager-for-cloud-applications" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Internet of Money&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to industry-leading security, crypto education, and world-class client support through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://cryptowat.ch/" class="postings-link">Cryptowatch</a>.</div><div><br></div><div>Become a Krakenite and build the internet of money!</div><div><br></div><div><br></div><div>At Kraken our mission is to accelerate the adoption of cryptocurrency to empower all humans to achieve financial freedom and inclusion. We’re interested in meeting individuals who believe in this vision and are energized by the challenge it presents — those who will rise to the occasion when called upon yet understand the importance of maintaining our playful and fun, creative culture.&nbsp;</div><div><br></div><div>We are looking for motivated, detail-oriented self-starters with a passion for beautiful design that delivers meaningful experiences to our customers and continuing fantastic results for our rapidly expanding business. The Creative Design team collaborates closely with product, marketing, researchers, and content specialists, so you must be comfortable working in this cooperative model. We feel that the best work comes when creative people roll up their sleeves and solve problems together.</div></div><div class="section page-centered"><div><h3>The Opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Manage and prioritize work for design teams, working closely with marketing, product and brand to understand the needs of the business</li><li>Scope projects and support with team buildingEstablish, communicate action plans, target dates for deliverables and ensure smooth running of project timelines&nbsp;</li><li>&nbsp;Maintain a robust documentation of project work and design assets</li><li>Continually identify opportunities to improve operational excellence</li><li>Collaborate closely across multiple design, marketing and product teams</li><li>Support design leadership to ensure that we create best-in-class design work</li><li>&nbsp;Detailed management of task boards to ensure projects are clearly briefed, staffed and communicated </li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills You Should HODL</h3><ul class="posting-requirements plain-list"><ul><li>An expert at project management and supporting creative teams and operations delivering multifaceted design projects ideally working in startups, advertising or agencies</li><li>Experience with video and animation production; photoshoot organization and production a plus</li><li>The desire to work collaboratively and play an active role in creative projects</li><li>Experience in taking projects from conception to briefing all the way through to delivery</li><li>&nbsp;A strong understanding of the creative process and experience across projects large and small</li><li>Excellent communication and storytelling skills with the ability to share design rationale and creative intent&nbsp;</li><li>A confident, thoughtful and enthusiastic team player</li><li>Great working knowledge of project management tools such as Air table and project ticketing like Jira and Wrike</li><li>Organized and motivated self-starter with attention to detail who firmly believes in the value of excellent design</li><div><br></div><div><b>Nice to have</b></div><li>Working knowledge or direct experience with cryptocurrencies</li><li>&nbsp;Remote working experience; EU or US time zones preferred</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>#EU #VF-1 #US</div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/3137ca0e-5386-4e90-ab67-fa98fd6a6cef/apply">Apply for this job</a></div>
+                <img src="https://we-work-remotely.imgix.net/logos/0083/8210/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Charlottesville, VA
+    <br /><strong>URL:</strong> <a href="https://virginia.edu">https://virginia.edu</a>
+</p>
+
+<div>
+<br>The <a href="https://education.virginia.edu/faculty-research/centers-labs-projects/center-advanced-study-teaching-and-learning-castl">Center for the Advanced Study of Teaching and Learning (CASTL)</a> in the <a href="https://education.virginia.edu/">School of Education and Human Development</a> seeks to hire a Senior Project Manager for Cloud Applications. The incumbent will work with Principal Investigators, external technology consultants, and a supervise a small team. Net and Angular software engineers to guide the design and implementation of an enterprise-level integrated web-based application. The application will draw from existing web-based applications that currently serve a variety of stakeholders focused on improving educational outcomes for young children in Virginia.<br><br>
+</div><div>
+<br>This role and project provide an exciting opportunity to create a novel solution by bringing together several state initiatives with proven records of collecting data to shape public policy in education. It will contribute to our understanding of how early experiences can shape children’s developmental outcomes.<br><br>
+</div><div>
+<br>The ideal candidate has experience in government security reviews and compliance, with proven success in engaging stakeholders in working towards innovative solutions. A major aspect of the role will be to navigate data governance structures across multiple state-level stakeholders and to identify and implement a technical approach that corresponds to project-specific data sharing agreements.<br><br>
+</div><div>
+<strong><br>**This will be a fully remote position**<br></strong><br>
+</div><div>
+<strong><br>The ideal candidate will have the following: <br></strong><br>
+</div><ul>
+<li>Experience and ability to lead a small team of web-based software engineers using an Agile framework</li>
+<li>University and state-level IT review and compliance</li>
+<li>Data governance across multiple organizations and projects</li>
+<li>Knowledge of On-prem to cloud migration</li>
+<li>Strong understanding of system architecture and design for web-based application development</li>
+<li>Experience presenting to multiple stakeholders, translating technical approaches for multiple audiences</li>
+</ul><div>
+<br>For more information on how to apply, please click <a href="https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fuva.wd1.myworkdayjobs.com%2fen-US%2fUVAJobs%2fdetails%2fSenior-Project-Manager-for-Cloud-Applications_R0045488&amp;c=E,1,rqpTAQGKjY6KuFNzDEvjTYgVC9IVnzG5xYbvTUxYweOAYYPIxA4vbaTA-82HBBg71OSrwEsh8bzfivuE5tCSxWEIctlNvhgbBHQ2z5-hQgCWR7g5NB9CHFc,&amp;typo=1">here</a>.<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/university-of-virginia-senior-project-manager-for-cloud-applications">https://weworkremotely.com/remote-jobs/university-of-virginia-senior-project-manager-for-cloud-applications</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
