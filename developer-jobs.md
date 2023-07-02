@@ -1,5 +1,67 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8410/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudDevs</h5>
+                    <h3> Fullstack Javascript Typescript Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/clouddevs-fullstack-javascript-typescript-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/8410/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> San Francisco
+    <br /><strong>URL:</strong> <a href="https://clouddevs.com/">https://clouddevs.com/</a>
+</p>
+
+<div>
+<br>CloudDevs is helping world-class, venture-backed startups find talented JS/typescript developers. You will be employed by one of these startups and play an integral role in their early-stage growth.<br><br>
+</div><div>
+<br><br>
+</div><div>
+<strong>Minimum qualifications:<br></strong><br>
+</div><ul>
+<li>Bachelor's degree in Computer Science or equivalent practical experience</li>
+<li>7+ years of work experience as a software engineer or relevant experience</li>
+<li>Strong and confident communicator in English</li>
+<li>Strong problem solver</li>
+<li>Comfortable with collaboration and open communication across distributed teams</li>
+</ul><div>
+<br><strong>Preferred qualifications:<br></strong><br>
+</div><ul>
+<li>Proven track record of shipping software and successfully released apps (please include names and links on your resume)</li>
+<li> 5+ yrs of commercial experience using React or Angular or Vue with Node js in the backend. </li>
+<li>Strong technical design and development skills</li>
+<li>Experience with Continuous Integration</li>
+<li>Proven work experience inside of a distributed team, in a remote environment</li>
+<li>Strong attention to detail on every line of code, every unit test, and every commit message</li>
+<li>Comfortable with rapid development cycles and tight schedules</li>
+</ul><div>
+<strong><br>What's In It For You?<br></strong><br>
+</div><ul>
+<li>Most of our clients offer remote work and competitive compensation with bonuses, stock options, and PTO</li>
+<li>Apply once and get matched with multiple pre-vetted employers</li>
+</ul><div> Salary and compensation</div><div>
+<br>$90,000 — $110,000/year for LATAM and European developers<br>Rates vary for other regions. </div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clouddevs-fullstack-javascript-typescript-developer">https://weworkremotely.com/remote-jobs/clouddevs-fullstack-javascript-typescript-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/3940/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +72,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/better-proposals-php-developer" align="right" target="_blank">Apply</a>
@@ -73,85 +135,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4499/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>10ex.dev</h5>
-                    <h3> Software Developer (Elixir)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/10ex-dev-software-developer-elixir" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0071/4499/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Phoenix, Arizona
-    <br /><strong>URL:</strong> <a href="https://10ex.dev/developers">https://10ex.dev/developers</a>
-</p>
-
-<div>We are looking for a Mid/Senior Backend Engineer who is passionate about creating next-generation immersive experiences that bring new forms of audience engagement to life in fun and unexpected ways, in original projects that bridge the gap between the digital and physical worlds in unique, story-driven ways.<br><br>
-</div><div>
-<br>Our ideal candidate is a seasoned technical leader and software engineer with previous experience developing/integrating scalable backend solutions for mobile games. You care deeply about writing beautiful, performant code that will act as the foundation of development for years to come. You also know how to build and lead a team of engineers and mentor them on their career paths. You should enjoy working as part of cross-functional teams to help architect solutions to unique problems that help the entire platform.<br><br>
-</div><div>
-<br>QUALIFICATIONS<br><br>
-</div><ul>
-<li>4+ Years of creating and delivering high-performance APIs</li>
-<li>Bachelor's degree in Computer Science or equivalent</li>
-<li>Advanced knowledge of Elixir/Phoenix/LiveView</li>
-<li>Advanced knowledge of PostgreSQL/Ecto</li>
-<li>Advanced knowledge of AWS/Docker/Terraform deployment</li>
-<li>Experience using Elixir in production at scale</li>
-<li>Extensive experience debugging and optimizing backend applications</li>
-<li>Experience working with a team of developers, artists and technical leads</li>
-<li>Proficiency with Git and GitHub</li>
-<li>Excellent oral and written English language skills</li>
-<li>Ability to both think high-level and be detail oriented</li>
-</ul><div>
-<br>RESPONSIBILITIES</div><ul>
-<li>Lead the development of and help design the architecture for a greenfield gaming platform</li>
-<li>Convert complex requirements into elegant working software</li>
-<li>Architect and maintain key infrastructure</li>
-<li>Work closely with the User Experience Design Team to design and implement new concepts and features</li>
-<li>Work closely with the Client Engineering team to design and integrate internal and external APIs</li>
-<li>Collaborate with other engineers to solve problems</li>
-<li>Produce code that is clear and concise, and consistent with best-in-class coding standards</li>
-<li>Deliver in accordance with prescribed deadlines, on time and with high quality</li>
-<li>Self-manage and work in an environment of high autonomy</li>
-<li>Participate in and lead code reviews</li>
-<li>Work closely with the rest of the engineering team on a day to day basis</li>
-<li>Document new features for both internal and external reference</li>
-<li>Ability to progress into a position which oversees a small development and engineering team</li>
-</ul><div>
-<br>PREFERENCES</div><ul>
-<li>Proficiency with Javascript and HTML/CSS</li>
-<li>Experience writing documentation</li>
-<li>A thorough understanding of development from design to deployment</li>
-<li>Agile methodology experience</li>
-<li>Experience with other functional programming languages</li>
-</ul><div>
-<br>BENEFITS<br><br>
-</div><ul>
-<li>Health / Vision / Dental</li>
-<li>Paid Time Off</li>
-<li>Paid Holidays</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/10ex-dev-software-developer-elixir">https://weworkremotely.com/remote-jobs/10ex-dev-software-developer-elixir</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0098/0004/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -162,7 +145,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/planning-center-full-stack-developer-3" align="right" target="_blank">Apply</a>
@@ -237,7 +220,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/trendspider-front-end-software-developer" align="right" target="_blank">Apply</a>
@@ -287,7 +270,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/designfiles-full-stack-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -349,6 +332,89 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/3228/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Lifetimely</h5>
+                    <h3> Principal Ruby on Rails Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>90 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0071/3228/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Singapore
+    <br /><strong>URL:</strong> <a href="https://www.lifetimely.io/">https://www.lifetimely.io/</a>
+</p>
+
+<div>
+<strong>Lifetimely is a SaaS company looking for an experienced Ruby on Rails engineer to help build out our SaaS product serving 6000+ e-commerce stores. Our users include names like MrBeast’s snacking brand Feastables, Liquid Death, and Colgate.<br></strong><br>
+</div><div>You can read about our app <a href="https://apps.shopify.com/lifetimely-lifetime-value-and-profit-analytics/">on the Shopify app store</a>. We provide real-time reporting to ecommerce shop owners. To give you a sense of scale - we collect data on millions of orders per day from thousands of ecommerce stores and process many millions of background jobs to be able to deliver quality reporting and insights to our customers.<br><br>
+</div><div>We're looking to add a great backend RoR developer to our existing team.<br><br>
+</div><div>
+<strong><br>We are looking for someone who</strong>:<br><br>
+</div><ul>
+<li>has worked on and had to support a web app in production at scale for at least 5 years</li>
+<li>At least 5 years of working experience writing maintainable and well-tested Ruby on Rails apps</li>
+<li>humble, can mentor others, both provide and receive direction and is always willing to share what they learn</li>
+<li>overlaps with CET zone at least 5 hours ( prefer Europe )</li>
+</ul><div>
+<strong><br>What you will do:<br></strong><br>
+</div><ul>
+<li>extend the product to integrate with new ecommerce platforms (like Amazon)</li>
+<li>build and have ownership over new integrations with external data sources we use to augment our reports (we integrate with wide range of systems from ad platforms to CRMs and shipping services.)</li>
+<li>optimize our existing complex backend processing jobs</li>
+<li>optimize existing data pipelines</li>
+<li>participate in building new app features for thousands of merchants who trust us with their reporting data</li>
+</ul><div>
+<strong><br>Where we are and how we work:<br></strong><br>
+</div><ul>
+<li>We are a distributed team all over the globe but our development team is mainly working during Western European working hours.</li>
+<li>We are used to async communication over Slack but also have regular weekly meetings to sync up.</li>
+<li>Our tech stack is Ruby / Javascript / Stimulus / Tailwind CSS / SQL / Git</li>
+<li>We optimize new features for the long term. For us, this is not a sprint but a marathon.</li>
+</ul><div>Working for Lifetimely doesn't feel like the usual office or startup gig: we are a distributed group of twelve people across eight different countries with our own way of working. Some of us are nomads, some just like working remotely. We highly encourage written (long-form) communication and documenting things on Notion, and generally don't like tight fixed schedules.<br><br>
+</div><div>
+<strong>We expect you to be independent and know how to manage yourself.</strong> We prioritize shipping and results above how or when you do the work.<br><br>
+</div><div>Two meetings per week, one for the devs on Tuesday, and another one on Thursday for everyone. That's it.<br><br>
+</div><div>If you prefer to do meetings and calls or just know that you need a lot of human interaction, Lifetimely is probably not the best place for you to work at. But if you are into distributed work and prefer the lifestyle aspects or maybe live somewhere with not a lot of exciting product companies to work for, you will enjoy working with us.<br><br>
+</div><div>
+<strong><br>Compensation<br></strong><br>
+</div><div>This is a full-time position with annual compensation of <strong>USD 70 000 to USD 110 000</strong> and varies with experience and skill set. You can be a full-time employee with PTO (through Multiplier) or a full-time contractor, depending on your location and preferences. We will provide you the necessary equipment and pay for a co-working space if you have one nearby.<br><br>
+</div><div>
+<strong><br>Hiring process<br></strong><br>
+</div><div>Our process has three steps:<br><br>
+</div><ol>
+<li>A simple coding task that takes no more than 30 min and can be done at your convenience</li>
+<li>Video call where we discuss the task and ask you about your experience</li>
+<li>A paid trial two-week contract (if your current role allows) where you work with us as if you were full-time. If this is not possible, we can also do a traditional tech interview instead.</li>
+</ol><div>
+<strong><br>How to apply:<br></strong><br>
+</div><div>Tell us about:<br><br>
+</div><ol>
+<li>Describe the largest web app you worked on and the most challenging problem you worked on?</li>
+<li>The timezone you are in?</li>
+<li>When can you start at the earliest?</li>
+<li>Your salary requirements</li>
+</ol><div>After you've applied, we will reach out to you for a test task if you're selected for the first round of interviews.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer">https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -359,7 +425,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>121 days ago</text>
+                <text>122 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -443,7 +509,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>962 days ago</text>
+                <text>963 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
@@ -522,7 +588,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -599,7 +665,7 @@
                     <code>C,C#,unity,unity3D</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -743,7 +809,7 @@
                     <code>backend,frontend,fullstack,javascript</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -812,7 +878,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -887,7 +953,7 @@
                     <code>UI/UX,CI/CD</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -964,7 +1030,7 @@
                     <code>C++,javascript,python,security</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -1101,7 +1167,7 @@
                     <code>api,azure,cloud,django</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
