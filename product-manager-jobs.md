@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>599 days ago</text>
+                <text>600 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -338,7 +338,7 @@
 <p><strong>👋 Introduction Stage</strong>&nbsp;- we have initial conversations to get to know you better…</p>
 <ul>
 <li>[30m]<a href="https://handbook.sourcegraph.com/departments/product-engineering/product/roles/interviews/initial_screen">&nbsp;Recruiter Screen</a>&nbsp;</li>
-<li>[30m]<a href="https://handbook.sourcegraph.com/departments/product-engineering/product/roles/interviews/hm_intro_call">&nbsp;Hiring Manager Screen</a></li>
+<li>[60m]<a href="https://handbook.sourcegraph.com/departments/product-engineering/product/roles/interviews/hm_intro_call">&nbsp;Hiring Manager Screen</a></li>
 </ul>
 <p><strong>🧑‍💻 Team Interview Stage</strong>&nbsp;- we then delve into your experience in more depth and introduce you to members of the team…</p>
 <ul>
