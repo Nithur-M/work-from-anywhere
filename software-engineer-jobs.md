@@ -1,5 +1,49 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0098/7556/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Micro</h5>
+                    <h3> Full-Stack Software Engineer - AI - Typescript, NestJS</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/micro-full-stack-software-engineer-ai-typescript-nestjs" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0098/7556/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> NYC
+    <br /><strong>URL:</strong> <a href="http://micro.com">http://micro.com</a>
+</p>
+
+<div>
+<br>Seeking talented full-stack software engineers to join our team to build a much-needed product for the AI/ML community.<br><br>
+</div><div><strong><br>Responsibilities</strong></div><ul><li>Develop performant, scalable, and secure applications using Typescript and NestJS.</li></ul><div><strong><br>Attributes</strong></div><ul>
+<li>Write production quality code.</li>
+<li>Solid sense of product and visual design.</li>
+<li>Familiarity with and interest in ML and LLMs.</li>
+<li>Basic devops knowledge.</li>
+<li>Strong communication.</li>
+</ul><div><strong><br>Requirements</strong></div><ul><li>Can work on US Eastern time zone.</li></ul><div>
+<br>Team is fully-remote.<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/micro-full-stack-software-engineer-ai-typescript-nestjs">https://weworkremotely.com/remote-jobs/micro-full-stack-software-engineer-ai-typescript-nestjs</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +54,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>161 days ago</text>
+                <text>162 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
