@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/onthegosystems-senior-devops-engineer-eu-time-zone" align="right" target="_blank">Apply</a>
@@ -57,6 +57,73 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/onthegosystems-senior-devops-engineer-eu-time-zone">https://weworkremotely.com/remote-jobs/onthegosystems-senior-devops-engineer-eu-time-zone</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1722542/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Lavinmedia</h5>
+                    <h3>DevOps (with system administration experience)</h3>
+                </td>
+                <td width="300">
+                    <code>cloud,git,nginx,php</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/devops/devops-with-system-administration-experience-1722542" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Lavin Media</strong> builds exceptional marketing solutions for large partners in North America. We don't just advertise our client's products or services — we build unique long-term marketing solutions within the context of permanent partnerships. Those people's diversity and ideas inspire the innovation that runs through everything we do, from amazing technology to industry-leading services and customer experiences. We invite you to join us in this exciting journey of rapid growth!</p>
+<p> </p>
+<p>We are looking to hire a talented and experienced system administrator/DevOps. This is a hybrid role that includes both administration and deployment processes.</p>
+<p>Your primary role will be to support and improve the current infrastructure with the supervision of System Architecture. This includes improving the speed and quality of software releases while ensuring that the infrastructure is reliable, secure, and scalable.</p>
+<p> </p>
+<p> </p>
+<p><strong>List of responsibilities:</strong></p>
+<ul style="">
+<li style="">Installing and configuring servers: This includes setting up new servers, configuring them for specific roles (such as web servers, database servers, etc.), and maintaining the software and operating systems on those servers.</li>
+<li style="">Automating the process of software delivery and infrastructure changes: This involves using tools and technologies to automate the provisioning, configuration, and repetitive tasks, improve efficiency and management of infrastructure, as well as use CI/CD tools to automate the building, testing, and deployment of software.</li>
+<li style="">Managing and scaling cloud-based infrastructure</li>
+<li style="">Managing storage and backups: This includes setting up and maintaining backup systems to ensure that data is protected in case of failure.</li>
+<li style="">Monitoring system performance: Monitor the performance of servers, networks, and applications and troubleshoot issues as they arise.</li>
+<li style="">Managing security: Ensuring that the infrastructure is secure by implementing security best practices and technologies such as firewalls, intrusion detection, and encryption.</li>
+<li style="">Continuously monitoring and improving: Continuously monitor the performance and security of the infrastructure and identify and implement improvements to the processes and tools used.</li>
+</ul>
+<p> </p>
+<p><strong>Requirements:</strong></p>
+<ul style="">
+<li style="">3-5 years of database, network administration, or system administration experience</li>
+<li style="">Proficiency in Linux system administration.</li>
+<li style="">Strong knowledge of systems and networking software, hardware, and networking protocols</li>
+<li style="">Knowledge of routing, switching, and DNS.</li>
+<li style="">Ability to write scripts in Bash to automate tasks.</li>
+<li style="">Deep knowledge of administration PHP-based stack (nginx, PHP 8.1 fpm).</li>
+<li style="">Deep knowledge administration of PostgreSQL database.</li>
+<li style="">Proficiency with Git and GitHub workflows</li>
+<li style="">Agile: Knowledge of Agile methodologies and ability to work in an Agile environment.</li>
+<li style="">Monitoring: experience with monitoring tools such as Nagios, Zabbix, and PRTG.</li>
+<li style="">Backup and disaster recovery: knowledge of backup and disaster recovery solutions.</li>
+<li style="">Security: knowledge of security best practices and technologies such as firewalls, intrusion detection, and encryption.</li>
+<li style="">Continuous integration and delivery (CI/CD): experience with CI/CD tools such as Jenkins, Travis CI, and CircleCI to automate the building, testing, and deployment of software.</li>
+</ul>
+<p> </p>
+<p><strong>What we offer:</strong></p>
+<p>Remote working, any comfortable place all over the world.</p>
+<p>Highly competitive compensation.</p>
+<p>Full-time employment with a flexible schedule.</p>
+<p>Paid vacations.</p>
+<p>Benefits and bonus system.</p>
+<p>Work-life balance.</p>
+<p>Highly professional team.</p>
+<p>International team network.</p>
+<img src="https://remotive.com/job/track/1722542/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
