@@ -1,5 +1,60 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0006/6215/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>RemoteMore</h5>
+                    <h3> Java Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/remotemore-java-developer-5" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0006/6215/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Berlin/Chicago 
+    <br /><strong>URL:</strong> <a href="https://remotemore.com/candidates?utm_source=wwr&amp;utm_medium=jobpost&amp;utm_campaign=java">https://remotemore.com/candidates?utm_source=wwr&amp;utm_medium=jobpost&amp;utm_campaign=java</a>
+</p>
+
+<div>
+<strong>The position<br></strong><br>
+</div><div>RemoteMore is helping a large tech company with hiring Java Developers for its European and US teams.<br><br>
+</div><div>The company is one of the major tech companies and works across many internal product teams. Multiple  Java Developers will be hired and matched to the teams that are best fit for their background/experience. All product teams are fully distributed. The company culture is to focus on work delivered and not hours worked.<br><br>
+</div><div>Good work-life balance is encouraged: 4-week paid holiday per year is part of the benefits package. You will work with other senior colleagues with many opportunities to grow professionally. You can work from home or any other place of your choice.<br><br>
+</div><div>The position is full-time and fully remote.<br><br>
+</div><div><br></div><div><strong>Your profile</strong></div><div><br></div><div>Coming from a strong technical background, you are expected to have:<br><br>
+</div><ul>
+<li>Required technologies: Java, RESTful APIs</li>
+<li>Bonus points: Spring Framework, AWS or Azure</li>
+<li>Top technical skills for your level of experience:  Intermediate or Senior (2+ years of experience)</li>
+<li>The soft skills to work remotely. Strong individual contributor, strong communication skills.</li>
+<li>Passion for remote work. You understand the pros and cons of working remotely.</li>
+<li>Good English language skills to work as part of an international team.</li>
+</ul><div><br></div><div>
+<strong>Why should YOU apply?<br></strong><br>
+</div><ul>
+<li>Work from anywhere you want.</li>
+<li>Competitive compensation based on your skills.</li>
+<li>Work in a team with other top developers.</li>
+<li>Make a difference.</li>
+</ul><div><br></div><div>To be considered for the position, please sign up to RemoteMore by following the apply button link. </div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/remotemore-java-developer-5">https://weworkremotely.com/remote-jobs/remotemore-java-developer-5</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8410/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +65,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clouddevs-fullstack-javascript-typescript-developer" align="right" target="_blank">Apply</a>
@@ -72,7 +127,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/better-proposals-php-developer" align="right" target="_blank">Apply</a>
@@ -260,78 +315,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8558/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>DesignFiles</h5>
-                    <h3> Full-Stack Ruby on Rails Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>34 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/designfiles-full-stack-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/8558/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Remote
-    <br /><strong>URL:</strong> <a href="https://designfiles.co">https://designfiles.co</a>
-</p>
-
-<div>
-<strong>At DesignFiles we're looking for a Full-Stack Ruby on Rails Developer to join our engineering team.<br></strong><br>
-</div><div><strong>About the Job:</strong></div><div>
-<br>DesignFiles is an interior design project management software company on a mission to help interior designers and home furnishing retailers take their design services and businesses to new heights. With 5,000+ customers and 20+ team members located all over the world, we're growing quickly and looking for our next driven and talented team member.<br><br>
-</div><div>We’re looking for a Full Stack Ruby on Rails Developer to join the company to drive product development from the ground level.<br><br>
-</div><div>
-<em>Please note: This is a contract role and we are looking for individuals (not agencies) that can commit 40+ hours a week to become a core member of our team.<br></em><br>
-</div><div>
-<br><strong>What You'll Do:</strong>
-</div><ul>
-<li>Write, review and improve Ruby and JavaScript code working in Unix environment.<br><br>
-</li>
-<li>Collaborate with our product team to bring features from conception to completion.<br><br>
-</li>
-<li>Develop features with an emphasis on consistency and integrity at all levels of the stack.<br><br>
-</li>
-<li>Improve DesignFiles' engineering culture with an eye for best practices, code quality and code reviews.<br><br>
-</li>
-<li>Actively contribute to the project with ideas and solutions to constantly improve the lives of our designers and their clients.<br><br>
-</li>
-<li>Participate in Sprint Planning, Retros, 1:1s<br><br>
-</li>
-</ul><div>
-<br><strong>What We Want From You:</strong>
-</div><ul>
-<li>5+ years experience as a full-stack developer.<br><br>
-</li>
-<li>3+ years of hands-on Ruby on Rails experience.<br><br>
-</li>
-<li>Strong experience with Ruby on Rails: rubocop, minitest-spec-rails, delayed job, paperclip, paranoia, etc.<br><br>
-</li>
-<li>Strong experience with modern JavaScript/CSS: Webpack, Gulp, eslint, prettier, BEM.<br><br>
-</li>
-<li>Solid knowledge of unix shell, PostgreSQL, Docker, Node.js, AWS S3.<br><br>
-</li>
-<li>Fluent English, good communication skills and full presence during agreed work hours.<br><br>
-</li>
-<li>Taking responsibility for testing own code, thinking through the edge cases and ability to work productively without close supervision.</li>
-</ul><div><br></div><div>Sounds interesting? Apply here &gt;&gt; https://designfiles.homerun.co/full-stack-ruby-on-rails-developer</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/designfiles-full-stack-ruby-on-rails-developer">https://weworkremotely.com/remote-jobs/designfiles-full-stack-ruby-on-rails-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/3228/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -342,7 +325,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>91 days ago</text>
+                <text>92 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -425,7 +408,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>123 days ago</text>
+                <text>124 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -499,85 +482,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0017/3489/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>OpenCraft</h5>
-                    <h3> Senior Open Source Developer & DevOps (Python, Django, React, AWS/OpenStack)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>964 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0017/3489/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Fully remote company (worldwide, incorporated in Berlin)
-    <br /><strong>URL:</strong> <a href="https://opencraft.com/">https://opencraft.com/</a>
-</p>
-
-<div>Do you care about contributing to open-source, and appreciate a good challenge? We do too! :) <br><br>
-</div><div>
-<strong>Open-source<br></strong><br>
-</div><div>We are a team of veteran open-source developers, working on educational and community-based projects in an<a href="https://handbook.opencraft.com/en/latest/open_first/"> open-first</a> environment – and we are looking for new members. By joining us, you will work full-time on open-source, pushing your changes to free software projects upstream through pull requests, contributing features, documentation, or help on public forums. </div><div>
-<br>We care deeply about contributing our work upstream. You will see the results of your work reused and recognized across the educational community, increasing access to quality education for everyone, everywhere.</div><div>
-<br><strong>Remote-first</strong>
-</div><div>
-<br>Unlike companies who reluctantly started to accept remote workers recently, we have embraced it from day 1. For the past 7 years, we have based and refined our way of working around remote-friendly workflows, from the ground up. No day-long video meetings, mandatory work hours, or risk of being forced back into an office one day -- as long as you have a good internet connection, it’s none of our business when or where you work from. :)</div><div>
-<br>We are all working remotely, from all continents (except Antarctica, at least so far - applicants welcome!). We use remote-friendly and timezone-agnostic workflows based on asynchronous principles and good documentation practices.</div><div>
-<br><strong>Online education<br></strong><br>
-</div><div>We are one of the main contributors to the <a href="https://open.edx.org/">Open edX project</a>, the main open-source MOOC platform created by MIT, Harvard and many other top universities. It powers sites like <a href="https://www.edx.org/">edX.org</a>, the <a href="https://openlearning.mit.edu/courses-programs/open-learning-library">MIT Open Learning Library</a>, and the <a href="https://www.fun-mooc.fr/">national online learning platform for France</a>. We provide development and hosting for institutions like <a href="https://onlinelearning.hms.harvard.edu/hmx/">Harvard Medical School</a>, <a href="https://www.labxchange.org">Harvard LabXchange</a>, <a href="https://ondemand.cloudera.com">Cloudera</a>, <a href="https://www.upskill.autodesk.com">Autodesk</a>, and several governments. We are not affiliated with <a href="https://www.edx.org/">edX.org</a>, but we contribute and work with them on various projects. </div><div>
-<br><strong>Technical stack</strong><br><br>
-</div><div>The Open edX project is a large Python/Django codebase, with good code standards and architecture. Tasks are varied, from developing core platform features, custom exercises and tools for specific courses (XBlocks), customizing and deploying instances, working full-stack, operating our service infrastructure, improving our hosting platform, etc. You won't get bored here.<br><br>
-</div><div>
-<strong>Contracting terms<br></strong><br>
-</div><div>This is a full-time, permanent contract position. We aim for long-term relationships -- once in, almost all team members stay for many years. </div><div><br></div><div>We care about paying fairly: </div><ul>
-<li>Team members set their own compensation level, which is paid based on hours worked (no unpaid overtime!). </li>
-<li>When determining your rate, we will expect you to factor in benefits (vacation, healthcare, purchase budgets, etc.) - the idea is to let <em>you</em> pick the benefits that are useful to you, rather than offer one-size-fits-all packages that aren’t always very valuable.</li>
-<li>We also proactively apply generous raises team-wide, based on the company results at the end of each year. <a href="https://handbook.opencraft.com/en/latest/team_compensation/">See the details about how we approach compensation in our handbook</a>.</li>
-</ul><div>We also firmly believe in work-life balance: as long as you deliver what you commit to, there is a lot of latitude in how much work you can choose to accept. We are open to time commitments anywhere in the 30h to 40h/week range, and highly discourage working more than that. It’s important to have time to ourselves, as well as having some slack, and there are diminishing returns in working more anyway. We are currently recruiting precisely to preserve that balance, and ensure we have plenty of capacity to handle our projects.</div><div><br></div><div>We welcome applicants of all genders and ethnicities.</div><div>
-<br><strong>Basic Requirements:</strong>
-</div><ul>
-<li>Experience with contributing to free software projects - small contributions are completely fine, but you <em>must</em> have at least one patch or pull request merged in a third-party project, or been a maintainer of an open source project with significant adoption. (Note that you can contribute now to satisfy this requirement - see for example the <a href="https://github.com/openedx/build-test-release-wg/projects/1">Open edX release issues</a>, fixing one of these issues guarantees an interview.)</li>
-<li>Senior developer with 3+ years working with Python</li>
-<li>Experience with Python web frameworks, specifically Django</li>
-<li>3+ years of HTML, Javascript, and CSS (experience with React and/or Typescript is a big plus!)</li>
-<li>Experience with unit testing</li>
-<li>Comfortable working in a Linux environment, specifically Debian or Ubuntu</li>
-<li>Experience with databases: MySQL, MongoDB, PostgreSQL</li>
-</ul><div>
-<strong>Additional Skills:</strong><br><br>
-</div><div>You will work on tasks from the following categories, but you can pick up the skills on the job if you haven't mastered these yet:</div><ul>
-<li>DevOps experience, especially on Debian/Ubuntu servers, Terraform, Vault, Packer, Prometheus, ELK, Docker. We are building a modern infrastructure and having a strong DevOps presence on top of core software engineering skills is a big plus with us.</li>
-<li>Cloud computing, like AWS or OpenStack</li>
-<li>Configuration management tools such as Ansible, Consul</li>
-<li>RabbitMQ, Redis &amp; Elasticsearch</li>
-<li>Mobile development (iOS and/or Android)</li>
-<li>Managing clients &amp; projects from beginning to completion (senior developer)</li>
-<li>Public speaking at conferences (you would present a talk every year at the Open edX Con)</li>
-</ul><div>
-<br><strong>Apply for this Position</strong><br><br>
-</div><div>Our recruitment process differs from most other companies - we don’t believe resumes and the traditional interviews to be particularly effective. Often, they tell more about how good someone is at interviewing, rather than at the actual work. So, our initial interview is lighter and easier to pass than in other companies - but we then provide you with real (and paid!) work to see how it works out in reality.</div><ul>
-<li>Step 1: You apply by filling out this form: <a href="https://opencraft.com/jobs/open-source-developer/">https://opencraft.com/jobs/open-source-developer/</a> </li>
-<li>Step 2: We do two interviews with candidates matching the requirements listed above. The first interview includes a (simple) coding exercise.</li>
-<li>Step 3: If this works out, we hire you! We start with a 2 months <a href="https://handbook.opencraft.com/en/latest/processes/#recruitment">trial period</a>, which allows both you and the rest of the team to fully evaluate how we work together, and is followed by a final review and confirmation. </li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack">https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/814298/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -588,7 +492,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -665,7 +569,7 @@
                     <code>C,C#,unity,unity3D</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -809,7 +713,7 @@
                     <code>backend,frontend,fullstack,javascript</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -878,7 +782,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -953,7 +857,7 @@
                     <code>UI/UX,CI/CD</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -1030,7 +934,7 @@
                     <code>C++,javascript,python,security</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -1167,7 +1071,7 @@
                     <code>api,azure,cloud,django</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-back-end-developer-1674036" align="right" target="_blank">Apply</a>
