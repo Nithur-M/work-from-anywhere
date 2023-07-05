@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>601 days ago</text>
+                <text>602 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -62,30 +62,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1177267684574208000/54eG3WmW_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>SafetyWing</h5>
-                    <h3>Product Manager Intern</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://safetywing.pinpointhq.com/en/jobs/117592" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <h2>🧘 What we offer</h2> <div><!--block-->We offer a great team to learn from and collaborate with and a fully remote work environment – work from anywhere globally 🌏<br><br>You will get a monthly salary, and if you are successful with your internship, we will do our best to offer you a longer-term collaboration 🚀<br><br>We are looking forward to hearing from you!</div> <div><!--block--><strong>SafetyWing</strong> (YC W18) is seeking a Product Manager Intern to join our Remote Health team.<br>&nbsp;</div><div><!--block-->We are building a global social safety net, including health and retirement for remote workers worldwide, as a replacement for national welfare systems. If we succeed, we believe this will help ensure freedom and equal opportunity for everyone, and it is one of the more important tasks of our time that no one else is working on.</div> <h2>💻 Your responsibilities will include</h2>  <ul><li><!--block-->As a Product Manager Intern, you will be responsible for user and product research, as well as product implementation and testing. This includes coordination with multiple stakeholders, such as legal, partnerships, marketing and customer service.</li></ul> <h2>🧪 We are looking for someone who</h2> <ul><li><!--block-->Has experience with managing product development</li><li><!--block-->Is good at copywriting</li><li><!--block-->Is entrepreneurial and self-driven</li><li><!--block-->Is passionate about shaping products that people love</li><li><!--block-->Has a grasp understanding of the product management lifecycle</li></ul><div><!--block--><br></div><div><!--block--><strong>😀 We like to work with people who:</strong></div><ul><li><!--block-->Want to help build a global social safety net on the Internet.</li><li><!--block-->Think for themselves instead of copying others.</li><li><!--block-->Are willing to try new things, even with the risk of failure.</li><li><!--block-->Are intellectually curious and open to new ideas.</li><li><!--block-->Are creative and bold in the face of any problems.</li><li><!--block-->Have strong integrity and do the right thing.</li></ul><div><!--block--><br></div>
                 </details>
                 </td>
             </tr>,<tr>
