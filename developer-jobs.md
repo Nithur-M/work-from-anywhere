@@ -1,60 +1,5 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0006/6215/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>RemoteMore</h5>
-                    <h3> Java Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/remotemore-java-developer-5" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0006/6215/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Berlin/Chicago 
-    <br /><strong>URL:</strong> <a href="https://remotemore.com/candidates?utm_source=wwr&amp;utm_medium=jobpost&amp;utm_campaign=java">https://remotemore.com/candidates?utm_source=wwr&amp;utm_medium=jobpost&amp;utm_campaign=java</a>
-</p>
-
-<div>
-<strong>The position<br></strong><br>
-</div><div>RemoteMore is helping a large tech company with hiring Java Developers for its European and US teams.<br><br>
-</div><div>The company is one of the major tech companies and works across many internal product teams. Multiple  Java Developers will be hired and matched to the teams that are best fit for their background/experience. All product teams are fully distributed. The company culture is to focus on work delivered and not hours worked.<br><br>
-</div><div>Good work-life balance is encouraged: 4-week paid holiday per year is part of the benefits package. You will work with other senior colleagues with many opportunities to grow professionally. You can work from home or any other place of your choice.<br><br>
-</div><div>The position is full-time and fully remote.<br><br>
-</div><div><br></div><div><strong>Your profile</strong></div><div><br></div><div>Coming from a strong technical background, you are expected to have:<br><br>
-</div><ul>
-<li>Required technologies: Java, RESTful APIs</li>
-<li>Bonus points: Spring Framework, AWS or Azure</li>
-<li>Top technical skills for your level of experience:  Intermediate or Senior (2+ years of experience)</li>
-<li>The soft skills to work remotely. Strong individual contributor, strong communication skills.</li>
-<li>Passion for remote work. You understand the pros and cons of working remotely.</li>
-<li>Good English language skills to work as part of an international team.</li>
-</ul><div><br></div><div>
-<strong>Why should YOU apply?<br></strong><br>
-</div><ul>
-<li>Work from anywhere you want.</li>
-<li>Competitive compensation based on your skills.</li>
-<li>Work in a team with other top developers.</li>
-<li>Make a difference.</li>
-</ul><div><br></div><div>To be considered for the position, please sign up to RemoteMore by following the apply button link. </div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/remotemore-java-developer-5">https://weworkremotely.com/remote-jobs/remotemore-java-developer-5</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/3940/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -65,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/better-proposals-php-developer" align="right" target="_blank">Apply</a>
@@ -138,7 +83,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/trendspider-front-end-software-developer" align="right" target="_blank">Apply</a>
@@ -188,7 +133,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>94 days ago</text>
+                <text>96 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -271,7 +216,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>126 days ago</text>
+                <text>128 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -345,6 +290,83 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1383531/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Proxify</h5>
+                    <h3>Senior Front-end Developer</h3>
+                </td>
+                <td width="300">
+                    <code>UI/UX,CI/CD</code>
+                </td>
+                <td width="200">
+                <text>3 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"> </p>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">The Role:</span></p>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">We are searching for a </span><span style="color: #252525; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Senior Front-End Developer (Angular.js/React.js)</span><span style="color: #0e101a; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </span></p>
+<p><br><br></p>
+<div class="h3" dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">What we are looking for:</span></div>
+<ul style="">
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">You have +3 years experience with React.js/Angular.js;</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">You follow best practices and conventions;</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Relevant experience in CI/CD and related tools;</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Responsible and able to work with minimal supervision;</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Upper-intermediate English level;</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">You can communicate well with both technical and non-technical clients.</span></li>
+</ul>
+<div class="h4" dir="ltr" style="line-height: 1.9872; margin-top: 14pt; margin-bottom: 12pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Nice-to-have:</span></div>
+<ul style="">
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Timezone: CET (+/- 3 hours);</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Basic back-end knowledge for minor back-end jobs where necessary.</span></li>
+</ul>
+<div class="h4" dir="ltr" style="line-height: 1.9872; margin-top: 14pt; margin-bottom: 12pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Responsibilities:</span></div>
+<ul style="">
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Build reusable code and libraries for future use;</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Ensure the technical feasibility of UI/UX designs;</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Transform visual designs and wireframes into working products;</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Accurate planning of the feature delivery;</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Collaborate with other team members and stakeholders</span></li>
+</ul>
+<p><br><br></p>
+<p align="left" dir="ltr" style="margin-left: 0pt;"> </p>
+<table style="border-width: initial; border-style: none;"><colgroup><col width="600"></colgroup>
+<tbody>
+<tr style="height: 132.75pt;">
+<td style="border-width: 0.99609pt; border-color: #000000; vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;">
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">What we offer:</span></p>
+<ul style="">
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">💻 </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">100% remote work</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Work from anywhere.</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">👌🏻 </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Flexibility</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: The ability to change the project to another one.</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">💵 </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Financial growth</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Competitive compensation and performance-based increases.</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">🧘🏻‍♂️ </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Freedom</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Very flexible working schedule.</span></li>
+<li dir="ltr" style=""><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">🚀 </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">360 degree growth</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Opportunities for professional development and personal growth.</span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"> </p>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Your benefits with Proxify:</span></p>
+<ul style="">
+<li style=""><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Be part of Proxify community</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Network with like-minded and enthusiastic individuals to make a difference. </span></li>
+<li style=""><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Make an impact</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: You get the opportunity to work on the projects that inspire you and add value to your career.</span></li>
+<li style=""><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Transparency</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Contracts with transparency in earnings and working hours.</span></li>
+<li style=""><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Save your time</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Fast and efficient hiring process to match you with the project of your preference.</span></li>
+</ul>
+<p><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Ownership: </span><span style="color: #0e101a; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Take ownership of your work and enjoy more freedom in your career.</span></p>
+<img src="https://remotive.com/job/track/1383531/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1422554/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -355,7 +377,7 @@
                     <code>C++,javascript,python,security</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -492,7 +514,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -569,7 +591,7 @@
                     <code>C,C#,unity,unity3D</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -713,7 +735,7 @@
                     <code>backend,frontend,fullstack,javascript</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -782,7 +804,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -843,116 +865,6 @@
 <p> </p>
 <p>*Starting base pay in the US states of California, New York, Washington and Colorado for this position ranges between $15 - $35 per hour</p>
 <img src="https://remotive.com/job/track/1680495/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1651226564728700928/h0tz5UT1_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Supabase</h5>
-                    <h3>Front-End Developers (o11y focus)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/supabase/jobs/4910374004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p><img src="https://pbs.twimg.com/media/FIdU8GJWQAUGWRA?format=jpg&amp;name=small" alt="Join Supabase" width="680" height="453"></p></div>
-
-    <p>We're looking for a Senior Front End Developer to join our team to help change the way developers build their applications.</p>
-<p>You'll be primarily responsible for growing our NextJS apps to a comprehensive development stack, including our backend API, user authentication and expanding our React UI. You'll be an indispensable part of the team, by working very closely with our frontend team, designers, founders and backend engineers; you'll be directly contributing to technical choices, building a team culture and co-authoring internal processes for a growing team.</p>
-<p>This role is specifically focused around observability (”o11y”). You will work to improve logging, reporting and analytics in the Dashboard for all of our tools.</p>
-<p>This is an opportunity to truly take ownership of a web platform, defining how it evolves, and how we can scale our users, team, product and processes.</p>
-<p><strong>What we need</strong></p>
-<p>This role requires three critical attributes:</p>
-<ol>
-<li>You’ve got a background in working with data. In addition to your frontend skills, you’ve got experience with wrangling and visualizing data. You might have worked on other customer-facing dashboards, building time-series visualizations for reporting metrics like usage and utilization. You have meaningful experience presenting data to users. You don’t need to be a database expert, but you are solid SQL—optimizing SQL queries would be a common task, for example.<br><br></li>
-<li>Ability to write great production <strong>React</strong> code in Next.JS. You know React and Next.JS very well. You know a state management tool like Redux or MobX really well. You implicitly know many of the reasons why we’re rewriting our Dashboard to use React Query instead of MobX. You can take a MobX store and rewrite it using React Query.<br><br></li>
-<li>&nbsp;Ability to self-manage. Every company will expect you to self-manage to some degree, but Supabase takes this to a new level. We are a flat, early-stage startup without a lot of structure. To thrive in this environment, you’ll need to be a motivated self-starter who is good working asynchronously across multiple teams. We’re looking for someone who will identify things that need improvement and put their heads down until it’s shipped.</li>
-</ol>
-<p><strong>What you’ll do</strong></p>
-<ul>
-<li>Build our logging, reporting and analytics tools in the Dashboard, iterating existing features and building new ones.</li>
-<li>Take ownership of the Dashboard front end stack, planning and iterating on it based on a roadmap that you have an active voice in moulding.</li>
-<li>Build tools within the Supabase ecosystem, occasionally dogfooding our own work</li>
-<li>Interacting with customers on a daily basis.</li>
-<li>Help build out the test suite for the Dashboard</li>
-<li>Improve the speed, performance and code quality of our Dashboard</li>
-<li>Triage and fix GitHub issues</li>
-</ul>
-<p><strong>Must haves</strong></p>
-<ul>
-<li>5+ years experience in web development (React, Typescript, HTML, CSS, Node.js, relational databases);</li>
-<li>Knowledge of modern JS (ES6 etc), React UI Components (we use Radix), state management (Mobx, Redux, etc), and data fetching strategies using React Query / SWR, etc;</li>
-<li>Experience with building visual tools for logging, reporting analytics;</li>
-<li>Experience with relational databases (especially Postgres) and SQL</li>
-<li>Willingness to evolve and shape the development tools/stack;</li>
-<li>Willingness to regularly talk to customers to ensure we’re solving problems they have;</li>
-<li>Willingness to work in a fast-paced environment.</li>
-</ul>
-<p><strong>Nice to haves</strong></p>
-<ul>
-<li>Experience with <a href="https://d3js.org/">d3js</a>;</li>
-<li>Experience working on large projects, and the code and contribution complexities that come with it;</li>
-<li>Web accessibility experience;</li>
-<li>Experience working on a large, open-source project.</li>
-</ul>
-<p><strong>We offer:</strong></p>
-<ul>
-<li>100% remote work from anywhere in the world. No location-based adjustment to your salary.</li>
-<li>ESOP (equity ownership in the company)</li>
-<li>Autonomous work. We work collaboratively on projects, but you set your own pace.</li>
-<li>Health, Vision and Dental benefits. Supabase covers 100% of the cost for employees and 80% for dependents</li>
-<li>Generous Tech Allowance for any office setup you need</li>
-<li>Annual Education Allowance</li>
-<li>Annually run off-sites.</li>
-</ul>
-
-    
-
-    <div class="content-conclusion"><h3>BUILD IN A WEEKEND. SCALE TO BILLIONS</h3>
-<p>Supabase adds auth, realtime, and restful APIs to Postgres without a single line of code.</p>
-<p>Each project within Supabase is an isolated&nbsp;Postgres cluster, allowing customers to scale independently, while still providing the features that you need to build: instant database setup, auth, row level security, realtime data streams, auto-generating APIs, and a simple to use web interface.</p>
-<p>We are a fully remote company.</p>
-<p>Key Tech: Javascript, Typescript, Go, Elixir, PostgREST (haskell), Postgres, Pulumi.</p>
-<h3><a id="about-the-team" class="anchor"></a>About the team</h3>
-<ul>
-<li>We're a startup. It's unstructured.</li>
-<li>Collectively founded more than a dozen venture-backed companies.</li>
-<li>More than 10 different nationalities.</li>
-<li>We deeply believe in <a href="https://supabase.com/blog/2022/03/25/should-i-open-source-my-company" target="_blank">the efficacy of collaborative open source</a>. We support existing communities and tools, rather than building "yet another xx".</li>
-<li>We "dogfood" everything. If you use it in your project, we use it in Supabase.</li>
-</ul>
-<h2><a id="process" class="anchor"></a>Process</h2>
-<ul>
-<li>The entire process is fully remote and all communication will happen over email or via video chat.</li>
-<li>Once you've submitted your application, the team will review your submission, and may reach out for a short screening interview over video call.</li>
-<li>If you pass the screen you will be invited to up to four follow up interviews. The calls:
-<ul>
-<li>usually take between 20-45 minutes each depending on the interviewer.</li>
-<li>are all 1:1.</li>
-<li>will be with both founders, a member of either the growth or engineering team (depending on the role), and usually one other person from your immediate team or function.</li>
-</ul>
-</li>
-<li>Once the interviews are over, the team will meet to discuss several roles and candidates and may:
-<ul>
-<li>ask one or two follow-up questions over email or a quick call.</li>
-<li>go directly to making an offer.</li>
-</ul>
-</li>
-</ul>
-<h2>&nbsp;</h2></div>
-
                 </details>
                 </td>
             </tr>,<tr>
@@ -1095,8 +1007,8 @@
                 
     <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
 <h2><span style="color: #a112ff;">Who we are</span></h2>
-<p><span style="font-weight: 400;">Our mission at Sourcegraph is to make it so that </span><a href="https://handbook.sourcegraph.com/strategy-goals/strategy"><span style="font-weight: 400;">everyone can code</span></a><span style="font-weight: 400;">, not just ~0.1% of the population. Our code AI platform helps developers and </span><a href="https://about.sourcegraph.com/customers/"><span style="font-weight: 400;">companies</span></a><span style="font-weight: 400;"> with billions of lines of code create the software you use every day. By enabling more people to code, we believe we will create economic opportunity across the world and will drive progress that benefits everyone.</span></p>
-<p><span style="font-weight: 400;">It’s an exciting time to join Sourcegraph. Our business is growing rapidly: we’ve experienced exponential growth and our </span><a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/"><span style="font-weight: 400;">$125M Series D from Andreessen Horowitz</span></a><span style="font-weight: 400;"> and </span><a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"><span style="font-weight: 400;">$50M Series C from Sequoia</span></a><span style="font-weight: 400;"> have given us the opportunity to make big ambitious bets on our future. We have a huge market (every company that builds software) and massive opportunity (most developers haven't even heard of code AI yet, but once you've used it, you can't live without it--just like Google). By continuing to hire exceptional people, we have the opportunity to make Sourcegraph one of the biggest technology companies in the world. </span></p></div>
+<p><span style="font-weight: 400;">Our mission at Sourcegraph is to make it so that </span><a href="https://handbook.sourcegraph.com/strategy-goals/strategy"><span style="font-weight: 400;">everyone can code</span></a><span style="font-weight: 400;">, not just ~0.1% of the population. Our code graph powers Cody, the most powerful and accurate code AI for writing, fixing, and maintaining code, as well as our Code Search product, helping devs explore their entire codebase and make large-scale migrations and security fixes. We’re building software that builds software, and in doing so we’re making devs more productive and growing the population of coders by giving anybody access to the deep knowledge base of a senior engineer through Cody and all of the context it brings. We’re preparing for a world with a lot more code than exists today, and that benefits us all.</span></p>
+<p><span style="font-weight: 400;">It’s an exciting time to join Sourcegraph. AI has taken over the world, and we’ve spent the last 10 years building infrastructure that’s integral to making AI generated code more powerful and accurate. Our customers include 4/5 FAANG companies, 4 of the top 10 banks, government organizations, Uber, Plaid, and many other companies building the software that pushes the world forward. We’ve raised $225M at a $2.625B valuation from </span><a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/"><span style="font-weight: 400;">Andreessen Horowitz</span></a><span style="font-weight: 400;">, </span><a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"><span style="font-weight: 400;">&nbsp;Sequoia</span></a><span style="font-weight: 400;">, </span><a href="https://www.redpoint.com/companies/sourcegraph/"><span style="font-weight: 400;">Redpoint</span></a><span style="font-weight: 400;">, </span><a href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d"><span style="font-weight: 400;">Craft</span></a><span style="font-weight: 400;"> and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</span></p></div>
 
     <h2><span style="color: #8c33ec;"><strong>Working hours</strong></span></h2>
 <p>While Sourcegraph is fully remote, we are specifically seeking candidates located in North America to be able to attend events regularly.&nbsp;</p>
@@ -1194,8 +1106,8 @@
                 
     <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
 <h2><span style="color: #a112ff;">Who we are</span></h2>
-<p><span style="font-weight: 400;">Our mission at Sourcegraph is to make it so that </span><a href="https://handbook.sourcegraph.com/strategy-goals/strategy"><span style="font-weight: 400;">everyone can code</span></a><span style="font-weight: 400;">, not just ~0.1% of the population. Our code AI platform helps developers and </span><a href="https://about.sourcegraph.com/customers/"><span style="font-weight: 400;">companies</span></a><span style="font-weight: 400;"> with billions of lines of code create the software you use every day. By enabling more people to code, we believe we will create economic opportunity across the world and will drive progress that benefits everyone.</span></p>
-<p><span style="font-weight: 400;">It’s an exciting time to join Sourcegraph. Our business is growing rapidly: we’ve experienced exponential growth and our </span><a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/"><span style="font-weight: 400;">$125M Series D from Andreessen Horowitz</span></a><span style="font-weight: 400;"> and </span><a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"><span style="font-weight: 400;">$50M Series C from Sequoia</span></a><span style="font-weight: 400;"> have given us the opportunity to make big ambitious bets on our future. We have a huge market (every company that builds software) and massive opportunity (most developers haven't even heard of code AI yet, but once you've used it, you can't live without it--just like Google). By continuing to hire exceptional people, we have the opportunity to make Sourcegraph one of the biggest technology companies in the world. </span></p></div>
+<p><span style="font-weight: 400;">Our mission at Sourcegraph is to make it so that </span><a href="https://handbook.sourcegraph.com/strategy-goals/strategy"><span style="font-weight: 400;">everyone can code</span></a><span style="font-weight: 400;">, not just ~0.1% of the population. Our code graph powers Cody, the most powerful and accurate code AI for writing, fixing, and maintaining code, as well as our Code Search product, helping devs explore their entire codebase and make large-scale migrations and security fixes. We’re building software that builds software, and in doing so we’re making devs more productive and growing the population of coders by giving anybody access to the deep knowledge base of a senior engineer through Cody and all of the context it brings. We’re preparing for a world with a lot more code than exists today, and that benefits us all.</span></p>
+<p><span style="font-weight: 400;">It’s an exciting time to join Sourcegraph. AI has taken over the world, and we’ve spent the last 10 years building infrastructure that’s integral to making AI generated code more powerful and accurate. Our customers include 4/5 FAANG companies, 4 of the top 10 banks, government organizations, Uber, Plaid, and many other companies building the software that pushes the world forward. We’ve raised $225M at a $2.625B valuation from </span><a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/"><span style="font-weight: 400;">Andreessen Horowitz</span></a><span style="font-weight: 400;">, </span><a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"><span style="font-weight: 400;">&nbsp;Sequoia</span></a><span style="font-weight: 400;">, </span><a href="https://www.redpoint.com/companies/sourcegraph/"><span style="font-weight: 400;">Redpoint</span></a><span style="font-weight: 400;">, </span><a href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d"><span style="font-weight: 400;">Craft</span></a><span style="font-weight: 400;"> and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</span></p></div>
 
     <h2><span style="color: #8c33ec;"><strong>Working hours</strong></span></h2>
 <p>While Sourcegraph is fully remote, we require the successful candidate for this role to reside in San Francisco. Regular attendance at weekly DevRel events in the city is an essential aspect of this position</p>
@@ -2093,7 +2005,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div>We are currently looking for passionate and enthusiastic Embedded Systems Linux software developers (junior, middle, senior) with Open-Source exposure to join our ever growing geographically-distributed engineering team.  </div><div><br></div><div>As a member of the Core domain team, you will focus on developing, adapting, integrating, packaging and validating - ("make it work") - multiple Linux system software libraries, bundling applications through containers with appropriate security profiles through Linux application security systems into Linux-based distributions for different customers’ projects and products.</div><div><br></div><div><b style="font-size: 24px">Who are we?</b></div><div><br></div><div>Our raison d’être is to accelerate the adoption of Open Source technologies, methodologies &amp; philosophy. We strive towards this goal by providing consulting services specialized in bringing companies and the Open Source community together. Being part of the Open Source community, we believe in a world of shared knowledge and collaboration for the advancement of humanity and we are always enthusiastic about sharing, teaching and learning with everyone around us.</div><div><br></div><div>Our highly technical and talented team, distributed across 25+ geographies all over the world, brings deep technical expertise in system integration &amp; architecture, Linux kernel, graphics, multimedia, web engines and communications to a number of market verticals, including mobile, IVI / automotive, set top box / smart TV, and a range of other specialized embedded applications (low-latency audio/video, audio/video streaming solutions, audio/video editing...).</div><div><br></div></div><div class="section page-centered"><div><h3>Must Haves</h3><ul class="posting-requirements plain-list"><ul><li>Linux experience</li><li>Knowledge of open source development methodologies and open source communities such as Debian and/or Yoco</li><li>Expertise in Flatpak run-times and integration in Linux distros</li><li>Any track record of experience with direct contributions in the GNU/Linux distributions packaging</li><li>Knowledge of essential libraries and services such as D-Bus and systemd </li></ul></ul></div></div><div class="section page-centered"><div><h3>Great to Haves</h3><ul class="posting-requirements plain-list"><ul><li>Exposure to GitLab CI, Open Build Service (OBS) and OSTree</li><li>Familiarity with one or more of Collabora's market verticals</li><li>BS/BA or experience in the role of Engineer</li></ul></ul></div></div><div class="section page-centered"><div><h3>Desired Personal Skills</h3><ul class="posting-requirements plain-list"><ul><li>Self-motivated</li><li>Self-learner</li><li>Good interpersonal skills</li><li>Good English proficiency (both verbal and written)</li><li>Ability to work in an online distributed environment</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/6ca2eb05-7e80-4d80-ab70-ecb8f79fb25a/apply">Apply for this job</a></div>
+                <div class="section page-centered" data-qa="job-description"><div>We are currently looking for passionate and enthusiastic Embedded Systems Linux software developers (junior, middle, senior) with Open-Source exposure to join our ever growing geographically-distributed engineering team.  </div><div><br></div><div>As a member of the Core domain team, you will focus on developing, adapting, integrating, packaging and validating - ("make it work") - multiple Linux system software libraries, bundling applications through containers with appropriate security profiles through Linux application security systems into Linux-based distributions for different customers’ projects and products.</div><div><br></div><div><b style="font-size: 24px">Who are we?</b></div><div><br></div><div>Our raison d’être is to accelerate the adoption of Open Source technologies, methodologies &amp; philosophy. We strive towards this goal by providing consulting services specialized in bringing companies and the Open Source community together. Being part of the Open Source community, we believe in a world of shared knowledge and collaboration for the advancement of humanity and we are always enthusiastic about sharing, teaching and learning with everyone around us.</div><div><br></div><div>Our highly technical and talented team, distributed across 25+ geographies all over the world, brings deep technical expertise in system integration &amp; architecture, Linux kernel, graphics, multimedia, web engines and communications to a number of market verticals, including mobile, IVI / automotive, set top box / smart TV, and a range of other specialized embedded applications (low-latency audio/video, audio/video streaming solutions, audio/video editing...).</div><div><br></div></div><div class="section page-centered"><div><h3>Must Haves</h3><ul class="posting-requirements plain-list"><ul><li>Linux experience</li><li>Knowledge of open source development methodologies and open source communities such as Debian and/or Yocto</li><li>Expertise in Flatpak run-times and integration in Linux distros</li><li>Any track record of experience with direct contributions in the GNU/Linux distributions packaging</li><li>Knowledge of essential libraries and services such as D-Bus and systemd </li></ul></ul></div></div><div class="section page-centered"><div><h3>Great to Haves</h3><ul class="posting-requirements plain-list"><ul><li>Exposure to GitLab CI, Open Build Service (OBS) and OSTree</li><li>Familiarity with one or more of Collabora's market verticals</li><li>BS/BA or experience in the role of Engineer</li></ul></ul></div></div><div class="section page-centered"><div><h3>Desired Personal Skills</h3><ul class="posting-requirements plain-list"><ul><li>Self-motivated</li><li>Self-learner</li><li>Good interpersonal skills</li><li>Good English proficiency (both verbal and written)</li><li>Ability to work in an online distributed environment</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/6ca2eb05-7e80-4d80-ab70-ecb8f79fb25a/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
