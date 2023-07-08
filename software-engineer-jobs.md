@@ -10,7 +10,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/mathspace-senior-ui-software-engineer-react-6" align="right" target="_blank">Apply</a>
@@ -51,7 +51,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/micro-full-stack-software-engineer-ai-typescript-nestjs" align="right" target="_blank">Apply</a>
@@ -95,7 +95,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>164 days ago</text>
+                <text>166 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -1523,30 +1523,6 @@
 <p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your <a href="https://canonical.com/careers/diversity/identity">identity</a> we will give your application fair consideration.</em></p>
 <p>#LI-remote</p><p>Requisition ID: 933</p><p></p>
     
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1470600385861611521/zGMS9sPM_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Coalesce</h5>
-                    <h3>Staff Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/coalesce.io/bfdeb358-ecba-4e88-b32f-4474178c344f" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div>Coalesce is building important data services for some of the largest enterprise companies in the world. With that comes the responsibility to build highly robust, well designed and written code. </div><div><br></div><div>In this role, you'll serve as an Individual Contributor on our engineering team working on the Coalesce product. As well as writing code yourself, you will review designs and code by others and serve as a technical leader on our software engineering team. </div><div><br></div><div>Our stack is Typescript / React / Redux /&nbsp;Node.js. Our codebase has been intentionally designed to enable developers to build features and improvements efficiently. Individual engineers typically "own" features, going through the entire development cycle from concept to design to implementation and testing all without requiring the typical back and forth between multiple separate teams.</div><div><br></div><div>The engineering team maintains the Coalesce Front-end application, our back-end, the Coalesce CLI tool (coa), our shared modules and the testing codebase. Given the nature of our application, an interest or understanding of Computer Science fundamentals, writing robust code and the ability to find simplicity in complex problems is key.</div><div><br></div><div>At Coalesce, our staff software engineers are trusted with the ability to work autonomously and to make well-informed strategic investments in our codebase. We believe that making the right architectural decisions can be a long-term competitive advantage for our business and an important part of our engineering culture and approach going forward.</div><div><br></div><div>SALARY: $<span style="font-size: 15px">180k - $250k + Equity. </span>All final pay rates will be determined by the candidates specific experience, knowledge, skills, and abilities of the applicant, internal equity, and alignment with market data.</div></div><div class="section page-centered"><div><h3>Key Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Refactor and improve existing code toward better reusability and maintainability</li><li>Contribute to building new features, functionality and tests for the Coalesce Product</li><li>Identify codebase improvements and deliver improvements iteratively</li><li>Participate in requirements gathering, software design, testing and customer support</li><li>Serve as an architectural resource for software engineers</li><li>Contribute to planning and prioritization discussions with Product, Customer Success and Sales Engineering</li></ul></ul></div></div><div class="section page-centered"><div><h3>Qualifications</h3><ul class="posting-requirements plain-list"><ul><li>Experience with Typescript, React Hooks + Redux,&nbsp;Node.JS, Javascript, CSS - or other relevant experience in strongly-typed languages (C++ / Java / Go / Rust / Strongly-typed Python) </li><li>Experience with Algorithms and Data Structures</li><li>Experience with Asynchronous programming including any of the following - ES6 Promises / Callbacks / Async Await / Redux Thunks or Saga</li><li>Experience working with and/or building and maintaining complex software codebases</li><li>Experience with transactions, synchronization, atomicity, idempotency and distributed programming concepts</li><li>Experience with good software design and best practices</li><li>Experience with software testing and the software development lifecycle</li></ul></ul></div></div><div class="section page-centered"><div><h3>You may be a good fit if</h3><ul class="posting-requirements plain-list"><ul><li>You are interested in data analytics</li><li>You are interested in the process of building new software products</li><li>You have a deep passion or interest in building great software&nbsp;</li><li>You work well independently in a remote-first setting</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 11pt">Coalesce solves the most commonly failed project in IT: the data warehouse. Companies today need to be data-driven to be competitive. Coalesce is the only cloud-first data platform that enables companies to transform and streamline their analytics processes, enabling data-driven decision making and visibility at enterprise scale.&nbsp;</span></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit cerulean" data-qa="show-page-apply" href="https://jobs.lever.co/coalesce.io/bfdeb358-ecba-4e88-b32f-4474178c344f/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
