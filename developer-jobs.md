@@ -10,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/better-proposals-php-developer" align="right" target="_blank">Apply</a>
@@ -73,56 +73,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0097/1479/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>TrendSpider</h5>
-                    <h3> Front End Software Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>17 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/trendspider-front-end-software-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0097/1479/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Chicago
-    <br /><strong>URL:</strong> <a href="https://trendspider.com">https://trendspider.com</a>
-</p>
-
-<div><strong>Front End Developer</strong></div><div><br></div><div><strong>Company Description:</strong></div><div>TrendSpider/SignalStack is a trading software firm headquartered in Chicago. Our products are used by tens of thousands of traders and investors, ranging from average retail users to multi-billion dollar asset managers. Our team is looking for a front end software developer that is excited about financial markets, and interested in helping to build the future of investing software. </div><div><br></div><div>This role is focused on helping expand the functionality of our automated  smart order routing product, SignalStack, by enabling traders to automate trading strategies without needing to become software developers themselves. This next team member should be passionate about trading and love working in a fast paced environment working in very quick sprints.  </div><div><br></div><div><strong>Job Description:</strong></div><div>We are currently seeking a highly skilled Front End Developer to work on our order routing trade automation platform, SignalStack. The ideal candidate will have experience working with specific technologies that we will list below, as well as the ability to work independently in a small team with minimal supervision. </div><div><br></div><div>As our development process differs from traditional team management practices, we require a developer who can manage their own tasks in Jira, provide regular progress reports every 2-3 days, make appropriate decisions, and proactively seek clarification when necessary. In other words, we’re looking for a creative problem solver who can help envision dashboard layouts that make monitoring trading and building easy order set-up tools easy for even the most basic trader.</div><div><br></div><div><strong>Responsibilities:</strong></div><ul>
-<li>Independently manage and prioritize tasks using Jira, ensuring timely completion of assigned work.</li>
-<li>Provide progress reports to the team every 2-3 days, keeping all stakeholders informed of the project status.</li>
-<li>Demonstrate the ability to make well-informed decisions when faced with development challenges.</li>
-<li>Proactively seek clarification or guidance when necessary to ensure project requirements are met effectively.</li>
-<li>Collaborate with team members, including backend developers, to deliver high-quality software solutions.</li>
-<li>Develop responsive and user-friendly front end interfaces using TypeScript, GraphQL, and React.</li>
-<li>Occasionally contribute to backend development tasks using Node.js, Apollo server, Sequelize + Postgresql, and Elastic Beanstalk.</li>
-</ul><div><br></div><div><strong>Requirements:</strong></div><ul>
-<li>Proven experience as a Front End Developer with a strong portfolio showcasing successful projects.</li>
-<li>Proficiency in TypeScript, GraphQL, and React, with demonstrable experience developing robust front end applications.</li>
-<li>Familiarity with backend technologies such as Node.js, Apollo server, Sequelize + Postgresql, and Elastic Beanstalk.</li>
-<li>Strong problem-solving skills and the ability to think creatively to overcome technical challenges.</li>
-<li>Excellent communication skills, both written and verbal, to effectively collaborate with team members and stakeholders.</li>
-<li>Self-motivated and able to work independently with minimal supervision.</li>
-<li>Detail-oriented and highly organized, ensuring that tasks and project requirements are not overlooked or delayed.</li>
-</ul><div><br></div><div>We offer a competitive salary package, a dynamic and challenging work environment, and the opportunity to contribute to cutting-edge Fintech projects that leverage interesting and innovative technologies to solve intricate and difficult problems. If you are a motivated and talented Front End Developer who thrives in a fast-paced, innovative setting, we invite you to apply and join our team.</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/trendspider-front-end-software-developer">https://weworkremotely.com/remote-jobs/trendspider-front-end-software-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/3228/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -133,7 +83,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>96 days ago</text>
+                <text>97 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -216,7 +166,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>128 days ago</text>
+                <text>129 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -300,7 +250,7 @@
                     <code>UI/UX,CI/CD</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -377,7 +327,7 @@
                     <code>C++,javascript,python,security</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -514,7 +464,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -591,7 +541,7 @@
                     <code>C,C#,unity,unity3D</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -735,7 +685,7 @@
                     <code>backend,frontend,fullstack,javascript</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -804,7 +754,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
