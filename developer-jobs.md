@@ -1,5 +1,92 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0098/8039/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>On The Map</h5>
+                    <h3> Wordpress Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/on-the-map-wordpress-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0098/8039/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Miami
+    <br /><strong>URL:</strong> <a href="https://www.onthemap.com/">https://www.onthemap.com/</a>
+</p>
+
+<div>
+<br>As a WordPress Developer, you will have the opportunity to work on diverse projects, continuously learn and grow, and contribute to changing the development process. Join us and enjoy a range of exciting benefits, including:<br><br>
+</div><div>
+<strong><br>Benefits:</strong><br>- Work in a dynamic international company with a majority of colleagues from the USA.<br>- Access to free online courses to enhance your skills.<br>- Join an enjoyable and talented team that values collaboration.<br><br>
+</div><div>
+<strong><br>Perks:</strong><br>- Competitive salary to recognize your expertise.<br>- Monthly bonus system to reward your achievements.<br><br>
+</div><div>
+<strong><br>Requirements:</strong><br>- A strong desire for continuous growth and learning.<br>- Previous experience developing WordPress websites.<br>- Proven understanding of front-end technologies such as HTML5, CSS3, and JavaScript.<br>- Comfortable building custom WordPress sites.<br>- Experience in building user interfaces for websites and/or web applications.<br>- Proficiency with debugging tools like Chrome Dev Tools, Firebug, etc.<br>- Experience in designing and developing responsive design websites.<br>- Proficient in command line usage.<br>- Ability to understand CSS/SCSS changes and ensure consistent style across platforms and browsers.<br>- Capability to convert comprehensive layouts and wireframes into working HTML pages.<br>- Proficient in using and altering MySQL databases.<br>- Passion for writing clean code.<br>- Excellent written and verbal English communication skills.<br>- Experience with web servers, e.g., Nginx, Apache.<br>- Ability to work independently and effectively within a team environment.<br><br>
+</div><div>
+<strong><br>Advantages:</strong><br>- Experience interacting with RESTful APIs and formats (JSON, XML).<br>- Familiarity with React, Redux, and Vue frameworks is a plus.<br>- Comfortable using Git for branching, merging, and resolving merge conflicts.<br>- Strong understanding of PHP back-end development.<br>- Experience in developing Shopify sites using Liquid.<br>- Knowledge of PHP OOP and integration via APIs.<br>- Technical SEO knowledge.<br><br>
+</div><div>
+<br><strong>How to apply?<br><br></strong>Send your CV and record a video (up to 5 minutes) answering the following questions:</div><ol>
+<li>Please introduce yourself </li>
+<li>Please describe your experience with WordPress. </li>
+<li>What's your biggest strength as WordPress/full-stack developer</li>
+<li>What kind of custom functionality have you built with WordPress (if you have any)</li>
+<li>What was the biggest challenge you faced or a project you worked on as a WordPress developer and how did you handle it? </li>
+</ol><div>For the video, you can use Loom, youtube, etc, or send just a file directly via email.</div><div>
+<br>Thank you! </div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/on-the-map-wordpress-developer">https://weworkremotely.com/remote-jobs/on-the-map-wordpress-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0000/2318/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>MotorLot</h5>
+                    <h3> ++ Ruby on Rails Developer ++ Fast Growing Auto Software Company</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/motorlot-ruby-on-rails-developer-fast-growing-auto-software-company" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0000/2318/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Scottsdale, A
+    <br /><strong>URL:</strong> <a href="http://motorlot.com">http://motorlot.com</a>
+</p>
+
+<div>Who is MotorLot?</div><div><br></div><div>MotorLot is the engine that runs independent auto dealers across the country. We've grown revenue 2300% in the last 3 years. We are expanding and would love to have you work with us!</div><div><br></div><div>What you'll be working on:</div><div>
+<br>Looking for a Rails programmer who loves challenges and is a bit car crazy. You'll be working on a wide variety of projects like:</div><div><br></div><div>Adding an integration with an outside marketing partner using an API.</div><div>Adding functionality to dealer websites.</div><div>Optimizing usage rates.</div><div>Work on optimizing backend ops.</div><div><br></div><div>Ideal Experience</div><div>2+ years experience building web applications using Ruby on Rails</div><div>Experience with MySQL database and writing SQL</div><div>Experience with (X)HTML and CSS</div><div>Experience with Javascript/jQuery</div><div>Experience with Amazon services</div><div>Strong knowledge of version control systems and application deployment</div><div>Experience working with API and FTP data imports and exports</div><div>Self-motivated and self-managed</div><div>Proven capability of working remotely</div><div>Ability to work in a fast paced, deadline driven, dynamic environment</div><div>A passion for the technologies of the web</div><div><br></div><div>Bonus</div><div>Experience building B2B applications</div><div>Experience in scaling web applications</div><div>Experience with test- or behavior-driven development<br>Open source contributions</div><div>Startup or small company experience</div><div>Entrepreneurial tendencies; you can take a task and get things done. We want to set you free to do your best</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/motorlot-ruby-on-rails-developer-fast-growing-auto-software-company">https://weworkremotely.com/remote-jobs/motorlot-ruby-on-rails-developer-fast-growing-auto-software-company</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/3940/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +97,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/better-proposals-php-developer" align="right" target="_blank">Apply</a>
@@ -83,7 +170,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>97 days ago</text>
+                <text>99 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -166,7 +253,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>129 days ago</text>
+                <text>131 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -250,7 +337,7 @@
                     <code>UI/UX,CI/CD</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -327,7 +414,7 @@
                     <code>C++,javascript,python,security</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -464,7 +551,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -541,7 +628,7 @@
                     <code>C,C#,unity,unity3D</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -685,7 +772,7 @@
                     <code>backend,frontend,fullstack,javascript</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -754,7 +841,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -2124,30 +2211,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div>We at Collabora are looking for Fullstack Web Application Developers to join our in-house Tools team.</div><div><br></div><div>The  Tools team develops and supports applications used by our colleagues to  execute, analyse and inform the delivery of projects in every area of  the business. We want to build the future of business automation in the free software domain.</div><div><br></div><div>As  a Senior Fullstack Developer you will be working closely with other  Tools Developers, users, Product Owners, the Delivery Team and People Leads to give them the tooling they need to support and protect the  unique way in which Collabora works.</div><div><br></div><div>You  will need to be a specialist in building secure, well-tested web  applications using Django, make sensible choices about UI and know how  to get things deployed.</div><div><br></div><div>You'll  be able to capture, simplify and model real-world processes and  structures, and keep those models updated as requirements evolve.</div><div><br></div><div>You will know how to reverse engineer and fix things you haven't seen before, and you will know how to make slow things go fast.</div></div><div class="section page-centered"><div><h3>You will be patient and pragmatic, careful and caring, and will take seriously the team's mission to maximise:</h3><ul class="posting-requirements plain-list"><ul><li>Engineers' freedom to work on things at which they are *excellent*</li><li>Our colleagues' headspace for personal development and learning</li><li>The role of open source in all business operations</li><li>The richness of everybody's cultural experience within Collabora</li></ul></ul></div></div><div class="section page-centered"><div><h3>In return, the business will provide:</h3><ul class="posting-requirements plain-list"><ul><li>An open engineering culture where you will be able to exchange ideas with technical experts in a wide range of software fields</li><li>Meetups and conference attendance (COVID permitting)</li><li>Flexible hours and a battle-tested remote working culture</li><div><br></div><div>If you care about open source and writing software to help companies regain control of their operations, then please apply!</div></ul></ul></div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li>Strong Python, Django, SQL, JavaScript, HTML, CSS</li><li>Experience designing and implementing web architectures, and configuring their components (e.g. NGinx, Redis)</li><li>Willingness to support and mentor other engineers</li><li>Experience solving challenges with observability and diagnostics</li><li>A respectful and pragmatic approach to providing technical support to users</li><li>A solid grounding in Linux system administration and networking concepts</li><li>Good English proficiency</li><li>Familiarity with container-based working, e.g. Docker or Podman, Kubernetes</li><li>Experience using, maintaining and designing CI and other DevOps processes</li><li>Experience with database schema design and optimisation</li><li>Willingness to occasionally do some PHP even if through gritted teeth</li><li>Demonstrable technical writing skills (documentation, blogs)</li><li>Knowledge of security- and privacy-by-design principles</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><b>About Collabora</b></div><div><br></div><div>Collabora  is a software consultancy specializing in bringing companies and the  Open Source community together. We combine years of Open Source software  leadership with an understanding of the challenges that businesses,  non-profits, and governments face.</div><div><br></div><div>Collabora  brings deep technical expertise in system integration &amp;  architecture, graphics, multimedia, web engines and communications to a  number of market verticals, including mobile, IVI/automotive, set top  box/smart TV, and a range of other specialized embedded applications.</div><div><br></div><div>Collabora  has the unique business model of enabling enterprises to leverage Open  Source software in their solutions. Having worked with notable industry  leading companies in the automotive, aerospace and handset mobile  verticals amongst many others, Collabora has established a broad customer portfolio.</div><div><br></div><div>#LI-Remote</div><div><br></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/d724930d-ce73-4415-ac7e-a3ef275db155/apply">Apply for this job</a></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Senior C Developer for popular open source projects - REMOTE/Work Anywhere</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/42BDB0E928" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We are looking to hire (3) C Developers, who will be part of our <a href="https://tuxcare.com/extended-lifecycle-support/" rel="nofollow noreferrer noopener" class="external">Extended Lifecycle</a> team. In this position you will, backport security fixes to stable, maintaining by our company versions of those projects. You will also work and contribute to major, open source projects like Apache HTTPD, OpenSSL, MySQL.</p><p>TuxCare is a Division of CloudLinux Inc., the maker of the #1 OS in security and stability for hosting providers. TuxCare provides a set of services to automate, simplify and enhance enterprise Linux operations. It reduces the management tasks and patch delay risks with live patching, completely bypassing the need for complex service migration orchestration even when you have high availability in place. For more information about TuxCare check out our website <a href="https://tuxcare.com" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com</a></p><p><strong>What you will do:</strong></p><ul> <li>Backport security and bug fixes from newer upstream versions or writing patches from scratch. </li> <li>Create reproducers and tests for vulnerabilities.</li> <li>Contribute to upstream projects</li> <li>Work on various open-source projects like Apache httpd, Python, OpenSSL, etc.</li> <li>Automation of routine processes like CVEs monitoring, patches applying and testing.</li> </ul><h3>Requirements: </h3><ul> <li>You have 5+ years of С programming experience</li> <li>You have GNU/Linux operating system and shell scripting experience  </li> <li>You have ability to work with various build systems like autotools, make and cmake</li> <li>You have experience with git-based development processes  </li> <li>Python or other scripting language knowledge will be a plus</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> </li> <li>Flexible working hours</li> <li>Paid 24 days of vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em>
                 </details>
                 </td>
             </tr></table>
