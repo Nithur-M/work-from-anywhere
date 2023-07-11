@@ -1,5 +1,70 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0098/7927/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Adblock, Inc.</h5>
+                    <h3> Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/adblock-inc-product-manager" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0098/7927/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> San Francisco, CA
+    <br /><strong>URL:</strong> <a href="https://getadblock.com">https://getadblock.com</a>
+</p>
+
+<div>Adblock, Inc. is a small team that serves tens of millions of people worldwide. Our vision is to provide our users with simple, intuitive tools to block distractions, protect their privacy, and put people in control of their internet experience </div><div><br></div><div>Our products—AdBlock, Adblock Plus, and AdBlock VPN—have been downloaded hundreds of million times and work in all major web browsers, as well as on macOS, iOS, Windows, and Android devices. </div><div><br></div><div>Our team has been fully remote since its inception, and we each work from whatever location works best for us. What unites us is a desire to make it easier and safer for our users to browse the web. </div><h1><strong>The Role</strong></h1><div>We're searching for a seasoned Product Manager to help us grow and innovate. In this role, you'll lead the development and upkeep of our core services. Your job will include building our user account system (also known as identity management system) and improving our backend platform to better serve the wide-ranging needs of our organization. </div><div><br></div><div>This role demands a solid grasp of how users interact with accounts, along with the ability to incorporate ongoing customer feedback and discover new opportunities. You'll work with teams from engineering, marketing, data analytics, and customer support to bring this vision to life. You'll also be identifying and integrating third-party technologies that could speed up our product roadmap. </div><div><br></div><div>Although this role is centered around core services, there's likely to be chances to work on other important projects in the future, like user-facing features that tackle user distraction, privacy, and security. </div><div><br></div><div><strong>What You’ll Do:</strong></div><ul>
+<li>
+<strong>User Account System Development:</strong> As a core responsibility, you will lead the enhancement of our user account system. This includes expanding the system's capabilities, improving user experience, and integrating user feedback into the system's design and functionality. This account system will play a vital role in the user experience, as it will facilitate, among other things, our ability to offer free and paid features to users in a tailored manner. </li>
+<li>
+<strong>Backend Platform Improvement: </strong>You'll work closely with our engineering team to optimize our backend platform. Your goal will be to ensure that the platform meets our organization's diverse needs and scales efficiently as we grow. This includes, for example, the platform’s ability to enable continuous improvement of our ad-filtering modules to stay ahead of the advertisers. </li>
+<li>
+<strong>Marketing Module:</strong> An important near-term improvement for the backend platform is the development of an internal tool that optimizes our understanding and communication with our users through in-product messaging. This exciting project involves establishing a system capable of delivering messages, promotions, and reports to our users at contextually relevant times while browsing the web. </li>
+<li>
+<strong>Cross-Functional Collaboration:</strong> In order to execute the company’s vision for the user account system and backend platform, you'll regularly work with teams across the organization, including engineering, marketing, data analytics, and customer support.</li>
+<li>
+<strong>Third-Party Technology Integration: </strong>You'll keep an eye out for third-party technologies that could accelerate our product roadmap. You'll assess these technologies for fit, oversee their integration into our systems if appropriate, and help manage any related partnerships or vendor relationships. This includes, for example, a determination about which cloud service to use for the user account system, as well as any turnkey integrations such as auth0 or Okta. </li>
+<li>
+<strong>KPI Tracking and Optimization: </strong>You will set and track key performance indicators related to your areas of responsibility, such as user account engagement and customer Net Promoter Score (NPS). You'll use these KPIs to make data-driven decisions and guide your strategy.</li>
+<li>
+<strong>Adaptability and Forward Thinking: </strong>Your role may evolve beyond core services, offering opportunities to contribute to diverse projects. This requires a dynamic mindset and the ability to pivot. Whether it's crafting user-facing features that address distraction, privacy, and security, or identifying new areas of innovation, your agility and creative foresight will be instrumental in propelling Adblock's product evolution into the future.</li>
+</ul><div><br></div><div>
+<strong>You Have:<br></strong><br>
+</div><div>• 3+ years of product management experience, ideally (but not required) with some time spent on identity management and backend work.</div><div>• Experience with market research to understand user needs and industry trends.</div><div>• Demonstrable knowledge of product management methodologies and tools, like Scrum, Agile, and others.</div><div>• Ability to create product roadmaps and set realistic timelines.</div><div>• A deep understanding of customer journey mapping to improve user experience.</div><div>• Experience successfully launching software products (ideally consumer-facing products, but not required) and features with marketing, design, and engineering teams.</div><div>• Excellent written, verbal, and interpersonal communication skills.</div><div>• A proven track record of turning user feedback, customer conversations, and survey results into product features that users love.</div><div>• Analytical thinking, curiosity, and problem-solving skills.<br><br><strong>What You Can Expect:<br></strong><br>
+</div><div>• <strong><em>In your first month</em></strong>, you'll get familiar with our product suite and users. You'll start building relationships with team members across the company and begin working on a strategy for our core services.</div><div>• <strong><em>By your third month</em></strong>, you should have made significant progress on our user account system and be working with the engineering team to meet our platform-related needs.</div><div>•<strong><em>By month six</em></strong>, the user account system you've been developing will be noticeably enhanced, directly addressing user challenges and opportunities. Having helped establish a robust backend platform, you'll be set to explore further enhancements to our core services, always keeping user needs at the forefront. </div><div>•<strong><em>After you’ve been here for a year</em></strong>, your contributions will have significantly improved our core services, with a robust, user-friendly user account system and a versatile backend platform. You will have effectively integrated key third-party technologies, accelerating our development cycles and boosting product capabilities. Your continued leadership and innovation will play a vital role in guiding the future evolution of Adblock's product line.</div><h1><strong>Why You'll Love Adblock, Inc.:</strong></h1><ul>
+<li>
+<strong>Competitive Salary: </strong>Our salaries are based on Radford data, a widely-used global compensation benchmark, to ensure we provide competitive pay. We don’t adjust your salary based on where you live.</li>
+<li>
+<strong>Comprehensive Benefits: </strong>We offer a benefits package that includes medical and dental insurance coverage*, 401K matching*, 14 weeks of paid parental leave, and more.</li>
+<li>
+<strong>Professional Growth: </strong>We give team members the autonomy to do their best work. Because we’re a small team, you’ll be able to immediately see the impact of your work and grow with the team. We also support professional development with training, coaching, and regular feedback.</li>
+<li>
+<strong>Fully Distributed Community: </strong>You’ll be able to work 100% remotely, yet remain well-connected to your colleagues. We meet at least once a year for a week-long offsite.</li>
+<li>
+<strong>Generous Vacation Policy: </strong>We encourage our employees to take the time they need for a vacation, to spend time with their families, and to stay healthy by offering a minimum of 28 days of paid leave.</li>
+<li>
+<strong>Office Equipment: </strong>We’ll provide you with a setup of your choice, based on what you need to work effectively.</li>
+</ul><div><em>*Healthcare and retirement plan offerings vary by country; the plans listed here are specific to employees living in the US</em></div><h1><strong>We’d Love to Work With You!</strong></h1><div>We’re serious about our work but we don’t take ourselves too seriously. We want Adblock, Inc. to be a place where people love their work, like their co-workers, and treat everyone with respect and empathy.</div><div><br></div><div>We’re a small team and our strength comes from our diversity. We strive to create an inclusive environment where differences in race, sexual orientation, gender identity or expression, political and religious affiliation, socioeconomic background, cultural background, geographic location, disabilities and abilities, relationship status, veteran status, and age only make us stronger.</div><h1><strong>How to Apply</strong></h1><div>If this role sounds exciting to you, please click “Apply for this position” to submit your resume and cover letter. Please be sure to tell us what you find exciting about this role and why you’d like to work with us!</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/adblock-inc-product-manager">https://weworkremotely.com/remote-jobs/adblock-inc-product-manager</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +75,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>607 days ago</text>
+                <text>608 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -315,13 +380,13 @@
 <ul>
 <li>[30m]<a href="https://handbook.sourcegraph.com/departments/product-engineering/product/roles/interviews/initial_screen">&nbsp;Recruiter Screen</a>&nbsp;</li>
 <li>[60m]<a href="https://handbook.sourcegraph.com/departments/product-engineering/product/roles/interviews/hm_intro_call">&nbsp;Hiring Manager Screen</a></li>
+<li>[60m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive">Resume Deep Dive</a></li>
 </ul>
 <p><strong>🧑‍💻 Team Interview Stage</strong>&nbsp;- we then delve into your experience in more depth and introduce you to members of the team…</p>
 <ul>
 <li>[1hr]<a href="https://handbook.sourcegraph.com/departments/product-engineering/product/roles/interviews/product_manager/pm_rfc_project">&nbsp;Async - RFC Assignment</a></li>
-<li>[1hr]<a href="https://handbook.sourcegraph.com/departments/talent/process/types_of_interviews/#product-interview">&nbsp;Product Interview</a></li>
-<li>[30m]<a href="https://handbook.sourcegraph.com/departments/talent/process/types_of_interviews/#engineering-collaboration">&nbsp;Engineering Collaboration</a></li>
-<li>[1hr]<a href="https://handbook.sourcegraph.com/departments/talent/process/types_of_interviews#resume-deep-dive">&nbsp;Resume Deep Dive</a></li>
+<li>[1hr] Assignment Review - Rob Rhyne &amp; Taylor Sperry</li>
+<li>[30m]<a href="https://handbook.sourcegraph.com/departments/talent/process/types_of_interviews/#engineering-collaboration">&nbsp;Engineering Collaboration</a> - Thorsten Ball &amp; Erika Rice Scherpelz</li>
 </ul>
 <p><strong>🎉 Final Interview Stage&nbsp;</strong>- we move you to our final round, where you meet cross-functional partners and gain a better understanding of our business and values holistically…</p>
 <ul>
