@@ -1,46 +1,5 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0098/7609/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Mathspace</h5>
-                    <h3> Senior UI Software Engineer (React)</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/mathspace-senior-ui-software-engineer-react-6" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0098/7609/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Sydney, New South Wales, Australia
-    <br /><strong>URL:</strong> <a href="https://mathspace.co">https://mathspace.co</a>
-</p>
-
-<p>Mathspace is on a mission to change maths education, by helping students and teachers with smarter, interactive learning software.</p>
-<p>We're an agile run, product-orientated company that focuses on delivering value through continual customer feedback, enabling students and teachers to have a delightful experience through learning mathematics.</p>
-<p>As an engineer working on a cross-functional product team, you will:</p>
-<ul> <li>Enrich the Mathspace web and mobile apps that help teach hundreds of thousands of students every month across the world</li> <li>Work closely with product owners and designers in their product discovery efforts</li> <li>Collaborate with fellow engineers to deliver meaningful value to students and teachers</li> <li>Tackle difficult problems, solve them creatively, and learn continuously</li> <li>Play an active role, taking the initiative to get things done</li> <li>Learn, develop and extend our <a href="https://stackshare.io/mathspace/mathspace" class="external">tech stack</a> </li> </ul>
-<p><strong>Requirements</strong></p>
-<ul> <li>Strong software engineering ability</li> <li>Effective communication skills</li> <li>Knowledge of JavaScript</li> <li>Knowledge of React</li> <li>Enthusiastic about quality, design and user experience</li> <li>Dedicated to learning and sharing new ideas</li> <li>Industry experience in web products</li> </ul>
-<p><strong>Benefits</strong></p>
-<ul> <li>Competitive salary</li> <li>We provide necessary equipment: MacBook Pro &amp; monitors</li> <li>We have a highly flexible remote work policy (need some timezone overlap with Sydney)</li> <li>We offer a yearly stipend for training &amp; education expenses</li> <li>We partner with pledge1percent.org to donate 1% of time, product and profit to help nonprofits in our community</li> <li>We will offer you 2.5 paid days per year to volunteer with the charity of your choice</li> </ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/mathspace-senior-ui-software-engineer-react-6">https://weworkremotely.com/remote-jobs/mathspace-senior-ui-software-engineer-react-6</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -51,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>169 days ago</text>
+                <text>170 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -107,7 +66,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>272 days ago</text>
+                <text>273 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer" align="right" target="_blank">Apply</a>
