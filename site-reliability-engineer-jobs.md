@@ -1,5 +1,83 @@
 <div align="center"><h2>SITE RELIABILITY ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0098/8066/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>ShipHero</h5>
+                    <h3> Senior Site Reliability Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/shiphero-senior-site-reliability-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0098/8066/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> New York
+    <br /><strong>URL:</strong> <a href="https://shiphero.com">https://shiphero.com</a>
+</p>
+
+<div>Hello. We are ShipHero <a href="https://shiphero.com/">(https://shiphero.com)</a>. We have built a software platform entrusted by hundreds of eCommerce companies, large and small to run their operations and we continue to grow. About US$5 billion of eCommerce orders are shipped a year via ShipHero. Our customers sell on Shopify, Amazon, Etsy, eBay, WooCommerce, BigCommerce, and many other platforms. We’re driven to help our customers grow their businesses by providing a platform that solves complex problems, and is engineered to be reliable and fast. We are obsessed with building great technology, that is beautiful, easy to use, and is loved by our customers. Our culture also reflects our ethos and belief that by bringing passionate, talented, and great people together - you can do great things.<br><br>
+</div><div>Our team is fully remote, the company has always been remote. We communicate regularly using video chat and Slack and put a strong emphasis on asynchronous work so people have large chunks of uninterrupted time to focus and do deep work.<br><br>
+</div><div>We are seeking an experienced Site Reliability Engineer to join our growing team. We are looking for someone with a recent track record of building and maintaining complex infrastructure within AWS (Amazon Web Services). You would be a fundamental team member, focusing on building a solid foundation for the platform. We seek excited and driven people to continue growing with the experience of working with talented engineers and helping others improve.<strong><br><br></strong><br>
+</div><div>
+<strong>About You<br></strong><br>
+</div><ul>
+<li>You understand that great things are accomplished when people and teams work together.</li>
+<li>You feel comfortable owning processes and tools for deploying to production and scaling.</li>
+<li>You understand modern web architectures and tiers.</li>
+<li>You have a solid understanding of security best practices.</li>
+<li>You take pride in your craft.</li>
+<li>You have made (a lot of) mistakes and, most importantly, have learned from them.</li>
+<li>You are comfortable and even enjoy mentoring others in different skill sets.</li>
+<li>You have worked on medium and large projects that have gone to production and lived there for a while.</li>
+<li>You have a passion for automating, developing, and improving complex workflows.</li>
+<li>You have strong scripting skills</li>
+</ul><div>
+<strong>Tech Knowledge<br></strong><br>
+</div><div>We are looking for 6+ years of production experience with AWS and:<br><br>
+</div><ul>
+<li>Aurora RDS (MySQL), Lambda, S3, SQS (Simple Queue Service).</li>
+<li>Practical application with Infrastructure and Application Monitoring (We use Sentry, Honeycomb, and CloudWatch).</li>
+<li>Comfortable debugging running applications for memory leaks, CPU, and usage, especially under Apache, mod_wsgi, Nginx, and Gunicorn.</li>
+<li>Broad knowledge of AWS cloud security (AWS Inspector, Guard Duty. WAF &amp; Security Hub), infrastructure-as-code.</li>
+<li>The skills to write infrastructure-as-code and automate routine activities.</li>
+<li>A record of working with distributed teams across an organization to achieve goals.</li>
+<li>Python (preferably 3.6+).</li>
+<li>Terraform including authoring modules.</li>
+<li>Docker and building images including multi-stage with secrets</li>
+<li>CI/CD automation (we use GitHub Action, AWS CodeBuild, and CodePipeline)</li>
+</ul><div>
+<strong>The Role<br></strong><br>
+</div><div>Provide hands-on configuration, setup &amp; maintenance of our development, and production environments.<br><br>
+</div><div>Collaborate with other teams on monitoring &amp; debugging solutions.<br><br>
+</div><div>Developing, automating, and operating our cloud infrastructure platform.<br><br>
+</div><div>Respond to incidents, ensuring the restoration of services when required.<br><br>
+</div><div>Contribute to the team's backlog of activities.<br><br>
+</div><div>Be part of on-call support.<br><br>
+</div><div>Automate yourself and others out of everyday tasks.<br><br>
+</div><div>Ability to estimate effort and ship on an agreed schedule. Comfortable pushing yourself and your team members when challenges pop up.<br><br>
+</div><div>Learn and push those around you to do the same – this is a craft that you're constantly improving upon.<br><br>
+</div><div>Implement solutions that are pragmatic to get the platform built.<br><br>
+</div><div>Have the confidence to work with experienced and talented people to build great things; you are not a 'rock star' but a team player that takes the initiative.<br><br>
+</div><div>We want everyone to be self-sufficient and firmly believe how we collaborate &amp; communicate is of significant importance. Here is a glimpse of how we roll: <a href="https://shiphero.com/careers/communication-guidelines/">https://shiphero.com/careers/communication-guidelines/<br></a><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/shiphero-senior-site-reliability-engineer">https://weworkremotely.com/remote-jobs/shiphero-senior-site-reliability-engineer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1387074696831672327/C7WTpiAb_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -206,30 +284,6 @@
 <p>#LI-remote&nbsp;</p>
 <p>Requisition ID: 263</p><p></p>
     
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1382655628523364355/MWPIbbID_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CoverGo</h5>
-                    <h3>Site Reliability Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/covergo/j/EFD9EC2547" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Top 3 Reasons To Join Us</strong></p><ul> <li>Competitive Salary</li> <li>100% Globally Remote</li> <li>Working on the latest tech for the Insurtech Market Leader</li> </ul><p><strong>About Us</strong></p><p>At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.</p><ul> <li>We are a leading global no-code insurance platform for health, life, and P&amp;C</li> <li>We’re the winner of the Insurtech of the Year in all of Asia and other awards globally</li> <li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more</li> <li>We're an international, diverse team of over 120 people with 30 nationalities and team members working remotely from all over the world</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors</li> <li>We have offices in the US, Singapore, Hong Kong, UAE and Vietnam</li> <li>We’ve grown our annualized revenue by over 30x since January 2021</li> <li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world</li> </ul><p><strong>What You Will Do</strong></p><p>Site Reliability Engineering (SRE) combines software and systems engineering to build and run large-scale, massively distributed, fault-tolerant systems. As an SRE at Covergo you will help to ensure that our internal and external services are reliable, available, and improving at a rapid pace. You will write code, mainly to build optimized infrastructure and eliminate manual labor through automation.</p><p>In this role, you'll have the opportunity to manage complex distributed systems that must be able to automatically adapt to different deployment models and the ever-growing needs of our customers, while using your expertise in coding, algorithms, and system design.</p><p><strong>What We Need</strong></p><ul> <li>Bachelor's degree in Computer Science, a related technical field, or equivalent practical experience</li> <li>Experience programming in one or more of the following: C, C++, Java, Python, Go, etc.</li> <li>Experience with Unix/Linux operating systems internals (e.g. filesystems, system calls), and with networking (e.g. routing, DNS, SDN) or cloud systems</li> <li>Experience analyzing and troubleshooting systems</li> </ul><p><strong>Preferred Qualifications</strong></p><ul> <li>Experience designing distributed systems</li> <li>Experience designing and developing software oriented towards systems or network automation</li> <li>Ability to debug, optimize code, and automate routine tasks</li> <li>Ability to learn new technologies, system architectures on your own</li> <li>Systematic problem-solving approach, coupled with effective communication skills and a sense of drive</li> <li>Strong understanding of self-service in IT companies</li> <li>Innovative mindset, help us to shape the future of Covergo with your own ideas</li> </ul><p><strong>Some Techs You'll Work With</strong></p><ul> <li> <strong>Kubernetes:</strong> Deployments, Custom Kubernetes Controllers</li> <li> <strong>Clouds:</strong> AWS, GCP, Alicloud, Azure</li> <li> <strong>Infrastructure-as-code:</strong> Terraform, Ansible</li> <li> <strong>Observability:</strong> Tempo, Loki, Prometheus and more</li> <li> <strong>CI/CD:</strong> Github actions, FluxCD</li> <li> <strong>Automation:</strong> Go, bash</li> <li>... the sky is the limit, surprise us with your ideas</li> </ul><p><strong>Why You'll Love Working Here</strong></p><ul> <li>Full-remote employment, work from anywhere and/or from one of our physical offices in Vietnam, Singapore or Hong Kong occasionally</li> <li>Local time zone office hours, work by your schedule</li> <li>Paid annual leaves</li> <li>Employee stock options</li> <li>Performance bonus</li> <li>Company activities &amp; team offsites to exotic locations</li> <li>Training and development plan</li> </ul><p><strong>CoverGo Company </strong><a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"><strong>Video</strong></a></p><h3>Requirements: </h3><h3>Benefits: </h3>
                 </details>
                 </td>
             </tr></table>
