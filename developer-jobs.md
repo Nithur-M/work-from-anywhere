@@ -1,5 +1,120 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/8312/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>XM</h5>
+                    <h3> Modern C++ Software Developer – Remote</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0066/8312/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Cyprus
+    <br /><strong>URL:</strong> <a href="https://bit.ly/3Yljr8s">https://bit.ly/3Yljr8s</a>
+</p>
+
+<div>
+<strong>Modern C++ Software Developer – Remote<br></strong><br>
+</div><div>
+<strong>Reference Number: CSD1022<br></strong><br>
+</div><div><br></div><div>
+<strong>The Role: <br></strong><br>
+</div><div>We are looking for a Modern C++ Software Developer to join our software development team.  You will be working on internal software related to trading financial products; monitoring tools; alerting and reporting. You will have the opportunity to offer your ideas, suggestions, and designs to help the team improve their quality of work. The team strives to write clean, decoupled, and testable code with a clear separation of components and responsibilities.<br><br>
+</div><div><br></div><div>
+<strong>The key responsibilities of the role include:<br></strong><br>
+</div><div>●       Develop standalone applications and plug-ins in C++ 17</div><div>●       Use libraries such as Boost.Asio for asynchronous TCP sockets</div><div>●       Write unit-tests, end-to-end tests and stress testing</div><div>●       Communicate with the team to identify business requirements</div><div>●       Understand business requirements and develop systems/features to meet them</div><div>●       Develop code in accordance with the system design and coding standards with minimal supervision</div><div>●       Review the code of associate developers<br><br>
+</div><div><strong> </strong></div><div><strong>Main requirements:</strong></div><div> </div><div>●       BSc/MSc in computer science, computer engineering or a related subject</div><div>●       Experience in any object-oriented language either in a professional environment or on personal projects</div><div>●       Strong knowledge and an active interest in object-oriented principles, practices and design patterns</div><div>●       Willingness to work with and learn modern C++, asynchronous programming and unit-testing</div><div>●       Excellent problem solving and troubleshooting skills</div><div>●       Knowledge of any of the following will be a plus: unit-testing, UML design,Boost.Asio, FIX protocol,         MetaTrader API, asynchronous programming, profiling</div><div>●       Outstanding communication and interpersonal skills, including the ability to describe software designs at all technical knowledge levels</div><div>●       Self-starter with a passion for coding, tinkering, reading, exploring and breaking things</div><div>●       Very good written and verbal skills in English<br><br>
+</div><div> </div><div>
+<strong>Benefit from:<br></strong><br>
+</div><div>●       Attractive remuneration package plus performance related reward</div><div>●       Intellectually stimulating work environment</div><div>●       Continuous personal development and international training opportunities<br><br>
+</div><div>
+<br>Type of employment: Full time<br><br>
+</div><div>
+<br>Location: Remote<br><br>
+</div><div>Please visit https://bit.ly/3Yljr8s to submit your online application for this position.<br><br>
+</div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2">https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>XM</h5>
+                    <h3> Senior PHP Web Developers– Cyprus, Greece or Remote</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Cyprus, Greece or Remote
+    <br /><strong>URL:</strong> <a href="https://xm.com">https://xm.com</a>
+</p>
+
+<div>
+<strong>Reference Number: SPHPWD1021<br></strong><br>
+</div><div>
+<strong> <br></strong><br>
+</div><div>
+<strong>The role:<br></strong><br>
+</div><div>As our new Senior PHP Developer, you will join an amazing team who is dedicated to taking the next step in software engineering. You will make key decisions on software processes, and use Kubernetes and Terraform on PHP, Go, React &amp; Angular on AWS. The team will keep you up-to-date with the latest technology stacks and processes and help you see challenging projects from beginning to end.<br><br>
+</div><div> <br><br>
+</div><div>
+<strong>The main responsibilities of the role include:<br></strong><br>
+</div><div>●        Design and implement new features/projects</div><div>●        Maintain and refactor existing web applications such as the company's website, registration forms, Members Area and internal web services</div><div>●        Research and integrate new web technologies</div><div>●        Write tests that will run on a continuous integration server 24/7 to ensure code testability, code coverage and quality conforms to the company’s highest standards</div><div>●        Resolve support tickets for IT related issues</div><div>
+<strong> <br></strong><br>
+</div><div>
+<strong>Main requirements:<br></strong><br>
+</div><div>●        BSc/MSc in information technology or any other relevant degree</div><div>●        At least 3 years of experience in a similar position</div><div>●        Very good knowledge of PHP 7+, MySQL, Redis, Git</div><div>●        Very good understanding of object-oriented programming principles</div><div>●        Experience in creating and consuming web services</div><div>●        Experience with modern PHP frameworks</div><div>●        Experience in writing tests with PHPUnit</div><div>●        Ability to research and adapt new web technologies that add value to the team</div><div>●        Strong organisational skills with the ability to multitask and prioritise</div><div>●        Problem solving and analytical skills</div><div>●        Ability to work independently and integrate well within a team</div><div>
+<strong> <br></strong><br>
+</div><div>
+<strong>The following will be considered an advantage:<br></strong><br>
+</div><div>●        Experience in Symfony framework</div><div>●        Experience in the development of REST APIs</div><div>●        Experience in software development practices like design patterns, SOLID principles, DRY</div><div>●        Very good understanding of security practices (OWASP)</div><div>●        Experience with cloud providers (e.g. AWS)</div><div>●        Experience in database query optimization</div><div>●        Experience in creating composer packages</div><div>●        Experience in front-end frameworks or libraries like Angular or React</div><div>
+<strong> <br></strong><br>
+</div><div>
+<strong>Benefit from:<br></strong><br>
+</div><div>●        Attractive remuneration package </div><div>●        Private health insurance</div><div>●        Food allowance</div><div>●        Intellectually stimulating work environment</div><div>●        Continuous personal development and international training opportunities</div><div> </div><div>
+<br>Type of employment: Full time<br><br>
+</div><div>
+<br>Location: Cyprus, Greece or Remote <br><br>
+</div><div>
+<br> <br><br>
+</div><div>Please visit our website <a href="http://www.xm.com/careers">www.xm.com/careers</a> to submit your online application for this position. </div><div> </div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2">https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0098/8039/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +125,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/on-the-map-wordpress-developer" align="right" target="_blank">Apply</a>
@@ -62,7 +177,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/motorlot-ruby-on-rails-developer-fast-growing-auto-software-company" align="right" target="_blank">Apply</a>
@@ -87,79 +202,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/3940/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Better Proposals</h5>
-                    <h3> PHP Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>11 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/better-proposals-php-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/3940/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Brighton, UK
-    <br /><strong>URL:</strong> <a href="https://betterproposals.io/">https://betterproposals.io/</a>
-</p>
-
-<div>Over the last 6 years Better Proposals has grown from a simple idea for an internal tool into one of the “big 4” in the proposal space. Continual growth on a month-by-month basis is always the goal but doing it by continually innovating, creating new things and making our customers happy. <br> <br><strong>Are you “the one”?<br></strong> <br>We are looking for multiple talented and enthusiastic PHP developers, with varying levels of skill, to join our experienced product team. We are ideally looking for "full stack" developers but "front-end" and "back-end" developers who are keen to learn should also speak to us. You will be contributing to improving the product by working on new features and improving existing ones. <br> <br>Better Proposals is one of the world’s leading proposal tools, which helps businesses send web-based, high-converting business proposals, contracts and other types of documents. By sending trackable, modern documents with the ability to sign and pay online, our software helps sales representatives win more clients and get paid faster. <br> <br>With 10,000+ users around the globe, we’re just getting started. <br> <br><strong>A day in the life of a Better Proposals developer<br></strong> <br>Typically you’ll be working on new features for the Better Proposals product. Be that planning it out, investigating possibilities, straight coding or working with our CTO to launch the feature without issues. Perhaps there’s a bug or issue with the product and we need to make a quick change - you’ll be expected after a while to know where to look, make the change and push it live without a problem. <br> <br>In this role, you will be responsible for coding, testing, modifying, and implementing new or existing features for the product. Your duties will include liaising with the CTO, writing clean, scalable code, following testing protocols, fixing bugs, and deploying updates. <br> <br><strong>What you’ll do</strong>
-</div><ul>
-<li>Assisting with all aspects of coding and some feature planning.</li>
-<li>Attending and contributing to company development meetings.</li>
-<li>Learning the codebase and improving your coding skills. </li>
-<li>Writing and maintaining code. </li>
-<li>Working on minor bug fixes. </li>
-<li>Monitoring the ongoing security around the product. </li>
-<li>Considering ongoing updates and improvements to our tech stack. </li>
-</ul><div>
-<br><strong>Benefits</strong><br><br>
-</div><ul>
-<li>Working on various development tasks across different areas of our SaaS business.</li>
-<li>Remote work in a global company, with a friendly and hard working team. </li>
-<li>Opportunity to grow within the company, head up departments and earn promotions and pay rises. </li>
-<li>Flexible working hours </li>
-<li>Salary dependent on skills and experience </li>
-<li>No work on your birthday </li>
-<li>3 weeks holiday + 1 week for every year (capped at 6 weeks). </li>
-<li>Sizeable annual bonus based on personal performance and company performance </li>
-</ul><div>
-<br><strong>Requirements</strong> <br><br>
-</div><ul>
-<li>In-depth knowledge of PHP,  Javascript and MySQL. </li>
-<li>Working knowledge of front-end technologies including HTML5 and CSS3. </li>
-<li>Good experience with Git. </li>
-<li>Prior experience with AWS infrastructure is a bonus. </li>
-<li>Excellent knowledge and experience around debugging. </li>
-<li>Ideally, you have experience working in SaaS before but not essential. </li>
-<li>Ability to learn new software and technologies quickly. </li>
-<li>Detail-orientated and excellent problem solving skills. </li>
-<li>Ability to work to deadlines and estimate timeframes accurately. </li>
-</ul><div> <br><strong>Next steps </strong><br>  <br>Assuming everything goes well, here’s how our hiring process goes: </div><ul>
-<li>You apply </li>
-<li>We have an initial interview </li>
-<li>We will have a 2nd interview </li>
-<li>We will conduct a test task to analyse your skill level. </li>
-<li>We offer you the job </li>
-<li>You’re expected to accept it within 1 business day.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/better-proposals-php-developer">https://weworkremotely.com/remote-jobs/better-proposals-php-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/3228/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -170,7 +212,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>99 days ago</text>
+                <text>100 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -243,90 +285,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior Ruby on Rails Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>131 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div><strong>The Role:</strong></div><div>
-<br>We are searching for a Senior Ruby on Rails Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
-<br><br>
-</div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
-<li>You have +3 years of experience with Ruby on Rails;</li>
-<li>You have experience working with the libraries like Resque and RSpec;</li>
-<li>You are able to write clean Ruby code;</li>
-<li>You have proficiency with code versioning tools including Git, Github, SVN, and Mercurial;</li>
-<li>You got experience with Angular or ReactJS;</li>
-<li>You are familiar with MVC, Mocking, RESTful, and ORM;</li>
-<li>You have a good understanding of front-end technologies including HTML5, JavaScript, and CSS3;</li>
-<li>You possess knowledge of server-side templating languages including Slim and Liquid;</li>
-<li>You got familiar with testing tools.</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>Nice-to-have:</strong> <br><br>
-</div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Knowledge of TypeScript.</li>
-</ul><div><br></div><div>
-<strong>Responsibilities:<br></strong><br>
-</div><ul>
-<li>Designing and developing new web applications;</li>
-<li>Maintaining and troubleshooting existing web applications;</li>
-<li>Writing and maintaining reliable Ruby code;</li>
-<li>Integrating data storage solutions;</li>
-<li>Creating back-end components;</li>
-<li>Identifying and fixing bottlenecks and bugs;</li>
-<li>Integrating user-facing elements designed by the front-end team;</li>
-<li>Connecting applications with additional web servers;</li>
-<li>Maintaining the APIs.</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
-<br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of the Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul><div>
-<br><strong>Salary Range: </strong>€3,200  - €6,400 per month<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1383531/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -337,7 +295,7 @@
                     <code>UI/UX,CI/CD</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -414,7 +372,7 @@
                     <code>C++,javascript,python,security</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -551,7 +509,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -628,7 +586,7 @@
                     <code>C,C#,unity,unity3D</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -772,7 +730,7 @@
                     <code>backend,frontend,fullstack,javascript</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -827,81 +785,6 @@
 <p>Save your time: Fast and efficient hiring process to match you with the project of your preference.</p>
 <p>Ownership: Take ownership of your work and enjoy more freedom in your career.</p>
 <img src="https://remotive.com/job/track/1359476/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1680495/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Coalition Technologies </h5>
-                    <h3>Front End Developer</h3>
-                </td>
-                <td width="300">
-                    <code>CSS,excel,frontend,git</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="h3">WHY YOU SHOULD APPLY:</div>
-<p> </p>
-<p>Coalition Technologies is devoted to delivering clients the highest quality work while providing our team a fun, thriving, and innovative environment. Along with the opportunity for tremendous career growth and rapid advancement, CT offers:</p>
-<ul style="">
-<li style="">The most competitive profit-sharing bonus plan in the industry, paying up to 50% of company profits to full-time employees each month!</li>
-<li style="">A highly competitive Paid Time Off plan, promoting quality work-life balance.</li>
-<li style="">Subsidized gym memberships to help team members feel their best.</li>
-<li style="">Medical, dental, vision, and life insurance packages for all US-based team members.</li>
-<li style="">International Health Insurance Reimbursement Program for all international team members, a benefit unique to Coalition.</li>
-<li style="">Device upgrade and learning reimbursement programs.</li>
-<li style="">Motivating career development plans with clearly defined goals and rewards.</li>
-<li style="">Additional job-specific incentives and bonuses.</li>
-</ul>
-<p>Plus, 100% of our team works remotely with the support of time tracking software. Our company culture specializes in supporting remote team members, and we’ve been doing so for more than a decade. CT welcomes your application, wherever in the world it's coming from!</p>
-<div class="h3"> </div>
-<div class="h3">YOU SHOULD HAVE:</div>
-<p> </p>
-<ul style="">
-<li style="">An expertise in HTML5, CSS3 and jQuery</li>
-<li style="">A thorough understanding of cross-browser compatibility issues</li>
-<li style="">Experience with media queries</li>
-<li style="">A knowledge of CSS platforms such as Twitter’s Bootstrap</li>
-<li style="">An ability to multi-task on multiple projects and tasks at the same time</li>
-<li style="">Great attention to detail and be highly organized</li>
-<li style="">A positive and upbeat attitude with the ability to learn quickly</li>
-<li style="">Proficiency in PHP/MYSQL and AJAX (preferred)</li>
-<li style="">Experience with WordPress, BigCommerce, Magento, and Shopify (preferred)</li>
-<li style="">Excellent written and spoken English</li>
-<li style="">The availability to work 40 hours per week from 9:00 am to 6:00 pm PST</li>
-<li style="">The ability to adapt to a diverse and multicultural environment</li>
-<li style="">Passion to build a startup</li>
-<li style="">Reliable transportation if working in-house</li>
-<li style="">A reliable workstation with a fast computer, microphone and speakers, reliable internet and power if working remotely</li>
-</ul>
-<div class="h3"> </div>
-<div class="h3">YOUR DUTIES AND TASKS:</div>
-<p> </p>
-<ul style="">
-<li style="">Transforming complex layout PSDs into pixel-perfect presentation-layer HTML5/CSS3 templates</li>
-<li style="">Creating responsive website designs</li>
-<li style="">Building websites with WordPress, extending and developing plugins and themes</li>
-<li style="">Working with Photoshop, Illustrator, and Fireworks to create images optimized for the web</li>
-<li style="">Working with version control systems such as GIT / SVN</li>
-<li style="">Working under tight deadlines</li>
-<li style="">Handling multiple projects at the same time</li>
-<li style="">Producing high quality of work with a strong focus on detail</li>
-</ul>
-<div class="h5"> </div>
-<div class="h5">We are looking for talented and diligent candidates who excel in our skills tests, and will consider these candidates even if past experience or educational background criteria aren't met.</div>
-<p> </p>
-<p>*Starting base pay in the US states of California, New York, Washington and Colorado for this position ranges between $15 - $35 per hour</p>
-<img src="https://remotive.com/job/track/1680495/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
