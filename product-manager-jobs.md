@@ -171,7 +171,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>609 days ago</text>
+                <text>610 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
