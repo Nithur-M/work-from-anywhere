@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>171 days ago</text>
+                <text>172 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -66,7 +66,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>274 days ago</text>
+                <text>275 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer" align="right" target="_blank">Apply</a>
@@ -665,7 +665,7 @@
 <p>We are building Waku as a public good infrastructure. Waku is the messaging layer of Web3. It is a decentralized, censorship-resistant, privacy-preserving communication network that enables anyone to send and receive messages without worrying about surveillance or deplatforming. We are developing 3 open source implementations of Waku: nwaku, go-waku and js-waku. JS-Waku is the TypeScript implementation used in browser and web environments.</p>
 <p>Our main repo is https://github.com/waku-org/js-waku</p>
 <p>We are enabling Ethereum builders to create new projects with a fully decentralized architecture, think dApp to Wallet notifications, NFT marketplaces, censorship-resistant chat, layer-2 and more.</p>
-<p>We are looking for Software Engineers that are passionate about Ethereum, decentralization and developer experience. and who would relish the opportunity to create a first class decentralized machine-to-machine messaging interface and toolkit and bring these new capabilities to Web3 developers!</p>
+<p>We are looking for Software Engineers that are into the Ethereum ecosystem, decentralization and developer experience and who would relish the opportunity to create a first class decentralized machine-to-machine messaging interface and toolkit and bring these new capabilities to Web3 developers!</p>
 <h4>You will:&nbsp;</h4>
 <ul>
 <li>Design, implement and document Waku TypeScript libraries</li>
@@ -767,6 +767,75 @@
 <p>Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, “the world’s best free software platform”. Our services help businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.</p>
 <p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your<a href="https://canonical.com/careers/diversity/identity"> identity</a>, we will give your application fair consideration.</em></p>
 <p>#LI-Remote&nbsp;</p><p>Requisition ID: 967</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Linux Server Software Engineering Manager</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/4279483" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>The Partner Engineering team works with the leading silicon companies to optimise Ubuntu to get the most from each new chip. Our goal is to collaborate with specialist engineers from our partners to integrate next-generation features and performance enhancements for upcoming hardware, while also ensure a common operating experience for their users.</p>
+<p>This role is a fast-paced, problem-solving role that’s challenging yet very exciting. The right candidate must be resourceful, articulate, and able to deliver on a wide variety of solutions across server and data center technologies.&nbsp;</p>
+<p>As a Partner Engineering Manager at Canonical you will lead an engineering team that works across the full Linux server stack from kernel to AI workloads, to optimise Ubuntu for the latest silicon. You will manage relationships with our key technology partners by ensuring timely delivery on agreed project milestones.&nbsp;</p>
+<p>As a lead for strong engineers, technical leadership and a solid background in software engineering is a must, so that you’re able to challenge and grow your team members. Code reviews and architectural leadership are part of the job. As manager, the commitment to healthy engineering practices, documentation, quality and performance optimisation are equally important technical responsibilities, as is the requirement for fair and clear management, and the obligation to ensure a high performing team. You will have the opportunity to influence the culture, facilitate technical delivery, and work with your team on strategy and execution.</p>
+<p><strong>Location:</strong> <em>This is a Globally remote role</em></p>
+<h2>What your day will look like</h2>
+<ul>
+<li>Lead a team of distributed engineers to design and implement the best Ubuntu integration for the latest server-class hardware platforms and software stacks</li>
+<li>Engage with commercial partners to deliver a delightful, optimised, first class Ubuntu experience on their platforms</li>
+<li>Develop your team through coaching, mentoring, leading by example, and feedback</li>
+<li>Oversee commercial engagements and support timely delivery on agreed project milestones</li>
+<li>Ensure an ongoing commitment to strict quality and reliability standards</li>
+<li>Engage with other teams at Canonical to ensure alignment on product architecture and roadmaps</li>
+<li>Work from home with global travel up to twice a year for up to two weeks</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<ul>
+<li>Proven track record in technical roles with Linux, preferably Ubuntu or Debian</li>
+<li>High quality software engineering with in-depth knowledge of C/C++ and Python</li>
+<li>Experience with one or more of: Ubuntu - kernel and userspace, deb/snap packaging, embedded linux, QEMU/KVM and/or OVS/OVN</li>
+<li>Experience working directly with customers, going beyond resolving their technical issues, to interpreting their business challenges and effectively communicating how your solution will meet their needs</li>
+<li>Experience managing software engineers with a track record of planning, delivery and quality</li>
+<li>Effective collaboration across multiple internal teams, building trust and delivering results</li>
+</ul>
+<h2>What we offer you</h2>
+<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.&nbsp;&nbsp;</p>
+<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.</p>
+<ul>
+<li>Fully remote working environment - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of 2,000USD per annum</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Parental Leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues at ‘sprints’</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
+<p>&nbsp;#LI-remote</p><p>Requisition ID: 805</p><p></p>
     
                 </details>
                 </td>
@@ -905,6 +974,71 @@
 <p>#LI-Remote</p>
 <p>#stack</p>
 <p>#LI-ET1&nbsp;</p><p>Requisition ID: 688</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Senior Software Engineer - Embedded & Desktop Linux Optimisation</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/4241188" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>Work across the full Linux stack from kernel through networking, virtualization and graphics to optimise Ubuntu, the world’s most widely used Linux desktop and server, for the latest silicon.</p>
+<p>The role is a fast-paced, problem-solving role that’s challenging yet very exciting. The right candidate must be resourceful, articulate, and able to deliver on a wide variety of solutions across Server, PC and IoT technologies. Our teams partner with specialist engineers from major silicon companies to integrate next-generation features and performance enhancements for upcoming hardware.</p>
+<h3>What you'll do</h3>
+<ul>
+<li>Design and implement the best Ubuntu integration for the latest IoT and server-class hardware platforms and software stacks</li>
+<li>Work with partners to deliver a delightful, optimised, first class Ubuntu experience on their platforms</li>
+<li>Take a holistic approach to the Ubuntu experience on partner platforms with inputs on technical plans, testing strategy, quality metrics</li>
+<li>Participate as technical lead on complex customer engagements involving complete system architectures from cloud to edge</li>
+<li>Help our customers integrate their apps, SDKs, build device OS images, optimize applications with Ubuntu Core, Desktop and Server</li>
+<li>Work with the most advanced operating systems and application technologies available in the enterprise world.</li>
+</ul>
+<p>Joining Canonical, you will partner with bright minds from all over the world, and work with an exciting set of new technologies in a fast growing company with a truly unique and ambitious vision to build a better platform with free software. You will work with customers on exciting IoT and server platforms and technologies, built to support different verticals: from robots to data centers, from telco to retail.</p>
+<h3>Who you are</h3>
+<ul>
+<li>You love technology and working with brilliant people</li>
+<li>You have a Bachelor’s degree in Computer Science, STEM or similar&nbsp;</li>
+<li>You have experience with Linux packaging (Debian, RPM, Yocto)</li>
+<li>You have experience working with open source communities and licences</li>
+<li>You have experience working with C, C++</li>
+<li>You can work in a globally distributed team through self-discipline and self-motivation.</li>
+</ul>
+<h3>Nice to have</h3>
+<ul>
+<li>Experience with graphics stacks</li>
+<li>Good understanding of networking - TCP/IP, DHCP, HTTP/REST</li>
+<li>Basic understanding of security best practices in IoT or server environments</li>
+<li>Good communication skills, ideally public speaking experience</li>
+<li>IoT / Embedded experience – from board and SoC, BMCs, bootloaders and firmware to OS, through apps and services</li>
+<li>Some experience with Docker/OCI containers/K8s</li>
+</ul>
+<h3>What Canonical Offers</h3>
+<ul>
+<li>Learning and development opportunities</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual leave</li>
+<li>Priority Pass for travel</li>
+</ul>
+<p>Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, “the world’s best free software platform”. Our mission is to realise the potential of free software in the lives of individuals and organisations. Our services are helping individuals and businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.</p>
+<p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity</a>, we will give your application fair consideration.</em></p><p>Requisition ID: 829</p><p></p>
     
                 </details>
                 </td>
@@ -1140,6 +1274,65 @@
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
+                    <h3>Software Engineering Manager - Desktop and Embedded Linux Optimisation</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/4263171" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>We work closely with major silicon companies to optimise Ubuntu for their latest hardware.&nbsp;</p>
+<p>As a software engineering manager you need to bring both technical and management skills to the leadership of your team. You will be leading an engineering team that works across the full Linux stack from kernel to GUI, to optimise Ubuntu, the world’s most widely used Linux desktop and server, for the latest silicon.&nbsp;</p>
+<p>You will also represent the team in direct partner engagement as well as ensuring timely delivery on agreed project milestones.&nbsp;</p>
+<p>As an engineering manager at Canonical your primary responsibility is to the people you support: ensuring that they are growing as engineers, doing valuable work, and generally having a great time at Canonical. As a lead for strong engineers, technical leadership and a solid background in software development is a must, so that you’re able to challenge and grow your team members. You will have the opportunity to influence the culture, facilitate technical delivery, and work with your team on strategy and execution.</p>
+<h3>What you’ll do</h3>
+<ul>
+<li>Lead a team of distributed engineers to design and implement the best Ubuntu integration for the latest IoT and server-class hardware platforms and software stacks</li>
+<li>Engage with commercial partners to deliver a delightful, optimised, first class Ubuntu experience on their platforms</li>
+<li>Develop your team through coaching, mentoring, leading by example, and feedback</li>
+<li>Oversee commercial engagements and support timely delivery on agreed project milestones</li>
+<li>Ensure an ongoing commitment to strict quality and reliability standards</li>
+<li>Engage with other teams at Canonical to ensure alignment on product architecture and roadmaps</li>
+<li>Work from home with global travel up to twice a year for up to two weeks</li>
+</ul>
+<h3>Who you are</h3>
+<ul>
+<li>You have worked with Linux distributions, debian packaging and high performance, server-class hardware</li>
+<li>You have experience working directly with customers, resolving their technical issues, interpreting their business challenges and effectively communicating how your solution will meet their needs</li>
+<li>You have demonstrated experience managing or leading a team of software engineers</li>
+<li>You have understanding of agile software development methodologies</li>
+<li>You collaborate effectively across multiple internal teams, building trust and delivering results</li>
+<li>You have effective communications skills in English, both written and oral</li>
+<li>You have a bachelor’s (or equivalent university level) degree, preferably in a technology field</li>
+</ul>
+<h3>What Canonical offers</h3>
+<ul>
+<li>Learning and Development opportunities</li>
+<li>Annual Compensation Review</li>
+<li>Recognition Rewards</li>
+<li>Annual Leave</li>
+<li>Priority Pass for travel</li>
+</ul>
+<p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity</a> we will give your application fair consideration</em></p>
+<p><em>&nbsp;</em>#LI-remote</p><p>Requisition ID: 805</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
                     <h3>Software Engineering Manager - Ubuntu Linux Kernel</h3>
                 </td>
                 <td width="300">
@@ -1257,77 +1450,6 @@
 <p>Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, “the world’s best free software platform”. Our mission is to realise the potential of free software in the lives of individuals and organisations. Our services are helping individuals and businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.</p>
 <p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity</a> we will give your application fair consideration.<br></em></p>
 <p>#LI-Remote #Stack</p><p>Requisition ID: 815</p><p></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>System Software Engineer - Golang compiler, tooling, and ecosystem</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/4388862" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>We are building a new team to focus on the Golang programming language and its ecosystem on Ubuntu. They will deliver the best possible Golang runtime, developer experience and supporting tooling in Ubuntu. We are keen to ensure that the cutting edge of modern programming languages innovation is available to Ubuntu users, to lay the foundation for future inventions and open source communities.</p>
-<p>This is an exciting opportunity for a software engineer passionate about open source software, Linux systems, software architectures and Go programming language. Come build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, a growing international software company and make Ubuntu the best operating system to develop and run Go applications in the cloud, in datacenters, in containers, directly on the operating system, and anywhere Ubuntu can run.</p>
-<p>The Ubuntu Foundations Team delivers the core Ubuntu system, the base for the entire Ubuntu family of products and services. Ubuntu strives to deliver the latest-best free software components, in an easy to use and highly reliable form. We build on the technical excellence of Debian and bring additional focus and shape to the solutions we offer the industry.</p>
-<p>Part of the Ubuntu Foundations team, you will work on some of the most critical toolchains involved in the making of Ubuntu but also pillars of the modern software ecosystem. You will leverage your experience and passion in Go to make Ubuntu the best platform to develop, distribute and consume software built with Go. Applicants will be passionate about the future of Go, of Ubuntu, mindful of the dynamics of the open-source ecosystem, and equally aware of the needs of large but innovative organizations. Applicants will drive best in class integration in Ubuntu from desktop to cloud in a secure, reliable, performing, efficient and future-proof fashion.</p>
-<p>You will be discussing design with other team members and mentor less senior engineers and participate in code reviews and design reviews.&nbsp; You will also be working with other teams to ensure architecture decisions improve the overall performance and experience of Ubuntu. Your role as part of the Ubuntu Foundations team will have an impact on every aspect of Ubuntu from Desktop, Server, Ubuntu Core and also cloud images.</p>
-<p><em><strong>Location:</strong></em> This is a Globally remote role</p>
-<h2>What your day will look like</h2>
-<ul>
-<li>Collaborate proactively with a distributed team</li>
-<li>Select, integrate and package best-of-breed tooling with Ubuntu to improve developer and operator experience with Go</li>
-<li>Write high-quality code to create new features</li>
-<li>Debug issues and produce high-quality code to fix them</li>
-<li>Review code produced by other engineers</li>
-<li>Discuss ideas and collaborate on finding good solutions</li>
-<li>Work from home with global travel 2 to 4 weeks a year for internal and external events</li>
-</ul>
-<h2>What we are looking for in you</h2>
-<ul>
-<li>You love technology and working with brilliant people</li>
-<li>You are passionate, curious, flexible, articulate, and accountable</li>
-<li>You are a long-time Linux user</li>
-<li>You have experience or are interested in learning how to package software for Debian and Ubuntu</li>
-<li>You have relevant Go experience, ideally in the world of cloud-native software and Linux</li>
-<li>You have a Bachelors or equivalent in Computer Science, STEM or similar degree</li>
-<li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li>
-</ul>
-<h2>What we offer you</h2>
-<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.&nbsp;&nbsp;</p>
-<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.</p>
-<ul>
-<li>Fully remote working environment - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of 2,000USD per annum</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Parental Leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues at ‘sprints’</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote&nbsp;</p><p>Requisition ID: 933</p><p></p>
     
                 </details>
                 </td>
