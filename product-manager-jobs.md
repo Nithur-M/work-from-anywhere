@@ -1,5 +1,54 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0098/8270/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Smily</h5>
+                    <h3> Product Manager </h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/smily-product-manager" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0098/8270/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> France 
+    <br /><strong>URL:</strong> <a href="https://smily.com">https://smily.com</a>
+</p>
+
+<div>Important note: Chances are, you're about to find the next great company to have fun with on a long-term basis (and that’s what we’re looking for)!</div><div><br></div><div>We're looking for a Product Manager with experience in entrepreneurship, software and travel... BUT BEWARE:</div><div><br></div><div>We are looking for a badass who will be able to adapt to our style and our culture.</div><div><br></div><div>(like any good product manager, right?)</div><div><br></div><div><strong>Your main mission is to take ownership over the entire product management. </strong></div><div><br></div><div>This is a full-time position, working remotely either from your home or from the country that inspires you.</div><div>
+<br>🎯 Your 10 main goals:</div><div><br></div><div>1. Product Strategy</div><div><br></div><div>Collaborate with stakeholders to define and communicate a compelling product vision and strategy that aligns with the company's overall goals and objectives.</div><div><br></div><div>2. Roadmap Development</div><div><br></div><div>Develop and maintain a clear and prioritized product roadmap based on customer insights, market trends, and competitive analysis, ensuring alignment with business priorities.</div><div><br></div><div>3. Requirements Gathering</div><div><br></div><div>Conduct in-depth market research, gather customer feedback, and collaborate with internal teams to identify and prioritize product requirements, translating them into detailed specifications for the engineering team.</div><div><br></div><div>4. Product Development</div><div><br></div><div>Work closely with cross-functional teams to drive the end-to-end product development process, from concept to launch, ensuring timely delivery and high-quality execution.</div><div><br></div><div>5. Agile Execution</div><div><br></div><div>Utilize Agile methodologies to manage product development cycles, including sprint planning, backlog management, and effective communication with the engineering team.</div><div><br></div><div>6. User Experience</div><div><br></div><div>Champion user-centric design principles and collaborate with the design team to create intuitive and seamless user experiences that drive customer satisfaction and engagement.</div><div><br></div><div>7. Stakeholder Management</div><div><br></div><div>Build strong relationships with key stakeholders across the organization, including sales, marketing, and customer success, to ensure alignment and effective collaboration.</div><div><br></div><div>8. Competitive Analysis</div><div><br></div><div>Monitor market trends, competitive landscape, and emerging technologies to identify opportunities for product differentiation and innovation.</div><div><br></div><div>9. Product Launch</div><div><br></div><div>Plan and execute successful product launches, working closely with marketing and sales teams to develop go-to-market strategies, messaging, and enablement materials.</div><div><br></div><div>10. Product Performance</div><div><br></div><div>Analyze and monitor product performance metrics, user feedback, and market trends to continuously optimize and enhance the product portfolio.</div><div>
+<br><br>
+</div><div>Why join us? ❤️</div><div><br></div><div>The team is really cool and ambitious, the offices are amazing - we don't have any 😂, you can work from wherever you want on our beautiful planet 🌍* and you get to participate in sharing smiles (this is an opportunity to sell a product that doesn't keep you up at night!).</div><div><br></div><div>* If you want a ticket to the moon 🌗 it's still expensive but we should be able to help reserve a spot for you ;)</div><div><br></div><div>But also...</div><div>It is an opportunity...</div><div><br></div><div>* To play a major role in the growth of an ambitious company</div><div>* To join a company whose mission is to put people at the heart of its business and to have a real impact on the lives of its customers and their community (owners, travelers, family...)</div><div>* The opportunity to contribute to a culture that combines performance, ambition and well-being. A culture so strong that our A players would never consider working anywhere else.</div><div><br></div><div>Smily is also...</div><div>* A team always in great spirits taking on a global market populated by dinosaurs 🦖🦕or uninspired companies that are just there to take advantage of a market opportunity</div><div>* Waking up in the morning with the feeling that you're making millions of people's lives better and helping them achieve their dreams</div><div>* The ability to work from wherever you want (by the pool, in the woods or on your stand-up desk)</div><div>* A remote culture from day one: we're always experimenting with new ways to make telecommuting as warm and cool as possible. For example, some people challenge themselves to do sports or meditation.</div><div>* A company culture based on autonomy</div><div>* Being surrounded by A-Players</div><div>* A guarantee of being pushed to progress</div><div>* A growing company, synonymous with development opportunities!</div><div><br></div><div>But that's not all, because we put team well-being at the heart of our strategy:</div><div><br></div><div>* Flexible locations: you're encouraged to work from wherever inspires and suits you best. Whether it's to enjoy the best kitesurfing spots 🪁🏄♀️ or spend more time with your family.</div><div>* Flexible hours: what's important to us is the value you bring much more than the time you work - even if you will be required to maintain moments of sharing and communication with the team ;)</div><div>* Your own boss: we are partners and work as equals. Our relationship does not work out of a sense of obligation but out of a common will and effort to strengthen it on a daily basis.</div><div>* Team building / Team retreats: we meet in a corner of paradise on our planet to share good times together, discuss our vision, celebrate our victories and brainstorm the next crazy challenge.</div><div><br></div><div>Profile sought<br>The ideal candidate: 😍</div><div><br></div><div>This is for you if you: </div><div><br></div><ul>
+<li>Have a minimum of 3-5 years of experience in product management, preferably in the hospitality industry.</li>
+<li>Have a proven track record of successfully launching and managing software products throughout their lifecycle.</li>
+<li>Have excellent analytical and problem-solving skills, with the ability to translate complex concepts into actionable product plans.</li>
+<li>Have ability to lead cross-functional teams and influence stakeholders at all levels of the organization.</li>
+<li>Have experience working with Agile methodologies and a deep understanding of product development processes.</li>
+<li>Have exceptional communication and presentation skills, with the ability to effectively convey ideas and concepts to both technical and non-technical audiences.</li>
+<li>Have a strong strategic thinking and business acumen, with a focus on delivering customer value and driving business growth.</li>
+<li>Have a passion for technology, user experience, and staying abreast of industry trends and best practices. Being familiar with practical sides AI and how to apply it is a huge plus.</li>
+<li>Would be great if you had an understanding of the vacation rental management industry and familiarity with its unique challenges and opportunities.</li>
+</ul><div><br></div><div>* An interest in the world of short-term rental and coaching would be a big plus.</div><div><br></div><div>Currently we are 50/50 male female and we aspire to be a balanced, inclusive team.</div><div><br></div><div>Languages :</div><div>* French: native</div><div>* English: fluent, all your work must be possible in English too. All our internal communication is done in English!</div><div><br></div><div>But this may not be for you...</div><div><br></div><div>As you can see, we don't want people who are just looking for a "job”. We are inspired by a culture of performance and ambition.</div><div>We want to do what very few companies have the courage to do, we want to create the exceptional and impact the maximum number of lives.</div><div><br></div><div>For this reason, some people imagine that they will work in an easy environment without any pressure.</div><div><br></div><div>But we have a very startup-oriented culture where everything is fast-paced and there is a lot of change. Where you are not always told exactly what to do or how to do it.</div><div><br></div><div>We tell each other things, even if they are uncomfortable, we prefer growth to ego comfort; we like to share clear and honest feedback. In our company, expressing disagreement and knowing how to argue is valued!</div><div>We encourage critical and strategic thinking. We question our assumptions, we're mindful of our biases, and we seek to put our energy where the leverage is greatest.</div><div><br></div><div>Do you experience criticism as a personal attack? Are you ready to receive regular feedback to allow yourself to progress? To take it</div><div>well? To give it to others? Or even to give it to yourself?</div><div><br></div><div>We realize that this is not for everyone.</div><div><br></div><div>If all this resonates with you, then we'll love working with you (and you with us, you'll be pampered!),come write the next chapter with us.</div><div>
+<br><br>Interview process<br>How to apply?<br><br>
+</div><div>❌ Any copied and pasted, non-personalized applications will go straight into the trash.</div><div><br></div><div>⚠️ To get to the end of the recruitment process, each candidate might be asked to set up calls with their previous managers. If you're not comfortable with this idea: don't apply ⚠️</div><div><br></div><div>TO APPLY</div><div><br></div><div>Simply fill out a short questionnaire by clicking on "Apply for this position". We will ask you to attach your C.V. (we will not consider incomplete applications) :</div><div>In its early days, Google did 12 job interviews.</div><div>Apple still does between 9 and 12.</div><div>We do 4.</div><div>Some may think that's still too many, but for us it's the right balance to make sure the job is right for you.</div><div>Because we don’t want for you or for us to realize in 3 or 6 months that this job is not for you: we want to do everything we can to avoid that sort of situation, which is always uncomfortable. For you and for us!</div><div><br></div><div>The recruitment process is as follows</div><div>* 📃A quick 7 or 8 min questionnaire - <a href="https://docs.google.com/forms/d/1fnWeHMPdSq_4TI8KdJn5yjnKooZys4_uI5G6qHOVn9U/">https://docs.google.com/forms/d/1fnWeHMPdSq_4TI8KdJn5yjnKooZys4_uI5G6qHOVn9U/</a> </div><div>* 📞 ⚙️A 60 min TECHNICAL interview to align with what would be expected of you and assess your specific skills</div><div>* 📞🌟A 60 min CULTURE interview by Zoom or phone to further understand your background and check in depth alignment with our values and culture</div><div>* 📞 👥A 60 min TEAM interview with your future team to ensure the desire to work together on a daily basis</div><div>* ⚠️ 👥 Reference Calls: you may be asked to arrange at least 3 calls with former managers or clients for us. We do this because it provides assurance for you and for the team to be surrounded by A-Players, and it's also a way to get to know you and facilitate your onboarding.</div><div>* 👪 Welcome home!</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/smily-product-manager">https://weworkremotely.com/remote-jobs/smily-product-manager</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0098/8053/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +59,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-product-manager-needed-remote" align="right" target="_blank">Apply</a>
@@ -106,7 +155,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/adblock-inc-product-manager" align="right" target="_blank">Apply</a>
@@ -171,7 +220,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>610 days ago</text>
+                <text>612 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -223,6 +272,127 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1726283/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>RainForest</h5>
+                    <h3>AI Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>AI/ML,automation,research,product management</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/ai-product-manager-1726283" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div>We are looking for an AI Product Manager to lead the exploration, research and implementation of AI technologies within our product. This product manager will identify areas of our product that can be enhanced by AI and work with designers and engineers to implement AI solutions.</div>
+<div> </div>
+<div>Rainforest QA has a long standing pedigree of leveraging AI and ML in our product and our goal is to build on the technologies we have to extend and enhance our product capabilities through the use of AI.</div>
+<div> </div>
+<div>Rainforest QA is a distributed company full of smart, capable people from around the world who enjoy working together to make our customers successful.</div>
+<div> </div>
+<div>Our mission is to make it painless for every software team to measure and improve product quality. We’ve built our no-code test automation platform for developers and product managers who want to catch more bugs without slowing down the release process. Unlike most test automation, the platform requires zero code to write, run, and maintain end-to-end tests. Our customers love us because we allow them to release product updates more quickly while maintaining a high-quality user experience.</div>
+<p><br><br></p>
+<div class="h3">Role</div>
+<ul style="">
+<li style="">Research into AI technologies available, gain a deep understanding of these technologies and determine what may be applicable to the Rainforest product.</li>
+</ul>
+<ul style="">
+<li style="">Build prototypes to demonstrate feasibility of AI technologies.</li>
+</ul>
+<ul style="">
+<li style="">Design solutions which will deliver real business value leveraging cutting edge AI &amp; Intelligent Automation technologies.</li>
+</ul>
+<ul style="">
+<li style="">Create thought leadership that articulate our perspective on AI &amp; Intelligent Automation in our industry.</li>
+</ul>
+<ul style="">
+<li style="">Develop tools and services for the practical application of AI to address business problems.</li>
+</ul>
+<ul style="">
+<li style="">Assist product squads in implementing AI solution.</li>
+</ul>
+<ul style="">
+<li style="">Leverage data available to train AI algorithms, improve the accuracies of these algorithms within the Rainforest application.</li>
+</ul>
+<p><br><br></p>
+<div class="h3">Preferred Experience</div>
+<ul style="">
+<li style="">3 years in an AI engineering / consulting / PM role delivering AI solutions to internal or external customers.</li>
+</ul>
+<ul style="">
+<li style="">Bachelor's degree in Computer Science or related technical field, or equivalent practical experience.</li>
+</ul>
+<ul style="">
+<li style="">A demonstrable experience of designing and implementing AI solutions to deliver real business value.</li>
+</ul>
+<ul style="">
+<li style="">Able to own and drive the AI Strategy initiatives and track the outcomes by liaising with stakeholders.</li>
+</ul>
+<ul style="">
+<li style="">Must have solid background and understanding in AI &amp; Intelligent Automation.</li>
+</ul>
+<ul style="">
+<li style="">Fantastic active listening and communication skills.</li>
+</ul>
+<ul style="">
+<li style="">The ability to collaborate and communicate effectively live and asynchronously.</li>
+</ul>
+<ul style="">
+<li style="">A strong sense of autonomy, ownership, and comfort with a fast-paced startup.</li>
+</ul>
+<ul style="">
+<li style="">Someone who is curious and committed to innovation, continuous learning and growth.</li>
+</ul>
+<p><br><br></p>
+<div class="h3">What’s in it for you</div>
+<ul style="">
+<li style="">A unique opportunity to collaborate cross-functionally and help us enhance our product through the use of AI technologies.</li>
+</ul>
+<ul style="">
+<li style="">Smart, collegial coworkers from many countries and backgrounds who care about their work and each other.</li>
+</ul>
+<ul style="">
+<li style="">Excellent employee benefits. (Scroll down to get the deets.)</li>
+</ul>
+<p><br><br></p>
+<div class="h3">What Rainforest offers</div>
+<ul style="">
+<li style="">Competitive salary plus equity.</li>
+</ul>
+<ul style="">
+<li style="">100% company-paid medical, dental, and vision insurance coverage for employees, 75% for dependents (U.S., only).</li>
+</ul>
+<ul style="">
+<li style="">Unlimited paid time-off (PTO).</li>
+</ul>
+<ul style="">
+<li style="">A weekly allowance for lunches and a monthly allowance for remote office supplies or personal development.</li>
+</ul>
+<ul style="">
+<li style="">Semi-annual company off-sites in exciting destinations around the world.</li>
+</ul>
+<ul style="">
+<li style="">12 weeks of paid maternity leave and 8 weeks of paid leave for supporting parents (U.S., only).</li>
+</ul>
+<ul style="">
+<li style="">401k (U.S., only).</li>
+</ul>
+<div>A note on diversity and inclusion</div>
+<div>At Rainforest we believe that diverse teams improve our business. We are an equal opportunity employer and do not discriminate on the basis of race, religion, color, nationality, gender, sexual orientation, age, marital status, veteran status, or disability status.</div>
+<div> </div>
+<div>#LI-Remote</div>
+<img src="https://remotive.com/job/track/1726283/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -320,30 +490,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Internet of Money&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to industry-leading security, crypto education, and world-class client support through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://cryptowat.ch/" class="postings-link">Cryptowatch</a>.</div><div><br></div><div>Become a Krakenite and build the internet of money!</div><div><br></div><div><b style="font-size: 24px">Proof of work</b></div><div><br></div><div><b style="font-size: 18px">The team</b></div><div><br></div><div><span style="font-size: 11pt">The Fraud Team at Kraken is focused on ensuring the funds that our customers deposit are not fraudulent.&nbsp;The product role is responsible for ensuring our deposit products are secured with state of the fraud detection tools and our fraud ops team has the tools they need to complete a fraud review quickly and accurately.&nbsp;The product role is responsible for developing and executing on a fraud roadmap by developing requirements from stakeholders and prioritizing the work with engineering teams.</span></div></div><div class="section page-centered"><div><h3>The Opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Discovery, development, and ongoing improvement of tools for fraud KPI monitoring</li><li>Discovery, development, and ongoing improvement of case management capabilities for Fraud Ops</li><li>Definition of metrics to be used for sizing of the product impact</li><li>Drive development of the overall risk &amp; fraud product strategy, roadmap, and implementation phases for the areas of responsibility</li><li>Extensive knowledge of fraud tools and fraud process flows</li><li>Maintain market and competitor insights across the industry</li><li>Work closely with client-facing personnel and key stakeholders</li><li>Plan relevant testing, perform rollout planning and execution</li><li>Evangelize the power of analytics and experimentation in building a data-driven organization</li><li>Evaluate new product opportunities and bring forward proposals for improvement</li><li>Develop product documentation including specifications, wireframes, and process flows</li><li>Facilitate communication across all project phases and proactively alert management of changes to scope, timelines and resources</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>Intimate knowledge of risk &amp; fraud patterns, mitigation strategies</li><li>Experience building, using, or selling systems for improving case workflows</li><li>Understanding of the compliance and legal implications of fraudulent activities</li><li>Extensive knowledge of fraud tools and fraud process flowsKnowledge of the technical aspects of large scale risk &amp; fraud systems</li><li>3-5 years of relevant product management experience</li><li>Knowledge of the cryptocurrency exchange space</li><li>Expertise in data gathering and quantitative analysis</li><li>Solution oriented, highly-motivated and proactive self-starter&nbsp;</li><li>Strong grasp of information architecture and user experience best practices&nbsp;</li><li>Macro-to-micro versatility: strategic mindset coupled with a keen attention to detail&nbsp;</li><li>Well-rounded interpersonal skills, and experience interacting with diverse personalities&nbsp;</li><li>Deep understanding of project management principles and best practices&nbsp;</li><li>Exceptional communication and presentation skills&nbsp;</li><li>Prior crypto, trading, gaming, banking or risk relevant experience is required</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Location Tagging: #EU #US #CANADA  #LI-Remote</div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/89e2cd53-1d44-4125-bf2c-adebc549ba74/apply">Apply for this job</a></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1306325743580848130/mk0qvsZ9_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Kraken</h5>
-                    <h3>Product Manager, OTC</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/kraken/a742e960-03fe-46b5-866a-7fe1eeda35da" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Internet of Money&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to industry-leading security, crypto education, and world-class client support through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://cryptowat.ch/" class="postings-link">Cryptowatch</a>.</div><div><br></div><div>Become a Krakenite and build the internet of money!</div><div><br></div><div><b style="font-size: 24px">Proof of work</b></div><div><br></div><div><b style="font-size: 18px">The team</b></div><div><br></div><div>This is a fully remote role, we will consider applicants based between UTC-5 and UTC+1 time zones.</div><div><br></div><div>The Product Manager will be responsible for some of the products offered by the Kraken OTC Trading Desk. The ideal candidate has financial trading knowledge (preferably within both traditional and cryptocurrency markets) and experience working with institutional clients. Additionally they must be data-driven, process oriented, technically adept and have a proven track record of achievement.</div><div><br></div><div>Responsibilities include product and market expertise, the creation of detailed product requirements, project schedules and supporting materials in partnership with design, content, technology and service teams. The product manager provides day-to-day cross-functional leadership to ensure the timely delivery of projects which meet established feature, usability, content and quality requirements.</div><div><br></div><div>The successful candidate should thrive in a fast-paced, collaborative, process-driven environment and be able to adapt and adjust plans on-the-fly. The position requires interaction with a wide variety of internal stakeholders at various levels of the organization. Candidates must possess the ability and willingness to balance client needs with business priorities and articulate the rationale behind decisions. They must also have exceptional project management skills.</div></div><div class="section page-centered"><div><h3>The Opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Contribute to the development of the overall product strategy, roadmap, and business plan</li><li>Work effectively in cross-functional environment with multiple team leads to resource projects and deliver OTC Desk needs</li><li>Work closely with OTC Trading, Operations and Product to define detailed product and business requirements</li><li>Perform research and competitive analysis to gain market insights across the industry&nbsp;</li><li>Perform extensive User Acceptance Testing ensure products are built to requirements</li><li>Manage engagement with internal and external parties</li><li>Evangelize the power of analytics and experimentation in building a data-driven organization</li><li>Actively prioritize product backlog , pre-planning, prioritization and user story mapping sessions</li><li>Develop product documentation including specifications, wireframes, site-maps, and process flows</li><li>Facilitate communication across all project phases and proactively alert management of changes to scope, timelines and resources</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>Expert knowledge of cryptocurrency trading, lending, and complex automated platforms</li><li>Intimate knowledge of trading ecosystem participants, their different incentives and constraints, including institutions and high net worth individuals</li><li>3+ years of product management experience</li><li>Strong quantitative and analysis skills, including SQL and a language like Python</li><li>Solution oriented, highly-motivated and proactive self-starter with first-principles thinking</li><li>Strong grasp of information architecture and user experience best practices&nbsp;</li><li>Macro-to-micro versatility: strategic mindset coupled with obsessive attention to detail</li><li>Well-rounded interpersonal skills, and experience interacting with diverse personalities&nbsp;</li><li>Outstanding organizational skills and the ability to balance multiple priorities</li><li>Deep understanding of project management principles and best practices, including ticket management in tools like JIRA</li><li>Prior experience in crypto, trading, banking or asset management</li></ul></ul></div></div><div class="section page-centered"><div><h3>Nice to Haves</h3><ul class="posting-requirements plain-list"><ul><li>Experience in both traditional finance and the digital asset space</li><li>Understanding of custody, credit, and settlement mechanisms and networks</li><li>Understanding of options and non-linear risk&nbsp;</li><li>Understanding of both exchange&nbsp;</li><li>Familiarity with REST, Websockets and FIX protocols</li><li>Experience working in a regulated environment and collaborating with legal and compliance</li><li>Understanding of margin trading, futures, FX, options, backend systems and flow-of-funds</li><li>Background in computer science, software engineering or applied mathematics</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Location Tagging: #EU #US #CANADA  #LI-Remote</div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/a742e960-03fe-46b5-866a-7fe1eeda35da/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -529,30 +675,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt">Mechanical Orchard is a new kind of software consultancy. We build new applications and replace legacy systems for a wide range of customers, spanning from seed stage startups to the Fortune 500, but it doesn’t end there. We run what we build, and build what we run. Our customers focus on their business, rather than manage all the cost, complexity, and risk that comes with operating production systems.</span></div><div><br></div><div><span style="font-size: 11pt">Our background in software development and the impact on the industry is well known, and we've helped write the book on XP and other effective agile practices. We believe in the durable principles behind agile, and embrace the power of cross-functional teams, collective ownership, test driven development, short feedback loops, and continuous improvement.</span></div><div><br></div><div><span style="font-size: 11pt">We are Generous, Ethical, Effective, and Kind.</span></div><div><br></div><div><span style="font-size: 11pt">As a Product Manager at Mechanical Orchard, you will be expected to:</span></div><div><br></div><div><span style="font-size: 11pt">- Work as part of a cross functional development team, collaborating with product designers, engineers, and other roles to build software for clients and/or Mechanical Orchard</span></div><div><span style="font-size: 11pt">- Work closely with customers to understand their needs, and use this knowledge to help shape product strategy and inform decision-making for the given project or engagement</span></div><div><span style="font-size: 11pt">- Use lean startup and lean UX principles to develop and test product ideas quickly and efficiently</span></div><div><span style="font-size: 11pt">- Work in partnership with product designer(s) to conduct user research, develop solutions, validate design effectiveness, and iterate on designs based on qualitative and quantitative feedback from users, customers, and the development team</span></div><div><span style="font-size: 11pt">- Manage a fine grained backlog in Pivotal Tracker that drives incremental progress in terms of learning and value</span></div><div><span style="font-size: 11pt">- Organize and facilitate regular project planning meetings, brainstorming sessions, team retrospectives, and other agile team ceremonies&nbsp;</span></div><div><span style="font-size: 11pt">- Monitor, analyze, and discern learnings from qualitative and quantitative data&nbsp;</span></div><div><span style="font-size: 11pt">- Collaborate with internal and external stakeholders as needed</span></div><div><span style="font-size: 11pt">- Apply and advocate for modern product practices including lean / lean UX and user centered design</span></div><div><br></div><div><span style="font-size: 11pt">The ideal candidate has worked as a product manager in a professional, team-based environment, with experience across the entire product lifecycle, and a deep understanding of product management principles.</span></div><div><br></div><div><span style="font-size: 11pt">Some consulting experience is a bonus.</span></div><div><br></div><div><span style="font-size: 11pt">Strong communication and collaboration skills as well as empathy are essential for working closely with the development team, customers, and others at Mechanical Orchard.</span></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 11pt">Mechanical Orchard, Inc. is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind. Mechanical Orchard, Inc. is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Mechanical Orchard, Inc. are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Mechanical Orchard, Inc. will not tolerate discrimination or harassment based on any of these characteristics. Mechanical Orchard, Inc. encourages applicants of all ages. Mechanical Orchard, Inc. will provide reasonable accommodation to employees who have protected disabilities consistent with local law.</span></div><div><br></div><div>We look forward to reviewing your application. Thanks!</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/mechanicalorchard/e9e79713-9cd4-41f9-92c0-c20dc588a262/apply">Apply for this job</a></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1382655628523364355/MWPIbbID_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CoverGo</h5>
-                    <h3>Senior Product Manager (Health) - Fully Remote</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/covergo/j/D1A8A02DBC" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Top 3 Reasons To Join Us </strong></p><ul> <li>Employee Stock Options </li> <li>100% Remote </li> <li>Insurtech industry leader worldwide </li> </ul><p></p><p><strong>About Us</strong></p><p>At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.</p><ul> <li>We are a leading global no-code insurance platform for health, life, and P&amp;C;</li> <li>We’re the winner of the Insurtech of the Year in all of Asia and other awards globally;</li> <li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more;</li> <li>We're an international, diverse team of over 120 people with 34 nationalities and team members working remotely from all over the world;</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors;</li> <li>We have offices in the US, Singapore, Hong Kong, UAE and Vietnam;</li> <li>We’ve grown our annualized revenue by over 30x since January 2021;</li> <li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world.</li> </ul><p></p><p><strong>What You Will Do:</strong></p><ul> <li>Product Strategy: Develop and execute a compelling product strategy for our products, aligned with the company's vision and objectives.</li> <li>Market Analysis: Conduct market research, analyze industry trends, and gather customer insights to identify opportunities for product innovation and differentiation.</li> <li>Product Roadmap: Define and communicate a clear and prioritized product roadmap, considering market dynamics, customer insights, and business goals.</li> <li>Requirements Gathering: Collaborate with stakeholders to gather and document detailed product requirements, ensuring a deep understanding of customer pain points and business priorities.</li> <li>User Experience: Work closely with design and engineering teams to create exceptional user experiences, employing best practices in user interface (UI) and user experience (UX) design.</li> <li>Cross-functional teams collaboration: Work cross-functional teams through iterative development cycles, and ensure timely delivery of high-quality product releases.</li> <li>Go-to-market Strategy: Collaborate with finance and marketing teams to establish go-to-market strategies for health insurance products.</li> <li>Performance Tracking: Define key performance indicators (KPIs) and implement robust tracking mechanisms to measure product performance, identify areas for improvement, and drive data-driven decision-making.</li> <li>Stakeholder Collaboration: Collaborate effectively with internal and external stakeholders, including executive leadership, sales teams, and industry partners, to drive product adoption and achieve business objectives.</li> <li>Any  other task as may be assigned</li> </ul> <p></p><p><strong>What We Need:</strong></p><ul> <li>Bachelor's degree in business, computer science, or a related field.</li> <li>At least 7 years of insurance product management experience, especially health insurance, prefer to have experience with other insurance products such as life and P&amp;C.</li> <li>Solid insurance knowledge is a must, specifically health insurance.</li> <li>Demonstrated success in managing the entire product lifecycle, from ideation to launch and post-launch optimization.</li> <li>Strong analytical skills, with the ability to gather and interpret market data, customer insights, and competitive intelligence.</li> <li>Experience working with cross-functional teams and driving collaboration in an Agile development environment.</li> <li>Nice to have experience in working with Jira and Confluence suite of products</li> <li>Excellent English communication and presentation skills, with the ability to convey complex concepts to both technical and non-technical stakeholders.</li> <li>Strategic mindset, with the ability to think long-term and translate vision into actionable plans.</li> <li>A critical thinker, an innovator and has good problem-solving skills</li> <li>Results-oriented and data-driven, with a passion for delivering exceptional customer experiences and achieving business objectives.</li> </ul> <p></p><p><strong>Why You'll Love Working Here</strong></p><ul> <li>Full-remote employment</li> <li>Local time zone office hours, work by your schedule </li> <li>Paid annual leaves </li> <li>Employee stock options </li> <li>Performance bonus </li> <li>Company activities &amp; team offsites to exotic locations </li> <li>Training and development plan </li> </ul>Covergo Company<a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"> Video</a><h3>Requirements: </h3><h3>Benefits: </h3>
                 </details>
                 </td>
             </tr></table>
