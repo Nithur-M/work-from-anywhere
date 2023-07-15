@@ -10,7 +10,7 @@
                     <code>Management and Finance</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/betterproducts-coo-senior-project-manager-for-marketing-agency" align="right" target="_blank">Apply</a>
@@ -95,7 +95,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>68 days ago</text>
+                <text>69 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rocket-conversions-ad-creative-project-manager" align="right" target="_blank">Apply</a>
@@ -118,6 +118,62 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/rocket-conversions-ad-creative-project-manager">https://weworkremotely.com/remote-jobs/rocket-conversions-ad-creative-project-manager</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1726720/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Wolfram</h5>
+                    <h3>Technical Project Manager</h3>
+                </td>
+                <td width="300">
+                    <code>CSS,html,java,javascript</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/technical-project-manager-1726720" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Wolfram, creator of Mathematica, Wolfram|Alpha and Wolfram Language, is searching for a proactive individual with exceptional interpersonal and organizational skills for a new Technical Project Manager position at Wolfram Research. The Technical Project Manager will be responsible for planning and coordinating development that spans many branches of the Wolfram technology stack.</p>
+<p>This position requires software or web project management experience, strong organization and communication skills, and the ability to interface with Wolfram's technical and product development teams. The ideal candidate thrives in a fast-paced, deadline-driven team environment and has an enthusiasm for new technologies.</p>
+<p><strong>Responsibilities:</strong></p>
+<ul style="">
+<li style="">Creating and maintaining project plans and detailed roadmaps</li>
+<li style="">Collaborating with cross-functional teams within the company</li>
+<li style="">Connecting with key stakeholders to detail scope and timeline requirements</li>
+<li style="">Interfacing with, creating tickets for and adapting to the processes of other groups for resource allocations</li>
+<li style="">Proactively managing the execution and technical implementation for multiple projects</li>
+<li style="">Monitoring the status, risks and resources for project lifecycles</li>
+<li style="">Preparing agendas for and leading meetings; taking notes and following up on action items</li>
+<li style="">Organizing development sprints/milestones</li>
+<li style="">Establishing, documenting and improving internal processes</li>
+<li style="">Maintaining project pages and dashboards</li>
+<li style="">Tracking metrics, reporting on project performance and escalating any risks</li>
+</ul>
+<p><strong>Qualifications:</strong></p>
+<ul style="">
+<li style="">Experience with or exposure to programming languages (Wolfram Language, Python, Java)</li>
+<li style="">Experience with or exposure to web development languages (HTML, CSS, JS)</li>
+<li style="">Bachelor's degree in a business or technical field; mathematics or computer science is a plus</li>
+<li style="">Experience in software or web project management</li>
+<li style="">Strong communication, organizational and analytic skills</li>
+<li style="">Ability to interact with cross-functional teams (for example, senior stakeholders, technical leads, user experience, design, web, technical content, quality assurance, support, product development teams, etc.)</li>
+<li style="">High degree of initiative</li>
+<li style="">Ability to handle multiple projects and tasks simultaneously</li>
+<li style="">Experience with Wolfram Language is preferred</li>
+<li style="">Experience with Jira or other project management software is preferred</li>
+<li style="">Experience with or knowledge of Agile or Lean User Experience development techniques is a plus</li>
+</ul>
+<p><strong>Location:</strong> Remote</p>
+<p>Wolfram is an equal opportunity employer and values diversity at its company. Women, people of color, members of the LGBTQ community, individuals with disabilities and veterans are strongly encouraged to apply.</p>
+<img src="https://remotive.com/job/track/1726720/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
