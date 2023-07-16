@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>172 days ago</text>
+                <text>173 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -66,7 +66,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>275 days ago</text>
+                <text>276 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer" align="right" target="_blank">Apply</a>
