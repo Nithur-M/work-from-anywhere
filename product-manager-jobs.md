@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/smily-product-manager" align="right" target="_blank">Apply</a>
@@ -59,7 +59,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-product-manager-needed-remote" align="right" target="_blank">Apply</a>
@@ -155,7 +155,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/adblock-inc-product-manager" align="right" target="_blank">Apply</a>
@@ -220,7 +220,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>613 days ago</text>
+                <text>614 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -272,127 +272,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1726283/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>RainForest</h5>
-                    <h3>AI Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>AI/ML,automation,research,product management</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/ai-product-manager-1726283" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div>We are looking for an AI Product Manager to lead the exploration, research and implementation of AI technologies within our product. This product manager will identify areas of our product that can be enhanced by AI and work with designers and engineers to implement AI solutions.</div>
-<div> </div>
-<div>Rainforest QA has a long standing pedigree of leveraging AI and ML in our product and our goal is to build on the technologies we have to extend and enhance our product capabilities through the use of AI.</div>
-<div> </div>
-<div>Rainforest QA is a distributed company full of smart, capable people from around the world who enjoy working together to make our customers successful.</div>
-<div> </div>
-<div>Our mission is to make it painless for every software team to measure and improve product quality. We’ve built our no-code test automation platform for developers and product managers who want to catch more bugs without slowing down the release process. Unlike most test automation, the platform requires zero code to write, run, and maintain end-to-end tests. Our customers love us because we allow them to release product updates more quickly while maintaining a high-quality user experience.</div>
-<p><br><br></p>
-<div class="h3">Role</div>
-<ul style="">
-<li style="">Research into AI technologies available, gain a deep understanding of these technologies and determine what may be applicable to the Rainforest product.</li>
-</ul>
-<ul style="">
-<li style="">Build prototypes to demonstrate feasibility of AI technologies.</li>
-</ul>
-<ul style="">
-<li style="">Design solutions which will deliver real business value leveraging cutting edge AI &amp; Intelligent Automation technologies.</li>
-</ul>
-<ul style="">
-<li style="">Create thought leadership that articulate our perspective on AI &amp; Intelligent Automation in our industry.</li>
-</ul>
-<ul style="">
-<li style="">Develop tools and services for the practical application of AI to address business problems.</li>
-</ul>
-<ul style="">
-<li style="">Assist product squads in implementing AI solution.</li>
-</ul>
-<ul style="">
-<li style="">Leverage data available to train AI algorithms, improve the accuracies of these algorithms within the Rainforest application.</li>
-</ul>
-<p><br><br></p>
-<div class="h3">Preferred Experience</div>
-<ul style="">
-<li style="">3 years in an AI engineering / consulting / PM role delivering AI solutions to internal or external customers.</li>
-</ul>
-<ul style="">
-<li style="">Bachelor's degree in Computer Science or related technical field, or equivalent practical experience.</li>
-</ul>
-<ul style="">
-<li style="">A demonstrable experience of designing and implementing AI solutions to deliver real business value.</li>
-</ul>
-<ul style="">
-<li style="">Able to own and drive the AI Strategy initiatives and track the outcomes by liaising with stakeholders.</li>
-</ul>
-<ul style="">
-<li style="">Must have solid background and understanding in AI &amp; Intelligent Automation.</li>
-</ul>
-<ul style="">
-<li style="">Fantastic active listening and communication skills.</li>
-</ul>
-<ul style="">
-<li style="">The ability to collaborate and communicate effectively live and asynchronously.</li>
-</ul>
-<ul style="">
-<li style="">A strong sense of autonomy, ownership, and comfort with a fast-paced startup.</li>
-</ul>
-<ul style="">
-<li style="">Someone who is curious and committed to innovation, continuous learning and growth.</li>
-</ul>
-<p><br><br></p>
-<div class="h3">What’s in it for you</div>
-<ul style="">
-<li style="">A unique opportunity to collaborate cross-functionally and help us enhance our product through the use of AI technologies.</li>
-</ul>
-<ul style="">
-<li style="">Smart, collegial coworkers from many countries and backgrounds who care about their work and each other.</li>
-</ul>
-<ul style="">
-<li style="">Excellent employee benefits. (Scroll down to get the deets.)</li>
-</ul>
-<p><br><br></p>
-<div class="h3">What Rainforest offers</div>
-<ul style="">
-<li style="">Competitive salary plus equity.</li>
-</ul>
-<ul style="">
-<li style="">100% company-paid medical, dental, and vision insurance coverage for employees, 75% for dependents (U.S., only).</li>
-</ul>
-<ul style="">
-<li style="">Unlimited paid time-off (PTO).</li>
-</ul>
-<ul style="">
-<li style="">A weekly allowance for lunches and a monthly allowance for remote office supplies or personal development.</li>
-</ul>
-<ul style="">
-<li style="">Semi-annual company off-sites in exciting destinations around the world.</li>
-</ul>
-<ul style="">
-<li style="">12 weeks of paid maternity leave and 8 weeks of paid leave for supporting parents (U.S., only).</li>
-</ul>
-<ul style="">
-<li style="">401k (U.S., only).</li>
-</ul>
-<div>A note on diversity and inclusion</div>
-<div>At Rainforest we believe that diverse teams improve our business. We are an equal opportunity employer and do not discriminate on the basis of race, religion, color, nationality, gender, sexual orientation, age, marital status, veteran status, or disability status.</div>
-<div> </div>
-<div>#LI-Remote</div>
-<img src="https://remotive.com/job/track/1726283/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
