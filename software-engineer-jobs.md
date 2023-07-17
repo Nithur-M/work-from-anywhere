@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>173 days ago</text>
+                <text>175 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -51,42 +51,6 @@
 </ol>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c">https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4287/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Stimulus</h5>
-                    <h3> Software engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>276 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/4287/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Amsterdam, NY
-    <br /><strong>URL:</strong> <a href="https://www.stimulus.com/">https://www.stimulus.com/</a>
-</p>
-
-<div><strong>About Stimulus</strong></div><div>
-<a href="https://www.stimulus.com/jobs/Stimulus.com">Stimulus</a> is a social platform started by Sticker Mule to show what's possible if your mission is to increase human happiness.</div><div><br></div><div><strong>We offer</strong></div><div>1. Remote work with flexible schedules</div><div>2. A privately owned, low-stress culture.</div><div>3. A fun "no bullshit" work environment</div><div><br></div><div>
-<strong>We like you to know<br></strong>1. Docker<br>2. NextJS<br>3. TypeScript<br>4. React<br>5. NodeJS<br>6. GraphQL<br>7. Redis</div><div><br></div><div><strong>Compensation and benefits</strong></div><div>1. Salary: $135k+ based on experience</div><div>2. $20,000 signing bonus</div><div>3. 4 weeks vacation + holidays based on your country of residence</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer">https://weworkremotely.com/remote-jobs/stimulus-software-engineer</a></p>
 
                 </details>
                 </td>
@@ -229,30 +193,6 @@
 &lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bonus for deep knowledge of at least one major cloud provider, AWS preferred&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1306325743580848130/mk0qvsZ9_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Kraken</h5>
-                    <h3>Senior Quantitative Software Engineer - Trading Technologies</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/kraken/c05f1ed6-6189-4586-9871-c64e5fc11732" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Internet of Money&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to industry-leading security, crypto education, and world-class client support through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://cryptowat.ch/" class="postings-link">Cryptowatch</a>.</div><div><br></div><div>Become a Krakenite and build the internet of money!</div><div><br></div><div><b style="font-size: 24px">Proof of Work </b></div><div><br></div><div><b style="font-size: 18px">The team</b></div><div><br></div><div>Join the Trading Technologies&nbsp; team and start building the internet of money by supporting the Sr Director of Engineering - Trading. The Trading Technology team is responsible for everything to do with the trading backend services such as the matching engine, market data gateways, internal and external APIs, and various other trading services. The Senior Quantitative Software Engineer will be a key contributor to the success of the Kraken Risk Desk team.</div><div><br></div></div><div class="section page-centered"><div><h3>The opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Develop quantitative models and algorithms to build trading strategies for the Kraken Risk Desk</li><li>Conduct research and analysis of large data sets to identify trends and patterns</li><li>Collaborate with cross-functional teams to ensure the accuracy and integrity of data</li><li>Develop, maintain and improve tools, systems and processes to streamline the data analysis and modeling process</li><li>Work with cross functionally with other engineering teams to ensure proper implementation of models in production systems</li><li>Participate in code reviews, identify and fix issues in the code, and develop testing frameworks</li><li>Stay up-to-date with the latest advancements in quantitative engineering and bring new ideas and techniques to the team</li><li>Performing other duties as required</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>Bachelor's or Master's degree in Mathematics, Statistics, Computer Science, or related field</li><li>Minimum of 5 years of experience in quantitative engineering or related field</li><li>Experience developing high-performance, multi-threaded applications using several programming languages including C++</li><li>Knowledge of scripting languages such as Python</li><li>Experience working with large data sets and statistical models</li><li>Strong analytical and problem-solving skills</li><li>Ability to work in a fast-paced and dynamic environment</li><li>Excellent communication and collaboration skills</li><li>Experience with or knowledge of cryptocurrency is a plus</li><div><br></div></ul></ul></div></div><div class="section page-centered"><div><h3>Nice to Haves</h3><ul class="posting-requirements plain-list"><ul><li>PhD in Mathematics, Statistics, Computer Science, or related field</li><li>Experience in machine learning and data mining</li><li>Experience working in finance or related industry</li><li>Experience with cloud computing technologies such as AWS or Azure</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Location Tagging: #US #EU #LI-Remote #Canada #LI-VF1</div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/c05f1ed6-6189-4586-9871-c64e5fc11732/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
