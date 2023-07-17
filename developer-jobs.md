@@ -1,5 +1,99 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/7908/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>BBE Marketing Inc</h5>
+                    <h3> Full-Stack Wordpress Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-5" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0064/7908/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Hurst, TX
+    <br /><strong>URL:</strong> <a href="http://bbemarketing.com/">http://bbemarketing.com/</a>
+</p>
+
+<div>BBE Marketing creates online products that help businesses connect with celebrities and influencers. We are looking for a talented Full-Stack Wordpress Developer to join our team, who could help us in shipping features for our application and drive our application design and architecture as we grow.<br><br>
+</div><div>The tasks include:<br><br>
+</div><div>- Developing plugins<br>- Making fixes and updates to existing plugins<br>- Work with team in planning and strategizing<br>- Working with designer in developing designs<br>- Various backend tasks<br><br>
+</div><div>You will love this role if:<br><br>
+</div><div>- You like working with the stakeholders directly. We’re a relatively small startup, there’s no bureaucracy and complex hierarchy. You’ll be communicating directly with all the team members, from CEO to Customer Support.<br>- You like to work and ship stuff fast without compromising quality. You know when to stop and call it done without trying to achieve the unattainable perfection.<br>- You’re not afraid to prove your point when necessary. We trust our team members and believe they have businesses best interest at heart. If there’s no simple solution to a problem, you can provide the arguments and clearly communicate the risks.<br>- Self-starter, we don’t like to micro-manage our team<br>- You treat privileged information with care. You can be trusted with sensitive company data<br>- Great communication skills<br><br>
+</div><div>Requirements:<br>- Experience with PHP<br>- Experience with Wordpress<br>- Experience with MySQL;<br>- Experience with Asana (preferred)<br>- Written and spoken English (required).<br>- Able to work 4 hours overlap within 07:00 - 18:00 PST<br><br>
+</div><div>
+<br><br>
+</div><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-5">https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-5</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/1275/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CobbleWeb</h5>
+                    <h3> Senior Full-stack PHP Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/cobbleweb-senior-full-stack-php-developer-4" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0084/1275/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> London
+    <br /><strong>URL:</strong> <a href="https://www.cobbleweb.co.uk">https://www.cobbleweb.co.uk</a>
+</p>
+
+<div><strong>What are we looking for?</strong></div><div>We are looking for solution-focused individuals with a can-do attitude. Your commitment to continuous learning means you are tech agnostic – always looking for the best way to execute a project or task. You share our philosophy of purpose-driven development that ensures the best possible outcomes for our clients. Like us, you believe in a strong work ethic and take pride in the quality of your code. You see the big picture and strive for the sense of accomplishment that comes from successfully executing a new project, such as an online marketplace that is perfectly geared for growth. Last but not least, you enjoy collaborating with a team of equally motivated developers and digital strategists.</div><div><br></div><div><strong>Job requirements</strong></div><ul>
+<li>Expert with Symfony framework (3+years experience)</li>
+<li>Expert PHP5, PHP7 (5+years experience)</li>
+<li>Strong Experience developing within ReactJS (2+years experience)</li>
+<li>Expert MySQL / Doctrine 2 (3+years experience)</li>
+<li>Experience Developing Frontend with Bootstrap/Material (1+years experience).</li>
+<li>Very strong Object Oriented Programming skills</li>
+<li>Experience with REST APIs</li>
+<li>Use of Docker in local and production environments</li>
+<li>Adoption of Agile methodologies</li>
+<li>Experience with techniques such as TDD, continuous integration and continuous delivery</li>
+<li>Experience with test automation using Behat, Jenkins, Selenium or other testing frameworks would be advantageous</li>
+<li>RabbitMQ, Redis, AWS or Elastisearch is a plus</li>
+<li>Be willing to help your teammates, share your knowledge with them, and learn from them.</li>
+<li>Be open to receiving feedback.</li>
+<li>Be conscientious and have a good work ethic.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/cobbleweb-senior-full-stack-php-developer-4">https://weworkremotely.com/remote-jobs/cobbleweb-senior-full-stack-php-developer-4</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0098/8346/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +104,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opesus-developer-consultant-for-sap-sustainability-solutions-europe" align="right" target="_blank">Apply</a>
@@ -92,7 +186,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2" align="right" target="_blank">Apply</a>
@@ -145,7 +239,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2" align="right" target="_blank">Apply</a>
@@ -207,7 +301,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/on-the-map-wordpress-developer" align="right" target="_blank">Apply</a>
@@ -259,7 +353,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/motorlot-ruby-on-rails-developer-fast-growing-auto-software-company" align="right" target="_blank">Apply</a>
@@ -294,7 +388,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>901 days ago</text>
+                <text>902 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1" align="right" target="_blank">Apply</a>
@@ -376,7 +470,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -451,7 +545,7 @@
                     <code>UI/UX,CI/CD</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -528,7 +622,7 @@
                     <code>C++,javascript,python,security</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -665,7 +759,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -742,7 +836,7 @@
                     <code>C,C#,unity,unity3D</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -886,7 +980,7 @@
                     <code>backend,frontend,fullstack,javascript</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -2010,30 +2104,6 @@
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote&nbsp;</p><p>Requisition ID: 405</p><p></p>
     
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1545121577632763912/7FMnABb0_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Collabora</h5>
-                    <h3>Partner Enablement Web Developer (Remote/Anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/collabora/34388d81-b117-4021-83b7-06494b599b18" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt">Collabora Productivity Ltd. is a software company specialising in bringing the innovation created in Open Source projects such as LibreOffice to the market, along with services, long term support and software consultancy. We combine years of open source software leadership with an understanding of the challenges that businesses, non-profits, and governments face.</span></div><div><br></div><div><span style="font-size: 11pt">Collabora Productivity brings deep technical expertise around the Office space, from our preferred Open Document format to many other, including legacy, document formats such as OpenXML and Microsoft binary formats, using modern technologies.</span></div><div><br></div><div>We are looking for a talented Engineer, a hacker, who can get involved in a diverse set of Partners' products and development improved COOL integration there.</div></div><div class="section page-centered"><div><h3>Key Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Building technical engagement in partner relationships, including:</li><li>bonding with their development teams</li><li>integrating existing Collabora Online integration features into Partners' products</li><li>communicating around timelines and tickets</li><li>occasional responsibility for helping partners solve technical issues, including connecting Partner's staff to the right internal resources</li><div><br></div></ul></ul></div></div><div class="section page-centered"><div><h3>Technical Skills</h3><ul class="posting-requirements plain-list"><ul><li>Excellent Communication Skills</li><li>Deep Linux Administration Skills</li><li>Wide but not extremely deep experience of multiple Web platforms from PHP, React, golang, Java, NodeJS - to enable extending and creating existing integrations around our embedded iframe: WOPI-like REST API implementation, PostMessages etc.</li><li>Docker experience a bonus</li><li>Kubernetes experience a bonus</li></ul></ul></div></div><div class="section page-centered"><div><h3>Commercial Skills</h3><ul class="posting-requirements plain-list"><ul><li>Understanding client needs and reconciling time constraints, available technologies and resources and open source best practices</li><li>Occasional Sales-engineering work to support sales and marketing</li><li>Occasional Account management work required for new partners and customers</li><li>Ability to work in a global context with clients and engineers spanning continents</li><li>Applicants must be available to work in European business hours</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/34388d81-b117-4021-83b7-06494b599b18/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
