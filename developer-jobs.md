@@ -1,6 +1,59 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/7908/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>BBE Marketing Inc</h5>
+                    <h3> Lead Full-Stack PHP Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-lead-full-stack-php-developer-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Hurst, TX
+    <br /><strong>URL:</strong> <a href="http://bbemarketing.com/">http://bbemarketing.com/</a>
+</p>
+
+<div>We are looking for a talented Full-Stack Developer to join our team, who could help us in shipping features for our application and drive our application design and architecture as we grow.<br><br>
+</div><div>
+<br><strong>The tasks include:</strong>
+</div><div>
+<br>- Developing new features<br>- Making fixes and updates to our in-house application<br>- Implementing quality checks, metrics and monitoring: automated testing, code style, integrating error reporting and performance monitoring tools etc.<br>- Work with team in planning and strategizing<br>- Making important architectural decisions<br><br>
+</div><div>
+<br><strong>You will love this role if:</strong><br><br>
+</div><div>
+<br>- You like working with the stakeholders directly. We’re a relatively small startup, there’s no bureaucracy and complex hierarchy. You’ll be communicating directly with all the team members, from CEO to Customer Support.<br>- You are a team player<br>- You like to work and ship stuff fast without compromising quality. You know when to stop and call it done without trying to achieve the unattainable perfection.<br>- You are a problem solver<br>- You know how to find an optimal solution and ship it fast without introducing unnecessary complexity and overhead.<br>- You’re not afraid to prove your point when necessary. We trust our team members and believe they have businesses best interest at heart. If there’s no simple solution to a problem, you can provide the arguments and clearly communicate the risks.<br>- Self-starter, we don’t like to micro-manage our team<br>- You treat privileged information with care. You can be trusted with sensitive company data<br><br>
+</div><div>
+<br><strong>Requirements:</strong><br>- Good written and spoken English.<br>- Solid experience with PHP, Symfony, MySQL (or any other RDBMS)<br>- Basic experience with Angular;<br>- Good knowledge of HTML, CSS, SASS/SCSS.<br>- Experience writing tests in PHP.  PHPUnit is a must. Knowledge of other testing frameworks and tools will be a plus.<br>- Experience writing tests in TS/JS. Experience with Jasmine.<br>- You have experience setting up and/or maintaining CI pipelines running tests and other quality checks.<br>- Able to work 4 hours overlap within 08:00 - 18:00 EST<br><br>
+</div><div>
+<br><strong>Nice to have:<br></strong>- Experience with DigitalOcean;<br>- Experience with Bitbucket Pipelines<br><br>
+</div><div><br></div><div>
+<strong>About us:<br></strong><br>
+</div><div>
+<br>BBE Marketing provides products and services to help businesses connect with celebrities and influencers. We are a small, fast growing company who is passionate about our mission.<br><br>
+</div><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-lead-full-stack-php-developer-1">https://weworkremotely.com/remote-jobs/bbe-marketing-inc-lead-full-stack-php-developer-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>BBE Marketing Inc</h5>
@@ -10,7 +63,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-5" align="right" target="_blank">Apply</a>
@@ -19,7 +72,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0064/7908/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
   <strong>Headquarters:</strong> Hurst, TX
@@ -54,7 +107,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/cobbleweb-senior-full-stack-php-developer-4" align="right" target="_blank">Apply</a>
@@ -104,7 +157,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opesus-developer-consultant-for-sap-sustainability-solutions-europe" align="right" target="_blank">Apply</a>
@@ -186,7 +239,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2" align="right" target="_blank">Apply</a>
@@ -239,7 +292,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2" align="right" target="_blank">Apply</a>
@@ -291,175 +344,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0098/8039/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>On The Map</h5>
-                    <h3> Wordpress Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/on-the-map-wordpress-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0098/8039/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Miami
-    <br /><strong>URL:</strong> <a href="https://www.onthemap.com/">https://www.onthemap.com/</a>
-</p>
-
-<div>
-<br>As a WordPress Developer, you will have the opportunity to work on diverse projects, continuously learn and grow, and contribute to changing the development process. Join us and enjoy a range of exciting benefits, including:<br><br>
-</div><div>
-<strong><br>Benefits:</strong><br>- Work in a dynamic international company with a majority of colleagues from the USA.<br>- Access to free online courses to enhance your skills.<br>- Join an enjoyable and talented team that values collaboration.<br><br>
-</div><div>
-<strong><br>Perks:</strong><br>- Competitive salary to recognize your expertise.<br>- Monthly bonus system to reward your achievements.<br><br>
-</div><div>
-<strong><br>Requirements:</strong><br>- A strong desire for continuous growth and learning.<br>- Previous experience developing WordPress websites.<br>- Proven understanding of front-end technologies such as HTML5, CSS3, and JavaScript.<br>- Comfortable building custom WordPress sites.<br>- Experience in building user interfaces for websites and/or web applications.<br>- Proficiency with debugging tools like Chrome Dev Tools, Firebug, etc.<br>- Experience in designing and developing responsive design websites.<br>- Proficient in command line usage.<br>- Ability to understand CSS/SCSS changes and ensure consistent style across platforms and browsers.<br>- Capability to convert comprehensive layouts and wireframes into working HTML pages.<br>- Proficient in using and altering MySQL databases.<br>- Passion for writing clean code.<br>- Excellent written and verbal English communication skills.<br>- Experience with web servers, e.g., Nginx, Apache.<br>- Ability to work independently and effectively within a team environment.<br><br>
-</div><div>
-<strong><br>Advantages:</strong><br>- Experience interacting with RESTful APIs and formats (JSON, XML).<br>- Familiarity with React, Redux, and Vue frameworks is a plus.<br>- Comfortable using Git for branching, merging, and resolving merge conflicts.<br>- Strong understanding of PHP back-end development.<br>- Experience in developing Shopify sites using Liquid.<br>- Knowledge of PHP OOP and integration via APIs.<br>- Technical SEO knowledge.<br><br>
-</div><div>
-<br><strong>How to apply?<br><br></strong>Send your CV and record a video (up to 5 minutes) answering the following questions:</div><ol>
-<li>Please introduce yourself </li>
-<li>Please describe your experience with WordPress. </li>
-<li>What's your biggest strength as WordPress/full-stack developer</li>
-<li>What kind of custom functionality have you built with WordPress (if you have any)</li>
-<li>What was the biggest challenge you faced or a project you worked on as a WordPress developer and how did you handle it? </li>
-</ol><div>For the video, you can use Loom, youtube, etc, or send just a file directly via email.</div><div>
-<br>Thank you! </div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/on-the-map-wordpress-developer">https://weworkremotely.com/remote-jobs/on-the-map-wordpress-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0000/2318/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MotorLot</h5>
-                    <h3> ++ Ruby on Rails Developer ++ Fast Growing Auto Software Company</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/motorlot-ruby-on-rails-developer-fast-growing-auto-software-company" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0000/2318/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Scottsdale, A
-    <br /><strong>URL:</strong> <a href="http://motorlot.com">http://motorlot.com</a>
-</p>
-
-<div>Who is MotorLot?</div><div><br></div><div>MotorLot is the engine that runs independent auto dealers across the country. We've grown revenue 2300% in the last 3 years. We are expanding and would love to have you work with us!</div><div><br></div><div>What you'll be working on:</div><div>
-<br>Looking for a Rails programmer who loves challenges and is a bit car crazy. You'll be working on a wide variety of projects like:</div><div><br></div><div>Adding an integration with an outside marketing partner using an API.</div><div>Adding functionality to dealer websites.</div><div>Optimizing usage rates.</div><div>Work on optimizing backend ops.</div><div><br></div><div>Ideal Experience</div><div>2+ years experience building web applications using Ruby on Rails</div><div>Experience with MySQL database and writing SQL</div><div>Experience with (X)HTML and CSS</div><div>Experience with Javascript/jQuery</div><div>Experience with Amazon services</div><div>Strong knowledge of version control systems and application deployment</div><div>Experience working with API and FTP data imports and exports</div><div>Self-motivated and self-managed</div><div>Proven capability of working remotely</div><div>Ability to work in a fast paced, deadline driven, dynamic environment</div><div>A passion for the technologies of the web</div><div><br></div><div>Bonus</div><div>Experience building B2B applications</div><div>Experience in scaling web applications</div><div>Experience with test- or behavior-driven development<br>Open source contributions</div><div>Startup or small company experience</div><div>Entrepreneurial tendencies; you can take a task and get things done. We want to set you free to do your best</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/motorlot-ruby-on-rails-developer-fast-growing-auto-software-company">https://weworkremotely.com/remote-jobs/motorlot-ruby-on-rails-developer-fast-growing-auto-software-company</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/8032/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Storetasker</h5>
-                    <h3> Senior Shopify Developer (Remote + Flexible)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>902 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/8032/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Brooklyn, NY
-    <br /><strong>URL:</strong> <a href="https://resources.storetasker.com/become-an-expert?apply=true&amp;source=weworkremotely_best_2021">https://resources.storetasker.com/become-an-expert?apply=true&amp;source=weworkremotely_best_2021</a>
-</p>
-
-<h1>Shopify developers love to freelance with Storetasker.</h1><ul>
-<li>
-<strong>Endless, quality clients: </strong>from well known DTC brands to top agencies. </li>
-<li>
-<strong>Fully remote, flexible: </strong>work as much or as little as you want, wherever you want. </li>
-<li>
-<strong>A talented and helpful community: </strong>it's freelance (with a team).</li>
-<li>
-<strong>Earn $80-$120 per hour: </strong>pick your clients, and send your own quotes or retainers. <br><br>
-</li>
-</ul><div>We've connected our community of Shopify developers to over 32,000 e-commerce brands. From new brands pre-launch, to some of the most successful Shopify Plus sites, to top creative agencies. Clients include: <a href="https://www.alphaindustries.com/">Alpha Industries</a>, <a href="https://www.bollandbranch.com/">Boll &amp; Branch</a>, <a href="https://getsuperfluid.com">Superfluid</a>, <a href="https://jackhenry.co/">Jack Henry</a>, <a href="http://plenaire.co/">Plenaire</a>, and <a href="https://walkfulton.com/">Fulton</a> among many more. <br><br><strong>Why Storetasker?</strong>
-</div><ul>
-<li>
-<strong>Endless clients &amp; project opportunities:</strong> you’ll see between 5 - 50 new opportunities per day and can pick any lead you want. </li>
-<li>
-<strong>You’ll earn more:</strong> some experts are making $150-200k per year. </li>
-<li>
-<strong>A high quality community:</strong> we carefully select about 5% of those who apply. </li>
-<li>
-<strong>Remote:</strong> work from anywhere, anytime. </li>
-<li>
-<strong>Flexible:</strong> take on as many clients as you want.</li>
-<li>
-<strong>No external ratings:</strong> you’re already a professional. No need to prove it. </li>
-<li>
-<strong>Great Software:</strong> that makes it easy to manage more clients and increase billable hours.</li>
-<li>
-<strong>Support when you need it:</strong> we offer project support 7 days per week. </li>
-<li>
-<strong>Community (not competition):</strong> you pick your clients, projects, and never compete against other Experts in the community. </li>
-</ul><div><br></div><div>
-<a href="https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_best_2021"><strong>Learn more and join</strong></a>! It’s confidential, and takes less than 5 minutes. <br><br><strong>Here's who we're looking for:</strong>
-</div><ul>
-<li>Ambitious part time and full-time freelancers and boutique agencies.</li>
-<li>Who have 3+ years of Shopify experience, and 5+ years of web development experience. </li>
-<li>And who have managed projects, deadlines, and communication successfully. </li>
-</ul><div>
-<br><strong>Especially people with some of these skills:</strong>
-</div><ul>
-<li>Front-end or full-stack Shopify development</li>
-<li>Klaviyo Email flows</li>
-<li>Headless e-commerce development</li>
-<li>Conversion rate optimization</li>
-<li>E-commerce expertise and strategy</li>
-<li>SEO </li>
-<li>Site Speed</li>
-<li>Builder and/or Shogun</li>
-</ul><div>
-<br><a href="https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_best_2021"><strong>It takes just a few minutes to join.</strong></a><br><br><strong>Here's what a few current members have to say:</strong><br><br>"Storetasker has changed my life - I'm not only making more, but I'm getting quality leads, a diverse slate of projects, and access to an amazing group of developers. Plus, I love the HQ team!" - Adan, United States, Storetasker Expert since March 2020<br><br>"Storetasker has connected me with clients that would never have been possible without them. That combined with an incredible support network and community makes joining an amazing opportunity for any developer”" - Mark, England, Storetasker Expert since 2019<br><br>"Storetasker has allowed me to live out my dreams as an independent developer - to move to Toronto and continue doing what I love: solving interesting problems and helping apparel companies grow." - Siah, Canada, Storetasker Expert since 2017<br><br><strong>Our Mission: </strong><br><br>We're a company built by ex-freelancers who know the ins and outs of being an independent entrepreneur. We've experienced first-hand the shortcomings of other freelance platforms and the pain-points of being fully independent. Our mission is to empower e-commerce entrepreneurs by giving them the experts, insights, and resources to succeed.  <br><br><strong>Questions?</strong> Reach out at experts@storetasker.com.</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1">https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1680495/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -470,7 +354,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -545,7 +429,7 @@
                     <code>UI/UX,CI/CD</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -622,7 +506,7 @@
                     <code>C++,javascript,python,security</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -759,7 +643,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -836,7 +720,7 @@
                     <code>C,C#,unity,unity3D</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unity-developer-1606658" align="right" target="_blank">Apply</a>
@@ -970,75 +854,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1359476/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify</h5>
-                    <h3>Senior Full Stack Developer</h3>
-                </td>
-                <td width="300">
-                    <code>backend,frontend,fullstack,javascript</code>
-                </td>
-                <td width="200">
-                <text>29 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>About us: </p>
-<p> </p>
-<p>"Talent has no borders." We strongly believe in uplifting talent by providing them with the right opportunities - no matter which part of the world you are from, we value your skills and offer every member the growth possibilities they deserve. 🙂</p>
-<p> </p>
-<p>Proxify is a global network and a supportive community of talented developers interested in long-term remote jobs. </p>
-<p>With us, you will get opportunities:</p>
-<p>To work remotely on exciting projects with leading brands and fast-growing startups.</p>
-<p>To work on commision free project-based jobs.</p>
-<p>To work with companies that respect and value your skills.</p>
-<p> </p>
-<p>Since our launch, talented developers on Proxify have worked with 620+ happy clients to build their products and growth features. 1400+ talented developers trust Proxify and the community we are building to fulfil their dreams and objectives. </p>
-<p><br><br></p>
-<p>The Role:</p>
-<p>We are searching for a Senior Full Stack Developer skilled in React.js and Node.js. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </p>
-<p><br><br></p>
-<p>What we are looking for:</p>
-<p>4+ years of working experience as a FullStack;</p>
-<p>Frontend:</p>
-<p>- React JS;</p>
-<p>- Design System;</p>
-<p>Backend:</p>
-<p>- Microservices architecture;</p>
-<p>- NodeJS; </p>
-<p>Database:</p>
-<p>- SQL;</p>
-<p>- MongoDB;</p>
-<p>Upper-intermediate or higher English level.</p>
-<p> </p>
-<p>Nice-to-have: </p>
-<p>Timezone: CET (+/- 3 hours);</p>
-<p>Database Architecture knowledge</p>
-<p><br><br></p>
-<p>What we offer:</p>
-<p>💻 100% remote work: Work from anywhere.</p>
-<p>👌🏻 Flexibility: The ability to change the project to another one.</p>
-<p>💵 Financial growth: Competitive compensation and performance-based increases.</p>
-<p>🧘🏻‍♂️ Freedom: Very flexible working schedule.</p>
-<p>🚀 360 degree growth: Opportunities for professional development and personal growth.</p>
-<p><br><br><br></p>
-<p>Your benefits with Proxify:</p>
-<p>Be part of Proxify community: Network with like-minded and enthusiastic individuals to make a difference. </p>
-<p>Make an impact: You get the opportunity to work on the projects that inspire you and add value to your career.</p>
-<p>Transparency: Contracts with transparency in earnings and working hours.</p>
-<p>Save your time: Fast and efficient hiring process to match you with the project of your preference.</p>
-<p>Ownership: Take ownership of your work and enjoy more freedom in your career.</p>
-<img src="https://remotive.com/job/track/1359476/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1651226564728700928/h0tz5UT1_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -1102,6 +917,7 @@
 <ul>
 <li>Experience with PostgreSQL as a user and/or extension author.</li>
 <li>Experience with GraphQL.</li>
+<li>Experience with Nix package manager.&nbsp;</li>
 <li>Experience working on a large, open-source projects.</li>
 <li>Open source rust contributions.</li>
 </ul>
