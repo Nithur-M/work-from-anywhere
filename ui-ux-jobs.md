@@ -1,5 +1,65 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0006/6215/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>RemoteMore</h5>
+                    <h3> Remote UX/UI Designer </h3>
+                </td>
+                <td width="300">
+                    <code>Design</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/remotemore-remote-ux-ui-designer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0006/6215/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Berlin/Chicago 
+    <br /><strong>URL:</strong> <a href="https://remotemore.com/candidates/?utm_source=wwr&amp;utm_medium=jobpost&amp;utm_campaign=uxui">https://remotemore.com/candidates/?utm_source=wwr&amp;utm_medium=jobpost&amp;utm_campaign=uxui</a>
+</p>
+
+<div><strong>The position</strong></div><div><br></div><div>RemoteMore is helping a large tech company urgently hire UX/UI Designers for its US and Europe teams. </div><div><br></div><div>The company is a major tech leader and works across many internal product teams. Multiple UX/UI Designers will be hired and matched to the teams that are best fit for their background/experience. All product teams are fully distributed. The company culture is to focus on work delivered and not hours worked.</div><div><br></div><div>You will work with other senior colleagues with many opportunities to grow professionally. You can work from home or any other place of your choice!</div><div><br></div><div>The position is full-time and fully-remote.<br><br>
+</div><div>
+<br><br>
+</div><div><strong>Your profile</strong></div><div><br></div><div>Coming from a strong Design background, you are expected to have:</div><div><br></div><ul>
+<li>
+<strong>Required hard skills</strong>: UI/UX design skills, Wireframing, and experience using design tools such as Figma, Sketch, Adobe Creative Cloud, etc.</li>
+<li>
+<strong>Bonus hard skills</strong>: Knowledge of HTML, JavaScript, CSS or other web-development language tools. Familiarity with both Desktop and Mobile design.</li>
+<li>
+<strong>Top abilities</strong> for your level of experience: <strong>Intermediate or Senior</strong> level (3+ years of experience required)</li>
+<li>
+<strong>The soft skills</strong> to work remotely. Strong individual contributor, strong communication skills.</li>
+<li>
+<strong>Passion for remote work</strong>. You understand the pros and cons of working remotely.</li>
+<li>
+<strong>Good English language</strong> skills to work as part of an international team.<br><br>
+</li>
+</ul><div><br></div><div><strong>Why should YOU apply?</strong></div><div><br></div><ul>
+<li>Work in an international team of top tech professionals</li>
+<li>Competitive compensation based on your skills</li>
+<li>Work from anywhere you want</li>
+<li>Make a difference<br><br>
+</li>
+</ul><div><br></div><div>To be considered for the position, please sign up for RemoteMore by following the apply button link.<br><br>
+</div><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/remotemore-remote-ux-ui-designer">https://weworkremotely.com/remote-jobs/remotemore-remote-ux-ui-designer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/2990/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +70,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/onthegosystems-senior-ui-ux-designer-1" align="right" target="_blank">Apply</a>
@@ -74,7 +134,7 @@
                     <code>go,UI/UX,wordpress,chat</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
