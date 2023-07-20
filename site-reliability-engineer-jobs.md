@@ -10,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/shiphero-senior-site-reliability-engineer" align="right" target="_blank">Apply</a>
@@ -88,7 +88,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>270 days ago</text>
+                <text>272 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-site-reliability-engineer-1" align="right" target="_blank">Apply</a>
@@ -174,7 +174,7 @@
                 <td width="300">
                     <h5>DuckDuckGo</h5>
                     <h3>
-            Senior Site Reliability Engineer (U.S. & Canada Remote)
+            Senior Site Reliability Engineer (Remote)
           </h3>
                 </td>
                 <td width="300">
@@ -184,7 +184,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://duckduckgo.recruitee.com/o/senior-site-reliability-engineer-us-canada-remote" align="right" target="_blank">Apply</a>
+                <a href="https://duckduckgo.recruitee.com/o/senior-site-reliability-engineer-remote" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -209,7 +209,7 @@
 <li>Enhance our automation around infrastructure provisioning and configuration management to prioritize efficiency, scalability and reliability.</li>
 <li>Help identify the future technical direction of our deployment with an effort to improve reliability and performance.</li>
 <li>Work closely with software engineers to triage production issues and identify appropriate remediation, including code changes and performance considerations.</li>
-<li>Participate in our on-call rotation. Currently, there are two daily shifts, covering the North American Eastern Time Zone (12AM-12PM and 12PM-12AM). Exact shift schedules may be subject to change in future, but currently we expect you to be on-call for one week, about every 4-5 weeks. During this week, you will be scheduled 12PM-12AM Eastern Time (including the weekend), with an expectation of being about 10 minutes away from a keyboard while outside of your primary working hours.</li>
+<li>Participate in our on-call rotation. Currently, there are two daily shifts, covering the North American Eastern Time Zone (12AM-12PM and 12PM-12AM). Exact shift schedules may be subject to change in future, but currently we expect you to be on-call for one week, about every 4-5 weeks. During this week, you will be scheduled<strong> 12PM-12AM Eastern Time (including the weekend)</strong>, with an expectation of being about 10 minutes away from a keyboard while outside of your primary working hours.</li>
 </ul>
 <p><br></p>
 <p><strong>What You Will Bring to DuckDuckGo</strong></p>
@@ -220,9 +220,7 @@
 <li>Moderate-to-advanced programming experience, preferably in a high-level language like Perl or Python.</li>
 <li>Experience participating in a 24x7 on-call rotation for a large-scale deployment.</li>
 <li>Effective project management skills; you have successfully launched projects from inception to production, utilizing strong communication skills and effective stakeholder management.</li>
-<li>Resident in the U.S. or Canada.</li>
 </ul>
-<p><br></p>
 <p><strong>COMPENSATION</strong></p>
 <p>Annual compensation: $170,000 USD and stock options. Compensation is the same within a professional level, regardless of geographic location or functional area, and the compensation for each professional level is transparent across the organization.</p>
 <p><br></p>
@@ -255,8 +253,7 @@
 <li>A successful candidate will be subject to a background check and must receive satisfactory results of the same, as a condition of joining the team. </li>
 <li>By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work. </li>
 </ol>
-<p><br></p>
-<p>#US #CN</p>
+<p>#US #UK #SP #PL #IR #IC #HN #CR #CN&nbsp;<br></p>
 <p><br></p>
           
                 </details>
