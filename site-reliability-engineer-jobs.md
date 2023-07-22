@@ -1,83 +1,5 @@
 <div align="center"><h2>SITE RELIABILITY ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0098/8066/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>ShipHero</h5>
-                    <h3> Senior Site Reliability Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>8 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/shiphero-senior-site-reliability-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0098/8066/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> New York
-    <br /><strong>URL:</strong> <a href="https://shiphero.com">https://shiphero.com</a>
-</p>
-
-<div>Hello. We are ShipHero <a href="https://shiphero.com/">(https://shiphero.com)</a>. We have built a software platform entrusted by hundreds of eCommerce companies, large and small to run their operations and we continue to grow. About US$5 billion of eCommerce orders are shipped a year via ShipHero. Our customers sell on Shopify, Amazon, Etsy, eBay, WooCommerce, BigCommerce, and many other platforms. We’re driven to help our customers grow their businesses by providing a platform that solves complex problems, and is engineered to be reliable and fast. We are obsessed with building great technology, that is beautiful, easy to use, and is loved by our customers. Our culture also reflects our ethos and belief that by bringing passionate, talented, and great people together - you can do great things.<br><br>
-</div><div>Our team is fully remote, the company has always been remote. We communicate regularly using video chat and Slack and put a strong emphasis on asynchronous work so people have large chunks of uninterrupted time to focus and do deep work.<br><br>
-</div><div>We are seeking an experienced Site Reliability Engineer to join our growing team. We are looking for someone with a recent track record of building and maintaining complex infrastructure within AWS (Amazon Web Services). You would be a fundamental team member, focusing on building a solid foundation for the platform. We seek excited and driven people to continue growing with the experience of working with talented engineers and helping others improve.<strong><br><br></strong><br>
-</div><div>
-<strong>About You<br></strong><br>
-</div><ul>
-<li>You understand that great things are accomplished when people and teams work together.</li>
-<li>You feel comfortable owning processes and tools for deploying to production and scaling.</li>
-<li>You understand modern web architectures and tiers.</li>
-<li>You have a solid understanding of security best practices.</li>
-<li>You take pride in your craft.</li>
-<li>You have made (a lot of) mistakes and, most importantly, have learned from them.</li>
-<li>You are comfortable and even enjoy mentoring others in different skill sets.</li>
-<li>You have worked on medium and large projects that have gone to production and lived there for a while.</li>
-<li>You have a passion for automating, developing, and improving complex workflows.</li>
-<li>You have strong scripting skills</li>
-</ul><div>
-<strong>Tech Knowledge<br></strong><br>
-</div><div>We are looking for 6+ years of production experience with AWS and:<br><br>
-</div><ul>
-<li>Aurora RDS (MySQL), Lambda, S3, SQS (Simple Queue Service).</li>
-<li>Practical application with Infrastructure and Application Monitoring (We use Sentry, Honeycomb, and CloudWatch).</li>
-<li>Comfortable debugging running applications for memory leaks, CPU, and usage, especially under Apache, mod_wsgi, Nginx, and Gunicorn.</li>
-<li>Broad knowledge of AWS cloud security (AWS Inspector, Guard Duty. WAF &amp; Security Hub), infrastructure-as-code.</li>
-<li>The skills to write infrastructure-as-code and automate routine activities.</li>
-<li>A record of working with distributed teams across an organization to achieve goals.</li>
-<li>Python (preferably 3.6+).</li>
-<li>Terraform including authoring modules.</li>
-<li>Docker and building images including multi-stage with secrets</li>
-<li>CI/CD automation (we use GitHub Action, AWS CodeBuild, and CodePipeline)</li>
-</ul><div>
-<strong>The Role<br></strong><br>
-</div><div>Provide hands-on configuration, setup &amp; maintenance of our development, and production environments.<br><br>
-</div><div>Collaborate with other teams on monitoring &amp; debugging solutions.<br><br>
-</div><div>Developing, automating, and operating our cloud infrastructure platform.<br><br>
-</div><div>Respond to incidents, ensuring the restoration of services when required.<br><br>
-</div><div>Contribute to the team's backlog of activities.<br><br>
-</div><div>Be part of on-call support.<br><br>
-</div><div>Automate yourself and others out of everyday tasks.<br><br>
-</div><div>Ability to estimate effort and ship on an agreed schedule. Comfortable pushing yourself and your team members when challenges pop up.<br><br>
-</div><div>Learn and push those around you to do the same – this is a craft that you're constantly improving upon.<br><br>
-</div><div>Implement solutions that are pragmatic to get the platform built.<br><br>
-</div><div>Have the confidence to work with experienced and talented people to build great things; you are not a 'rock star' but a team player that takes the initiative.<br><br>
-</div><div>We want everyone to be self-sufficient and firmly believe how we collaborate &amp; communicate is of significant importance. Here is a glimpse of how we roll: <a href="https://shiphero.com/careers/communication-guidelines/">https://shiphero.com/careers/communication-guidelines/<br></a><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/shiphero-senior-site-reliability-engineer">https://weworkremotely.com/remote-jobs/shiphero-senior-site-reliability-engineer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/0772/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -88,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>272 days ago</text>
+                <text>274 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-site-reliability-engineer-1" align="right" target="_blank">Apply</a>
