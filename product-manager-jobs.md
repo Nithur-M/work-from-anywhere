@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/smily-product-manager" align="right" target="_blank">Apply</a>
@@ -59,7 +59,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-product-manager-needed-remote" align="right" target="_blank">Apply</a>
@@ -155,7 +155,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/adblock-inc-product-manager" align="right" target="_blank">Apply</a>
