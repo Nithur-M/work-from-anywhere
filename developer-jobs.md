@@ -1,5 +1,148 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0098/9035/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Gymdesk</h5>
+                    <h3> PHP / Mobile (Flutter) developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/gymdesk-php-mobile-flutter-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0098/9035/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://gymdesk.com">https://gymdesk.com</a>
+</p>
+
+<p>Gymdesk provides modern, online management software to gyms, martial arts schools, yoga studios and other fitness and wellness businesses. In an industry dominated by outdated and cumbersome products, we provide the superior user experience people expect in 2023.</p><p><img src="https://gymdesk.com/images/lp/dashboard-small.png">We are looking for a PHP developer with mobile / Flutter development experience, to join our team and help us continue to improve our web and mobile apps.</p><p>You should love managing complexity in elegant ways, and creating beautiful user interfaces that hide that complexity in the backend. The product is mature, but is constantly evolving / adapting based on new use-cases and user feedback.</p><p><strong>About the role:</strong></p><p>You will be join a small but effective team, as our 5th dev team member. You'll receive training on the stack, platform and flows within the software. Gym management might not sound complicated, however there is a lot of complexity hidden behind our shiny UI, as we account for many different use-case that you likely have never considered as part of running a gym. Regardless of your past experience, we believe this will be a worthy challenge.</p><p><strong>About the team:</strong></p><p>Gymdesk is a small and effective team (currently 12 people). We don't have office politics and try to minimize the amount of interruptions you will have to deal with. We are a remote team that communicates mostly through slack and video chats as needed. We use Github to manage our repos, tickets and sprints.</p><p><strong>Requirements:</strong></p><ul>
+<li><p><strong>3+ years of demonstrated professional experience with the PHP stack</strong> (language, frameworks, open-source libraries, web servers)</p></li>
+<li><p><strong>A growth mindset.</strong> You want to challenge yourself to grow as a developer and individual contributor and take on new responsibilities and acquire new skills.</p></li>
+<li><p><strong>Solid experience with web technologies</strong> including HTML5, CSS, vanilla Javascript and jQuery</p></li>
+<li><p><strong>1+ years of mobile development experience</strong>, especially cross-platform development with <strong>Flutter</strong></p></li>
+<li><p><strong>Good understanding of user experience and flows</strong></p></li>
+<li><p><strong>Excellent verbal and written communication skills.</strong></p></li>
+<li><p><strong>Availability </strong>during 9am-5pm in CST (give or take +/- 2 hours). Please only apply if you are able to work during those hours</p></li>
+<li><p>And most importantly, a natural ability to <strong>get stuff done</strong></p></li>
+</ul><p><strong>Compensation:</strong></p><ul>
+<li><p>This is a full-time, 40-hour a week role</p></li>
+<li><p>Annual salary of $85k-$115k depending on skills, seniority and fit</p></li>
+<li><p>Health and dental reimbursement plan (pick your own insurance) for US based employees</p></li>
+<li><p>20 PTO days a year, in additional to national holidays</p></li>
+<li>
+<p>Home office improvement budget</p>
+<p></p>
+</li>
+</ul><p>If you’re excited about creating software that looks beautiful on the front end and elegant on the back end, give us a shot. We’ll do our best to make the interview experience fast, enjoyable, and mentally stimulating.</p><p>If we don’t get a chance to speak with you, thank you so much for your interest, and hopefully there will be a better opportunity down the line.</p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/gymdesk-php-mobile-flutter-developer">https://weworkremotely.com/remote-jobs/gymdesk-php-mobile-flutter-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0098/9004/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Harley Therapy - Psychotherapy & Counselling</h5>
+                    <h3> Mid-level  Ruby and JavaScript Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/harley-therapy-psychotherapy-counselling-mid-level-ruby-and-javascript-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0098/9004/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://harleytherapy.com">https://harleytherapy.com</a>
+</p>
+
+<div>We are Harley Therapy - established in 2006, and well-known as London's premium mental therapy providers. We have a team of highly experienced psychotherapists, clinical and counselling psychologists and psychiatrists in central London. We also run the Harley Therapy Platform, which is the UK’s leading mental therapy platform with therapists practising from their own rooms UK-wide.</div><div><br></div><div>We are a small team with big ambitions, and we are looking for a mid-level developer with equally strong skills in Ruby and JavaScript, and multi-year experience with Ruby, Rails, JavaScript, and CSS.</div><div><br></div><div>We use islands of JS and React, but experience with React is not necessary, as a good developer with good JS skills will be able to pick it up quickly. We like to use the right tool for the job, and only reach for React when the UI and UX will benefit.</div><div><br></div><div>This is a full time position, working remotely (GMT~5) to help improve all our software and websites, and in one case, help us rebuild the administrative system that helps our amazing admin team to manage clients and therapists.</div><div><br></div><div>You will have a hand in everything, and as we are a very small team, and you will also have a say in everything related to the technology side of the company. This also means that you will be expected to take responsibility for the entire stack from server to client. It will be common for you to be asked to build a new feature, right the way through from spec, UI, server, client, and of course deployment (we host on Heroku, with PostgreSQL, Sidekiq).</div><div><br></div><div>You will be an eager and passionate developer that loves what you do, and a fast learner that can hit the ground running without needing much of a hand to hold. A love of open source software would be a great benefit to you - and us.</div><div><br></div><div>This is a full time position, with great pay, and we will be happy to have you on board on a contract or employment basis.</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/harley-therapy-psychotherapy-counselling-mid-level-ruby-and-javascript-developer">https://weworkremotely.com/remote-jobs/harley-therapy-psychotherapy-counselling-mid-level-ruby-and-javascript-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7016/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Bottomless</h5>
+                    <h3> Senior Full Stack Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-11" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/7016/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Seattle, Wa
+    <br /><strong>URL:</strong> <a href="https://www.bottomless.com/">https://www.bottomless.com/</a>
+</p>
+
+<div>We are looking for a jack-of-all-trades <strong><em>senior</em></strong> javascript/full stack developer.<br><br>The ideal candidate for this position would be able to dive into any kind of project, from frontend UI/UX tasks in React.js to backend tasks running on Node.js.<br><br>If you’re interested in variety and working hard to build something big, this might be a good fit.<br><br>We need to achieve <em>80% of the results with 20% of the effort</em>.<br><br><strong>Responsibilities:</strong>
+</div><ul>
+<li>Design and build infrastructure and products for a sensor-enabled e-commerce marketplace.</li>
+<li>Build robust infrastructure to support existing product lines and the ability to roll out new ones.</li>
+<li>Responsibility over the user-facing product</li>
+<li>Quick iteration on different fronts from fronted UX changes to database design to quick and dirty implementations.</li>
+<li>Responsible for full deployment and testing of applications.</li>
+</ul><div><br></div><div><strong>Skill, Qualifications, and Experience:</strong></div><div><br></div><div><em>Expert proficiency required:</em></div><ul>
+<li>Node.js</li>
+<li>NoSQL databases</li>
+<li>React.js</li>
+<li>English (written and verbal)</li>
+</ul><div><br></div><div><em>Intermediate proficiency, at a minimum:</em></div><ul>
+<li>UI/UX design</li>
+<li>Software architecture</li>
+</ul><div>
+<br>Not required, but a plus:</div><ul>
+<li>Python (background tasks)</li>
+<li>Embedded systems (C++)</li>
+</ul><div> <br><strong>Details:</strong>
+</div><ul>
+<li>Remote OK. Must be flexible with hours as we have a remote international team.</li>
+<li>Competitive equity and cash compensation</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-11">https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-11</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +153,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/storeganise-full-stack-javascript-developer-1" align="right" target="_blank">Apply</a>
@@ -86,59 +229,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>BBE Marketing Inc</h5>
-                    <h3> Lead Full-Stack PHP Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-lead-full-stack-php-developer-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Hurst, TX
-    <br /><strong>URL:</strong> <a href="http://bbemarketing.com/">http://bbemarketing.com/</a>
-</p>
-
-<div>We are looking for a talented Full-Stack Developer to join our team, who could help us in shipping features for our application and drive our application design and architecture as we grow.<br><br>
-</div><div>
-<br><strong>The tasks include:</strong>
-</div><div>
-<br>- Developing new features<br>- Making fixes and updates to our in-house application<br>- Implementing quality checks, metrics and monitoring: automated testing, code style, integrating error reporting and performance monitoring tools etc.<br>- Work with team in planning and strategizing<br>- Making important architectural decisions<br><br>
-</div><div>
-<br><strong>You will love this role if:</strong><br><br>
-</div><div>
-<br>- You like working with the stakeholders directly. We’re a relatively small startup, there’s no bureaucracy and complex hierarchy. You’ll be communicating directly with all the team members, from CEO to Customer Support.<br>- You are a team player<br>- You like to work and ship stuff fast without compromising quality. You know when to stop and call it done without trying to achieve the unattainable perfection.<br>- You are a problem solver<br>- You know how to find an optimal solution and ship it fast without introducing unnecessary complexity and overhead.<br>- You’re not afraid to prove your point when necessary. We trust our team members and believe they have businesses best interest at heart. If there’s no simple solution to a problem, you can provide the arguments and clearly communicate the risks.<br>- Self-starter, we don’t like to micro-manage our team<br>- You treat privileged information with care. You can be trusted with sensitive company data<br><br>
-</div><div>
-<br><strong>Requirements:</strong><br>- Good written and spoken English.<br>- Solid experience with PHP, Symfony, MySQL (or any other RDBMS)<br>- Basic experience with Angular;<br>- Good knowledge of HTML, CSS, SASS/SCSS.<br>- Experience writing tests in PHP.  PHPUnit is a must. Knowledge of other testing frameworks and tools will be a plus.<br>- Experience writing tests in TS/JS. Experience with Jasmine.<br>- You have experience setting up and/or maintaining CI pipelines running tests and other quality checks.<br>- Able to work 4 hours overlap within 08:00 - 18:00 EST<br><br>
-</div><div>
-<br><strong>Nice to have:<br></strong>- Experience with DigitalOcean;<br>- Experience with Bitbucket Pipelines<br><br>
-</div><div><br></div><div>
-<strong>About us:<br></strong><br>
-</div><div>
-<br>BBE Marketing provides products and services to help businesses connect with celebrities and influencers. We are a small, fast growing company who is passionate about our mission.<br><br>
-</div><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-lead-full-stack-php-developer-1">https://weworkremotely.com/remote-jobs/bbe-marketing-inc-lead-full-stack-php-developer-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0098/8346/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -149,7 +239,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opesus-developer-consultant-for-sap-sustainability-solutions-europe" align="right" target="_blank">Apply</a>
@@ -231,7 +321,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2" align="right" target="_blank">Apply</a>
@@ -284,7 +374,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2" align="right" target="_blank">Apply</a>
@@ -336,6 +426,56 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0097/1479/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>TrendSpider</h5>
+                    <h3> Front End Software Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>31 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/trendspider-front-end-software-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0097/1479/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Chicago
+    <br /><strong>URL:</strong> <a href="https://trendspider.com">https://trendspider.com</a>
+</p>
+
+<div><strong>Front End Developer</strong></div><div><br></div><div><strong>Company Description:</strong></div><div>TrendSpider/SignalStack is a trading software firm headquartered in Chicago. Our products are used by tens of thousands of traders and investors, ranging from average retail users to multi-billion dollar asset managers. Our team is looking for a front end software developer that is excited about financial markets, and interested in helping to build the future of investing software. </div><div><br></div><div>This role is focused on helping expand the functionality of our automated  smart order routing product, SignalStack, by enabling traders to automate trading strategies without needing to become software developers themselves. This next team member should be passionate about trading and love working in a fast paced environment working in very quick sprints.  </div><div><br></div><div><strong>Job Description:</strong></div><div>We are currently seeking a highly skilled Front End Developer to work on our order routing trade automation platform, SignalStack. The ideal candidate will have experience working with specific technologies that we will list below, as well as the ability to work independently in a small team with minimal supervision. </div><div><br></div><div>As our development process differs from traditional team management practices, we require a developer who can manage their own tasks in Jira, provide regular progress reports every 2-3 days, make appropriate decisions, and proactively seek clarification when necessary. In other words, we’re looking for a creative problem solver who can help envision dashboard layouts that make monitoring trading and building easy order set-up tools easy for even the most basic trader.</div><div><br></div><div><strong>Responsibilities:</strong></div><ul>
+<li>Independently manage and prioritize tasks using Jira, ensuring timely completion of assigned work.</li>
+<li>Provide progress reports to the team every 2-3 days, keeping all stakeholders informed of the project status.</li>
+<li>Demonstrate the ability to make well-informed decisions when faced with development challenges.</li>
+<li>Proactively seek clarification or guidance when necessary to ensure project requirements are met effectively.</li>
+<li>Collaborate with team members, including backend developers, to deliver high-quality software solutions.</li>
+<li>Develop responsive and user-friendly front end interfaces using TypeScript, GraphQL, and React.</li>
+<li>Occasionally contribute to backend development tasks using Node.js, Apollo server, Sequelize + Postgresql, and Elastic Beanstalk.</li>
+</ul><div><br></div><div><strong>Requirements:</strong></div><ul>
+<li>Proven experience as a Front End Developer with a strong portfolio showcasing successful projects.</li>
+<li>Proficiency in TypeScript, GraphQL, and React, with demonstrable experience developing robust front end applications.</li>
+<li>Familiarity with backend technologies such as Node.js, Apollo server, Sequelize + Postgresql, and Elastic Beanstalk.</li>
+<li>Strong problem-solving skills and the ability to think creatively to overcome technical challenges.</li>
+<li>Excellent communication skills, both written and verbal, to effectively collaborate with team members and stakeholders.</li>
+<li>Self-motivated and able to work independently with minimal supervision.</li>
+<li>Detail-oriented and highly organized, ensuring that tasks and project requirements are not overlooked or delayed.</li>
+</ul><div><br></div><div>We offer a competitive salary package, a dynamic and challenging work environment, and the opportunity to contribute to cutting-edge Fintech projects that leverage interesting and innovative technologies to solve intricate and difficult problems. If you are a motivated and talented Front End Developer who thrives in a fast-paced, innovative setting, we invite you to apply and join our team.</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/trendspider-front-end-software-developer">https://weworkremotely.com/remote-jobs/trendspider-front-end-software-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -346,7 +486,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>720 days ago</text>
+                <text>722 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -412,7 +552,7 @@
                     <code>backend,frontend,fullstack,javascript</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-fullstack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -511,7 +651,7 @@
                     <code>api,CSS,fullstack,html</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-developer-node-js-react-nosql-sql-1736598" align="right" target="_blank">Apply</a>
@@ -563,7 +703,7 @@
                     <code>api,C,java,react</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1591692" align="right" target="_blank">Apply</a>
@@ -670,7 +810,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -745,7 +885,7 @@
                     <code>UI/UX,CI/CD</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-developer-1383531" align="right" target="_blank">Apply</a>
@@ -831,7 +971,7 @@
                     <code>C++,javascript,python,security</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-laravel-developer-1422554" align="right" target="_blank">Apply</a>
@@ -930,7 +1070,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1007,7 +1147,7 @@
                     <code>C,C#,unity,unity3D</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-next-js-developer-1606658" align="right" target="_blank">Apply</a>
