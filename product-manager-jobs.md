@@ -210,6 +210,60 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1733781/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Float Health</h5>
+                    <h3>Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>sql,product management,healthcare,startup</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/product-manager-1733781" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Float Health is a Y Combinator W22 alum, Series-A, health-tech startup seeking a driven and experienced Product Manager to lead the development of our innovative marketplace that is transforming the healthcare industry. Float is connecting nurses with patients to move care from the hospital to the home where it is safer, easier and cheaper.</p>
+<p>The successful candidate will collaborate closely with our cross-functional teams to define, design, and launch creative products that improve patient outcomes, benefit nurses and streamline healthcare delivery. This is a high impact role and the ideal candidate has a passion for innovation, exceptional interpersonal skills, and a proven track record of driving successful outcomes in a fast-paced environment.</p>
+<p>Our patients are largely chronic requiring regular treatments to sustain their quality of life. Our nurses are burnt out with hectic hospital shifts and love the flexibility and autonomy to create their own schedules with us. Our providers want reliability, quality and minimal effort to find nurses for their prescriptions. Our mission is to move more healthcare from the hospital to the home where it is easier, safer and cheaper.</p>
+<p>We are distributed across the world and remote-first, which means we care a ton about communication, curiosity, autonomy and action.</p>
+<p> </p>
+<div class="h3">Responsibilities</div>
+<ul style="">
+<li style="">Talk directly with users to learn more about their needs to identify problems and opportunities</li>
+<li style="">Write product briefs to define why we're choosing to solve a particular problem and build excitement on the opportunity and impact</li>
+<li style="">Work closely with our product and design teams to envision, create, test, and lead product solutions with influence from our users</li>
+<li style="">Work closely with our engineering team to estimate build times, discuss alternative solutions, keep projects on track, and offer support and resources</li>
+<li style="">Develop and maintain a deep understanding of the healthcare landscape and market dynamics</li>
+<li style="">Define and track key performance indicators (KPIs) to measure product success and identify areas for improvement</li>
+<li style="">Maintain effective communication and collaboration with internal teams</li>
+<li style="">Lead product demos and presentations to internal and external stakeholders</li>
+</ul>
+<p><strong>Requirements</strong></p>
+<ul style="">
+<li style="">Bachelor's degree in Business, Computer Science, or related field</li>
+<li style="">5+ years of experience as a Product Manager</li>
+<li style="">Experience gathering data using SQL and presenting the key findings to key stakeholders to drive decisions</li>
+<li style="">Strong analytical and problem-solving skills</li>
+<li style="">Excellent communication and interpersonal skills</li>
+<li style="">Strong sense of ownership and accountability</li>
+<li style="">Data and results oriented to focus on the most impactful ideas</li>
+<li style="">Quick learner and adaptable to a fast-growing startup</li>
+</ul>
+<p><strong>Benefits</strong></p>
+<p>We start all positions as a three-month contract that can then transition into a full-time role. The goal of this contract period is to get to know you, how we work together and mutually explore if we are the best fit for each other.</p>
+<p>The compensation for this role after the contract includes salary, equity, and our employee benefits package (including medical, dental, and vision insurance as well as generous paid time of policies). The target salary for this role is level dependent, and ranges from $160,000/yr - $210,000/yr, which may be adjusted higher or lower in exchange for less or more equity after the contract phase.</p>
+<img src="https://remotive.com/job/track/1733781/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1542681228666671107/L5LYJLAD_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
