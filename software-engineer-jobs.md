@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>181 days ago</text>
+                <text>182 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -1297,6 +1297,84 @@
 <p>#LI-Remote</p>
 <p>#stack</p>
 <p>#LI-ET1&nbsp;</p><p>Requisition ID: 688</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Software Engineer - Data Infrastructure - Kafka</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/5218601" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>Canonical is building a comprehensive automation suite to provide multi-cloud and on-premise data solutions for the enterprise. The data platform team is a collaborative team that develops a managed solutions for a full range of data stores and data technologies, spanning from big data, through NoSQL,&nbsp; cache-layer capabilities, and analytics; all the way to structured SQL engines (similar to Amazon RDS approach).&nbsp;</p>
+<p>We are facing the interesting problem of fault-tolerant mission-critical distributed systems and intend to deliver the world's best automation solution for delivering managed data platforms.&nbsp;</p>
+<p>We are looking for candidates from junior to senior level with interests, experience and willingness to learn around Big Data technologies, such as distributed event-stores (Kafka) and parallel computing frameworks (Spark). Engineers who thrive at Canonical are mindful of open-source community dynamics and equally aware of the needs of large, innovative organisations.</p>
+<p>Location: This is a Globally remote role</p>
+<h2>What your day will look like</h2>
+<p>The data platform team is responsible for the automation of data platform operations, with the mission of managing and integrating Big Data platforms at scale. This includes ensuring fault-tolerant replication, TLS, installation, backups and much more; but also provides domain-specific expertise on the actual data system to other teams within Canonical. This role is focused on the creation and automation of infrastructure features of data platforms, not analysing and/or processing the data in them.</p>
+<ul>
+<li>Collaborate proactively with a distributed team</li>
+<li>Write high-quality, idiomatic Python code to create new features</li>
+<li>Debug issues and interact with upstream communities publicly</li>
+<li>Work with helpful and talented engineers including experts in many fields</li>
+<li>Discuss ideas and collaborate on finding good solutions</li>
+<li>Work from home with global travel for 2 to 4 weeks per year for internal and external events</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<ul>
+<li>Proven hands-on experience in software development using Python</li>
+</ul>
+<ul>
+<li>Proven hands-on experience in distributed systems, such as Kafka and Spark</li>
+</ul>
+<ul>
+<li>Have a Bachelor’s or equivalent in Computer Science, STEM, or a similar degree</li>
+<li>Willingness to travel up to 4 times a year for internal events</li>
+</ul>
+<h2>Additional skills that you might also bring</h2>
+<p>You might also bring a subset of experience from the followings that can help Data Platform to achieve its challenging goals and determine the level we will consider you for:</p>
+<ul>
+<li>Experience operating and managing other data platform technologies, SQL (MySQL, PostgreSQL, Oracle, etc) and/or NoSQL (MongoDB, Redis, ElasticSearch, etc), similar to DBA level expertise</li>
+<li>Experience with Linux systems administration, package management, and infrastructure operations</li>
+<li>Experience with the public cloud or a private cloud solution like OpenStack</li>
+<li>Experience with operating Kubernetes clusters and a belief that it can be used for serious persistent data services</li>
+</ul>
+<h2>What we offer you</h2>
+<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.&nbsp;&nbsp;</p>
+<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, please ask your Talent Partner.</p>
+<ul>
+<li>Fully remote working environment - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of 2,000USD per annum</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Parental Leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues twice a year</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<p>Canonical is an equal-opportunity employer</p>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
+<p><em>#li-remote</em></p><p>Requisition ID: 666</p><p></p>
     
                 </details>
                 </td>
