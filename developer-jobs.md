@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/gymdesk-php-mobile-flutter-developer" align="right" target="_blank">Apply</a>
@@ -62,7 +62,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/harley-therapy-psychotherapy-counselling-mid-level-ruby-and-javascript-developer" align="right" target="_blank">Apply</a>
@@ -96,7 +96,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-11" align="right" target="_blank">Apply</a>
@@ -153,7 +153,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opesus-developer-consultant-for-sap-sustainability-solutions-europe" align="right" target="_blank">Apply</a>
@@ -235,7 +235,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2" align="right" target="_blank">Apply</a>
@@ -288,7 +288,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/trendspider-front-end-software-developer" align="right" target="_blank">Apply</a>
@@ -338,7 +338,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>723 days ago</text>
+                <text>724 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -404,7 +404,7 @@
                     <code>backend,frontend,fullstack,javascript</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-fullstack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -503,7 +503,7 @@
                     <code>api,CSS,fullstack,html</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-developer-node-js-react-nosql-sql-1736598" align="right" target="_blank">Apply</a>
@@ -555,7 +555,7 @@
                     <code>api,C,java,react</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1591692" align="right" target="_blank">Apply</a>
@@ -662,7 +662,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -737,7 +737,7 @@
                     <code>UI/UX,CI/CD</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-developer-1383531" align="right" target="_blank">Apply</a>
@@ -823,7 +823,7 @@
                     <code>C++,javascript,python,security</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-laravel-developer-1422554" align="right" target="_blank">Apply</a>
@@ -922,7 +922,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -999,7 +999,7 @@
                     <code>C,C#,unity,unity3D</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-next-js-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1440,89 +1440,6 @@
                 </td>
                 <td width="300">
                     <h5>Status</h5>
-                    <h3>Web Developer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4365480&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <p>&nbsp;</p>
-<p><strong>The project</strong></p>
-<p>Our organization is closely involved in a new community lead project, called Logos, and this role will enable you to focus on its development. Logos is a grassroots movement to provide trust-minimized, corruption resistant governing services and social institutions to underserved citizens. Logos’ infrastructure will provide a base for the provisioning of the next-generation of governing services and social institutions - paving the way to economic opportunities to those who need them most, whilst respecting basic human rights through the network’s design.</p>
-<p>In order to promote the ideas behind Logos and its vision, we have created a brand studio called acid.info and you will be part of it. <a href="http://acid.info/">Acid.info</a> is the studio and creative engine within the Logos DAO. Our mission is to build, and ensure, technologies and creativity that supports freedom, justice, and innovation for all people of the world.&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>The role</strong></p>
-<p>As a Web Developer, you will be responsible for the development and technical maintenance of various web-based projects in the studio. Your role will involve decision-making for code architecture, writing tests, choosing the right technology stack, and any other related tasks. You will work closely with the development team, studio lead, and design team to bring our web projects to life. You will take care of all technical aspects of all web projects (from development and testing to deployment and maintenance)&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Responsibilities</strong></p>
-<ul>
-<li>You will be developing and implementing internal tools, including our wiki engine framework, branding design portal our design systems implementation in React</li>
-<li>You will co-write documentation for all the above mentioned products/projects</li>
-<li>You will be responsible for maintaining our open-sourced codebases on Github</li>
-<li>You will be improving the architect and implementation<a href="https://github.com/acid-info/logos-site-builder"> our current site-generator framework</a> (built on top NextJS) and develop it further</li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>You ideally will have</strong></p>
-<ul>
-<li>Experience in ReactJS and NodeJs (all in Typescript)&nbsp;</li>
-<li>Good understanding of software architecture</li>
-<li>Experience in implementation of frontend libraries and design systems</li>
-<li>Experience working with Git, Docker and NextJS framework as well as Vercel and/or Netlify</li>
-<li>A strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>Bonus points if</strong></p>
-<ul>
-<li>You are comfortable in working remotely and asynchronously</li>
-<li>You have experience working for an open source organisation</li>
-<li>You have exposure to creative coding (processing, open frameworks, WebGL, writing shaders, p5js)</li>
-</ul>
-<p><em>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</em></p>
-<p>&nbsp;</p>
-<p><strong>Compensation</strong></p>
-<p><span style="font-weight: 400;">The expected compensation range for this role is $40,000 - $60,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process. </span></p>
-<p>&nbsp;</p>
-<p><strong>Hiring process</strong></p>
-<ol>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with POps team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Web Developer and Design Studio Lead</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Assessment (paid)</span></li>
-</ol>
-<p><em><span style="font-weight: 400;">[The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline!]</span></em></p>
-<p>&nbsp;</p>
-<p><strong>Get to know us</strong></p>
-<p><span style="font-weight: 400;">Find out about the Logos here: </span><a href="https://logos.co"><span style="font-weight: 400;">https://logos.co</span></a></p>
-
-    
-
-    
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Status</h5>
                     <h3>Senior React Native UI Developer</h3>
                 </td>
                 <td width="300">
@@ -1607,83 +1524,6 @@
 </div>
 <div id="about-body" class="external-panel__trix-content external-panel__trix-content--colored">
 <div><br>Follow along on&nbsp;<a href="https://our.status.im/">Our Status</a>.&nbsp;</div>
-</div>
-
-    
-
-    
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Status</h5>
-                    <h3>Senior Rust Developer </h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4412616&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <p><strong>About Logos</strong></p>
-<p><span style="font-weight: 400;">A group of Status Contributors is also involved in a new community lead project, called Logos, and this particular role will enable you to also focus on this project. Logos is a grassroots movement to provide trust-minimized, corruption-resistant governing services and social institutions to underserved citizens.&nbsp;</span></p>
-<p><span style="font-weight: 400;">Logos’ infrastructure will provide a base for the provisioning of the next-generation of governing services and social institutions - paving the way to economic opportunities for those who need them most, whilst respecting basic human rights through the network’s design.</span><span style="font-weight: 400;">You can read more about Logos here:</span><a href="https://github.com/acid-info/public-assets/blob/master/logos-manual.pdf"><span style="font-weight: 400;"> in this small handbook</span></a><span style="font-weight: 400;"> for mindful readers like yourself. </span></p>
-<p><strong>Who are we?</strong></p>
-<p>We are the Blockchain Infrastructure Team, and we are building the foundation used by other projects at the&nbsp;<a href="https://statusnetwork.com/">Status Network</a>. We are researching consensus algorithms, Multi-Party Computation techniques, ZKPs and other cutting-edge solutions with the aim to take the blockchain technology to the next level of security, decentralization and scalability for a wide range of use cases. We are currently in a research phase, working with models and simulations. In the near future, we will start implementing the research. You will have the opportunity to participate in developing -and improving- the state of the art of blockchain technologies, as well as turning it into a reality.</p>
-<p><strong>Key Responsibilities</strong></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Development and maintenance of internal rust libraries</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Help design and implement the architecture for a production-grade Node that will run in a highly adversarial environment.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">1st month: comfortable with dev framework, and simulation app.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">A strong candidate will be able to contribute from the first month. </span></li>
-</ul>
-<div><strong>Ideally, you will have</strong></div>
-<div>
-<ul>
-<li><span style="font-weight: 400;">“Extensive” Rust experience. Ideally, they have some GitHub projects to show.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Alternative very extensive C/C++ experience and enough experience in Rust to write idiomatic code. We value more the understanding and experience of production systems.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Strong competency in developing and maintaining complex libraries or applications</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Peer-to-peer or networking experience</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience in, and passion for, blockchain technology.</span></li>
-<li><span style="font-weight: 400;">A strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></span></li>
-</ul>
-<p><strong>Bonus points if</strong></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">&nbsp;Comfortable working remotely and asynchronously</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">&nbsp;Experience working for an open source organization.&nbsp;&nbsp;</span></li>
-</ul>
-<p><em>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role!]</em></p>
-<p><strong>Hiring Process&nbsp;</strong></p>
-<p><span style="font-weight: 400;">The hiring process for this role will be:</span></p>
-<ol>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with our People Ops team</span></li>
-<li><span style="font-weight: 400;">Interview with Team Member&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Engineering Lead</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Logos Program Owner</span></li>
-</ol>
-<p><strong>Compensation</strong></p>
-<p><span style="font-weight: 400;">We are happy to pay in either 100% fiat or any mix of fiat and/or crypto. For more information regarding benefits at Status: </span><a href="https://people-ops.status.im/tag/perks/"><span style="font-weight: 400;">https://people-ops.status.im/tag/perks/</span></a></p>
-<p>&nbsp;</p>
 </div>
 
     
