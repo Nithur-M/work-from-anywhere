@@ -74,7 +74,7 @@
 <h2><span style="font-weight: 400;">Benefits</span></h2>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Monthly Mental Break Day</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Unlimited vacation</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Paid Time off</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Work from home (or wherever)</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Parental leave</span></li>
 </ul>
