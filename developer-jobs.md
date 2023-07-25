@@ -1,5 +1,78 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0099/5052/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>And Voila AI</h5>
+                    <h3> Senior Full Stack Developer [Founder's Equity]</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/and-voila-ai-senior-full-stack-developer-founder-s-equity" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0099/5052/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://andvoila.ai">https://andvoila.ai</a>
+</p>
+
+<h1>About Us</h1><p>Looking to teleport your career to a unicorn set to redefine the creative cosmos? Ready to move faster than Charlie can concoct a new "Charlie Work" scheme? Well, hold up there, speed racer. The good news is, we're not barreling down the same old freeway.</p><p>While other tech firms chug energy drinks at sunrise, prepping for another code-sprint marathon, we prefer to take it down a notch. Picture us as your favorite brunch joint. A place where we savor our coffee, whip up some eggs, and mull over the day's potential.</p><p>We're the Paddy's Pub of the tech world, minus the chaos and crickets.</p><p>Instead of zigzagging wildly and bashing road signs, we cruise smoothly, patching potholes as we go.</p><p>Our compass? It's locked on wisdom-life balance (wlb). We refuse to trade our zen for a nitrous hit. In our game of life, the DELETE key is just as game-changing as the ENTER. We're not racking up user stats, we're tallying the belly laughs.</p><p>While other companies gun for speed records, we question the hidden cost of ventures that burn rubber without a care.</p><p>Our vision? A pit stop where tech fuels human creativity, not saps it. Where AI is your pit crew, fine-tuning your ride, not a cookie-cutter car you're forced into.</p><p>Sure, this scenic route might not be everyone's chosen path. But if the thought of steering tech with mindfulness and flair gets your engine revving, we'd love to chat over a pint of Fight Milk. But let's be clear, we're not sitcom characters. We just think the tech world could use a bit more humor, sustainability, and... soul.</p><p>Oh, and yes, we do have ergonomic captain's chairs, blisteringly fast computers, open communication channels for everyone, and absolutely no rearview mirrors. So, buckle up, and let's redefine what it means to win the race.</p><h1>The Product</h1><p>Imagine this: The gang concocts an app. But it's not your run-of-the-mill variety.</p><p>This is an app that puts the 'human' back in 'human creativity', by tailoring to each user's unique rhythm, like a hit single on repeat. We're serving creators, influencers, and makers here.</p><p>The secret sauce? An AI prowess as wacky as a round of Chardee MacDennis, marrying speech and language processing with an understanding of each user's creative cadence.</p><p>Envision this: Writer Zack gets acquainted with our AI sidekick, a clever entity we fondly call Zelda (no, she's not one of Frank's dubious companions). After a warm intro and a few writing samples, Zelda starts to channel Zack's distinct style. Whether Zack needs a hand decluttering his creative cobwebs or a gentle push of inspiration, Zelda's there, harmonizing with his creative concerto.</p><p>Now, cue musician Marley and his buddy Bob (not Frank's discarded rum ham). Bob's always in sync with Marley's jam sessions and sketching patterns. Whether Marley's on the cusp of a creative epiphany or wrestling with a tough verse, Bob's primed to riff off potential lyrics from Marley's past hits or unearth inspiring instrumental samples. Bob's groove meshes seamlessly with Marley's creative beat.</p><p>The crescendo?</p><ul>
+<li><p>We amplify human imagination by a factor of ten</p></li>
+<li><p>Think of us as the Health Inspector for data—keeping it all under lock and key</p></li>
+<li><p>We safeguard creativity and IP like Charlie guards the sanctity of the bar</p></li>
+</ul><p>Our AI assistant takes care of the mundane tasks and fine-tuning, freeing creators to mull over those big-picture ideas—like the gang strategizing their next wild ploy.</p><p>We're currently brewing a public alpha, aiming to pull back the curtain for all by Q3 2023. Our waitlist is piling up quicker than Frank's mattress stash. What sets us apart? We're one of the rare AI sidekicks crafted to complement, not replace.</p><h1>The Stack</h1><h3>The Playbook 🏀</h3><p>Our secret sauce starts with Vercel's toolset. Why go on a wild goose chase with a messy stack, when you can bank on Vercel's perfectly synchronized products? It's like having the perfect plan—it just works!</p><p>We doff our caps to open source communities—truly the unsung heroes! But for our MVP, we favored sticking together rather than fiddling with the pieces, avoiding a Frankenstein of a prototype. Vercel gives us that quick head start, with room for DIY flavor down the line. It's like the gang's recipe for their next wild caper!</p><p>With Vercel calling the shots, we're hitting the open road with...</p><h3>A Touch of Next.js 🧂</h3><p>The turbo to our React engine! Next.js handles the nitty-gritty of page rendering and routing, freeing us to map out our next venture. Plus, it's as speedy as Charlie chugging Fight Milk!</p><p><a href="https://nextjs.org/"><strong>Next.js</strong></a></p><h3>A Hint of Shadcn + Radix 🍩</h3><p>These React component gems help us deck out the app with ease. Add a smidgen of Radix for that accessibility magic!</p><p><a href="https://www.radix-ui.com/"><strong>Radix Primitives</strong></a><strong> | </strong><a href="https://ui.shadcn.com/"><strong>Shadcn UI</strong></a></p><h3>A Dash of Tailwind 🍨</h3><p>The liberty bell of CSS, delivering design freedom without the migraines.</p><p><a href="https://tailwindcss.com/"><strong>Tailwind CSS</strong></a></p><h3>A Dab of Novel.sh 🧁</h3><p>Simplifying writing to Charlie levels of bird law understanding. Make Notion proud with this AI-powered editor.</p><p><a href="https://novel.sh/"><strong>Novel.sh</strong></a></p><h3>A Spoonful of ContentLayer 🥄</h3><p>Navigating content outside of React? This handy-dandy SDK is our lifeboat.</p><p><a href="https://www.contentlayer.dev"><strong>ContentLayer</strong></a></p><h3>A Drop of Clerk 🍸</h3><p>Manages user login like the Waitress handles the gang's eccentricities.</p><p><a href="https://clerk.com/"><strong>Clerk</strong></a></p><h3>A Speck of Vercel Postgres 👩🏾‍🍳</h3><p>Bid adieu to data pandemonium — this managed SQL database reins in our data, much like Dee attempts with the boys.</p><p><a href="https://vercel.com/docs/postgres"><strong>Vercel Postgres</strong></a></p><h3>A Pinch of Vercel KV 🤏🏽</h3><p>Craving for lightning-fast caching? Vercel KV is here to deliver.</p><p><a href="https://vercel.com/docs/key-value-data-stores"><strong>Vercel KV</strong></a></p><h3>A Whiff of Serverless Functions 💨</h3><p>The hub for our code logic! Vercel distributes the functions across Edge locations like Frank's far-flung schemes, ensuring low latency for users.</p><p><a href="https://vercel.com/docs/concepts/functions/serverless-functions"><strong>Vercel Serverless</strong></a></p><h3>The Mystery Ingredients: Convex, Inngest, and LangChain 🥫</h3><p>Convex beats the rhythm of real-time data sync, while Inngest orchestrates reliable function chaining. LangChain is the conductor, harmonizing AI models into a seamless symphony. Together, they're like the gang pulling off a master stroke!</p><p><a href="https://convex.dev/"><strong>Convex</strong></a> | <a href="https://www.inngest.com/)"><strong>Inngest</strong></a> | <a href="https://langchain.readthedocs.io/"><strong>LangChain</strong></a></p><h3>The Icing: Pinecone 🍒</h3><p>Looking to skim through vectors and embeddings? Pinecone's the ace with high-dimensional semantic search!</p><p><a href="https://pinecone.io/"><strong>Pinecone</strong></a></p><h3>Pricing by Tier.run and Stripe 🤑</h3><p>Tier.run is the quarterback of our pricing plans and subscriptions, integrating with Stripe smoother than Dennis's pickup lines.</p><p><a href="https://tier.run/"><strong>Tier.run</strong></a> | <a href="https://stripe.com/"><strong>Stripe</strong></a></p><h3>Fired Up on Vercel 🥔</h3><p>Vercel allows us to pop our masterpiece into the oven with a single command. Savor the goodness! 🍰</p><p><a href="http://vercel.com/"><strong>Vercel</strong></a></p><h1><strong>Seeking Senior Full Stack Developer</strong></h1><p>Are you the kind of code wizard who breathes Python, Rust, and React like it's fresh sea air? Ever catch yourself daydreaming about AI and ML, or get that adrenaline rush when you're riding the gnarly wave of cutting-edge tech? If you just nodded (or more likely, muttered "heck yeah" under your breath), it's time to dust off that résumé—this could be the gig you've been waiting for.</p><p>We're on the prowl for a Senior Full Stack Developer who's got the chops to join our band of technomancers. But fair warning: this isn't your standard, run-of-the-mill, desk-warmer kind of gig. Nope. We're all about blazing trails with innovative tech, crafting clever solutions with a pinch of wizardry, and promoting a work pace that's sane and sustainable. Yep, you read that right—there's no room for jabroni hustle culture in our crew. What we are about is a tribe of tech enthusiasts, using our smarts and silicon to carve out the future of AI.</p><p>As our Senior Full Stack Developer, you'll be the captain of our tech vessel, steering our technical decisions with the savvy of an old salt, fine-tuning AI models with the precision of a Swiss watchmaker, and navigating the labyrinth of serverless architectures like a grizzled pioneer. From leading the charge in the development and maintenance of our AI-powered, content-focused product, to architecting the brainy backbone of our AI platform—your impact will be huge, nay, colossal. And the cherry on top? You'll be doing all this without falling into the burnout trap, instead maintaining a rhythm that keeps the hearth of innovation blazing. Can you see the sparks flying already?</p><p>BTW, we know the pay’s not all that, but this position includes a generous founding member equity package.</p><h2>Key Responsibilities:</h2><ol>
+<li><p><strong>Design &amp; Rollout:</strong> Captain the design, development, and rollout of scalable software behemoths, user-facing web apps, and web-centric systems and platforms.</p></li>
+<li><p><strong>AI Model Magic:</strong> Craft and fine-tune cloud-based AI models for different facets of our product, ensuring they function flawlessly and morph dynamically in response to user input.</p></li>
+<li><p><strong>Serverless Voyage:</strong> Traverse the landscape of serverless architectures, appreciating their unique quirks and harnessing their strengths to enhance product performance.</p></li>
+<li><p><strong>Code Refinement:</strong> Polish and iterate code continuously to boost performance. Ensure all applications are rigorously tested against specifications and quality benchmarks.</p></li>
+<li><p><strong>Teamwork:</strong> Work hand-in-glove with UX designers, project wranglers, and engineers to bring versatile solutions to life. Be an early adopter of emerging standards, while promoting best practices.</p></li>
+<li><p><strong>Bug Busting:</strong> Debug and resolve tech hiccups across the full stack—front-end, back-end, databases, and servers.</p></li>
+<li><p><strong>Code Patrol:</strong> Conduct code audits to maintain high-caliber code and keep technical debt at bay.</p></li>
+<li><p><strong>Fort Knox:</strong> Enforce and sustain security best practices to safeguard our customers' precious data.</p></li>
+</ol><h2>Requirements:</h2><ol>
+<li><p><strong>Experience:</strong> 5+ years of slaying in software development with a kick-ass command of JavaScript, CSS, and HTML. Rock-star status in both front-end and back-end frameworks, including Next.js and Node.js.</p></li>
+<li><p><strong>Knowledge:</strong> A mind-blowing command of TypeScript. Got significant experience with Vercel and Tailwind CSS? You're our kind of people. If you've dabbled with the UI library Radix/Shadcn, even better. A solid grasp of AI/ML concepts will make us swoon.</p></li>
+<li><p><strong>Database Knowledge:</strong> We're talking SQL and NoSQL databases like Vercel Postgres, plus experience with cloud storage solutions.</p></li>
+<li><p><strong>Performance</strong>: We like it fast and efficient. Show us your magic with performance tuning, query optimization, caching, and the like.</p></li>
+<li><p><strong>Communication:</strong> Got the gift of gab? Great. You'll need to vibe with designers, developers, and other cool cats on the team.</p></li>
+<li><p><strong>Problem-solving skills:</strong> Show us your Sherlock Holmes side. We love complex software development/design issues solved with clean, efficient code.</p></li>
+<li><p><strong>Testing:</strong> If you can design and write robust test cases that ensure our product's as resilient as a cockroach in a nuclear winter, you're in.</p></li>
+</ol><h2>Bonus points for:</h2><ol>
+<li><p><strong>Serverless Architecture:</strong> Got experience with or exposure to serverless architectures? We dig that.</p></li>
+<li><p><strong>AI/ML:</strong> Tinkered with AI/ML model development, particularly language models and fine-tuning? You're speaking our language.</p></li>
+<li><p><strong>Blockchain:</strong> If you're familiar with blockchain-based development and its frameworks and languages, you're a unicorn in our book.</p></li>
+<li><p><strong>Distributed Systems:</strong> Got experience with distributed systems, data replication, and consistency/consensus algorithms? Welcome aboard.</p></li>
+<li><p><strong>Design:</strong> Understand UX design principles and their application in front-end development? We're already picturing you on our team.</p></li>
+<li><p><strong>LAX: </strong>Although it’s Always Sunny in Philadelphia, we’re Los Angeles based, so kudos if you are too</p></li>
+</ol><h3>The stuff from our lawyers</h3><p>And Voila is an equal opportunity employer and welcomes applicants from any national origin, race, religion, sexual orientation, gender identity, disability status, or any other characteristic that makes you unique! We are committed to fostering an inclusive environment where all team members feel valued and empowered.</p><h3>Just a quick side note on the dinero, folks…</h3><p>The salary ranges we've showcased are geared towards our pals in the U.S. If you’re joining us from other corners of the globe, fear not! We've got your backs with tailored compensation packages that reflect your locale's living costs commensurate with the US salary as a benchmark. At And Voila, we're all about fair play—no penny pinching or shortcuts here, only the right pay for the right work. So, wherever you're tuning in from, know that we value your smarts just as much. Cool beans?</p><h2>Screening Process</h2><p>Ever wondered how we pick our stellar crew at And Voila? Well, we've got a treasure map that leads to the most kick-ass, coding wizards out there. It looks a lot more exhaustive than it really is. We respect your time and the entire process we don’t expect you to spend more than 3 hours tops on the whole process. It ain’t perfect but hey, transparency is a start. </p><ul>
+<li><p><strong>Shout-out for Stars:</strong> We broadcast our job openings across the seven seas, hunting for the most dazzling talents.</p></li>
+<li><p><strong>Eagle-Eyed Screening:</strong> Every day, we check out the freshest applications. If yours isn't the right fit, we'll let you know within 24 hours. Silver lining? If we're silent, you're still sailing!</p></li>
+<li><p><strong>Questionnaire Quirks:</strong> Get ready for our 3-5 minute email survey. It's a fun cocktail of culture (85%) and tech acumen (15%)—nothing too brain-busting, promise.</p></li>
+<li><p><strong>Interview/Survey Showdown</strong>: Depending on the crowd, you'll be tossed into either an interview or a survey. It's a balanced test of culture (50%) and tech skills (50%).</p></li>
+<li><p><strong>Culture Club Chat:</strong> Time to virtually meet the team and show us your true colors. Mostly culture-focused, we want to make sure you jive with us.</p></li>
+<li><p><strong>Tech Talk:</strong> Get in the hot seat with our tech lead. This deep-dive into your skills will also be the stage for discussing the deets on compensation and benefits.</p></li>
+<li><p><strong>The Golden Ticket:</strong> If you've wowed us this far, brace for the job offer that could change your life!</p></li>
+<li><p><strong>Background Beats:</strong> Just a standard check on your background. Nothing personal, just business.</p></li>
+<li><p><strong>Welcome Wagon:</strong> Congrats, you're in the band! Time to onboard and get you all set up.</p></li>
+<li><p><strong>Cue the Fanfare</strong>: You're now officially part of our rockin' crew. Time to hit those high notes and shine!</p></li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/and-voila-ai-senior-full-stack-developer-founder-s-equity">https://weworkremotely.com/remote-jobs/and-voila-ai-senior-full-stack-developer-founder-s-equity</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0098/9035/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +83,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/gymdesk-php-mobile-flutter-developer" align="right" target="_blank">Apply</a>
@@ -62,7 +135,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/harley-therapy-psychotherapy-counselling-mid-level-ruby-and-javascript-developer" align="right" target="_blank">Apply</a>
@@ -96,7 +169,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-11" align="right" target="_blank">Apply</a>
@@ -153,7 +226,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opesus-developer-consultant-for-sap-sustainability-solutions-europe" align="right" target="_blank">Apply</a>
@@ -225,59 +298,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/8312/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>XM</h5>
-                    <h3> Modern C++ Software Developer – Remote</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>12 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0066/8312/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Cyprus
-    <br /><strong>URL:</strong> <a href="https://bit.ly/3Yljr8s">https://bit.ly/3Yljr8s</a>
-</p>
-
-<div>
-<strong>Modern C++ Software Developer – Remote<br></strong><br>
-</div><div>
-<strong>Reference Number: CSD1022<br></strong><br>
-</div><div><br></div><div>
-<strong>The Role: <br></strong><br>
-</div><div>We are looking for a Modern C++ Software Developer to join our software development team.  You will be working on internal software related to trading financial products; monitoring tools; alerting and reporting. You will have the opportunity to offer your ideas, suggestions, and designs to help the team improve their quality of work. The team strives to write clean, decoupled, and testable code with a clear separation of components and responsibilities.<br><br>
-</div><div><br></div><div>
-<strong>The key responsibilities of the role include:<br></strong><br>
-</div><div>●       Develop standalone applications and plug-ins in C++ 17</div><div>●       Use libraries such as Boost.Asio for asynchronous TCP sockets</div><div>●       Write unit-tests, end-to-end tests and stress testing</div><div>●       Communicate with the team to identify business requirements</div><div>●       Understand business requirements and develop systems/features to meet them</div><div>●       Develop code in accordance with the system design and coding standards with minimal supervision</div><div>●       Review the code of associate developers<br><br>
-</div><div><strong> </strong></div><div><strong>Main requirements:</strong></div><div> </div><div>●       BSc/MSc in computer science, computer engineering or a related subject</div><div>●       Experience in any object-oriented language either in a professional environment or on personal projects</div><div>●       Strong knowledge and an active interest in object-oriented principles, practices and design patterns</div><div>●       Willingness to work with and learn modern C++, asynchronous programming and unit-testing</div><div>●       Excellent problem solving and troubleshooting skills</div><div>●       Knowledge of any of the following will be a plus: unit-testing, UML design,Boost.Asio, FIX protocol,         MetaTrader API, asynchronous programming, profiling</div><div>●       Outstanding communication and interpersonal skills, including the ability to describe software designs at all technical knowledge levels</div><div>●       Self-starter with a passion for coding, tinkering, reading, exploring and breaking things</div><div>●       Very good written and verbal skills in English<br><br>
-</div><div> </div><div>
-<strong>Benefit from:<br></strong><br>
-</div><div>●       Attractive remuneration package plus performance related reward</div><div>●       Intellectually stimulating work environment</div><div>●       Continuous personal development and international training opportunities<br><br>
-</div><div>
-<br>Type of employment: Full time<br><br>
-</div><div>
-<br>Location: Remote<br><br>
-</div><div>Please visit https://bit.ly/3Yljr8s to submit your online application for this position.<br><br>
-</div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2">https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0097/1479/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -288,7 +308,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/trendspider-front-end-software-developer" align="right" target="_blank">Apply</a>
@@ -338,7 +358,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>724 days ago</text>
+                <text>725 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -404,7 +424,7 @@
                     <code>backend,frontend,fullstack,javascript</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-fullstack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -503,7 +523,7 @@
                     <code>api,CSS,fullstack,html</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-developer-node-js-react-nosql-sql-1736598" align="right" target="_blank">Apply</a>
@@ -555,7 +575,7 @@
                     <code>api,C,java,react</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1591692" align="right" target="_blank">Apply</a>
@@ -662,7 +682,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -737,7 +757,7 @@
                     <code>UI/UX,CI/CD</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-developer-1383531" align="right" target="_blank">Apply</a>
@@ -823,7 +843,7 @@
                     <code>C++,javascript,python,security</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-laravel-developer-1422554" align="right" target="_blank">Apply</a>
@@ -922,7 +942,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -999,7 +1019,7 @@
                     <code>C,C#,unity,unity3D</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-next-js-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1088,123 +1108,6 @@
 <li style=""><!--block--><strong>A recruitment process that values your time<br></strong>Only one hiring process with the possibility of several positions, without any additional tests.</li>
 </ul>
 <img src="https://remotive.com/job/track/1606658/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1651226564728700928/h0tz5UT1_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Supabase</h5>
-                    <h3>Rust Developer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/supabase/jobs/4917893004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p><img src="https://pbs.twimg.com/media/FIdU8GJWQAUGWRA?format=jpg&amp;name=small" alt="Join Supabase" width="680" height="453"></p></div>
-
-    <p>We're looking for a Rust Developer to join our team to help innovate on our PostgreSQL projects.</p>
-<p>You'll primarily collaborate with the PostgreSQL tools team and directly contribute to technical choices and internal processes.</p>
-<p>The key tasks associated with this role revolve around Rust development in the PostgreSQL ecosystem. You will work to refine and expand our PostgreSQL extensions, develop CLI tooling for the dbdev package index, and assist in the development of several other repositories.</p>
-<p>In this role, you will be mainly responsible for:</p>
-<ul>
-<li>contributing to our Rust repos:
-<ul>
-<li>Public Projects <a href="https://github.com/supabase/pg_graphql">pg_graphql</a>, <a href="https://github.com/supabase/dbdev">dbdev</a>, <a href="https://github.com/supabase/wrappers">wrappers</a>, <a href="https://github.com/supabase/pg_jsonschema">pg_jsonschema</a></li>
-<li>Pre-Public Projects: e.g. an implementation of the PostgreSQL wire protocol</li>
-<li>Internal repos</li>
-</ul>
-</li>
-<li>participating in the successful rollout of <a href="https://github.com/tcdi/plrust">pl/rust</a></li>
-</ul>
-<p><strong>What we need</strong></p>
-<p>This role requires three critical attributes:</p>
-<ol>
-<li>You have a strong background in Rust programming. You're well-versed in Rust's unique features and understand how to leverage them to create efficient, reliable software. You are comfortable making architectural decisions and navigating/contributing to large codebases.</li>
-<li>Experience with PostgreSQL. While not strictly necessary, experience with PostgreSQL will be a significant advantage in this role. You may have previously worked with PostgreSQL extensions or used PostgreSQL in a high-performance context.</li>
-<li>Ability to self-manage. Every company will expect you to self-manage to some degree, but Supabase takes this to a new level. We are a flat, early-stage startup without a lot of structure. To thrive in this environment, you’ll need to be a motivated self-starter who is good working asynchronously across multiple teams. We’re looking for someone who will identify things that need improvement and put their heads down until it’s shipped.</li>
-</ol>
-<p><strong>What you’ll do</strong></p>
-<ul>
-<li>Contribute to the development of our Rust projects, refining existing features and developing new ones.</li>
-<li>Participate in the design and development of our PostgreSQL extensions and package index.</li>
-<li>Build tools within the Supabase ecosystem, occasionally dogfooding our own work.</li>
-<li>Interacting with customers on a daily basis.</li>
-<li>Triage and fix GitHub issues.</li>
-</ul>
-<p><strong>Must haves</strong></p>
-<ul>
-<li>3+ years experience in Rust development.</li>
-<li>Experience with Git and version control practices.</li>
-<li>Willingness to evolve and shape our development tools/stack.</li>
-<li>Willingness to regularly talk to customers to ensure we’re solving problems they have.</li>
-<li>Willingness to work in a fast-paced environment.</li>
-</ul>
-<p><strong>Nice to haves</strong></p>
-<ul>
-<li>Experience with PostgreSQL as a user and/or extension author.</li>
-<li>Experience with GraphQL.</li>
-<li>Experience with Nix package manager.&nbsp;</li>
-<li>Experience working on a large, open-source projects.</li>
-<li>Open source rust contributions.</li>
-</ul>
-<p><strong>We offer:</strong></p>
-<ul>
-<li>100% remote work from anywhere in the world. No location-based adjustment to your salary.</li>
-<li>ESOP (equity ownership in the company)</li>
-<li>Autonomous work. We work collaboratively on projects, but you set your own pace.</li>
-<li>Health, Vision and Dental benefits. Supabase covers 100% of the cost for employees and 80% for dependents</li>
-<li>Generous Tech Allowance for any office setup you need</li>
-<li>Annual Education Allowance</li>
-<li>Annually run off-sites.</li>
-</ul>
-
-    
-
-    <div class="content-conclusion"><h3>BUILD IN A WEEKEND. SCALE TO BILLIONS</h3>
-<p>Supabase adds auth, realtime, and restful APIs to Postgres without a single line of code.</p>
-<p>Each project within Supabase is an isolated&nbsp;Postgres cluster, allowing customers to scale independently, while still providing the features that you need to build: instant database setup, auth, row level security, realtime data streams, auto-generating APIs, and a simple to use web interface.</p>
-<p>We are a fully remote company.</p>
-<p>Key Tech: Javascript, Typescript, Go, Elixir, PostgREST (haskell), Postgres, Pulumi.</p>
-<h3><a id="about-the-team" class="anchor"></a>About the team</h3>
-<ul>
-<li>We're a startup. It's unstructured.</li>
-<li>Collectively founded more than a dozen venture-backed companies.</li>
-<li>More than 10 different nationalities.</li>
-<li>We deeply believe in <a href="https://supabase.com/blog/2022/03/25/should-i-open-source-my-company" target="_blank">the efficacy of collaborative open source</a>. We support existing communities and tools, rather than building "yet another xx".</li>
-<li>We "dogfood" everything. If you use it in your project, we use it in Supabase.</li>
-</ul>
-<h2><a id="process" class="anchor"></a>Process</h2>
-<ul>
-<li>The entire process is fully remote and all communication will happen over email or via video chat.</li>
-<li>Once you've submitted your application, the team will review your submission, and may reach out for a short screening interview over video call.</li>
-<li>If you pass the screen you will be invited to up to four follow up interviews. The calls:
-<ul>
-<li>usually take between 20-45 minutes each depending on the interviewer.</li>
-<li>are all 1:1.</li>
-<li>will be with both founders, a member of either the growth or engineering team (depending on the role), and usually one other person from your immediate team or function.</li>
-</ul>
-</li>
-<li>Once the interviews are over, the team will meet to discuss several roles and candidates and may:
-<ul>
-<li>ask one or two follow-up questions over email or a quick call.</li>
-<li>go directly to making an offer.</li>
-</ul>
-</li>
-</ul>
-<h2>&nbsp;</h2></div>
-
                 </details>
                 </td>
             </tr>,<tr>
