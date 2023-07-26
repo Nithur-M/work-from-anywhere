@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/and-voila-ai-senior-full-stack-developer-founder-s-equity" align="right" target="_blank">Apply</a>
@@ -83,7 +83,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/gymdesk-php-mobile-flutter-developer" align="right" target="_blank">Apply</a>
@@ -135,7 +135,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/harley-therapy-psychotherapy-counselling-mid-level-ruby-and-javascript-developer" align="right" target="_blank">Apply</a>
@@ -169,7 +169,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-11" align="right" target="_blank">Apply</a>
@@ -226,7 +226,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opesus-developer-consultant-for-sap-sustainability-solutions-europe" align="right" target="_blank">Apply</a>
@@ -298,6 +298,85 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4499/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>10ex.dev</h5>
+                    <h3> Software Developer (Elixir)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/10ex-dev-software-developer-elixir" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0071/4499/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Phoenix, Arizona
+    <br /><strong>URL:</strong> <a href="https://10ex.dev/developers">https://10ex.dev/developers</a>
+</p>
+
+<div>We are looking for a Mid/Senior Backend Engineer who is passionate about creating next-generation immersive experiences that bring new forms of audience engagement to life in fun and unexpected ways, in original projects that bridge the gap between the digital and physical worlds in unique, story-driven ways.<br><br>
+</div><div>
+<br>Our ideal candidate is a seasoned technical leader and software engineer with previous experience developing/integrating scalable backend solutions for mobile games. You care deeply about writing beautiful, performant code that will act as the foundation of development for years to come. You also know how to build and lead a team of engineers and mentor them on their career paths. You should enjoy working as part of cross-functional teams to help architect solutions to unique problems that help the entire platform.<br><br>
+</div><div>
+<br>QUALIFICATIONS<br><br>
+</div><ul>
+<li>4+ Years of creating and delivering high-performance APIs</li>
+<li>Bachelor's degree in Computer Science or equivalent</li>
+<li>Advanced knowledge of Elixir/Phoenix/LiveView</li>
+<li>Advanced knowledge of PostgreSQL/Ecto</li>
+<li>Advanced knowledge of AWS/Docker/Terraform deployment</li>
+<li>Experience using Elixir in production at scale</li>
+<li>Extensive experience debugging and optimizing backend applications</li>
+<li>Experience working with a team of developers, artists and technical leads</li>
+<li>Proficiency with Git and GitHub</li>
+<li>Excellent oral and written English language skills</li>
+<li>Ability to both think high-level and be detail oriented</li>
+</ul><div>
+<br>RESPONSIBILITIES</div><ul>
+<li>Lead the development of and help design the architecture for a greenfield gaming platform</li>
+<li>Convert complex requirements into elegant working software</li>
+<li>Architect and maintain key infrastructure</li>
+<li>Work closely with the User Experience Design Team to design and implement new concepts and features</li>
+<li>Work closely with the Client Engineering team to design and integrate internal and external APIs</li>
+<li>Collaborate with other engineers to solve problems</li>
+<li>Produce code that is clear and concise, and consistent with best-in-class coding standards</li>
+<li>Deliver in accordance with prescribed deadlines, on time and with high quality</li>
+<li>Self-manage and work in an environment of high autonomy</li>
+<li>Participate in and lead code reviews</li>
+<li>Work closely with the rest of the engineering team on a day to day basis</li>
+<li>Document new features for both internal and external reference</li>
+<li>Ability to progress into a position which oversees a small development and engineering team</li>
+</ul><div>
+<br>PREFERENCES</div><ul>
+<li>Proficiency with Javascript and HTML/CSS</li>
+<li>Experience writing documentation</li>
+<li>A thorough understanding of development from design to deployment</li>
+<li>Agile methodology experience</li>
+<li>Experience with other functional programming languages</li>
+</ul><div>
+<br>BENEFITS<br><br>
+</div><ul>
+<li>Health / Vision / Dental</li>
+<li>Paid Time Off</li>
+<li>Paid Holidays</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/10ex-dev-software-developer-elixir">https://weworkremotely.com/remote-jobs/10ex-dev-software-developer-elixir</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0097/1479/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -348,72 +427,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>A.Team</h5>
-                    <h3> Senior Independent Software Developer ($110-$190/hr)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>725 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0066/7400/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> NYC, SF, and TLV
-    <br /><strong>URL:</strong> <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a>
-</p>
-
-<div>
-<a href="https://build.a.team/wwrfastrackreferral">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. <br><br>After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.<br><br>As part of A·Team, you can expect:</div><ul>
-<li>
-<strong>High-paying, meaningful missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
-<li>
-<strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
-<li>
-<strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
-<li>
-<strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
-<li>
-<strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
-</ul><div>
-<br><strong>How to apply:<br></strong>Go here: <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a> + mention WWR under how you heard about A·Team. No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.<br><strong><br>What you’ll do:</strong>
-</div><ul>
-<li>Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would.</li>
-<li>Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </li>
-<li>You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </li>
-</ul><div>
-<br><strong>Who A</strong>·<strong>Team is for:</strong>
-</div><ul>
-<li>Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy.</li>
-<li>Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</li>
-<li>The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing.</li>
-</ul><div>
-<br><strong>Who A</strong>·<strong>Team is </strong><strong><em>not</em></strong><strong> for:</strong>
-</div><ul>
-<li>People looking for small gigs.</li>
-<li>Folks looking to build simple wordpress/wix/squarespace-style websites.</li>
-<li>Those still early in their careers and recent university/bootcamp grads (at least not yet).</li>
-</ul><div>
-<br><strong>Our long-term vision:<br></strong><a href="https://build.a.team/wwrfastrackreferral">A·Team</a> is a new type of company for a new kind of independent software builders. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </div><div>
-<br>To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1359476/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -424,7 +437,7 @@
                     <code>backend,frontend,fullstack,javascript</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-fullstack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -575,7 +588,7 @@
                     <code>api,C,java,react</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1591692" align="right" target="_blank">Apply</a>
@@ -757,7 +770,7 @@
                     <code>UI/UX,CI/CD</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-developer-1383531" align="right" target="_blank">Apply</a>
@@ -843,7 +856,7 @@
                     <code>C++,javascript,python,security</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-laravel-developer-1422554" align="right" target="_blank">Apply</a>
@@ -942,7 +955,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1019,7 +1032,7 @@
                     <code>C,C#,unity,unity3D</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-next-js-developer-1606658" align="right" target="_blank">Apply</a>
@@ -1334,6 +1347,89 @@
 <p>Experience with full-stack web development, Python, PostgreSQL, and Linux is required. Competency or interest in data visualization, UI, UX, and design are desired.</p>
 <p>Why Join MixRank? Fully-remote, no HQ office. Team of 32 people across 15+ countries Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
 <p>Please include your updated resume when applying for this role.</p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
+                    <h3>Web Developer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4365480&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <p>&nbsp;</p>
+<p><strong>The project</strong></p>
+<p>Our organization is closely involved in a new community lead project, called Logos, and this role will enable you to focus on its development. Logos is a grassroots movement to provide trust-minimized, corruption resistant governing services and social institutions to underserved citizens. Logos’ infrastructure will provide a base for the provisioning of the next-generation of governing services and social institutions - paving the way to economic opportunities to those who need them most, whilst respecting basic human rights through the network’s design.</p>
+<p>In order to promote the ideas behind Logos and its vision, we have created a brand studio called acid.info and you will be part of it. <a href="http://acid.info/">Acid.info</a> is the studio and creative engine within the Logos DAO. Our mission is to build, and ensure, technologies and creativity that supports freedom, justice, and innovation for all people of the world.&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>The role</strong></p>
+<p>As a Web Developer, you will be responsible for the development and technical maintenance of various web-based projects in the studio. Your role will involve decision-making for code architecture, writing tests, choosing the right technology stack, and any other related tasks. You will work closely with the development team, studio lead, and design team to bring our web projects to life. You will take care of all technical aspects of all web projects (from development and testing to deployment and maintenance)&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Responsibilities</strong></p>
+<ul>
+<li>You will be developing and implementing internal tools, including our wiki engine framework, branding design portal our design systems implementation in React</li>
+<li>You will co-write documentation for all the above mentioned products/projects</li>
+<li>You will be responsible for maintaining our open-sourced codebases on Github</li>
+<li>You will be improving the architect and implementation<a href="https://github.com/acid-info/logos-site-builder"> our current site-generator framework</a> (built on top NextJS) and develop it further</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>You ideally will have</strong></p>
+<ul>
+<li>Experience in ReactJS and NodeJs (all in Typescript)&nbsp;</li>
+<li>Good understanding of software architecture</li>
+<li>Experience in implementation of frontend libraries and design systems</li>
+<li>Experience working with Git, Docker and NextJS framework as well as Vercel and/or Netlify</li>
+<li>A strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Bonus points if</strong></p>
+<ul>
+<li>You are comfortable in working remotely and asynchronously</li>
+<li>You have experience working for an open source organisation</li>
+<li>You have exposure to creative coding (processing, open frameworks, WebGL, writing shaders, p5js)</li>
+</ul>
+<p><em>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</em></p>
+<p>&nbsp;</p>
+<p><strong>Compensation</strong></p>
+<p><span style="font-weight: 400;">The expected compensation range for this role is $40,000 - $60,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process. </span></p>
+<p>&nbsp;</p>
+<p><strong>Hiring process</strong></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with POps team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Web Developer and Design Studio Lead</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Assessment (paid)</span></li>
+</ol>
+<p><em><span style="font-weight: 400;">[The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline!]</span></em></p>
+<p>&nbsp;</p>
+<p><strong>Get to know us</strong></p>
+<p><span style="font-weight: 400;">Find out about the Logos here: </span><a href="https://logos.co"><span style="font-weight: 400;">https://logos.co</span></a></p>
+
+    
+
+    
 
                 </details>
                 </td>
@@ -2200,6 +2296,30 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div>We at Collabora are looking for Fullstack Web Application Developers to join our in-house Tools team.</div><div><br></div><div>The  Tools team develops and supports applications used by our colleagues to  execute, analyse and inform the delivery of projects in every area of  the business. We want to build the future of business automation in the free software domain.</div><div><br></div><div>As  a Senior Fullstack Developer you will be working closely with other  Tools Developers, users, Product Owners, the Delivery Team and People Leads to give them the tooling they need to support and protect the  unique way in which Collabora works.</div><div><br></div><div>You  will need to be a specialist in building secure, well-tested web  applications using Django, make sensible choices about UI and know how  to get things deployed.</div><div><br></div><div>You'll  be able to capture, simplify and model real-world processes and  structures, and keep those models updated as requirements evolve.</div><div><br></div><div>You will know how to reverse engineer and fix things you haven't seen before, and you will know how to make slow things go fast.</div></div><div class="section page-centered"><div><h3>You will be patient and pragmatic, careful and caring, and will take seriously the team's mission to maximise:</h3><ul class="posting-requirements plain-list"><ul><li>Engineers' freedom to work on things at which they are *excellent*</li><li>Our colleagues' headspace for personal development and learning</li><li>The role of open source in all business operations</li><li>The richness of everybody's cultural experience within Collabora</li></ul></ul></div></div><div class="section page-centered"><div><h3>In return, the business will provide:</h3><ul class="posting-requirements plain-list"><ul><li>An open engineering culture where you will be able to exchange ideas with technical experts in a wide range of software fields</li><li>Meetups and conference attendance (COVID permitting)</li><li>Flexible hours and a battle-tested remote working culture</li><div><br></div><div>If you care about open source and writing software to help companies regain control of their operations, then please apply!</div></ul></ul></div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li>Strong Python, Django, SQL, JavaScript, HTML, CSS</li><li>Experience designing and implementing web architectures, and configuring their components (e.g. NGinx, Redis)</li><li>Willingness to support and mentor other engineers</li><li>Experience solving challenges with observability and diagnostics</li><li>A respectful and pragmatic approach to providing technical support to users</li><li>A solid grounding in Linux system administration and networking concepts</li><li>Good English proficiency</li><li>Familiarity with container-based working, e.g. Docker or Podman, Kubernetes</li><li>Experience using, maintaining and designing CI and other DevOps processes</li><li>Experience with database schema design and optimisation</li><li>Willingness to occasionally do some PHP even if through gritted teeth</li><li>Demonstrable technical writing skills (documentation, blogs)</li><li>Knowledge of security- and privacy-by-design principles</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><b>About Collabora</b></div><div><br></div><div>Collabora  is a software consultancy specializing in bringing companies and the  Open Source community together. We combine years of Open Source software  leadership with an understanding of the challenges that businesses,  non-profits, and governments face.</div><div><br></div><div>Collabora  brings deep technical expertise in system integration &amp;  architecture, graphics, multimedia, web engines and communications to a  number of market verticals, including mobile, IVI/automotive, set top  box/smart TV, and a range of other specialized embedded applications.</div><div><br></div><div>Collabora  has the unique business model of enabling enterprises to leverage Open  Source software in their solutions. Having worked with notable industry  leading companies in the automotive, aerospace and handset mobile  verticals amongst many others, Collabora has established a broad customer portfolio.</div><div><br></div><div>#LI-Remote</div><div><br></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/d724930d-ce73-4415-ac7e-a3ef275db155/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Kernel Developer for KernelCare - REMOTE/Work Anywhere</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/F785D5B595" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>We are looking for<strong> Kernel Developers</strong> to work on our KernelCare team. The ideal candidate is someone looking for a rewarding and challenging career developing Linux Kernels and patches. This role requires someone with strong C development skills and a passion for all that is Linux. Our Kernel Developers create patches with a cyber security focus while finding solutions for our customers. </p> <p><br></p> <p>KernelCare is a product of CloudLinux Inc., the maker of the #1 OS in security and stability for hosting providers. KernelCare, a live kernel patching service provides security patches and bug fixes for a range of popular Linux kernels that can be installed without rebooting the system.  Check out our website for more information about our KernelCare Product <a href="https://tuxcare.com/live-patching-services/" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com/live-patching-services/</a></p><p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and  we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful. </p><p>We are truly a great place to work. </p> <p><strong>As our Kernel Developer you will be responsible for:</strong></p><ul> <li>Support existing functionality and implementation of several new features</li> <li>Update existing kernels including security fixes and CVEs patches</li> <li>Develop and support Python and Bash scripts for task automation</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role you should have:</strong></p><ul> <li>Excellent C programming and debugging skills</li> <li>Good level knowledge of Linux kernel core subsystems</li> <li>CPU and cache architectures</li> <li>Experience with GDB and other debuggers</li> <li>CPU performance and power analysis</li> <li>Independent and self-motivated problem solver and strategic thinker</li> <li>Proficient in Git for development and patch/branch management</li> <li>Good planning, time management, decision-making, presentation, and organization skills</li> <li>Effective written and verbal communication</li> <li>Excellent interpersonal and teamwork skills</li> <li>Happy in an agile, fast-paced environment</li> </ul><ul> <li>Experience with python, shell scripting</li> <li>Experience with Jenkins</li> </ul><h3>Benefits: </h3><p>What's in it for you?<br></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> </ul> <ul><li>Interesting and challenging projects</li></ul> </li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
                 </details>
                 </td>
             </tr></table>
