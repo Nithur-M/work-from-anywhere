@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/and-voila-ai-senior-full-stack-developer-founder-s-equity" align="right" target="_blank">Apply</a>
@@ -83,7 +83,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/gymdesk-php-mobile-flutter-developer" align="right" target="_blank">Apply</a>
@@ -135,7 +135,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/harley-therapy-psychotherapy-counselling-mid-level-ruby-and-javascript-developer" align="right" target="_blank">Apply</a>
@@ -169,7 +169,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-11" align="right" target="_blank">Apply</a>
@@ -226,7 +226,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opesus-developer-consultant-for-sap-sustainability-solutions-europe" align="right" target="_blank">Apply</a>
@@ -308,7 +308,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/10ex-dev-software-developer-elixir" align="right" target="_blank">Apply</a>
@@ -387,7 +387,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/trendspider-front-end-software-developer" align="right" target="_blank">Apply</a>
@@ -437,7 +437,7 @@
                     <code>backend,frontend,fullstack,javascript</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-fullstack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -526,58 +526,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1736598/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Skrapp.io</h5>
-                    <h3>Fullstack Developer (Node.js, React, NoSQL, SQL)</h3>
-                </td>
-                <td width="300">
-                    <code>api,CSS,fullstack,html</code>
-                </td>
-                <td width="200">
-                <text>8 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/fullstack-developer-node-js-react-nosql-sql-1736598" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We are seeking a skilled and experienced Fullstack Developer with 3 to 5 years of expertise in building web applications using Node.js, React, and both NoSQL and SQL databases. As a Fullstack Developer, you will be an integral part of our development team, contributing to the design, implementation, and maintenance of innovative and user-friendly web solutions.<br><br></p>
-<p><strong>Responsibilities:</strong></p>
-<ol style="">
-<li style="">Fullstack Development: Lead the end-to-end development process, including front-end and back-end tasks, using Node.js and React as primary technologies.</li>
-<li style="">Front-End Development: Utilize your proficiency in React to create interactive and visually appealing user interfaces that deliver a seamless user experience.</li>
-<li style="">Back-End Development: Architect and develop robust server-side applications using Node.js and related frameworks (e.g., Express) to handle complex business logic and data operations.</li>
-<li style="">Database Management: Work with both NoSQL databases (e.g., MongoDB) and SQL databases (e.g., MySQL, PostgreSQL) to design efficient data storage and retrieval mechanisms.</li>
-<li style="">API Integration: Collaborate with other teams to integrate APIs and third-party services, ensuring smooth communication between various components of the application.</li>
-<li style="">Testing and Quality Assurance: Conduct thorough testing and debugging to identify and resolve issues, ensuring the delivery of high-quality and reliable code.</li>
-<li style="">Performance Optimization: Optimize application performance, both on the front-end and back-end, to ensure fast response times and smooth user interactions.</li>
-<li style="">Code Review and Best Practices: Participate in code reviews to maintain code quality and adherence to industry best practices.</li>
-<li style="">Collaboration: Work closely with cross-functional teams, including product managers, designers, and other developers, to ensure successful project delivery.<br><br></li>
-</ol>
-<p><strong>Requirements</strong></p>
-<ol style="">
-<li style="">Experience: Proven 3 to 5 years of professional experience as a Fullstack Developer, with a strong track record in Node.js and React development.</li>
-<li style="">Node.js and React Proficiency: Extensive experience in building applications using Node.js and React, with a focus on scalability, performance, and maintainability.</li>
-<li style="">Database Expertise: Solid understanding of both NoSQL databases (e.g., MongoDB) and SQL databases (e.g., MySQL, PostgreSQL) and the ability to design effective database schemas and optimize queries.</li>
-<li style="">Front-End Technologies: Strong knowledge of front-end technologies such as HTML, CSS, JavaScript, and modern front-end libraries/frameworks.</li>
-<li style="">Problem-Solving Skills: Strong analytical and problem-solving abilities to tackle complex technical challenges effectively.</li>
-<li style="">Communication Skills: Excellent communication skills to collaborate with team members, stakeholders, and clients.</li>
-<li style="">Code Quality: A keen eye for writing clean, modular, and well-documented code.</li>
-<li style="">Bachelor's Degree: A degree in Computer Science, Software Engineering, or a related field is preferred but not mandatory.<br><br></li>
-</ol>
-<p><strong>Benefits</strong></p>
-<p><strong>Contract:</strong></p>
-<p>We only offer contractor/freelancer contracts to our team members with yearly paid days off (25 days per year). You will pay for your local health insurance and retirement plan independently. <br><br><strong>Work Environment:</strong></p>
-<p>We are a team of young professionals working remotely from Spain, France, Egypt, India and the United Arab Emirates. The position is fully remote; you will enjoy flexible working hours from anywhere worldwide. We also plan up to 2 retreats per year to exotic destinations accessible by the team members, representing a chance to meet, discuss, work, and do fun activities.<br><br>If you are a motivated Fullstack Developer with hands-on experience in Node.js, React, and both NoSQL and SQL databases, we invite you to join our team. You will have the opportunity to work on exciting projects, contribute to the growth of our company, and continuously expand your skill set in a supportive and innovative environment.</p>
-<img src="https://remotive.com/job/track/1736598/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1591692/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -588,7 +536,7 @@
                     <code>api,C,java,react</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1591692" align="right" target="_blank">Apply</a>
@@ -695,7 +643,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -770,7 +718,7 @@
                     <code>UI/UX,CI/CD</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-developer-1383531" align="right" target="_blank">Apply</a>
@@ -856,7 +804,7 @@
                     <code>C++,javascript,python,security</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-laravel-developer-1422554" align="right" target="_blank">Apply</a>
@@ -955,7 +903,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1032,7 +980,7 @@
                     <code>C,C#,unity,unity3D</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-next-js-developer-1606658" align="right" target="_blank">Apply</a>
