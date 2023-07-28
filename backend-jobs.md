@@ -10,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/prospect-java-engineer-backend-2" align="right" target="_blank">Apply</a>
@@ -113,88 +113,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/3712/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Tiller</h5>
-                    <h3> Experienced Software Engineer - Backend</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>7 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/tiller-experienced-software-engineer-backend" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0071/3712/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Seattle, WA
-    <br /><strong>URL:</strong> <a href="https://www.tillerhq.com">https://www.tillerhq.com</a>
-</p>
-
-<div>Tiller is seeking an experienced, team-oriented backend engineer with a passion for building robust, scalable software and systems for customer-focused financial products. You may be a perfect candidate if you have excellent communication skills, appreciate simple solutions to complex problems, and enjoy working collaboratively.</div><div><br></div><div>You are not expected to have experience with all listed requirements. If you feel passionately about Tiller’s mission, vision and values, please apply.</div><div><br></div><div>Our team is fully remote and based in the Pacific Time Zone (UTC–07:00).</div><div>
-<br><strong>What you will bring to Tiller</strong>
-</div><ul>
-<li>Expertise with one or more pieces of our tech stack (TypeScript, node.js, MongoDB, Redis, Docker, Google Cloud Platform, Github Actions)</li>
-<li>Strong understanding of cloud platform services (compute, storage, networking, permissions)</li>
-<li>Knowledge and skills for effectively monitoring distributed applications.</li>
-<li>Experience with tools and techniques for maintaining and refactoring legacy code.</li>
-<li>Reliable workspace and internet connection, and ability to travel occasionally within the United States.</li>
-<li>A growth mindset and desire to continuously improve.</li>
-</ul><div>
-<br><strong>Within 2 weeks, you will:</strong>
-</div><ul>
-<li>Introduce yourself and work with each of our teams from engineering to customer success and more.</li>
-<li>Familiarize yourself with our product and core codebase.</li>
-<li>Learn about our roadmap and exciting opportunities ahead.</li>
-<li>Get your first project into production and learn about our development processes.</li>
-</ul><div>
-<br><strong>Within 3 months, you will:</strong>
-</div><ul>
-<li>Improve the core codebase by developing a performant and maintainable backend feature.</li>
-<li>Lead and participate in blameless, empathetic code reviews.</li>
-<li>Gain a full overview of our service architecture and implement 3 metrics to increase visibility into the health and performance of our services.</li>
-</ul><div>
-<br><strong>Within 6 months, you will:</strong>
-</div><ul>
-<li>Contribute to the engineering team’s culture of operational excellence by creating a proposal to improve a system or process.</li>
-<li>Take ownership of a new product initiative through the entire development lifecycle.</li>
-<li>Be a subject matter expert in one or more areas of Tiller’s service architecture.</li>
-</ul><div>
-<br><strong>What we offer</strong>
-</div><ul>
-<li>Competitive salary + equity</li>
-<li>Medical benefits</li>
-<li>Fully remote position with flexible working hours</li>
-<li>Unlimited paid time off</li>
-<li>Annual company and team meetups</li>
-</ul><div>
-<br><strong>About Tiller</strong>
-</div><div>Tiller’s mission is to help people gain greater confidence and control of their financial lives. We’re passionate about empowering people with their financial data in a flexible, private, and customizable format so they can take control of their future.</div><div>
-<br><strong>Our Vision</strong>
-</div><div>Money matters because life matters more.</div><div>
-<br><strong>Our Values</strong>
-</div><ul>
-<li>We <strong>communicate</strong> directly and respectfully to build an environment of mutual support.</li>
-<li>Our team structure is built on <strong>trust</strong>, where each member is a “manager of one”.</li>
-<li>We <strong>bias towards action</strong> and focus on tangible outcomes. We take reasonably informed risks, and view failure as an opportunity to learn.</li>
-<li>We work to make a <strong>positive impact</strong>, internally and externally. We own our processes and collective outcomes as a team.</li>
-<li>We embrace a <strong>growth mindset</strong>, staying curious and seeking help from others to expand our possibilities. It’s okay to make mistakes here: we are human, and readily admit when we are wrong.</li>
-</ul><div><strong><br>Commitment to Diversity</strong></div><div>Tiller is committed to making this a great place to work for everyone, to encourage diverse perspectives and to make technology more representative of the humans we serve. We strive to cultivate an environment that supports our team’s full lives, to enable them to do their best work.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tiller-experienced-software-engineer-backend">https://weworkremotely.com/remote-jobs/tiller-experienced-software-engineer-backend</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1698908/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -205,7 +123,7 @@
                     <code>apache,AWS,backend,cloud</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/backend-engineer-1698908" align="right" target="_blank">Apply</a>
