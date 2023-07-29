@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/smily-product-manager" align="right" target="_blank">Apply</a>
@@ -59,7 +59,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-product-manager-needed-remote" align="right" target="_blank">Apply</a>
@@ -141,56 +141,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-product-manager-needed-remote">https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-product-manager-needed-remote</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1735204/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Timescale</h5>
-                    <h3>Sr. Product Manager, SaaS Experience and APIs</h3>
-                </td>
-                <td width="300">
-                    <code>api,cloud,go,saas</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/sr-product-manager-saas-experience-and-apis-1735204" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Timescale🐯 is looking for an experienced<strong> Senior Product Manager</strong> with a track record of successfully shipping SaaS products.</p>
-<p>This is an exciting opportunity to help build the next great cloud-native database by helping developers easily adopt it and integrate it into their workflows. You will have product responsibilities for a number of capabilities, including sign-up, database service management, account management, billing, and APIs.</p>
-<p>We need you to help us execute tactically and move strategically to meet our ambitious goals and build the next great database cloud. If you have experience in product management and want a role where you can directly and immediately impact a fast-growing startup serving developers worldwide, then this is the role for you.</p>
-<p><em>Timescale is a fully-remote company with team members worldwide, and English language fluency is required. To better coordinate with their teams, the preferred candidate for this role will have working hours in European or East Coast American time zones.</em></p>
-<p><strong>Responsibilities:</strong></p>
-<ul style="">
-<li style="">Develop a deep understanding of our customers and their problems, the competitive landscape, and market trends.  </li>
-<li style="">Craft a quarterly and annual product strategy and roadmap in concert with other product managers, customers, engineering, design, and go-to-market teams. Create differentiation for Timescale Cloud.</li>
-<li style="">Perform product discovery, gather and document requirements and feedback from customers, community users, and internal stakeholders, and find innovative solutions to complex problems.</li>
-<li style="">Own execution and delivery of new product features end-to-end.</li>
-<li style="">Measure adoption of the product, run experiments, collect customer feedback regularly, and adjust plans as needed. Use data to support your decisions.</li>
-<li style="">Work with go-to-market teams on messaging, positioning, and launch activities.</li>
-<li style="">Help support customer engagements and participate in sales enablement activities within the company.</li>
-<li style="">Serve as the connective tissue between engineering, design, marketing, customer care, and other stakeholders, proactively communicating product questions and decisions.</li>
-<li style="">Mentor other product managers in the team, helping them develop their skills and progress in their careers.</li>
-</ul>
-<p><strong>Requirements:</strong></p>
-<ul style="">
-<li style="">5+ years of proven track record in product management, with at least 3+ years of experience on SaaS products.</li>
-<li style="">Excellent written and verbal communication and the ability to explain complex technical design in 20 seconds or 20 minutes, depending on the audience and goals.</li>
-<li style="">Ability to combine data-driven approaches with strong user empathy to figure out what/when/why to ship - we’re building a platform for millions of users, and there is lots to do! </li>
-<li style="">Excited by ambiguous and vague problem definitions and the ability to refine them into an actionable plan.</li>
-<li style="">Strong sense of ownership and problem-solving skills - Timescale is moving fast, and so should you. Trying things, making mistakes, and quickly improving are in our DNA.</li>
-<li style="">Comfortable engaging and working in the open with developer communities.</li>
-<li style="">Computer Science or technical degree preferred, or prior technical development experience.</li>
-</ul>
-<img src="https://remotive.com/job/track/1735204/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -473,6 +423,30 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt">Mechanical Orchard is a new kind of software consultancy. We build new applications and replace legacy systems for a wide range of customers, spanning from seed stage startups to the Fortune 500, but it doesn’t end there. We run what we build, and build what we run. Our customers focus on their business, rather than manage all the cost, complexity, and risk that comes with operating production systems.</span></div><div><br></div><div><span style="font-size: 11pt">Our background in software development and the impact on the industry is well known, and we've helped write the book on XP and other effective agile practices. We believe in the durable principles behind agile, and embrace the power of cross-functional teams, collective ownership, test driven development, short feedback loops, and continuous improvement.</span></div><div><br></div><div><span style="font-size: 11pt">We are Generous, Ethical, Effective, and Kind.</span></div><div><br></div><div><span style="font-size: 11pt">As a Product Manager at Mechanical Orchard, you will be expected to:</span></div><div><br></div><div><span style="font-size: 11pt">- Work as part of a cross functional development team, collaborating with product designers, engineers, and other roles to build software for clients and/or Mechanical Orchard</span></div><div><span style="font-size: 11pt">- Work closely with customers to understand their needs, and use this knowledge to help shape product strategy and inform decision-making for the given project or engagement</span></div><div><span style="font-size: 11pt">- Use lean startup and lean UX principles to develop and test product ideas quickly and efficiently</span></div><div><span style="font-size: 11pt">- Work in partnership with product designer(s) to conduct user research, develop solutions, validate design effectiveness, and iterate on designs based on qualitative and quantitative feedback from users, customers, and the development team</span></div><div><span style="font-size: 11pt">- Manage a fine grained backlog in Pivotal Tracker that drives incremental progress in terms of learning and value</span></div><div><span style="font-size: 11pt">- Organize and facilitate regular project planning meetings, brainstorming sessions, team retrospectives, and other agile team ceremonies&nbsp;</span></div><div><span style="font-size: 11pt">- Monitor, analyze, and discern learnings from qualitative and quantitative data&nbsp;</span></div><div><span style="font-size: 11pt">- Collaborate with internal and external stakeholders as needed</span></div><div><span style="font-size: 11pt">- Apply and advocate for modern product practices including lean / lean UX and user centered design</span></div><div><br></div><div><span style="font-size: 11pt">The ideal candidate has worked as a product manager in a professional, team-based environment, with experience across the entire product lifecycle, and a deep understanding of product management principles.</span></div><div><br></div><div><span style="font-size: 11pt">Some consulting experience is a bonus.</span></div><div><br></div><div><span style="font-size: 11pt">Strong communication and collaboration skills as well as empathy are essential for working closely with the development team, customers, and others at Mechanical Orchard.</span></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 11pt">Mechanical Orchard, Inc. is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind. Mechanical Orchard, Inc. is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Mechanical Orchard, Inc. are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Mechanical Orchard, Inc. will not tolerate discrimination or harassment based on any of these characteristics. Mechanical Orchard, Inc. encourages applicants of all ages. Mechanical Orchard, Inc. will provide reasonable accommodation to employees who have protected disabilities consistent with local law.</span></div><div><br></div><div>We look forward to reviewing your application. Thanks!</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/mechanicalorchard/e9e79713-9cd4-41f9-92c0-c20dc588a262/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1382655628523364355/MWPIbbID_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CoverGo</h5>
+                    <h3>Senior Product Manager (Health) - Fully Remote</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/covergo/j/D1A8A02DBC" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Top 3 Reasons To Join Us </strong></p><ul> <li>Employee Stock Options </li> <li>100% Remote </li> <li>Insurtech industry leader worldwide </li> </ul><p><strong>About Us</strong></p><p>At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.</p><ul> <li>We are a leading global no-code insurance platform for health, life, and P&amp;C;</li> <li>We’re the winner of the Insurtech of the Year in all of Asia and other awards globally;</li> <li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more;</li> <li>We're an international, diverse team of over 120 people with 34 nationalities and team members working remotely from all over the world;</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors;</li> <li>We have offices in the US, Singapore, Hong Kong, UAE and Vietnam;</li> <li>We’ve grown our annualized revenue by over 30x since January 2021;</li> <li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world.</li> </ul><p><strong>What You Will Do:</strong></p><ul> <li>Product Strategy: Develop and execute a compelling product strategy for our products, aligned with the company's vision and objectives.</li> <li>Market Analysis: Conduct market research, analyze industry trends, and gather customer insights to identify opportunities for product innovation and differentiation.</li> <li>Product Roadmap: Define and communicate a clear and prioritized product roadmap, considering market dynamics, customer insights, and business goals.</li> <li>Requirements Gathering: Collaborate with stakeholders to gather and document detailed product requirements, ensuring a deep understanding of customer pain points and business priorities.</li> <li>User Experience: Work closely with design and engineering teams to create exceptional user experiences, employing best practices in user interface (UI) and user experience (UX) design.</li> <li>Cross-functional teams collaboration: Work cross-functional teams through iterative development cycles, and ensure timely delivery of high-quality product releases.</li> <li>Go-to-market Strategy: Collaborate with finance and marketing teams to establish go-to-market strategies for health insurance products.</li> <li>Performance Tracking: Define key performance indicators (KPIs) and implement robust tracking mechanisms to measure product performance, identify areas for improvement, and drive data-driven decision-making.</li> <li>Stakeholder Collaboration: Collaborate effectively with internal and external stakeholders, including executive leadership, sales teams, and industry partners, to drive product adoption and achieve business objectives.</li> <li>Any  other task as may be assigned</li> </ul> <p><strong>What We Need:</strong></p><ul> <li>Bachelor's degree in business, computer science, or a related field.</li> <li>At least 7 years of insurance product management experience, especially health insurance, prefer to have experience with other insurance products such as life and P&amp;C.</li> <li>Solid insurance knowledge is a must, specifically health insurance.</li> <li>Demonstrated success in managing the entire product lifecycle, from ideation to launch and post-launch optimization.</li> <li>Strong analytical skills, with the ability to gather and interpret market data, customer insights, and competitive intelligence.</li> <li>Experience working with cross-functional teams and driving collaboration in an Agile development environment.</li> <li>Nice to have experience in working with Jira and Confluence suite of products</li> <li>Excellent English communication and presentation skills, with the ability to convey complex concepts to both technical and non-technical stakeholders.</li> <li>Strategic mindset, with the ability to think long-term and translate vision into actionable plans.</li> <li>A critical thinker, an innovator and has good problem-solving skills</li> <li>Results-oriented and data-driven, with a passion for delivering exceptional customer experiences and achieving business objectives.</li> </ul> <p><strong>Why You'll Love Working Here</strong></p><ul> <li>Globally Remote Work Opportunity</li> <li>Local time zone office hours, work by your schedule</li> <li>Paid Time Offs</li> <li>Share Option Plan</li> <li>Performance bonus</li> <li>Company activities &amp; team offsites to exotic locations</li> <li>Training and development plan</li> </ul>Covergo Company<a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"> Video</a><h3>Requirements: </h3><h3>Benefits: </h3>
                 </details>
                 </td>
             </tr></table>
