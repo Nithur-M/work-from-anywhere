@@ -1,5 +1,73 @@
 <div align="center"><h2>PROJECT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Coaching.com</h5>
+                    <h3> Marketing Project Manager</h3>
+                </td>
+                <td width="300">
+                    <code>Sales and Marketing</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/coaching-com-marketing-project-manager-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> United States
+    <br /><strong>URL:</strong> <a href="https://coaching.com">https://coaching.com</a>
+</p>
+
+<div><strong>GENERAL INFORMATION</strong></div><div><br></div><div><strong>5 MONTH CONTRACT</strong></div><div>Department - Marketing<br>Reporting to - Marketing Director<br>Start Date - Immediate<br>Salary - $4,000 - $5,000/ monthly (based on experience)</div><div>
+<br>Are you ready to work at Coaching.com?<br>Imagine being the Marketing Project Manager for the team behind the world’s leading software platform, marketplace, programs and educational events for professional business coaches and leading corporations<br><br>
+</div><div>Become part of the team behind the leading coaching management platform for enterprise clients including ​​Dropbox, Salesforce, and Ernst &amp; Young, and individual coaches, to run their large coaching projects, as well as their coaching businesses.<br><br>
+</div><div>At the same time, you’ll be joining the team that runs the world’s leading virtual coaching summit with internationally recognized thought leaders in Business and Executive Coaching including, world leading coaches, leadership experts, executives and leaders of internationally recognized professional coaching organizations.  <br><br>
+</div><div>With a global community of over 100,000 professional coaches, our mission is to raise the global standard of coaching, by providing professional coaches with the highest quality, most impactful platform, services, tools and content available in the industry.<br><br>
+</div><div>Coaching.com is a cutting-edge innovator in the coaching space, with a growing global remote workforce. We look for people who want to combine their passion for doing good with their drive to do well.  We provide a supportive work environment, and opportunities for personal and professional growth and development, while creating a positive impact on the world. Our team takes pride in our philanthropic arm, Coaching.com Foundation.  EC partners with leading global development organizations to provide coaching to cause based leaders who are addressing the greatest humanitarian and environmental challenges of our time.  We amplify our impact by helping those leaders be more effective in their efforts to change the world.</div><div><br></div><div><strong>About The Role</strong></div><div>Reporting to the Director of Marketing, the Project Manager will manage program launch projects working with a diverse virtual team in multiple time zones.</div><div><br></div><div>This role is all about timelines and team capacity. As the Asana-master, you will be leading all projects and working with cross-functional business teams. You will make sure the left hand knows what the right hand is doing and when it needs to be done. </div><div><br></div><div>You will be joining a company that is growing incredibly quick and your job will be to help accelerate our growth. Our business is 100% online so we’re looking for a Project Manager with both technical and marketing knowledge who can be a key contributor to our strategy and growth.</div><div><br></div><div>Key Responsibilities:</div><ul>
+<li>Coordination with other team members (Developers, CRM automation manager, copywriters, design) to complete successful launches</li>
+<li>Simultaneously manage multiple tasks and projects within tight timeframes while maintaining a keen and careful attention to detail.</li>
+<li>Set timeliness appropriately and identify roles, responsibilities, and processes that will achieve high quality creative work</li>
+<li>Serve as main point-of-contact for their projects and communicate status proactively</li>
+<li>Anticipate delays and roadblocks, and work to keep deliverables on time and on target</li>
+<li>Lead projects through the review process and execution phase with cross-functional partners</li>
+<li>Develop workback schedules upon kicking off a project and keep workbacks up-to-date as shifts in schedule occur. </li>
+<li>Work closely with project teams to track work and ensure each team is able to successfully meet benchmarks and deadlines.</li>
+<li>Hold creatives and stakeholders accountable to agreements made in a project’s brief. Ensure a timely and organized handoff of all final deliverables.</li>
+<li>Become an expert in our chosen project management software, Asana, and oversee the use of it on a daily basis.</li>
+<li>Identify opportunities for greater efficiency and propose solutions that help the company scale our work.</li>
+<li>Build strong relationships with cross-functional partners across the company.</li>
+<li>Partner closely with all members of the company to understand their individual needs. Align resourcing with individuals’ bandwidth and needs as much as possible.</li>
+<li>Assist in the production of coaching.com podcast </li>
+</ul><div><br></div><div>Experience/Qualifications</div><ul>
+<li>Bachelor's degree or college diploma (from a recognized Educational Institution)</li>
+<li>PMP or other project management designation is an asset.</li>
+<li>Experience in Marketing Automation (InfusionSoft an asset)</li>
+<li>Experience in planning &amp; leading campaigns across multiple channels</li>
+<li>3+ years leading and working within a team.</li>
+<li>Resourceful &amp; capable of self-managing and multitasking in fast paced environment</li>
+<li>Able to manage competing priorities</li>
+<li>Adaptable &amp; ambitious</li>
+<li>Speak, read and write English at an idiomatic level</li>
+<li>Other Requirements</li>
+<li>Reliable high-speed internet connection</li>
+<li>Flexibility to work with multiple time zones</li>
+</ul><div><br></div><div><strong>Compensation</strong></div><div>Competitive with bonuses and unlimited growth opportunities.</div><div>Most importantly you will be working with our team that considers itself a family of people who will welcome you with open arms.</div><div><br></div><div><strong>Location</strong></div><div>Anywhere. This is not your typical office job. Our passionately engaged team works remote and collaborates frequently. We work to build strong support, loyalty and engagement, with a culture of high-performance and high recognition. The work/life balance is flexible but full-on and the culture is fast paced. We consider our work our “art” and strive for excellence in everything we do.<br><br>
+</div><div>Coaching.com is dedicated to encouraging a supportive and inclusive culture amongst the workforce. We aim to ensure that all team members and job applicants are given equal opportunity and that our organization is representative of all sections of society. We do not discriminate on the basis of race, color, ancestry, national origin, religion or religious creed, disability, medical condition, genetic information, sexual orientation, gender identity, gender expression, age, marital status, military or veteran status, or citizenship.</div><div><br></div><div><strong>How to apply</strong></div><div>Please fill out this  <a href="https://forms.gle/UTfqzY7HWRD3pqybA"><strong>APPLICATION FORM</strong></a>, following the instructions outlined. <br><br>Contact careers@coaching.com if you're having a problem with the application form. Thank you!</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/coaching-com-marketing-project-manager-2">https://weworkremotely.com/remote-jobs/coaching-com-marketing-project-manager-2</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
