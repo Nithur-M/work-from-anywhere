@@ -10,7 +10,7 @@
                     <code>Sales and Marketing</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/coaching-com-marketing-project-manager-2" align="right" target="_blank">Apply</a>
@@ -64,6 +64,93 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/coaching-com-marketing-project-manager-2">https://weworkremotely.com/remote-jobs/coaching-com-marketing-project-manager-2</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1734811/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Intento</h5>
+                    <h3>Project Manager</h3>
+                </td>
+                <td width="300">
+                    <code>python,AI/ML,project management,startup</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/project-manager-1734811" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p dir="ltr">We are looking for a proactive Project Manager to deal with standard projects and deliveries within the AI Curation team. As part of the Intento team, you will have the opportunity to play an active role in supporting global companies as they implement and utilize our AI technology.</p>
+<p dir="ltr">This is a remote position, and we consider candidates from the USA timezone.</p>
+<p dir="ltr"><strong><br>About Intento:</strong><br>Intento is a fast-growing company founded by two PhDs in AI and has gained recognition from industry leaders such as OpenAI and Gartner. With 75+ employees working remotely from locations around the world, our head office is located in California, USA.<br><br></p>
+<p dir="ltr"><strong>Values you can expect from working at Intento:</strong></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr">Work in an exciting, fast-paced startup environment where you can personally influence the company's course.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Transparency of business strategies.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Autonomy, balanced by responsibility.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Solving significant industrial problems.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Gain first-hand experience deploying solutions to Fortune 500 companies.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Get exposed to AI at a unique company while meeting various industry professionals.</p>
+</li>
+</ul>
+<p dir="ltr"><strong>Our ideal candidate has:</strong></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr">Fluent English (other languages as an advantage)</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Experience in communicating and leading project calls with client-side</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">The ability to have a well-planned project map and meet the objectives on time</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Working experience in the localization industry<br> <br>As a plus:</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Translation industry experience</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Customer Support experience</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">The ability to understand code written in Python</p>
+</li>
+</ul>
+<p dir="ltr"><strong>Responsibilities:</strong></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr">Dealing with and solving all issues within the projects</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Being the first point of contact and dealing with all the questions/issues/queries</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Conducting requirements gathering, LQA data validation, and updates</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Reporting and being accountable for own projects within the team</p>
+</li>
+</ul>
+<img src="https://remotive.com/job/track/1734811/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
