@@ -10,7 +10,7 @@
                     <code>amazon,AWS,docker,elasticsearch</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/devops-engineer-1743135" align="right" target="_blank">Apply</a>
@@ -121,7 +121,7 @@
                     <code>admin,AWS,azure,cloud</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1739824" align="right" target="_blank">Apply</a>
@@ -173,7 +173,7 @@
                     <code>android,api,AWS,docker</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/sr-devops-engineer-1698903" align="right" target="_blank">Apply</a>
