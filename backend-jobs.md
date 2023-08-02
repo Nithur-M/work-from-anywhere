@@ -1,118 +1,5 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0015/2558/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Prospect</h5>
-                    <h3> Java Engineer (Backend)</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/prospect-java-engineer-backend-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0015/2558/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Waterloo, Canada
-    <br /><strong>URL:</strong> <a href="https://tryprospect.com">https://tryprospect.com</a>
-</p>
-
-<div>We are a remote startup (headquartered in Canada) building a smart, curious, and driven team that’s making software to help sales reps sell better.</div><div>
-<br>Prospect is a lead generation app that helps you find contact data right inside your browser in real-time. The best sales teams from the top tech companies worldwide use Prospect to crush their sales targets.</div><div><br></div><div><strong>About You</strong></div><div><br></div><div>We are currently a team of 15 people — you will be #16 🙂</div><div>
-<br>You enjoy writing beautiful code. You care not just about whether the code works, but you think deeply about how well it performs, and how it will be understood by future developers.</div><div>
-<br>You like shipping things. You realize that building excellent products is a marathon, not a sprint, and regularly make improvements in iterations.</div><div>
-<br>You are an excellent communicator. You realize that working remotely requires thoughtful communication and you do so through great written communication.</div><div>
-<br>You self-manage and are open to feedback. You enjoy taking a goal and figuring out how to ship it without heavy direction and regular check-ins.</div><div>
-<br>You are product and customer-centric. Whether it is a bug fix, perf improvement, or a new feature, you realize that every line of code is an opportunity to make a user’s experience better.</div><div><strong><br>Our Engineering Team</strong></div><div>
-<br>We are currently a team of 7 engineers. Our roles are divided based on the projects we work on.</div><div>
-<br>We work in 4-week long development cycles in which we focus on adding new features, fixing bugs, or making improvements. After each cycle, we have a 2-week cool-off which we use to work on anything we would like to as well as plan for the next cycle.</div><div>
-<br>Our stack is currently:</div><ul>
-<li>
-<strong>Backend</strong>: Java on Spring and Dropwizard</li>
-<li>
-<strong>Cloud:</strong> AWS, managed by Terraform</li>
-<li>
-<strong>Database</strong>: AWS DynamoDB and PostgreSQL</li>
-<li>
-<strong>Frontend</strong>: TypeScript, React</li>
-<li>
-<strong>Internal</strong>: GitLab, LaunchDarkly, Linear</li>
-</ul><div>
-<br><strong>Projects You Will Work On</strong>
-</div><div>
-<br>You will be working on our backend, a REST API written using modern Java practices.</div><div>
-<br>This is a high-impact role. We are looking for someone to take real ownership of one or two core features within six months. You will own some extremely important parts of our application that serve thousands of customers.</div><div>
-<br>You will work closely with the backend and frontend team and our CTO.</div><div>
-<br>We prioritize our projects based on what customers are requesting the most.</div><div>
-<br>Some things that you might work on include:</div><ul>
-<li>
-<strong>Data</strong>: Scale our real-time data discovery engine to process 5x-10x more volume</li>
-<li>
-<strong>DevOps</strong>: Speed up our CI pipeline for faster builds</li>
-<li>
-<strong>Integrations</strong>: Add features to and revamp our Salesforce integration</li>
-<li>
-<strong>Monitoring</strong>: Modernize our logging and metrics infrastructure</li>
-<li>
-<strong>Reporting</strong>: Add functionality to allow customers to run advanced custom usage reports</li>
-</ul><div>
-<br><strong>Hiring Process</strong>
-</div><div>
-<br>Our process is as follows:</div><ol>
-<li>
-<strong>Initial screening (60 min)</strong>: Complete an asynchronous questionnaire and a relevant coding challenge</li>
-<li>
-<strong>CTO Interview (30 min)</strong>: A call with our CTO to delve into your experiences and discuss the projects we’re working on</li>
-<li>
-<strong>Live coding session (3 hours)</strong>: Collaborate on a problem with our team in real-time</li>
-<li>
-<strong>Founder’s interview (30 min)</strong>: A final conversation with our founders to understand your personal goals and share our company vision</li>
-<li>
-<strong>Job offer</strong>: If we find you're a great fit, we'll make you an offer at this stage</li>
-</ol><div>
-<br><strong>Must Haves</strong>
-</div><ul>
-<li>5+ years of Java programming experience</li>
-<li>Experience with relational databases</li>
-<li>Familiarity with Spring</li>
-</ul><div>
-<br><strong>Nice To Haves</strong>
-</div><ul>
-<li>Previous work experience using Spring Boot or similar modern Java frameworks</li>
-<li>Proficiency with modern infrastructure tools, such as Terraform</li>
-<li>Experience with AWS or other cloud vendors</li>
-<li>Track record in building concurrent systems at scale</li>
-<li>Past success working asynchronously in a fully remote environment</li>
-<li>Demonstrable usage of a metrics-centric approach, using tools like Grafana</li>
-</ul><div>
-<br><strong>What You’ll Get</strong>
-</div><ul><li>Salary: $80,000 - 90,000 US dollars per year</li></ul><div>
-<br><strong>Benefits</strong>
-</div><ul>
-<li>4 weeks paid time off</li>
-<li>Work remotely from anywhere in the world</li>
-<li>No disruptions (we have almost no meetings)</li>
-<li>Be part of a small team doing big things in an independent and flexible work environment</li>
-<li>$1,500 annual continued learning budget (for books, courses, and self-improvement)</li>
-<li>$1,000+ annual travel spending allowance (money to spend during your vacation)</li>
-<li>Benefits (health, dental, etc) through our company HSA (for people living in Canada)</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/prospect-java-engineer-backend-2">https://weworkremotely.com/remote-jobs/prospect-java-engineer-backend-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1698908/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -123,7 +10,7 @@
                     <code>apache,AWS,backend,cloud</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/backend-engineer-1698908" align="right" target="_blank">Apply</a>
