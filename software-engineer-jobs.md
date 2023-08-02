@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>188 days ago</text>
+                <text>191 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -241,6 +241,30 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Internet of Money&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to industry-leading security, crypto education, and world-class client support through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://cryptowat.ch/" class="postings-link">Cryptowatch</a>.</div><div><br></div><div>Become a Krakenite and build the internet of money!</div><div><br></div><div><b style="font-size: 24px">Proof of work</b></div><div><br></div><div><b style="font-size: 18px">The team</b></div><div><br></div><div>We are currently seeking an experienced Senior Software Engineer to join our growing Engineering team. In this role, you will be responsible for developing and maintaining both our Web and Mobile user interfaces using React and React Native, respectively. Your expertise in building scalable and high-performance applications will directly contribute to the success of our platform.</div><div><br></div></div><div class="section page-centered"><div><h3>The opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Design, develop, and maintain high-quality web and mobile applications using React and React Native</li><li>Collaborate with cross-functional teams, including Product, Design, and Backend Engineering, to ensure seamless integration of new features and improvements</li><li>Contribute to the architecture and design of our web and mobile applications</li><li>Identify, analyze, and resolve performance bottlenecks and inefficiencies in the codebase</li><li>Write and maintain comprehensive unit tests and documentation</li><li>Stay up-to-date with the latest industry trends and technologies to ensure our applications remain current and competitive</li><li>Mentor junior developers and participate in code reviews to maintain a high standard of code quality</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>Bachelor's degree in Computer Science or a related field, or equivalent experience</li><li>5+ years of experience in software development, with a focus on web and mobile applications</li><li>Deep understanding of JavaScript/TypeScript and proficiency with React and React Native frameworks</li><li>Experience with <a href="http://Next.js" class="postings-link">Next.js</a>, RESTful APIs and WebSockets</li><li>Experience with frontend testing frameworks</li><li>Familiarity with modern front-end build pipelines and tooling</li><li>Strong understanding of UI/UX best practices and principles</li><li>Excellent problem-solving skills, attention to detail, and ability to work independently and as part of a team</li><li>Strong written and verbal communication skills in English</li></ul></ul></div></div><div class="section page-centered"><div><h3>Nice to have</h3><ul class="posting-requirements plain-list"><ul><li>Knowledge of the cryptocurrency industry and blockchain technology</li><li>Familiarity with native mobile app development (iOS/Android)</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 15px">Location Tagging: </span>#US #EU #LI-LM1 #LI-Remote #Canada</div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/42ac2968-f431-41b9-8470-253d4cda8d28/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1306325743580848130/mk0qvsZ9_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Kraken</h5>
+                    <h3>Senior Software Engineer - React-Native - Mobile</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/kraken/dce1dfa2-17e8-446f-95a2-ac83bee87df6" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Internet of Money&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to industry-leading security, crypto education, and world-class client support through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://cryptowat.ch/" class="postings-link">Cryptowatch</a>.</div><div><br></div><div>Become a Krakenite and build the internet of money!</div><div><br></div><div><b style="font-size: 24px">Proof of work</b></div><div><br></div><div><b style="font-size: 18px">The team</b></div><div><br></div><div>We are currently seeking an experienced Senior Software Engineer to join our growing Engineering team. In this role, you will be responsible for developing and maintaining both our Web and Mobile user interfaces using React and React Native, respectively. Your expertise in building scalable and high-performance applications will directly contribute to the success of our platform.</div></div><div class="section page-centered"><div><h3>The opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Design, develop, and maintain high-quality web and mobile applications using React and React Native</li><li>Collaborate with cross-functional teams, including Product, Design, and Backend Engineering, to ensure seamless integration of new features and improvements</li><li>Contribute to the architecture and design of our web and mobile applications</li><li>Identify, analyze, and resolve performance bottlenecks and inefficiencies in the codebase</li><li>Write and maintain comprehensive unit tests and documentation</li><li>Stay up-to-date with the latest industry trends and technologies to ensure our applications remain current and competitive</li><li>Mentor junior developers and participate in code reviews to maintain a high standard of code quality</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>Bachelor's degree in Computer Science or a related field, or equivalent experience</li><li>5+ years of experience in software development, with a focus on web and mobile applications</li><li>Deep understanding of JavaScript/TypeScript and proficiency with React and React Native frameworks</li><li>Experience with <a href="http://Next.js" class="postings-link">Next.js</a>, RESTful APIs and WebSockets</li><li>Experience with frontend testing frameworks</li><li>Familiarity with modern front-end build pipelines and tooling</li><li>Strong understanding of UI/UX best practices and principles</li><li>Excellent problem-solving skills, attention to detail, and ability to work independently and as part of a team</li><li>Strong written and verbal communication skills in English</li></ul></ul></div></div><div class="section page-centered"><div><h3>Nice to Haves</h3><ul class="posting-requirements plain-list"><ul><li>Knowledge of the cryptocurrency industry and blockchain technology</li><li>Familiarity with native mobile app development (iOS/Android)</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 15px">Location Tagging: </span>#US #EU #LI-LM1 #LI-Remote #Canada</div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/dce1dfa2-17e8-446f-95a2-ac83bee87df6/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1100,87 +1124,6 @@
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
-                    <h3>Senior Software Engineer - Cloud Engineering</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/3062022" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>This is a fast-paced engineering role in Linux-based software-defined infrastructure and applications, covering all layers of the stack, including bare metal, virtualization (KVM) and containerization (LXC/LXD), storage (Ceph and Linux filesystems), networking (OVS, OVN and Core networking), up to OpenStack and Kubernetes, and the open source applications running on top of them.</p>
-<p>This role is an opportunity for a technologist with a passion for Linux and open source to build a career with Canonical and drive success for our customers, community and the company. If you have an affinity for open source development, great communication skills, and a passion for troubleshooting and fixing issues in technology used by millions across the world, then you will enjoy working with some of the best people in the industry at Canonical.</p>
-<h3>Job summary</h3>
-<p>This role deals with critical issues in the open source stack that require software engineering for upstream fixes. Our engineers have to be able to work productively at any level of the stack above the kernel, in a wide range of languages, to understand and address the software issues at hand. Our group is critical to the success of our enterprise customers, partners and Ubuntu itself.</p>
-<p>You will help with troubleshooting and driving issues to resolution with workarounds, guidance, and fixes to be released upstream and in Ubuntu.</p>
-<p>As a Cloud Software Engineer you will:</p>
-<ul>
-<li>Resolve complex customer problems related to Ubuntu, OpenStack, or Kubernetes</li>
-<li>Maintain a close working relationship with Canonical's field, support and product engineering teams</li>
-<li>Participate in upstream communities</li>
-<li>Develop fixes, backport patches, and work with upstream for inclusion</li>
-<li>Demonstrate good judgement in technical methods and techniques</li>
-<li>Prioritise work and manage your time effectively against those priorities</li>
-<li>Participate in team discussions to improve processes, tools, and documentation</li>
-<li>Maintain clear, technical and concise communications</li>
-<li>Travel internationally up to 10% of work time for team meetings, events and conferences</li>
-</ul>
-<p>The successful Cloud Software Engineer will have:</p>
-<ul>
-<li>Professional experience as a software engineer is required</li>
-<li>Bachelor’s or equivalent in Computer Science, STEM or similar degree</li>
-<li>Strong experience with Linux, OpenStack, Kubernetes or other cloud technologies</li>
-<li>Strong development-level experience with Python, Go, C, C++ on Linux</li>
-<li>Ability to troubleshoot with gdb and other tools</li>
-<li>Familiarity with git source code repositories and branches</li>
-</ul>
-<p>What you’ll do</p>
-<ul>
-<li>Collaborate proactively with a distributed team</li>
-<li>Debug issues and produce high quality code to fix them</li>
-<li>Review code produced by other engineers</li>
-<li>Discuss ideas and collaborate on finding good solutions</li>
-<li>Work from home with global travel 2 to 4 weeks per year for internal and external events</li>
-</ul>
-<p>Who you are</p>
-<ul>
-<li>You love technology and working with brilliant people</li>
-<li>You are curious, flexible, articulate, and accountable</li>
-<li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li>
-<li>You have interest in, and experience with most of the following: Ubuntu Linux - kernel or userspace, Kubernetes, OpenStack, Ceph, QEMU/KVM, LXC/LXD, Python, Go, C, Postgresql, Mongo, Debian packaging, distributed systems</li>
-</ul>
-<h3>About Canonical</h3>
-<p>Canonical is a growing multi-national software company that works with the open-source community to deliver Ubuntu -- the world’s leading cloud operating system. Our services help businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.</p>
-<p>We offer:</p>
-<ul>
-<li>Learning and personal professional development budget</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual leave</li>
-<li>Generous parental leave</li>
-<li>Priority Pass for travel</li>
-</ul>
-<p><em>Canonical believes a diverse workforce enhances our ability to deliver world class software and services which meet the world’s computing needs. We are committed to ensuring equal employment opportunities to all qualified individuals. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.</em></p>
-<p>#LI-Remote</p>
-<p>#stack</p>
-<p>#LI-ET1&nbsp;</p><p>Requisition ID: 688</p><p></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
                     <h3>Senior Software Engineer - Embedded & Desktop Linux Optimisation</h3>
                 </td>
                 <td width="300">
@@ -1308,87 +1251,6 @@
 <h2>Canonical is an equal opportunity employer</h2>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote&nbsp;</p><p>Requisition ID: 531</p><p></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Senior Software Engineer - Linux Engineering</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/3326693" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>This is a fast-paced engineering role in Linux-based software-defined infrastructure and applications, covering all layers of the stack, including bare metal, virtualization (KVM) and containerization (LXC/LXD), storage (Ceph and Linux filesystems), networking (OVS, OVN and Core networking), up to OpenStack and Kubernetes, and the open source applications running on top of them.</p>
-<p>This role is an opportunity for a technologist with a passion for Linux and open source to build a career with Canonical and drive success for our customers, community and the company. If you have an affinity for open source development, great communication skills, and a passion for troubleshooting and fixing issues in technology used by millions across the world, then you will enjoy working with some of the best people in the industry at Canonical.</p>
-<h3>Job summary</h3>
-<p>This role deals with critical issues in the open source stack that require software engineering for upstream fixes. Our engineers have to be able to work productively at any level of the stack above the kernel, in a wide range of languages, to understand and address the software issues at hand. Our group is critical to the success of our enterprise customers, partners and Ubuntu itself.</p>
-<p>You will help with troubleshooting and driving issues to resolution with workarounds, guidance, and fixes to be released upstream and in Ubuntu.</p>
-<p>As a Linux Engineer you will:</p>
-<ul>
-<li>Resolve complex customer problems related to Ubuntu, Kernel, or Ceph</li>
-<li>Maintain a close working relationship with Canonical's field, support and product engineering teams</li>
-<li>Participate in upstream communities</li>
-<li>Develop fixes, backport patches, and work with upstream for inclusion</li>
-<li>Demonstrate good judgement in technical methods and techniques</li>
-<li>Prioritise work and manage your time effectively against those priorities</li>
-<li>Participate in team discussions to improve processes, tools, and documentation</li>
-<li>Maintain clear, technical and concise communications</li>
-<li>Travel internationally up to 10% of work time for team meetings, events and conferences</li>
-</ul>
-<p>The successful Linux Engineer will have:</p>
-<ul>
-<li>Professional experience as a software engineer is required</li>
-<li>Bachelor’s or equivalent in Computer Science, STEM or similar degree</li>
-<li>Strong experience with Linux, Ceph, OpenStack, Kubernetes or other cloud technologies</li>
-<li>Strong development-level experience with Python, Go, C or C++ on Linux</li>
-<li>Ability to troubleshoot with gdb and other tools</li>
-<li>Familiarity with git source code repositories and branches</li>
-</ul>
-<p>What you’ll do</p>
-<ul>
-<li>Collaborate proactively with a distributed team</li>
-<li>Debug issues and produce high quality code to fix them</li>
-<li>Review code produced by other engineers</li>
-<li>Discuss ideas and collaborate on finding good solutions</li>
-<li>Work from home with global travel 2 to 4 weeks per year for internal and external events</li>
-</ul>
-<p>Who you are</p>
-<ul>
-<li>You love technology and working with brilliant people</li>
-<li>You are curious, flexible, articulate, and accountable</li>
-<li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li>
-<li>You have interest in, and experience with most of the following: Ubuntu Linux - kernel or userspace, Kubernetes, OpenStack, Ceph, QEMU/KVM, LXC/LXD, Python, Go, C, Postgresql, Mongo, Debian packaging, distributed systems</li>
-</ul>
-<h3>About Canonical</h3>
-<p>Canonical is a growing multi-national software company that works with the open-source community to deliver Ubuntu -- the world’s leading cloud operating system. Our services help businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.</p>
-<p>We offer:</p>
-<ul>
-<li>Learning and personal professional development budget</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual leave</li>
-<li>Generous parental leave</li>
-<li>Priority Pass for travel</li>
-</ul>
-<p><em>Canonical believes a diverse workforce enhances our ability to deliver world class software and services which meet the world’s computing needs. We are committed to ensuring equal employment opportunities to all qualified individuals. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.</em></p>
-<p>#LI-Remote</p>
-<p>#stack</p>
-<p>#LI-ET1&nbsp;</p><p>Requisition ID: 688</p><p></p>
     
                 </details>
                 </td>
@@ -1647,7 +1509,6 @@
 <li>Contributed to an open source project in the past</li>
 <li>Understanding of agile software development methodologies</li>
 <li>Ability to communicate effectively in English, both written and oral</li>
-<li>Earned a bachelor’s (or equivalent university level) degree, preferably in a technology field</li>
 </ul>
 <h2>What we offer you</h2>
 <p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.&nbsp;&nbsp;</p>
