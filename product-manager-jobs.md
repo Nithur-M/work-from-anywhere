@@ -1,145 +1,196 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0098/8270/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0075/9006/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Smily</h5>
-                    <h3> Product Manager </h3>
+                    <h5>LeadSimple, Inc.</h5>
+                    <h3> Product Manager</h3>
                 </td>
                 <td width="300">
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/smily-product-manager" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-product-manager" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0098/8270/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0075/9006/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> France 
-    <br /><strong>URL:</strong> <a href="https://smily.com">https://smily.com</a>
+  <strong>Headquarters:</strong> Washington State, U.S.A.
+    <br /><strong>URL:</strong> <a href="https://www.leadsimple.com/careers">https://www.leadsimple.com/careers</a>
 </p>
 
-<div>Important note: Chances are, you're about to find the next great company to have fun with on a long-term basis (and that’s what we’re looking for)!</div><div><br></div><div>We're looking for a Product Manager with experience in entrepreneurship, software and travel... BUT BEWARE:</div><div><br></div><div>We are looking for a badass who will be able to adapt to our style and our culture.</div><div><br></div><div>(like any good product manager, right?)</div><div><br></div><div><strong>Your main mission is to take ownership over the entire product management. </strong></div><div><br></div><div>This is a full-time position, working remotely either from your home or from the country that inspires you.</div><div>
-<br>🎯 Your 10 main goals:</div><div><br></div><div>1. Product Strategy</div><div><br></div><div>Collaborate with stakeholders to define and communicate a compelling product vision and strategy that aligns with the company's overall goals and objectives.</div><div><br></div><div>2. Roadmap Development</div><div><br></div><div>Develop and maintain a clear and prioritized product roadmap based on customer insights, market trends, and competitive analysis, ensuring alignment with business priorities.</div><div><br></div><div>3. Requirements Gathering</div><div><br></div><div>Conduct in-depth market research, gather customer feedback, and collaborate with internal teams to identify and prioritize product requirements, translating them into detailed specifications for the engineering team.</div><div><br></div><div>4. Product Development</div><div><br></div><div>Work closely with cross-functional teams to drive the end-to-end product development process, from concept to launch, ensuring timely delivery and high-quality execution.</div><div><br></div><div>5. Agile Execution</div><div><br></div><div>Utilize Agile methodologies to manage product development cycles, including sprint planning, backlog management, and effective communication with the engineering team.</div><div><br></div><div>6. User Experience</div><div><br></div><div>Champion user-centric design principles and collaborate with the design team to create intuitive and seamless user experiences that drive customer satisfaction and engagement.</div><div><br></div><div>7. Stakeholder Management</div><div><br></div><div>Build strong relationships with key stakeholders across the organization, including sales, marketing, and customer success, to ensure alignment and effective collaboration.</div><div><br></div><div>8. Competitive Analysis</div><div><br></div><div>Monitor market trends, competitive landscape, and emerging technologies to identify opportunities for product differentiation and innovation.</div><div><br></div><div>9. Product Launch</div><div><br></div><div>Plan and execute successful product launches, working closely with marketing and sales teams to develop go-to-market strategies, messaging, and enablement materials.</div><div><br></div><div>10. Product Performance</div><div><br></div><div>Analyze and monitor product performance metrics, user feedback, and market trends to continuously optimize and enhance the product portfolio.</div><div>
+<div>🚀 Want to join a team of A-players in an exciting, high-growth, entrepreneurial environment?</div><div><br></div><div>We’re a fast-growing team solving big problems in the property management industry. Bootstrapped and profitable since 2013, we're passionate about helping small businesses simplify growth, streamline operations, and deliver a great customer experience at scale.</div><div><br></div><div>Our products provide a powerful foundation for property management companies to take their businesses to the next level. Thousands of property managers rely on us for their day-to-day operations and we’re only getting started.<br><br>
+</div><div>We want to increase the throughput of great ideas through the organization and into customers’ hands. We are driven, disciplined, clear-eyed about tradeoffs, and committed to moving fast <em>without</em> breaking things. Your mission, should you choose to accept it, is to maximize the value we’re delivering to customers, by discovering and validating the best approach to each problem, and designing a great solution we can build in a short amount of time. We follow the <a href="https://basecamp.com/shapeup">Shape Up Process</a>, with influences from Marty Cagan (Silicon Valley Product Group) and the Lean Startup movement. If this excites you, let’s talk!<br><br>
+</div><div>
+<br><strong>Role Summary <br></strong><br>
+</div><div>The Product Manager’s primary mission is to help ensure that we deliver valuable solutions to customers. They lead discovery and delivery on prioritized problems, working closely with design, engineering, success, sales, and marketing to craft high impact features and customer experiences. They work in an empowered and collaborative environment to define scope, meet timelines and achieve business results. They contribute to defining the product vision, mentoring the team, improving approaches for product discovery, and ensuring that the product supports the company’s overall strategy and goals.</div><div>
+<br><br><strong>Ideal Candidate Has Experience In<br></strong><br>
+</div><div>
+<strong><br>Discovery<br></strong><br>
+</div><ul>
+<li>Customer Interviews (Problem interviews, Solution interviews, Usability Testing)</li>
+<li>Customer Journey Maps</li>
+<li>Use Cases</li>
+<li>Customer Segmentation</li>
+<li>User Story Mapping</li>
+</ul><div><br></div><div><strong>Frameworks &amp; Mental Models</strong></div><ul>
+<li>Opportunity Solution Trees</li>
+<li>Problem space vs. Solution space</li>
+<li>Design Thinking</li>
+<li>JTBD + 4 Forces</li>
+<li>Magic Moments</li>
+<li>Business Model Canvas</li>
+<li>BJ Fogg Behavior Model</li>
+<li>MECE</li>
+</ul><div><br></div><div><strong>Systems Thinking</strong></div><ul>
+<li>Leading vs Lagging Indicators</li>
+<li>Funnels</li>
+<li>Behavioral Loops</li>
+<li>Unit Economics</li>
+<li>Bottlenecks &amp; Constraints</li>
+</ul><div><br></div><div><strong>Prioritization</strong></div><ul>
+<li>Identifies biggest risks</li>
+<li>Categorizes risks into Viable, Valuable, Feasible, Usable</li>
+<li>Quickly answers Critical Questions</li>
+</ul><div><br></div><div><strong>Prototyping</strong></div><ul>
+<li>Facilitates Workshops</li>
+<li>Mockups</li>
+<li>Design Sprints</li>
+<li>Collaborates well with Designers &amp; Engineers</li>
+</ul><div><br></div><div><strong>Experimentation</strong></div><ul>
+<li>Experiment Design &amp; Failure Criteria</li>
+<li>Feature Flags</li>
+<li>Alpha/Beta Release Cycles</li>
+</ul><div><br></div><div><strong>Data &amp; Technical Skills</strong></div><ul>
+<li>Cohort Analysis</li>
+<li>SQL</li>
+<li>Data Analysis</li>
+<li>Events (Segment.io)</li>
+<li>Formulas &amp; Calculations</li>
+</ul><div><br></div><div>
+<br><strong>Expectations for your first 90 days:<br></strong><br>
+</div><ul>
+<li>Develop a solid grasp of our product lines, feature sets, value proposition, business model, pricing, product development process, and document this for the benefit of future product team members.</li>
+<li>Can articulate our target customers, product areas and business model</li>
+<li>Listens to or conducts 10 customer interviews</li>
+<li>Updates Employee Onboarding Process</li>
+<li>Become an authority on your product area, its current capabilities, customer problems, and begins shaping solutions.</li>
+<li>Shaped 3 pitches to product area</li>
+<li>Develop product pitches for the current quarter and lead Betting Table exercise to greenlight work.</li>
+<li>Presents pitches to product leadership</li>
+<li>Pitches are greenlit</li>
+<li>Lead delivery efforts on approved pitches</li>
+<li>Earned the respect of their team</li>
+<li>Customers are happy about the changes shipped</li>
+</ul><div><br></div><div>
+<br><strong>Perks</strong>:<br><br>
+</div><ul>
+<li>Monthly Friday Free Day</li>
+<li>Company Holidays</li>
+<li>Paid Time Off (in addition to the above)</li>
+<li>Monthly Healthcare Allowance</li>
+<li>Yearly Vacation Allowance</li>
+<li>Fun and busy work environment with smart, caring people</li>
+<li>Location independence (must align within a few hours of US Pacific Time Zone)</li>
+<li>Mission driven company and values-based culture<br><br>
+</li>
+</ul><div>
+<br><strong>Please only apply if you:<br></strong><br>
+</div><ul>
+<li>Embrace learning new technology </li>
+<li>Learn fast</li>
+<li>Communicate crisply</li>
+<li>Proactively seek solutions</li>
+<li>Own the outcome</li>
+<li>Bring an optimistic “can do” attitude</li>
+<li>Supply your own internet and smartphone</li>
+<li>3 years demonstrated success in similar role:</li>
+<li>PM on 2 successful SaaS products (work sample required)</li>
+<li>Bachelor's Degree (preferred)</li>
+<li>Have B2B SaaS experience (preferred)</li>
+<li>Experience in ShapeUp not required, but beneficial</li>
+<li>Prototype, Pitch, or Project Delivery Plan examples may be requested<br><br>
+</li>
+</ul><div><br></div><div>We have an amazing team of A-Players and we’re ready to add more! Selected candidates might have written assessments and multiple interviews with different people. We’ll do whatever it takes to get the right person in the right seat.</div><div><br></div><div>If you think you would thrive in the above environment and make an impact for our customers, we’d love to talk to you!</div><div>
 <br><br>
-</div><div>Why join us? ❤️</div><div><br></div><div>The team is really cool and ambitious, the offices are amazing - we don't have any 😂, you can work from wherever you want on our beautiful planet 🌍* and you get to participate in sharing smiles (this is an opportunity to sell a product that doesn't keep you up at night!).</div><div><br></div><div>* If you want a ticket to the moon 🌗 it's still expensive but we should be able to help reserve a spot for you ;)</div><div><br></div><div>But also...</div><div>It is an opportunity...</div><div><br></div><div>* To play a major role in the growth of an ambitious company</div><div>* To join a company whose mission is to put people at the heart of its business and to have a real impact on the lives of its customers and their community (owners, travelers, family...)</div><div>* The opportunity to contribute to a culture that combines performance, ambition and well-being. A culture so strong that our A players would never consider working anywhere else.</div><div><br></div><div>Smily is also...</div><div>* A team always in great spirits taking on a global market populated by dinosaurs 🦖🦕or uninspired companies that are just there to take advantage of a market opportunity</div><div>* Waking up in the morning with the feeling that you're making millions of people's lives better and helping them achieve their dreams</div><div>* The ability to work from wherever you want (by the pool, in the woods or on your stand-up desk)</div><div>* A remote culture from day one: we're always experimenting with new ways to make telecommuting as warm and cool as possible. For example, some people challenge themselves to do sports or meditation.</div><div>* A company culture based on autonomy</div><div>* Being surrounded by A-Players</div><div>* A guarantee of being pushed to progress</div><div>* A growing company, synonymous with development opportunities!</div><div><br></div><div>But that's not all, because we put team well-being at the heart of our strategy:</div><div><br></div><div>* Flexible locations: you're encouraged to work from wherever inspires and suits you best. Whether it's to enjoy the best kitesurfing spots 🪁🏄♀️ or spend more time with your family.</div><div>* Flexible hours: what's important to us is the value you bring much more than the time you work - even if you will be required to maintain moments of sharing and communication with the team ;)</div><div>* Your own boss: we are partners and work as equals. Our relationship does not work out of a sense of obligation but out of a common will and effort to strengthen it on a daily basis.</div><div>* Team building / Team retreats: we meet in a corner of paradise on our planet to share good times together, discuss our vision, celebrate our victories and brainstorm the next crazy challenge.</div><div><br></div><div>Profile sought<br>The ideal candidate: 😍</div><div><br></div><div>This is for you if you: </div><div><br></div><ul>
-<li>Have a minimum of 3-5 years of experience in product management, preferably in the hospitality industry.</li>
-<li>Have a proven track record of successfully launching and managing software products throughout their lifecycle.</li>
-<li>Have excellent analytical and problem-solving skills, with the ability to translate complex concepts into actionable product plans.</li>
-<li>Have ability to lead cross-functional teams and influence stakeholders at all levels of the organization.</li>
-<li>Have experience working with Agile methodologies and a deep understanding of product development processes.</li>
-<li>Have exceptional communication and presentation skills, with the ability to effectively convey ideas and concepts to both technical and non-technical audiences.</li>
-<li>Have a strong strategic thinking and business acumen, with a focus on delivering customer value and driving business growth.</li>
-<li>Have a passion for technology, user experience, and staying abreast of industry trends and best practices. Being familiar with practical sides AI and how to apply it is a huge plus.</li>
-<li>Would be great if you had an understanding of the vacation rental management industry and familiarity with its unique challenges and opportunities.</li>
-</ul><div><br></div><div>* An interest in the world of short-term rental and coaching would be a big plus.</div><div><br></div><div>Currently we are 50/50 male female and we aspire to be a balanced, inclusive team.</div><div><br></div><div>Languages :</div><div>* French: native</div><div>* English: fluent, all your work must be possible in English too. All our internal communication is done in English!</div><div><br></div><div>But this may not be for you...</div><div><br></div><div>As you can see, we don't want people who are just looking for a "job”. We are inspired by a culture of performance and ambition.</div><div>We want to do what very few companies have the courage to do, we want to create the exceptional and impact the maximum number of lives.</div><div><br></div><div>For this reason, some people imagine that they will work in an easy environment without any pressure.</div><div><br></div><div>But we have a very startup-oriented culture where everything is fast-paced and there is a lot of change. Where you are not always told exactly what to do or how to do it.</div><div><br></div><div>We tell each other things, even if they are uncomfortable, we prefer growth to ego comfort; we like to share clear and honest feedback. In our company, expressing disagreement and knowing how to argue is valued!</div><div>We encourage critical and strategic thinking. We question our assumptions, we're mindful of our biases, and we seek to put our energy where the leverage is greatest.</div><div><br></div><div>Do you experience criticism as a personal attack? Are you ready to receive regular feedback to allow yourself to progress? To take it</div><div>well? To give it to others? Or even to give it to yourself?</div><div><br></div><div>We realize that this is not for everyone.</div><div><br></div><div>If all this resonates with you, then we'll love working with you (and you with us, you'll be pampered!),come write the next chapter with us.</div><div>
-<br><br>Interview process<br>How to apply?<br><br>
-</div><div>❌ Any copied and pasted, non-personalized applications will go straight into the trash.</div><div><br></div><div>⚠️ To get to the end of the recruitment process, each candidate might be asked to set up calls with their previous managers. If you're not comfortable with this idea: don't apply ⚠️</div><div><br></div><div>TO APPLY</div><div><br></div><div>Simply fill out a short questionnaire by clicking on "Apply for this position". We will ask you to attach your C.V. (we will not consider incomplete applications) :</div><div>In its early days, Google did 12 job interviews.</div><div>Apple still does between 9 and 12.</div><div>We do 4.</div><div>Some may think that's still too many, but for us it's the right balance to make sure the job is right for you.</div><div>Because we don’t want for you or for us to realize in 3 or 6 months that this job is not for you: we want to do everything we can to avoid that sort of situation, which is always uncomfortable. For you and for us!</div><div><br></div><div>The recruitment process is as follows</div><div>* 📃A quick 7 or 8 min questionnaire - <a href="https://docs.google.com/forms/d/1fnWeHMPdSq_4TI8KdJn5yjnKooZys4_uI5G6qHOVn9U/">https://docs.google.com/forms/d/1fnWeHMPdSq_4TI8KdJn5yjnKooZys4_uI5G6qHOVn9U/</a> </div><div>* 📞 ⚙️A 60 min TECHNICAL interview to align with what would be expected of you and assess your specific skills</div><div>* 📞🌟A 60 min CULTURE interview by Zoom or phone to further understand your background and check in depth alignment with our values and culture</div><div>* 📞 👥A 60 min TEAM interview with your future team to ensure the desire to work together on a daily basis</div><div>* ⚠️ 👥 Reference Calls: you may be asked to arrange at least 3 calls with former managers or clients for us. We do this because it provides assurance for you and for the team to be surrounded by A-Players, and it's also a way to get to know you and facilitate your onboarding.</div><div>* 👪 Welcome home!</div><div><br></div>
+</div><div><strong>In summary...</strong></div><div><br></div><div><em>You can do it in an office</em></div><div><em>You can do it from home</em></div><div><em>We really don’t care</em></div><div><em>As long as it’s known 👇</em></div><div><br></div><div><em>What matters is this…</em></div><div><em>When the chips are down</em></div><div><em>And your back is against the wall</em></div><div><em>Can we count on you to make the right call?</em></div><div><br></div><div><em>Judgment, intuition, or care by another name</em></div><div><em>We call it “Owning The Outcome” - because it really is the whole game</em></div><div><em>Have the customers back, and they will treat you the same</em></div><div><br></div><div><em>If you can do that</em></div><div><em>Then we’re birds of the same feather</em></div><div><em>So come join our team and we’ll make music together.</em></div><div>
+<br><br>
+</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/smily-product-manager">https://weworkremotely.com/remote-jobs/smily-product-manager</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-product-manager">https://weworkremotely.com/remote-jobs/leadsimple-inc-product-manager</a></p>
 
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0098/8053/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>RapidSeedbox Ltd</h5>
-                    <h3> Product Manager Needed [Remote]</h3>
+                    <h5>A.Team</h5>
+                    <h3> Senior Independent Product Manager/Product Designer ($110-$190/hr)</h3>
                 </td>
                 <td width="300">
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>630 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-product-manager-needed-remote" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0098/8053/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0071/4151/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> 100% Remote
-    <br /><strong>URL:</strong> <a href="https://www.rapidseedbox.com/">https://www.rapidseedbox.com/</a>
+  <strong>Headquarters:</strong> NYC, SF, and TLV
+    <br /><strong>URL:</strong> <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a>
 </p>
 
-<div>▬▬▬▬▬▬▬▬▬▬▬</div><div>A video from RapidSeedbox CEO and Co-Founder<br>▬▬▬▬▬▬▬▬▬▬▬</div><div>
-<br>https://www.dropbox.com/s/6p53rj1xob7wk74/RapidSeedbox%20Job%20Post%20Intro.mp4?dl=0<br><br>
-</div><div>▬▬▬▬▬▬▬▬▬▬▬</div><div>Our core values</div><div>▬▬▬▬▬▬▬▬▬▬▬</div><div><br></div><div>→ <strong>Excellence in everything we do </strong>(“<em>I go above and beyond!</em>”) - We believe in being excellent and showing it with our actions and mindset in absolutely everything we do day to day.<br><br>
-</div><div>→<strong> Ownership and responsibility</strong> (<em>“I own it”</em>) - We believe in taking full ownership and full responsibility for everything we do. That means taking full ownership of every small task and taking responsibility for deliverables and outcomes.<br><br>
-</div><div>→ <strong>Push the limits </strong>(“I<em> don't take No as an answer</em>”) - We love pushing the limits and we do not take no as an answer. WE push their limits so that we can grow professionally.<br><br>
-</div><div>→ <strong>Cooperate and Serve</strong> (“<em>Everyone matters”</em>) - We believe in team cooperation and serving both our external customers and serving all of our internal team.<br><br>
-</div><div>Our company is looking to grow in the Seedbox/IP space and we are looking for growth-oriented people who want to join our growth journey. If this sounds like the team for you, read on!<br><br>
-</div><div>▬▬▬▬▬▬▬▬▬▬▬</div><div>About the role<br>▬▬▬▬▬▬▬▬▬▬▬</div><div><br></div><div>We are looking to hire a Product Manager to lead our product initiatives. You will take ownership of our product team, our UI/UX and our product experience to turn it into a world-class experience, lowering our churn and enhancing the user experience. <br> <br>You will be a vital part of the team and will also manage a few developers who are developing the products and work closely with other departments as well. <br> <br>This role is a hybrid role between a product leader and a manager role where both technical and leadership skills are needed<br> </div><div>The key two focuses of your role will be:<br><br>
-</div><div>🔵Leading our product efforts, optimizing the product experience/onboarding and lowering our churn rate.</div><div>🔵Accountability of the whole department in the company by managing the team in an effective way<br><br>
-</div><div>As you join the company, you will have the time to adjust and learn more about the company, its product, its systems, and the people you oversee. However, the team counts on your expert knowledge which includes your product and managerial aptitudes, which you must own 100% from day 1.  The training you will receive will not be on the actual tasks of your role, but rather on the people, processes, and product so that you can quickly hit the ground running and bring your expertise to the table.<br><br>
-</div><div>▬▬▬▬▬▬▬▬▬▬▬</div><div>About you<br>▬▬▬▬▬▬▬▬▬▬▬<br><br>
-</div><div>To excel in this role, you need to have:<br><br>
-</div><div>
-<strong>Technical/Product skills</strong>, or more specifically:</div><ul>
-<li>At least <strong>4 years</strong> of applied knowledge in being a product manager.</li>
-<li>A deep understanding of the techniques and methods of modern product discovery and product delivery.</li>
-<li>At least <strong>4 years</strong> of experience with onboarding experiences of products.</li>
+<div>
+<a href="https://build.a.team/wwrproductmgrfasttrack">A·Team</a> is a VC-backed, stealth, application-only home on the internet for Senior Product Managers &amp; Product Designers (along with developers &amp; UX/UI folks) to team up with the best companies on their next big thing. <br><br>After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.<br><br>As part of A·Team, you can expect:</div><ul>
+<li>
+<strong>High-paying, meaningful client missions (where you'd lead Product) with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
+<li>
+<strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
+<li>
+<strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
+<li>
+<strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
+<li>
+<strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
 </ul><div>
-<strong>Leadership and communication skills, </strong>or more specifically:</div><ul>
-<li>
-<strong>3+ years of experience acting as a team manager/leader<br></strong>Proficient communication skills (written communication, voice communication, and excellent asynchronous communication skills)</li>
-<li>Ability to teach and coach co-workers new skills, including explanations of technical concepts and a lot of soft/psychological skills to elevate the team to the next level</li>
-<li>Active listening skills and the ability to gather information</li>
-<li>Ability to efficiently delegate tasks to others when needed &amp; the ability to break down projects and tasks in Asana with clear due dates and assignments</li>
-<li>Ability to empathise with the team and show an understanding of their tasks and responsibilities, as well as wellbeing</li>
-<li>Ability to hold a team accountable for the KPIs and deliverables of the department</li>
+<br><strong>How to apply:<br></strong>Go here: <a href="https://build.a.team/wwrproductmgrfasttrack">https://build.a.team/wwrproductmgrfasttrack</a> + mention WWR under how you heard about A·Team. No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.<br><strong><br>What you’ll do:</strong>
+</div><ul>
+<li>Once part of A.Team, you’ll regularly be invited to be the lead Product manager/designer for impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old-school non-tech incumbents looking to build as a tech giant would.</li>
+<li>Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </li>
+<li>You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </li>
 </ul><div>
-<strong>Soft skills, </strong>or more specifically:</div><ul>
-<li>Critical thinking skills and the ability to solve problems &amp; identify new ideas for the company</li>
-<li>Time management skills and the ability to prioritise and execute; you know how to manage to complete tasks by the due date and you deal well with time constraints</li>
-<li>Proactive learning skills and genuine curiosity about new technologies and solutions</li>
-<li>Project management skills and the ability to coordinate the work of people who report directly to you to complete tasks</li>
-<li>Research skills and the ability to observe new technologies that are on the rise in the industry and apply them to your work to keep up with the changing trends</li>
-<li>Results-driven mindset and an obsession with creating tangible results for a company creatively, innovatively, and reliably</li>
-<li>Service-centric mindset and the ability to think and act to serve your team and your company's customers</li>
-</ul><div>▬▬▬▬▬▬▬▬▬▬▬</div><div>Benefits<br>▬▬▬▬▬▬▬▬▬▬▬</div><div><br></div><div><strong>What’s in it for you?</strong></div><ul>
-<li>
-<strong>100% Remote: </strong>Fully remote and full-time role. Fully flexible working schedule; you can be online at any time during the day as long as you clock 40 hours per work week and deliver results. The company measures only performance and results</li>
-<li>
-<strong>Emergency fund</strong>: We provide an emergency fund in case of emergencies up to $1,000, interest free and in a comfortable payouts.</li>
-<li>
-<strong>Personal development: </strong>We provide a personal development fund to aid your personal development</li>
-<li>
-<strong>Focused time blocks:</strong> We discourage meetings before noon so employees can have undistracted time to work.</li>
-<li>
-<strong>Incredible Growth and Promotion Opportunities: </strong>We are a small company and there is a lot of opportunity to make your mark, grow professionally and also be promoted.</li>
-<li>
-<strong>Swag:</strong> You get company gear swag shipped to you.</li>
-<li>
-<strong>Bonus structure:</strong> Based off performance, we create bonus structures<br><br>
-</li>
-</ul><div><br></div><div>
-<em>*Please note that this is a gross salary and that you are responsible for any tax-related procedures in your country of residence. We kindly ask you to apply only if you are happy to work remotely as an independent contractor.<br></em><br>
-</div><div>▬▬▬▬▬▬▬▬▬▬▬</div><div>How to apply<br>▬▬▬▬▬▬▬▬▬▬▬<br><br><strong>This position will be closed as soon as we find the perfect match</strong>. So, make sure to read the description carefully, apply promptly, and take your time to submit a high-quality application that stands out.<br><br>
-</div><div>Please expect the hiring process to include:<br><br>
-</div><div>
-<strong>1</strong> - Filling in the application form once you click “Apply”<br><br>
-</div><div>
-<strong>2</strong> - Being invited to record a short video to introduce yourself<br><br>
-</div><div>
-<strong>3</strong> - Completing test tasks if short-listed<br><br>
-</div><div>
-<strong>4</strong> - Attending video interviews where you will have the opportunity to talk more about your previous experience and the new role</div>
+<br><strong>Who A</strong>·<strong>Team is for:</strong>
+</div><ul>
+<li>Senior Product Managers/Designers who left large companies and high-growth startups to pursue their craft with autonomy.</li>
+<li>Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</li>
+<li>The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing.</li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is </strong><strong><em>not</em></strong><strong> for:</strong>
+</div><ul>
+<li>People looking for small gigs.</li>
+<li>Folks looking to build simple wordpress/wix/squarespace-style websites.</li>
+<li>Those still early in their careers and recent university/bootcamp grads (at least not yet).</li>
+</ul><div>
+<br><strong>Our long-term vision:<br></strong><a href="https://build.a.team/wwrproductmgrfasttrack"><span>A·Team</span></a> is a new type of company for a new kind of independent software builders. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </div><div>
+<br>To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-product-manager-needed-remote">https://weworkremotely.com/remote-jobs/rapidseedbox-ltd-product-manager-needed-remote</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
                 </details>
                 </td>
