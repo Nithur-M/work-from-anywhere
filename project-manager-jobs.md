@@ -1,69 +1,57 @@
 <div align="center"><h2>PROJECT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1714466/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Coaching.com</h5>
-                    <h3> Marketing Project Manager</h3>
+                    <h5>D3</h5>
+                    <h3>Project Manager - Europe</h3>
                 </td>
                 <td width="300">
-                    <code>Sales and Marketing</code>
+                    <code>.Net,scrum,blockchain,agile</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/coaching-com-marketing-project-manager-2" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/product/project-manager-europe-1714466" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> United States
-    <br /><strong>URL:</strong> <a href="https://coaching.com">https://coaching.com</a>
-</p>
-
-<div><strong>GENERAL INFORMATION</strong></div><div><br></div><div><strong>5 MONTH CONTRACT</strong></div><div>Department - Marketing<br>Reporting to - Marketing Director<br>Start Date - Immediate<br>Salary - $4,000 - $5,000/ monthly (based on experience)</div><div>
-<br>Are you ready to work at Coaching.com?<br>Imagine being the Marketing Project Manager for the team behind the world’s leading software platform, marketplace, programs and educational events for professional business coaches and leading corporations<br><br>
-</div><div>Become part of the team behind the leading coaching management platform for enterprise clients including ​​Dropbox, Salesforce, and Ernst &amp; Young, and individual coaches, to run their large coaching projects, as well as their coaching businesses.<br><br>
-</div><div>At the same time, you’ll be joining the team that runs the world’s leading virtual coaching summit with internationally recognized thought leaders in Business and Executive Coaching including, world leading coaches, leadership experts, executives and leaders of internationally recognized professional coaching organizations.  <br><br>
-</div><div>With a global community of over 100,000 professional coaches, our mission is to raise the global standard of coaching, by providing professional coaches with the highest quality, most impactful platform, services, tools and content available in the industry.<br><br>
-</div><div>Coaching.com is a cutting-edge innovator in the coaching space, with a growing global remote workforce. We look for people who want to combine their passion for doing good with their drive to do well.  We provide a supportive work environment, and opportunities for personal and professional growth and development, while creating a positive impact on the world. Our team takes pride in our philanthropic arm, Coaching.com Foundation.  EC partners with leading global development organizations to provide coaching to cause based leaders who are addressing the greatest humanitarian and environmental challenges of our time.  We amplify our impact by helping those leaders be more effective in their efforts to change the world.</div><div><br></div><div><strong>About The Role</strong></div><div>Reporting to the Director of Marketing, the Project Manager will manage program launch projects working with a diverse virtual team in multiple time zones.</div><div><br></div><div>This role is all about timelines and team capacity. As the Asana-master, you will be leading all projects and working with cross-functional business teams. You will make sure the left hand knows what the right hand is doing and when it needs to be done. </div><div><br></div><div>You will be joining a company that is growing incredibly quick and your job will be to help accelerate our growth. Our business is 100% online so we’re looking for a Project Manager with both technical and marketing knowledge who can be a key contributor to our strategy and growth.</div><div><br></div><div>Key Responsibilities:</div><ul>
-<li>Coordination with other team members (Developers, CRM automation manager, copywriters, design) to complete successful launches</li>
-<li>Simultaneously manage multiple tasks and projects within tight timeframes while maintaining a keen and careful attention to detail.</li>
-<li>Set timeliness appropriately and identify roles, responsibilities, and processes that will achieve high quality creative work</li>
-<li>Serve as main point-of-contact for their projects and communicate status proactively</li>
-<li>Anticipate delays and roadblocks, and work to keep deliverables on time and on target</li>
-<li>Lead projects through the review process and execution phase with cross-functional partners</li>
-<li>Develop workback schedules upon kicking off a project and keep workbacks up-to-date as shifts in schedule occur. </li>
-<li>Work closely with project teams to track work and ensure each team is able to successfully meet benchmarks and deadlines.</li>
-<li>Hold creatives and stakeholders accountable to agreements made in a project’s brief. Ensure a timely and organized handoff of all final deliverables.</li>
-<li>Become an expert in our chosen project management software, Asana, and oversee the use of it on a daily basis.</li>
-<li>Identify opportunities for greater efficiency and propose solutions that help the company scale our work.</li>
-<li>Build strong relationships with cross-functional partners across the company.</li>
-<li>Partner closely with all members of the company to understand their individual needs. Align resourcing with individuals’ bandwidth and needs as much as possible.</li>
-<li>Assist in the production of coaching.com podcast </li>
-</ul><div><br></div><div>Experience/Qualifications</div><ul>
-<li>Bachelor's degree or college diploma (from a recognized Educational Institution)</li>
-<li>PMP or other project management designation is an asset.</li>
-<li>Experience in Marketing Automation (InfusionSoft an asset)</li>
-<li>Experience in planning &amp; leading campaigns across multiple channels</li>
-<li>3+ years leading and working within a team.</li>
-<li>Resourceful &amp; capable of self-managing and multitasking in fast paced environment</li>
-<li>Able to manage competing priorities</li>
-<li>Adaptable &amp; ambitious</li>
-<li>Speak, read and write English at an idiomatic level</li>
-<li>Other Requirements</li>
-<li>Reliable high-speed internet connection</li>
-<li>Flexibility to work with multiple time zones</li>
-</ul><div><br></div><div><strong>Compensation</strong></div><div>Competitive with bonuses and unlimited growth opportunities.</div><div>Most importantly you will be working with our team that considers itself a family of people who will welcome you with open arms.</div><div><br></div><div><strong>Location</strong></div><div>Anywhere. This is not your typical office job. Our passionately engaged team works remote and collaborates frequently. We work to build strong support, loyalty and engagement, with a culture of high-performance and high recognition. The work/life balance is flexible but full-on and the culture is fast paced. We consider our work our “art” and strive for excellence in everything we do.<br><br>
-</div><div>Coaching.com is dedicated to encouraging a supportive and inclusive culture amongst the workforce. We aim to ensure that all team members and job applicants are given equal opportunity and that our organization is representative of all sections of society. We do not discriminate on the basis of race, color, ancestry, national origin, religion or religious creed, disability, medical condition, genetic information, sexual orientation, gender identity, gender expression, age, marital status, military or veteran status, or citizenship.</div><div><br></div><div><strong>How to apply</strong></div><div>Please fill out this  <a href="https://forms.gle/UTfqzY7HWRD3pqybA"><strong>APPLICATION FORM</strong></a>, following the instructions outlined. <br><br>Contact careers@coaching.com if you're having a problem with the application form. Thank you!</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/coaching-com-marketing-project-manager-2">https://weworkremotely.com/remote-jobs/coaching-com-marketing-project-manager-2</a></p>
-
+                <p>D3 is a next-generation domain names company based in Las Vegas, Nevada. Our mission is to deliver exceptional customer experiences and ensure secure online identities. With our team of experienced founders who have achieved multiple exits in the tech industry and over 40 years of combined domain expertise across major tech hubs like San Francisco, Los Angeles, and New York City, we are poised to revolutionize the domain industry. Since 2000, we have successfully operated more than 20 registered top-level domains (TLDs) including popular extensions like .com, .net, .org, .xyz, .inc, .tv, and many more.</p>
+<p> </p>
+<p>Job Description:</p>
+<p>We are seeking an exceptionally smart, motivated, and mature Project Manager and Scrum Master to lead the successful delivery of our web1 and web3 marketplace. In this role, you will bring together team members from across the USA, Asia, and Europe to ensure delivery excellence, strict timelines, clear communication, accurate scoping, and adherence to budgets. You will play a crucial role in driving the execution of our marketplace project, ensuring the alignment of cross-functional teams and maintaining a focus on quality and efficiency.</p>
+<p> </p>
+<p>Responsibilities:</p>
+<p>1. Lead and manage the end-to-end project lifecycle, from initiation to delivery, ensuring adherence to timelines, budgets, and scope.</p>
+<p>2. Bring together and coordinate a diverse team of professionals from different regions, including the USA, Asia, and Europe, fostering collaboration and effective communication.</p>
+<p>3. Apply agile methodologies, particularly Scrum, as the Scrum Master to drive project delivery, facilitate daily stand-ups, sprint planning, sprint reviews, and retrospectives.</p>
+<p>4. Define project scope, objectives, deliverables, and success criteria in collaboration with stakeholders and cross-functional teams.</p>
+<p>5. Develop and maintain project plans, schedules, and resource allocation to ensure successful execution.</p>
+<p>6. Identify and manage project risks, issues, and dependencies, proactively resolving them to minimize impact on project timelines and quality.</p>
+<p>7. Communicate project progress, status, and key milestones to stakeholders and senior leadership, ensuring transparency and clear expectations.</p>
+<p>8. Collaborate closely with product managers, engineering teams, designers, and other stakeholders to ensure a shared understanding of project requirements and priorities.</p>
+<p>9. Facilitate effective communication and collaboration between distributed teams, utilizing appropriate tools and platforms.</p>
+<p>10. Continuously monitor and improve project management processes, tools, and methodologies to enhance project delivery efficiency and effectiveness.</p>
+<p> </p>
+<p>Qualifications:</p>
+<p>1. Bachelor's degree in project management, business administration, computer science, or a related field. Advanced degree or certifications (e.g., PMP, CSM) are a plus.</p>
+<p>2. Minimum 5 years of experience in project management, with a proven track record of successfully delivering complex software projects.</p>
+<p>3. Strong knowledge and practical experience in agile methodologies, particularly Scrum, as a Scrum Master.</p>
+<p>4. Excellent leadership and team management skills, with the ability to bring together and motivate cross-functional teams in a distributed and multicultural environment.</p>
+<p>5. Exceptional communication and interpersonal skills, with the ability to effectively communicate with stakeholders at all levels of the organization.</p>
+<p>6. Strong organizational and analytical skills, with a focus on attention to detail and problem-solving.</p>
+<p>7. Experience in managing projects with strict timelines, budgets, and scope, ensuring high-quality deliverables.</p>
+<p>8. Familiarity with web1 and web3 technologies, blockchain concepts, and marketplace platforms is a plus.</p>
+<p>9. Ability to adapt and thrive in a fast-paced startup environment, managing multiple priorities and stakeholders.</p>
+<p>10. Self-motivated, proactive, and able to work independently with minimal supervision.</p>
+<p>Join our dynamic team and be part of the forefront of the domain industry while working with cutting-edge web1 and</p>
+<p> web3 technologies. If you're ready to lead project delivery, drive excellence, and contribute to our exciting journey, we would love to hear from you.</p>
+<p>To apply, please submit your resume, cover letter, and any additional information that showcases your relevant experience in project management and Scrum Master roles.</p>
+<p> </p>
+<img src="https://remotive.com/job/track/1714466/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -78,7 +66,7 @@
                     <code>project management,asana,google suite,time management</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/marketing/technical-marketing-project-manager-1747577" align="right" target="_blank">Apply</a>
