@@ -1,5 +1,87 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0099/5734/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Subscript</h5>
+                    <h3> Software Engineer (Frontend, Backend, or Full stack)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>4 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/subscript-software-engineer-frontend-backend-or-full-stack" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0099/5734/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://subscript.com">https://subscript.com</a>
+</p>
+
+<div>The basics<br><br>
+</div><ul>
+<li>The <strong>stack</strong>: Postgres, Node.js/Express.js, React. Currently running on Heroku, eventually AWS</li>
+<li>The <strong>product</strong>: We're building the first subscription intelligence platform that empowers finance teams to get real-time snapshots of how their subscription business is performing!</li>
+<li>The <strong>way we work</strong>:<ul>
+<li>This is a <strong>remote job</strong> - work anywhere you want, and in any timezone on earth (or outside earth, whatever).</li>
+<li>We are an <strong>asynchronous</strong> team - we don't do scheduled meetings, and rely on each team member to pick their own schedule and to communicate clearly in writing and with recorded videos. <a href="https://www.loom.com/share/1b92593aaf5f41abb2450869085dc3a5"><strong>Hear from our co-founder Michelle Lee on what it's like to work asynchronously (click here)</strong>.</a>
+</li>
+<li>We operate completely <strong>autonomously</strong> - no one will tell you what to do, we'll just tell you the goals and you will figure out how to work towards them with the rest of the team.</li>
+</ul>
+</li>
+<li>The <strong>role you'll play</strong> on our team:<ul>
+<li>You'd be one of the <strong>first seven</strong> engineers on the team.</li>
+<li>You'll <strong>work on</strong><ul>
+<li>Backend: database design and implementation, complex data management problems, API design and implementation, writing tests</li>
+<li>Frontend: building features in our react app, HTML/CSS + styled components, building amazing user experiences, writing tests</li>
+<li>Frontend and backend: building and iterating on our product, collaborating with designers and founders, and making a product that users will love.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Like all start-ups we're scrappy, but not scrappy on compensation: Subscript is committed to paying our awesome team members at <strong>market-rate, including benefits.</strong>
+</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong>Our interview process<br></strong><br>
+</div><div>Our interview process is designed to focus on <strong>your skills</strong> as a software engineer, and your ability to <strong>communicate clearly</strong>. We're a fully asynchronous company, so that's how we will communicate in this interview process too 🙂.<br><br>
+</div><ol>
+<li>We'll ask you to work on a small code challenge</li>
+<li>After reviewing the short code challenge, we'll ask you to work on a <strong>~90 minute exercise </strong>while recording a loom (or other screen recording) video.</li>
+<li>If the video interview above goes well, we'll want to learn a bit more about <strong>how you communicate in writing</strong> - we will ask you to put together a <strong>technical design document</strong>. This is one of the biggest ways we communicate at Subscript, so we want to see that you can work well with that!</li>
+</ol><div>And finally, hopefully we'll send you an offer. And hopefully you'll accept!<br><br>
+</div><div>
+<strong>Requirements<br></strong><br>
+</div><ul>
+<li>You're an excellent engineer (you write high quality code, you write great tests, you ship quickly)</li>
+<li>You're a great communicator via writing, and via recorded videos.</li>
+<li>You're excited about working on a globally-distributed and diverse team, in an incredibly unique culture where autonomy, accountability, and ownership are equally as valued as your skillset.</li>
+<li>That's it!</li>
+</ul><div>
+<strong>Benefits<br></strong><br>
+</div><ul>
+<li>Unlimited vacation</li>
+<li>Completely flexible work schedule - work literally anytime (and anywhere) you want!</li>
+<li>Benefits appropriate to your location (health/dental/vision in the USA)</li>
+<li>Company wide retreats multiple times per year</li>
+<li>Like all start-ups we're scrappy, but not scrappy on compensation: Subscript is committed to paying our awesome team members at market-rate, including benefits.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/subscript-software-engineer-frontend-backend-or-full-stack">https://weworkremotely.com/remote-jobs/subscript-software-engineer-frontend-backend-or-full-stack</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1698908/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +92,7 @@
                     <code>apache,AWS,backend,cloud</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/backend-engineer-1698908" align="right" target="_blank">Apply</a>
