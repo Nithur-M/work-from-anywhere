@@ -116,6 +116,30 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1382655628523364355/MWPIbbID_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CoverGo</h5>
+                    <h3>Senior Full Stack Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/covergo/j/1FC4701A2A" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Top 3 Reasons To Join Us</strong></p><ul> <li>Competitive Salary</li> <li>100% Remote</li> <li>Working on the latest tech for the Insurtech Market Leader</li> </ul><p><strong>About Us</strong></p><p>At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.</p><ul> <li>We are a leading global no-code insurance platform for health, life, and P&amp;C</li> <li>We’re the winner of the Insurtech of the Year in all of Asia and other awards globally</li> <li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more</li> <li>We're an international, diverse team of over 120 people with 30 nationalities and team members working remotely from all over the world</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors</li> <li>We have offices in the US, Singapore, Hong Kong, UAE and Vietnam</li> <li>We’ve grown our annualized revenue by over 30x since January 2021</li> <li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world</li> </ul><p><strong>What You Will Do</strong></p><ul> <li>Design, implement and maintain new features and functionalities for the SAAS platform, understanding the requirements of insurance businesses and translating them into scalable and efficient software solutions</li> <li>Work on both the front-end and back-end of the application, demonstrating expertise in various technologies, frameworks, and programming languages</li> <li>Work collaboratively with product, design, engineering teams, and UX designers to understand end-user requirements, use cases, and technical concepts, translating them into a cohesive and effective solution while ensuring a seamless user experience.</li> <li>Optimize the performance of the application to handle large amounts of data and high user traffic, delivering a smooth user experience</li> <li>Participate in code reviews and enforce best coding practices, while also writing and executing unit tests and integration tests to maintain code quality</li> <li>Investigate and promptly fix bugs to maintain the reliability of the platform</li> <li>Ensure security and compliance by following best practices for securing web applications and adhering to relevant regulations in handling sensitive customer data</li> <li>Stay up-to-date with the latest technologies, frameworks, and best practices to ensure we remain competitive and innovative </li> <li>Design the platform with scalability and flexibility in mind, accommodating new features and changes as the number of clients and users grows</li> <li>Provide mentorship to junior developers, aiding in their technical growth and effective contribution to the team's goals</li> </ul><p><strong>What We Need</strong></p><ul> <li>Proven experience 7 years as a Full Stack Engineer, working on complex SAAS applications</li> <li>Strong technical background with proficiency in front-end and back-end technologies, such as JavaScript, Vue, .NET Core, C#, GraphQL, MongoDB, Docker</li> <li>Familiarity with cloud platforms like AWS, Azure, or Google Cloud for building scalable applications</li> <li>Thorough understanding and practical experience with Test-Driven Development (TDD) to ensure robust and well-tested code</li> <li>Experience with unit, integration and function testing using front-end and back-end testing libraries</li> <li>Proficiency in Domain-Driven Design (DDD) principles to create a maintainable and modular architecture that aligns with business domains</li> <li>In-depth knowledge of web security best practices and experience in ensuring compliance with industry regulations</li> <li>Demonstrated experience in performance optimization for high-traffic web applications</li> <li>Experience with container technologies like docker and good understanding of cloud infrastructure and solutions.</li> <li>Experience with agile development methodologies and collaborating with cross-functional teams</li> <li>Excellent problem-solving skills and a proactive approach to troubleshooting and bug fixing</li> <li>Strong communication skills to effectively interact with both technical and non-technical team members with diverse backgrounds</li> <li>A passion for staying updated with the latest trends, technologies, and best practices in software development</li> </ul><p></p><h3>Requirements: </h3><h3>Benefits: </h3>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1663581815960145923/EiMoGuaS_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
