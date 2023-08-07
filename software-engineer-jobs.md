@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>191 days ago</text>
+                <text>195 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -217,30 +217,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Internet of Money&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to industry-leading security, crypto education, and world-class client support through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://cryptowat.ch/" class="postings-link">Cryptowatch</a>.</div><div><br></div><div>Become a Krakenite and build the internet of money!</div><div><br></div><div><br></div><div><b style="font-size: 24px">Proof of work</b></div><div><br></div><div><b style="font-size: 18px">The team</b></div><div><br></div><div>Join our Trading Technology team and start building the internet of money.</div><div>The Trading Technology team is responsible for everything to do with the trading backend services such as the matching engine, market data gateways, internal and external APIs, and various other trading services. The team is located globally and responsibilities are split into sub-teams, working with various tech stacks. Our teams code in C++, Go, Rust, and Python, depending on the product they are contributing to within Kraken and work agile around the globe<b>. </b>Recently, the Trading Technologies team played a critical role in <a href="https://blog.kraken.com/post/17936/performance-at-kraken/" class="postings-link">scaling Kraken's trading infrastructure.</a>&nbsp;</div><div><br></div></div><div class="section page-centered"><div><h3>The opportunity </h3><ul class="posting-requirements plain-list"><ul><li>Develop and maintain core framework and key software components for the Kraken trading engine</li><li>Build and design solutions that mitigate risk, implement security, and protect both systems and data</li><li>Improve site performance by designing and implementing low-latency and high-availability applications</li><li>Construct dynamically scalable platforms capable of heavy transaction volume</li><li>Write reusable, testable, and efficient code</li><li>Collaborate with cross-functional teams and contribute to product roadmap accomplishment</li><li>Work collaboratively on a distributed team leveraging soft skills to effectively communicate and engage with stakeholders</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>Prior experience in at least one of the following using Linux - distributed and/or highly-concurrent systems; low-latency and/or high-volume transaction environments</li><li>5+ years experience working with C++</li><li>High level of proficiency in Python, Java, and SQL strongly preferred</li><li>Demonstrated knowledge of advanced order types, trading systems, and financial products</li><li>Experience profiling and optimising code (CPU, memory, network)</li><li>Cryptocurrency/Blockchain familiarity highly preferable</li><li>Proactive mindset with the ability to both prioritise tasks and adhere to aggressive deadlines</li><li>BS in a technical or quantitative field</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>&nbsp;#US #EU #LI-Remote #Canada #LI-VF1</div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/a8b876c3-9b7e-407f-85c9-b46e168d7030/apply">Apply for this job</a></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1306325743580848130/mk0qvsZ9_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Kraken</h5>
-                    <h3>Senior Software Engineer - React - Web</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/kraken/42ac2968-f431-41b9-8470-253d4cda8d28" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Internet of Money&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to industry-leading security, crypto education, and world-class client support through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://cryptowat.ch/" class="postings-link">Cryptowatch</a>.</div><div><br></div><div>Become a Krakenite and build the internet of money!</div><div><br></div><div><b style="font-size: 24px">Proof of work</b></div><div><br></div><div><b style="font-size: 18px">The team</b></div><div><br></div><div>We are currently seeking an experienced Senior Software Engineer to join our growing Engineering team. In this role, you will be responsible for developing and maintaining both our Web and Mobile user interfaces using React and React Native, respectively. Your expertise in building scalable and high-performance applications will directly contribute to the success of our platform.</div><div><br></div></div><div class="section page-centered"><div><h3>The opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Design, develop, and maintain high-quality web and mobile applications using React and React Native</li><li>Collaborate with cross-functional teams, including Product, Design, and Backend Engineering, to ensure seamless integration of new features and improvements</li><li>Contribute to the architecture and design of our web and mobile applications</li><li>Identify, analyze, and resolve performance bottlenecks and inefficiencies in the codebase</li><li>Write and maintain comprehensive unit tests and documentation</li><li>Stay up-to-date with the latest industry trends and technologies to ensure our applications remain current and competitive</li><li>Mentor junior developers and participate in code reviews to maintain a high standard of code quality</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>Bachelor's degree in Computer Science or a related field, or equivalent experience</li><li>5+ years of experience in software development, with a focus on web and mobile applications</li><li>Deep understanding of JavaScript/TypeScript and proficiency with React and React Native frameworks</li><li>Experience with <a href="http://Next.js" class="postings-link">Next.js</a>, RESTful APIs and WebSockets</li><li>Experience with frontend testing frameworks</li><li>Familiarity with modern front-end build pipelines and tooling</li><li>Strong understanding of UI/UX best practices and principles</li><li>Excellent problem-solving skills, attention to detail, and ability to work independently and as part of a team</li><li>Strong written and verbal communication skills in English</li></ul></ul></div></div><div class="section page-centered"><div><h3>Nice to have</h3><ul class="posting-requirements plain-list"><ul><li>Knowledge of the cryptocurrency industry and blockchain technology</li><li>Familiarity with native mobile app development (iOS/Android)</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 15px">Location Tagging: </span>#US #EU #LI-LM1 #LI-Remote #Canada</div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/42ac2968-f431-41b9-8470-253d4cda8d28/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -670,98 +646,6 @@
 <p>We are happy to pay in any mix of fiat/crypto.</p>
 </div>
 </div>
-
-    
-
-    
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Status</h5>
-                    <h3>Software Engineer (Golang)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4863246&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <h4>&nbsp;</h4>
-<h4><strong>About Waku</strong></h4>
-<p><span style="font-weight: 400;">We are building Waku (Waku.org) as a public good infrastructure. Waku is the messaging layer of Web3.</span></p>
-<p><span style="font-weight: 400;">It is a decentralized, censorship-resistant, privacy-preserving communication network that enables anyone to send and receive messages without worrying about surveillance or deplatforming.</span></p>
-<p><span style="font-weight: 400;">We are developing 3 open source implementations of Waku:</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Nwaku. <a class="anchor-1MIwyf anchorUnderlineOnHover-2qPutX" href="https://github.com/waku-org/nwaku" target="_blank">https://github.com/waku-org/nwaku</a>: the reference implementation and service node</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Js-waku, <a class="anchor-1MIwyf anchorUnderlineOnHover-2qPutX" href="https://github.com/waku-org/js-waku" target="_blank">https://github.com/waku-org/js-waku</a>: for the browser </span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Go-waku: <a class="anchor-1MIwyf anchorUnderlineOnHover-2qPutX" href="https://github.com/waku-org/go-waku" target="_blank">https://github.com/waku-org/go-waku</a>: to integrate as a library in native applications</span></li>
-</ul>
-<p><span style="font-weight: 400;">We are enabling Ethereum builders to create new projects with a fully decentralized architecture, think dApp to Wallet notifications, NFT marketplaces, censorship-resistant chat, layer-2 decentralization and more.</span></p>
-<p><span style="font-weight: 400;">We are looking for a Software Engineer who is passionate about Ethereum, and decentralization. And who would relish the opportunity to champion Waku to other Web3 projects and developers.</span></p>
-<p>&nbsp;</p>
-<p><strong>Key Responsibilities</strong></p>
-<ul>
-<li>Design, implement and document Waku Golang libraries (go-waku)</li>
-<li>Maintain, improve, troubleshoot Waku React Native, the React Native wrapper of go-waku</li>
-<li>Implement new protocols as defined by the Research Team</li>
-<li>Investigate and fix issues in go-waku and upstream libraries such as go-libp2p</li>
-<li>Optimize go-waku and upstream libraries for the mobile/React Native</li>
-<li>Support dApp developers in using go-waku and Waku Golang libraries</li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>You ideally will have</strong></p>
-<ul>
-<li>Experience building applications with complex logic, cutting edge technology or applied research</li>
-<li>Ability to learn new concepts and technologies quickly, you are a polyglot</li>
-<li>Open to maintaining a native library for React Native</li>
-<li>Experience building libraries in Golang, for network and mobile environments</li>
-<li>Good communication skills (written and conversational)</li>
-<li>Strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>Bonus points if&nbsp;</strong></p>
-<ul>
-<li>You are already familiar with the Ethereum community</li>
-<li>You have experience with go-libp2p or other libp2p implementations</li>
-<li>You have experience with C-Bindings &amp; Cgo</li>
-<li>You are in Web3 or blockchain development</li>
-<li>You have experience working for an open source organization</li>
-<li>You have experience working async</li>
-</ul>
-<p><em>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</em></p>
-<p>&nbsp;</p>
-<p><strong>Hiring Process&nbsp;</strong></p>
-<ol>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Intro call with our People Ops team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with member of the Waku team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Pair programming session with member of the Waku team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Program Lead</span></li>
-</ol>
-<p>&nbsp;</p>
-<p><strong>Compensation</strong></p>
-<p>The expected compensation range for this role is $65,000 - $80,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process). <br><br>We are happy to pay in any mix of fiat/crypto.&nbsp;</p>
-<p>&nbsp;</p>
 
     
 
