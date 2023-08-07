@@ -1,5 +1,77 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8558/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>DesignFiles</h5>
+                    <h3> Full-Stack Ruby on Rails Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>3 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/designfiles-full-stack-ruby-on-rails-developer-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/8558/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Remote
+    <br /><strong>URL:</strong> <a href="https://designfiles.co">https://designfiles.co</a>
+</p>
+
+<div>
+<strong>At DesignFiles we're looking for a Full-Stack Ruby on Rails Developer to join our engineering team.<br></strong><br>
+</div><div><strong>About the Job:</strong></div><div>
+<br>DesignFiles is an interior design project management software company on a mission to help interior designers and home furnishing retailers take their design services and businesses to new heights. With 5,000+ customers and 20+ team members located all over the world, we're growing quickly and looking for our next driven and talented team member.<br><br>
+</div><div>We’re looking for a Full Stack Ruby on Rails Developer to join the company to drive product development from the ground level.<br><br>
+</div><div>
+<em>Please note: This is a contract role and we are looking for individuals (not agencies) that can commit 40+ hours a week to become a core member of our team.<br></em><br>
+</div><div>
+<br><strong>What You'll Do:</strong>
+</div><ul>
+<li>Write, review and improve Ruby and JavaScript code working in Unix environment.<br><br>
+</li>
+<li>Collaborate with our product team to bring features from conception to completion.<br><br>
+</li>
+<li>Develop features with an emphasis on consistency and integrity at all levels of the stack.<br><br>
+</li>
+<li>Improve DesignFiles' engineering culture with an eye for best practices, code quality and code reviews.<br><br>
+</li>
+<li>Actively contribute to the project with ideas and solutions to constantly improve the lives of our designers and their clients.<br><br>
+</li>
+<li>Participate in Sprint Planning, Retros, 1:1s<br><br>
+</li>
+</ul><div>
+<br><strong>What We Want From You:</strong>
+</div><ul>
+<li>5+ years experience as a full-stack developer.<br><br>
+</li>
+<li>3+ years of hands-on Ruby on Rails experience.<br><br>
+</li>
+<li>Strong experience with Ruby on Rails: rubocop, minitest-spec-rails, delayed job, paperclip, paranoia, etc.<br><br>
+</li>
+<li>Strong experience with modern JavaScript/CSS: Webpack, Gulp, eslint, prettier, BEM.<br><br>
+</li>
+<li>Solid knowledge of unix shell, PostgreSQL, Docker, Node.js, AWS S3.<br><br>
+</li>
+<li>Fluent English, good communication skills and full presence during agreed work hours.<br><br>
+</li>
+<li>Taking responsibility for testing own code, thinking through the edge cases and ability to work productively without close supervision.</li>
+</ul><div><br></div><div>Sounds interesting? Apply here &gt;&gt; https://designfiles.homerun.co/full-stack-ruby-on-rails-developer</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/designfiles-full-stack-ruby-on-rails-developer-1">https://weworkremotely.com/remote-jobs/designfiles-full-stack-ruby-on-rails-developer-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0099/5721/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +82,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/textmagic-senior-back-end-developer-php-symfony-postgresql-1" align="right" target="_blank">Apply</a>
@@ -96,7 +168,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/smily-front-end-developer" align="right" target="_blank">Apply</a>
@@ -153,7 +225,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/webpunch-webpunch-is-looking-for-an-advanced-junior-ruby-developer-to-add-to-our-team" align="right" target="_blank">Apply</a>
@@ -213,90 +285,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0099/5582/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Constructive</h5>
-                    <h3> Front-End Developer (Remote, North American Time Zones) - Digital Agency for Social Change</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/constructive-front-end-developer-remote-north-american-time-zones-digital-agency-for-social-change" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0099/5582/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> New York
-    <br /><strong>URL:</strong> <a href="http://constructive.co">http://constructive.co</a>
-</p>
-
-<div>Constructive is a leading social impact strategy and design firm that helps advance social, environmental, and economic justice. We’re a close-knit, committed team of experts and advocates who partner with ambitious organizations to make the world a more fair, equitable, and sustainable place. Constructive’s culture is built on values that are the core of who we are—deeply held beliefs about the importance of integrity, empathy, accountability, trust, teamwork, and respect that add purpose to our lives and can be seen and felt in everything we do.<br><br>
-</div><div>If you are a Front-End developer who excels at translating sophisticated UX and design into exceptional interaction design, are hungry to collaborate with a team of senior strategic and creative experts to push boundaries, and believe that the best digital experiences happen when strategy, technology, and design work together, then please read on!<br><br>
-</div><h1>About the Role</h1><div>As a Front-End Developer at Constructive, you will take the lead on developing a myriad of technical solutions to help create compelling brand experiences for our network of passionate clients. Working alongside our energetic technology team, you will create content management systems, data visualizations, single-page applications, automation scripts, and everything in between. Additionally, you will commonly integrate with third-party systems to extend our reach of feature offerings, as well as work on a collection of innovative internal projects. <br><br>
-</div><div>
-<strong><br>What we need you to do extremely well<br></strong><br>
-</div><div>This role is all about hands-on development and sharing your perspective on approaches and techniques learned throughout your career. We’ll need you to have strong demonstrated success having done all or most of these things for at least 2 to 3 years — and a passion for doing them well the whole way through. <br><br>
-</div><ul>
-<li>Have a mastery of Tailwind CSS and modern front-end development practices.</li>
-<li>Be a great team player, have a bias towards listening, take serious pride in your work, and always look for our process and results to be better the next time out. When you have high integrity for your work and the success of the product and your teammates, you will be rewarded with the satisfaction of a cohesive team that’s got your back in the same ways. Most importantly, you consider yourself a perpetual student of your craft. We recognize imposter syndrome can be anxiety-inducing, but we channel it as a positive means of learning and getting better at what we do every day.<br><br>
-</li>
-</ul><div>
-<strong><br>Skills and Experience You’ll Need<br></strong><br>
-</div><div>Right now, these are the specific technologies and tasks that are essential to our work. We’ll need you to have at least <strong>2-3 years of experience</strong> in most of these things, and we’re very open to new ideas on which specific technologies and tools can improve on what we have.<br><br>
-</div><ul>
-<li>Excellent understanding and development with frontend JS and CSS frameworks (e.g. Tailwind, Alpine, React), and adaptive, responsive, and cross-browser web development</li>
-<li>Proven experience in delivering pixel-perfect designs that are highly interactive and dynamic</li>
-<li>Excellent grasp of development workflows essential to the modern developer, such as git and command-line tooling</li>
-<li>Excellent communication skills, both written and verbal</li>
-<li>Process-Minded &amp; Detail-Oriented: you sweat the small stuff as it pertains to your and the agency’s growth<br><br>
-</li>
-</ul><div>
-<strong>It’d be great if you have...<br></strong><br>
-</div><ul>
-<li>Custom WordPress development experience, with a concentration on back-end development</li>
-<li>Experience building design systems: component libraries, reusable front-end patterns, etc.</li>
-<li>Experience using best-in-class WordPress and PHP software such as Sage, Extended ACF &amp; CPT, and popular Composer libraries</li>
-<li>Experience with accessibility, such as WCAG compliance requirements</li>
-<li>A good sense of humor :)<br><br>
-</li>
-</ul><h1>What We Offer:</h1><div>We do our best to make sure everyone at Constructive is taken care of with a great mix of salary, benefits and perks, opportunities for professional growth, and a healthy dose of time off. We expect this position to have a base salary between $60K - $75K based on experience and value-added skills. In addition, we offer the following robust benefits and perks:<br><br>
-</div><ul>
-<li>Health Insurance, Dental &amp; Vision</li>
-<li>Defined Annual Profit Sharing Plan </li>
-<li>401K  With Up to 4% Company Match</li>
-<li>Discretionary Performance-based Bonuses</li>
-<li>3 Weeks Paid Vacation </li>
-<li>Paid Vacation From Christmas Eve through New Year's </li>
-<li>Paid 1/2-day Summer Fridays (Approx 14/year)</li>
-<li>Open Wellness Days</li>
-<li>Flexible Work Schedules</li>
-<li>$2K Annual Professional Development Stipend</li>
-<li>New Client Bonuses (3% of First 12 Months of New Work You Proactively Bring In)</li>
-<li>Monthly Virtual Happy Hours &amp; Games</li>
-<li>A Super-Aligned Team That Loves Showing Up for Each Other</li>
-<li>Feeling Great About Your Work Making the World a Better Place<br><br>
-</li>
-</ul><h1>Our Commitment to Diversity &amp; Inclusion</h1><div>We believe strongly that diversity is one of our greatest strengths—that the more perspectives we bring to the mix, the better we are as people and the better partner we are for our clients. So, in considering if Constructive is a good fit for you, know that all we care about is that you’re qualified to do the job, share most or all of our values, and want to be here. These are the things we’ll be evaluating for every applicant—and if you meet those and add to our diversity, all the better.<br><br>
-</div><div>
-<strong><br>Interested? Great! <br></strong><br>
-</div><div>Fill out an application <a href="https://form.asana.com/?k=K8xhad6GtScxSCifBhqYhA&amp;d=61765226572890">HERE</a>, and we’ll be in touch if we think it’s a good fit!<br><br>
-</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/constructive-front-end-developer-remote-north-american-time-zones-digital-agency-for-social-change">https://weworkremotely.com/remote-jobs/constructive-front-end-developer-remote-north-american-time-zones-digital-agency-for-social-change</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0099/5455/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -307,7 +295,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/overmind-blockchain-developer" align="right" target="_blank">Apply</a>
@@ -331,88 +319,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0098/8346/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>opesus</h5>
-                    <h3> Developer/Consultant for SAP Sustainability Solutions (Europe)</h3>
-                </td>
-                <td width="300">
-                    <code>DevOps and Sysadmin</code>
-                </td>
-                <td width="200">
-                <text>19 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/opesus-developer-consultant-for-sap-sustainability-solutions-europe" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0098/8346/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Barcelona
-    <br /><strong>URL:</strong> <a href="https://vonq.io/46Pcvoy">https://vonq.io/46Pcvoy</a>
-</p>
-
-<strong>About opesus<br></strong>
-<p>We help companies become more sustainable by providing consulting and developing our own software products for SAP sustainability solutions. </p>
-<p>With headquarters in Germany and offices in the USA and Romania, our over 150 customers are globally operating companies like BASF, Dow, Zeiss, Merck and Continental. Together, our customers employ 3 million people. With opesus you get big company experience with a small company vibe. </p>
-<p>Why do these industry giants trust a company with 35 employees?<br></p>
-<p>Because we are outstanding in what we do.</p>
-<ul>
-<li>
-<strong>Corporate Culture</strong>: Having worked at SAP, we wanted to work and live differently. Netflix said, “Let’s make the company we always dreamed of.” At opesus we are doing the same thing – our values, our mission, and how we interact with one another are all part of our corporate culture. The team weeks (twice per year) are a key component of that culture. Everyone from our most recent hire to the CEO comes together for a week of collaboration where we work and learn together, allow everyone’s voice to be heard, and have a lot of fun in the process! <a href="https://www.opesus.com/en/about-us/our-culture">Find out more about corporate culture</a>
-</li>
-<li>
-<strong>Personal Development:</strong> Your professional and personal development is very important to us. We promote your personal growth through training, a peer feedback system, knowledge transfer within the team, and time for self-directed learning. As part of on-boarding, you will have an experienced colleague as your mentor.</li>
-<li>
-<strong>Salary</strong>: Our salary model is fair and fully transparent. All employees participate in the company's success through a bonus program. And there is an annual share program.</li>
-<li>
-<strong>Remote work</strong>: We love seeing each other in the office. But we also recognize that there are many paths in live and allow everyone to work remotely.</li>
-<li>
-<strong>Work-Life balance</strong> is very important to us. "40 hours of passion" perfectly describes our attitude towards work. We are passionate about our work and love our job. But it's just as important to us to have a balance in our free time. No overtime is forfeited and thanks to flexible working hours (flexitime) you can organize your day according to your needs.</li>
-<li>
-<strong>Purpose</strong>: Grow with us, work for some of the largest international companies and make an important contribution to sustainability.</li>
-</ul>
-<p>We are looking for developers and consultants. This is a tech job. Your day-to-day work is IT. If you don't have the necessary skills, you need to be willing to learn. </p>
-<p>You would be working remotely or from one of our offices.<br></p>
-<strong>Consulting</strong>
-<ul>
-<li>consulting for sustainability software from opesus or SAP</li>
-<li>implement and customize the software</li>
-<li>lead projects and customer workshops</li>
-<li>participate in agile product development</li>
-<li>support sales</li>
-</ul>
-<strong>Developing</strong>
-<ul>
-<li>develop beautiful code using latest SAP technologies</li>
-<li>be part of the development team, working agile</li>
-<li>write specifications, documentation and automated tests</li>
-</ul> <br> <p>You should...</p>
-<ul>
-<li>have an interest in sustainability</li>
-<li>want to work as a developer and/or consultant for software</li>
-<li>have interest in programming. Previous experience is a plus.</li>
-<li>be able to think structured and logically</li>
-<li>communicate in a clear and structured way</li>
-<li>be a team player and like to work in an international and very nice team</li>
-<li>have a good command of written and spoken English</li>
-<li>have the desire to develop yourself professionally and personally</li>
-</ul>
-
-<p>opesus is an Equal Employment Opportunity company that does not discriminate against anyone.</p>
-<p>We read every application.</p>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/opesus-developer-consultant-for-sap-sustainability-solutions-europe">https://weworkremotely.com/remote-jobs/opesus-developer-consultant-for-sap-sustainability-solutions-europe</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0097/1479/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -423,7 +329,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>41 days ago</text>
+                <text>46 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/trendspider-front-end-software-developer" align="right" target="_blank">Apply</a>
@@ -473,7 +379,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>121 days ago</text>
+                <text>125 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -556,7 +462,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>153 days ago</text>
+                <text>157 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -630,81 +536,69 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0017/3489/logo.gif" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1747930/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>OpenCraft</h5>
-                    <h3> Senior Open Source Developer & DevOps (Python, Django, React, AWS/OpenStack)</h3>
+                    <h5>LetHub</h5>
+                    <h3>Full-Stack Software Developer</h3>
                 </td>
                 <td width="300">
-                    <code>Full-Stack Programming</code>
+                    <code>api,AWS,backend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>994 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/full-stack-software-developer-1747930" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0017/3489/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Fully remote company (worldwide, incorporated in Berlin)
-    <br /><strong>URL:</strong> <a href="https://opencraft.com/">https://opencraft.com/</a>
-</p>
-
-<div>Do you care about contributing to open-source, and appreciate a good challenge? We do too! :) <br><br>
-</div><div>
-<strong>Open-source<br></strong><br>
-</div><div>We are a team of veteran open-source developers, working on educational and community-based projects in an<a href="https://handbook.opencraft.com/en/latest/open_first/"> open-first</a> environment – and we are looking for new members. By joining us, you will work full-time on open-source, pushing your changes to free software projects upstream through pull requests, contributing features, documentation, or help on public forums. </div><div>
-<br>We care deeply about contributing our work upstream. You will see the results of your work reused and recognized across the educational community, increasing access to quality education for everyone, everywhere.</div><div>
-<br><strong>Remote-first</strong>
-</div><div>
-<br>Unlike companies who reluctantly started to accept remote workers recently, we have embraced it from day 1. For the past 7 years, we have based and refined our way of working around remote-friendly workflows, from the ground up. No day-long video meetings, mandatory work hours, or risk of being forced back into an office one day -- as long as you have a good internet connection, it’s none of our business when or where you work from. :)</div><div>
-<br>We are all working remotely, from all continents (except Antarctica, at least so far - applicants welcome!). We use remote-friendly and timezone-agnostic workflows based on asynchronous principles and good documentation practices.</div><div>
-<br><strong>Online education<br></strong><br>
-</div><div>We are one of the main contributors to the <a href="https://open.edx.org/">Open edX project</a>, the main open-source MOOC platform created by MIT, Harvard and many other top universities. It powers sites like <a href="https://www.edx.org/">edX.org</a>, the <a href="https://openlearning.mit.edu/courses-programs/open-learning-library">MIT Open Learning Library</a>, and the <a href="https://www.fun-mooc.fr/">national online learning platform for France</a>. We provide development and hosting for institutions like <a href="https://onlinelearning.hms.harvard.edu/hmx/">Harvard Medical School</a>, <a href="https://www.labxchange.org">Harvard LabXchange</a>, <a href="https://ondemand.cloudera.com">Cloudera</a>, <a href="https://www.upskill.autodesk.com">Autodesk</a>, and several governments. We are not affiliated with <a href="https://www.edx.org/">edX.org</a>, but we contribute and work with them on various projects. </div><div>
-<br><strong>Technical stack</strong><br><br>
-</div><div>The Open edX project is a large Python/Django codebase, with good code standards and architecture. Tasks are varied, from developing core platform features, custom exercises and tools for specific courses (XBlocks), customizing and deploying instances, working full-stack, operating our service infrastructure, improving our hosting platform, etc. You won't get bored here.<br><br>
-</div><div>
-<strong>Contracting terms<br></strong><br>
-</div><div>This is a full-time, permanent contract position. We aim for long-term relationships -- once in, almost all team members stay for many years. </div><div><br></div><div>We care about paying fairly: </div><ul>
-<li>Team members set their own compensation level, which is paid based on hours worked (no unpaid overtime!). </li>
-<li>When determining your rate, we will expect you to factor in benefits (vacation, healthcare, purchase budgets, etc.) - the idea is to let <em>you</em> pick the benefits that are useful to you, rather than offer one-size-fits-all packages that aren’t always very valuable.</li>
-<li>We also proactively apply generous raises team-wide, based on the company results at the end of each year. <a href="https://handbook.opencraft.com/en/latest/team_compensation/">See the details about how we approach compensation in our handbook</a>.</li>
-</ul><div>We also firmly believe in work-life balance: as long as you deliver what you commit to, there is a lot of latitude in how much work you can choose to accept. We are open to time commitments anywhere in the 30h to 40h/week range, and highly discourage working more than that. It’s important to have time to ourselves, as well as having some slack, and there are diminishing returns in working more anyway. We are currently recruiting precisely to preserve that balance, and ensure we have plenty of capacity to handle our projects.</div><div><br></div><div>We welcome applicants of all genders and ethnicities.</div><div>
-<br><strong>Basic Requirements:</strong>
-</div><ul>
-<li>Experience with contributing to free software projects - small contributions are completely fine, but you <em>must</em> have at least one patch or pull request merged in a third-party project, or been a maintainer of an open source project with significant adoption. (Note that you can contribute now to satisfy this requirement - see for example the <a href="https://github.com/openedx/build-test-release-wg/projects/1">Open edX release issues</a>, fixing one of these issues guarantees an interview.)</li>
-<li>Senior developer with 3+ years working with Python</li>
-<li>Experience with Python web frameworks, specifically Django</li>
-<li>3+ years of HTML, Javascript, and CSS (experience with React and/or Typescript is a big plus!)</li>
-<li>Experience with unit testing</li>
-<li>Comfortable working in a Linux environment, specifically Debian or Ubuntu</li>
-<li>Experience with databases: MySQL, MongoDB, PostgreSQL</li>
-</ul><div>
-<strong>Additional Skills:</strong><br><br>
-</div><div>You will work on tasks from the following categories, but you can pick up the skills on the job if you haven't mastered these yet:</div><ul>
-<li>DevOps experience, especially on Debian/Ubuntu servers, Terraform, Vault, Packer, Prometheus, ELK, Docker. We are building a modern infrastructure and having a strong DevOps presence on top of core software engineering skills is a big plus with us.</li>
-<li>Cloud computing, like AWS or OpenStack</li>
-<li>Configuration management tools such as Ansible, Consul</li>
-<li>RabbitMQ, Redis &amp; Elasticsearch</li>
-<li>Mobile development (iOS and/or Android)</li>
-<li>Managing clients &amp; projects from beginning to completion (senior developer)</li>
-<li>Public speaking at conferences (you would present a talk every year at the Open edX Con)</li>
-</ul><div>
-<br><strong>Apply for this Position</strong><br><br>
-</div><div>Our recruitment process differs from most other companies - we don’t believe resumes and the traditional interviews to be particularly effective. Often, they tell more about how good someone is at interviewing, rather than at the actual work. So, our initial interview is lighter and easier to pass than in other companies - but we then provide you with real (and paid!) work to see how it works out in reality.</div><ul>
-<li>Step 1: You apply by filling out this form: <a href="https://opencraft.com/jobs/open-source-developer/">https://opencraft.com/jobs/open-source-developer/</a> </li>
-<li>Step 2: We do two interviews with candidates matching the requirements listed above. The first interview includes a (simple) coding exercise.</li>
-<li>Step 3: If this works out, we hire you! We start with a 2 months <a href="https://handbook.opencraft.com/en/latest/processes/#recruitment">trial period</a>, which allows both you and the rest of the team to fully evaluate how we work together, and is followed by a final review and confirmation. </li>
+                <p>LetHub is a next-generation AI-powered web platform for landlords and property managers that makes it easy to find high-quality renters without hiring more staff.</p>
+<p>Finding a place to rent is a painful and time-consuming task for professionals with a busy schedule. On the other hand, it's very costly for property managers and landlords to have systems in place to improve the experience and make the process super easy. LetHub solves this two-sided problem by taking care of the whole process from responding to inquiries to getting prospects to show up for property tours without hiring leasing agents.</p>
+<p>Check us out at <a href="https://www.lethub.co/" rel="nofollow">https://www.lethub.co/</a></p>
+<p>-------------------------</p>
+<p><strong>Perks We Offer:</strong></p>
+<ul style="">
+<li style="">Employee share options plan (equity)</li>
+<li style="">Work from anywhere in the world</li>
+<li style="">Competitive compensation package</li>
+<li style="">Real-world training, development, and support for a career in technology sales and business development</li>
+<li style="">3 weeks of paid vacation</li>
+<li style="">Access to paid courses</li>
+<li style="">Snacks, gym passes and much more</li>
+<li style="">Be part of a fast-growing PropTech company backed by renowned investors</li>
 </ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack">https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack</a></p>
-
+<p> </p>
+<p><strong>General Responsibilities:</strong></p>
+<p>This position will apply its skills to help improve the foundation of a ground-breaking, innovative company that will be at the forefront of the property management software industry. We have a vision that keeps full-stack development at its present and AI development in its future.</p>
+<p><strong>The successful candidate will assist in the development and improvement of the core product including:</strong></p>
+<ul style="">
+<li style="">Design and develop full-stack software solutions</li>
+<li style="">Work collaboratively in an Agile + Scrum development environment</li>
+<li style="">Write documentation for the use and maintenance of designed applications</li>
+</ul>
+<p><strong>Requirements and Skills:</strong></p>
+<ul style="">
+<li style="">3+ years of full-stack web development experience and a combination of a degree or diploma in a related field</li>
+<li style="">Able to learn quickly and independently through studying existing code</li>
+<li style="">Web application development experience on Angular 6+ framework</li>
+<li style="">Proficient in JavaScript</li>
+<li style="">Backend application development experience in designing and developing RESTful APIs (with NodeJs + Express)</li>
+<li style="">Experience with relational databases (MySQL and Postgres)</li>
+<li style="">Experience with Linux environment</li>
+</ul>
+<p><strong>Nice to have:</strong></p>
+<ul style="">
+<li style="">Experience with AWS</li>
+<li style="">Experience in Machine Learning models</li>
+<li style="">Experience with OpenAI API</li>
+<li style="">Basic understanding of Natural Language Processing</li>
+<li style="">Experience in Python</li>
+<li style="">Experience in Proptech or related industries</li>
+</ul>
+<img src="https://remotive.com/job/track/1747930/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -719,7 +613,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -796,7 +690,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -1092,6 +986,89 @@
                 </td>
                 <td width="300">
                     <h5>Status</h5>
+                    <h3>Web Developer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4365480&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <p>&nbsp;</p>
+<p><strong>The project</strong></p>
+<p>Our organization is closely involved in a new community lead project, called Logos, and this role will enable you to focus on its development. Logos is a grassroots movement to provide trust-minimized, corruption resistant governing services and social institutions to underserved citizens. Logos’ infrastructure will provide a base for the provisioning of the next-generation of governing services and social institutions - paving the way to economic opportunities to those who need them most, whilst respecting basic human rights through the network’s design.</p>
+<p>In order to promote the ideas behind Logos and its vision, we have created a brand studio called acid.info and you will be part of it. <a href="http://acid.info/">Acid.info</a> is the studio and creative engine within the Logos DAO. Our mission is to build, and ensure, technologies and creativity that supports freedom, justice, and innovation for all people of the world.&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>The role</strong></p>
+<p>As a Web Developer, you will be responsible for the development and technical maintenance of various web-based projects in the studio. Your role will involve decision-making for code architecture, writing tests, choosing the right technology stack, and any other related tasks. You will work closely with the development team, studio lead, and design team to bring our web projects to life. You will take care of all technical aspects of all web projects (from development and testing to deployment and maintenance)&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Responsibilities</strong></p>
+<ul>
+<li>You will be developing and implementing internal tools, including our wiki engine framework, branding design portal our design systems implementation in React</li>
+<li>You will co-write documentation for all the above mentioned products/projects</li>
+<li>You will be responsible for maintaining our open-sourced codebases on Github</li>
+<li>You will be improving the architect and implementation<a href="https://github.com/acid-info/logos-site-builder"> our current site-generator framework</a> (built on top NextJS) and develop it further</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>You ideally will have</strong></p>
+<ul>
+<li>Experience in ReactJS and NodeJs (all in Typescript)&nbsp;</li>
+<li>Good understanding of software architecture</li>
+<li>Experience in implementation of frontend libraries and design systems</li>
+<li>Experience working with Git, Docker and NextJS framework as well as Vercel and/or Netlify</li>
+<li>A strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Bonus points if</strong></p>
+<ul>
+<li>You are comfortable in working remotely and asynchronously</li>
+<li>You have experience working for an open source organisation</li>
+<li>You have exposure to creative coding (processing, open frameworks, WebGL, writing shaders, p5js)</li>
+</ul>
+<p><em>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</em></p>
+<p>&nbsp;</p>
+<p><strong>Compensation</strong></p>
+<p><span style="font-weight: 400;">The expected compensation range for this role is $40,000 - $60,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process. </span></p>
+<p>&nbsp;</p>
+<p><strong>Hiring process</strong></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with POps team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Web Developer and Design Studio Lead</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Assessment (paid)</span></li>
+</ol>
+<p><em><span style="font-weight: 400;">[The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline!]</span></em></p>
+<p>&nbsp;</p>
+<p><strong>Get to know us</strong></p>
+<p><span style="font-weight: 400;">Find out about the Logos here: </span><a href="https://logos.co"><span style="font-weight: 400;">https://logos.co</span></a></p>
+
+    
+
+    
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
                     <h3>Senior React Native UI Developer</h3>
                 </td>
                 <td width="300">
@@ -1176,6 +1153,83 @@
 </div>
 <div id="about-body" class="external-panel__trix-content external-panel__trix-content--colored">
 <div><br>Follow along on&nbsp;<a href="https://our.status.im/">Our Status</a>.&nbsp;</div>
+</div>
+
+    
+
+    
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
+                    <h3>Senior Rust Developer </h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4412616&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <p><strong>About Logos</strong></p>
+<p><span style="font-weight: 400;">A group of Status Contributors is also involved in a new community lead project, called Logos, and this particular role will enable you to also focus on this project. Logos is a grassroots movement to provide trust-minimized, corruption-resistant governing services and social institutions to underserved citizens.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Logos’ infrastructure will provide a base for the provisioning of the next-generation of governing services and social institutions - paving the way to economic opportunities for those who need them most, whilst respecting basic human rights through the network’s design.</span><span style="font-weight: 400;">You can read more about Logos here:</span><a href="https://github.com/acid-info/public-assets/blob/master/logos-manual.pdf"><span style="font-weight: 400;"> in this small handbook</span></a><span style="font-weight: 400;"> for mindful readers like yourself. </span></p>
+<p><strong>Who are we?</strong></p>
+<p>We are the Blockchain Infrastructure Team, and we are building the foundation used by other projects at the&nbsp;<a href="https://statusnetwork.com/">Status Network</a>. We are researching consensus algorithms, Multi-Party Computation techniques, ZKPs and other cutting-edge solutions with the aim to take the blockchain technology to the next level of security, decentralization and scalability for a wide range of use cases. We are currently in a research phase, working with models and simulations. In the near future, we will start implementing the research. You will have the opportunity to participate in developing -and improving- the state of the art of blockchain technologies, as well as turning it into a reality.</p>
+<p><strong>Key Responsibilities</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Development and maintenance of internal rust libraries</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Help design and implement the architecture for a production-grade Node that will run in a highly adversarial environment.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">1st month: comfortable with dev framework, and simulation app.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A strong candidate will be able to contribute from the first month. </span></li>
+</ul>
+<div><strong>Ideally, you will have</strong></div>
+<div>
+<ul>
+<li><span style="font-weight: 400;">“Extensive” Rust experience. Ideally, they have some GitHub projects to show.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Alternative very extensive C/C++ experience and enough experience in Rust to write idiomatic code. We value more the understanding and experience of production systems.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Strong competency in developing and maintaining complex libraries or applications</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Peer-to-peer or networking experience</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience in, and passion for, blockchain technology.</span></li>
+<li><span style="font-weight: 400;">A strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></span></li>
+</ul>
+<p><strong>Bonus points if</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">&nbsp;Comfortable working remotely and asynchronously</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">&nbsp;Experience working for an open source organization.&nbsp;&nbsp;</span></li>
+</ul>
+<p><em>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role!]</em></p>
+<p><strong>Hiring Process&nbsp;</strong></p>
+<p><span style="font-weight: 400;">The hiring process for this role will be:</span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with our People Ops team</span></li>
+<li><span style="font-weight: 400;">Interview with Team Member&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Engineering Lead</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Logos Program Owner</span></li>
+</ol>
+<p><strong>Compensation</strong></p>
+<p><span style="font-weight: 400;">We are happy to pay in either 100% fiat or any mix of fiat and/or crypto. For more information regarding benefits at Status: </span><a href="https://people-ops.status.im/tag/perks/"><span style="font-weight: 400;">https://people-ops.status.im/tag/perks/</span></a></p>
+<p>&nbsp;</p>
 </div>
 
     
@@ -1852,7 +1906,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>We are seeking a highly skilled and motivated Full Stack Developer with strong analytical skills and expertise in Python and JavaScript to join our team. In this role, you will be working on various internal projects, including projects involving the integration of systems and the use of OpenAI to automate aspects of work. Most projects will be small in scope, and the ability to write clear, easy-to-understand code and complete projects quickly is essential. You will be talking directly with stakeholders, and figuring out the best way to solve the problem.</p><p><br>As a Full Stack Developer at our company, you will play a crucial role in developing innovative solutions to help optimize internal processes and replace manual tasks with automated solutions. If you are a detail-oriented problem solver who thrives in a fast-paced environment, we'd love to hear from you.<br></p><p><strong>As our Full Stack Developer you will;</strong></p><ul> <li>Design, develop, and maintain Python and JavaScript applications for internal projects</li> <li>Talk to stakeholders, and figure out the best way to solve their problems</li> <li>Integrate various systems and work on projects involving the use of OpenAI to automate tasks</li> <li>Write clear, well-structured, and maintainable code that is easy to understand and modify</li> <li>Collaborate with cross-functional teams to develop innovative solutions and optimize internal processes</li> <li>Participate in code reviews to ensure high-quality code and identify areas for improvement</li> <li>Ensure projects are completed quickly and efficiently without compromising quality</li> </ul><h3>Requirements: </h3><ul> <li>Strong analytical and communication skills</li> <li>Ability to pinpoint the problem and come up with the solution</li> <li>Strong expertise in Python and JavaScript programming languages</li> <li>Proficiency in Git for version control</li> <li>Experience with shell scripting and Linux operating system</li> <li>Ability to communicate effectively in English, both in writing and verbally</li> <li>Demonstrated problem-solving skills and ability to work independently as well as in a team environment</li> <li>Quick learner</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> </li> <li>Flexible working hours</li> <li>Paid 24 days of vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em>
+                <p>We are seeking a highly skilled and motivated Full Stack Developer with strong analytical skills and expertise in Python and JavaScript to join our team. In this role, you will be working on various internal projects, including projects involving the integration of systems and the use of OpenAI to automate aspects of work. Most projects will be small in scope, and the ability to write clear, easy-to-understand code and complete projects quickly is essential. You will be talking directly with stakeholders, and figuring out the best way to solve the problem. You will go for "works well enough" instead of perfection. Quick, prototype quality work will be preferred to fully engineered projects</p><p>As a Full Stack Developer at our company, you will play a crucial role in developing innovative solutions to help optimize internal processes and replace manual tasks with automated solutions. <br></p><p><strong>As our Full Stack Developer you will;</strong></p><ul> <li>Design, develop, and maintain Python and JavaScript applications for internal projects</li> <li>Talk to stakeholders, and figure out the best way to solve their problems</li> <li>Integrate various systems and work on projects involving the use of OpenAI to automate tasks</li> <li>Write clear, well-structured, and maintainable code that is easy to understand and modify</li> <li>Collaborate with cross-functional teams to develop innovative solutions and optimize internal processes</li> <li>Participate in code reviews to ensure high-quality code and identify areas for improvement</li> <li>Ensure projects are completed quickly and efficiently without compromising quality</li> </ul><h3>Requirements: </h3><ul> <li>Strong analytical and communication skills</li> <li>Ability to pinpoint the problem and come up with the solution</li> <li>Strong expertise in Python and JavaScript programming languages</li> <li>Proficiency in Git for version control</li> <li>Experience with shell scripting and Linux operating system</li> <li>Ability to communicate effectively in English, both in writing and verbally</li> <li>Demonstrated problem-solving skills and ability to work independently as well as in a team environment</li> <li>Quick learner</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> </li> <li>Flexible working hours</li> <li>Paid 24 days of vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em>
                 </details>
                 </td>
             </tr>,<tr>
