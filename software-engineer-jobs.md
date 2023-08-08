@@ -3,6 +3,70 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
+                    <h5>8returns</h5>
+                    <h3> Senior Software Engineer (Rails)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/8returns-senior-software-engineer-rails" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Germany Berlin
+</p>
+
+<p>At 8returns, we're transforming one of the most frustrating, environmentally damaging and costly aspects of e-commerce — returns. We built a technology that automates the returns process for retailers and makes data-driven decisions to connect each return to its next best use.</p>
+<p>We're still in the scrappy startup phase, so we are looking for people who are comfortable with ambiguity and having wide impact. We've been remote-first since Day 1, and care a ton about communication, autonomy, curiosity, and initiative.</p>
+<p>We have happy paying customers and just raised our first round of funding from industry leaders. Our team is highly experienced, and has started, scaled and sold companies before. We also love learning from each other, and are looking for people who bring a new set of experiences and backgrounds to our team.</p>
+<h2>Tasks</h2>
+<p><strong>Why you might be excited about us</strong></p>
+<ul>
+<li>We're working to solve a massive global problem - 10 billion pounds of returns end up in landfills every year and for retailers it’s a trillion-dollar problem.</li>
+<li>We're small, so you'll be able to contribute efficiently and without bureaucracy. You'll quickly have responsibility over big areas of our product. You'll also help build our company's culture.</li>
+<li>We don't have a ton of meetings. If we can effectively solve a problem asynchronously, we do. When we do meet synchronously, you'll always have the opportunity to contribute.</li>
+<li>You'll be able to work remotely and set your own schedule. We don't micro-manage and will help you do great work. Most of our engineers work EU hours, but organize their work day to be whatever's best for them.</li>
+<li>We will mould your role to shape a career you're excited about. We care a ton about your satisfaction and job happiness, and will help prep you for whatever you're looking for in the future.</li>
+<li>We work hard and also highly value balanced work/life. We care about family and your own personal development, and don't expect for you to be always engaged with work.</li>
+</ul>
+<p><strong>Why you might</strong> <strong><em>not</em></strong> <strong>be excited about us</strong></p>
+<ul>
+<li>We're small (&lt;10 people in the company now), so if you like more established companies, it's not (yet) the right time. Since we're an early stage startup, projects and priorities may shift.</li>
+<li>Our customers love us, <em>and</em> there's a lot we can improve. It's a great place to be, but means there's some technical debt.</li>
+<li>We can't (yet) provide close mentorship for junior developers, especially as we're remote and small. As we grow, we'll get a lot better at this.</li>
+<li>Since you'll have a lot of responsibility and creativity over projects, they may not be defined perfectly initially. You'll be expected to bring your own experience and perspective to help us do the right things, and raise flags if you think we should do things differently.</li>
+</ul>
+<p>If we think you might be a good fit, we'll respond within 48 hours.</p>
+<h2>Requirements</h2>
+<p><strong>Who you are</strong></p>
+<ul>
+<li>You worked remotely before, or know that you'd work well with a remote team.</li>
+<li>Ability to think creatively and critically and thrive in a fast-paced, dynamic, and often ambiguous work environment</li>
+<li>3+ years of experience developing high performance web applications</li>
+<li>Strong knowledge of Ruby on Rails and experience designing maintainable systems, APIs, and integrations </li>
+<li>You are able to decide what aspects of products need to be perfected and when to cut corners to ship faster</li>
+</ul>
+<p>The main app is built with Ruby on Rails and React. We use Postgres, Heroku, AWS. While previous experience with these technologies is a plus, we’re looking for someone with broad experience.</p>
+
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/8returns-senior-software-engineer-rails">https://weworkremotely.com/remote-jobs/8returns-senior-software-engineer-rails</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
                     <h5>Sticker Mule</h5>
                     <h3> Software Engineer (C++)</h3>
                 </td>
@@ -10,7 +74,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>195 days ago</text>
+                <text>197 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -56,94 +120,38 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4287/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>DuckDuckGo</h5>
-                    <h3>
-            Senior Software Engineer, Windows Desktop App (Remote)
-          </h3>
+                    <h5>Stimulus</h5>
+                    <h3> Software engineer</h3>
                 </td>
                 <td width="300">
-                    <code></code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>300 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://duckduckgo.recruitee.com/o/senior-software-engineer-windows-desktop-app-remote" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-            <p>Hi, we’re DuckDuckGo, the Internet privacy company for everyone who wants to take back their privacy now. For over a decade, we've been building our all-in-one product, developing new privacy technology, and working with policymakers to make online privacy simple and accessible for all.  </p>
-<p><br></p>
-<p>Our app is now downloaded more than 75M times a year, and our private search engine packaged with it has become the #2 search engine on mobile in over 21 countries, including the United States, United Kingdom, Canada, Australia, Germany, and the Netherlands. Oh, and we've been profitable since 2014 with revenue currently exceeding $100 million a year! Now, we’re rolling out a suite of new privacy solutions, including <u><a href="https://www.spreadprivacy.com/introducing-email-protection-beta/" rel="noopener">Email Protection</a></u>,  <u><a href="https://spreadprivacy.com/introducing-app-tracking-protection/" rel="noopener">App Tracking Protection</a></u><a rel="noopener">&nbsp;&nbsp;</a>and our first-ever Desktop Apps for <u><a href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/" rel="noopener">Mac</a></u><a href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/" rel="noopener"> </a>and Windows.</p>
-<p><br></p>
-<p>We’re looking for a <strong><strong>Senior Software Engineer, Windows Desktop App</strong></strong> to help shape our all-in-one privacy solution and join our mission to show the world that protecting your privacy online can be simple.  </p>
-<p><br></p>
-<p><strong>The Opportunity</strong> </p>
-<p>In this role, you will work on the team responsible for launching our first ever DuckDuckGo Privacy App for Windows. You'll collaborate with Product Managers, Designers, and Engineers across Native Apps to craft a world-class browser with embedded privacy features that will revolutionize the way people search, surf, and exist online. </p>
-<p><br></p>
-<p>You will be critical to the successful launch of this product and responsible for taking pieces of the puzzle and autonomously building solutions to get us closer to our first release. You will help define the roadmap, take ownership of significant application features and experiment with ways to improve them. </p>
-<p><br></p>
-<p>You will lay the foundations of what will become one of DuckDuckGo's flagship products and critical levers for growing privacy online. </p>
-<p><br></p>
-<p><strong>What You Will Bring to DuckDuckGo</strong> </p>
-<ul>
-<li>Experience implementing ideas from scratch, owning major application features, and taking responsibility for their maintenance and improvement over time.</li>
-<li>Experience participating in technical architecture decisions for complex products, essentially shaping the software architecture of a consumer product.</li>
-<li>Experience building at least one desktop application (ideally with WPF, UWP, WinUI, WinForms, or other relevant .NET UI).</li>
-<li>An advanced level of programming expertise, with knowledge of C#. We currently use .NET 6.</li>
-<li>A significant level of experience in building customer facing applications, including crafting user interfaces.<br>
-</li>
-<li>Deep understanding of software design patterns such as MVVM, MVP, etc.</li>
-<li>Event-driven programming (e.g., using Rx.NET) experience is considered an advantage.</li>
-</ul>
-<p><br></p>
-<p><strong>How We Will Support You </strong> </p>
-<p>Our core values -- build trust, question assumptions, and validate direction -- underpin how we work day-to-day and the support we give our team members. We strive to empower our team members to be self-directed and self-motivated in their work.  </p>
-<p><br></p>
-<ul>
-<li>
-<strong>Remote First, Always</strong>: We've always been a fully distributed company with team members all over the world. We trust you to get your work done wherever, whenever.</li>
-<li>
-<strong>Commitment to Personal Growth:</strong> Every team member has an annual budget of $1,250 USD to invest in their professional development. Every team member also has a dedicated Career Advisor, who serves as a guide to help you develop your strengths, identify your motivations, and understand your opportunities for growth.</li>
-<li>
-<strong>Leadership:</strong> We have many different types of leaders and possible combinations of leadership roles, so you can grow your career in a way that aligns best with your personal goals. You can seek additional leadership roles by being directly responsible for projects, taking ownership of areas of the company, developing and maintaining internal processes, or pursuing advisory roles.</li>
-<li>
-<strong>Work/Life Balance: </strong>Team members have the freedom and flexibility to organize their own work schedules. We want you to thrive both in and out of the office. We trust you to use good judgment and take the time off that you need to bring your best self to work.  </li>
-</ul>
-<p><br></p>
-<p>We also offer <strong>paid parental leave, a co-working stipend, office setup reimbursement, </strong>and<strong> a wellness stipend.</strong> More support resources can be found in our, <u><a href="https://duckduckgo.com/assets/hiring/team_support_guide.pdf" rel="noopener">Team Member Support Guide</a></u>, which explains how we make your well-being a priority. </p>
-<p><br></p>
-<p>For more information on how we collaborate worldwide, from leadership in our relatively flat organization to start-to-finish ownership, check out <u><a href="https://duckduckgo.com/assets/hiring/how_we_work.pdf" rel="noopener">DuckDuckGo Culture: How We Work.</a></u> </p>
-<p><br></p>
-<p><strong>Compensation</strong> </p>
-<p>Annual compensation: <strong>$170,000</strong>&nbsp;<strong>USD</strong> and stock options.&nbsp;Compensation is the same within a professional level, regardless of geographic location or functional area, and the compensation for each professional level is transparent across the organization.</p>
-<p><br></p>
-<p><strong>Hiring Process</strong> </p>
-<p>Hiring works best when it's a two-way street. Learn how we help you get to know DuckDuckGo and envision your future role here. Find out more about <u><a href="https://duckduckgo.com/assets/hiring/how_we_hire.pdf" rel="noopener">how we hire</a></u>. </p>
-<p><br></p>
-<p><strong>Diversity, Equity, and Inclusion</strong> </p>
-<p>DuckDuckGo provides equal work opportunities to all team members and applicants<u>,</u> and it prohibits discrimination and harassment of any type&nbsp;on the basis of race, color, ethnicity, caste, religion, age, sex (including pregnancy), national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by our policies or federal, state, or local laws.</p>
-<p><br></p>
-<p>We want to ensure that our hiring process is accessible. If you need reasonable accommodation for any part of the application process because of a medical condition or disability, please send an email to <u><a rel="noopener">careers@duckduckgo.com</a></u> to let us know the nature of your request.  </p>
-<p><br></p>
-<p>If you think you might thrive in this environment, we would love to hear from you. </p>
-<p><br></p>
-<p><strong>Please note that:</strong> </p>
-<ul>
-<li><p>Sometimes we meet up! Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.</p></li>
-<li>While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week. </li>
-<li>A successful candidate will be subject to a background check and must receive satisfactory results of the same, as a condition of joining the team. </li>
-<li>By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.</li>
-</ul>
-<p>#US #UK #SP #PL #IR #IC #HN #CR #CN #AU</p>
-<p><br></p>
-          
+                <img src="https://we-work-remotely.imgix.net/logos/0076/4287/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Amsterdam, NY
+    <br /><strong>URL:</strong> <a href="https://www.stimulus.com/">https://www.stimulus.com/</a>
+</p>
+
+<div><strong>About Stimulus</strong></div><div>
+<a href="https://www.stimulus.com/jobs/Stimulus.com">Stimulus</a> is a social platform started by Sticker Mule to show what's possible if your mission is to increase human happiness.</div><div><br></div><div><strong>We offer</strong></div><div>1. Remote work with flexible schedules</div><div>2. A privately owned, low-stress culture.</div><div>3. A fun "no bullshit" work environment</div><div><br></div><div>
+<strong>We like you to know<br></strong>1. Docker<br>2. NextJS<br>3. TypeScript<br>4. React<br>5. NodeJS<br>6. GraphQL<br>7. Redis</div><div><br></div><div><strong>Compensation and benefits</strong></div><div>1. Salary: $135k+ based on experience</div><div>2. $20,000 signing bonus</div><div>3. 4 weeks vacation + holidays based on your country of residence</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer">https://weworkremotely.com/remote-jobs/stimulus-software-engineer</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -193,6 +201,30 @@
 &lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bonus for deep knowledge of at least one major cloud provider, AWS preferred&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1306325743580848130/mk0qvsZ9_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Kraken</h5>
+                    <h3>Senior Quantitative Software Engineer - Trading Technologies</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/kraken/c05f1ed6-6189-4586-9871-c64e5fc11732" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Internet of Money&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to industry-leading security, crypto education, and world-class client support through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://cryptowat.ch/" class="postings-link">Cryptowatch</a>.</div><div><br></div><div>Become a Krakenite and build the internet of money!</div><div><br></div><div><b style="font-size: 24px">Proof of Work </b></div><div><br></div><div><b style="font-size: 18px">The team</b></div><div><br></div><div>Join the Trading Technologies&nbsp; team and start building the internet of money by supporting the Sr Director of Engineering - Trading. The Trading Technology team is responsible for everything to do with the trading backend services such as the matching engine, market data gateways, internal and external APIs, and various other trading services. The Senior Quantitative Software Engineer will be a key contributor to the success of the Kraken Risk Desk team.</div><div><br></div></div><div class="section page-centered"><div><h3>The opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Develop quantitative models and algorithms to build trading strategies for the Kraken Risk Desk</li><li>Conduct research and analysis of large data sets to identify trends and patterns</li><li>Collaborate with cross-functional teams to ensure the accuracy and integrity of data</li><li>Develop, maintain and improve tools, systems and processes to streamline the data analysis and modeling process</li><li>Work with cross functionally with other engineering teams to ensure proper implementation of models in production systems</li><li>Participate in code reviews, identify and fix issues in the code, and develop testing frameworks</li><li>Stay up-to-date with the latest advancements in quantitative engineering and bring new ideas and techniques to the team</li><li>Performing other duties as required</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>Bachelor's or Master's degree in Mathematics, Statistics, Computer Science, or related field</li><li>Minimum of 5 years of experience in quantitative engineering or related field</li><li>Experience developing high-performance, multi-threaded applications using several programming languages including C++</li><li>Knowledge of scripting languages such as Python</li><li>Experience working with large data sets and statistical models</li><li>Strong analytical and problem-solving skills</li><li>Ability to work in a fast-paced and dynamic environment</li><li>Excellent communication and collaboration skills</li><li>Experience with or knowledge of cryptocurrency is a plus</li><div><br></div></ul></ul></div></div><div class="section page-centered"><div><h3>Nice to Haves</h3><ul class="posting-requirements plain-list"><ul><li>PhD in Mathematics, Statistics, Computer Science, or related field</li><li>Experience in machine learning and data mining</li><li>Experience working in finance or related industry</li><li>Experience with cloud computing technologies such as AWS or Azure</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Location Tagging: #US #EU #LI-Remote #Canada #LI-VF1</div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/c05f1ed6-6189-4586-9871-c64e5fc11732/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -646,6 +678,98 @@
 <p>We are happy to pay in any mix of fiat/crypto.</p>
 </div>
 </div>
+
+    
+
+    
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
+                    <h3>Software Engineer (Golang)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4863246&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <h4>&nbsp;</h4>
+<h4><strong>About Waku</strong></h4>
+<p><span style="font-weight: 400;">We are building Waku (Waku.org) as a public good infrastructure. Waku is the messaging layer of Web3.</span></p>
+<p><span style="font-weight: 400;">It is a decentralized, censorship-resistant, privacy-preserving communication network that enables anyone to send and receive messages without worrying about surveillance or deplatforming.</span></p>
+<p><span style="font-weight: 400;">We are developing 3 open source implementations of Waku:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Nwaku. <a class="anchor-1MIwyf anchorUnderlineOnHover-2qPutX" href="https://github.com/waku-org/nwaku" target="_blank">https://github.com/waku-org/nwaku</a>: the reference implementation and service node</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Js-waku, <a class="anchor-1MIwyf anchorUnderlineOnHover-2qPutX" href="https://github.com/waku-org/js-waku" target="_blank">https://github.com/waku-org/js-waku</a>: for the browser </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Go-waku: <a class="anchor-1MIwyf anchorUnderlineOnHover-2qPutX" href="https://github.com/waku-org/go-waku" target="_blank">https://github.com/waku-org/go-waku</a>: to integrate as a library in native applications</span></li>
+</ul>
+<p><span style="font-weight: 400;">We are enabling Ethereum builders to create new projects with a fully decentralized architecture, think dApp to Wallet notifications, NFT marketplaces, censorship-resistant chat, layer-2 decentralization and more.</span></p>
+<p><span style="font-weight: 400;">We are looking for a Software Engineer who is passionate about Ethereum, and decentralization. And who would relish the opportunity to champion Waku to other Web3 projects and developers.</span></p>
+<p>&nbsp;</p>
+<p><strong>Key Responsibilities</strong></p>
+<ul>
+<li>Design, implement and document Waku Golang libraries (go-waku)</li>
+<li>Maintain, improve, troubleshoot Waku React Native, the React Native wrapper of go-waku</li>
+<li>Implement new protocols as defined by the Research Team</li>
+<li>Investigate and fix issues in go-waku and upstream libraries such as go-libp2p</li>
+<li>Optimize go-waku and upstream libraries for the mobile/React Native</li>
+<li>Support dApp developers in using go-waku and Waku Golang libraries</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>You ideally will have</strong></p>
+<ul>
+<li>Experience building applications with complex logic, cutting edge technology or applied research</li>
+<li>Ability to learn new concepts and technologies quickly, you are a polyglot</li>
+<li>Open to maintaining a native library for React Native</li>
+<li>Experience building libraries in Golang, for network and mobile environments</li>
+<li>Good communication skills (written and conversational)</li>
+<li>Strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Bonus points if&nbsp;</strong></p>
+<ul>
+<li>You are already familiar with the Ethereum community</li>
+<li>You have experience with go-libp2p or other libp2p implementations</li>
+<li>You have experience with C-Bindings &amp; Cgo</li>
+<li>You are in Web3 or blockchain development</li>
+<li>You have experience working for an open source organization</li>
+<li>You have experience working async</li>
+</ul>
+<p><em>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</em></p>
+<p>&nbsp;</p>
+<p><strong>Hiring Process&nbsp;</strong></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Intro call with our People Ops team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with member of the Waku team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Pair programming session with member of the Waku team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Program Lead</span></li>
+</ol>
+<p>&nbsp;</p>
+<p><strong>Compensation</strong></p>
+<p>The expected compensation range for this role is $65,000 - $80,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process). <br><br>We are happy to pay in any mix of fiat/crypto.&nbsp;</p>
+<p>&nbsp;</p>
 
     
 
