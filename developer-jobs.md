@@ -1,5 +1,102 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/1823/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>MailerLite</h5>
+                    <h3> Vue.js developer</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/mailerlite-vue-js-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0076/1823/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> USA
+    <br /><strong>URL:</strong> <a href="https://www.mailerlite.com/company-values">https://www.mailerlite.com/company-values</a>
+</p>
+
+<div>
+<a href="https://www.mailerlite.com/"><strong>MailerLite</strong></a>is one of the fastest-growing email marketing services. We help more than 1 million businesses around the world to keep in touch with their customers. Today, we are a team of more than 130 dreamers, adventurers, and world travelers passionate about what we do and believe in. And we are ready for another talented person to join the party.<br><br>
+</div><div>We’re looking for a <strong>Vue.js developer</strong> to help with the exciting projects we have lined up: from making improvements to our existing products to helping with the development of a brand new Drag &amp; Drop builder which more than half a million people will use! 🚀<br><br><br>
+</div><div>
+<strong>Why MailerLite?<br></strong><br>
+</div><div>Wondering why we think you’ll love working for MailerLite? Here are our favorite 6 reasons!<br><br>
+</div><ul>
+<li>
+<strong>You'll be challenged with interesting tasks</strong><br>We aim to create a totally new Drag &amp; Drop builder for emails, landing pages, websites and forms, and you will be part of that process.<br><br>
+</li>
+<li>
+<strong>You'll grow, develop and evolve</strong><br>As part of a team that's always looking for new, innovative ways to offer value for customers, you'll constantly be experimenting, learning, and trying out new things.<br><br>
+</li>
+<li>
+<strong>You'll take ownership</strong><br>We expect you to take full responsibility and ownership of your tasks. Team leads avoid micromanaging and minimize interruptions so you can stay focused on your assignments.<br><br>
+</li>
+<li>
+<strong>You’ll have experts on hand</strong><br>Our team has a wide range of expertise and is happy to help you grow if you get stuck. And we’d love for you to share your knowledge too!<br><br>
+</li>
+<li>
+<strong>You'll pick where you work, every day</strong><br>We embrace the remote culture. Every day you get to choose what environment makes you most productive.<br><br>
+</li>
+<li>
+<strong>You'll have stability</strong><br>We value a stable workplace! MailerLite has been thriving for over 10 years and our year-over-year growth continues to increase.<br><br>
+</li>
+</ul><div><strong><br>What you will work on</strong></div><ul>
+<li>Creating our new Drag &amp; Drop builder from the ground up</li>
+<li>Providing insights and optimizing the editor to be blazing fast</li>
+<li>Building reusable components and libraries</li>
+<li>Implementing tests into existing workflows<br><br><br>
+</li>
+</ul><div><strong>What we expect from you</strong></div><ul>
+<li>3 years of web development experience working with Vue.js</li>
+<li>Familiar with Tailwind CSS or other CSS frameworks</li>
+<li>You have production experience with SQL (PostgreSQL or MySQL)</li>
+<li>Writing unit, component and end-to-end tests is a must for you to be able to deliver code</li>
+<li>Familiarity with REST-based APIs</li>
+<li>Experience building applications using the Laravel framework</li>
+<li>Typescript knowledge is a plus</li>
+<li>You're a good team player</li>
+<li>You have a problem-solving mindset</li>
+<li>You have a sense of personal responsibility</li>
+<li>Proficient verbal and written communication skills in English</li>
+<li>Work schedule: +-4h overlap with EEST time zone</li>
+</ul><div>
+<br><br><strong><br>What we offer</strong>
+</div><ul>
+<li>Yearly gross salary: $50,000-$75,000</li>
+<li>Remote-first culture with the team working remotely from all over the world</li>
+<li>International health insurance provided with coverage in most countries. Monthly healthcare payout available in select countries where coverage is limited</li>
+<li>Company-paid retreats. Once per year we gather for a week in an exotic location to work, learn and have fun together</li>
+<li>31 days of vacation per year. We encourage you to unplug and recharge!</li>
+<li>12 paid sick days for your physical and mental well-being, no doctor's note required. Parents can use them to care for their sick children</li>
+<li>4 creative days. One paid day off per quarter to do something creative and fun</li>
+<li>12 parental days per year. Enjoy one paid day off each month to treasure time with your children</li>
+<li>Parental leave. Enjoy paid bonding time at 100% of your salary when welcoming a new child into your family through birth or adoption - 3 months of maternity leave and 1 month of paternity leave</li>
+<li>Parenting budget of $1000. Celebrate the arrival of your little one, whether through childbirth or adoption, with a special gift from us</li>
+<li>Joy Budget. Annual budget to spend on whatever that brings you joy</li>
+<li>MacBook and other tools that'll help you to do your job efficiently</li>
+<li>Check the full list of our awesome benefits <a href="https://www.mailerlite.com/employee-benefits"><strong>here</strong></a>
+</li>
+</ul><div>
+<br><br><strong>Can't wait to receive your application! </strong>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/mailerlite-vue-js-developer">https://weworkremotely.com/remote-jobs/mailerlite-vue-js-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8558/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +107,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/designfiles-full-stack-ruby-on-rails-developer-1" align="right" target="_blank">Apply</a>
@@ -82,7 +179,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/textmagic-senior-back-end-developer-php-symfony-postgresql-1" align="right" target="_blank">Apply</a>
@@ -168,7 +265,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/smily-front-end-developer" align="right" target="_blank">Apply</a>
@@ -215,110 +312,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0099/5611/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>WebPunch</h5>
-                    <h3> WebPunch is looking for an Advanced Junior Ruby Developer to add to our team</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/webpunch-webpunch-is-looking-for-an-advanced-junior-ruby-developer-to-add-to-our-team" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0099/5611/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Denver, CO
-    <br /><strong>URL:</strong> <a href="https://webpunch.com/">https://webpunch.com/</a>
-</p>
-
-<div><strong>Who is WebPunch?</strong></div><div>Our mission is to help businesses become the best they can be through our brand experience platform. WebPunch takes companies under our wing and helps showcase their online reputations in the most favorable light. In order to do this, we rely on a team of awesome employees who help us improve client relationships, build a backbone of excellent development, and work together to create an environment that everyone is happy to work in.  We believe that a strong work-life balance is important, and we do everything we can to help our employees enjoy their lives so that they can be a stronger part of making WebPunch even better.</div><div><br></div><div>We offer an enterprise solution.  Our business is growing and moving as fast as the Millennium Falcon in hyperdrive!  We have a strong client base (with most of our base in franchising) and a 95% retention rate. We are bootstrapped, profitable, and well-established.  We are looking for someone that can help lead us into our growth phase. Could that be you?<br><br><strong>Technical Leadership:</strong>
-</div><div>The ideal candidate:</div><ul>
-<li>Has drive and vision</li>
-<li>Maintains security, site integrity, data compliance, core architecture, and testing. </li>
-<li>Has the ability to do a lot of coding and review the code written by other team members. </li>
-<li>Launches new product lines.</li>
-<li>Breaks down development tasks and prioritizes them based on the team's goals.</li>
-<li>Participates in strategic planning.</li>
-<li>Values simplicity over-complicated solutions</li>
-<li>Always open to receiving feedback on proposed solutions</li>
-<li>Is able to maintain focus on the assigned priorities</li>
-<li>Suggests ways that technology can help the company be more successful.</li>
-<li>Evaluates the technical efficiency of the company.</li>
-<li>Has excellent writing and communication skills.</li>
-</ul><div> </div><div><strong>Required Technical Skills: </strong></div><ul>
-<li>Rails, Ruby</li>
-<li>JavaScript and React</li>
-<li>Proficiency in building and consuming web APIs</li>
-<li>Git/Github and Sidekiq</li>
-<li>Willing to work with an existing code base</li>
-<li>Test-driven development using RSpec, Capybara.</li>
-<li>Pair programming and code review of pull requests</li>
-<li>The ability to learn a fairly robust codebase</li>
-<li>Google My Business experience is a plus</li>
-</ul><div><br></div><div><strong>Some Tools  We Use:</strong></div><ul>
-<li>Heroku</li>
-<li>React Native </li>
-<li>Mandrill</li>
-<li>AWS</li>
-<li>Slack</li>
-<li>Trello</li>
-<li>GSuite</li>
-<li>Travis CI</li>
-<li>ChatGPT</li>
-<li>Microsoft Copilot</li>
-<li>Twillo</li>
-</ul><div><br></div><div><strong>Some Perks</strong></div><div>+Unlimited vacation and sick leave, plus 20 days of paid holidays (including taking the day off for your birthday)</div><div>+401K with contributions</div><div>+Healthcare</div><div>+Roth</div><div>+We don’t require anyone to work over 40 hours a week and never work on the weekend (we want everyone to have a fantastic life outside of work)</div><div>+Quarterly team virtual events from truffle making to hiring a magician for all the WebPunch families to attend (of course, dinner provided).</div><div>+Headspace to help meditate (you get paid to meditate)</div><div>+Access to a life coach (mental health is essential during these times)</div><div>+Becoming Your Best Self (a WebPunch initiative to help you realize your dreams and become the best you)</div><div>+Employee Incentive plan (where you can earn a gift card to Amazon, Starbucks, and other fun things)</div><div>+MacBook</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/webpunch-webpunch-is-looking-for-an-advanced-junior-ruby-developer-to-add-to-our-team">https://weworkremotely.com/remote-jobs/webpunch-webpunch-is-looking-for-an-advanced-junior-ruby-developer-to-add-to-our-team</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0099/5455/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Overmind</h5>
-                    <h3> Blockchain Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>7 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/overmind-blockchain-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0099/5455/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Singapore
-    <br /><strong>URL:</strong> <a href="https://overmind.xyz/">https://overmind.xyz/</a>
-</p>
-
-<div><strong>The Role</strong></div><div>You will develop the core smart contracts powering Overmind on multiple chains. You will develop puzzles and challenges for developers to crack. You will work closely with a small team and take ownership of important projects from the get-go.</div><div><br></div><div><strong>Skills &amp; Experience</strong></div><div><strong>Essential Requirements</strong></div><div>- 3+ years of smart contract development experience</div><div>- Love for coding puzzles and challenges</div><div>- English fluency (written &amp; oral)</div><div><br></div><div><strong>Nice-to-haves</strong></div><div>- Experience with Move</div><div>- Experience writing Layer 1 code, e.g. EVM or Tendermint</div><div>- Experience with coding competitions, e.g. ACM ICPC or Topcoder</div><div>- Experience with remote work at startups</div><div>- Bachelors or advanced degree in Computer Science or related subject</div><div><br></div><div><strong>Needless to say, none of the above supersedes your intellectual curiosity and drive to build world-changing products.</strong></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/overmind-blockchain-developer">https://weworkremotely.com/remote-jobs/overmind-blockchain-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0097/1479/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -329,7 +322,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>46 days ago</text>
+                <text>47 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/trendspider-front-end-software-developer" align="right" target="_blank">Apply</a>
@@ -379,7 +372,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>125 days ago</text>
+                <text>127 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -462,7 +455,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>157 days ago</text>
+                <text>159 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -536,73 +529,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1747930/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>LetHub</h5>
-                    <h3>Full-Stack Software Developer</h3>
-                </td>
-                <td width="300">
-                    <code>api,AWS,backend,fullstack</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/full-stack-software-developer-1747930" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>LetHub is a next-generation AI-powered web platform for landlords and property managers that makes it easy to find high-quality renters without hiring more staff.</p>
-<p>Finding a place to rent is a painful and time-consuming task for professionals with a busy schedule. On the other hand, it's very costly for property managers and landlords to have systems in place to improve the experience and make the process super easy. LetHub solves this two-sided problem by taking care of the whole process from responding to inquiries to getting prospects to show up for property tours without hiring leasing agents.</p>
-<p>Check us out at <a href="https://www.lethub.co/" rel="nofollow">https://www.lethub.co/</a></p>
-<p>-------------------------</p>
-<p><strong>Perks We Offer:</strong></p>
-<ul style="">
-<li style="">Employee share options plan (equity)</li>
-<li style="">Work from anywhere in the world</li>
-<li style="">Competitive compensation package</li>
-<li style="">Real-world training, development, and support for a career in technology sales and business development</li>
-<li style="">3 weeks of paid vacation</li>
-<li style="">Access to paid courses</li>
-<li style="">Snacks, gym passes and much more</li>
-<li style="">Be part of a fast-growing PropTech company backed by renowned investors</li>
-</ul>
-<p> </p>
-<p><strong>General Responsibilities:</strong></p>
-<p>This position will apply its skills to help improve the foundation of a ground-breaking, innovative company that will be at the forefront of the property management software industry. We have a vision that keeps full-stack development at its present and AI development in its future.</p>
-<p><strong>The successful candidate will assist in the development and improvement of the core product including:</strong></p>
-<ul style="">
-<li style="">Design and develop full-stack software solutions</li>
-<li style="">Work collaboratively in an Agile + Scrum development environment</li>
-<li style="">Write documentation for the use and maintenance of designed applications</li>
-</ul>
-<p><strong>Requirements and Skills:</strong></p>
-<ul style="">
-<li style="">3+ years of full-stack web development experience and a combination of a degree or diploma in a related field</li>
-<li style="">Able to learn quickly and independently through studying existing code</li>
-<li style="">Web application development experience on Angular 6+ framework</li>
-<li style="">Proficient in JavaScript</li>
-<li style="">Backend application development experience in designing and developing RESTful APIs (with NodeJs + Express)</li>
-<li style="">Experience with relational databases (MySQL and Postgres)</li>
-<li style="">Experience with Linux environment</li>
-</ul>
-<p><strong>Nice to have:</strong></p>
-<ul style="">
-<li style="">Experience with AWS</li>
-<li style="">Experience in Machine Learning models</li>
-<li style="">Experience with OpenAI API</li>
-<li style="">Basic understanding of Natural Language Processing</li>
-<li style="">Experience in Python</li>
-<li style="">Experience in Proptech or related industries</li>
-</ul>
-<img src="https://remotive.com/job/track/1747930/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/814298/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -613,7 +539,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -690,7 +616,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -1229,103 +1155,6 @@
 </ol>
 <p><strong>Compensation</strong></p>
 <p><span style="font-weight: 400;">We are happy to pay in either 100% fiat or any mix of fiat and/or crypto. For more information regarding benefits at Status: </span><a href="https://people-ops.status.im/tag/perks/"><span style="font-weight: 400;">https://people-ops.status.im/tag/perks/</span></a></p>
-<p>&nbsp;</p>
-</div>
-
-    
-
-    
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Status</h5>
-                    <h3>Algorithm Developer (Crypto Market Making)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4951630&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <div class="careers-block__trix external-panel text-left">
-<div>
-<div class="careers-block__trix external-panel text-left">
-<p><strong>The Team:</strong></p>
-<p><span style="font-weight: 400;">The Finance Team at Status is comprised of top professionals with diverse backgrounds and complementary skillsets. The team is lean and agile, having implemented substantial operational improvements in the organisation in the past 20 months in line with the evolving business needs.</span></p>
-<p><span style="font-weight: 400;">With the growth in the contributor base and the project portfolio we have a need to actively manage our treasury as a separate business unit and are looking to strengthen our team by engaging an investment analyst.</span></p>
-<p><span style="font-weight: 400;">&nbsp;</span></p>
-<h4><strong>The Role:</strong></h4>
-<p>As an Algorithm Developer for Cryptocurrency Trading, you will play a vital role in our decentralised organisation. It is a newly created position, and will report to the Finance Director. You will work closely with the Founders and Finance team developing different algorithms for cryptocurrency trading strategies</p>
-<p>&nbsp;</p>
-<p><strong>Key responsibilities:&nbsp;</strong></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Develop low-latency trading algorithms for trading on cryptocurrency exchanges.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Write production-ready code to integrate trading algorithms with various marketplaces; </span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Establish rules and create a structure for automatic management of the order book. Design rules for risk management across exchanges and asset pairs; </span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Monitor the performance of the strategies deployed into production and propose their improvements.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Collaborate with the Finance team to improve trading strategies.&nbsp;<br></span></li>
-</ul>
-<p><span style="font-weight: 400;">&nbsp;</span></p>
-<p><strong>You ideally will have:</strong></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">M.S. or PhD degree from a top university in Engineering, Mathematics, Statistics, Computer Science, or related area; </span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with low-latency programming C++;&nbsp;<br></span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with data analysis and machine learning in Python or Mathlab;&nbsp;<br></span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Prior experience in cryptocurrency trading, e.g. excellent knowledge of cryptocurrencies and their mechanisms, a solid understanding of decentralised finance instruments and strategies, and others;&nbsp;<br></span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Ability to work independently and remotely in a fully decentralised organisation.<br></span></li>
-</ul>
-<p><span style="font-weight: 400;">&nbsp;</span></p>
-<p><strong>Bonus points if:</strong></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with Linux</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Knowledge of networking protocols and REST / WebSocket / FIX</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Prior work experience in a trading or investment management environment is a plus</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Prior experience in cryptocurrency trading</span></li>
-</ul>
-<p><span style="font-weight: 400;">[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</span></p>
-<p><strong>&nbsp;</strong></p>
-<p><strong>Compensation</strong></p>
-<p>We are happy to pay in any mix of fiat/crypto.</p>
-<p>&nbsp;</p>
-<p><strong>Hiring process</strong></p>
-<ol>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Angel</span><span style="font-weight: 400;"> from our people ops team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with a Ruslan,</span><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;">from the f</span><span style="font-weight: 400;">inance</span><span style="font-weight: 400;">&nbsp;team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with </span><span style="font-weight: 400;">Johannes,</span><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;">from the f</span><span style="font-weight: 400;">inance</span><span style="font-weight: 400;">&nbsp;team</span></li>
-<li><span style="font-weight: 400;">Interview with C</span><span style="font-weight: 400;">arl,</span><span style="font-weight: 400;"> the</span><span style="font-weight: 400;"> co-founder</span></li>
-</ol>
-<p>&nbsp;</p>
-<p><strong>Get to know us</strong></p>
-<p><span style="font-weight: 400;">We care deeply about open source software, and our organizational structure does away with a strict hierarchy and fixed work hours. We believe in working with a high degree of autonomy while supporting the organisation's priorities.</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">We are Remote and Decentralized.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">We are 100+ employees spread across 30+ different countries</span></li>
-<li style="font-weight: 400;">We are driven by shared <a href="https://our.status.im/our-principles/">principles</a> and believe in complete transparency. That's why everything we do is completely public to the entire community. You can view our <a href="https://github.com/status-im/">development</a>, <a href="https://www.youtube.com/channel/UCFzdJTUdzqyX4e9dOW7UpPQ">Town Halls</a>, and <a href="https://discuss.status.im/">conversations</a>.&nbsp;</li>
-</ul>
-</div>
-</div>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 </div>
 
