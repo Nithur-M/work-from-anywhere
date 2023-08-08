@@ -1,54 +1,5 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1745856/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Nitka</h5>
-                    <h3>DevOps Eng </h3>
-                </td>
-                <td width="300">
-                    <code>api,cloud,java,javascript</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/devops/devops-eng-1745856" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Nitka Technologies</strong>'s developing software for customers in the US and Europe and brings together about 300 professionals from Eastern Europe, North and South America, Armenia, Georgia and Kazakhstan.</p>
-<p>We are looking for an experienced DevOps Engineer for а project that is related to the development of the sails and revenue solutions.</p>
-<p><strong>We offer 100% full-time remote work with a flexible schedule.</strong></p>
-<p><strong>Skills required</strong>:</p>
-<ul style="">
-<li style="">7+ years of relevant experience</li>
-<li style="">2+ years of experience working with Terraform, Helm, and Container Registry</li>
-<li style="">2+ years of experience in operating and maintaining Kubernetes environments</li>
-<li style="">Linux system administration skills</li>
-<li style="">Extensive experience in architecting, implementing, and supporting solutions on cloud providers</li>
-<li style="">Strong coding skills in at least one of the following - Python, JavaScript, Ruby, Java</li>
-<li style="">Experience with cloud computing toolsets like Terraform, Packer, etc.</li>
-<li style="">Experience with configuration management tools - Chef, Puppet, etc.</li>
-<li style="">Experience and knowledge of distributed systems, APIs, cloud computing</li>
-<li style="">Ability to build reliable and scalable solutions, debug, troubleshoot, and resolve complex technical issues</li>
-<li style="">Strong spoken and written English skills (Intermediate level and more)</li>
-</ul>
-<p><strong>Working conditions:</strong></p>
-<ul style="">
-<li style="">Remote work</li>
-<li style="">Full-time (8 hours/day)</li>
-<li style="">Interaction with a team from the USA (а few times a week calls're in the evening, around 19:00 - 21:00 GTM+3 (morning on the US West Coast))</li>
-<li style="">Flexible schedule without time trackers</li>
-<li style="">Attractive USD compensation</li>
-<li style="">Paid vacation, holidays</li>
-</ul><img src="https://remotive.com/job/track/1745856/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1698903/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -59,7 +10,7 @@
                     <code>android,api,AWS,docker</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/sr-devops-engineer-1698903" align="right" target="_blank">Apply</a>
