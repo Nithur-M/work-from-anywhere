@@ -10,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/vaan-ux-researcher-analyst" align="right" target="_blank">Apply</a>
@@ -79,7 +79,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/yoko-co-senior-ux-strategist-information-architect-1" align="right" target="_blank">Apply</a>
@@ -178,7 +178,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/remotemore-remote-ux-ui-designer" align="right" target="_blank">Apply</a>
@@ -238,7 +238,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>635 days ago</text>
+                <text>636 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -304,7 +304,7 @@
                     <code>go,UI/UX,wordpress,chat</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
