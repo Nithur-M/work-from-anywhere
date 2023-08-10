@@ -1,5 +1,89 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/5884/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>GovAssist LLC</h5>
+                    <h3> Senior Full Stack Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/govassist-llc-senior-full-stack-developer-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/5884/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> US
+    <br /><strong>URL:</strong> <a href="https://govassist.com/careers">https://govassist.com/careers</a>
+</p>
+
+<h1>
+<em>We are </em><strong><em>GovAssist</em></strong>
+</h1><div>
+<em>  </em><br><br>
+</div><div><em>   </em></div><div>
+<strong><em>GovAssist </em></strong><em>is a highly specialized consultancy organization with a primary focus on facilitating immigration to the United States.</em><br><br><em>At </em><strong><em>GovAssist</em></strong><em>, we pride ourselves on our unwavering commitment to providing exceptional services. Our partnership with </em><strong><em>GovAssist Legal</em></strong><em> allows us to offer a comprehensive wide array of visa solutions tailored to meet our customer's unique needs and specific requirements. Our proficient and knowledgeable team is well-versed in all facets of visa processing, from investor visas, marriage visas, and citizenship to green card procedures. Countless individuals have been able to successfully travel or move to the United States after relying on our devotion to aiding them in navigating the often complexity of this process.<br><br>Reviewing a part of our ongoing projects will give you a clear idea of our current focus and priorities: </em><a href="https://govassist.com/"><em>govassist.com</em></a><em>, </em><a href="https://govassistlegal.com/"><em>govassistlegal.com</em></a><em>, </em><a href="https://evisa.us.com/"><em>evisa.us.com</em></a><em>,</em><a href="https://travelassist.us.com/"><em> travelassist.us.com</em></a><em>, and </em><a href="https://visaexpress.us.com/"><em>visaexpress.us.com</em></a><em>.</em><br><em><br>As an industry frontrunner, we strive for excellence in all aspects of our services, constantly innovating and making strategic adjustments to ensure our customers receive the optimal outcome.<br></em><br><br><strong><em>The Opportunity</em></strong>
+</div><div><br></div><div><br></div><div>
+<em>We are looking for a meticulous and technically skilled </em><strong><em>Senior Full Stack Developer</em></strong><em> who is comfortable with both front and back-end programming and seeks to be responsible for developing and designing front-end web architecture, ensuring the responsiveness of applications, and working alongside graphic designers for web design features, among other duties. He/she will make use of a range of different technologies and languages (such as JavaScript, HTML, and PHP) to develop applications and will be expected to see out a project from conception to the very final product.</em>
+</div><div><br></div><div><br></div><div><strong><em>THIS ROLE IS NOT OPEN for RETAINERS or AGENCIES!</em></strong></div><div><br></div><div><br></div><div><em>RESPONSIBILITIES:</em></div><div><br></div><ul>
+<li><em>Collaborate with development teams and product managers to ideate software solutions.</em></li>
+<li><em>Build the front-end of applications through appealing visual design.</em></li>
+<li><em>Develop and manage well-functioning databases and applications.</em></li>
+<li><em>Test software to ensure responsiveness and efficiency.</em></li>
+<li><em>Troubleshoot, debug and upgrade software.</em></li>
+<li><em>Create security and data protection settings.</em></li>
+<li><em>Build features and applications with a mobile responsive design.</em></li>
+<li><em>Developing front-end website architecture.</em></li>
+<li><em>Developing back-end website applications.</em></li>
+<li><em>Creating servers and databases for functionality.</em></li>
+<li><em>Working alongside graphic designers for web design features.</em></li>
+<li><em>Designing and developing APIs.</em></li>
+</ul><div><br></div><div>
+<br><em>REQUIREMENTS:</em>
+</div><div><br></div><ul>
+<li><em>Proven experience as a Full Stack Developer or similar role.</em></li>
+<li><em>Degree in Computer Science, Statistics, or relevant field.</em></li>
+<li><em>Proficiency with fundamental front-end languages such as HTML, CSS, and JavaScript.</em></li>
+<li><em>Proficiency with server-side languages such as PHP as well as PHP frameworks like Laravel.</em></li>
+<li><em>Proficiency with JavaScript frameworks such as VueJS and ReactJS.</em></li>
+<li><em>Proficiency with server-side frameworks like NodeJS and Express.</em></li>
+<li><em>Familiarity with databases (e.g. MySQL, MongoDB), web servers (e.g. Apache), and UI/UX design.</em></li>
+<li><em>Excellent verbal communication skills.</em></li>
+<li><em>Proficiency with version control systems such as git and familiarity with git-flow workflow.</em></li>
+<li><em>Experience developing web applications (mobile applications are a plus).</em></li>
+<li><em>Have an analytical mind, organizational skills, great attention to detail, excellent communication and teamwork skills, and good problem-solving skills.</em></li>
+</ul><div><br></div><div><br></div><div><em>Nice to have:</em></div><div><br></div><ul>
+<li><em>Familiar with Jira and Confluence usage.</em></li>
+<li><em>WordPress knowledge in general (including creating custom plugins).</em></li>
+<li><em>Willing to be available for emergencies.</em></li>
+<li><em>Knowledge of setting up DNS records in general (A, NS, CNAME, MX, TXT, etc).</em></li>
+<li><em>Experience with Postman.</em></li>
+<li><em>Knowledge of Linux in general, as well as SSH key generation and usage.</em></li>
+<li><em>Knowledge in mitigating DDoS attacks.</em></li>
+<li><em>Knowledge in setting up firewalls securely and securing servers in general.</em></li>
+<li><em>Knowledge in optimizing websites for speed.</em></li>
+<li><em>Knowledge of Zendesk and its settings/configuration (including, but not limited to, custom fields, triggers, email integration, webhooks, etc).</em></li>
+<li><em>Knowledge in 3rd party APIs such as Sendgrid, Zendesk, Twilio, etc.</em></li>
+<li>
+<em>Knowledge in integrating and setting up payment providers like Stripe, </em><a href="http://authorize.net/"><em>Authorize.net</em></a><em>, Bluesnap, NMI, dLocal, etc.</em>
+</li>
+</ul><div><br></div><div><br></div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/govassist-llc-senior-full-stack-developer-2">https://weworkremotely.com/remote-jobs/govassist-llc-senior-full-stack-developer-2</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/1823/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +94,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/mailerlite-vue-js-developer" align="right" target="_blank">Apply</a>
@@ -97,78 +181,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8558/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>DesignFiles</h5>
-                    <h3> Full-Stack Ruby on Rails Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/designfiles-full-stack-ruby-on-rails-developer-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/8558/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Remote
-    <br /><strong>URL:</strong> <a href="https://designfiles.co">https://designfiles.co</a>
-</p>
-
-<div>
-<strong>At DesignFiles we're looking for a Full-Stack Ruby on Rails Developer to join our engineering team.<br></strong><br>
-</div><div><strong>About the Job:</strong></div><div>
-<br>DesignFiles is an interior design project management software company on a mission to help interior designers and home furnishing retailers take their design services and businesses to new heights. With 5,000+ customers and 20+ team members located all over the world, we're growing quickly and looking for our next driven and talented team member.<br><br>
-</div><div>We’re looking for a Full Stack Ruby on Rails Developer to join the company to drive product development from the ground level.<br><br>
-</div><div>
-<em>Please note: This is a contract role and we are looking for individuals (not agencies) that can commit 40+ hours a week to become a core member of our team.<br></em><br>
-</div><div>
-<br><strong>What You'll Do:</strong>
-</div><ul>
-<li>Write, review and improve Ruby and JavaScript code working in Unix environment.<br><br>
-</li>
-<li>Collaborate with our product team to bring features from conception to completion.<br><br>
-</li>
-<li>Develop features with an emphasis on consistency and integrity at all levels of the stack.<br><br>
-</li>
-<li>Improve DesignFiles' engineering culture with an eye for best practices, code quality and code reviews.<br><br>
-</li>
-<li>Actively contribute to the project with ideas and solutions to constantly improve the lives of our designers and their clients.<br><br>
-</li>
-<li>Participate in Sprint Planning, Retros, 1:1s<br><br>
-</li>
-</ul><div>
-<br><strong>What We Want From You:</strong>
-</div><ul>
-<li>5+ years experience as a full-stack developer.<br><br>
-</li>
-<li>3+ years of hands-on Ruby on Rails experience.<br><br>
-</li>
-<li>Strong experience with Ruby on Rails: rubocop, minitest-spec-rails, delayed job, paperclip, paranoia, etc.<br><br>
-</li>
-<li>Strong experience with modern JavaScript/CSS: Webpack, Gulp, eslint, prettier, BEM.<br><br>
-</li>
-<li>Solid knowledge of unix shell, PostgreSQL, Docker, Node.js, AWS S3.<br><br>
-</li>
-<li>Fluent English, good communication skills and full presence during agreed work hours.<br><br>
-</li>
-<li>Taking responsibility for testing own code, thinking through the edge cases and ability to work productively without close supervision.</li>
-</ul><div><br></div><div>Sounds interesting? Apply here &gt;&gt; https://designfiles.homerun.co/full-stack-ruby-on-rails-developer</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/designfiles-full-stack-ruby-on-rails-developer-1">https://weworkremotely.com/remote-jobs/designfiles-full-stack-ruby-on-rails-developer-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0099/5721/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -179,7 +191,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/textmagic-senior-back-end-developer-php-symfony-postgresql-1" align="right" target="_blank">Apply</a>
@@ -265,7 +277,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/smily-front-end-developer" align="right" target="_blank">Apply</a>
@@ -322,7 +334,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>47 days ago</text>
+                <text>49 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/trendspider-front-end-software-developer" align="right" target="_blank">Apply</a>
@@ -372,7 +384,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>127 days ago</text>
+                <text>129 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -455,7 +467,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>159 days ago</text>
+                <text>161 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -539,7 +551,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -616,7 +628,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -1255,126 +1267,6 @@
                 }
                 </style>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>10up</h5>
-                    <h3>Lead Front End Developer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/10up-2/4a208803-57f6-479f-bcd0-3ec20d42a6de" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18px">Location: Remote - Anywhere </b>(Open to applicants located anywhere around the globe.)</div><div>&nbsp;</div><div>At 10up, we call developers like you <i>engineers</i> because you aren’t just a “coder”: you’re an innovative problem solver that uses web programming skills to divine smart, creative solutions to client challenges. As a Lead Front End Engineer at 10up, you are taking the driving seat in building custom-crafted UIs utilized by millions of people daily. 10uppers have been pushing the boundaries of WordPress for over 12 years—become a lead engineer that innovates the internet by building state-of-the-art web fronts alongside a top-in-the-field team.</div><div><br></div><div>You’ll work on a combination of unique builds and ongoing support engagements that help season your technical leading skills. As a leading digital agency, 10up’s client roster spans from innovative startups and impactful non-profits to some of the biggest names in the industry, such as ESPN, Google, The New York Times Co., Microsoft, and The Nobel Prize Committee.</div><div><br></div><div>As a 10upper, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 40 countries, 10up fully embraces the benefits of distributed work.</div><div><br></div></div><div class="section page-centered"><div><h3>What you will do: </h3><ul class="posting-requirements plain-list"><ul><li>Develop enterprise-level websites and digital experiences primarily utilizing your expertise in JavaScript, HTML, CSS, React, and WordPress (including Gutenberg blocks).</li><li>Drive strategy in collaboration with experts across multiple disciplines, and lead overall technical vision and delivery on large-scale projects.</li><li>Engage meaningfully with clients; leading demos and driving discussions.</li><li>Contribute to the improvement of the Front End Engineering discipline by leading and mentoring other fellow Front End Engineers</li><li>Ultimately you will make the web better by finely crafting websites, apps, and tools that reach millions of online visitors every day.</li></ul></ul></div></div><div class="section page-centered"><div><h3>About you: </h3><ul class="posting-requirements plain-list"><ul><li>You’re at your best leading a team of engineers to solve a complex problem while providing code reviews, coaching, and mentorship.</li><li>You have a code portfolio of real-world samples to showcase your skills. Link us to your best custom work on GitHub and you’ll never have to do any live coding or whiteboard testing!&nbsp;</li><li>You have the ability to clearly present your thoughts to clients and team members.&nbsp;</li><li>You are an advocate for coded style guides and creating highly componentized systems.</li><li>You prefer to work fully remote and are effectively engaging in a distributed team from the location of your choosing.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Benefits of interest:</h3><ul class="posting-requirements plain-list"><ul><li>Multiple paid time off programs, including accrued PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day.</li><li>Health, dental, and life insurance programs (available for United States team members).</li><li>Retirement contribution programs (currently available in the U.S. and U.K.).</li><li>Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations.</li><li>$3,000 USD accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study.</li><li>Global Company summits – opportunities to meet, socialize and learn with fellow 10uppers in person at remarkable destinations.&nbsp;</li><li>An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year.</li><li>A Director of Engineering that supports your career growth and development.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="salary-range"><div>$90,000 - $150,000 a year</div><small><div>The expected annual salary range for this position is between $90,000 and $150,000 USD. Compensation is determined based on a variety of factors including relevant experience, other job related qualifications/skills, geographic location, and business needs.</div></small></div><div class="section page-centered" data-qa="closing-description"><div><b style="font-size: 18px">Join our team!&nbsp;</b></div><div><br></div><div>If you are passionate about 10up's mission and think you have what it takes to be successful in this role even if you don't check all the boxes, please apply. If you consider yourself a Full-Stack Engineer, please choose the discipline and job title that most closely aligns with your focus/primary area of expertise. We personally review each application and can always pivot roles after you enter the hiring process. </div><div><br></div><div>Read more about <a href="https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view" class="postings-link">What to Expect </a>through our Recruiting process.</div><div><br></div><div>Everyone gets a response and we don't want you to miss any communication from us! To ensure you receive updates on your application, please add jobs@10up.com to your contacts list! #LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/10up-2/4a208803-57f6-479f-bcd0-3ec20d42a6de/apply">Apply for this job</a></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>10up</h5>
-                    <h3>Senior Front End Developer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/10up-2/464e82d0-9dfd-42b7-972c-6822348d46e0" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18px">Location: Remote - Anywhere</b> (Open to applicants located anywhere around the globe.)</div><div>&nbsp;</div><div>At 10up, we call developers like you <i>engineers</i> because you aren’t just a “coder”: you’re an innovative problem solver that uses web programming skills to divine smart, creative solutions to client challenges. Join a top-in-the-field team of 35 front-end engineers that is pushing the boundaries of WordPress by delivering web experiences for some of the biggest names in the industry, such as ESPN, Google, The New York Times Co., Microsoft, and The Nobel Prize Committee.</div><div><br></div><div>At 10up, you’ll work on a combination of unique builds and ongoing support engagements that help season your expertise in JavaScript, semantic HTML, React, CSS methodologies, accessibility, performance, and interactive UI. A premiere digital agency, 10up has a&nbsp; reputation for achieving client business goals, enjoyable end-user experiences, and developing the specialty of its team members.</div><div><br></div><div>As a 10upper, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 40 countries, 10up fully embraces the benefits of distributed work.</div></div><div class="section page-centered"><div><h3>What you will do:</h3><ul class="posting-requirements plain-list"><ul><li>Develop large-scale modular applications with advanced knowledge of HTML, CSS, and JavaScript.</li><li>Support knowledge-sharing by mentoring and providing code reviews.</li><li>Bring art direction to life on the web through quality craftsmanship defined by performance, accessibility, maintainability, and aesthetic refinement on large-scale projects.</li><li>Solve complex problems in simple yet elegant ways.</li><li>Ultimately you will make the web better by finely crafting websites, apps, and tools that reach millions of online visitors every day.</li></ul></ul></div></div><div class="section page-centered"><div><h3>About you:</h3><ul class="posting-requirements plain-list"><ul><li>You love perfecting your skills in cross-browser/device front-end engineering through crafting custom UI components in either React or a WordPress (block editor) stack.</li><li>You have a code portfolio of real-world samples showcasing your technical abilities. Link us to your best custom work on GitHub and you’ll never have to do any live coding or whiteboard testing!&nbsp;</li><li>You are comfortable talking to clients and team members to clearly present your thoughts.</li><li>You’re proficient at building coded style guides and creating highly componentized systems.</li><li>You prefer to work fully remote and are effectively engaging in a distributed team from the location of your choosing.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Benefits of interest:</h3><ul class="posting-requirements plain-list"><ul><li>Multiple paid time off programs, including accrued PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day.</li><li>Health, dental, and life insurance programs (available for United States team members).</li><li>Retirement contribution programs (currently available in the U.S. and U.K.).</li><li>Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations.</li><li>$3,000 USD accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study.</li><li>Global Company summits – opportunities to meet, socialize and learn with fellow 10uppers in person at remarkable destinations.&nbsp;</li><li>An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year.</li><li>A Director of Engineering that supports your career growth and development.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="salary-range"><div>$70,000 - $130,000 a year</div><small><div>The expected annual salary range for this position is between $70,000 and $130,000 USD. Compensation is determined based on a variety of factors including relevant experience, other job related qualifications/skills, geographic location, and business needs.</div></small></div><div class="section page-centered" data-qa="closing-description"><div><b style="font-size: 18px">Join our team!</b></div><div><br></div><div>If you are passionate about 10up's mission and think you have what it takes to be successful in this role even if you don't check all the boxes, please apply. If you consider yourself a Full-Stack Engineer, please choose the discipline and job title that most closely aligns with your focus/primary area of expertise. We personally review each application and can always pivot roles after you enter the hiring process. </div><div><br></div><div>Read more about <a href="https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view" class="postings-link">What to Expect </a>through our Recruiting process.</div><div><br></div><div>Everyone gets a response and we don't want you to miss any communication from us! To ensure you receive updates on your application, please add jobs@10up.com to your contacts list! #LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/10up-2/464e82d0-9dfd-42b7-972c-6822348d46e0/apply">Apply for this job</a></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>10up</h5>
-                    <h3>Lead JavaScript Developer: React</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/10up-2/cadf4f1c-5c6f-435e-b250-36576a1e6e85" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18px">Location: Remote - Anywhere</b> (Open to applicants located anywhere around the globe.)</div><div>&nbsp;</div><div>At 10up, we call developers like you <i>engineers </i>because you aren’t just a “coder”: you’re an innovative problem solver that uses web programming skills to divine smart, creative solutions to client challenges. As a Lead JavaScript Engineer at 10up, you are an integral part in crafting complex web applications utilized by millions of people daily. 10uppers have been pushing the boundaries of WordPress for over 12 years—become an engineer that innovates the internet by building state-of-the-art web experiences alongside a top-in-the-field team.</div><div><br></div><div>You’ll work on a combination of unique builds and ongoing support engagements that help season your technical leading skills. As a leading digital agency, 10up’s client roster spans from innovative startups and impactful non-profits to some of the biggest names in the industry, such as ESPN, Google, The New York Times Co., Microsoft, and The Nobel Prize Committee.</div><div><br></div><div>As a 10upper, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 40 countries, 10up fully embraces the benefits of distributed work.</div><div><br></div></div><div class="section page-centered"><div><h3>What you will do:</h3><ul class="posting-requirements plain-list"><ul><li>Lead, architect, and build React projects in both client and server-side environments.</li><li>Estimate JavaScript work and modularize goals into clearly defined, executable tasks.</li><li>Coach and mentor fellow engineers to boost the team's capabilities.</li><li>Skillfully connect engineering deliverables to client business objectives.</li><li>Ultimately you will make the web better by finely crafting apps, and tools that reach millions of online visitors every day.</li></ul></ul></div></div><div class="section page-centered"><div><h3>About you: </h3><ul class="posting-requirements plain-list"><ul><li>You love building scalable web-based JavaScript applications with ES6+, React, and Node.</li><li>You are well-versed with the architectural concepts behind React - state and data management, JSX, creating a componentized system, and JavaScript tooling.</li><li>You are knowledgeable of PHP in WordPress as a platform, including custom post types, taxonomies, and use of WordPress beyond typical “blog” use cases.</li><li>You have a code portfolio of real-world samples. Link us to your best work on GitHub and you’ll never have to do any live coding or whiteboard testing!&nbsp;</li><li>You prefer to work fully remote and are effectively engaging in a distributed team from the location of your choosing.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Benefits of interest:</h3><ul class="posting-requirements plain-list"><ul><li>Multiple paid time off programs, including accrued PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day.</li><li>Health, dental, and life insurance programs (available for United States team members).</li><li>Retirement contribution programs (currently available in the U.S. and U.K.).</li><li>Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations.</li><li>$3,000 USD accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study.</li><li>Global Company summits – opportunities to meet, socialize and learn with fellow 10uppers in person at remarkable destinations.&nbsp;</li><li>An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year.</li><li>A Director of Engineering that supports your career growth and development.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="salary-range"><div>$90,000 - $150,000 a year</div><small><div>The expected annual salary range for this position is between $90,000 and $150,000 USD. Compensation is determined based on a variety of factors including relevant experience, other job related qualifications/skills, geographic location, and business needs.</div></small></div><div class="section page-centered" data-qa="closing-description"><div><b style="font-size: 18px">Join our team!&nbsp;</b></div><div><br></div><div>If you are passionate about 10up's mission and think you have what it takes to be successful in this role even if you don't check all the boxes, please apply. If you consider yourself a Full-Stack Engineer, please choose the discipline and job title that most closely aligns with your focus/primary area of expertise. We personally review each application and can always pivot roles after you enter the hiring process. </div><div><br></div><div>Read more about <a href="https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view" class="postings-link">What to Expect </a>through our Recruiting process.</div><div><br></div><div>Everyone gets a response and we don't want you to miss any communication from us! To ensure you receive updates on your application, please add jobs@10up.com to your contacts list! #LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/10up-2/cadf4f1c-5c6f-435e-b250-36576a1e6e85/apply">Apply for this job</a></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>10up</h5>
-                    <h3>Senior JavaScript Developer: React</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/10up-2/2e66bb86-198a-469f-8efe-048ba66a39c2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18px">Location: Remote - Anywhere </b>(Open to applicants located anywhere around the globe.)</div><div>&nbsp;</div><div>At 10up, we call developers like you <i>engineers</i> because you aren’t just a “coder”: you’re an innovative problem solver that uses web programming skills to divine smart, creative solutions to client challenges. As a Senior JavaScript Developer at 10up, you are an integral part in building custom-crafted UIs utilized by millions of people daily. 10uppers have been pushing the boundaries of WordPress for over 12 years—become an engineer that innovates the internet by building state-of-the-art web fronts alongside a top-in-the-field team.</div><div><br></div><div>You’ll work on a combination of unique builds and ongoing support engagements that help season your skills. As a leading digital agency, 10up’s client roster spans from innovative startups and impactful non-profits to some of the biggest names in the industry, such as ESPN, Google, The New York Times Co., Microsoft, and The Nobel Prize Committee.</div><div><br></div><div>As a 10upper, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 40 countries, 10up fully embraces the benefits of distributed work.</div><div><br></div></div><div class="section page-centered"><div><h3>What you will do: </h3><ul class="posting-requirements plain-list"><ul><li>Lead, architect, and build React projects with modern JavaScript.</li><li>Estimate JavaScript work and modularize goals into clearly defined, executable tasks.</li><li>Coach and mentor teammates to boost the team's JavaScript and engineering abilities.</li><li>Skillfully connect engineering deliverables to client business objectives.</li><li>Ultimately you will make the web better by finely crafting apps, and tools that reach millions of online visitors every day.</li></ul></ul></div></div><div class="section page-centered"><div><h3>About you: </h3><ul class="posting-requirements plain-list"><ul><li>You love building scalable web-based JavaScript applications with ES6+, React, and Node.</li><li>You are well-versed with the architectural concepts behind React - state and data management, JSX, creating a componentized system, and JavaScript tooling.</li><li>You are knowledgeable of WordPress as a platform, including custom post types, taxonomies, and use of WordPress beyond typical “blog” use cases.</li><li>You have a code portfolio of real-world samples. Link us to your best custom work on GitHub and you’ll never have to do any live coding or whiteboard testing!&nbsp;</li><li>You prefer to work fully remote and are effectively engaging in a distributed team from the location of your choosing.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Benefits of interest:</h3><ul class="posting-requirements plain-list"><ul><li>Multiple paid time off programs, including accrued PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day.</li><li>Health, dental, and life insurance programs (available for United States team members).</li><li>Retirement contribution programs (currently available in the U.S. and U.K.).</li><li>Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations.</li><li>$3,000 USD accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study.</li><li>Global Company summits – opportunities to meet, socialize and learn with fellow 10uppers in person at remarkable destinations.&nbsp;</li><li>An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year.</li><li>A Director of Engineering that supports your career growth and development.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="salary-range"><div>$70,000 - $130,000 a year</div><small><div>The expected annual salary range for this position is between $70,000 and $130,000 USD. Compensation is determined based on a variety of factors including relevant experience, other job related qualifications/skills, geographic location, and business needs.</div></small></div><div class="section page-centered" data-qa="closing-description"><div><b style="font-size: 18px">Join our team!&nbsp;</b></div><div><br></div><div>If you are passionate about 10up's mission and think you have what it takes to be successful in this role even if you don't check all the boxes, please apply. If you consider yourself a Full-Stack Engineer, please choose the discipline and job title that most closely aligns with your focus/primary area of expertise. We personally review each application and can always pivot roles after you enter the hiring process. </div><div><br></div><div>Read more about <a href="https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view" class="postings-link">What to Expect </a>through our Recruiting process.</div><div><br></div><div>Everyone gets a response and we don't want you to miss any communication from us! To ensure you receive updates on your application, please add jobs@10up.com to your contacts list! #LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/10up-2/2e66bb86-198a-469f-8efe-048ba66a39c2/apply">Apply for this job</a></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>10up</h5>
-                    <h3>Lead Web Developer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/10up-2/765484c6-4f6c-483e-a3aa-9b51e0a61490" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18px">Location: Remote - Anywhere</b> (Open to applicants located anywhere around the globe.)</div><div>&nbsp;</div><div>At 10up, we call developers like you <i>engineers</i> because you aren’t just a “coder”: you’re an innovative problem solver that uses web programming skills to divine smart, creative solutions to client challenges. As a Lead Web Engineer at 10up, you are taking the driving seat in building websites and solutions utilized by millions of people daily. 10uppers have been pushing the boundaries of WordPress for over 12 years—help innovate the internet by building exciting projects alongside a top-in-the-field team.</div><div><br></div><div>You’ll work on a combination of unique projects and ongoing support engagements that help season your technical leading skills. As a leading digital agency, 10up’s client roster spans from innovative startups and impactful non-profits to some of the biggest names in the industry, such as ESPN, Google, The New York Times Co., Microsoft, and The Nobel Prize Committee.</div><div><br></div><div>As a 10upper, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 40 countries, 10up fully embraces the benefits of distributed work.</div></div><div class="section page-centered"><div><h3>What you will do: </h3><ul class="posting-requirements plain-list"><ul><li>Develop enterprise-level WordPress plugins and/or themes primarily using PHP and Gutenberg blocks in React.js.</li><li>Drive strategy in collaboration with experts across multiple disciplines, and lead overall technical vision and delivery on large-scale projects.</li><li>Engage meaningfully with clients; leading demos and driving discussions.</li><li>Contribute to the improvement of the Engineering discipline by leading and mentoring other fellow engineers</li><li>Ultimately you will make the web better by finely crafting websites, apps, and tools that reach millions of online visitors every day.</li></ul></ul></div></div><div class="section page-centered"><div><h3>About you: </h3><ul class="posting-requirements plain-list"><ul><li>Your experience leading large-scale enterprise projects makes you well-suited to lead a team of senior engineers, and wrangle multiple stakeholders, to find simple yet elegant solutions to complex problems.</li><li>Your expert skills in WordPress engineering with PHP, <a href="http://React.js" class="postings-link">React.js</a>, and Gutenberg consistently follow best practices and set the highest standards of excellence.</li><li>You have a code portfolio. Link us to your best WordPress work on GitHub and you’ll never have to do any live coding or whiteboard testing!&nbsp;</li><li>You have the ability to expertly debug performance and caching issues across environments.</li><li>You prefer to work fully remote and are effectively engaging in a distributed team from the location of your choosing.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Benefits of interest:</h3><ul class="posting-requirements plain-list"><ul><li>Multiple paid time off programs, including accrued PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day.</li><li>Health, dental, and life insurance programs (available for United States team members).</li><li>Retirement contribution programs (currently available in the U.S. and U.K.).</li><li>Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations.</li><li>$3,000 USD accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study.</li><li>Global Company summits – opportunities to meet, socialize and learn with fellow 10uppers in person at remarkable destinations.&nbsp;</li><li>An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year.</li><li>A Director of Engineering that supports your career growth and development.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="salary-range"><div>$80,000 - $140,000 a year</div><small><div>The expected annual salary range for this position is between $80,000 and $140,000 USD. Compensation is determined based on a variety of factors including relevant experience, other job related qualifications/skills, geographic location, and business needs.</div></small></div><div class="section page-centered" data-qa="closing-description"><div><b style="font-size: 18px">Join our team!&nbsp;</b></div><div><br></div><div>If you are passionate about 10up's mission and think you have what it takes to be successful in this role even if you don't check all the boxes, please apply. If you consider yourself a Full-Stack Engineer, please choose the discipline and job title that most closely aligns with your focus/primary area of expertise. We personally review each application and can always pivot roles after you enter the hiring process. </div><div><br></div><div>Read more about <a href="https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view" class="postings-link">What to Expect </a>through our Recruiting process.</div><div><br></div><div>Everyone gets a response and we don't want you to miss any communication from us! To ensure you receive updates on your application, please add jobs@10up.com to your contacts list! #LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/10up-2/765484c6-4f6c-483e-a3aa-9b51e0a61490/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
