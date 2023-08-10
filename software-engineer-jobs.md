@@ -1,5 +1,101 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0099/6519/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CitizenGO</h5>
+                    <h3> Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/citizengo-software-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0099/6519/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Europe
+    <br /><strong>URL:</strong> <a href="https://citizengo.org">https://citizengo.org</a>
+</p>
+
+<h1><strong>Responsibilities</strong></h1><div><br></div><ul>
+<li>Code, Test, Review, Deploy, and Document.</li>
+<li>Integrate our global Payment Platform with different payment gateways (e.g. Stripe) to address local market needs.</li>
+<li>Feature delivery – work with different technologies (in front and back-ends), languages, and frameworks in all layers of the web stack, from front-end to back-end and from SaaS (Software as a Service) to PaaS (Platform as a Service) and IaaS (Infrastructure as a Service).</li>
+<li>Develop effective ways to communicate through asynchronous communication being able to work in an agile development environment (iterative development, short release cycles managed through Asana).</li>
+<li>Share knowledge through detailed documentation.</li>
+<li>Continuously improve our build and deployment automation. Confidently ship moderately sized features and improvements with minimal guidance and support from other team members.</li>
+<li>Architect systems that are reliable, scalable, and maintainable.</li>
+<li>Protect and secure the systems and data of our members and contributors.</li>
+<li>Offer IT support to our team members.</li>
+<li>Build new flows, optimize existing ones to increase the impact and quality of our outcomes.</li>
+<li>Coach, support, and share knowledge with other engineers inside our team.</li>
+<li>Ensure availability and reliability of our services in production.</li>
+</ul><h1><strong>Requirements</strong></h1><div>
+<br><strong>HARD SKILLS</strong>
+</div><ul>
+<li>Experience with Django, in particular:</li>
+<li>Django is a Python-based framework, so a solid understanding of Python is crucial. This includes understanding</li>
+<li>Python’s data structures, control flow, and coding conventions.</li>
+<li>You’ll need to be comfortable with the Django framework itself. This includes understanding Django’s Object</li>
+<li>Relational Mapping (ORM), Models, Views, Templates, Middleware, and RESTful architecture.</li>
+<li>When you are creating APIs, knowledge of the Django REST Framework (DRF) will be necessary.</li>
+<li>Django works with various databases (like MySQL). You should understand how to design databases, create efficient queries, and use Django’s database API. Accordingly, the knowledge of the SQL language is required.</li>
+<li>Understanding the basics of HTTP, client-server, MVC and MVT architectures, and web technologies like HTML, CSS, and JavaScript is essential.</li>
+<li>Experience in React, in particular:</li>
+<li>React is a JavaScript library, so strong JavaScript skills are a must. You should be familiar with ES6 or later features like classes, arrow functions, promises, async/await, destructuring, and import/export modules.</li>
+<li>You’ll need to master the fundamentals of React, including routings, components, props, state, hooks, and the component lifecycle.</li>
+<li>JSX is a syntax extension for JavaScript that is used in React to write the UI. It’s a mix of JavaScript and HTML and is a fundamental part of writing React components. Accordingly, you must be comfortable with it.</li>
+<li>Understanding of REST APIs.</li>
+<li>Understanding an managing CSS Preprocessors (like for example SASS or LESS).</li>
+<li>Knowing how to manage versions of your code with Git and comfort working in a highly agile, intensely iterative software development process (testing process included).</li>
+<li>Understanding of network and application security with a deep understanding of all layers involved in web communications.</li>
+<li>Understanding of how to manage the testing process, like example Jest for unit testing.</li>
+</ul><div><strong>SOFT SKILLS</strong></div><ul>
+<li>Experience working in Google Cloud environments, particularly with Google Cloud Compute Engine and BigQuery, is much useful.</li>
+<li>Knowledge of PHP is useful.</li>
+<li>Good knowledge of Linux (Redhat/CentOS). The ability to manage Linux VMs (Virtual Machines) in the cloud environment is also useful.</li>
+<li>Basic Bash scripting skills are useful.</li>
+<li>Experience in working with CRM (Customer Relationship Management) platforms. Experience with Marketo and/or Salesforce is a big plus.</li>
+<li>Experience working at large-scale web applications is a plus.</li>
+<li>Experience at startups or web-based companies is a plus.<strong>OTHER SKILLS</strong>
+</li>
+<li>Demonstrated capacity to clearly and concisely communicate about complex technical, architectural, and/or organizational problems and propose thorough iterative solutions.</li>
+<li>Good strategic, creative, and innovative thinking.</li>
+<li>Excellent written and oral communication skills.</li>
+<li>Passion and commitment to human dignity, life, family, liberty, citizen empowerment, and social change.</li>
+<li>High professionalism, self-motivation, efficiency, and results-oriented delivery on short timelines.</li>
+<li>Strong teamwork skills, comfortable in a highly collaborative team culture and a hierarchical team structure.</li>
+<li>Strong project management skills.</li>
+<li>Ability to adjust quickly to changing conditions and requirements.</li>
+<li>Fluency in English is a requirement. Duolingo English Test is required for all non-natives with a minimum 100 (B2 equivalent) score. Spanish and other additional languages are an asset.</li>
+</ul><h1><strong>Top 10 reasons to work for CitizenGO</strong></h1><ul>
+<li>We’re winning. Our campaigning works and we’re changing politics and policies across the world. Check out some of our recent victories here. </li>
+<li>Our tactics are bold and effective. We do what’s needed to win campaigns, whether it’s launching petitions, partnering with like-minded organizations, helping our members call the decision maker or rallying on the streets.</li>
+<li>Large funders don’t control our strategy. We work with members to do what’s best for the world each and every time.</li>
+<li>We thrive in risky situations. We don’t let powerful forces like the Spanish Socialist Government or Soros’s empire bully us with legal, brand or financial threats. We’re experts at navigating risk and meeting threats head on, in the media, the courts or on the streets.</li>
+<li>Work with helpful, kind, motivated, and talented people.</li>
+<li>Work remote so you have no commute and are free to travel and move.</li>
+<li>Have flexible work hours so you are there for other people and free to plan the day how you like.</li>
+<li>Everyone works remote, but you don’t feel remote. We don’t have a head office, so you’re not in a satellite office.</li>
+<li>Work on campaigns that make an impact so you can enjoy defending life, family and freedom and changing the world.</li>
+<li>Focused on results, not on long hours, so that you can have a life and don’t burn out.<br>See our<a href="https://docs.google.com/document/d/1WT5usxgZScISoOKLhKsiRmQd0AC-GXSvm_1C42RkPSY/edit#heading=h.x7dme4orbzur"> culture page</a> for more!</li>
+</ul><h1><strong>Benefits</strong></h1><div>Vacation &amp; Holidays: Join CitizenGO and enjoy 24 vacation days per year and local public holidays. We also provide various types of leave, such as parental, sick, medical, and bereavement. Attractive Benefits: Embrace the freedom of working remotely at CitizenGO, with flexible hours and a consistent 40-hour work week. Benefit from our tuition reimbursement program (up to €500 per year), English/Spanish language courses (USD120 per month on iTalki), and an annual Christmas gift. Each team member may receive one free book per month (up to €30). Practical Assistance for Your Success: We equip you with the necessary tools to excel in your role, including Chromebooks, mobile phone lines, and smartphones for select positions. Work comfortably with our home office setup allowance (up to €500 every two years) and coworking memberships (up to €200 per month). Innovative Technology: CitizenGO grants access to Copy.ai, an AI-powered copywriting platform, and Grammarly, designed to enhance the quality of your English writing. Engaging Meetups: Connect and collaborate with your colleagues during our annual retreats, evaluation meetings, mini-retreats, conferences, summits, and monthly meetups in Madrid.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/citizengo-software-engineer">https://weworkremotely.com/remote-jobs/citizengo-software-engineer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +106,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/8returns-senior-software-engineer-rails" align="right" target="_blank">Apply</a>
@@ -74,7 +170,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>197 days ago</text>
+                <text>199 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -130,7 +226,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>300 days ago</text>
+                <text>302 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer" align="right" target="_blank">Apply</a>
@@ -635,27 +731,31 @@
 
     <div class="careers-block__trix external-panel text-left">
 <div>
-<div>
 <p><strong>About Waku</strong></p>
 <p>We are building Waku as a public good infrastructure. Waku is uncompromising Web3 communication at scale. It is a decentralized, censorship-resistant, privacy-preserving communication network that enables anyone to send and receive messages without worrying about surveillance or deplatforming.</p>
 <p>We are enabling Ethereum builders to create new projects with a fully decentralized architecture, think dApp to Wallet notifications, NFT marketplaces, censorship-resistant chat, layer-2 and more.&nbsp;</p>
 <p>Waku enables a variety of complex use cases and applications. To facilitate the adoption of Waku, you will design and implement application protocols to provide to dapp developers as off-the-shelf SDKs.</p>
 <p><a href="waku.org">Waku.org&nbsp;</a></p>
 <p><strong>Key responsibilities:</strong></p>
+<p><strong></strong></p>
 <ul>
 <li>Integrate Waku in Status Communities application (status-go).</li>
-<li>Liaise with Status engineer to support and investigate issues encounted by the chat functionalities in status-go.</li>
+<li>Liaise with Status engineer to support and investigate issues encountered by the chat functionalities in status-go.</li>
 <li>Liaise with Waku engineers to report bugs and use new APIs.</li>
 <li>Maintain, improve and troubleshoot the chat related functionalities of status-go codebase. Report issues to Waku and Status teams.</li>
 <li>Beyond 3-6 months: Create a Golang Chat SDK using knowledge acquired working on status-go.</li>
 </ul>
-<p><strong>You ideally will have:&nbsp;</strong></p>
+<p><strong></strong></p>
+<p><strong>You ideally will have: </strong></p>
+<p></p>
 <ul>
-<li>Experience building applications with complex logic, cutting edge technology or applied research.</li>
-<li>Experienced building instant messaging and chat applications.</li>
-<li>Already in the blockchain and decentralized technologies space or familiarity with it; you understand how they work.</li>
-<li>Strong alignment to our principles:<a href="https://status.im/about/#our-principles">&nbsp;https://status.im/about/#our-principles</a>.&nbsp;</li>
+<li>Have experience building applications with complex logic, cutting edge technology or applied research.</li>
+<li>Have experience building instant messaging and chat applications that includes cryptographic such as end-to-end encryption.</li>
+<li>Have passion for blockchain and decentralized technologies and understand how they work.</li>
+<li>Have good communication skills (written and conversational).</li>
+<li>Have a strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></li>
 </ul>
+<p></p>
 <p>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</p>
 <p><strong>Bonus points if:</strong></p>
 <ul>
@@ -676,7 +776,6 @@
 <p><strong>Compensation:</strong></p>
 <p>The expected compensation range for this role is $80,000 - $100,000 (dependent on how we assess your skills and experience throughout our interview process).&nbsp;</p>
 <p>We are happy to pay in any mix of fiat/crypto.</p>
-</div>
 </div>
 
     
