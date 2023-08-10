@@ -1,5 +1,79 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/7274/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Toggl</h5>
+                    <h3> Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/toggl-product-manager-3" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0074/7274/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Tallinn, Estonia
+    <br /><strong>URL:</strong> <a href="https://toggl.com/jobs/">https://toggl.com/jobs/</a>
+</p>
+
+<div>
+<br>We are looking for a dedicated and passionate Product Manager who knows what it takes to scale-up a product used by millions of users all around the world.<br><br>
+</div><div>
+<br>The salary for this position is <strong>€55,000</strong> annually and we are committed to reviewing salaries every year based on company and individual performance.<br><br>
+</div><div>
+<br>You can work <strong>from anywhere in the world as long as your main location has ~4 hours overlap with the UTC+3 time zone.<br></strong><br>
+</div><div>
+<strong><br>About the Team<br></strong><br>
+</div><div>We are a global team of 130+ awesome people working from over 40 countries around the globe. We hire globally, you work locally - in the heart of London, a beach outside of São Paulo, or a quiet village near Florence, the choice is yours. Every few months we travel to meet up somewhere in the world and spend some quality time together. We place a huge amount of trust in our people, and we measure the outcomes rather than the work itself. Our values fuel our results.<br><br>
+</div><div>
+<strong><br>The Role<br></strong><br>
+</div><div>As a Product Manager in Toggl, you will play a critical role in one of the cross-functional teams within Toggl Track.</div><div>
+<br>Your main responsibilities will be:</div><ul>
+<li>Conducting user research, collecting and analyzing data, and deriving insights to inform product decisions and iterations</li>
+<li>Translating customer needs and business requirements into clear and actionable user stories, product specifications, and wireframes</li>
+<li>Working with developers and designers in the cross-functional team on conceptualizing your findings into deliverable iterations</li>
+<li>Building and prioritizing the roadmap of a particular area of Toggl Track that you will be responsible for</li>
+<li>Staying up-to-date with industry trends and competitor offerings</li>
+</ul><div>
+<strong><br>About You<br></strong><br>
+</div><div>You will fit in well with our team if you:</div><ul>
+<li>You have hands on agile experience with building SaaS products</li>
+<li>You are a good team player, cooperative and can resolve potential conflicts productively</li>
+<li>You have a healthy obsession with user journeys, product design and development</li>
+<li>You are data-informed, have experience in setting up metrics to forecast and measure the impact of released features</li>
+<li>You enjoy experimentation, know how to iterate quickly, knowing when to go deep with user research or A/B testing and when to rely on your product sense</li>
+<li>You love collaborating with people from all disciplines, always try to look at the big picture and want to take ownership of your work</li>
+<li>You are flexible, proactive and speak up when you see something wrong</li>
+<li>You like transparency, openness, and asking questions, with excellent written and verbal English communication skills</li>
+</ul><div><strong><br>Benefits</strong></div><ul>
+<li>Freedom to choose when and how much you work - we only measure results</li>
+<li>24 days of paid time off a year, plus your local holidays</li>
+<li>In-person meetups for team-building (expenses covered)</li>
+<li>4-6 weeks paid sabbatical (depending on the tenure)</li>
+<li>Laptop budget up to €2,500 and it renews every 3 years</li>
+<li>€2,000 budget to set up your home office, and additional €300 every year after 3 years of tenure</li>
+<li>€250 per month for co-working space membership and/or internet service at home</li>
+<li>€4,000 per year contribution to use for training, workshops, and conferences</li>
+<li>€2,000 per year contribution for any equipment or services to improve and/or maintain your physical and mental health</li>
+<li>Support for buying tools you need for doing your best work (even eyeglasses if you need a new pair)</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toggl-product-manager-3">https://weworkremotely.com/remote-jobs/toggl-product-manager-3</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +84,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-product-manager" align="right" target="_blank">Apply</a>
@@ -140,7 +214,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>636 days ago</text>
+                <text>638 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
