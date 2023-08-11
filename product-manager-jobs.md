@@ -84,7 +84,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-product-manager" align="right" target="_blank">Apply</a>
@@ -214,7 +214,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>638 days ago</text>
+                <text>639 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -266,6 +266,64 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1542681228666671107/L5LYJLAD_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Timescale</h5>
+                    <h3>Senior Product Manager, Data Tiering</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://www.timescale.com/careers/6886757002?gh_jid=6886757002" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;p&gt;Timescale is looking for an experienced &lt;strong&gt;Senior Product Manager&lt;/strong&gt; with a track record of success shipping SaaS products.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Excited by the promise of combining databases with the unlimited scalability of cloud object storage? Structured data lake meets relational databases?&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Have a vision for the future of cloud data analytics?&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Are you passionate about helping developers build the next generation of cloud applications?&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Feel at home working with both highly technical engineers and product designers?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is a unique opportunity to help us build the future of our database cloud, combining TimescaleDB with the unlimited scalability of cloud-native storage. You will have significant strategic and tactical responsibilities for defining the positioning and messaging, driving demand and adoption, and iterating on improving &lt;a href=&quot;https://www.timescale.com/blog/scaling-postgresql-with-amazon-s3-an-object-storage-for-low-cost-infinite-database-scalability/&quot;&gt;Data Tiering&lt;/a&gt;, our newest product for Timescale.&lt;/p&gt;
+&lt;p&gt;If you have experience in product management and want to have a direct and immediate impact on a fast-growing startup serving developers worldwide, then this is the role for you.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Timescale is a fully-remote company with team members around the world, and English language fluency is a requirement. To better coordinate with their teams, the preferred candidate for this role will have working hours in EST or CET.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop a deep understanding of our customers and their problems, the competitive landscape, and market trends.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Craft a quarterly and annual product strategy and roadmap in concert with other product managers, customers, engineering, design, and go-to-market teams. Create differentiation for Timescale Cloud.&lt;/li&gt;
+&lt;li&gt;Perform product discovery, gather and document requirements and feedback from customers, community users, and internal stakeholders, and find innovative solutions to complex problems.&lt;/li&gt;
+&lt;li&gt;Help our product designers build beautiful, intuitive data product experiences.&lt;/li&gt;
+&lt;li&gt;Own execution and delivery of new product features end-to-end.&lt;/li&gt;
+&lt;li&gt;Measure adoption of the product, run experiments, collect customer feedback regularly, and adjust plans as needed. Use data to support your decisions.&lt;/li&gt;
+&lt;li&gt;Work with go-to-market teams on messaging, positioning, and launch activities.&lt;/li&gt;
+&lt;li&gt;Help support customer engagements and participate in sales enablement activities within the company.&lt;/li&gt;
+&lt;li&gt;Serve as the connective tissue between engineering, design, marketing, customer care, and other stakeholders, proactively communicating product questions and decisions.&lt;/li&gt;
+&lt;li&gt;Mentor other product managers in the team, helping them develop their skills and progress in their careers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;5+ years of proven track record in product management, with at least 3+ years of experience on SaaS products.&lt;/li&gt;
+&lt;li&gt;Strong understanding of cloud-native infrastructure architectures. Experience with databases or other technical products with high scale, high performance needs.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Excellent written and verbal communication and the ability to explain complex technical design in 20 seconds or 20 minutes, depending on the audience and goals.&lt;/li&gt;
+&lt;li&gt;Ability to combine data-driven approaches with strong user empathy to figure out what/when/why to ship - we’re building a platform for &lt;strong&gt;millions of users&lt;/strong&gt;, and there is lots to do!&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Excited by ambiguous and vague problem definitions and the ability to refine them into an actionable plan.&lt;/li&gt;
+&lt;li&gt;Strong sense of ownership and problem-solving skills - Timescale is moving fast, and so should you. Trying things, making mistakes, and quickly improving are in our DNA.&lt;/li&gt;
+&lt;li&gt;Comfortable engaging and working in the open with developer communities.&lt;/li&gt;
+&lt;li&gt;Computer Science or technical degree preferred, or prior technical development experience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;R.2423&lt;/p&gt;
                 </details>
                 </td>
             </tr>,<tr>
