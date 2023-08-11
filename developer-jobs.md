@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/govassist-llc-senior-full-stack-developer-2" align="right" target="_blank">Apply</a>
@@ -94,7 +94,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/mailerlite-vue-js-developer" align="right" target="_blank">Apply</a>
@@ -191,7 +191,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/textmagic-senior-back-end-developer-php-symfony-postgresql-1" align="right" target="_blank">Apply</a>
@@ -277,7 +277,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/smily-front-end-developer" align="right" target="_blank">Apply</a>
@@ -324,6 +324,121 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/8312/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>XM</h5>
+                    <h3> Modern C++ Software Developer – Remote</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0066/8312/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Cyprus
+    <br /><strong>URL:</strong> <a href="https://bit.ly/3Yljr8s">https://bit.ly/3Yljr8s</a>
+</p>
+
+<div>
+<strong>Modern C++ Software Developer – Remote<br></strong><br>
+</div><div>
+<strong>Reference Number: CSD1022<br></strong><br>
+</div><div><br></div><div>
+<strong>The Role: <br></strong><br>
+</div><div>We are looking for a Modern C++ Software Developer to join our software development team.  You will be working on internal software related to trading financial products; monitoring tools; alerting and reporting. You will have the opportunity to offer your ideas, suggestions, and designs to help the team improve their quality of work. The team strives to write clean, decoupled, and testable code with a clear separation of components and responsibilities.<br><br>
+</div><div><br></div><div>
+<strong>The key responsibilities of the role include:<br></strong><br>
+</div><div>●       Develop standalone applications and plug-ins in C++ 17</div><div>●       Use libraries such as Boost.Asio for asynchronous TCP sockets</div><div>●       Write unit-tests, end-to-end tests and stress testing</div><div>●       Communicate with the team to identify business requirements</div><div>●       Understand business requirements and develop systems/features to meet them</div><div>●       Develop code in accordance with the system design and coding standards with minimal supervision</div><div>●       Review the code of associate developers<br><br>
+</div><div><strong> </strong></div><div><strong>Main requirements:</strong></div><div> </div><div>●       BSc/MSc in computer science, computer engineering or a related subject</div><div>●       Experience in any object-oriented language either in a professional environment or on personal projects</div><div>●       Strong knowledge and an active interest in object-oriented principles, practices and design patterns</div><div>●       Willingness to work with and learn modern C++, asynchronous programming and unit-testing</div><div>●       Excellent problem solving and troubleshooting skills</div><div>●       Knowledge of any of the following will be a plus: unit-testing, UML design,Boost.Asio, FIX protocol,         MetaTrader API, asynchronous programming, profiling</div><div>●       Outstanding communication and interpersonal skills, including the ability to describe software designs at all technical knowledge levels</div><div>●       Self-starter with a passion for coding, tinkering, reading, exploring and breaking things</div><div>●       Very good written and verbal skills in English<br><br>
+</div><div> </div><div>
+<strong>Benefit from:<br></strong><br>
+</div><div>●       Attractive remuneration package plus performance related reward</div><div>●       Intellectually stimulating work environment</div><div>●       Continuous personal development and international training opportunities<br><br>
+</div><div>
+<br>Type of employment: Full time<br><br>
+</div><div>
+<br>Location: Remote<br><br>
+</div><div>Please visit https://bit.ly/3Yljr8s to submit your online application for this position.<br><br>
+</div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2">https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>XM</h5>
+                    <h3> Senior PHP Web Developers– Cyprus, Greece or Remote</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Cyprus, Greece or Remote
+    <br /><strong>URL:</strong> <a href="https://xm.com">https://xm.com</a>
+</p>
+
+<div>
+<strong>Reference Number: SPHPWD1021<br></strong><br>
+</div><div>
+<strong> <br></strong><br>
+</div><div>
+<strong>The role:<br></strong><br>
+</div><div>As our new Senior PHP Developer, you will join an amazing team who is dedicated to taking the next step in software engineering. You will make key decisions on software processes, and use Kubernetes and Terraform on PHP, Go, React &amp; Angular on AWS. The team will keep you up-to-date with the latest technology stacks and processes and help you see challenging projects from beginning to end.<br><br>
+</div><div> <br><br>
+</div><div>
+<strong>The main responsibilities of the role include:<br></strong><br>
+</div><div>●        Design and implement new features/projects</div><div>●        Maintain and refactor existing web applications such as the company's website, registration forms, Members Area and internal web services</div><div>●        Research and integrate new web technologies</div><div>●        Write tests that will run on a continuous integration server 24/7 to ensure code testability, code coverage and quality conforms to the company’s highest standards</div><div>●        Resolve support tickets for IT related issues</div><div>
+<strong> <br></strong><br>
+</div><div>
+<strong>Main requirements:<br></strong><br>
+</div><div>●        BSc/MSc in information technology or any other relevant degree</div><div>●        At least 3 years of experience in a similar position</div><div>●        Very good knowledge of PHP 7+, MySQL, Redis, Git</div><div>●        Very good understanding of object-oriented programming principles</div><div>●        Experience in creating and consuming web services</div><div>●        Experience with modern PHP frameworks</div><div>●        Experience in writing tests with PHPUnit</div><div>●        Ability to research and adapt new web technologies that add value to the team</div><div>●        Strong organisational skills with the ability to multitask and prioritise</div><div>●        Problem solving and analytical skills</div><div>●        Ability to work independently and integrate well within a team</div><div>
+<strong> <br></strong><br>
+</div><div>
+<strong>The following will be considered an advantage:<br></strong><br>
+</div><div>●        Experience in Symfony framework</div><div>●        Experience in the development of REST APIs</div><div>●        Experience in software development practices like design patterns, SOLID principles, DRY</div><div>●        Very good understanding of security practices (OWASP)</div><div>●        Experience with cloud providers (e.g. AWS)</div><div>●        Experience in database query optimization</div><div>●        Experience in creating composer packages</div><div>●        Experience in front-end frameworks or libraries like Angular or React</div><div>
+<strong> <br></strong><br>
+</div><div>
+<strong>Benefit from:<br></strong><br>
+</div><div>●        Attractive remuneration package </div><div>●        Private health insurance</div><div>●        Food allowance</div><div>●        Intellectually stimulating work environment</div><div>●        Continuous personal development and international training opportunities</div><div> </div><div>
+<br>Type of employment: Full time<br><br>
+</div><div>
+<br>Location: Cyprus, Greece or Remote <br><br>
+</div><div>
+<br> <br><br>
+</div><div>Please visit our website <a href="http://www.xm.com/careers">www.xm.com/careers</a> to submit your online application for this position. </div><div> </div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2">https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0097/1479/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -334,7 +449,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>49 days ago</text>
+                <text>50 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/trendspider-front-end-software-developer" align="right" target="_blank">Apply</a>
@@ -384,7 +499,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>129 days ago</text>
+                <text>130 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-principal-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -457,90 +572,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior Ruby on Rails Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>161 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div><strong>The Role:</strong></div><div>
-<br>We are searching for a Senior Ruby on Rails Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
-<br><br>
-</div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
-<li>You have +3 years of experience with Ruby on Rails;</li>
-<li>You have experience working with the libraries like Resque and RSpec;</li>
-<li>You are able to write clean Ruby code;</li>
-<li>You have proficiency with code versioning tools including Git, Github, SVN, and Mercurial;</li>
-<li>You got experience with Angular or ReactJS;</li>
-<li>You are familiar with MVC, Mocking, RESTful, and ORM;</li>
-<li>You have a good understanding of front-end technologies including HTML5, JavaScript, and CSS3;</li>
-<li>You possess knowledge of server-side templating languages including Slim and Liquid;</li>
-<li>You got familiar with testing tools.</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>Nice-to-have:</strong> <br><br>
-</div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Knowledge of TypeScript.</li>
-</ul><div><br></div><div>
-<strong>Responsibilities:<br></strong><br>
-</div><ul>
-<li>Designing and developing new web applications;</li>
-<li>Maintaining and troubleshooting existing web applications;</li>
-<li>Writing and maintaining reliable Ruby code;</li>
-<li>Integrating data storage solutions;</li>
-<li>Creating back-end components;</li>
-<li>Identifying and fixing bottlenecks and bugs;</li>
-<li>Integrating user-facing elements designed by the front-end team;</li>
-<li>Connecting applications with additional web servers;</li>
-<li>Maintaining the APIs.</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
-<br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of the Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul><div>
-<br><strong>Salary Range: </strong>€3,200  - €6,400 per month<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/814298/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -551,7 +582,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1612,6 +1643,30 @@
                 </td>
                 <td width="300">
                     <h5>CloudLinux</h5>
+                    <h3>Kernel Developer for KernelCare - REMOTE/Work Anywhere</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/49BFD9FD94" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>We are looking for<strong> Kernel Developers</strong> to work on our KernelCare team. The ideal candidate is someone looking for a rewarding and challenging career developing Linux Kernels and patches. This role requires someone with strong C development skills and a passion for all that is Linux. Our Kernel Developers create patches with a cyber security focus while finding solutions for our customers. </p> <p><br></p> <p>KernelCare is a product of CloudLinux Inc., the maker of the #1 OS in security and stability for hosting providers. KernelCare, a live kernel patching service provides security patches and bug fixes for a range of popular Linux kernels that can be installed without rebooting the system.  Check out our website for more information about our KernelCare Product <a href="https://tuxcare.com/live-patching-services/" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com/live-patching-services/</a></p><p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and  we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful. </p><p>We are truly a great place to work. </p> <p><strong>As our Kernel Developer you will be responsible for:</strong></p><ul> <li>Support existing functionality and implementation of several new features</li> <li>Update existing kernels including security fixes and CVEs patches</li> <li>Develop and support Python and Bash scripts for task automation</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role you should have:</strong></p><ul> <li>Excellent C programming and debugging skills</li> <li>Good level knowledge of Linux kernel core subsystems</li> <li>CPU and cache architectures</li> <li>Experience with GDB and other debuggers</li> <li>CPU performance and power analysis</li> <li>Independent and self-motivated problem solver and strategic thinker</li> <li>Proficient in Git for development and patch/branch management</li> <li>Good planning, time management, decision-making, presentation, and organization skills</li> <li>Effective written and verbal communication</li> <li>Excellent interpersonal and teamwork skills</li> <li>Happy in an agile, fast-paced environment</li> </ul><ul> <li>Experience with python, shell scripting</li> <li>Experience with Jenkins</li> </ul><h3>Benefits: </h3><p>What's in it for you?<br></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> </ul> <ul><li>Interesting and challenging projects</li></ul> </li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
                     <h3>Full Stack Developer (Python & JavaScript) - Internal Projects & AI</h3>
                 </td>
                 <td width="300">
@@ -1628,30 +1683,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>We are seeking a highly skilled and motivated Full Stack Developer with strong analytical skills and expertise in Python and JavaScript to join our team. In this role, you will be working on various internal projects, including projects involving the integration of systems and the use of OpenAI to automate aspects of work. Most projects will be small in scope, and the ability to write clear, easy-to-understand code and complete projects quickly is essential. You will be talking directly with stakeholders, and figuring out the best way to solve the problem. You will go for "works well enough" instead of perfection. Quick, prototype quality work will be preferred to fully engineered projects</p><p>As a Full Stack Developer at our company, you will play a crucial role in developing innovative solutions to help optimize internal processes and replace manual tasks with automated solutions. <br></p><p><strong>As our Full Stack Developer you will;</strong></p><ul> <li>Design, develop, and maintain Python and JavaScript applications for internal projects</li> <li>Talk to stakeholders, and figure out the best way to solve their problems</li> <li>Integrate various systems and work on projects involving the use of OpenAI to automate tasks</li> <li>Write clear, well-structured, and maintainable code that is easy to understand and modify</li> <li>Collaborate with cross-functional teams to develop innovative solutions and optimize internal processes</li> <li>Participate in code reviews to ensure high-quality code and identify areas for improvement</li> <li>Ensure projects are completed quickly and efficiently without compromising quality</li> </ul><h3>Requirements: </h3><ul> <li>Strong analytical and communication skills</li> <li>Ability to pinpoint the problem and come up with the solution</li> <li>Strong expertise in Python and JavaScript programming languages</li> <li>Proficiency in Git for version control</li> <li>Experience with shell scripting and Linux operating system</li> <li>Ability to communicate effectively in English, both in writing and verbally</li> <li>Demonstrated problem-solving skills and ability to work independently as well as in a team environment</li> <li>Quick learner</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> </li> <li>Flexible working hours</li> <li>Paid 24 days of vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Kernel Developer for KernelCare - REMOTE/Work Anywhere</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/F785D5B595" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We are looking for<strong> Kernel Developers</strong> to work on our KernelCare team. The ideal candidate is someone looking for a rewarding and challenging career developing Linux Kernels and patches. This role requires someone with strong C development skills and a passion for all that is Linux. Our Kernel Developers create patches with a cyber security focus while finding solutions for our customers. </p> <p><br></p> <p>KernelCare is a product of CloudLinux Inc., the maker of the #1 OS in security and stability for hosting providers. KernelCare, a live kernel patching service provides security patches and bug fixes for a range of popular Linux kernels that can be installed without rebooting the system.  Check out our website for more information about our KernelCare Product <a href="https://tuxcare.com/live-patching-services/" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com/live-patching-services/</a></p><p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and  we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful. </p><p>We are truly a great place to work. </p> <p><strong>As our Kernel Developer you will be responsible for:</strong></p><ul> <li>Support existing functionality and implementation of several new features</li> <li>Update existing kernels including security fixes and CVEs patches</li> <li>Develop and support Python and Bash scripts for task automation</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role you should have:</strong></p><ul> <li>Excellent C programming and debugging skills</li> <li>Good level knowledge of Linux kernel core subsystems</li> <li>CPU and cache architectures</li> <li>Experience with GDB and other debuggers</li> <li>CPU performance and power analysis</li> <li>Independent and self-motivated problem solver and strategic thinker</li> <li>Proficient in Git for development and patch/branch management</li> <li>Good planning, time management, decision-making, presentation, and organization skills</li> <li>Effective written and verbal communication</li> <li>Excellent interpersonal and teamwork skills</li> <li>Happy in an agile, fast-paced environment</li> </ul><ul> <li>Experience with python, shell scripting</li> <li>Experience with Jenkins</li> </ul><h3>Benefits: </h3><p>What's in it for you?<br></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> </ul> <ul><li>Interesting and challenging projects</li></ul> </li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
                 </details>
                 </td>
             </tr></table>
