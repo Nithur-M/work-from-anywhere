@@ -1,62 +1,5 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1751799/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>SourceTER</h5>
-                    <h3>Senior DevOps Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>AWS,azure,cloud,docker</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1751799" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Our client </strong>is the only low-code messaging platform that provides a full ecosystem for streaming use cases over a cloud-native message broker that supports modern streaming pipelines and use cases by removing frictions of management, cost, resources, language barriers, and time for data-oriented developers and data engineers.</p>
-<p>Our client is building an open-source, modern alternative to ConfluenT, that provides end-to-end support for in-app streaming use cases.</p>
-<p>We are seeking a highly skilled and experienced Senior DevOps Engineer to join our dynamic and innovative team. As a Senior DevOps Engineer, you will be responsible for designing, implementing, and maintaining our company's DevOps processes and infrastructure. You will work closely with cross-functional teams, including development, operations, and security, to ensure efficient and reliable delivery of software products and services. The ideal candidate has a deep understanding of DevOps principles and best practices, excellent problem-solving skills, and a passion for automation and continuous improvement.</p>
-<p><strong>Responsibilities:</strong></p>
-<p>● Design, implement, and maintain the company's DevOps processes, tools, and infrastructure to enable efficient and reliable software delivery</p>
-<p>● Collaborate with development, operations, and security teams to identify and implement automation, monitoring, and performance optimization strategies</p>
-<p>● Develop and maintain CI/CD pipelines to enable continuous integration and deployment of software applications</p>
-<p>● Ensure the scalability, availability, and security of the company's infrastructure by implementing robust monitoring, disaster recovery, and backup strategies</p>
-<p>● Stay up-to-date with the latest DevOps trends, tools, and technologies and make recommendations for process improvements and tooling enhancements</p>
-<p>● Implement GitOps practices for managing infrastructure and application deployments, ensuring declarative configuration and version-controlled consistency.</p>
-<p>● Mentor and guide junior team members, promoting knowledge sharing and professional development.</p>
-<p><strong>Requirements:</strong></p>
-<p>● Must have experience in developing and maintaining Software-as-a-Service (SaaS) applications in cloud environments</p>
-<p>● Bachelor's degree in Computer Science, Engineering, or a related field. Equivalent work experience may be considered</p>
-<p>● 5 years of experience working as a DevOps Engineer, with a focus on designing and implementing scalable and automated infrastructure solutions</p>
-<p>● Strong experience with cloud platforms such as AWS, Azure, and Google Cloud, including infrastructure provisioning, monitoring, and management</p>
-<p>● Proficiency in configuration management tools such as Ansible</p>
-<p>● Experience with containerization and orchestration tools such as Docker and Kubernetes</p>
-<p>● Solid understanding of networking concepts, security best practices, and web application architectures</p>
-<p>● Proven experience in building and maintaining CI/CD pipelines using tools like Jenkins, ArgoCD, and GitHub Actions</p>
-<p>● Proficiency in scripting languages such as Python\Go and Bash</p>
-<p>● Strong problem-solving skills with the ability to analyze complex systems and troubleshoot issues effectively</p>
-<p>● Experience with infrastructure-as-code tools, particularly Terraform, for managing and provisioning cloud resources</p>
-<p>● Knowledge and hands-on experience with GitOps principles and practices for managing infrastructure and application deployments</p>
-<p>● Strong knowledge of Helm for managing and orchestrating the deployment of containerized applications in Kubernetes environments</p>
-<p>● Excellent communication and collaboration skills with the ability to work effectively in cross-functional teams.</p>
-<p><strong>We Offer:</strong></p>
-<p>● Competitive market salary</p>
-<p>● Flexible working hours</p>
-<p>● Paid vacations</p>
-<p>● Being a part of a team of professionals who knows how to build world-class products</p>
-<p>● Wide range of excellent opportunities for professional and personal growth</p>
-<p></p>
-<img src="https://remotive.com/job/track/1751799/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1698903/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -67,7 +10,7 @@
                     <code>android,api,AWS,docker</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/sr-devops-engineer-1698903" align="right" target="_blank">Apply</a>
