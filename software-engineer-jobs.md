@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/citizengo-software-engineer" align="right" target="_blank">Apply</a>
@@ -99,70 +99,6 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>8returns</h5>
-                    <h3> Senior Software Engineer (Rails)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/8returns-senior-software-engineer-rails" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Germany Berlin
-</p>
-
-<p>At 8returns, we're transforming one of the most frustrating, environmentally damaging and costly aspects of e-commerce — returns. We built a technology that automates the returns process for retailers and makes data-driven decisions to connect each return to its next best use.</p>
-<p>We're still in the scrappy startup phase, so we are looking for people who are comfortable with ambiguity and having wide impact. We've been remote-first since Day 1, and care a ton about communication, autonomy, curiosity, and initiative.</p>
-<p>We have happy paying customers and just raised our first round of funding from industry leaders. Our team is highly experienced, and has started, scaled and sold companies before. We also love learning from each other, and are looking for people who bring a new set of experiences and backgrounds to our team.</p>
-<h2>Tasks</h2>
-<p><strong>Why you might be excited about us</strong></p>
-<ul>
-<li>We're working to solve a massive global problem - 10 billion pounds of returns end up in landfills every year and for retailers it’s a trillion-dollar problem.</li>
-<li>We're small, so you'll be able to contribute efficiently and without bureaucracy. You'll quickly have responsibility over big areas of our product. You'll also help build our company's culture.</li>
-<li>We don't have a ton of meetings. If we can effectively solve a problem asynchronously, we do. When we do meet synchronously, you'll always have the opportunity to contribute.</li>
-<li>You'll be able to work remotely and set your own schedule. We don't micro-manage and will help you do great work. Most of our engineers work EU hours, but organize their work day to be whatever's best for them.</li>
-<li>We will mould your role to shape a career you're excited about. We care a ton about your satisfaction and job happiness, and will help prep you for whatever you're looking for in the future.</li>
-<li>We work hard and also highly value balanced work/life. We care about family and your own personal development, and don't expect for you to be always engaged with work.</li>
-</ul>
-<p><strong>Why you might</strong> <strong><em>not</em></strong> <strong>be excited about us</strong></p>
-<ul>
-<li>We're small (&lt;10 people in the company now), so if you like more established companies, it's not (yet) the right time. Since we're an early stage startup, projects and priorities may shift.</li>
-<li>Our customers love us, <em>and</em> there's a lot we can improve. It's a great place to be, but means there's some technical debt.</li>
-<li>We can't (yet) provide close mentorship for junior developers, especially as we're remote and small. As we grow, we'll get a lot better at this.</li>
-<li>Since you'll have a lot of responsibility and creativity over projects, they may not be defined perfectly initially. You'll be expected to bring your own experience and perspective to help us do the right things, and raise flags if you think we should do things differently.</li>
-</ul>
-<p>If we think you might be a good fit, we'll respond within 48 hours.</p>
-<h2>Requirements</h2>
-<p><strong>Who you are</strong></p>
-<ul>
-<li>You worked remotely before, or know that you'd work well with a remote team.</li>
-<li>Ability to think creatively and critically and thrive in a fast-paced, dynamic, and often ambiguous work environment</li>
-<li>3+ years of experience developing high performance web applications</li>
-<li>Strong knowledge of Ruby on Rails and experience designing maintainable systems, APIs, and integrations </li>
-<li>You are able to decide what aspects of products need to be perfected and when to cut corners to ship faster</li>
-</ul>
-<p>The main app is built with Ruby on Rails and React. We use Postgres, Heroku, AWS. While previous experience with these technologies is a plus, we’re looking for someone with broad experience.</p>
-
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/8returns-senior-software-engineer-rails">https://weworkremotely.com/remote-jobs/8returns-senior-software-engineer-rails</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
                     <h5>Sticker Mule</h5>
                     <h3> Software Engineer (C++)</h3>
                 </td>
@@ -170,7 +106,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>201 days ago</text>
+                <text>202 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -226,7 +162,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>304 days ago</text>
+                <text>305 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer" align="right" target="_blank">Apply</a>
