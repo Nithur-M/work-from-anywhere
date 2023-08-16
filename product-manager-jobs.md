@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toggl-product-manager-3" align="right" target="_blank">Apply</a>
@@ -84,7 +84,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-product-manager" align="right" target="_blank">Apply</a>
@@ -214,7 +214,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>641 days ago</text>
+                <text>644 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -548,18 +548,17 @@
 <p>📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous&nbsp;<a href="https://handbook.sourcegraph.com/benefits-pay-perks/benefits-perks/">perks &amp; benefits</a>.</p>
 <h2><span style="color: rgb(140, 51, 236);"><strong>Interview process&nbsp;</strong></span></h2>
 <p><em>Below is the interview process you can expect for this role (you can read more about</em><a href="https://handbook.sourcegraph.com/talent/types_of_interviews"><em>&nbsp;</em><em>the types of interviews</em></a><em>&nbsp;in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!</em></p>
-<p>We expect the interview process to take 5.5 hours in total.</p>
+<p>We expect the interview process to take 5.25 hours in total.</p>
 <p><strong>👋 Introduction Stage</strong>&nbsp;- we have initial conversations to get to know you better…</p>
 <ul>
 <li>[30m]<a href="https://handbook.sourcegraph.com/departments/product-engineering/product/roles/interviews/initial_screen">&nbsp;Recruiter Screen</a>&nbsp;</li>
 <li>[60m]<a href="https://handbook.sourcegraph.com/departments/product-engineering/product/roles/interviews/hm_intro_call">&nbsp;Hiring Manager Screen</a></li>
 <li>[60m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive">Resume Deep Dive</a></li>
 </ul>
-<p><strong>🧑‍💻 Team Interview Stage</strong>&nbsp;- we then delve into your experience in more depth and introduce you to members of the team…</p>
+<p><strong>🧑‍💻 Team Interview Stage</strong> - we then delve into your experience in more depth and introduce you to members of the team…</p>
 <ul>
-<li>[1hr]<a href="https://handbook.sourcegraph.com/departments/product-engineering/product/roles/interviews/product_manager/pm_rfc_project">&nbsp;Async - RFC Assignment</a></li>
-<li>[1hr] Assignment Review - Rob Rhyne &amp; Taylor Sperry</li>
-<li>[30m]<a href="https://handbook.sourcegraph.com/departments/talent/process/types_of_interviews/#engineering-collaboration">&nbsp;Engineering Collaboration</a> - Thorsten Ball &amp; Erika Rice Scherpelz</li>
+<li>[1hr] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#product-manager-overview-of-past-projects">Overview of past projects</a> (requires preparation) - Rob Rhyne &amp; Taylor Sperry</li>
+<li>[45m]<a href="https://handbook.sourcegraph.com/departments/talent/process/types_of_interviews/#engineering-collaboration">&nbsp;Engineering Collaboration</a> - Thorsten Ball &amp; Erika Rice Scherpelz</li>
 </ul>
 <p><strong>🎉 Final Interview Stage&nbsp;</strong>- we move you to our final round, where you meet cross-functional partners and gain a better understanding of our business and values holistically…</p>
 <ul>
