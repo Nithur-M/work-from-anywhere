@@ -1,5 +1,61 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/9485/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Draft.dev</h5>
+                    <h3> DevOps Engineer / Technical Writer</h3>
+                </td>
+                <td width="300">
+                    <code>DevOps and Sysadmin</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/draft-dev-devops-engineer-technical-writer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0018/9485/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> USA
+    <br /><strong>URL:</strong> <a href="https://draft.dev/">https://draft.dev/</a>
+</p>
+
+<h1>About the Job</h1><div>
+<a href="http://draft.dev/">Draft.dev</a> is a content marketing agency focused on creating in-depth, technical content for growing technology companies. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're a small but quickly growing team of technologists, writers, marketers, and editors.</div><div>
+<br>If you're a software developer and you want to build your personal brand while getting paid to write about interesting technical topics on the side, this will be a great part-time role for you!</div><div>
+<br>📣 We're looking for <strong>DevOps Engineers</strong> who can write.</div><div>
+<br>Draft.dev’s writers create technical blog posts and tutorials for clients in a wide range of industries and areas of technology. Writer pay starts at $300 per ~1500-word article and goes up as you complete more assignments.</div><div>
+<br>This is a great side hustle as almost all our 200+ writers are full-time developers with a background in software engineering, data engineering, machine learning, product management, or similar.</div><div>
+<br>Because we create content that will be read by a wide range of readers around the world, we are committed to supporting diversity in our writers (we currently have writers in over 50 countries).</div><div><br></div><h1>What You'll Do</h1><ul>
+<li>Write content such as blogs, tutorials, guides, and other similar materials</li>
+<li>Research and prepare demo code as needed</li>
+<li>Conduct necessary research to ensure the accuracy of the content</li>
+<li>Respond to editorial requests in a timely manner</li>
+</ul><h1>Your Skills &amp; Experience</h1><ul>
+<li>You have experience in <strong>Opentelemetry</strong> and/or</li>
+<li>You have experience using <strong>bare metal servers</strong>
+</li>
+</ul><h1>What You'll Love</h1><ul>
+<li>Remote work: 100% remote work environment allows for a flexible schedule and work from anywhere in the world</li>
+<li>Asynchronous communication: No need to be available at specific hours or use real-time chat tools, promoting work-life balance</li>
+<li>Diversity and inclusion: A company culture that values diversity and inclusivity in all aspects of our work</li>
+<li>Fair pay: Competitive salary based on experience, and a commitment to paying fair rates for quality work</li>
+<li>Honest feedback: A supportive work environment that values honesty and transparency in feedback to help employees grow and succeed.</li>
+</ul><div>
+<br>If you have any of the skills listed above, please apply!</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/draft-dev-devops-engineer-technical-writer">https://weworkremotely.com/remote-jobs/draft-dev-devops-engineer-technical-writer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
