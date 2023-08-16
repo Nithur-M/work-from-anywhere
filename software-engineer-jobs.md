@@ -1,101 +1,5 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0099/6519/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CitizenGO</h5>
-                    <h3> Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/citizengo-software-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0099/6519/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Europe
-    <br /><strong>URL:</strong> <a href="https://citizengo.org">https://citizengo.org</a>
-</p>
-
-<h1><strong>Responsibilities</strong></h1><div><br></div><ul>
-<li>Code, Test, Review, Deploy, and Document.</li>
-<li>Integrate our global Payment Platform with different payment gateways (e.g. Stripe) to address local market needs.</li>
-<li>Feature delivery – work with different technologies (in front and back-ends), languages, and frameworks in all layers of the web stack, from front-end to back-end and from SaaS (Software as a Service) to PaaS (Platform as a Service) and IaaS (Infrastructure as a Service).</li>
-<li>Develop effective ways to communicate through asynchronous communication being able to work in an agile development environment (iterative development, short release cycles managed through Asana).</li>
-<li>Share knowledge through detailed documentation.</li>
-<li>Continuously improve our build and deployment automation. Confidently ship moderately sized features and improvements with minimal guidance and support from other team members.</li>
-<li>Architect systems that are reliable, scalable, and maintainable.</li>
-<li>Protect and secure the systems and data of our members and contributors.</li>
-<li>Offer IT support to our team members.</li>
-<li>Build new flows, optimize existing ones to increase the impact and quality of our outcomes.</li>
-<li>Coach, support, and share knowledge with other engineers inside our team.</li>
-<li>Ensure availability and reliability of our services in production.</li>
-</ul><h1><strong>Requirements</strong></h1><div>
-<br><strong>HARD SKILLS</strong>
-</div><ul>
-<li>Experience with Django, in particular:</li>
-<li>Django is a Python-based framework, so a solid understanding of Python is crucial. This includes understanding</li>
-<li>Python’s data structures, control flow, and coding conventions.</li>
-<li>You’ll need to be comfortable with the Django framework itself. This includes understanding Django’s Object</li>
-<li>Relational Mapping (ORM), Models, Views, Templates, Middleware, and RESTful architecture.</li>
-<li>When you are creating APIs, knowledge of the Django REST Framework (DRF) will be necessary.</li>
-<li>Django works with various databases (like MySQL). You should understand how to design databases, create efficient queries, and use Django’s database API. Accordingly, the knowledge of the SQL language is required.</li>
-<li>Understanding the basics of HTTP, client-server, MVC and MVT architectures, and web technologies like HTML, CSS, and JavaScript is essential.</li>
-<li>Experience in React, in particular:</li>
-<li>React is a JavaScript library, so strong JavaScript skills are a must. You should be familiar with ES6 or later features like classes, arrow functions, promises, async/await, destructuring, and import/export modules.</li>
-<li>You’ll need to master the fundamentals of React, including routings, components, props, state, hooks, and the component lifecycle.</li>
-<li>JSX is a syntax extension for JavaScript that is used in React to write the UI. It’s a mix of JavaScript and HTML and is a fundamental part of writing React components. Accordingly, you must be comfortable with it.</li>
-<li>Understanding of REST APIs.</li>
-<li>Understanding an managing CSS Preprocessors (like for example SASS or LESS).</li>
-<li>Knowing how to manage versions of your code with Git and comfort working in a highly agile, intensely iterative software development process (testing process included).</li>
-<li>Understanding of network and application security with a deep understanding of all layers involved in web communications.</li>
-<li>Understanding of how to manage the testing process, like example Jest for unit testing.</li>
-</ul><div><strong>SOFT SKILLS</strong></div><ul>
-<li>Experience working in Google Cloud environments, particularly with Google Cloud Compute Engine and BigQuery, is much useful.</li>
-<li>Knowledge of PHP is useful.</li>
-<li>Good knowledge of Linux (Redhat/CentOS). The ability to manage Linux VMs (Virtual Machines) in the cloud environment is also useful.</li>
-<li>Basic Bash scripting skills are useful.</li>
-<li>Experience in working with CRM (Customer Relationship Management) platforms. Experience with Marketo and/or Salesforce is a big plus.</li>
-<li>Experience working at large-scale web applications is a plus.</li>
-<li>Experience at startups or web-based companies is a plus.<strong>OTHER SKILLS</strong>
-</li>
-<li>Demonstrated capacity to clearly and concisely communicate about complex technical, architectural, and/or organizational problems and propose thorough iterative solutions.</li>
-<li>Good strategic, creative, and innovative thinking.</li>
-<li>Excellent written and oral communication skills.</li>
-<li>Passion and commitment to human dignity, life, family, liberty, citizen empowerment, and social change.</li>
-<li>High professionalism, self-motivation, efficiency, and results-oriented delivery on short timelines.</li>
-<li>Strong teamwork skills, comfortable in a highly collaborative team culture and a hierarchical team structure.</li>
-<li>Strong project management skills.</li>
-<li>Ability to adjust quickly to changing conditions and requirements.</li>
-<li>Fluency in English is a requirement. Duolingo English Test is required for all non-natives with a minimum 100 (B2 equivalent) score. Spanish and other additional languages are an asset.</li>
-</ul><h1><strong>Top 10 reasons to work for CitizenGO</strong></h1><ul>
-<li>We’re winning. Our campaigning works and we’re changing politics and policies across the world. Check out some of our recent victories here. </li>
-<li>Our tactics are bold and effective. We do what’s needed to win campaigns, whether it’s launching petitions, partnering with like-minded organizations, helping our members call the decision maker or rallying on the streets.</li>
-<li>Large funders don’t control our strategy. We work with members to do what’s best for the world each and every time.</li>
-<li>We thrive in risky situations. We don’t let powerful forces like the Spanish Socialist Government or Soros’s empire bully us with legal, brand or financial threats. We’re experts at navigating risk and meeting threats head on, in the media, the courts or on the streets.</li>
-<li>Work with helpful, kind, motivated, and talented people.</li>
-<li>Work remote so you have no commute and are free to travel and move.</li>
-<li>Have flexible work hours so you are there for other people and free to plan the day how you like.</li>
-<li>Everyone works remote, but you don’t feel remote. We don’t have a head office, so you’re not in a satellite office.</li>
-<li>Work on campaigns that make an impact so you can enjoy defending life, family and freedom and changing the world.</li>
-<li>Focused on results, not on long hours, so that you can have a life and don’t burn out.<br>See our<a href="https://docs.google.com/document/d/1WT5usxgZScISoOKLhKsiRmQd0AC-GXSvm_1C42RkPSY/edit#heading=h.x7dme4orbzur"> culture page</a> for more!</li>
-</ul><h1><strong>Benefits</strong></h1><div>Vacation &amp; Holidays: Join CitizenGO and enjoy 24 vacation days per year and local public holidays. We also provide various types of leave, such as parental, sick, medical, and bereavement. Attractive Benefits: Embrace the freedom of working remotely at CitizenGO, with flexible hours and a consistent 40-hour work week. Benefit from our tuition reimbursement program (up to €500 per year), English/Spanish language courses (USD120 per month on iTalki), and an annual Christmas gift. Each team member may receive one free book per month (up to €30). Practical Assistance for Your Success: We equip you with the necessary tools to excel in your role, including Chromebooks, mobile phone lines, and smartphones for select positions. Work comfortably with our home office setup allowance (up to €500 every two years) and coworking memberships (up to €200 per month). Innovative Technology: CitizenGO grants access to Copy.ai, an AI-powered copywriting platform, and Grammarly, designed to enhance the quality of your English writing. Engaging Meetups: Connect and collaborate with your colleagues during our annual retreats, evaluation meetings, mini-retreats, conferences, summits, and monthly meetups in Madrid.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/citizengo-software-engineer">https://weworkremotely.com/remote-jobs/citizengo-software-engineer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -106,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>202 days ago</text>
+                <text>205 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -152,38 +56,26 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4287/logo.gif" width="38px" height="auto">
+                    <img src="https://pbs.twimg.com/profile_images/1569512792381878278/Smf8h3tt_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Stimulus</h5>
-                    <h3> Software engineer</h3>
+                    <h5>ConvertKit</h5>
+                    <h3>Senior Software Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>Full-Stack Programming</code>
+                    <code></code>
                 </td>
                 <td width="200">
-                <text>305 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer" align="right" target="_blank">Apply</a>
+                <a href="https://apply.workable.com/convertkit/j/66D863522C" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/4287/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Amsterdam, NY
-    <br /><strong>URL:</strong> <a href="https://www.stimulus.com/">https://www.stimulus.com/</a>
-</p>
-
-<div><strong>About Stimulus</strong></div><div>
-<a href="https://www.stimulus.com/jobs/Stimulus.com">Stimulus</a> is a social platform started by Sticker Mule to show what's possible if your mission is to increase human happiness.</div><div><br></div><div><strong>We offer</strong></div><div>1. Remote work with flexible schedules</div><div>2. A privately owned, low-stress culture.</div><div>3. A fun "no bullshit" work environment</div><div><br></div><div>
-<strong>We like you to know<br></strong>1. Docker<br>2. NextJS<br>3. TypeScript<br>4. React<br>5. NodeJS<br>6. GraphQL<br>7. Redis</div><div><br></div><div><strong>Compensation and benefits</strong></div><div>1. Salary: $135k+ based on experience</div><div>2. $20,000 signing bonus</div><div>3. 4 weeks vacation + holidays based on your country of residence</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer">https://weworkremotely.com/remote-jobs/stimulus-software-engineer</a></p>
-
+                <p>ConvertKit is a powerful marketing platform built for creators, by creators. We help creators grow and monetize their audience with ease. For coaches, YouTubers, authors, podcasters, and other creatives, there isn’t a better marketing hub to rely on to grow audiences, automate email marketing, and sell digital products - all within one platform. More importantly, there isn’t a team more committed to helping creators earn a living.</p><p>We’re on a mission to help creators earn $1 billion using our creator marketing platform. We have always been 100% independent and 100% remote. We are proud to have built a product that our customers love, and we look for people who have enthusiasm and belief in our mission, vision, and values to join our team.</p><p>The ConvertKit culture is one where emotional intelligence is valued, radical candor is encouraged, and where everyone works together to uphold a set of shared team principles.</p><p><strong>The Role</strong></p><p>You’ll join a team of engineers responsible for email and commerce compliance tooling, building out adaptive fraud prevention and detection systems, and providing creators with in-application analytics to inform how they grow.</p><p>This group cares deeply about creators and helping them along their journey. We’re looking for an engineer that enjoys the product side of product development; has empathy for the creators that we serve, and is eager to work in on a fast paced team that ships consistently. </p><p>To learn more about how our engineering team works, you can peruse <a href="https://convertkit.engineering/" rel="nofollow noreferrer noopener" class="external">our engineering blog</a>.</p><p><strong>Responsibilities</strong></p><ul> <li>Own solving problems across the full stack in collaboration with your team</li> <li>Actively participate in driving the technical direction of our codebase</li> <li>Collaborate with team members across the organization</li> <li>Proactive communication with product stakeholders</li> <li>Staying up to date with current technical best practices</li> </ul><h3>Requirements: </h3><ul> <li>At least five years building software in a team environment or equivalent experience. Years of experience doesn’t always capture expertise, so we encourage you to apply if you can demonstrate you’re well versed in building software in a team environment</li> <li>At least two years working professionally on a Ruby on Rails application - if you don’t have two years of experience but can demonstrate a confident grasp of Ruby on Rails, we encourage you to apply</li> <li>Experience working with JavaScript and React (or comparable framework)</li> <li>Experience writing code that is accessible, scalable, maintainable, and performant</li> <li>Comfortable working remotely in an autonomous environment - you don’t mind asking questions and problem solving in public communication channels</li> <li>Able to work in US time zones - you don’t have to live in those time zones, but you have to be able to collaborate with your teammates during those times</li> <li>Belief in our mission, vision, and values</li> <li>Attend bi-annual in-person retreats</li> </ul><p><strong>Nice to Haves</strong></p><ul> <li>Experience building and/or integrating with machine learning models. </li> <li>Experience with visualizing data and/or statistical analysis</li> <li>Experience with algorithms for surfacing relevant content to users based on shared traits or interests</li> <li>Experience with Stripe, Paypal, or other billing systems</li> </ul><h3>Benefits: </h3><p>ConvertKit has standardized salaries based on position, no matter where you live. For this role, we’re hiring at a level 4 ($174,000), out of six levels. Level is determined based on experience and our interview process.</p><p><strong>Other benefits include:</strong></p><ul> <li>Profit Sharing - <a target="_blank" href="https://twitter.com/nathanbarry/status/1491429183977050114" rel="nofollow noreferrer noopener" class="external">Learn about profit sharing and compensation at ConvertKit</a> </li> <li>Twenty (20) days of paid time off during each year of employment</li> <li>Paid paid vacation: An after-tax bonus of $1,000 for taking five consecutive days of vacation where you’re fully unplugged from work</li> <li>Ten paid holidays a year</li> <li>Monthly medical benefits up to $1,750 a month toward premiums. Dental and vision premiums covered 100%</li> <li>Two weeks of paid sick time each year, including mental health + well being days</li> <li>12 weeks paid parental leave and flexible scheduling in your child’s first year</li> <li>Childcare benefit up to $3,000 annually</li> <li>Up to six weeks of paid bereavement leave, medical leave, and disaster after six months of employment, two weeks of each paid leave in your first six months=</li> <li>Gender affirming benefits</li> <li>$4,000 equipment allowance for your first two years, $3,000 budget every following two years</li> <li>Individual learning + development budget ($3,500/year)</li> <li>Four-week, paid sabbatical after five years with the team</li> <li>Fantastic in-person or virtual retreats with the team twice a year</li> </ul><p><strong>How to Apply</strong></p><p>We know that most people hate interviewing (we relate!). We aim to make it as good of an experience as we can, and part of that includes keeping you informed during the process.</p><p>Here’s what you can expect from the process:</p><ol> <li>30 min - Recruiter screen</li> <li>45 min - Hiring Manager screen</li> <li>Homework Assignment</li> <li>60 min - Technical Interview to discuss HW</li> <li>60 min - Culture Contribution Chat</li> </ol><p>To get started, complete this application, including answers to the questions on the next page.<strong> We read every single application, and your responses to our application questions help put your experience into context.</strong></p><p><br></p><p>ConvertKit is an equal opportunity employer. We value diversity in all of its forms, and we hire the best person we can for each role, no matter your personal background. Research tells us that applicants who are female or non-binary, as well as applicants who are people of color, are less likely to apply for roles they do not feel 100% qualified for. If you think you meet more than 50% of our requirements but fewer than 100% of them, please apply. We’re imperfect communicators, so think of our job postings as the starting point for discussion rather than proof that you shouldn’t apply.</p>
                 </details>
                 </td>
             </tr>,<tr>
