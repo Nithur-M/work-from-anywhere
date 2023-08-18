@@ -1,170 +1,147 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/5884/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0103/5394/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>GovAssist LLC</h5>
-                    <h3> Senior Full Stack Developer</h3>
+                    <h5>RebelCode Ltd</h5>
+                    <h3> Full Stack Developer</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/govassist-llc-senior-full-stack-developer-2" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/rebelcode-ltd-full-stack-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/5884/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0103/5394/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> US
-    <br /><strong>URL:</strong> <a href="https://govassist.com/careers">https://govassist.com/careers</a>
+  <strong>Headquarters:</strong> Malta
+    <br /><strong>URL:</strong> <a href="https://rebelcode.com/">https://rebelcode.com/</a>
 </p>
 
-<h1>
-<em>We are </em><strong><em>GovAssist</em></strong>
-</h1><div>
-<em>  </em><br><br>
-</div><div><em>   </em></div><div>
-<strong><em>GovAssist </em></strong><em>is a highly specialized consultancy organization with a primary focus on facilitating immigration to the United States.</em><br><br><em>At </em><strong><em>GovAssist</em></strong><em>, we pride ourselves on our unwavering commitment to providing exceptional services. Our partnership with </em><strong><em>GovAssist Legal</em></strong><em> allows us to offer a comprehensive wide array of visa solutions tailored to meet our customer's unique needs and specific requirements. Our proficient and knowledgeable team is well-versed in all facets of visa processing, from investor visas, marriage visas, and citizenship to green card procedures. Countless individuals have been able to successfully travel or move to the United States after relying on our devotion to aiding them in navigating the often complexity of this process.<br><br>Reviewing a part of our ongoing projects will give you a clear idea of our current focus and priorities: </em><a href="https://govassist.com/"><em>govassist.com</em></a><em>, </em><a href="https://govassistlegal.com/"><em>govassistlegal.com</em></a><em>, </em><a href="https://evisa.us.com/"><em>evisa.us.com</em></a><em>,</em><a href="https://travelassist.us.com/"><em> travelassist.us.com</em></a><em>, and </em><a href="https://visaexpress.us.com/"><em>visaexpress.us.com</em></a><em>.</em><br><em><br>As an industry frontrunner, we strive for excellence in all aspects of our services, constantly innovating and making strategic adjustments to ensure our customers receive the optimal outcome.<br></em><br><br><strong><em>The Opportunity</em></strong>
-</div><div><br></div><div><br></div><div>
-<em>We are looking for a meticulous and technically skilled </em><strong><em>Senior Full Stack Developer</em></strong><em> who is comfortable with both front and back-end programming and seeks to be responsible for developing and designing front-end web architecture, ensuring the responsiveness of applications, and working alongside graphic designers for web design features, among other duties. He/she will make use of a range of different technologies and languages (such as JavaScript, HTML, and PHP) to develop applications and will be expected to see out a project from conception to the very final product.</em>
-</div><div><br></div><div><br></div><div><strong><em>THIS ROLE IS NOT OPEN for RETAINERS or AGENCIES!</em></strong></div><div><br></div><div><br></div><div><em>RESPONSIBILITIES:</em></div><div><br></div><ul>
-<li><em>Collaborate with development teams and product managers to ideate software solutions.</em></li>
-<li><em>Build the front-end of applications through appealing visual design.</em></li>
-<li><em>Develop and manage well-functioning databases and applications.</em></li>
-<li><em>Test software to ensure responsiveness and efficiency.</em></li>
-<li><em>Troubleshoot, debug and upgrade software.</em></li>
-<li><em>Create security and data protection settings.</em></li>
-<li><em>Build features and applications with a mobile responsive design.</em></li>
-<li><em>Developing front-end website architecture.</em></li>
-<li><em>Developing back-end website applications.</em></li>
-<li><em>Creating servers and databases for functionality.</em></li>
-<li><em>Working alongside graphic designers for web design features.</em></li>
-<li><em>Designing and developing APIs.</em></li>
-</ul><div><br></div><div>
-<br><em>REQUIREMENTS:</em>
-</div><div><br></div><ul>
-<li><em>Proven experience as a Full Stack Developer or similar role.</em></li>
-<li><em>Degree in Computer Science, Statistics, or relevant field.</em></li>
-<li><em>Proficiency with fundamental front-end languages such as HTML, CSS, and JavaScript.</em></li>
-<li><em>Proficiency with server-side languages such as PHP as well as PHP frameworks like Laravel.</em></li>
-<li><em>Proficiency with JavaScript frameworks such as VueJS and ReactJS.</em></li>
-<li><em>Proficiency with server-side frameworks like NodeJS and Express.</em></li>
-<li><em>Familiarity with databases (e.g. MySQL, MongoDB), web servers (e.g. Apache), and UI/UX design.</em></li>
-<li><em>Excellent verbal communication skills.</em></li>
-<li><em>Proficiency with version control systems such as git and familiarity with git-flow workflow.</em></li>
-<li><em>Experience developing web applications (mobile applications are a plus).</em></li>
-<li><em>Have an analytical mind, organizational skills, great attention to detail, excellent communication and teamwork skills, and good problem-solving skills.</em></li>
-</ul><div><br></div><div><br></div><div><em>Nice to have:</em></div><div><br></div><ul>
-<li><em>Familiar with Jira and Confluence usage.</em></li>
-<li><em>WordPress knowledge in general (including creating custom plugins).</em></li>
-<li><em>Willing to be available for emergencies.</em></li>
-<li><em>Knowledge of setting up DNS records in general (A, NS, CNAME, MX, TXT, etc).</em></li>
-<li><em>Experience with Postman.</em></li>
-<li><em>Knowledge of Linux in general, as well as SSH key generation and usage.</em></li>
-<li><em>Knowledge in mitigating DDoS attacks.</em></li>
-<li><em>Knowledge in setting up firewalls securely and securing servers in general.</em></li>
-<li><em>Knowledge in optimizing websites for speed.</em></li>
-<li><em>Knowledge of Zendesk and its settings/configuration (including, but not limited to, custom fields, triggers, email integration, webhooks, etc).</em></li>
-<li><em>Knowledge in 3rd party APIs such as Sendgrid, Zendesk, Twilio, etc.</em></li>
-<li>
-<em>Knowledge in integrating and setting up payment providers like Stripe, </em><a href="http://authorize.net/"><em>Authorize.net</em></a><em>, Bluesnap, NMI, dLocal, etc.</em>
-</li>
-</ul><div><br></div><div><br></div><div><br></div>
+<div>Join our global, fully remote, and asynchronous team as a Full Stack Developer, leading the development of our WordPress plugin projects.<br><br>
+</div><div>This role demands an individual who can craft quality code for our plugins while keeping in mind the needs of the business, striking a balance between the two.<br><br>
+</div><div>In this role, you won’t just be coding; you’d be engineering quality digital products that are made to outlast and outshine the competition.<br><br>
+</div><div>You will collaborate closely with our leadership and marketing team, defining the scope of each project and laying the foundations for features that will redefine their user experience.<br><br>
+</div><h1>How We Work</h1><div>As a 100% remote and asynchronous team, self-discipline is a very important factor when working within the RebelCode team. Everyone pulls their own weight and we do our utmost to get the best out of each other.<br><br>
+</div><div>We strive for excellence in everything we do, so there’s no room for average work or half-hearted efforts. Even as we work on MVPs for new features or products, we strive to deliver the best possible results within the time-frames and limitations that we set for ourselves.<br><br>
+</div><div>The tools we use day-to-day include:</div><ul>
+<li>Twist for communication</li>
+<li>Notion for our company wiki</li>
+<li>Notion for issue tracking</li>
+<li>Help Scout for customer support</li>
+<li>Digital Ocean, Servebolt, WP Engine, and Kinsta for hosting of websites and services</li>
+</ul><div><br></div><h1>Who You Are</h1><div>You own your tasks, from the inkling of an idea to its full-fledged execution. <br><br>
+</div><div>With fluency in English, both written and spoken, you ensure no idea remains unheard, no innovation unnoticed. For you, every message has meaning and you do your best to get it across.<br><br>
+</div><div>Your constant curiosity propels you to constantly evolve, learn, and challenge the status quo, expanding your skillset every step of the way.<br><br>
+</div><div>Working within a team, providing feedback, and collaborating across borders and time zones is second nature to you.<br><br>
+</div><div>
+<em>Note: You must have a strong internet connection and a good quality microphone and webcam, both for the interview phase as well as during working hours.<br></em><br>
+</div><h1>Primary Responsibilities</h1><div>As a Full Stack Developer at RebelCode, you will be responsible for:</div><ul>
+<li>Developing and maintaining RebelCode’s WordPress plugins (PHP, TypeScript, React)</li>
+<li>Transforming Figma designs into working UIs</li>
+<li>Participating in code discussions and reviews</li>
+<li>Collaborating using task management and issue tracking tools</li>
+<li>Attending weekly debriefing meetings</li>
+<li>Working with customer support to resolve customer issues</li>
+</ul><div><br></div><h1>Essential Skills</h1><div>The ideal candidate possesses the following skillset and tools:</div><ul>
+<li>Excellent understanding of PHP</li>
+<li>Excellent understanding of JavaScript</li>
+<li>Good working knowledge of TypeScript</li>
+<li>Good working knowledge of CSS and/or some of its derivatives</li>
+<li>Good working knowledge of WordPress plugin development</li>
+<li>Experience integrating third-party APIs</li>
+<li>A strong portfolio of past work</li>
+<li>Very good English speaking and writing skills</li>
+<li>Ability to work independently and be self-sufficient when necessary</li>
+</ul><div><br></div><h1>Bonus Skills</h1><div>Although not a must, the following skills would also be appreciated for this role:</div><ul>
+<li>Experience with Docker</li>
+<li>Experience with Apache and Nginx</li>
+<li>Good understanding of WebPack and Vite</li>
+<li>Experience with Figma</li>
+<li>Exposure to Linux, BSD, or other Unix-like operating systems</li>
+</ul><div><br></div><h1>Remuneration &amp; Perks</h1><div>The selected candidate will receive the following:</div><ul>
+<li>$42,000 to $50,000 annual remuneration</li>
+<li>4 weeks of paid leave annually</li>
+<li>The freedom to work remotely, ideally based within the EU or US</li>
+<li>A flexible work schedule with at least a 4-hour daily overlap with the rest of the team</li>
+<li>Continued learning supported by the company</li>
+<li>Attendance to conferences to expand our skills and connections</li>
+<li>Occasional company meet-ups and retreats to strengthen the team bond</li>
+</ul><div><br></div><h1>Apply Now</h1><div>When applying, it’s important that you:</div><ul>
+<li>Showcase your experience in WordPress plugin development.</li>
+<li>Introduce us to who you are – your experiences, qualifications, and what makes you tick.</li>
+<li>Include links to your profiles that showcase your craft (GitHub, GitLab, WordPress.org, etc) and other relevant professional links.</li>
+<li>Proofread more than once, because attention to detail is everything.</li>
+</ul><div>We’re excited to see the unique attributes you’ll bring to the RebelCode team.<br><br>
+</div><div>
+<a href="https://rebelcode.com/careers/open-position-full-stack-developer/">Please fill in the application form here</a> if you’re confident that you’d be a great fit for this role. <br><br>
+</div><div>Once your application is reviewed, it may take a few days until you are contacted. The hiring process may last a few weeks as we continue to receive applications, so please be patient throughout the process.<br><br>
+</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/govassist-llc-senior-full-stack-developer-2">https://weworkremotely.com/remote-jobs/govassist-llc-senior-full-stack-developer-2</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/rebelcode-ltd-full-stack-developer">https://weworkremotely.com/remote-jobs/rebelcode-ltd-full-stack-developer</a></p>
 
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0099/5721/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0103/5339/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>TextMagic</h5>
-                    <h3> Senior Back-end developer (PHP, Symfony, PostgreSQL)</h3>
+                    <h5>DogsThat</h5>
+                    <h3> Full time Front End Wordpress Developer/Designer/Jack of All Trades</h3>
                 </td>
                 <td width="300">
-                    <code>Back-End Programming</code>
+                    <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/textmagic-senior-back-end-developer-php-symfony-postgresql-1" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/dogsthat-full-time-front-end-wordpress-developer-designer-jack-of-all-trades" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0099/5721/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0103/5339/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Estonia
-    <br /><strong>URL:</strong> <a href="https://www.textmagic.com">https://www.textmagic.com</a>
+  <strong>Headquarters:</strong> Canada
+    <br /><strong>URL:</strong> <a href="https://dogsthat.com">https://dogsthat.com</a>
 </p>
 
-<div><strong>The main technologies we use:</strong></div><ul>
-<li>PHP 7, Symfony 4, Codeception, PHPUnit, OpenAPI<br><br>
+<div>
+<strong>NOTE: </strong>Please read the listing in full before applying. We will not respond to those that do not complete all steps. Please do not contact us if you are an agency/development company. We are looking for someone to join our team)<br><br>Come join the team that is making life better for dogs and their owners everywhere.</div><div><br></div><div>The DogsThat team is a diverse, fast moving, and passionate group who is looking for a talented full time Wordpress Developer/Designer to join the team. Hours are Monday to Friday 9 am - 5 pm ET.  (with flexibility for adjusting after the training period has passed)</div><div><br></div><div>We are looking for someone who wants to grow with our team alongside our entrepreneur Susan Garrett and be a part of our vision to improve the lives of dogs and dog owners by helping them understand each other better. </div><div><br></div><div>We’re a heart driven company, and believe that our community and students’ experience and success is one of the main contributing factors to our future success.</div><div><br></div><div><strong>You’re a perfect fit if you:</strong></div><div><br></div><div>- Have 3+ years of full-time experience as a front end Wordpress developer/designer</div><div>- Are proficient in PHP, HTML, CSS, Javascript, MySQL</div><div>- Bonus if you have experience with Wordpress page builder plugins (ex: Thrive Architect), Wordpress learning management systems (ex: LearnDash) and tools for creating and managing membership sites that integrate Wordpress with Keap (ex: Memberium) and Infusionsoft/Keap/ Kajabi CRM &amp; API</div><div>- Have a passion for beautiful and effective design.</div><div>- Proficient in WordPress Theme and Plugin Development</div><div>- Ensure the technical feasibility of UI/UX designs.</div><div>- Optimize application for maximum speed and scalability.</div><div>- Are proficient understanding of cross-browser compatibility issues how to test and ways to work around them.</div><div>- Understand code versioning tools like Github</div><div>- Have a good understanding of SEO principles and ensuring that application will adhere to them.</div><div>- Have a good understanding of Accessibility principles and ensuring that application will adhere to them.</div><div>- Understand project and development plans and are able to clearly articulate roles, project goals, and timelines.</div><div>- Have good communication skills and ability to relate to team members and our community world wide.</div><div>- Are willing to watch a 15 minute dog training video from our CEO for ideas on how to set up the page design.</div><div><br></div><div><strong>What we look for in a team member:</strong></div><div>- Ability to own development tasks from assignment through to production yet also works collaboratively with others cross-functionally.</div><div>- Agile, humble, trustworthy, and a team player.</div><div>- Flexibility for taking on tasks that fit outside of the traditional front end development roles, ie. building classrooms in Kajabi and Wordpress and other website related projects as needed.</div><div>- Be self-motivated and take initiative.</div><div>- Willingness and desire to learn.</div><div>- Are able to work in East Coast Timezones</div><div>- Fluency (written and verbal) in English.</div><div>
+<br><br>
+</div><div><strong>This job is probably not for you if...  </strong></div><div><br></div><div>You get easily distracted and need to be closely managed on a daily basis.</div><div>You do not have good time management skills or ability to be organized.</div><div>You are fazed by shifting priorities.</div><div>You don’t enjoy trying new things in technology or trying new tactics to improve efficiency.</div><div>You do not have experience working from home, in a virtual team, or in an agile development environment.</div><div>You do not have attention to detail or a high level of follow through.</div><div>You do not like dogs 🐶 ( 😉 ) or communicating with people from all over the world!  </div><div><br></div><div>Note: There will be times where it’s all hands on deck for planned activities, and times when we meet outside our own time zone. Flexibility is a must as this position may need a level of responsiveness outside of the normal work week and standard work hours during three to four events a year.  </div><div><br></div><div><strong>Benefits of working at DogsThat</strong></div><div><br></div><div>💻 Remote</div><div><br></div><div>🌐 Work with a diverse and inclusive team from around the world where ideas are encouraged and heard.</div><div><br></div><div>🤝 Supportive and positive work environment</div><div> </div><div>✨ Varied and interesting projects.</div><div><br></div><div>📚 Opportunity and encouragement to grow and improve your skill-set.</div><div><br></div><div>🎵 Monthly fun team Luna Park (virtual musical bingo and other fun team activities).<br><br><strong>DogsThat Impact &amp; Equity </strong>
+</div><div><br></div><div>Here at Say Yes/DogsThat we recognize and celebrate the diverse backgrounds of any identity or life experience of our team, our students and our worldly community. </div><div><br></div><div>As an online team we strive in our actions and behaviours together to be congruent and in alignment with our personal and professional values as we pursue the mission and vision. </div><div><br></div><div>We acknowledge the growing potential of each of us in developing an environment of learning, collaboration, caring and trust for each other be it within our team or serving our community. </div><div><br></div><div>We are guided by our cultural values as we move toward inclusion and equity which are personal growth, pride for our work, personal integrity and practicing kindness toward each other.</div><div><br></div><div>
+<strong>If this sounds like your kind of place, apply with your resume to </strong><a href="mailto:careers@dogsthat.com"><strong>careers@dogsthat.com</strong></a>
+</div><div><br></div><div>With answers to the following questions:<br><br>
+</div><ol>
+<li>What appeals to you about this job description?<br><br>
 </li>
-<li>PostgreSQL 10, Memcached<br><br>
+<li>This role includes a lot of cross functional work. You will be working collaboratively with others frequently. The work includes a lot of varied tasks on a given day. How comfortable are you with shifting tasks and shifting priorities?<br><br>
 </li>
-<li>Beanstalk<br><br>
+<li>Describe and provide links to GitHub or other similar resources for your previous Wordpress development and front end work.<br><br>
 </li>
-<li>Docker<br><br>
+<li>Our team is unique and small with lots of cross functional roles. Are willing to watch a 15 minute dog training video from our CEO for ideas on how to set up the page design.<br><br>
 </li>
-</ul><div><strong>What you will do:</strong></div><ul>
-<li>Develop new features and platform architecture.<br><br>
+<li>What is the salary range you are looking for?<br><br>
 </li>
-<li>Design and build REST API.<br><br>
-</li>
-<li>Integrate with third-party services using API.<br><br>
-</li>
-<li>Refactoring and code optimization.<br><br>
-</li>
-<li>Scale the project for increasing loads.<br><br>
-</li>
-<li>Participate in the team’s product logic development.<br><br>
-</li>
-<li>Undertake code reviews of other team members’ work.<br><br>
-</li>
-<li>Optimize database queries.<br><br>
-</li>
-</ul><div><strong><br>What we expect from you:</strong></div><ul>
-<li>Excellent knowledge of and experience with the technologies listed above.<br><br>
-</li>
-<li>A clear understanding of the architecture of a web application and its separate components.<br><br>
-</li>
-<li>An understanding of how the HTTP request lifecycle works.<br><br>
-</li>
-<li>Experience in building REST API.<br><br>
-</li>
-<li>An understanding of the principles of SOLID and OOP.<br><br>
-</li>
-<li>Experience in creating high-load systems in conditions of zero downtime.<br><br>
-</li>
-<li>An understanding of how to build efficient, scalable database architecture. Experience with PostgreSQL or MySQL (writing complex queries; understanding EXPLAIN; optimizing slow queries without changing the database structure; changing schemas of large tables without downtime, etc.)<br><br>
-</li>
-</ul><div><br></div><div><strong><br>What we offer:</strong></div><ul>
-<li>Full support for your professional growth.<br><br>
-</li>
-<li>Any equipment you need for productive work.<br><br>
-</li>
-<li>The opportunity to bring your vision to the project.<br><br>
-</li>
-<li>Remote working.<br><br>
-</li>
-<li>A professional and friendly team, ready to help you.<br><br>
-</li>
-</ul>
+<li>Which of the required job skills do you feel you are strongest at?</li>
+</ol><div>
+<br><br>
+</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/textmagic-senior-back-end-developer-php-symfony-postgresql-1">https://weworkremotely.com/remote-jobs/textmagic-senior-back-end-developer-php-symfony-postgresql-1</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/dogsthat-full-time-front-end-wordpress-developer-designer-jack-of-all-trades">https://weworkremotely.com/remote-jobs/dogsthat-full-time-front-end-wordpress-developer-designer-jack-of-all-trades</a></p>
 
                 </details>
                 </td>
@@ -180,7 +157,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/smily-front-end-developer" align="right" target="_blank">Apply</a>
@@ -237,7 +214,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/cobbleweb-senior-full-stack-php-developer-4" align="right" target="_blank">Apply</a>
@@ -287,7 +264,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>35 days ago</text>
+                <text>37 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2" align="right" target="_blank">Apply</a>
@@ -340,7 +317,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>35 days ago</text>
+                <text>37 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2" align="right" target="_blank">Apply</a>
@@ -402,7 +379,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>55 days ago</text>
+                <text>57 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/trendspider-front-end-software-developer" align="right" target="_blank">Apply</a>
@@ -452,7 +429,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>932 days ago</text>
+                <text>934 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1" align="right" target="_blank">Apply</a>
@@ -520,158 +497,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1">https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1680495/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Coalition Technologies </h5>
-                    <h3>Front End Developer</h3>
-                </td>
-                <td width="300">
-                    <code>CSS,excel,frontend,git</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="h3">WHY YOU SHOULD APPLY:</div>
-<p> </p>
-<p>Coalition Technologies is devoted to delivering clients the highest quality work while providing our team a fun, thriving, and innovative environment. Along with the opportunity for tremendous career growth and rapid advancement, CT offers:</p>
-<ul style="">
-<li style="">The most competitive profit-sharing bonus plan in the industry, paying up to 50% of company profits to full-time employees each month!</li>
-<li style="">A highly competitive Paid Time Off plan, promoting quality work-life balance.</li>
-<li style="">Subsidized gym memberships to help team members feel their best.</li>
-<li style="">Medical, dental, vision, and life insurance packages for all US-based team members.</li>
-<li style="">International Health Insurance Reimbursement Program for all international team members, a benefit unique to Coalition.</li>
-<li style="">Device upgrade and learning reimbursement programs.</li>
-<li style="">Motivating career development plans with clearly defined goals and rewards.</li>
-<li style="">Additional job-specific incentives and bonuses.</li>
-</ul>
-<p>Plus, 100% of our team works remotely with the support of time tracking software. Our company culture specializes in supporting remote team members, and we’ve been doing so for more than a decade. CT welcomes your application, wherever in the world it's coming from!</p>
-<div class="h3"> </div>
-<div class="h3">YOU SHOULD HAVE:</div>
-<p> </p>
-<ul style="">
-<li style="">An expertise in HTML5, CSS3 and jQuery</li>
-<li style="">A thorough understanding of cross-browser compatibility issues</li>
-<li style="">Experience with media queries</li>
-<li style="">A knowledge of CSS platforms such as Twitter’s Bootstrap</li>
-<li style="">An ability to multi-task on multiple projects and tasks at the same time</li>
-<li style="">Great attention to detail and be highly organized</li>
-<li style="">A positive and upbeat attitude with the ability to learn quickly</li>
-<li style="">Proficiency in PHP/MYSQL and AJAX (preferred)</li>
-<li style="">Experience with WordPress, BigCommerce, Magento, and Shopify (preferred)</li>
-<li style="">Excellent written and spoken English</li>
-<li style="">The availability to work 40 hours per week from 9:00 am to 6:00 pm PST</li>
-<li style="">The ability to adapt to a diverse and multicultural environment</li>
-<li style="">Passion to build a startup</li>
-<li style="">Reliable transportation if working in-house</li>
-<li style="">A reliable workstation with a fast computer, microphone and speakers, reliable internet and power if working remotely</li>
-</ul>
-<div class="h3"> </div>
-<div class="h3">YOUR DUTIES AND TASKS:</div>
-<p> </p>
-<ul style="">
-<li style="">Transforming complex layout PSDs into pixel-perfect presentation-layer HTML5/CSS3 templates</li>
-<li style="">Creating responsive website designs</li>
-<li style="">Building websites with WordPress, extending and developing plugins and themes</li>
-<li style="">Working with Photoshop, Illustrator, and Fireworks to create images optimized for the web</li>
-<li style="">Working with version control systems such as GIT / SVN</li>
-<li style="">Working under tight deadlines</li>
-<li style="">Handling multiple projects at the same time</li>
-<li style="">Producing high quality of work with a strong focus on detail</li>
-</ul>
-<div class="h5"> </div>
-<div class="h5">We are looking for talented and diligent candidates who excel in our skills tests, and will consider these candidates even if past experience or educational background criteria aren't met.</div>
-<p> </p>
-<p>*Starting base pay in the US states of California, New York, Washington and Colorado for this position ranges between $15 - $35 per hour</p>
-<img src="https://remotive.com/job/track/1680495/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/814298/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>A.Team</h5>
-                    <h3>Senior Independent Software Developer</h3>
-                </td>
-                <td width="300">
-                    <code>go,wordpress,chat,apple</code>
-                </td>
-                <td width="200">
-                <text>17 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="text-size-adjust: 100%; overflow-wrap: break-word;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. </p>
-<p style="text-size-adjust: 100%; overflow-wrap: break-word;">After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.</p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><em>As part of A·Team, you can expect:</em></span></p>
-<ul style="">
-<li style=""><strong>High-paying, meaningful missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
-<li style=""><strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
-<li style=""><strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
-<li style=""><strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
-<li style=""><strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
-</ul>
-<p> </p>
-<p> </p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>How to apply:</strong></span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Go here: <a href="https://build.a.team/remotivereferral" rel="nofollow">https://build.a.team/remotivereferral</a> + mention Remotive. </span>No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.</p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>What you’ll do:</strong></span></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><strong><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Who A</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">·</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Team is for:</span></strong></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing</span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><strong><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Who A</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">·</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Team is </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">not</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"> for:</span></strong></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">People looking for small gigs</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Folks looking to build simple wordpress/wix/squarespace-style websites</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Those still early in their careers and recent university/bootcamp grads (at least not yet)</span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>Our long-term vision:</strong></span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a new type of company for a new kind of independent software builder. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</span></p>
-<img src="https://remotive.com/job/track/814298/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -898,89 +723,6 @@
 <p>Experience with full-stack web development, Python, PostgreSQL, and Linux is required. Competency or interest in data visualization, UI, UX, and design are desired.</p>
 <p>Why Join MixRank? Fully-remote, no HQ office. Team of 32 people across 15+ countries Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
 <p>Please include your updated resume when applying for this role.</p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Status</h5>
-                    <h3>Web Developer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4365480&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <p>&nbsp;</p>
-<p><strong>The project</strong></p>
-<p>Our organization is closely involved in a new community lead project, called Logos, and this role will enable you to focus on its development. Logos is a grassroots movement to provide trust-minimized, corruption resistant governing services and social institutions to underserved citizens. Logos’ infrastructure will provide a base for the provisioning of the next-generation of governing services and social institutions - paving the way to economic opportunities to those who need them most, whilst respecting basic human rights through the network’s design.</p>
-<p>In order to promote the ideas behind Logos and its vision, we have created a brand studio called acid.info and you will be part of it. <a href="http://acid.info/">Acid.info</a> is the studio and creative engine within the Logos DAO. Our mission is to build, and ensure, technologies and creativity that supports freedom, justice, and innovation for all people of the world.&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>The role</strong></p>
-<p>As a Web Developer, you will be responsible for the development and technical maintenance of various web-based projects in the studio. Your role will involve decision-making for code architecture, writing tests, choosing the right technology stack, and any other related tasks. You will work closely with the development team, studio lead, and design team to bring our web projects to life. You will take care of all technical aspects of all web projects (from development and testing to deployment and maintenance)&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Responsibilities</strong></p>
-<ul>
-<li>You will be developing and implementing internal tools, including our wiki engine framework, branding design portal our design systems implementation in React</li>
-<li>You will co-write documentation for all the above mentioned products/projects</li>
-<li>You will be responsible for maintaining our open-sourced codebases on Github</li>
-<li>You will be improving the architect and implementation<a href="https://github.com/acid-info/logos-site-builder"> our current site-generator framework</a> (built on top NextJS) and develop it further</li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>You ideally will have</strong></p>
-<ul>
-<li>Experience in ReactJS and NodeJs (all in Typescript)&nbsp;</li>
-<li>Good understanding of software architecture</li>
-<li>Experience in implementation of frontend libraries and design systems</li>
-<li>Experience working with Git, Docker and NextJS framework as well as Vercel and/or Netlify</li>
-<li>A strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>Bonus points if</strong></p>
-<ul>
-<li>You are comfortable in working remotely and asynchronously</li>
-<li>You have experience working for an open source organisation</li>
-<li>You have exposure to creative coding (processing, open frameworks, WebGL, writing shaders, p5js)</li>
-</ul>
-<p><em>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</em></p>
-<p>&nbsp;</p>
-<p><strong>Compensation</strong></p>
-<p><span style="font-weight: 400;">The expected compensation range for this role is $40,000 - $60,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process. </span></p>
-<p>&nbsp;</p>
-<p><strong>Hiring process</strong></p>
-<ol>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with POps team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Web Developer and Design Studio Lead</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Assessment (paid)</span></li>
-</ol>
-<p><em><span style="font-weight: 400;">[The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline!]</span></em></p>
-<p>&nbsp;</p>
-<p><strong>Get to know us</strong></p>
-<p><span style="font-weight: 400;">Find out about the Logos here: </span><a href="https://logos.co"><span style="font-weight: 400;">https://logos.co</span></a></p>
-
-    
-
-    
 
                 </details>
                 </td>
