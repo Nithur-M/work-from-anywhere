@@ -1,57 +1,5 @@
 <div align="center"><h2>PROJECT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1747577/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>TruSport</h5>
-                    <h3>Technical Marketing Project Manager</h3>
-                </td>
-                <td width="300">
-                    <code>project management,asana,google suite,time management</code>
-                </td>
-                <td width="200">
-                <text>15 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/marketing/technical-marketing-project-manager-1747577" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>About us:</p>
-<p>We are a globally distributed team on a mission of global domination. I am looking for a Technical Marketing Project Manager to help herd cats and be the glue between marketing tech and channel managers. Asana experience is a plus...</p>
-<p> </p>
-<p>Summary: </p>
-<p>We seek a skilled and detail-oriented Technical Marketing Project Manager to join our dynamic team. As the Technical Marketing Project Manager, you will be crucial in coordinating and overseeing marketing projects with a strong technical component. Your primary responsibility will be to ensure smooth project execution, manage sprints, and facilitate effective communication between cross-functional teams and external vendors. This part-time role requires proficiency in marketing, technical expertise, and experience using project management tools such as Asana, Slack, and Google Suite.</p>
-<p> </p>
-<p>Responsibilities:</p>
-<ol class="_listContainer_1wyhh_1" style="">
-<li style="">Project Management: Plan, execute, and track marketing projects with a technical focus. Create detailed project timelines, milestones, and deliverables.</li>
-<li style="">Sprint Management: Lead sprint planning and execution, ensuring tasks are assigned, completed on time, and meeting quality standards.</li>
-<li style="">Communication: Facilitate open and effective communication channels between internal teams, stakeholders, and external vendors. Provide daily updates on project statuses, needs, and blockers to ensure transparency and alignment.</li>
-<li style="">Cross-Functional Collaboration: Collaborate with marketing, design, development, and other teams to ensure seamless coordination of efforts and successful project delivery.</li>
-<li style="">Technical Expertise: Leverage your technical knowledge to understand project requirements, provide valuable insights, and ensure marketing strategies align with technical capabilities.</li>
-<li style="">Issue Resolution: Proactively identify potential roadblocks and challenges, and work with teams to develop solutions and remove obstacles hindering project progress.</li>
-<li style="">Vendor Management: Oversee relationships with external vendors, ensuring they meet project expectations and deadlines.</li>
-<li style="">Performance Measurement: Monitor project performance, track KPIs, and analyze data to provide regular progress reports to stakeholders.</li>
-</ol>
-<p> </p>
-<p>Requirements:</p>
-<ul class="_listContainer_1wyhh_1" style="">
-<li style="">Proven experience in marketing and project management in a technical environment.</li>
-<li style="">Familiarity with project management tools such as Asana, Slack, and Google Suite.</li>
-<li style="">Strong organizational and time management skills to handle multiple projects and deadlines effectively.</li>
-<li style="">Excellent communication and interpersonal skills to collaborate with diverse teams and stakeholders.</li>
-<li style="">Detail-oriented with a focus on ensuring high-quality deliverables.</li>
-<li style="">Ability to proactively identify and address project issues to keep projects on track.</li>
-<li style="">A passion for staying up-to-date with marketing trends and technological advancements.</li>
-</ul>
-<img src="https://remotive.com/job/track/1747577/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -90,30 +38,6 @@
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://apply.workable.com/covergo/j/3BA9D05924" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Top 3 Reasons To Join Us</strong></p><ul> <li>Competitive Salary</li> <li>100% Remote</li> <li>Insurtech industry leader worldwide</li> </ul><p><strong>About Us</strong></p><p>At CoverGo, our mission is to help insurance companies and banks to make insurance 100% digital, to better serve their customers.</p><ul> <li>We are the leading provider of cutting-edge technology to the insurance industry</li> <li>We’re also the winner of the insurtech of the year in all of Asia in 2021 and other awards globally</li> <li>We work with enterprise clients such as AXA, MSIG, DBS, Fubon, Bank of China Group Insurance, and many more</li> <li>We're an international, diverse team with over 20 nationalities and team members working remotely from all over the world</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors</li> <li>We have offices in Singapore, Hong Kong, and Vietnam. We plan to expand to the US and other markets in the upcoming months</li> <li>We’ve grown our annualized revenue by over 2000% since January 2021</li> <li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world</li> </ul><p><strong>What You Will Do</strong></p><ul> <li>Engage and manage relationships with clients and stakeholders</li> <li>Leading project planning sessions with internal and client staff</li> <li>Support solution proposals for client pursuits, proposals, and PoCs</li> <li>Participating in proposal and POC processes (i.e. design, submission and review)</li> <li>Support the creation of contracts and related communication with clients</li> <li>Identifying and helping secure growth opportunities for existing clients</li> <li>Managing project progress and adapting work as required</li> <li>Ensuring projects meet deadlines</li> <li>Managing relationships with clients and stakeholders</li> <li>Lead the team to reach objectives and manage resources in an Agile way (Scrum \ Kanban) using backlogs, planning, retrospectives</li> <li>Regular/weekly project review and creating reports with key metrics about team and project status using company standard metrics</li> <li>Overseeing all incoming and outgoing project documentation</li> <li>Identify and manage issues, risks, assumptions, and dependencies</li> <li>Continuously optimize and improve processes and the overall approach where necessary</li> </ul><p><strong>What We Need</strong></p><ul> <li>Bachelor's degree in computer science or a related technical field is a plus</li> <li>5+ years experience as a Project Manager</li> <li>Min of 2 years of insurance experience is a MUST</li> <li>Agile experience is a must</li> <li>Strong Client facing experience is a plus</li> <li>Technical skills is a plus</li> <li>Experience seeing projects through the full life cycle</li> <li>Excellent analytical skills and problem-solving skills</li> <li>Strong interpersonal skills and extremely resourceful</li> <li>Proven ability to complete projects according to outlined scope, budget, and timeline</li> <li>Self-motivated and able to work independently</li> <li>Able, willing and excited to work in a fast-paced collaborative startup environment</li> </ul><p><strong>Why You'll Love Working Here</strong></p><ul> <li>Full-remote employment, work from anywhere and/or from one of our physical offices in Vietnam, Singapore or Hong Kong occasionally</li> <li>Local time zone office hours, work by your schedule</li> <li>Paid annual leaves</li> <li>Employee stock options</li> <li>Performance bonus</li> <li>Performance review 2x a year</li> <li>Company activities &amp; team offsites to exotic locations</li> <li>Training and development plan</li> </ul><p><strong>Covergo Company </strong><a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"><strong>Video</strong></a></p><h3>Requirements: </h3><h3>Benefits: </h3>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1382655628523364355/MWPIbbID_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CoverGo</h5>
-                    <h3>Digital Insurance Project Manager (Fully Remote)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/covergo/j/D1124A158E" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
