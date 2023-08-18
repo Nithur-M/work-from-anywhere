@@ -1,5 +1,72 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0103/4304/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Retreat Guru</h5>
+                    <h3> Senior Software Engineer (Full-Stack)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/retreat-guru-senior-software-engineer-full-stack" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0103/4304/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Nelson, British Columbia
+    <br /><strong>URL:</strong> <a href="https://retreat.guru">https://retreat.guru</a>
+</p>
+
+<div>
+<strong>Are you a Senior Full Stack Developer who is passionate about making a difference in the world?<br></strong><br>
+</div><div>As part of the team, you will develop and implement new software features, oversee the enhancement of the company’s retreat management SaaS product, and collaborate with cross-functional teams to ensure the platform meets user needs. The ideal candidate has professional and leadership experience in software engineering, a product mindset, a strong foundation in design principles, and the ability to learn new things quickly.<br><br>
+</div><div>Retreat Guru offers a family-friendly work environment with flexible working hours and remote work options. If you have a passion for helping others and finding creative ways to solve problems, we welcome you to apply. The salary ranges from $90,000 to $115,000 per year, depending on experience.<br><br>
+</div><div>
+<strong>Role &amp; Responsibilities:<br></strong><br>
+</div><ul>
+<li>Develop and implement new software features that support retreat centers.</li>
+<li>Architect and oversee the enhancement of our retreat management SaaS product.</li>
+<li>Collaborate cross-functionally to ensure that our platform meets user needs.</li>
+</ul><div>
+<br><strong>You should have:<br></strong><br>
+</div><ul>
+<li>Professional experience in software engineering, with a focus on developing well-designed software and successfully leading projects to completion.</li>
+<li>In-depth knowledge of the software development life cycle and software engineering concepts.</li>
+<li>A product mindset, striving to understand the “why” behind building a feature, as well as the means to measure its impact.</li>
+<li>A varied skill set (or be a T-shaped/Full-stack developer), with experience and excitement in solving problems that require a mix of frontend and backend skills, and the ability to unblock any obstacles that stand in the way of success.</li>
+<li>A strong foundation in design principles, particularly when it comes to platform development in areas such as API, data modeling, and scalability.</li>
+<li>Experience in writing automated tests as a part of your development workflow.</li>
+<li>A natural curiosity and passion to continuously learn new things; Retreat Guru is a fast-changing environment, and we need individuals who can adapt and learn quickly.</li>
+<li>Familiarity with PHP, or the desire to learn it quickly.</li>
+</ul><div>
+<br><strong>The tools we use include:<br></strong><br>
+</div><ul><li>PHP, HTML over the wire, JavaScript, MySQL, Redis, Elasticsearch, CircleCI, AWS, Pagely, Metabase, WordPress</li></ul><div>
+<br><strong>Projects you could work on:<br></strong><br>
+</div><ul>
+<li>Building new features to support retreat centers.</li>
+<li>Developing a new vendor UI for our retreat management SaaS product.</li>
+<li>Refactoring legacy code.Improving our newly built retreat marketplace.</li>
+</ul><div>
+<br>If your experience is similar to what we’re looking for, please apply.<br><br>
+</div><div>We have found that passion goes a long way and that skills can be learned. Our company has evolved greatly by leveraging the wisdom of the group, particularly in problem-solving and creative thinking. The more diverse our group is, the better equipped we are to serve the needs of our users. Therefore, we encourage you to apply if you think this might be a good fit for you.<br><br>
+</div><div>About Retreat Guru:<br>More information about our company is <a href="https://retreat.guru/about">here</a>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/retreat-guru-senior-software-engineer-full-stack">https://weworkremotely.com/remote-jobs/retreat-guru-senior-software-engineer-full-stack</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +77,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>205 days ago</text>
+                <text>206 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -354,88 +421,6 @@
 <p><strong>Compensation</strong><span style="font-weight: 400;">:</span></p>
 <p><span style="font-weight: 400;">We are happy to pay salaries in either 100% fiat or any mix of fiat and/or crypto. For more information regarding benefits at Status: https://people-ops.status.im/tag/perks/</span></p>
 <p>&nbsp;</p>
-
-    
-
-    
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Status</h5>
-                    <h3>Software Engineer (Distributed Systems Testing)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=5113467&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <h3 data-startline="9" data-endline="12">The team:</h3>
-<p data-startline="9" data-endline="12">We are the&nbsp;<a href="https://vac.dev/" target="_blank">Vac</a> Distributed Systems Testing R&amp;D service unit.</p>
-<p data-startline="9" data-endline="12">We specialize in developing software tools and methodologies to test and analyze the behaviour of distributed systems within the <a href="https://logos.co/">Logos collective</a></p>
-<p data-startline="9" data-endline="12">Our primary objective is to ensure the scalability and reliability of Logos projects by providing comprehensive testing solutions.<br>Through the utilization of tools like wakurtosis, we empower projects to evaluate the scaling behaviour of their nodes within larger networks and plan conduct through regression testing.</p>
-<h3 id="The-role" data-startline="14" data-endline="14">The role:</h3>
-<p data-startline="16" data-endline="19">We are seeking a skilled and passionate Software Engineer to join our Vac Distributed Systems Testing (DST) team.&nbsp;You will play a crucial role in ensuring the reliability, performance, and scalability of distributed systems within Vac and the Logos collective.</p>
-<h3 id="Key-responsibilities" data-startline="21" data-endline="21">Key responsibilities:</h3>
-<p>Your responsibilities will include developing and executing comprehensive test plans, as well as contributing to the identification and resolution of complex issues.</p>
-<p>Leveraging your expertise in Python programming and systems knowledge, you will design and implement network simulation tools and solutions to validate the functionality and performance of distributed systems.&nbsp;</p>
-<ul data-startline="23" data-endline="30">
-<li data-startline="23" data-endline="23">Develop, implement, and maintain integration tests in collaboration with a Test Analyst</li>
-<li data-startline="24" data-endline="24">Execute and automate test plans, test cases, and test scripts to validate the functionality, performance, and scalability of distributed systems</li>
-<li data-startline="25" data-endline="25">Identify, reproduce, and debug complex issues in distributed systems, working closely with Logos development teams</li>
-<li data-startline="26" data-endline="26">Design, implement, and document Python-based solutions for distributed systems</li>
-<li data-startline="27" data-endline="27">Collaborate with the Vac DST team on concurrent/distributed system programming and design</li>
-<li data-startline="28" data-endline="28">Work with Docker, Kubernetes, and POSIX-like systems</li>
-<li data-startline="29" data-endline="30">Optimize solutions for performance and scalability</li>
-</ul>
-<h3 id="You-ideally-will-have" data-startline="31" data-endline="31">You ideally will have:</h3>
-<ul data-startline="33" data-endline="39">
-<li data-startline="33" data-endline="33">Solid experience with Python programming and a systems language like Rust, C++, Nim, Go.</li>
-<li data-startline="34" data-endline="34">Strong foundation in networks and systems programming</li>
-<li data-startline="35" data-endline="35">Good algorithm design skills</li>
-<li data-startline="36" data-endline="36">Working knowledge of Docker, Kubernetes, and POSIX-like system</li>
-<li data-startline="38" data-endline="39">Alignment with our core values and principles: https://our.status.im/our-principles/</li>
-</ul>
-<h3 id="Bonus-points" data-startline="40" data-endline="40">Bonus points:</h3>
-<ul data-startline="42" data-endline="46">
-<li data-startline="42" data-endline="42">Experience with off-the-shelf networking stacks such as libp2p</li>
-<li data-startline="43" data-endline="43">Experience in performance modeling and measurement</li>
-<li data-startline="44" data-endline="44">Experience working with the Python scientific stack: Pandas, NumPy, Jupyter, etc.</li>
-<li data-startline="45" data-endline="45">Experience in blockchain technology</li>
-<li data-startline="46" data-endline="46">Experience working for an open-source organization</li>
-</ul>
-<p>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter]</p>
-<h3>Hiring Process:&nbsp;</h3>
-<ol>
-<li>Interview with our POps team</li>
-<li>Interview with team member from the Vac DST team</li>
-<li>Pair programming task with Vac team member</li>
-<li>Interview with Vac Team Lead&nbsp;</li>
-</ol>
-<p>[The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline].</p>
-<h3>Compensation:</h3>
-<p>We are happy to pay in any mix of fiat/crypto.</p>
 
     
 
