@@ -1,109 +1,5 @@
 <div align="center"><h2>SITE RELIABILITY ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MailerLite</h5>
-                    <h3> Site Reliability Engineer (Database)</h3>
-                </td>
-                <td width="300">
-                    <code>DevOps and Sysadmin</code>
-                </td>
-                <td width="200">
-                <text>29 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/mailerlite-site-reliability-engineer-database" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> USA
-    <br /><strong>URL:</strong> <a href="https://www.mailerlite.com/company-values">https://www.mailerlite.com/company-values</a>
-</p>
-
-<div>
-<a href="https://www.mailerlite.com/"><strong>MailerLite</strong></a> is one of the fastest-growing email marketing services. We help more than 1 million businesses around the world to keep in touch with their customers. Today, we are a team of more than 130 dreamers, adventurers, and world travelers passionate about what we do and believe in. And we are ready for another talented person to join the party.</div><div>
-<br>We’re looking for a <strong>Site Reliability Engineer</strong> with a strong database knowledge to join our SRE team and help with managing our Database and other infrastructure. 🚀<br><br>
-</div><h1><strong>Why MailerLite?</strong></h1><div>Wondering why we think you’ll love working for MailerLite? Here are our favorite 6 reasons!<br><br>
-</div><ul>
-<li>
-<strong>You'll grow, develop and evolve<br></strong>You'll have the opportunity to work on cutting-edge technologies, and keeping up to date in the SRE/DBE landscape. Each day will bring new and exciting challenges that will push your skills and expertise to the next level. Moreover, we are always looking for improvements and new ideas. You want to implement something? Write up the idea and start working on it.<br><br>
-</li>
-<li>
-<strong>You'll be challenged with interesting tasks<br></strong>You will be managing and maintaining our robust infrastructure, ensuing the reliability and scalability of our systems, automating tedious tasks, setting up fault tolerant infrastructure and services and contributing to our monitoring and observability stack.<br><br>
-</li>
-<li>
-<strong>You'll take ownership<br></strong>We expect you to take full responsibility and ownership of your tasks. Team leads avoid micromanaging and minimize interruptions so you can stay focused on your assignments.<br><br>
-</li>
-<li>
-<strong>You'll have experts at hand<br></strong>Whenever you’re stuck, your teammates with a wide range of different expertise are ready to help you grow. And they’d love for you to share your knowledge too!<br><br>
-</li>
-<li>
-<strong>You'll pick where you work, every day<br></strong>We embrace the remote culture. Every day you get to choose what environment makes you most productive.<br><br>
-</li>
-<li>
-<strong>You'll have stability<br></strong>We value a stable workplace! MailerLite has been thriving for over 10 years and our year-over-year growth continues to increase.</li>
-</ul><div>
-<br><br>
-</div><h1><strong>What you will work on</strong></h1><ul>
-<li>
-<strong>Database Management</strong>: Scale and architect solutions for our growing products database needs, planning new instances, monitoring and troubleshooting database related issues</li>
-<li>
-<strong>System Architecture</strong>: Collaborating with SRE and developers to design and implement reliable, reproducible, scalable systems</li>
-<li>
-<strong>Deploy and release management</strong>: Develop processes and tooling around our existing CI CD frameworks for effective deployment and releases</li>
-<li>
-<strong>Monitoring and Alerting</strong>: Setting up and scaling our monitoring systems across multiple components and services, ensuring the swift action and timely responding to critical incidents</li>
-<li>
-<strong>Infrastructure Automation</strong>: developing and maintaining Infrastructure-as-code to automate the provisioning of infrastructure and resources</li>
-<li>
-<strong>Documentation</strong>: Creating and maintaining critical documentation, runbooks and operation knowledge base to facilitate effective incident response and troubleshooting</li>
-</ul><div>
-<br><br>
-</div><h1><strong>What we expect from you</strong></h1><ul>
-<li>Proficient with Postgres, MySQL (ClickHouse/MongoDB/TimescaleDB)</li>
-<li>Proficient in CI/CD/IAC tools (Terraform/Ansible)</li>
-<li>Programming skills (Bash, Golang, Python)</li>
-<li>Proficient in Kubernetes / Containers</li>
-<li>You feel at home in the shell</li>
-<li>Outstanding attention to detail (if you apply, include the word <em>lite</em> somewhere in your application)</li>
-<li>Excellent verbal and written communication skills in English</li>
-<li>Communicative, proactive, go-for it attitude</li>
-<li>You have a sense of personal responsibility</li>
-<li>You're a great team player with a positive attitude</li>
-<li>You consistently want to learn more and improve your skills</li>
-<li>You look for automation possibilities when doing redundant tasks</li>
-<li>This position is full-time (40 hours per week)</li>
-</ul><div>
-<br><br>
-</div><h1><strong>What we offer</strong></h1><ul>
-<li>Yearly salary: $50,000-$75,000 (gross)</li>
-<li>Remote-first culture with the team working remotely from all over the world</li>
-<li>International health insurance provided with coverage in most countries. Monthly healthcare payout available in select countries where coverage is limited</li>
-<li>Company-paid retreats. Once per year we gather for a week in an exotic location to work, learn and have fun together</li>
-<li>31 days of vacation per year. We encourage you to unplug and recharge!</li>
-<li>12 paid sick days for your physical and mental well-being, no doctor's note required. Parents can use them to care for their sick children</li>
-<li>4 creative days. One paid day off per quarter to do something creative and fun</li>
-<li>12 parental days per year. Enjoy one paid day off each month to treasure time with your children</li>
-<li>Parental leave. Enjoy paid bonding time at 100% of your salary when welcoming a new child into your family through birth or adoption - 3 months of maternity leave and 1 month of paternity leave</li>
-<li>Parenting budget of $1000. Celebrate the arrival of your little one, whether through childbirth or adoption, with a special gift from us</li>
-<li>Joy Budget. Annual budget to spend on whatever that brings you joy</li>
-<li>MacBook and other tools that'll help you to do your job efficiently</li>
-<li>Check the full list of our awesome benefits <a href="https://www.mailerlite.com/employee-benefits"><strong>here</strong></a>
-</li>
-</ul><div><br></div><h1>Can't wait to receive your application 🤩</h1><div><br></div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/mailerlite-site-reliability-engineer-database">https://weworkremotely.com/remote-jobs/mailerlite-site-reliability-engineer-database</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/0772/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -114,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>300 days ago</text>
+                <text>302 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-site-reliability-engineer-1" align="right" target="_blank">Apply</a>
