@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rebelcode-ltd-full-stack-developer" align="right" target="_blank">Apply</a>
@@ -102,7 +102,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/dogsthat-full-time-front-end-wordpress-developer-designer-jack-of-all-trades" align="right" target="_blank">Apply</a>
@@ -157,7 +157,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/smily-front-end-developer" align="right" target="_blank">Apply</a>
@@ -204,6 +204,40 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0098/9004/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Harley Therapy - Psychotherapy & Counselling</h5>
+                    <h3> Mid-level  Ruby and JavaScript Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/harley-therapy-psychotherapy-counselling-mid-level-ruby-and-javascript-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0098/9004/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://harleytherapy.com">https://harleytherapy.com</a>
+</p>
+
+<div>We are Harley Therapy - established in 2006, and well-known as London's premium mental therapy providers. We have a team of highly experienced psychotherapists, clinical and counselling psychologists and psychiatrists in central London. We also run the Harley Therapy Platform, which is the UK’s leading mental therapy platform with therapists practising from their own rooms UK-wide.</div><div><br></div><div>We are a small team with big ambitions, and we are looking for a mid-level developer with equally strong skills in Ruby and JavaScript, and multi-year experience with Ruby, Rails, JavaScript, and CSS.</div><div><br></div><div>We use islands of JS and React, but experience with React is not necessary, as a good developer with good JS skills will be able to pick it up quickly. We like to use the right tool for the job, and only reach for React when the UI and UX will benefit.</div><div><br></div><div>This is a full time position, working remotely (GMT~5) to help improve all our software and websites, and in one case, help us rebuild the administrative system that helps our amazing admin team to manage clients and therapists.</div><div><br></div><div>You will have a hand in everything, and as we are a very small team, and you will also have a say in everything related to the technology side of the company. This also means that you will be expected to take responsibility for the entire stack from server to client. It will be common for you to be asked to build a new feature, right the way through from spec, UI, server, client, and of course deployment (we host on Heroku, with PostgreSQL, Sidekiq).</div><div><br></div><div>You will be an eager and passionate developer that loves what you do, and a fast learner that can hit the ground running without needing much of a hand to hold. A love of open source software would be a great benefit to you - and us.</div><div><br></div><div>This is a full time position, with great pay, and we will be happy to have you on board on a contract or employment basis.</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/harley-therapy-psychotherapy-counselling-mid-level-ruby-and-javascript-developer">https://weworkremotely.com/remote-jobs/harley-therapy-psychotherapy-counselling-mid-level-ruby-and-javascript-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/1275/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -214,7 +248,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/cobbleweb-senior-full-stack-php-developer-4" align="right" target="_blank">Apply</a>
@@ -264,7 +298,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>37 days ago</text>
+                <text>39 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2" align="right" target="_blank">Apply</a>
@@ -317,7 +351,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>37 days ago</text>
+                <text>39 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2" align="right" target="_blank">Apply</a>
@@ -379,7 +413,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>57 days ago</text>
+                <text>59 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/trendspider-front-end-software-developer" align="right" target="_blank">Apply</a>
@@ -419,84 +453,280 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/8032/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Storetasker</h5>
-                    <h3> Senior Shopify Developer (Remote + Flexible)</h3>
+                    <h5>A.Team</h5>
+                    <h3> Senior Independent Software Developer ($110-$190/hr)</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>934 days ago</text>
+                <text>751 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/8032/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0066/7400/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Brooklyn, NY
-    <br /><strong>URL:</strong> <a href="https://resources.storetasker.com/become-an-expert?apply=true&amp;source=weworkremotely_best_2021">https://resources.storetasker.com/become-an-expert?apply=true&amp;source=weworkremotely_best_2021</a>
+  <strong>Headquarters:</strong> NYC, SF, and TLV
+    <br /><strong>URL:</strong> <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a>
 </p>
 
-<h1>Shopify developers love to freelance with Storetasker.</h1><ul>
+<div>
+<a href="https://build.a.team/wwrfastrackreferral">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. <br><br>After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.<br><br>As part of A·Team, you can expect:</div><ul>
 <li>
-<strong>Endless, quality clients: </strong>from well known DTC brands to top agencies. </li>
+<strong>High-paying, meaningful missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
 <li>
-<strong>Fully remote, flexible: </strong>work as much or as little as you want, wherever you want. </li>
+<strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
 <li>
-<strong>A talented and helpful community: </strong>it's freelance (with a team).</li>
+<strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
 <li>
-<strong>Earn $80-$120 per hour: </strong>pick your clients, and send your own quotes or retainers. <br><br>
+<strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
+<li>
+<strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
+</ul><div>
+<br><strong>How to apply:<br></strong>Go here: <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a> + mention WWR under how you heard about A·Team. No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.<br><strong><br>What you’ll do:</strong>
+</div><ul>
+<li>Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would.</li>
+<li>Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </li>
+<li>You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is for:</strong>
+</div><ul>
+<li>Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy.</li>
+<li>Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</li>
+<li>The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing.</li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is </strong><strong><em>not</em></strong><strong> for:</strong>
+</div><ul>
+<li>People looking for small gigs.</li>
+<li>Folks looking to build simple wordpress/wix/squarespace-style websites.</li>
+<li>Those still early in their careers and recent university/bootcamp grads (at least not yet).</li>
+</ul><div>
+<br><strong>Our long-term vision:<br></strong><a href="https://build.a.team/wwrfastrackreferral">A·Team</a> is a new type of company for a new kind of independent software builders. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </div><div>
+<br>To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1761558/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>NEAR Builders</h5>
+                    <h3>Website Developer</h3>
+                </td>
+                <td width="300">
+                    <code>api,CSS,git,html</code>
+                </td>
+                <td width="200">
+                <text>3 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/website-developer-1761558" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="h4" id="7b2ba628-23d2-47e5-9d9c-1e71405ec011"><strong>Web Developer + Designer</strong></div>
+<p><strong> </strong></p>
+<p><strong>Overview: </strong>NEAR is a next-generation blockchain technology focused on developing innovative solutions on the NEAR blockchain platform. We are seeking a talented and creative web developer with UI / UX design expertise to join our team and play a pivotal role in building impactful user interfaces and experiences for decentralized applications.</p>
+<p> </p>
+<p><strong>Responsibilities:</strong>As a Web Designer working with NEAR Builders Cooperative, you will be responsible for creating visually appealing and user-centric interfaces on the <a href="https://docs.near.org/bos" rel="nofollow" target="_blank" title="https://docs.near.org/bos">blockchain operating system</a>. You will work closely with our teams to translate concepts into functional and interactive React-style components, ensuring a seamless and engaging user experience.</p>
+<p> </p>
+<p><strong>Requirements:</strong></p>
+<ul class="_listContainer_1wyhh_1" style="">
+<li style="">Collaborate with cross-functional teams to understand project requirements and user needs.</li>
+<li style="">Design and develop user interfaces for decentralized applications using React-style components built using the blockchain operating system.</li>
+<li style="">Create visually stunning and user-friendly UI designs, wireframes, and prototypes.</li>
+<li style="">Develop reusable and responsive React-style components that integrate seamlessly with the NEAR blockchain.</li>
+<li style="">Optimize user experiences by implementing effective UI/UX design principles and industry best practices.</li>
+<li style="">Conduct user research, usability testing, and gather feedback to iterate on designs and improve user satisfaction.</li>
+<li style="">Collaborate with front-end and contract developers to ensure smooth integration of UI components with indexer systems (Query API, etc.)</li>
+<li style="">Stay up-to-date with industry trends, emerging technologies, and design standards related to blockchain and UI/UX design.</li>
+<li style="">Participate in design reviews, brainstorming sessions, and contribute innovative ideas to enhance product aesthetics and functionality.</li>
+</ul>
+<p><strong> </strong></p>
+<p><strong> </strong></p>
+<p><strong>Qualifications:</strong></p>
+<ul class="_listContainer_1wyhh_1" style="">
+<li style="">Proven experience in designing and developing UI/UX for web applications using React, HTML, CSS, and JavaScript.</li>
+<li style="">Familiarity with blockchain technology and understanding of decentralized application architecture, particularly on the NEAR blockchain, is a plus.</li>
+<li style="">Strong understanding of user-centered design principles and interaction design best practices for engineering chain-agnostic solutions made of JavaScript components.</li>
+<li style="">Ability to create wireframes, prototypes, and mockups that effectively communicate design concepts and translate them into the unique BOS dev environment.</li>
+<li style="">Excellent communication skills and ability to work openly and collaboratively in a fast-paced, dynamic environment.</li>
+<li style="">Attention to detail, creativity, and a passion for delivering high-quality products.</li>
+<li style="">Experience with version control systems (e.g., Git) is preferred.</li>
+</ul>
+<p> </p>
+<p>The first project aims to build a chatroom-esque app that curates together feeds and allows the users to create exclusive rooms. The rooms will be fully customizable, allowing users to add their own features and swap out with their own<span style="color: var(--remotive-chocolate);"> templates. It may be wrong to call these “Chats”, because they’re more like curated feeds. We’re building a tool for users to create, manage, and view theirs and other’s curations. </span></p>
+<p><span style="color: var(--remotive-chocolate);"> </span></p>
+<p><span style="color: var(--remotive-chocolate);">See the full write-up here: </span><span style="color: var(--remotive-chocolate);"><a href="https://ambitious-spike-28a.notion.site/Chatroom-Curations-fc59b20079cb4f8fbf8f1372ce5f2c3f?pvs=4" rel="nofollow" target="_blank" title="https://ambitious-spike-28a.notion.site/Chatroom-Curations-fc59b20079cb4f8fbf8f1372ce5f2c3f?pvs=4">INITIAL PROJECT PLAN</a></span></p>
+<p> </p>
+<p>If you are a talented Web Designer and UI/UX Developer with a passion for blockchain technology and user-centric design, we encourage you to apply and join NEAR Builders. Help shape the future of decentralized applications on the NEAR blockchain, to infinities and beyond!</p>
+<img src="https://remotive.com/job/track/1761558/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1680495/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Coalition Technologies </h5>
+                    <h3>Front End Developer</h3>
+                </td>
+                <td width="300">
+                    <code>CSS,excel,frontend,git</code>
+                </td>
+                <td width="200">
+                <text>8 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="h3">WHY YOU SHOULD APPLY:</div>
+<p> </p>
+<p>Coalition Technologies is devoted to delivering clients the highest quality work while providing our team a fun, thriving, and innovative environment. Along with the opportunity for tremendous career growth and rapid advancement, CT offers:</p>
+<ul style="">
+<li style="">The most competitive profit-sharing bonus plan in the industry, paying up to 50% of company profits to full-time employees each month!</li>
+<li style="">A highly competitive Paid Time Off plan, promoting quality work-life balance.</li>
+<li style="">Subsidized gym memberships to help team members feel their best.</li>
+<li style="">Medical, dental, vision, and life insurance packages for all US-based team members.</li>
+<li style="">International Health Insurance Reimbursement Program for all international team members, a benefit unique to Coalition.</li>
+<li style="">Device upgrade and learning reimbursement programs.</li>
+<li style="">Motivating career development plans with clearly defined goals and rewards.</li>
+<li style="">Additional job-specific incentives and bonuses.</li>
+</ul>
+<p>Plus, 100% of our team works remotely with the support of time tracking software. Our company culture specializes in supporting remote team members, and we’ve been doing so for more than a decade. CT welcomes your application, wherever in the world it's coming from!</p>
+<div class="h3"> </div>
+<div class="h3">YOU SHOULD HAVE:</div>
+<p> </p>
+<ul style="">
+<li style="">An expertise in HTML5, CSS3 and jQuery</li>
+<li style="">A thorough understanding of cross-browser compatibility issues</li>
+<li style="">Experience with media queries</li>
+<li style="">A knowledge of CSS platforms such as Twitter’s Bootstrap</li>
+<li style="">An ability to multi-task on multiple projects and tasks at the same time</li>
+<li style="">Great attention to detail and be highly organized</li>
+<li style="">A positive and upbeat attitude with the ability to learn quickly</li>
+<li style="">Proficiency in PHP/MYSQL and AJAX (preferred)</li>
+<li style="">Experience with WordPress, BigCommerce, Magento, and Shopify (preferred)</li>
+<li style="">Excellent written and spoken English</li>
+<li style="">The availability to work 40 hours per week from 9:00 am to 6:00 pm PST</li>
+<li style="">The ability to adapt to a diverse and multicultural environment</li>
+<li style="">Passion to build a startup</li>
+<li style="">Reliable transportation if working in-house</li>
+<li style="">A reliable workstation with a fast computer, microphone and speakers, reliable internet and power if working remotely</li>
+</ul>
+<div class="h3"> </div>
+<div class="h3">YOUR DUTIES AND TASKS:</div>
+<p> </p>
+<ul style="">
+<li style="">Transforming complex layout PSDs into pixel-perfect presentation-layer HTML5/CSS3 templates</li>
+<li style="">Creating responsive website designs</li>
+<li style="">Building websites with WordPress, extending and developing plugins and themes</li>
+<li style="">Working with Photoshop, Illustrator, and Fireworks to create images optimized for the web</li>
+<li style="">Working with version control systems such as GIT / SVN</li>
+<li style="">Working under tight deadlines</li>
+<li style="">Handling multiple projects at the same time</li>
+<li style="">Producing high quality of work with a strong focus on detail</li>
+</ul>
+<div class="h5"> </div>
+<div class="h5">We are looking for talented and diligent candidates who excel in our skills tests, and will consider these candidates even if past experience or educational background criteria aren't met.</div>
+<p> </p>
+<p>*Starting base pay in the US states of California, New York, Washington and Colorado for this position ranges between $15 - $35 per hour</p>
+<img src="https://remotive.com/job/track/1680495/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/814298/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>A.Team</h5>
+                    <h3>Senior Independent Software Developer</h3>
+                </td>
+                <td width="300">
+                    <code>go,wordpress,chat,apple</code>
+                </td>
+                <td width="200">
+                <text>21 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="text-size-adjust: 100%; overflow-wrap: break-word;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. </p>
+<p style="text-size-adjust: 100%; overflow-wrap: break-word;">After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.</p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><em>As part of A·Team, you can expect:</em></span></p>
+<ul style="">
+<li style=""><strong>High-paying, meaningful missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
+<li style=""><strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
+<li style=""><strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
+<li style=""><strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
+<li style=""><strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
+</ul>
+<p> </p>
+<p> </p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>How to apply:</strong></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Go here: <a href="https://build.a.team/remotivereferral" rel="nofollow">https://build.a.team/remotivereferral</a> + mention Remotive. </span>No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.</p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>What you’ll do:</strong></span></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would</span></p>
 </li>
-</ul><div>We've connected our community of Shopify developers to over 32,000 e-commerce brands. From new brands pre-launch, to some of the most successful Shopify Plus sites, to top creative agencies. Clients include: <a href="https://www.alphaindustries.com/">Alpha Industries</a>, <a href="https://www.bollandbranch.com/">Boll &amp; Branch</a>, <a href="https://getsuperfluid.com">Superfluid</a>, <a href="https://jackhenry.co/">Jack Henry</a>, <a href="http://plenaire.co/">Plenaire</a>, and <a href="https://walkfulton.com/">Fulton</a> among many more. <br><br><strong>Why Storetasker?</strong>
-</div><ul>
-<li>
-<strong>Endless clients &amp; project opportunities:</strong> you’ll see between 5 - 50 new opportunities per day and can pick any lead you want. </li>
-<li>
-<strong>You’ll earn more:</strong> some experts are making $150-200k per year. </li>
-<li>
-<strong>A high quality community:</strong> we carefully select about 5% of those who apply. </li>
-<li>
-<strong>Remote:</strong> work from anywhere, anytime. </li>
-<li>
-<strong>Flexible:</strong> take on as many clients as you want.</li>
-<li>
-<strong>No external ratings:</strong> you’re already a professional. No need to prove it. </li>
-<li>
-<strong>Great Software:</strong> that makes it easy to manage more clients and increase billable hours.</li>
-<li>
-<strong>Support when you need it:</strong> we offer project support 7 days per week. </li>
-<li>
-<strong>Community (not competition):</strong> you pick your clients, projects, and never compete against other Experts in the community. </li>
-</ul><div><br></div><div>
-<a href="https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_best_2021"><strong>Learn more and join</strong></a>! It’s confidential, and takes less than 5 minutes. <br><br><strong>Here's who we're looking for:</strong>
-</div><ul>
-<li>Ambitious part time and full-time freelancers and boutique agencies.</li>
-<li>Who have 3+ years of Shopify experience, and 5+ years of web development experience. </li>
-<li>And who have managed projects, deadlines, and communication successfully. </li>
-</ul><div>
-<br><strong>Especially people with some of these skills:</strong>
-</div><ul>
-<li>Front-end or full-stack Shopify development</li>
-<li>Klaviyo Email flows</li>
-<li>Headless e-commerce development</li>
-<li>Conversion rate optimization</li>
-<li>E-commerce expertise and strategy</li>
-<li>SEO </li>
-<li>Site Speed</li>
-<li>Builder and/or Shogun</li>
-</ul><div>
-<br><a href="https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_best_2021"><strong>It takes just a few minutes to join.</strong></a><br><br><strong>Here's what a few current members have to say:</strong><br><br>"Storetasker has changed my life - I'm not only making more, but I'm getting quality leads, a diverse slate of projects, and access to an amazing group of developers. Plus, I love the HQ team!" - Adan, United States, Storetasker Expert since March 2020<br><br>"Storetasker has connected me with clients that would never have been possible without them. That combined with an incredible support network and community makes joining an amazing opportunity for any developer”" - Mark, England, Storetasker Expert since 2019<br><br>"Storetasker has allowed me to live out my dreams as an independent developer - to move to Toronto and continue doing what I love: solving interesting problems and helping apparel companies grow." - Siah, Canada, Storetasker Expert since 2017<br><br><strong>Our Mission: </strong><br><br>We're a company built by ex-freelancers who know the ins and outs of being an independent entrepreneur. We've experienced first-hand the shortcomings of other freelance platforms and the pain-points of being fully independent. Our mission is to empower e-commerce entrepreneurs by giving them the experts, insights, and resources to succeed.  <br><br><strong>Questions?</strong> Reach out at experts@storetasker.com.</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1">https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1</a></p>
-
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </span></p>
+</li>
+</ul>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><strong><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Who A</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">·</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Team is for:</span></strong></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy.</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing</span></p>
+</li>
+</ul>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><strong><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Who A</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">·</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Team is </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">not</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"> for:</span></strong></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">People looking for small gigs</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Folks looking to build simple wordpress/wix/squarespace-style websites</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Those still early in their careers and recent university/bootcamp grads (at least not yet)</span></p>
+</li>
+</ul>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>Our long-term vision:</strong></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a new type of company for a new kind of independent software builder. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</span></p>
+<img src="https://remotive.com/job/track/814298/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
