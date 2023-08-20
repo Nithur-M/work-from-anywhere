@@ -1,5 +1,267 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/3712/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Tiller</h5>
+                    <h3> Experienced Software Engineer - Backend</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>31 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/tiller-experienced-software-engineer-backend" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0071/3712/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Seattle, WA
+    <br /><strong>URL:</strong> <a href="https://www.tillerhq.com">https://www.tillerhq.com</a>
+</p>
+
+<div>Tiller is seeking an experienced, team-oriented backend engineer with a passion for building robust, scalable software and systems for customer-focused financial products. You may be a perfect candidate if you have excellent communication skills, appreciate simple solutions to complex problems, and enjoy working collaboratively.</div><div><br></div><div>You are not expected to have experience with all listed requirements. If you feel passionately about Tiller’s mission, vision and values, please apply.</div><div><br></div><div>Our team is fully remote and based in the Pacific Time Zone (UTC–07:00).</div><div>
+<br><strong>What you will bring to Tiller</strong>
+</div><ul>
+<li>Expertise with one or more pieces of our tech stack (TypeScript, node.js, MongoDB, Redis, Docker, Google Cloud Platform, Github Actions)</li>
+<li>Strong understanding of cloud platform services (compute, storage, networking, permissions)</li>
+<li>Knowledge and skills for effectively monitoring distributed applications.</li>
+<li>Experience with tools and techniques for maintaining and refactoring legacy code.</li>
+<li>Reliable workspace and internet connection, and ability to travel occasionally within the United States.</li>
+<li>A growth mindset and desire to continuously improve.</li>
+</ul><div>
+<br><strong>Within 2 weeks, you will:</strong>
+</div><ul>
+<li>Introduce yourself and work with each of our teams from engineering to customer success and more.</li>
+<li>Familiarize yourself with our product and core codebase.</li>
+<li>Learn about our roadmap and exciting opportunities ahead.</li>
+<li>Get your first project into production and learn about our development processes.</li>
+</ul><div>
+<br><strong>Within 3 months, you will:</strong>
+</div><ul>
+<li>Improve the core codebase by developing a performant and maintainable backend feature.</li>
+<li>Lead and participate in blameless, empathetic code reviews.</li>
+<li>Gain a full overview of our service architecture and implement 3 metrics to increase visibility into the health and performance of our services.</li>
+</ul><div>
+<br><strong>Within 6 months, you will:</strong>
+</div><ul>
+<li>Contribute to the engineering team’s culture of operational excellence by creating a proposal to improve a system or process.</li>
+<li>Take ownership of a new product initiative through the entire development lifecycle.</li>
+<li>Be a subject matter expert in one or more areas of Tiller’s service architecture.</li>
+</ul><div>
+<br><strong>What we offer</strong>
+</div><ul>
+<li>Competitive salary + equity</li>
+<li>Medical benefits</li>
+<li>Fully remote position with flexible working hours</li>
+<li>Unlimited paid time off</li>
+<li>Annual company and team meetups</li>
+</ul><div>
+<br><strong>About Tiller</strong>
+</div><div>Tiller’s mission is to help people gain greater confidence and control of their financial lives. We’re passionate about empowering people with their financial data in a flexible, private, and customizable format so they can take control of their future.</div><div>
+<br><strong>Our Vision</strong>
+</div><div>Money matters because life matters more.</div><div>
+<br><strong>Our Values</strong>
+</div><ul>
+<li>We <strong>communicate</strong> directly and respectfully to build an environment of mutual support.</li>
+<li>Our team structure is built on <strong>trust</strong>, where each member is a “manager of one”.</li>
+<li>We <strong>bias towards action</strong> and focus on tangible outcomes. We take reasonably informed risks, and view failure as an opportunity to learn.</li>
+<li>We work to make a <strong>positive impact</strong>, internally and externally. We own our processes and collective outcomes as a team.</li>
+<li>We embrace a <strong>growth mindset</strong>, staying curious and seeking help from others to expand our possibilities. It’s okay to make mistakes here: we are human, and readily admit when we are wrong.</li>
+</ul><div><strong><br>Commitment to Diversity</strong></div><div>Tiller is committed to making this a great place to work for everyone, to encourage diverse perspectives and to make technology more representative of the humans we serve. We strive to cultivate an environment that supports our team’s full lives, to enable them to do their best work.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tiller-experienced-software-engineer-backend">https://weworkremotely.com/remote-jobs/tiller-experienced-software-engineer-backend</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sticker Mule</h5>
+                    <h3> Software Engineer (Backend)</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>211 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-backend" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> New York, NY
+    <br /><strong>URL:</strong> <a href="https://www.stickermule.com/careers">https://www.stickermule.com/careers</a>
+</p>
+
+<div><strong>About Sticker Mule</strong></div><div>
+<br>Sticker Mule is the Internet's most "kick ass" brand. We are privately-owned, profitable, and powered by a globally distributed team that enjoys building happy customer experience at the highest technical standards. Our software team operates from 17 countries, and we're always looking for more exceptional engineers.</div><div><a href="https://www.stickermule.com/about"><strong><br>See more about our teams here</strong></a></div><div><strong><br>We offer</strong></div><ol>
+<li>Remote work with flexible schedules</li>
+<li>A privately owned, low-stress culture.</li>
+<li>A fun "no bullshit" work environment</li>
+</ol><div><br></div><div><strong>We like you to know</strong></div><ol>
+<li>Docker</li>
+<li>Ruby</li>
+<li>Rails</li>
+<li>TypeScript</li>
+<li>NodeJS</li>
+<li>GraphQL</li>
+<li>Postgres</li>
+<li>Redis</li>
+<li>Familiarity with React</li>
+<li>Excellent communication skills (English)</li>
+<li>Degree in Computer Science or equivalent practical experience</li>
+</ol><div><strong><br>Challenges</strong></div><ol>
+<li>Improve and expand our GraphQL APIs</li>
+<li>Migrate a large Rails code base to NodeJS services</li>
+<li>Maintain optimal back-end performance</li>
+</ol><div><br></div><div><strong>Compensation and benefits</strong></div><ol>
+<li>Salary: $135k+ based on experience</li>
+<li>$20,000 signing bonus</li>
+<li>4 weeks vacation + holidays based on your country of residence</li>
+</ol>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-backend">https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-backend</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1698908/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sporty Group </h5>
+                    <h3>Backend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>apache,AWS,backend,cloud</code>
+                </td>
+                <td width="200">
+                <text>27 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/backend-engineer-1698908" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Sporty's sites are some of the most popular on the internet, consistently staying in Alexa's list of top websites for the countries they operate in</p>
+<p> </p>
+<p><span style="">In this role, you’ll be responsible for developing microservices in a distributed deployment environment with an emphasis on containerisation with Docker and K8S. You won’t just be writing simple CRUD applications, but instead will be working on the core logic of complex systems that are accessed millions of times a day. We wrote our system from scratch about 3 years ago, so you’ll be working with the latest technology and won’t have to worry about decades old legacy code.</span></p>
+<p> </p>
+<p><span style="">A willingness to work in Springboot is fine - as long as you are willing to learn and have demonstrable experience in an object-oriented programming language.</span></p>
+<p> </p>
+<p> </p>
+<p><strong style="">Our Stack (we don't expect you to have all of these) </strong></p>
+<p> </p>
+<p><span style="">Backend Application Framework: Spring Boot (Java Config + Embedded Tomcat)</span></p>
+<p><span style="">Micro Service Framework: Spring Cloud Dalston (Netflix Eureka + Netflix Zuul + Netflix Ribbon + Feign)</span></p>
+<p><span style="">Database Sharding Middleware: Lede Cetus</span></p>
+<p><span style="">Database: MySQL and MongoDB,Mybatis, Druid</span></p>
+<p><span style="">Public Cache: AWS ElastiCache + Redis</span></p>
+<p><span style="">Message Queue: Apache RocketMQ</span></p>
+<p><span style="">Distributed Scheduling: Dangdang Elastic Job</span></p>
+<p><span style="">Data Index and Search: ElasticSearchLog </span></p>
+<p><span style="">Real-time Visualization: ElasticSearch + Logstash + Kibana</span></p>
+<p><span style="">Business Monitoring: Graphite + Grafana</span></p>
+<p><span style="">Cluster Monitoring: AWS Cloudwatch</span></p>
+<p><span style="">Tasking: Elastic Job</span></p>
+<p><span style="">Server: Netty</span> </p>
+<p> </p>
+<p><strong style="">Responsibilities</strong></p>
+<p> </p>
+<p><span style="">Develop highly-scalable mobile internet backends for millions of users</span></p>
+<p><span style="">Work with Product Owners and other development team members to determine new features and user stories needed in new / revised applications or large/complex development projects</span></p>
+<p><span style="">Participate in code reviews with peers and managers to ensure that each increment adheres to original vision as described in the user story and all standard resource libraries and architecture patterns as appropriate</span></p>
+<p><span style="">Respond to support calls for applications in production for quick diagnosis and repair to keep things running smoothly for users</span></p>
+<p><span style="">Participate in all team ceremonies including planning, grooming, product demonstration and team retrospectives</span></p>
+<p><span style="">Mentoring less experienced team members </span></p>
+<p>Potential On-Call responsibilities depending on team and tenure</p>
+<p> </p>
+<p><strong style="">Requirements</strong></p>
+<p> </p>
+<p>Minimum of 2+ Years within a relevant role</p>
+<p><span style="">Preferred experience in Spring Boot, Spring Cloud, Spring Data and iBATIS</span></p>
+<p><span style="">Strong experience with highly-scalable web backends</span></p>
+<p><span style="">Experience designing highly transactional systems</span></p>
+<p><span style="">Advanced proficiency in Object Oriented Design (OOD) and analysis</span></p>
+<p><span style="">Advanced proficiency in application of analysis / design engineering functions</span></p>
+<p><span style="">Advanced proficiency in application of non-functional software qualities such as resiliency and maintainability</span></p>
+<p><span style="">Advanced proficiency in modern behavior-driven testing techniques</span></p>
+<p><span style="">Deep understanding of Microservices</span></p>
+<p><span style="">Proficient in SQL</span></p>
+<p><span style="">Expert knowledge of application development with technologies like RabbitMQ, MySQL, Redis etc</span></p>
+<p><span style="">Strong experience with container and cloud solutions such as Docker, Kubernetes and AWS Cloud</span></p>
+<p><span style="">An ability to work independently</span></p>
+<p>Excellent communication skills in English</p>
+<p> </p>
+<p><strong>Benefits</strong></p>
+<p> </p>
+<p>Quarterly and flash bonuses</p>
+<p>Flexible working hours</p>
+<p>Education allowance</p>
+<p>Referral bonuses</p>
+<p>28 days paid annual leave</p>
+<p>2 x annual company retreats (Lisbon + Dubai in 2022 / Phuket in Q2 2023 + 1 more TBC!)</p>
+<p>Highly talented, dependable co-workers in a global, multicultural organisation</p>
+<p>Payment via world class online wallet system DEEL</p>
+<p>Top of the line equipment supplied by market leader Hofy</p>
+<p>We score 100% on The Joel Test</p>
+<p>Our teams are small enough for you to be impactful</p>
+<p>Our business is globally established and successful, offering stability and security to our Team Members</p>
+<p> </p>
+<p><strong>Our Mission</strong></p>
+<p> </p>
+<p>Our mission is to be an everyday entertainment platform for everyone</p>
+<p> </p>
+<p><strong>Our Operating Principles</strong></p>
+<p> </p>
+<p>1. Create Value for Users</p>
+<p>2. Act in the Long-Term Interests of Sporty </p>
+<p>3. Focus on Product Improvements &amp; Innovation </p>
+<p>4. Be Responsible </p>
+<p>5. Preserve Integrity &amp; Honesty </p>
+<p>6. Respect Confidentiality &amp; Privacy </p>
+<p>7. Ensure Stability, Security &amp; Scalability </p>
+<p>8. Work Hard with Passion &amp; Pride</p>
+<p> </p>
+<p><strong>Interview Process</strong></p>
+<p> </p>
+<p>HackerRank Test </p>
+<p>Remote video screening with our Talent Acquisition Team + live ID check</p>
+<p>Remote 90 min video interview loop with 3 x Team Members (30 mins each)</p>
+<p>Pre offer call with Talent Acquisition Team</p>
+<p>ID check via Zinc</p>
+<p>24-72 hour feedback loops throughout process</p>
+<p> </p>
+<p><strong>Working at Sporty</strong></p>
+<p> </p>
+<p>The top-down mentality at Sporty is high performance based, meaning we trust you to do your job with an emphasis on support to help you achieve, grow and de-block any issues when they're in your way.</p>
+<p>Generally employees can choose their own hours, as long as they are collaborating and doing stand-ups etc. The emphasis is really on results. </p>
+<p> </p>
+<p>As we are a highly structured and established company we are able to offer the security and support of a global business with the allure of a startup environment. Sporty is independently managed and financed, meaning we don’t have arbitrary shareholder or VC targets to cater to. </p>
+<p> </p>
+<p>We literally build, spend and make decisions based on the ethos of building THE best platform of its kind. We are truly a tech company to the core and take excellent care of our Team Members.</p>
+<img src="https://remotive.com/job/track/1698908/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
                 </td>
                 <td width="300">
