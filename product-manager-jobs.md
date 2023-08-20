@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toggl-product-manager-3" align="right" target="_blank">Apply</a>
@@ -84,7 +84,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-product-manager" align="right" target="_blank">Apply</a>
@@ -214,7 +214,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>646 days ago</text>
+                <text>648 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -266,6 +266,81 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1758456/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Glorious</h5>
+                    <h3>Product Manager, Gaming Mice</h3>
+                </td>
+                <td width="300">
+                    <code>project management,research,product management,CAD</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/product-manager-gaming-mice-1758456" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong><em>This is a 100% remote role. International candidates must be able to schedule regular overlap with the CST time zone.</em></strong></p>
+<p> </p>
+<div class="h3">About this Role</div>
+<p>Glorious is a lifestyle gaming hardware company, built by passionate enthusiasts on a mission to change the status quo of the PC gaming industry. Since 2014 we've provided PC gaming hardware and accessories engineered for elite-level performance, premium quality, and high-end aesthetics.</p>
+<p>We are looking for an organized and experienced <strong>Product Manager</strong> to specialize in the development of new gaming mice. The ideal candidate will have experience with and a passion for designing and delivering exceptional gaming peripherals.</p>
+<p>This position reports to the Director of Product Management. The person in this role will also work cross-collaboratively with our other product managers, designers, engineers, and our testing teams.</p>
+<div class="h3"> </div>
+<div class="h3">Compensation</div>
+<p>The starting annual salary for this role is <strong>$60,000 to $80,000 USD</strong> depending on knowledge, skills, experience, education, and geographical location.</p>
+<p> </p>
+<div class="h3">Key Responsibilities</div>
+<ul style="">
+<li style="">Define requirements and specifications for new products by creating Product Requirement Specifications (PRS) documents</li>
+<li style="">Determine end users' needs and desires by specifying and performing research needed to obtain market information</li>
+<li style="">Research and appraise new products; define product scope, product vision, and lead design discussions</li>
+<li style="">Conduct testing and analysis on internal prototypes and competitor products to validate claims, gather data, and help foster innovation</li>
+<li style="">Work with industrial designers, engineers, and overseas factories to develop products according to specifications and vision</li>
+<li style="">Work closely with the software team to integrate software functionality into hardware products</li>
+<li style="">Spearhead product development by ensuring successful translation of requirements into high quality hardware products; assume full responsibility for the development, user experience, timeline, and end result</li>
+<li style="">Coordinate all phases of prototyping and product manufacturing to validate that deliverables from the factories meet our spec requirements and are functional</li>
+<li style="">Develop an effective relationship with all internal and external stakeholders, e.g. suppliers, manufacturers, and other business areas to ensure product vision is achieved</li>
+<li style="">Provide product presentations for key stakeholders including product vision, positioning, target market, category and competitive analysis, price/cost analysis, timeline, strategy, plans, and prioritization from concept to launch</li>
+<li style="">Provide regular updates on work via project management software</li>
+<li style="">Coordinate with testing teams to ensure all products meet our high standards</li>
+<li style="">May occasionally need to support other product categories with development</li>
+</ul>
+<p><strong>Requirements</strong></p>
+<ul style="">
+<li style="">The ability to work CST business hours on a regular basis/upon request</li>
+<li style="">Full professional proficiency in English</li>
+<li style="">Access to a reliable high-speed internet connection</li>
+<li style="">Bachelor’s degree in a relevant field, or an equivalent combination of education and experience</li>
+<li style="">2+ years of experience with product development in technology or peripherals</li>
+<li style="">Proficient in defining requirements and specifications for new products</li>
+<li style="">Strong market research and analysis skillset</li>
+<li style="">Experience creating 3D CAD models in Fusion 360 (or equivalent) is not required, but is a plus</li>
+</ul>
+<p><strong>Benefits</strong></p>
+<ul style="">
+<li style="">Truly remote-first environment</li>
+<li style="">Comprehensive health care coverage (medical, vision, &amp; dental)</li>
+<li style="">Paid time off and paid holidays</li>
+<li style="">Retirement plan</li>
+<li style="">Annual bonus opportunity</li>
+<li style="">40% employee discount on Glorious purchases</li>
+</ul>
+<p> </p>
+<p><strong>About Glorious</strong></p>
+<p>Based in Dallas, TX, United States, Glorious has grown rapidly through the support of a community of PC gaming enthusiasts and professionals. Every new member of our team has a direct impact on shaping our future.</p>
+<p>Glorious offers the chance to work within an environment where you will have the freedom and flexibility to take the reins on your career. We invite you to become part of an amazing team dedicated to pushing the boundaries of possibility and shifting the PC gaming industry's status quo.</p>
+<p><br>Learn more at <a class="external" href="https://www.gloriousgaming.com/" rel="nofollow">https://www.gloriousgaming.com/</a></p>
+<img src="https://remotive.com/job/track/1758456/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
