@@ -1,128 +1,5 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0103/4304/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Retreat Guru</h5>
-                    <h3> Senior Software Engineer (Full-Stack)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/retreat-guru-senior-software-engineer-full-stack" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0103/4304/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Nelson, British Columbia
-    <br /><strong>URL:</strong> <a href="https://retreat.guru">https://retreat.guru</a>
-</p>
-
-<div>
-<strong>Are you a Senior Full Stack Developer who is passionate about making a difference in the world?<br></strong><br>
-</div><div>As part of the team, you will develop and implement new software features, oversee the enhancement of the company’s retreat management SaaS product, and collaborate with cross-functional teams to ensure the platform meets user needs. The ideal candidate has professional and leadership experience in software engineering, a product mindset, a strong foundation in design principles, and the ability to learn new things quickly.<br><br>
-</div><div>Retreat Guru offers a family-friendly work environment with flexible working hours and remote work options. If you have a passion for helping others and finding creative ways to solve problems, we welcome you to apply. The salary ranges from $90,000 to $115,000 per year, depending on experience.<br><br>
-</div><div>
-<strong>Role &amp; Responsibilities:<br></strong><br>
-</div><ul>
-<li>Develop and implement new software features that support retreat centers.</li>
-<li>Architect and oversee the enhancement of our retreat management SaaS product.</li>
-<li>Collaborate cross-functionally to ensure that our platform meets user needs.</li>
-</ul><div>
-<br><strong>You should have:<br></strong><br>
-</div><ul>
-<li>Professional experience in software engineering, with a focus on developing well-designed software and successfully leading projects to completion.</li>
-<li>In-depth knowledge of the software development life cycle and software engineering concepts.</li>
-<li>A product mindset, striving to understand the “why” behind building a feature, as well as the means to measure its impact.</li>
-<li>A varied skill set (or be a T-shaped/Full-stack developer), with experience and excitement in solving problems that require a mix of frontend and backend skills, and the ability to unblock any obstacles that stand in the way of success.</li>
-<li>A strong foundation in design principles, particularly when it comes to platform development in areas such as API, data modeling, and scalability.</li>
-<li>Experience in writing automated tests as a part of your development workflow.</li>
-<li>A natural curiosity and passion to continuously learn new things; Retreat Guru is a fast-changing environment, and we need individuals who can adapt and learn quickly.</li>
-<li>Familiarity with PHP, or the desire to learn it quickly.</li>
-</ul><div>
-<br><strong>The tools we use include:<br></strong><br>
-</div><ul><li>PHP, HTML over the wire, JavaScript, MySQL, Redis, Elasticsearch, CircleCI, AWS, Pagely, Metabase, WordPress</li></ul><div>
-<br><strong>Projects you could work on:<br></strong><br>
-</div><ul>
-<li>Building new features to support retreat centers.</li>
-<li>Developing a new vendor UI for our retreat management SaaS product.</li>
-<li>Refactoring legacy code.Improving our newly built retreat marketplace.</li>
-</ul><div>
-<br>If your experience is similar to what we’re looking for, please apply.<br><br>
-</div><div>We have found that passion goes a long way and that skills can be learned. Our company has evolved greatly by leveraging the wisdom of the group, particularly in problem-solving and creative thinking. The more diverse our group is, the better equipped we are to serve the needs of our users. Therefore, we encourage you to apply if you think this might be a good fit for you.<br><br>
-</div><div>About Retreat Guru:<br>More information about our company is <a href="https://retreat.guru/about">here</a>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/retreat-guru-senior-software-engineer-full-stack">https://weworkremotely.com/remote-jobs/retreat-guru-senior-software-engineer-full-stack</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Sticker Mule</h5>
-                    <h3> Software Engineer (C++)</h3>
-                </td>
-                <td width="300">
-                    <code>DevOps and Sysadmin</code>
-                </td>
-                <td width="200">
-                <text>208 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> New York, NY
-    <br /><strong>URL:</strong> <a href="https://www.stickermule.com/careers">https://www.stickermule.com/careers</a>
-</p>
-
-<div><strong>About Sticker Mule</strong></div><div>Sticker Mule is the Internet's most "kick ass" brand. We are privately-owned, profitable, and powered by a globally distributed team that enjoys building happy customer experience at the highest technical standards. Our software team operates from 17 countries, and we're always looking for more exceptional engineers.<br><br>
-</div><div><a href="https://www.stickermule.com/about"><strong>See more about our teams here</strong></a></div><div><br></div><div><strong>We offer</strong></div><ol>
-<li>Remote work with flexible schedules</li>
-<li>A privately owned, low-stress culture.</li>
-<li>A fun "no bullshit" work environment</li>
-</ol><div><strong>We like you to know</strong></div><ol>
-<li>C++</li>
-<li>Go</li>
-<li>Postgres</li>
-<li>Docker</li>
-<li>Cloud Infrastructure</li>
-<li>Familiarity with C#</li>
-<li>Excellent communication skills (English)</li>
-<li>Degree in Computer Science or equivalent practical experience</li>
-</ol><div><strong>Challenges</strong></div><ol>
-<li>Improve factory automation software</li>
-<li>Migrate legacy services to Go</li>
-<li>Maintain a large C++ codebase</li>
-</ol><div><strong>Compensation and benefits</strong></div><ol>
-<li>Salary: $135k+ based on experience</li>
-<li>$20,000 signing bonus</li>
-<li>4 weeks vacation + holidays based on your country of residence</li>
-</ol>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c">https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1569512792381878278/Smf8h3tt_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -1035,6 +912,88 @@
 <h3>Canonical is an equal opportunity employer</h3>
 <p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration</a>.</em></p>
 <p>#LI-Remote #stack</p><p>Requisition ID: 847</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Senior Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/3326693" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>This is a fast-paced engineering role in Linux-based software-defined infrastructure and applications, covering all layers of the stack, including bare metal, virtualization (KVM) and containerization (Docker/LXC/LXD), storage (Ceph and Linux filesystems), networking (OVS, OVN and Core networking), up to OpenStack and Kubernetes, and the open source applications running on top of them. It will challenge you to show the breadth of engineering skill needed to work on almost any aspect of Ubuntu and the open source things people run with it.&nbsp;</p>
+<p>This role is an opportunity for a technologist with a passion for Linux and open source to build a career with Canonical and drive success for our customers, community and the company. If you have an affinity for open source development, great communication skills, and a passion for troubleshooting and fixing issues in technology used by millions across the world, then you will enjoy working with some of the best people in the industry at Canonical.</p>
+<p><strong>Location:</strong> This is a remote role, we have teams in all time zones.</p>
+<p>This role deals with critical issues in the open source stack that require software engineering for upstream fixes. Our engineers have to be able to work productively at any level of the stack above the kernel, in a wide range of languages, to understand and address the software issues at hand. Our group is critical to the success of our enterprise customers, partners and Ubuntu itself.</p>
+<p>You will help with troubleshooting and driving issues to resolution with workarounds, guidance, and fixes to be released upstream and in Ubuntu.</p>
+<h3>What your day will look like</h3>
+<ul>
+<li>Resolve complex customer problems related to Ubuntu, Kernel, Ceph, OpenStack, or Kubernetes and other open source software</li>
+<li>Maintain a close working relationship with Canonical's field, support and product engineering teams</li>
+<li>Participate in upstream communities</li>
+<li>Develop fixes, backport patches, and work with upstream for inclusion</li>
+<li>Review code produced by other engineers</li>
+<li>Demonstrate good judgment in technical methods and techniques</li>
+<li>Prioritize work and manage your time effectively against those priorities</li>
+<li>Participate in team discussions to improve processes, tools, and documentation</li>
+<li>Maintain clear, technical and concise communications</li>
+<li>Work from home and travel internationally up to 10% of work time for team meetings, events and conferences</li>
+</ul>
+<h3>What we are looking for in you</h3>
+<ul>
+<li>Professional experience as a software engineer&nbsp;</li>
+<li>Background in Computer Science, STEM or similar</li>
+<li>Strong experience with Linux, Ceph, OpenStack, Kubernetes or other cloud technologies</li>
+<li>Strong development-level experience with Python, Go, C or C++ on Linux</li>
+<li>Ability to troubleshoot with gdb and other tools</li>
+<li>Familiarity with git source code repositories and branches</li>
+<li>An exceptional academic track record&nbsp;</li>
+<li>Willingness to travel up to 4 times a year for internal events</li>
+</ul>
+<h3>Additional skills that you might also bring</h3>
+<ul>
+<li>You love technology and working with brilliant people</li>
+<li>You are curious, flexible, articulate, and accountable</li>
+<li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li>
+<li>You have interest in, and experience with most of the following: Ubuntu Linux - kernel or userspace, Kubernetes, OpenStack, Ceph, QEMU/KVM, LXC/LXD, Python, Go, C, Postgresql, Mongo, Debian packaging, distributed systems</li>
+</ul>
+<h3>What we offer you</h3>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h3>About Canonical</h3>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h3>Canonical is an equal opportunity employer</h3>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+
+<p>#LI-Remote</p>
+<p>Requisition ID: 688</p><p></p>
     
                 </details>
                 </td>
