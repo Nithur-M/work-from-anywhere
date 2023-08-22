@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toggl-product-manager-3" align="right" target="_blank">Apply</a>
@@ -74,136 +74,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>LeadSimple, Inc.</h5>
-                    <h3> Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>Product</code>
-                </td>
-                <td width="200">
-                <text>19 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-product-manager" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Washington State, U.S.A.
-    <br /><strong>URL:</strong> <a href="https://www.leadsimple.com/careers">https://www.leadsimple.com/careers</a>
-</p>
-
-<div>🚀 Want to join a team of A-players in an exciting, high-growth, entrepreneurial environment?</div><div><br></div><div>We’re a fast-growing team solving big problems in the property management industry. Bootstrapped and profitable since 2013, we're passionate about helping small businesses simplify growth, streamline operations, and deliver a great customer experience at scale.</div><div><br></div><div>Our products provide a powerful foundation for property management companies to take their businesses to the next level. Thousands of property managers rely on us for their day-to-day operations and we’re only getting started.<br><br>
-</div><div>We want to increase the throughput of great ideas through the organization and into customers’ hands. We are driven, disciplined, clear-eyed about tradeoffs, and committed to moving fast <em>without</em> breaking things. Your mission, should you choose to accept it, is to maximize the value we’re delivering to customers, by discovering and validating the best approach to each problem, and designing a great solution we can build in a short amount of time. We follow the <a href="https://basecamp.com/shapeup">Shape Up Process</a>, with influences from Marty Cagan (Silicon Valley Product Group) and the Lean Startup movement. If this excites you, let’s talk!<br><br>
-</div><div>
-<br><strong>Role Summary <br></strong><br>
-</div><div>The Product Manager’s primary mission is to help ensure that we deliver valuable solutions to customers. They lead discovery and delivery on prioritized problems, working closely with design, engineering, success, sales, and marketing to craft high impact features and customer experiences. They work in an empowered and collaborative environment to define scope, meet timelines and achieve business results. They contribute to defining the product vision, mentoring the team, improving approaches for product discovery, and ensuring that the product supports the company’s overall strategy and goals.</div><div>
-<br><br><strong>Ideal Candidate Has Experience In<br></strong><br>
-</div><div>
-<strong><br>Discovery<br></strong><br>
-</div><ul>
-<li>Customer Interviews (Problem interviews, Solution interviews, Usability Testing)</li>
-<li>Customer Journey Maps</li>
-<li>Use Cases</li>
-<li>Customer Segmentation</li>
-<li>User Story Mapping</li>
-</ul><div><br></div><div><strong>Frameworks &amp; Mental Models</strong></div><ul>
-<li>Opportunity Solution Trees</li>
-<li>Problem space vs. Solution space</li>
-<li>Design Thinking</li>
-<li>JTBD + 4 Forces</li>
-<li>Magic Moments</li>
-<li>Business Model Canvas</li>
-<li>BJ Fogg Behavior Model</li>
-<li>MECE</li>
-</ul><div><br></div><div><strong>Systems Thinking</strong></div><ul>
-<li>Leading vs Lagging Indicators</li>
-<li>Funnels</li>
-<li>Behavioral Loops</li>
-<li>Unit Economics</li>
-<li>Bottlenecks &amp; Constraints</li>
-</ul><div><br></div><div><strong>Prioritization</strong></div><ul>
-<li>Identifies biggest risks</li>
-<li>Categorizes risks into Viable, Valuable, Feasible, Usable</li>
-<li>Quickly answers Critical Questions</li>
-</ul><div><br></div><div><strong>Prototyping</strong></div><ul>
-<li>Facilitates Workshops</li>
-<li>Mockups</li>
-<li>Design Sprints</li>
-<li>Collaborates well with Designers &amp; Engineers</li>
-</ul><div><br></div><div><strong>Experimentation</strong></div><ul>
-<li>Experiment Design &amp; Failure Criteria</li>
-<li>Feature Flags</li>
-<li>Alpha/Beta Release Cycles</li>
-</ul><div><br></div><div><strong>Data &amp; Technical Skills</strong></div><ul>
-<li>Cohort Analysis</li>
-<li>SQL</li>
-<li>Data Analysis</li>
-<li>Events (Segment.io)</li>
-<li>Formulas &amp; Calculations</li>
-</ul><div><br></div><div>
-<br><strong>Expectations for your first 90 days:<br></strong><br>
-</div><ul>
-<li>Develop a solid grasp of our product lines, feature sets, value proposition, business model, pricing, product development process, and document this for the benefit of future product team members.</li>
-<li>Can articulate our target customers, product areas and business model</li>
-<li>Listens to or conducts 10 customer interviews</li>
-<li>Updates Employee Onboarding Process</li>
-<li>Become an authority on your product area, its current capabilities, customer problems, and begins shaping solutions.</li>
-<li>Shaped 3 pitches to product area</li>
-<li>Develop product pitches for the current quarter and lead Betting Table exercise to greenlight work.</li>
-<li>Presents pitches to product leadership</li>
-<li>Pitches are greenlit</li>
-<li>Lead delivery efforts on approved pitches</li>
-<li>Earned the respect of their team</li>
-<li>Customers are happy about the changes shipped</li>
-</ul><div><br></div><div>
-<br><strong>Perks</strong>:<br><br>
-</div><ul>
-<li>Monthly Friday Free Day</li>
-<li>Company Holidays</li>
-<li>Paid Time Off (in addition to the above)</li>
-<li>Monthly Healthcare Allowance</li>
-<li>Yearly Vacation Allowance</li>
-<li>Fun and busy work environment with smart, caring people</li>
-<li>Location independence (must align within a few hours of US Pacific Time Zone)</li>
-<li>Mission driven company and values-based culture<br><br>
-</li>
-</ul><div>
-<br><strong>Please only apply if you:<br></strong><br>
-</div><ul>
-<li>Embrace learning new technology </li>
-<li>Learn fast</li>
-<li>Communicate crisply</li>
-<li>Proactively seek solutions</li>
-<li>Own the outcome</li>
-<li>Bring an optimistic “can do” attitude</li>
-<li>Supply your own internet and smartphone</li>
-<li>3 years demonstrated success in similar role:</li>
-<li>PM on 2 successful SaaS products (work sample required)</li>
-<li>Bachelor's Degree (preferred)</li>
-<li>Have B2B SaaS experience (preferred)</li>
-<li>Experience in ShapeUp not required, but beneficial</li>
-<li>Prototype, Pitch, or Project Delivery Plan examples may be requested<br><br>
-</li>
-</ul><div><br></div><div>We have an amazing team of A-Players and we’re ready to add more! Selected candidates might have written assessments and multiple interviews with different people. We’ll do whatever it takes to get the right person in the right seat.</div><div><br></div><div>If you think you would thrive in the above environment and make an impact for our customers, we’d love to talk to you!</div><div>
-<br><br>
-</div><div><strong>In summary...</strong></div><div><br></div><div><em>You can do it in an office</em></div><div><em>You can do it from home</em></div><div><em>We really don’t care</em></div><div><em>As long as it’s known 👇</em></div><div><br></div><div><em>What matters is this…</em></div><div><em>When the chips are down</em></div><div><em>And your back is against the wall</em></div><div><em>Can we count on you to make the right call?</em></div><div><br></div><div><em>Judgment, intuition, or care by another name</em></div><div><em>We call it “Owning The Outcome” - because it really is the whole game</em></div><div><em>Have the customers back, and they will treat you the same</em></div><div><br></div><div><em>If you can do that</em></div><div><em>Then we’re birds of the same feather</em></div><div><em>So come join our team and we’ll make music together.</em></div><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-product-manager">https://weworkremotely.com/remote-jobs/leadsimple-inc-product-manager</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -214,7 +84,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>649 days ago</text>
+                <text>650 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -266,81 +136,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1758456/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Glorious</h5>
-                    <h3>Product Manager, Gaming Mice</h3>
-                </td>
-                <td width="300">
-                    <code>project management,research,product management,CAD</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/product-manager-gaming-mice-1758456" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong><em>This is a 100% remote role. International candidates must be able to schedule regular overlap with the CST time zone.</em></strong></p>
-<p> </p>
-<div class="h3">About this Role</div>
-<p>Glorious is a lifestyle gaming hardware company, built by passionate enthusiasts on a mission to change the status quo of the PC gaming industry. Since 2014 we've provided PC gaming hardware and accessories engineered for elite-level performance, premium quality, and high-end aesthetics.</p>
-<p>We are looking for an organized and experienced <strong>Product Manager</strong> to specialize in the development of new gaming mice. The ideal candidate will have experience with and a passion for designing and delivering exceptional gaming peripherals.</p>
-<p>This position reports to the Director of Product Management. The person in this role will also work cross-collaboratively with our other product managers, designers, engineers, and our testing teams.</p>
-<div class="h3"> </div>
-<div class="h3">Compensation</div>
-<p>The starting annual salary for this role is <strong>$60,000 to $80,000 USD</strong> depending on knowledge, skills, experience, education, and geographical location.</p>
-<p> </p>
-<div class="h3">Key Responsibilities</div>
-<ul style="">
-<li style="">Define requirements and specifications for new products by creating Product Requirement Specifications (PRS) documents</li>
-<li style="">Determine end users' needs and desires by specifying and performing research needed to obtain market information</li>
-<li style="">Research and appraise new products; define product scope, product vision, and lead design discussions</li>
-<li style="">Conduct testing and analysis on internal prototypes and competitor products to validate claims, gather data, and help foster innovation</li>
-<li style="">Work with industrial designers, engineers, and overseas factories to develop products according to specifications and vision</li>
-<li style="">Work closely with the software team to integrate software functionality into hardware products</li>
-<li style="">Spearhead product development by ensuring successful translation of requirements into high quality hardware products; assume full responsibility for the development, user experience, timeline, and end result</li>
-<li style="">Coordinate all phases of prototyping and product manufacturing to validate that deliverables from the factories meet our spec requirements and are functional</li>
-<li style="">Develop an effective relationship with all internal and external stakeholders, e.g. suppliers, manufacturers, and other business areas to ensure product vision is achieved</li>
-<li style="">Provide product presentations for key stakeholders including product vision, positioning, target market, category and competitive analysis, price/cost analysis, timeline, strategy, plans, and prioritization from concept to launch</li>
-<li style="">Provide regular updates on work via project management software</li>
-<li style="">Coordinate with testing teams to ensure all products meet our high standards</li>
-<li style="">May occasionally need to support other product categories with development</li>
-</ul>
-<p><strong>Requirements</strong></p>
-<ul style="">
-<li style="">The ability to work CST business hours on a regular basis/upon request</li>
-<li style="">Full professional proficiency in English</li>
-<li style="">Access to a reliable high-speed internet connection</li>
-<li style="">Bachelor’s degree in a relevant field, or an equivalent combination of education and experience</li>
-<li style="">2+ years of experience with product development in technology or peripherals</li>
-<li style="">Proficient in defining requirements and specifications for new products</li>
-<li style="">Strong market research and analysis skillset</li>
-<li style="">Experience creating 3D CAD models in Fusion 360 (or equivalent) is not required, but is a plus</li>
-</ul>
-<p><strong>Benefits</strong></p>
-<ul style="">
-<li style="">Truly remote-first environment</li>
-<li style="">Comprehensive health care coverage (medical, vision, &amp; dental)</li>
-<li style="">Paid time off and paid holidays</li>
-<li style="">Retirement plan</li>
-<li style="">Annual bonus opportunity</li>
-<li style="">40% employee discount on Glorious purchases</li>
-</ul>
-<p> </p>
-<p><strong>About Glorious</strong></p>
-<p>Based in Dallas, TX, United States, Glorious has grown rapidly through the support of a community of PC gaming enthusiasts and professionals. Every new member of our team has a direct impact on shaping our future.</p>
-<p>Glorious offers the chance to work within an environment where you will have the freedom and flexibility to take the reins on your career. We invite you to become part of an amazing team dedicated to pushing the boundaries of possibility and shifting the PC gaming industry's status quo.</p>
-<p><br>Learn more at <a class="external" href="https://www.gloriousgaming.com/" rel="nofollow">https://www.gloriousgaming.com/</a></p>
-<img src="https://remotive.com/job/track/1758456/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
