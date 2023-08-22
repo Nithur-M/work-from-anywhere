@@ -1,41 +1,5 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1759122/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Talent First</h5>
-                    <h3>Senior Full Stack Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>AWS,backend,cloud,docker</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-engineer-1759122" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="h1">About the Role</div>
-<p>Interested in joining a start-up that's at the forefront of next-gen technologies poised to disrupt the ever-growing Kubernetes and cloud-native space?</p>
-<p><a href="https://www.perfectscale.io/" rel="nofollow">PerfectScale</a> is on a mission to revolutionize how companies across the globe efficiently and autonomously manage the ‘Day-2' operations of their Kubernetes environments. Our goal is to help companies ensure peak Kubernetes performance at the lowest possible cost.</p>
-<p>As a full stack engineer at PerfectScale, you will be part of the core engineering team in the R&amp;D department and will be able to make a great impact on the future of our product. You will take part in all phases of the development - from discussing requirements, through design, design review, documentation, implementation, deployment and support.</p>
-<div class="h1">Responsibilities</div>
-<p>● Work closely with a strong team of experts and build a well designed, resilient, compliant and performant SaaS environment<br>● Design, implement and support an enterprise-grade SaaS WebApp<br>● Work on Frontend and Backend development<br>● Write clean and maintainable code using engineering best practices<br>● Collaborate with product, devops, backend and frontend engineers to deliver elegant and well thought out solutions for complex problems</p>
-<div class="h1">Requirements</div>
-<p>● Experienced with full SW development lifecycle<br>● Experience working on SaaS products<br>● 2+ years of experience with backend microservices (golang, node.js, java, python..)<br>● Thorough understanding of React.js and its core principles, Redux, MUI<br>● Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model. (Experience with Typescript is a plus)<br>● Experienced with various data stores - cold storage, relational DBs, NoSQL DBs, caches.<br>● Experience with different testing paradigms (unit, integration, e2e/smoke/canari)<br>● Experience with common front-end development tools such as Babel, Webpack, NPM, Yarn, etc.<br>● A knack for benchmarking and optimization<br>● Excellent communication skills and a can do approach<br>● Good level of English - written and verbal.</p>
-<div class="h1">Very Nice To Have</div>
-<p>● Experienced with Golang<br>● Hands on, production experience with Kubernetes<br>● Hands on experience building systems in a cloud environment (especially AWS)<br>● Familiarity with modern DevOps frameworks and best practices - Docker, K8S, GitOps, CI/CD<br>● Experience with microfrontends using Module Federation</p>
-<div class="h1">Our perks:</div>
-<p>● Competitive salary<br>● Flexible working hours<br>● Fully remote<br>● International team<br>● Endless professional development</p>
-<img src="https://remotive.com/job/track/1759122/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1263546899153502209/ObHsQoNr_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
