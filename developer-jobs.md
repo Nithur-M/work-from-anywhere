@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-12" align="right" target="_blank">Apply</a>
@@ -57,101 +57,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0103/5394/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>RebelCode Ltd</h5>
-                    <h3> Full Stack WordPress Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/rebelcode-ltd-full-stack-wordpress-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0103/5394/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Malta
-    <br /><strong>URL:</strong> <a href="https://rebelcode.com/">https://rebelcode.com/</a>
-</p>
-
-<div>
-<strong>Join our global, fully remote, and asynchronous team as a Full Stack WordPress Developer, leading the development of our WordPress plugin projects.</strong><br><br>
-</div><div>This role demands an individual who can craft quality code for our plugins while keeping in mind the needs of the business, striking a balance between the two.<br><br>
-</div><div>In this role, you won’t just be coding; you’d be engineering quality digital products that are made to outlast and outshine the competition.<br><br>
-</div><div>You will collaborate closely with our leadership and marketing team, defining the scope of each project and laying the foundations for features that will redefine their user experience.<br><br>
-</div><h1>How We Work</h1><div>As a 100% remote and asynchronous team, self-discipline is a very important factor when working within the RebelCode team. Everyone pulls their own weight and we do our utmost to get the best out of each other.<br><br>
-</div><div>We strive for excellence in everything we do, so there’s no room for average work or half-hearted efforts. Even as we work on MVPs for new features or products, we strive to deliver the best possible results within the time-frames and limitations that we set for ourselves.<br><br>
-</div><div>The tools we use day-to-day include:</div><ul>
-<li>Twist for communication</li>
-<li>Notion for our company wiki</li>
-<li>Notion for issue tracking</li>
-<li>Help Scout for customer support</li>
-<li>Digital Ocean, Servebolt, WP Engine, and Kinsta for hosting of websites and services</li>
-</ul><div><br></div><h1>Who You Are</h1><div>You own your tasks, from the inkling of an idea to its full-fledged execution. <br><br>
-</div><div>With fluency in English, both written and spoken, you ensure no idea remains unheard, no innovation unnoticed. For you, every message has meaning and you do your best to get it across.<br><br>
-</div><div>Your constant curiosity propels you to constantly evolve, learn, and challenge the status quo, expanding your skillset every step of the way.<br><br>
-</div><div>Working within a team, providing feedback, and collaborating across borders and time zones is second nature to you.<br><br>
-</div><div>
-<em>Note: You must have a strong internet connection and a good quality microphone and webcam, both for the interview phase as well as during working hours.<br></em><br>
-</div><h1>Primary Responsibilities</h1><div>As a Full Stack Developer at RebelCode, you will be responsible for:</div><ul>
-<li>Developing and maintaining RebelCode’s WordPress plugins (PHP, TypeScript, React)</li>
-<li>Transforming Figma designs into working UIs</li>
-<li>Participating in code discussions and reviews</li>
-<li>Collaborating using task management and issue tracking tools</li>
-<li>Attending weekly debriefing meetings</li>
-<li>Working with customer support to resolve customer issues</li>
-</ul><div><br></div><h1>Essential Skills</h1><div>The ideal candidate possesses the following skillset and tools:</div><ul>
-<li>Excellent understanding of PHP</li>
-<li>Excellent understanding of JavaScript</li>
-<li>Good working knowledge of TypeScript</li>
-<li>Good working knowledge of CSS and/or some of its derivatives</li>
-<li>Good working knowledge of WordPress plugin development</li>
-<li>Experience integrating third-party APIs</li>
-<li>A strong portfolio of past work</li>
-<li>Very good English speaking and writing skills</li>
-<li>Ability to work independently and be self-sufficient when necessary</li>
-</ul><div>
-<em>Note: Experience in WordPress plugin development is a must. If you only have experience building WordPress websites for clients, please do not apply.<br></em><br>
-</div><h1>Bonus Skills</h1><div>Although not a must, the following skills would also be appreciated for this role:</div><ul>
-<li>Experience with Docker</li>
-<li>Experience with Apache and Nginx</li>
-<li>Good understanding of WebPack and Vite</li>
-<li>Experience with Figma</li>
-<li>Exposure to Linux, BSD, or other Unix-like operating systems</li>
-</ul><div><br></div><h1>Remuneration &amp; Perks</h1><div>The selected candidate will receive the following:</div><ul>
-<li>$42,000 to $50,000 annual remuneration</li>
-<li>4 weeks of paid leave annually</li>
-<li>The freedom to work remotely, ideally based within the EU or US</li>
-<li>A flexible work schedule with at least a 4-hour daily overlap with the rest of the team</li>
-<li>Continued learning supported by the company</li>
-<li>Attendance to conferences to expand our skills and connections</li>
-<li>Occasional company meet-ups and retreats to strengthen the team bond</li>
-</ul><div><br></div><h1>Apply Now</h1><div>When applying, it’s important that you:</div><ul>
-<li>Showcase your experience in WordPress plugin development.</li>
-<li>Introduce us to who you are – your experiences, qualifications, and what makes you tick.</li>
-<li>Include links to your profiles that showcase your craft (GitHub, GitLab, WordPress.org, etc) and other relevant professional links.</li>
-<li>Proofread more than once, because attention to detail is everything.</li>
-</ul><div>We’re excited to see the unique attributes you’ll bring to the RebelCode team.<br><br>
-</div><div>
-<a href="https://rebelcode.com/careers/open-position-full-stack-developer/">Please fill in the application form here</a> if you’re confident that you’d be a great fit for this role. <br><br>
-</div><div>Once your application is reviewed, it may take a few days until you are contacted. The hiring process may last a few weeks as we continue to receive applications, so please be patient throughout the process.<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/rebelcode-ltd-full-stack-wordpress-developer">https://weworkremotely.com/remote-jobs/rebelcode-ltd-full-stack-wordpress-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0103/5339/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -162,7 +67,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/dogsthat-full-time-front-end-wordpress-developer-designer-jack-of-all-trades" align="right" target="_blank">Apply</a>
@@ -217,7 +122,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/smily-front-end-developer" align="right" target="_blank">Apply</a>
@@ -274,7 +179,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/harley-therapy-psychotherapy-counselling-mid-level-ruby-and-javascript-developer" align="right" target="_blank">Apply</a>
@@ -308,7 +213,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>40 days ago</text>
+                <text>41 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2" align="right" target="_blank">Apply</a>
@@ -361,7 +266,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>40 days ago</text>
+                <text>41 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2" align="right" target="_blank">Apply</a>
@@ -413,72 +318,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>A.Team</h5>
-                    <h3> Senior Independent Software Developer ($110-$190/hr)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>752 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0066/7400/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> NYC, SF, and TLV
-    <br /><strong>URL:</strong> <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a>
-</p>
-
-<div>
-<a href="https://build.a.team/wwrfastrackreferral">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. <br><br>After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.<br><br>As part of A·Team, you can expect:</div><ul>
-<li>
-<strong>High-paying, meaningful missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
-<li>
-<strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
-<li>
-<strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
-<li>
-<strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
-<li>
-<strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
-</ul><div>
-<br><strong>How to apply:<br></strong>Go here: <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a> + mention WWR under how you heard about A·Team. No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.<br><strong><br>What you’ll do:</strong>
-</div><ul>
-<li>Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would.</li>
-<li>Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </li>
-<li>You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </li>
-</ul><div>
-<br><strong>Who A</strong>·<strong>Team is for:</strong>
-</div><ul>
-<li>Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy.</li>
-<li>Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</li>
-<li>The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing.</li>
-</ul><div>
-<br><strong>Who A</strong>·<strong>Team is </strong><strong><em>not</em></strong><strong> for:</strong>
-</div><ul>
-<li>People looking for small gigs.</li>
-<li>Folks looking to build simple wordpress/wix/squarespace-style websites.</li>
-<li>Those still early in their careers and recent university/bootcamp grads (at least not yet).</li>
-</ul><div>
-<br><strong>Our long-term vision:<br></strong><a href="https://build.a.team/wwrfastrackreferral">A·Team</a> is a new type of company for a new kind of independent software builders. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </div><div>
-<br>To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1761558/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -489,7 +328,7 @@
                     <code>api,CSS,git,html</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/website-developer-1761558" align="right" target="_blank">Apply</a>
@@ -549,7 +388,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -624,7 +463,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
