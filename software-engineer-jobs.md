@@ -1,5 +1,101 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0118/0363/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Product Hunt</h5>
+                    <h3> Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/product-hunt-software-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0118/0363/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> San Francisco, CA
+    <br /><strong>URL:</strong> <a href="https://producthunt.com">https://producthunt.com</a>
+</p>
+
+<div>Our mission at Product Hunt is to surface great products every day and support our community of Makers in building the future. We obsess over delivering an amazing experience to all of our users and we are building a world-class team to achieve that.<br><br>
+</div><div>We’ve been around since 2014 and have accomplished a lot with our small but mighty team. With our most recent $23 million financing round, we’re ready to find even more ways to deliver value to makers and tech enthusiasts around the world.<br><br>
+</div><div>
+<strong>The role<br></strong><br>
+</div><div>We’re seeking a Senior Software Engineer ****to join our team. Reporting to one of our Engineering Team Leads, your highest priorities will include leading high impact features and mentoring junior engineers. Our ideal candidate has a track record as a leading individual contributor at previous companies, and is excited to make an outsized impact on the Product Hunt Engineering team from day one.<br><br>
+</div><div>
+<strong>Our ideal candidate:<br></strong><br>
+</div><ul>
+<li>Has owned and led high impact features across the full stack, that pushed the team towards their quarterly/yearly goals, from ideation and planning to development, reporting and maintenance.</li>
+<li>Has helped shape new features from a user experience perspective.</li>
+<li>Can share examples of projects / critical decisions made through ability to clearly communicate cross functionally to clarify requirements and provide supporting data etc.</li>
+<li>
+<strong>Must have:</strong><ul>
+<li>Advanced skills in Ruby / Rails</li>
+<li>Experience with React / NextJS</li>
+<li>Experience mentoring junior engineers</li>
+<li>Excellent communication and cross-functional collaboration skills</li>
+</ul>
+</li>
+<li>
+<strong>Nice to have:</strong><ul>
+<li>Experience with GraphQL, Typescript and AWS infrastructure</li>
+<li>Experience working with a remote/global team</li>
+</ul>
+</li>
+</ul><div>
+<strong>Does this sound like you? Apply to join our team!<br></strong><br>
+</div><div>
+<strong>How We Work<br></strong><br>
+</div><div>Every person adds to the culture of our team. We look for people that are:<br><br>
+</div><ul>
+<li>
+<strong>Curious</strong> – Product Hunt was founded with an experimental mindset, an important principle when building something new</li>
+<li>
+<strong>Authentic</strong> – People seek authenticity more than ever. It’s a value we hope to demonstrate inside and outside the company.</li>
+<li>
+<strong>Bold</strong> – Each person on the team should feel empowered to take measured risks to create an outsized impact</li>
+<li>
+<strong>Empathetic</strong> – Launching a product is anxiety-inducing. It’s important each person on the team can empathize with makers and our community.</li>
+<li>
+<strong>Kittenish</strong> – We’re serious about our work, but that doesn’t mean we can’t have fun :)</li>
+</ul><div>We’re a distributed team across the world, including Bulgaria, Canada, France, India, Ireland, Spain, United Kingdom, and United States. It’s important to us to build an inclusive team – across gender, ethnicity, and experiences – to best serve our global community.<br><br>
+</div><div>
+<strong>Full-time Employee Benefits / Perks<br></strong><br>
+</div><div>A few of the benefits we offer:<br><br>
+</div><ul>
+<li><strong>Competitive Salary</strong></li>
+<li>
+<strong>Wellness stipend</strong> – Your health is important to us, too.</li>
+<li>
+<strong>Full health insurance coverage</strong> for you and your dependents if you live in the US and a <strong>generous stipend</strong> for outside the US.</li>
+<li><strong>Company paid laptop, WFH set up, and a monthly internet stipend</strong></li>
+<li>
+<strong>Fluid work schedule</strong> – We don’t believe in face time, work when you’re most productive.</li>
+<li>
+<strong>Generous vacation time</strong> – Hard work deserves time off, so please take it.</li>
+<li>
+<strong>Wellness Mondays -</strong> First Monday of the month is your time. Spend it however you want.</li>
+<li>
+<strong>Professional development stipend -</strong> Grow, learn, and become even better at what you do.</li>
+<li>
+<strong>Live wherever</strong> – We don’t care if you WFH or work from Hawaii (our team is fully distributed)</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/product-hunt-software-engineer">https://weworkremotely.com/remote-jobs/product-hunt-software-engineer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1569512792381878278/Smf8h3tt_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -20,6 +116,98 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>ConvertKit is a powerful marketing platform built for creators, by creators. We help creators grow and monetize their audience with ease. For coaches, YouTubers, authors, podcasters, and other creatives, there isn’t a better marketing hub to rely on to grow audiences, automate email marketing, and sell digital products - all within one platform. More importantly, there isn’t a team more committed to helping creators earn a living.</p><p>We’re on a mission to help creators earn $1 billion using our creator marketing platform. We have always been 100% independent and 100% remote. We are proud to have built a product that our customers love, and we look for people who have enthusiasm and belief in our mission, vision, and values to join our team.</p><p>The ConvertKit culture is one where emotional intelligence is valued, radical candor is encouraged, and where everyone works together to uphold a set of shared team principles.</p><p><strong>The Role</strong></p><p>You’ll join a team of engineers responsible for email and commerce compliance tooling, building out adaptive fraud prevention and detection systems, and providing creators with in-application analytics to inform how they grow.</p><p>This group cares deeply about creators and helping them along their journey. We’re looking for an engineer that enjoys the product side of product development; has empathy for the creators that we serve, and is eager to work in on a fast paced team that ships consistently. </p><p>To learn more about how our engineering team works, you can peruse <a href="https://convertkit.engineering/" rel="nofollow noreferrer noopener" class="external">our engineering blog</a>.</p><p><strong>Responsibilities</strong></p><ul> <li>Own solving problems across the full stack in collaboration with your team</li> <li>Actively participate in driving the technical direction of our codebase</li> <li>Collaborate with team members across the organization</li> <li>Proactive communication with product stakeholders</li> <li>Staying up to date with current technical best practices</li> </ul><h3>Requirements: </h3><ul> <li>At least five years building software in a team environment or equivalent experience. Years of experience doesn’t always capture expertise, so we encourage you to apply if you can demonstrate you’re well versed in building software in a team environment</li> <li>At least two years working professionally on a Ruby on Rails application - if you don’t have two years of experience but can demonstrate a confident grasp of Ruby on Rails, we encourage you to apply</li> <li>Experience working with JavaScript and React (or comparable framework)</li> <li>Experience writing code that is accessible, scalable, maintainable, and performant</li> <li>Comfortable working remotely in an autonomous environment - you don’t mind asking questions and problem solving in public communication channels</li> <li>Able to work in US time zones - you don’t have to live in those time zones, but you have to be able to collaborate with your teammates during those times</li> <li>Belief in our mission, vision, and values</li> <li>Attend bi-annual in-person retreats</li> </ul><p><strong>Nice to Haves</strong></p><ul> <li>Experience building and/or integrating with machine learning models. </li> <li>Experience with visualizing data and/or statistical analysis</li> <li>Experience with algorithms for surfacing relevant content to users based on shared traits or interests</li> <li>Experience with Stripe, Paypal, or other billing systems</li> </ul><h3>Benefits: </h3><p>ConvertKit has standardized salaries based on position, no matter where you live. For this role, we’re hiring at a level 4 ($174,000), out of six levels. Level is determined based on experience and our interview process.</p><p><strong>Other benefits include:</strong></p><ul> <li>Profit Sharing - <a target="_blank" href="https://twitter.com/nathanbarry/status/1491429183977050114" rel="nofollow noreferrer noopener" class="external">Learn about profit sharing and compensation at ConvertKit</a> </li> <li>Twenty (20) days of paid time off during each year of employment</li> <li>Paid paid vacation: An after-tax bonus of $1,000 for taking five consecutive days of vacation where you’re fully unplugged from work</li> <li>Ten paid holidays a year</li> <li>Monthly medical benefits up to $1,750 a month toward premiums. Dental and vision premiums covered 100%</li> <li>Two weeks of paid sick time each year, including mental health + well being days</li> <li>12 weeks paid parental leave and flexible scheduling in your child’s first year</li> <li>Childcare benefit up to $3,000 annually</li> <li>Up to six weeks of paid bereavement leave, medical leave, and disaster after six months of employment, two weeks of each paid leave in your first six months=</li> <li>Gender affirming benefits</li> <li>$4,000 equipment allowance for your first two years, $3,000 budget every following two years</li> <li>Individual learning + development budget ($3,500/year)</li> <li>Four-week, paid sabbatical after five years with the team</li> <li>Fantastic in-person or virtual retreats with the team twice a year</li> </ul><p><strong>How to Apply</strong></p><p>We know that most people hate interviewing (we relate!). We aim to make it as good of an experience as we can, and part of that includes keeping you informed during the process.</p><p>Here’s what you can expect from the process:</p><ol> <li>30 min - Recruiter screen</li> <li>45 min - Hiring Manager screen</li> <li>Homework Assignment</li> <li>60 min - Technical Interview to discuss HW</li> <li>60 min - Culture Contribution Chat</li> </ol><p>To get started, complete this application, including answers to the questions on the next page.<strong> We read every single application, and your responses to our application questions help put your experience into context.</strong></p><p><br></p><p>ConvertKit is an equal opportunity employer. We value diversity in all of its forms, and we hire the best person we can for each role, no matter your personal background. Research tells us that applicants who are female or non-binary, as well as applicants who are people of color, are less likely to apply for roles they do not feel 100% qualified for. If you think you meet more than 50% of our requirements but fewer than 100% of them, please apply. We’re imperfect communicators, so think of our job postings as the starting point for discussion rather than proof that you shouldn’t apply.</p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>DuckDuckGo</h5>
+                    <h3>
+            Senior Software Engineer, Windows Desktop App (Remote)
+          </h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://duckduckgo.recruitee.com/o/senior-software-engineer-windows-desktop-app-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+            <p>Hi, we’re DuckDuckGo, the Internet privacy company for everyone who wants to take back their privacy now. For over a decade, we've been building our all-in-one product, developing new privacy technology, and working with policymakers to make online privacy simple and accessible for all.  </p>
+<p><br></p>
+<p>Our app is now downloaded more than 75M times a year, and our private search engine packaged with it has become the #2 search engine on mobile in over 21 countries, including the United States, United Kingdom, Canada, Australia, Germany, and the Netherlands. Oh, and we've been profitable since 2014 with revenue currently exceeding $100 million a year! Now, we’re rolling out a suite of new privacy solutions, including <u><a href="https://www.spreadprivacy.com/introducing-email-protection-beta/" rel="noopener">Email Protection</a></u>,  <u><a href="https://spreadprivacy.com/introducing-app-tracking-protection/" rel="noopener">App Tracking Protection</a></u><a rel="noopener">&nbsp;&nbsp;</a>and our first-ever Desktop Apps for <u><a href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/" rel="noopener">Mac</a></u><a href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/" rel="noopener"> </a>and Windows.</p>
+<p><br></p>
+<p>We’re looking for a <strong><strong>Senior Software Engineer, Windows Desktop App</strong></strong> to help shape our all-in-one privacy solution and join our mission to show the world that protecting your privacy online can be simple.  </p>
+<p><br></p>
+<p><strong>The Opportunity</strong> </p>
+<p>In this role, you will work on the team responsible for launching our first ever DuckDuckGo Privacy App for Windows. You'll collaborate with Product Managers, Designers, and Engineers across Native Apps to craft a world-class browser with embedded privacy features that will revolutionize the way people search, surf, and exist online. </p>
+<p><br></p>
+<p>You will be critical to the successful launch of this product and responsible for taking pieces of the puzzle and autonomously building solutions to get us closer to our first release. You will help define the roadmap, take ownership of significant application features and experiment with ways to improve them. </p>
+<p><br></p>
+<p>You will lay the foundations of what will become one of DuckDuckGo's flagship products and critical levers for growing privacy online. </p>
+<p><br></p>
+<p><strong>What You Will Bring to DuckDuckGo</strong> </p>
+<ul>
+<li>Experience implementing ideas from scratch, owning major application features, and taking responsibility for their maintenance and improvement over time.</li>
+<li>Experience participating in technical architecture decisions for complex products, essentially shaping the software architecture of a consumer product.</li>
+<li>Experience building at least one desktop application (ideally with WPF, UWP, WinUI, WinForms, or other relevant .NET UI).</li>
+<li>An advanced level of programming expertise, with knowledge of C#. We currently use .NET 6.</li>
+<li>A significant level of experience in building customer facing applications, including crafting user interfaces.<br>
+</li>
+<li>Deep understanding of software design patterns such as MVVM, MVP, etc.</li>
+<li>Event-driven programming (e.g., using Rx.NET) experience is considered an advantage.</li>
+</ul>
+<p><br></p>
+<p><strong>How We Will Support You </strong> </p>
+<p>Our core values -- build trust, question assumptions, and validate direction -- underpin how we work day-to-day and the support we give our team members. We strive to empower our team members to be self-directed and self-motivated in their work.  </p>
+<p><br></p>
+<ul>
+<li>
+<strong>Remote First, Always</strong>: We've always been a fully distributed company with team members all over the world. We trust you to get your work done wherever, whenever.</li>
+<li>
+<strong>Commitment to Personal Growth:</strong> Every team member has an annual budget of $1,250 USD to invest in their professional development. Every team member also has a dedicated Career Advisor, who serves as a guide to help you develop your strengths, identify your motivations, and understand your opportunities for growth.</li>
+<li>
+<strong>Leadership:</strong> We have many different types of leaders and possible combinations of leadership roles, so you can grow your career in a way that aligns best with your personal goals. You can seek additional leadership roles by being directly responsible for projects, taking ownership of areas of the company, developing and maintaining internal processes, or pursuing advisory roles.</li>
+<li>
+<strong>Work/Life Balance: </strong>Team members have the freedom and flexibility to organize their own work schedules. We want you to thrive both in and out of the office. We trust you to use good judgment and take the time off that you need to bring your best self to work.  </li>
+</ul>
+<p><br></p>
+<p>We also offer <strong>paid parental leave, a co-working stipend, office setup reimbursement, </strong>and<strong> a wellness stipend.</strong> More support resources can be found in our, <u><a href="https://duckduckgo.com/assets/hiring/team_support_guide.pdf" rel="noopener">Team Member Support Guide</a></u>, which explains how we make your well-being a priority. </p>
+<p><br></p>
+<p>For more information on how we collaborate worldwide, from leadership in our relatively flat organization to start-to-finish ownership, check out <u><a href="https://duckduckgo.com/assets/hiring/how_we_work.pdf" rel="noopener">DuckDuckGo Culture: How We Work.</a></u> </p>
+<p><br></p>
+<p><strong>Compensation</strong> </p>
+<p>Annual compensation: <strong>$170,000</strong>&nbsp;<strong>USD</strong> and stock options.&nbsp;Compensation is the same within a professional level, regardless of geographic location or functional area, and the compensation for each professional level is transparent across the organization.</p>
+<p><br></p>
+<p><strong>Hiring Process</strong> </p>
+<p>Hiring works best when it's a two-way street. Learn how we help you get to know DuckDuckGo and envision your future role here. Find out more about <u><a href="https://duckduckgo.com/assets/hiring/how_we_hire.pdf" rel="noopener">how we hire</a></u>. </p>
+<p><br></p>
+<p><strong>Diversity, Equity, and Inclusion</strong> </p>
+<p>DuckDuckGo provides equal work opportunities to all team members and applicants<u>,</u> and it prohibits discrimination and harassment of any type&nbsp;on the basis of race, color, ethnicity, caste, religion, age, sex (including pregnancy), national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by our policies or federal, state, or local laws.</p>
+<p><br></p>
+<p>We want to ensure that our hiring process is accessible. If you need reasonable accommodation for any part of the application process because of a medical condition or disability, please send an email to <u><a rel="noopener">careers@duckduckgo.com</a></u> to let us know the nature of your request.  </p>
+<p><br></p>
+<p>If you think you might thrive in this environment, we would love to hear from you. </p>
+<p><br></p>
+<p><strong>Please note that:</strong> </p>
+<ul>
+<li><p>Sometimes we meet up! Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.</p></li>
+<li>While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week. </li>
+<li>A successful candidate will be subject to a background check and must receive satisfactory results of the same, as a condition of joining the team. </li>
+<li>By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.</li>
+</ul>
+<p>#US #UK #SP #PL #IR #IC #HN #CR #CN #AU</p>
+<p><br></p>
+          
                 </details>
                 </td>
             </tr>,<tr>
@@ -311,7 +499,7 @@
                 </td>
                 <td width="300">
                     <h5>Status</h5>
-                    <h3>Lead Software Engineer (Go, Chat SDK)</h3>
+                    <h3>Lead Software Engineer (Chat SDK)</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -354,7 +542,7 @@
 <ul>
 <li>Experience building applications with complex logic, cutting edge technology or applied research.</li>
 <li>Experience interfacing with product managers or business analysts, able to hold technical complex discussions with product oriented professionals as well as highly-skilled developers.</li>
-<li>At least, 5 years experience as a Software Engineer, including at least 3 years as a Golang Developer.</li>
+<li>At least, 5 years experience as a Software Engineer</li>
 <li>At least, 3 years experience as Team Lead, Tech Lead or Engineering Manager.</li>
 <li>Already in the blockchain and decentralized technologies space or familiarity with it; you understand how they work.</li>
 <li>Strong alignment to our principles:<a href="https://status.im/about/#our-principles"> https://status.im/about/#our-principles</a>.&nbsp;</li>
@@ -372,7 +560,6 @@
 <li>Chat with people ops</li>
 <li>Chat with Waku Lead</li>
 <li>Pair programming with Go-Waku Developer</li>
-<li>Chat with Logos Lead</li>
 </ul>
 <p>[The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline].&nbsp;</p>
 </div>
@@ -395,7 +582,7 @@
                 </td>
                 <td width="300">
                     <h5>Status</h5>
-                    <h3>Software Engineer (Go, Chat SDK)</h3>
+                    <h3>Software Engineer (Chat SDK)</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -429,7 +616,7 @@
 <p><strong>Key responsibilities:</strong></p>
 <p><strong></strong></p>
 <ul>
-<li>Integrate Waku in Status Communities application (status-go).</li>
+<li>Integrate Waku in Status Communities Golang application (status-go).</li>
 <li>Liaise with Status engineer to support and investigate issues encountered by the chat functionalities in status-go.</li>
 <li>Liaise with Waku engineers to report bugs and use new APIs.</li>
 <li>Maintain, improve and troubleshoot the chat related functionalities of status-go codebase. Report issues to Waku and Status teams.</li>
@@ -440,12 +627,12 @@
 <p></p>
 <ul>
 <li>Have experience building applications with complex logic, cutting edge technology or applied research.</li>
+<li>Experience with Golang or other system/backend languages such as C/C++/C#/Java/Rust, etc.</li>
 <li>Have experience building instant messaging and chat applications that includes cryptographic such as end-to-end encryption.</li>
 <li>Have passion for blockchain and decentralized technologies and understand how they work.</li>
 <li>Have good communication skills (written and conversational).</li>
-<li>Have a strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></li>
+<li>Have a strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a>&nbsp;</li>
 </ul>
-<p></p>
 <p>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</p>
 <p><strong>Bonus points if:</strong></p>
 <ul>
@@ -467,98 +654,6 @@
 <p>The expected compensation range for this role is $80,000 - $100,000 (dependent on how we assess your skills and experience throughout our interview process).&nbsp;</p>
 <p>We are happy to pay in any mix of fiat/crypto.</p>
 </div>
-
-    
-
-    
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Status</h5>
-                    <h3>Software Engineer (Golang)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4863246&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <h4>&nbsp;</h4>
-<h4><strong>About Waku</strong></h4>
-<p><span style="font-weight: 400;">We are building Waku (Waku.org) as a public good infrastructure. Waku is the messaging layer of Web3.</span></p>
-<p><span style="font-weight: 400;">It is a decentralized, censorship-resistant, privacy-preserving communication network that enables anyone to send and receive messages without worrying about surveillance or deplatforming.</span></p>
-<p><span style="font-weight: 400;">We are developing 3 open source implementations of Waku:</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Nwaku. <a class="anchor-1MIwyf anchorUnderlineOnHover-2qPutX" href="https://github.com/waku-org/nwaku" target="_blank">https://github.com/waku-org/nwaku</a>: the reference implementation and service node</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Js-waku, <a class="anchor-1MIwyf anchorUnderlineOnHover-2qPutX" href="https://github.com/waku-org/js-waku" target="_blank">https://github.com/waku-org/js-waku</a>: for the browser </span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Go-waku: <a class="anchor-1MIwyf anchorUnderlineOnHover-2qPutX" href="https://github.com/waku-org/go-waku" target="_blank">https://github.com/waku-org/go-waku</a>: to integrate as a library in native applications</span></li>
-</ul>
-<p><span style="font-weight: 400;">We are enabling Ethereum builders to create new projects with a fully decentralized architecture, think dApp to Wallet notifications, NFT marketplaces, censorship-resistant chat, layer-2 decentralization and more.</span></p>
-<p><span style="font-weight: 400;">We are looking for a Software Engineer who is passionate about Ethereum, and decentralization. And who would relish the opportunity to champion Waku to other Web3 projects and developers.</span></p>
-<p>&nbsp;</p>
-<p><strong>Key Responsibilities</strong></p>
-<ul>
-<li>Design, implement and document Waku Golang libraries (go-waku)</li>
-<li>Maintain, improve, troubleshoot Waku React Native, the React Native wrapper of go-waku</li>
-<li>Implement new protocols as defined by the Research Team</li>
-<li>Investigate and fix issues in go-waku and upstream libraries such as go-libp2p</li>
-<li>Optimize go-waku and upstream libraries for the mobile/React Native</li>
-<li>Support dApp developers in using go-waku and Waku Golang libraries</li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>You ideally will have</strong></p>
-<ul>
-<li>Experience building applications with complex logic, cutting edge technology or applied research</li>
-<li>Ability to learn new concepts and technologies quickly, you are a polyglot</li>
-<li>Open to maintaining a native library for React Native</li>
-<li>Experience building libraries in Golang, for network and mobile environments</li>
-<li>Good communication skills (written and conversational)</li>
-<li>Strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>Bonus points if&nbsp;</strong></p>
-<ul>
-<li>You are already familiar with the Ethereum community</li>
-<li>You have experience with go-libp2p or other libp2p implementations</li>
-<li>You have experience with C-Bindings &amp; Cgo</li>
-<li>You are in Web3 or blockchain development</li>
-<li>You have experience working for an open source organization</li>
-<li>You have experience working async</li>
-</ul>
-<p><em>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</em></p>
-<p>&nbsp;</p>
-<p><strong>Hiring Process&nbsp;</strong></p>
-<ol>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Intro call with our People Ops team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with member of the Waku team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Pair programming session with member of the Waku team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Program Lead</span></li>
-</ol>
-<p>&nbsp;</p>
-<p><strong>Compensation</strong></p>
-<p>The expected compensation range for this role is $65,000 - $80,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process). <br><br>We are happy to pay in any mix of fiat/crypto.&nbsp;</p>
-<p>&nbsp;</p>
 
     
 
