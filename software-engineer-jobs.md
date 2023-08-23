@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/product-hunt-software-engineer" align="right" target="_blank">Apply</a>
@@ -257,30 +257,6 @@
 &lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bonus for deep knowledge of at least one major cloud provider, AWS preferred&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1306325743580848130/mk0qvsZ9_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Kraken</h5>
-                    <h3>Senior Quantitative Software Engineer - Trading Technologies</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/kraken/c05f1ed6-6189-4586-9871-c64e5fc11732" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Internet of Money&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to industry-leading security, crypto education, and world-class client support through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://cryptowat.ch/" class="postings-link">Cryptowatch</a>.</div><div><br></div><div>Become a Krakenite and build the internet of money!</div><div><br></div><div><b style="font-size: 24px">Proof of Work </b></div><div><br></div><div><b style="font-size: 18px">The team</b></div><div><br></div><div>Join the Trading Technologies&nbsp; team and start building the internet of money by supporting the Sr Director of Engineering - Trading. The Trading Technology team is responsible for everything to do with the trading backend services such as the matching engine, market data gateways, internal and external APIs, and various other trading services. The Senior Quantitative Software Engineer will be a key contributor to the success of the Kraken Risk Desk team.</div><div><br></div></div><div class="section page-centered"><div><h3>The opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Develop quantitative models and algorithms to build trading strategies for the Kraken Risk Desk</li><li>Conduct research and analysis of large data sets to identify trends and patterns</li><li>Collaborate with cross-functional teams to ensure the accuracy and integrity of data</li><li>Develop, maintain and improve tools, systems and processes to streamline the data analysis and modeling process</li><li>Work with cross functionally with other engineering teams to ensure proper implementation of models in production systems</li><li>Participate in code reviews, identify and fix issues in the code, and develop testing frameworks</li><li>Stay up-to-date with the latest advancements in quantitative engineering and bring new ideas and techniques to the team</li><li>Performing other duties as required</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>Bachelor's or Master's degree in Mathematics, Statistics, Computer Science, or related field</li><li>Minimum of 5 years of experience in quantitative engineering or related field</li><li>Experience developing high-performance, multi-threaded applications using several programming languages including C++</li><li>Knowledge of scripting languages such as Python</li><li>Experience working with large data sets and statistical models</li><li>Strong analytical and problem-solving skills</li><li>Ability to work in a fast-paced and dynamic environment</li><li>Excellent communication and collaboration skills</li><li>Experience with or knowledge of cryptocurrency is a plus</li><div><br></div></ul></ul></div></div><div class="section page-centered"><div><h3>Nice to Haves</h3><ul class="posting-requirements plain-list"><ul><li>PhD in Mathematics, Statistics, Computer Science, or related field</li><li>Experience in machine learning and data mining</li><li>Experience working in finance or related industry</li><li>Experience with cloud computing technologies such as AWS or Azure</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Location Tagging: #US #EU #LI-Remote #Canada #LI-VF1</div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/c05f1ed6-6189-4586-9871-c64e5fc11732/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -667,90 +643,6 @@
                 </td>
                 <td width="300">
                     <h5>Status</h5>
-                    <h3>Software Engineer - Nim</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4889526&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <h4><strong>Nwaku</strong></h4>
-<p><span style="font-weight: 400;">We are building Waku as a public good infrastructure. Waku is the messaging layer of Web3.</span></p>
-<p><span style="font-weight: 400;">It is a decentralized, censorship-resistant, privacy-preserving communication network that enables anyone to send and receive messages without worrying about surveillance or de-platforming.</span></p>
-<p><span style="font-weight: 400;">We are developing 3 open source implementations of Waku: nwaku, go-waku and js-waku.</span></p>
-<p><span style="font-weight: 400;">Nwaku is the reference implementation of Waku, in which protocols are first implemented. Nwaku is used as a service node to operate the Waku Relay network, the backbone of the Waku network.</span></p>
-<p><span style="font-weight: 400;">Our main repo is </span><a href="https://github.com/waku-org/nwaku/"><span style="font-weight: 400;">https://github.com/waku-org/nwaku/</span></a><span style="font-weight: 400;">.</span></p>
-<p><span style="font-weight: 400;">We are looking for software engineers that are passionate about Ethereum, decentralization and software excellence, and who would relish the opportunity to create a first-class decentralized messaging network and bring these new capabilities to the Web3 ecosystem!</span></p>
-<p><strong>Key responsibilities</strong></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Implement and develop open protocols for secure messaging.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Create and maintain a sustainable and fault-tolerant distributed system.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Write and maintain Nim code.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Understand and optimize the core functionality of complex software systems.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Provide feedback on overall design decisions, and participate in code reviews</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Use libp2p to build application-level protocols.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Build incentivized, distributed systems.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interpret and implement solutions based on academic research.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Support platforms and operators using nwaku software.</span></li>
-</ul>
-<p><strong>You ideally will have</strong></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">A passion for blockchain technology, privacy-preserving technology and decentralization.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">At least 4 years of software engineering experience.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with low-level/strongly typed languages (C/C++/Go/Rust or Java/C#).</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Embedded systems development experience.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience building networking-heavy applications and p2p networking specifically.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Familiarity with message propagation in loosely connected networks.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Familiar with p2p building blocks such as gossiping, routing and discovery (DHTs), and Nat traversal.</span></li>
-</ul>
-<p><strong>Bonus points if you have</strong></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Contributed to a blockchain-related, open-source project.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Embedded in the Ethereum community.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with Nim.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with C bindings and FFIs.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with off-the-shelf networking stacks such as libp2p / devp2p.</span></li>
-</ul>
-<p><span style="font-weight: 400;">[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</span></p>
-<p><strong>Hiring process</strong></p>
-<ol>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with our People Ops team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Technical Interview with a member of the Waku Team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Pair Programming Interview with a member of the Waku Team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with a Program Lead</span></li>
-</ol>
-<p><strong>Compensation</strong></p>
-<p><span style="font-weight: 400;">The expected compensation range for this role is $90,000 - $130,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process. We are happy to pay in any mix of fiat/crypto).&nbsp;</span></p>
-
-    
-
-    
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Status</h5>
                     <h3>Software Engineer (Typescript)</h3>
                 </td>
                 <td width="300">
@@ -817,6 +709,92 @@
 <li>Technical &amp; Culture Interview with Waku Lead</li>
 <li>Final interview with Logos Lead&nbsp;</li>
 </ol>
+
+    
+
+    
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
+                    <h3>Software Engineer (Waku test simulator)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=5310503&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <div class="careers-block__trix external-panel text-left">
+<div>&nbsp;</div>
+<div>
+<p><strong>About Waku</strong></p>
+<p>We are building Waku as a public good infrastructure. Waku is uncompromising Web3 communication at scale. It is a decentralized, censorship-resistant, privacy-preserving communication network that enables anyone to send and receive messages without worrying about surveillance or deplatforming.</p>
+<p>We are enabling Ethereum builders to create new projects with a fully decentralized architecture, think dApp to Wallet notifications, NFT marketplaces, censorship-resistant chat, layer-2 and more.&nbsp;</p>
+<p>Waku enables a variety of complex use cases and applications. To facilitate the adoption of Waku, you will design and implement application protocols to provide to dapp developers as off-the-shelf SDKs.</p>
+<p><a href="https://boards.greenhouse.io/embed/waku.org">Waku.org&nbsp;</a></p>
+<p><strong>Key responsibilities:</strong></p>
+</div>
+<div>
+<ul>
+<li>Run, analyze, and report on small-scale simulations to test the behavior of a specific protocol change or software implementation, or to simulate a type of attack on the Waku clients.</li>
+<li>Own, maintain and improve the <a href="https://github.com/waku-org/waku-simulator">waku-simulator</a> framework to enable running local simulations of the Waku network.</li>
+<li>Work closely with Waku engineers and researchers to help design and analyze simulations needed to validate assumptions.</li>
+<li>Assist engineers by conducting ad-hoc regression testing, reproducing bugs, and testing bug fixes.</li>
+<li>Be the point of contact within the Waku team for the the Vac/DST (Distributed System Test) Team who is in charge of large scale simulations and QA activities.</li>
+<li>Pre-empt and plan small scale simulations to study the behaviour of Waku clients, identify potential bottlenecks and performance optimization, then handover to DST for large scale simulation to confirm findings.</li>
+<li>Foresee, and help plan and execute any other testing activities that helps ensure the production readiness of Waku, including secure scaling.</li>
+<li>Help provide visibility on testing and simulation output, to ensure that the wider Waku ecosystem is informed of the expected performance of the Waku protocol and software.</li>
+</ul>
+</div>
+<div>
+<p><strong>You ideally will have:</strong></p>
+</div>
+<div>
+<ul>
+<li>A passion for blockchain technology, privacy-preserving technology and decentralization.</li>
+<li>Strong experience with scripting languages such as Shell or Python.</li>
+<li>Strong foundation in networks and system programming.</li>
+<li>Working knowledge of Docker and POSIX-like systems.</li>
+<li>Have a strong alignment to our principles:&nbsp;<a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a>&nbsp;</li>
+</ul>
+<p><strong>Hiring process:</strong></p>
+<p>&nbsp;</p>
+<ul>
+<li>Call with Talent</li>
+<li>Interview with Waku Research team member or lead</li>
+<li>Take home task (paid)</li>
+<li>Interview with another Waku Research team member or Lead to present home task and discuss further</li>
+<li>Interview with Waku Lead</li>
+</ul>
+<p><strong>Compensation:</strong></p>
+</div>
+<p>We are happy to pay in any mix of fiat/crypto.</p>
+<p><strong>&nbsp;</strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
 
     
 
