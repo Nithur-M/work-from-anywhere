@@ -4,7 +4,7 @@
                 </td>
                 <td width="300">
                     <h5>CloudLinux</h5>
-                    <h3>Quality Assurance Manager</h3>
+                    <h3>Quality Assurance Manager - Work Anywhere - Remote</h3>
                 </td>
                 <td width="300">
                     <code></code>
