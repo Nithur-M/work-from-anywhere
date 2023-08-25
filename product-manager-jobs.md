@@ -1,5 +1,100 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0118/8097/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CoverGo</h5>
+                    <h3> Senior Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/covergo-senior-product-manager" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0118/8097/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Singapore
+    <br /><strong>URL:</strong> <a href="https://covergo.com/">https://covergo.com/</a>
+</p>
+
+<div>
+<strong>Top 3 Reasons To Join Us<br></strong><br>
+</div><ul>
+<li>Share Option Plan</li>
+<li>100% Remote </li>
+<li>Insurtech industry leader worldwide </li>
+</ul><div><br></div><div>
+<strong>About Us<br></strong><br>
+</div><div>At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.<br><br>
+</div><ul>
+<li>We are a leading global no-code insurance platform for health, life, and P&amp;C;</li>
+<li>We’re the winner of the Insurtech of the Year in all of Asia and other awards globally;</li>
+<li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more;</li>
+<li>We're an international, diverse team of over 120 people with 34 nationalities and team members working remotely from all over the world;</li>
+<li>We are fully funded and backed by reputable VC funds and strategic institutional investors;</li>
+<li>We have offices in the US, Singapore, Hong Kong, UAE and Vietnam;</li>
+<li>We’ve grown our annualized revenue by over 30x since January 2021;</li>
+<li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world.<br><br>
+</li>
+</ul><div><br></div><div>
+<strong>What You Will Do:<br></strong><br>
+</div><ul>
+<li>Product Strategy: Develop and execute a compelling product strategy for our products, aligned with the company's vision and objectives.</li>
+<li>Market Analysis: Conduct market research, analyze industry trends, and gather customer insights to identify opportunities for product innovation and differentiation.</li>
+<li>Product Roadmap: Define and communicate a clear and prioritized product roadmap, considering market dynamics, customer insights, and business goals.</li>
+<li>Requirements Gathering: Collaborate with stakeholders to gather and document detailed product requirements, ensuring a deep understanding of customer pain points and business priorities.</li>
+<li>User Experience: Work closely with design and engineering teams to create exceptional user experiences, employing best practices in user interface (UI) and user experience (UX) design.</li>
+<li>Cross-functional teams collaboration: Work cross-functional teams through iterative development cycles, and ensure timely delivery of high-quality product releases.</li>
+<li>Go-to-market Strategy: Collaborate with finance and marketing teams to establish go-to-market strategies for health insurance products.</li>
+<li>Performance Tracking: Define key performance indicators (KPIs) and implement robust tracking mechanisms to measure product performance, identify areas for improvement, and drive data-driven decision-making.</li>
+<li>Stakeholder Collaboration: Collaborate effectively with internal and external stakeholders, including executive leadership, sales teams, and industry partners, to drive product adoption and achieve business objectives.</li>
+<li>Any other task as may be assigned<br><br>
+</li>
+</ul><div>
+<strong>What We Need:<br></strong><br>
+</div><ul>
+<li>Bachelor's degree in business, computer science, or a related field.</li>
+<li>At least 7 years of insurance product management experience, especially health insurance, prefer to have experience with other insurance products such as life and P&amp;C.</li>
+<li>Solid insurance knowledge is a must, specifically health insurance.</li>
+<li>Demonstrated success in managing the entire product lifecycle, from ideation to launch and post-launch optimization.</li>
+<li>Strong analytical skills, with the ability to gather and interpret market data, customer insights, and competitive intelligence.</li>
+<li>Experience working with cross-functional teams and driving collaboration in an Agile development environment.</li>
+<li>Nice to have experience in working with Jira and Confluence suite of products</li>
+<li>Excellent English communication and presentation skills, with the ability to convey complex concepts to both technical and non-technical stakeholders.</li>
+<li>Strategic mindset, with the ability to think long-term and translate vision into actionable plans.</li>
+<li>A critical thinker, an innovator and has good problem-solving skills</li>
+<li>Results-oriented and data-driven, with a passion for delivering exceptional customer experiences and achieving business objectives.<br><br>
+</li>
+</ul><div>
+<strong>Why You'll Love Working Here<br></strong><br>
+</div><ul>
+<li>Globally Remote Work Opportunity</li>
+<li>Local time zone office hours, work by your schedule</li>
+<li>Paid Time Offs</li>
+<li>Share Option Plan</li>
+<li>Performance bonus</li>
+<li>Company activities &amp; team offsites to exotic locations</li>
+<li>Training and development plan<br><br>
+</li>
+</ul><div>
+<strong>Covergo Company</strong><a href="https://www.youtube.com/watch?v=YI0ezLxvFvA"><strong> Video</strong></a>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/covergo-senior-product-manager">https://weworkremotely.com/remote-jobs/covergo-senior-product-manager</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/7274/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +105,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toggl-product-manager-3" align="right" target="_blank">Apply</a>
@@ -69,72 +164,6 @@
 </ul>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toggl-product-manager-3">https://weworkremotely.com/remote-jobs/toggl-product-manager-3</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>A.Team</h5>
-                    <h3> Senior Independent Product Manager/Product Designer ($110-$190/hr)</h3>
-                </td>
-                <td width="300">
-                    <code>Product</code>
-                </td>
-                <td width="200">
-                <text>651 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0071/4151/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> NYC, SF, and TLV
-    <br /><strong>URL:</strong> <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a>
-</p>
-
-<div>
-<a href="https://build.a.team/wwrproductmgrfasttrack">A·Team</a> is a VC-backed, stealth, application-only home on the internet for Senior Product Managers &amp; Product Designers (along with developers &amp; UX/UI folks) to team up with the best companies on their next big thing. <br><br>After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.<br><br>As part of A·Team, you can expect:</div><ul>
-<li>
-<strong>High-paying, meaningful client missions (where you'd lead Product) with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
-<li>
-<strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
-<li>
-<strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
-<li>
-<strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
-<li>
-<strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
-</ul><div>
-<br><strong>How to apply:<br></strong>Go here: <a href="https://build.a.team/wwrproductmgrfasttrack">https://build.a.team/wwrproductmgrfasttrack</a> + mention WWR under how you heard about A·Team. No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.<br><strong><br>What you’ll do:</strong>
-</div><ul>
-<li>Once part of A.Team, you’ll regularly be invited to be the lead Product manager/designer for impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old-school non-tech incumbents looking to build as a tech giant would.</li>
-<li>Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </li>
-<li>You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </li>
-</ul><div>
-<br><strong>Who A</strong>·<strong>Team is for:</strong>
-</div><ul>
-<li>Senior Product Managers/Designers who left large companies and high-growth startups to pursue their craft with autonomy.</li>
-<li>Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</li>
-<li>The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing.</li>
-</ul><div>
-<br><strong>Who A</strong>·<strong>Team is </strong><strong><em>not</em></strong><strong> for:</strong>
-</div><ul>
-<li>People looking for small gigs.</li>
-<li>Folks looking to build simple wordpress/wix/squarespace-style websites.</li>
-<li>Those still early in their careers and recent university/bootcamp grads (at least not yet).</li>
-</ul><div>
-<br><strong>Our long-term vision:<br></strong><a href="https://build.a.team/wwrproductmgrfasttrack"><span>A·Team</span></a> is a new type of company for a new kind of independent software builders. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </div><div>
-<br>To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
                 </details>
                 </td>
@@ -366,7 +395,7 @@
     <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
 <h2><span style="color: #a112ff;">Who we are</span></h2>
 <p><span style="font-weight: 400;">Our mission at Sourcegraph is to make it so that </span><a href="https://handbook.sourcegraph.com/strategy-goals/strategy"><span style="font-weight: 400;">everyone can code</span></a><span style="font-weight: 400;">, not just ~0.1% of the population. Our code graph powers Cody, the most powerful and accurate code AI for writing, fixing, and maintaining code, as well as our Code Search product, helping devs explore their entire codebase and make large-scale migrations and security fixes. We’re building software that builds software, and in doing so we’re making devs more productive and growing the population of coders by giving anybody access to the deep knowledge base of a senior engineer through Cody and all of the context it brings. We’re preparing for a world with a lot more code than exists today, and that benefits us all.</span></p>
-<p><span style="font-weight: 400;">It’s an exciting time to join Sourcegraph. AI has taken over the world, and we’ve spent the last 10 years building infrastructure that’s integral to making AI generated code more powerful and accurate. Our customers include 4/5 FAANG companies, 4 of the top 10 banks, government organizations, Uber, Plaid, and many other companies building the software that pushes the world forward. We’ve raised $225M at a $2.625B valuation from </span><a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/"><span style="font-weight: 400;">Andreessen Horowitz</span></a><span style="font-weight: 400;">, </span><a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"><span style="font-weight: 400;">&nbsp;Sequoia</span></a><span style="font-weight: 400;">, </span><a href="https://www.redpoint.com/companies/sourcegraph/"><span style="font-weight: 400;">Redpoint</span></a><span style="font-weight: 400;">, </span><a href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d"><span style="font-weight: 400;">Craft</span></a><span style="font-weight: 400;"> and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</span></p></div>
+<p><span style="font-weight: 400;">It’s an exciting time to join Sourcegraph. AI has taken over the world, and we’ve spent the last 10 years building infrastructure that’s integral to making AI generated code more powerful and accurate. Our customers include 4/5 FAANG companies, 4 of the top 10 banks, government organizations, Uber, Plaid, and many other companies building the software that pushes the world forward. We’ve raised $225M at a $2.625B valuation from </span><a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/"><span style="font-weight: 400;">Andreessen Horowitz</span></a><span style="font-weight: 400;">, </span><a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"><span style="font-weight: 400;">Sequoia</span></a><span style="font-weight: 400;">, </span><a href="https://www.redpoint.com/companies/sourcegraph/"><span style="font-weight: 400;">Redpoint</span></a><span style="font-weight: 400;">, </span><a href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d"><span style="font-weight: 400;">Craft</span></a><span style="font-weight: 400;"> and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</span></p></div>
 
     <h2><span style="color: rgb(140, 51, 236);">Why this job is exciting</span></h2>
 <p>Sourcegraphs deep code expertise sits at the heart of Cody’s industry leading technical capabilities. Our Code AI platform is core to everything we do at Sourcegraph (read more in <a href="https://handbook.sourcegraph.com/strategy-goals/strategy/#our-product-framework">our handbook</a>). As the Product Manager for our Code AI Platform, you will be responsible for continuing to push the boundaries of what it means to build an open and universal platform in the age of LLMs. How do we measure the impact of an admin’s LLM choice to their developers user experience? How do we help admins in extremely secure organizations trust our platform? Why would a developer build with our platform over competitors? Ideally, you will define a compelling vision at the center of our unique differentiation, an untapped part of the market, and something our customers are willing to pay for. You will be the go-to for defining&nbsp; a crucial member of our exceptional<a href="https://about.sourcegraph.com/company/values#high-agency"> high agency</a><a href="https://about.sourcegraph.com/company/remote"> all-remote team</a>, and will help us to achieve ambitious objectives to build a code intelligence platform.</p>
@@ -475,6 +504,150 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt">Mechanical Orchard is a new kind of software consultancy. We build new applications and replace legacy systems for a wide range of customers, spanning from seed stage startups to the Fortune 500, but it doesn’t end there. We run what we build, and build what we run. Our customers focus on their business, rather than manage all the cost, complexity, and risk that comes with operating production systems.</span></div><div><br></div><div><span style="font-size: 11pt">Our background in software development and the impact on the industry is well known, and we've helped write the book on XP and other effective agile practices. We believe in the durable principles behind agile, and embrace the power of cross-functional teams, collective ownership, test driven development, short feedback loops, and continuous improvement.</span></div><div><br></div><div><span style="font-size: 11pt">We are Generous, Ethical, Effective, and Kind.</span></div><div><br></div><div><span style="font-size: 11pt">As a Product Manager at Mechanical Orchard, you will be expected to:</span></div><div><br></div><div><span style="font-size: 11pt">- Work as part of a cross functional development team, collaborating with product designers, engineers, and other roles to build software for clients and/or Mechanical Orchard</span></div><div><span style="font-size: 11pt">- Work closely with customers to understand their needs, and use this knowledge to help shape product strategy and inform decision-making for the given project or engagement</span></div><div><span style="font-size: 11pt">- Use lean startup and lean UX principles to develop and test product ideas quickly and efficiently</span></div><div><span style="font-size: 11pt">- Work in partnership with product designer(s) to conduct user research, develop solutions, validate design effectiveness, and iterate on designs based on qualitative and quantitative feedback from users, customers, and the development team</span></div><div><span style="font-size: 11pt">- Manage a fine grained backlog in Pivotal Tracker that drives incremental progress in terms of learning and value</span></div><div><span style="font-size: 11pt">- Organize and facilitate regular project planning meetings, brainstorming sessions, team retrospectives, and other agile team ceremonies&nbsp;</span></div><div><span style="font-size: 11pt">- Monitor, analyze, and discern learnings from qualitative and quantitative data&nbsp;</span></div><div><span style="font-size: 11pt">- Collaborate with internal and external stakeholders as needed</span></div><div><span style="font-size: 11pt">- Apply and advocate for modern product practices including lean / lean UX and user centered design</span></div><div><br></div><div><span style="font-size: 11pt">The ideal candidate has worked as a product manager in a professional, team-based environment, with experience across the entire product lifecycle, and a deep understanding of product management principles.</span></div><div><br></div><div><span style="font-size: 11pt">Some consulting experience is a bonus.</span></div><div><br></div><div><span style="font-size: 11pt">Strong communication and collaboration skills as well as empathy are essential for working closely with the development team, customers, and others at Mechanical Orchard.</span></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 11pt">Mechanical Orchard, Inc. is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind. Mechanical Orchard, Inc. is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Mechanical Orchard, Inc. are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Mechanical Orchard, Inc. will not tolerate discrimination or harassment based on any of these characteristics. Mechanical Orchard, Inc. encourages applicants of all ages. Mechanical Orchard, Inc. will provide reasonable accommodation to employees who have protected disabilities consistent with local law.</span></div><div><br></div><div>We look forward to reviewing your application. Thanks!</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/mechanicalorchard/e9e79713-9cd4-41f9-92c0-c20dc588a262/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1382655628523364355/MWPIbbID_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CoverGo</h5>
+                    <h3>Senior Product Manager (Health) - Fully Remote</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/covergo/j/D0450EB6A9" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Top 3 Reasons To Join Us </strong></p><ul> <li>Employee Stock Options </li> <li>100% Remote </li> <li>Insurtech industry leader worldwide </li> </ul><p><strong>About Us</strong></p><p>At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.</p><ul> <li>We are a leading global no-code insurance platform for health, life, and P&amp;C;</li> <li>We’re the winner of the Insurtech of the Year in all of Asia and other awards globally;</li> <li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more;</li> <li>We're an international, diverse team of over 120 people with 34 nationalities and team members working remotely from all over the world;</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors;</li> <li>We have offices in the US, Singapore, Hong Kong, UAE and Vietnam;</li> <li>We’ve grown our annualized revenue by over 30x since January 2021;</li> <li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world.</li> </ul><p><strong>What You Will Do:</strong></p><ul> <li>Product Strategy: Develop and execute a compelling product strategy for our products, aligned with the company's vision and objectives.</li> <li>Market Analysis: Conduct market research, analyze industry trends, and gather customer insights to identify opportunities for product innovation and differentiation.</li> <li>Product Roadmap: Define and communicate a clear and prioritized product roadmap, considering market dynamics, customer insights, and business goals.</li> <li>Requirements Gathering: Collaborate with stakeholders to gather and document detailed product requirements, ensuring a deep understanding of customer pain points and business priorities.</li> <li>User Experience: Work closely with design and engineering teams to create exceptional user experiences, employing best practices in user interface (UI) and user experience (UX) design.</li> <li>Cross-functional teams collaboration: Work cross-functional teams through iterative development cycles, and ensure timely delivery of high-quality product releases.</li> <li>Go-to-market Strategy: Collaborate with finance and marketing teams to establish go-to-market strategies for health insurance products.</li> <li>Performance Tracking: Define key performance indicators (KPIs) and implement robust tracking mechanisms to measure product performance, identify areas for improvement, and drive data-driven decision-making.</li> <li>Stakeholder Collaboration: Collaborate effectively with internal and external stakeholders, including executive leadership, sales teams, and industry partners, to drive product adoption and achieve business objectives.</li> <li>Any  other task as may be assigned</li> </ul> <p><strong>What We Need:</strong></p><ul> <li>Bachelor's degree in business, computer science, or a related field.</li> <li>At least 7 years of insurance product management experience, especially health insurance, prefer to have experience with other insurance products such as life and P&amp;C.</li> <li>Solid insurance knowledge is a must, specifically health insurance.</li> <li>Demonstrated success in managing the entire product lifecycle, from ideation to launch and post-launch optimization.</li> <li>Strong analytical skills, with the ability to gather and interpret market data, customer insights, and competitive intelligence.</li> <li>Experience working with cross-functional teams and driving collaboration in an Agile development environment.</li> <li>Nice to have experience in working with Jira and Confluence suite of products</li> <li>Excellent English communication and presentation skills, with the ability to convey complex concepts to both technical and non-technical stakeholders.</li> <li>Strategic mindset, with the ability to think long-term and translate vision into actionable plans.</li> <li>A critical thinker, an innovator and has good problem-solving skills</li> <li>Results-oriented and data-driven, with a passion for delivering exceptional customer experiences and achieving business objectives.</li> </ul> <p><strong>Why You'll Love Working Here</strong></p><ul> <li>Globally Remote Work Opportunity</li> <li>Local time zone office hours, work by your schedule</li> <li>Paid Time Offs</li> <li>Share Option Plan</li> <li>Performance bonus</li> <li>Company activities &amp; team offsites to exotic locations</li> <li>Training and development plan</li> </ul>Covergo Company<a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"> Video</a><h3>Requirements: </h3><h3>Benefits: </h3>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1382655628523364355/MWPIbbID_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CoverGo</h5>
+                    <h3>Senior Product Manager (Health) - Fully Remote</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/covergo/j/2A320E4EDB" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Top 3 Reasons To Join Us </strong></p><ul> <li>Employee Stock Options </li> <li>100% Remote </li> <li>Insurtech industry leader worldwide </li> </ul><p><strong>About Us</strong></p><p>At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.</p><ul> <li>We are a leading global no-code insurance platform for health, life, and P&amp;C;</li> <li>We’re the winner of the Insurtech of the Year in all of Asia and other awards globally;</li> <li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more;</li> <li>We're an international, diverse team of over 120 people with 34 nationalities and team members working remotely from all over the world;</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors;</li> <li>We have offices in the US, Singapore, Hong Kong, UAE and Vietnam;</li> <li>We’ve grown our annualized revenue by over 30x since January 2021;</li> <li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world.</li> </ul><p><strong>What You Will Do:</strong></p><ul> <li>Product Strategy: Develop and execute a compelling product strategy for our products, aligned with the company's vision and objectives.</li> <li>Market Analysis: Conduct market research, analyze industry trends, and gather customer insights to identify opportunities for product innovation and differentiation.</li> <li>Product Roadmap: Define and communicate a clear and prioritized product roadmap, considering market dynamics, customer insights, and business goals.</li> <li>Requirements Gathering: Collaborate with stakeholders to gather and document detailed product requirements, ensuring a deep understanding of customer pain points and business priorities.</li> <li>User Experience: Work closely with design and engineering teams to create exceptional user experiences, employing best practices in user interface (UI) and user experience (UX) design.</li> <li>Cross-functional teams collaboration: Work cross-functional teams through iterative development cycles, and ensure timely delivery of high-quality product releases.</li> <li>Go-to-market Strategy: Collaborate with finance and marketing teams to establish go-to-market strategies for health insurance products.</li> <li>Performance Tracking: Define key performance indicators (KPIs) and implement robust tracking mechanisms to measure product performance, identify areas for improvement, and drive data-driven decision-making.</li> <li>Stakeholder Collaboration: Collaborate effectively with internal and external stakeholders, including executive leadership, sales teams, and industry partners, to drive product adoption and achieve business objectives.</li> <li>Any  other task as may be assigned</li> </ul> <p><strong>What We Need:</strong></p><ul> <li>Bachelor's degree in business, computer science, or a related field.</li> <li>At least 7 years of insurance product management experience, especially health insurance, prefer to have experience with other insurance products such as life and P&amp;C.</li> <li>Solid insurance knowledge is a must, specifically health insurance.</li> <li>Demonstrated success in managing the entire product lifecycle, from ideation to launch and post-launch optimization.</li> <li>Strong analytical skills, with the ability to gather and interpret market data, customer insights, and competitive intelligence.</li> <li>Experience working with cross-functional teams and driving collaboration in an Agile development environment.</li> <li>Nice to have experience in working with Jira and Confluence suite of products</li> <li>Excellent English communication and presentation skills, with the ability to convey complex concepts to both technical and non-technical stakeholders.</li> <li>Strategic mindset, with the ability to think long-term and translate vision into actionable plans.</li> <li>A critical thinker, an innovator and has good problem-solving skills</li> <li>Results-oriented and data-driven, with a passion for delivering exceptional customer experiences and achieving business objectives.</li> </ul> <p><strong>Why You'll Love Working Here</strong></p><ul> <li>Globally Remote Work Opportunity</li> <li>Local time zone office hours, work by your schedule</li> <li>Paid Time Offs</li> <li>Share Option Plan</li> <li>Performance bonus</li> <li>Company activities &amp; team offsites to exotic locations</li> <li>Training and development plan</li> </ul>Covergo Company<a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"> Video</a><h3>Requirements: </h3><h3>Benefits: </h3>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1382655628523364355/MWPIbbID_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CoverGo</h5>
+                    <h3>Senior Product Manager (Health) - Fully Remote</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/covergo/j/3660DC02B3" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Top 3 Reasons To Join Us </strong></p><ul> <li>Employee Stock Options </li> <li>100% Remote </li> <li>Insurtech industry leader worldwide </li> </ul><p><strong>About Us</strong></p><p>At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.</p><ul> <li>We are a leading global no-code insurance platform for health, life, and P&amp;C;</li> <li>We’re the winner of the Insurtech of the Year in all of Asia and other awards globally;</li> <li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more;</li> <li>We're an international, diverse team of over 120 people with 34 nationalities and team members working remotely from all over the world;</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors;</li> <li>We have offices in the US, Singapore, Hong Kong, UAE and Vietnam;</li> <li>We’ve grown our annualized revenue by over 30x since January 2021;</li> <li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world.</li> </ul><p><strong>What You Will Do:</strong></p><ul> <li>Product Strategy: Develop and execute a compelling product strategy for our products, aligned with the company's vision and objectives.</li> <li>Market Analysis: Conduct market research, analyze industry trends, and gather customer insights to identify opportunities for product innovation and differentiation.</li> <li>Product Roadmap: Define and communicate a clear and prioritized product roadmap, considering market dynamics, customer insights, and business goals.</li> <li>Requirements Gathering: Collaborate with stakeholders to gather and document detailed product requirements, ensuring a deep understanding of customer pain points and business priorities.</li> <li>User Experience: Work closely with design and engineering teams to create exceptional user experiences, employing best practices in user interface (UI) and user experience (UX) design.</li> <li>Cross-functional teams collaboration: Work cross-functional teams through iterative development cycles, and ensure timely delivery of high-quality product releases.</li> <li>Go-to-market Strategy: Collaborate with finance and marketing teams to establish go-to-market strategies for health insurance products.</li> <li>Performance Tracking: Define key performance indicators (KPIs) and implement robust tracking mechanisms to measure product performance, identify areas for improvement, and drive data-driven decision-making.</li> <li>Stakeholder Collaboration: Collaborate effectively with internal and external stakeholders, including executive leadership, sales teams, and industry partners, to drive product adoption and achieve business objectives.</li> <li>Any  other task as may be assigned</li> </ul> <p><strong>What We Need:</strong></p><ul> <li>Bachelor's degree in business, computer science, or a related field.</li> <li>At least 7 years of insurance product management experience, especially health insurance, prefer to have experience with other insurance products such as life and P&amp;C.</li> <li>Solid insurance knowledge is a must, specifically health insurance.</li> <li>Demonstrated success in managing the entire product lifecycle, from ideation to launch and post-launch optimization.</li> <li>Strong analytical skills, with the ability to gather and interpret market data, customer insights, and competitive intelligence.</li> <li>Experience working with cross-functional teams and driving collaboration in an Agile development environment.</li> <li>Nice to have experience in working with Jira and Confluence suite of products</li> <li>Excellent English communication and presentation skills, with the ability to convey complex concepts to both technical and non-technical stakeholders.</li> <li>Strategic mindset, with the ability to think long-term and translate vision into actionable plans.</li> <li>A critical thinker, an innovator and has good problem-solving skills</li> <li>Results-oriented and data-driven, with a passion for delivering exceptional customer experiences and achieving business objectives.</li> </ul> <p><strong>Why You'll Love Working Here</strong></p><ul> <li>Globally Remote Work Opportunity</li> <li>Local time zone office hours, work by your schedule</li> <li>Paid Time Offs</li> <li>Share Option Plan</li> <li>Performance bonus</li> <li>Company activities &amp; team offsites to exotic locations</li> <li>Training and development plan</li> </ul>Covergo Company<a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"> Video</a><h3>Requirements: </h3><h3>Benefits: </h3>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1382655628523364355/MWPIbbID_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CoverGo</h5>
+                    <h3>Senior Product Manager (Health) - Fully Remote</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/covergo/j/20021D1386" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Top 3 Reasons To Join Us </strong></p><ul> <li>Employee Stock Options </li> <li>100% Remote </li> <li>Insurtech industry leader worldwide </li> </ul><p><strong>About Us</strong></p><p>At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.</p><ul> <li>We are a leading global no-code insurance platform for health, life, and P&amp;C;</li> <li>We’re the winner of the Insurtech of the Year in all of Asia and other awards globally;</li> <li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more;</li> <li>We're an international, diverse team of over 120 people with 34 nationalities and team members working remotely from all over the world;</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors;</li> <li>We have offices in the US, Singapore, Hong Kong, UAE and Vietnam;</li> <li>We’ve grown our annualized revenue by over 30x since January 2021;</li> <li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world.</li> </ul><p><strong>What You Will Do:</strong></p><ul> <li>Product Strategy: Develop and execute a compelling product strategy for our products, aligned with the company's vision and objectives.</li> <li>Market Analysis: Conduct market research, analyze industry trends, and gather customer insights to identify opportunities for product innovation and differentiation.</li> <li>Product Roadmap: Define and communicate a clear and prioritized product roadmap, considering market dynamics, customer insights, and business goals.</li> <li>Requirements Gathering: Collaborate with stakeholders to gather and document detailed product requirements, ensuring a deep understanding of customer pain points and business priorities.</li> <li>User Experience: Work closely with design and engineering teams to create exceptional user experiences, employing best practices in user interface (UI) and user experience (UX) design.</li> <li>Cross-functional teams collaboration: Work cross-functional teams through iterative development cycles, and ensure timely delivery of high-quality product releases.</li> <li>Go-to-market Strategy: Collaborate with finance and marketing teams to establish go-to-market strategies for health insurance products.</li> <li>Performance Tracking: Define key performance indicators (KPIs) and implement robust tracking mechanisms to measure product performance, identify areas for improvement, and drive data-driven decision-making.</li> <li>Stakeholder Collaboration: Collaborate effectively with internal and external stakeholders, including executive leadership, sales teams, and industry partners, to drive product adoption and achieve business objectives.</li> <li>Any  other task as may be assigned</li> </ul> <p><strong>What We Need:</strong></p><ul> <li>Bachelor's degree in business, computer science, or a related field.</li> <li>At least 7 years of insurance product management experience, especially health insurance, prefer to have experience with other insurance products such as life and P&amp;C.</li> <li>Solid insurance knowledge is a must, specifically health insurance.</li> <li>Demonstrated success in managing the entire product lifecycle, from ideation to launch and post-launch optimization.</li> <li>Strong analytical skills, with the ability to gather and interpret market data, customer insights, and competitive intelligence.</li> <li>Experience working with cross-functional teams and driving collaboration in an Agile development environment.</li> <li>Nice to have experience in working with Jira and Confluence suite of products</li> <li>Excellent English communication and presentation skills, with the ability to convey complex concepts to both technical and non-technical stakeholders.</li> <li>Strategic mindset, with the ability to think long-term and translate vision into actionable plans.</li> <li>A critical thinker, an innovator and has good problem-solving skills</li> <li>Results-oriented and data-driven, with a passion for delivering exceptional customer experiences and achieving business objectives.</li> </ul> <p><strong>Why You'll Love Working Here</strong></p><ul> <li>Globally Remote Work Opportunity</li> <li>Local time zone office hours, work by your schedule</li> <li>Paid Time Offs</li> <li>Share Option Plan</li> <li>Performance bonus</li> <li>Company activities &amp; team offsites to exotic locations</li> <li>Training and development plan</li> </ul>Covergo Company<a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"> Video</a><h3>Requirements: </h3><h3>Benefits: </h3>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1382655628523364355/MWPIbbID_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CoverGo</h5>
+                    <h3>Senior Product Manager (Health) - Fully Remote</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/covergo/j/13D5593183" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Top 3 Reasons To Join Us </strong></p><ul> <li>Employee Stock Options </li> <li>100% Remote </li> <li>Insurtech industry leader worldwide </li> </ul><p><strong>About Us</strong></p><p>At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.</p><ul> <li>We are a leading global no-code insurance platform for health, life, and P&amp;C;</li> <li>We’re the winner of the Insurtech of the Year in all of Asia and other awards globally;</li> <li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more;</li> <li>We're an international, diverse team of over 120 people with 34 nationalities and team members working remotely from all over the world;</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors;</li> <li>We have offices in the US, Singapore, Hong Kong, UAE and Vietnam;</li> <li>We’ve grown our annualized revenue by over 30x since January 2021;</li> <li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world.</li> </ul><p><strong>What You Will Do:</strong></p><ul> <li>Product Strategy: Develop and execute a compelling product strategy for our products, aligned with the company's vision and objectives.</li> <li>Market Analysis: Conduct market research, analyze industry trends, and gather customer insights to identify opportunities for product innovation and differentiation.</li> <li>Product Roadmap: Define and communicate a clear and prioritized product roadmap, considering market dynamics, customer insights, and business goals.</li> <li>Requirements Gathering: Collaborate with stakeholders to gather and document detailed product requirements, ensuring a deep understanding of customer pain points and business priorities.</li> <li>User Experience: Work closely with design and engineering teams to create exceptional user experiences, employing best practices in user interface (UI) and user experience (UX) design.</li> <li>Cross-functional teams collaboration: Work cross-functional teams through iterative development cycles, and ensure timely delivery of high-quality product releases.</li> <li>Go-to-market Strategy: Collaborate with finance and marketing teams to establish go-to-market strategies for health insurance products.</li> <li>Performance Tracking: Define key performance indicators (KPIs) and implement robust tracking mechanisms to measure product performance, identify areas for improvement, and drive data-driven decision-making.</li> <li>Stakeholder Collaboration: Collaborate effectively with internal and external stakeholders, including executive leadership, sales teams, and industry partners, to drive product adoption and achieve business objectives.</li> <li>Any  other task as may be assigned</li> </ul> <p><strong>What We Need:</strong></p><ul> <li>Bachelor's degree in business, computer science, or a related field.</li> <li>At least 7 years of insurance product management experience, especially health insurance, prefer to have experience with other insurance products such as life and P&amp;C.</li> <li>Solid insurance knowledge is a must, specifically health insurance.</li> <li>Demonstrated success in managing the entire product lifecycle, from ideation to launch and post-launch optimization.</li> <li>Strong analytical skills, with the ability to gather and interpret market data, customer insights, and competitive intelligence.</li> <li>Experience working with cross-functional teams and driving collaboration in an Agile development environment.</li> <li>Nice to have experience in working with Jira and Confluence suite of products</li> <li>Excellent English communication and presentation skills, with the ability to convey complex concepts to both technical and non-technical stakeholders.</li> <li>Strategic mindset, with the ability to think long-term and translate vision into actionable plans.</li> <li>A critical thinker, an innovator and has good problem-solving skills</li> <li>Results-oriented and data-driven, with a passion for delivering exceptional customer experiences and achieving business objectives.</li> </ul> <p><strong>Why You'll Love Working Here</strong></p><ul> <li>Globally Remote Work Opportunity</li> <li>Local time zone office hours, work by your schedule</li> <li>Paid Time Offs</li> <li>Share Option Plan</li> <li>Performance bonus</li> <li>Company activities &amp; team offsites to exotic locations</li> <li>Training and development plan</li> </ul>Covergo Company<a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"> Video</a><h3>Requirements: </h3><h3>Benefits: </h3>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1382655628523364355/MWPIbbID_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CoverGo</h5>
+                    <h3>Senior Product Manager (Health) - Fully Remote</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/covergo/j/E906FB6E2D" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Top 3 Reasons To Join Us </strong></p><ul> <li>Employee Stock Options </li> <li>100% Remote </li> <li>Insurtech industry leader worldwide </li> </ul><p><strong>About Us</strong></p><p>At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.</p><ul> <li>We are a leading global no-code insurance platform for health, life, and P&amp;C;</li> <li>We’re the winner of the Insurtech of the Year in all of Asia and other awards globally;</li> <li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more;</li> <li>We're an international, diverse team of over 120 people with 34 nationalities and team members working remotely from all over the world;</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors;</li> <li>We have offices in the US, Singapore, Hong Kong, UAE and Vietnam;</li> <li>We’ve grown our annualized revenue by over 30x since January 2021;</li> <li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world.</li> </ul><p><strong>What You Will Do:</strong></p><ul> <li>Product Strategy: Develop and execute a compelling product strategy for our products, aligned with the company's vision and objectives.</li> <li>Market Analysis: Conduct market research, analyze industry trends, and gather customer insights to identify opportunities for product innovation and differentiation.</li> <li>Product Roadmap: Define and communicate a clear and prioritized product roadmap, considering market dynamics, customer insights, and business goals.</li> <li>Requirements Gathering: Collaborate with stakeholders to gather and document detailed product requirements, ensuring a deep understanding of customer pain points and business priorities.</li> <li>User Experience: Work closely with design and engineering teams to create exceptional user experiences, employing best practices in user interface (UI) and user experience (UX) design.</li> <li>Cross-functional teams collaboration: Work cross-functional teams through iterative development cycles, and ensure timely delivery of high-quality product releases.</li> <li>Go-to-market Strategy: Collaborate with finance and marketing teams to establish go-to-market strategies for health insurance products.</li> <li>Performance Tracking: Define key performance indicators (KPIs) and implement robust tracking mechanisms to measure product performance, identify areas for improvement, and drive data-driven decision-making.</li> <li>Stakeholder Collaboration: Collaborate effectively with internal and external stakeholders, including executive leadership, sales teams, and industry partners, to drive product adoption and achieve business objectives.</li> <li>Any  other task as may be assigned</li> </ul> <p><strong>What We Need:</strong></p><ul> <li>Bachelor's degree in business, computer science, or a related field.</li> <li>At least 7 years of insurance product management experience, especially health insurance, prefer to have experience with other insurance products such as life and P&amp;C.</li> <li>Solid insurance knowledge is a must, specifically health insurance.</li> <li>Demonstrated success in managing the entire product lifecycle, from ideation to launch and post-launch optimization.</li> <li>Strong analytical skills, with the ability to gather and interpret market data, customer insights, and competitive intelligence.</li> <li>Experience working with cross-functional teams and driving collaboration in an Agile development environment.</li> <li>Nice to have experience in working with Jira and Confluence suite of products</li> <li>Excellent English communication and presentation skills, with the ability to convey complex concepts to both technical and non-technical stakeholders.</li> <li>Strategic mindset, with the ability to think long-term and translate vision into actionable plans.</li> <li>A critical thinker, an innovator and has good problem-solving skills</li> <li>Results-oriented and data-driven, with a passion for delivering exceptional customer experiences and achieving business objectives.</li> </ul> <p><strong>Why You'll Love Working Here</strong></p><ul> <li>Globally Remote Work Opportunity</li> <li>Local time zone office hours, work by your schedule</li> <li>Paid Time Offs</li> <li>Share Option Plan</li> <li>Performance bonus</li> <li>Company activities &amp; team offsites to exotic locations</li> <li>Training and development plan</li> </ul>Covergo Company<a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"> Video</a><h3>Requirements: </h3><h3>Benefits: </h3>
                 </details>
                 </td>
             </tr></table>
