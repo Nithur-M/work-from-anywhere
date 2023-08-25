@@ -1,57 +1,75 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7016/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0118/0648/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Bottomless</h5>
-                    <h3> Senior Full Stack Developer</h3>
+                    <h5>ShoutOut</h5>
+                    <h3> Senior fullstack developer</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-12" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/shoutout-senior-fullstack-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/7016/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0118/0648/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Seattle, Wa
-    <br /><strong>URL:</strong> <a href="https://www.bottomless.com/">https://www.bottomless.com/</a>
+  <strong>Headquarters:</strong> Chicago
+    <br /><strong>URL:</strong> <a href="https://shoutoutcity.com">https://shoutoutcity.com</a>
 </p>
 
-<div>We are looking for a jack-of-all-trades <strong><em>senior</em></strong> javascript/full stack developer.<br><br>The ideal candidate for this position would be able to dive into any kind of project, from frontend UI/UX tasks in React.js to backend tasks running on Node.js.<br><br>If you’re interested in variety and working hard to build something big, this might be a good fit.<br><br>We need to achieve <em>80% of the results with 20% of the effort</em>.<br><br><strong>Responsibilities:</strong>
-</div><ul>
-<li>Design and build infrastructure and products for a sensor-enabled e-commerce marketplace.</li>
-<li>Build robust infrastructure to support existing product lines and the ability to roll out new ones.</li>
-<li>Responsibility over the user-facing product</li>
-<li>Quick iteration on different fronts from fronted UX changes to database design to quick and dirty implementations.</li>
-<li>Responsible for full deployment and testing of applications.</li>
-</ul><div><br></div><div><strong>Skill, Qualifications, and Experience:</strong></div><div><br></div><div><em>Expert proficiency required:</em></div><ul>
-<li>Node.js</li>
-<li>NoSQL databases</li>
-<li>React.js</li>
-<li>English (written and verbal)</li>
-</ul><div><br></div><div><em>Intermediate proficiency, at a minimum:</em></div><ul>
-<li>UI/UX design</li>
-<li>Software architecture</li>
-</ul><div>
-<br>Not required, but a plus:</div><ul>
-<li>Python (background tasks)</li>
-<li>Embedded systems (C++)</li>
-</ul><div> <br><strong>Details:</strong>
-</div><ul>
-<li>Remote OK. Must be flexible with hours as we have a remote international team.</li>
-<li>Competitive equity and cash compensation</li>
-</ul>
+<div><br></div><div>🚀 <strong>Join ShoutOut: Senior Fullstack Developer</strong> 🚀<br><br>
+</div><div>
+<br>Are you ready to unleash your creativity and technical prowess while shaping the future of innovative web applications? If you're a senior fullstack developer who thrives on cutting-edge technologies and possesses expertise in TypeScript, JavaScript, Next.js, React.js, Nest.js, and TypeORM, then we have an extraordinary opportunity waiting for you!<br><br>
+</div><div>
+<strong><br>About ShoutOut:<br></strong><br>
+</div><div>
+<br>ShoutOut is not just another company – we're a dynamic force that's expanding into multiple cities, and our founding team brings a proven track record of building national-scale enterprises. As a member of our team, you'll have the chance to grow with a company that's on the cusp of exponential success. This is your invitation to be part of something monumental – a chance to make your mark and reap the rewards of your dedication and innovation.<br><br>
+</div><div>
+<strong><br>Your Role: Senior Fullstack Developer<br></strong><br>
+</div><div>
+<br>In this role, you'll be the architect of the extraordinary, crafting exceptional web applications that push boundaries and redefine industries. Collaborating within our close-knit, accomplished teams, you'll tackle challenging projects that not only meet but exceed client expectations. Your expertise will help shape the digital landscape, leaving a lasting impact that resonates far beyond lines of code.<br><br>
+</div><div>
+<strong><br>What We Offer:<br></strong><br>
+</div><div>
+<br>🌟 <strong>Competitive Compensation:</strong> We are looking for early leaders and in addition to a monthly salary, we are open to offering you equity to ensure you will be successful as the company grows. <br><br>
+</div><div>
+<br>🌐 <strong>Remote Flexibility:</strong> Join us from anywhere in the world. Our remote work environment is not only welcoming but also empowering, allowing you to thrive on your terms.</div><div><br></div><div>
+<br>📚 <strong>Learning &amp; Growth:</strong> Embrace the opportunity to learn and evolve. We're committed to fostering an environment that supports your career growth and personal development.<br><br>
+</div><div>
+<br>🤝 <strong>Team Unity:</strong> Collaboration is at our core. Experience a team culture that's built on support, camaraderie, and shared success.<br><br>
+</div><div>
+<strong><br>What We Expect:<br></strong><br>
+</div><div>
+<br>🚀 <strong>Experience:</strong> You bring at least 3 years of fullstack development experience, ensuring a solid foundation for the incredible work you'll be doing.<br><br>
+</div><div>
+<br>💡 <strong>Technical Proficiency:</strong> Your mastery of TypeScript, JavaScript, Next.js, React.js, Nest.js, and TypeORM is second to none.<br><br>
+</div><div>
+<br>🌐 <strong>Tech Savviness:</strong> You're well-versed in RESTful APIs, web sockets, and microservices – crucial elements for crafting exceptional web applications.<br><br>
+</div><div>
+<br>🧪 <strong>Testing Acumen:</strong> Experience with testing frameworks like Jest and Cypress showcases your commitment to delivering top-notch, bug-free solutions.<br><br><br>
+</div><div>
+<br>🛠️ <strong>Tech Toolbox:</strong> Git, GitHub Actions, Docker, and AWS are tools you wield effortlessly to build robust and scalable applications.<br><br>
+</div><div>
+<br>🗣️ <strong>Fluent Communication:</strong> English fluency allows you to articulate your ideas and collaborate effectively with our global team.<br><br>
+</div><div>
+<br>🚀 <strong>Initiative:</strong> Your self-motivation and attention to detail drive your proactive approach to problem-solving and innovation.<br><br>
+</div><div>
+<br>👥 <strong>Team Player:</strong> You're not just a developer; you're a valuable team player who can work independently and in harmony with others.<br><br>
+</div><div>
+<br>Are you ready to create a legacy? Join ShoutOut as a Senior Fullstack Developer and be part of a journey that's destined for greatness. Let's build the future together.<br><br>
+</div><div>
+<em><br>Apply now and seize your opportunity to shape tomorrow!</em> 🌟</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-12">https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-12</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/shoutout-senior-fullstack-developer">https://weworkremotely.com/remote-jobs/shoutout-senior-fullstack-developer</a></p>
 
                 </details>
                 </td>
@@ -67,7 +85,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/dogsthat-full-time-front-end-wordpress-developer-designer-jack-of-all-trades" align="right" target="_blank">Apply</a>
@@ -122,7 +140,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/smily-front-end-developer" align="right" target="_blank">Apply</a>
@@ -169,40 +187,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0098/9004/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Harley Therapy - Psychotherapy & Counselling</h5>
-                    <h3> Mid-level  Ruby and JavaScript Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>33 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/harley-therapy-psychotherapy-counselling-mid-level-ruby-and-javascript-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0098/9004/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> 
-    <br /><strong>URL:</strong> <a href="https://harleytherapy.com">https://harleytherapy.com</a>
-</p>
-
-<div>We are Harley Therapy - established in 2006, and well-known as London's premium mental therapy providers. We have a team of highly experienced psychotherapists, clinical and counselling psychologists and psychiatrists in central London. We also run the Harley Therapy Platform, which is the UK’s leading mental therapy platform with therapists practising from their own rooms UK-wide.</div><div><br></div><div>We are a small team with big ambitions, and we are looking for a mid-level developer with equally strong skills in Ruby and JavaScript, and multi-year experience with Ruby, Rails, JavaScript, and CSS.</div><div><br></div><div>We use islands of JS and React, but experience with React is not necessary, as a good developer with good JS skills will be able to pick it up quickly. We like to use the right tool for the job, and only reach for React when the UI and UX will benefit.</div><div><br></div><div>This is a full time position, working remotely (GMT~5) to help improve all our software and websites, and in one case, help us rebuild the administrative system that helps our amazing admin team to manage clients and therapists.</div><div><br></div><div>You will have a hand in everything, and as we are a very small team, and you will also have a say in everything related to the technology side of the company. This also means that you will be expected to take responsibility for the entire stack from server to client. It will be common for you to be asked to build a new feature, right the way through from spec, UI, server, client, and of course deployment (we host on Heroku, with PostgreSQL, Sidekiq).</div><div><br></div><div>You will be an eager and passionate developer that loves what you do, and a fast learner that can hit the ground running without needing much of a hand to hold. A love of open source software would be a great benefit to you - and us.</div><div><br></div><div>This is a full time position, with great pay, and we will be happy to have you on board on a contract or employment basis.</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/harley-therapy-psychotherapy-counselling-mid-level-ruby-and-javascript-developer">https://weworkremotely.com/remote-jobs/harley-therapy-psychotherapy-counselling-mid-level-ruby-and-javascript-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/8312/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -213,7 +197,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>42 days ago</text>
+                <text>43 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2" align="right" target="_blank">Apply</a>
@@ -266,7 +250,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>42 days ago</text>
+                <text>43 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2" align="right" target="_blank">Apply</a>
@@ -318,6 +302,85 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4499/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>10ex.dev</h5>
+                    <h3> Software Developer (Elixir)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>60 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/10ex-dev-software-developer-elixir" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0071/4499/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Phoenix, Arizona
+    <br /><strong>URL:</strong> <a href="https://10ex.dev/developers">https://10ex.dev/developers</a>
+</p>
+
+<div>We are looking for a Mid/Senior Backend Engineer who is passionate about creating next-generation immersive experiences that bring new forms of audience engagement to life in fun and unexpected ways, in original projects that bridge the gap between the digital and physical worlds in unique, story-driven ways.<br><br>
+</div><div>
+<br>Our ideal candidate is a seasoned technical leader and software engineer with previous experience developing/integrating scalable backend solutions for mobile games. You care deeply about writing beautiful, performant code that will act as the foundation of development for years to come. You also know how to build and lead a team of engineers and mentor them on their career paths. You should enjoy working as part of cross-functional teams to help architect solutions to unique problems that help the entire platform.<br><br>
+</div><div>
+<br>QUALIFICATIONS<br><br>
+</div><ul>
+<li>4+ Years of creating and delivering high-performance APIs</li>
+<li>Bachelor's degree in Computer Science or equivalent</li>
+<li>Advanced knowledge of Elixir/Phoenix/LiveView</li>
+<li>Advanced knowledge of PostgreSQL/Ecto</li>
+<li>Advanced knowledge of AWS/Docker/Terraform deployment</li>
+<li>Experience using Elixir in production at scale</li>
+<li>Extensive experience debugging and optimizing backend applications</li>
+<li>Experience working with a team of developers, artists and technical leads</li>
+<li>Proficiency with Git and GitHub</li>
+<li>Excellent oral and written English language skills</li>
+<li>Ability to both think high-level and be detail oriented</li>
+</ul><div>
+<br>RESPONSIBILITIES</div><ul>
+<li>Lead the development of and help design the architecture for a greenfield gaming platform</li>
+<li>Convert complex requirements into elegant working software</li>
+<li>Architect and maintain key infrastructure</li>
+<li>Work closely with the User Experience Design Team to design and implement new concepts and features</li>
+<li>Work closely with the Client Engineering team to design and integrate internal and external APIs</li>
+<li>Collaborate with other engineers to solve problems</li>
+<li>Produce code that is clear and concise, and consistent with best-in-class coding standards</li>
+<li>Deliver in accordance with prescribed deadlines, on time and with high quality</li>
+<li>Self-manage and work in an environment of high autonomy</li>
+<li>Participate in and lead code reviews</li>
+<li>Work closely with the rest of the engineering team on a day to day basis</li>
+<li>Document new features for both internal and external reference</li>
+<li>Ability to progress into a position which oversees a small development and engineering team</li>
+</ul><div>
+<br>PREFERENCES</div><ul>
+<li>Proficiency with Javascript and HTML/CSS</li>
+<li>Experience writing documentation</li>
+<li>A thorough understanding of development from design to deployment</li>
+<li>Agile methodology experience</li>
+<li>Experience with other functional programming languages</li>
+</ul><div>
+<br>BENEFITS<br><br>
+</div><ul>
+<li>Health / Vision / Dental</li>
+<li>Paid Time Off</li>
+<li>Paid Holidays</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/10ex-dev-software-developer-elixir">https://weworkremotely.com/remote-jobs/10ex-dev-software-developer-elixir</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1761558/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -328,7 +391,7 @@
                     <code>api,CSS,git,html</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/website-developer-1761558" align="right" target="_blank">Apply</a>
@@ -388,7 +451,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -463,7 +526,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -553,7 +616,7 @@
     <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
 <h2><span style="color: #a112ff;">Who we are</span></h2>
 <p><span style="font-weight: 400;">Our mission at Sourcegraph is to make it so that </span><a href="https://handbook.sourcegraph.com/strategy-goals/strategy"><span style="font-weight: 400;">everyone can code</span></a><span style="font-weight: 400;">, not just ~0.1% of the population. Our code graph powers Cody, the most powerful and accurate code AI for writing, fixing, and maintaining code, as well as our Code Search product, helping devs explore their entire codebase and make large-scale migrations and security fixes. We’re building software that builds software, and in doing so we’re making devs more productive and growing the population of coders by giving anybody access to the deep knowledge base of a senior engineer through Cody and all of the context it brings. We’re preparing for a world with a lot more code than exists today, and that benefits us all.</span></p>
-<p><span style="font-weight: 400;">It’s an exciting time to join Sourcegraph. AI has taken over the world, and we’ve spent the last 10 years building infrastructure that’s integral to making AI generated code more powerful and accurate. Our customers include 4/5 FAANG companies, 4 of the top 10 banks, government organizations, Uber, Plaid, and many other companies building the software that pushes the world forward. We’ve raised $225M at a $2.625B valuation from </span><a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/"><span style="font-weight: 400;">Andreessen Horowitz</span></a><span style="font-weight: 400;">, </span><a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"><span style="font-weight: 400;">&nbsp;Sequoia</span></a><span style="font-weight: 400;">, </span><a href="https://www.redpoint.com/companies/sourcegraph/"><span style="font-weight: 400;">Redpoint</span></a><span style="font-weight: 400;">, </span><a href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d"><span style="font-weight: 400;">Craft</span></a><span style="font-weight: 400;"> and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</span></p></div>
+<p><span style="font-weight: 400;">It’s an exciting time to join Sourcegraph. AI has taken over the world, and we’ve spent the last 10 years building infrastructure that’s integral to making AI generated code more powerful and accurate. Our customers include 4/5 FAANG companies, 4 of the top 10 banks, government organizations, Uber, Plaid, and many other companies building the software that pushes the world forward. We’ve raised $225M at a $2.625B valuation from </span><a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/"><span style="font-weight: 400;">Andreessen Horowitz</span></a><span style="font-weight: 400;">, </span><a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"><span style="font-weight: 400;">Sequoia</span></a><span style="font-weight: 400;">, </span><a href="https://www.redpoint.com/companies/sourcegraph/"><span style="font-weight: 400;">Redpoint</span></a><span style="font-weight: 400;">, </span><a href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d"><span style="font-weight: 400;">Craft</span></a><span style="font-weight: 400;"> and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</span></p></div>
 
     <h2><span style="color: #8c33ec;"><strong>Working hours</strong></span></h2>
 <p>While Sourcegraph is fully remote, we are specifically seeking candidates located in North America to be able to attend events regularly.&nbsp;</p>
@@ -652,7 +715,7 @@
     <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
 <h2><span style="color: #a112ff;">Who we are</span></h2>
 <p><span style="font-weight: 400;">Our mission at Sourcegraph is to make it so that </span><a href="https://handbook.sourcegraph.com/strategy-goals/strategy"><span style="font-weight: 400;">everyone can code</span></a><span style="font-weight: 400;">, not just ~0.1% of the population. Our code graph powers Cody, the most powerful and accurate code AI for writing, fixing, and maintaining code, as well as our Code Search product, helping devs explore their entire codebase and make large-scale migrations and security fixes. We’re building software that builds software, and in doing so we’re making devs more productive and growing the population of coders by giving anybody access to the deep knowledge base of a senior engineer through Cody and all of the context it brings. We’re preparing for a world with a lot more code than exists today, and that benefits us all.</span></p>
-<p><span style="font-weight: 400;">It’s an exciting time to join Sourcegraph. AI has taken over the world, and we’ve spent the last 10 years building infrastructure that’s integral to making AI generated code more powerful and accurate. Our customers include 4/5 FAANG companies, 4 of the top 10 banks, government organizations, Uber, Plaid, and many other companies building the software that pushes the world forward. We’ve raised $225M at a $2.625B valuation from </span><a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/"><span style="font-weight: 400;">Andreessen Horowitz</span></a><span style="font-weight: 400;">, </span><a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"><span style="font-weight: 400;">&nbsp;Sequoia</span></a><span style="font-weight: 400;">, </span><a href="https://www.redpoint.com/companies/sourcegraph/"><span style="font-weight: 400;">Redpoint</span></a><span style="font-weight: 400;">, </span><a href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d"><span style="font-weight: 400;">Craft</span></a><span style="font-weight: 400;"> and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</span></p></div>
+<p><span style="font-weight: 400;">It’s an exciting time to join Sourcegraph. AI has taken over the world, and we’ve spent the last 10 years building infrastructure that’s integral to making AI generated code more powerful and accurate. Our customers include 4/5 FAANG companies, 4 of the top 10 banks, government organizations, Uber, Plaid, and many other companies building the software that pushes the world forward. We’ve raised $225M at a $2.625B valuation from </span><a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/"><span style="font-weight: 400;">Andreessen Horowitz</span></a><span style="font-weight: 400;">, </span><a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"><span style="font-weight: 400;">Sequoia</span></a><span style="font-weight: 400;">, </span><a href="https://www.redpoint.com/companies/sourcegraph/"><span style="font-weight: 400;">Redpoint</span></a><span style="font-weight: 400;">, </span><a href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d"><span style="font-weight: 400;">Craft</span></a><span style="font-weight: 400;"> and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</span></p></div>
 
     <h2><span style="color: #8c33ec;"><strong>Working hours</strong></span></h2>
 <p>While Sourcegraph is fully remote, we require the successful candidate for this role to reside in San Francisco. Regular attendance at weekly DevRel events in the city is an essential aspect of this position</p>
@@ -1393,6 +1456,30 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div>We are looking for a passionate and enthusiastic open-source software developer, with contributions to the Mesa 3D Graphics Library, to join our ever growing geographically-distributed Graphics domain team.</div><div>&nbsp;</div><div>The Graphics domain team is contributing to the entire Linux Graphics stack from the Linux kernel up to the Graphics toolkits including but not limited to DRI and kernel-mode graphics drivers, Wayland/Weston, OpenGL, Vulkan, OpenGL/EGL and other open-source Graphics drivers within the Mesa 3D Graphics Library for different customers’ projects in various market verticals.</div></div><div class="section page-centered"><div><h3>Key Responsibilites</h3><ul class="posting-requirements plain-list"><ul><li>Discussing technology with clients and represent Collabora at conferences and trade shows to demonstrate and promote our leadership in the open source arena</li><li>Analysing client problems and designing solutions leveraging open source &nbsp;technologies and Collabora's technical expertise</li><li>Defining and scoping client projects in collaboration with the delivery team</li><li>Contributing publicly to open source projects to ensure Collabora's continuing technical leadership</li><li>Gain working knowledge of customers’ products, applications, technical and business strengths and target markets</li><li>Understanding client needs and reconciling time constraints, available technologies and resources, and open source best practices</li></ul></ul></div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li>Experience with direct contributions to the Mesa 3D Graphics Library: OpenGL, Vulkan, DRI, Gallium drivers...</li><li>Linux experience </li><li>Knowledge of open source development methodologies and relevant open source communities</li><li>Good English language skills (both verbal and written) </li><li>Ability to work and communicate in an online fully distributed environment </li></ul></ul></div></div><div class="section page-centered"><div><h3>Desired Skills</h3><ul class="posting-requirements plain-list"><ul><li>Experience with CI (Jenkins/LAVA, GitLab CI in particular) and testing (Piglit, GL/Vulkan CTS, dEQP) is a plus</li><li>Self learning skill to get sufficient knowledge of Collabora's services,  business model, project delivery life cycle and other related technical  domains</li><li>BS/BA or experience in the role of Engineer</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Collabora is a software consultancy specializing in bringing companies and the Open Source community together. We combine years of Open Source software leadership with an understanding of the challenges that businesses, non-profits, and governments face. Collabora brings deep technical expertise in system integration &amp; architecture, graphics, multimedia, web engines and communications to a number of market verticals, including mobile, IVI / automotive, set top box / smart TV, and a range of other specialized embedded applications.</div><div><br></div><div>Collabora has the unique business model of enabling enterprises to leverage Open Source software in their solutions. Having worked with notable industry leading companies in the automotive, aerospace and handset mobile verticals amongst many others, Collabora has established a broad customer portfolio.</div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/6e42d611-2f86-4c25-9d84-43c39b8f6c3c/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1545121577632763912/7FMnABb0_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Collabora</h5>
+                    <h3>Open Source Software Developer  (Speculative; Remote/Anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/collabora/f38d3f97-a52b-4963-8917-ad8016b43c23" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div>We are always looking for passionate and talented software developers to join our geographically-distributed engineering team. If you do not think your profile can fit any of the other targeted job openings on our web site, as we are eager to learn more about you, just apply to this one and we will definitely look into your application.</div></div><div class="section page-centered"><div><h3>Key Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Discussing 	technology with clients and represent Collabora at conferences and  trade shows to demonstrate and promote our leadership in the open  source arena</li><li>Analysing client problems and designing solutions leveraging open source  technologies and Collabora's technical expertise</li><li>Defining and scoping client projects in collaboration with the delivery team</li><li>Contributing publicly to open source projects to ensure Collabora's continuing technical leadership</li><li>Gain working knowledge of customers’ products, applications, technical and business strengths and target markets</li><li>Understanding 	client needs and reconciling time constraints, available technologies and resources, and open source best practices</li></ul></ul></div></div><div class="section page-centered"><div><h3>Desired Skills</h3><ul class="posting-requirements plain-list"><ul><li>Track record of experience in software development is essential</li><li>Knowledge 	of open source development methodologies and good standing in the open source community</li><li>Good English language skills (both verbal and written) </li><li>Ability to work and communicate in an online distributed environment</li><li>Existing familiarity with one or more of Collabora's market verticals is preferable</li><li>BS/BA or experience in the role of Engineer </li><li>Demonstrable contributions to components in open source projects</li><li>Preferable experience with direct development on one (or more) of WebKit, 	Blink, GStreamer, FFMPEG, libav, X11, wayland/weston, Jenkins, OBS, lava, Linux kernel/device drivers, distribution integration, porting</li><li>Self learning skills to get sufficient knowledge of Collabora's services, business model, project delivery life cycle and other related technical domains</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 12pt">Collabora is a software consultancy specializing in bringing companies and the Open Source community together. We combine years of Open Source software leadership with an understanding of the challenges that businesses, non-profits, and governments face. Collabora brings deep technical expertise in system integration &amp; architecture, graphics, multimedia, web engines and communications to a number of market verticals, including mobile, IVI / automotive, set top box / smart TV, and a range of other specialized embedded applications.</span></div><div><br></div><div><span style="font-size: 12pt">Collabora has the unique business model of enabling enterprises to leverage Open Source software in their solutions. Having worked with notable industry leading companies in the automotive, aerospace and handset mobile verticals amongst many others, Collabora has established a broad customer portfolio.</span></div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/f38d3f97-a52b-4963-8917-ad8016b43c23/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
