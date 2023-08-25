@@ -1,5 +1,82 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0118/0549/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Checkly</h5>
+                    <h3> Senior Full Stack Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/checkly-senior-full-stack-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0118/0549/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Berlin, Germany
+    <br /><strong>URL:</strong> <a href="https://checklyhq.com">https://checklyhq.com</a>
+</p>
+
+<div>
+<em><br>(Fully remote, dev-tools, timezones: GMT +/- 3 hours, part time (at least 32h/week) or full time)<br></em><br>
+</div><div>
+<br>Checkly is looking for a Senior JavaScript / Node.js Engineer. This is a great opportunity to join an early stage company, influence the product roadmap and help us do what we love most: building the #1 monitoring platform for developers. With Checkly, developers can build and run synthetic monitoring that scales. Our goal is to provide a monitoring as code workflow for developers: programmable, fast, and reliable...a world-class developer experience! <a href="https://www.checklyhq.com/customers">Thousands of developers</a> are using Checkly today.</div><ul>
+<li>We deploy ~20 times per day to production on average.</li>
+<li>We use Vue / Node.js / Postgres / Lambda / ClickHouse.</li>
+<li>We're processing ~4000 API and Browser checks per minute now.</li>
+<li>We don't do daily sync stand ups. We keep meetings to a minimum.</li>
+<li>We work in small teams, with devs, product and design mixed together.</li>
+<li>We have almost 1,000 customers challenging us every day.</li>
+<li>We have an onboarding plan for every new joiner.</li>
+</ul><div>
+<br>We care about building a team where people of all backgrounds are encouraged to do their best work. To achieve this we built a <a href="https://blog.checklyhq.com/how-to-build-a-leading-remote-first-company-while-exceeding-company-goals-do-this/">flexible, fully remote and async-first</a> startup environment with <a href="https://www.notion.so/ad474bec3a5d4d17bfbb43ebae3fec9c?pvs=21">inclusive benefits</a>.</div><h1><strong>What you’ll do</strong></h1><div>
+<strong>Harden &amp; expand our backend<br></strong><br>
+</div><div>Our backend runs on Hapi.js and a collection of custom job runners and Lambda applications distributed around the globe. We ran over 2.5 billion checks already and are ramping up for a lot more.<br><br>
+</div><div>You will help us build out new features and expand existing features. We have a TON of exciting stuff lined up (check out our <a href="https://feedback.checklyhq.com/">public roadmap</a>). You’ll work on scaling our current backend platform to meet the demands of our growing business.<br><br>
+</div><div><strong><br>Help build &amp; shape our frontend</strong></div><div>
+<br>You will also be working together with our frontend team and design lead on our Vue.js based frontend. Projects we have lined up are new dashboards &amp; graphs, a collection of 3rd party integrations, in browser code editors and real time metric feeds. <em>Almost</em> no boring CRUD forms!</div><h1><strong>About you</strong></h1><ul>
+<li>You have deep experience in building applications with JavaScript / Node.js in a professional product (SaaS) environment.</li>
+<li>You have experience in writing tests for frontend and backend.</li>
+<li>You like to work in a growing company with experienced founders.</li>
+<li>You know how to communicate with coworkers and customers in spoken and written English.</li>
+<li>You have the ability to be autonomous and self-motivated in a remote work environment, while you also enjoy getting to know your colleagues and helping others.</li>
+<li>You are quick to pick up on new stuff and enjoy the process of learning new things.</li>
+<li>You love making software!</li>
+</ul><h1><strong>What we offer</strong></h1><ul>
+<li>Transparent salary because your salary shouldn't be dictated by how good a negotiator you are. (more info below)</li>
+<li>Become part of a fast-growing, international, and remote team</li>
+<li>Stock options</li>
+<li>
+<a href="https://blog.checklyhq.com/we-scored-10-5-on-gitlabs-12-steps-to-better-remote-test/">Fully remote</a> with flexible work hours. support families: you can pick up your kids without worrying about work</li>
+<li>27 days of paid vacation + your local public holidays</li>
+<li>Paid sick leave &amp; parental leave</li>
+<li>Work with the latest technologies</li>
+<li>$1,000 learning &amp; visiting budget</li>
+<li>Co-working budget</li>
+<li>Modern laptop and equipment</li>
+<li>Bi-annual company retreats</li>
+<li>Employment &amp; Contractor options</li>
+</ul><div>
+<br>Find out more <a href="https://www.notion.so/ad474bec3a5d4d17bfbb43ebae3fec9c?pvs=21">here</a>.</div><h1><strong>What we pay</strong></h1><div>Fair, competitive, and transparent pay is very important for us. Therefore we work with a <a href="https://www.notion.so/f3c42feab82b444a9cbf8fed545cb727?pvs=21">standardized salary calculator</a> that includes several factors such as seniority level as well as location.<br><br>
+</div><div>For this role of Senior FullStack Engineer, we're looking at a range of €78,750 - €87,500 depending on your experience and performance, for someone located in a similar cost of market as Germany.</div><div><br></div><h1><strong>Apply</strong></h1><div>If this sounds interesting, please apply! Studies by several different sources have shown that on average men will apply for a job if they meet 60% of the application requirements. Women/non-binary people will seek to match a much higher percentage of requirements before applying. If you're not sure you're the right fit, apply anyway and let us know what you bring to the table. We'd love to hear from you!</div><div>
+<br>We're all about being transparent and setting clear expectations. That's why we've put together our <a href="https://www.notion.so/54bc05178d3b4118a15effe885f96d1a?pvs=21">hiring playbook</a>. There you'll find a sneak peek of who we are and what you can expect in our hiring process. We recently also open-sourced our <a href="https://www.notion.so/Checkly-s-Employee-Handbook-f262e36a64d641af8588a1c09bc0ff48?pvs=21">employee handbook</a>!<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/checkly-senior-full-stack-engineer">https://weworkremotely.com/remote-jobs/checkly-senior-full-stack-engineer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1263546899153502209/ObHsQoNr_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
