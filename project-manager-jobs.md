@@ -1,68 +1,5 @@
 <div align="center"><h2>PROJECT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0103/7381/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>FamilyAlbum (Mixi America, Inc.)</h5>
-                    <h3> Freelance Project Manager for Growth Marketing (Bilingual-English/Japanese) </h3>
-                </td>
-                <td width="300">
-                    <code>Sales and Marketing</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/familyalbum-mixi-america-inc-freelance-project-manager-for-growth-marketing-bilingual-english-japanese" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0103/7381/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> USA 
-    <br /><strong>URL:</strong> <a href="https://family-album.com/">https://family-album.com/</a>
-</p>
-
-<div><strong>About FamilyAlbum:</strong></div><div>At FamilyAlbum, we're passionate about creating a safe, easy-to-use platform for families to capture and share their most cherished moments. With 15+ million users worldwide, as we expand our operations in the U.S., our highest growth market, we're seeking an experienced and innovative Bilingual Marketing Project Manager to join our dynamic team. This role is remote-friendly.</div><div><br></div><div><strong>Role Overview:</strong></div><div>As our Freelance Project Manager for Growth Marketing (bilingual - English/Japanese), you'll be a vital part of our strategic push for growth in the U.S. Using your organizational skills, strategic insights, and leadership, you'll drive key initiatives that elevate our brand. You'll act as a bridge between teams, manage resources, and ensure quality work is delivered on time. Your ability to communicate effectively both internally and externally with various stakeholders across various cultures will contribute directly to our success.</div><div><br></div><div><strong>Responsibilities:</strong></div><ul>
-<li>Develop, implement, and manage marketing projects from inception to completion.</li>
-<li>Work closely with the design team to create and refine creative assets for marketing campaigns.</li>
-<li>Manage the delivery of assets, ensuring they meet quality standards and deadlines.</li>
-<li>Prepare comprehensive marketing briefs and coordinate with internal and external stakeholders to ensure project requirements are clearly defined and met.</li>
-<li>Track project performance, specifically to analyze the successful completion of short- and long-term goals.</li>
-<li>Ensure that all projects are delivered on-time, within scope, and within budget.</li>
-<li>Report and escalate issues to management as needed.</li>
-<li>Implement best practices and standards related to project management and execution.</li>
-<li>Measure project performance using appropriate systems, tools, and techniques.</li>
-<li>Facilitate effective communication between the U.S. and Japan HQ teams.</li>
-</ul><div><br></div><div><strong>Requirements:</strong></div><ul>
-<li>Native-level English proficiency; Japanese business communication skills highly preferred.</li>
-<li>Bachelor's degree in Marketing, Business, or related field.</li>
-<li>Proven working experience in project management, specifically in a marketing environment.</li>
-<li>Solid understanding of digital marketing.</li>
-<li>Exceptional communication skills, able to effectively manage relationships with both internal teams and external business partners.</li>
-<li>Empathy and understanding towards our target audience: mothers and families.</li>
-<li>Solid organizational skills, including attention to detail and multitasking.</li>
-<li>Strong working knowledge of project management tools.</li>
-<li>Startup experience is a plus.</li>
-</ul><div><br></div><div><strong>Why You'll Love Working with Us:</strong></div><ul>
-<li>Impact: Directly contribute to our strategic area of business - U.S. growth.</li>
-<li>Flexibility: Work remotely with our globally distributed team. </li>
-<li>Support: Benefit from a collaborative, learning-oriented team that values constructive feedback and is passionate about the product. </li>
-<li>Compensation: Competitive project-based pay, commensurate with experience.</li>
-<li>Hours: We'd like to start at 10 hours/week and ramp up if there's mutual fit. </li>
-</ul><div>
-<br><br>
-</div><div>Join us to make a difference in the lives of families worldwide while advancing your career in a multi-cultural growth environment. If you are a talented, self-motivated professional with exceptional communication skills and a passion for growth marketing, we want to hear from you. Apply today to join the FamilyAlbum team!</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/familyalbum-mixi-america-inc-freelance-project-manager-for-growth-marketing-bilingual-english-japanese">https://weworkremotely.com/remote-jobs/familyalbum-mixi-america-inc-freelance-project-manager-for-growth-marketing-bilingual-english-japanese</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1747577/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -73,7 +10,7 @@
                     <code>project management,asana,google suite,time management</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/marketing/technical-marketing-project-manager-1747577" align="right" target="_blank">Apply</a>
