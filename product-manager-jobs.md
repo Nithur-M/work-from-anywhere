@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/covergo-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -105,7 +105,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toggl-product-manager-3" align="right" target="_blank">Apply</a>
@@ -556,35 +556,11 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1382655628523364355/MWPIbbID_400x400.jpg" width="38px" height="auto">
+                    <img src="https://d21buns5ku92am.cloudfront.net/69529/images/420204-RemoteMark_purple-da25a3-original-1646241858.png" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>CoverGo</h5>
-                    <h3>Senior Product Manager (Health) - Fully Remote</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/covergo/j/3660DC02B3" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Top 3 Reasons To Join Us </strong></p><ul> <li>Employee Stock Options </li> <li>100% Remote </li> <li>Insurtech industry leader worldwide </li> </ul><p><strong>About Us</strong></p><p>At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.</p><ul> <li>We are a leading global no-code insurance platform for health, life, and P&amp;C;</li> <li>We’re the winner of the Insurtech of the Year in all of Asia and other awards globally;</li> <li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more;</li> <li>We're an international, diverse team of over 120 people with 34 nationalities and team members working remotely from all over the world;</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors;</li> <li>We have offices in the US, Singapore, Hong Kong, UAE and Vietnam;</li> <li>We’ve grown our annualized revenue by over 30x since January 2021;</li> <li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world.</li> </ul><p><strong>What You Will Do:</strong></p><ul> <li>Product Strategy: Develop and execute a compelling product strategy for our products, aligned with the company's vision and objectives.</li> <li>Market Analysis: Conduct market research, analyze industry trends, and gather customer insights to identify opportunities for product innovation and differentiation.</li> <li>Product Roadmap: Define and communicate a clear and prioritized product roadmap, considering market dynamics, customer insights, and business goals.</li> <li>Requirements Gathering: Collaborate with stakeholders to gather and document detailed product requirements, ensuring a deep understanding of customer pain points and business priorities.</li> <li>User Experience: Work closely with design and engineering teams to create exceptional user experiences, employing best practices in user interface (UI) and user experience (UX) design.</li> <li>Cross-functional teams collaboration: Work cross-functional teams through iterative development cycles, and ensure timely delivery of high-quality product releases.</li> <li>Go-to-market Strategy: Collaborate with finance and marketing teams to establish go-to-market strategies for health insurance products.</li> <li>Performance Tracking: Define key performance indicators (KPIs) and implement robust tracking mechanisms to measure product performance, identify areas for improvement, and drive data-driven decision-making.</li> <li>Stakeholder Collaboration: Collaborate effectively with internal and external stakeholders, including executive leadership, sales teams, and industry partners, to drive product adoption and achieve business objectives.</li> <li>Any  other task as may be assigned</li> </ul> <p><strong>What We Need:</strong></p><ul> <li>Bachelor's degree in business, computer science, or a related field.</li> <li>At least 7 years of insurance product management experience, especially health insurance, prefer to have experience with other insurance products such as life and P&amp;C.</li> <li>Solid insurance knowledge is a must, specifically health insurance.</li> <li>Demonstrated success in managing the entire product lifecycle, from ideation to launch and post-launch optimization.</li> <li>Strong analytical skills, with the ability to gather and interpret market data, customer insights, and competitive intelligence.</li> <li>Experience working with cross-functional teams and driving collaboration in an Agile development environment.</li> <li>Nice to have experience in working with Jira and Confluence suite of products</li> <li>Excellent English communication and presentation skills, with the ability to convey complex concepts to both technical and non-technical stakeholders.</li> <li>Strategic mindset, with the ability to think long-term and translate vision into actionable plans.</li> <li>A critical thinker, an innovator and has good problem-solving skills</li> <li>Results-oriented and data-driven, with a passion for delivering exceptional customer experiences and achieving business objectives.</li> </ul> <p><strong>Why You'll Love Working Here</strong></p><ul> <li>Globally Remote Work Opportunity</li> <li>Local time zone office hours, work by your schedule</li> <li>Paid Time Offs</li> <li>Share Option Plan</li> <li>Performance bonus</li> <li>Company activities &amp; team offsites to exotic locations</li> <li>Training and development plan</li> </ul>Covergo Company<a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"> Video</a><h3>Requirements: </h3><h3>Benefits: </h3>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1382655628523364355/MWPIbbID_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CoverGo</h5>
-                    <h3>Senior Product Manager (Health) - Fully Remote</h3>
+                    <h5>Remote</h5>
+                    <h3>Group Product Manager, Fintech</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -593,61 +569,84 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/covergo/j/20021D1386" align="right" target="_blank">Apply</a>
+                <a href="https://boards.greenhouse.io/remotecom/jobs/5722267003" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p><strong>Top 3 Reasons To Join Us </strong></p><ul> <li>Employee Stock Options </li> <li>100% Remote </li> <li>Insurtech industry leader worldwide </li> </ul><p><strong>About Us</strong></p><p>At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.</p><ul> <li>We are a leading global no-code insurance platform for health, life, and P&amp;C;</li> <li>We’re the winner of the Insurtech of the Year in all of Asia and other awards globally;</li> <li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more;</li> <li>We're an international, diverse team of over 120 people with 34 nationalities and team members working remotely from all over the world;</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors;</li> <li>We have offices in the US, Singapore, Hong Kong, UAE and Vietnam;</li> <li>We’ve grown our annualized revenue by over 30x since January 2021;</li> <li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world.</li> </ul><p><strong>What You Will Do:</strong></p><ul> <li>Product Strategy: Develop and execute a compelling product strategy for our products, aligned with the company's vision and objectives.</li> <li>Market Analysis: Conduct market research, analyze industry trends, and gather customer insights to identify opportunities for product innovation and differentiation.</li> <li>Product Roadmap: Define and communicate a clear and prioritized product roadmap, considering market dynamics, customer insights, and business goals.</li> <li>Requirements Gathering: Collaborate with stakeholders to gather and document detailed product requirements, ensuring a deep understanding of customer pain points and business priorities.</li> <li>User Experience: Work closely with design and engineering teams to create exceptional user experiences, employing best practices in user interface (UI) and user experience (UX) design.</li> <li>Cross-functional teams collaboration: Work cross-functional teams through iterative development cycles, and ensure timely delivery of high-quality product releases.</li> <li>Go-to-market Strategy: Collaborate with finance and marketing teams to establish go-to-market strategies for health insurance products.</li> <li>Performance Tracking: Define key performance indicators (KPIs) and implement robust tracking mechanisms to measure product performance, identify areas for improvement, and drive data-driven decision-making.</li> <li>Stakeholder Collaboration: Collaborate effectively with internal and external stakeholders, including executive leadership, sales teams, and industry partners, to drive product adoption and achieve business objectives.</li> <li>Any  other task as may be assigned</li> </ul> <p><strong>What We Need:</strong></p><ul> <li>Bachelor's degree in business, computer science, or a related field.</li> <li>At least 7 years of insurance product management experience, especially health insurance, prefer to have experience with other insurance products such as life and P&amp;C.</li> <li>Solid insurance knowledge is a must, specifically health insurance.</li> <li>Demonstrated success in managing the entire product lifecycle, from ideation to launch and post-launch optimization.</li> <li>Strong analytical skills, with the ability to gather and interpret market data, customer insights, and competitive intelligence.</li> <li>Experience working with cross-functional teams and driving collaboration in an Agile development environment.</li> <li>Nice to have experience in working with Jira and Confluence suite of products</li> <li>Excellent English communication and presentation skills, with the ability to convey complex concepts to both technical and non-technical stakeholders.</li> <li>Strategic mindset, with the ability to think long-term and translate vision into actionable plans.</li> <li>A critical thinker, an innovator and has good problem-solving skills</li> <li>Results-oriented and data-driven, with a passion for delivering exceptional customer experiences and achieving business objectives.</li> </ul> <p><strong>Why You'll Love Working Here</strong></p><ul> <li>Globally Remote Work Opportunity</li> <li>Local time zone office hours, work by your schedule</li> <li>Paid Time Offs</li> <li>Share Option Plan</li> <li>Performance bonus</li> <li>Company activities &amp; team offsites to exotic locations</li> <li>Training and development plan</li> </ul>Covergo Company<a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"> Video</a><h3>Requirements: </h3><h3>Benefits: </h3>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1382655628523364355/MWPIbbID_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CoverGo</h5>
-                    <h3>Senior Product Manager (Health) - Fully Remote</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/covergo/j/13D5593183" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Top 3 Reasons To Join Us </strong></p><ul> <li>Employee Stock Options </li> <li>100% Remote </li> <li>Insurtech industry leader worldwide </li> </ul><p><strong>About Us</strong></p><p>At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.</p><ul> <li>We are a leading global no-code insurance platform for health, life, and P&amp;C;</li> <li>We’re the winner of the Insurtech of the Year in all of Asia and other awards globally;</li> <li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more;</li> <li>We're an international, diverse team of over 120 people with 34 nationalities and team members working remotely from all over the world;</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors;</li> <li>We have offices in the US, Singapore, Hong Kong, UAE and Vietnam;</li> <li>We’ve grown our annualized revenue by over 30x since January 2021;</li> <li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world.</li> </ul><p><strong>What You Will Do:</strong></p><ul> <li>Product Strategy: Develop and execute a compelling product strategy for our products, aligned with the company's vision and objectives.</li> <li>Market Analysis: Conduct market research, analyze industry trends, and gather customer insights to identify opportunities for product innovation and differentiation.</li> <li>Product Roadmap: Define and communicate a clear and prioritized product roadmap, considering market dynamics, customer insights, and business goals.</li> <li>Requirements Gathering: Collaborate with stakeholders to gather and document detailed product requirements, ensuring a deep understanding of customer pain points and business priorities.</li> <li>User Experience: Work closely with design and engineering teams to create exceptional user experiences, employing best practices in user interface (UI) and user experience (UX) design.</li> <li>Cross-functional teams collaboration: Work cross-functional teams through iterative development cycles, and ensure timely delivery of high-quality product releases.</li> <li>Go-to-market Strategy: Collaborate with finance and marketing teams to establish go-to-market strategies for health insurance products.</li> <li>Performance Tracking: Define key performance indicators (KPIs) and implement robust tracking mechanisms to measure product performance, identify areas for improvement, and drive data-driven decision-making.</li> <li>Stakeholder Collaboration: Collaborate effectively with internal and external stakeholders, including executive leadership, sales teams, and industry partners, to drive product adoption and achieve business objectives.</li> <li>Any  other task as may be assigned</li> </ul> <p><strong>What We Need:</strong></p><ul> <li>Bachelor's degree in business, computer science, or a related field.</li> <li>At least 7 years of insurance product management experience, especially health insurance, prefer to have experience with other insurance products such as life and P&amp;C.</li> <li>Solid insurance knowledge is a must, specifically health insurance.</li> <li>Demonstrated success in managing the entire product lifecycle, from ideation to launch and post-launch optimization.</li> <li>Strong analytical skills, with the ability to gather and interpret market data, customer insights, and competitive intelligence.</li> <li>Experience working with cross-functional teams and driving collaboration in an Agile development environment.</li> <li>Nice to have experience in working with Jira and Confluence suite of products</li> <li>Excellent English communication and presentation skills, with the ability to convey complex concepts to both technical and non-technical stakeholders.</li> <li>Strategic mindset, with the ability to think long-term and translate vision into actionable plans.</li> <li>A critical thinker, an innovator and has good problem-solving skills</li> <li>Results-oriented and data-driven, with a passion for delivering exceptional customer experiences and achieving business objectives.</li> </ul> <p><strong>Why You'll Love Working Here</strong></p><ul> <li>Globally Remote Work Opportunity</li> <li>Local time zone office hours, work by your schedule</li> <li>Paid Time Offs</li> <li>Share Option Plan</li> <li>Performance bonus</li> <li>Company activities &amp; team offsites to exotic locations</li> <li>Training and development plan</li> </ul>Covergo Company<a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"> Video</a><h3>Requirements: </h3><h3>Benefits: </h3>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1382655628523364355/MWPIbbID_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CoverGo</h5>
-                    <h3>Senior Product Manager (Health) - Fully Remote</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/covergo/j/E906FB6E2D" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Top 3 Reasons To Join Us </strong></p><ul> <li>Employee Stock Options </li> <li>100% Remote </li> <li>Insurtech industry leader worldwide </li> </ul><p><strong>About Us</strong></p><p>At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.</p><ul> <li>We are a leading global no-code insurance platform for health, life, and P&amp;C;</li> <li>We’re the winner of the Insurtech of the Year in all of Asia and other awards globally;</li> <li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more;</li> <li>We're an international, diverse team of over 120 people with 34 nationalities and team members working remotely from all over the world;</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors;</li> <li>We have offices in the US, Singapore, Hong Kong, UAE and Vietnam;</li> <li>We’ve grown our annualized revenue by over 30x since January 2021;</li> <li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world.</li> </ul><p><strong>What You Will Do:</strong></p><ul> <li>Product Strategy: Develop and execute a compelling product strategy for our products, aligned with the company's vision and objectives.</li> <li>Market Analysis: Conduct market research, analyze industry trends, and gather customer insights to identify opportunities for product innovation and differentiation.</li> <li>Product Roadmap: Define and communicate a clear and prioritized product roadmap, considering market dynamics, customer insights, and business goals.</li> <li>Requirements Gathering: Collaborate with stakeholders to gather and document detailed product requirements, ensuring a deep understanding of customer pain points and business priorities.</li> <li>User Experience: Work closely with design and engineering teams to create exceptional user experiences, employing best practices in user interface (UI) and user experience (UX) design.</li> <li>Cross-functional teams collaboration: Work cross-functional teams through iterative development cycles, and ensure timely delivery of high-quality product releases.</li> <li>Go-to-market Strategy: Collaborate with finance and marketing teams to establish go-to-market strategies for health insurance products.</li> <li>Performance Tracking: Define key performance indicators (KPIs) and implement robust tracking mechanisms to measure product performance, identify areas for improvement, and drive data-driven decision-making.</li> <li>Stakeholder Collaboration: Collaborate effectively with internal and external stakeholders, including executive leadership, sales teams, and industry partners, to drive product adoption and achieve business objectives.</li> <li>Any  other task as may be assigned</li> </ul> <p><strong>What We Need:</strong></p><ul> <li>Bachelor's degree in business, computer science, or a related field.</li> <li>At least 7 years of insurance product management experience, especially health insurance, prefer to have experience with other insurance products such as life and P&amp;C.</li> <li>Solid insurance knowledge is a must, specifically health insurance.</li> <li>Demonstrated success in managing the entire product lifecycle, from ideation to launch and post-launch optimization.</li> <li>Strong analytical skills, with the ability to gather and interpret market data, customer insights, and competitive intelligence.</li> <li>Experience working with cross-functional teams and driving collaboration in an Agile development environment.</li> <li>Nice to have experience in working with Jira and Confluence suite of products</li> <li>Excellent English communication and presentation skills, with the ability to convey complex concepts to both technical and non-technical stakeholders.</li> <li>Strategic mindset, with the ability to think long-term and translate vision into actionable plans.</li> <li>A critical thinker, an innovator and has good problem-solving skills</li> <li>Results-oriented and data-driven, with a passion for delivering exceptional customer experiences and achieving business objectives.</li> </ul> <p><strong>Why You'll Love Working Here</strong></p><ul> <li>Globally Remote Work Opportunity</li> <li>Local time zone office hours, work by your schedule</li> <li>Paid Time Offs</li> <li>Share Option Plan</li> <li>Performance bonus</li> <li>Company activities &amp; team offsites to exotic locations</li> <li>Training and development plan</li> </ul>Covergo Company<a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"> Video</a><h3>Requirements: </h3><h3>Benefits: </h3>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Remote&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Remote is solving global remote organizations’ biggest challenge: employing anyone anywhere compliantly. We make it possible for businesses big and small to employ a global team by handling global payroll, benefits, taxes, and compliance. Check out &lt;a href=&quot;http://remote.com/how-it-works&quot;&gt;remote.com/how-it-works&lt;/a&gt; to learn more or if you’re interested in adding to the mission, scroll down to apply now.&lt;/p&gt;
+&lt;p&gt;Please take a look at &lt;strong&gt;&lt;a href=&quot;http://remote.com/handbook&quot;&gt;remote.com/handbook&lt;/a&gt;&lt;/strong&gt; to learn more about our culture and what it is like to work here. &lt;strong&gt;Not only do we encourage folks from all ethnic groups, genders, sexuality, age and abilities to apply, but we prioritize a sense of &lt;a href=&quot;https://www.notion.so/people-Belonging-Diversity-Equity-Inclusion-DEI-4990e36a7d7b4d52a78ca3efb23d718b&quot;&gt;belonging&lt;/a&gt;.&lt;/strong&gt; You can check out independent reviews by other candidates on &lt;a href=&quot;https://www.glassdoor.com/Overview/Working-at-Remote-EI_IE3871683.11,17.htm&quot;&gt;Glassdoor&lt;/a&gt; or look up the &lt;a href=&quot;https://www.notion.so/people-Candidate-Experience-Surveys-17d595a88b7548148593792a8072235f&quot;&gt;results of our candidate surveys&lt;/a&gt; to see how others feel about working and interviewing here.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;All of our positions are fully remote. You do not have to relocate to join us!&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;The position&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;This is an exciting time to join Remote and make a personal difference in the global employment space as a&amp;nbsp;&lt;strong&gt;Group Product Manager&lt;/strong&gt;, joining our &lt;strong&gt;Fintech&lt;/strong&gt; team. You&#39;ll have a massive impact on our organization, and will help create opportunities for millions of people around the world.&lt;/p&gt;
+&lt;p&gt;As a Group Product Manager for Fintech, you will play a pivotal role in leading and overseeing the strategic direction and development of our payment products and services.&lt;/p&gt;
+&lt;p&gt;Your primary responsibility will be to drive the vision, roadmap, and execution of our payment solutions, ensuring they align with the company&#39;s overall business goals and customer needs. You will collaborate closely with cross-functional teams including engineering, design, marketing, and customer support to deliver innovative and user-centric payment experiences.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;What this job can offer you&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Product Strategy: Developing and executing a cohesive product strategy for your product area, aligned with the company&#39;s overall vision, goals, and market demands.&lt;/li&gt;
+&lt;li&gt;Team Leadership: Managing and mentoring a team of product managers to achieve team goals, while fostering a collaborative and innovative work environment across all of Product.&lt;/li&gt;
+&lt;li&gt;Cross-functional &amp;amp; Inter-departmental Collaboration: Collaborating with other product areas, business leaders, engineering, design, marketing, sales, legal, finance, operations and more to prioritize, design and build the best product experiences and outcomes for our customers&lt;/li&gt;
+&lt;li&gt;Product(s) Performance: Monitoring product performance and KPIs (Key Performance Indicators) for your product area to identify areas of innovation and improvement&lt;/li&gt;
+&lt;li&gt;Product Evangelism: Actively promoting and advocating for your product area both internally and externally, including presenting to stakeholders, customers, and industry events.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;What you bring&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Senior, Staff, or Principal-level experience in product management, with a proven track record of managing teams and successful product launches.&lt;/li&gt;
+&lt;li&gt;Deep understanding of payment industry trends, technologies, and competitive landscape.&lt;/li&gt;
+&lt;li&gt;Strong leadership and people management skills: you&#39;ve made significant progress on objectives through guiding the contributions of others&lt;/li&gt;
+&lt;li&gt;Strategic thinker with the ability to analyze market trends and translate insights into actionable product plans.&lt;/li&gt;
+&lt;li&gt;Customer-centric mindset with a focus on delivering exceptional user experiences.&lt;/li&gt;
+&lt;li&gt;Proficiency in data analysis and using metrics to drive decisions.&lt;/li&gt;
+&lt;li&gt;Adaptability and ability to thrive in a fast-paced and dynamic environment.&lt;/li&gt;
+&lt;li&gt;Outstanding written communication and collaboration skills, leading to fast progress and decision making&lt;/li&gt;
+&lt;li&gt;Business-level proficiency writing and speaking English&lt;/li&gt;
+&lt;li&gt;It&#39;s not required to have experience working remotely, but considered a plus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;Practicals&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;You&#39;ll report to:&lt;/strong&gt; Director, Product&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Direct reports:&lt;/strong&gt; 3 Directors and 1 Senior Manager&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Team:&lt;/strong&gt; Product - Fintech&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Location&lt;/strong&gt;: Anywhere in the world&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Start date:&lt;/strong&gt; As soon as possible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;Remote Compensation Philosophy&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Remote&#39;s &lt;a href=&quot;https://www.notion.so/remotecom/people-Total-Rewards-1945bce8d3924ece9421ba8630f57b0c&quot;&gt;Total Rewards philosophy&lt;/a&gt; is to ensure fair, unbiased compensation and fair &lt;span class=&quot;link-annotation-unknown-block-id-1691622878&quot;&gt;equity&lt;/span&gt;&lt;span class=&quot;discussion-level-1 discussion-id-f2a82bc4-09e4-4a71-ad93-755b1d26a690 notion-enable-hover&quot; data-token-index=&quot;3&quot;&gt; pay &lt;/span&gt;along with competitive benefits in all locations in which we operate. We do not agree to or encourage cheap-labor practices and therefore we ensure to pay above in-location rates. We hope to inspire other companies to support global talent-hiring and bring local wealth to developing countries.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Application process&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Interview with recruiter&lt;/li&gt;
+&lt;li&gt;Interview with Director of Product&lt;/li&gt;
+&lt;li&gt;Interview with team members (no managers present)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.notion.so/Veremark-Remote-96e108c037b8423cbd4c3f07a1f9b38b&quot;&gt;Prior employment verification check&lt;/a&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&amp;nbsp;#LI-DNI&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/h2&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;Our full benefits &amp;amp; perks are explained in our handbook at&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;http://remote.com/r/benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://remote.com/r/benefits&quot; data-sk=&quot;tooltip_parent&quot;&gt;remote.com/r/benefits&lt;/a&gt;. As a global company, each country works differently, but some benefits/perks are for all Remoters:&lt;/div&gt;
+&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;work from anywhere&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;unlimited personal time off (minimum 4 weeks)&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;quarterly company-wide day off for self care&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;flexible working hours (we are&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.notion.so/remotecom/Working-Async-at-Remote-80c01cd443ad4c77a8ceaef7c5fba5d0&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.notion.so/remotecom/Working-Async-at-Remote-80c01cd443ad4c77a8ceaef7c5fba5d0&quot; data-sk=&quot;tooltip_parent&quot;&gt;async&lt;/a&gt;)&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;16 weeks paid parental leave&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;mental health support services&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;stock options&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;learning budget&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;home office budget &amp;amp; IT equipment&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;budget for local in-person social events or co-working spaces&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h2&gt;&lt;strong&gt;How you’ll plan your day (and life)&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;We work async at Remote which means you can plan your schedule around your life (and not around meetings). Read more at &lt;a href=&quot;http://www.remote.com/async&quot;&gt;remote.com/async&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You will be empowered to take ownership and be proactive. When in doubt you will default to action instead of waiting. Your &lt;strong&gt;life-work balance&lt;/strong&gt; is important and you will be encouraged to put yourself and your family first, and fit work around your needs.&lt;/p&gt;
+&lt;p&gt;If that sounds like something you want, apply now!&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;How to apply&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Please fill out the form below and upload your CV with a PDF format.&lt;/li&gt;
+&lt;li&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;We kindly ask you to submit your application and CV in English, as this is the standardised language we use here at Remote.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;If you don’t have an up to date CV but you are still interested in talking to us, please feel free to add a copy of your LinkedIn profile instead.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We will ask you to voluntarily tell us your pronouns at interview stage, and you will have the option to answer our anonymous demographic questionnaire when you apply below. As an equal employment opportunity employer it’s important to us that our workforce reflects people of all backgrounds, identities, and experiences and this data will help us to stay accountable. We thank you for providing this data, if you chose to.&lt;/p&gt;
+&lt;p&gt;Need help? Email&amp;nbsp;&lt;a class=&quot;c-link&quot; style=&quot;color: rgba(var(--sk_highlight,18,100,163),1); text-decoration: none;&quot; href=&quot;mailto:hiring@remote.com&quot; target=&quot;_blank&quot; data-stringify-link=&quot;mailto:hiring@remote.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;hiring@remote.com&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr></table>
