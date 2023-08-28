@@ -10,7 +10,7 @@
                     <code>project management,asana,google suite,time management</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/marketing/technical-marketing-project-manager-1747577" align="right" target="_blank">Apply</a>
