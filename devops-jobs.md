@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/draft-dev-devops-engineer-technical-writer" align="right" target="_blank">Apply</a>
@@ -56,66 +56,220 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1768752/logo" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1763372/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>DevGrid</h5>
-                    <h3>Azure DevOps Engineer</h3>
+                    <h5>Intento</h5>
+                    <h3>Senior DevOps/DBA Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>azure,security,agile,CI/CD</code>
+                    <code>amazon,AWS,azure,cloud</code>
                 </td>
                 <td width="200">
                 <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/devops/azure-devops-engineer-1768752" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/devops/senior-devops-dba-engineer-1763372" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p dir="ltr"><strong>Who we are:</strong></p>
-<p dir="ltr">DevGrid is a top-tier software consulting company based in the UK, with a development hub in Brazil and operations spanning Europe and the US. We believe that world-class software can only be created by a motivated and enthusiastic team in an environment that fosters creativity and free thinking. Established in 2015, our goal is to drive innovation and digital transformation by combining our robust business culture and exceptional engineers with forward-thinking business insights.</p>
+                <p dir="ltr">Intento is a growing company at the forefront of language technology solutions, offering cutting-edge AI-driven language services to businesses worldwide. We are seeking a talented and motivated DevOps/DBA Engineer to join our team and provide expertise in database administration, fulfill DevOps functions for one of our R&amp;D teams, and contribute to team competence growth. </p>
+<div class="h4"><strong>About the role</strong></div>
+<p dir="ltr">As a DevOps/DBA Engineer at Intento, you will play a critical role in enhancing our Datastorage systems, supporting our development teams, and participating in on-call rotations to ensure smooth operations and continuous improvement.</p>
+<p dir="ltr"><strong>Responsibilities:</strong></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr">Take ownership of our Datastorage systems, with a focus on AWS RDS Postgres, managing RTO and RPO, and executing Disaster Recovery Plan operations.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Provide support to our development teams in DevOps roles, including deploying and testing pipelines, handling requests for new infrastructure features, and offering debugging and consultations as needed.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Participate in on-call rotations to distribute the load and ensure high availability and reliability of our systems.</p>
+</li>
+</ul>
+<div class="h4"><strong>About Intento</strong></div>
+<p dir="ltr">Intento is a dynamic and fast-growing company, founded by two AI PhDs, that offers tremendous opportunities for proactive professionals seeking to make an impact. Our Enterprise Machine Translation Hub has garnered acclaim from top enterprise companies across Europe, America, and Asia, enabling real-time multilingual experiences for their teams and customers. As an industry leader, we are recognized by global experts such as OpenAI and Gartner.</p>
+<p dir="ltr">Intento boasts a diverse team of over 75 talented individuals working remotely from various parts of the world, with our headquarters based in San Francisco, California.</p>
 <p dir="ltr"> </p>
-<p dir="ltr"><strong>Who we're looking for:</strong></p>
-<p dir="ltr">We are seeking a talented and experienced professional to join our international team. This role presents an excellent opportunity for those looking to work in a dynamic environment and be part of a high-performing international team, offering ample opportunities for growth and development in technical and interpersonal skills. We are searching for an energetic, driven, and articulate team player who is truly passionate about their work.</p>
+<p dir="ltr"><strong>Values you can expect from working at Intento:</strong></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr">Join an exciting and fast-paced startup environment where you can directly shape the course of the company.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Experience transparency in our business strategies, allowing you to understand the big picture and contribute meaningfully.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Enjoy a balance of autonomy and responsibility, empowering you to make decisions and take ownership of your work.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Be part of a team dedicated to solving significant industrial problems using cutting-edge AI technology.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Gain firsthand experience deploying solutions to Fortune 500 companies, providing valuable insights into enterprise-level operations.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Immerse yourself in the world of AI at a unique company, interacting with a wide range of industry professionals and experts.</p>
+</li>
+</ul>
+<p dir="ltr">At Intento, we value our employees and strive to create a work environment that promotes collaboration, flexibility, and growth. As part of our commitment to our team, we offer competitive salaries, a flexible remote culture, and a supportive and collaborative work environment.</p>
+<p dir="ltr">Join us at Intento, where you can contribute to shaping the future of language technology and be part of an exceptional team that is revolutionizing the industry.</p>
+<div class="h4"><strong>Our ideal candidate</strong></div>
+<p dir="ltr"><strong>Must-have qualifications:</strong></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr">Solid experience with Linux systems</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Proficient knowledge and hands-on experience with Postgresql, especially in a SaaS environment with RDS/Cloud SQL or similar services.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Strong understanding of Terraform, including modules, workspaces, and managing multiple states.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Familiarity with AWS and experience working in a multi-account environment.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Good understanding and practical experience with Kubernetes, preferably Amazon EKS, Google GKE, or Azure AKS.</p>
+</li>
+</ul>
+<p dir="ltr"><strong>Nice-to-have qualifications:</strong></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr">Familiarity with Clickhouse.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Experience with Ansible for infrastructure automation.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Familiarity with Jenkins for continuous integration and continuous delivery (CI/CD).</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Any certifications in Postgres development or administration are a plus.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Kubernetes management certifications are beneficial.</p>
+</li>
+</ul>
+<p dir="ltr"><strong>Soft-skills and motivation:</strong></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr">A self-motivated individual with a positive attitude and a proactive approach to problem-solving.</p>
+</li>
+</ul>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr">Strong team player with excellent communication skills and the ability to collaborate effectively with cross-functional teams.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Experience working in a young and growing product company</p>
+</li>
+</ul>
+<img src="https://remotive.com/job/track/1763372/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1764871/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Distribusion Technologies</h5>
+                    <h3>Senior DevOps Engineer (all genders)</h3>
+                </td>
+                <td width="300">
+                    <code>amazon,azure,cloud,docker</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-all-genders-1764871" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p dir="ltr"><strong>Distribusion</strong> is the world’s leading ground transportation marketplace and gives travelers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail, and ferry operators in 70+ countries with the biggest online retailers, including Google Maps and Booking.com.</p>
+<p dir="ltr">We are shaping the future of travel and building the largest global network of transport providers and retailers. Having grown 10x in the past year, we are one of the fastest-growing startups in travel. Backed by three leading VCs (Creandum, Northzone, and Lightrock), and now, following our recent €30 m Series B, we are ready to push beyond.<br><br>We are looking for <strong>Senior DevOps Engineer</strong>. The team is responsible for the entire infrastructure. One of the main goals of the team is to maintain the infrastructure updated, secured, reliable and monitored, as all Distribusion applications run on it, so the main contribution would be to ensure the above at all times.</p>
 <p dir="ltr"> </p>
-<p dir="ltr"><strong>What you'll be doing: </strong></p>
-<p dir="ltr">- Building and setting up development tools and services infrastructure;</p>
-<p dir="ltr">- Build, test, and maintain end-to-end CI/CD pipelines using Azure DevOps services, including Azure Pipelines, Azure Repos, and Azure Artifacts;</p>
-<p dir="ltr">- Employ knowledge in container orchestration and security to ensure systems are reliable and safe;</p>
-<p dir="ltr">- Resolution of problems within an agile team;</p>
-<p dir="ltr"><strong>Essential requirements:</strong></p>
-<p dir="ltr">- Knowledge of Databricks, Snowflake, or Couchbase;</p>
-<p dir="ltr">- Experience/ knowledge in CI/ CD, Azure DevOps services, Azure Pipelines, Azure Repos and Azure Artifacts;</p>
-<p dir="ltr">- Advanced English, spoken and written;</p>
-<p dir="ltr">- Intermediate to advanced Spanish, spoken and written;</p>
+<p dir="ltr"><strong>What you'll do</strong></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr">Work in GCP-based CD environment, evolve our infrastructure, automate/support/troubleshoot, CI/CD processes, write/fix Terraform code.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Running the clusters in different regions across the globe.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Ensure the organisation has observability tools, and promote observability best practices.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Engage in incident handling, software performance analysis and system tuning.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Collaborate with development teams to perform Root Cause Analysis for Post Mortems.</p>
+</li>
+</ul>
+<div><strong><br>Workplace:</strong></div>
+<p>We are a remote-first company with teams located around the Globe.</p>
+<p dir="ltr"><strong>Who you are</strong></p>
+<ul style="">
+<li style="">
+<p dir="ltr">Solid DevOps experience, ideally within a scaling start-up.</p>
+</li>
+<li style="">
+<p dir="ltr">Strong scripting skills in Bash and ability to understand/write/debug code in Python, Ruby.</p>
+</li>
+<li style="">
+<p dir="ltr">Good knowledge of Linux, including basic management tools/utilities (curl, wget, etc).</p>
+</li>
+<li style="">
+<p dir="ltr">Excellent knowledge of Docker and Kubernetes.</p>
+</li>
+<li style="">
+<p dir="ltr">Experience with public cloud services providers (Google Cloud Platform, Amazon Web Service or Azure).</p>
+</li>
+<li style="">
+<p dir="ltr">Extensive experience with CI/CD tools (GCP Cloud Build, GitLab CI, Jenkins, TeamCity CI, Argo CD, Spinnaker).</p>
+</li>
+<li style="">
+<p dir="ltr">Experience in observability and reliability, ideally with Prometheus, Grafana, New Relic, Sentry.</p>
+</li>
+<li style="">
+<p dir="ltr">Experience in infrastructure as Code, preferably with Terraform.</p>
+</li>
+<li style="">
+<p dir="ltr">Knowledge of basic principles of encryption and related tools/protocols/etc (SSL, OpenSSH, certificates, etc).</p>
+</li>
+<li style="">
+<p dir="ltr">Fluent English communication skills.<br><br></p>
+</li>
+</ul>
+<p dir="ltr"><strong><strong>What you can expect:</strong></strong></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr">You will join a fast-paced travel tech company with a flat organizational structure.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">You will have exciting opportunities, ownership, and responsibility and contribute directly to the success of the company.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">You will join an international team of talented and driven people with a clear mission. Expect your colleagues to inspire, support and challenge you every day!</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">We have a flexible work policy with the option of working remotely and international opportunities arising as we continue to expand our global footprint – Our heart is in Berlin, but you’ll find us across the globe.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">You will get a competitive salary.</p>
+</li>
+</ul>
+<p dir="ltr"><em><strong>Our hiring</strong><strong> team for this role:</strong><br>Your Talent Partner (TP) and point of contact are Vasilii Yasnyy, and the Hiring Manager (HM) is Ilya Isakov.<br>For any queries, contact out to your Talent Partner at (<a href="mailto:talent@distribusion.com" rel="nofollow" target="_blank">talent@distribusion.com</a>).</em></p>
 <p dir="ltr"> </p>
-<p dir="ltr"><strong>Desirable requirements: </strong></p>
-<p dir="ltr">- Degree in Computer Science, Information Systems, Software Engineering, or a related field;</p>
-<p dir="ltr">- Experience working with international, cross-functional, and remote teams;</p>
-<p dir="ltr">- Excellent written and oral communication skills;</p>
-<p dir="ltr"> </p>
-<p dir="ltr"><strong>What we provide:</strong></p>
-<p dir="ltr">- Contract-based hiring;</p>
-<p dir="ltr">- Full-time opportunity (40 hours per week);</p>
-<p dir="ltr">- Flexible scheduling;</p>
-<p dir="ltr">- 100% remote work/home office;</p>
-<p dir="ltr">- Performance-based bonuses tied to achievements and deliverables;</p>
-<p dir="ltr">- Open and flexible time-off policy;</p>
-<p dir="ltr">- Supportive and collaborative work environment;</p>
-<p dir="ltr">- Equipment program;</p>
-<p dir="ltr">- Paid days off per year + holidays (variable) + recess days;</p>
-<p dir="ltr">- Sponsorship program for relevant courses and training.<br><br></p>
-<p dir="ltr">**All DevGrid positions are open to individuals from all backgrounds (including all races, colors, nationalities, religions, genders, sexual orientations, disabilities, ages, or any other applicable characteristics), promoting equal opportunities and affirmative action.</p>
-<p dir="ltr"> </p>
-<p dir="ltr">If you're interested in the job opening and our mission, come join us on this journey!</p>
-<p dir="ltr">Live long and prosper to all! 🖖🚀<br><br></p>
-<p dir="ltr">For more information, visit:</p>
-<p dir="ltr"><strong>WebSite:</strong> <a href="https://devgrid.co.uk/" rel="nofollow">https://devgrid.co.uk/</a></p>
-<p dir="ltr"><strong>GlassDoor:</strong> <a href="https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-DevGrid-EI_IE2920141.13,20.htm" rel="nofollow">https://www.glassdoor.com.br/Vis%C3%A3o-geral/Trabalhar-na-DevGrid-EI_IE2920141.13,20.htm</a></p>
-<img src="https://remotive.com/job/track/1768752/blank.gif?source=public_api" alt=""/>
+<p dir="ltr"><em>Do you want to work on a product that is used by millions of people daily with a high load, availability and scalability and most advanced technology? </em>Come join us!</p>
+<img src="https://remotive.com/job/track/1764871/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
