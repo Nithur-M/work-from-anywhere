@@ -1,5 +1,29 @@
 <div align="center"><h2>QUALITY ASSURANCE JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1177267684574208000/54eG3WmW_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>SafetyWing</h5>
+                    <h3>Quality Assurance Engineer </h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://safetywing.pinpointhq.com/en/jobs/123470" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h2>🧘 What we offer</h2> <div><!--block-->We operate in a fully remote work environment – you can work from anywhere globally, but our core hours are 8-11am PST.<br><br>You will receive an hourly salary compensation and the possibility to unlock some great benefits after working for SafetyWing for more than six months.<br><br>We offer continuous growth opportunities.<br><br>A fantastic team to work with.<br><br>We are looking forward to hearing from you!</div> <div><!--block--><strong>SafetyWing</strong> (YC W18) is seeking a <strong>Quality Assurance Engineer </strong>to join our team.</div><div><!--block--><br>We are building a global social safety net, including health and retirement for remote workers worldwide, as a replacement for national welfare systems. If we succeed, we believe this will help ensure freedom and equal opportunity for everyone, and it is one of the more important tasks of our time that no one else is working on.</div> <h2>💻 Your responsibilities will include</h2>  <ul><li><!--block-->Perform manual testing.</li><li><!--block-->Identify, record, and track bugs and defects.</li><li><!--block-->Create detailed and well-structured test plans and test cases.</li><li><!--block-->Perform regression tests.</li><li><!--block-->Track the issues reported by the team.</li><li><!--block-->Work closely with engineering, design, support, and management teams to learn and shape our product and ensure the best quality.</li><li><!--block-->Stay up-to-date with new testing tools and test strategies.</li></ul> <h2>🧪 We are looking for someone who</h2> <ul><li><!--block-->Is excellent at software testing and enjoys what they do.</li><li><!--block-->Has a proven track record in software quality assurance and comprehensive knowledge of software QA methodologies, tools, and processes.</li><li><!--block-->Enjoys taking ownership of a process.</li><li><!--block-->Thinks for themselves instead of copying others.</li><li><!--block-->Is creative and bold in the face of any problem.</li><li><!--block-->Is intellectually honest and has high integrity.</li><li><!--block-->Has experience with test automation frameworks such as Playwright and Cypress, this will be considered a plus.</li><li><!--block-->Has availability 20+ hours a week.</li></ul><div><!--block--><strong>😀 We like to work with people who:</strong></div><ul><li><!--block-->Want to help build a global social safety net on the Internet.</li><li><!--block-->Are willing to try new things, even with the risk of failure.</li><li><!--block-->Are intellectually curious and open to new ideas.</li><li><!--block-->Have strong integrity and do the right thing.</li></ul>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://media.licdn.com/dms/image/D4E0BAQGvUyfPVBWDyg/company-logo_200_200/0/1657595552015?e=2147483647&v=beta&t=EecsDCOy3Fh_26M1noQDDIYw8-JuGKz_d1JDvcBZ-yI" width="38px" height="auto">
                 </td>
                 <td width="300">
