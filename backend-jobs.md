@@ -10,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/cow-protocol-backend-engineer-with-rust" align="right" target="_blank">Apply</a>
@@ -87,7 +87,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>41 days ago</text>
+                <text>42 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tiller-experienced-software-engineer-backend" align="right" target="_blank">Apply</a>
@@ -169,7 +169,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>221 days ago</text>
+                <text>223 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-backend" align="right" target="_blank">Apply</a>
@@ -335,6 +335,30 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Internet of Money&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to industry-leading security, crypto education, and world-class client support through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://cryptowat.ch/" class="postings-link">Cryptowatch</a>.</div><div><br></div><div>Become a Krakenite and build the internet of money!</div><div><br></div><div><b style="font-size: 24px">Proof of work</b></div><div><br></div><div><b style="font-size: 18px">The team</b></div><div><br></div><div>Join our Core Backend Engineering team and have the opportunity to contribute to the ongoing transformation of the digital assets industry at Kraken. Our team plays a crucial role in developing the backend that supports the exchange. As a member of the Core Backend Engineering team, you will have the chance to collaborate with highly skilled Rust Engineers from around the world. We are enthusiastic about open source projects and continuously strive to explore the potential of Rust. Our collaborative work environment allows us to stay ahead in the ever-changing crypto landscape. The team has successfully completed the rewrite of core services from PHP to Rust, resulting in improved performance and security of our platform. Currently, our focus is on enhancing our Onboarding experience. By joining our team, you will have the opportunity to contribute towards shaping the future of digital assets at Kraken.</div><div><br></div><div><a href="https://blog.kraken.com/oxidizing-kraken-improving-kraken-infrastructure-using-rust" class="postings-link">Find out more about Core Backend Engineering in our blogpost!</a></div><div><br></div><div>This role is destined for candidates based in the Americas.</div></div><div class="section page-centered"><div><h3>The Opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Be responsible for managing, supporting, and mentoring&nbsp; a team of software engineers to ensure their growth and development</li><li>Ensure strategic alignment within the team and across other engineering teams</li><li>Promote cross functional work with teams such as Product, and Frontend</li><li>Help the team with high-level technical decisions, and provide guidance on difficult design decisions</li><li>Be hands-on and code in Rust to develop and optimize new services or features</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>An advanced degree in computer science or engineering discipline, or equivalent professional experience.</li><li>10+ years of software development experience, primarily focused on backend development.</li><li>Experience with software architecture, designing APIs and event-driven systems.</li><li>3+ years leading engineering teams.</li><li>1+ years of experience managing remote teams.</li><li>Looking to potentially grow into a director role.</li><li>You are interested in cryptocurrency and open to the potential it has to positively transform our world.</li><li>You are passionate about software engineering, improving processes, and driving change.</li><li>You keep a close watch on modern technologies and can program in Rust.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Location Tagging: #US #LI-Remote</div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/6328467c-2fee-47f6-bdb0-ecf321cc0bf5/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1306325743580848130/mk0qvsZ9_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Kraken</h5>
+                    <h3>Senior Software Engineer - Core Backend</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/kraken/0b881234-b831-4d47-b221-ac1318787827" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Internet of Money&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to industry-leading security, crypto education, and world-class client support through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://cryptowat.ch/" class="postings-link">Cryptowatch</a>.</div><div><br></div><div>Become a Krakenite and build the internet of money!</div><div><br></div><div><b style="font-size: 24px">Proof of work</b></div><div><br></div><div><b style="font-size: 18px">The team</b></div><div><br></div><div>Join our Core Backend Engineering team and have the opportunity to contribute to the ongoing transformation of the digital assets industry at Kraken. Our team plays a crucial role in developing the backend that supports the exchange.</div><div>As a member of the Core Backend Engineering team, you will have the chance to collaborate with highly skilled Rust Engineers from around the world. We are enthusiastic about open source projects and continuously strive to explore the potential of Rust. Our collaborative work environment allows us to stay ahead in the ever-changing crypto landscape.</div><div>The team has successfully completed the rewrite of core services from PHP to Rust, resulting in improved performance and security of our platform. By joining our team, you will have the opportunity to contribute towards shaping the future of digital assets at Kraken.</div><div><br></div><div><a href="https://blog.kraken.com/oxidizing-kraken-improving-kraken-infrastructure-using-rust" class="postings-link">Find out more about Core Backend Engineering in our blogpost!</a></div><div><br></div><div>This is a fully remote role, we will consider applicants based in EMEA and APAC.</div><div><br></div></div><div class="section page-centered"><div><h3>The Opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Design and implementation of microservices in Rust</li><li>Writing reusable, testable, and efficient code</li><li>Implementation of security and data protection systems</li><li>Write highly scalable, high volume services</li><li>Create optimized database schemas</li><li>Port legacy microservices to Rust</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>5+ years of experience in software engineering</li><li>Experience writing network services or asynchronous code in Rust</li><li>Experience using a Linux server environment</li><li>Ability to independently debug problems involving the network and operating system</li><li>Leadership in defining technical requirements and drive projects through to completion</li><li>Assume technical responsibility of complex backend systems, identify opportunities for system improvement</li><li>Act as technical leader, mentor junior engineers and ensure best practices are adhered to</li><li>Be familiar with deployment using Docker</li><li>Have experience with system languages (C, C++, Go) and/or strongly typed programming (OCaml, Haskell, Rust)</li><li>Be knowledgeable about distributed systems and technologies (gRPC, Kafka, NoSQL, SQL, Redis, ...)</li><li>Be passionate about secure, reliable and fast software</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Location Tagging: #EU #LI-Remote #EMEA #APAC</div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/0b881234-b831-4d47-b221-ac1318787827/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -579,54 +603,6 @@
 <p>#LI-remote</p>
 <p>#stack</p><p>Requisition ID: 545</p><p></p>
     
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1382655628523364355/MWPIbbID_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CoverGo</h5>
-                    <h3>Senior Backend Engineer .Net (Fully Remote)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/covergo/j/848A82D1BE" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Top 3 Reasons To Join Us</strong></p><ul> <li>Competitive Salary</li> <li>100% Remote</li> <li>Working on the latest tech for the Insurtech Market Leader</li> </ul><p><strong>About Us</strong></p><p>At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.</p><ul> <li>We are a leading global no-code insurance platform for health, life, and P&amp;C</li> <li>We’re the winner of the Insurtech of the Year in all of Asia and other awards globally</li> <li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more</li> <li>We're an international, diverse team of over 120 people with 30 nationalities and team members working remotely from all over the world</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors</li> <li>We have offices in the US, Singapore, Hong Kong, UAE and Vietnam</li> <li>We’ve grown our annualized revenue by over 30x since January 2021</li> <li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world</li> </ul><p><strong>About the Role</strong></p><p>.Net Backend engineering is the heart of our technical excellence. We are looking for people who are able to analyze complex insurance domains and build high-quality API and microservices in cross-functional product and project teams.</p><p>CoverGo is a Kubernetes-native platform that consists of around twenty microservices exposed via a GraphQL gateway (<a target="_blank" href="https://api.covergo.com/playground" rel="nofollow noreferrer noopener" class="external">https://api.covergo.com/playground</a>), based on .net 6.</p><p><strong>What You Will Do</strong><br></p><ul> <li>Help us build, grow and maintain our services</li> <li>Apply your skills to develop robust and scalable software</li> </ul><p>You'll be successful in this role if:</p><ul> <li>You are a hands-on engineer, and you love what you do</li> <li>You are a quick learner and excited about learning new technologies</li> <li>You are passionate about automated testing, code quality and engineering best practices</li> <li>You advocate software craftsmanship and take pride in your work</li> <li>You enjoy collaborating with engineers across functional teams and have excellent communication skills</li> <li>You enjoy taking full ownership of projects from conception to production</li> </ul><p><strong>What We Need</strong><br></p><ul> <li>Experience in Event sourcing, CQRS, and DDD (Domain Driven Design)</li> <li>Excellent understanding of .NET Core and C#</li> <li>Experience with Docker</li> <li>Familiarity with microservices using GraphQL</li> <li>Experience with database technologies like MongoDB, PostgreSQL</li> <li>Intensive TDD practice</li> </ul><p>It'll be nice if you have some experience in areas:</p><ul> <li>Event Storming or Event Modeling</li> <li>SpecFlow and BDD</li> <li>GitHub Actions</li> <li>Cloud Computing platforms: Amazon AWS, Microsoft Azure, Google Cloud, Alibaba etc.</li> <li>MS/BS in Computer Science or a related degree</li> <li>Insurance and fintech experience</li> <li>Read and understood books from Vaughn Vernon, Eric Evans, Martin Fowler</li> <li>Kubernetes</li> <li>GitOps</li> </ul><p><strong>Why You'll Love Working Here</strong></p><ul> <li>Salary: Up to 6,000 USD/Month</li> <li>Fully remote employment. Work from anywhere and/or from one of our physical offices in Vietnam, Singapore or Hong Kong occasionally.</li> <li>Paid annual leave.</li> <li>Employee stock options</li> <li>Company Performance Bonus</li> <li>Company activities &amp; Team offsites</li> <li>Training and Development Plan</li> </ul><p><strong>Covergo Company <a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external">Video</a></strong></p><h3>Requirements: </h3><h3>Benefits: </h3>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1382655628523364355/MWPIbbID_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CoverGo</h5>
-                    <h3>Senior Backend Engineer .Net (Fully Remote)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/covergo/j/9CB02F1290" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Top 3 Reasons To Join Us</strong></p><ul> <li>Competitive Salary</li> <li>100% Remote</li> <li>Working on the latest tech for the Insurtech Market Leader</li> </ul><p><strong>About Us</strong></p><p>At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.</p><ul> <li>We are a leading global no-code insurance platform for health, life, and P&amp;C</li> <li>We’re the winner of the Insurtech of the Year in all of Asia and other awards globally</li> <li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more</li> <li>We're an international, diverse team of over 120 people with 30 nationalities and team members working remotely from all over the world</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors</li> <li>We have offices in the US, Singapore, Hong Kong, UAE and Vietnam</li> <li>We’ve grown our annualized revenue by over 30x since January 2021</li> <li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world</li> </ul><p><strong>About the Role</strong></p><p>.Net Backend engineering is the heart of our technical excellence. We are looking for people who are able to analyze complex insurance domains and build high-quality API and microservices in cross-functional product and project teams.</p><p>CoverGo is a Kubernetes-native platform that consists of around twenty microservices exposed via a GraphQL gateway (<a href="https://api.covergo.com/playground" target="_blank" rel="nofollow noreferrer noopener" class="external">https://api.covergo.com/playground</a>), based on .net 6.</p><p><strong>What You Will Do</strong><br></p><ul> <li>Help us build, grow and maintain our services</li> <li>Apply your skills to develop robust and scalable software</li> </ul><p><strong>You'll be successful in this role if:</strong></p><ul> <li>You are a hands-on engineer, and you love what you do</li> <li>You are a quick learner and excited about learning new technologies</li> <li>You are passionate about automated testing, code quality and engineering best practices</li> <li>You advocate software craftsmanship and take pride in your work</li> <li>You enjoy collaborating with engineers across functional teams and have excellent communication skills</li> <li>You enjoy taking full ownership of projects from conception to production</li> </ul><p><strong>What We Need</strong><br></p><ul> <li>Experience in Event sourcing, CQRS, and DDD (Domain Driven Design)</li> <li>Excellent understanding of .NET Core and C#</li> <li>Experience with Docker</li> <li>Familiarity with microservices using GraphQL</li> <li>Experience with database technologies like MongoDB, PostgreSQL</li> <li>Intensive TDD practice</li> </ul><p><strong>It'll be nice if you have some experience in areas:</strong></p><ul> <li>Event Storming or Event Modeling</li> <li>SpecFlow and BDD</li> <li>GitHub Actions</li> <li>Cloud Computing platforms: Amazon AWS, Microsoft Azure, Google Cloud, Alibaba etc.</li> <li>MS/BS in Computer Science or a related degree</li> <li>Insurance and fintech experience</li> <li>Read and understood books from Vaughn Vernon, Eric Evans, Martin Fowler</li> <li>Kubernetes</li> <li>GitOps</li> </ul><p><strong>Why You'll Love Working Here</strong></p><ul> <li>Salary: Up to 6,000 USD/Month</li> <li>Fully remote employment. Work from anywhere and/or from one of our physical offices in Vietnam, Singapore or Hong Kong occasionally.</li> <li>Paid annual leave.</li> <li>Employee stock options</li> <li>Company Performance Bonus</li> <li>Company activities &amp; Team offsites</li> <li>Training and Development Plan</li> </ul><p><strong>Covergo Company </strong><a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"><strong>Video</strong></a></p><h3>Requirements: </h3><h3>Benefits: </h3>
                 </details>
                 </td>
             </tr>,<tr>
@@ -947,7 +923,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/remotecom/jobs/5680257003" align="right" target="_blank">Apply</a>
+                <a href="https://boards.greenhouse.io/remotecom/jobs/5680270003" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -1135,7 +1111,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/remotecom/jobs/5680270003" align="right" target="_blank">Apply</a>
+                <a href="https://boards.greenhouse.io/remotecom/jobs/5680261003" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -1229,7 +1205,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/remotecom/jobs/5680261003" align="right" target="_blank">Apply</a>
+                <a href="https://boards.greenhouse.io/remotecom/jobs/5680257003" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
