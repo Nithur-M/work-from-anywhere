@@ -1,5 +1,129 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1651226564728700928/h0tz5UT1_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Supabase</h5>
+                    <h3>Technical Documentation Lead (Frontend Engineer)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/supabase/jobs/4965064004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p><img src="https://pbs.twimg.com/media/FIdU8GJWQAUGWRA?format=jpg&amp;name=small" alt="Join Supabase" width="680" height="453"></p></div>
+
+    <p>Supabase is an Open Source and fully remote company building developer tools for hundreds of thousands of indie developers, startups, and businesses.</p>
+<p>We’re seeking a Technical Documentation Lead to build our <a href="https://supabase.com/docs">documentation</a>. Emphasis on <em>building</em>, where you will also work with various teams to help them document their products.</p>
+<p>We believe that documentation is more than just a tool. It’s part of our product. The documentation is where developers take their first step on their side project.</p>
+<p>We know our docs need a lot of work, and that’s why we need you. If you have ideas for what the best docs in the world would look like, we want you to join us and make that happen.</p>
+<h2>Who we need:</h2>
+<ul>
+<li>Key Criteria
+<ul>
+<li><strong>Frontend skills:</strong> you must be proficient in Next.js/React. The site is under heavy development, and it will be your task to maintain the docs and create new features.</li>
+<li><strong>Supabase experience:</strong> you need to know about the Supabase products and benefits better than anyone, so that you can clearly articulate them to developers.</li>
+<li><strong>Writing/Editing ability:</strong> You write concisely. We like short sentences. We don’t like fluff. You’re not required to write <em>all</em> the docs, but you will be the final checkpoint before they get merged into production.<br><br></li>
+</ul>
+</li>
+<li>Important Criteria
+<ul>
+<li><strong>Previous experience with docs:</strong> You know how to structure docs. Have an understanding that your structure is to help search engines find things as well as humans. You understand the communication level of docs. Guides vs Reference Level. Understand how to and when to link to other parts of the docs.</li>
+<li><strong>Product Management experience:</strong> in this role you will be a bit of a “docs enforcer”, cajoling the Supabase teams to write docs as part of their product development. It’s not done until it’s documented, and it’s your job to make that happen.</li>
+<li><strong>Writing experience:</strong> the more experience you’ve had with writing the better your writing is going to be.</li>
+<li><strong>DevRel experience:</strong> The goal of documentation is to give developers the best experience possible.</li>
+<li><strong><span class="notion-enable-hover" data-token-index="0">Community facilitator:</span></strong> You’ll be facilitating and managing GitHub issues and PR’s from open source community members<br><br></li>
+</ul>
+</li>
+<li>General mindset
+<ul>
+<li>You love developer tools. That’s the content you’ll be writing about every day.</li>
+<li>You are collaborative. You’ll be working with basically everyone in the company.</li>
+</ul>
+</li>
+</ul>
+<h2>Who we don’t need</h2>
+<ul>
+<li>A manager. You won’t need to manage a team of people to write docs. You will be the developer, editor, and the owner of documentation as a product.</li>
+<li>A designer. You won’t need to come up with icons and font-selections. If you can pencil an idea onto paper, we’ll turn it into something cool.</li>
+</ul>
+<h2>Some skills that will be useful</h2>
+<ul>
+<li>Knowledge of SQL and databases (specifically databases).</li>
+<li>Know how to create images or videos/gifs. We love visual docs (and generally anything to write less words).</li>
+<li>Understanding of SEO</li>
+</ul>
+<h2>We offer</h2>
+<ul>
+<li>
+<p>100% remote work from anywhere in the world. No location-based adjustment to your salary.&nbsp;</p>
+</li>
+<li>
+<p>Autonomous work. We work collaboratively on projects, but you set your own pace.</p>
+</li>
+<li>
+<p>Health, Vision and Dental benefits. Supabase covers 100% of the cost for employees and 80% for dependants</p>
+</li>
+<li>
+<p>Generous Tech Allowance for any office setup you need</p>
+</li>
+<li>
+<p>Annual Education Allowance</p>
+</li>
+<li>
+<p>Annually run off-sites.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+
+    
+
+    <div class="content-conclusion"><h3>BUILD IN A WEEKEND. SCALE TO BILLIONS</h3>
+<p>Supabase adds auth, realtime, and restful APIs to Postgres without a single line of code.</p>
+<p>Each project within Supabase is an isolated&nbsp;Postgres cluster, allowing customers to scale independently, while still providing the features that you need to build: instant database setup, auth, row level security, realtime data streams, auto-generating APIs, and a simple to use web interface.</p>
+<p>We are a fully remote company.</p>
+<p>Key Tech: Javascript, Typescript, Go, Elixir, PostgREST (haskell), Postgres, Pulumi.</p>
+<h3><a id="about-the-team" class="anchor"></a>About the team</h3>
+<ul>
+<li>We're a startup. It's unstructured.</li>
+<li>Collectively founded more than a dozen venture-backed companies.</li>
+<li>More than 10 different nationalities.</li>
+<li>We deeply believe in <a href="https://supabase.com/blog/2022/03/25/should-i-open-source-my-company" target="_blank">the efficacy of collaborative open source</a>. We support existing communities and tools, rather than building "yet another xx".</li>
+<li>We "dogfood" everything. If you use it in your project, we use it in Supabase.</li>
+</ul>
+<h2><a id="process" class="anchor"></a>Process</h2>
+<ul>
+<li>The entire process is fully remote and all communication will happen over email or via video chat.</li>
+<li>Once you've submitted your application, the team will review your submission, and may reach out for a short screening interview over video call.</li>
+<li>If you pass the screen you will be invited to up to four follow up interviews. The calls:
+<ul>
+<li>usually take between 20-45 minutes each depending on the interviewer.</li>
+<li>are all 1:1.</li>
+<li>will be with both founders, a member of either the growth or engineering team (depending on the role), and usually one other person from your immediate team or function.</li>
+</ul>
+</li>
+<li>Once the interviews are over, the team will meet to discuss several roles and candidates and may:
+<ul>
+<li>ask one or two follow-up questions over email or a quick call.</li>
+<li>go directly to making an offer.</li>
+</ul>
+</li>
+</ul>
+<h2>&nbsp;</h2></div>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
                 </td>
                 <td width="300">
