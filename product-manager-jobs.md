@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/covergo-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -90,80 +90,6 @@
 </div>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/covergo-senior-product-manager">https://weworkremotely.com/remote-jobs/covergo-senior-product-manager</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/7274/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Toggl</h5>
-                    <h3> Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>Product</code>
-                </td>
-                <td width="200">
-                <text>20 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/toggl-product-manager-3" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/7274/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Tallinn, Estonia
-    <br /><strong>URL:</strong> <a href="https://toggl.com/jobs/">https://toggl.com/jobs/</a>
-</p>
-
-<div>
-<br>We are looking for a dedicated and passionate Product Manager who knows what it takes to scale-up a product used by millions of users all around the world.<br><br>
-</div><div>
-<br>The salary for this position is <strong>€55,000</strong> annually and we are committed to reviewing salaries every year based on company and individual performance.<br><br>
-</div><div>
-<br>You can work <strong>from anywhere in the world as long as your main location has ~4 hours overlap with the UTC+3 time zone.<br></strong><br>
-</div><div>
-<strong><br>About the Team<br></strong><br>
-</div><div>We are a global team of 130+ awesome people working from over 40 countries around the globe. We hire globally, you work locally - in the heart of London, a beach outside of São Paulo, or a quiet village near Florence, the choice is yours. Every few months we travel to meet up somewhere in the world and spend some quality time together. We place a huge amount of trust in our people, and we measure the outcomes rather than the work itself. Our values fuel our results.<br><br>
-</div><div>
-<strong><br>The Role<br></strong><br>
-</div><div>As a Product Manager in Toggl, you will play a critical role in one of the cross-functional teams within Toggl Track.</div><div>
-<br>Your main responsibilities will be:</div><ul>
-<li>Conducting user research, collecting and analyzing data, and deriving insights to inform product decisions and iterations</li>
-<li>Translating customer needs and business requirements into clear and actionable user stories, product specifications, and wireframes</li>
-<li>Working with developers and designers in the cross-functional team on conceptualizing your findings into deliverable iterations</li>
-<li>Building and prioritizing the roadmap of a particular area of Toggl Track that you will be responsible for</li>
-<li>Staying up-to-date with industry trends and competitor offerings</li>
-</ul><div>
-<strong><br>About You<br></strong><br>
-</div><div>You will fit in well with our team if you:</div><ul>
-<li>You have hands on agile experience with building SaaS products</li>
-<li>You are a good team player, cooperative and can resolve potential conflicts productively</li>
-<li>You have a healthy obsession with user journeys, product design and development</li>
-<li>You are data-informed, have experience in setting up metrics to forecast and measure the impact of released features</li>
-<li>You enjoy experimentation, know how to iterate quickly, knowing when to go deep with user research or A/B testing and when to rely on your product sense</li>
-<li>You love collaborating with people from all disciplines, always try to look at the big picture and want to take ownership of your work</li>
-<li>You are flexible, proactive and speak up when you see something wrong</li>
-<li>You like transparency, openness, and asking questions, with excellent written and verbal English communication skills</li>
-</ul><div><strong><br>Benefits</strong></div><ul>
-<li>Freedom to choose when and how much you work - we only measure results</li>
-<li>24 days of paid time off a year, plus your local holidays</li>
-<li>In-person meetups for team-building (expenses covered)</li>
-<li>4-6 weeks paid sabbatical (depending on the tenure)</li>
-<li>Laptop budget up to €2,500 and it renews every 3 years</li>
-<li>€2,000 budget to set up your home office, and additional €300 every year after 3 years of tenure</li>
-<li>€250 per month for co-working space membership and/or internet service at home</li>
-<li>€4,000 per year contribution to use for training, workshops, and conferences</li>
-<li>€2,000 per year contribution for any equipment or services to improve and/or maintain your physical and mental health</li>
-<li>Support for buying tools you need for doing your best work (even eyeglasses if you need a new pair)</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toggl-product-manager-3">https://weworkremotely.com/remote-jobs/toggl-product-manager-3</a></p>
 
                 </details>
                 </td>
@@ -484,6 +410,95 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
+                    <h3>Product Manager - L2 Blockchain effort</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=5329292&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <div class="careers-block__trix external-panel text-left">
+<div><strong>The role</strong></div>
+<div>
+<p>Creating the Status’ L2 App Chain will involve coordinating work with multiple internal Status and Logos teams, as well as forming partnerships and coordinating work with many external 3rd party orgs. You will be responsible for delivery timelines and budget.</p>
+To launch this new L2 blockchain in a reasonable timeframe, Status will be forming a deep partnership with an existing L2 rollup project.&nbsp; Status’s Nimbus team will adapt and contribute Nimbus products for use in context of this L2 rollup stack as part of this partnership.&nbsp; DevOps will be handled by Status’s Infra team. Partnerships to support this new L2 blockchain will need to be formed with bridges, RPC endpoint providers, blockchain explorers, fiat to crypto gateways, etc.. to name some 3rd party infrastructure that will need to be in place prior to launch.<br>
+<p>The successful candidate will have good business and project management acumen, and will be comfortable and at home discussing all the aspects of Ethereum compatible L2 blockchains with everybody from core client developers to 3rd party infrastructure providers to the marketing team and Status’ community.</p>
+This is a rare opportunity to own and lead the creation, launch and subsequent growth of a new L2 rollup blockchain.&nbsp; If this sounds exciting to you, is something you would love to do then please get in touch!<br><br><strong>Key responsibilities</strong><br>
+<ul>
+<li>Plan and then lead the delivery of a new L2 blockchain, including consideration of timelines, risks and budget&nbsp;</li>
+<li>Assist with setting up and then managing strategic relationships with 3rd party infrastructure partners like RPC endpoint providers, bridges, fiat to crypto gateways, block explorers, etc…</li>
+<li>Collaborate with internal teams to coordinate their contributions needed for this product e.g. Adaption of Nimbus client software to support Status Chain, work with Infra team to help coordinate all infrastructure setup, and work with Status client teams on app integration.</li>
+<li>Drive the comms and marketing of Status’ L2 App Chain with assistance from the Logos Comms and Marketing team and the Status Design team</li>
+<li>Successfully launch Status’ new L2 App Chain, and then sustain the chain while focusing on growing it’s adoption.&nbsp;&nbsp;&nbsp;</li>
+</ul>
+<strong>You ideally will have</strong><br>
+<ul>
+<li>Extensive experience in, and passion for, blockchain technology.</li>
+<li>A strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></li>
+<li>Have performed a similar role previously, or held similar responsibilities to some (but not necessarily all) of the ‘Key responsibilities’ listed above.&nbsp;</li>
+<li>You are a natural coordinator, and love collaborating and communicating with other teams and people.</li>
+<li>A strong understanding of all aspects of how blockchains work.</li>
+</ul>
+<strong>Bonus points if</strong><br>
+<ul>
+<li>Comfortable working remotely and asynchronously</li>
+<li>A passion for the Ethereum ecosystem and community</li>
+<li>Experience working for an open source organization.&nbsp;&nbsp;</li>
+</ul>
+<p>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</p>
+<p><strong>Compensation</strong></p>
+<p>We are happy to pay in any mix of fiat/crypto (negotiable, dependent on how we assess your skills and experience throughout our interview process.&nbsp;</p>
+<p><strong>Hiring process&nbsp;</strong></p>
+The hiring process for this role will be:
+<ol>
+<li>Interview with Pepper from our Talent team</li>
+<li>Interview with John, Product Strategy Lead</li>
+<li>Interview with Kaushal, Business Development</li>
+<li>Interview with Iuri, Desktop Team Lead</li>
+<li>Interview with Zahary, Nim Development Lead</li>
+</ol>
+The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline.&nbsp;<br>
+<p><strong>Get to know us</strong></p>
+<p>Status is looking to hire a key individual to lead Status’ new L2 App Chain product.&nbsp; In this role you will hold end-to-end responsibility for all aspects of Status’ L2 App Chain; from elaborating the initial concept into a comprehensive product proposal and project plan, to ensuring the execution of all tasks needed to create and launch this new L2 blockchain, and then leading adoption growth and subsequent enhancements post-launch.</p>
+We care deeply about open source software, and our organizational structure does away with a strict hierarchy and fixed work hours. We believe in working with a high degree of autonomy while supporting the organisation's priorities.
+<ul>
+<li>We are Remote and Decentralized.</li>
+<li>We are 150+ employees spread across 30+ different countries</li>
+</ul>
+We are driven by shared <a href="https://our.status.im/our-principles/">principles</a> and believe in complete transparency. That's why everything we do is completely public to the entire community.</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+
+    
+
+    
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1592609773958025216/CaG1yAqK_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -573,6 +588,586 @@
 &lt;li&gt;Interview with team members (no managers present)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.notion.so/Veremark-Remote-96e108c037b8423cbd4c3f07a1f9b38b&quot;&gt;Prior employment verification check&lt;/a&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&amp;nbsp;#LI-DNI&lt;/span&gt;&lt;/li&gt;
 &lt;/ol&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/h2&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;Our full benefits &amp;amp; perks are explained in our handbook at&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;http://remote.com/r/benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://remote.com/r/benefits&quot; data-sk=&quot;tooltip_parent&quot;&gt;remote.com/r/benefits&lt;/a&gt;. As a global company, each country works differently, but some benefits/perks are for all Remoters:&lt;/div&gt;
+&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;work from anywhere&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;unlimited personal time off (minimum 4 weeks)&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;quarterly company-wide day off for self care&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;flexible working hours (we are&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.notion.so/remotecom/Working-Async-at-Remote-80c01cd443ad4c77a8ceaef7c5fba5d0&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.notion.so/remotecom/Working-Async-at-Remote-80c01cd443ad4c77a8ceaef7c5fba5d0&quot; data-sk=&quot;tooltip_parent&quot;&gt;async&lt;/a&gt;)&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;16 weeks paid parental leave&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;mental health support services&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;stock options&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;learning budget&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;home office budget &amp;amp; IT equipment&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;budget for local in-person social events or co-working spaces&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h2&gt;&lt;strong&gt;How you’ll plan your day (and life)&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;We work async at Remote which means you can plan your schedule around your life (and not around meetings). Read more at &lt;a href=&quot;http://www.remote.com/async&quot;&gt;remote.com/async&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You will be empowered to take ownership and be proactive. When in doubt you will default to action instead of waiting. Your &lt;strong&gt;life-work balance&lt;/strong&gt; is important and you will be encouraged to put yourself and your family first, and fit work around your needs.&lt;/p&gt;
+&lt;p&gt;If that sounds like something you want, apply now!&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;How to apply&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Please fill out the form below and upload your CV with a PDF format.&lt;/li&gt;
+&lt;li&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;We kindly ask you to submit your application and CV in English, as this is the standardised language we use here at Remote.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;If you don’t have an up to date CV but you are still interested in talking to us, please feel free to add a copy of your LinkedIn profile instead.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We will ask you to voluntarily tell us your pronouns at interview stage, and you will have the option to answer our anonymous demographic questionnaire when you apply below. As an equal employment opportunity employer it’s important to us that our workforce reflects people of all backgrounds, identities, and experiences and this data will help us to stay accountable. We thank you for providing this data, if you chose to.&lt;/p&gt;
+&lt;p&gt;Need help? Email&amp;nbsp;&lt;a class=&quot;c-link&quot; style=&quot;color: rgba(var(--sk_highlight,18,100,163),1); text-decoration: none;&quot; href=&quot;mailto:hiring@remote.com&quot; target=&quot;_blank&quot; data-stringify-link=&quot;mailto:hiring@remote.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;hiring@remote.com&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://d21buns5ku92am.cloudfront.net/69529/images/420204-RemoteMark_purple-da25a3-original-1646241858.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Remote</h5>
+                    <h3>Product Manager, Payroll Engine</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/remotecom/jobs/5681038003" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Remote&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Remote is solving global remote organizations’ biggest challenge: employing anyone anywhere compliantly. We make it possible for businesses big and small to employ a global team by handling global payroll, benefits, taxes, and compliance. Check out &lt;a href=&quot;http://remote.com/how-it-works&quot;&gt;remote.com/how-it-works&lt;/a&gt; to learn more or if you’re interested in adding to the mission, scroll down to apply now.&lt;/p&gt;
+&lt;p&gt;Please take a look at &lt;strong&gt;&lt;a href=&quot;http://remote.com/handbook&quot;&gt;remote.com/handbook&lt;/a&gt;&lt;/strong&gt; to learn more about our culture and what it is like to work here. &lt;strong&gt;Not only do we encourage folks from all ethnic groups, genders, sexuality, age and abilities to apply, but we prioritize a sense of &lt;a href=&quot;https://www.notion.so/people-Belonging-Diversity-Equity-Inclusion-DEI-4990e36a7d7b4d52a78ca3efb23d718b&quot;&gt;belonging&lt;/a&gt;.&lt;/strong&gt; You can check out independent reviews by other candidates on &lt;a href=&quot;https://www.glassdoor.com/Overview/Working-at-Remote-EI_IE3871683.11,17.htm&quot;&gt;Glassdoor&lt;/a&gt; or look up the &lt;a href=&quot;https://www.notion.so/people-Candidate-Experience-Surveys-17d595a88b7548148593792a8072235f&quot;&gt;results of our candidate surveys&lt;/a&gt; to see how others feel about working and interviewing here.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;All of our positions are fully remote. You do not have to relocate to join us!&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;About Remote:&lt;/h1&gt;
+&lt;p&gt;Remote is solving a huge challenge for global organizations: compliantly employing anyone, anywhere. We make it possible for businesses to employ a global team by handling global payroll, benefits, taxes, and compliance (learn more about &lt;a href=&quot;https://remote.com/how-it-works&quot;&gt;how it works&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;We&#39;re backed by A+ investors and our team is world-class, literally and figuratively - we&#39;re scattered around the world working together within a culture of kindness and excellence.&lt;/p&gt;
+&lt;p&gt;Please check out our&amp;nbsp;public &lt;a href=&quot;https://www.notion.so/a3439c6ccaac4d5f8c7515c357345c11?pvs=21&quot;&gt;handbook&lt;/a&gt;&amp;nbsp;to learn more about our culture.&amp;nbsp;&lt;strong&gt;We encourage folks from all ethnic groups, genders, sexuality, age and abilities to apply.&lt;/strong&gt; If this job description resonates with you, we want to hear from you!&lt;/p&gt;
+&lt;h2&gt;The Challenge&lt;/h2&gt;
+&lt;p&gt;Remote aims to provide customers with instant payroll calculations for their employees. Our goal is to create an experience where a customer can add a payment, click a button, and immediately view and schedule the payment.&lt;/p&gt;
+&lt;p&gt;In many countries, third-party payroll software is simply not available thats support the level of integration required to provide customers with a real-time payroll experience. To make this possible, we plan to build our own API-first in-house payroll engines.&lt;/p&gt;
+&lt;h2&gt;How we work&lt;/h2&gt;
+&lt;p&gt;We love &lt;a href=&quot;https://www.notion.so/80c01cd443ad4c77a8ceaef7c5fba5d0?pvs=21&quot;&gt;working async&lt;/a&gt;. This means you get to minimize meetings and create your own schedule based on when you&#39;re able to do your best work.We empower ownership, proactivity, and default to action. We operate based on treating each other with kindness and support each other as a team.&lt;/p&gt;
+&lt;h1&gt;The position&lt;/h1&gt;
+&lt;p&gt;This is an exciting time to join Remote and make a personal difference in the global employment space as our&amp;nbsp;&lt;strong&gt;Product Manager for Payroll Engines&lt;/strong&gt;. You&#39;ll have a massive impact on our organisation and help create opportunities for millions of people around the world. This is a unique position where you&#39;ll be expected to start up a team, set a mission for your team and topic, work with contractors and internal experts to drive the mission forward autonomously, and deliver on our strategic goal to build an API-first payroll engines in our biggest markets.&lt;/p&gt;
+&lt;h2&gt;What you bring&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience as a product manager working on payroll systems and services in a multi-product, high-growth scale-up company preferably with country-specific expertise. (Country: UK, EMEA, US)&lt;/li&gt;
+&lt;li&gt;Experience building API products and integrating complex 3rd party systems. Bonus points for payroll APIs and integrations&lt;/li&gt;
+&lt;li&gt;Passionate about well-designed products that just work including API products with an amazing developer experience&lt;/li&gt;
+&lt;li&gt;Strong understanding of end-to-end payroll processes and HR functions. Hands-on experience with payroll software and systems is preferred&lt;/li&gt;
+&lt;li&gt;High proficiency in data manipulation (eg sql, excel, sheets)&lt;/li&gt;
+&lt;li&gt;Great judgment-making strategic (what to prioritize) and tactical (feature scope) decisions&lt;/li&gt;
+&lt;li&gt;Data-driven product manager with experience setting and tracking goals to achieve results&lt;/li&gt;
+&lt;li&gt;Outstanding communication and collaboration skills, including across different departments (e.g. operations, business, sales, finance, etc.) to ensure that we are satisfying critical customer, business and operational requirements&lt;/li&gt;
+&lt;li&gt;Business-level proficiency writing and speaking English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What this job can offer you&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Opportunity to build the future of payroll with senior product leaders at Remote
+&lt;ul&gt;
+&lt;li&gt;Lead efforts across engineering, design, and operations to launch high-impact projects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Ship iterative improvements in a new area of the product
+&lt;ul&gt;
+&lt;li&gt;Work together with engineers and designers to build elegant solutions to complex problems&lt;/li&gt;
+&lt;li&gt;Shape and deliver improvements in a focused area of our product&lt;/li&gt;
+&lt;li&gt;Help advance key KPIs related to your team’s goals&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Communicate and collaborate internally and externally
+&lt;ul&gt;
+&lt;li&gt;Collaborate with partner teams (e.g. operations) to connect your team’s roadmap to stakeholder needs&lt;/li&gt;
+&lt;li&gt;Lead by example on asynchronous workflows and transparency.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Application process&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Interview with recruiter&lt;/li&gt;
+&lt;li&gt;Interview with hiring manager&lt;/li&gt;
+&lt;li&gt;Async Product Deep Dive&lt;/li&gt;
+&lt;li&gt;Interview with internal stakeholders&lt;/li&gt;
+&lt;li&gt;Interview with Director of Product &amp;amp; VP Payroll&lt;/li&gt;
+&lt;li&gt;Offer (shared async)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.notion.so/Veremark-Remote-96e108c037b8423cbd4c3f07a1f9b38b&quot;&gt;Prior employment verification check&lt;/a&gt; (Read more at &lt;a href=&quot;http://remote.com/employment-checks&quot;&gt;remote.com/employment-checks&lt;/a&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;&lt;strong&gt;Practicals&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;You&#39;ll report to:&lt;/strong&gt; Product Director&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Direct reports:&lt;/strong&gt; None. This is an individual contributor position.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Team:&lt;/strong&gt; Product&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Location&lt;/strong&gt;: We are location agnostic. However we would like to prioritise candidates in the EMEA region due to the payroll experience required for the position&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Start date:&lt;/strong&gt; As soon as possible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;Remote Compensation Philosophy&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Remote&#39;s Total Rewards philosophy is to ensure fair, unbiased compensation and fair &lt;a class=&quot;discussion-level-1 discussion-id-f2a82bc4-09e4-4a71-ad93-755b1d26a690 notion-link-token notion-enable-hover&quot; href=&quot;../../1945bce8d3924ece9421ba8630f57b0c#ddcf8273f3784526ae24532c9df9a7d2&quot; target=&quot;_blank&quot; data-token-index=&quot;2&quot;&gt;&lt;span class=&quot;link-annotation-unknown-block-id-1691622878&quot;&gt;equity&lt;/span&gt;&lt;/a&gt;&lt;span class=&quot;discussion-level-1 discussion-id-f2a82bc4-09e4-4a71-ad93-755b1d26a690 notion-enable-hover&quot; data-token-index=&quot;3&quot;&gt; pay &lt;/span&gt;along with competitive benefits in all locations in which we operate. We do not agree to or encourage cheap-labor practices and therefore we ensure to pay above in-location rates. We hope to inspire other companies to support global talent-hiring and bring local wealth to developing countries.&lt;/p&gt;
+&lt;p&gt;#LI-DNP&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/h2&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;Our full benefits &amp;amp; perks are explained in our handbook at&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;http://remote.com/r/benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://remote.com/r/benefits&quot; data-sk=&quot;tooltip_parent&quot;&gt;remote.com/r/benefits&lt;/a&gt;. As a global company, each country works differently, but some benefits/perks are for all Remoters:&lt;/div&gt;
+&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;work from anywhere&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;unlimited personal time off (minimum 4 weeks)&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;quarterly company-wide day off for self care&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;flexible working hours (we are&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.notion.so/remotecom/Working-Async-at-Remote-80c01cd443ad4c77a8ceaef7c5fba5d0&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.notion.so/remotecom/Working-Async-at-Remote-80c01cd443ad4c77a8ceaef7c5fba5d0&quot; data-sk=&quot;tooltip_parent&quot;&gt;async&lt;/a&gt;)&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;16 weeks paid parental leave&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;mental health support services&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;stock options&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;learning budget&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;home office budget &amp;amp; IT equipment&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;budget for local in-person social events or co-working spaces&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h2&gt;&lt;strong&gt;How you’ll plan your day (and life)&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;We work async at Remote which means you can plan your schedule around your life (and not around meetings). Read more at &lt;a href=&quot;http://www.remote.com/async&quot;&gt;remote.com/async&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You will be empowered to take ownership and be proactive. When in doubt you will default to action instead of waiting. Your &lt;strong&gt;life-work balance&lt;/strong&gt; is important and you will be encouraged to put yourself and your family first, and fit work around your needs.&lt;/p&gt;
+&lt;p&gt;If that sounds like something you want, apply now!&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;How to apply&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Please fill out the form below and upload your CV with a PDF format.&lt;/li&gt;
+&lt;li&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;We kindly ask you to submit your application and CV in English, as this is the standardised language we use here at Remote.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;If you don’t have an up to date CV but you are still interested in talking to us, please feel free to add a copy of your LinkedIn profile instead.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We will ask you to voluntarily tell us your pronouns at interview stage, and you will have the option to answer our anonymous demographic questionnaire when you apply below. As an equal employment opportunity employer it’s important to us that our workforce reflects people of all backgrounds, identities, and experiences and this data will help us to stay accountable. We thank you for providing this data, if you chose to.&lt;/p&gt;
+&lt;p&gt;Need help? Email&amp;nbsp;&lt;a class=&quot;c-link&quot; style=&quot;color: rgba(var(--sk_highlight,18,100,163),1); text-decoration: none;&quot; href=&quot;mailto:hiring@remote.com&quot; target=&quot;_blank&quot; data-stringify-link=&quot;mailto:hiring@remote.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;hiring@remote.com&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://d21buns5ku92am.cloudfront.net/69529/images/420204-RemoteMark_purple-da25a3-original-1646241858.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Remote</h5>
+                    <h3>Product Manager, Payroll Engine</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/remotecom/jobs/5730560003" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Remote&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Remote is solving global remote organizations’ biggest challenge: employing anyone anywhere compliantly. We make it possible for businesses big and small to employ a global team by handling global payroll, benefits, taxes, and compliance. Check out &lt;a href=&quot;http://remote.com/how-it-works&quot;&gt;remote.com/how-it-works&lt;/a&gt; to learn more or if you’re interested in adding to the mission, scroll down to apply now.&lt;/p&gt;
+&lt;p&gt;Please take a look at &lt;strong&gt;&lt;a href=&quot;http://remote.com/handbook&quot;&gt;remote.com/handbook&lt;/a&gt;&lt;/strong&gt; to learn more about our culture and what it is like to work here. &lt;strong&gt;Not only do we encourage folks from all ethnic groups, genders, sexuality, age and abilities to apply, but we prioritize a sense of &lt;a href=&quot;https://www.notion.so/people-Belonging-Diversity-Equity-Inclusion-DEI-4990e36a7d7b4d52a78ca3efb23d718b&quot;&gt;belonging&lt;/a&gt;.&lt;/strong&gt; You can check out independent reviews by other candidates on &lt;a href=&quot;https://www.glassdoor.com/Overview/Working-at-Remote-EI_IE3871683.11,17.htm&quot;&gt;Glassdoor&lt;/a&gt; or look up the &lt;a href=&quot;https://www.notion.so/people-Candidate-Experience-Surveys-17d595a88b7548148593792a8072235f&quot;&gt;results of our candidate surveys&lt;/a&gt; to see how others feel about working and interviewing here.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;All of our positions are fully remote. You do not have to relocate to join us!&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;About Remote:&lt;/h1&gt;
+&lt;p&gt;Remote is solving a huge challenge for global organizations: compliantly employing anyone, anywhere. We make it possible for businesses to employ a global team by handling global payroll, benefits, taxes, and compliance (learn more about &lt;a href=&quot;https://remote.com/how-it-works&quot;&gt;how it works&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;We&#39;re backed by A+ investors and our team is world-class, literally and figuratively - we&#39;re scattered around the world working together within a culture of kindness and excellence.&lt;/p&gt;
+&lt;p&gt;Please check out our&amp;nbsp;public &lt;a href=&quot;https://www.notion.so/a3439c6ccaac4d5f8c7515c357345c11?pvs=21&quot;&gt;handbook&lt;/a&gt;&amp;nbsp;to learn more about our culture.&amp;nbsp;&lt;strong&gt;We encourage folks from all ethnic groups, genders, sexuality, age and abilities to apply.&lt;/strong&gt; If this job description resonates with you, we want to hear from you!&lt;/p&gt;
+&lt;h2&gt;The Challenge&lt;/h2&gt;
+&lt;p&gt;Remote aims to provide customers with instant payroll calculations for their employees. Our goal is to create an experience where a customer can add a payment, click a button, and immediately view and schedule the payment.&lt;/p&gt;
+&lt;p&gt;In many countries, third-party payroll software is simply not available thats support the level of integration required to provide customers with a real-time payroll experience. To make this possible, we plan to build our own API-first in-house payroll engines.&lt;/p&gt;
+&lt;h2&gt;How we work&lt;/h2&gt;
+&lt;p&gt;We love &lt;a href=&quot;https://www.notion.so/80c01cd443ad4c77a8ceaef7c5fba5d0?pvs=21&quot;&gt;working async&lt;/a&gt;. This means you get to minimize meetings and create your own schedule based on when you&#39;re able to do your best work.We empower ownership, proactivity, and default to action. We operate based on treating each other with kindness and support each other as a team.&lt;/p&gt;
+&lt;h1&gt;The position&lt;/h1&gt;
+&lt;p&gt;This is an exciting time to join Remote and make a personal difference in the global employment space as our&amp;nbsp;&lt;strong&gt;Product Manager for Payroll Engines&lt;/strong&gt;. You&#39;ll have a massive impact on our organisation and help create opportunities for millions of people around the world. This is a unique position where you&#39;ll be expected to start up a team, set a mission for your team and topic, work with contractors and internal experts to drive the mission forward autonomously, and deliver on our strategic goal to build an API-first payroll engines in our biggest markets.&lt;/p&gt;
+&lt;h2&gt;What you bring&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience as a product manager working on payroll systems and services in a multi-product, high-growth scale-up company preferably with country-specific expertise. (Country: UK, EMEA, US)&lt;/li&gt;
+&lt;li&gt;Experience building API products and integrating complex 3rd party systems. Bonus points for payroll APIs and integrations&lt;/li&gt;
+&lt;li&gt;Passionate about well-designed products that just work including API products with an amazing developer experience&lt;/li&gt;
+&lt;li&gt;Strong understanding of end-to-end payroll processes and HR functions. Hands-on experience with payroll software and systems is preferred&lt;/li&gt;
+&lt;li&gt;High proficiency in data manipulation (eg sql, excel, sheets)&lt;/li&gt;
+&lt;li&gt;Great judgment-making strategic (what to prioritize) and tactical (feature scope) decisions&lt;/li&gt;
+&lt;li&gt;Data-driven product manager with experience setting and tracking goals to achieve results&lt;/li&gt;
+&lt;li&gt;Outstanding communication and collaboration skills, including across different departments (e.g. operations, business, sales, finance, etc.) to ensure that we are satisfying critical customer, business and operational requirements&lt;/li&gt;
+&lt;li&gt;Business-level proficiency writing and speaking English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What this job can offer you&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Opportunity to build the future of payroll with senior product leaders at Remote
+&lt;ul&gt;
+&lt;li&gt;Lead efforts across engineering, design, and operations to launch high-impact projects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Ship iterative improvements in a new area of the product
+&lt;ul&gt;
+&lt;li&gt;Work together with engineers and designers to build elegant solutions to complex problems&lt;/li&gt;
+&lt;li&gt;Shape and deliver improvements in a focused area of our product&lt;/li&gt;
+&lt;li&gt;Help advance key KPIs related to your team’s goals&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Communicate and collaborate internally and externally
+&lt;ul&gt;
+&lt;li&gt;Collaborate with partner teams (e.g. operations) to connect your team’s roadmap to stakeholder needs&lt;/li&gt;
+&lt;li&gt;Lead by example on asynchronous workflows and transparency.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Application process&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Interview with recruiter&lt;/li&gt;
+&lt;li&gt;Interview with hiring manager&lt;/li&gt;
+&lt;li&gt;Async Product Deep Dive&lt;/li&gt;
+&lt;li&gt;Interview with internal stakeholders&lt;/li&gt;
+&lt;li&gt;Interview with Director of Product &amp;amp; VP Payroll&lt;/li&gt;
+&lt;li&gt;Offer (shared async)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.notion.so/Veremark-Remote-96e108c037b8423cbd4c3f07a1f9b38b&quot;&gt;Prior employment verification check&lt;/a&gt; (Read more at &lt;a href=&quot;http://remote.com/employment-checks&quot;&gt;remote.com/employment-checks&lt;/a&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;&lt;strong&gt;Practicals&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;You&#39;ll report to:&lt;/strong&gt; Product Director&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Direct reports:&lt;/strong&gt; None. This is an individual contributor position.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Team:&lt;/strong&gt; Product&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Location&lt;/strong&gt;: We are location agnostic. However we would like to prioritise candidates in the EMEA region due to the payroll experience required for the position&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Start date:&lt;/strong&gt; As soon as possible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;Remote Compensation Philosophy&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Remote&#39;s Total Rewards philosophy is to ensure fair, unbiased compensation and fair &lt;a class=&quot;discussion-level-1 discussion-id-f2a82bc4-09e4-4a71-ad93-755b1d26a690 notion-link-token notion-enable-hover&quot; href=&quot;../../1945bce8d3924ece9421ba8630f57b0c#ddcf8273f3784526ae24532c9df9a7d2&quot; target=&quot;_blank&quot; data-token-index=&quot;2&quot;&gt;&lt;span class=&quot;link-annotation-unknown-block-id-1691622878&quot;&gt;equity&lt;/span&gt;&lt;/a&gt;&lt;span class=&quot;discussion-level-1 discussion-id-f2a82bc4-09e4-4a71-ad93-755b1d26a690 notion-enable-hover&quot; data-token-index=&quot;3&quot;&gt; pay &lt;/span&gt;along with competitive benefits in all locations in which we operate. We do not agree to or encourage cheap-labor practices and therefore we ensure to pay above in-location rates. We hope to inspire other companies to support global talent-hiring and bring local wealth to developing countries.&lt;/p&gt;
+&lt;p&gt;#LI-DNP&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/h2&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;Our full benefits &amp;amp; perks are explained in our handbook at&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;http://remote.com/r/benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://remote.com/r/benefits&quot; data-sk=&quot;tooltip_parent&quot;&gt;remote.com/r/benefits&lt;/a&gt;. As a global company, each country works differently, but some benefits/perks are for all Remoters:&lt;/div&gt;
+&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;work from anywhere&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;unlimited personal time off (minimum 4 weeks)&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;quarterly company-wide day off for self care&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;flexible working hours (we are&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.notion.so/remotecom/Working-Async-at-Remote-80c01cd443ad4c77a8ceaef7c5fba5d0&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.notion.so/remotecom/Working-Async-at-Remote-80c01cd443ad4c77a8ceaef7c5fba5d0&quot; data-sk=&quot;tooltip_parent&quot;&gt;async&lt;/a&gt;)&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;16 weeks paid parental leave&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;mental health support services&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;stock options&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;learning budget&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;home office budget &amp;amp; IT equipment&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;budget for local in-person social events or co-working spaces&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h2&gt;&lt;strong&gt;How you’ll plan your day (and life)&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;We work async at Remote which means you can plan your schedule around your life (and not around meetings). Read more at &lt;a href=&quot;http://www.remote.com/async&quot;&gt;remote.com/async&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You will be empowered to take ownership and be proactive. When in doubt you will default to action instead of waiting. Your &lt;strong&gt;life-work balance&lt;/strong&gt; is important and you will be encouraged to put yourself and your family first, and fit work around your needs.&lt;/p&gt;
+&lt;p&gt;If that sounds like something you want, apply now!&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;How to apply&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Please fill out the form below and upload your CV with a PDF format.&lt;/li&gt;
+&lt;li&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;We kindly ask you to submit your application and CV in English, as this is the standardised language we use here at Remote.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;If you don’t have an up to date CV but you are still interested in talking to us, please feel free to add a copy of your LinkedIn profile instead.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We will ask you to voluntarily tell us your pronouns at interview stage, and you will have the option to answer our anonymous demographic questionnaire when you apply below. As an equal employment opportunity employer it’s important to us that our workforce reflects people of all backgrounds, identities, and experiences and this data will help us to stay accountable. We thank you for providing this data, if you chose to.&lt;/p&gt;
+&lt;p&gt;Need help? Email&amp;nbsp;&lt;a class=&quot;c-link&quot; style=&quot;color: rgba(var(--sk_highlight,18,100,163),1); text-decoration: none;&quot; href=&quot;mailto:hiring@remote.com&quot; target=&quot;_blank&quot; data-stringify-link=&quot;mailto:hiring@remote.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;hiring@remote.com&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://d21buns5ku92am.cloudfront.net/69529/images/420204-RemoteMark_purple-da25a3-original-1646241858.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Remote</h5>
+                    <h3>Senior Product Manager, Payroll Engine</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/remotecom/jobs/5682313003" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Remote&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Remote is solving global remote organizations’ biggest challenge: employing anyone anywhere compliantly. We make it possible for businesses big and small to employ a global team by handling global payroll, benefits, taxes, and compliance. Check out &lt;a href=&quot;http://remote.com/how-it-works&quot;&gt;remote.com/how-it-works&lt;/a&gt; to learn more or if you’re interested in adding to the mission, scroll down to apply now.&lt;/p&gt;
+&lt;p&gt;Please take a look at &lt;strong&gt;&lt;a href=&quot;http://remote.com/handbook&quot;&gt;remote.com/handbook&lt;/a&gt;&lt;/strong&gt; to learn more about our culture and what it is like to work here. &lt;strong&gt;Not only do we encourage folks from all ethnic groups, genders, sexuality, age and abilities to apply, but we prioritize a sense of &lt;a href=&quot;https://www.notion.so/people-Belonging-Diversity-Equity-Inclusion-DEI-4990e36a7d7b4d52a78ca3efb23d718b&quot;&gt;belonging&lt;/a&gt;.&lt;/strong&gt; You can check out independent reviews by other candidates on &lt;a href=&quot;https://www.glassdoor.com/Overview/Working-at-Remote-EI_IE3871683.11,17.htm&quot;&gt;Glassdoor&lt;/a&gt; or look up the &lt;a href=&quot;https://www.notion.so/people-Candidate-Experience-Surveys-17d595a88b7548148593792a8072235f&quot;&gt;results of our candidate surveys&lt;/a&gt; to see how others feel about working and interviewing here.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;All of our positions are fully remote. You do not have to relocate to join us!&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;About Remote:&lt;/h1&gt;
+&lt;p&gt;Remote is solving a huge challenge for global organizations: compliantly employing anyone, anywhere. We make it possible for businesses to employ a global team by handling global payroll, benefits, taxes, and compliance (learn more about &lt;a href=&quot;https://remote.com/how-it-works&quot;&gt;how it works&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;We&#39;re backed by A+ investors and our team is world-class, literally and figuratively - we&#39;re scattered around the world working together within a culture of kindness and excellence.&lt;/p&gt;
+&lt;p&gt;Please check out our&amp;nbsp;public &lt;a href=&quot;https://www.notion.so/a3439c6ccaac4d5f8c7515c357345c11?pvs=21&quot;&gt;handbook&lt;/a&gt;&amp;nbsp;to learn more about our culture.&amp;nbsp;&lt;strong&gt;We encourage folks from all ethnic groups, genders, sexuality, age and abilities to apply.&lt;/strong&gt; If this job description resonates with you, we want to hear from you!&lt;/p&gt;
+&lt;h2&gt;The Challenge&lt;/h2&gt;
+&lt;p&gt;Remote aims to provide customers with instant payroll calculations for their employees. Our goal is to create an experience where a customer can add a payment, click a button, and immediately view and schedule the payment.&lt;/p&gt;
+&lt;p&gt;In many countries, third-party payroll software is simply not available thats support the level of integration required to provide customers with a real-time payroll experience. To make this possible, we plan to build our own API-first in-house payroll engines.&lt;/p&gt;
+&lt;h2&gt;How we work&lt;/h2&gt;
+&lt;p&gt;We love &lt;a href=&quot;https://www.notion.so/80c01cd443ad4c77a8ceaef7c5fba5d0?pvs=21&quot;&gt;working async&lt;/a&gt;. This means you get to minimize meetings and create your own schedule based on when you&#39;re able to do your best work.We empower ownership, proactivity, and default to action. We operate based on treating each other with kindness and support each other as a team.&lt;/p&gt;
+&lt;h1&gt;The position&lt;/h1&gt;
+&lt;p&gt;This is an exciting time to join Remote and make a personal difference in the global employment space as our &lt;strong&gt;Senior&lt;/strong&gt; &lt;strong&gt;Product Manager for Payroll Engines&lt;/strong&gt;. You&#39;ll have a massive impact on our organisation and help create opportunities for millions of people around the world. This is a unique position where you&#39;ll be expected to start up a team, set a mission for your team and topic, work with contractors and internal experts to drive the mission forward autonomously, and deliver on our strategic goal to build an API-first payroll engines in our biggest markets.&lt;/p&gt;
+&lt;h2&gt;What you bring&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience as a product manager working on payroll systems and services in a multi-product, high-growth scale-up company preferably with country-specific expertise. (Country: UK, EMEA, US)&lt;/li&gt;
+&lt;li&gt;Experience building API products and integrating complex 3rd party systems. Bonus points for payroll APIs and integrations&lt;/li&gt;
+&lt;li&gt;Passionate about well-designed products that just work including API products with an amazing developer experience&lt;/li&gt;
+&lt;li&gt;Strong understanding of end-to-end payroll processes and HR functions. Hands-on experience with payroll software and systems is preferred&lt;/li&gt;
+&lt;li&gt;High proficiency in data manipulation (eg sql, excel, sheets)&lt;/li&gt;
+&lt;li&gt;Great judgment-making strategic (what to prioritize) and tactical (feature scope) decisions&lt;/li&gt;
+&lt;li&gt;Data-driven product manager with experience setting and tracking goals to achieve results&lt;/li&gt;
+&lt;li&gt;Outstanding communication and collaboration skills, including across different departments (e.g. operations, business, sales, finance, etc.) to ensure that we are satisfying critical customer, business and operational requirements&lt;/li&gt;
+&lt;li&gt;Business-level proficiency writing and speaking English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What this job can offer you&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Opportunity to build the future of payroll with senior product leaders at Remote
+&lt;ul&gt;
+&lt;li&gt;Lead efforts across engineering, design, and operations to launch high-impact projects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Ship iterative improvements in a new area of the product
+&lt;ul&gt;
+&lt;li&gt;Work together with engineers and designers to build elegant solutions to complex problems&lt;/li&gt;
+&lt;li&gt;Shape and deliver improvements in a focused area of our product&lt;/li&gt;
+&lt;li&gt;Help advance key KPIs related to your team’s goals&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Communicate and collaborate internally and externally
+&lt;ul&gt;
+&lt;li&gt;Collaborate with partner teams (e.g. operations) to connect your team’s roadmap to stakeholder needs&lt;/li&gt;
+&lt;li&gt;Lead by example on asynchronous workflows and transparency.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Application process&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Interview with recruiter&lt;/li&gt;
+&lt;li&gt;Interview with hiring manager&lt;/li&gt;
+&lt;li&gt;Async Product Deep Dive&lt;/li&gt;
+&lt;li&gt;Interview with internal stakeholders&lt;/li&gt;
+&lt;li&gt;Interview with Director of Product &amp;amp; VP Payroll&lt;/li&gt;
+&lt;li&gt;Offer (shared async)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.notion.so/Veremark-Remote-96e108c037b8423cbd4c3f07a1f9b38b&quot;&gt;Prior employment verification check&lt;/a&gt; (Read more at &lt;a href=&quot;http://remote.com/employment-checks&quot;&gt;remote.com/employment-checks&lt;/a&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;&lt;strong&gt;Practicals&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;You&#39;ll report to:&lt;/strong&gt; Product Director&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Direct reports:&lt;/strong&gt; None. This is an individual contributor position.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Team:&lt;/strong&gt; Product&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Location&lt;/strong&gt;: We are location agnostic. However we would like to prioritise candidates in the EMEA region due to the payroll experience required for the position&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Start date:&lt;/strong&gt; As soon as possible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;Remote Compensation Philosophy&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Remote&#39;s Total Rewards philosophy is to ensure fair, unbiased compensation and fair &lt;a class=&quot;discussion-level-1 discussion-id-f2a82bc4-09e4-4a71-ad93-755b1d26a690 notion-link-token notion-enable-hover&quot; href=&quot;../../1945bce8d3924ece9421ba8630f57b0c#ddcf8273f3784526ae24532c9df9a7d2&quot; target=&quot;_blank&quot; data-token-index=&quot;2&quot;&gt;&lt;span class=&quot;link-annotation-unknown-block-id-1691622878&quot;&gt;equity&lt;/span&gt;&lt;/a&gt;&lt;span class=&quot;discussion-level-1 discussion-id-f2a82bc4-09e4-4a71-ad93-755b1d26a690 notion-enable-hover&quot; data-token-index=&quot;3&quot;&gt; pay &lt;/span&gt;along with competitive benefits in all locations in which we operate. We do not agree to or encourage cheap-labor practices and therefore we ensure to pay above in-location rates. We hope to inspire other companies to support global talent-hiring and bring local wealth to developing countries.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/h2&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;Our full benefits &amp;amp; perks are explained in our handbook at&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;http://remote.com/r/benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://remote.com/r/benefits&quot; data-sk=&quot;tooltip_parent&quot;&gt;remote.com/r/benefits&lt;/a&gt;. As a global company, each country works differently, but some benefits/perks are for all Remoters:&lt;/div&gt;
+&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;work from anywhere&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;unlimited personal time off (minimum 4 weeks)&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;quarterly company-wide day off for self care&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;flexible working hours (we are&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.notion.so/remotecom/Working-Async-at-Remote-80c01cd443ad4c77a8ceaef7c5fba5d0&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.notion.so/remotecom/Working-Async-at-Remote-80c01cd443ad4c77a8ceaef7c5fba5d0&quot; data-sk=&quot;tooltip_parent&quot;&gt;async&lt;/a&gt;)&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;16 weeks paid parental leave&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;mental health support services&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;stock options&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;learning budget&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;home office budget &amp;amp; IT equipment&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;budget for local in-person social events or co-working spaces&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h2&gt;&lt;strong&gt;How you’ll plan your day (and life)&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;We work async at Remote which means you can plan your schedule around your life (and not around meetings). Read more at &lt;a href=&quot;http://www.remote.com/async&quot;&gt;remote.com/async&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You will be empowered to take ownership and be proactive. When in doubt you will default to action instead of waiting. Your &lt;strong&gt;life-work balance&lt;/strong&gt; is important and you will be encouraged to put yourself and your family first, and fit work around your needs.&lt;/p&gt;
+&lt;p&gt;If that sounds like something you want, apply now!&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;How to apply&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Please fill out the form below and upload your CV with a PDF format.&lt;/li&gt;
+&lt;li&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;We kindly ask you to submit your application and CV in English, as this is the standardised language we use here at Remote.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;If you don’t have an up to date CV but you are still interested in talking to us, please feel free to add a copy of your LinkedIn profile instead.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We will ask you to voluntarily tell us your pronouns at interview stage, and you will have the option to answer our anonymous demographic questionnaire when you apply below. As an equal employment opportunity employer it’s important to us that our workforce reflects people of all backgrounds, identities, and experiences and this data will help us to stay accountable. We thank you for providing this data, if you chose to.&lt;/p&gt;
+&lt;p&gt;Need help? Email&amp;nbsp;&lt;a class=&quot;c-link&quot; style=&quot;color: rgba(var(--sk_highlight,18,100,163),1); text-decoration: none;&quot; href=&quot;mailto:hiring@remote.com&quot; target=&quot;_blank&quot; data-stringify-link=&quot;mailto:hiring@remote.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;hiring@remote.com&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://d21buns5ku92am.cloudfront.net/69529/images/420204-RemoteMark_purple-da25a3-original-1646241858.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Remote</h5>
+                    <h3>Senior Product Manager, Payroll Engine</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/remotecom/jobs/5682311003" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Remote&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Remote is solving global remote organizations’ biggest challenge: employing anyone anywhere compliantly. We make it possible for businesses big and small to employ a global team by handling global payroll, benefits, taxes, and compliance. Check out &lt;a href=&quot;http://remote.com/how-it-works&quot;&gt;remote.com/how-it-works&lt;/a&gt; to learn more or if you’re interested in adding to the mission, scroll down to apply now.&lt;/p&gt;
+&lt;p&gt;Please take a look at &lt;strong&gt;&lt;a href=&quot;http://remote.com/handbook&quot;&gt;remote.com/handbook&lt;/a&gt;&lt;/strong&gt; to learn more about our culture and what it is like to work here. &lt;strong&gt;Not only do we encourage folks from all ethnic groups, genders, sexuality, age and abilities to apply, but we prioritize a sense of &lt;a href=&quot;https://www.notion.so/people-Belonging-Diversity-Equity-Inclusion-DEI-4990e36a7d7b4d52a78ca3efb23d718b&quot;&gt;belonging&lt;/a&gt;.&lt;/strong&gt; You can check out independent reviews by other candidates on &lt;a href=&quot;https://www.glassdoor.com/Overview/Working-at-Remote-EI_IE3871683.11,17.htm&quot;&gt;Glassdoor&lt;/a&gt; or look up the &lt;a href=&quot;https://www.notion.so/people-Candidate-Experience-Surveys-17d595a88b7548148593792a8072235f&quot;&gt;results of our candidate surveys&lt;/a&gt; to see how others feel about working and interviewing here.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;All of our positions are fully remote. You do not have to relocate to join us!&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;About Remote:&lt;/h1&gt;
+&lt;p&gt;Remote is solving a huge challenge for global organizations: compliantly employing anyone, anywhere. We make it possible for businesses to employ a global team by handling global payroll, benefits, taxes, and compliance (learn more about &lt;a href=&quot;https://remote.com/how-it-works&quot;&gt;how it works&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;We&#39;re backed by A+ investors and our team is world-class, literally and figuratively - we&#39;re scattered around the world working together within a culture of kindness and excellence.&lt;/p&gt;
+&lt;p&gt;Please check out our&amp;nbsp;public &lt;a href=&quot;https://www.notion.so/a3439c6ccaac4d5f8c7515c357345c11?pvs=21&quot;&gt;handbook&lt;/a&gt;&amp;nbsp;to learn more about our culture.&amp;nbsp;&lt;strong&gt;We encourage folks from all ethnic groups, genders, sexuality, age and abilities to apply.&lt;/strong&gt; If this job description resonates with you, we want to hear from you!&lt;/p&gt;
+&lt;h2&gt;The Challenge&lt;/h2&gt;
+&lt;p&gt;Remote aims to provide customers with instant payroll calculations for their employees. Our goal is to create an experience where a customer can add a payment, click a button, and immediately view and schedule the payment.&lt;/p&gt;
+&lt;p&gt;In many countries, third-party payroll software is simply not available thats support the level of integration required to provide customers with a real-time payroll experience. To make this possible, we plan to build our own API-first in-house payroll engines.&lt;/p&gt;
+&lt;h2&gt;How we work&lt;/h2&gt;
+&lt;p&gt;We love &lt;a href=&quot;https://www.notion.so/80c01cd443ad4c77a8ceaef7c5fba5d0?pvs=21&quot;&gt;working async&lt;/a&gt;. This means you get to minimize meetings and create your own schedule based on when you&#39;re able to do your best work.We empower ownership, proactivity, and default to action. We operate based on treating each other with kindness and support each other as a team.&lt;/p&gt;
+&lt;h1&gt;The position&lt;/h1&gt;
+&lt;p&gt;This is an exciting time to join Remote and make a personal difference in the global employment space as our &lt;strong&gt;Senior &lt;/strong&gt;&lt;strong&gt;Product Manager for Payroll Engines&lt;/strong&gt;. You&#39;ll have a massive impact on our organisation and help create opportunities for millions of people around the world. This is a unique position where you&#39;ll be expected to start up a team, set a mission for your team and topic, work with contractors and internal experts to drive the mission forward autonomously, and deliver on our strategic goal to build an API-first payroll engines in our biggest markets.&lt;/p&gt;
+&lt;h2&gt;What you bring&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience as a product manager working on payroll systems and services in a multi-product, high-growth scale-up company preferably with country-specific expertise. (Country: UK, EMEA, US)&lt;/li&gt;
+&lt;li&gt;Experience building API products and integrating complex 3rd party systems. Bonus points for payroll APIs and integrations&lt;/li&gt;
+&lt;li&gt;Passionate about well-designed products that just work including API products with an amazing developer experience&lt;/li&gt;
+&lt;li&gt;Strong understanding of end-to-end payroll processes and HR functions. Hands-on experience with payroll software and systems is preferred&lt;/li&gt;
+&lt;li&gt;High proficiency in data manipulation (eg sql, excel, sheets)&lt;/li&gt;
+&lt;li&gt;Great judgment-making strategic (what to prioritize) and tactical (feature scope) decisions&lt;/li&gt;
+&lt;li&gt;Data-driven product manager with experience setting and tracking goals to achieve results&lt;/li&gt;
+&lt;li&gt;Outstanding communication and collaboration skills, including across different departments (e.g. operations, business, sales, finance, etc.) to ensure that we are satisfying critical customer, business and operational requirements&lt;/li&gt;
+&lt;li&gt;Business-level proficiency writing and speaking English.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What this job can offer you&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Opportunity to build the future of payroll with senior product leaders at Remote
+&lt;ul&gt;
+&lt;li&gt;Lead efforts across engineering, design, and operations to launch high-impact projects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Ship iterative improvements in a new area of the product
+&lt;ul&gt;
+&lt;li&gt;Work together with engineers and designers to build elegant solutions to complex problems&lt;/li&gt;
+&lt;li&gt;Shape and deliver improvements in a focused area of our product&lt;/li&gt;
+&lt;li&gt;Help advance key KPIs related to your team’s goals&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Communicate and collaborate internally and externally
+&lt;ul&gt;
+&lt;li&gt;Collaborate with partner teams (e.g. operations) to connect your team’s roadmap to stakeholder needs&lt;/li&gt;
+&lt;li&gt;Lead by example on asynchronous workflows and transparency.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Application process&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Interview with recruiter&lt;/li&gt;
+&lt;li&gt;Interview with hiring manager&lt;/li&gt;
+&lt;li&gt;Async Product Deep Dive&lt;/li&gt;
+&lt;li&gt;Interview with internal stakeholders&lt;/li&gt;
+&lt;li&gt;Interview with Director of Product &amp;amp; VP Payroll&lt;/li&gt;
+&lt;li&gt;Offer (shared async)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.notion.so/Veremark-Remote-96e108c037b8423cbd4c3f07a1f9b38b&quot;&gt;Prior employment verification check&lt;/a&gt; (Read more at &lt;a href=&quot;http://remote.com/employment-checks&quot;&gt;remote.com/employment-checks&lt;/a&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;&lt;strong&gt;Practicals&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;You&#39;ll report to:&lt;/strong&gt; Product Director&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Direct reports:&lt;/strong&gt; None. This is an individual contributor position.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Team:&lt;/strong&gt; Product&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Location&lt;/strong&gt;: We are location agnostic. However we would like to prioritise candidates in the EMEA region due to the payroll experience required for the position&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Start date:&lt;/strong&gt; As soon as possible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;Remote Compensation Philosophy&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Remote&#39;s Total Rewards philosophy is to ensure fair, unbiased compensation and fair &lt;a class=&quot;discussion-level-1 discussion-id-f2a82bc4-09e4-4a71-ad93-755b1d26a690 notion-link-token notion-enable-hover&quot; href=&quot;../../1945bce8d3924ece9421ba8630f57b0c#ddcf8273f3784526ae24532c9df9a7d2&quot; target=&quot;_blank&quot; data-token-index=&quot;2&quot;&gt;&lt;span class=&quot;link-annotation-unknown-block-id-1691622878&quot;&gt;equity&lt;/span&gt;&lt;/a&gt;&lt;span class=&quot;discussion-level-1 discussion-id-f2a82bc4-09e4-4a71-ad93-755b1d26a690 notion-enable-hover&quot; data-token-index=&quot;3&quot;&gt; pay &lt;/span&gt;along with competitive benefits in all locations in which we operate. We do not agree to or encourage cheap-labor practices and therefore we ensure to pay above in-location rates. We hope to inspire other companies to support global talent-hiring and bring local wealth to developing countries.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/h2&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;
+&lt;div class=&quot;p-rich_text_section&quot;&gt;Our full benefits &amp;amp; perks are explained in our handbook at&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;http://remote.com/r/benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://remote.com/r/benefits&quot; data-sk=&quot;tooltip_parent&quot;&gt;remote.com/r/benefits&lt;/a&gt;. As a global company, each country works differently, but some benefits/perks are for all Remoters:&lt;/div&gt;
+&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;work from anywhere&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;unlimited personal time off (minimum 4 weeks)&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;quarterly company-wide day off for self care&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;flexible working hours (we are&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.notion.so/remotecom/Working-Async-at-Remote-80c01cd443ad4c77a8ceaef7c5fba5d0&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.notion.so/remotecom/Working-Async-at-Remote-80c01cd443ad4c77a8ceaef7c5fba5d0&quot; data-sk=&quot;tooltip_parent&quot;&gt;async&lt;/a&gt;)&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;16 weeks paid parental leave&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;mental health support services&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;stock options&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;learning budget&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;home office budget &amp;amp; IT equipment&lt;/li&gt;
+&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;budget for local in-person social events or co-working spaces&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h2&gt;&lt;strong&gt;How you’ll plan your day (and life)&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;We work async at Remote which means you can plan your schedule around your life (and not around meetings). Read more at &lt;a href=&quot;http://www.remote.com/async&quot;&gt;remote.com/async&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You will be empowered to take ownership and be proactive. When in doubt you will default to action instead of waiting. Your &lt;strong&gt;life-work balance&lt;/strong&gt; is important and you will be encouraged to put yourself and your family first, and fit work around your needs.&lt;/p&gt;
+&lt;p&gt;If that sounds like something you want, apply now!&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;How to apply&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Please fill out the form below and upload your CV with a PDF format.&lt;/li&gt;
+&lt;li&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;We kindly ask you to submit your application and CV in English, as this is the standardised language we use here at Remote.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;If you don’t have an up to date CV but you are still interested in talking to us, please feel free to add a copy of your LinkedIn profile instead.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We will ask you to voluntarily tell us your pronouns at interview stage, and you will have the option to answer our anonymous demographic questionnaire when you apply below. As an equal employment opportunity employer it’s important to us that our workforce reflects people of all backgrounds, identities, and experiences and this data will help us to stay accountable. We thank you for providing this data, if you chose to.&lt;/p&gt;
+&lt;p&gt;Need help? Email&amp;nbsp;&lt;a class=&quot;c-link&quot; style=&quot;color: rgba(var(--sk_highlight,18,100,163),1); text-decoration: none;&quot; href=&quot;mailto:hiring@remote.com&quot; target=&quot;_blank&quot; data-stringify-link=&quot;mailto:hiring@remote.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;hiring@remote.com&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://d21buns5ku92am.cloudfront.net/69529/images/420204-RemoteMark_purple-da25a3-original-1646241858.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Remote</h5>
+                    <h3>Staff Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/remotecom/jobs/5730547003" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Remote&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Remote is solving global remote organizations’ biggest challenge: employing anyone anywhere compliantly. We make it possible for businesses big and small to employ a global team by handling global payroll, benefits, taxes, and compliance. Check out &lt;a href=&quot;http://remote.com/how-it-works&quot;&gt;remote.com/how-it-works&lt;/a&gt; to learn more or if you’re interested in adding to the mission, scroll down to apply now.&lt;/p&gt;
+&lt;p&gt;Please take a look at &lt;strong&gt;&lt;a href=&quot;http://remote.com/handbook&quot;&gt;remote.com/handbook&lt;/a&gt;&lt;/strong&gt; to learn more about our culture and what it is like to work here. &lt;strong&gt;Not only do we encourage folks from all ethnic groups, genders, sexuality, age and abilities to apply, but we prioritize a sense of &lt;a href=&quot;https://www.notion.so/people-Belonging-Diversity-Equity-Inclusion-DEI-4990e36a7d7b4d52a78ca3efb23d718b&quot;&gt;belonging&lt;/a&gt;.&lt;/strong&gt; You can check out independent reviews by other candidates on &lt;a href=&quot;https://www.glassdoor.com/Overview/Working-at-Remote-EI_IE3871683.11,17.htm&quot;&gt;Glassdoor&lt;/a&gt; or look up the &lt;a href=&quot;https://www.notion.so/people-Candidate-Experience-Surveys-17d595a88b7548148593792a8072235f&quot;&gt;results of our candidate surveys&lt;/a&gt; to see how others feel about working and interviewing here.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;All of our positions are fully remote. You do not have to relocate to join us!&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;The position&lt;/h1&gt;
+&lt;p&gt;This is an exciting time to join Remote and make a personal difference in the global employment space. Remote is a leading global employment platform that empowers businesses to hire, manage, and pay distributed teams around the world. Our innovative solutions transform the way companies operate, enabling them to tap into a vast pool of talent, streamline operations, and expand their global reach. As we continue to revolutionize the future of work, we&#39;re seeking a highly skilled and motivated Staff Product Manager to join our Product team and lead Remote’s &quot;Powered By Remote&quot; initiative to new heights of success.&lt;/p&gt;
+&lt;p&gt;As a &lt;strong&gt;Staff Product Manager&lt;/strong&gt; for Remote’s Partner API, you will play a pivotal role in shaping the future of our &quot;Powered By Remote&quot; program. In this high-profile position, you will be responsible for overseeing Remote&#39;s partner API and developer tools, enabling strategic partners to seamlessly integrate Remote&#39;s products into their platforms. Your strategic vision, deep API expertise, and collaborative leadership will be essential in delivering integrated solutions that drive revenue growth and deliver exceptional value to both partners and customers.&lt;/p&gt;
+&lt;h2&gt;What you bring&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Successful Product Manager:&lt;/strong&gt; Demonstrated track record of successful product management, leading initiatives from concept to launch.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;API Mastery:&lt;/strong&gt; Proven experience managing complex APIs, including versioning, security, and design principles.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;White Label Partnership Experience:&lt;/strong&gt; Prior involvement in managing an extensive API for white label partnerships is essential.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Strategic Vision:&lt;/strong&gt; Demonstrated ability to develop and execute strategic initiatives that align with business objectives.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cross-Functional Collaboration:&lt;/strong&gt; Strong track record of collaborating effectively with cross-functional teams, including partnerships, operations teams, engineering, design, marketing and product teams.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technical Acumen:&lt;/strong&gt; Deep understanding of API best practices, developer tooling, and API-related technologies.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Innovative Problem-Solving:&lt;/strong&gt; Creative thinker with a knack for devising scalable solutions to support the onboarding of multiple strategic partners.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Communication Skills:&lt;/strong&gt; Excellent verbal and written communication skills, including the ability to communicate complex technical concepts to non-technical stakeholders.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Leadership:&lt;/strong&gt; Proven experience leading and mentoring teams to achieve ambitious goals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What this job can offer you&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead the &quot;Powered By Remote&quot; Partner API initiative, driving its success as a top company goal for the year.&lt;/li&gt;
+&lt;li&gt;Define the strategic roadmap for the Partner API, ensuring alignment with business objectives and customer needs.&lt;/li&gt;
+&lt;li&gt;Collaborate closely with the partnerships team to understand partner requirements and translate them into effective API solutions.&lt;/li&gt;
+&lt;li&gt;Design and oversee the development of developer tools and resources that enable partners to integrate Remote&#39;s products seamlessly.&lt;/li&gt;
+&lt;li&gt;Use your expertise to ensure the security, reliability, and scalability of the Partner API in accordance with industry best practices.&lt;/li&gt;
+&lt;li&gt;Collaborate with various product areas to ensure a cohesive and integrated experience for partners and end-users.&lt;/li&gt;
+&lt;li&gt;Work closely with external API partners to design and deliver integrated solutions that enhance the user experience.&lt;/li&gt;
+&lt;li&gt;Optimize and enhance the API&#39;s functionality by monitoring and analyzing API performance metrics and making data-driven decisions.&lt;/li&gt;
+&lt;li&gt;Mentor and guide cross-functional teams, fostering a culture of innovation, collaboration, and excellence.&lt;/li&gt;
+&lt;li&gt;Stay updated on industry trends, emerging technologies, and best practices to continually improve the Partner API and related offerings.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Benefits&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;You can learn more about the benefits we&#39;re offering to all internal employees at Remote by visiting our public&amp;nbsp;&lt;a href=&quot;https://www.notion.so/people-Benefits-perks-1e48a5869c274f40910b76d405b92f63?pvs=21&quot;&gt;Benefits &amp;amp; Perks Handbook page&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Application process&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Profile review (reviewed async)&lt;/li&gt;
+&lt;li&gt;Interview with recruiter&lt;/li&gt;
+&lt;li&gt;Interview with future manager&lt;/li&gt;
+&lt;li&gt;Async exercise and live exercise review with a peer&lt;/li&gt;
+&lt;li&gt;Interviews with stakeholders&lt;/li&gt;
+&lt;li&gt;Offer (shared async)&lt;/li&gt;
+&lt;li&gt;Reference calls&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Practicals&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You’ll report to: Product Director&lt;/li&gt;
+&lt;li&gt;Direct reports: This is an individual contributor position&lt;/li&gt;
+&lt;li&gt;Team: Product&lt;/li&gt;
+&lt;li&gt;Location: This role can be based anywhere. Initial preference will be given to candidates based in the Americas region.&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Remote compensation policy&lt;/h1&gt;
+&lt;p&gt;Remote&#39;s Total Rewards philosophy is to ensure fair, unbiased compensation and fair &lt;a href=&quot;https://www.notion.so/people-Belonging-Diversity-Equity-Inclusion-DEI-4990e36a7d7b4d52a78ca3efb23d718b?pvs=21&quot;&gt;equity&lt;/a&gt; pay along with competitive benefits in all locations in which we operate. We do not agree to or encourage cheap-labor practices and therefore we ensure to pay above in-location rates. We hope to inspire other companies to support global talent-hiring and bring local wealth to developing countries.&lt;/p&gt;
+&lt;p&gt;In New York and Colorado, in particular, the base compensation range for this role (including all mandatory allowances/bonuses) is $117,500 - $162,000 Actual compensation is decided once the interview process is concluded and an assessment of experience; competencies and skills; internal equity and calibration to market data is complete. Successful Candidates outside these location(s) will have our geo-range philosophy applied. Please see further information on our pay philosophy here: Total Rewards at Remote.&amp;nbsp;&amp;nbsp;Disclosure as required by the Colorado Equal Pay for Equal Work Act, C.R.S. § 8-5-101 et seq.&lt;/p&gt;
+&lt;h1&gt;How to apply&lt;/h1&gt;
+&lt;p&gt;Please fill out the form below. Don&#39;t forget to add your CV (ideally as a PDF) and a cover letter (at most a single page) explaining why you think there&#39;s a match between this particular role and your profile. Thank you!&lt;/p&gt;
+&lt;h6&gt;#LI-DNP&lt;/h6&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/h2&gt;
 &lt;div class=&quot;p-rich_text_section&quot;&gt;
 &lt;div class=&quot;p-rich_text_section&quot;&gt;Our full benefits &amp;amp; perks are explained in our handbook at&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;http://remote.com/r/benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://remote.com/r/benefits&quot; data-sk=&quot;tooltip_parent&quot;&gt;remote.com/r/benefits&lt;/a&gt;. As a global company, each country works differently, but some benefits/perks are for all Remoters:&lt;/div&gt;
 &lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
