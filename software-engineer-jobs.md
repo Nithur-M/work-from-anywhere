@@ -10,7 +10,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bizspeed-senior-software-engineer" align="right" target="_blank">Apply</a>
@@ -77,163 +77,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1767880/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Greenpeace International</h5>
-                    <h3>Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>api,backend,CSS,docker</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-1767880" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p dir="ltr"><strong>We currently have 2 openings: </strong></p>
-<p dir="ltr"><strong>12 month fixed term contract / full time</strong></p>
-<p dir="ltr"><strong>6 month fixed term contract / full time </strong></p>
-<p dir="ltr"><strong> </strong></p>
-<p dir="ltr"><strong>Location: The successful candidate may be based in a country where one of the independent National/Regional Greenpeace organisations (NRO’s) is located. See the locations </strong><a href="https://www.greenpeace.org/international/explore/about/worldwide/" rel="nofollow"><strong>here</strong></a><strong>. </strong>[<em>Please note that we are currently unable to host new staff in a number of NRO's at this present time, due to various restrictions. We are unable to support hosting in the US, in addition to some other NRO locations. The recruitment team may reach out to you to provide an update as necessary, depending on your location].</em><strong> We offer competitive NGO level salary and benefits, the specifics of which depend on location where the successful candidates will be based. We aim to share this information with candidates before reaching the offer stage.</strong></p>
-<p dir="ltr"><em> </em></p>
-<p dir="ltr"><em>Greenpeace is a global campaigning network. It comprises 26 independent National/Regional Organisations and a coordinating organisation, Greenpeace International. Greenpeace uses peaceful, creative confrontation to expose global environmental problems and develop solutions for a green and peaceful future.</em></p>
-<p dir="ltr"> </p>
-<p dir="ltr">Greenpeace International (GPI) is looking for two <strong>Software Engineers </strong>(1 for 12 month contract, and another for 6 month contract)<strong> </strong>to facilitate secure, scalable, self-service software development work – empowering departments, campaigners and leaders in every office and team around the world.</p>
-<p dir="ltr"> </p>
-<p dir="ltr">With responsibility for developing, reviewing, testing and deploying our software services, as well as for supporting end users and resolving bugs, you will contribute to the design, development and automation of global software services.</p>
-<p dir="ltr"><strong> </strong></p>
-<p dir="ltr"><strong>In this role you will:</strong></p>
-<p> </p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr">Write well-designed, testable, efficient code by using best software development practices.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Integrate data from various external services with API and databases.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Develop enhancements and resolve bugs as part of the product release lifecycle.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Design and develop scripts to allow data migration and integration with other systems.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Identify performance bottlenecks, and propose and implement solutions.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Build cross-browser solutions optimised for mobile devices.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Interact with volunteer developers who contribute code to our open-source projects.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Work in an Agile environment using Scrum methodology.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Participate in the design of new features and change requests and discuss technical feasibility.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Write documentation to facilitate collaboration and maintenance of the platform.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Make decisions related to code architecture and technical approach.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Create, deploy and maintain automation tools to streamline development, testing, deployment and monitoring processes.</p>
-</li>
-</ul>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr">Write functional and unit tests to prevent regressions.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Review 3rd party themes and plugins and make integration recommendations.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Release code to the staging and production environments.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Assist end users with technical questions and troubleshoot new issues.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Stay abreast of the latest trends in backend development and propose new ideas.</p>
-</li>
-</ul>
-<p dir="ltr"><strong> </strong></p>
-<p dir="ltr"><strong>For further details about the role, please see the full job description </strong><strong><a href="https://drive.google.com/file/d/1K_uci0NcoMEpqRvDYmRQZk10bOTJjue1/view?usp=sharing" rel="nofollow">HERE.</a> </strong></p>
-<p dir="ltr"><strong>What we’re looking for:</strong></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr">Several years’ experience with backend and frontend software development.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Exceptional skills in backend web technologies such as PHP, Node.js, Python – and in web frontend technologies such as HTML, CSS, and JavaScript.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Experience with frontend frameworks such as React.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Experience with testing methodologies, test-driven development and automated testing.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Experience with automation tools and build systems such as GitLab, composer.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Experience with backend performance testing and tuning.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Experience with development tools such as Git and Docker.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Experience working with AI, and with BART or GPT-3, GPT-4 API.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Strong knowledge of web usability standards and cross-browser compatibility issues.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Fluency in English, both verbal and written, plus preferably one other language.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Ability to work in a remote-only and culturally diverse team.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Commitment and drive to learn new methods and technologies.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Digital literacy skills; the ability to learn and utilise our digital platforms to successfully perform the role function (familiarity with G-Suite, Slack and Zoom is an advantage)</p>
-</li>
-</ul>
-<div class="h2" dir="ltr"><strong> </strong></div>
-<div class="h2" dir="ltr"><strong>What you can expect:</strong></div>
-<p dir="ltr">You’ll be encouraged to develop both personally and professionally, taking advantage of the wide range of learning and development opportunities available to our staff. Staff can also access our wellness initiatives, such as yoga and meditation and also have the opportunity to join our global Equity, Diversity &amp; Inclusion staff communities.</p>
-<p dir="ltr"><strong> </strong></p>
-<p dir="ltr"><strong>Please visit the careers site </strong><a href="https://greenpeace1.recruitee.com/" rel="nofollow"><strong>here</strong></a><strong>,</strong> to learn more about working for Greenpeace.<strong><br></strong></p>
-<div class="h2" dir="ltr"><strong> </strong></div>
-<div class="h2" dir="ltr"><strong>To Apply</strong></div>
-<p dir="ltr">If you share our vision, please click<strong> 'apply for this job'</strong> below, to begin your application.</p>
-<p dir="ltr"> </p>
-<p dir="ltr">To apply for this role, we require you to answer a selection of key criteria and upload your CV (<strong>in English</strong>) via our online application form.</p>
-<p dir="ltr"> </p>
-<p dir="ltr">Addressing the key criteria is an important part of your application. We will be looking for evidence that demonstrates your skills and experience in these areas. Use examples where possible, to draw attention to experience, knowledge, achievements and skills gained in past employment or voluntary/leisure activities, provided they are relevant to the post.</p>
-<p dir="ltr"> </p>
-<p dir="ltr">It’s advisable to prepare your responses to the key criteria before starting your online application, as you are unable to save and return to it at a later date.</p>
-<p dir="ltr"> </p>
-<p dir="ltr">If you have any questions about this vacancy or the application process, please email us at recruitment.int@greenpeace.org. Please note that all applications have to be filled out via the website and can't be submitted via this email.</p>
-<p dir="ltr"> </p>
-<p dir="ltr"><em>Greenpeace International is an equal opportunity employer with a longstanding commitment of providing a work environment that respects the dignity and worth of each individual. We recognise and value the benefits and strengths that diversity brings to our employees and the whole organisation and we thrive in an environment that encourages respect and trust. We do not discriminate in employment opportunities or practices on the basis of age, ancestry, citizenship, colour, disability, ethnicity, family or marital status, gender identity or expression, national origin, political affiliation, race, religion, sex, sexual orientation and would like to invite you especially to apply!</em></p>
-<p dir="ltr"> </p>
-<p><strong><em>CLOSING DATE</em></strong><em>: <strong>Monday 28th August, 2023 @ 11:59pm CET</strong></em></p>
-<img src="https://remotive.com/job/track/1767880/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1569512792381878278/Smf8h3tt_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -254,6 +97,98 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>ConvertKit is a powerful marketing platform built for creators, by creators. We help creators grow and monetize their audience with ease. For coaches, YouTubers, authors, podcasters, and other creatives, there isn’t a better marketing hub to rely on to grow audiences, automate email marketing, and sell digital products - all within one platform. More importantly, there isn’t a team more committed to helping creators earn a living.</p><p>We’re on a mission to help creators earn $1 billion using our creator marketing platform. We have always been 100% independent and 100% remote. We are proud to have built a product that our customers love, and we look for people who have enthusiasm and belief in our mission, vision, and values to join our team.</p><p>The ConvertKit culture is one where emotional intelligence is valued, radical candor is encouraged, and where everyone works together to uphold a set of shared team principles.</p><p><strong>The Role</strong></p><p>You’ll join a team of engineers responsible for email and commerce compliance tooling, building out adaptive fraud prevention and detection systems, and providing creators with in-application analytics to inform how they grow.</p><p>This group cares deeply about creators and helping them along their journey. We’re looking for an engineer that enjoys the product side of product development; has empathy for the creators that we serve, and is eager to work in on a fast paced team that ships consistently. </p><p>To learn more about how our engineering team works, you can peruse <a href="https://convertkit.engineering/" rel="nofollow noreferrer noopener" class="external">our engineering blog</a>.</p><p><strong>Responsibilities</strong></p><ul> <li>Own solving problems across the full stack in collaboration with your team</li> <li>Actively participate in driving the technical direction of our codebase</li> <li>Collaborate with team members across the organization</li> <li>Proactive communication with product stakeholders</li> <li>Staying up to date with current technical best practices</li> </ul><h3>Requirements: </h3><ul> <li>At least five years building software in a team environment or equivalent experience. Years of experience doesn’t always capture expertise, so we encourage you to apply if you can demonstrate you’re well versed in building software in a team environment</li> <li>At least two years working professionally on a Ruby on Rails application - if you don’t have two years of experience but can demonstrate a confident grasp of Ruby on Rails, we encourage you to apply</li> <li>Experience working with JavaScript and React (or comparable framework)</li> <li>Experience writing code that is accessible, scalable, maintainable, and performant</li> <li>Comfortable working remotely in an autonomous environment - you don’t mind asking questions and problem solving in public communication channels</li> <li>Able to work in US time zones - you don’t have to live in those time zones, but you have to be able to collaborate with your teammates during those times</li> <li>Belief in our mission, vision, and values</li> <li>Attend bi-annual in-person retreats</li> </ul><p><strong>Nice to Haves</strong></p><ul> <li>Experience building and/or integrating with machine learning models. </li> <li>Experience with visualizing data and/or statistical analysis</li> <li>Experience with algorithms for surfacing relevant content to users based on shared traits or interests</li> <li>Experience with Stripe, Paypal, or other billing systems</li> </ul><h3>Benefits: </h3><p>ConvertKit has standardized salaries based on position, no matter where you live. For this role, we’re hiring at a level 4 ($174,000), out of six levels. Level is determined based on experience and our interview process.</p><p><strong>Other benefits include:</strong></p><ul> <li>Profit Sharing - <a target="_blank" href="https://twitter.com/nathanbarry/status/1491429183977050114" rel="nofollow noreferrer noopener" class="external">Learn about profit sharing and compensation at ConvertKit</a> </li> <li>Twenty (20) days of paid time off during each year of employment</li> <li>Paid paid vacation: An after-tax bonus of $1,000 for taking five consecutive days of vacation where you’re fully unplugged from work</li> <li>Ten paid holidays a year</li> <li>Monthly medical benefits up to $1,750 a month toward premiums. Dental and vision premiums covered 100%</li> <li>Two weeks of paid sick time each year, including mental health + well being days</li> <li>12 weeks paid parental leave and flexible scheduling in your child’s first year</li> <li>Childcare benefit up to $3,000 annually</li> <li>Up to six weeks of paid bereavement leave, medical leave, and disaster after six months of employment, two weeks of each paid leave in your first six months=</li> <li>Gender affirming benefits</li> <li>$4,000 equipment allowance for your first two years, $3,000 budget every following two years</li> <li>Individual learning + development budget ($3,500/year)</li> <li>Four-week, paid sabbatical after five years with the team</li> <li>Fantastic in-person or virtual retreats with the team twice a year</li> </ul><p><strong>How to Apply</strong></p><p>We know that most people hate interviewing (we relate!). We aim to make it as good of an experience as we can, and part of that includes keeping you informed during the process.</p><p>Here’s what you can expect from the process:</p><ol> <li>30 min - Recruiter screen</li> <li>45 min - Hiring Manager screen</li> <li>Homework Assignment</li> <li>60 min - Technical Interview to discuss HW</li> <li>60 min - Culture Contribution Chat</li> </ol><p>To get started, complete this application, including answers to the questions on the next page.<strong> We read every single application, and your responses to our application questions help put your experience into context.</strong></p><p><br></p><p>ConvertKit is an equal opportunity employer. We value diversity in all of its forms, and we hire the best person we can for each role, no matter your personal background. Research tells us that applicants who are female or non-binary, as well as applicants who are people of color, are less likely to apply for roles they do not feel 100% qualified for. If you think you meet more than 50% of our requirements but fewer than 100% of them, please apply. We’re imperfect communicators, so think of our job postings as the starting point for discussion rather than proof that you shouldn’t apply.</p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>DuckDuckGo</h5>
+                    <h3>
+            Senior Software Engineer, Windows Desktop App (Remote)
+          </h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://duckduckgo.recruitee.com/o/senior-software-engineer-windows-desktop-app-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+            <p>Hi, we’re DuckDuckGo, the Internet privacy company for everyone who wants to take back their privacy now. For over a decade, we've been building our all-in-one product, developing new privacy technology, and working with policymakers to make online privacy simple and accessible for all.  </p>
+<p><br></p>
+<p>Our app is now downloaded more than 75M times a year, and our private search engine packaged with it has become the #2 search engine on mobile in over 21 countries, including the United States, United Kingdom, Canada, Australia, Germany, and the Netherlands. Oh, and we've been profitable since 2014 with revenue currently exceeding $100 million a year! Now, we’re rolling out a suite of new privacy solutions, including <u><a href="https://www.spreadprivacy.com/introducing-email-protection-beta/" rel="noopener">Email Protection</a></u>,  <u><a href="https://spreadprivacy.com/introducing-app-tracking-protection/" rel="noopener">App Tracking Protection</a></u><a rel="noopener">&nbsp;&nbsp;</a>and our first-ever Desktop Apps for <u><a href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/" rel="noopener">Mac</a></u><a href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/" rel="noopener"> </a>and Windows.</p>
+<p><br></p>
+<p>We’re looking for a <strong><strong>Senior Software Engineer, Windows Desktop App</strong></strong> to help shape our all-in-one privacy solution and join our mission to show the world that protecting your privacy online can be simple.  </p>
+<p><br></p>
+<p><strong>The Opportunity</strong> </p>
+<p>In this role, you will work on the team responsible for launching our first ever DuckDuckGo Privacy App for Windows. You'll collaborate with Product Managers, Designers, and Engineers across Native Apps to craft a world-class browser with embedded privacy features that will revolutionize the way people search, surf, and exist online. </p>
+<p><br></p>
+<p>You will be critical to the successful launch of this product and responsible for taking pieces of the puzzle and autonomously building solutions to get us closer to our first release. You will help define the roadmap, take ownership of significant application features and experiment with ways to improve them. </p>
+<p><br></p>
+<p>You will lay the foundations of what will become one of DuckDuckGo's flagship products and critical levers for growing privacy online. </p>
+<p><br></p>
+<p><strong>What You Will Bring to DuckDuckGo</strong> </p>
+<ul>
+<li>Experience implementing ideas from scratch, owning major application features, and taking responsibility for their maintenance and improvement over time.</li>
+<li>Experience participating in technical architecture decisions for complex products, essentially shaping the software architecture of a consumer product.</li>
+<li>Experience building at least one desktop application (ideally with WPF, UWP, WinUI, WinForms, or other relevant .NET UI).</li>
+<li>An advanced level of programming expertise, with knowledge of C#. We currently use .NET 6.</li>
+<li>A significant level of experience in building customer facing applications, including crafting user interfaces.<br>
+</li>
+<li>Deep understanding of software design patterns such as MVVM, MVP, etc.</li>
+<li>Event-driven programming (e.g., using Rx.NET) experience is considered an advantage.</li>
+</ul>
+<p><br></p>
+<p><strong>How We Will Support You </strong> </p>
+<p>Our core values -- build trust, question assumptions, and validate direction -- underpin how we work day-to-day and the support we give our team members. We strive to empower our team members to be self-directed and self-motivated in their work.  </p>
+<p><br></p>
+<ul>
+<li>
+<strong>Remote First, Always</strong>: We've always been a fully distributed company with team members all over the world. We trust you to get your work done wherever, whenever.</li>
+<li>
+<strong>Commitment to Personal Growth:</strong> Every team member has an annual budget of $1,250 USD to invest in their professional development. Every team member also has a dedicated Career Advisor, who serves as a guide to help you develop your strengths, identify your motivations, and understand your opportunities for growth.</li>
+<li>
+<strong>Leadership:</strong> We have many different types of leaders and possible combinations of leadership roles, so you can grow your career in a way that aligns best with your personal goals. You can seek additional leadership roles by being directly responsible for projects, taking ownership of areas of the company, developing and maintaining internal processes, or pursuing advisory roles.</li>
+<li>
+<strong>Work/Life Balance: </strong>Team members have the freedom and flexibility to organize their own work schedules. We want you to thrive both in and out of the office. We trust you to use good judgment and take the time off that you need to bring your best self to work.  </li>
+</ul>
+<p><br></p>
+<p>We also offer <strong>paid parental leave, a co-working stipend, office setup reimbursement, </strong>and<strong> a wellness stipend.</strong> More support resources can be found in our, <u><a href="https://duckduckgo.com/assets/hiring/team_support_guide.pdf" rel="noopener">Team Member Support Guide</a></u>, which explains how we make your well-being a priority. </p>
+<p><br></p>
+<p>For more information on how we collaborate worldwide, from leadership in our relatively flat organization to start-to-finish ownership, check out <u><a href="https://duckduckgo.com/assets/hiring/how_we_work.pdf" rel="noopener">DuckDuckGo Culture: How We Work.</a></u> </p>
+<p><br></p>
+<p><strong>Compensation</strong> </p>
+<p>Annual compensation: <strong>$170,000</strong>&nbsp;<strong>USD</strong> and stock options.&nbsp;Compensation is the same within a professional level, regardless of geographic location or functional area, and the compensation for each professional level is transparent across the organization.</p>
+<p><br></p>
+<p><strong>Hiring Process</strong> </p>
+<p>Hiring works best when it's a two-way street. Learn how we help you get to know DuckDuckGo and envision your future role here. Find out more about <u><a href="https://duckduckgo.com/assets/hiring/how_we_hire.pdf" rel="noopener">how we hire</a></u>. </p>
+<p><br></p>
+<p><strong>Diversity, Equity, and Inclusion</strong> </p>
+<p>DuckDuckGo provides equal work opportunities to all team members and applicants<u>,</u> and it prohibits discrimination and harassment of any type&nbsp;on the basis of race, color, ethnicity, caste, religion, age, sex (including pregnancy), national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by our policies or federal, state, or local laws.</p>
+<p><br></p>
+<p>We want to ensure that our hiring process is accessible. If you need reasonable accommodation for any part of the application process because of a medical condition or disability, please send an email to <u><a rel="noopener">careers@duckduckgo.com</a></u> to let us know the nature of your request.  </p>
+<p><br></p>
+<p>If you think you might thrive in this environment, we would love to hear from you. </p>
+<p><br></p>
+<p><strong>Please note that:</strong> </p>
+<ul>
+<li><p>Sometimes we meet up! Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.</p></li>
+<li>While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week. </li>
+<li>A successful candidate will be subject to a background check and must receive satisfactory results of the same, as a condition of joining the team. </li>
+<li>By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.</li>
+</ul>
+<p>#US #UK #SP #PL #IR #IC #HN #CR #CN #AU</p>
+<p><br></p>
+          
                 </details>
                 </td>
             </tr>,<tr>
@@ -286,7 +221,7 @@
                 </td>
                 <td width="300">
                     <h5>Kraken</h5>
-                    <h3>Senior Software Engineer - React-Native - Mobile</h3>
+                    <h3>Senior Software Engineer - React Native - Mobile</h3>
                 </td>
                 <td width="300">
                     <code></code>
