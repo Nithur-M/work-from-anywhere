@@ -1,82 +1,5 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0118/0549/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Checkly</h5>
-                    <h3> Senior Full Stack Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/checkly-senior-full-stack-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0118/0549/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Berlin, Germany
-    <br /><strong>URL:</strong> <a href="https://checklyhq.com">https://checklyhq.com</a>
-</p>
-
-<div>
-<em><br>(Fully remote, dev-tools, timezones: GMT +/- 3 hours, part time (at least 32h/week) or full time)<br></em><br>
-</div><div>
-<br>Checkly is looking for a Senior JavaScript / Node.js Engineer. This is a great opportunity to join an early stage company, influence the product roadmap and help us do what we love most: building the #1 monitoring platform for developers. With Checkly, developers can build and run synthetic monitoring that scales. Our goal is to provide a monitoring as code workflow for developers: programmable, fast, and reliable...a world-class developer experience! <a href="https://www.checklyhq.com/customers">Thousands of developers</a> are using Checkly today.</div><ul>
-<li>We deploy ~20 times per day to production on average.</li>
-<li>We use Vue / Node.js / Postgres / Lambda / ClickHouse.</li>
-<li>We're processing ~4000 API and Browser checks per minute now.</li>
-<li>We don't do daily sync stand ups. We keep meetings to a minimum.</li>
-<li>We work in small teams, with devs, product and design mixed together.</li>
-<li>We have almost 1,000 customers challenging us every day.</li>
-<li>We have an onboarding plan for every new joiner.</li>
-</ul><div>
-<br>We care about building a team where people of all backgrounds are encouraged to do their best work. To achieve this we built a <a href="https://blog.checklyhq.com/how-to-build-a-leading-remote-first-company-while-exceeding-company-goals-do-this/">flexible, fully remote and async-first</a> startup environment with <a href="https://www.notion.so/ad474bec3a5d4d17bfbb43ebae3fec9c?pvs=21">inclusive benefits</a>.</div><h1><strong>What you’ll do</strong></h1><div>
-<strong>Harden &amp; expand our backend<br></strong><br>
-</div><div>Our backend runs on Hapi.js and a collection of custom job runners and Lambda applications distributed around the globe. We ran over 2.5 billion checks already and are ramping up for a lot more.<br><br>
-</div><div>You will help us build out new features and expand existing features. We have a TON of exciting stuff lined up (check out our <a href="https://feedback.checklyhq.com/">public roadmap</a>). You’ll work on scaling our current backend platform to meet the demands of our growing business.<br><br>
-</div><div><strong><br>Help build &amp; shape our frontend</strong></div><div>
-<br>You will also be working together with our frontend team and design lead on our Vue.js based frontend. Projects we have lined up are new dashboards &amp; graphs, a collection of 3rd party integrations, in browser code editors and real time metric feeds. <em>Almost</em> no boring CRUD forms!</div><h1><strong>About you</strong></h1><ul>
-<li>You have deep experience in building applications with JavaScript / Node.js in a professional product (SaaS) environment.</li>
-<li>You have experience in writing tests for frontend and backend.</li>
-<li>You like to work in a growing company with experienced founders.</li>
-<li>You know how to communicate with coworkers and customers in spoken and written English.</li>
-<li>You have the ability to be autonomous and self-motivated in a remote work environment, while you also enjoy getting to know your colleagues and helping others.</li>
-<li>You are quick to pick up on new stuff and enjoy the process of learning new things.</li>
-<li>You love making software!</li>
-</ul><h1><strong>What we offer</strong></h1><ul>
-<li>Transparent salary because your salary shouldn't be dictated by how good a negotiator you are. (more info below)</li>
-<li>Become part of a fast-growing, international, and remote team</li>
-<li>Stock options</li>
-<li>
-<a href="https://blog.checklyhq.com/we-scored-10-5-on-gitlabs-12-steps-to-better-remote-test/">Fully remote</a> with flexible work hours. support families: you can pick up your kids without worrying about work</li>
-<li>27 days of paid vacation + your local public holidays</li>
-<li>Paid sick leave &amp; parental leave</li>
-<li>Work with the latest technologies</li>
-<li>$1,000 learning &amp; visiting budget</li>
-<li>Co-working budget</li>
-<li>Modern laptop and equipment</li>
-<li>Bi-annual company retreats</li>
-<li>Employment &amp; Contractor options</li>
-</ul><div>
-<br>Find out more <a href="https://www.notion.so/ad474bec3a5d4d17bfbb43ebae3fec9c?pvs=21">here</a>.</div><h1><strong>What we pay</strong></h1><div>Fair, competitive, and transparent pay is very important for us. Therefore we work with a <a href="https://www.notion.so/f3c42feab82b444a9cbf8fed545cb727?pvs=21">standardized salary calculator</a> that includes several factors such as seniority level as well as location.<br><br>
-</div><div>For this role of Senior FullStack Engineer, we're looking at a range of €78,750 - €87,500 depending on your experience and performance, for someone located in a similar cost of market as Germany.</div><div><br></div><h1><strong>Apply</strong></h1><div>If this sounds interesting, please apply! Studies by several different sources have shown that on average men will apply for a job if they meet 60% of the application requirements. Women/non-binary people will seek to match a much higher percentage of requirements before applying. If you're not sure you're the right fit, apply anyway and let us know what you bring to the table. We'd love to hear from you!</div><div>
-<br>We're all about being transparent and setting clear expectations. That's why we've put together our <a href="https://www.notion.so/54bc05178d3b4118a15effe885f96d1a?pvs=21">hiring playbook</a>. There you'll find a sneak peek of who we are and what you can expect in our hiring process. We recently also open-sourced our <a href="https://www.notion.so/Checkly-s-Employee-Handbook-f262e36a64d641af8588a1c09bc0ff48?pvs=21">employee handbook</a>!<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/checkly-senior-full-stack-engineer">https://weworkremotely.com/remote-jobs/checkly-senior-full-stack-engineer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1263546899153502209/ObHsQoNr_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -193,30 +116,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1382655628523364355/MWPIbbID_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CoverGo</h5>
-                    <h3>Senior Full Stack Engineer (Fully Remote)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/covergo/j/1B746C0377" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Top 3 Reasons To Join Us</strong></p><ul> <li>Competitive Salary</li> <li>100% Remote</li> <li>Working on the latest tech for the Insurtech Market Leader</li> </ul><p><strong>About Us</strong></p><p>At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.</p><ul> <li>We are a leading global no-code insurance platform for health, life, and P&amp;C</li> <li>We’re the winner of the Insurtech of the Year in all of Asia and other awards globally</li> <li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more</li> <li>We're an international, diverse team of over 120 people with 30 nationalities and team members working remotely from all over the world</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors</li> <li>We have offices in the US, Singapore, Hong Kong, UAE and Vietnam</li> <li>We’ve grown our annualized revenue by over 30x since January 2021</li> <li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world</li> </ul><p><strong>What You Will Do</strong></p><ul> <li>Design, implement and maintain new features and functionalities for the SAAS platform, understanding the requirements of insurance businesses and translating them into scalable and efficient software solutions</li> <li>Work on both the front-end and back-end of the application, demonstrating expertise in various technologies, frameworks, and programming languages</li> <li>Work collaboratively with product, design, engineering teams, and UX designers to understand end-user requirements, use cases, and technical concepts, translating them into a cohesive and effective solution while ensuring a seamless user experience.</li> <li>Optimize the performance of the application to handle large amounts of data and high user traffic, delivering a smooth user experience</li> <li>Participate in code reviews and enforce best coding practices, while also writing and executing unit tests and integration tests to maintain code quality</li> <li>Investigate and promptly fix bugs to maintain the reliability of the platform</li> <li>Ensure security and compliance by following best practices for securing web applications and adhering to relevant regulations in handling sensitive customer data</li> <li>Stay up-to-date with the latest technologies, frameworks, and best practices to ensure we remain competitive and innovative </li> <li>Design the platform with scalability and flexibility in mind, accommodating new features and changes as the number of clients and users grows</li> <li>Provide mentorship to junior developers, aiding in their technical growth and effective contribution to the team's goals</li> </ul><p><strong>What We Need</strong></p><ul> <li>Proven experience 7 years as a Full Stack Engineer, working on complex SAAS applications</li> <li>Strong technical background with proficiency in front-end and back-end technologies, such as JavaScript, Vue, .NET Core, C#, GraphQL, MongoDB, Docker</li> <li>Familiarity with cloud platforms like AWS, Azure, or Google Cloud for building scalable applications</li> <li>Thorough understanding and practical experience with Test-Driven Development (TDD) to ensure robust and well-tested code</li> <li>Experience with unit, integration and function testing using front-end and back-end testing libraries</li> <li>Proficiency in Domain-Driven Design (DDD) principles to create a maintainable and modular architecture that aligns with business domains</li> <li>In-depth knowledge of web security best practices and experience in ensuring compliance with industry regulations</li> <li>Demonstrated experience in performance optimization for high-traffic web applications</li> <li>Experience with container technologies like docker and good understanding of cloud infrastructure and solutions.</li> <li>Experience with agile development methodologies and collaborating with cross-functional teams</li> <li>Excellent problem-solving skills and a proactive approach to troubleshooting and bug fixing</li> <li>Strong communication skills to effectively interact with both technical and non-technical team members with diverse backgrounds</li> <li>A passion for staying updated with the latest trends, technologies, and best practices in software development</li> </ul><p><strong>Why You'll Love Working Here</strong></p><ul> <li>Globally Remote Work Opportunity</li> <li>Local time zone office hours, work by your schedule</li> <li>Paid Time Offs</li> <li>Share Option Plan</li> <li>Company Performance Bonus</li> <li>Company activities &amp; team offsites to exotic locations</li> <li>Training and development plan</li> </ul><p><strong>CoverGo Company </strong><a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"><strong>Video</strong></a></p><h3>Requirements: </h3><h3>Benefits: </h3>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1663581815960145923/EiMoGuaS_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -236,7 +135,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>Engineers on our team today:</p><ul><li>Work in JavaScript primarily, and dabble in Shell/Python as necessary</li><li>Ship UIs in Vue.js, build APIs in Node.js</li><li>Care deeply about crafting beautiful user interfaces</li><li>Are extremely supportive, especially when teammates are faced with new challenges</li><li>Leave no opportunity to&nbsp;<a href="https://twitter.com/search?q=karen%20getumbrel&amp;src=typed_query" rel="noopener noreferrer" target="_blank">sneak jokes</a>&nbsp;into the source code</li><li>Are left to autonomously figure out solutions to their challenges</li><li>Think hard about every problem and its solution from user’s perspective</li><li>Value clear and frequent communication (we do a lot of reading and writing)</li><li>Enjoy being a generalist and are not tied down to a specific framework or surface area of our codebase</li><li>Are naturally curious and willing to learn something they don’t have experience in</li><li>Feel a great sense of accountability to each other</li><li>Have good judgement of when to ship: perfect is the enemy of good</li><li>Have a fundamental understanding of Linux/Docker/networking</li></ul>
+                <p>Engineers on our team today:</p><ul><li>Work in JavaScript primarily, and dabble in Shell/Python as necessary</li><li>Ship UIs in React.js, build APIs in Node.js</li><li>Care deeply about crafting beautiful user interfaces</li><li>Are extremely supportive, especially when teammates are faced with new challenges</li><li>Leave no opportunity to&nbsp;<a href="https://twitter.com/search?q=karen%20getumbrel&amp;src=typed_query" rel="noopener noreferrer" target="_blank">sneak jokes</a>&nbsp;into the source code</li><li>Are left to autonomously figure out solutions to their challenges</li><li>Think hard about every problem and its solution from user’s perspective</li><li>Value clear and frequent communication (we do a lot of reading and writing)</li><li>Enjoy being a generalist and are not tied down to a specific framework or surface area of our codebase</li><li>Are naturally curious and willing to learn something they don’t have experience in</li><li>Feel a great sense of accountability to each other</li><li>Have good judgement of when to ship: perfect is the enemy of good</li><li>Have a fundamental understanding of Linux/Docker/networking</li></ul>
                 </details>
                 </td>
             </tr></table>
