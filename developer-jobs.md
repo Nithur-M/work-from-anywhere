@@ -1,5 +1,55 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/7704/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>JLS Trading Co.</h5>
+                    <h3> Entry-Level Gag Gift & Prank Product Developer @ Fun Ecom Co | Great People & Flexible Hours</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/jls-trading-co-entry-level-gag-gift-prank-product-developer-fun-ecom-co" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0074/7704/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Charlotte, NC
+    <br /><strong>URL:</strong> <a href="http://JLSTradingCo.com/careers">http://JLSTradingCo.com/careers</a>
+</p>
+
+<div>- Are you tired of not being able to express yourself through the medium of d*ck jokes?</div><div>- Do you like creating something from nothing, especially if it’ll make someone laugh?</div><div>- Do you thrive in a high-stress environment filled with political infighting, bureaucracy, and corporate nonsense?</div><div><br></div><div>If so, then we are the place for you, except you might hate how nice of a company we have - filled with happy, generally competent people that don’t put up with jerks. Frankly, it makes me sick how nice everyone is.</div><div><br></div><div>We are remote full time, have very flexible hours, people are judged by their output, not by how much they suck up to the boss, and turnover is super low because the company believes that happy employees = happy customers = happy bank account. Simply disgusting, if you ask me.</div><div><br></div><div><strong>--Is this a real job ad?--</strong></div><div>Yup! Amazingly enough, we actually paid money to post this on a bunch of different job sites. And it’s not even a pyramid scheme! Plus, get this: the owner just started paying our 60ish employees with money instead of Pizza Hut coupons - we’re big time, people.</div><div><br></div><div>Our careers page is actually worth checking out to learn more about how insane we are (sidenote: it won a web design award in 1993 - we’re a pretty big deal):</div><div><br></div><div><a href="http://www.jlstradingco.com/careers/">http://www.jlstradingco.com/careers/</a></div><div><br></div><div><strong>--What do you guys do?--</strong></div><div>We sell a lot of different things but our primary focus now is developing/engineering from scratch very cool products in a variety of niches. </div><div><br></div><div>A small sampling:</div><div><br></div><div>- Bad Parking Cards: (<a href="http://amzn.com/dp/B01HLGZRCQ">http://amzn.com/dp/B01HLGZRCQ</a>)</div><div>- Shart Survival Kit: (<a href="http://amzn.com/dp/B09VTJRGBJ">http://amzn.com/dp/B09VTJRGBJ</a>)</div><div>- Dehydrated Water: (<a href="http://amzn.com/dp/B072L38SGT">http://amzn.com/dp/B072L38SGT</a>)</div><div><br></div><div>Our business is growing rapidly every year, and it’s our intention to continue that for as long as possible, which means we need good people to help us keep up with the growth.</div><div><br></div><div><strong>--What is your company like?--</strong></div><div>
+<strong>1. Full Time Remote/Flexible Hours.</strong> You will be working from home in your pajamas, on your schedule. And we don’t care if you work 10 hour days 4 days a week or want to catch up on the weekend. So long as you get a lot of work done, we’re happy campers.</div><div><br></div><div>
+<strong>2. Complete Work/Life Balance. </strong>If you’re routinely working more than 45ish hours, you’re gonna get a friendly talking-to. We want you to be operating at 100% capacity, which means that you need to rest.</div><div><br></div><div>
+<strong>3. You Can Be Yourself.</strong> You don’t have to put on a fake, professional face. You can just be yourself. You can talk smack to the CEO, and no one will think anything of it.</div><div><br></div><div>
+<strong>4. Major Opportunities for Career Growth.</strong> We are not trying to just be a small business. We plan to be doing $100 million annually in the next few years. We promote quickly once we identify talent. It doesn’t matter what your credentials are – it matters what you get done.</div><div><br></div><div>
+<strong>5. Strongly Anti-BS.</strong> Anybody in the company can (and is expected to) tell the CEO when he is wrong. There are no bureaucratic or BS rules getting in the way of getting work done.</div><div><br></div><div>
+<strong>6. No Micro-Management. </strong>Once you’re trained and have demonstrated you know your stuff, we are pretty hands-off. In fact, if you need external management to stay on-task and motivated, we probably aren’t the place for you.</div><div><br></div><div>
+<strong>7. Supportive Environment.</strong> We don’t operate via intense stress or unreasonable top-down deadlines. Everyone wants you to be successful – internal politics are at a minimum here.</div><div><br></div><div>
+<strong>8. No Toxic People Allowed.</strong> We try very hard to screen out mean people before they get in, but in case they slip through, we fire them quickly. Imagine never having to interact with toxic people at work - how nice would that be?</div><div><br></div><div>
+<strong>9. We’ll Invest in Your Training.</strong> We want you and everyone to get better constantly. You’ll be learning new things all the time, and are strongly encouraged to invest time every day to learn new things, improve your system/work process, and just generally try to make your life easier.</div><div><br></div><div>
+<strong>10. Four+ Weeks Vacation.</strong> We 100% want you to recharge, so having plenty of time off is absolutely worth it.</div><div><br></div><div>
+<strong>11. Self-Funded So We Can Do What’s Right for Us. </strong>We don’t have to answer to anyone but ourselves, so we can make the right decision for the long-term health of the company vs trying to get big too fast or cut corners to appease some selfish investor.</div><div>
+<br><br>
+</div><div><strong>--What are your company’s values?--</strong></div><div>See here: <a href="http://www.jlstradingco.com/careers/">http://www.jlstradingco.com/careers/</a>
+</div><div><br></div><div>Yes, those are legitimately our values. The careers page is definitely worth checking out - it’s not just normal corporate BS. We promise you’ll learn a lot about us.</div><div><br></div><div><strong>--OK, so I’ve read like 8 dang pages about you guys. Will you tell me what the actual job is?--</strong></div><div>No.</div><div><br></div><div><strong>--Wait... What?--</strong></div><div>OK fine.</div><div><br></div><div><strong>--So, what will I actually be doing?--</strong></div><div>Super short version:</div><div><br></div><div><em>Getting paid to learn a bunch of skills in and around product development then making a ton of hilarious gag gifts that will delight our customers without getting us put onto any (more) watch lists.</em></div><div><br></div><div>Here is a bulleted list of responsibilities:</div><div><br></div><div>- Develop a concept for a funny gag gift or prank</div><div>- Do market research to get an idea of its potential</div><div>- Rough out the concept/design/jokes</div><div>- Write jokes for the packaging</div><div>- Communicate with a graphic designer to finalize the product</div><div>- Work with our sourcing team to find a vendor for actually making it</div><div>- Manage all the details of getting the product made and into our warehouse (there are A LOT of details)</div><div>- Provide jokes for the marketing materials</div><div><br></div><div>Things like that. Don’t worry, we don’t expect you to come in and do all these on day 1. You’ll be trained and coached so you can learn this stuff from the ground up.</div><div><br></div><div>It’s fun work, but it’s not all just jokes - you have to produce, and find ways to automate/delegate so that you can get more efficient. We want to eventually launch hundreds of gag gifts per year, and you’re gonna be one of the key people responsible for making that happen.</div><div><br></div><div><strong>--Do I need experience with product development?--</strong></div><div>Not at all. We want special people, and don’t give AF what their background is. Most of our best people did nothing remotely related to their current roles. We hire much more for potential than existing knowledge.</div><div><br></div><div>We’ll train you how to do all these things. Though, we probably can’t train you to be funny unfortunately.</div><div><br></div><div><strong>--Do I need a college degree?--</strong></div><div>You just need to be awesome.</div><div><br></div><div><strong>--Are there any geographic restrictions?--</strong></div><div>As long as you are in a country that doesn’t have active sanctions from the US government, we are interested. Our founder isn’t known for respecting the government much, but they have all the guns, so…</div><div><br></div><div><strong>--What are some example products you want to have made?--</strong></div><div>We’ll definitely help you with concepts, and you’ll eventually be doing things that you came up with, but to give you some examples, here are some more things we recently developed:</div><div><br></div><div>- <a href="https://www.amazon.com/dp/B09JB1D2LN?ref=myi_title_dp">Extra small condoms</a> (a box filled with rubber thimbles with a bunch of jokes on the packaging)</div><div>- <a href="https://www.amazon.com/dp/B09KN19JNY?ref=myi_title_dp">The Child Chucker</a>
+</div><div>- <a href="https://www.amazon.com/dp/B0BP8KB4S1?ref=myi_title_dp">The Human Cone</a>
+</div><div><br></div><div><strong>--Does everything have to be a d*ck joke?--</strong></div><div>First, you sound like my ex on our wedding day. Second, definitely not. We have a long list of d*ck-free ideas, and I’m sure you’ll be able to come up with plenty of other things.</div><div><br></div><div><strong>--How funny do I have to be?--</strong></div><div>This is kinda tough. Probably no one in the company is capable of being a stand up comedian, but we can probably riff pretty well and recognize funny when we see it. The ability to write funny things vs being funny in conversation are correlated but not 100%. If you aren’t necessarily the funniest person in the room, but you think you can meme with the best of them, then this might still be the gig for you.</div><div><br></div><div>You’re basically gonna be a comedy writer and a project manager. If you don’t foresee yourself being comfortable writing a lot of jokes regularly, this probably isn’t the gig for you.</div><div><br></div><div><strong>--This sounds pretty good, though I’m still skeptical that this isn’t a pyramid scheme.--</strong></div><div>You sound just like our tax auditor!</div><div><br></div><div><strong>--That doesn’t resolve any of my fears, but what do I need to do to apply?--</strong></div><div>Please submit your information on the following page to apply. We promise to respond within 5-10 business days even if our answer is No.</div><div><br></div><div>There will be multiple steps in this process, FYI, including a long written application, interviews with potentially a few different people, and paid work test(s). Hiring the right people is really hard and very expensive if we do it poorly, so we have to front-load the process. I'm sorry about that and thank you for sticking with us.</div><div><br></div><div>Once you’re in our pipeline though, I would anticipate giving you a final answer within a few weeks, depending on how it goes. We definitely don’t want to string you along, and as long as you do what we ask, we promise to tell you “yes” or “no”, and to not just ghost you (like everybody I match with on Tinder).</div><div><br></div><div>Thank you for your time and interest, and I hope we can work together soon!</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/jls-trading-co-entry-level-gag-gift-prank-product-developer-fun-ecom-co">https://weworkremotely.com/remote-jobs/jls-trading-co-entry-level-gag-gift-prank-product-developer-fun-ecom-co</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0001/6931/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +60,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/baymard-institute-rails-backend-developer" align="right" target="_blank">Apply</a>
@@ -108,81 +158,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0118/0648/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>ShoutOut</h5>
-                    <h3> Senior fullstack developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/shoutout-senior-fullstack-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0118/0648/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Chicago
-    <br /><strong>URL:</strong> <a href="https://shoutoutcity.com">https://shoutoutcity.com</a>
-</p>
-
-<div><br></div><div>🚀 <strong>Join ShoutOut: Senior Fullstack Developer</strong> 🚀<br><br>
-</div><div>
-<br>Are you ready to unleash your creativity and technical prowess while shaping the future of innovative web applications? If you're a senior fullstack developer who thrives on cutting-edge technologies and possesses expertise in TypeScript, JavaScript, Next.js, React.js, Nest.js, and TypeORM, then we have an extraordinary opportunity waiting for you!<br><br>
-</div><div>
-<strong><br>About ShoutOut:<br></strong><br>
-</div><div>
-<br>ShoutOut is not just another company – we're a dynamic force that's expanding into multiple cities, and our founding team brings a proven track record of building national-scale enterprises. As a member of our team, you'll have the chance to grow with a company that's on the cusp of exponential success. This is your invitation to be part of something monumental – a chance to make your mark and reap the rewards of your dedication and innovation.<br><br>
-</div><div>
-<strong><br>Your Role: Senior Fullstack Developer<br></strong><br>
-</div><div>
-<br>In this role, you'll be the architect of the extraordinary, crafting exceptional web applications that push boundaries and redefine industries. Collaborating within our close-knit, accomplished teams, you'll tackle challenging projects that not only meet but exceed client expectations. Your expertise will help shape the digital landscape, leaving a lasting impact that resonates far beyond lines of code.<br><br>
-</div><div>
-<strong><br>What We Offer:<br></strong><br>
-</div><div>
-<br>🌟 <strong>Competitive Compensation:</strong> We are looking for early leaders and in addition to a monthly salary, we are open to offering you equity to ensure you will be successful as the company grows. <br><br>
-</div><div>
-<br>🌐 <strong>Remote Flexibility:</strong> Join us from anywhere in the world. Our remote work environment is not only welcoming but also empowering, allowing you to thrive on your terms.</div><div><br></div><div>
-<br>📚 <strong>Learning &amp; Growth:</strong> Embrace the opportunity to learn and evolve. We're committed to fostering an environment that supports your career growth and personal development.<br><br>
-</div><div>
-<br>🤝 <strong>Team Unity:</strong> Collaboration is at our core. Experience a team culture that's built on support, camaraderie, and shared success.<br><br>
-</div><div>
-<strong><br>What We Expect:<br></strong><br>
-</div><div>
-<br>🚀 <strong>Experience:</strong> You bring at least 3 years of fullstack development experience, ensuring a solid foundation for the incredible work you'll be doing.<br><br>
-</div><div>
-<br>💡 <strong>Technical Proficiency:</strong> Your mastery of TypeScript, JavaScript, Next.js, React.js, Nest.js, and TypeORM is second to none.<br><br>
-</div><div>
-<br>🌐 <strong>Tech Savviness:</strong> You're well-versed in RESTful APIs, web sockets, and microservices – crucial elements for crafting exceptional web applications.<br><br>
-</div><div>
-<br>🧪 <strong>Testing Acumen:</strong> Experience with testing frameworks like Jest and Cypress showcases your commitment to delivering top-notch, bug-free solutions.<br><br><br>
-</div><div>
-<br>🛠️ <strong>Tech Toolbox:</strong> Git, GitHub Actions, Docker, and AWS are tools you wield effortlessly to build robust and scalable applications.<br><br>
-</div><div>
-<br>🗣️ <strong>Fluent Communication:</strong> English fluency allows you to articulate your ideas and collaborate effectively with our global team.<br><br>
-</div><div>
-<br>🚀 <strong>Initiative:</strong> Your self-motivation and attention to detail drive your proactive approach to problem-solving and innovation.<br><br>
-</div><div>
-<br>👥 <strong>Team Player:</strong> You're not just a developer; you're a valuable team player who can work independently and in harmony with others.<br><br>
-</div><div>
-<br>Are you ready to create a legacy? Join ShoutOut as a Senior Fullstack Developer and be part of a journey that's destined for greatness. Let's build the future together.<br><br>
-</div><div>
-<em><br>Apply now and seize your opportunity to shape tomorrow!</em> 🌟</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/shoutout-senior-fullstack-developer">https://weworkremotely.com/remote-jobs/shoutout-senior-fullstack-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0103/5339/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -193,7 +168,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/dogsthat-full-time-front-end-wordpress-developer-designer-jack-of-all-trades" align="right" target="_blank">Apply</a>
@@ -248,7 +223,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/smily-front-end-developer" align="right" target="_blank">Apply</a>
@@ -305,7 +280,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/overmind-blockchain-developer" align="right" target="_blank">Apply</a>
@@ -339,7 +314,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>65 days ago</text>
+                <text>66 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/10ex-dev-software-developer-elixir" align="right" target="_blank">Apply</a>
@@ -418,7 +393,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>180 days ago</text>
+                <text>182 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -502,7 +477,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1022 days ago</text>
+                <text>1023 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
@@ -571,6 +546,83 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/814298/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>A.Team</h5>
+                    <h3>Senior Independent Software Developer</h3>
+                </td>
+                <td width="300">
+                    <code>go,wordpress,chat,apple</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="text-size-adjust: 100%; overflow-wrap: break-word;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. </p>
+<p style="text-size-adjust: 100%; overflow-wrap: break-word;">After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.</p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><em>As part of A·Team, you can expect:</em></span></p>
+<ul style="">
+<li style=""><strong>High-paying, meaningful missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
+<li style=""><strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
+<li style=""><strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
+<li style=""><strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
+<li style=""><strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
+</ul>
+<p> </p>
+<p> </p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>How to apply:</strong></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Go here: <a href="https://build.a.team/remotivereferral" rel="nofollow">https://build.a.team/remotivereferral</a> + mention Remotive. </span>No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.</p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>What you’ll do:</strong></span></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </span></p>
+</li>
+</ul>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><strong><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Who A</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">·</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Team is for:</span></strong></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy.</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing</span></p>
+</li>
+</ul>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><strong><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Who A</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">·</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Team is </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">not</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"> for:</span></strong></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">People looking for small gigs</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Folks looking to build simple wordpress/wix/squarespace-style websites</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Those still early in their careers and recent university/bootcamp grads (at least not yet)</span></p>
+</li>
+</ul>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>Our long-term vision:</strong></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a new type of company for a new kind of independent software builder. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</span></p>
+<img src="https://remotive.com/job/track/814298/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1761558/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -581,7 +633,7 @@
                     <code>api,CSS,git,html</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/website-developer-1761558" align="right" target="_blank">Apply</a>
@@ -641,7 +693,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -937,89 +989,6 @@
                 </td>
                 <td width="300">
                     <h5>Status</h5>
-                    <h3>Web Developer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4365480&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <p>&nbsp;</p>
-<p><strong>The project</strong></p>
-<p>Our organization is closely involved in a new community lead project, called Logos, and this role will enable you to focus on its development. Logos is a grassroots movement to provide trust-minimized, corruption resistant governing services and social institutions to underserved citizens. Logos’ infrastructure will provide a base for the provisioning of the next-generation of governing services and social institutions - paving the way to economic opportunities to those who need them most, whilst respecting basic human rights through the network’s design.</p>
-<p>In order to promote the ideas behind Logos and its vision, we have created a brand studio called acid.info and you will be part of it. <a href="http://acid.info/">Acid.info</a> is the studio and creative engine within the Logos DAO. Our mission is to build, and ensure, technologies and creativity that supports freedom, justice, and innovation for all people of the world.&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>The role</strong></p>
-<p>As a Web Developer, you will be responsible for the development and technical maintenance of various web-based projects in the studio. Your role will involve decision-making for code architecture, writing tests, choosing the right technology stack, and any other related tasks. You will work closely with the development team, studio lead, and design team to bring our web projects to life. You will take care of all technical aspects of all web projects (from development and testing to deployment and maintenance)&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Responsibilities</strong></p>
-<ul>
-<li>You will be developing and implementing internal tools, including our wiki engine framework, branding design portal our design systems implementation in React</li>
-<li>You will co-write documentation for all the above mentioned products/projects</li>
-<li>You will be responsible for maintaining our open-sourced codebases on Github</li>
-<li>You will be improving the architect and implementation<a href="https://github.com/acid-info/logos-site-builder"> our current site-generator framework</a> (built on top NextJS) and develop it further</li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>You ideally will have</strong></p>
-<ul>
-<li>Experience in ReactJS and NodeJs (all in Typescript)&nbsp;</li>
-<li>Good understanding of software architecture</li>
-<li>Experience in implementation of frontend libraries and design systems</li>
-<li>Experience working with Git, Docker and NextJS framework as well as Vercel and/or Netlify</li>
-<li>A strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>Bonus points if</strong></p>
-<ul>
-<li>You are comfortable in working remotely and asynchronously</li>
-<li>You have experience working for an open source organisation</li>
-<li>You have exposure to creative coding (processing, open frameworks, WebGL, writing shaders, p5js)</li>
-</ul>
-<p><em>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</em></p>
-<p>&nbsp;</p>
-<p><strong>Compensation</strong></p>
-<p><span style="font-weight: 400;">The expected compensation range for this role is $40,000 - $60,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process. </span></p>
-<p>&nbsp;</p>
-<p><strong>Hiring process</strong></p>
-<ol>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with POps team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Web Developer and Design Studio Lead</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Assessment (paid)</span></li>
-</ol>
-<p><em><span style="font-weight: 400;">[The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline!]</span></em></p>
-<p>&nbsp;</p>
-<p><strong>Get to know us</strong></p>
-<p><span style="font-weight: 400;">Find out about the Logos here: </span><a href="https://logos.co"><span style="font-weight: 400;">https://logos.co</span></a></p>
-
-    
-
-    
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Status</h5>
                     <h3>Senior C++ Qt/QML developer for blockchain app</h3>
                 </td>
                 <td width="300">
@@ -1295,99 +1264,6 @@
     
 
     
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1569586501335359494/4rq0Hb99_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Appwrite</h5>
-                    <h3>Developer Advocate (YouTube & Developer Education focused) - Europe</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://careers.appwrite.io/developer-advocate-youtube-developer-education-focused-europe" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-<aside class="mask" style="opacity: 1;"></aside><div class="body" data-columns="1"><div class="article" data-medium-editor-element="" style=";">
-<h1>About the job</h1>
-<p>Appwrite is seeking a passionate and versatile Developer Advocate to focus on the growth of our YouTube channel and creating Appwrite how-to videos. Your primary role will be to develop and execute our video content strategy while also contributing to the overall growth of our developer community. This position is open for candidates located in Europe. Knowledge of Flutter is a big plus but not required. Although travel is optional, you should be open to attending a few in-person company gatherings and events, with up to 25% travel. If you enjoy working with a fast-moving, fast-growing startup and being part of a fun, collaborative, and diverse team, this is the perfect opportunity for you!</p>
-<p>The Developer Relations team at Appwrite operates as an independent department and is currently a team of 6 individuals and growing. Our Founder and a significant part of our company are deeply involved in developer communities. We believe Developer Relations is an important part of our organization and are highly valued and understood by leadership and throughout our organization. We understand and appreciate the impact of the DevRel role on our success and strive to create an environment where you feel supported and empowered. Communication and transparency are our core values, and we developer experience and collaborate to integrate developer feedback into our work.</p>
-</div></div>
-<style>
-                @media only screen and (max-width: 767px) {
-                    #block-1 {
-                        padding-top: 25px !important; padding-bottom: 25px !important;
-                    }
-                }
-                </style>
-
-<aside class="mask" style="opacity: 1;"></aside><div class="body" data-columns="1"><div class="article" data-medium-editor-element="" style=";">
-<h1>Responsibilities</h1>
-<ul>
-<li><p>YouTube Channel Growth: Strategize and execute plans to grow our YouTube channel, focusing on creating engaging video content related to Appwrite how-tos and other developer topics.</p></li>
-<li><p>Content Creation: Develop high-quality video content, blog posts, presentations, live streams, and more to educate developers and promote Appwrite.<br></p></li>
-<li><p>Community Engagement: Attend, speak, and sponsor in-person and virtual events to connect with various developer communities.<br></p></li>
-<li><p>Advocate: Represent Appwrite as a thought leader in different communities, advocate for Appwrite's community internally, and promote Appwrite externally.</p></li>
-<li><p>Partnerships: Collaborate with Integrations Engineers to identify and establish potential partnerships for collaboration/integration projects, ensuring a smooth handoff of responsibilities for code development and cross-marketing opportunities.<br></p></li>
-<li><p>Internal Advocacy: Act as the voice of the developer within the company, ensuring that product, engineering, and marketing teams understand and address the needs and concerns of the developer community.</p></li>
-<li><p><span>Marketing Collaboration: Work closely with the marketing team to ensure content is shared and promoted through our social calendar.</span></p></li>
-<li><p><span>Developer Feedback: Gather and analyze developer feedback, sharing insights with the Engineering teams to improve our product and services.<br></span></p></li>
-</ul>
-<h1>Requirements</h1>
-<div><ul>
-<li>
-<span>Located in Europe.</span><br>
-</li>
-<li><span>Established experience in producing high-quality video content.<br></span></li>
-<li>Experience with Open Source communities and projects.</li>
-<li>Proficiency in at least two programming languages and/or frameworks, such as Node, Vue, PHP, Dart, Swift, Flutter, etc.</li>
-<li>Passion for teaching developers how to build cool stuff.</li>
-<li>Basic understanding of developer experience and funneling feedback from developers to internal teams.</li>
-<li>Demonstrated track record of creating quality technical video content.</li>
-<li>Willingness to travel up to 25% (optional).</li>
-<li>Ability to work with a diverse, globally-located company and team, collaborating across different time zones.</li>
-<li>Thrives in a fast-paced startup environment, demonstrating adaptability, resilience, and a strong work ethic.</li>
-</ul></div>
-<p><br></p>
-<h1>Benefits</h1>
-<p>🏠 <b>100% Remote</b></p>
-<p>Our entire company is distributed, so we take remote work seriously. If you’d rather not work from home, we will cover the cost of a coworking or office space.</p>
-<p>📈 <b>Stock Options</b></p>
-<p>Get generous stock options for a company that is growing blazing fast and is backed by top VCs :)</p>
-<p>🕰 <b>Flexible Hours &amp; Days</b></p>
-<p>We're a remote team working in different time zones, from UTC+06:00 to UTC-06:00. Choose the hours and days that work best for you!</p>
-<p>🏥 <b>Healthcare</b></p>
-<p>Employees receive generous medical, dental, vision, and life insurance. Full-time contractors will have the cost of healthcare factored into their salary. Our recruiting team can help confirm which applies to you.</p>
-<p>❤️ <b>Github Sponsorship of Your Choice</b></p>
-<p>We would love to give an annual sponsorship to any GitHub project of your choice!</p>
-<p>🎓 <b>Learning</b></p>
-<p>Appwrite provides $3,000 USD for employees to attend conferences, take classes, or otherwise further their education.</p>
-<p>✈️ <b>Gatherings</b></p>
-<p>We typically meet up couple times a year in person for work and fun! What will be our next location? NYC, London, LA, or Barcelona? Help us decide!</p>
-<p>🖥 <b>Top Notch Equipment</b></p>
-<p>Appwrite will let you choose a new laptop of your choice (up to $3,000 USD) and will reimburse up to $500 USD for office expenses.</p>
-<p>🧦 <b>Unlimited SWAGS</b></p>
-<p>At Appwrite, we really love Swags. Each new team member gets unlimited credits to grab any official Appwrite Swag that they wish.</p>
-</div></div>
-<style>
-                @media only screen and (max-width: 767px) {
-                    #block-2 {
-                        padding-top: 25px !important; padding-bottom: 25px !important;
-                    }
-                }
-                </style>
 
                 </details>
                 </td>
