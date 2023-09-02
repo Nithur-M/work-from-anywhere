@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/jls-trading-co-entry-level-gag-gift-prank-product-developer-fun-ecom-co" align="right" target="_blank">Apply</a>
@@ -60,7 +60,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/baymard-institute-rails-backend-developer" align="right" target="_blank">Apply</a>
@@ -168,7 +168,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/dogsthat-full-time-front-end-wordpress-developer-designer-jack-of-all-trades" align="right" target="_blank">Apply</a>
@@ -213,58 +213,87 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0099/5713/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0099/5721/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Smily</h5>
-                    <h3> Front-End developer</h3>
+                    <h5>TextMagic</h5>
+                    <h3> Senior Back-end developer (PHP, Symfony, PostgreSQL)</h3>
                 </td>
                 <td width="300">
-                    <code>Front-End Programming</code>
+                    <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/smily-front-end-developer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/textmagic-senior-back-end-developer-php-symfony-postgresql-1" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0099/5713/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0099/5721/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> France 
-    <br /><strong>URL:</strong> <a href="https://smily.com">https://smily.com</a>
+  <strong>Headquarters:</strong> Estonia
+    <br /><strong>URL:</strong> <a href="https://www.textmagic.com">https://www.textmagic.com</a>
 </p>
 
-<div>Important note: Chances are, you're about to find the next great company to have fun with on a long-term basis (and that’s what we’re looking for)!</div><div><br></div><div>We're looking for a Frontend developer with experience in entrepreneurship, software and travel... BUT BEWARE:</div><div><br></div><div>We are looking for a badass who will be able to adapt to our style and our culture.</div><div><br></div><div><strong>Your main mission is to convert designs into structured and super fast websites.</strong></div><div><br></div><div>This is a full-time position, working remotely either from your home or from the country that inspires you.</div><div>
-<br>🎯 Your 10 main goals:</div><ol>
-<li>Collaborate with the design and product teams to integrate UI/UX designs into functional web pages, landing pages and Shopify alike (Liquid) templates.</li>
-<li>Ensure the seamless integration of front-end components with back-end services.</li>
-<li>Optimize web pages for performance, scalability, and cross-browser compatibility.</li>
-<li>Maintain the company’s website and perform regular updates to content and functionality.</li>
-<li>Implement responsive web designs for optimal viewing on a variety of devices.</li>
-<li>Develop, modify, and debug web pages, landing pages and Shopify alike (Liquid) templates and tools, ensuring code quality and best practices.</li>
-<li>Coordinate with marketing teams to integrate SEO strategies and improve web presence.</li>
-<li>Monitor web analytics, and work towards improving the user experience and conversion rates.</li>
-<li>Provide technical support and guidance to clients and internal teams.</li>
-<li>Continuously stay updated with industry trends, tools, and technologies.</li>
-</ol><div><br></div><div>Why join us? ❤️</div><div><br></div><div>The team is really cool and ambitious, the offices are amazing - we don't have any 😂, you can work from wherever you want on our beautiful planet 🌍* and you get to participate in sharing smiles (this is an opportunity to sell a product that doesn't keep you up at night!).</div><div><br></div><div>* If you want a ticket to the moon 🌗 it's still expensive but we should be able to help reserve a spot for you ;)</div><div><br></div><div>But also...</div><div>It is an opportunity...</div><div><br></div><div>* To play a major role in the growth of an ambitious company</div><div>* To join a company whose mission is to put people at the heart of its business and to have a real impact on the lives of its customers and their community (owners, travelers, family...)</div><div>* The opportunity to contribute to a culture that combines performance, ambition and well-being. A culture so strong that our A players would never consider working anywhere else.</div><div><br></div><div>Smily is also...</div><div>* A team always in great spirits taking on a global market populated by dinosaurs 🦖🦕or uninspired companies that are just there to take advantage of a market opportunity</div><div>* Waking up in the morning with the feeling that you're making millions of people's lives better and helping them achieve their dreams</div><div>* The ability to work from wherever you want (by the pool, in the woods or on your stand-up desk)</div><div>* A remote culture from day one: we're always experimenting with new ways to make telecommuting as warm and cool as possible. For example, some people challenge themselves to do sports or meditation.</div><div>* A company culture based on autonomy</div><div>* Being surrounded by A-Players</div><div>* A guarantee of being pushed to progress</div><div>* A growing company, synonymous with development opportunities!</div><div><br></div><div>But that's not all, because we put team well-being at the heart of our strategy:</div><div><br></div><div>* Flexible locations: you're encouraged to work from wherever inspires and suits you best. Whether it's to enjoy the best kitesurfing spots 🪁🏄♀️ or spend more time with your family.</div><div>* Flexible hours: what's important to us is the value you bring much more than the time you work - even if you will be required to maintain moments of sharing and communication with the team ;)</div><div>* Your own boss: we are partners and work as equals. Our relationship does not work out of a sense of obligation but out of a common will and effort to strengthen it on a daily basis.</div><div>* Team building / Team retreats: we meet in a corner of paradise on our planet to share good times together, discuss our vision, celebrate our victories and brainstorm the next crazy challenge.</div><div><br></div><div>Profile sought<br>The ideal candidate: 😍</div><div><br></div><div>This is for you if have: </div><div><br></div><ul>
-<li>Have a minimum of 3 years of experience in web development and integration.</li>
-<li>Have proficiency in HTML, CSS, JavaScript. Familiarity with front-end frameworks like React or Angular is a plus.</li>
-<li>Have experience working with RESTful APIs and JSON.</li>
-<li>Are familiar with version control systems like Git.</li>
-<li>Have a strong understanding of UI/UX principles and responsive design techniques.</li>
-<li>Have knowledge of SEO best practices and web analytics tools.</li>
-<li>Have excellent problem-solving skills and attention to detail.</li>
-<li>Have strong written and verbal communication skills.</li>
-</ul><div><br></div><div>* An interest in the world of short-term rental and coaching would be a big plus.</div><div><br></div><div>Currently we are 50/50 male female and we aspire to be a balanced, inclusive team.</div><div><br></div><div>Languages :</div><div>* French: fluent</div><div>* English: fluent, all your work must be possible in English too. All our internal communication is done in English!</div><div><br></div><div>But this may not be for you...</div><div><br></div><div>As you can see, we don't want people who are just looking for a "job”. We are inspired by a culture of performance and ambition.</div><div>We want to do what very few companies have the courage to do, we want to create the exceptional and impact the maximum number of lives.</div><div><br></div><div>For this reason, some people imagine that they will work in an easy environment without any pressure.</div><div><br></div><div>But we have a very startup-oriented culture where everything is fast-paced and there is a lot of change. Where you are not always told exactly what to do or how to do it.</div><div><br></div><div>We tell each other things, even if they are uncomfortable, we prefer growth to ego comfort; we like to share clear and honest feedback. In our company, expressing disagreement and knowing how to argue is valued!</div><div><br></div><div>We encourage critical and strategic thinking. We question our assumptions, we're mindful of our biases, and we seek to put our energy where the leverage is greatest.</div><div><br></div><div>Do you experience criticism as a personal attack? Are you ready to receive regular feedback to allow yourself to progress? To take it well? To give it to others? Or even to give it to yourself?</div><div><br></div><div>We realize that this is not for everyone.</div><div><br></div><div>If all this resonates with you, then we'll love working with you (and you with us, you'll be pampered!),come write the next chapter with us.</div><div>
-<br>Interview process<br>How to apply?<br><br>
-</div><div>❌ Any copied and pasted, non-personalized applications will go straight into the trash.</div><div><br></div><div>⚠️ To get to the end of the recruitment process, each candidate might be asked to set up calls with their previous managers. If you're not comfortable with this idea: don't apply ⚠️</div><div><br></div><div>TO APPLY</div><div><br></div><div>Simply fill out a short questionnaire by clicking on "Apply for this position". We will ask you to attach your C.V. (we will not consider incomplete applications) :</div><div>In its early days, Google did 12 job interviews.</div><div>Apple still does between 9 and 12.</div><div>We do 4.</div><div>Some may think that's still too many, but for us it's the right balance to make sure the job is right for you.</div><div>Because we don’t want for you or for us to realize in 3 or 6 months that this job is not for you: we want to do everything we can to avoid that sort of situation, which is always uncomfortable. For you and for us!</div><div><br></div><div>The recruitment process is as follows</div><div>* 📃A quick 7 or 8 min questionnaire - <a href="https://docs.google.com/forms/d/1BPzeoeOgiSO2kL36vXsBC0KJBUEJe7XBv4guu45WFso">https://docs.google.com/forms/d/1BPzeoeOgiSO2kL36vXsBC0KJBUEJe7XBv4guu45WFso</a> </div><div>* 📞 ⚙️A 60 min TECHNICAL interview to align with what would be expected of you and assess your specific skills</div><div>* 📞🌟A 60 min CULTURE interview by Zoom or phone to further understand your background and check in depth alignment with our values and culture</div><div>* 📞 👥A 60 min TEAM interview with your future team to ensure the desire to work together on a daily basis</div><div>* ⚠️ 👥 Reference Calls: you may be asked to arrange at least 3 calls with former managers or clients for us. We do this because it provides assurance for you and for the team to be surrounded by A-Players, and it's also a way to get to know you and facilitate your onboarding.</div><div>* 👪 Welcome home!</div>
+<div><strong>The main technologies we use:</strong></div><ul>
+<li>PHP 7, Symfony 4, Codeception, PHPUnit, OpenAPI<br><br>
+</li>
+<li>PostgreSQL 10, Memcached<br><br>
+</li>
+<li>Beanstalk<br><br>
+</li>
+<li>Docker<br><br>
+</li>
+</ul><div><strong>What you will do:</strong></div><ul>
+<li>Develop new features and platform architecture.<br><br>
+</li>
+<li>Design and build REST API.<br><br>
+</li>
+<li>Integrate with third-party services using API.<br><br>
+</li>
+<li>Refactoring and code optimization.<br><br>
+</li>
+<li>Scale the project for increasing loads.<br><br>
+</li>
+<li>Participate in the team’s product logic development.<br><br>
+</li>
+<li>Undertake code reviews of other team members’ work.<br><br>
+</li>
+<li>Optimize database queries.<br><br>
+</li>
+</ul><div><strong><br>What we expect from you:</strong></div><ul>
+<li>Excellent knowledge of and experience with the technologies listed above.<br><br>
+</li>
+<li>A clear understanding of the architecture of a web application and its separate components.<br><br>
+</li>
+<li>An understanding of how the HTTP request lifecycle works.<br><br>
+</li>
+<li>Experience in building REST API.<br><br>
+</li>
+<li>An understanding of the principles of SOLID and OOP.<br><br>
+</li>
+<li>Experience in creating high-load systems in conditions of zero downtime.<br><br>
+</li>
+<li>An understanding of how to build efficient, scalable database architecture. Experience with PostgreSQL or MySQL (writing complex queries; understanding EXPLAIN; optimizing slow queries without changing the database structure; changing schemas of large tables without downtime, etc.)<br><br>
+</li>
+</ul><div><br></div><div><strong><br>What we offer:</strong></div><ul>
+<li>Full support for your professional growth.<br><br>
+</li>
+<li>Any equipment you need for productive work.<br><br>
+</li>
+<li>The opportunity to bring your vision to the project.<br><br>
+</li>
+<li>Remote working.<br><br>
+</li>
+<li>A professional and friendly team, ready to help you.<br><br>
+</li>
+</ul>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/smily-front-end-developer">https://weworkremotely.com/remote-jobs/smily-front-end-developer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/textmagic-senior-back-end-developer-php-symfony-postgresql-1">https://weworkremotely.com/remote-jobs/textmagic-senior-back-end-developer-php-symfony-postgresql-1</a></p>
 
                 </details>
                 </td>
@@ -280,7 +309,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/overmind-blockchain-developer" align="right" target="_blank">Apply</a>
@@ -314,7 +343,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>66 days ago</text>
+                <text>68 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/10ex-dev-software-developer-elixir" align="right" target="_blank">Apply</a>
@@ -393,7 +422,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>182 days ago</text>
+                <text>184 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -477,7 +506,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1023 days ago</text>
+                <text>1025 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
@@ -556,7 +585,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -633,7 +662,7 @@
                     <code>api,CSS,git,html</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/website-developer-1761558" align="right" target="_blank">Apply</a>
@@ -693,7 +722,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -1626,30 +1655,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>We are looking for<strong> Kernel Developers</strong> to work on our KernelCare team. The ideal candidate is someone looking for a rewarding and challenging career developing Linux Kernels and patches. This role requires someone with strong C development skills and a passion for all that is Linux. Our Kernel Developers create patches with a cyber security focus while finding solutions for our customers. </p> <p><br></p> <p>KernelCare is a product of CloudLinux Inc., the maker of the #1 OS in security and stability for hosting providers. KernelCare, a live kernel patching service provides security patches and bug fixes for a range of popular Linux kernels that can be installed without rebooting the system.  Check out our website for more information about our KernelCare Product <a href="https://tuxcare.com/live-patching-services/" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com/live-patching-services/</a></p><p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and  we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful. </p><p>We are truly a great place to work. </p> <p><strong>As our Kernel Developer you will be responsible for:</strong></p><ul> <li>Support existing functionality and implementation of several new features</li> <li>Update existing kernels including security fixes and CVEs patches</li> <li>Develop and support Python and Bash scripts for task automation</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role you should have:</strong></p><ul> <li>Excellent C programming and debugging skills</li> <li>Good level knowledge of Linux kernel core subsystems</li> <li>CPU and cache architectures</li> <li>Experience with GDB and other debuggers</li> <li>CPU performance and power analysis</li> <li>Independent and self-motivated problem solver and strategic thinker</li> <li>Proficient in Git for development and patch/branch management</li> <li>Good planning, time management, decision-making, presentation, and organization skills</li> <li>Effective written and verbal communication</li> <li>Excellent interpersonal and teamwork skills</li> <li>Happy in an agile, fast-paced environment</li> </ul><ul> <li>Experience with python, shell scripting</li> <li>Experience with Jenkins</li> </ul><h3>Benefits: </h3><p>What's in it for you?<br></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> </ul> <ul><li>Interesting and challenging projects</li></ul> </li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Full Stack Developer (Python) - Internal Projects & AI - Remote</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/5AC92872CE" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We are seeking a highly skilled and motivated Full Stack Developer with strong analytical skills and expertise in Python and JavaScript to join our team. In this role, you will be working on various internal projects, including projects involving the integration of systems and the use of OpenAI to automate aspects of work. Most projects will be small in scope, and the ability to write clear, easy-to-understand code and complete projects quickly is essential. You will be talking directly with stakeholders, and figuring out the best way to solve the problem. You will go for "works well enough" instead of perfection. Quick, prototype quality work will be preferred to fully engineered projects</p><p>As a Full Stack Developer at our company, you will play a crucial role in developing innovative solutions to help optimize internal processes and replace manual tasks with automated solutions. <br></p><p><strong>As our Full Stack Developer you will;</strong></p><ul> <li>Design, develop, and maintain Python and JavaScript applications for internal projects</li> <li>Talk to stakeholders, and figure out the best way to solve their problems</li> <li>Integrate various systems and work on projects involving the use of OpenAI to automate tasks</li> <li>Write clear, well-structured, and maintainable code that is easy to understand and modify</li> <li>Collaborate with cross-functional teams to develop innovative solutions and optimize internal processes</li> <li>Participate in code reviews to ensure high-quality code and identify areas for improvement</li> <li>Ensure projects are completed quickly and efficiently without compromising quality</li> </ul><h3>Requirements: </h3><ul> <li>Strong analytical and communication skills</li> <li>Ability to pinpoint the problem and come up with the solution</li> <li>Strong expertise in Python and JavaScript programming languages</li> <li>Proficiency in Git for version control</li> <li>Experience with shell scripting and Linux operating system</li> <li>Ability to communicate effectively in English, both in writing and verbally</li> <li>Demonstrated problem-solving skills and ability to work independently as well as in a team environment</li> <li>Quick learner</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> </li> <li>Flexible working hours</li> <li>Paid 24 days of vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em>
                 </details>
                 </td>
             </tr></table>
