@@ -1,57 +1,5 @@
 <div align="center"><h2>PROJECT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1747577/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>TruSport</h5>
-                    <h3>Technical Marketing Project Manager</h3>
-                </td>
-                <td width="300">
-                    <code>project management,asana,google suite,time management</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/marketing/technical-marketing-project-manager-1747577" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>About us:</p>
-<p>We are a globally distributed team on a mission of global domination. I am looking for a Technical Marketing Project Manager to help herd cats and be the glue between marketing tech and channel managers. Asana experience is a plus...</p>
-<p> </p>
-<p>Summary: </p>
-<p>We seek a skilled and detail-oriented Technical Marketing Project Manager to join our dynamic team. As the Technical Marketing Project Manager, you will be crucial in coordinating and overseeing marketing projects with a strong technical component. Your primary responsibility will be to ensure smooth project execution, manage sprints, and facilitate effective communication between cross-functional teams and external vendors. This part-time role requires proficiency in marketing, technical expertise, and experience using project management tools such as Asana, Slack, and Google Suite.</p>
-<p> </p>
-<p>Responsibilities:</p>
-<ol class="_listContainer_1wyhh_1" style="">
-<li style="">Project Management: Plan, execute, and track marketing projects with a technical focus. Create detailed project timelines, milestones, and deliverables.</li>
-<li style="">Sprint Management: Lead sprint planning and execution, ensuring tasks are assigned, completed on time, and meeting quality standards.</li>
-<li style="">Communication: Facilitate open and effective communication channels between internal teams, stakeholders, and external vendors. Provide daily updates on project statuses, needs, and blockers to ensure transparency and alignment.</li>
-<li style="">Cross-Functional Collaboration: Collaborate with marketing, design, development, and other teams to ensure seamless coordination of efforts and successful project delivery.</li>
-<li style="">Technical Expertise: Leverage your technical knowledge to understand project requirements, provide valuable insights, and ensure marketing strategies align with technical capabilities.</li>
-<li style="">Issue Resolution: Proactively identify potential roadblocks and challenges, and work with teams to develop solutions and remove obstacles hindering project progress.</li>
-<li style="">Vendor Management: Oversee relationships with external vendors, ensuring they meet project expectations and deadlines.</li>
-<li style="">Performance Measurement: Monitor project performance, track KPIs, and analyze data to provide regular progress reports to stakeholders.</li>
-</ol>
-<p> </p>
-<p>Requirements:</p>
-<ul class="_listContainer_1wyhh_1" style="">
-<li style="">Proven experience in marketing and project management in a technical environment.</li>
-<li style="">Familiarity with project management tools such as Asana, Slack, and Google Suite.</li>
-<li style="">Strong organizational and time management skills to handle multiple projects and deadlines effectively.</li>
-<li style="">Excellent communication and interpersonal skills to collaborate with diverse teams and stakeholders.</li>
-<li style="">Detail-oriented with a focus on ensuring high-quality deliverables.</li>
-<li style="">Ability to proactively identify and address project issues to keep projects on track.</li>
-<li style="">A passion for staying up-to-date with marketing trends and technological advancements.</li>
-</ul>
-<img src="https://remotive.com/job/track/1747577/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
