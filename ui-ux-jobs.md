@@ -1,5 +1,75 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0001/6931/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Baymard Institute</h5>
+                    <h3> UX Research Analyst & Writer</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/baymard-institute-ux-research-analyst-writer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0001/6931/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Denmark
+    <br /><strong>URL:</strong> <a href="https://baymard.com/">https://baymard.com/</a>
+</p>
+
+<div><em>Are you able to write thorough and engaging UX research findings?</em></div><div><br></div><div>Would you like to join a team of dedicated usability researchers, who produce cutting-edge User Experience research? Producing UX research findings that will be used by thousands of web professionals, including some of the biggest brands in the world (including Nike, Sears, Lenovo, Etsy)? Are you excellent at presenting complex research findings on web user behavior through the written word?</div><div><br></div><div>Then apply for the remote full-time position as ‘UX Research Analyst &amp; Writer’ at Baymard Institute.</div><div>
+<br><br><strong>About Your Job at Baymard</strong>
+</div><div>In this position, you will join Baymard’s team of usability researchers and primarily work at annotating and analyzing our raw usability test data and writing the insights from this into usability guidelines. The guidelines go directly into our subscription platform <a href="https://baymard.com/research">Baymard Premium</a>.</div><div><br></div><div>Our Baymard Premium customers are eagerly waiting for your UX research insights, be it the UI designer at Nike or the e-commerce director at Lenovo, as they use it as direct input for their UX and UI design decisions.</div><div><br></div><div>In this role, you’ll need to enjoy analysis and writing, since analyzing usability test data and writing usability test findings will be at least 50–80% of what you’ll be doing all year round.</div><div><br></div><div>Besides writing, the job involves moderating 1-1 usability tests, analyzing web user behavior, identifying themes and issues across multiple sites, and coming up with proposals for design patterns that can alleviate the identified problems.</div><div><br></div><div>In this job, you’ll be directly shaping the future of e-commerce, become a published usability research author, and should expect to join the ranks of the absolute top experts within e-commerce usability within a few years (if you aren’t already).</div><div><br></div><div>We want to work with the smartest and most dedicated people around the world, and the position is therefore open to full-time remote work. All of Baymard’s current team is already working remotely, so the entire company is structured around remote work. In other words, you are welcome to work with us from any location you prefer (as long as there’s a stable internet connection).</div><div><br></div><div>For more information about Baymard as a company, see the “<a href="https://baymard.com/jobs/research-writer#key-work-values-at-baymard">key work values</a>” section.</div><div><br></div><div>
+<br><strong>Job Qualifications</strong>
+</div><div>While we will train you in Baymard’s methodology and analysis process, we expect that you have the following qualifications. The numbers in brackets indicate the weighted importance of each on a 7-point scale (higher = more important). These weights reflect how candidates are evaluated, so make sure your application illustrates your prowess in the highest-weighted skills and traits.</div><ul>
+<li>[7/7] Substantial experience with <strong>analyzing usability test data</strong>. We take qualitative test data in the form of test session videos as the basis for our analysis, so experience in this form of analysis is preferred.</li>
+<li>[7/7] Substantial experience with technical or <strong>professional writing</strong>. While UX writing is preferred, this experience can also come from other paths, e.g. a background in journalism, technical writing, research, etc.</li>
+<li>[5/7] Broad experience with <strong>usability research</strong> (e.g., conducting think-aloud usability test sessions, analyzing data, writing findings).</li>
+<li>[5/7] Ability to <strong>propose web design recommendations</strong> for the usability issues we identify.</li>
+<li>[4/7] Familiarity with the <strong>‘web industry’</strong> and especially its jargon (can be from experience with web development, design, research, writing, etc.).</li>
+<li>[2/7] <strong>Editor experience</strong>, by helping other writers craft and improve their own written work.</li>
+<li>[2/7] <strong>Technical experience</strong> with web design or development.</li>
+<li>[1/7] Experience using a <strong>style manual</strong> (e.g. Chicago Manual of Style, APA, AP, or similar substantial style manual).</li>
+</ul><div>We furthermore expect that you are <strong>comfortable working remotely via digital platforms</strong>. Additionally, as most of our team is either based in the eastern USA or western Europe, <strong>you must have at least 3–4 hours of daily scheduled work overlap</strong> with those timezones.</div><div><br></div><div>
+<br><strong>Practical Details</strong>
+</div><ul>
+<li>
+<strong>Salary:</strong> in accordance with qualifications.</li>
+<li>
+<strong>Start date:</strong> as soon as possible.</li>
+<li>
+<strong>Travel:</strong> limited; expect only 0-1 week of optional travel each year (in connection with an optional, company-wide meetup).</li>
+</ul><div><br></div><div>
+<br><strong>How to Apply</strong>
+</div><div>If you’re interested in this position, please send the following:</div><ol>
+<li>At least one long-form writing sample (1,000+ words) or a series of samples that collectively demonstrate your writing. Ideally, these are on a web-related topic (e.g., UX, e-commerce, information architecture, documentation). Samples can be both published or unpublished works; all materials are kept confidential. (Note: slide decks and samples with multiple authors are not considered.) <em>(Required)</em>
+</li>
+<li>A cover letter (1-2 pages; PDF) – describing how you fit the role and qualifications. <em>(Required)</em>
+</li>
+<li>A resume (PDF) or a link to your LinkedIn profile. <em>(Required)</em>
+</li>
+</ol><div>
+<strong>Send the above to info+researcher2023@baymard.com</strong> <br>(All applications and materials are treated confidentially.)</div><div><br></div><div><strong>Deadline is October 1st, 2023 (end of day).</strong></div><div><br></div><div><em>Note: Based on the applications, a few selected candidates will be assigned a paid writing and analysis test, which will be the main evaluation criterion for the position. This will also be a good way for you to get a feel for the primary task of this job. (The test will be performed remotely. You’ll be given a real usability test dataset to analyze and describe within a 10-day deadline.)</em></div><div><br></div><div>If you want to prepare the best possible, consider reading our <a href="https://baymard.com/research">SaaS sales page</a> and our “<a href="https://baymard.com/jobs/research-writer#key-work-values-at-baymard">key work values</a>” section.</div><div>
+<br><br>
+</div><div><em>Sincerely,<br>Edward Scott, UX Research Lead at the Baymard Institute</em></div><div>
+<br><br><strong><em>Referral Bonus:</em></strong><em> If this job isn’t you, but you know someone who’ll be the perfect fit, please send them the link to this page. If we end up hiring the person you referred, we’ll give you a 1 year access to a Baymard Premium ‘</em><a href="https://baymard.com/research"><em>Comprehensive</em></a><em>’ plan (normally $1,800/year).</em>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/baymard-institute-ux-research-analyst-writer">https://weworkremotely.com/remote-jobs/baymard-institute-ux-research-analyst-writer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/7344/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +80,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>37 days ago</text>
+                <text>39 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/yoko-co-senior-ux-strategist-information-architect-1" align="right" target="_blank">Apply</a>
@@ -109,7 +179,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>661 days ago</text>
+                <text>663 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -175,7 +245,7 @@
                     <code>go,UI/UX,wordpress,chat</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
