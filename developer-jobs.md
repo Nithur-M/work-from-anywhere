@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/jls-trading-co-entry-level-gag-gift-prank-product-developer-fun-ecom-co" align="right" target="_blank">Apply</a>
@@ -50,7 +50,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0001/6931/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Baymard Institute</h5>
@@ -60,7 +60,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/baymard-institute-rails-backend-developer" align="right" target="_blank">Apply</a>
@@ -69,7 +69,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0001/6931/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
   <strong>Headquarters:</strong> Denmark
@@ -168,7 +168,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/dogsthat-full-time-front-end-wordpress-developer-designer-jack-of-all-trades" align="right" target="_blank">Apply</a>
@@ -223,7 +223,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/textmagic-senior-back-end-developer-php-symfony-postgresql-1" align="right" target="_blank">Apply</a>
@@ -309,7 +309,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/overmind-blockchain-developer" align="right" target="_blank">Apply</a>
@@ -333,85 +333,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4499/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>10ex.dev</h5>
-                    <h3> Software Developer (Elixir)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>68 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/10ex-dev-software-developer-elixir" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0071/4499/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Phoenix, Arizona
-    <br /><strong>URL:</strong> <a href="https://10ex.dev/developers">https://10ex.dev/developers</a>
-</p>
-
-<div>We are looking for a Mid/Senior Backend Engineer who is passionate about creating next-generation immersive experiences that bring new forms of audience engagement to life in fun and unexpected ways, in original projects that bridge the gap between the digital and physical worlds in unique, story-driven ways.<br><br>
-</div><div>
-<br>Our ideal candidate is a seasoned technical leader and software engineer with previous experience developing/integrating scalable backend solutions for mobile games. You care deeply about writing beautiful, performant code that will act as the foundation of development for years to come. You also know how to build and lead a team of engineers and mentor them on their career paths. You should enjoy working as part of cross-functional teams to help architect solutions to unique problems that help the entire platform.<br><br>
-</div><div>
-<br>QUALIFICATIONS<br><br>
-</div><ul>
-<li>4+ Years of creating and delivering high-performance APIs</li>
-<li>Bachelor's degree in Computer Science or equivalent</li>
-<li>Advanced knowledge of Elixir/Phoenix/LiveView</li>
-<li>Advanced knowledge of PostgreSQL/Ecto</li>
-<li>Advanced knowledge of AWS/Docker/Terraform deployment</li>
-<li>Experience using Elixir in production at scale</li>
-<li>Extensive experience debugging and optimizing backend applications</li>
-<li>Experience working with a team of developers, artists and technical leads</li>
-<li>Proficiency with Git and GitHub</li>
-<li>Excellent oral and written English language skills</li>
-<li>Ability to both think high-level and be detail oriented</li>
-</ul><div>
-<br>RESPONSIBILITIES</div><ul>
-<li>Lead the development of and help design the architecture for a greenfield gaming platform</li>
-<li>Convert complex requirements into elegant working software</li>
-<li>Architect and maintain key infrastructure</li>
-<li>Work closely with the User Experience Design Team to design and implement new concepts and features</li>
-<li>Work closely with the Client Engineering team to design and integrate internal and external APIs</li>
-<li>Collaborate with other engineers to solve problems</li>
-<li>Produce code that is clear and concise, and consistent with best-in-class coding standards</li>
-<li>Deliver in accordance with prescribed deadlines, on time and with high quality</li>
-<li>Self-manage and work in an environment of high autonomy</li>
-<li>Participate in and lead code reviews</li>
-<li>Work closely with the rest of the engineering team on a day to day basis</li>
-<li>Document new features for both internal and external reference</li>
-<li>Ability to progress into a position which oversees a small development and engineering team</li>
-</ul><div>
-<br>PREFERENCES</div><ul>
-<li>Proficiency with Javascript and HTML/CSS</li>
-<li>Experience writing documentation</li>
-<li>A thorough understanding of development from design to deployment</li>
-<li>Agile methodology experience</li>
-<li>Experience with other functional programming languages</li>
-</ul><div>
-<br>BENEFITS<br><br>
-</div><ul>
-<li>Health / Vision / Dental</li>
-<li>Paid Time Off</li>
-<li>Paid Holidays</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/10ex-dev-software-developer-elixir">https://weworkremotely.com/remote-jobs/10ex-dev-software-developer-elixir</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -422,7 +343,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>184 days ago</text>
+                <text>186 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -506,7 +427,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1025 days ago</text>
+                <text>1027 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
@@ -585,7 +506,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -662,7 +583,7 @@
                     <code>api,CSS,git,html</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/website-developer-1761558" align="right" target="_blank">Apply</a>
@@ -722,7 +643,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -1009,6 +930,89 @@
 <p>Experience with full-stack web development, Python, PostgreSQL, and Linux is required. Competency or interest in data visualization, UI, UX, and design are desired.</p>
 <p>Why Join MixRank? Fully-remote, no HQ office. Team of 32 people across 15+ countries Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
 <p>Please include your updated resume when applying for this role.</p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
+                    <h3>Web Developer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4365480&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <p>&nbsp;</p>
+<p><strong>The project</strong></p>
+<p>Our organization is closely involved in a new community lead project, called Logos, and this role will enable you to focus on its development. Logos is a grassroots movement to provide trust-minimized, corruption resistant governing services and social institutions to underserved citizens. Logos’ infrastructure will provide a base for the provisioning of the next-generation of governing services and social institutions - paving the way to economic opportunities to those who need them most, whilst respecting basic human rights through the network’s design.</p>
+<p>In order to promote the ideas behind Logos and its vision, we have created a brand studio called acid.info and you will be part of it. <a href="http://acid.info/">Acid.info</a> is the studio and creative engine within the Logos DAO. Our mission is to build, and ensure, technologies and creativity that supports freedom, justice, and innovation for all people of the world.&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>The role</strong></p>
+<p>As a Web Developer, you will be responsible for the development and technical maintenance of various web-based projects in the studio. Your role will involve decision-making for code architecture, writing tests, choosing the right technology stack, and any other related tasks. You will work closely with the development team, studio lead, and design team to bring our web projects to life. You will take care of all technical aspects of all web projects (from development and testing to deployment and maintenance)&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Responsibilities</strong></p>
+<ul>
+<li>You will be developing and implementing internal tools, including our wiki engine framework, branding design portal our design systems implementation in React</li>
+<li>You will co-write documentation for all the above mentioned products/projects</li>
+<li>You will be responsible for maintaining our open-sourced codebases on Github</li>
+<li>You will be improving the architect and implementation<a href="https://github.com/acid-info/logos-site-builder"> our current site-generator framework</a> (built on top NextJS) and develop it further</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>You ideally will have</strong></p>
+<ul>
+<li>Experience in ReactJS and NodeJs (all in Typescript)&nbsp;</li>
+<li>Good understanding of software architecture</li>
+<li>Experience in implementation of frontend libraries and design systems</li>
+<li>Experience working with Git, Docker and NextJS framework as well as Vercel and/or Netlify</li>
+<li>A strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Bonus points if</strong></p>
+<ul>
+<li>You are comfortable in working remotely and asynchronously</li>
+<li>You have experience working for an open source organisation</li>
+<li>You have exposure to creative coding (processing, open frameworks, WebGL, writing shaders, p5js)</li>
+</ul>
+<p><em>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</em></p>
+<p>&nbsp;</p>
+<p><strong>Compensation</strong></p>
+<p><span style="font-weight: 400;">The expected compensation range for this role is $40,000 - $60,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process. </span></p>
+<p>&nbsp;</p>
+<p><strong>Hiring process</strong></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with POps team</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Web Developer and Design Studio Lead</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Assessment (paid)</span></li>
+</ol>
+<p><em><span style="font-weight: 400;">[The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline!]</span></em></p>
+<p>&nbsp;</p>
+<p><strong>Get to know us</strong></p>
+<p><span style="font-weight: 400;">Find out about the Logos here: </span><a href="https://logos.co"><span style="font-weight: 400;">https://logos.co</span></a></p>
+
+    
+
+    
 
                 </details>
                 </td>
