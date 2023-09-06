@@ -1,5 +1,66 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/8312/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>XM</h5>
+                    <h3> Front-End UI Web Developers </h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/xm-front-end-ui-web-developers" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0066/8312/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Cyprus
+    <br /><strong>URL:</strong> <a href="https://bit.ly/3Yljr8s">https://bit.ly/3Yljr8s</a>
+</p>
+
+<div>
+<strong>Front-End UI Web Developers – Cyprus or Remote<br></strong><br>
+</div><div>
+<strong> <br></strong><br>
+</div><div>
+<strong>Reference Number: UIWD1122<br></strong><br>
+</div><div>
+<strong>The Role: <br></strong><br>
+</div><div>You will have the ability to work with our dynamic marketing team as a front-end developer to</div><div>implement exciting and streamlined user experiences on to our web-based applications, interactive</div><div>landing pages, internal corporate apps, and much more. </div><div> </div><div>You will have the chance to expand and share your knowledge with the team, on latest JavaScript, CSS3 and HTML5 specifications.</div><div> <br><br>
+</div><div>
+<strong>The main responsibilities of the position include:<br></strong><br>
+</div><div>●        Translate requirements and UI designs into functional, engaging, accessible and maintainable front-end code using HTML5, CSS3 and Javascript</div><div>●        Work in close cooperation with UX/UI Designers in implementing visual and interactive client-side elements to the company’s existing and new web applications</div><div>●        Develop and test fully responsive web pages and user-facing features across various devices and web browsers</div><div>●        Ensure the technical feasibility of new UI designs</div><div>●        Closely collaborate with various teams such as Web &amp; Product Designers, stakeholders and business owners</div><div>●        Contribute to team effort by achieving targeted results</div><div> </div><div>
+<strong>Main requirements:<br></strong><br>
+</div><div>●        Degree in multimedia and web development, computer science or any other related field</div><div>●        2-5 years of working experience in a similar role </div><div>●        Strong understanding of HTML5, JavaScript, CSS3, BEM methodology and other modern CSS techniques such as Grid and Flexbox </div><div>●        Good understanding of PHP and MVC Frameworks</div><div>●        Working experience with Angular or React &amp; Typescript will be considered, a stand-out</div><div>●        Advantage</div><div>●        Experience in front end frameworks / CSS Pre-processors will be considered an advantage </div><div>●        Familiarity with Composer, Twig, Symfony and WP is considered an advantage</div><div>●        Work portfolio of personal or previous projects is considered a plus </div><div>●        Familiar with versioning tools such as GIT</div><div>●        Experience with project management / collaboration / issue tracking tools, such as JIRA and Confluence will be considered an advantage</div><div>●        Good understanding of the fundamental principles of design, creative thinker &amp; problem solver</div><div>●        Ability to work with minimal supervision</div><div>●        Proficiency in both written and spoken English</div><div> </div><div>
+<strong> <br></strong><br>
+</div><div>
+<strong>Benefit from:<br></strong><br>
+</div><div>●        Attractive remuneration package </div><div>●        Food allowance </div><div>●        Intellectually stimulating work environment</div><div>●        Continuous personal development and international training opportunities<br><br>
+</div><div>Type of employment: Full time<br><br>
+</div><div>Location: Cyprus or Remote<br><br>
+</div><div>Please visit our website <a href="http://www.xm.com/careers">www.xm.com/careers</a> to submit your online application for this position.</div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div><div> <br><br>
+</div><div> <br><br>
+</div><div> <br><br>
+</div><div> <br><br>
+</div><div> <br><br>
+</div><div> <br><br>
+</div><div> <br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-front-end-ui-web-developers">https://weworkremotely.com/remote-jobs/xm-front-end-ui-web-developers</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/7704/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +71,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/jls-trading-co-entry-level-gag-gift-prank-product-developer-fun-ecom-co" align="right" target="_blank">Apply</a>
@@ -60,7 +121,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/baymard-institute-rails-backend-developer" align="right" target="_blank">Apply</a>
@@ -168,7 +229,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/dogsthat-full-time-front-end-wordpress-developer-designer-jack-of-all-trades" align="right" target="_blank">Apply</a>
@@ -223,7 +284,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/textmagic-senior-back-end-developer-php-symfony-postgresql-1" align="right" target="_blank">Apply</a>
@@ -309,7 +370,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>35 days ago</text>
+                <text>37 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/overmind-blockchain-developer" align="right" target="_blank">Apply</a>
@@ -343,7 +404,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>186 days ago</text>
+                <text>188 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -417,85 +478,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0017/3489/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>OpenCraft</h5>
-                    <h3> Senior Open Source Developer & DevOps (Python, Django, React, AWS/OpenStack)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>1027 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0017/3489/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Fully remote company (worldwide, incorporated in Berlin)
-    <br /><strong>URL:</strong> <a href="https://opencraft.com/">https://opencraft.com/</a>
-</p>
-
-<div>Do you care about contributing to open-source, and appreciate a good challenge? We do too! :) <br><br>
-</div><div>
-<strong>Open-source<br></strong><br>
-</div><div>We are a team of veteran open-source developers, working on educational and community-based projects in an<a href="https://handbook.opencraft.com/en/latest/open_first/"> open-first</a> environment – and we are looking for new members. By joining us, you will work full-time on open-source, pushing your changes to free software projects upstream through pull requests, contributing features, documentation, or help on public forums. </div><div>
-<br>We care deeply about contributing our work upstream. You will see the results of your work reused and recognized across the educational community, increasing access to quality education for everyone, everywhere.</div><div>
-<br><strong>Remote-first</strong>
-</div><div>
-<br>Unlike companies who reluctantly started to accept remote workers recently, we have embraced it from day 1. For the past 7 years, we have based and refined our way of working around remote-friendly workflows, from the ground up. No day-long video meetings, mandatory work hours, or risk of being forced back into an office one day -- as long as you have a good internet connection, it’s none of our business when or where you work from. :)</div><div>
-<br>We are all working remotely, from all continents (except Antarctica, at least so far - applicants welcome!). We use remote-friendly and timezone-agnostic workflows based on asynchronous principles and good documentation practices.</div><div>
-<br><strong>Online education<br></strong><br>
-</div><div>We are one of the main contributors to the <a href="https://open.edx.org/">Open edX project</a>, the main open-source MOOC platform created by MIT, Harvard and many other top universities. It powers sites like <a href="https://www.edx.org/">edX.org</a>, the <a href="https://openlearning.mit.edu/courses-programs/open-learning-library">MIT Open Learning Library</a>, and the <a href="https://www.fun-mooc.fr/">national online learning platform for France</a>. We provide development and hosting for institutions like <a href="https://onlinelearning.hms.harvard.edu/hmx/">Harvard Medical School</a>, <a href="https://www.labxchange.org">Harvard LabXchange</a>, <a href="https://ondemand.cloudera.com">Cloudera</a>, <a href="https://www.upskill.autodesk.com">Autodesk</a>, and several governments. We are not affiliated with <a href="https://www.edx.org/">edX.org</a>, but we contribute and work with them on various projects. </div><div>
-<br><strong>Technical stack</strong><br><br>
-</div><div>The Open edX project is a large Python/Django codebase, with good code standards and architecture. Tasks are varied, from developing core platform features, custom exercises and tools for specific courses (XBlocks), customizing and deploying instances, working full-stack, operating our service infrastructure, improving our hosting platform, etc. You won't get bored here.<br><br>
-</div><div>
-<strong>Contracting terms<br></strong><br>
-</div><div>This is a full-time, permanent contract position. We aim for long-term relationships -- once in, almost all team members stay for many years. </div><div><br></div><div>We care about paying fairly: </div><ul>
-<li>Team members set their own compensation level, which is paid based on hours worked (no unpaid overtime!). </li>
-<li>When determining your rate, we will expect you to factor in benefits (vacation, healthcare, purchase budgets, etc.) - the idea is to let <em>you</em> pick the benefits that are useful to you, rather than offer one-size-fits-all packages that aren’t always very valuable.</li>
-<li>We also proactively apply generous raises team-wide, based on the company results at the end of each year. <a href="https://handbook.opencraft.com/en/latest/team_compensation/">See the details about how we approach compensation in our handbook</a>.</li>
-</ul><div>We also firmly believe in work-life balance: as long as you deliver what you commit to, there is a lot of latitude in how much work you can choose to accept. We are open to time commitments anywhere in the 30h to 40h/week range, and highly discourage working more than that. It’s important to have time to ourselves, as well as having some slack, and there are diminishing returns in working more anyway. We are currently recruiting precisely to preserve that balance, and ensure we have plenty of capacity to handle our projects.</div><div><br></div><div>We welcome applicants of all genders and ethnicities.</div><div>
-<br><strong>Basic Requirements:</strong>
-</div><ul>
-<li>Experience with contributing to free software projects - small contributions are completely fine, but you <em>must</em> have at least one patch or pull request merged in a third-party project, or been a maintainer of an open source project with significant adoption. (Note that you can contribute now to satisfy this requirement - see for example the <a href="https://github.com/openedx/build-test-release-wg/projects/1">Open edX release issues</a>, fixing one of these issues guarantees an interview.)</li>
-<li>Senior developer with 3+ years working with Python</li>
-<li>Experience with Python web frameworks, specifically Django</li>
-<li>3+ years of HTML, Javascript, and CSS (experience with React and/or Typescript is a big plus!)</li>
-<li>Experience with unit testing</li>
-<li>Comfortable working in a Linux environment, specifically Debian or Ubuntu</li>
-<li>Experience with databases: MySQL, MongoDB, PostgreSQL</li>
-</ul><div>
-<strong>Additional Skills:</strong><br><br>
-</div><div>You will work on tasks from the following categories, but you can pick up the skills on the job if you haven't mastered these yet:</div><ul>
-<li>DevOps experience, especially on Debian/Ubuntu servers, Terraform, Vault, Packer, Prometheus, ELK, Docker. We are building a modern infrastructure and having a strong DevOps presence on top of core software engineering skills is a big plus with us.</li>
-<li>Cloud computing, like AWS or OpenStack</li>
-<li>Configuration management tools such as Ansible, Consul</li>
-<li>RabbitMQ, Redis &amp; Elasticsearch</li>
-<li>Mobile development (iOS and/or Android)</li>
-<li>Managing clients &amp; projects from beginning to completion (senior developer)</li>
-<li>Public speaking at conferences (you would present a talk every year at the Open edX Con)</li>
-</ul><div>
-<br><strong>Apply for this Position</strong><br><br>
-</div><div>Our recruitment process differs from most other companies - we don’t believe resumes and the traditional interviews to be particularly effective. Often, they tell more about how good someone is at interviewing, rather than at the actual work. So, our initial interview is lighter and easier to pass than in other companies - but we then provide you with real (and paid!) work to see how it works out in reality.</div><ul>
-<li>Step 1: You apply by filling out this form: <a href="https://opencraft.com/jobs/open-source-developer/">https://opencraft.com/jobs/open-source-developer/</a> </li>
-<li>Step 2: We do two interviews with candidates matching the requirements listed above. The first interview includes a (simple) coding exercise.</li>
-<li>Step 3: If this works out, we hire you! We start with a 2 months <a href="https://handbook.opencraft.com/en/latest/processes/#recruitment">trial period</a>, which allows both you and the rest of the team to fully evaluate how we work together, and is followed by a final review and confirmation. </li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack">https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/814298/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -506,7 +488,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -583,7 +565,7 @@
                     <code>api,CSS,git,html</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/website-developer-1761558" align="right" target="_blank">Apply</a>
@@ -643,7 +625,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -704,6 +686,30 @@
 <p> </p>
 <p>*Starting base pay in the US states of California, New York, Washington and Colorado for this position ranges between $15 - $35 per hour</p>
 <img src="https://remotive.com/job/track/1680495/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1306325743580848130/mk0qvsZ9_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Kraken</h5>
+                    <h3>Senior NetSuite Developer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/kraken/3558e796-8434-469d-b27e-f5b07392073f" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Future of Crypto&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to industry-leading security, crypto education, and world-class client support through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://cryptowat.ch/" class="postings-link">Cryptowatch</a>.</div><div><br></div><div>Become a Krakenite and build the future of crypto!</div><div><br></div><div><b style="font-size: 24px">Proof of work</b></div><div><br></div><div><b style="font-size: 18px">The team</b></div><div><br></div><div><span style="font-size: 11pt">The Business Solutions team delivers technology solutions to our internal stakeholders.&nbsp; Our group is a partner to business as we look to drive scalability, optimization, integrated efficiencies, and audit-sound developments to our tech stack.&nbsp;&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">The </span><span style="font-size: 11pt">Sr. NetSuite Developer</span><span style="font-size: 11pt"> will join the Business Solutions team to be our partner with the Accounting teams. The </span><span style="font-size: 11pt">Sr. NetSuite Developer</span><span style="font-size: 11pt"> will own the technology solutions our accounting teams rely on to function. This includes designing, developing, customizing, documentation, training, reporting, stabilization and maintaining functionalities within the NetSuite platform and other financial systems. This role will also partner with various cross functional teams across Security, IT &amp; Engineering to design, develop and implement solutions involving integrations, data and analytics for the Accounting and Finance business teams.</span></div><div><br></div><div><span style="font-size: 11pt">The successful candidate will bring a strong customer service approach to enhancing and maintaining the security, data, and application integrity and performance of our financial-related applications. Additionally, this position will participate in the delivery of Financial IT services and projects and ensure internal client satisfaction.&nbsp;</span></div></div><div class="section page-centered"><div><h3>The opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Provide day-to-day administration and maintenance of critical business systems including but not limited to NetSuite, Blackline etc.&nbsp;</li><li>Experience writing and managing NetSuite scripts, workflows and integrations using SuiteScript, SuiteFlows, Web Services/SuiteTalk or other related tools (MUST have)</li><li>Responsible for owning system configuration and integration - configure fields, workflows, roles/permissions, custom rules, reports, scripts, and dashboards&nbsp;</li><li>Propose improvements to the NetSuite ERP system and the business systems that interface with it.&nbsp;</li><li>Work on implementations of various customizations within NetSuite, including but not limited to creating custom segments, custom fields, records, forms, workflows etc.</li><li>Create and maintain integrations between NetSuite and other systems</li><li>Develop and maintain custom script and workflow solutions using modern coding practices</li><li>Contributes to cross-functional projects that involve integration between back-office applications and other applications&nbsp;</li><li>Work with business stakeholders to understand current state business processes, and identify gaps/ opportunities for improvement within processes &amp; applications.</li><li>Take part in business project intake and prioritization meetings with business stakeholders.</li><li>Lead and execute requirements gathering sessions with Finance stakeholders.</li><li>Drive or participate in effort estimation, design, configuration, and testing of features and projects.</li><li>Collaborate with System Implementation(SI) partners on various outsourced projects to provide co-design and co-develop solutions.&nbsp;</li><li>Collaborate with Enterprise Integration &amp; Data warehouse teams on cross functional projects involving integrations.</li><li>Work closely with business to optimize business processes and drive efficiencies in the day to day operations and the functioning of the accounting office.&nbsp;</li><li>Provide finance system administration to support business users (e.g., developing workflows, page layouts, formulas, approval processes) for running their operations.</li><li>Communicate, log, and resolve planned or unplanned system downtime and system support issues</li><li>Mentor junior resources within the team on business analysis and system administration of Financial Systems</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>6+ years of working experience as a NetSuite Developer</li><li>Experience with NetSuite OneWorld administration, configuration, and 3rd party integrations</li><li>4+ Year of experience in NetSuite technical role including development with JavaScript , SuiteScript 2.0, SuiteFlow (workflow automation) and SuiteTalk (web services API) of NetSuite for a large enterprise&nbsp;</li><li>6+ years of administration &amp; configuration experience in enterprise financial and accounting systems</li><li>Netsuite ERP certifications(MUST have)&nbsp;</li><li>4-6 medium-scale or 2-3 enterprise ERP implementations in a consultant-related role</li><li>Demonstrate full understanding of the NetSuite stack and experience with NetSuite modules (Order to Cash, Revenue Recognition (606), Procurement, GL, AP, AR, FA, etc.)&nbsp;</li><li>Thorough understanding of finance business processes (AR, AP, GL,P2P, Treasury, Tax, etc), systems(NetSuite, Oracle, SAP, Blackline, etc) and operations (RevRec, Book Closing, etc).</li><li>Ability to articulate technical issues to a non-technical audience&nbsp;</li><li>Experience of working in a hyper growth environment/ large company experience will be a plus.</li><li>Advanced skills in business analysis and technical design with the capability to capture requirements and make recommendations on the best way to implement the requirements to meet overall business goals&nbsp;</li><li>Experience working on complex/ transformational projects for Finance business involving sensitive data, integrations with 3rd party systems and services.</li><li>A self-starter with the ability to build relationships &amp; credibility with team, stakeholders and management while working remotely.</li><li>Demonstrate effective communication skills through facilitation of critical meetings, documentation and presentations to management &amp; stakeholders.</li><li>Experience working with compliance, risk and audit teams to conduct SOX, SOC type of audits will be required.</li><li>Experience working with teams using agile methodologies (Sprint) and ability to prioritize and manage ad hoc projects will be critical.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 14.6667px">Location Tagging: #US #LI-AN1 #LI-Remote #Canada</span></div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/3558e796-8434-469d-b27e-f5b07392073f/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -930,89 +936,6 @@
 <p>Experience with full-stack web development, Python, PostgreSQL, and Linux is required. Competency or interest in data visualization, UI, UX, and design are desired.</p>
 <p>Why Join MixRank? Fully-remote, no HQ office. Team of 32 people across 15+ countries Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
 <p>Please include your updated resume when applying for this role.</p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Status</h5>
-                    <h3>Web Developer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=4365480&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <p>&nbsp;</p>
-<p><strong>The project</strong></p>
-<p>Our organization is closely involved in a new community lead project, called Logos, and this role will enable you to focus on its development. Logos is a grassroots movement to provide trust-minimized, corruption resistant governing services and social institutions to underserved citizens. Logos’ infrastructure will provide a base for the provisioning of the next-generation of governing services and social institutions - paving the way to economic opportunities to those who need them most, whilst respecting basic human rights through the network’s design.</p>
-<p>In order to promote the ideas behind Logos and its vision, we have created a brand studio called acid.info and you will be part of it. <a href="http://acid.info/">Acid.info</a> is the studio and creative engine within the Logos DAO. Our mission is to build, and ensure, technologies and creativity that supports freedom, justice, and innovation for all people of the world.&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>The role</strong></p>
-<p>As a Web Developer, you will be responsible for the development and technical maintenance of various web-based projects in the studio. Your role will involve decision-making for code architecture, writing tests, choosing the right technology stack, and any other related tasks. You will work closely with the development team, studio lead, and design team to bring our web projects to life. You will take care of all technical aspects of all web projects (from development and testing to deployment and maintenance)&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Responsibilities</strong></p>
-<ul>
-<li>You will be developing and implementing internal tools, including our wiki engine framework, branding design portal our design systems implementation in React</li>
-<li>You will co-write documentation for all the above mentioned products/projects</li>
-<li>You will be responsible for maintaining our open-sourced codebases on Github</li>
-<li>You will be improving the architect and implementation<a href="https://github.com/acid-info/logos-site-builder"> our current site-generator framework</a> (built on top NextJS) and develop it further</li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>You ideally will have</strong></p>
-<ul>
-<li>Experience in ReactJS and NodeJs (all in Typescript)&nbsp;</li>
-<li>Good understanding of software architecture</li>
-<li>Experience in implementation of frontend libraries and design systems</li>
-<li>Experience working with Git, Docker and NextJS framework as well as Vercel and/or Netlify</li>
-<li>A strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>Bonus points if</strong></p>
-<ul>
-<li>You are comfortable in working remotely and asynchronously</li>
-<li>You have experience working for an open source organisation</li>
-<li>You have exposure to creative coding (processing, open frameworks, WebGL, writing shaders, p5js)</li>
-</ul>
-<p><em>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</em></p>
-<p>&nbsp;</p>
-<p><strong>Compensation</strong></p>
-<p><span style="font-weight: 400;">The expected compensation range for this role is $40,000 - $60,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process. </span></p>
-<p>&nbsp;</p>
-<p><strong>Hiring process</strong></p>
-<ol>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with POps team</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with Web Developer and Design Studio Lead</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Assessment (paid)</span></li>
-</ol>
-<p><em><span style="font-weight: 400;">[The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline!]</span></em></p>
-<p>&nbsp;</p>
-<p><strong>Get to know us</strong></p>
-<p><span style="font-weight: 400;">Find out about the Logos here: </span><a href="https://logos.co"><span style="font-weight: 400;">https://logos.co</span></a></p>
-
-    
-
-    
 
                 </details>
                 </td>
