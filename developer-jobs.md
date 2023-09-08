@@ -1,10 +1,55 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/8312/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/3791/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>XM</h5>
-                    <h3> Front-End UI Web Developers </h3>
+                    <h5>Entermotion</h5>
+                    <h3> Senior Full-Stack PHP Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/entermotion-senior-full-stack-php-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0074/3791/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> United States
+    <br /><strong>URL:</strong> <a href="https://entermotion.com">https://entermotion.com</a>
+</p>
+
+<div>We're looking for a full-stack PHP web developer with strong skills, and diverse experience to work in some of our web applications. The position is focused on backend, but frontend experience is desired.</div><div><br></div><div><strong><br>The Job</strong></div><div>You would be working mainly on one of our many web applications, but also on secondary web applications as the pipeline allows. The work would be done on top of Laravel and some of our custom framework. We have dozens of 3rd party integrations in our code and some refactoring work is involved with these 3rd parties as well as general code base evolutions. We rely on AWS for many of our features, so you would be working with their APIs constantly.</div><div><br></div><div>The workload is usually balanced between new features/tweaks and maintenance work. You would start small to get a better understanding of how everything works together and build your way up to the bigger issues.</div><div><br></div><div>You would be working with an all-remote team that’s used to getting work done through text-based channels(backlogs, wikis, and Slack conversations).</div><div><br></div><div>For reference, some keywords for technologies we use: Laravel, AWS(many products), Twilio, Stripe, Redis, Google APIs, Dropbox APIs, GraphQL, OpenSearch/Elastic.</div><div><br></div><div><strong><br>Skill</strong></div><div>Web developers have different strengths in different areas. Here are some of the categories we would assess candidates based on. Strength in one area can offset weakness in another.</div><ul>
+<li>Core PHP knowledge and experience with production environments</li>
+<li>Laravel knowledge</li>
+<li>Experience with 3rd-party API integrations such as AWS, Twilio, and Stripe</li>
+<li>Experience scaling production setups a plus</li>
+<li>Ideally, some frontend experience to help us evolve our current workflows and structure</li>
+<li>Knowledge of OWASP guidelines</li>
+</ul><div><br></div><div><strong><br>Benefits</strong></div><ul>
+<li>2 months maternity leave/1 month paternity leave</li>
+<li>Flexible vacations</li>
+<li>Paid sick leave</li>
+</ul><div><br></div><div><strong>Position</strong></div><div>This is a remote position. We're used to working as a dispersed team so you must be cool with collaborating online and a lot over text. We're flexible on schedules. Please include links to previous works and/or portfolio. Individuals ONLY. No recruiters or agencies please.</div><div><br></div><div><strong><br>About Entermotion</strong></div><div>Entermotion is a creative design and programming studio. We work on a variety of projects for our clients, from identity design to application development. We're a remote-only team dispersed through 11 countries (and counting!)</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/entermotion-senior-full-stack-php-developer">https://weworkremotely.com/remote-jobs/entermotion-senior-full-stack-php-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/0909/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>TempMee</h5>
+                    <h3> React Developer</h3>
                 </td>
                 <td width="300">
                     <code>Front-End Programming</code>
@@ -13,49 +58,53 @@
                 <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/xm-front-end-ui-web-developers" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/tempmee-react-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0066/8312/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0084/0909/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Cyprus
-    <br /><strong>URL:</strong> <a href="https://bit.ly/3Yljr8s">https://bit.ly/3Yljr8s</a>
+  <strong>Headquarters:</strong> Miami, FL, United States
+    <br /><strong>URL:</strong> <a href="https://tempmee.com">https://tempmee.com</a>
 </p>
 
 <div>
-<strong>Front-End UI Web Developers – Cyprus or Remote<br></strong><br>
+<strong>What you will do<br></strong><br>
+</div><ul>
+<li>Build and maintain multiple tools in ReactJS and React Native</li>
+<li>Research novel solutions to nuanced and often unchartered engineering challenges</li>
+<li>Work with designers, product managers, and engineers to design impactful products</li>
+<li>Perform and uphold code best practices.</li>
+<li>Produce high-quality code that raises the bar for all engineering team members</li>
+<li>Improve web applications for performance and scalability</li>
+<li>Perform quality assurance/debugging procedures to provide a secure and functional delivery</li>
+<li>Implement testing protocols for managing successful deployments across development, staging, and production environments</li>
+<li>Recommend system solutions by comparing the advantages and disadvantages of custom development and purchasing alternatives</li>
+</ul><div>
+<br><strong>Who you are (Minimum qualifications)</strong>
+</div><ul>
+<li>5 years of experience with software development in one or more programming languages</li>
+<li>3 years of experience testing, maintaining or launching software products, and 1 year of experience with software design and architecture</li>
+<li>Excellent programming skills in JavaScript</li>
+<li>Knowledge of basic visual and user experience principles</li>
+<li>Experience in building pixel-perfect design implementation</li>
+<li>Experience with native mobile platforms iOS and/or Android</li>
+</ul><div><br></div><div><strong>Doesn’t hurt that we also offer….</strong></div><ul>
+<li>A high-growth, a friendly and engaging work environment with the potential for endless career opportunities</li>
+<li>Remote work environment</li>
+<li>Flexible work hours and arrangements</li>
+<li>Market competitive salary</li>
+</ul><div>About us:  TempMee is changing the way the world works - starting with the Dental Industry! We are an ambitious and motivated tech startup that has secured multiple rounds of venture backing to create an Uber-like platform/app to disrupt the dental staffing industry.<br><br>
+</div><div>After launching in late 2019, we have already built the largest community of nationwide hygienists and dental offices. We are in the process of rapidly expanding the capabilities and functions of our app to capture even more market share, and we need high-quality, talented and driven individuals to come aboard and help make TempMee a Unicorn (Unicorn=Start-ups evaluated at $1 billion within five years of launch).<br><br>
+</div><div>Learn More: <a href="https://tempmee.com/">https://tempmee.com/<br></a><br>
 </div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>Reference Number: UIWD1122<br></strong><br>
-</div><div>
-<strong>The Role: <br></strong><br>
-</div><div>You will have the ability to work with our dynamic marketing team as a front-end developer to</div><div>implement exciting and streamlined user experiences on to our web-based applications, interactive</div><div>landing pages, internal corporate apps, and much more. </div><div> </div><div>You will have the chance to expand and share your knowledge with the team, on latest JavaScript, CSS3 and HTML5 specifications.</div><div> <br><br>
-</div><div>
-<strong>The main responsibilities of the position include:<br></strong><br>
-</div><div>●        Translate requirements and UI designs into functional, engaging, accessible and maintainable front-end code using HTML5, CSS3 and Javascript</div><div>●        Work in close cooperation with UX/UI Designers in implementing visual and interactive client-side elements to the company’s existing and new web applications</div><div>●        Develop and test fully responsive web pages and user-facing features across various devices and web browsers</div><div>●        Ensure the technical feasibility of new UI designs</div><div>●        Closely collaborate with various teams such as Web &amp; Product Designers, stakeholders and business owners</div><div>●        Contribute to team effort by achieving targeted results</div><div> </div><div>
-<strong>Main requirements:<br></strong><br>
-</div><div>●        Degree in multimedia and web development, computer science or any other related field</div><div>●        2-5 years of working experience in a similar role </div><div>●        Strong understanding of HTML5, JavaScript, CSS3, BEM methodology and other modern CSS techniques such as Grid and Flexbox </div><div>●        Good understanding of PHP and MVC Frameworks</div><div>●        Working experience with Angular or React &amp; Typescript will be considered, a stand-out</div><div>●        Advantage</div><div>●        Experience in front end frameworks / CSS Pre-processors will be considered an advantage </div><div>●        Familiarity with Composer, Twig, Symfony and WP is considered an advantage</div><div>●        Work portfolio of personal or previous projects is considered a plus </div><div>●        Familiar with versioning tools such as GIT</div><div>●        Experience with project management / collaboration / issue tracking tools, such as JIRA and Confluence will be considered an advantage</div><div>●        Good understanding of the fundamental principles of design, creative thinker &amp; problem solver</div><div>●        Ability to work with minimal supervision</div><div>●        Proficiency in both written and spoken English</div><div> </div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>Benefit from:<br></strong><br>
-</div><div>●        Attractive remuneration package </div><div>●        Food allowance </div><div>●        Intellectually stimulating work environment</div><div>●        Continuous personal development and international training opportunities<br><br>
-</div><div>Type of employment: Full time<br><br>
-</div><div>Location: Cyprus or Remote<br><br>
-</div><div>Please visit our website <a href="http://www.xm.com/careers">www.xm.com/careers</a> to submit your online application for this position.</div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div><div> <br><br>
-</div><div> <br><br>
-</div><div> <br><br>
-</div><div> <br><br>
-</div><div> <br><br>
-</div><div> <br><br>
-</div><div> <br><br>
+<em>We are an equal-opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.<br></em><br>
 </div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-front-end-ui-web-developers">https://weworkremotely.com/remote-jobs/xm-front-end-ui-web-developers</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tempmee-react-developer">https://weworkremotely.com/remote-jobs/tempmee-react-developer</a></p>
 
                 </details>
                 </td>
@@ -71,7 +120,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/jls-trading-co-entry-level-gag-gift-prank-product-developer-fun-ecom-co" align="right" target="_blank">Apply</a>
@@ -111,114 +160,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Baymard Institute</h5>
-                    <h3> Rails Backend Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>12 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/baymard-institute-rails-backend-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Denmark
-    <br /><strong>URL:</strong> <a href="https://baymard.com/">https://baymard.com/</a>
-</p>
-
-<h1>Rails Backend Developer (Full-time, Remote)</h1><div>We’re seeking a full-time, remote Rails backend developer in Europe or on the US east coast.<br><br>
-</div><div>
-<br><strong>About the Work</strong>
-</div><ul>
-<li>You’ll be the <strong>sole Ruby on Rails developer</strong>.</li>
-<li>You’ll <strong>mostly work on the business logic</strong> of our web platform, and only occasionally work on the views (our frontend developer usually handles that part in a separate Next.js app).</li>
-<li>You’ll join a <strong>small product team</strong> consisting of 1 frontend developer, 1 part-time TypeScript backend developer, 3 designers, and 1 product manager.</li>
-<li>You’ll <strong>report directly to the founders</strong> (one of whom is technical) and periodically collaborate with people outside the product team.</li>
-<li>You’ll play an active role in the <strong>shaping and scoping</strong> of new features.</li>
-</ul><div>
-<br><strong>About You</strong>
-</div><div>
-<br>You must naturally <strong>thrive working independently</strong>. Furthermore, you should be:</div><ul>
-<li>
-<strong>Impatient</strong> — You must have an insatiable desire to constantly move things forward and take action without asking for permission.</li>
-<li>
-<strong>Comfortable in uncertainty</strong> — You must regularly dive into complex problems and systems without knowing all of their details upfront.</li>
-<li>
-<strong>Something to prove</strong> — A desire to show the world what you’re made of; ambition matters.</li>
-</ul><div>
-<br><strong>Our Development Principles</strong><br><br>
-</div><div>The following principles have served us well; you should at least be open to them:</div><ul>
-<li>
-<strong>Get to production</strong> — We want to get things into their real environment as early as possible and then rapidly iterate from there. This means constantly shipping incremental pieces, whether it be directly to customers, behind feature flags, on an obscure URL, as a script, or some other form.</li>
-<li>
-<strong>Constantly fight the urge to do more</strong> — Everyone, including yourself, will naturally slide towards wanting to make the thing a little bigger and a little better. You must be vigilant in pushing back to avoid scope creep.</li>
-<li>
-<strong>Testing means clicking</strong> — Automated tests are great, but actually using the real thing, in a browser, with production data is indispensable. A feature is not tested if you haven’t tried it the way the end-user will.</li>
-</ul><div>
-<br><strong>About Baymard Institute</strong>
-</div><div><br></div><div>Baymard is an independent UX research organization of ~50 people distributed across the US and 10 different European countries. Most work as UX analysts and researchers.</div><div>
-<br>We conduct large-scale UX research studies and publish the findings in our <a href="https://baymard.com/research">SaaS platform</a>. (It’s primarily this platform that you’ll be working on.)</div><div>
-<br>We offer:</div><ul>
-<li>A flat organization with a long-term focus.</li>
-<li>Lots of responsibility from day 1.</li>
-<li>Organization that is remote from the ground-up.</li>
-<li>Founders engaged in the product (both are active in the product team).</li>
-<li>Flexible hours.</li>
-<li>Room for growth.</li>
-</ul><div>
-<br>See the “<a href="https://baymard.com/jobs/web-developer#key-work-values-at-baymard">key work values</a>” section for a description of each of the above bullets.<br><br>
-</div><div>
-<br><strong>Practical Details</strong>
-</div><ul>
-<li>
-<strong>Salary:</strong> competitive, matched to your skill and ambition.</li>
-<li>
-<strong>Location:</strong> remote full-time position from either US east coast, Europe, or Africa. <em>(Most of the product team is located in Europe)</em>
-</li>
-<li>
-<strong>Start date:</strong> as soon as possible.</li>
-<li>
-<strong>Language:</strong> fully proficient in written and spoken English.</li>
-<li>
-<strong>Travel:</strong> limited; expect only 0-1 week of optional travel each year <em>(in connection with an optional, company-wide meetup)</em>.</li>
-</ul><div>
-<br><strong>How to Apply</strong>
-</div><ol>
-<li>Describe how you fit the role and share evidence of extraordinary ability (max. 1 page). <em>(Required.)</em>
-</li>
-<li>Examples of code you’ve written (either attached or as links to public Github repos, PRs, commits). <em>(Required.)</em>
-</li>
-<li>A link to your LinkedIn profile or a resume (PDF). <em>(Required.)</em>
-</li>
-</ol><div>
-<strong><br>Send the above to </strong><a href="mailto:info+railsdev2023@baymard.com?subject=Application%20for%20Rails%20Developer%20position%20at%20Baymard"><strong>info+railsdev2023@baymard.com</strong></a><strong>.</strong> <em>(All applications and materials are treated confidentially.)</em>
-</div><div>
-<strong><br>Deadline: September 24th, 2023.</strong> <br><br>
-</div><div>If you want to prepare the best possible, consider reading our <a href="https://baymard.com/research">SaaS sales page</a> and the “work values” section below.</div><div>
-<br><br>
-</div><div>
-<em>Sincerely,<br>Christian &amp; Jamie, founders of Baymard Institute<br></em><br>
-</div><div><br></div><div>
-<strong><em><br>Referral Bonus:</em></strong><em> If this job isn’t you, but you know someone who’ll be the perfect fit, please send them the link to this page. If we end up hiring the person you referred, we’ll give you 1-year access to a Baymard Premium ‘</em><a href="https://baymard.com/research"><em>Specialty</em></a><em>’ plan (normally $2,600/year).</em>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/baymard-institute-rails-backend-developer">https://weworkremotely.com/remote-jobs/baymard-institute-rails-backend-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0103/5339/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -229,7 +170,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/dogsthat-full-time-front-end-wordpress-developer-designer-jack-of-all-trades" align="right" target="_blank">Apply</a>
@@ -284,7 +225,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>35 days ago</text>
+                <text>37 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/textmagic-senior-back-end-developer-php-symfony-postgresql-1" align="right" target="_blank">Apply</a>
@@ -360,40 +301,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0099/5455/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Overmind</h5>
-                    <h3> Blockchain Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>37 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/overmind-blockchain-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0099/5455/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Singapore
-    <br /><strong>URL:</strong> <a href="https://overmind.xyz/">https://overmind.xyz/</a>
-</p>
-
-<div><strong>The Role</strong></div><div>You will develop the core smart contracts powering Overmind on multiple chains. You will develop puzzles and challenges for developers to crack. You will work closely with a small team and take ownership of important projects from the get-go.</div><div><br></div><div><strong>Skills &amp; Experience</strong></div><div><strong>Essential Requirements</strong></div><div>- 3+ years of smart contract development experience</div><div>- Love for coding puzzles and challenges</div><div>- English fluency (written &amp; oral)</div><div><br></div><div><strong>Nice-to-haves</strong></div><div>- Experience with Move</div><div>- Experience writing Layer 1 code, e.g. EVM or Tendermint</div><div>- Experience with coding competitions, e.g. ACM ICPC or Topcoder</div><div>- Experience with remote work at startups</div><div>- Bachelors or advanced degree in Computer Science or related subject</div><div><br></div><div><strong>Needless to say, none of the above supersedes your intellectual curiosity and drive to build world-changing products.</strong></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/overmind-blockchain-developer">https://weworkremotely.com/remote-jobs/overmind-blockchain-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -404,7 +311,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>188 days ago</text>
+                <text>190 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -488,7 +395,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -565,7 +472,7 @@
                     <code>api,CSS,git,html</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/website-developer-1761558" align="right" target="_blank">Apply</a>
@@ -625,7 +532,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -694,6 +601,30 @@
                 </td>
                 <td width="300">
                     <h5>Kraken</h5>
+                    <h3>Lifecycle Campaign Developer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/kraken/51988622-2f16-4af8-be86-c77c85e99987" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Future of Crypto&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to <a href="https://blog.kraken.com/crypto-education/security-at-kraken" class="postings-link">industry-leading security</a>, <a href="https://blog.kraken.com/category/crypto-education" class="postings-link">crypto education</a>, and <a href="https://blog.kraken.com/crypto-education/support-at-kraken" class="postings-link">world-class client support</a> through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://futures.kraken.com/wallets" class="postings-link">Kraken Futures</a>.</div><div><br></div><div>Become a Krakenite and build the future of crypto!</div><div><br></div><div><b style="font-size: 24px">The Team</b></div><div><br></div><div>The Marketing Operations and Technology team supports the company’s growth and client engagement strategy by implementing tools and executing cross-channel communications in order to help our clients make the most of Kraken’s exchange ecosystem. We strive to serve our internal and external clients with best-in-class technology&nbsp; and marketing best practices, such as hyper-personalization and real-time, relevant messaging, towards flawless execution.</div><div><br></div><div>Kraken’s CRM Ops team is looking for a campaign developer/specialist who will build marketing campaigns in our client engagement tool. We need support to execute and automate lifecycle campaigns using our best-in-class marketing technology tools to build complex customer journeys and dynamic, personalized content to serve all of our client segments. Besides building lifecycle campaigns, this is a role that will support a fast-paced environment, supporting ad-hoc campaigns such as new asset launches. This role will report to our Director of Marketing Technology and Operations, and collaborate cross-functionally with lifecycle marketing, product marketing, product management, and client support teams.&nbsp;</div></div><div class="section page-centered"><div><h3>The Opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Build and deploy on messaging campaigns across email, push, and in-app (web/app) messages; as well as audience segments based on the business logic provided by requestors</li><li>Implement copy and creative tests, and provide design and copywriting input ad-hoc to optimize engagement &amp; conversion</li><li>Collaborate with internal partners for QA and approvals - sending test emails/push to requestors and coordinating with product teams in designing and QA-ing in-app messages</li><li>Attend team meetings to understand priorities and conduct campaign reviews with relevant stakeholders</li><li>Apply learnings from historical campaigns and help ideate on campaign testing roadmap for each customer journey towards optimization based on campaign and business KPIs</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>2-5 years of experience with ESP management required (Braze, Klaviyo, Iterable, etc.)</li><li>Intermediate knowledge of HTML/CSS coding</li><li>An understanding of performance metrics as well as business/marketing analytics</li><li>Strong organization and project management skills</li><li>Strong crypto conviction and familiarity with our product offerings</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Location Tagging: #US #EU #Canada #LI-AG1</div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/51988622-2f16-4af8-be86-c77c85e99987/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1306325743580848130/mk0qvsZ9_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Kraken</h5>
                     <h3>Senior NetSuite Developer</h3>
                 </td>
                 <td width="300">
@@ -709,7 +640,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Future of Crypto&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to industry-leading security, crypto education, and world-class client support through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://cryptowat.ch/" class="postings-link">Cryptowatch</a>.</div><div><br></div><div>Become a Krakenite and build the future of crypto!</div><div><br></div><div><b style="font-size: 24px">Proof of work</b></div><div><br></div><div><b style="font-size: 18px">The team</b></div><div><br></div><div><span style="font-size: 11pt">The Business Solutions team delivers technology solutions to our internal stakeholders.&nbsp; Our group is a partner to business as we look to drive scalability, optimization, integrated efficiencies, and audit-sound developments to our tech stack.&nbsp;&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">The </span><span style="font-size: 11pt">Sr. NetSuite Developer</span><span style="font-size: 11pt"> will join the Business Solutions team to be our partner with the Accounting teams. The </span><span style="font-size: 11pt">Sr. NetSuite Developer</span><span style="font-size: 11pt"> will own the technology solutions our accounting teams rely on to function. This includes designing, developing, customizing, documentation, training, reporting, stabilization and maintaining functionalities within the NetSuite platform and other financial systems. This role will also partner with various cross functional teams across Security, IT &amp; Engineering to design, develop and implement solutions involving integrations, data and analytics for the Accounting and Finance business teams.</span></div><div><br></div><div><span style="font-size: 11pt">The successful candidate will bring a strong customer service approach to enhancing and maintaining the security, data, and application integrity and performance of our financial-related applications. Additionally, this position will participate in the delivery of Financial IT services and projects and ensure internal client satisfaction.&nbsp;</span></div></div><div class="section page-centered"><div><h3>The opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Provide day-to-day administration and maintenance of critical business systems including but not limited to NetSuite, Blackline etc.&nbsp;</li><li>Experience writing and managing NetSuite scripts, workflows and integrations using SuiteScript, SuiteFlows, Web Services/SuiteTalk or other related tools (MUST have)</li><li>Responsible for owning system configuration and integration - configure fields, workflows, roles/permissions, custom rules, reports, scripts, and dashboards&nbsp;</li><li>Propose improvements to the NetSuite ERP system and the business systems that interface with it.&nbsp;</li><li>Work on implementations of various customizations within NetSuite, including but not limited to creating custom segments, custom fields, records, forms, workflows etc.</li><li>Create and maintain integrations between NetSuite and other systems</li><li>Develop and maintain custom script and workflow solutions using modern coding practices</li><li>Contributes to cross-functional projects that involve integration between back-office applications and other applications&nbsp;</li><li>Work with business stakeholders to understand current state business processes, and identify gaps/ opportunities for improvement within processes &amp; applications.</li><li>Take part in business project intake and prioritization meetings with business stakeholders.</li><li>Lead and execute requirements gathering sessions with Finance stakeholders.</li><li>Drive or participate in effort estimation, design, configuration, and testing of features and projects.</li><li>Collaborate with System Implementation(SI) partners on various outsourced projects to provide co-design and co-develop solutions.&nbsp;</li><li>Collaborate with Enterprise Integration &amp; Data warehouse teams on cross functional projects involving integrations.</li><li>Work closely with business to optimize business processes and drive efficiencies in the day to day operations and the functioning of the accounting office.&nbsp;</li><li>Provide finance system administration to support business users (e.g., developing workflows, page layouts, formulas, approval processes) for running their operations.</li><li>Communicate, log, and resolve planned or unplanned system downtime and system support issues</li><li>Mentor junior resources within the team on business analysis and system administration of Financial Systems</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>6+ years of working experience as a NetSuite Developer</li><li>Experience with NetSuite OneWorld administration, configuration, and 3rd party integrations</li><li>4+ Year of experience in NetSuite technical role including development with JavaScript , SuiteScript 2.0, SuiteFlow (workflow automation) and SuiteTalk (web services API) of NetSuite for a large enterprise&nbsp;</li><li>6+ years of administration &amp; configuration experience in enterprise financial and accounting systems</li><li>Netsuite ERP certifications(MUST have)&nbsp;</li><li>4-6 medium-scale or 2-3 enterprise ERP implementations in a consultant-related role</li><li>Demonstrate full understanding of the NetSuite stack and experience with NetSuite modules (Order to Cash, Revenue Recognition (606), Procurement, GL, AP, AR, FA, etc.)&nbsp;</li><li>Thorough understanding of finance business processes (AR, AP, GL,P2P, Treasury, Tax, etc), systems(NetSuite, Oracle, SAP, Blackline, etc) and operations (RevRec, Book Closing, etc).</li><li>Ability to articulate technical issues to a non-technical audience&nbsp;</li><li>Experience of working in a hyper growth environment/ large company experience will be a plus.</li><li>Advanced skills in business analysis and technical design with the capability to capture requirements and make recommendations on the best way to implement the requirements to meet overall business goals&nbsp;</li><li>Experience working on complex/ transformational projects for Finance business involving sensitive data, integrations with 3rd party systems and services.</li><li>A self-starter with the ability to build relationships &amp; credibility with team, stakeholders and management while working remotely.</li><li>Demonstrate effective communication skills through facilitation of critical meetings, documentation and presentations to management &amp; stakeholders.</li><li>Experience working with compliance, risk and audit teams to conduct SOX, SOC type of audits will be required.</li><li>Experience working with teams using agile methodologies (Sprint) and ability to prioritize and manage ad hoc projects will be critical.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 14.6667px">Location Tagging: #US #LI-AN1 #LI-Remote #Canada</span></div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/3558e796-8434-469d-b27e-f5b07392073f/apply">Apply for this job</a></div>
+                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Future of Crypto&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to <a href="https://blog.kraken.com/crypto-education/security-at-kraken" class="postings-link">industry-leading security</a>, <a href="https://blog.kraken.com/category/crypto-education" class="postings-link">crypto education</a>, and <a href="https://blog.kraken.com/crypto-education/support-at-kraken" class="postings-link">world-class client support</a> through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://futures.kraken.com/wallets" class="postings-link">Kraken Futures</a>.</div><div><br></div><div>Become a Krakenite and build the future of crypto!</div><div><br></div><div><b style="font-size: 24px">Proof of work</b></div><div><br></div><div><b style="font-size: 18px">The team</b></div><div><br></div><div><span style="font-size: 11pt">The Business Solutions team delivers technology solutions to our internal stakeholders.&nbsp; Our group is a partner to business as we look to drive scalability, optimization, integrated efficiencies, and audit-sound developments to our tech stack.&nbsp;&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">The </span><span style="font-size: 11pt">Sr. NetSuite Developer</span><span style="font-size: 11pt"> will join the Business Solutions team to be our partner with the Accounting teams. The </span><span style="font-size: 11pt">Sr. NetSuite Developer</span><span style="font-size: 11pt"> will own the technology solutions our accounting teams rely on to function. This includes designing, developing, customizing, documentation, training, reporting, stabilization and maintaining functionalities within the NetSuite platform and other financial systems. This role will also partner with various cross functional teams across Security, IT &amp; Engineering to design, develop and implement solutions involving integrations, data and analytics for the Accounting and Finance business teams.</span></div><div><br></div><div><span style="font-size: 11pt">The successful candidate will bring a strong customer service approach to enhancing and maintaining the security, data, and application integrity and performance of our financial-related applications. Additionally, this position will participate in the delivery of Financial IT services and projects and ensure internal client satisfaction.&nbsp;</span></div></div><div class="section page-centered"><div><h3>The opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Provide day-to-day administration and maintenance of critical business systems including but not limited to NetSuite, Blackline etc.&nbsp;</li><li>Experience writing and managing NetSuite scripts, workflows and integrations using SuiteScript, SuiteFlows, Web Services/SuiteTalk or other related tools (MUST have)</li><li>Responsible for owning system configuration and integration - configure fields, workflows, roles/permissions, custom rules, reports, scripts, and dashboards&nbsp;</li><li>Propose improvements to the NetSuite ERP system and the business systems that interface with it.&nbsp;</li><li>Work on implementations of various customizations within NetSuite, including but not limited to creating custom segments, custom fields, records, forms, workflows etc.</li><li>Create and maintain integrations between NetSuite and other systems</li><li>Develop and maintain custom script and workflow solutions using modern coding practices</li><li>Contributes to cross-functional projects that involve integration between back-office applications and other applications&nbsp;</li><li>Work with business stakeholders to understand current state business processes, and identify gaps/ opportunities for improvement within processes &amp; applications.</li><li>Take part in business project intake and prioritization meetings with business stakeholders.</li><li>Lead and execute requirements gathering sessions with Finance stakeholders.</li><li>Drive or participate in effort estimation, design, configuration, and testing of features and projects.</li><li>Collaborate with System Implementation(SI) partners on various outsourced projects to provide co-design and co-develop solutions.&nbsp;</li><li>Collaborate with Enterprise Integration &amp; Data warehouse teams on cross functional projects involving integrations.</li><li>Work closely with business to optimize business processes and drive efficiencies in the day to day operations and the functioning of the accounting office.&nbsp;</li><li>Provide finance system administration to support business users (e.g., developing workflows, page layouts, formulas, approval processes) for running their operations.</li><li>Communicate, log, and resolve planned or unplanned system downtime and system support issues</li><li>Mentor junior resources within the team on business analysis and system administration of Financial Systems</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>6+ years of working experience as a NetSuite Developer</li><li>Experience with NetSuite OneWorld administration, configuration, and 3rd party integrations</li><li>4+ Year of experience in NetSuite technical role including development with JavaScript , SuiteScript 2.0, SuiteFlow (workflow automation) and SuiteTalk (web services API) of NetSuite for a large enterprise&nbsp;</li><li>6+ years of administration &amp; configuration experience in enterprise financial and accounting systems</li><li>Netsuite ERP certifications(MUST have)&nbsp;</li><li>4-6 medium-scale or 2-3 enterprise ERP implementations in a consultant-related role</li><li>Demonstrate full understanding of the NetSuite stack and experience with NetSuite modules (Order to Cash, Revenue Recognition (606), Procurement, GL, AP, AR, FA, etc.)&nbsp;</li><li>Thorough understanding of finance business processes (AR, AP, GL,P2P, Treasury, Tax, etc), systems(NetSuite, Oracle, SAP, Blackline, etc) and operations (RevRec, Book Closing, etc).</li><li>Ability to articulate technical issues to a non-technical audience&nbsp;</li><li>Experience of working in a hyper growth environment/ large company experience will be a plus.</li><li>Advanced skills in business analysis and technical design with the capability to capture requirements and make recommendations on the best way to implement the requirements to meet overall business goals&nbsp;</li><li>Experience working on complex/ transformational projects for Finance business involving sensitive data, integrations with 3rd party systems and services.</li><li>A self-starter with the ability to build relationships &amp; credibility with team, stakeholders and management while working remotely.</li><li>Demonstrate effective communication skills through facilitation of critical meetings, documentation and presentations to management &amp; stakeholders.</li><li>Experience working with compliance, risk and audit teams to conduct SOX, SOC type of audits will be required.</li><li>Experience working with teams using agile methodologies (Sprint) and ability to prioritize and manage ad hoc projects will be critical.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 14.6667px">Location Tagging: #US #LI-AN1 #LI-Remote #Canada</span></div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/3558e796-8434-469d-b27e-f5b07392073f/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -779,22 +710,22 @@
 <p><span style="font-weight: 400;">We expect the interview process to take 4.5</span><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;">hours in total.</span><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;"><br><br></span></p>
 <p><strong>👋 Introduction Stage</strong><span style="font-weight: 400;"> - we have initial conversations to get to know you better…</span></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#recruiter-screen"><span style="font-weight: 400;">Recruiter Screen</span></a><span style="font-weight: 400;">&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#hiring-manager-screen"><span style="font-weight: 400;">Hiring Manager Screen</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#recruiter-screen"><span style="font-weight: 400;">Recruiter Screen</span></a><span style="font-weight: 400;"> with Kelsey Nagel</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#hiring-manager-screen"><span style="font-weight: 400;">Hiring Manager Screen</span></a> with Ado Kukic</li>
 </ul>
 <p><strong>🧑‍💻 Team Interview Stage</strong><span style="font-weight: 400;"> - we then delve into your experience in more depth and introduce you to members of the team…</span></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive"><span style="font-weight: 400;">Resume Deep Dive</span></a></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[60m] Working Session</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[45m] Cross-functional Collaboration</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive"><span style="font-weight: 400;">Resume Deep Dive</span></a> with Kelsey Nagel and Ado Kukic</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[60m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#developer-relations-working-session">Working Session</a> with Alex Isken, Justin Dorfman, Raman Sharma, Beyang Liu, Ado Kukic, Amie Rotherham</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[45m] <a href="https://about.sourcegraph.com/handbook/talent/types_of_interviews#cross-functional-team-collaboration-interview">Cross-functional team collaboration</a> with Justin Dorfman and Amie Rotherham&nbsp;</span></li>
 </ul>
 <p><strong>🎉 Final Interview Stage </strong><span style="font-weight: 400;">- we move you to our final round, where you meet cross-functional partners and gain a better understanding of our business and values holistically…</span></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#values-interview"><span style="font-weight: 400;">Values Interview</span></a></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#leadership-interview"><span style="font-weight: 400;">Leadership Interview</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#leadership-interview"><span style="font-weight: 400;">Leadership Interview</span></a> with Quinn Slack or Beyang Liu<span style="font-weight: 400;">&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">We check references and conduct your background check</span></li>
 </ul>
-<p><span style="font-weight: 400;">Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.</span></p>
+<p><span style="font-weight: 400;">Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process. You can learn more about the team <a href="https://handbook.sourcegraph.com/team/">here</a>.&nbsp;</span></p>
 
     
 
@@ -878,22 +809,22 @@
 <p><span style="font-weight: 400;">We expect the interview process to take 4.5</span><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;">hours in total.</span><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;"><br><br></span></p>
 <p><strong>👋 Introduction Stage</strong><span style="font-weight: 400;"> - we have initial conversations to get to know you better…</span></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#recruiter-screen"><span style="font-weight: 400;">Recruiter Screen</span></a><span style="font-weight: 400;">&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#hiring-manager-screen"><span style="font-weight: 400;">Hiring Manager Screen</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#recruiter-screen"><span style="font-weight: 400;">Recruiter Screen</span></a><span style="font-weight: 400;"> with Kelsey Nagel</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#hiring-manager-screen"><span style="font-weight: 400;">Hiring Manager Screen</span></a> with Ado Kukic</li>
 </ul>
 <p><strong>🧑‍💻 Team Interview Stage</strong><span style="font-weight: 400;"> - we then delve into your experience in more depth and introduce you to members of the team…</span></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive"><span style="font-weight: 400;">Resume Deep Dive</span></a></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[60m] Working Session</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[45m] Cross-functional Collaboration</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive"><span style="font-weight: 400;">Resume Deep Dive</span></a> with Kelsey Nagel and Ado Kukic</li>
+<li>[60m]&nbsp;<a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#developer-relations-working-session">Working Session</a>&nbsp;with Alex Isken, Justin Dorfman, Raman Sharma, Beyang Liu, Ado Kukic, Amie Rotherham</li>
+<li>[45m]&nbsp;<a href="https://about.sourcegraph.com/handbook/talent/types_of_interviews#cross-functional-team-collaboration-interview">Cross-functional team collaboration</a>&nbsp;with Justin Dorfman and Amie Rotherham&nbsp;</li>
 </ul>
 <p><strong>🎉 Final Interview Stage </strong><span style="font-weight: 400;">- we move you to our final round, where you meet cross-functional partners and gain a better understanding of our business and values holistically…</span></p>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#values-interview"><span style="font-weight: 400;">Values Interview</span></a></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#leadership-interview"><span style="font-weight: 400;">Leadership Interview</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#leadership-interview"><span style="font-weight: 400;">Leadership Interview</span></a><span style="font-weight: 400;"> with Quinn Slack or Beyang Liu&nbsp;</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">We check references and conduct your background check</span></li>
 </ul>
-<p><span style="font-weight: 400;">Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.</span></p>
+<p><span style="font-weight: 400;">Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process. You can learn more about the team&nbsp;<a href="https://handbook.sourcegraph.com/team/">here</a>.&nbsp;</span></p>
 
     
 
