@@ -1,48 +1,5 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0120/6441/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Power Diary</h5>
-                    <h3> .NET Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/power-diary-net-software-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0120/6441/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Australia
-    <br /><strong>URL:</strong> <a href="https://powerdiary.com">https://powerdiary.com</a>
-</p>
-
-<div><br></div><div>
-<strong>BE A PART OF A HIGHLY SKILLED ENGINEERING TEAM! <br></strong><br>
-</div><div>Join Agile Organization that doesn’t get bogged down with stifling processes or paperwork!</div><div>Power Diary is a fast-growing, values-driven company with all the right ingredients to put you on your path!</div><div>Join a great team, work remotely, AND contribute to the provision of healthcare!</div><div><br></div><div><strong>What is the role?</strong></div><div>We are looking for the people who embrace teamwork. You could have a couple of years under your belt, or be an experienced full stack developer, you will find challenging and interesting work in a fun environment with us!</div><div><br></div><div><strong>What will you do? </strong></div><div>On a day-to-day basis, your responsibilities and activities will include;<br>Work in a self-managing, cross functional team, contributing to future implementation and system improvement<br>Collaborate with team members and product department on agreed road map;<br>Take on own tasks and projects, complete required research and collaborate with team members to find solution;<br>Take ownership of workload and deliver on task to agreed timelines;<br>Make suitable improvements to the code base when possible.<br>Provide clear comments on work, following company and industry-standard guidelines.<br><br><strong>Who are we looking for?<br></strong>Qualification on computer science field or equivalent experience<br>Several years experience working on full-stack development (.NET);<br>Ability to collaborate with colleagues and partake in healthy debate to find solutions;<br>Always interested in learning new things;<br>Pragmatic problem solver and detail oriented;<br>Precise in code, communication and documentation.<br><br>
-</div><div>
-<strong>Why you’ll LOVE working at Power diary<br></strong><br>
-</div><div>When you join Power Diary, you’ll benefit from perks like:<br><br>
-</div><div><strong>✅ Work from Anywhere</strong></div><div>There are no offices at Power Diary as we’ve been a distributed team long before everyone else caught on. We look for the best people around the world – not just those who live within a 1 hour commute. If you like working from home, or really from anywhere, you’ll find a bunch of like-minded people here.</div><div><strong>✅ Paid Time Off</strong></div><div>There’s no sense in working all the time – we believe everyone needs balance and we want you to have enough time to do other things that enrich your life. We offer all of our permanent team members 30 days of paid time off and we expect you to take it.</div><div><strong>✅ Flexibility</strong></div><div>Need to get the kids to school or want to do a gym class in the middle of the day? No problem. We need you to be available for some agreed core hours to work with your colleagues and cover our service requirements, but other than that your time is yours.</div><div><strong>✅ Competitive Pay</strong></div><div>We aim to work with the best people – wherever and whoever they are. We know this comes at a business cost, but we consider this an investment in the company’s future. We offer competitive pay and we want all team members to feel well-rewarded for their contribution.</div><div><strong>✅ Results Driven</strong></div><div>At Power Diary, we detest bureaucracy and we strive to keep the focus on building and supporting great software that will help our customers (and in turn, help more of their clients). There are no pointless meetings, forms, or other impediments in your way. As we grow, we aim to stay agile – in every way.</div><div><strong>✅ Learning &amp; Growth</strong></div><div>We’re big supporters of personal growth and development and our team is constantly learning and upskilling themselves in many different areas. Innovation is a big part of our culture and we welcome new ideas from everyone.</div><div><strong>✅ Inspiring Team</strong></div><div>We truly love our team at Power Diary and we hope you will too. We’re a bunch of unique individuals from all kinds of backgrounds with a vast array of specialist skills and interests. Although we work remotely, the team works closely together and we also make time to know and support each other. </div><div><strong>✅ Meaningful Work</strong></div><div>We’re constantly getting feedback from customers that are relieved to have found Power Diary. In many cases, they refer to us as a ‘life saver’ or a ‘game changer’, and it feels great to be part of something that helps people get the healthcare support they need. See our customer feedback here.</div><div><br></div><div><strong>About Power Diary</strong></div><div>Power Diary is a leading healthcare practice management system used in Australia, New Zealand, the United Kingdom, the United States and Canada.</div><div>Our mission is simple: <strong>To provide health practitioners with the ultimate Practice Management Software that makes running a health practice easier and more rewarding.</strong>
-</div><div>Power Diary’s customer base is growing and we need smart, passionate people to join our team and help take us to the next level. We’re looking for people who are genuinely excited to help health practitioners do their work, and be part of a globally distributed team</div><div>As a healthcare company, we care about our workforce just as much as our clients and their patients. You will enter a fun, inclusive workplace with a dedicated and driven team.</div><div>We are still a relatively small business, but self-funded and growing strongly. This is an exciting time to be at Power Diary – we have some great plans for the future and many challenging things to work on. We hope you’ll consider joining our team and being part of our story!</div><div>See more information about <a href="https://www.powerdiary.com/careers/">Careers at Power Diary here</a>.</div><div><br></div><div>(*) Power Diary collects and processes your personal data for the purposes of managing employment candidate application and recruitment-related activities as well as for organisational planning purposes, for further detail, please refer to the <a href="https://www.powerdiary.com/privacy-policy/">Power Diary Privacy Policy</a>.</div><h1><br></h1><h1>
-<br><br>
-</h1><h1><br></h1><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/power-diary-net-software-engineer">https://weworkremotely.com/remote-jobs/power-diary-net-software-engineer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1569512792381878278/Smf8h3tt_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
