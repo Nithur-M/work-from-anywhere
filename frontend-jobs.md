@@ -1,5 +1,84 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0120/6525/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Stealth</h5>
+                    <h3> Frontend Engineer at Stealth Crypto Startup</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/stealth-frontend-engineer-at-stealth-crypto-startup" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0120/6525/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> USA
+    <br /><strong>URL:</strong> <a href="https://stealth.mode">https://stealth.mode</a>
+</p>
+
+<div>
+<strong>Overview</strong><br>We are looking for a Frontend Engineer (5-7+ years exp) to join our venture-backed, recently funded startup. You'll work with a small but experienced team of engineers and crypto-natives to build out a social platform for trading and data visualization.<br><br>
+</div><div>
+<strong>Details<br></strong>As a Frontend Developer, you will be at the forefront of building a cutting-edge social network dedicated to the crypto community. This platform aims to seamlessly blend live charting, real-time price updates, and data-driven insights, all within an interactive social space. Your primary responsibility will be to ensure that crypto data is rendered intuitively, allowing users to make informed decisions, engage with content, and connect with peers.<br><br><strong>Key Responsibilities</strong>
+</div><ul>
+<li>Develop high-quality, reusable, and efficient code using Typescript and React</li>
+<li>Implement charting, price displays, and real-time data visualizations</li>
+<li>Develop and maintain test suites using React Testing Library or similar tooling</li>
+<li>Integrate front-end applications with our Rails backend</li>
+<li>Ensure the technical feasibility of UI/UX designs</li>
+<li>Collaborate with backend developers to design and implement RESTful APIs</li>
+<li>Participate in code reviews to maintain code quality and share knowledge</li>
+</ul><div>
+<br><strong>Skills &amp; qualifications<br><br></strong>Required:</div><ul>
+<li>5-7+ years experience using vanilla JavaScript</li>
+<li>3+ years of React</li>
+<li>2+ years of TypeScript</li>
+<li>Familiarity with Jest and/or React testing library</li>
+<li>Familiarity with Redux (Redux Toolkit a plus)</li>
+<li>Experience implementing WebSockets and RESTful APIs</li>
+<li>Understanding of best practices in software development such as testing, version control (Git), and SDLC with small remote-first teams</li>
+<li>Strong problem-solving skills and a keen eye for detail</li>
+<li>Knowledge of front-end performance optimization techniques</li>
+</ul><div>
+<br>Nice to have:</div><ul>
+<li>Crypto experience with a social or financial application (strongly preferred!)</li>
+<li>Experience working within a  Ruby on Rails or similar web application framework codebase</li>
+<li>Familiarity with financial apps, creative tools, and interactive software</li>
+<li>Knowledge of Tailwind CSS</li>
+<li>Experience leading or mentoring a team of front-end developers</li>
+<li>Prior experience working in a startup environment</li>
+</ul><div>
+<br><strong>Location</strong>
+</div><ul>
+<li>Fully remote with working hours from Morning - evening US Eastern Time (EST)</li>
+<li>Preferred time zones: within 3 hours of US Eastern Time (EST)</li>
+<li>Preferred locations: United States, Canada, Central/Latin America</li>
+</ul><div><br></div><div><strong>Compensation &amp; benefits</strong></div><ul>
+<li>Competitive salary (USD)</li>
+<li>Equity/tokens offered to full-time employees</li>
+<li>Remote-first culture</li>
+<li>Flexible hours</li>
+</ul><div>
+<br><strong>How to apply:<br><br></strong>Send your resume and any relevant Github, website links to gstdevops[at]gmail[dot]com</div><div><br></div><div>
+<strong><br></strong><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/stealth-frontend-engineer-at-stealth-crypto-startup">https://weworkremotely.com/remote-jobs/stealth-frontend-engineer-at-stealth-crypto-startup</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +89,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/orderez-frontend-engineer" align="right" target="_blank">Apply</a>
