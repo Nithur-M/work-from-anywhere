@@ -1,5 +1,95 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0120/6520/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sourcefabric</h5>
+                    <h3> Full stack developer | Newshub</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/sourcefabric-full-stack-developer-newshub-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0120/6520/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Prague
+    <br /><strong>URL:</strong> <a href="https://www.sourcefabric.org/">https://www.sourcefabric.org/</a>
+</p>
+
+<div>SourceFabric | Full stack developer | Open-source | REMOTE (Central European Timezone +/- 3h)<br><br>Sourcefabric is Europe's largest developer of open source tools for news media. Headquartered in Prague, Czech Republic, Sourcefabric z.ú. brings together minds from all corners of the globe to promote media development through the creation of open source software. All of our tools are open source and free to download: Superdesk, Live Blog and Airtime.<br><br>We are looking for a full stack developer(Python, TypeScript/JavaScript, React) with at least 4 years of experience in software development in general and at least 1 year of experience with all mentioned technologies. You will be joining a team of 7 developers to work on new features and maintenance of our Newshub and Superdesk web applications.<br><br>To apply, send your resume to: jobs+nhWWR@sourcefabric.org</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sourcefabric-full-stack-developer-newshub-1">https://weworkremotely.com/remote-jobs/sourcefabric-full-stack-developer-newshub-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0120/6513/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Proteus Digital Lab, LLC</h5>
+                    <h3> Shopify Web Developer for Conversion Rate Optimization (CRO) Testing</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/proteus-digital-lab-llc-shopify-web-developer-for-conversion-rate-optimization-cro-testing" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0120/6513/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Colorado
+    <br /><strong>URL:</strong> <a href="https://proteusdigitallab.com/">https://proteusdigitallab.com/</a>
+</p>
+
+<div>We are seeking an experienced Shopify Web Developer to join our team and help us with our ongoing CRO testing efforts. We are looking for someone who is reliable, proactive, and excited about the impact of CRO testing.<br><br>
+</div><div>The successful candidate will be responsible for taking conceptual CRO test ideas and implementing them for our clients' Shopify websites. We value high-quality, high-ownership work and the successful candidate will have the ability to use their excellent judgement to fill in any cosmetic or implementation gaps—going above and beyond simple “order taking” to own the successful delivery of a testing objective.</div><div>
+<br>The position is fully-remote and we value asynchronous work as much as possible, so you can work as much or as little as suits your schedule, so long as we can rely on you to perfectly execute the work you take on, on time.</div><div><strong><br>Responsibilities:</strong></div><ul>
+<li>Develop and implement CRO tests for our clients' Shopify websites</li>
+<li>Work with the team to develop testing strategies and tactics</li>
+<li>Collaborate with designers, copywriters, and project managers to create optimized test variations</li>
+<li>Test and validate that each test will function correctly in a production environment</li>
+<li>Troubleshoot and resolve potential issues or conflicts if they arise</li>
+<li>Provide detailed Loom videos demonstrating the development and live functionality of each test before handing it off for review</li>
+<li>Take total ownership of work to ensure it is fully completed on time</li>
+<li>Communicate effectively with the team to ensure all unknowns are de-risked up front</li>
+<li>Stay up-to-date with the latest Shopify feature developments and trends</li>
+</ul><div><strong>Requirements:</strong></div><ul>
+<li>At least 4 years of experience working with Liquid, Javascript, and HTML/CSS</li>
+<li>Have robust knowledge of common Shopify themes, apps, and API features</li>
+<li>Strong attention to detail and the ability to test and validate your own work independently before handoff</li>
+<li>Ability to communicate effectively and collaborate with a remote team</li>
+<li>Experience with A/B testing, user experience (UX) design, and data analysis is a plus</li>
+<li>Experience with Shopify app development is a plus</li>
+<li>Excellent written and verbal communication skills</li>
+<li>Availability for at least 20 hours per week</li>
+<li>Native or fluent English speaker</li>
+</ul><div><strong>How to Apply:</strong></div><div>If you're interested in joining our team, please apply with your resume, portfolio, and hourly rate along with a Loom video walking us through how each of these deliverables make you an excellent fit for the role.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proteus-digital-lab-llc-shopify-web-developer-for-conversion-rate-optimization-cro-testing">https://weworkremotely.com/remote-jobs/proteus-digital-lab-llc-shopify-web-developer-for-conversion-rate-optimization-cro-testing</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/3791/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +100,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/entermotion-senior-full-stack-php-developer" align="right" target="_blank">Apply</a>
@@ -55,7 +145,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tempmee-react-developer" align="right" target="_blank">Apply</a>
@@ -120,7 +210,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/jls-trading-co-entry-level-gag-gift-prank-product-developer-fun-ecom-co" align="right" target="_blank">Apply</a>
@@ -170,7 +260,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/dogsthat-full-time-front-end-wordpress-developer-designer-jack-of-all-trades" align="right" target="_blank">Apply</a>
@@ -225,7 +315,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>37 days ago</text>
+                <text>39 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/textmagic-senior-back-end-developer-php-symfony-postgresql-1" align="right" target="_blank">Apply</a>
@@ -304,6 +394,121 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
+                    <h5>XM</h5>
+                    <h3> Modern C++ Software Developer – Remote</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>60 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Cyprus
+    <br /><strong>URL:</strong> <a href="https://bit.ly/3Yljr8s">https://bit.ly/3Yljr8s</a>
+</p>
+
+<div>
+<strong>Modern C++ Software Developer – Remote<br></strong><br>
+</div><div>
+<strong>Reference Number: CSD1022<br></strong><br>
+</div><div><br></div><div>
+<strong>The Role: <br></strong><br>
+</div><div>We are looking for a Modern C++ Software Developer to join our software development team.  You will be working on internal software related to trading financial products; monitoring tools; alerting and reporting. You will have the opportunity to offer your ideas, suggestions, and designs to help the team improve their quality of work. The team strives to write clean, decoupled, and testable code with a clear separation of components and responsibilities.<br><br>
+</div><div><br></div><div>
+<strong>The key responsibilities of the role include:<br></strong><br>
+</div><div>●       Develop standalone applications and plug-ins in C++ 17</div><div>●       Use libraries such as Boost.Asio for asynchronous TCP sockets</div><div>●       Write unit-tests, end-to-end tests and stress testing</div><div>●       Communicate with the team to identify business requirements</div><div>●       Understand business requirements and develop systems/features to meet them</div><div>●       Develop code in accordance with the system design and coding standards with minimal supervision</div><div>●       Review the code of associate developers<br><br>
+</div><div><strong> </strong></div><div><strong>Main requirements:</strong></div><div> </div><div>●       BSc/MSc in computer science, computer engineering or a related subject</div><div>●       Experience in any object-oriented language either in a professional environment or on personal projects</div><div>●       Strong knowledge and an active interest in object-oriented principles, practices and design patterns</div><div>●       Willingness to work with and learn modern C++, asynchronous programming and unit-testing</div><div>●       Excellent problem solving and troubleshooting skills</div><div>●       Knowledge of any of the following will be a plus: unit-testing, UML design,Boost.Asio, FIX protocol,         MetaTrader API, asynchronous programming, profiling</div><div>●       Outstanding communication and interpersonal skills, including the ability to describe software designs at all technical knowledge levels</div><div>●       Self-starter with a passion for coding, tinkering, reading, exploring and breaking things</div><div>●       Very good written and verbal skills in English<br><br>
+</div><div> </div><div>
+<strong>Benefit from:<br></strong><br>
+</div><div>●       Attractive remuneration package plus performance related reward</div><div>●       Intellectually stimulating work environment</div><div>●       Continuous personal development and international training opportunities<br><br>
+</div><div>
+<br>Type of employment: Full time<br><br>
+</div><div>
+<br>Location: Remote<br><br>
+</div><div>Please visit https://bit.ly/3Yljr8s to submit your online application for this position.<br><br>
+</div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2">https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>XM</h5>
+                    <h3> Senior PHP Web Developers– Cyprus, Greece or Remote</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>60 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Cyprus, Greece or Remote
+    <br /><strong>URL:</strong> <a href="https://xm.com">https://xm.com</a>
+</p>
+
+<div>
+<strong>Reference Number: SPHPWD1021<br></strong><br>
+</div><div>
+<strong> <br></strong><br>
+</div><div>
+<strong>The role:<br></strong><br>
+</div><div>As our new Senior PHP Developer, you will join an amazing team who is dedicated to taking the next step in software engineering. You will make key decisions on software processes, and use Kubernetes and Terraform on PHP, Go, React &amp; Angular on AWS. The team will keep you up-to-date with the latest technology stacks and processes and help you see challenging projects from beginning to end.<br><br>
+</div><div> <br><br>
+</div><div>
+<strong>The main responsibilities of the role include:<br></strong><br>
+</div><div>●        Design and implement new features/projects</div><div>●        Maintain and refactor existing web applications such as the company's website, registration forms, Members Area and internal web services</div><div>●        Research and integrate new web technologies</div><div>●        Write tests that will run on a continuous integration server 24/7 to ensure code testability, code coverage and quality conforms to the company’s highest standards</div><div>●        Resolve support tickets for IT related issues</div><div>
+<strong> <br></strong><br>
+</div><div>
+<strong>Main requirements:<br></strong><br>
+</div><div>●        BSc/MSc in information technology or any other relevant degree</div><div>●        At least 3 years of experience in a similar position</div><div>●        Very good knowledge of PHP 7+, MySQL, Redis, Git</div><div>●        Very good understanding of object-oriented programming principles</div><div>●        Experience in creating and consuming web services</div><div>●        Experience with modern PHP frameworks</div><div>●        Experience in writing tests with PHPUnit</div><div>●        Ability to research and adapt new web technologies that add value to the team</div><div>●        Strong organisational skills with the ability to multitask and prioritise</div><div>●        Problem solving and analytical skills</div><div>●        Ability to work independently and integrate well within a team</div><div>
+<strong> <br></strong><br>
+</div><div>
+<strong>The following will be considered an advantage:<br></strong><br>
+</div><div>●        Experience in Symfony framework</div><div>●        Experience in the development of REST APIs</div><div>●        Experience in software development practices like design patterns, SOLID principles, DRY</div><div>●        Very good understanding of security practices (OWASP)</div><div>●        Experience with cloud providers (e.g. AWS)</div><div>●        Experience in database query optimization</div><div>●        Experience in creating composer packages</div><div>●        Experience in front-end frameworks or libraries like Angular or React</div><div>
+<strong> <br></strong><br>
+</div><div>
+<strong>Benefit from:<br></strong><br>
+</div><div>●        Attractive remuneration package </div><div>●        Private health insurance</div><div>●        Food allowance</div><div>●        Intellectually stimulating work environment</div><div>●        Continuous personal development and international training opportunities</div><div> </div><div>
+<br>Type of employment: Full time<br><br>
+</div><div>
+<br>Location: Cyprus, Greece or Remote <br><br>
+</div><div>
+<br> <br><br>
+</div><div>Please visit our website <a href="http://www.xm.com/careers">www.xm.com/careers</a> to submit your online application for this position. </div><div> </div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2">https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
                     <h5>Proxify AB</h5>
                     <h3> Senior Ruby on Rails Developer</h3>
                 </td>
@@ -311,7 +516,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>190 days ago</text>
+                <text>192 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -395,7 +600,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -472,7 +677,7 @@
                     <code>api,CSS,git,html</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/website-developer-1761558" align="right" target="_blank">Apply</a>
@@ -532,7 +737,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -593,30 +798,6 @@
 <p> </p>
 <p>*Starting base pay in the US states of California, New York, Washington and Colorado for this position ranges between $15 - $35 per hour</p>
 <img src="https://remotive.com/job/track/1680495/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1306325743580848130/mk0qvsZ9_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Kraken</h5>
-                    <h3>Lifecycle Campaign Developer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/kraken/51988622-2f16-4af8-be86-c77c85e99987" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Future of Crypto&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to <a href="https://blog.kraken.com/crypto-education/security-at-kraken" class="postings-link">industry-leading security</a>, <a href="https://blog.kraken.com/category/crypto-education" class="postings-link">crypto education</a>, and <a href="https://blog.kraken.com/crypto-education/support-at-kraken" class="postings-link">world-class client support</a> through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://futures.kraken.com/wallets" class="postings-link">Kraken Futures</a>.</div><div><br></div><div>Become a Krakenite and build the future of crypto!</div><div><br></div><div><b style="font-size: 24px">The Team</b></div><div><br></div><div>The Marketing Operations and Technology team supports the company’s growth and client engagement strategy by implementing tools and executing cross-channel communications in order to help our clients make the most of Kraken’s exchange ecosystem. We strive to serve our internal and external clients with best-in-class technology&nbsp; and marketing best practices, such as hyper-personalization and real-time, relevant messaging, towards flawless execution.</div><div><br></div><div>Kraken’s CRM Ops team is looking for a campaign developer/specialist who will build marketing campaigns in our client engagement tool. We need support to execute and automate lifecycle campaigns using our best-in-class marketing technology tools to build complex customer journeys and dynamic, personalized content to serve all of our client segments. Besides building lifecycle campaigns, this is a role that will support a fast-paced environment, supporting ad-hoc campaigns such as new asset launches. This role will report to our Director of Marketing Technology and Operations, and collaborate cross-functionally with lifecycle marketing, product marketing, product management, and client support teams.&nbsp;</div></div><div class="section page-centered"><div><h3>The Opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Build and deploy on messaging campaigns across email, push, and in-app (web/app) messages; as well as audience segments based on the business logic provided by requestors</li><li>Implement copy and creative tests, and provide design and copywriting input ad-hoc to optimize engagement &amp; conversion</li><li>Collaborate with internal partners for QA and approvals - sending test emails/push to requestors and coordinating with product teams in designing and QA-ing in-app messages</li><li>Attend team meetings to understand priorities and conduct campaign reviews with relevant stakeholders</li><li>Apply learnings from historical campaigns and help ideate on campaign testing roadmap for each customer journey towards optimization based on campaign and business KPIs</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>2-5 years of experience with ESP management required (Braze, Klaviyo, Iterable, etc.)</li><li>Intermediate knowledge of HTML/CSS coding</li><li>An understanding of performance metrics as well as business/marketing analytics</li><li>Strong organization and project management skills</li><li>Strong crypto conviction and familiarity with our product offerings</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Location Tagging: #US #EU #Canada #LI-AG1</div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/51988622-2f16-4af8-be86-c77c85e99987/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1489,30 +1670,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div>Collabora is looking for a passionate and enthusiastic open-source software developer, with good knowledge of at least one of OpenGL or Vulkan, to join our ever growing geographically-distributed Graphics domain team.</div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li>Good knowledge of at least one of the OpenGL or Vulkan APIs</li><li>Experience developing on Linux systems</li><li>Knowledge of open source development methodologies and relevant open source communities</li><li>Good English language skills (both verbal and written)&nbsp;</li><li>Ability to work and communicate in an online fully distributed environment </li></ul></ul></div></div><div class="section page-centered"><div><h3>Desirable Skills (The below are skills that to some degree will be useful at the start of your career within Collabora. Training and opportunities for development will be offered)</h3><ul class="posting-requirements plain-list"><ul><li>Experience profiling and optimizing application's use of the GPU</li><li>Experience with developing GPU compilers</li><li>Direct contributions to the Mesa 3D Graphics Library</li><li>Experience leading teams to understand and define constraints, requirements and solutions</li><li>Good communication with customers and upstream communities</li><li>Self-learning skills to get sufficient knowledge of Collabora's services,&nbsp;business model, project delivery life cycle and other related technical domains</li><div><br></div></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Collabora's Graphics team contributes to the entire Linux Graphics stack, from the Linux kernel up to the display servers, including but not  limited to GPU and display kernel drivers, Wayland/Weston, OpenGL, Vulkan and other open-source graphics drivers within the Mesa 3D Graphics Library for different customers’ projects in various market verticals.</div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/bd4a9eb8-528f-4553-a832-ca6949ab46bd/apply">Apply for this job</a></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Kernel Developer for KernelCare - REMOTE/Work Anywhere</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/49BFD9FD94" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We are looking for<strong> Kernel Developers</strong> to work on our KernelCare team. The ideal candidate is someone looking for a rewarding and challenging career developing Linux Kernels and patches. This role requires someone with strong C development skills and a passion for all that is Linux. Our Kernel Developers create patches with a cyber security focus while finding solutions for our customers. </p> <p><br></p> <p>KernelCare is a product of CloudLinux Inc., the maker of the #1 OS in security and stability for hosting providers. KernelCare, a live kernel patching service provides security patches and bug fixes for a range of popular Linux kernels that can be installed without rebooting the system.  Check out our website for more information about our KernelCare Product <a href="https://tuxcare.com/live-patching-services/" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com/live-patching-services/</a></p><p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and  we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful. </p><p>We are truly a great place to work. </p> <p><strong>As our Kernel Developer you will be responsible for:</strong></p><ul> <li>Support existing functionality and implementation of several new features</li> <li>Update existing kernels including security fixes and CVEs patches</li> <li>Develop and support Python and Bash scripts for task automation</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role you should have:</strong></p><ul> <li>Excellent C programming and debugging skills</li> <li>Good level knowledge of Linux kernel core subsystems</li> <li>CPU and cache architectures</li> <li>Experience with GDB and other debuggers</li> <li>CPU performance and power analysis</li> <li>Independent and self-motivated problem solver and strategic thinker</li> <li>Proficient in Git for development and patch/branch management</li> <li>Good planning, time management, decision-making, presentation, and organization skills</li> <li>Effective written and verbal communication</li> <li>Excellent interpersonal and teamwork skills</li> <li>Happy in an agile, fast-paced environment</li> </ul><ul> <li>Experience with python, shell scripting</li> <li>Experience with Jenkins</li> </ul><h3>Benefits: </h3><p>What's in it for you?<br></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> </ul> <ul><li>Interesting and challenging projects</li></ul> </li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
                 </details>
                 </td>
             </tr></table>
