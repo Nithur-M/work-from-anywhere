@@ -1,5 +1,102 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/7908/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>BBE Marketing Inc</h5>
+                    <h3> Lead Full-Stack PHP Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-lead-full-stack-php-developer-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0064/7908/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Hurst, TX
+    <br /><strong>URL:</strong> <a href="http://bbemarketing.com/">http://bbemarketing.com/</a>
+</p>
+
+<div>We are looking for a talented Full-Stack Developer to join our team, who could help us in shipping features for our application and drive our application design and architecture as we grow.<br><br>
+</div><div>
+<br><strong>The tasks include:</strong>
+</div><div>
+<br>- Developing new features<br>- Making fixes and updates to our in-house application<br>- Implementing quality checks, metrics and monitoring: automated testing, code style, integrating error reporting and performance monitoring tools etc.<br>- Work with team in planning and strategizing<br>- Making important architectural decisions<br><br>
+</div><div>
+<br><strong>You will love this role if:</strong><br><br>
+</div><div>
+<br>- You like working with the stakeholders directly. We’re a relatively small startup, there’s no bureaucracy and complex hierarchy. You’ll be communicating directly with all the team members, from CEO to Customer Support.<br>- You are a team player<br>- You like to work and ship stuff fast without compromising quality. You know when to stop and call it done without trying to achieve the unattainable perfection.<br>- You are a problem solver<br>- You know how to find an optimal solution and ship it fast without introducing unnecessary complexity and overhead.<br>- You’re not afraid to prove your point when necessary. We trust our team members and believe they have businesses best interest at heart. If there’s no simple solution to a problem, you can provide the arguments and clearly communicate the risks.<br>- Self-starter, we don’t like to micro-manage our team<br>- You treat privileged information with care. You can be trusted with sensitive company data<br><br>
+</div><div>
+<br><strong>Requirements:</strong><br>- Good written and spoken English.<br>- Solid experience with PHP, Symfony, MySQL (or any other RDBMS)<br>- Basic experience with Angular;<br>- Good knowledge of HTML, CSS, SASS/SCSS.<br>- Experience writing tests in PHP.  PHPUnit is a must. Knowledge of other testing frameworks and tools will be a plus.<br>- Experience writing tests in TS/JS. Experience with Jasmine.<br>- You have experience setting up and/or maintaining CI pipelines running tests and other quality checks.<br>- Able to work 4 hours overlap within 08:00 - 18:00 EST<br><br>
+</div><div>
+<br><strong>Nice to have:<br></strong>- Experience with DigitalOcean;<br>- Experience with Bitbucket Pipelines<br><br>
+</div><div><br></div><div>
+<strong>About us:<br></strong><br>
+</div><div>
+<br>BBE Marketing provides products and services to help businesses connect with celebrities and influencers. We are a small, fast growing company who is passionate about our mission.<br><br>
+</div><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-lead-full-stack-php-developer-2">https://weworkremotely.com/remote-jobs/bbe-marketing-inc-lead-full-stack-php-developer-2</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>BBE Marketing Inc</h5>
+                    <h3> Full-Stack Wordpress Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-6" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Hurst, TX
+    <br /><strong>URL:</strong> <a href="http://bbemarketing.com/">http://bbemarketing.com/</a>
+</p>
+
+<div>BBE Marketing creates online products that help businesses connect with celebrities and influencers. We are looking for a talented Full-Stack Wordpress Developer to join our team, who could help us in shipping features for our application and drive our application design and architecture as we grow.<br><br>
+</div><div>The tasks include:<br><br>
+</div><div>- Developing plugins<br>- Making fixes and updates to existing plugins<br>- Work with team in planning and strategizing<br>- Working with designer in developing designs<br>- Various backend tasks<br><br>
+</div><div>You will love this role if:<br><br>
+</div><div>- You like working with the stakeholders directly. We’re a relatively small startup, there’s no bureaucracy and complex hierarchy. You’ll be communicating directly with all the team members, from CEO to Customer Support.<br>- You like to work and ship stuff fast without compromising quality. You know when to stop and call it done without trying to achieve the unattainable perfection.<br>- You’re not afraid to prove your point when necessary. We trust our team members and believe they have businesses best interest at heart. If there’s no simple solution to a problem, you can provide the arguments and clearly communicate the risks.<br>- Self-starter, we don’t like to micro-manage our team<br>- You treat privileged information with care. You can be trusted with sensitive company data<br>- Great communication skills<br><br>
+</div><div>Requirements:<br>- Experience with PHP<br>- Experience with Wordpress<br>- Experience with MySQL;<br>- Experience with Asana (preferred)<br>- Written and spoken English (required).<br>- Able to work 4 hours overlap within 07:00 - 18:00 PST<br><br>
+</div><div>
+<br><br>
+</div><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-6">https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-6</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0120/6520/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +107,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sourcefabric-full-stack-developer-newshub-1" align="right" target="_blank">Apply</a>
@@ -44,7 +141,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proteus-digital-lab-llc-shopify-web-developer-for-conversion-rate-optimization-cro-testing" align="right" target="_blank">Apply</a>
@@ -90,51 +187,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/3791/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Entermotion</h5>
-                    <h3> Senior Full-Stack PHP Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/entermotion-senior-full-stack-php-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/3791/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> United States
-    <br /><strong>URL:</strong> <a href="https://entermotion.com">https://entermotion.com</a>
-</p>
-
-<div>We're looking for a full-stack PHP web developer with strong skills, and diverse experience to work in some of our web applications. The position is focused on backend, but frontend experience is desired.</div><div><br></div><div><strong><br>The Job</strong></div><div>You would be working mainly on one of our many web applications, but also on secondary web applications as the pipeline allows. The work would be done on top of Laravel and some of our custom framework. We have dozens of 3rd party integrations in our code and some refactoring work is involved with these 3rd parties as well as general code base evolutions. We rely on AWS for many of our features, so you would be working with their APIs constantly.</div><div><br></div><div>The workload is usually balanced between new features/tweaks and maintenance work. You would start small to get a better understanding of how everything works together and build your way up to the bigger issues.</div><div><br></div><div>You would be working with an all-remote team that’s used to getting work done through text-based channels(backlogs, wikis, and Slack conversations).</div><div><br></div><div>For reference, some keywords for technologies we use: Laravel, AWS(many products), Twilio, Stripe, Redis, Google APIs, Dropbox APIs, GraphQL, OpenSearch/Elastic.</div><div><br></div><div><strong><br>Skill</strong></div><div>Web developers have different strengths in different areas. Here are some of the categories we would assess candidates based on. Strength in one area can offset weakness in another.</div><ul>
-<li>Core PHP knowledge and experience with production environments</li>
-<li>Laravel knowledge</li>
-<li>Experience with 3rd-party API integrations such as AWS, Twilio, and Stripe</li>
-<li>Experience scaling production setups a plus</li>
-<li>Ideally, some frontend experience to help us evolve our current workflows and structure</li>
-<li>Knowledge of OWASP guidelines</li>
-</ul><div><br></div><div><strong><br>Benefits</strong></div><ul>
-<li>2 months maternity leave/1 month paternity leave</li>
-<li>Flexible vacations</li>
-<li>Paid sick leave</li>
-</ul><div><br></div><div><strong>Position</strong></div><div>This is a remote position. We're used to working as a dispersed team so you must be cool with collaborating online and a lot over text. We're flexible on schedules. Please include links to previous works and/or portfolio. Individuals ONLY. No recruiters or agencies please.</div><div><br></div><div><strong><br>About Entermotion</strong></div><div>Entermotion is a creative design and programming studio. We work on a variety of projects for our clients, from identity design to application development. We're a remote-only team dispersed through 11 countries (and counting!)</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/entermotion-senior-full-stack-php-developer">https://weworkremotely.com/remote-jobs/entermotion-senior-full-stack-php-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/0909/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -145,7 +197,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tempmee-react-developer" align="right" target="_blank">Apply</a>
@@ -210,7 +262,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/jls-trading-co-entry-level-gag-gift-prank-product-developer-fun-ecom-co" align="right" target="_blank">Apply</a>
@@ -260,7 +312,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/dogsthat-full-time-front-end-wordpress-developer-designer-jack-of-all-trades" align="right" target="_blank">Apply</a>
@@ -315,7 +367,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>39 days ago</text>
+                <text>40 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/textmagic-senior-back-end-developer-php-symfony-postgresql-1" align="right" target="_blank">Apply</a>
@@ -401,7 +453,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>60 days ago</text>
+                <text>61 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2" align="right" target="_blank">Apply</a>
@@ -454,7 +506,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>60 days ago</text>
+                <text>61 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2" align="right" target="_blank">Apply</a>
@@ -516,7 +568,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>192 days ago</text>
+                <text>193 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -600,7 +652,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -677,7 +729,7 @@
                     <code>api,CSS,git,html</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/website-developer-1761558" align="right" target="_blank">Apply</a>
@@ -723,81 +775,6 @@
 <p> </p>
 <p>If you are a talented Web Designer and UI/UX Developer with a passion for blockchain technology and user-centric design, we encourage you to apply and join NEAR Builders. Help shape the future of decentralized applications on the NEAR blockchain, to infinities and beyond!</p>
 <img src="https://remotive.com/job/track/1761558/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1680495/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Coalition Technologies </h5>
-                    <h3>Front End Developer</h3>
-                </td>
-                <td width="300">
-                    <code>CSS,excel,frontend,git</code>
-                </td>
-                <td width="200">
-                <text>29 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="h3">WHY YOU SHOULD APPLY:</div>
-<p> </p>
-<p>Coalition Technologies is devoted to delivering clients the highest quality work while providing our team a fun, thriving, and innovative environment. Along with the opportunity for tremendous career growth and rapid advancement, CT offers:</p>
-<ul style="">
-<li style="">The most competitive profit-sharing bonus plan in the industry, paying up to 50% of company profits to full-time employees each month!</li>
-<li style="">A highly competitive Paid Time Off plan, promoting quality work-life balance.</li>
-<li style="">Subsidized gym memberships to help team members feel their best.</li>
-<li style="">Medical, dental, vision, and life insurance packages for all US-based team members.</li>
-<li style="">International Health Insurance Reimbursement Program for all international team members, a benefit unique to Coalition.</li>
-<li style="">Device upgrade and learning reimbursement programs.</li>
-<li style="">Motivating career development plans with clearly defined goals and rewards.</li>
-<li style="">Additional job-specific incentives and bonuses.</li>
-</ul>
-<p>Plus, 100% of our team works remotely with the support of time tracking software. Our company culture specializes in supporting remote team members, and we’ve been doing so for more than a decade. CT welcomes your application, wherever in the world it's coming from!</p>
-<div class="h3"> </div>
-<div class="h3">YOU SHOULD HAVE:</div>
-<p> </p>
-<ul style="">
-<li style="">An expertise in HTML5, CSS3 and jQuery</li>
-<li style="">A thorough understanding of cross-browser compatibility issues</li>
-<li style="">Experience with media queries</li>
-<li style="">A knowledge of CSS platforms such as Twitter’s Bootstrap</li>
-<li style="">An ability to multi-task on multiple projects and tasks at the same time</li>
-<li style="">Great attention to detail and be highly organized</li>
-<li style="">A positive and upbeat attitude with the ability to learn quickly</li>
-<li style="">Proficiency in PHP/MYSQL and AJAX (preferred)</li>
-<li style="">Experience with WordPress, BigCommerce, Magento, and Shopify (preferred)</li>
-<li style="">Excellent written and spoken English</li>
-<li style="">The availability to work 40 hours per week from 9:00 am to 6:00 pm PST</li>
-<li style="">The ability to adapt to a diverse and multicultural environment</li>
-<li style="">Passion to build a startup</li>
-<li style="">Reliable transportation if working in-house</li>
-<li style="">A reliable workstation with a fast computer, microphone and speakers, reliable internet and power if working remotely</li>
-</ul>
-<div class="h3"> </div>
-<div class="h3">YOUR DUTIES AND TASKS:</div>
-<p> </p>
-<ul style="">
-<li style="">Transforming complex layout PSDs into pixel-perfect presentation-layer HTML5/CSS3 templates</li>
-<li style="">Creating responsive website designs</li>
-<li style="">Building websites with WordPress, extending and developing plugins and themes</li>
-<li style="">Working with Photoshop, Illustrator, and Fireworks to create images optimized for the web</li>
-<li style="">Working with version control systems such as GIT / SVN</li>
-<li style="">Working under tight deadlines</li>
-<li style="">Handling multiple projects at the same time</li>
-<li style="">Producing high quality of work with a strong focus on detail</li>
-</ul>
-<div class="h5"> </div>
-<div class="h5">We are looking for talented and diligent candidates who excel in our skills tests, and will consider these candidates even if past experience or educational background criteria aren't met.</div>
-<p> </p>
-<p>*Starting base pay in the US states of California, New York, Washington and Colorado for this position ranges between $15 - $35 per hour</p>
-<img src="https://remotive.com/job/track/1680495/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
