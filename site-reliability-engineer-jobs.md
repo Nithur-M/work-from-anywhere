@@ -1,5 +1,125 @@
 <div align="center"><h2>SITE RELIABILITY ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Contra</h5>
+                    <h3> Senior Site Reliability Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>DevOps and Sysadmin</code>
+                </td>
+                <td width="200">
+                <text>11 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/contra-senior-site-reliability-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> San Francisco, CA
+    <br /><strong>URL:</strong> <a href="http://bit.ly/3kLhMdk">http://bit.ly/3kLhMdk</a>
+</p>
+
+<div>
+<br>We're looking for a <strong>Senior Site Reliability Engineer</strong> to join our engineering team and help us build the best platform for independents &amp; clients. As a SRE, you are an integral member of our engineering organization. You'll not only help scale our infrastructure and CI/CD pipelines, but also have the chance to shape our technological choices and processes for ensuring the growth, stability and success of the Contra platform. This is a major role at a rapidly expanding startup, working with a team of highly accomplished yet humble people who are passionate about our company's mission. ✨<br><br>
+</div><div>
+<strong><br>How you’ll add value at Contra:<br></strong><br>
+</div><ul>
+<li>Expert knowledge in a wide variety of DevOps technologies &amp; best practices</li>
+<li>Knowledge and experience leveraging Google Cloud Platform natively and with complimentary tech</li>
+<li>Bridging the gap between our infrastructure and our applications, you have experience and comfort working within TypeScript/JavaScript Node.js environments and can identify and resolve issues that are impacting <a href="http://contra.com">contra.com</a> reliability</li>
+<li>Excellent communication and documentation skills</li>
+<li>Collaboration with the rest of the team through regular communication, information sharing and mentorship</li>
+<li>Designing, engineering and maintaining solutions for a highly resilient, scalable and fault-tolerant infrastructure</li>
+<li>Improving &amp; scaling CI/CD pipelines</li>
+<li>Eliminating user impacting defects raised in Sentry and GCP logs</li>
+<li>Developing, maintaining and improving monitoring, alerting and reporting tools</li>
+<li>Providing on-going operational support</li>
+<li>Identifying and improving the developer experience</li>
+<li>We expect you to be self-sufficient and take the initiative to drive the company forward. We are looking for individuals who are highly energetic, capable and ambitious, and who are eager to expand their knowledge and show how their contributions help achieve business objectives.</li>
+</ul><div>
+<strong><br>You’ll be successful here if you are:<br></strong><br>
+</div><ul>
+<li>
+<strong>Everyone Wins Together.</strong> You thrive in a collaborative, remote-only environment and you are comfortable with 8 am-1 pm PST core hours and flexibility around those hours for the rest of your work day!</li>
+<li>
+<strong>Energy is Everything.</strong> You bring a strong work ethic and contagious energy to your team as we work towards our North Star.</li>
+<li>
+<strong>Change is Good.</strong> You embrace change to evolve, improve, and build what matters.</li>
+<li>
+<strong>Think Big.</strong> No idea is too big at Contra. Our greatest successes often stem from seemingly crazy ideas. You enjoy setting ambitious goals, both individually and as a team, and strive to achieve them.</li>
+<li>
+<strong>Feedback is a Gift.</strong> Feedback is a catalyst for growth and improvement. It is routinely given and delivered with positive and actionable steps.</li>
+<li>
+<strong>The Best is Yet to Come.</strong> You strive to remain optimistic through all ups &amp; downs because you know the “best is yet to come.”</li>
+<li>
+<strong>Make it Fun.</strong> Nothing in life is worth it if it isn’t fun, even when stakes are high.</li>
+<li>
+<strong>Good People Only.</strong> You recognize that each of us brings unique experiences, backgrounds, and knowledge from which we can learn.</li>
+<li>
+<strong>GSD.</strong> We are building quickly, changing frequently, and growing fast with no plans of stopping anytime soon. You take ownership of your work and are proud to execute at a high level.</li>
+</ul><div>
+<strong><br>Our stack:<br></strong><br>
+</div><ul>
+<li>ArgoCD</li>
+<li>AlloyDB / PostgreSQL</li>
+<li>Github Actions</li>
+<li>Google Cloud Platform</li>
+<li>Fluentbit</li>
+<li>Kubernetes, Helm &amp; Docker</li>
+<li>Meillisearch</li>
+<li><a href="http://node.js/">Node.js</a></li>
+<li>OpsGenie</li>
+<li>Playwright</li>
+<li>Redis</li>
+<li>Temporal</li>
+<li>Traefik</li>
+<li>Turbo repo</li>
+<li>TypeScript</li>
+<li>Vite</li>
+<li>Vitest</li>
+</ul><div>
+<strong><br>You'll love Contra for:<br></strong><br>
+</div><ul>
+<li>🌎 Remote-only culture that is here to stay</li>
+<li>🍎 100% health coverage for US full-time employees, and health reimbursements for all international contractors</li>
+<li>💸 $4,000 laptop reimbursement upon starting + additional for equipment, co-working, and meetups</li>
+<li>💰 401k matching for US full-time employees</li>
+<li>💛 No-meeting Tuesdays &amp; Wednesdays</li>
+<li>👋 Generous time off</li>
+<li>👶 Flexible parental leave</li>
+<li>💁 A custom slack emoji, just for you!</li>
+</ul><div>
+<strong><br>Our interview process:<br></strong><br>
+</div><ul>
+<li>Intro Call (15-30 minutes)</li>
+<li>Interview #1 In Depth Technical Discussion Chat with Hiring Manager (45 minutes)</li>
+<li>Assessment</li>
+<li>Interview #2 Culture Interview (30 minutes)</li>
+<li>Interview #3 Technical Interview with Engineering Manager (45 minutes)</li>
+<li>Interview #4 CTO &amp; Co-Founder Interview (30 minutes)</li>
+<li>Interview #5 Interview with CEO &amp; Co-Founder (30 minutes)</li>
+</ul><div>
+<strong><br>Salary + Equity Range<br></strong><br>
+</div><ul>
+<li>$145K -$160K USD</li>
+<li>Equity Value Range: $180k+ USD<br><br>
+</li>
+</ul><div>Apply Here: <a href="https://contra-ambassadors.typeform.com/to/qbUvpUoB">https://contra-ambassadors.typeform.com/to/qbUvpUoB</a>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/contra-senior-site-reliability-engineer">https://weworkremotely.com/remote-jobs/contra-senior-site-reliability-engineer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1387074696831672327/C7WTpiAb_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
