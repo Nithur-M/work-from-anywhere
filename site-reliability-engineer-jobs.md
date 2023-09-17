@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/contra-senior-site-reliability-engineer" align="right" target="_blank">Apply</a>
@@ -120,6 +120,169 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/0772/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sticker Mule</h5>
+                    <h3> Site Reliability Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>330 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/sticker-mule-site-reliability-engineer-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0082/0772/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> New York, NY
+    <br /><strong>URL:</strong> <a href="https://www.stickermule.com">https://www.stickermule.com</a>
+</p>
+
+<div>
+<strong>About Sticker Mule</strong><br>Sticker Mule is the Internet's most "kick ass" brand. We are privately-owned, profitable, and powered by a globally distributed team that enjoys building happy customer experience at the highest technical standards. Our software team operates from 17 countries, and we're always looking for more exceptional engineers.</div><div>
+<br><br>The SRE team is responsible for building, maintaining and securing our services infrastructure, while participating in the weekly on-call schedule.</div><div><a href="https://www.stickermule.com/about"><strong><br>See more about our teams here</strong></a></div><div><strong><br>We offer</strong></div><ol>
+<li>Remote work with flexible schedules</li>
+<li>A privately owned, low-stress culture</li>
+<li>A fun "no bullshit" work environment</li>
+</ol><div><strong><br>We like you to know</strong></div><ol>
+<li>Docker</li>
+<li>Kubernetes</li>
+<li>GCP</li>
+<li>AWS</li>
+<li>Go</li>
+<li>Postgres</li>
+<li>Redis</li>
+<li>Familiarity with JavaScript</li>
+<li>Excellent communication skills (English)</li>
+<li>Degree in Computer Science or equivalent practical experience</li>
+</ol><div><strong><br>Challenges</strong></div><ol>
+<li>Build CI and CD pipelines</li>
+<li>Optimize and scale workloads</li>
+<li>Secure containers and web services</li>
+</ol><div><strong><br>Compensation and benefits</strong></div><ol>
+<li>Salary: $135k+ based on experience</li>
+<li>$20,000 signing bonus</li>
+<li>4 weeks vacation + holidays based on your country of residence</li>
+</ol><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-site-reliability-engineer-1">https://weworkremotely.com/remote-jobs/sticker-mule-site-reliability-engineer-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1783144/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Contra</h5>
+                    <h3>Senior Site Reliability Engineer </h3>
+                </td>
+                <td width="300">
+                    <code>cloud,docker,javascript,kubernetes</code>
+                </td>
+                <td width="200">
+                <text>5 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-site-reliability-engineer-1783144" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>We're looking for a <strong>Senior Site Reliability Engineer</strong> to join our engineering team and help us build the best platform for independents &amp; clients. As a PRE, you are an integral member of our engineering organization. You'll not only help scale our infrastructure and CI/CD pipelines, but also have the chance to shape our technological choices and processes for ensuring the growth, stability and success of the Contra platform. This is a major role at a rapidly expanding startup, working with a team of highly accomplished yet humble people who are passionate about our company's mission. ✨</p>
+<p> </p>
+<div class="h4" id="c9e3345b-ffe5-49c3-9d66-4d805332af9a"><strong>How you’ll add value at Contra:</strong></div>
+<ul class="_listContainer_1wyhh_1" style="">
+<li style="">Expert knowledge in a wide variety of DevOps technologies &amp; best practices</li>
+<li style="">Knowledge and experience leveraging Google Cloud Platform natively and with complimentary tech</li>
+<li style="">Bridging the gap between our infrastructure and our applications, you have experience and comfort working within TypeScript/JavaScript Node.js environments and can identify and resolve issues that are impacting <a href="http://contra.com/" rel="nofollow" target="_blank" title="http://contra.com/">contra.com</a> reliability</li>
+<li style="">Excellent communication and documentation skills</li>
+<li style="">Collaboration with the rest of the team through regular communication, information sharing and mentorship</li>
+<li style="">Designing, engineering and maintaining solutions for a highly resilient, scalable and fault-tolerant infrastructure</li>
+<li style="">Improving &amp; scaling CI/CD pipelines</li>
+<li style="">Eliminating user impacting defects raised in Sentry and GCP logs</li>
+<li style="">Developing, maintaining and improving monitoring, alerting and reporting tools</li>
+<li style="">Providing on-going operational support</li>
+<li style="">Identifying and improving the developer experience</li>
+<li style="">We expect you to be self-sufficient and take the initiative to drive the company forward. We are looking for individuals who are highly energetic, capable and ambitious, and who are eager to expand their knowledge and show how their contributions help achieve business objectives.</li>
+</ul>
+<p> </p>
+<div class="h4" id="d78b7f19-173b-416a-804a-e5ac69fb05c3"><strong>You’ll be successful here if you are:</strong></div>
+<ul class="_listContainer_1wyhh_1" style="">
+<li style=""><strong>Everyone Wins Together.</strong> You thrive in a collaborative, remote-only environment and you are comfortable with 8 am-1 pm PST core hours and flexibility around those hours for the rest of your work day!</li>
+<li style=""><strong>Energy is Everything.</strong> You bring a strong work ethic and contagious energy to your team as we work towards our North Star.</li>
+<li style=""><strong>Change is Good.</strong> You embrace change to evolve, improve, and build what matters.</li>
+<li style=""><strong>Think Big.</strong> No idea is too big at Contra. Our greatest successes often stem from seemingly crazy ideas. You enjoy setting ambitious goals, both individually and as a team, and strive to achieve them.</li>
+<li style=""><strong>Feedback is a Gift.</strong> Feedback is a catalyst for growth and improvement. It is routinely given and delivered with positive and actionable steps.</li>
+<li style=""><strong>The Best is Yet to Come.</strong> You strive to remain optimistic through all ups &amp; downs because you know the “best is yet to come.”</li>
+<li style=""><strong>Make it Fun.</strong> Nothing in life is worth it if it isn’t fun, even when stakes are high.</li>
+<li style=""><strong>Good People Only.</strong> You recognize that each of us brings unique experiences, backgrounds, and knowledge from which we can learn.</li>
+<li style=""><strong>GSD.</strong> We are building quickly, changing frequently, and growing fast with no plans of stopping anytime soon. You take ownership of your work and are proud to execute at a high level.</li>
+</ul>
+<p> </p>
+<div class="h4" id="854b9a85-9866-4c51-8259-7ddeddd2c919"><strong>Our stack:</strong></div>
+<ul class="_listContainer_1wyhh_1" style="">
+<li style="">ArgoCD</li>
+<li style="">AlloyDB / PostgreSQL</li>
+<li style="">Github Actions</li>
+<li style="">Google Cloud Platform</li>
+<li style="">Fluentbit</li>
+<li style="">Kubernetes, Helm &amp; Docker</li>
+<li style="">Meillisearch</li>
+<li style=""><a href="http://node.js/" rel="nofollow" target="_blank" title="http://node.js/">Node.js</a></li>
+<li style="">OpsGenie</li>
+<li style="">Playwright</li>
+<li style="">Redis</li>
+<li style="">Temporal</li>
+<li style="">Traefik</li>
+<li style="">Turbo repo</li>
+<li style="">TypeScript</li>
+<li style="">Vite</li>
+<li style="">Vitest</li>
+</ul>
+<p> </p>
+<div class="h4" id="6d1d6396-ce77-4d40-ac79-562760c0b479"><strong>You'll love Contra for:</strong></div>
+<ul class="_listContainer_1wyhh_1" style="">
+<li style="">🌎 Remote-only culture that is here to stay</li>
+<li style="">🍎 100% health coverage for US full-time employees, and health reimbursements for all international contractors</li>
+<li style="">💸 $4,000 laptop reimbursement upon starting + additional for equipment, co-working, and meetups</li>
+<li style="">💰 401k matching for US full-time employees</li>
+<li style="">💛 No-meeting Tuesdays &amp; Wednesdays</li>
+<li style="">👋 Generous time off</li>
+<li style="">👶 Flexible parental leave</li>
+<li style="">💁 A custom slack emoji, just for you!</li>
+</ul>
+<p> </p>
+<div class="h4" id="c6128653-81ce-4a9c-a7db-f588260dc270"><strong>Our interview process:</strong></div>
+<ul class="_listContainer_1wyhh_1" style="">
+<li style="">Intro Call (15-30 minutes)</li>
+<li style="">Interview #1 In Depth Technical Discussion Chat with Hiring Manager (45 minutes)</li>
+<li style="">Assessment</li>
+<li style="">Interview #2 Culture Interview (30 minutes)</li>
+<li style="">Interview #3 Technical Interview with Engineering Manager (45 minutes)</li>
+<li style="">Interview #4 CTO &amp; Co-Founder Interview (30 minutes)</li>
+<li style="">Interview #5 Interview with CEO &amp; Co-Founder (30 minutes)</li>
+</ul>
+<p> </p>
+<div class="h4" id="c4637597-2b44-440a-b4ea-5492a06b468c"><strong>Salary + Equity Range</strong></div>
+<ul class="_listContainer_1wyhh_1" style="">
+<li style="">$145K -$160K USD</li>
+<li style="">Equity Value Range: $180k+ USD</li>
+</ul>
+<img src="https://remotive.com/job/track/1783144/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1387074696831672327/C7WTpiAb_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -197,7 +360,7 @@
 <p><br></p>
 <p><strong>What You Will Bring to DuckDuckGo</strong></p>
 <ul>
-<li>At least 7 years of engineering experience, with 5+ years focused on tackling the reliability challenges of large-scale deployments and high-traffic, distributed systems.</li>
+<li>At least 5+ years of experience in SRE focused roles responsible for supporting, scaling and ensuring reliability of end-to-end infrastructures.</li>
 <li>Experience with observability and monitoring of systems and services, and defining KPIs to track their health.</li>
 <li>Experience with production troubleshooting, including: distributed systems, code, storage, networking, operating systems (Linux) and databases.</li>
 <li>Moderate-to-advanced programming experience, preferably in a high-level language like Perl or Python.</li>
