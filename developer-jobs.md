@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-lead-full-stack-php-developer-2" align="right" target="_blank">Apply</a>
@@ -63,7 +63,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-6" align="right" target="_blank">Apply</a>
@@ -107,7 +107,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sourcefabric-full-stack-developer-newshub-1" align="right" target="_blank">Apply</a>
@@ -131,62 +131,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0120/6513/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proteus Digital Lab, LLC</h5>
-                    <h3> Shopify Web Developer for Conversion Rate Optimization (CRO) Testing</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proteus-digital-lab-llc-shopify-web-developer-for-conversion-rate-optimization-cro-testing" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0120/6513/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Colorado
-    <br /><strong>URL:</strong> <a href="https://proteusdigitallab.com/">https://proteusdigitallab.com/</a>
-</p>
-
-<div>We are seeking an experienced Shopify Web Developer to join our team and help us with our ongoing CRO testing efforts. We are looking for someone who is reliable, proactive, and excited about the impact of CRO testing.<br><br>
-</div><div>The successful candidate will be responsible for taking conceptual CRO test ideas and implementing them for our clients' Shopify websites. We value high-quality, high-ownership work and the successful candidate will have the ability to use their excellent judgement to fill in any cosmetic or implementation gaps—going above and beyond simple “order taking” to own the successful delivery of a testing objective.</div><div>
-<br>The position is fully-remote and we value asynchronous work as much as possible, so you can work as much or as little as suits your schedule, so long as we can rely on you to perfectly execute the work you take on, on time.</div><div><strong><br>Responsibilities:</strong></div><ul>
-<li>Develop and implement CRO tests for our clients' Shopify websites</li>
-<li>Work with the team to develop testing strategies and tactics</li>
-<li>Collaborate with designers, copywriters, and project managers to create optimized test variations</li>
-<li>Test and validate that each test will function correctly in a production environment</li>
-<li>Troubleshoot and resolve potential issues or conflicts if they arise</li>
-<li>Provide detailed Loom videos demonstrating the development and live functionality of each test before handing it off for review</li>
-<li>Take total ownership of work to ensure it is fully completed on time</li>
-<li>Communicate effectively with the team to ensure all unknowns are de-risked up front</li>
-<li>Stay up-to-date with the latest Shopify feature developments and trends</li>
-</ul><div><strong>Requirements:</strong></div><ul>
-<li>At least 4 years of experience working with Liquid, Javascript, and HTML/CSS</li>
-<li>Have robust knowledge of common Shopify themes, apps, and API features</li>
-<li>Strong attention to detail and the ability to test and validate your own work independently before handoff</li>
-<li>Ability to communicate effectively and collaborate with a remote team</li>
-<li>Experience with A/B testing, user experience (UX) design, and data analysis is a plus</li>
-<li>Experience with Shopify app development is a plus</li>
-<li>Excellent written and verbal communication skills</li>
-<li>Availability for at least 20 hours per week</li>
-<li>Native or fluent English speaker</li>
-</ul><div><strong>How to Apply:</strong></div><div>If you're interested in joining our team, please apply with your resume, portfolio, and hourly rate along with a Loom video walking us through how each of these deliverables make you an excellent fit for the role.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proteus-digital-lab-llc-shopify-web-developer-for-conversion-rate-optimization-cro-testing">https://weworkremotely.com/remote-jobs/proteus-digital-lab-llc-shopify-web-developer-for-conversion-rate-optimization-cro-testing</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/0909/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -197,7 +141,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tempmee-react-developer" align="right" target="_blank">Apply</a>
@@ -252,192 +196,96 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/7704/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0103/5394/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>JLS Trading Co.</h5>
-                    <h3> Entry-Level Gag Gift & Prank Product Developer @ Fun Ecom Co | Great People & Flexible Hours</h3>
+                    <h5>RebelCode Ltd</h5>
+                    <h3> Full Stack WordPress Developer</h3>
                 </td>
                 <td width="300">
-                    <code>Product</code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/jls-trading-co-entry-level-gag-gift-prank-product-developer-fun-ecom-co" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/rebelcode-ltd-full-stack-wordpress-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/7704/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0103/5394/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Charlotte, NC
-    <br /><strong>URL:</strong> <a href="http://JLSTradingCo.com/careers">http://JLSTradingCo.com/careers</a>
-</p>
-
-<div>- Are you tired of not being able to express yourself through the medium of d*ck jokes?</div><div>- Do you like creating something from nothing, especially if it’ll make someone laugh?</div><div>- Do you thrive in a high-stress environment filled with political infighting, bureaucracy, and corporate nonsense?</div><div><br></div><div>If so, then we are the place for you, except you might hate how nice of a company we have - filled with happy, generally competent people that don’t put up with jerks. Frankly, it makes me sick how nice everyone is.</div><div><br></div><div>We are remote full time, have very flexible hours, people are judged by their output, not by how much they suck up to the boss, and turnover is super low because the company believes that happy employees = happy customers = happy bank account. Simply disgusting, if you ask me.</div><div><br></div><div><strong>--Is this a real job ad?--</strong></div><div>Yup! Amazingly enough, we actually paid money to post this on a bunch of different job sites. And it’s not even a pyramid scheme! Plus, get this: the owner just started paying our 60ish employees with money instead of Pizza Hut coupons - we’re big time, people.</div><div><br></div><div>Our careers page is actually worth checking out to learn more about how insane we are (sidenote: it won a web design award in 1993 - we’re a pretty big deal):</div><div><br></div><div><a href="http://www.jlstradingco.com/careers/">http://www.jlstradingco.com/careers/</a></div><div><br></div><div><strong>--What do you guys do?--</strong></div><div>We sell a lot of different things but our primary focus now is developing/engineering from scratch very cool products in a variety of niches. </div><div><br></div><div>A small sampling:</div><div><br></div><div>- Bad Parking Cards: (<a href="http://amzn.com/dp/B01HLGZRCQ">http://amzn.com/dp/B01HLGZRCQ</a>)</div><div>- Shart Survival Kit: (<a href="http://amzn.com/dp/B09VTJRGBJ">http://amzn.com/dp/B09VTJRGBJ</a>)</div><div>- Dehydrated Water: (<a href="http://amzn.com/dp/B072L38SGT">http://amzn.com/dp/B072L38SGT</a>)</div><div><br></div><div>Our business is growing rapidly every year, and it’s our intention to continue that for as long as possible, which means we need good people to help us keep up with the growth.</div><div><br></div><div><strong>--What is your company like?--</strong></div><div>
-<strong>1. Full Time Remote/Flexible Hours.</strong> You will be working from home in your pajamas, on your schedule. And we don’t care if you work 10 hour days 4 days a week or want to catch up on the weekend. So long as you get a lot of work done, we’re happy campers.</div><div><br></div><div>
-<strong>2. Complete Work/Life Balance. </strong>If you’re routinely working more than 45ish hours, you’re gonna get a friendly talking-to. We want you to be operating at 100% capacity, which means that you need to rest.</div><div><br></div><div>
-<strong>3. You Can Be Yourself.</strong> You don’t have to put on a fake, professional face. You can just be yourself. You can talk smack to the CEO, and no one will think anything of it.</div><div><br></div><div>
-<strong>4. Major Opportunities for Career Growth.</strong> We are not trying to just be a small business. We plan to be doing $100 million annually in the next few years. We promote quickly once we identify talent. It doesn’t matter what your credentials are – it matters what you get done.</div><div><br></div><div>
-<strong>5. Strongly Anti-BS.</strong> Anybody in the company can (and is expected to) tell the CEO when he is wrong. There are no bureaucratic or BS rules getting in the way of getting work done.</div><div><br></div><div>
-<strong>6. No Micro-Management. </strong>Once you’re trained and have demonstrated you know your stuff, we are pretty hands-off. In fact, if you need external management to stay on-task and motivated, we probably aren’t the place for you.</div><div><br></div><div>
-<strong>7. Supportive Environment.</strong> We don’t operate via intense stress or unreasonable top-down deadlines. Everyone wants you to be successful – internal politics are at a minimum here.</div><div><br></div><div>
-<strong>8. No Toxic People Allowed.</strong> We try very hard to screen out mean people before they get in, but in case they slip through, we fire them quickly. Imagine never having to interact with toxic people at work - how nice would that be?</div><div><br></div><div>
-<strong>9. We’ll Invest in Your Training.</strong> We want you and everyone to get better constantly. You’ll be learning new things all the time, and are strongly encouraged to invest time every day to learn new things, improve your system/work process, and just generally try to make your life easier.</div><div><br></div><div>
-<strong>10. Four+ Weeks Vacation.</strong> We 100% want you to recharge, so having plenty of time off is absolutely worth it.</div><div><br></div><div>
-<strong>11. Self-Funded So We Can Do What’s Right for Us. </strong>We don’t have to answer to anyone but ourselves, so we can make the right decision for the long-term health of the company vs trying to get big too fast or cut corners to appease some selfish investor.</div><div>
-<br><br>
-</div><div><strong>--What are your company’s values?--</strong></div><div>See here: <a href="http://www.jlstradingco.com/careers/">http://www.jlstradingco.com/careers/</a>
-</div><div><br></div><div>Yes, those are legitimately our values. The careers page is definitely worth checking out - it’s not just normal corporate BS. We promise you’ll learn a lot about us.</div><div><br></div><div><strong>--OK, so I’ve read like 8 dang pages about you guys. Will you tell me what the actual job is?--</strong></div><div>No.</div><div><br></div><div><strong>--Wait... What?--</strong></div><div>OK fine.</div><div><br></div><div><strong>--So, what will I actually be doing?--</strong></div><div>Super short version:</div><div><br></div><div><em>Getting paid to learn a bunch of skills in and around product development then making a ton of hilarious gag gifts that will delight our customers without getting us put onto any (more) watch lists.</em></div><div><br></div><div>Here is a bulleted list of responsibilities:</div><div><br></div><div>- Develop a concept for a funny gag gift or prank</div><div>- Do market research to get an idea of its potential</div><div>- Rough out the concept/design/jokes</div><div>- Write jokes for the packaging</div><div>- Communicate with a graphic designer to finalize the product</div><div>- Work with our sourcing team to find a vendor for actually making it</div><div>- Manage all the details of getting the product made and into our warehouse (there are A LOT of details)</div><div>- Provide jokes for the marketing materials</div><div><br></div><div>Things like that. Don’t worry, we don’t expect you to come in and do all these on day 1. You’ll be trained and coached so you can learn this stuff from the ground up.</div><div><br></div><div>It’s fun work, but it’s not all just jokes - you have to produce, and find ways to automate/delegate so that you can get more efficient. We want to eventually launch hundreds of gag gifts per year, and you’re gonna be one of the key people responsible for making that happen.</div><div><br></div><div><strong>--Do I need experience with product development?--</strong></div><div>Not at all. We want special people, and don’t give AF what their background is. Most of our best people did nothing remotely related to their current roles. We hire much more for potential than existing knowledge.</div><div><br></div><div>We’ll train you how to do all these things. Though, we probably can’t train you to be funny unfortunately.</div><div><br></div><div><strong>--Do I need a college degree?--</strong></div><div>You just need to be awesome.</div><div><br></div><div><strong>--Are there any geographic restrictions?--</strong></div><div>As long as you are in a country that doesn’t have active sanctions from the US government, we are interested. Our founder isn’t known for respecting the government much, but they have all the guns, so…</div><div><br></div><div><strong>--What are some example products you want to have made?--</strong></div><div>We’ll definitely help you with concepts, and you’ll eventually be doing things that you came up with, but to give you some examples, here are some more things we recently developed:</div><div><br></div><div>- <a href="https://www.amazon.com/dp/B09JB1D2LN?ref=myi_title_dp">Extra small condoms</a> (a box filled with rubber thimbles with a bunch of jokes on the packaging)</div><div>- <a href="https://www.amazon.com/dp/B09KN19JNY?ref=myi_title_dp">The Child Chucker</a>
-</div><div>- <a href="https://www.amazon.com/dp/B0BP8KB4S1?ref=myi_title_dp">The Human Cone</a>
-</div><div><br></div><div><strong>--Does everything have to be a d*ck joke?--</strong></div><div>First, you sound like my ex on our wedding day. Second, definitely not. We have a long list of d*ck-free ideas, and I’m sure you’ll be able to come up with plenty of other things.</div><div><br></div><div><strong>--How funny do I have to be?--</strong></div><div>This is kinda tough. Probably no one in the company is capable of being a stand up comedian, but we can probably riff pretty well and recognize funny when we see it. The ability to write funny things vs being funny in conversation are correlated but not 100%. If you aren’t necessarily the funniest person in the room, but you think you can meme with the best of them, then this might still be the gig for you.</div><div><br></div><div>You’re basically gonna be a comedy writer and a project manager. If you don’t foresee yourself being comfortable writing a lot of jokes regularly, this probably isn’t the gig for you.</div><div><br></div><div><strong>--This sounds pretty good, though I’m still skeptical that this isn’t a pyramid scheme.--</strong></div><div>You sound just like our tax auditor!</div><div><br></div><div><strong>--That doesn’t resolve any of my fears, but what do I need to do to apply?--</strong></div><div>Please submit your information on the following page to apply. We promise to respond within 5-10 business days even if our answer is No.</div><div><br></div><div>There will be multiple steps in this process, FYI, including a long written application, interviews with potentially a few different people, and paid work test(s). Hiring the right people is really hard and very expensive if we do it poorly, so we have to front-load the process. I'm sorry about that and thank you for sticking with us.</div><div><br></div><div>Once you’re in our pipeline though, I would anticipate giving you a final answer within a few weeks, depending on how it goes. We definitely don’t want to string you along, and as long as you do what we ask, we promise to tell you “yes” or “no”, and to not just ghost you (like everybody I match with on Tinder).</div><div><br></div><div>Thank you for your time and interest, and I hope we can work together soon!</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/jls-trading-co-entry-level-gag-gift-prank-product-developer-fun-ecom-co">https://weworkremotely.com/remote-jobs/jls-trading-co-entry-level-gag-gift-prank-product-developer-fun-ecom-co</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0103/5339/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>DogsThat</h5>
-                    <h3> Full time Front End Wordpress Developer/Designer/Jack of All Trades</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>25 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/dogsthat-full-time-front-end-wordpress-developer-designer-jack-of-all-trades" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0103/5339/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Canada
-    <br /><strong>URL:</strong> <a href="https://dogsthat.com">https://dogsthat.com</a>
+  <strong>Headquarters:</strong> Malta
+    <br /><strong>URL:</strong> <a href="https://rebelcode.com/">https://rebelcode.com/</a>
 </p>
 
 <div>
-<strong>NOTE: </strong>Please read the listing in full before applying. We will not respond to those that do not complete all steps. Please do not contact us if you are an agency/development company. We are looking for someone to join our team)<br><br>Come join the team that is making life better for dogs and their owners everywhere.</div><div><br></div><div>The DogsThat team is a diverse, fast moving, and passionate group who is looking for a talented full time Wordpress Developer/Designer to join the team. Hours are Monday to Friday 9 am - 5 pm ET.  (with flexibility for adjusting after the training period has passed)</div><div><br></div><div>We are looking for someone who wants to grow with our team alongside our entrepreneur Susan Garrett and be a part of our vision to improve the lives of dogs and dog owners by helping them understand each other better. </div><div><br></div><div>We’re a heart driven company, and believe that our community and students’ experience and success is one of the main contributing factors to our future success.</div><div><br></div><div><strong>You’re a perfect fit if you:</strong></div><div><br></div><div>- Have 3+ years of full-time experience as a front end Wordpress developer/designer</div><div>- Are proficient in PHP, HTML, CSS, Javascript, MySQL</div><div>- Bonus if you have experience with Wordpress page builder plugins (ex: Thrive Architect), Wordpress learning management systems (ex: LearnDash) and tools for creating and managing membership sites that integrate Wordpress with Keap (ex: Memberium) and Infusionsoft/Keap/ Kajabi CRM &amp; API</div><div>- Have a passion for beautiful and effective design.</div><div>- Proficient in WordPress Theme and Plugin Development</div><div>- Ensure the technical feasibility of UI/UX designs.</div><div>- Optimize application for maximum speed and scalability.</div><div>- Are proficient understanding of cross-browser compatibility issues how to test and ways to work around them.</div><div>- Understand code versioning tools like Github</div><div>- Have a good understanding of SEO principles and ensuring that application will adhere to them.</div><div>- Have a good understanding of Accessibility principles and ensuring that application will adhere to them.</div><div>- Understand project and development plans and are able to clearly articulate roles, project goals, and timelines.</div><div>- Have good communication skills and ability to relate to team members and our community world wide.</div><div>- Are willing to watch a 15 minute dog training video from our CEO for ideas on how to set up the page design.</div><div><br></div><div><strong>What we look for in a team member:</strong></div><div>- Ability to own development tasks from assignment through to production yet also works collaboratively with others cross-functionally.</div><div>- Agile, humble, trustworthy, and a team player.</div><div>- Flexibility for taking on tasks that fit outside of the traditional front end development roles, ie. building classrooms in Kajabi and Wordpress and other website related projects as needed.</div><div>- Be self-motivated and take initiative.</div><div>- Willingness and desire to learn.</div><div>- Are able to work in East Coast Timezones</div><div>- Fluency (written and verbal) in English.</div><div>
-<br><br>
-</div><div><strong>This job is probably not for you if...  </strong></div><div><br></div><div>You get easily distracted and need to be closely managed on a daily basis.</div><div>You do not have good time management skills or ability to be organized.</div><div>You are fazed by shifting priorities.</div><div>You don’t enjoy trying new things in technology or trying new tactics to improve efficiency.</div><div>You do not have experience working from home, in a virtual team, or in an agile development environment.</div><div>You do not have attention to detail or a high level of follow through.</div><div>You do not like dogs 🐶 ( 😉 ) or communicating with people from all over the world!  </div><div><br></div><div>Note: There will be times where it’s all hands on deck for planned activities, and times when we meet outside our own time zone. Flexibility is a must as this position may need a level of responsiveness outside of the normal work week and standard work hours during three to four events a year.  </div><div><br></div><div><strong>Benefits of working at DogsThat</strong></div><div><br></div><div>💻 Remote</div><div><br></div><div>🌐 Work with a diverse and inclusive team from around the world where ideas are encouraged and heard.</div><div><br></div><div>🤝 Supportive and positive work environment</div><div> </div><div>✨ Varied and interesting projects.</div><div><br></div><div>📚 Opportunity and encouragement to grow and improve your skill-set.</div><div><br></div><div>🎵 Monthly fun team Luna Park (virtual musical bingo and other fun team activities).<br><br><strong>DogsThat Impact &amp; Equity </strong>
-</div><div><br></div><div>Here at Say Yes/DogsThat we recognize and celebrate the diverse backgrounds of any identity or life experience of our team, our students and our worldly community. </div><div><br></div><div>As an online team we strive in our actions and behaviours together to be congruent and in alignment with our personal and professional values as we pursue the mission and vision. </div><div><br></div><div>We acknowledge the growing potential of each of us in developing an environment of learning, collaboration, caring and trust for each other be it within our team or serving our community. </div><div><br></div><div>We are guided by our cultural values as we move toward inclusion and equity which are personal growth, pride for our work, personal integrity and practicing kindness toward each other.</div><div><br></div><div>
-<strong>If this sounds like your kind of place, apply with your resume to </strong><a href="mailto:careers@dogsthat.com"><strong>careers@dogsthat.com</strong></a>
-</div><div><br></div><div>With answers to the following questions:<br><br>
-</div><ol>
-<li>What appeals to you about this job description?<br><br>
-</li>
-<li>This role includes a lot of cross functional work. You will be working collaboratively with others frequently. The work includes a lot of varied tasks on a given day. How comfortable are you with shifting tasks and shifting priorities?<br><br>
-</li>
-<li>Describe and provide links to GitHub or other similar resources for your previous Wordpress development and front end work.<br><br>
-</li>
-<li>Our team is unique and small with lots of cross functional roles. Are willing to watch a 15 minute dog training video from our CEO for ideas on how to set up the page design.<br><br>
-</li>
-<li>What is the salary range you are looking for?<br><br>
-</li>
-<li>Which of the required job skills do you feel you are strongest at?</li>
-</ol><div>
-<br><br>
+<strong>Join our global, fully remote, and asynchronous team as a Full Stack WordPress Developer, leading the development of our WordPress plugin projects.</strong><br><br>
+</div><div>This role demands an individual who can craft quality code for our plugins while keeping in mind the needs of the business, striking a balance between the two.<br><br>
+</div><div>In this role, you won’t just be coding; you’d be engineering quality digital products that are made to outlast and outshine the competition.<br><br>
+</div><div>You will collaborate closely with our leadership and marketing team, defining the scope of each project and laying the foundations for features that will redefine their user experience.<br><br>
+</div><h1>How We Work</h1><div>As a 100% remote and asynchronous team, self-discipline is a very important factor when working within the RebelCode team. Everyone pulls their own weight and we do our utmost to get the best out of each other.<br><br>
+</div><div>We strive for excellence in everything we do, so there’s no room for average work or half-hearted efforts. Even as we work on MVPs for new features or products, we strive to deliver the best possible results within the time-frames and limitations that we set for ourselves.<br><br>
+</div><div>The tools we use day-to-day include:</div><ul>
+<li>Twist for communication</li>
+<li>Notion for our company wiki</li>
+<li>Notion for issue tracking</li>
+<li>Help Scout for customer support</li>
+<li>Digital Ocean, Servebolt, WP Engine, and Kinsta for hosting of websites and services</li>
+</ul><div><br></div><h1>Who You Are</h1><div>You own your tasks, from the inkling of an idea to its full-fledged execution. <br><br>
+</div><div>With fluency in English, both written and spoken, you ensure no idea remains unheard, no innovation unnoticed. For you, every message has meaning and you do your best to get it across.<br><br>
+</div><div>Your constant curiosity propels you to constantly evolve, learn, and challenge the status quo, expanding your skillset every step of the way.<br><br>
+</div><div>Working within a team, providing feedback, and collaborating across borders and time zones is second nature to you.<br><br>
+</div><div>
+<em>Note: You must have a strong internet connection and a good quality microphone and webcam, both for the interview phase as well as during working hours.<br></em><br>
+</div><h1>Primary Responsibilities</h1><div>As a Full Stack Developer at RebelCode, you will be responsible for:</div><ul>
+<li>Developing and maintaining RebelCode’s WordPress plugins (PHP, TypeScript, React)</li>
+<li>Transforming Figma designs into working UIs</li>
+<li>Participating in code discussions and reviews</li>
+<li>Collaborating using task management and issue tracking tools</li>
+<li>Attending weekly debriefing meetings</li>
+<li>Working with customer support to resolve customer issues</li>
+</ul><div><br></div><h1>Essential Skills</h1><div>The ideal candidate possesses the following skillset and tools:</div><ul>
+<li>Excellent understanding of PHP</li>
+<li>Excellent understanding of JavaScript</li>
+<li>Good working knowledge of TypeScript</li>
+<li>Good working knowledge of CSS and/or some of its derivatives</li>
+<li>Good working knowledge of WordPress plugin development</li>
+<li>Experience integrating third-party APIs</li>
+<li>A strong portfolio of past work</li>
+<li>Very good English speaking and writing skills</li>
+<li>Ability to work independently and be self-sufficient when necessary</li>
+</ul><div>
+<em>Note: Experience in WordPress plugin development is a must. If you only have experience building WordPress websites for clients, please do not apply.<br></em><br>
+</div><h1>Bonus Skills</h1><div>Although not a must, the following skills would also be appreciated for this role:</div><ul>
+<li>Experience with Docker</li>
+<li>Experience with Apache and Nginx</li>
+<li>Good understanding of WebPack and Vite</li>
+<li>Experience with Figma</li>
+<li>Exposure to Linux, BSD, or other Unix-like operating systems</li>
+</ul><div><br></div><h1>Remuneration &amp; Perks</h1><div>The selected candidate will receive the following:</div><ul>
+<li>$42,000 to $50,000 annual remuneration</li>
+<li>4 weeks of paid leave annually</li>
+<li>The freedom to work remotely, ideally based within the EU or US</li>
+<li>A flexible work schedule with at least a 4-hour daily overlap with the rest of the team</li>
+<li>Continued learning supported by the company</li>
+<li>Attendance to conferences to expand our skills and connections</li>
+<li>Occasional company meet-ups and retreats to strengthen the team bond</li>
+</ul><div><br></div><h1>Apply Now</h1><div>When applying, it’s important that you:</div><ul>
+<li>Showcase your experience in WordPress plugin development.</li>
+<li>Introduce us to who you are – your experiences, qualifications, and what makes you tick.</li>
+<li>Include links to your profiles that showcase your craft (GitHub, GitLab, WordPress.org, etc) and other relevant professional links.</li>
+<li>Proofread more than once, because attention to detail is everything.</li>
+</ul><div>We’re excited to see the unique attributes you’ll bring to the RebelCode team.<br><br>
+</div><div>
+<a href="https://rebelcode.com/careers/open-position-full-stack-developer/">Please fill in the application form here</a> if you’re confident that you’d be a great fit for this role. <br><br>
+</div><div>Once your application is reviewed, it may take a few days until you are contacted. The hiring process may last a few weeks as we continue to receive applications, so please be patient throughout the process.<br><br>
 </div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/dogsthat-full-time-front-end-wordpress-developer-designer-jack-of-all-trades">https://weworkremotely.com/remote-jobs/dogsthat-full-time-front-end-wordpress-developer-designer-jack-of-all-trades</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0099/5721/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>TextMagic</h5>
-                    <h3> Senior Back-end developer (PHP, Symfony, PostgreSQL)</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>40 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/textmagic-senior-back-end-developer-php-symfony-postgresql-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0099/5721/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Estonia
-    <br /><strong>URL:</strong> <a href="https://www.textmagic.com">https://www.textmagic.com</a>
-</p>
-
-<div><strong>The main technologies we use:</strong></div><ul>
-<li>PHP 7, Symfony 4, Codeception, PHPUnit, OpenAPI<br><br>
-</li>
-<li>PostgreSQL 10, Memcached<br><br>
-</li>
-<li>Beanstalk<br><br>
-</li>
-<li>Docker<br><br>
-</li>
-</ul><div><strong>What you will do:</strong></div><ul>
-<li>Develop new features and platform architecture.<br><br>
-</li>
-<li>Design and build REST API.<br><br>
-</li>
-<li>Integrate with third-party services using API.<br><br>
-</li>
-<li>Refactoring and code optimization.<br><br>
-</li>
-<li>Scale the project for increasing loads.<br><br>
-</li>
-<li>Participate in the team’s product logic development.<br><br>
-</li>
-<li>Undertake code reviews of other team members’ work.<br><br>
-</li>
-<li>Optimize database queries.<br><br>
-</li>
-</ul><div><strong><br>What we expect from you:</strong></div><ul>
-<li>Excellent knowledge of and experience with the technologies listed above.<br><br>
-</li>
-<li>A clear understanding of the architecture of a web application and its separate components.<br><br>
-</li>
-<li>An understanding of how the HTTP request lifecycle works.<br><br>
-</li>
-<li>Experience in building REST API.<br><br>
-</li>
-<li>An understanding of the principles of SOLID and OOP.<br><br>
-</li>
-<li>Experience in creating high-load systems in conditions of zero downtime.<br><br>
-</li>
-<li>An understanding of how to build efficient, scalable database architecture. Experience with PostgreSQL or MySQL (writing complex queries; understanding EXPLAIN; optimizing slow queries without changing the database structure; changing schemas of large tables without downtime, etc.)<br><br>
-</li>
-</ul><div><br></div><div><strong><br>What we offer:</strong></div><ul>
-<li>Full support for your professional growth.<br><br>
-</li>
-<li>Any equipment you need for productive work.<br><br>
-</li>
-<li>The opportunity to bring your vision to the project.<br><br>
-</li>
-<li>Remote working.<br><br>
-</li>
-<li>A professional and friendly team, ready to help you.<br><br>
-</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/textmagic-senior-back-end-developer-php-symfony-postgresql-1">https://weworkremotely.com/remote-jobs/textmagic-senior-back-end-developer-php-symfony-postgresql-1</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/rebelcode-ltd-full-stack-wordpress-developer">https://weworkremotely.com/remote-jobs/rebelcode-ltd-full-stack-wordpress-developer</a></p>
 
                 </details>
                 </td>
@@ -453,7 +301,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>61 days ago</text>
+                <text>66 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2" align="right" target="_blank">Apply</a>
@@ -506,7 +354,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>61 days ago</text>
+                <text>66 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2" align="right" target="_blank">Apply</a>
@@ -558,86 +406,147 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1783538/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior Ruby on Rails Developer</h3>
+                    <h5>ofri Internet GmbH</h5>
+                    <h3>Full Stack RoR Developer (Mid-Level)</h3>
                 </td>
                 <td width="300">
-                    <code>Back-End Programming</code>
+                    <code>backend,docker,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>193 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/full-stack-ror-developer-mid-level-1783538" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div><strong>The Role:</strong></div><div>
-<br>We are searching for a Senior Ruby on Rails Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
-<br><br>
-</div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
-<li>You have +3 years of experience with Ruby on Rails;</li>
-<li>You have experience working with the libraries like Resque and RSpec;</li>
-<li>You are able to write clean Ruby code;</li>
-<li>You have proficiency with code versioning tools including Git, Github, SVN, and Mercurial;</li>
-<li>You got experience with Angular or ReactJS;</li>
-<li>You are familiar with MVC, Mocking, RESTful, and ORM;</li>
-<li>You have a good understanding of front-end technologies including HTML5, JavaScript, and CSS3;</li>
-<li>You possess knowledge of server-side templating languages including Slim and Liquid;</li>
-<li>You got familiar with testing tools.</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>Nice-to-have:</strong> <br><br>
-</div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Knowledge of TypeScript.</li>
-</ul><div><br></div><div>
-<strong>Responsibilities:<br></strong><br>
-</div><ul>
-<li>Designing and developing new web applications;</li>
-<li>Maintaining and troubleshooting existing web applications;</li>
-<li>Writing and maintaining reliable Ruby code;</li>
-<li>Integrating data storage solutions;</li>
-<li>Creating back-end components;</li>
-<li>Identifying and fixing bottlenecks and bugs;</li>
-<li>Integrating user-facing elements designed by the front-end team;</li>
-<li>Connecting applications with additional web servers;</li>
-<li>Maintaining the APIs.</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
-<br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of the Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul><div>
-<br><strong>Salary Range: </strong>€3,200  - €6,400 per month<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote</a></p>
-
+                <p>Hi there!</p>
+<p>We run ofri, the most awesome platform in Switzerland to find and compare craftspeople for your remodelling projects. We were a fully-remote company, even before it was cool.</p>
+<p>Our team consists of former Sound Engineers, Biologists, Car Mechanics, Stockbrokers and Carpenters. We even have some outcasts who studied Business Administration.</p>
+<div class="h2">Tasks</div>
+<p>We’re looking for a solid, battle-tested engineer with a pioneer spirit who will work in a small product team and have a high impact on the technical side of the product.</p>
+<p>You will ideally have at least 3-5 years of experience and be a person with strong ownership and self-initiative. We need someone who will push things forward, does code reviews and contributes to the team in terms of code quality and processes.</p>
+<div class="h2">Requirements</div>
+<p><strong>Our Stack</strong></p>
+<p><strong>Backend</strong></p>
+<ul style="">
+<li style="">Ruby 3.2, Rails 7</li>
+<li style="">MySQL 8</li>
+<li style="">Hybrid infrastructure approach-ubuntu lts + some docker containers (whole thing configured via Ansible-it’s almost maintenance free at this point so devops skills not required)</li>
+<li style="">Redis + some redisearch</li>
+</ul>
+<p><strong>Frontend</strong></p>
+<ul style="">
+<li style="">Webpacker</li>
+<li style="">Bootstrap 4, stimulus js, jquery, some react (is most complex UI-wise section),semantic-ui on the support panel, typescript</li>
+</ul>
+<p><strong>Flow</strong></p>
+<ul style="">
+<li style="">Github pull requests and code reviews, 2 different deployment environments</li>
+<li style="">We heavily rely on CI&amp;CD (CircleCI) and test whole stack-we do both unit and feature specs (over 85% C0 coverage) and have bunch of linters hooked-in (rubocop+ eslint + brakeman + bundle audit + stylelint + some more)</li>
+<li style="">At the moment we’re using Trello and working in a kanban style-we meet every week for dev &amp; company-wide calls</li>
+</ul>
+<p><strong>Analytics</strong></p>
+<ul style="">
+<li style="">Sentry, AppSignal, PostHog, RudderStack, Google Analytics, Matomo, Metabase</li>
+</ul>
+<div class="h2">Benefits</div>
+<p><strong>We offer</strong></p>
+<ul style="">
+<li style="">100% remote job.</li>
+<li style="">Flexible working hours – We believe in a good work-life balance.</li>
+<li style="">Laptop and hardware, Home-office setup budget, Educational budget.</li>
+<li style="">Company retreats when possible.</li>
+<li style="">Bi-weekly colleague online coffee chats.</li>
+<li style="">Fun and friendly remote work environment with a motivated, helpful, and international team where we don’t take ourselves too seriously and support each other.</li>
+<li style="">You can contribute and take responsibility from day one - your opinion matters!</li>
+</ul>
+<p><strong>More about us</strong></p>
+<p>We are a Swiss company that operates fully remotely.</p>
+<p>We’re not a software house so you won’t be doing rails new every 2 months, but on the other hand, your work will have a tremendous impact and you will have a chance to see what works and what doesn’t over a longer period of time-iterate, refactor and learn from your mistakes and decisions. You will also have the chance to see a codebase that survived ~10 years and lead to having a profitable and growing business.</p>
+<p>We are super passionate about developing an excellent remote work culture and ensuring that not only the customers, but the team feels heard, welcome, and appreciated. We are currently 9 people and a fully self-funded company.</p>
+<p>We value especially self-initiative, ownership, open communication, commitment as well as level-headedness. We welcome people into our team regardless of gender, ethnic origin, religion, age, sexual identity or disability. Please only apply if you share our values as a cultural fit is an essential requirement for this role.</p>
+<img src="https://remotive.com/job/track/1783538/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1680495/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Coalition Technologies </h5>
+                    <h3>Front End Developer</h3>
+                </td>
+                <td width="300">
+                    <code>CSS,excel,frontend,git</code>
+                </td>
+                <td width="200">
+                <text>5 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="h3">WHY YOU SHOULD APPLY:</div>
+<p> </p>
+<p>Coalition Technologies is devoted to delivering clients the highest quality work while providing our team a fun, thriving, and innovative environment. Along with the opportunity for tremendous career growth and rapid advancement, CT offers:</p>
+<ul style="">
+<li style="">The most competitive profit-sharing bonus plan in the industry, paying up to 50% of company profits to full-time employees each month!</li>
+<li style="">A highly competitive Paid Time Off plan, promoting quality work-life balance.</li>
+<li style="">Subsidized gym memberships to help team members feel their best.</li>
+<li style="">Medical, dental, vision, and life insurance packages for all US-based team members.</li>
+<li style="">International Health Insurance Reimbursement Program for all international team members, a benefit unique to Coalition.</li>
+<li style="">Device upgrade and learning reimbursement programs.</li>
+<li style="">Motivating career development plans with clearly defined goals and rewards.</li>
+<li style="">Additional job-specific incentives and bonuses.</li>
+</ul>
+<p>Plus, 100% of our team works remotely with the support of time tracking software. Our company culture specializes in supporting remote team members, and we’ve been doing so for more than a decade. CT welcomes your application, wherever in the world it's coming from!</p>
+<div class="h3"> </div>
+<div class="h3">YOU SHOULD HAVE:</div>
+<p> </p>
+<ul style="">
+<li style="">An expertise in HTML5, CSS3 and jQuery</li>
+<li style="">A thorough understanding of cross-browser compatibility issues</li>
+<li style="">Experience with media queries</li>
+<li style="">A knowledge of CSS platforms such as Twitter’s Bootstrap</li>
+<li style="">An ability to multi-task on multiple projects and tasks at the same time</li>
+<li style="">Great attention to detail and be highly organized</li>
+<li style="">A positive and upbeat attitude with the ability to learn quickly</li>
+<li style="">Proficiency in PHP/MYSQL and AJAX (preferred)</li>
+<li style="">Experience with WordPress, BigCommerce, Magento, and Shopify (preferred)</li>
+<li style="">Excellent written and spoken English</li>
+<li style="">The availability to work 40 hours per week from 9:00 am to 6:00 pm PST</li>
+<li style="">The ability to adapt to a diverse and multicultural environment</li>
+<li style="">Passion to build a startup</li>
+<li style="">Reliable transportation if working in-house</li>
+<li style="">A reliable workstation with a fast computer, microphone and speakers, reliable internet and power if working remotely</li>
+</ul>
+<div class="h3"> </div>
+<div class="h3">YOUR DUTIES AND TASKS:</div>
+<p> </p>
+<ul style="">
+<li style="">Transforming complex layout PSDs into pixel-perfect presentation-layer HTML5/CSS3 templates</li>
+<li style="">Creating responsive website designs</li>
+<li style="">Building websites with WordPress, extending and developing plugins and themes</li>
+<li style="">Working with Photoshop, Illustrator, and Fireworks to create images optimized for the web</li>
+<li style="">Working with version control systems such as GIT / SVN</li>
+<li style="">Working under tight deadlines</li>
+<li style="">Handling multiple projects at the same time</li>
+<li style="">Producing high quality of work with a strong focus on detail</li>
+</ul>
+<div class="h5"> </div>
+<div class="h5">We are looking for talented and diligent candidates who excel in our skills tests, and will consider these candidates even if past experience or educational background criteria aren't met.</div>
+<p> </p>
+<p>*Starting base pay in the US states of California, New York, Washington and Colorado for this position ranges between $15 - $35 per hour</p>
+<img src="https://remotive.com/job/track/1680495/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -652,7 +561,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -715,66 +624,6 @@
 <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a new type of company for a new kind of independent software builder. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </span></p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</span></p>
 <img src="https://remotive.com/job/track/814298/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1761558/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>NEAR Builders</h5>
-                    <h3>Website Developer</h3>
-                </td>
-                <td width="300">
-                    <code>api,CSS,git,html</code>
-                </td>
-                <td width="200">
-                <text>26 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/website-developer-1761558" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="h4" id="7b2ba628-23d2-47e5-9d9c-1e71405ec011"><strong>Web Developer + Designer</strong></div>
-<p><strong> </strong></p>
-<p><strong>Overview: </strong>NEAR is a next-generation blockchain technology focused on developing innovative solutions on the NEAR blockchain platform. We are seeking a talented and creative web developer with UI / UX design expertise to join our team and play a pivotal role in building impactful user interfaces and experiences for decentralized applications.</p>
-<p> </p>
-<p><strong>Responsibilities:</strong>As a Web Designer working with NEAR Builders Cooperative, you will be responsible for creating visually appealing and user-centric interfaces on the <a href="https://docs.near.org/bos" rel="nofollow" target="_blank" title="https://docs.near.org/bos">blockchain operating system</a>. You will work closely with our teams to translate concepts into functional and interactive React-style components, ensuring a seamless and engaging user experience.</p>
-<p> </p>
-<p><strong>Requirements:</strong></p>
-<ul class="_listContainer_1wyhh_1" style="">
-<li style="">Collaborate with cross-functional teams to understand project requirements and user needs.</li>
-<li style="">Design and develop user interfaces for decentralized applications using React-style components built using the blockchain operating system.</li>
-<li style="">Create visually stunning and user-friendly UI designs, wireframes, and prototypes.</li>
-<li style="">Develop reusable and responsive React-style components that integrate seamlessly with the NEAR blockchain.</li>
-<li style="">Optimize user experiences by implementing effective UI/UX design principles and industry best practices.</li>
-<li style="">Conduct user research, usability testing, and gather feedback to iterate on designs and improve user satisfaction.</li>
-<li style="">Collaborate with front-end and contract developers to ensure smooth integration of UI components with indexer systems (Query API, etc.)</li>
-<li style="">Stay up-to-date with industry trends, emerging technologies, and design standards related to blockchain and UI/UX design.</li>
-<li style="">Participate in design reviews, brainstorming sessions, and contribute innovative ideas to enhance product aesthetics and functionality.</li>
-</ul>
-<p><strong> </strong></p>
-<p><strong> </strong></p>
-<p><strong>Qualifications:</strong></p>
-<ul class="_listContainer_1wyhh_1" style="">
-<li style="">Proven experience in designing and developing UI/UX for web applications using React, HTML, CSS, and JavaScript.</li>
-<li style="">Familiarity with blockchain technology and understanding of decentralized application architecture, particularly on the NEAR blockchain, is a plus.</li>
-<li style="">Strong understanding of user-centered design principles and interaction design best practices for engineering chain-agnostic solutions made of JavaScript components.</li>
-<li style="">Ability to create wireframes, prototypes, and mockups that effectively communicate design concepts and translate them into the unique BOS dev environment.</li>
-<li style="">Excellent communication skills and ability to work openly and collaboratively in a fast-paced, dynamic environment.</li>
-<li style="">Attention to detail, creativity, and a passion for delivering high-quality products.</li>
-<li style="">Experience with version control systems (e.g., Git) is preferred.</li>
-</ul>
-<p> </p>
-<p>The first project aims to build a chatroom-esque app that curates together feeds and allows the users to create exclusive rooms. The rooms will be fully customizable, allowing users to add their own features and swap out with their own<span style="color: var(--remotive-chocolate);"> templates. It may be wrong to call these “Chats”, because they’re more like curated feeds. We’re building a tool for users to create, manage, and view theirs and other’s curations. </span></p>
-<p><span style="color: var(--remotive-chocolate);"> </span></p>
-<p><span style="color: var(--remotive-chocolate);">See the full write-up here: </span><span style="color: var(--remotive-chocolate);"><a href="https://ambitious-spike-28a.notion.site/Chatroom-Curations-fc59b20079cb4f8fbf8f1372ce5f2c3f?pvs=4" rel="nofollow" target="_blank" title="https://ambitious-spike-28a.notion.site/Chatroom-Curations-fc59b20079cb4f8fbf8f1372ce5f2c3f?pvs=4">INITIAL PROJECT PLAN</a></span></p>
-<p> </p>
-<p>If you are a talented Web Designer and UI/UX Developer with a passion for blockchain technology and user-centric design, we encourage you to apply and join NEAR Builders. Help shape the future of decentralized applications on the NEAR blockchain, to infinities and beyond!</p>
-<img src="https://remotive.com/job/track/1761558/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
