@@ -10,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/access-genie-staff-software-engineer-tech-lead-python" align="right" target="_blank">Apply</a>
@@ -61,7 +61,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/piton-labs-senior-software-engineer-2" align="right" target="_blank">Apply</a>
@@ -109,96 +109,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/piton-labs-senior-software-engineer-2">https://weworkremotely.com/remote-jobs/piton-labs-senior-software-engineer-2</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1783415/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Unanet</h5>
-                    <h3>Principal Software Engineer – Team Lead</h3>
-                </td>
-                <td width="300">
-                    <code>.Net,api,C,C#</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/principal-software-engineer-team-lead-1783415" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Unanet is looking for a Principal Software Engineer – Team Lead to drive both delivery of team results and nurture career growth for individual contributors. We're looking for an experienced, results-oriented professional who is no stranger to building well-designed and high-performing applications that support complex business rules and workflows at scale. If you are passionate about designing full stack SaaS software solutions, guiding a team and fostering a culture of technical excellence in a fast-paced Agile environment, this role is your opportunity to make a lasting impact.</p>
-<p><strong>What You’ll Do</strong> </p>
-<ul style="">
-<li style="">Lead and motivate a cross-functional team of software engineers to consistently meet delivery timelines with high quality</li>
-<li style="">Provide hands-on development capacity and mentorship; foster a collaborative environment for skill development</li>
-<li style="">Collaborate with Product Owners and Product Managers to define and measure team success</li>
-<li style="">Mentor and empower other engineers to deliver on their commitments</li>
-<li style="">Provide constructive peer review on merge requests to increase code quality</li>
-<li style="">Influence the technical landscape by presenting ideas, driving architectural decisions, and contributing to our technical roadmap</li>
-<li style="">Uphold best practices and quality standards with design and code reviews throughout the SDLC</li>
-<li style="">Play an integral role in the hiring process to expand and elevate our growing Product team</li>
-<li style="">Flesh out user stories to be consumed by the rest of your team </li>
-</ul>
-<p><strong>Your First 90 Days</strong> </p>
-<p><em>In Your First 30 Days</em> </p>
-<ul style="">
-<li style="">You’ll work with our Web Team Lead and Tech Leads from other front-end teams as well as our API/Platform team to understand our product architecture, standards, and development tools </li>
-<li style="">You’ll get hands on in our current web stack (25% of your time) </li>
-<li style="">You’ll work with your Product Owner to get oriented to the team backlog and priorities </li>
-<li style="">You’ll establish healthy working relationships with Support staff  </li>
-<li style="">With support from our Scrum Master, you’ll familiarize yourself with our scrum ceremonies and release processes </li>
-</ul>
-<p><em>In Your First 60 Days</em> </p>
-<ul style="">
-<li style="">In partnership with Product Management, you’ll co-create a backlog of work to systematically add new features from which the entire team can pull work items from </li>
-<li style="">You’ll lead backlog refinements on a strategic product initiative </li>
-<li style="">You’ll build strong working relationships with individual contributors and familiarize with their strengths </li>
-<li style="">You’ll familiarize yourself with the logging/monitoring tooling needed to diagnose product issues </li>
-</ul>
-<p><em>In Your First 90 Days</em> </p>
-<ul style="">
-<li style="">You’ll help instill the discipline of effectively monitoring and creating work items from our SDLC process, including monitoring issues in our lower environments and help with issues in our production environments</li>
-<li style="">You’ll collaborate with Tech Leads to progress our technical roadmap and future deliveries</li>
-<li style="">You’ll help mentor and train other engineers on our front-end and back-end development frameworks</li>
-<li style="">You will play a meaningful role in helping hire future members to our growing Product Team</li>
-<li style="">You’ll become a subject matter expert on the product components for which your team is primarily responsible </li>
-</ul>
-<p><strong>Who You Are</strong> </p>
-<ul style="">
-<li style="">7+ years of full stack development experience </li>
-<li style="">2+ years leading a full stack software development team </li>
-<li style="">3+ years of C# .NET Core experience </li>
-<li style="">2+ years of front-end development experience using a modern JavaScript framework (web or mobile) </li>
-<li style="">Experience working in a disciplined Agile environment</li>
-<li style="">Bachelor’s in Computer Science or related field </li>
-</ul>
-<p><strong>Your Differentiators</strong> </p>
-<ul style="">
-<li style="">Ability to collaborate with team members across time zones in a remote-first work environment</li>
-<li style="">Catalyst-mindset (i.e., the ability to tangibly see the future and influence team direction)</li>
-<li style="">Keen attention to detail</li>
-<li style="">Strong interpersonal and communication skills</li>
-<li style="">Ability to adapt communication style and messaging based on audiences from Engineering, Product Management to Support </li>
-</ul>
-<p><strong>How We Define Team Lead</strong> </p>
-<p>You will lead the Scrum Team (i.e., who does what and when) in partnership with our Product Owner. You’ll efficiently manage Scrum activities with the support of a dedicated Scrum Master. You’ll also contribute to production-deliverables (code) at least 50% of the time. </p>
-<p><strong>Our Values</strong> </p>
-<ul style="">
-<li style="">We are a Team. Employees, customers, and partners working together. </li>
-<li style="">We are Customer-Focused. Customers are the heart of everything we do. </li>
-<li style="">We are Driven. Seeking exceptional outcomes. </li>
-<li style="">We Own our Success. Every employee has a stake in our company. </li>
-<li style="">We do the right thing and have fun in the process.  </li>
-</ul>
-<p><em>The salary range for this opportunity is $150,000 - $165,000 per year. You will be eligible for employee equity as well as discretionary bonus compensation, subject to plans that may be in effect from time to time. You will further be eligible to participate in Unanet's employee benefits plans and programs. For more details on Unanet's benefits offerings, please visit </em><em>https://unanet.com/employee-benefits</em><em>.</em> </p>
-<p><em>Unanet is proud to be an Equal Opportunity Employer. Applicants will be considered for positions without regard to race, religion, sex, national origin, age, disability, veteran status or any other consideration made unlawful by applicable federal, state or local laws.</em></p>
-<img src="https://remotive.com/job/track/1783415/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
