@@ -1,131 +1,77 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/7908/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/2406/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>BBE Marketing Inc</h5>
-                    <h3> Lead Full-Stack PHP Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-lead-full-stack-php-developer-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0064/7908/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Hurst, TX
-    <br /><strong>URL:</strong> <a href="http://bbemarketing.com/">http://bbemarketing.com/</a>
-</p>
-
-<div>We are looking for a talented Full-Stack Developer to join our team, who could help us in shipping features for our application and drive our application design and architecture as we grow.<br><br>
-</div><div>
-<br><strong>The tasks include:</strong>
-</div><div>
-<br>- Developing new features<br>- Making fixes and updates to our in-house application<br>- Implementing quality checks, metrics and monitoring: automated testing, code style, integrating error reporting and performance monitoring tools etc.<br>- Work with team in planning and strategizing<br>- Making important architectural decisions<br><br>
-</div><div>
-<br><strong>You will love this role if:</strong><br><br>
-</div><div>
-<br>- You like working with the stakeholders directly. We’re a relatively small startup, there’s no bureaucracy and complex hierarchy. You’ll be communicating directly with all the team members, from CEO to Customer Support.<br>- You are a team player<br>- You like to work and ship stuff fast without compromising quality. You know when to stop and call it done without trying to achieve the unattainable perfection.<br>- You are a problem solver<br>- You know how to find an optimal solution and ship it fast without introducing unnecessary complexity and overhead.<br>- You’re not afraid to prove your point when necessary. We trust our team members and believe they have businesses best interest at heart. If there’s no simple solution to a problem, you can provide the arguments and clearly communicate the risks.<br>- Self-starter, we don’t like to micro-manage our team<br>- You treat privileged information with care. You can be trusted with sensitive company data<br><br>
-</div><div>
-<br><strong>Requirements:</strong><br>- Good written and spoken English.<br>- Solid experience with PHP, Symfony, MySQL (or any other RDBMS)<br>- Basic experience with Angular;<br>- Good knowledge of HTML, CSS, SASS/SCSS.<br>- Experience writing tests in PHP.  PHPUnit is a must. Knowledge of other testing frameworks and tools will be a plus.<br>- Experience writing tests in TS/JS. Experience with Jasmine.<br>- You have experience setting up and/or maintaining CI pipelines running tests and other quality checks.<br>- Able to work 4 hours overlap within 08:00 - 18:00 EST<br><br>
-</div><div>
-<br><strong>Nice to have:<br></strong>- Experience with DigitalOcean;<br>- Experience with Bitbucket Pipelines<br><br>
-</div><div><br></div><div>
-<strong>About us:<br></strong><br>
-</div><div>
-<br>BBE Marketing provides products and services to help businesses connect with celebrities and influencers. We are a small, fast growing company who is passionate about our mission.<br><br>
-</div><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-lead-full-stack-php-developer-2">https://weworkremotely.com/remote-jobs/bbe-marketing-inc-lead-full-stack-php-developer-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>BBE Marketing Inc</h5>
-                    <h3> Full-Stack Wordpress Developer</h3>
+                    <h5>XM</h5>
+                    <h3> Senior Java Developers – Cyprus, Greece or Remote</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-6" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/xm-senior-java-developers-cyprus-greece-or-remote" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
+                <img src="https://we-work-remotely.imgix.net/logos/0124/2406/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Hurst, TX
-    <br /><strong>URL:</strong> <a href="http://bbemarketing.com/">http://bbemarketing.com/</a>
+  <strong>Headquarters:</strong> Cyprus
+    <br /><strong>URL:</strong> <a href="https://xm.com">https://xm.com</a>
 </p>
 
-<div>BBE Marketing creates online products that help businesses connect with celebrities and influencers. We are looking for a talented Full-Stack Wordpress Developer to join our team, who could help us in shipping features for our application and drive our application design and architecture as we grow.<br><br>
-</div><div>The tasks include:<br><br>
-</div><div>- Developing plugins<br>- Making fixes and updates to existing plugins<br>- Work with team in planning and strategizing<br>- Working with designer in developing designs<br>- Various backend tasks<br><br>
-</div><div>You will love this role if:<br><br>
-</div><div>- You like working with the stakeholders directly. We’re a relatively small startup, there’s no bureaucracy and complex hierarchy. You’ll be communicating directly with all the team members, from CEO to Customer Support.<br>- You like to work and ship stuff fast without compromising quality. You know when to stop and call it done without trying to achieve the unattainable perfection.<br>- You’re not afraid to prove your point when necessary. We trust our team members and believe they have businesses best interest at heart. If there’s no simple solution to a problem, you can provide the arguments and clearly communicate the risks.<br>- Self-starter, we don’t like to micro-manage our team<br>- You treat privileged information with care. You can be trusted with sensitive company data<br>- Great communication skills<br><br>
-</div><div>Requirements:<br>- Experience with PHP<br>- Experience with Wordpress<br>- Experience with MySQL;<br>- Experience with Asana (preferred)<br>- Written and spoken English (required).<br>- Able to work 4 hours overlap within 07:00 - 18:00 PST<br><br>
+<div>
+<strong>The Role: <br></strong><br>
+</div><div>We are looking for experienced Java Developers with a passion for pushing technologies to the limits and who will work with our team of talented engineers to develop XM’s enterprise suite of trading applications.</div><div>
+<strong> <br></strong><br>
 </div><div>
-<br><br>
-</div><div>
-<br><br>
-</div>
+<strong>The main responsibilities of the position include:<br></strong><br>
+</div><ul>
+<li>Build advanced back end applications on the Java platform</li>
+<li>Follow test-driven development, continuous integration and agile methodologies</li>
+<li>Review the code of other developers</li>
+<li>Monitor and improve application reliability, and optimize performance</li>
+<li>Run unit testing and automation testing</li>
+<li>Contribute to system design and architecture</li>
+<li>Present ideas for system improvements</li>
+</ul><div> </div><div>
+<strong>Main requirements:<br></strong><br>
+</div><ul>
+<li>BSc/MSc in computer science, engineering, or any other relevant degree</li>
+<li>At least 5 years of work experience in Java development</li>
+<li>Solid understanding of the full development life cycle</li>
+<li>Very good knowledge of programming best practises and design patterns</li>
+<li>Good understanding of algorithmic complexity, data structures and multi-threading concepts</li>
+<li>Knowledge of REST API and web services implementation concepts</li>
+<li>A keen interest in benchmarking and optimisation</li>
+<li>Passion for back end applications</li>
+<li>Strong teamworking skills and interest in personal development</li>
+</ul><div> </div><div>
+<strong>The following will be considered an advantage:</strong><br><br>
+</div><ul>
+<li>Knowledge of Oracle &amp; MySQL </li>
+<li>Knowledge of AWS Cloud Services </li>
+<li>Work portfolio of open-source projects and technical blogs</li>
+</ul><div> </div><div> </div><div> </div><div>
+<strong>Benefit from:<br></strong><br>
+</div><ul>
+<li>Attractive remuneration package</li>
+<li>Food allowance </li>
+<li>Intellectually stimulating work environment</li>
+<li>Continuous personal development and international training opportunities</li>
+<li>Attractive relocation package and support for a smooth relocation for you and your family</li>
+</ul><div> </div><div>Type of employment: Full time<br><br>
+</div><div>Location: Cyprus, Greece or Remote<br><br>
+</div><div>Please visit our website http://tiny.cc/vd9bvz to submit your online application for this position.</div><div> </div><div>
+<strong>All applications will be treated with strict confidentiality!</strong> </div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-6">https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-6</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0120/6520/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Sourcefabric</h5>
-                    <h3> Full stack developer | Newshub</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>7 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/sourcefabric-full-stack-developer-newshub-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0120/6520/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Prague
-    <br /><strong>URL:</strong> <a href="https://www.sourcefabric.org/">https://www.sourcefabric.org/</a>
-</p>
-
-<div>SourceFabric | Full stack developer | Open-source | REMOTE (Central European Timezone +/- 3h)<br><br>Sourcefabric is Europe's largest developer of open source tools for news media. Headquartered in Prague, Czech Republic, Sourcefabric z.ú. brings together minds from all corners of the globe to promote media development through the creation of open source software. All of our tools are open source and free to download: Superdesk, Live Blog and Airtime.<br><br>We are looking for a full stack developer(Python, TypeScript/JavaScript, React) with at least 4 years of experience in software development in general and at least 1 year of experience with all mentioned technologies. You will be joining a team of 7 developers to work on new features and maintenance of our Newshub and Superdesk web applications.<br><br>To apply, send your resume to: jobs+nhWWR@sourcefabric.org</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sourcefabric-full-stack-developer-newshub-1">https://weworkremotely.com/remote-jobs/sourcefabric-full-stack-developer-newshub-1</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-senior-java-developers-cyprus-greece-or-remote">https://weworkremotely.com/remote-jobs/xm-senior-java-developers-cyprus-greece-or-remote</a></p>
 
                 </details>
                 </td>
@@ -141,7 +87,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tempmee-react-developer" align="right" target="_blank">Apply</a>
@@ -206,7 +152,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rebelcode-ltd-full-stack-wordpress-developer" align="right" target="_blank">Apply</a>
@@ -301,7 +247,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>66 days ago</text>
+                <text>69 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2" align="right" target="_blank">Apply</a>
@@ -354,7 +300,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>66 days ago</text>
+                <text>69 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2" align="right" target="_blank">Apply</a>
@@ -406,6 +352,72 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>A.Team</h5>
+                    <h3> Senior Independent Software Developer ($110-$190/hr)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>781 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0066/7400/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> NYC, SF, and TLV
+    <br /><strong>URL:</strong> <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a>
+</p>
+
+<div>
+<a href="https://build.a.team/wwrfastrackreferral">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. <br><br>After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.<br><br>As part of A·Team, you can expect:</div><ul>
+<li>
+<strong>High-paying, meaningful missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
+<li>
+<strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
+<li>
+<strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
+<li>
+<strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
+<li>
+<strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
+</ul><div>
+<br><strong>How to apply:<br></strong>Go here: <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a> + mention WWR under how you heard about A·Team. No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.<br><strong><br>What you’ll do:</strong>
+</div><ul>
+<li>Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would.</li>
+<li>Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </li>
+<li>You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is for:</strong>
+</div><ul>
+<li>Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy.</li>
+<li>Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</li>
+<li>The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing.</li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is </strong><strong><em>not</em></strong><strong> for:</strong>
+</div><ul>
+<li>People looking for small gigs.</li>
+<li>Folks looking to build simple wordpress/wix/squarespace-style websites.</li>
+<li>Those still early in their careers and recent university/bootcamp grads (at least not yet).</li>
+</ul><div>
+<br><strong>Our long-term vision:<br></strong><a href="https://build.a.team/wwrfastrackreferral">A·Team</a> is a new type of company for a new kind of independent software builders. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </div><div>
+<br>To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1783538/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -416,7 +428,7 @@
                     <code>backend,docker,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-ror-developer-mid-level-1783538" align="right" target="_blank">Apply</a>
@@ -486,7 +498,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -561,7 +573,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -624,6 +636,30 @@
 <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a new type of company for a new kind of independent software builder. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </span></p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</span></p>
 <img src="https://remotive.com/job/track/814298/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1306325743580848130/mk0qvsZ9_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Kraken</h5>
+                    <h3>Lifecycle Campaign Developer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/kraken/51988622-2f16-4af8-be86-c77c85e99987" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Future of Crypto&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to <a href="https://blog.kraken.com/crypto-education/security-at-kraken" class="postings-link">industry-leading security</a>, <a href="https://blog.kraken.com/category/crypto-education" class="postings-link">crypto education</a>, and <a href="https://blog.kraken.com/crypto-education/support-at-kraken" class="postings-link">world-class client support</a> through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://futures.kraken.com/wallets" class="postings-link">Kraken Futures</a>.</div><div><br></div><div>Become a Krakenite and build the future of crypto!</div><div><br></div><div><b style="font-size: 24px">The Team</b></div><div><br></div><div>The Marketing Operations and Technology team supports the company’s growth and client engagement strategy by implementing tools and executing cross-channel communications in order to help our clients make the most of Kraken’s exchange ecosystem. We strive to serve our internal and external clients with best-in-class technology&nbsp; and marketing best practices, such as hyper-personalization and real-time, relevant messaging, towards flawless execution.</div><div><br></div><div>Kraken’s CRM Ops team is looking for a campaign developer/specialist who will build marketing campaigns in our client engagement tool. We need support to execute and automate lifecycle campaigns using our best-in-class marketing technology tools to build complex customer journeys and dynamic, personalized content to serve all of our client segments. Besides building lifecycle campaigns, this is a role that will support a fast-paced environment, supporting ad-hoc campaigns such as new asset launches. This role will report to our Director of Marketing Technology and Operations, and collaborate cross-functionally with lifecycle marketing, product marketing, product management, and client support teams.&nbsp;</div></div><div class="section page-centered"><div><h3>The Opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Build and deploy on messaging campaigns across email, push, and in-app (web/app) messages; as well as audience segments based on the business logic provided by requestors</li><li>Implement copy and creative tests, and provide design and copywriting input ad-hoc to optimize engagement &amp; conversion</li><li>Collaborate with internal partners for QA and approvals - sending test emails/push to requestors and coordinating with product teams in designing and QA-ing in-app messages</li><li>Attend team meetings to understand priorities and conduct campaign reviews with relevant stakeholders</li><li>Apply learnings from historical campaigns and help ideate on campaign testing roadmap for each customer journey towards optimization based on campaign and business KPIs</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>2-5 years of experience with ESP management required (Braze, Klaviyo, Iterable, etc.)</li><li>Intermediate knowledge of HTML/CSS coding</li><li>An understanding of performance metrics as well as business/marketing analytics</li><li>Strong organization and project management skills</li><li>Strong crypto conviction and familiarity with our product offerings</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Location Tagging: #US #EU #Canada #LI-AG1</div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/51988622-2f16-4af8-be86-c77c85e99987/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
