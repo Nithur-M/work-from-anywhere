@@ -10,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/orderez-ux-ui-designer" align="right" target="_blank">Apply</a>
@@ -65,7 +65,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>52 days ago</text>
+                <text>54 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/yoko-co-senior-ux-strategist-information-architect-1" align="right" target="_blank">Apply</a>
@@ -164,7 +164,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>676 days ago</text>
+                <text>678 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -230,7 +230,7 @@
                     <code>go,UI/UX,wordpress,chat</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
