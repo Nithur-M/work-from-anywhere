@@ -10,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/access-genie-staff-software-engineer-tech-lead-python" align="right" target="_blank">Apply</a>
@@ -61,7 +61,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/piton-labs-senior-software-engineer-2" align="right" target="_blank">Apply</a>
@@ -489,91 +489,6 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-
-    
-
-    
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Status</h5>
-                    <h3>Software Engineer (Chat SDK)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=5175038&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <div class="careers-block__trix external-panel text-left">
-<div>
-<p><strong>About Waku</strong></p>
-<p>We are building Waku as a public good infrastructure. Waku is uncompromising Web3 communication at scale. It is a decentralized, censorship-resistant, privacy-preserving communication network that enables anyone to send and receive messages without worrying about surveillance or deplatforming.</p>
-<p>We are enabling Ethereum builders to create new projects with a fully decentralized architecture, think dApp to Wallet notifications, NFT marketplaces, censorship-resistant chat, layer-2 and more.&nbsp;</p>
-<p>Waku enables a variety of complex use cases and applications. To facilitate the adoption of Waku, you will design and implement application protocols to provide to dapp developers as off-the-shelf SDKs.</p>
-<p><a href="waku.org">Waku.org&nbsp;</a></p>
-<p><strong>Key responsibilities:</strong></p>
-<p><strong></strong></p>
-<ul>
-<li>Integrate Waku in Status Communities Golang application (status-go).</li>
-<li>Liaise with Status engineer to support and investigate issues encountered by the chat functionalities in status-go.</li>
-<li>Liaise with Waku engineers to report bugs and use new APIs.</li>
-<li>Maintain, improve and troubleshoot the chat related functionalities of status-go codebase. Report issues to Waku and Status teams.</li>
-<li>Beyond 3-6 months: Create a Golang Chat SDK using knowledge acquired working on status-go.</li>
-</ul>
-<p><strong></strong></p>
-<p><strong>You ideally will have: </strong></p>
-<p></p>
-<ul>
-<li>Have experience building applications with complex logic, cutting edge technology or applied research.</li>
-<li>Experience with Golang or other system/backend languages such as C/C++/C#/Java/Rust, etc.</li>
-<li>Have experience building instant messaging and chat applications that includes cryptographic such as end-to-end encryption.</li>
-<li>Have passion for blockchain and decentralized technologies and understand how they work.</li>
-<li>Have good communication skills (written and conversational).</li>
-<li>Have a strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a>&nbsp;</li>
-</ul>
-<p>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</p>
-<p><strong>Bonus points if:</strong></p>
-<ul>
-<li>You have experience leading the integration of a complex tech stack in an application.</li>
-<li>You are already familiar with the Ethereum community, Web3 or blockchain development</li>
-<li>You work for an open-source organization</li>
-<li>You have experience working remotely</li>
-</ul>
-<p><strong>Hiring process:</strong></p>
-<ul>
-<li>Chat with people ops</li>
-<li>Pair programming with Go-Waku Developer</li>
-<li>Chat with Status Mobile Lead</li>
-<li>Chat with Waku Lead</li>
-</ul>
-<p>[The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline].&nbsp;</p>
-</div>
-<p><strong>Compensation:</strong></p>
-<p>The expected compensation range for this role is $80,000 - $100,000 (dependent on how we assess your skills and experience throughout our interview process).&nbsp;</p>
-<p>We are happy to pay in any mix of fiat/crypto.</p>
-</div>
 
     
 
