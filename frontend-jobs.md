@@ -10,7 +10,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/stealth-frontend-engineer-at-stealth-crypto-startup" align="right" target="_blank">Apply</a>
@@ -74,69 +74,6 @@
 </div>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/stealth-frontend-engineer-at-stealth-crypto-startup">https://weworkremotely.com/remote-jobs/stealth-frontend-engineer-at-stealth-crypto-startup</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>OrderEZ</h5>
-                    <h3> Frontend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>14 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/orderez-frontend-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Singapore
-    <br /><strong>URL:</strong> <a href="https://orderez.co">https://orderez.co</a>
-</p>
-
-<div>We are looking for a full-time frontend to kick-start our in-house team as we grow from our first few hundred customers to the next level. If you enjoy solving product problems (almost) as much as technical problems, we would love to have you on board.</div><div>Our main product is a single-page Vue.js application that communicates with a Nest.js backend via a REST API. While proficiency in frontend development is a necessity for this role, we would be thrilled if you are also able to support some of the backend tasks.</div><div> </div><div><strong>Why should you join us?</strong></div><ul>
-<li>You will be a crucial member of a small, yet efficient team, where your skills and ideas will have a significant impact.</li>
-<li>You will work on an active project where users' feedback matters and often drives the need for creative solutions.</li>
-<li>We will encourage and support you to expand your skills and knowledge beyond your current area of expertise.</li>
-<li>We promote fully remote work by utilizing Slack, Notion, and Figma for asynchronous communication and scheduling meetings mainly for in-depth discussions on requirements or implementation.</li>
-</ul><div><strong>Requirements</strong></div><ul>
-<li>Previous experience working in a team to build a B2B SaaS product</li>
-<li>Proficiency in HTML, CSS, and JavaScript/TypeScript</li>
-<li>Strong understanding of the Vue.js framework and its ecosystem</li>
-<li>Experience in consuming REST APIs</li>
-<li>An eye for translating UI design files into front-end code</li>
-<li>Proficiency in version control systems, such as Git</li>
-<li>Proficiency in both written and spoken English</li>
-<li>Availability for at least 4 hours of overlap with CET timezone (8am to 7pm)</li>
-</ul><div><strong>Advantages:</strong></div><ul>
-<li>Experience using Node.js for implementing REST APIs</li>
-<li>Experience working with relational databases</li>
-<li>Experience with Docker</li>
-<li>Knowledge of web security best practices</li>
-<li>Availability for at least 4 hours of overlap with Singapore timezone (8am to 7pm)</li>
-</ul><div><strong>Responsibilities</strong></div><ul>
-<li>Build new and maintain existing functionalities using the Vue.js framework.</li>
-<li>Develop modular and reusable components based on our Design System.</li>
-<li>Write clean, maintainable, and well-structured code that follows best practices and industry standards for Vue.js development.</li>
-<li>(Preferably) Design and develop database structure and REST API using the Nest.js framework.</li>
-<li>Collaborate with the product owner, designers, and other developers to find the optimal solution for the given requirements.</li>
-<li>Take accountability for your own code. We do not believe in fairytales where code is bug-free, but we do our best to have highly functional first versions.</li>
-<li>Test and optimize the application for performance, security, browser compatibility, and responsiveness.</li>
-<li>Express your opinions, share your knowledge, and participate in clear and honest team communication.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/orderez-frontend-engineer">https://weworkremotely.com/remote-jobs/orderez-frontend-engineer</a></p>
 
                 </details>
                 </td>
