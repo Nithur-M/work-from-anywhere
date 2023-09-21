@@ -10,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/access-genie-staff-software-engineer-tech-lead-python" align="right" target="_blank">Apply</a>
@@ -61,7 +61,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/piton-labs-senior-software-engineer-2" align="right" target="_blank">Apply</a>
