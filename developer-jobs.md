@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-java-developers-cyprus-greece-or-remote" align="right" target="_blank">Apply</a>
@@ -87,7 +87,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tempmee-react-developer" align="right" target="_blank">Apply</a>
@@ -152,7 +152,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rebelcode-ltd-full-stack-wordpress-developer" align="right" target="_blank">Apply</a>
@@ -247,7 +247,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>70 days ago</text>
+                <text>71 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2" align="right" target="_blank">Apply</a>
@@ -300,7 +300,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>70 days ago</text>
+                <text>71 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2" align="right" target="_blank">Apply</a>
@@ -362,7 +362,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>782 days ago</text>
+                <text>783 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -428,7 +428,7 @@
                     <code>backend,docker,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-ror-developer-mid-level-1783538" align="right" target="_blank">Apply</a>
@@ -498,7 +498,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -573,7 +573,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1211,66 +1211,64 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 
-      <h2>The role of a Developer Relations Engineer at Canonical</h2>
-<p>The Developer Relations team at Canonical engage with community and enterprise software developers to help them embrace the Canonical approach to open source. We enable community developers and ISVs to deliver their applications to millions of Linux users and devices as snaps, charms, debs and Docker images. We also bring their feedback to engineering teams at Canonical for continuous improvement.</p>
-<p>As a Developer Relations Engineer, you will spearhead the adoption of new technologies in upstream communities. You will identify exciting new areas of development, programming languages, and classes of application, and explore ways to deliver those applications to Ubuntu users. Then you will reach out to community leaders and technical leaders in those ecosystems and build a common understanding of the best approach to application delivery on Ubuntu for their work. You will contribute to code and technical documentation. This position will challenge you to become an expert in the technologies on which we build the Ubuntu ecosystem, and will utilize your communication, presentation and persuasion skills. We aim to inspire the next generation of engineers to work more efficiently with open source, adopting the latest practices and shaping Canonical tools to suit new workflows and priorities.</p>
-<p>This role is a good fit for someone who is tech-savvy, passionate, collaborative, and who can communicate with a wide range of audiences. You must be a professionally qualified software engineer with open source experience. You will definitely need to be technically skilled with Linux. Experience with Ubuntu, snaps, charms or Docker images and familiarity with desktop and Linux server software development are valuable skills for the role.</p>
-<p>You will represent not only the Ubuntu community but also Canonical as a contributor to the wider open source ecosystem. You will work in a distributed team and travel internationally 2-4 times per year for engineering sprints, community summits, industry events, and strategic planning sessions.</p>
-<p><strong>Location</strong>: This is a Globally remote role.</p>
+      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
+<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
+<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
+<p>Location: we are building our initial DevRel team in Europe, Middle East, African and American time zones</p>
 <h2>What your day will look like</h2>
 <ul>
-<li>Gain a deep understanding of snaps, charms, debs and Docker images</li>
-<li>Grow the developer community by attracting software developers and ISVs to the platform</li>
-<li>Create content to scale up adoption, demonstrate best practices, and showcase new features</li>
-<li>Provide input to development teams at Canonical based on feedback from ISVs, developers, and the wider community</li>
-<li>Collaborate with software developers, product managers and technical writers</li>
-<li>Write ecosystem specific guides, tutorials, release notes, and white papers</li>
-<li>Curate existing documentation, performing periodic reviews, triage user feedback/bug reports and determine priorities for remedial work</li>
-<li>Engage with the community through various means, including discourse, IRC, social media, conferences, etc</li>
-<li>Identify relevant influencers and devising plans on how to effectively engage with them</li>
-<li>Deliver training workshops in person and remotely</li>
-<li>Represent the platform via speaking engagements at industry events and community conferences</li>
+<li>Contribute to product management team meetings</li>
+<li>Maintain conversations with developer community members</li>
+<li>Engage on IRC, social media, product forums, meet-ups and more</li>
+<li>Collaborate across Canonical teams</li>
+<li>Solve specific technical problems that users or colleagues have identified</li>
+<li>Contribute to technical documentation</li>
+<li>Work on technical articles, presentations or workshops&nbsp;</li>
+<li>Identify new opportunities in developer experience</li>
+<li>Present at conferences, meetups or technical events</li>
 </ul>
 <h2>What we are looking for in you</h2>
 <ul>
-<li>You love technology and working with brilliant people</li>
-<li>You are curious, flexible, articulate, and accountable</li>
-<li>You value soft skills and are enthusiastic, thoughtful, and self-motivated</li>
-<li>You have experience with developer tools and open source projects</li>
-<li>You have a clear public record of accomplishments (talks, blog posts, GitHub, Twitter, etc)</li>
-<li>You have interest and experience with two or more of Ubuntu Linux - kernel or userspace, DevOps, software development, testing and QA, package management, container technology</li>
-<li>You can work autonomously and assume full ownership of objectives as needed</li>
-<li>You can be flexible with your time and enjoy working with new technology in a fast-paced environment</li>
-<li>You are experienced working with open source communities and understand the workflow of volunteer contributors</li>
+<li>An exceptional academic track record from both high school and university</li>
+<li>Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path</li>
+<li>Drive and a track record of going above-and-beyond expectations</li>
+<li>Developer with a demonstrable engagement in open-source software</li>
+<li>Well-organised, self-starting and able to deliver to schedule</li>
+<li>Professional manner interacting with colleagues, partners, and community</li>
+<li>Experience of Linux software packaging (deb, rpm or snap)</li>
+<li>Contributor to open-source communities, software and documentation</li>
+<li>An engaging, vivacious speaker and presenter</li>
+<li>Effective, tactful, empathetic and confident</li>
+<li>Builds trust, relationships and confidence</li>
+<li>Result-oriented, with a personal drive to meet commitments&nbsp;</li>
+<li>Ability to travel twice a year, for company events up to two weeks each</li>
+<li>Ability to travel in addition to upstream and industry events</li>
 </ul>
 <h2>Additional skills that you might also bring</h2>
 <ul>
-<li>Experience with community management</li>
-<li>Experience with developer advocacy</li>
-<li>Experience as a software developer</li>
-<li>Examples of contributions to the Ubuntu Community</li>
-<li>Experience with contributing to open source projects</li>
+<li>Experience in a developer advocacy or community role</li>
+<li>Ops and system administration experience</li>
+<li>Performance engineering and security experience</li>
 </ul>
 <h2>What we offer you</h2>
-<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.</p>
-<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.</p>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
 <ul>
-<li>Fully remote working environment - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of 2,000USD per annum</li>
+<li>Distributed work environment with twice-yearly team sprints in person</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
 <li>Annual compensation review</li>
 <li>Recognition rewards</li>
 <li>Annual holiday leave</li>
-<li>Parental Leave</li>
+<li>Maternity and paternity leave</li>
 <li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues at ‘sprints’</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+<li>Opportunity to travel to new locations to meet colleagues</li>
+<li>Priority Pass, and travel upgrades for long haul company events</li>
 </ul>
 <h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p>
 <h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote</p><p>Requisition ID: 799</p><p></p>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote</p>
+<h2><br><br></h2><p>Requisition ID: 799</p><p></p>
     
                 </details>
                 </td>
