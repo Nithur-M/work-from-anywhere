@@ -1,48 +1,5 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0123/6635/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Terrateam</h5>
-                    <h3> Freelance Writer - B2B SaaS (DevOps)</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/terrateam-freelance-writer-b2b-saas-devops" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0123/6635/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Amsterdam, NL
-    <br /><strong>URL:</strong> <a href="https://terrateam.io">https://terrateam.io</a>
-</p>
-
-<div>Terrateam is looking for an experienced freelance technical writer to write blog posts in the DevOps space. Your focus will be on howto guides. We'll provide the topics and the templates to follow but you'll be responsible for researching and writing high-quality articles.<br><br>Responsibilities:</div><ul>
-<li>Follow our blog post template to write blog posts that engage with readers</li>
-<li>Research topics to create detailed and in-depth content</li>
-<li>Meet deadlines</li>
-</ul><div>Requirements:</div><ul>
-<li>Previous experience writing blog posts for B2B SaaS. DevOps-related content preferred.</li>
-<li>Comfortable expressing your voice in your writing</li>
-<li>Confident writing with SEO in mind</li>
-<li>Ability to take feedback</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/terrateam-freelance-writer-b2b-saas-devops">https://weworkremotely.com/remote-jobs/terrateam-freelance-writer-b2b-saas-devops</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0123/5867/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -53,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/marialdn-webmaster-website-administration-devops-wordpress" align="right" target="_blank">Apply</a>
