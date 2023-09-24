@@ -10,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/access-genie-staff-software-engineer-tech-lead-python" align="right" target="_blank">Apply</a>
@@ -46,68 +46,6 @@
 <p><em>We are a fully remote, distributed team. However, we are not currently able to provide visa sponsorship for employment.<br><br>Upon submitting your application, you consent to receive future communications. The communication will depend on the availability of positions that align with your qualifications. Only eligible candidates will receive correspondence.</em> <br><br>Interested in Access Genie but don't think this role is the best fit for you? View our other positions: <a href="https://accessgenie.workable.com" class="external">https://accessgenie.workable.com</a><br></p>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/access-genie-staff-software-engineer-tech-lead-python">https://weworkremotely.com/remote-jobs/access-genie-staff-software-engineer-tech-lead-python</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Piton Labs</h5>
-                    <h3> Senior+ Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>8 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/piton-labs-senior-software-engineer-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> New York
-    <br /><strong>URL:</strong> <a href="https://pitonlabs.com">https://pitonlabs.com</a>
-</p>
-
-<div>Piton Labs has an opening for a full-time Senior Software Engineer. We are looking for someone who is comfortable at all levels of the stack, preferably trending towards the back-end. The ideal candidate will also have strong familiarity with cloud infrastructure. Previous startup experience is a plus, be it your own or working at another early stage company. Timezones between GMT - 8 (US Pacific) and GMT - 3 are strongly preferred - others will be considered on a case by case basis.</div><div><br></div><div>RESPONSIBILITIES AND TECHNOLOGIES</div><div><br></div><div>At Piton Labs you will be working with startups and some larger organizations to solve some of their toughest technical challenges. You will deal with the ambiguity and complexity inherent in software development, and help our clients not just build their product, but figure out what needs to be built. In general you won’t be pulling tickets off a backlog as much as helping to set priorities and push forward on solving the most valuable problems our clients face.</div><div><br></div><div>We take a technology agnostic approach, however on the majority of our client projects we use: Typescript, React and Go. We tend to utilize AWS for our cloud infrastructure needs, but we also have clients using other cloud providers as well. You should have five (5) or more years experience with a major web application stack, RDBMs, and a modern front-end stack. Experience with our preferred technologies is a plus, but not required. You should be experienced in shipping high-quality, well-tested code at regular intervals.</div><div><br></div><div>Some things you may find yourself doing in a typical week include:</div><div><br></div><ul>
-<li>Implementing rich user experiences for customer facing web or mobile applications.</li>
-<li>Designing and implementing a serverless API layer to support a new web application.</li>
-<li>Architect and provision cloud infrastructure with infrastructure as code tooling.</li>
-<li>Demo new functionality to client stakeholders.</li>
-</ul><div><br></div><div>ABOUT YOU<br><br>You are independent, with a deep passion for coding. Problem-solving comes naturally to you, and you're constantly seeking to expand your technical horizons. Key qualities include:</div><div><br></div><ul>
-<li>
-<strong>Pragmatic</strong>: You value getting problems solved and delivering value other crafting intricate solutions, but aren’t afraid to get clever when it’s called for.</li>
-<li>
-<strong>Self Directed</strong>: You are excited to take ownership over products or features and understand not only the technical aspects but the human aspects as well</li>
-<li>
-<strong>Depth of Knowledge</strong>: With 5+ years in the game, you've tackled diverse projects and honed your skills.</li>
-<li>
-<strong>Adaptable</strong>: Tech evolves, and so do you. While you have your specialties, you aren't confined by them.</li>
-</ul><div>
-<br>REMOTE WORK POLICY</div><div><br></div><ul>
-<li>Our entire team is remote and we have no office </li>
-<li>We prefer candidates based in the US with legal authorization to work there.</li>
-<li>Secondary preference to candidates based in Canada, Uruguay, or Paraguay.</li>
-<li>Expected to be available for 4-6 hours overlap with East Coast time on most days.</li>
-<li>Digital nomad friendly; there is no specific requirement as to your location while working.</li>
-</ul><div><br></div><div>WHY WORK WITH US?</div><div><br></div><ul>
-<li>Competitive salary - $140,000 for US based applicants</li>
-<li>Substantial quarterly cash bonuses directly tied to company profits. Between $2.5K and $5k in a typical quarter</li>
-<li>Four (4) weeks paid vacation.</li>
-<li>100% remote - now and always.</li>
-<li>Excellent work life balance (you’ll get to work with high growth startups without working weekends)</li>
-<li>Asynchronous culture and flexibility, we won’t waste your time with a lot of meetings, we trust you to get the work done in the way that’s best for you</li>
-</ul><div><br></div><div>If you are interested in this position give us a shout at jobs@pitonlabs.com and we will set up a time to talk.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/piton-labs-senior-software-engineer-2">https://weworkremotely.com/remote-jobs/piton-labs-senior-software-engineer-2</a></p>
 
                 </details>
                 </td>
@@ -976,6 +914,92 @@
 <h2>Canonical is an equal opportunity employer</h2>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote&nbsp;</p><p>Requisition ID: 531</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Software Engineer - Containerization & Virtualisation</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/5172247" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>This is a general selection process for software engineers focused on virtualisation and container technology - from the kernel through userspace. Apply here if you are an exceptional Go, Rust, or C/C++ software engineer and want to work on next-generation open source VMM or container technology, or related open source networking and storage.</p>
+<p>Container, virtualisation and cloud infrastructure have become essentials of modern software deployments. We invest in open source related to application isolation, workload orchestration, system or OCI containers, micro service architecture or cloud infrastructure.</p>
+<p>Here are some examples of projects under way at Canonical.</p>
+<p>RustVMM has great potential as a new hypervisor for Linux. We are building a team to work on this, with an emphasis on performance, security and operability. Work in Rust and bring your expert knowledge of VMM and related kernel networking and storage capabilities.</p>
+<p>Docker images are easy to make and publish on Docker Hub and other registries, but the quality, consistency and security maintenance of those images is broadly very poor. Canonical is in a good position to publish a portfolio of outstanding Docker images. Our Rockcraft team is designing and implementing an elevated Docker image experience for the open source community.</p>
+<p>LXD is a modern system container and virtual machine manager that is widely used on Ubuntu, ChromeOS and other Linux platforms. LXD engineering spans the entire software stack from low-level kernel work on namespaces, confinement, security, filesystems, VMMs and networking, to the high level management REST API and CLI.</p>
+<p>Members of the Kubernetes product team build MicroK8s for on-rails K8s, and Charmed Kubernetes for more sophisticated integration. We work on K8s itself and on the operations tooling around it.</p>
+<p>The OpenStack team deliver Charmed OpenStack, OVN / OVS and Ceph. This work brings cloud platform technologies to large-scale computing environments.</p>
+<p>These teams hire system level C/C++, Golang, Rust and Python developers to work on security-critical, performance-critical and mission-critical code, focused on software delivery, containers, security, sandboxing, application orchestration and management. Our teams are motivated to have a meaningful impact on modern cloud computing technologies.</p>
+<p><strong>Location</strong>: <em>we have remote container and virt engineering roles in every time zone.</em></p>
+<h2>What you will focus on</h2>
+<ul>
+<li>Design and specify new features, building consensus on approach</li>
+<li>Engage with upstream communities in your area of expertise</li>
+<li>Conduct security analysis and reviews to ensure defence in depth</li>
+<li>Create and monitor performance benchmarks to optimise your product</li>
+<li>Collaborate proactively with a distributed team</li>
+<li>Write high quality code to create new features</li>
+<li>Debug issues and produce high quality code to fix them</li>
+<li>Review code produced by other engineers</li>
+<li>Discuss ideas and collaborate on finding good solutions</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<ul>
+<li>An exceptional academic track record from both high school and university</li>
+<li>Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path</li>
+<li>Drive and a track record of going above-and-beyond expectations</li>
+<li>You have worked on open source virt or container tech</li>
+<li>You have experience working in the kernel or very low level system</li>
+<li>Professional written and spoken English&nbsp;</li>
+<li>Experience with Linux (Debian or Ubuntu preferred)&nbsp;</li>
+<li>Excellent interpersonal skills, curiosity, flexibility, and accountability&nbsp;</li>
+<li>Passion, thoughtfulness, and self-motivation&nbsp;</li>
+<li>Excellent communication and presentation skills&nbsp;</li>
+<li>Result-oriented, with a personal drive to meet commitments&nbsp;</li>
+<li>Ability to travel twice a year, for company events up to two weeks each</li>
+</ul>
+<h2>Additional skills we value</h2>
+<ul>
+<li>Performance engineering and security experience</li>
+</ul>
+<h2>What we offer you</h2>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues</li>
+<li>Priority Pass, and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote</p>
+
+<br><br><p>Requisition ID: 1097</p><p></p>
     
                 </details>
                 </td>
