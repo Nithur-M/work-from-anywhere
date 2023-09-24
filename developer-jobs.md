@@ -1,5 +1,173 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/8281/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>AppSignal</h5>
+                    <h3> Product Developer (React)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/appsignal-product-developer-react" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0124/8281/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> The Netherlands
+    <br /><strong>URL:</strong> <a href="https://appsignal.com">https://appsignal.com</a>
+</p>
+
+<div>AppSignal is seeking a new product developer. You'll be joining a small team of developers and designers working to enhance AppSignal and make it an even better product.</div><div>
+<br>Our product assists thousands of developers in monitoring their web applications from A to Z. Our product alerts developers if something goes wrong and provides debugging insights to get to the root of issues.</div><div>
+<br>AppSignal's features cover errors, performance, uptime, metrics, logging, and more. We support various programming languages (Ruby, Node.js, JavaScript, Elixir, Python, Go).<br><br>
+</div><div>We're self-funded, profitable, 100% remote, and strive to be nice to our coworkers and customers. Read our hiring FAQ for more information on how our business operates.</div><h1>The role</h1><div>The product team continuously (re)developing monitoring features, improving existing features, enhancing the design and consistency, and ensuring our product operates seamlessly for users.</div><div>
+<br>You'll be part of the team working on the AppSignal product. You'll write React, build pages and components, and touch some CSS (we have a design system built on TailwindCSS).</div><div>
+<br>We deliver quickly, working closely with the design, business, and development teams. It's important to note that our codebase has a considerable surface area; this isn't a new product. The development challenges are interesting, and we're open to fresh patterns and ideas to enhance our application's structure.</div><h1>The Tech Stack</h1><ul>
+<li>Our product was initially built with <strong>Ruby on Rails</strong> (knowing Rails is a plus, but not required)</li>
+<li>
+<strong>React</strong> has gradually taken its place and now covers most of our app.</li>
+<li>We use a <strong>GraphQL API</strong>
+</li>
+<li>We store data in <strong>MongoDB</strong> and <strong>ClickHouse</strong>.</li>
+<li>We've created a design system using <strong>TailwindCSS</strong>
+</li>
+<li>We employ headless React components (RadixUI, Tanstack) to create reusable components.</li>
+</ul><div>
+<br>The rest of AppSignal employs various other technologies to handle the 200 billion+ requests our customers monitor monthly.</div><div><br></div><h1>Our workflow and tools</h1><div>AppSignal operates in 8-week cycles. The product team typically dedicates 6 weeks to one or two projects and reserves 2 weeks as a cooldown period for bug fixes, small issues, and preparing for the next cycle.</div><div>
+<br>Company-wise, we use these tools for communication and project management:</div><ul>
+<li>
+<strong>Basecamp</strong> for asynchronous communication within the company</li>
+<li>
+<strong>Github</strong> (Projects) to manage our code and technical projects</li>
+<li>
+<strong>Slack</strong> for direct messages or small group chats</li>
+<li>
+<strong>Airtable</strong> to keep track of information</li>
+</ul><div>We hold a company-wide call once a week, followed by your team call, and other project-related calls are kept to a minimum.</div><h1>What We Offer</h1><ul>
+<li>Salary is dependent on experience and the hiring approach (more details in our <a href="https://www.appsignal.com/jobs/faq/">FAQ about remote hiring</a>
+</li>
+<li>An annual personal budget of €1,200 for additional gear, conferences, and learning</li>
+<li>A loaned MacBook for doing work</li>
+<li>Remote work from anywhere as long as you align with our timezone (CEST)</li>
+<li>A monthly budget for renting an office/workspace nearby</li>
+<li>Unlimited vacation policy (on average, employees take 35 days a year)</li>
+<li>No micromanagement. You're an adult. Feel free to wrap up early if your mind is tired. Hit the gym when you desire. Take care of errands, or go for a walk.</li>
+<li>A team of friendly individuals to call your colleagues</li>
+<li>We're open to a part-time (4 day) work-week</li>
+</ul><h1>The Application Process</h1><ul>
+<li>
+<strong>Round 1</strong> consists of a brief interview to get acquainted and a short assignment to evaluate your programming skills. You'll receive compensation for time spent on this assignment (gift card or cash).</li>
+<li>
+<strong>Round 2</strong> involves an interview with your future coworkers from the product team.</li>
+<li>
+<strong>Round 3</strong> is a more in-depth interview. By this stage, we're enthusiastic about you and want to provide extensive context about the role.</li>
+<li>
+<strong>Round 4</strong> entails a culture check with the team, in addition to finalizing the hiring details</li>
+</ul><h1>Managing Expectations</h1><div>Our hiring process is designed to be stress-free. We won't subject you to pressure or tricky questions. Let us know if you have anything we can consider (neurodiversity, accessibility, etc.).</div><div>
+<br>We'll communicate our thoughts on your prospects and salary range as soon as possible. We'll inform you if you're in a hiring round with 10 other candidates or just 2. We'll send a preliminary offer letter once we can gauge your seniority level. We hope for transparency from you as well.<br><br>
+</div><h1>Not sure if you should apply?</h1><div>If you're unsure about having enough experience for this role, please apply! We'd be disappointed to overlook a great candidate because you doubt your abilities. We're always happy to provide you feedback on your application and skill level.</div><h1>Looking Forward to Meeting You!</h1><div>Our team is excited about the opportunity to meet you. Feel free to ask us any questions (<a href="mailto:wes@appsignal.com">wes@appsignal.com</a>); we hope to see your application soon!<br><br>
+</div><div>You may also reach out to one of our counselors if you feel more comfortable with that. Your questions will stay confidential, not be shared internally, and will certainly not influence your hiring chances. You can reach Jeff (he/him) via <a href="mailto:jeff@appsignal.com">jeff@appsignal.com</a> or Jelte (they/them) via <a href="mailto:jelte@appsignal.com">jelte@appsignal.com</a>.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/appsignal-product-developer-react">https://weworkremotely.com/remote-jobs/appsignal-product-developer-react</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/7867/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Appy Ventures</h5>
+                    <h3> Full-stack developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/appy-ventures-full-stack-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0064/7867/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Farnham
+    <br /><strong>URL:</strong> <a href="https://appyventures.com/">https://appyventures.com/</a>
+</p>
+
+<div>
+<strong>Full-stack developer for a fast growing UK company<br></strong><br>
+</div><div>Why you should apply<br><br>
+</div><div>Creating tech is fun, especially if done with a great remote first company that understands how to create an awesome culture, fast track your learning and personal development.<br><br>
+</div><div>We’re scaling and want to find our next A-Player - here’s what you can expect:<br><br>
+</div><ul>
+<li>Live where you want and work at your own pace/ timezone (with UK overlap)</li>
+<li>Great paid holidays (of course) and local bank holidays</li>
+<li>Learn and grow from a fun/ supportive/ experienced team</li>
+<li>Be part of a rocketing business creating a product to be proud of<br><br>
+</li>
+</ul><div>What you will do<br><br>
+</div><div>
+<br>We are currently looking for a Full-stack developer that will be working as part of a team of programmers across a variety of products. This is a full-time, fully remote role. <br><br>
+</div><div>What you'll do:<br><br>
+</div><ul>
+<li>Work with development teams and product managers to ideate software solutions</li>
+<li>Design client-side and server-side architecture</li>
+<li>Build the front-end of applications through appealing visual design</li>
+<li>Develop and manage well-functioning databases and applications</li>
+<li>Write effective APIs</li>
+<li>Test software to ensure responsiveness and efficiency</li>
+<li>Troubleshoot, debug and upgrade software</li>
+<li>Create security and data protection settings</li>
+<li>Build features and applications with a mobile responsive design</li>
+<li>Write technical documentation</li>
+<li>be able to be well under pressure and to deliver to tight timescales</li>
+<li>improve overall software quality whilst also helping fellow team members<br><br>
+</li>
+</ul><div>What you'll bring:<br><br>
+</div><ul>
+<li>5+ years proven experience as a Full-Stack Developer </li>
+<li>Familiarity with PHP (Laravel would be a plus)</li>
+<li>Familiarity with a Javascript framework (React/NodeJS would be a plus)</li>
+<li>Familiarity with databases (e.g. MySQL, MongoDB) and web servers (e.g. Apache)</li>
+<li>Ability and enthusiasm to push for new improvements across the code base and influence/learn from a large community of developers</li>
+<li>Ability to help in coaching and mentoring junior members of the team</li>
+<li>Excellent communication and teamwork skills</li>
+<li>Great attention to detail</li>
+<li>Organizational skills</li>
+<li>An analytical mind<br><br>
+</li>
+</ul><div>How to apply</div><div><br></div><div>We like to keep things simple so our hiring process is straightforward and fast, all you need to do to get things started is fill in the application form on the link.<br><br>
+</div><div>We like to keep things simple so our hiring process is straightforward and fast:</div><div><br></div><ol>
+<li>1-1 interview with our tech lead</li>
+<li>Quick technical test</li>
+<li>1-1 call with our CEO and start your journey<br><br>
+</li>
+</ol><div>That’s it! We move fast and want the best to join us - look forward to meeting you soon.<br><br>
+</div><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/appy-ventures-full-stack-developer">https://weworkremotely.com/remote-jobs/appy-ventures-full-stack-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/2406/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +178,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-java-developers-cyprus-greece-or-remote" align="right" target="_blank">Apply</a>
@@ -77,71 +245,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/0909/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>TempMee</h5>
-                    <h3> React Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>14 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/tempmee-react-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0084/0909/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Miami, FL, United States
-    <br /><strong>URL:</strong> <a href="https://tempmee.com">https://tempmee.com</a>
-</p>
-
-<div>
-<strong>What you will do<br></strong><br>
-</div><ul>
-<li>Build and maintain multiple tools in ReactJS and React Native</li>
-<li>Research novel solutions to nuanced and often unchartered engineering challenges</li>
-<li>Work with designers, product managers, and engineers to design impactful products</li>
-<li>Perform and uphold code best practices.</li>
-<li>Produce high-quality code that raises the bar for all engineering team members</li>
-<li>Improve web applications for performance and scalability</li>
-<li>Perform quality assurance/debugging procedures to provide a secure and functional delivery</li>
-<li>Implement testing protocols for managing successful deployments across development, staging, and production environments</li>
-<li>Recommend system solutions by comparing the advantages and disadvantages of custom development and purchasing alternatives</li>
-</ul><div>
-<br><strong>Who you are (Minimum qualifications)</strong>
-</div><ul>
-<li>5 years of experience with software development in one or more programming languages</li>
-<li>3 years of experience testing, maintaining or launching software products, and 1 year of experience with software design and architecture</li>
-<li>Excellent programming skills in JavaScript</li>
-<li>Knowledge of basic visual and user experience principles</li>
-<li>Experience in building pixel-perfect design implementation</li>
-<li>Experience with native mobile platforms iOS and/or Android</li>
-</ul><div><br></div><div><strong>Doesn’t hurt that we also offer….</strong></div><ul>
-<li>A high-growth, a friendly and engaging work environment with the potential for endless career opportunities</li>
-<li>Remote work environment</li>
-<li>Flexible work hours and arrangements</li>
-<li>Market competitive salary</li>
-</ul><div>About us:  TempMee is changing the way the world works - starting with the Dental Industry! We are an ambitious and motivated tech startup that has secured multiple rounds of venture backing to create an Uber-like platform/app to disrupt the dental staffing industry.<br><br>
-</div><div>After launching in late 2019, we have already built the largest community of nationwide hygienists and dental offices. We are in the process of rapidly expanding the capabilities and functions of our app to capture even more market share, and we need high-quality, talented and driven individuals to come aboard and help make TempMee a Unicorn (Unicorn=Start-ups evaluated at $1 billion within five years of launch).<br><br>
-</div><div>Learn More: <a href="https://tempmee.com/">https://tempmee.com/<br></a><br>
-</div><div>
-<em>We are an equal-opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.<br></em><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tempmee-react-developer">https://weworkremotely.com/remote-jobs/tempmee-react-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0103/5394/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -152,7 +255,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>37 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rebelcode-ltd-full-stack-wordpress-developer" align="right" target="_blank">Apply</a>
@@ -247,7 +350,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>71 days ago</text>
+                <text>74 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2" align="right" target="_blank">Apply</a>
@@ -300,7 +403,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>71 days ago</text>
+                <text>74 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2" align="right" target="_blank">Apply</a>
@@ -362,7 +465,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>783 days ago</text>
+                <text>786 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -418,6 +521,67 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1790293/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Litify</h5>
+                    <h3>Senior Salesforce Developer</h3>
+                </td>
+                <td width="300">
+                    <code>CSS,html,javascript,salesforce</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-salesforce-developer-1790293" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <section class='"pdf_page"'>
+<div class='"textlayer"'>Litify is looking for a Senior Salesforce Developer to join our Product &amp; Engineering team. As a Senior Engineer, you will be an essential part of a high-performing Agile development team, building innovative software that is transforming the legal industry. The ideal candidate thrives in a hands-on, focused, and productive team-oriented environment and has experience working in an Agile software development lifecycle.</div>
+<div class='"textlayer"'> </div>
+<div class='"textlayer"'>This is a remote position, working from anywhere in the United States.</div>
+<div class='"textlayer"'> </div>
+<div class='"textlayer"'><strong>In this role, you will: </strong></div>
+<div class='"textlayer"'>
+<ul style="">
+<li style="">Function in 2-week sprint cycles while demonstrating the ability to problem-solve and research solutions independently</li>
+<li style="">Write high-quality code with test coverage that accounts for both positive and negative test cases</li>
+<li style="">Be a technical leader in the department, helping steer development processes and procedures</li>
+<li style="">Design and create scalable, well-architected solutions that conform to best practices, meet specified requirements and achieve business objectives</li>
+<li style="">Advise Product leadership on the complexity, risk, and level of effort required to deliver product features</li>
+<li style="">Lead technical meetings and collaborate with teammates to encourage the contribution of ideas, drive understanding of solution architecture, ensure quality, and encourage improvements in process and overall product </li>
+</ul>
+</div>
+<div class='"textlayer"'><strong>To be successful in this role, you have (required): </strong></div>
+<div class='"textlayer"'>
+<ul style="">
+<li style="">Passion for software development</li>
+<li style="">Collaborative nature with strong interpersonal and communication skills</li>
+<li style="">Excellent problem solving, and decision-making skills</li>
+<li style="">Bachelor’s degree in Computer Science or a related field or equivalent professional experience</li>
+<li style="">5+ years of hands-on development experience </li>
+<li style="">Expert-level knowledge of Salesforce, and working knowledge of its proprietary languages, including Apex, Aura Components, and Lightning Web Components, or comparable demonstrated experience with OOP and client-side development (HTML, CSS, JavaScript and development with JavaScript frameworks and libraries)</li>
+</ul>
+<p><strong>Nice-to-have: </strong></p>
+<ul style="">
+<li style="">2+ years of senior engineering experience or equivalent experience leading software development teams and mentoring junior developers</li>
+<li style="">Experienced in Agile/SCRUM and TDD development methodologies</li>
+<li style="">Experience developing managed packages on the Salesforce Platform as a part of the ISV Partner Program </li>
+</ul>
+<p>Disclosure: <br>The estimated pay range for this role is $125,000-140,000. You may also be offered equity grant and benefits.</p>
+<p>Our salary ranges are based on paying competitively for our size and industry, and are one part of many compensation, benefits and other reward opportunities we provide. Individual pay rate decisions are based on a number of factors, including qualifications for the role, experience level, skill set, and balancing internal equity relative to peers at the company.</p>
+<p>The range above is for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced (or more senior) than this job description as posted. If that ends up being the case, the updated salary range will be communicated to you as a candidate.</p>
+</div>
+</section>
+<img src="https://remotive.com/job/track/1790293/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1783538/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -428,7 +592,7 @@
                     <code>backend,docker,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-ror-developer-mid-level-1783538" align="right" target="_blank">Apply</a>
@@ -498,7 +662,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -573,7 +737,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -683,7 +847,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Future of Crypto&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to <a href="https://blog.kraken.com/crypto-education/security-at-kraken" class="postings-link">industry-leading security</a>, <a href="https://blog.kraken.com/category/crypto-education" class="postings-link">crypto education</a>, and <a href="https://blog.kraken.com/crypto-education/support-at-kraken" class="postings-link">world-class client support</a> through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://futures.kraken.com/wallets" class="postings-link">Kraken Futures</a>.</div><div><br></div><div>Become a Krakenite and build the future of crypto!</div><div><br></div><div><b style="font-size: 24px">Proof of work</b></div><div><br></div><div><b style="font-size: 18px">The team</b></div><div><br></div><div><span style="font-size: 11pt">The Business Solutions team delivers technology solutions to our internal stakeholders.&nbsp; Our group is a partner to business as we look to drive scalability, optimization, integrated efficiencies, and audit-sound developments to our tech stack.&nbsp;&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">The </span><span style="font-size: 11pt">Sr. NetSuite Developer</span><span style="font-size: 11pt"> will join the Business Solutions team to be our partner with the Accounting teams. The </span><span style="font-size: 11pt">Sr. NetSuite Developer</span><span style="font-size: 11pt"> will own the technology solutions our accounting teams rely on to function. This includes designing, developing, customizing, documentation, training, reporting, stabilization and maintaining functionalities within the NetSuite platform and other financial systems. This role will also partner with various cross functional teams across Security, IT &amp; Engineering to design, develop and implement solutions involving integrations, data and analytics for the Accounting and Finance business teams.</span></div><div><br></div><div><span style="font-size: 11pt">The successful candidate will bring a strong customer service approach to enhancing and maintaining the security, data, and application integrity and performance of our financial-related applications. Additionally, this position will participate in the delivery of Financial IT services and projects and ensure internal client satisfaction.&nbsp;</span></div></div><div class="section page-centered"><div><h3>The opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Provide day-to-day administration and maintenance of critical business systems including but not limited to NetSuite, Blackline etc.&nbsp;</li><li>Experience writing and managing NetSuite scripts, workflows and integrations using SuiteScript, SuiteFlows, Web Services/SuiteTalk or other related tools (MUST have)</li><li>Responsible for owning system configuration and integration - configure fields, workflows, roles/permissions, custom rules, reports, scripts, and dashboards&nbsp;</li><li>Propose improvements to the NetSuite ERP system and the business systems that interface with it.&nbsp;</li><li>Work on implementations of various customizations within NetSuite, including but not limited to creating custom segments, custom fields, records, forms, workflows etc.</li><li>Create and maintain integrations between NetSuite and other systems</li><li>Develop and maintain custom script and workflow solutions using modern coding practices</li><li>Contributes to cross-functional projects that involve integration between back-office applications and other applications&nbsp;</li><li>Work with business stakeholders to understand current state business processes, and identify gaps/ opportunities for improvement within processes &amp; applications.</li><li>Take part in business project intake and prioritization meetings with business stakeholders.</li><li>Lead and execute requirements gathering sessions with Finance stakeholders.</li><li>Drive or participate in effort estimation, design, configuration, and testing of features and projects.</li><li>Collaborate with System Implementation(SI) partners on various outsourced projects to provide co-design and co-develop solutions.&nbsp;</li><li>Collaborate with Enterprise Integration &amp; Data warehouse teams on cross functional projects involving integrations.</li><li>Work closely with business to optimize business processes and drive efficiencies in the day to day operations and the functioning of the accounting office.&nbsp;</li><li>Provide finance system administration to support business users (e.g., developing workflows, page layouts, formulas, approval processes) for running their operations.</li><li>Communicate, log, and resolve planned or unplanned system downtime and system support issues</li><li>Mentor junior resources within the team on business analysis and system administration of Financial Systems</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>6+ years of working experience as a NetSuite Developer</li><li>Experience with NetSuite OneWorld administration, configuration, and 3rd party integrations</li><li>4+ Year of experience in NetSuite technical role including development with JavaScript , SuiteScript 2.0, SuiteFlow (workflow automation) and SuiteTalk (web services API) of NetSuite for a large enterprise&nbsp;</li><li>6+ years of administration &amp; configuration experience in enterprise financial and accounting systems</li><li>Netsuite ERP certifications(MUST have)&nbsp;</li><li>4-6 medium-scale or 2-3 enterprise ERP implementations in a consultant-related role</li><li>Demonstrate full understanding of the NetSuite stack and experience with NetSuite modules (Order to Cash, Revenue Recognition (606), Procurement, GL, AP, AR, FA, etc.)&nbsp;</li><li>Thorough understanding of finance business processes (AR, AP, GL,P2P, Treasury, Tax, etc), systems(NetSuite, Oracle, SAP, Blackline, etc) and operations (RevRec, Book Closing, etc).</li><li>Ability to articulate technical issues to a non-technical audience&nbsp;</li><li>Experience of working in a hyper growth environment/ large company experience will be a plus.</li><li>Advanced skills in business analysis and technical design with the capability to capture requirements and make recommendations on the best way to implement the requirements to meet overall business goals&nbsp;</li><li>Experience working on complex/ transformational projects for Finance business involving sensitive data, integrations with 3rd party systems and services.</li><li>A self-starter with the ability to build relationships &amp; credibility with team, stakeholders and management while working remotely.</li><li>Demonstrate effective communication skills through facilitation of critical meetings, documentation and presentations to management &amp; stakeholders.</li><li>Experience working with compliance, risk and audit teams to conduct SOX, SOC type of audits will be required.</li><li>Experience working with teams using agile methodologies (Sprint) and ability to prioritize and manage ad hoc projects will be critical.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 14.6667px">Location Tagging: #US #LI-AN1 #LI-Remote #Canada</span></div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/3558e796-8434-469d-b27e-f5b07392073f/apply">Apply for this job</a></div>
+                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Future of Crypto&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to <a href="https://blog.kraken.com/crypto-education/security-at-kraken" class="postings-link">industry-leading security</a>, <a href="https://blog.kraken.com/category/crypto-education" class="postings-link">crypto education</a>, and <a href="https://blog.kraken.com/crypto-education/support-at-kraken" class="postings-link">world-class client support</a> through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://futures.kraken.com/wallets" class="postings-link">Kraken Futures</a>.</div><div><br></div><div>Become a Krakenite and build the future of crypto!</div><div><br></div><div><b style="font-size: 24px">Proof of work</b></div><div><br></div><div><b style="font-size: 18px">The team</b></div><div><br></div><div><span style="font-size: 11pt">The Business Solutions team delivers technology solutions to our internal stakeholders.&nbsp; Our group is a partner to business as we look to drive scalability, optimization, integrated efficiencies, and audit-sound developments to our tech stack.&nbsp;&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">The Sr. NetSuite Developer will join the Business Solutions team to be our partner with the Accounting teams. The Sr. NetSuite Developer will own the technology solutions our accounting teams rely on to function. This includes designing, developing, customizing, documentation, training, reporting, stabilization and maintaining functionalities within the NetSuite platform and other financial systems. This role will also partner with various cross functional teams across Security, IT &amp; Engineering to design, develop and implement solutions involving integrations, data and analytics for the Accounting and Finance business teams.</span></div><div><br></div><div><span style="font-size: 11pt">The successful candidate will bring a strong customer service approach to enhancing and maintaining the security, data, and application integrity and performance of our financial-related applications. Additionally, this position will participate in the delivery of Financial IT services and projects and ensure internal client satisfaction.&nbsp;</span></div></div><div class="section page-centered"><div><h3>The opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Provide day-to-day administration and maintenance of critical business systems including but not limited to NetSuite, Blackline etc.&nbsp;</li><li>Experience writing and managing NetSuite scripts, workflows and integrations using SuiteScript, SuiteFlows, Web Services/SuiteTalk or other related tools (MUST have)</li><li>Responsible for owning system configuration and integration - configure fields, workflows, roles/permissions, custom rules, reports, scripts, and dashboards&nbsp;</li><li>Propose improvements to the NetSuite ERP system and the business systems that interface with it.&nbsp;</li><li>Work on implementations of various customizations within NetSuite, including but not limited to creating custom segments, custom fields, records, forms, workflows etc.</li><li>Create and maintain integrations between NetSuite and other systems</li><li>Develop and maintain custom script and workflow solutions using modern coding practices</li><li>Contributes to cross-functional projects that involve integration between back-office applications and other applications&nbsp;</li><li>Work with business stakeholders to understand current state business processes, and identify gaps/ opportunities for improvement within processes &amp; applications.</li><li>Take part in business project intake and prioritization meetings with business stakeholders.</li><li>Lead and execute requirements gathering sessions with Finance stakeholders.</li><li>Drive or participate in effort estimation, design, configuration, and testing of features and projects.</li><li>Collaborate with System Implementation(SI) partners on various outsourced projects to provide co-design and co-develop solutions.&nbsp;</li><li>Collaborate with Enterprise Integration &amp; Data warehouse teams on cross functional projects involving integrations.</li><li>Work closely with business to optimize business processes and drive efficiencies in the day to day operations and the functioning of the accounting office.&nbsp;</li><li>Provide finance system administration to support business users (e.g., developing workflows, page layouts, formulas, approval processes) for running their operations.</li><li>Communicate, log, and resolve planned or unplanned system downtime and system support issues</li><li>Mentor junior resources within the team on business analysis and system administration of Financial Systems</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>6+ years of working experience as a NetSuite Developer</li><li>Experience with NetSuite OneWorld administration, configuration, and 3rd party integrations</li><li>4+ Year of experience in NetSuite technical role including development with JavaScript , SuiteScript 2.0, SuiteFlow (workflow automation) and SuiteTalk (web services API) of NetSuite for a large enterprise&nbsp;</li><li>6+ years of administration &amp; configuration experience in enterprise financial and accounting systems</li><li>Netsuite ERP certifications(MUST have)&nbsp;</li><li>4-6 medium-scale or 2-3 enterprise ERP implementations in a consultant-related role</li><li>Demonstrate full understanding of the NetSuite stack and experience with NetSuite modules (Order to Cash, Revenue Recognition (606), Procurement, GL, AP, AR, FA, etc.)&nbsp;</li><li>Thorough understanding of finance business processes (AR, AP, GL,P2P, Treasury, Tax, etc), systems(NetSuite, Oracle, SAP, Blackline, etc) and operations (RevRec, Book Closing, etc).</li><li>Ability to articulate technical issues to a non-technical audience&nbsp;</li><li>Experience of working in a hyper growth environment/ large company experience will be a plus.</li><li>Advanced skills in business analysis and technical design with the capability to capture requirements and make recommendations on the best way to implement the requirements to meet overall business goals&nbsp;</li><li>Experience working on complex/ transformational projects for Finance business involving sensitive data, integrations with 3rd party systems and services.</li><li>A self-starter with the ability to build relationships &amp; credibility with team, stakeholders and management while working remotely.</li><li>Demonstrate effective communication skills through facilitation of critical meetings, documentation and presentations to management &amp; stakeholders.</li><li>Experience working with compliance, risk and audit teams to conduct SOX, SOC type of audits will be required.</li><li>Experience working with teams using agile methodologies (Sprint) and ability to prioritize and manage ad hoc projects will be critical.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 14.6667px">Location Tagging: #US #LI-AN1 #LI-Remote #Canada</span></div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/3558e796-8434-469d-b27e-f5b07392073f/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1083,104 +1247,6 @@
 <p><span style="font-weight: 400;"><br></span><strong>Compensation</strong><span style="font-weight: 400;">:</span></p>
 <p>We are happy to pay salaries in either 100% fiat or any mix of fiat and/or crypto. For more information regarding benefits at Status: https://people-ops.status.im/tag/perks/</p>
 </div>
-</div>
-
-    
-
-    
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Status</h5>
-                    <h3>Senior React Native UI Developer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=3694380&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <div id="external-jobs-show-description" class="external-panel__trix-content external-panel__trix-content--colored external-panel__trix-content--lead-in">
-<div data-react-class="external/careersPage/RenderPlyrVideo" data-react-props="{&quot;htmlString&quot;:&quot;\u003cdiv\u003eWe're growing our mobile development team. Join us in building a fully decentralized, censorship resistant, privacy first group chat platform that leverages the Ethereum blockchain to enable individuals and groups worldwide to communicate and transact with one another freely without restriction.\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003eStatus is looking for an UI Engineer to join our mobile development team who will work closely with Design to transform UI specifications into beautiful, smooth, performant and near pixel perfect interactive interfaces. The ideal person will be comfortable working on features end-to-end\u003ca href=\&quot;https://github.com/status-im/status-go\&quot;\u003e,\u003c/a\u003e has an eye for design and visual detail, enjoys working with designers as well as developers, and who can transform reused UI patterns such as list items into reusable UI components.&nbsp; The ideal candidate will love finessing UI implementations to the highest levels of quality and will care deeply about things like code cleanliness, reusability, maintainability, performance, and UI layout accuracy - as well as doing whatever needed to create a best-in-class user experience for Status’s users.\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003eWillingness to both learn and share your knowledge with others, product-orientation, and making sure all team members are aligned when developing new features, will make you successful in the role. Status is a fast-paced, flat organization, working on cutting edge blockchain and decentralized messaging technologies in a dynamic landscape. We look forward to meeting you!\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e&quot;}" data-react-cache-id="external/careersPage/RenderPlyrVideo-0">
-<div>
-<h3><strong>The role</strong>&nbsp;</h3>
-<div>We're growing our mobile development team. Join us in building a fully decentralized, censorship resistant, privacy first group chat platform that leverages the Ethereum blockchain to enable individuals and groups worldwide to communicate and transact with one another freely without restriction.<br><br></div>
-<div>Status is looking for an UI Engineer to join our mobile development team who will work closely with Design to transform UI specifications into beautiful, smooth, performant and near pixel perfect interactive interfaces. The ideal person will be comfortable working on features end-to-end<a href="https://github.com/status-im/status-go">,</a>&nbsp;has an eye for design and visual detail, enjoys working with designers as well as developers, and who can transform reused UI patterns such as list items into reusable UI components.&nbsp; The ideal candidate will love finessing UI implementations to the highest levels of quality and will care deeply about things like code cleanliness, reusability, maintainability, performance, and UI layout accuracy - as well as doing whatever needed to create a best-in-class user experience for Status’s users.<br><br></div>
-<div>Willingness to both learn and share your knowledge with others, product-orientation, and making sure all team members are aligned when developing new features, will make you successful in the role. Status is a fast-paced, flat organization, working on cutting edge blockchain and decentralized messaging technologies in a dynamic landscape. We look forward to meeting you!</div>
-</div>
-</div>
-</div>
-<h3 id="responsibilities-heading" class="external-panel__heading">What we ask from you</h3>
-<div id="responsibilities-body" class="external-panel__trix-content external-panel__trix-content--colored">
-<div data-react-class="external/careersPage/RenderPlyrVideo" data-react-props="{&quot;htmlString&quot;:&quot;\u003cul\u003e\n\u003cli\u003eImplement new features end to end.&nbsp;\u003c/li\u003e\n\u003cli\u003eCollaborate closely with the Design team around both the designs and the implementation of the designs.\u003c/li\u003e\n\u003cli\u003eCraft eye catching UIs and propose improvements to our code base.\u003c/li\u003e\n\u003cli\u003eSense checking with team and prioritizing work from our backlog.\u003c/li\u003e\n\u003c/ul\u003e&quot;}" data-react-cache-id="external/careersPage/RenderPlyrVideo-0">
-<div>
-<ul>
-<li>Implement new features end to end.&nbsp;</li>
-<li>Collaborate closely with the Design team around both the designs and the implementation of the designs.</li>
-<li>Craft eye catching UIs and propose improvements to our code base.</li>
-<li>Sense checking with team and prioritizing work from our backlog.</li>
-</ul>
-</div>
-</div>
-</div>
-<h3 id="skills-heading" class="external-panel__heading">What you bring</h3>
-<div id="skills-body" class="external-panel__trix-content external-panel__trix-content--colored">
-<div data-react-class="external/careersPage/RenderPlyrVideo" data-react-props="{&quot;htmlString&quot;:&quot;\u003cul\u003e\n\u003cli\u003eExperience implementing first class mobile user interfaces.\u003c/li\u003e\n\u003cli\u003eEye for detail; point us to completed implementation work.\u003c/li\u003e\n\u003cli\u003eExperience with native React Native UI development.&nbsp;\u003c/li\u003e\n\u003cli\u003e3+ years of experience working on complex mobile applications.\u003cbr\u003e\u003cbr\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\u003cdiv\u003e\u003cstrong\u003eBonus points if you have\u003c/strong\u003e\u003c/div\u003e\u003cul\u003e\n\u003cli\u003eExperience with native Android UI development.\u003c/li\u003e\n\u003cli\u003eExperience with native iOS UI development.\u003c/li\u003e\n\u003cli\u003eStrong experience with CSS and CSS Flexbox Layout.\u003c/li\u003e\n\u003cli\u003eSome experience with any of the following programming languages: Go, Clojure, ClojureScript, Java in Android development, Objective C, Kotlin, Swift.\u003c/li\u003e\n\u003cli\u003eExposure to designing structured UI components and libraries.&nbsp;\u003c/li\u003e\n\u003cli\u003eAn interest in decentralization and blockchains.\u003c/li\u003e\n\u003c/ul\u003e&quot;}" data-react-cache-id="external/careersPage/RenderPlyrVideo-0">
-<ul>
-<li>Experience implementing first class mobile user interfaces.</li>
-<li>Eye for detail; point us to completed implementation work.</li>
-<li>Experience with native React Native UI development.&nbsp;</li>
-<li>3+ years of experience working on complex mobile applications.</li>
-<li>Prior experience <strong>or</strong> enthusiasm to learn Clojure / Clojurescript is a must have!</li>
-</ul>
-<h3>Bonus points if you have</h3>
-<ul>
-<li>Experience with native Android UI development.</li>
-<li>Experience with native iOS UI development.</li>
-<li>Strong experience with CSS and CSS Flexbox Layout.</li>
-<li>Some experience with any of the following programming languages: Go, Clojure, ClojureScript, Java in Android development, Objective C, Kotlin, Swift.</li>
-<li>Exposure to designing structured UI components and libraries.&nbsp;</li>
-<li>An interest in decentralization and blockchains.</li>
-</ul>
-<h3><strong>Compensation</strong></h3>
-<p><span style="font-weight: 400;">We are happy to pay in either 100% fiat or any mix of fiat and/or crypto. For more information regarding benefits at Status: </span><a href="https://people-ops.status.im/tag/perks/"><span style="font-weight: 400;">https://people-ops.status.im/tag/perks/</span></a></p>
-</div>
-</div>
-<h3 id="benefits-heading" class="external-panel__heading">Something about us</h3>
-<div id="benefits-body" class="external-panel__trix-content external-panel__trix-content--colored">
-<div data-react-class="external/careersPage/RenderPlyrVideo" data-react-props="{&quot;htmlString&quot;:&quot;\u003cdiv\u003eWe care deeply about open source software, and our organizational structure does away with a strict hierarchy and fixed work hours. We believe in working with a high degree of autonomy while supporting the organisation's priorities.\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cul\u003e\n\u003cli\u003eWe are Remote and Decentralized.\u003c/li\u003e\n\u003cli\u003eWe are 70+ employees spread across 30+ different countries\u003c/li\u003e\n\u003cli\u003eWe are driven by shared \u003ca href=\&quot;https://our.status.im/our-principles/\&quot;\u003eprinciples\u003c/a\u003e and believe in complete transparency. That's why everything we do is completely public to the entire community. You can view our \u003ca href=\&quot;https://github.com/status-im/\&quot;\u003edevelopment\u003c/a\u003e, \u003ca href=\&quot;https://www.youtube.com/channel/UCFzdJTUdzqyX4e9dOW7UpPQ\&quot;\u003eTown Halls\u003c/a\u003e, and \u003ca href=\&quot;https://discuss.status.im/\&quot;\u003econversations\u003c/a\u003e.\u003c/li\u003e\n\u003c/ul\u003e\u003cdiv\u003e\n\u003cbr\u003eWant to know more? You can follow along on \u003ca href=\&quot;https://our.status.im/\&quot;\u003eOur Status\u003c/a\u003e.\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003e\u003cstrong\u003e\u003cem\u003e\u003cbr\u003eOur community comes from all walks of life and so do we. We work with great people from a wide variety of backgrounds, not just because it’s the right thing to do, but because it makes our project stronger. If you share our values, you will be right at home.\u003c/em\u003e\u003c/strong\u003e\u003c/div\u003e&quot;}" data-react-cache-id="external/careersPage/RenderPlyrVideo-0">
-<div>We care deeply about open source software, and our organizational structure does away with a strict hierarchy and fixed work hours. We believe in working with a high degree of autonomy while supporting the organisation's priorities.</div>
-<ul>
-<li>We are Remote and Decentralized.</li>
-<li>We are 150+ employees spread across 30+ different countries</li>
-<li>We are driven by shared&nbsp;<a href="https://our.status.im/our-principles/">principles</a>&nbsp;and believe in complete transparency. That's why everything we do is completely public to the entire community. You can view our&nbsp;<a href="https://github.com/status-im/">development</a>,&nbsp;<a href="https://www.youtube.com/channel/UCFzdJTUdzqyX4e9dOW7UpPQ">Town Halls</a>, and&nbsp;<a href="https://discuss.status.im/">conversations</a>.</li>
-</ul>
-<div><strong><em><br>Our community comes from all walks of life and so do we. We work with great people from a wide variety of backgrounds, not just because it’s the right thing to do, but because it makes our project stronger. If you share our values, you will be right at home.</em></strong></div>
-</div>
-</div>
-<div id="about-body" class="external-panel__trix-content external-panel__trix-content--colored">
-<div><br>Follow along on&nbsp;<a href="https://our.status.im/">Our Status</a>.&nbsp;</div>
 </div>
 
     
