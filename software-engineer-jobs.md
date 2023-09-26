@@ -10,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/access-genie-staff-software-engineer-tech-lead-python" align="right" target="_blank">Apply</a>
@@ -141,7 +141,7 @@
 <p>For more information on how we collaborate worldwide, from leadership in our relatively flat organization to start-to-finish ownership, check out <u><a href="https://duckduckgo.com/assets/hiring/how_we_work.pdf" rel="noopener">DuckDuckGo Culture: How We Work.</a></u> </p>
 <p><br></p>
 <p><strong>Compensation</strong> </p>
-<p>Annual compensation: <strong>$170,000</strong>&nbsp;<strong>USD</strong> and stock options.&nbsp;Compensation is the same within a professional level, regardless of geographic location or functional area, and the compensation for each professional level is transparent across the organization.</p>
+<p>Annual compensation: <strong>$176,000</strong>&nbsp;<strong>USD</strong> and stock options.&nbsp;Compensation is the same within a professional level, regardless of geographic location or functional area, and the compensation for each professional level is transparent across the organization.</p>
 <p><br></p>
 <p><strong>Hiring Process</strong> </p>
 <p>Hiring works best when it's a two-way street. Learn how we help you get to know DuckDuckGo and envision your future role here. Find out more about <u><a href="https://duckduckgo.com/assets/hiring/how_we_hire.pdf" rel="noopener">how we hire</a></u>. </p>
@@ -427,6 +427,93 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
+    
+
+    
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
+                    <h3>Software Engineer Distributed Systems Testing</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=5310503&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <div class="careers-block__trix external-panel text-left">
+<div>&nbsp;</div>
+<div>
+<p><strong>About Waku</strong></p>
+<p>We are building Waku as a public good infrastructure. Waku is uncompromising Web3 communication at scale. It is a decentralized, censorship-resistant, privacy-preserving communication network that enables anyone to send and receive messages without worrying about surveillance or deplatforming.</p>
+<p>We are enabling Ethereum builders to create new projects with a fully decentralized architecture, think dApp to Wallet notifications, NFT marketplaces, censorship-resistant chat, layer-2 and more.&nbsp;</p>
+<p>Waku enables a variety of complex use cases and applications. To facilitate the adoption of Waku, you will design and implement application protocols to provide to dapp developers as off-the-shelf SDKs.</p>
+<p><a href="https://boards.greenhouse.io/embed/waku.org">Waku.org&nbsp;</a></p>
+<p><strong>Key responsibilities:</strong></p>
+</div>
+<div>
+<ul>
+<li>Design and implement network simulation tools and solutions to validate the functionality and performance of distributed systems.</li>
+<li>Run, analyze, and report on small-scale simulations to test the behavior of a specific protocol change or software implementation, or to simulate a type of attack on the Waku clients.</li>
+<li>Own, maintain and improve the <a href="https://github.com/waku-org/waku-simulator">waku-simulator</a> framework to enable running local simulations of the Waku network.</li>
+<li>Work closely with Waku engineers and researchers to help design and analyze simulations needed to validate assumptions.</li>
+<li>Assist engineers by conducting ad-hoc regression testing, reproducing bugs, and testing bug fixes.</li>
+<li>Be the point of contact within the Waku team for the the Vac/DST (Distributed System Test) Team who is in charge of large scale simulations and QA activities.</li>
+<li>Pre-empt and plan small scale simulations to study the behaviour of Waku clients, identify potential bottlenecks and performance optimization, then handover to DST for large scale simulation to confirm findings.</li>
+<li>Foresee, and help plan and execute any other testing activities that helps ensure the production readiness of Waku, including secure scaling.</li>
+<li>Help provide visibility on testing and simulation output, to ensure that the wider Waku ecosystem is informed of the expected performance of the Waku protocol and software.</li>
+</ul>
+</div>
+<div>
+<p><strong>You ideally will have:</strong></p>
+</div>
+<div>
+<ul>
+<li>A passion for blockchain technology, privacy-preserving technology and decentralization.</li>
+<li>Solid experience with scripting languages (Python, Shell) and a systems language like Rust, C++, Nim, Go.</li>
+<li>Strong foundation in networks and system programming.</li>
+<li>Working knowledge of Docker and POSIX-like systems.</li>
+<li>Algorithm design skills.&nbsp;</li>
+<li>Have a strong alignment to our principles:&nbsp;<a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a>&nbsp;</li>
+</ul>
+<p><strong>Hiring process:</strong></p>
+<ul>
+<li>Call with Talent</li>
+<li>Interview with Waku Research team member or lead</li>
+<li>Take home task (paid)</li>
+<li>Interview with another Waku Research team member or Lead to present home task and discuss further</li>
+<li>Interview with Waku Lead</li>
+</ul>
+<p><strong>Compensation:</strong></p>
+</div>
+<p>We are happy to pay in any mix of fiat/crypto.</p>
+<p><strong>&nbsp;</strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
 
     
 
@@ -914,92 +1001,6 @@
 <h2>Canonical is an equal opportunity employer</h2>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote&nbsp;</p><p>Requisition ID: 531</p><p></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Software Engineer - Containerization & Virtualisation</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/5172247" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>This is a general selection process for software engineers focused on virtualisation and container technology - from the kernel through userspace. Apply here if you are an exceptional Go, Rust, or C/C++ software engineer and want to work on next-generation open source VMM or container technology, or related open source networking and storage.</p>
-<p>Container, virtualisation and cloud infrastructure have become essentials of modern software deployments. We invest in open source related to application isolation, workload orchestration, system or OCI containers, micro service architecture or cloud infrastructure.</p>
-<p>Here are some examples of projects under way at Canonical.</p>
-<p>RustVMM has great potential as a new hypervisor for Linux. We are building a team to work on this, with an emphasis on performance, security and operability. Work in Rust and bring your expert knowledge of VMM and related kernel networking and storage capabilities.</p>
-<p>Docker images are easy to make and publish on Docker Hub and other registries, but the quality, consistency and security maintenance of those images is broadly very poor. Canonical is in a good position to publish a portfolio of outstanding Docker images. Our Rockcraft team is designing and implementing an elevated Docker image experience for the open source community.</p>
-<p>LXD is a modern system container and virtual machine manager that is widely used on Ubuntu, ChromeOS and other Linux platforms. LXD engineering spans the entire software stack from low-level kernel work on namespaces, confinement, security, filesystems, VMMs and networking, to the high level management REST API and CLI.</p>
-<p>Members of the Kubernetes product team build MicroK8s for on-rails K8s, and Charmed Kubernetes for more sophisticated integration. We work on K8s itself and on the operations tooling around it.</p>
-<p>The OpenStack team deliver Charmed OpenStack, OVN / OVS and Ceph. This work brings cloud platform technologies to large-scale computing environments.</p>
-<p>These teams hire system level C/C++, Golang, Rust and Python developers to work on security-critical, performance-critical and mission-critical code, focused on software delivery, containers, security, sandboxing, application orchestration and management. Our teams are motivated to have a meaningful impact on modern cloud computing technologies.</p>
-<p><strong>Location</strong>: <em>we have remote container and virt engineering roles in every time zone.</em></p>
-<h2>What you will focus on</h2>
-<ul>
-<li>Design and specify new features, building consensus on approach</li>
-<li>Engage with upstream communities in your area of expertise</li>
-<li>Conduct security analysis and reviews to ensure defence in depth</li>
-<li>Create and monitor performance benchmarks to optimise your product</li>
-<li>Collaborate proactively with a distributed team</li>
-<li>Write high quality code to create new features</li>
-<li>Debug issues and produce high quality code to fix them</li>
-<li>Review code produced by other engineers</li>
-<li>Discuss ideas and collaborate on finding good solutions</li>
-</ul>
-<h2>What we are looking for in you</h2>
-<ul>
-<li>An exceptional academic track record from both high school and university</li>
-<li>Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path</li>
-<li>Drive and a track record of going above-and-beyond expectations</li>
-<li>You have worked on open source virt or container tech</li>
-<li>You have experience working in the kernel or very low level system</li>
-<li>Professional written and spoken English&nbsp;</li>
-<li>Experience with Linux (Debian or Ubuntu preferred)&nbsp;</li>
-<li>Excellent interpersonal skills, curiosity, flexibility, and accountability&nbsp;</li>
-<li>Passion, thoughtfulness, and self-motivation&nbsp;</li>
-<li>Excellent communication and presentation skills&nbsp;</li>
-<li>Result-oriented, with a personal drive to meet commitments&nbsp;</li>
-<li>Ability to travel twice a year, for company events up to two weeks each</li>
-</ul>
-<h2>Additional skills we value</h2>
-<ul>
-<li>Performance engineering and security experience</li>
-</ul>
-<h2>What we offer you</h2>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues</li>
-<li>Priority Pass, and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote</p>
-
-<br><br><p>Requisition ID: 1097</p><p></p>
     
                 </details>
                 </td>
