@@ -10,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/orderez-ux-ui-designer" align="right" target="_blank">Apply</a>
@@ -55,105 +55,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/7344/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Yoko Co</h5>
-                    <h3> Senior UX Strategist / Information Architect</h3>
-                </td>
-                <td width="300">
-                    <code>Product</code>
-                </td>
-                <td width="200">
-                <text>59 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/yoko-co-senior-ux-strategist-information-architect-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/7344/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> McLean, VA
-    <br /><strong>URL:</strong> <a href="https://www.yokoco.com/">https://www.yokoco.com/</a>
-</p>
-
-<div>
-<strong><br>Hello, Human Understander.<br></strong><br>
-</div><div>
-<br>We are looking for an exceptional person to join our team, but we’ll go more into those details shortly. First, let’s talk about why this role and our company might be a good fit for you and your skills.<br><br>
-</div><div>
-<strong><br>Why work at Yoko Co?<br></strong><br>
-</div><ul>
-<li>
-<strong>Mission</strong>. We work with mission-driven clients. This is a chance to do work that has a genuinely positive impact on the world.</li>
-<li>
-<strong>4-Day Work Week</strong>. We offer "flex" Mondays off. You'll get most Mondays off. We're still a high-performance culture, so periodically, you'll still need to log some Monday hours to keep projects moving.</li>
-<li>
-<strong>Holiday Breaks.</strong> We offer nearly a week off at Thanksgiving and two weeks off for Christmas.</li>
-<li>
-<strong>Best Place to Work</strong>. We were named 2020 and 2021 Best Place to Work by the Inc. 5000 and Washington Business Journal.</li>
-<li>
-<strong>High Caliber Team with Kindness.</strong> You'll work with team members who are both top performers and genuinely kind and supportive.</li>
-</ul><div>
-<br>Everything we do reflects a rare and authentic commitment to our values. We're committed to having a positive impact in the world, and doing truly great work while supporting the life balance we all want as human beings. This combination is rare, and so is the degree to which we genuinely live those values and work them into the DNA of how our company operates on a day-to-day basis. We're looking for others who share those values. If you do, you'll find Yoko Co is an uncommonly amazing place to work and contribute.<br><br>
-</div><div>
-<strong><br>If you work here, you’ll:<br></strong><br>
-</div><ul>
-<li>Do research, conduct interviews, and create website strategies to help our clients increase their impact and achieve their missions.</li>
-<li>Be more than just a “person with a plan.” You’ll also help execute, get your hands dirty, and do what needs to be done.</li>
-<li>Be involved at critical points throughout the full process, from wireframes to design concepts, from the first kickoff meeting, to the final QA.</li>
-<li>Collaborate closely with designers, developers, and project managers, to ensure everyone is on the same page and working towards a common goal.</li>
-<li>Guide organizations along a path of digital transformation, helping them refine their web presence, and increase their impact.</li>
-</ul><div>
-<strong><br>You’ll do well in this job if you:<br></strong><br>
-</div><ul>
-<li>Have a firm grasp of web design and development, content marketing, search engine optimization, web content management software and the platforms that make it happen (WordPress, Hubspot, Google Analytics, etc.)</li>
-<li>Have created UX deliverables for websites like Personas, User Flows, Information Architectures, and Sitemaps at a high level of execution and complexity.</li>
-<li>Can “lead the room,” communicating comfortably, clearly, and empathetically with executives, marketers, and stakeholders.</li>
-<li>Have direct experience leading a team and a client through the strategic aspects of website redesign and marketing projects. (Ideally, you should have 25+ projects under your belt.)</li>
-<li>Understand the principles of UI/UX design and marketing that get results, including the buyer’s journey, conversion orientation, calls to action, marketing automation, and more.</li>
-<li>Are flexible, and understand that sometimes you’ll have to wear an unexpected hat or two when the situation calls for it.</li>
-<li>Comfortably walk the line between the "what to do" and "how to do it" path of building a website with the ability to understand the underlying technology that makes the website experience happen – and then explain it to clients.</li>
-<li>Hold yourself accountable, and deliver on your commitments.</li>
-<li>Love sharing your knowledge and helping to level up your colleagues and clients.</li>
-</ul><div>
-<strong><br>However, maybe don’t apply if:<br></strong><br>
-</div><ul>
-<li>You prefer to work on a single big project at a time. We all have to do a bit of juggling around here, and while we wish we could pour ourselves into just one thing for weeks at a time to make it perfect, that’s often not the reality.</li>
-<li>You’ve ever said “that’s not my job” or “that’s below my pay grade.” While we try to utilize everyone in the best way we possibly can, sometimes things can get dicey and we have to pitch in to help reach the finish line.</li>
-<li>Your experience is mainly building apps and digital products without a lot of work on websites (especially large, content rich websites).</li>
-</ul><div>
-<strong><br>The interview process:<br></strong><br>
-</div><div>
-<br>You’ll do 3-4 interviews with various members of our team, starting with a short culture interview, and then moving onto more specialized conversations. Somewhere in the middle of the process, you’ll likely do a short practical test to ensure you can deliver at the level it takes to be successful here.<br><br>
-</div><div>
-<strong><br>What you get:<br></strong><br>
-</div><div>
-<br>You’ll get a competitive salary, unlimited time off, a flexible schedule, the ability to work wherever you want, a personal development budget, federal holidays and multiple weeks off at the end of the year to recharge. If you’re in the US, we also offer health insurance, disability and life insurance, and 401k matching.<br><br>
-</div><div>
-<strong><br>A little more about us:<br></strong><br>
-</div><div>
-<br>Our team is made up of people who are passionate about the work they do, the clients they serve, and, importantly, their craft. We also care about each other — we don’t think of one another as coworkers or employees, but as fellow humans. From developers to designers, project managers to strategists, we bring out the best in each other.<br><br>
-</div><div>
-<br>We’ve been in business for over a decade, our whole team is remote, we were named a 2020 and 2021 Best Place to Work by the Inc. 5000 and the Washington Business Journal, and you can poke around our website if you want to know more. <br><br>
-</div><div>
-<strong><br>To apply:<br></strong><br>
-</div><div>
-<br>If you’re interested, send an email to careers@yokoco.com with the subject line “Analyze This” — While you’re at it, we’d love to learn a bit more about you and get a link to your portfolio or see some of your work.<br><br>
-</div><div>
-<br>We take applicants from all over the world. However, you must be willing to work a schedule that has a reasonable overlap with normal US business hours. <br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/yoko-co-senior-ux-strategist-information-architect-1">https://weworkremotely.com/remote-jobs/yoko-co-senior-ux-strategist-information-architect-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/986276/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -164,7 +65,7 @@
                     <code>go,UI/UX,wordpress,chat</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
