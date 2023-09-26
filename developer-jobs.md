@@ -1,10 +1,185 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/8281/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/9485/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>AppSignal</h5>
-                    <h3> Product Developer (React)</h3>
+                    <h5>Draft.dev</h5>
+                    <h3> Technical Writer / Developer</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/draft-dev-technical-writer-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0018/9485/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> USA
+    <br /><strong>URL:</strong> <a href="https://draft.dev/">https://draft.dev/</a>
+</p>
+
+<h1>About the Job</h1><div>
+<a href="http://draft.dev/">Draft.dev</a> is a content marketing agency focused on creating in-depth, technical content for growing technology companies. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're a small but quickly growing team of technologists, writers, marketers, and editors.</div><div>
+<br>If you're a software developer and you want to build your personal brand while getting paid to write about interesting technical topics on the side, this will be a great part-time role for you!</div><div>
+<br>📣 <strong>We're looking for Developers who have experience in Salesforce or Microsoft Power Apps</strong>.</div><div>
+<br>Draft.dev’s writers create technical blog posts and tutorials for clients in a wide range of industries and areas of technology. Writer pay starts at $300 per ~1500-word article and goes up as you complete more assignments.</div><div>
+<br>This is a great side hustle as almost all our 200+ writers are full-time developers with a background in software engineering, data engineering, machine learning, product management, or similar.</div><div>
+<br>Because we create content that will be read by a wide range of readers around the world, we are committed to supporting diversity in our writers (we currently have writers in over 50 countries).</div><h1>What You'll Do</h1><ul>
+<li>Write content such as blogs, tutorials, guides, and other similar materials</li>
+<li>Research and prepare demo code as needed</li>
+<li>Conduct necessary research to ensure the accuracy of the content</li>
+<li>Respond to editorial requests in a timely manner</li>
+</ul><h1>Your Skills &amp; Experience</h1><div>You have experience in <strong>ANY</strong> of the following:</div><ul>
+<li>Salesforce (and especially Salesforce Mobile)</li>
+<li>Microsoft Power Apps</li>
+</ul><h1>What You'll Love</h1><ul>
+<li>Remote work: 100% remote work environment allows for a flexible schedule and work from anywhere in the world</li>
+<li>Asynchronous communication: No need to be available at specific hours or use real-time chat tools, promoting work-life balance</li>
+<li>Diversity and inclusion: A company culture that values diversity and inclusivity in all aspects of our work</li>
+<li>Fair pay: Competitive salary based on experience, and a commitment to paying fair rates for quality work</li>
+<li>Honest feedback: A supportive work environment that values honesty and transparency in feedback to help employees grow and succeed.</li>
+</ul><div>
+<br>If you have any of the skills listed above, please apply!</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/draft-dev-technical-writer-developer">https://weworkremotely.com/remote-jobs/draft-dev-technical-writer-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/2990/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>OnTheGoSystems</h5>
+                    <h3> Senior PHP Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/onthegosystems-senior-php-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0076/2990/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> 100% remote
+    <br /><strong>URL:</strong> <a href="https://onthegosystems.com">https://onthegosystems.com</a>
+</p>
+
+<div>
+<strong>We’re looking for an experienced PHP developer who wants to invest their expertise into giving thousands of people the opportunity to build advanced WordPress websites without programming by maintaining and adding small new features to our Toolset product known all over the world.<br></strong><br>
+</div><div>If you would like to join a stable company and work hand-in-hand under the mentorship of the lead developer of Toolset and foster your professional development – we are anticipating your application!</div><div><strong><br>What strong skills we’re looking for in a PHP developer</strong></div><ul>
+<li>PHP, with experience on legacy versions (7.0 minimum, 5.6 is a plus) as well as new versions (8.x).</li>
+<li>JavaScript, including legacy libraries (like jQuery), vanilla JavaScript, and React (and real experience in <strong>its usage in the WordPress blocks editor</strong>).</li>
+<li>Dependency managers, including Composer for PHP and NPM for JavaScript.</li>
+<li>Debugging tools: XDebug, browser console.</li>
+<li>Testing and code quality tools: PHPUnit, PHPStan, PHPCS, Codeception.</li>
+<li>Version control using Git.</li>
+<li>Experience with GitLab (CI/CD, pipelines, jobs, configuration files) or any other similar tool. </li>
+</ul><div><br></div><div>
+<strong>Role expectations and responsibilities will align with short-,mid- and long-term goals<br></strong><br>
+</div><div><strong>Short-term goals:</strong></div><ul>
+<li>Get used to a large codebase with lots of inner connections that uses a wide number of different languages and techniques.</li>
+<li>Be able to work on issues in our most challenging plugins with the largest user base (Views/Blocks, Forms) with supervision: code reviews, and periodic mentoring.</li>
+</ul><div><strong>Mid-term goals:</strong></div><ul>
+<li>Triage newly created tickets based on their severity and reach, working together with Support on prioritization, executions, and delivery.</li>
+<li>Be able to work on general issues with little-to-no supervision, with specific feedback on complex tasks and topics.</li>
+</ul><div><strong>Long-term goals:</strong></div><ul>
+<li>Take care of the legacy Codeception tests for Toolset. Consolidate passing tests, and evaluate failing tests: discard, fix, rewrite. This is a long task so it should spread as a short, mid, and long goal, but starting ASAP.</li>
+<li>Track and preview changes from the platform (WordPress) and how they affect the compatibility of the plugins. This is also an ongoing goal from day 1.</li>
+</ul><div><br></div><div><strong>What we offer</strong></div><ul>
+<li>100% remote position,</li>
+<li>Full-time position with paid public holidays, vacation, and sick leave,</li>
+<li>Paid sabbatical (yes, most people in our team stick with us for years!),</li>
+<li>Being part of a team of smart, self-driven individuals,</li>
+<li>Great opportunity to progress and advance,</li>
+<li>Collaborating with team members across the globe.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/onthegosystems-senior-php-developer">https://weworkremotely.com/remote-jobs/onthegosystems-senior-php-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>OnTheGoSystems</h5>
+                    <h3> Content Marketer for a Developer Tool</h3>
+                </td>
+                <td width="300">
+                    <code>Sales and Marketing</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/onthegosystems-content-marketer-for-a-developer-tool" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> 100% remote
+    <br /><strong>URL:</strong> <a href="https://onthegosystems.com">https://onthegosystems.com</a>
+</p>
+
+<h1>We are looking for a person with proven experience in running successful marketing campaigns. </h1><div>Our target audience are developers, so if you have expertise in working with tech products, it will be a great advantage! If you can show us your own blog with numerous followers where you talk about things that interest you and you get others excited, we’re also interested! </div><h1>What we’re looking for in a Content Marketer</h1><ul>
+<li>English proficiency at a native speaker’s level, both written and spoken</li>
+<li>Minimum 6 years of experience in content marketing, with a proven track record of creating content that drives sales</li>
+<li>Ownership and operation of several successful campaigns that demonstrates your content marketing skills and preferably in different industries</li>
+<li>Expertise in creating a strategy and its implementation</li>
+<li>Exceptional writing and communication skills, the ability to convey your ideas to different audiences and via numerous channels</li>
+<li>Strong analytical skills, with the ability to use data to inform content strategy and measure results</li>
+<li>Creative and strategic mindset, with the ability to think outside the box and generate new ideas for content</li>
+<li>Clear understanding of how LLMs have changed the way Content Marketing works and creative ideas for how to do Content Marketing as of 2023</li>
+</ul><h1>Responsibilities</h1><ul>
+<li>Know our products and competitor products inside and out.</li>
+<li>Get into the minds of potential customers, understand their needs, desires and concerns.</li>
+<li>Create a content strategy that builds on our benefits, addresses customer needs and capitalizes on media opportunities.</li>
+<li>Apply different methods of strategy implementation.</li>
+<li>Pitch your content ideas to partners and publications that you identify on your own.</li>
+<li>Write great content, with an authentic voice, which engages clients emotionally and logically.</li>
+<li>Analyze the effectiveness of our content marketing efforts, using Analytics, engagement and conversions. Then, refine until you reach outstanding results.</li>
+<li>Stay up-to-date with industry news, so that our content is always relevant.</li>
+</ul><h1>What we offer</h1><ul>
+<li>100% remote position</li>
+<li>Full-time position with paid public holidays, vacation, and sick leave</li>
+<li>Being part of a team of highly talented and self-driven individuals</li>
+<li>Ample opportunities to progress and advance</li>
+<li>Collaboration with team members from all around the world, with different cultures and languages.</li>
+</ul><div><br></div><div><strong>If you’re looking for an excellent opportunity to make an impact, in a company that values innovation and teamwork, apply today and join our dynamic team!</strong></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/onthegosystems-content-marketer-for-a-developer-tool">https://weworkremotely.com/remote-jobs/onthegosystems-content-marketer-for-a-developer-tool</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/8304/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Folks</h5>
+                    <h3> Freelance React Developer</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
@@ -13,7 +188,67 @@
                 <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/appsignal-product-developer-react" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/folks-freelance-react-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0124/8304/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> California
+    <br /><strong>URL:</strong> <a href="https://hifolks.com">https://hifolks.com</a>
+</p>
+
+<div>
+<strong>Who We Are</strong><br>We are a team of 4 designers and developers building a customer support and sales product. Our product is working but not publicly launched yet — and we're looking for someone to help us increase our iteration speed.<br><br>
+</div><div>
+<strong>The Role</strong><br>We need a NextJS developer on a freelance basis. Your role will be to help us build out onboarding, billing, some admin tools, and ongoing feature development as we grow.<br><br>
+</div><div>
+<strong>Technologies<br></strong>Our product looks something like this...</div><ul>
+<li>NextJS</li>
+<li>Typescript</li>
+<li>GraphQL</li>
+<li>Prisma</li>
+<li>Postgres</li>
+</ul><div>Please mention your experience with these technologies and whether you’ve used them in a project.<br><br>
+</div><div>
+<strong>Skills<br></strong>We're looking for someone who has the following experience...</div><ul>
+<li>Senior-level experience working with React, JavaScript, and Typescript.</li>
+<li>Experience with GraphQL and Postgres.</li>
+<li>Experience working on a NextJS app.</li>
+</ul><div>
+<br><strong>Other Requirements</strong>
+</div><ul>
+<li>If you have public GitHub work, please include it.</li>
+<li>You must either be a native or fluent English speaker.</li>
+<li>Organized and on top of their work. </li>
+<li>A strong communicator — we ask for a lot of visibility into progress, current status, and estimates.</li>
+<li>Be available during west coast US business hours. Be prepared to occasionally meet via video chat.</li>
+<li><strong>We are not open to agencies.</strong></li>
+</ul><div>Please reach out over email.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/folks-freelance-react-developer">https://weworkremotely.com/remote-jobs/folks-freelance-react-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/8281/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>AppSignal</h5>
+                    <h3> Product Developer (React, Medior — Senior, CEST timezone)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>4 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/appsignal-product-developer-react-medior-senior-cest-timezone" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -77,7 +312,7 @@
 </div><h1>Not sure if you should apply?</h1><div>If you're unsure about having enough experience for this role, please apply! We'd be disappointed to overlook a great candidate because you doubt your abilities. We're always happy to provide you feedback on your application and skill level.</div><h1>Looking Forward to Meeting You!</h1><div>Our team is excited about the opportunity to meet you. Feel free to ask us any questions (<a href="mailto:wes@appsignal.com">wes@appsignal.com</a>); we hope to see your application soon!<br><br>
 </div><div>You may also reach out to one of our counselors if you feel more comfortable with that. Your questions will stay confidential, not be shared internally, and will certainly not influence your hiring chances. You can reach Jeff (he/him) via <a href="mailto:jeff@appsignal.com">jeff@appsignal.com</a> or Jelte (they/them) via <a href="mailto:jelte@appsignal.com">jelte@appsignal.com</a>.</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/appsignal-product-developer-react">https://weworkremotely.com/remote-jobs/appsignal-product-developer-react</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/appsignal-product-developer-react-medior-senior-cest-timezone">https://weworkremotely.com/remote-jobs/appsignal-product-developer-react-medior-senior-cest-timezone</a></p>
 
                 </details>
                 </td>
@@ -93,7 +328,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/appy-ventures-full-stack-developer" align="right" target="_blank">Apply</a>
@@ -178,7 +413,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-java-developers-cyprus-greece-or-remote" align="right" target="_blank">Apply</a>
@@ -245,343 +480,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0103/5394/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>RebelCode Ltd</h5>
-                    <h3> Full Stack WordPress Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>37 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/rebelcode-ltd-full-stack-wordpress-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0103/5394/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Malta
-    <br /><strong>URL:</strong> <a href="https://rebelcode.com/">https://rebelcode.com/</a>
-</p>
-
-<div>
-<strong>Join our global, fully remote, and asynchronous team as a Full Stack WordPress Developer, leading the development of our WordPress plugin projects.</strong><br><br>
-</div><div>This role demands an individual who can craft quality code for our plugins while keeping in mind the needs of the business, striking a balance between the two.<br><br>
-</div><div>In this role, you won’t just be coding; you’d be engineering quality digital products that are made to outlast and outshine the competition.<br><br>
-</div><div>You will collaborate closely with our leadership and marketing team, defining the scope of each project and laying the foundations for features that will redefine their user experience.<br><br>
-</div><h1>How We Work</h1><div>As a 100% remote and asynchronous team, self-discipline is a very important factor when working within the RebelCode team. Everyone pulls their own weight and we do our utmost to get the best out of each other.<br><br>
-</div><div>We strive for excellence in everything we do, so there’s no room for average work or half-hearted efforts. Even as we work on MVPs for new features or products, we strive to deliver the best possible results within the time-frames and limitations that we set for ourselves.<br><br>
-</div><div>The tools we use day-to-day include:</div><ul>
-<li>Twist for communication</li>
-<li>Notion for our company wiki</li>
-<li>Notion for issue tracking</li>
-<li>Help Scout for customer support</li>
-<li>Digital Ocean, Servebolt, WP Engine, and Kinsta for hosting of websites and services</li>
-</ul><div><br></div><h1>Who You Are</h1><div>You own your tasks, from the inkling of an idea to its full-fledged execution. <br><br>
-</div><div>With fluency in English, both written and spoken, you ensure no idea remains unheard, no innovation unnoticed. For you, every message has meaning and you do your best to get it across.<br><br>
-</div><div>Your constant curiosity propels you to constantly evolve, learn, and challenge the status quo, expanding your skillset every step of the way.<br><br>
-</div><div>Working within a team, providing feedback, and collaborating across borders and time zones is second nature to you.<br><br>
-</div><div>
-<em>Note: You must have a strong internet connection and a good quality microphone and webcam, both for the interview phase as well as during working hours.<br></em><br>
-</div><h1>Primary Responsibilities</h1><div>As a Full Stack Developer at RebelCode, you will be responsible for:</div><ul>
-<li>Developing and maintaining RebelCode’s WordPress plugins (PHP, TypeScript, React)</li>
-<li>Transforming Figma designs into working UIs</li>
-<li>Participating in code discussions and reviews</li>
-<li>Collaborating using task management and issue tracking tools</li>
-<li>Attending weekly debriefing meetings</li>
-<li>Working with customer support to resolve customer issues</li>
-</ul><div><br></div><h1>Essential Skills</h1><div>The ideal candidate possesses the following skillset and tools:</div><ul>
-<li>Excellent understanding of PHP</li>
-<li>Excellent understanding of JavaScript</li>
-<li>Good working knowledge of TypeScript</li>
-<li>Good working knowledge of CSS and/or some of its derivatives</li>
-<li>Good working knowledge of WordPress plugin development</li>
-<li>Experience integrating third-party APIs</li>
-<li>A strong portfolio of past work</li>
-<li>Very good English speaking and writing skills</li>
-<li>Ability to work independently and be self-sufficient when necessary</li>
-</ul><div>
-<em>Note: Experience in WordPress plugin development is a must. If you only have experience building WordPress websites for clients, please do not apply.<br></em><br>
-</div><h1>Bonus Skills</h1><div>Although not a must, the following skills would also be appreciated for this role:</div><ul>
-<li>Experience with Docker</li>
-<li>Experience with Apache and Nginx</li>
-<li>Good understanding of WebPack and Vite</li>
-<li>Experience with Figma</li>
-<li>Exposure to Linux, BSD, or other Unix-like operating systems</li>
-</ul><div><br></div><h1>Remuneration &amp; Perks</h1><div>The selected candidate will receive the following:</div><ul>
-<li>$42,000 to $50,000 annual remuneration</li>
-<li>4 weeks of paid leave annually</li>
-<li>The freedom to work remotely, ideally based within the EU or US</li>
-<li>A flexible work schedule with at least a 4-hour daily overlap with the rest of the team</li>
-<li>Continued learning supported by the company</li>
-<li>Attendance to conferences to expand our skills and connections</li>
-<li>Occasional company meet-ups and retreats to strengthen the team bond</li>
-</ul><div><br></div><h1>Apply Now</h1><div>When applying, it’s important that you:</div><ul>
-<li>Showcase your experience in WordPress plugin development.</li>
-<li>Introduce us to who you are – your experiences, qualifications, and what makes you tick.</li>
-<li>Include links to your profiles that showcase your craft (GitHub, GitLab, WordPress.org, etc) and other relevant professional links.</li>
-<li>Proofread more than once, because attention to detail is everything.</li>
-</ul><div>We’re excited to see the unique attributes you’ll bring to the RebelCode team.<br><br>
-</div><div>
-<a href="https://rebelcode.com/careers/open-position-full-stack-developer/">Please fill in the application form here</a> if you’re confident that you’d be a great fit for this role. <br><br>
-</div><div>Once your application is reviewed, it may take a few days until you are contacted. The hiring process may last a few weeks as we continue to receive applications, so please be patient throughout the process.<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/rebelcode-ltd-full-stack-wordpress-developer">https://weworkremotely.com/remote-jobs/rebelcode-ltd-full-stack-wordpress-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>XM</h5>
-                    <h3> Modern C++ Software Developer – Remote</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>74 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Cyprus
-    <br /><strong>URL:</strong> <a href="https://bit.ly/3Yljr8s">https://bit.ly/3Yljr8s</a>
-</p>
-
-<div>
-<strong>Modern C++ Software Developer – Remote<br></strong><br>
-</div><div>
-<strong>Reference Number: CSD1022<br></strong><br>
-</div><div><br></div><div>
-<strong>The Role: <br></strong><br>
-</div><div>We are looking for a Modern C++ Software Developer to join our software development team.  You will be working on internal software related to trading financial products; monitoring tools; alerting and reporting. You will have the opportunity to offer your ideas, suggestions, and designs to help the team improve their quality of work. The team strives to write clean, decoupled, and testable code with a clear separation of components and responsibilities.<br><br>
-</div><div><br></div><div>
-<strong>The key responsibilities of the role include:<br></strong><br>
-</div><div>●       Develop standalone applications and plug-ins in C++ 17</div><div>●       Use libraries such as Boost.Asio for asynchronous TCP sockets</div><div>●       Write unit-tests, end-to-end tests and stress testing</div><div>●       Communicate with the team to identify business requirements</div><div>●       Understand business requirements and develop systems/features to meet them</div><div>●       Develop code in accordance with the system design and coding standards with minimal supervision</div><div>●       Review the code of associate developers<br><br>
-</div><div><strong> </strong></div><div><strong>Main requirements:</strong></div><div> </div><div>●       BSc/MSc in computer science, computer engineering or a related subject</div><div>●       Experience in any object-oriented language either in a professional environment or on personal projects</div><div>●       Strong knowledge and an active interest in object-oriented principles, practices and design patterns</div><div>●       Willingness to work with and learn modern C++, asynchronous programming and unit-testing</div><div>●       Excellent problem solving and troubleshooting skills</div><div>●       Knowledge of any of the following will be a plus: unit-testing, UML design,Boost.Asio, FIX protocol,         MetaTrader API, asynchronous programming, profiling</div><div>●       Outstanding communication and interpersonal skills, including the ability to describe software designs at all technical knowledge levels</div><div>●       Self-starter with a passion for coding, tinkering, reading, exploring and breaking things</div><div>●       Very good written and verbal skills in English<br><br>
-</div><div> </div><div>
-<strong>Benefit from:<br></strong><br>
-</div><div>●       Attractive remuneration package plus performance related reward</div><div>●       Intellectually stimulating work environment</div><div>●       Continuous personal development and international training opportunities<br><br>
-</div><div>
-<br>Type of employment: Full time<br><br>
-</div><div>
-<br>Location: Remote<br><br>
-</div><div>Please visit https://bit.ly/3Yljr8s to submit your online application for this position.<br><br>
-</div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2">https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>XM</h5>
-                    <h3> Senior PHP Web Developers– Cyprus, Greece or Remote</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>74 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Cyprus, Greece or Remote
-    <br /><strong>URL:</strong> <a href="https://xm.com">https://xm.com</a>
-</p>
-
-<div>
-<strong>Reference Number: SPHPWD1021<br></strong><br>
-</div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>The role:<br></strong><br>
-</div><div>As our new Senior PHP Developer, you will join an amazing team who is dedicated to taking the next step in software engineering. You will make key decisions on software processes, and use Kubernetes and Terraform on PHP, Go, React &amp; Angular on AWS. The team will keep you up-to-date with the latest technology stacks and processes and help you see challenging projects from beginning to end.<br><br>
-</div><div> <br><br>
-</div><div>
-<strong>The main responsibilities of the role include:<br></strong><br>
-</div><div>●        Design and implement new features/projects</div><div>●        Maintain and refactor existing web applications such as the company's website, registration forms, Members Area and internal web services</div><div>●        Research and integrate new web technologies</div><div>●        Write tests that will run on a continuous integration server 24/7 to ensure code testability, code coverage and quality conforms to the company’s highest standards</div><div>●        Resolve support tickets for IT related issues</div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>Main requirements:<br></strong><br>
-</div><div>●        BSc/MSc in information technology or any other relevant degree</div><div>●        At least 3 years of experience in a similar position</div><div>●        Very good knowledge of PHP 7+, MySQL, Redis, Git</div><div>●        Very good understanding of object-oriented programming principles</div><div>●        Experience in creating and consuming web services</div><div>●        Experience with modern PHP frameworks</div><div>●        Experience in writing tests with PHPUnit</div><div>●        Ability to research and adapt new web technologies that add value to the team</div><div>●        Strong organisational skills with the ability to multitask and prioritise</div><div>●        Problem solving and analytical skills</div><div>●        Ability to work independently and integrate well within a team</div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>The following will be considered an advantage:<br></strong><br>
-</div><div>●        Experience in Symfony framework</div><div>●        Experience in the development of REST APIs</div><div>●        Experience in software development practices like design patterns, SOLID principles, DRY</div><div>●        Very good understanding of security practices (OWASP)</div><div>●        Experience with cloud providers (e.g. AWS)</div><div>●        Experience in database query optimization</div><div>●        Experience in creating composer packages</div><div>●        Experience in front-end frameworks or libraries like Angular or React</div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>Benefit from:<br></strong><br>
-</div><div>●        Attractive remuneration package </div><div>●        Private health insurance</div><div>●        Food allowance</div><div>●        Intellectually stimulating work environment</div><div>●        Continuous personal development and international training opportunities</div><div> </div><div>
-<br>Type of employment: Full time<br><br>
-</div><div>
-<br>Location: Cyprus, Greece or Remote <br><br>
-</div><div>
-<br> <br><br>
-</div><div>Please visit our website <a href="http://www.xm.com/careers">www.xm.com/careers</a> to submit your online application for this position. </div><div> </div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2">https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>A.Team</h5>
-                    <h3> Senior Independent Software Developer ($110-$190/hr)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>786 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0066/7400/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> NYC, SF, and TLV
-    <br /><strong>URL:</strong> <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a>
-</p>
-
-<div>
-<a href="https://build.a.team/wwrfastrackreferral">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. <br><br>After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.<br><br>As part of A·Team, you can expect:</div><ul>
-<li>
-<strong>High-paying, meaningful missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
-<li>
-<strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
-<li>
-<strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
-<li>
-<strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
-<li>
-<strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
-</ul><div>
-<br><strong>How to apply:<br></strong>Go here: <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a> + mention WWR under how you heard about A·Team. No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.<br><strong><br>What you’ll do:</strong>
-</div><ul>
-<li>Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would.</li>
-<li>Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </li>
-<li>You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </li>
-</ul><div>
-<br><strong>Who A</strong>·<strong>Team is for:</strong>
-</div><ul>
-<li>Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy.</li>
-<li>Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</li>
-<li>The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing.</li>
-</ul><div>
-<br><strong>Who A</strong>·<strong>Team is </strong><strong><em>not</em></strong><strong> for:</strong>
-</div><ul>
-<li>People looking for small gigs.</li>
-<li>Folks looking to build simple wordpress/wix/squarespace-style websites.</li>
-<li>Those still early in their careers and recent university/bootcamp grads (at least not yet).</li>
-</ul><div>
-<br><strong>Our long-term vision:<br></strong><a href="https://build.a.team/wwrfastrackreferral">A·Team</a> is a new type of company for a new kind of independent software builders. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </div><div>
-<br>To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1790293/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Litify</h5>
-                    <h3>Senior Salesforce Developer</h3>
-                </td>
-                <td width="300">
-                    <code>CSS,html,javascript,salesforce</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-salesforce-developer-1790293" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <section class='"pdf_page"'>
-<div class='"textlayer"'>Litify is looking for a Senior Salesforce Developer to join our Product &amp; Engineering team. As a Senior Engineer, you will be an essential part of a high-performing Agile development team, building innovative software that is transforming the legal industry. The ideal candidate thrives in a hands-on, focused, and productive team-oriented environment and has experience working in an Agile software development lifecycle.</div>
-<div class='"textlayer"'> </div>
-<div class='"textlayer"'>This is a remote position, working from anywhere in the United States.</div>
-<div class='"textlayer"'> </div>
-<div class='"textlayer"'><strong>In this role, you will: </strong></div>
-<div class='"textlayer"'>
-<ul style="">
-<li style="">Function in 2-week sprint cycles while demonstrating the ability to problem-solve and research solutions independently</li>
-<li style="">Write high-quality code with test coverage that accounts for both positive and negative test cases</li>
-<li style="">Be a technical leader in the department, helping steer development processes and procedures</li>
-<li style="">Design and create scalable, well-architected solutions that conform to best practices, meet specified requirements and achieve business objectives</li>
-<li style="">Advise Product leadership on the complexity, risk, and level of effort required to deliver product features</li>
-<li style="">Lead technical meetings and collaborate with teammates to encourage the contribution of ideas, drive understanding of solution architecture, ensure quality, and encourage improvements in process and overall product </li>
-</ul>
-</div>
-<div class='"textlayer"'><strong>To be successful in this role, you have (required): </strong></div>
-<div class='"textlayer"'>
-<ul style="">
-<li style="">Passion for software development</li>
-<li style="">Collaborative nature with strong interpersonal and communication skills</li>
-<li style="">Excellent problem solving, and decision-making skills</li>
-<li style="">Bachelor’s degree in Computer Science or a related field or equivalent professional experience</li>
-<li style="">5+ years of hands-on development experience </li>
-<li style="">Expert-level knowledge of Salesforce, and working knowledge of its proprietary languages, including Apex, Aura Components, and Lightning Web Components, or comparable demonstrated experience with OOP and client-side development (HTML, CSS, JavaScript and development with JavaScript frameworks and libraries)</li>
-</ul>
-<p><strong>Nice-to-have: </strong></p>
-<ul style="">
-<li style="">2+ years of senior engineering experience or equivalent experience leading software development teams and mentoring junior developers</li>
-<li style="">Experienced in Agile/SCRUM and TDD development methodologies</li>
-<li style="">Experience developing managed packages on the Salesforce Platform as a part of the ISV Partner Program </li>
-</ul>
-<p>Disclosure: <br>The estimated pay range for this role is $125,000-140,000. You may also be offered equity grant and benefits.</p>
-<p>Our salary ranges are based on paying competitively for our size and industry, and are one part of many compensation, benefits and other reward opportunities we provide. Individual pay rate decisions are based on a number of factors, including qualifications for the role, experience level, skill set, and balancing internal equity relative to peers at the company.</p>
-<p>The range above is for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced (or more senior) than this job description as posted. If that ends up being the case, the updated salary range will be communicated to you as a candidate.</p>
-</div>
-</section>
-<img src="https://remotive.com/job/track/1790293/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1783538/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -592,7 +490,7 @@
                     <code>backend,docker,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-ror-developer-mid-level-1783538" align="right" target="_blank">Apply</a>
@@ -662,7 +560,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -737,7 +635,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -800,30 +698,6 @@
 <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a new type of company for a new kind of independent software builder. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </span></p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</span></p>
 <img src="https://remotive.com/job/track/814298/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1306325743580848130/mk0qvsZ9_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Kraken</h5>
-                    <h3>Lifecycle Campaign Developer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/kraken/51988622-2f16-4af8-be86-c77c85e99987" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Future of Crypto&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to <a href="https://blog.kraken.com/crypto-education/security-at-kraken" class="postings-link">industry-leading security</a>, <a href="https://blog.kraken.com/category/crypto-education" class="postings-link">crypto education</a>, and <a href="https://blog.kraken.com/crypto-education/support-at-kraken" class="postings-link">world-class client support</a> through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://futures.kraken.com/wallets" class="postings-link">Kraken Futures</a>.</div><div><br></div><div>Become a Krakenite and build the future of crypto!</div><div><br></div><div><b style="font-size: 24px">The Team</b></div><div><br></div><div>The Marketing Operations and Technology team supports the company’s growth and client engagement strategy by implementing tools and executing cross-channel communications in order to help our clients make the most of Kraken’s exchange ecosystem. We strive to serve our internal and external clients with best-in-class technology&nbsp; and marketing best practices, such as hyper-personalization and real-time, relevant messaging, towards flawless execution.</div><div><br></div><div>Kraken’s CRM Ops team is looking for a campaign developer/specialist who will build marketing campaigns in our client engagement tool. We need support to execute and automate lifecycle campaigns using our best-in-class marketing technology tools to build complex customer journeys and dynamic, personalized content to serve all of our client segments. Besides building lifecycle campaigns, this is a role that will support a fast-paced environment, supporting ad-hoc campaigns such as new asset launches. This role will report to our Director of Marketing Technology and Operations, and collaborate cross-functionally with lifecycle marketing, product marketing, product management, and client support teams.&nbsp;</div></div><div class="section page-centered"><div><h3>The Opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Build and deploy on messaging campaigns across email, push, and in-app (web/app) messages; as well as audience segments based on the business logic provided by requestors</li><li>Implement copy and creative tests, and provide design and copywriting input ad-hoc to optimize engagement &amp; conversion</li><li>Collaborate with internal partners for QA and approvals - sending test emails/push to requestors and coordinating with product teams in designing and QA-ing in-app messages</li><li>Attend team meetings to understand priorities and conduct campaign reviews with relevant stakeholders</li><li>Apply learnings from historical campaigns and help ideate on campaign testing roadmap for each customer journey towards optimization based on campaign and business KPIs</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>2-5 years of experience with ESP management required (Braze, Klaviyo, Iterable, etc.)</li><li>Intermediate knowledge of HTML/CSS coding</li><li>An understanding of performance metrics as well as business/marketing analytics</li><li>Strong organization and project management skills</li><li>Strong crypto conviction and familiarity with our product offerings</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Location Tagging: #US #EU #Canada #LI-AG1</div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/51988622-2f16-4af8-be86-c77c85e99987/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1192,7 +1066,7 @@
                 </td>
                 <td width="300">
                     <h5>Status</h5>
-                    <h3>Senior Mobile Clojure UI Developer </h3>
+                    <h3>Senior Mobile ClojureScript UI Developer </h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -1232,7 +1106,7 @@
 </ul>
 <p><strong>You ideally will have:</strong></p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience working with clojure/re-frame</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience working with ClojureScript and React Native</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Eye for detail; point us to completed implementation work.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">3+ years of experience working on complex UI applications.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Experience in, and passion for, blockchain technology.</span></li>
