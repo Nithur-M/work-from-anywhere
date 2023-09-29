@@ -1,51 +1,39 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0123/5838/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Access Genie</h5>
-                    <h3> Staff Software Engineer - Tech Lead (Python)</h3>
+                    <h5>Openvolt</h5>
+                    <h3> Founding Software Engineer (Full-Stack)</h3>
                 </td>
                 <td width="300">
-                    <code>Back-End Programming</code>
+                    <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/access-genie-staff-software-engineer-tech-lead-python" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/openvolt-founding-software-engineer-full-stack" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0123/5838/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
-  <strong>Headquarters:</strong> Lakewood, New Jersey, United States
-    <br /><strong>URL:</strong> <a href="https://www.accessgenie.com">https://www.accessgenie.com</a>
+  <strong>Headquarters:</strong> Ireland
+    <br /><strong>URL:</strong> <a href="http://www.openvolt.com">http://www.openvolt.com</a>
 </p>
 
-<p>The Staff Software Engineer is a seasoned professional with at least 10 years of experience in software development, specializing in startups within the tech industry. This individual excels in leading development teams, driving coding excellence, ensuring comprehensive testing, and architecting scalable software solutions.<br><br></p>
-<p><strong>Who We Are</strong></p>
-<ul> <li>We are an early-stage startup focused on building automation of Asset Management (ITAM) for B2B clients within the physical, digital, and organizational automation space.</li> <li>We are a remote-first, geographically distributed team open to candidates worldwide.</li> <li>We are committed to transparency, openness, and supporting each other to build great things.</li> <li>We approach our products with genuine curiosity and recognize that innovative tech solutions pair best with high-performance, engaged teams.</li> <li>We offer great benefits, including a 100% remote work environment, flexible schedules, and ongoing growth opportunities.</li> </ul>
+<p>At Openvolt, we are building a world class developer API on top of Smart Meter data. Most countries have rolled out Smart Meters, collecting energy data for both commercial and residential buildings but locking it away behind traditional utility orgs around the world.</p>
+<p>Your mission -- if you choose to accept -- is to access this data from Energy companies around the world and expose it to developers through a world class API. Working alongside the CTO you will be building essential infrastructure that enables developers to build the products needed to Electrify Everything (think solar, EV, energy efficiency, ESG)</p>
 <p><strong>Requirements</strong></p>
-<ul> <li>Progressive experience in software development with a history of technical leadership roles.</li> <li>Proven expertise in startup environments within the tech sector.</li> <li>Deep understanding of design patterns, code quality, and testing frameworks.</li> <li>Excellent analytical, critical thinking, and problem-solving skills.</li> <li>Strong communication skills and an ability to collaborate cross-functionally.</li> <li>Able to explain complex technical concepts to others.</li> </ul>
-<p><strong>Qualifications</strong></p>
-<ul> <li>Solid track record of over 10 years demonstrating mastery of Python, mainly in production backend applications.</li> <li>Strong expertise with SQL relational databases like PostgreSQL or MySQL.</li> <li>Demonstrated proficiency in working with RPC and REST APIs.</li> <li>Proficient in processing queues such as Apache Kafka or RabbitMQ.</li> <li>Proven expertise in utilizing in-memory databases like Redis and Memcached.</li> <li>Solid understanding of Git and branching models for coaching and collaborating with distributed teams.</li> </ul>
-<p><strong>Nice-To-Haves</strong></p>
-<ul> <li>Hands-on experience working with cloud platforms such as AWS and Azure.</li> <li>Command of CI/CD best practices to streamline development pipelines.</li> <li>Familiarity with Identity Providers, Active Directory, and LDAP.</li> <li>Enhanced skills with other programming languages like C++, Rust, or Go are highly valued.</li> <li>A comprehensive grasp of network connectivity, traffic encryption, authentication protocols, proxy, firewall, VPN, and SSH tunnels.</li> </ul>
-<p><strong>Responsibilities</strong></p>
-<ul> <li>Consistently write production-ready code that is easily testable, easily understood by other developers, and accounts for edge cases and errors. Understand when it is appropriate to leave comments biased towards self-documenting code.</li> <li>Understand your team's testing approach and use quality metrics to identify gaps. Work with your team to recommend solutions that are in accordance with accepted testing frameworks and the testing pyramid.</li> <li>Have expertise in your team's domain, including the breadth of services, how they interact, and data flows between systems. Understand adjacent domains as they affect their team.</li> <li>Architect applications using well-accepted design patterns to allow for iterative, autonomous development and future scaling. Anticipate future use cases and make design decisions that minimize the cost of future changes.</li> <li>Proficient at using systematic debugging to diagnose all issues within the scope of their domain.</li> <li>Review epics and projects critically and ensure they're appropriately broken down, prioritized, and well-understood by the team.</li> <li>Can communicate effectively with a diverse team. Foster a culture of clear, concise, effective, audience-oriented communication on their team, ensuring teammates actively listen to others and are understood. Actively demonstrate these behaviors. Pay attention to nonverbal communication.</li> <li>Foster a culture of documentation and knowledge sharing within your team and actively demonstrate these behaviors.</li> <li>Consistently help your teammates overcome obstacles, resolve blockers, and complete work tasks. Give or share credit where due.</li> <li>Mentor your teammates in an open, respectful, flexible, and empathetic manner. Seek out mentoring opportunities specifically to create team redundancy and backfill ability. Mentor members of other teams as needed.</li> </ul>
+<ul> <li>4+ years of industry experience building high quality code </li> <li>Passion for getting sh*t done! Your impact will be binary -- if you don't do it, then it won't get done. We are at the beginning of this build so we require an individual who is comfortable working independently.</li> <li>Qualifications - we're more interested in seeing that you've nailed it in past roles and projects. Experience developing high quality scalable developer APIs is a major plus.</li> <li>Full stack experience, working collaboratively in sprints. Strong focus on design and code reviews. Our stack is Vue, Express, Node.js, MongoDB/TimescaleDB.</li> </ul>
 <p><strong>Benefits</strong></p>
-<ul> <li>Competitive salary</li> <li>Work from anywhere - we are 100% remote</li> <li>Unlimited PTO (vacation, time to recharge, US or local holidays)</li> <li>Flexible working hours with 4 hours overlapping in US Eastern time</li> <li>Opportunity to work with cutting-edge technologies while contributing to impactful projects</li> <li>Collaborative, innovative, and supportive work culture</li> <li>Chance to lead and mentor a team of talented engineers</li> <li>Professional growth and development opportunities</li> </ul>
-<p><strong><strong>Recruitment Process</strong></strong><br></p>
-<p>We are committed to providing a simplified, transparent, and streamlined hiring experience. You may expect the following stages:</p>
-<ol> <li>Technical assessment and code challenge</li> <li>Meeting with your future Engineering Manager</li> <li>Technical interview with the technical leadership</li> <li>Cultural fit interview with the CTO</li> <li>Get a job offer, sign contracts, and define your start date.</li> <li>Welcome aboard!</li> </ol>
-<p><br></p>
-<p><em>We are a fully remote, distributed team. However, we are not currently able to provide visa sponsorship for employment.<br><br>Upon submitting your application, you consent to receive future communications. The communication will depend on the availability of positions that align with your qualifications. Only eligible candidates will receive correspondence.</em> <br><br>Interested in Access Genie but don't think this role is the best fit for you? View our other positions: <a href="https://accessgenie.workable.com" class="external">https://accessgenie.workable.com</a><br></p>
+<ul> <li>Competitive salary and stock options in a fast growing start up </li> <li>Build something that will make a difference in the world</li> <li>Fully remote work from any European location </li> <li>Front seat with the founders. You'll be exposed to all of the messiness, excitement and learning of a high potential startup</li> </ul>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/access-genie-staff-software-engineer-tech-lead-python">https://weworkremotely.com/remote-jobs/access-genie-staff-software-engineer-tech-lead-python</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/openvolt-founding-software-engineer-full-stack">https://weworkremotely.com/remote-jobs/openvolt-founding-software-engineer-full-stack</a></p>
 
                 </details>
                 </td>
