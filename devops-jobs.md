@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/marialdn-webmaster-website-administration-devops-wordpress" align="right" target="_blank">Apply</a>
@@ -37,6 +37,215 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/marialdn-webmaster-website-administration-devops-wordpress">https://weworkremotely.com/remote-jobs/marialdn-webmaster-website-administration-devops-wordpress</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1793733/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Flashbots.net</h5>
+                    <h3>Senior DevOps Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>AWS,crypto,blockchain,research</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1793733" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="h1">What we're looking for</div>
+<p style="min-height: 1.5em;">Flashbots is looking for a talented DevOps engineer capable of running production infrastructure in AWS. This key role will assist the current development team in monitoring, extending, and hardening the current production and development infrastructure, with a goal of scaling infrastructure while taking work off the development team's plates.<br><br></p>
+<div class="h1">Responsibilities</div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Maintain and improve network architecture for clusters of Ethereum nodes</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Maintain and improve the architecture of Flashbots Relay infrastructure</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Assist in the deployment of production and staging tools to support Flashbots Data initiatives</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Design, build, and maintain testing infrastructure for multiple Flashbots projects<br><br></p>
+</li>
+</ul>
+<div class="h1">Qualifications</div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">4+ years experience as a problem solver</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Attention to detail</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Excellent communication skills</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Deep understanding of technology</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Proven record of shipping features on time and on budget</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Flexible and focused on solutions</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Organized and self-sufficient<br><br></p>
+</li>
+</ul>
+<div class="h1">About Flashbots</div>
+<p style="min-height: 1.5em;">Flashbots started in 2020 as a research and development organization formed to mitigate the negative externalities and existential risks posed by Maximal Extractable Value (MEV) to smart-contract blockchains, starting with Ethereum. We build products to maximally decentralize public blockchains, redistribute MEV, and empower users. We work closely with our community to ensure that our products have a positive impact, are secure, and can be used in production at scale.<br><br></p>
+<div class="h2">Our Impact</div>
+<p style="min-height: 1.5em;">Since the launch of Flashbots, we have had an immense impact on the world of cryptocurrency. The Flashbots Auction was launched in alpha in January 2021 and was quickly adopted by almost all Ethereum miners. Prior to Ethereum's Merge in 2022, Flashbots launched MEV-Boost, a temporary solution for out-of-protocol proposer-builder separation. MEV-Boost has since been adopted by over 90% of Ethereum validators and has significantly influenced the Ethereum PoS ecosystem. Now, Flashbots continues its journey with the introduction of MEV-Share as we continue our journey toward SUAVE.<br><br></p>
+<div class="h2">Our Research</div>
+<p style="min-height: 1.5em;">Flashbots Research is an independent arm of the organization that aims to become the hub of MEV research. In addition to conducting in-house analysis, Flashbots Research collaborates with external researchers at other institutions via an external grants program. Flashbots Research continues to publish seminal research on MEV, covering a wide range of topics including cross-chain MEV, EIP1559 and MEV, how ETH2 affects MEV, SGX and privacy, and more. For a full list of publications, visit <a href="http://writings.flashbots.net" rel="nofollow" target="_blank">writings.flashbots.net</a>.<br><br></p>
+<div class="h2">Why Flashbots?</div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Competitive salary</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Significantly above market rate equity compensation package</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Unlimited PTO with a high level of freedom and autonomy for your work</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Attractive health cover package for US employees</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Yearly budget for your individual learning and development goals</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Work alongside the brightest minds in the crypto space</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Help build the future of blockchain technology</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Remote working - travel and work from anywhere in the world</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Paid travel - team on-sites in different parts of the world, several times a year</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;">At Flashbots, we are committed to building a diverse and inclusive team. We welcome applications from all qualified candidates regardless of their gender, race, ethnicity, religion, sexual orientation, age, or disability status.<br><br></p>
+<img src="https://remotive.com/job/track/1793733/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>DuckDuckGo</h5>
+                    <h3>
+            Senior DevOps Engineer (Remote)
+          </h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://duckduckgo.recruitee.com/o/senior-devops-engineer-remote-global" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+            <p>Hi, we’re DuckDuckGo, the Internet privacy company for everyone who wants to take back their privacy now. For over a decade, we've been building our all-in-one product, developing new privacy technology, and working with policymakers to make online privacy simple and accessible for all.  </p>
+<p><br>Our app is now downloaded more than 78M times a year, and our private search engine packaged with it has become the #2 search engine on mobile in over 21 countries, including the United States, United Kingdom, Canada, Australia, Germany, and the Netherlands. Oh, and we've been profitable since 2014 with revenue currently exceeding $100 million a year! Now, we’re rolling out a suite of new privacy solutions, including <a href="https://www.spreadprivacy.com/introducing-email-protection-beta/" rel="noopener"><u>Email Protection</u></a>,  <a href="https://spreadprivacy.com/introducing-app-tracking-protection/" rel="noopener"><u>App Tracking Protection</u></a>&nbsp;and our first-ever Desktop Apps for <a href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/" rel="noopener"><u>Mac</u></a><a href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/" rel="noopener"> </a>and Windows.<br><br>We’re looking for a <strong>Senior DevOpS Engineer</strong>&nbsp;to help shape our all-in-one privacy solution and join our mission to show the world that protecting your privacy online can be simple.  </p>
+<p><br></p>
+<p><strong>The Opportunity</strong> </p>
+<p>This role combines DevOps, cloud engineering, and IT Operations. You will collaborate with team members at all levels to provide tooling and automation to help us reach our objectives more quickly.<br><br></p>
+<p>You'll take ownership of major components of our internal infrastructure, ensuring they operate smoothly and continually seeking opportunities for improvement. You will create tools and processes that enhance our team's productivity and increase the efficiency of our native applications (our privacy super apps!) development and deployment process.&nbsp;</p>
+<p><br></p>
+<p>You'll also be part of the team's shared on-call rotation and responsible for triaging and resolving employee support requests across the organization. You'll leverage your experience in debugging issues to solve problems, big and small. Your eye for detail will help us optimize our practices, improving how we support our global team.</p>
+<p><br></p>
+<p><strong>What You Will Bring to DuckDuckGo</strong> </p>
+<ul>
+<li>Ability to lead and collaborate on high-impact and complex projects from proposal through post-mortem.</li>
+<li>Skills to wrangle vague problems, propose innovative solutions, and execute them with a strong focus on metrics.</li>
+<li>7+ years of experience in software engineering, DevOps, or IT operations roles.</li>
+<li>Intermediate programming ability in a high-level language (e.g., Perl or Python).</li>
+<li>Experience and comfort on the Linux command line.</li>
+<li>Experience with infrastructure as code (e.g., Chef, Puppet, Ansible, Terraform).</li>
+<li>Passion for helping people and enabling them to solve problems.</li>
+</ul>
+<p><strong>How We Will Support You </strong> </p>
+<p>Our core values -- build trust, question assumptions, and validate direction -- underpin how we work day-to-day and the support we give our team members. We strive to empower our team members to be self-directed and self-motivated in their work.  </p>
+<p><br></p>
+<ul><li>
+<strong>Remote First, Always</strong>: We've always been a fully distributed company with team members all over the world. We trust you to get your work done wherever, whenever.</li></ul>
+<ul><li>
+<strong>Commitment to Personal Growth:</strong> Every team member has an annual budget of $1,250 USD to invest in their professional development. Every team member also has a dedicated Career Advisor, who serves as a guide to help you develop your strengths, identify your motivations, and understand your opportunities for growth.</li></ul>
+<ul><li>
+<strong>Leadership:</strong> We have many different types of leaders and possible combinations of leadership roles, so you can grow your career in a way that aligns best with your personal goals. You can seek additional leadership roles by being directly responsible for projects, taking ownership of areas of the company, developing and maintaining internal processes, or pursuing advisory roles.</li></ul>
+<ul><li>
+<strong>Work/Life Balance: </strong>Team members have the freedom and flexibility to organize their own work schedules. We want you to thrive both in and out of the office. We trust you to use good judgment and take the time off that you need to bring your best self to work.  </li></ul>
+<p><br></p>
+<p>We also offer <strong>paid parental leave, a co-working stipend, office setup reimbursement, </strong>and<strong> a wellness stipend.</strong> More support resources can be found in our, <u><a href="https://duckduckgo.com/assets/hiring/team_support_guide.pdf" rel="noopener">Team Member Support Guide</a></u>, which explains how we make your well-being a priority. </p>
+<p><br></p>
+<p>For more information on how we collaborate worldwide, from <strong>leadership in our relatively flat organization </strong>to <strong>start-to-finish ownership,</strong> check out <u><a href="https://duckduckgo.com/assets/hiring/how_we_work.pdf" rel="noopener">DuckDuckGo Culture: How We Work.</a></u> </p>
+<p><br></p>
+<p><strong>Compensation</strong> </p>
+<p>Annual compensation: <strong>$176,000 </strong>USD and stock options. &nbsp;Compensation is the same within a professional level, regardless of geographic location or functional area, and the compensation for each professional level is transparent across the organization.</p>
+<p><br></p>
+<p><strong>Hiring Process</strong> </p>
+<p>Hiring works best when it's a two-way street. Learn how we help you get to know DuckDuckGo and envision your future role here. Find out more about <u><a href="https://duckduckgo.com/assets/hiring/how_we_hire.pdf" rel="noopener">how we hire</a></u>. </p>
+<p><br></p>
+<p><strong>Diversity, Equity, and Inclusion</strong> </p>
+<p>DuckDuckGo provides equal work opportunities to all team members and applicants<u>,</u> and it prohibits discrimination and harassment of any type&nbsp;on the basis of race, color, ethnicity, caste, religion, age, sex (including pregnancy), national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by our policies or federal, state, or local laws.</p>
+<p><br></p>
+<p>We want to ensure that our hiring process is accessible. If you need reasonable accommodation for any part of the application process because of a medical condition or disability, please send an email to <u><a href="mailto:careers@duckduckgo.com" rel="noopener">careers@duckduckgo.com</a></u> to let us know the nature of your request.  </p>
+<p><br></p>
+<p>If you think you might thrive in this environment, we would love to hear from you. </p>
+<p><br></p>
+<p><strong>Please note that:</strong> </p>
+<ul>
+<li><p>Sometimes we meet up! Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.</p></li>
+<li>While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week. </li>
+<li>A successful candidate will be subject to a background check and must receive satisfactory results of the same, as a condition of joining the team. </li>
+<li>By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.  </li>
+</ul>
+<p><br></p>
+          
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1306325743580848130/mk0qvsZ9_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Kraken</h5>
+                    <h3>Senior DevOps Engineer - Staked</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/kraken/e5688d2d-b64d-4814-8197-21bfc4a033ac" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Future of Crypto&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to <a href="https://blog.kraken.com/crypto-education/security-at-kraken" class="postings-link">industry-leading security</a>, <a href="https://blog.kraken.com/category/crypto-education" class="postings-link">crypto education</a>, and <a href="https://blog.kraken.com/crypto-education/support-at-kraken" class="postings-link">world-class client support</a> through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://futures.kraken.com/wallets" class="postings-link">Kraken Futures</a>.</div><div><br></div><div>Become a Krakenite and build the future of crypto!</div><div><br></div><div><b style="font-size: 24px">Proof of work</b></div><div><br></div><div><b style="font-size: 18px">The team</b></div><div><br></div><div>Join the DevOps Engineering at Staked to take an important role in building and run large-scale, fault-tolerant staking infrastructure. Staked uses a variety of tools including Kubernetes, Terraform, Helm, Tekton, Flux, Prometheus and Grafana for system orchestration and monitoring. You will be responsible for designing, implementing and maintaining these systems alongside other team members.</div><div><br></div><div>As a member of the DevOps team you’ll look for creative ways to automate and secure our systems. This is a mindset and a set of engineering approaches to running better production systems. Much of our software development focuses on optimizing existing systems, building infrastructure and eliminating work through automation. We run a 24/7/365 operation to ensure our infrastructure is highly available and our customers are reliably earning staking rewards.</div><div><br></div><div>The ideal candidate is a team player, has a systematic approach to problem solving and strong communication skills. They have a deep sense of pride and ownership in their work.&nbsp;</div></div><div class="section page-centered"><div><h3>The Opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Lead projects to create, maintain and improve the core “Infrastructure As Code” that supports our production systems.&nbsp;</li><li>Design and improve Automation that will let us scale and evolve systems by improving reliability and velocity using Terraform, Helmfile, Flux, and Tekton</li><li>Utilize Kubernetes to manage containerized applications within the data infrastructure, ensuring efficient deployment, scaling, and orchestration.</li><li>Maintain and improve the core infrastructure that supports Staking Validators by measuring and monitoring availability, latency and overall system health.</li><li>Practice sustainable incident response and blameless post-mortems.</li><li>Work closely with the BlockOps teams who deploy Staking Validators.</li><li>Implement effective incident response procedures and participate in on-call rotations.</li><li>Troubleshoot and resolve incidents promptly to minimize downtime and impact.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>BS degree in Computer Science or a related technical field involving coding (e.g., physics or mathematics)</li><li>Expertise in DevOps, Infrastructure as Code and algorithms</li><li>Expertise with high availability and fault-tolerant systems, disaster recovery and automation in the cloud</li><li>Expertise in container orchestration using Kubernetes</li><li>Experience with cloud provider APIs, best practices and management (AWS and GCP)</li><li>Experience with configuration tools Terraform, Helmfile, Flux, Tekton</li><li>Experience with monitoring tools Prometheus and Grafana</li><li>Expertise in one or more of the following: C, C++, Java, Python, Go, Perl or Ruby</li><li>Preferred: Blockchain interest or experience</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/e5688d2d-b64d-4814-8197-21bfc4a033ac/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -197,30 +406,6 @@
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#Stack</p><p>Requisition ID: 265</p><p></p>
     
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1470600385861611521/zGMS9sPM_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Coalesce</h5>
-                    <h3>DevOps Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/coalesce.io/497eaa6d-bd10-438d-8ea9-0cf90a2b2d05" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 10pt">Coalesce Software is hiring a DevOps Engineer to help us build the future of data analytics tooling. In this role you will play an important role in delivering our SaaS product to our customers at velocity and with reliability, working closely with our product, engineering, and customer success teams to keep our product moving forward and ensure an exceptional user experience for our customers.</span></div><div><br></div><div><span style="font-size: 10pt">What exactly does Coalesce do? Coalesce solves the most commonly failed project in IT: the data warehouse. Companies today need to be-data driven to be competitive. Coalesce is the only cloud-first data platform that enables companies to transform and streamline their analytics process, enabling data-driven decision making and visibility at enterprise scale.</span></div></div><div class="section page-centered"><div><h3>Key Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Design and implement automated software builds, testing infrastructure, deployments, and associated monitoring</li><li>Contribute to CI/CD processes and infrastructure to facilitate faster deployment and testing times for software engineering teams</li><li>Contribute to planning and prioritization discussions</li><li>Facilitate onboarding customers from an infrastructure perspective</li></ul></ul></div></div><div class="section page-centered"><div><h3>Qualifications</h3><ul class="posting-requirements plain-list"><ul><li>Proficient with Kubernetes and/or Docker, preferably experience with GKE</li><li>Proficient with Google Cloud Platform or any major cloud platform--including experience with setting up and maintaining VMs, load balancing, containerization, certificates, etc.</li><li>Experience with GitHub Actions and Argo or similar CI/CD tooling</li><li>Experience with Terraform or similar IaaS</li><li>Experience with monitoring SaaS services</li><li>Exposure to software testing and the software development lifecycle</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 10pt">Not a perfect fit? That’s OK! We have senior team members that can help you level up… Most importantly we are looking for individuals with the demonstrated ability to independently learn and develop. If you have an interest in data analytics and building great software with a high caliber team, we want to hear from you.</span></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit cerulean" data-qa="show-page-apply" href="https://jobs.lever.co/coalesce.io/497eaa6d-bd10-438d-8ea9-0cf90a2b2d05/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr></table>
