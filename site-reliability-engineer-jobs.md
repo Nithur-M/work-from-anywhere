@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/contra-senior-site-reliability-engineer" align="right" target="_blank">Apply</a>
@@ -130,7 +130,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>340 days ago</text>
+                <text>343 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-site-reliability-engineer-1" align="right" target="_blank">Apply</a>
@@ -189,7 +189,7 @@
                     <code>cloud,docker,javascript,kubernetes</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-site-reliability-engineer-1783144" align="right" target="_blank">Apply</a>
@@ -381,7 +381,7 @@
 <p>For more information on how we collaborate worldwide, from leadership in our relatively flat organization to start-to-finish ownership<strong>,</strong> check out <u><a href="https://duckduckgo.com/assets/hiring/how_we_work.pdf" rel="noopener">DuckDuckGo Culture: How We Work.</a></u> </p>
 <p><br></p>
 <p><strong>Compensation</strong> </p>
-<p>Annual compensation: $203,333 - $220,000 USD and stock options. Compensation is the same within a professional level, regardless of geographic location or functional area, and the compensation for each professional level is transparent across the organization.</p>
+<p>Annual compensation: $220,000 - $242,000 USD and stock options. Compensation is the same within a professional level, regardless of geographic location or functional area, and the compensation for each professional level is transparent across the organization.</p>
 <p><br></p>
 <p><strong>Hiring Process</strong> </p>
 <p>Hiring works best when it's a two-way street. Learn how we help you get to know DuckDuckGo and envision your future role here. Find out more about <u><a href="https://duckduckgo.com/assets/hiring/how_we_hire.pdf" rel="noopener">how we hire</a></u>. </p>
@@ -398,11 +398,8 @@
 <li>Sometimes we meet up! Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.</li>
 <li>While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week. </li>
 <li>A successful candidate will be subject to a background check and must receive satisfactory results of the same, as a condition of joining the team. </li>
-<li>By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.  </li>
+<li>By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.</li>
 </ul>
-<p><br></p>
-<p><br></p>
-<p>#US #UK #SP #PL #IR #IC #HN #CR #CN #AU</p>
           
                 </details>
                 </td>
@@ -492,7 +489,7 @@
 <li>A successful candidate will be subject to a background check and must receive satisfactory results of the same, as a condition of joining the team. </li>
 <li>By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work. </li>
 </ol>
-<p>#US #UK #SP #PL #IR #IC #HN #CR #CN&nbsp;<br></p>
+<p><strong>#LI-DNI</strong><br></p>
 <p><br></p>
           
                 </details>
