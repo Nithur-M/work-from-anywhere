@@ -1,55 +1,59 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/4797/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/5744/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>OrderEZ</h5>
-                    <h3> UX/UI Designer </h3>
+                    <h5>Contra</h5>
+                    <h3> 🚀 Product UX/UI Designer (Software) at Intent UX</h3>
                 </td>
                 <td width="300">
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/orderez-ux-ui-designer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/contra-product-ux-ui-designer-software-at-intent-ux" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/4797/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0083/5744/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Singapore
-    <br /><strong>URL:</strong> <a href="https://orderez.co">https://orderez.co</a>
+  <strong>Headquarters:</strong> San Francisco, CA
+    <br /><strong>URL:</strong> <a href="http://bit.ly/3kLhMdk">http://bit.ly/3kLhMdk</a>
 </p>
 
-<div>We are in need of a part-time, ~10-15 hours per week, UX/UI designer to help with a mix of product (80%) and marketing (20%) design work as we grow from our first few hundred customers to the next level. We’d love this to be a stepping stone on the path to a full-time position when we’ve scaled accordingly.</div><div> </div><div>Our primary product is a web application that caters to three different user perspectives, but we have a mobile app too that requires occasional updates.</div><div> </div><div><strong>Why should you join us?</strong></div><ul>
-<li>You will be a crucial member of a small, yet efficient team, where your skills and ideas will have a significant impact.</li>
-<li>You will work on an active project where users' feedback matters and often drives the need for creative solutions.</li>
-<li>We will encourage and support you to expand your skills and knowledge beyond your current area of expertise.</li>
-<li>We promote fully remote work by utilizing Slack, Notion, and Figma for asynchronous communication, and scheduling meetings mainly for in-depth discussions on requirements or implementation.</li>
-</ul><div><strong>Requirements</strong></div><ul>
-<li>Previous experience in creating UX flows for web and mobile applications based on requirement briefs</li>
-<li>Extensive experience using Figma</li>
-<li>Ability to work within an existing design system and maintain consistency</li>
-<li>Ability to design necessary UI assets for your flows</li>
-<li>Experience in designing graphics for marketing purposes</li>
-<li>Proficiency in both written and spoken English</li>
-<li>Availability for at least 3 hours of overlap with Singapore timezone and, ideally, CET timezone (8am to 7pm)</li>
-</ul><div><strong>Responsibilities</strong></div><ul>
-<li>Build new flows and improve existing ones that align with our design system and flows in Figma.</li>
-<li>Collaborate with the product owner and developers to find the optimal solution for given requirements.</li>
-<li>Conduct research to help develop the user experience strategy.</li>
-<li>Make UX/UI adjustments based on user feedback.</li>
-<li>Provide developers with complete UI and UX files, as well as exported assets.</li>
-<li>Support our marketing design needs for paid social, email, and in-product messaging.</li>
-<li>Express your opinions, share your knowledge, and participate in clear and honest team communication.</li>
-</ul>
+<div>
+<strong><br>🔥 Let's get to the point!<br></strong><br>
+</div><div>We are a fully remote product design UX/UI agency. We design large enterprise software portals and mobile apps. </div><div>
+<br><br>
+</div><div>Our Website: <a href="https://www.intentux.com/">https://www.intentux.com/</a>
+</div><div><br></div><div>
+<br>We are looking for a well-rounded UX/UI designer to help build out designs in Miro and Figma.<br><br>
+</div><div><br></div><div><strong><br>What's a must:</strong></div><ul>
+<li>Great English accent and English speaking (On client meetings)</li>
+<li>Polished UI skills (Know all the good Figma plugins and design systems)</li>
+<li>Know how to UX and more about how to build UI in Figma</li>
+<li>That's it!</li>
+</ul><div><br></div><div><strong><br>Job Specs:</strong></div><ul>
+<li>Fully remote</li>
+<li>NYC Time Zone clients and staff</li>
+<li>25 hours per week</li>
+<li>$28/hour </li>
+<li>2-3 Projects/Clients at a time</li>
+<li>Building wires, creating Figma screens, attending to client comments, attending UX review meetings</li>
+<li>A senior designer will oversee you and guide</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong><br>This is you?<br></strong><br>
+</div><div>Apply directly on Contra!<br><br>
+</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/orderez-ux-ui-designer">https://weworkremotely.com/remote-jobs/orderez-ux-ui-designer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/contra-product-ux-ui-designer-software-at-intent-ux">https://weworkremotely.com/remote-jobs/contra-product-ux-ui-designer-software-at-intent-ux</a></p>
 
                 </details>
                 </td>
@@ -65,7 +69,7 @@
                     <code>go,UI/UX,wordpress,chat</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
