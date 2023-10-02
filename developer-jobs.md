@@ -1,91 +1,5 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/2413/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Bellawatt</h5>
-                    <h3> Mid Level Frontend Web Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/bellawatt-mid-level-frontend-web-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0124/2413/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Brooklyn
-    <br /><strong>URL:</strong> <a href="https://bellawatt.com">https://bellawatt.com</a>
-</p>
-
-<div>Hello! We’re <a href="https://www.bellawatt.com/">Bellawatt</a>! We’ve been remote, bootstrapped, and profitable for 6+ years. We work in the energy industry, building software for clients such as solar installation companies and electric utilities.<br><br>We’re looking for a <strong>mid level frontend engineer</strong> to build web applications that help <strong>speed up electrification</strong>. Publicly available examples include <a href="https://guide.pge.com/">PG&amp;E's Energy Efficiency Marketplace</a> and <a href="https://charging.coned.com/">Con Edison's Fleets Tool</a>.<br><br><strong>Compensation and Benefits</strong><br><br>We know this section is a pass/fail filter in your job search, so let’s get right to it:</div><ul>
-<li>$100k-125k/yr salary 💰</li>
-<li>Fully remote work environment</li>
-<li>Health insurance</li>
-<li>401(k) plan</li>
-<li>Macbook provided to run <a href="https://diffusionbee.com/">DiffusionBee</a> (oh, and definitely also to do some work on)</li>
-<li>Home office budget</li>
-<li>Flexible vacation policy</li>
-<li>Learning budget</li>
-<li>Something missing? We’re small enough to try to make it work. Let’s chat!</li>
-</ul><div>
-<br><strong>The Role<br></strong><br><strong>What you’ll do</strong>
-</div><ul>
-<li>Primarily, you’ll build <strong>React-based UIs</strong> with a high attention to visual detail.</li>
-<li>You’ll be expected to <strong>own smaller frontend projects</strong> or <strong>own major features within large projects</strong>, and you’ll have support from our experienced engineers.</li>
-<li>You’ll <strong>stretch yourself</strong>. We have a lot of frontend work, but you should be eager to jump into backend code when the project needs it. We build backends in <strong>Ruby and Python</strong>. We tie frontends to the backends using <strong>Inertia.js</strong>.</li>
-<li>We’ll have your back as you learn new stuff, but sometimes you’ll need to learn on the fly.</li>
-</ul><div>
-<br><strong>How we work</strong>
-</div><ul>
-<li>We are organized into small <strong>teams of 2-4 people</strong> working on 2-18 month long projects, often in greenfield codebases.</li>
-<li>Engineers typically work on 1 to 2 client projects at a time in order to <strong>minimize context switching</strong>.</li>
-<li>Engagements often have multiple follow-on phases because we earn our clients’ trust.</li>
-<li>We have an <strong>async-first</strong> culture with few scheduled meetings and <strong>a lot of writing</strong>. We value <strong>deep work</strong> time.</li>
-<li>
-<strong>Sustainable hours</strong>. We are highly self-motivated folks, and we work really hard to meet our goals. But we value work life balance and know that fresh minds work better. Long or weekend hours are vanishingly rare here.</li>
-<li>Read more about how we work <a href="https://www.bellawatt.com/work/">here</a>! If this resonates, you’ll probably like working with us.</li>
-</ul><div>
-<br><strong>About You</strong><br>You aren’t a list of bullet points. You are a human with strengths and weaknesses and quirks. So are we! Our goal is to find the overlap between your interests, your strengths, and what our clients need. That said, bullet points are easier to digest in a job post. Here are the skills you’ll need to succeed at Bellawatt:<br><br>
-</div><ul>
-<li>
-<strong>Production experience with rich JavaScript UIs</strong>. React is our default choice, but experience with other similar frameworks instead is ok.</li>
-<li>
-<strong>Strong project skills</strong>. Our small teams are so effective because we work together towards our goals. That means being responsible for hitting deadlines (or having the confidence to gently push back on them!) and helping our product team manage a project.</li>
-<li>
-<strong>Self sufficiency</strong>. You should have the ability to manage your own time, unblock yourself and unblock your team. That is not to say you should never get stuck! Part of self sufficiency is knowing when to raise your hand for help, and we like to help each other.</li>
-<li>
-<strong>A writer at heart</strong>. You enjoy communicating complex ideas via text. You proofread, even when sharing “rough drafts”.  You use writing to clarify your thinking.</li>
-<li>
-<strong>Curious tenacity</strong>. If you have to occasionally pull yourself out of a rabbit hole because a problem just won’t let go of your curiosity, then you’ll fit in here.</li>
-</ul><div>
-<br><strong>How to Apply</strong><br>We are excited to add a new colleague! And we won’t waste your time - our interview process is straightforward:</div><ol>
-<li>
-<strong>Email us at </strong><a href="mailto:jobs@bellawatt.com"><strong>jobs@bellawatt.com</strong></a>. Please include your resume and/or link to your LinkedIn profile.</li>
-<li>
-<strong>An Informal Interview (30 min)</strong> where we get to know each other and discuss expectations. If there’s mutual interest, we’ll ask you for a recent writing sample (something you’ve written previously about a complicated technical topic) and send a couple questions for you to answer in writing.</li>
-<li>
-<strong>A Technical Interview (2 hours)</strong> where we code together in VSCode’s LiveShare. We will be collaboratively looking at problems inspired by things we actually work on – no bubble sorts or leetcode trick questions. You should have a clear sense of whether <strong>you’ll like working with us</strong> after we wrap up.</li>
-<li>
-<strong>A Case Study (90 min)</strong> that seeks to simulate what it would be like for us to actually work together on a project, including a Product team member.</li>
-<li>We’ll send you an offer within a week.</li>
-</ol><div>That’s it! We don’t like drawn-out interview processes any more than you do. Looking forward to connecting!<br><br>
-</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bellawatt-mid-level-frontend-web-developer">https://weworkremotely.com/remote-jobs/bellawatt-mid-level-frontend-web-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/8337/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -96,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/zapiet-experienced-laravel-developer-3" align="right" target="_blank">Apply</a>
@@ -146,7 +60,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/dataexplorer-python-flask-user-workspace-developer" align="right" target="_blank">Apply</a>
@@ -193,7 +107,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/resos-aps-lead-developer-for-a-profitable-saas" align="right" target="_blank">Apply</a>
@@ -249,7 +163,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/draft-dev-technical-writer-developer" align="right" target="_blank">Apply</a>
@@ -304,7 +218,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/onthegosystems-senior-php-developer" align="right" target="_blank">Apply</a>
@@ -366,7 +280,7 @@
                     <code>Sales and Marketing</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/onthegosystems-content-marketer-for-a-developer-tool" align="right" target="_blank">Apply</a>
@@ -414,6 +328,92 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0099/5721/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>TextMagic</h5>
+                    <h3> Senior Back-end developer (PHP, Symfony, PostgreSQL)</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>61 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/textmagic-senior-back-end-developer-php-symfony-postgresql-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0099/5721/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Estonia
+    <br /><strong>URL:</strong> <a href="https://www.textmagic.com">https://www.textmagic.com</a>
+</p>
+
+<div><strong>The main technologies we use:</strong></div><ul>
+<li>PHP 7, Symfony 4, Codeception, PHPUnit, OpenAPI<br><br>
+</li>
+<li>PostgreSQL 10, Memcached<br><br>
+</li>
+<li>Beanstalk<br><br>
+</li>
+<li>Docker<br><br>
+</li>
+</ul><div><strong>What you will do:</strong></div><ul>
+<li>Develop new features and platform architecture.<br><br>
+</li>
+<li>Design and build REST API.<br><br>
+</li>
+<li>Integrate with third-party services using API.<br><br>
+</li>
+<li>Refactoring and code optimization.<br><br>
+</li>
+<li>Scale the project for increasing loads.<br><br>
+</li>
+<li>Participate in the team’s product logic development.<br><br>
+</li>
+<li>Undertake code reviews of other team members’ work.<br><br>
+</li>
+<li>Optimize database queries.<br><br>
+</li>
+</ul><div><strong><br>What we expect from you:</strong></div><ul>
+<li>Excellent knowledge of and experience with the technologies listed above.<br><br>
+</li>
+<li>A clear understanding of the architecture of a web application and its separate components.<br><br>
+</li>
+<li>An understanding of how the HTTP request lifecycle works.<br><br>
+</li>
+<li>Experience in building REST API.<br><br>
+</li>
+<li>An understanding of the principles of SOLID and OOP.<br><br>
+</li>
+<li>Experience in creating high-load systems in conditions of zero downtime.<br><br>
+</li>
+<li>An understanding of how to build efficient, scalable database architecture. Experience with PostgreSQL or MySQL (writing complex queries; understanding EXPLAIN; optimizing slow queries without changing the database structure; changing schemas of large tables without downtime, etc.)<br><br>
+</li>
+</ul><div><br></div><div><strong><br>What we offer:</strong></div><ul>
+<li>Full support for your professional growth.<br><br>
+</li>
+<li>Any equipment you need for productive work.<br><br>
+</li>
+<li>The opportunity to bring your vision to the project.<br><br>
+</li>
+<li>Remote working.<br><br>
+</li>
+<li>A professional and friendly team, ready to help you.<br><br>
+</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/textmagic-senior-back-end-developer-php-symfony-postgresql-1">https://weworkremotely.com/remote-jobs/textmagic-senior-back-end-developer-php-symfony-postgresql-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0099/5455/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -424,7 +424,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>60 days ago</text>
+                <text>63 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/overmind-blockchain-developer" align="right" target="_blank">Apply</a>
@@ -458,7 +458,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>211 days ago</text>
+                <text>214 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -487,6 +487,7 @@
 <li>You have a good understanding of front-end technologies including HTML5, JavaScript, and CSS3;</li>
 <li>You possess knowledge of server-side templating languages including Slim and Liquid;</li>
 <li>You got familiar with testing tools.</li>
+<li>Commercial experience</li>
 </ul><div>
 <br><br>
 </div><div>
@@ -542,7 +543,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1052 days ago</text>
+                <text>1055 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
@@ -611,6 +612,83 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/814298/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>A.Team</h5>
+                    <h3>Senior Independent Software Developer</h3>
+                </td>
+                <td width="300">
+                    <code>go,wordpress,chat,apple</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="text-size-adjust: 100%; overflow-wrap: break-word;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. </p>
+<p style="text-size-adjust: 100%; overflow-wrap: break-word;">After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.</p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><em>As part of A·Team, you can expect:</em></span></p>
+<ul style="">
+<li style=""><strong>High-paying, meaningful missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
+<li style=""><strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
+<li style=""><strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
+<li style=""><strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
+<li style=""><strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
+</ul>
+<p> </p>
+<p> </p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>How to apply:</strong></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Go here: <a href="https://build.a.team/remotivereferral" rel="nofollow">https://build.a.team/remotivereferral</a> + mention Remotive. </span>No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.</p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>What you’ll do:</strong></span></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </span></p>
+</li>
+</ul>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><strong><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Who A</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">·</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Team is for:</span></strong></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy.</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing</span></p>
+</li>
+</ul>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><strong><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Who A</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">·</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Team is </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">not</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"> for:</span></strong></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">People looking for small gigs</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Folks looking to build simple wordpress/wix/squarespace-style websites</span></p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Those still early in their careers and recent university/bootcamp grads (at least not yet)</span></p>
+</li>
+</ul>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>Our long-term vision:</strong></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a new type of company for a new kind of independent software builder. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</span></p>
+<img src="https://remotive.com/job/track/814298/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1783538/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -621,7 +699,7 @@
                     <code>backend,docker,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-ror-developer-mid-level-1783538" align="right" target="_blank">Apply</a>
@@ -691,7 +769,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -752,83 +830,6 @@
 <p> </p>
 <p>*Starting base pay in the US states of California, New York, Washington and Colorado for this position ranges between $15 - $35 per hour</p>
 <img src="https://remotive.com/job/track/1680495/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/814298/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>A.Team</h5>
-                    <h3>Senior Independent Software Developer</h3>
-                </td>
-                <td width="300">
-                    <code>go,wordpress,chat,apple</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="text-size-adjust: 100%; overflow-wrap: break-word;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. </p>
-<p style="text-size-adjust: 100%; overflow-wrap: break-word;">After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.</p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><em>As part of A·Team, you can expect:</em></span></p>
-<ul style="">
-<li style=""><strong>High-paying, meaningful missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
-<li style=""><strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
-<li style=""><strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
-<li style=""><strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
-<li style=""><strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
-</ul>
-<p> </p>
-<p> </p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>How to apply:</strong></span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Go here: <a href="https://build.a.team/remotivereferral" rel="nofollow">https://build.a.team/remotivereferral</a> + mention Remotive. </span>No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.</p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>What you’ll do:</strong></span></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><strong><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Who A</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">·</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Team is for:</span></strong></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing</span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><strong><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Who A</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">·</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Team is </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">not</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"> for:</span></strong></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">People looking for small gigs</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Folks looking to build simple wordpress/wix/squarespace-style websites</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Those still early in their careers and recent university/bootcamp grads (at least not yet)</span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>Our long-term vision:</strong></span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a new type of company for a new kind of independent software builder. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</span></p>
-<img src="https://remotive.com/job/track/814298/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
