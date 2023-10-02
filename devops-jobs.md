@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/marialdn-webmaster-website-administration-devops-wordpress" align="right" target="_blank">Apply</a>
@@ -37,108 +37,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/marialdn-webmaster-website-administration-devops-wordpress">https://weworkremotely.com/remote-jobs/marialdn-webmaster-website-administration-devops-wordpress</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1793733/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Flashbots.net</h5>
-                    <h3>Senior DevOps Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>AWS,crypto,blockchain,research</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1793733" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="h1">What we're looking for</div>
-<p style="min-height: 1.5em;">Flashbots is looking for a talented DevOps engineer capable of running production infrastructure in AWS. This key role will assist the current development team in monitoring, extending, and hardening the current production and development infrastructure, with a goal of scaling infrastructure while taking work off the development team's plates.<br><br></p>
-<div class="h1">Responsibilities</div>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Maintain and improve network architecture for clusters of Ethereum nodes</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Maintain and improve the architecture of Flashbots Relay infrastructure</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Assist in the deployment of production and staging tools to support Flashbots Data initiatives</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Design, build, and maintain testing infrastructure for multiple Flashbots projects<br><br></p>
-</li>
-</ul>
-<div class="h1">Qualifications</div>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">4+ years experience as a problem solver</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Attention to detail</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Excellent communication skills</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Deep understanding of technology</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Proven record of shipping features on time and on budget</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Flexible and focused on solutions</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Organized and self-sufficient<br><br></p>
-</li>
-</ul>
-<div class="h1">About Flashbots</div>
-<p style="min-height: 1.5em;">Flashbots started in 2020 as a research and development organization formed to mitigate the negative externalities and existential risks posed by Maximal Extractable Value (MEV) to smart-contract blockchains, starting with Ethereum. We build products to maximally decentralize public blockchains, redistribute MEV, and empower users. We work closely with our community to ensure that our products have a positive impact, are secure, and can be used in production at scale.<br><br></p>
-<div class="h2">Our Impact</div>
-<p style="min-height: 1.5em;">Since the launch of Flashbots, we have had an immense impact on the world of cryptocurrency. The Flashbots Auction was launched in alpha in January 2021 and was quickly adopted by almost all Ethereum miners. Prior to Ethereum's Merge in 2022, Flashbots launched MEV-Boost, a temporary solution for out-of-protocol proposer-builder separation. MEV-Boost has since been adopted by over 90% of Ethereum validators and has significantly influenced the Ethereum PoS ecosystem. Now, Flashbots continues its journey with the introduction of MEV-Share as we continue our journey toward SUAVE.<br><br></p>
-<div class="h2">Our Research</div>
-<p style="min-height: 1.5em;">Flashbots Research is an independent arm of the organization that aims to become the hub of MEV research. In addition to conducting in-house analysis, Flashbots Research collaborates with external researchers at other institutions via an external grants program. Flashbots Research continues to publish seminal research on MEV, covering a wide range of topics including cross-chain MEV, EIP1559 and MEV, how ETH2 affects MEV, SGX and privacy, and more. For a full list of publications, visit <a href="http://writings.flashbots.net" rel="nofollow" target="_blank">writings.flashbots.net</a>.<br><br></p>
-<div class="h2">Why Flashbots?</div>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Competitive salary</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Significantly above market rate equity compensation package</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Unlimited PTO with a high level of freedom and autonomy for your work</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Attractive health cover package for US employees</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Yearly budget for your individual learning and development goals</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Work alongside the brightest minds in the crypto space</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Help build the future of blockchain technology</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Remote working - travel and work from anywhere in the world</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Paid travel - team on-sites in different parts of the world, several times a year</p>
-</li>
-</ul>
-<p style="min-height: 1.5em;">At Flashbots, we are committed to building a diverse and inclusive team. We welcome applications from all qualified candidates regardless of their gender, race, ethnicity, religion, sexual orientation, age, or disability status.<br><br></p>
-<img src="https://remotive.com/job/track/1793733/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
