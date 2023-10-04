@@ -1,5 +1,41 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/6685/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>TempMee</h5>
+                    <h3> Backend Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/tempmee-backend-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0083/6685/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Miami, FL, United States
+    <br /><strong>URL:</strong> <a href="https://tempmee.com">https://tempmee.com</a>
+</p>
+
+<div>Venture-backed Miami based tech startup seeking an experienced Backend Developer.<br><br>TempMee is changing the way the world works - starting with the Dental Industry! We are an ambitious and motivated tech startup that has secured multiple rounds of venture backing to create an Uber-like platform/app to disrupt the dental staffing industry. After launching in late 2019, we have already built the largest community of nationwide hygienists and dental offices, dwarfing our established competition in the dental tech staffing space. It is truly a matter of time until TempMee is the industry standard for dental staffing needs in the Dental Community!<br><br>Working with TempMee means you will be working alongside committed fellow engineers who know their work is critical to the company's success. We are a people-first company that actively seeks your input to make you more successful in your role! We like to have fun with our work and encourage you to get to know the people you work with. We have a motto - Hard work doesn’t have to be serious!<br><br>Qualifications:<br><br>- 3-5 years of experience with software development in one or more programming languages<br>- Must be available on weekdays for meetings 9 AM - 11 AM Eastern American time;<br>- 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture<br>- Solid programming skills in JavaScript<br>- Deep understanding of relational database systems, specifically MySQL and Postgres<br>- Understanding NoSQL Datastores such as ElasticSearch, and MongoDB is a plus<br>- Experience building scalable, performant, and modular solutions<br>- Understanding of modern cloud technologies such as AWS or Google Cloud<br>- Experience with microservices and service-oriented architecture</div><div>
+<br>What you'll do<br><br>- Work in an exciting and high-growth startup<br>- Research novel solutions to nuanced and often unchartered engineering challenges<br>- Work with designers, product managers, and engineers to design impactful products<br>- Perform and uphold code best practices.<br>- Produce high-quality code that raises the bar for all engineering team members<br>- Improve scalable distributed systems on the cloud<br>- Improve web applications for performance and scalability<br>- Perform quality assurance/debugging procedures to provide a secure and functional delivery<br>- Implement testing protocols for managing successful deployments across development, staging, and production environments<br>- Recommend system solutions by comparing the advantages and disadvantages of custom development and purchasing alternatives<br><br>We are excited to meet you!<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tempmee-backend-developer">https://weworkremotely.com/remote-jobs/tempmee-backend-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/8337/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +46,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/zapiet-experienced-laravel-developer-3" align="right" target="_blank">Apply</a>
@@ -60,7 +96,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/dataexplorer-python-flask-user-workspace-developer" align="right" target="_blank">Apply</a>
@@ -107,7 +143,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/resos-aps-lead-developer-for-a-profitable-saas" align="right" target="_blank">Apply</a>
@@ -144,185 +180,12 @@
 <li>A yearly company get-together, somewhere in the world</li>
 <li>With the right talent and results, the possibility of promotion to CTO within 1-2 years, including employee responsibilities, etc.</li>
 </ul><div>
-<br>We hope that the right candidate can start either January 1st or February 1st 2024. We will have ongoing conversations with the candidates as we get applications. </div><div><br></div><div>If you have been nodding through the description above and you are willing to invest a few hours for interviews and 2-5 hours for testing (online), please apply and provide a link to your GitHub account as well as a few projects that you have been working on.<br><br><br>
+<br>We hope that the right candidate can start either January 1st or February 1st 2024. We will have ongoing conversations with the candidates as we get applications. </div><div>
+<br>The salary will start at around $7.000 monthly<br><br>
+</div><div>If you have been nodding through the description above and you are willing to invest a few hours for interviews and 2-5 hours for testing (online), please apply and provide a link to your GitHub account as well as a few projects that you have been working on.<br><br><br>
 </div><div>Thanks</div><div><br></div>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/resos-aps-lead-developer-for-a-profitable-saas">https://weworkremotely.com/remote-jobs/resos-aps-lead-developer-for-a-profitable-saas</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/9485/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Draft.dev</h5>
-                    <h3> Technical Writer / Developer</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/draft-dev-technical-writer-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0018/9485/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> USA
-    <br /><strong>URL:</strong> <a href="https://draft.dev/">https://draft.dev/</a>
-</p>
-
-<h1>About the Job</h1><div>
-<a href="http://draft.dev/">Draft.dev</a> is a content marketing agency focused on creating in-depth, technical content for growing technology companies. We work with subject matter experts from around the world to create tutorials, blog posts, and e-books for our clients. Founded in 2020, we're a small but quickly growing team of technologists, writers, marketers, and editors.</div><div>
-<br>If you're a software developer and you want to build your personal brand while getting paid to write about interesting technical topics on the side, this will be a great part-time role for you!</div><div>
-<br>📣 <strong>We're looking for Developers who have experience in Salesforce or Microsoft Power Apps</strong>.</div><div>
-<br>Draft.dev’s writers create technical blog posts and tutorials for clients in a wide range of industries and areas of technology. Writer pay starts at $300 per ~1500-word article and goes up as you complete more assignments.</div><div>
-<br>This is a great side hustle as almost all our 200+ writers are full-time developers with a background in software engineering, data engineering, machine learning, product management, or similar.</div><div>
-<br>Because we create content that will be read by a wide range of readers around the world, we are committed to supporting diversity in our writers (we currently have writers in over 50 countries).</div><h1>What You'll Do</h1><ul>
-<li>Write content such as blogs, tutorials, guides, and other similar materials</li>
-<li>Research and prepare demo code as needed</li>
-<li>Conduct necessary research to ensure the accuracy of the content</li>
-<li>Respond to editorial requests in a timely manner</li>
-</ul><h1>Your Skills &amp; Experience</h1><div>You have experience in <strong>ANY</strong> of the following:</div><ul>
-<li>Salesforce (and especially Salesforce Mobile)</li>
-<li>Microsoft Power Apps</li>
-</ul><h1>What You'll Love</h1><ul>
-<li>Remote work: 100% remote work environment allows for a flexible schedule and work from anywhere in the world</li>
-<li>Asynchronous communication: No need to be available at specific hours or use real-time chat tools, promoting work-life balance</li>
-<li>Diversity and inclusion: A company culture that values diversity and inclusivity in all aspects of our work</li>
-<li>Fair pay: Competitive salary based on experience, and a commitment to paying fair rates for quality work</li>
-<li>Honest feedback: A supportive work environment that values honesty and transparency in feedback to help employees grow and succeed.</li>
-</ul><div>
-<br>If you have any of the skills listed above, please apply!</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/draft-dev-technical-writer-developer">https://weworkremotely.com/remote-jobs/draft-dev-technical-writer-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/2990/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>OnTheGoSystems</h5>
-                    <h3> Senior PHP Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/onthegosystems-senior-php-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/2990/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> 100% remote
-    <br /><strong>URL:</strong> <a href="https://onthegosystems.com">https://onthegosystems.com</a>
-</p>
-
-<div>
-<strong>We’re looking for an experienced PHP developer who wants to invest their expertise into giving thousands of people the opportunity to build advanced WordPress websites without programming by maintaining and adding small new features to our Toolset product known all over the world.<br></strong><br>
-</div><div>If you would like to join a stable company and work hand-in-hand under the mentorship of the lead developer of Toolset and foster your professional development – we are anticipating your application!</div><div><strong><br>What strong skills we’re looking for in a PHP developer</strong></div><ul>
-<li>PHP, with experience on legacy versions (7.0 minimum, 5.6 is a plus) as well as new versions (8.x).</li>
-<li>JavaScript, including legacy libraries (like jQuery), vanilla JavaScript, and React (and real experience in <strong>its usage in the WordPress blocks editor</strong>).</li>
-<li>Dependency managers, including Composer for PHP and NPM for JavaScript.</li>
-<li>Debugging tools: XDebug, browser console.</li>
-<li>Testing and code quality tools: PHPUnit, PHPStan, PHPCS, Codeception.</li>
-<li>Version control using Git.</li>
-<li>Experience with GitLab (CI/CD, pipelines, jobs, configuration files) or any other similar tool. </li>
-</ul><div><br></div><div>
-<strong>Role expectations and responsibilities will align with short-,mid- and long-term goals<br></strong><br>
-</div><div><strong>Short-term goals:</strong></div><ul>
-<li>Get used to a large codebase with lots of inner connections that uses a wide number of different languages and techniques.</li>
-<li>Be able to work on issues in our most challenging plugins with the largest user base (Views/Blocks, Forms) with supervision: code reviews, and periodic mentoring.</li>
-</ul><div><strong>Mid-term goals:</strong></div><ul>
-<li>Triage newly created tickets based on their severity and reach, working together with Support on prioritization, executions, and delivery.</li>
-<li>Be able to work on general issues with little-to-no supervision, with specific feedback on complex tasks and topics.</li>
-</ul><div><strong>Long-term goals:</strong></div><ul>
-<li>Take care of the legacy Codeception tests for Toolset. Consolidate passing tests, and evaluate failing tests: discard, fix, rewrite. This is a long task so it should spread as a short, mid, and long goal, but starting ASAP.</li>
-<li>Track and preview changes from the platform (WordPress) and how they affect the compatibility of the plugins. This is also an ongoing goal from day 1.</li>
-</ul><div><br></div><div><strong>What we offer</strong></div><ul>
-<li>100% remote position,</li>
-<li>Full-time position with paid public holidays, vacation, and sick leave,</li>
-<li>Paid sabbatical (yes, most people in our team stick with us for years!),</li>
-<li>Being part of a team of smart, self-driven individuals,</li>
-<li>Great opportunity to progress and advance,</li>
-<li>Collaborating with team members across the globe.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/onthegosystems-senior-php-developer">https://weworkremotely.com/remote-jobs/onthegosystems-senior-php-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>OnTheGoSystems</h5>
-                    <h3> Content Marketer for a Developer Tool</h3>
-                </td>
-                <td width="300">
-                    <code>Sales and Marketing</code>
-                </td>
-                <td width="200">
-                <text>7 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/onthegosystems-content-marketer-for-a-developer-tool" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> 100% remote
-    <br /><strong>URL:</strong> <a href="https://onthegosystems.com">https://onthegosystems.com</a>
-</p>
-
-<h1>We are looking for a person with proven experience in running successful marketing campaigns. </h1><div>Our target audience are developers, so if you have expertise in working with tech products, it will be a great advantage! If you can show us your own blog with numerous followers where you talk about things that interest you and you get others excited, we’re also interested! </div><h1>What we’re looking for in a Content Marketer</h1><ul>
-<li>English proficiency at a native speaker’s level, both written and spoken</li>
-<li>Minimum 6 years of experience in content marketing, with a proven track record of creating content that drives sales</li>
-<li>Ownership and operation of several successful campaigns that demonstrates your content marketing skills and preferably in different industries</li>
-<li>Expertise in creating a strategy and its implementation</li>
-<li>Exceptional writing and communication skills, the ability to convey your ideas to different audiences and via numerous channels</li>
-<li>Strong analytical skills, with the ability to use data to inform content strategy and measure results</li>
-<li>Creative and strategic mindset, with the ability to think outside the box and generate new ideas for content</li>
-<li>Clear understanding of how LLMs have changed the way Content Marketing works and creative ideas for how to do Content Marketing as of 2023</li>
-</ul><h1>Responsibilities</h1><ul>
-<li>Know our products and competitor products inside and out.</li>
-<li>Get into the minds of potential customers, understand their needs, desires and concerns.</li>
-<li>Create a content strategy that builds on our benefits, addresses customer needs and capitalizes on media opportunities.</li>
-<li>Apply different methods of strategy implementation.</li>
-<li>Pitch your content ideas to partners and publications that you identify on your own.</li>
-<li>Write great content, with an authentic voice, which engages clients emotionally and logically.</li>
-<li>Analyze the effectiveness of our content marketing efforts, using Analytics, engagement and conversions. Then, refine until you reach outstanding results.</li>
-<li>Stay up-to-date with industry news, so that our content is always relevant.</li>
-</ul><h1>What we offer</h1><ul>
-<li>100% remote position</li>
-<li>Full-time position with paid public holidays, vacation, and sick leave</li>
-<li>Being part of a team of highly talented and self-driven individuals</li>
-<li>Ample opportunities to progress and advance</li>
-<li>Collaboration with team members from all around the world, with different cultures and languages.</li>
-</ul><div><br></div><div><strong>If you’re looking for an excellent opportunity to make an impact, in a company that values innovation and teamwork, apply today and join our dynamic team!</strong></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/onthegosystems-content-marketer-for-a-developer-tool">https://weworkremotely.com/remote-jobs/onthegosystems-content-marketer-for-a-developer-tool</a></p>
 
                 </details>
                 </td>
@@ -338,7 +201,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>61 days ago</text>
+                <text>63 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/textmagic-senior-back-end-developer-php-symfony-postgresql-1" align="right" target="_blank">Apply</a>
@@ -424,7 +287,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>63 days ago</text>
+                <text>65 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/overmind-blockchain-developer" align="right" target="_blank">Apply</a>
@@ -458,7 +321,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>214 days ago</text>
+                <text>216 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
@@ -543,7 +406,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1055 days ago</text>
+                <text>1057 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
@@ -622,7 +485,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -699,7 +562,7 @@
                     <code>backend,docker,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-ror-developer-mid-level-1783538" align="right" target="_blank">Apply</a>
@@ -769,7 +632,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -853,7 +716,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Future of Crypto&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to <a href="https://blog.kraken.com/crypto-education/security-at-kraken" class="postings-link">industry-leading security</a>, <a href="https://blog.kraken.com/category/crypto-education" class="postings-link">crypto education</a>, and <a href="https://blog.kraken.com/crypto-education/support-at-kraken" class="postings-link">world-class client support</a> through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://futures.kraken.com/wallets" class="postings-link">Kraken Futures</a>.</div><div><br></div><div>Become a Krakenite and build the future of crypto!</div><div><br></div><div><b style="font-size: 24px">The Team</b></div><div><br></div><div>The Marketing Operations and Technology team supports the company’s growth and client engagement strategy by implementing tools and executing cross-channel communications in order to help our clients make the most of Kraken’s exchange ecosystem. We strive to serve our internal and external clients with best-in-class technology&nbsp; and marketing best practices, such as hyper-personalization and real-time, relevant messaging, towards flawless execution.</div><div><br></div><div>Kraken’s CRM Ops team is looking for a campaign developer/specialist who will build marketing campaigns in our client engagement tool. We need support to execute and automate lifecycle campaigns using our best-in-class marketing technology tools to build complex customer journeys and dynamic, personalized content to serve all of our client segments. Besides building lifecycle campaigns, this is a role that will support a fast-paced environment, supporting ad-hoc campaigns such as new asset launches. This role will report to our Director of Marketing Technology and Operations, and collaborate cross-functionally with lifecycle marketing, product marketing, product management, and client support teams.&nbsp;</div></div><div class="section page-centered"><div><h3>The Opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Build and deploy on messaging campaigns across email, push, and in-app (web/app) messages; as well as audience segments based on the business logic provided by requestors</li><li>Implement copy and creative tests, and provide design and copywriting input ad-hoc to optimize engagement &amp; conversion</li><li>Collaborate with internal partners for QA and approvals - sending test emails/push to requestors and coordinating with product teams in designing and QA-ing in-app messages</li><li>Attend team meetings to understand priorities and conduct campaign reviews with relevant stakeholders</li><li>Apply learnings from historical campaigns and help ideate on campaign testing roadmap for each customer journey towards optimization based on campaign and business KPIs</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>2-5 years of experience with ESP management required (Braze, Klaviyo, Iterable, etc.)</li><li>Intermediate knowledge of HTML/CSS coding</li><li>An understanding of performance metrics as well as business/marketing analytics</li><li>Strong organization and project management skills</li><li>Strong crypto conviction and familiarity with our product offerings</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Location Tagging: #US #EU #Canada #LI-AG1</div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/51988622-2f16-4af8-be86-c77c85e99987/apply">Apply for this job</a></div>
+                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Future of Crypto&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to <a href="https://blog.kraken.com/crypto-education/security-at-kraken" class="postings-link">industry-leading security</a>, <a href="https://blog.kraken.com/category/crypto-education" class="postings-link">crypto education</a>, and <a href="https://blog.kraken.com/crypto-education/support-at-kraken" class="postings-link">world-class client support</a> through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://futures.kraken.com/wallets" class="postings-link">Kraken Futures</a>.</div><div><br></div><div>Become a Krakenite and build the future of crypto!</div><div><br></div><div><b style="font-size: 24px">The Team</b></div><div><br></div><div>The Marketing Operations and Technology team supports the company’s growth and client engagement strategy by implementing tools and executing cross-channel communications in order to help our clients make the most of Kraken’s exchange ecosystem. We strive to serve our internal and external clients with best-in-class technology&nbsp; and marketing best practices, such as hyper-personalization and real-time, relevant messaging, towards flawless execution.</div><div><br></div><div>Kraken’s CRM Ops team is looking for a campaign developer/specialist who will build marketing campaigns in our client engagement tool. We need support to execute and automate lifecycle campaigns using our best-in-class marketing technology tools to build complex customer journeys and dynamic, personalized content to serve all of our client segments. Besides building lifecycle campaigns, this is a role that will support a fast-paced environment, supporting ad-hoc campaigns such as new asset launches. This role will report to our Director of Marketing Technology and Operations, and collaborate cross-functionally with lifecycle marketing, product marketing, product management, and client support teams.&nbsp;</div></div><div class="section page-centered"><div><h3>The Opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Build and deploy on messaging campaigns across email, push, and in-app (web/app) messages; as well as audience segments based on the business logic provided by requestors</li><li>Implement copy and creative tests, and provide design and copywriting input ad-hoc to optimize engagement &amp; conversion</li><li>Collaborate with internal partners for QA and approvals - sending test emails/push to requestors and coordinating with product teams in designing and QA-ing in-app messages</li><li>Attend team meetings to understand priorities and conduct campaign reviews with relevant stakeholders</li><li>Apply learnings from historical campaigns and help ideate on campaign testing roadmap for each customer journey towards optimization based on campaign and business KPIs</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>2-5 years of experience with ESP management required (Braze, Klaviyo, Iterable, etc.)</li><li>Intermediate knowledge of HTML/CSS coding</li><li>An understanding of performance metrics as well as business/marketing analytics</li><li>Strong organization and project management skills</li><li>Strong crypto conviction and familiarity with our product offerings</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="salary-range"><div>$82,000 - $134,000 a year</div><small><div>This is the target annual salary range for this role. This range is not inclusive of other additional compensation elements, such as our Bonus program, Equity program, Wellness allowance, and other benefits [US Only] (including medical, dental, vision and 401(k)).</div><div><br></div><div>The compensation range provided is influenced by various factors and represents the initial target range. Our salary offerings are dynamic and we strive to ensure that our base salary and total compensation package aligns and recognizes the top talent we aim to attract and retain. The compensation package of the successful candidate is based on various factors such as their skillset, experience, and job scope.</div></small></div><div class="section page-centered" data-qa="closing-description"><div>Location Tagging: #US #EU #Canada #LI-AG1</div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/51988622-2f16-4af8-be86-c77c85e99987/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -877,7 +740,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Future of Crypto&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to <a href="https://blog.kraken.com/crypto-education/security-at-kraken" class="postings-link">industry-leading security</a>, <a href="https://blog.kraken.com/category/crypto-education" class="postings-link">crypto education</a>, and <a href="https://blog.kraken.com/crypto-education/support-at-kraken" class="postings-link">world-class client support</a> through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://futures.kraken.com/wallets" class="postings-link">Kraken Futures</a>.</div><div><br></div><div>Become a Krakenite and build the future of crypto!</div><div><br></div><div><b style="font-size: 24px">Proof of work</b></div><div><br></div><div><b style="font-size: 18px">The team</b></div><div><br></div><div><span style="font-size: 11pt">The Business Solutions team delivers technology solutions to our internal stakeholders.&nbsp; Our group is a partner to business as we look to drive scalability, optimization, integrated efficiencies, and audit-sound developments to our tech stack.&nbsp;&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">The Sr. NetSuite Developer will join the Business Solutions team to be our partner with the Accounting teams. The Sr. NetSuite Developer will own the technology solutions our accounting teams rely on to function. This includes designing, developing, customizing, documentation, training, reporting, stabilization and maintaining functionalities within the NetSuite platform and other financial systems. This role will also partner with various cross functional teams across Security, IT &amp; Engineering to design, develop and implement solutions involving integrations, data and analytics for the Accounting and Finance business teams.</span></div><div><br></div><div><span style="font-size: 11pt">The successful candidate will bring a strong customer service approach to enhancing and maintaining the security, data, and application integrity and performance of our financial-related applications. Additionally, this position will participate in the delivery of Financial IT services and projects and ensure internal client satisfaction.&nbsp;</span></div></div><div class="section page-centered"><div><h3>The opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Provide day-to-day administration and maintenance of critical business systems including but not limited to NetSuite, Blackline etc.&nbsp;</li><li>Experience writing and managing NetSuite scripts, workflows and integrations using SuiteScript, SuiteFlows, Web Services/SuiteTalk or other related tools (MUST have)</li><li>Responsible for owning system configuration and integration - configure fields, workflows, roles/permissions, custom rules, reports, scripts, and dashboards&nbsp;</li><li>Propose improvements to the NetSuite ERP system and the business systems that interface with it.&nbsp;</li><li>Work on implementations of various customizations within NetSuite, including but not limited to creating custom segments, custom fields, records, forms, workflows etc.</li><li>Create and maintain integrations between NetSuite and other systems</li><li>Develop and maintain custom script and workflow solutions using modern coding practices</li><li>Contributes to cross-functional projects that involve integration between back-office applications and other applications&nbsp;</li><li>Work with business stakeholders to understand current state business processes, and identify gaps/ opportunities for improvement within processes &amp; applications.</li><li>Take part in business project intake and prioritization meetings with business stakeholders.</li><li>Lead and execute requirements gathering sessions with Finance stakeholders.</li><li>Drive or participate in effort estimation, design, configuration, and testing of features and projects.</li><li>Collaborate with System Implementation(SI) partners on various outsourced projects to provide co-design and co-develop solutions.&nbsp;</li><li>Collaborate with Enterprise Integration &amp; Data warehouse teams on cross functional projects involving integrations.</li><li>Work closely with business to optimize business processes and drive efficiencies in the day to day operations and the functioning of the accounting office.&nbsp;</li><li>Provide finance system administration to support business users (e.g., developing workflows, page layouts, formulas, approval processes) for running their operations.</li><li>Communicate, log, and resolve planned or unplanned system downtime and system support issues</li><li>Mentor junior resources within the team on business analysis and system administration of Financial Systems</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>6+ years of working experience as a NetSuite Developer</li><li>Experience with NetSuite OneWorld administration, configuration, and 3rd party integrations</li><li>4+ Year of experience in NetSuite technical role including development with JavaScript , SuiteScript 2.0, SuiteFlow (workflow automation) and SuiteTalk (web services API) of NetSuite for a large enterprise&nbsp;</li><li>6+ years of administration &amp; configuration experience in enterprise financial and accounting systems</li><li>Netsuite ERP certifications(MUST have)&nbsp;</li><li>4-6 medium-scale or 2-3 enterprise ERP implementations in a consultant-related role</li><li>Demonstrate full understanding of the NetSuite stack and experience with NetSuite modules (Order to Cash, Revenue Recognition (606), Procurement, GL, AP, AR, FA, etc.)&nbsp;</li><li>Thorough understanding of finance business processes (AR, AP, GL,P2P, Treasury, Tax, etc), systems(NetSuite, Oracle, SAP, Blackline, etc) and operations (RevRec, Book Closing, etc).</li><li>Ability to articulate technical issues to a non-technical audience&nbsp;</li><li>Experience of working in a hyper growth environment/ large company experience will be a plus.</li><li>Advanced skills in business analysis and technical design with the capability to capture requirements and make recommendations on the best way to implement the requirements to meet overall business goals&nbsp;</li><li>Experience working on complex/ transformational projects for Finance business involving sensitive data, integrations with 3rd party systems and services.</li><li>A self-starter with the ability to build relationships &amp; credibility with team, stakeholders and management while working remotely.</li><li>Demonstrate effective communication skills through facilitation of critical meetings, documentation and presentations to management &amp; stakeholders.</li><li>Experience working with compliance, risk and audit teams to conduct SOX, SOC type of audits will be required.</li><li>Experience working with teams using agile methodologies (Sprint) and ability to prioritize and manage ad hoc projects will be critical.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 14.6667px">Location Tagging: #US #LI-AN1 #LI-Remote #Canada</span></div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/3558e796-8434-469d-b27e-f5b07392073f/apply">Apply for this job</a></div>
+                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Future of Crypto&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to <a href="https://blog.kraken.com/crypto-education/security-at-kraken" class="postings-link">industry-leading security</a>, <a href="https://blog.kraken.com/category/crypto-education" class="postings-link">crypto education</a>, and <a href="https://blog.kraken.com/crypto-education/support-at-kraken" class="postings-link">world-class client support</a> through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://futures.kraken.com/wallets" class="postings-link">Kraken Futures</a>.</div><div><br></div><div>Become a Krakenite and build the future of crypto!</div><div><br></div><div><b style="font-size: 24px">Proof of work</b></div><div><br></div><div><b style="font-size: 18px">The team</b></div><div><br></div><div><span style="font-size: 11pt">The Business Solutions team delivers technology solutions to our internal stakeholders.&nbsp; Our group is a partner to business as we look to drive scalability, optimization, integrated efficiencies, and audit-sound developments to our tech stack.&nbsp;&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">The Sr. NetSuite Developer will join the Business Solutions team to be our partner with the Accounting teams. The Sr. NetSuite Developer will own the technology solutions our accounting teams rely on to function. This includes designing, developing, customizing, documentation, training, reporting, stabilization and maintaining functionalities within the NetSuite platform and other financial systems. This role will also partner with various cross functional teams across Security, IT &amp; Engineering to design, develop and implement solutions involving integrations, data and analytics for the Accounting and Finance business teams.</span></div><div><br></div><div><span style="font-size: 11pt">The successful candidate will bring a strong customer service approach to enhancing and maintaining the security, data, and application integrity and performance of our financial-related applications. Additionally, this position will participate in the delivery of Financial IT services and projects and ensure internal client satisfaction.&nbsp;</span></div></div><div class="section page-centered"><div><h3>The opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Provide day-to-day administration and maintenance of critical business systems including but not limited to NetSuite, Blackline etc.&nbsp;</li><li>Experience writing and managing NetSuite scripts, workflows and integrations using SuiteScript, SuiteFlows, Web Services/SuiteTalk or other related tools (MUST have)</li><li>Responsible for owning system configuration and integration - configure fields, workflows, roles/permissions, custom rules, reports, scripts, and dashboards&nbsp;</li><li>Propose improvements to the NetSuite ERP system and the business systems that interface with it.&nbsp;</li><li>Work on implementations of various customizations within NetSuite, including but not limited to creating custom segments, custom fields, records, forms, workflows etc.</li><li>Create and maintain integrations between NetSuite and other systems</li><li>Develop and maintain custom script and workflow solutions using modern coding practices</li><li>Contributes to cross-functional projects that involve integration between back-office applications and other applications&nbsp;</li><li>Work with business stakeholders to understand current state business processes, and identify gaps/ opportunities for improvement within processes &amp; applications.</li><li>Take part in business project intake and prioritization meetings with business stakeholders.</li><li>Lead and execute requirements gathering sessions with Finance stakeholders.</li><li>Drive or participate in effort estimation, design, configuration, and testing of features and projects.</li><li>Collaborate with System Implementation(SI) partners on various outsourced projects to provide co-design and co-develop solutions.&nbsp;</li><li>Collaborate with Enterprise Integration &amp; Data warehouse teams on cross functional projects involving integrations.</li><li>Work closely with business to optimize business processes and drive efficiencies in the day to day operations and the functioning of the accounting office.&nbsp;</li><li>Provide finance system administration to support business users (e.g., developing workflows, page layouts, formulas, approval processes) for running their operations.</li><li>Communicate, log, and resolve planned or unplanned system downtime and system support issues</li><li>Mentor junior resources within the team on business analysis and system administration of Financial Systems</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>6+ years of working experience as a NetSuite Developer</li><li>Experience with NetSuite OneWorld administration, configuration, and 3rd party integrations</li><li>4+ Year of experience in NetSuite technical role including development with JavaScript , SuiteScript 2.0, SuiteFlow (workflow automation) and SuiteTalk (web services API) of NetSuite for a large enterprise&nbsp;</li><li>6+ years of administration &amp; configuration experience in enterprise financial and accounting systems</li><li>Netsuite ERP certifications(MUST have)&nbsp;</li><li>4-6 medium-scale or 2-3 enterprise ERP implementations in a consultant-related role</li><li>Demonstrate full understanding of the NetSuite stack and experience with NetSuite modules (Order to Cash, Revenue Recognition (606), Procurement, GL, AP, AR, FA, etc.)&nbsp;</li><li>Thorough understanding of finance business processes (AR, AP, GL,P2P, Treasury, Tax, etc), systems(NetSuite, Oracle, SAP, Blackline, etc) and operations (RevRec, Book Closing, etc).</li><li>Ability to articulate technical issues to a non-technical audience&nbsp;</li><li>Experience of working in a hyper growth environment/ large company experience will be a plus.</li><li>Advanced skills in business analysis and technical design with the capability to capture requirements and make recommendations on the best way to implement the requirements to meet overall business goals&nbsp;</li><li>Experience working on complex/ transformational projects for Finance business involving sensitive data, integrations with 3rd party systems and services.</li><li>A self-starter with the ability to build relationships &amp; credibility with team, stakeholders and management while working remotely.</li><li>Demonstrate effective communication skills through facilitation of critical meetings, documentation and presentations to management &amp; stakeholders.</li><li>Experience working with compliance, risk and audit teams to conduct SOX, SOC type of audits will be required.</li><li>Experience working with teams using agile methodologies (Sprint) and ability to prioritize and manage ad hoc projects will be critical.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="salary-range"><div>$104,000 - $176,000 a year</div><small><div>This is the target annual salary range for this role. This range is not inclusive of other additional compensation elements, such as our Bonus program, Equity program, Wellness allowance, and other benefits [US Only] (including medical, dental, vision and 401(k)).</div><div><br></div><div>The compensation range provided is influenced by various factors and represents the initial target range. Our salary offerings are dynamic and we strive to ensure that our base salary and total compensation package aligns and recognizes the top talent we aim to attract and retain. The compensation package of the successful candidate is based on various factors such as their skillset, experience, and job scope.</div></small></div><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 14.6667px">Location Tagging: #US #LI-AN1 #LI-Remote #Canada</span></div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/3558e796-8434-469d-b27e-f5b07392073f/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
