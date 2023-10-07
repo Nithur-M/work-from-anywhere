@@ -1,44 +1,5 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Openvolt</h5>
-                    <h3> Founding Software Engineer (Full-Stack)</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/openvolt-founding-software-engineer-full-stack" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Dublin, Ireland
-    <br /><strong>URL:</strong> <a href="http://www.openvolt.com">http://www.openvolt.com</a>
-</p>
-
-<p>At Openvolt, we are building a world class developer API on top of Smart Meter data. Most countries have rolled out Smart Meters, collecting energy data for both commercial and residential buildings but locking it away behind traditional utility orgs around the world.</p>
-<p>Your mission -- if you choose to accept -- is to access this data from Energy companies around the world and expose it to developers through a world class API. Working alongside the CTO you will be building essential infrastructure that enables developers to build the products needed to Electrify Everything (think solar, EV, energy efficiency, ESG)</p>
-<p><strong>Requirements</strong></p>
-<ul> <li>4+ years of industry experience building high quality code </li> <li>Passion for getting sh*t done! Your impact will be binary -- if you don't do it, then it won't get done. We are at the beginning of this build so we require an individual who is comfortable working independently.</li> <li>Qualifications - we're more interested in seeing that you've nailed it in past roles and projects. Experience developing high quality scalable developer APIs is a major plus.</li> <li>Full stack experience, working collaboratively in sprints. Strong focus on design and code reviews. Our stack is Vue, Express, Node.js, MongoDB/TimescaleDB.</li> </ul>
-<p><strong>Benefits</strong></p>
-<ul> <li>Competitive salary and stock options in a fast growing start up </li> <li>Build something that will make a difference in the world</li> <li>Fully remote work from any European location </li> <li>Front seat with the founders. You'll be exposed to all of the messiness, excitement and learning of a high potential startup</li> </ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/openvolt-founding-software-engineer-full-stack">https://weworkremotely.com/remote-jobs/openvolt-founding-software-engineer-full-stack</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1569512792381878278/Smf8h3tt_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -779,71 +740,6 @@
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
-                    <h3>Senior Software Engineer - Embedded & Desktop Linux Optimisation</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/4241188" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>Work across the full Linux stack from kernel through networking, virtualization and graphics to optimise Ubuntu, the world’s most widely used Linux desktop and server, for the latest silicon.</p>
-<p>The role is a fast-paced, problem-solving role that’s challenging yet very exciting. The right candidate must be resourceful, articulate, and able to deliver on a wide variety of solutions across Server, PC and IoT technologies. Our teams partner with specialist engineers from major silicon companies to integrate next-generation features and performance enhancements for upcoming hardware.</p>
-<h3>What you'll do</h3>
-<ul>
-<li>Design and implement the best Ubuntu integration for the latest IoT and server-class hardware platforms and software stacks</li>
-<li>Work with partners to deliver a delightful, optimised, first class Ubuntu experience on their platforms</li>
-<li>Take a holistic approach to the Ubuntu experience on partner platforms with inputs on technical plans, testing strategy, quality metrics</li>
-<li>Participate as technical lead on complex customer engagements involving complete system architectures from cloud to edge</li>
-<li>Help our customers integrate their apps, SDKs, build device OS images, optimize applications with Ubuntu Core, Desktop and Server</li>
-<li>Work with the most advanced operating systems and application technologies available in the enterprise world.</li>
-</ul>
-<p>Joining Canonical, you will partner with bright minds from all over the world, and work with an exciting set of new technologies in a fast growing company with a truly unique and ambitious vision to build a better platform with free software. You will work with customers on exciting IoT and server platforms and technologies, built to support different verticals: from robots to data centers, from telco to retail.</p>
-<h3>Who you are</h3>
-<ul>
-<li>You love technology and working with brilliant people</li>
-<li>You have a Bachelor’s degree in Computer Science, STEM or similar&nbsp;</li>
-<li>You have experience with Linux packaging (Debian, RPM, Yocto)</li>
-<li>You have experience working with open source communities and licences</li>
-<li>You have experience working with C, C++</li>
-<li>You can work in a globally distributed team through self-discipline and self-motivation.</li>
-</ul>
-<h3>Nice to have</h3>
-<ul>
-<li>Experience with graphics stacks</li>
-<li>Good understanding of networking - TCP/IP, DHCP, HTTP/REST</li>
-<li>Basic understanding of security best practices in IoT or server environments</li>
-<li>Good communication skills, ideally public speaking experience</li>
-<li>IoT / Embedded experience – from board and SoC, BMCs, bootloaders and firmware to OS, through apps and services</li>
-<li>Some experience with Docker/OCI containers/K8s</li>
-</ul>
-<h3>What Canonical Offers</h3>
-<ul>
-<li>Learning and development opportunities</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual leave</li>
-<li>Priority Pass for travel</li>
-</ul>
-<p>Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, “the world’s best free software platform”. Our mission is to realise the potential of free software in the lives of individuals and organisations. Our services are helping individuals and businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.</p>
-<p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity</a>, we will give your application fair consideration.</em></p><p>Requisition ID: 829</p><p></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
                     <h3>Senior Software Engineer - Go</h3>
                 </td>
                 <td width="300">
@@ -1416,6 +1312,30 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt">Mechanical Orchard is a new kind of software consultancy. We build new applications and replace legacy systems for a wide range of customers, spanning from seed stage startups to the Fortune 500, but it doesn’t end there. We run what we build, and build what we run. Our customers focus on their business, rather than manage all the cost, complexity, and risk that comes with operating production systems.</span></div><div><br></div><div><span style="font-size: 11pt">Our background in software development and the impact on the industry is well known, and we've helped write the book on XP and other effective agile practices. We believe in the durable principles behind agile, and embrace the power of cross-functional teams, collective ownership, test driven development, short feedback loops, and continuous improvement.</span></div><div><br></div><div><span style="font-size: 11pt">We are Generous, Ethical, Effective, and Kind.</span></div><div><br></div><div><span style="font-size: 11pt">As a Software Engineer at Mechanical Orchard, you will be expected to:</span></div><div><br></div><div><span style="font-size: 11pt">- Work as part of small, cross functional XP teams building production applications for customers or for Mechanical Orchard using Elixir or other modern programming languages </span></div><div><span style="font-size: 11pt">- Pair program with other engineers and collaborate closely with other roles such as&nbsp; product managers and designers</span></div><div><span style="font-size: 11pt">- Apply and evolve XP engineering practices such pair programming, test-driven development, refactoring, continuous integration and continuous delivery</span></div><div><span style="font-size: 11pt">- Operate and support production applications as a team in the context of the agile DevOps model</span></div><div><span style="font-size: 11pt">- Help onboard client developers and/or new Mechanical Orchard team members with practices and techniques</span></div><div><span style="font-size: 11pt">- Lead and collaborate on technical discovery efforts for existing customer systems including legacy applications</span></div><div><span style="font-size: 11pt">- Continuously learn about relevant emerging technologies or practices and foster the growth of the organization through mentorship, tech talks, and other means</span></div><div><br></div><div><span style="font-size: 11pt">The ideal candidate has worked as a software engineer in a professional, team based environment, with some exposure or demonstrated passion for&nbsp; XP practices such as pair programming and test driven development.&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">They are comfortable as a full stack developer, and have expertise in at least one modern programming language and application framework.</span></div><div><br></div><div><span style="font-size: 11pt">Strong communication and collaboration skills as well as empathy are essential for working closely with the development team, customers, and others at Mechanical Orchard.</span></div><div><br></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 11pt">Mechanical Orchard, Inc. is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind. Mechanical Orchard, Inc. is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Mechanical Orchard, Inc. are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Mechanical Orchard, Inc. will not tolerate discrimination or harassment based on any of these characteristics. Mechanical Orchard, Inc. encourages applicants of all ages. Mechanical Orchard, Inc. will provide reasonable accommodation to employees who have protected disabilities consistent with local law.</span></div><div><br></div><div>We look forward to reviewing your application. Thanks!</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/mechanicalorchard/b60587e2-0046-4e35-b7c3-5da3ff46348f/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1592609773958025216/CaG1yAqK_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Mechanical Orchard</h5>
+                    <h3>R&D Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/mechanicalorchard/a349636d-9d4f-4219-add3-3afb211b4dd7" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt">Mechanical Orchard is a new kind of software consultancy. We build new applications and replace legacy systems for a wide range of customers, spanning from seed stage startups to the Fortune 500, but it doesn’t end there. We run what we build, and build what we run. Our customers focus on their business, rather than manage all the cost, complexity, and risk that comes with operating production systems.</span></div><div><br></div><div><span style="font-size: 11pt">Our background in software development and the impact on the industry is well known, and we've helped write the book on XP and other effective agile practices. We believe in the durable principles behind agile, and embrace the power of cross-functional teams, collective ownership, test driven development, short feedback loops, and continuous improvement.</span></div><div><br></div><div><span style="font-size: 11pt">We are Generous, Ethical, Effective, and Kind.</span></div><div><br></div><div><span style="font-size: 11pt">Generative AI plays an increasingly important role for us, in particular around reverse engineering of legacy systems, and we are applying it in pragmatic ways that </span><a href="https://www.mechanical-orchard.com/post/the-ai-robots-are-not-coming-for-our-jobs" style="font-size: 11pt" class="postings-link">augments our human teams</a><span style="font-size: 11pt">.</span></div><div><br></div><div><span style="font-size: 11pt">We’re looking for engineers with generative AI experience to join our R&amp;D practice. On this team, we’re developing tools and processes to enable our delivery teams, with an eye towards creating a platform to help dramatically improve and accelerate our legacy modernization efforts at scale.</span></div><div><br></div><div><span style="font-size: 11pt">As an R&amp;D Software Engineer at Mechanical Orchard, you will be expected to:</span></div><div><br></div><div><span style="font-size: 11pt">- Work as part of cross functional team researching and building internal and/or customer facing tools and platforms using Elixir, python, and/or other modern programming languages</span></div><div>- <span style="font-size: 11pt">Incorporate and integrate generative AI technology including LLMs using tools such as LangChain and approaches such as prompt engineering, retrieval augmented generation, and model fine tuning or training</span></div><div>- <span style="font-size: 11pt">Pair program with other engineers and collaborate closely with other roles such as&nbsp; product managers and designers</span></div><div>- <span style="font-size: 11pt">Apply and evolve XP engineering practices such pair programming, test-driven development, refactoring, continuous integration and continuous delivery</span></div><div>- <span style="font-size: 11pt">Operate and support production platforms and applications as a team in the context of the agile DevOps model</span></div><div>- <span style="font-size: 11pt">Collaborate with other teams at Mechanical Orchard, including client delivery and sales teams on technical discovery efforts for existing customer systems including legacy applications</span></div><div>- <span style="font-size: 11pt">Continuously learn about relevant emerging technologies or practices and foster the growth of the team and organization through mentorship, tech talks, and other means</span></div><div><br></div><div><span style="font-size: 11pt">As the ideal candidate, you've worked as a software engineer in a professional, team based environment, with exposure or demonstrated passion for XP practices such as pair programming and test driven development.&nbsp;</span></div><div><br></div><div><span style="font-size: 14.6667px">You are comfortable in a full stack developer role, but have deeper expertise in at least one modern programming language and application framework.</span></div><div><br></div><div><span style="font-size: 14.6667px">You have a foundation of theoretical knowledge about machine learning and data science, combined with recent practical experience with generative AI including LLM prompt engineering, evaluation, application integration, and production deployment.</span></div><div><br></div><div><span style="font-size: 11pt">Strong communication and collaboration skills as well as empathy are essential for working closely with the R&amp;D team, our internal and external customers, and others at Mechanical Orchard.</span></div><div><br></div><div><span style="font-size: 11pt">This is a full time, remote position, and we’re looking for candidates in the US Eastern, US Central, or European time zones.</span></div><div><br></div><div><span style="font-size: 11pt">Occasional travel may be required for customer visits or team gatherings.&nbsp;</span></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 11pt">Mechanical Orchard, Inc. is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind. Mechanical Orchard, Inc. is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Mechanical Orchard, Inc. are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Mechanical Orchard, Inc. will not tolerate discrimination or harassment based on any of these characteristics. Mechanical Orchard, Inc. encourages applicants of all ages. Mechanical Orchard, Inc. will provide reasonable accommodation to employees who have protected disabilities consistent with local law.</span></div><div><br></div><div>We look forward to reviewing your application. Thanks!</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/mechanicalorchard/a349636d-9d4f-4219-add3-3afb211b4dd7/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
