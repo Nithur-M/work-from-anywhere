@@ -1,5 +1,68 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>DM Holdings LLC</h5>
+                    <h3> Senior Software Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/dm-holdings-llc-senior-software-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Boca Raton, FL 
+    <br /><strong>URL:</strong> <a href="http://www.domainmarket.com">http://www.domainmarket.com</a>
+</p>
+
+<div>This position is for a Senior Software Developer, plus a little. You should be an expert in PHP and Javascript, comfortable writing and reviewing code for a sizable existing code base, and capable of occasionally mentoring and supporting junior developers. You should also have experience running a complex system with high levels of uptime.<br><br>The compensation for this role is $80k - $130k USD.<br><br><strong>About Us</strong>
+</div><ul>
+<li>We're a small team, half technical, half not so technical.</li>
+<li>We're fully-remote with team members in time zones around the world.</li>
+<li>We've been in business for over 10 years and we're profitable.</li>
+<li>We offer flexible hours and vacation time.</li>
+</ul><div><strong>What The Job Is</strong></div><ul>
+<li>Writing, testing, and debugging PHP (Laravel) and Javascript (React) for our internal domain management system and marketing sites.</li>
+<li>Integrating with third party APIs and web scraping.</li>
+<li>Light project management. You should be comfortable assembling and creating epics and breaking them into smaller deliverables.</li>
+<li>Sometimes becoming the resident expert on new subjects or technologies. You may be asked to figure out how we might use a new technology to help inform decisions about the company's direction.</li>
+<li>Helping out across the entire company. You'll help share the load with things like dealing with vendors, monitoring logs and verifying things are running as they should, supporting our internal teams with ad-hoc SQL queries, managing contractor deliverables, and being the go-to person for questions.</li>
+</ul><div><strong>Requirements</strong></div><ul>
+<li>7+ years of experience with PHP, Laravel, Javascript, and React.</li>
+<li>Comfortable working with Docker, git, MySQL/MariaDB.</li>
+<li>Excellent written communication skills.</li>
+<li>A self-starter attitude and the willingness to chip in where needed.</li>
+</ul><div><strong>Pluses</strong></div><ul>
+<li>Database design, optimization.</li>
+<li>AWS operations and configuration (Terraform, Ansible, Packer).</li>
+<li>Solo entrepreneur experience.</li>
+<li>UI/UX, design, or marketing experience.</li>
+</ul><div><strong>This Job is Right For You if</strong></div><ul>
+<li>You know your way around software development from soup to nuts. You've created, deployed, and maintained a large system with high uptime requirements, large databases, and lots of moving parts.</li>
+<li>You're self-motivated and like to jump right in; there isn't anybody looking over your shoulder.</li>
+<li>You feel a sense of ownership of your code. There is no QA team on the other side of the wall -- you're the last person between writing the code and supporting it.</li>
+<li>You respect Chesterton's Fence. Our codebase spans a decade and you strive to thoroughly understand a problem before you implement solutions.</li>
+</ul><div>If you're a good fit, please send your resume and a couple paragraphs about how your experience applies to this role to <strong>newjobs</strong><a href="mailto:whoever@domainmarket.com"><strong>@domainmarket.com</strong></a>. We look forward to hearing from you!</div><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/dm-holdings-llc-senior-software-developer">https://weworkremotely.com/remote-jobs/dm-holdings-llc-senior-software-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/6685/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +73,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tempmee-backend-developer" align="right" target="_blank">Apply</a>
@@ -36,161 +99,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/8337/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Zapiet</h5>
-                    <h3> Experienced Laravel Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/zapiet-experienced-laravel-developer-3" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0124/8337/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> London, UK
-    <br /><strong>URL:</strong> <a href="https://www.zapiet.com/careers">https://www.zapiet.com/careers</a>
-</p>
-
-<div>We are looking for a Laravel developer to join our team to help scale up our products, implement our development plans and respond more quickly to feature requests from our growing user base.</div><div><br></div><div><strong>Required</strong></div><ul>
-<li>1-2 years experience developing applications using Laravel</li>
-<li>Ability to write clear testable code</li>
-<li>Ability to develop cross-browser and cross-platform solutions</li>
-<li>An appreciation for user experience</li>
-<li>Experienced in designing and maintaining MySQL databases</li>
-<li>In-depth knowledge of current coding techniques and best practices</li>
-<li>Willingness to learn new skills and keep up to date with the latest technologies</li>
-<li>Excellent communication skills</li>
-<li>Experience using version control systems</li>
-</ul><div><br></div><div><strong>Desirable</strong></div><ul>
-<li>Experience using ecommerce platforms such as Shopify</li>
-<li>Experience with API development and 3rd party API’s</li>
-<li>Experience working on platforms that scale</li>
-<li>Experience writing Golang </li>
-<li>An understanding of security threats and implications of what you write</li>
-</ul><div><br></div><div><strong>Compensation is based on experience</strong></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/zapiet-experienced-laravel-developer-3">https://weworkremotely.com/remote-jobs/zapiet-experienced-laravel-developer-3</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>DataExplorer</h5>
-                    <h3> Python Flask User Workspace Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/dataexplorer-python-flask-user-workspace-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> 
-</p>
-
-<div>
-<br>Solo developer wanted.<br><br>
-</div><div>I have a python flask application I’ve written. <br><br>
-</div><div>User accounts are based on ‘flask-security-too’<br><br>
-</div><div>It allows the user to upload data and make a report.<br><br>
-</div><div>User uploads, reports, and some intermediate files are stored in a user workspace.<br><br>
-</div><div>The backend is aws s3, with a dynamodb managing some metadata.<br><br>
-</div><div>I’d like users to be able to share files in their workspace with each other. <br><br>
-</div><div>I’d like to be able to meter their disk space usage, and invoice it.<br><br>
-</div><div>Stripe based fixed monthly payments are already in place.<br><br>
-</div><div>If this sounds like something you have previous relevant experience with, I’d like a short description of what you’d build. </div><div><br></div><div>I’d like a roadmap of what milestones you’d deliver along the way and a price estimate for each of the first 5.<br><br>
-</div><div>I expect to receive code from you via a shared git repository.<br><br>
-</div><div>I will do some customization on your milestone 1, before you deliver milestone 2.<br><br>
-</div><div>Please specify an hourly rate for your work in response to my customizations.<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/dataexplorer-python-flask-user-workspace-developer">https://weworkremotely.com/remote-jobs/dataexplorer-python-flask-user-workspace-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/1525/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>resOS ApS</h5>
-                    <h3> Lead Developer for a profitable SaaS</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>7 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/resos-aps-lead-developer-for-a-profitable-saas" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0082/1525/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Denmark, Copenhagen
-    <br /><strong>URL:</strong> <a href="https://resos.com">https://resos.com</a>
-</p>
-
-<div>Remote Lead Developer for a profitable SaaS<br><br>
-</div><div><br></div><div>Read on if you are a lead or senior full-stack JS developer who likes the freedom to work the way you work best. If you love keeping yourself sharp by working focused on solving problems with code and also find it natural to share your knowledge with your team. If you find pride in seeing others motivated and thriving with your help.</div><div><br></div><div>At resOS we are looking for a lead developer with at least 5 years of full-stack JavaScript development experience to lead the development of our SaaS solution used by thousands of restaurants and guests around the world.</div><div><br></div><div>Besides working hands-on coding, you will be responsible for the quality, testing, and deployment done by the whole development team, by implementing and enforcing coding standards, reviewing your team's code, and working closely with them to find the right solutions - with both quality and development time top-of-mind. We always try to develop and launch fast, keeping the first version of every new feature to a minimum.</div><div><br></div><div>resOS was founded 5 years ago, has grown month-to-month ever since, and is not your normal SaaS company. We are “small by design”, we like to be a bit boring, we keep things super simple and we double down on what we know works. As a place of work, we value trust and individual freedom as the cornerstones of running an efficient company. We are a small motivated team spanning 7 nationalities, all working fully remote with time to also enjoy life AFK.</div><div><br></div><div>The resOS team is currently: 3 developers, 2 in online marketing, 5 in customer support, 0 in sales (on purpose), plus 2 very hands-on (and one less hands-on) founders/managers.</div><div><br></div><div>We have a well-structured backlog, currently run 2-week sprints, and have daily stand-ups, all managed by our product manager (CEO and co-founder). We are always open to suggestions and changes that improve our workflow. We value a strong and efficient feedback loop with our customers and our brilliant support team, who are in close contact with our product manager.</div><div>
-<br>We expect that you<br><br>
-</div><ul>
-<li>Have a strong background in JavaScript-based development with a minimum of 5 years experience with Node, React, and MongoDB, with Meteor and Material-UI experience being a plus</li>
-<li>Can handle the responsibility of and continuously improve: code quality, security, testing, deployment, monitoring, scaling, and performance</li>
-<li>Can listen to and work with your team to find the best solutions, while using your own experience in a motivational way and knowing when to just set the path (also when something goes wrong and the heat is one)</li>
-<li>Are open to input from everyone and not afraid to say when you don’t understand something, are in over your head, or made a mistake (we only see that as a strength!)</li>
-<li>Prioritize reliability and ease-of-use above always using the latest shiny new thing, while off cause keeping up-to-speed on what could help us improve</li>
-<li>Understand that features have to be launched (fast) to bring value to the business</li>
-<li>Find it exciting to help find and hire more people for your team</li>
-</ul><div>
-<br>We offer<br><br>
-</div><ul>
-<li>A high degree of freedom, responsibility, and room to grow, with the support of experienced SaaS entrepreneurs</li>
-<li>Work fully remote and/or get a seat in a local office community of your choice</li>
-<li>The hardware you prefer</li>
-<li>Competitive salary</li>
-<li>A yearly company get-together, somewhere in the world</li>
-<li>With the right talent and results, the possibility of promotion to CTO within 1-2 years, including employee responsibilities, etc.</li>
-</ul><div>
-<br>We hope that the right candidate can start either January 1st or February 1st 2024. We will have ongoing conversations with the candidates as we get applications. </div><div>
-<br>The salary will start at around $7.000 monthly<br><br>
-</div><div>If you have been nodding through the description above and you are willing to invest a few hours for interviews and 2-5 hours for testing (online), please apply and provide a link to your GitHub account as well as a few projects that you have been working on.<br><br><br>
-</div><div>Thanks</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/resos-aps-lead-developer-for-a-profitable-saas">https://weworkremotely.com/remote-jobs/resos-aps-lead-developer-for-a-profitable-saas</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0099/5721/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -201,7 +109,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>63 days ago</text>
+                <text>65 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/textmagic-senior-back-end-developer-php-symfony-postgresql-1" align="right" target="_blank">Apply</a>
@@ -287,7 +195,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>65 days ago</text>
+                <text>68 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/overmind-blockchain-developer" align="right" target="_blank">Apply</a>
@@ -311,166 +219,27 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1801792/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior Ruby on Rails Developer</h3>
+                    <h5>Quinncia Inc.</h5>
+                    <h3>Frontend Developer</h3>
                 </td>
                 <td width="300">
-                    <code>Back-End Programming</code>
+                    <code>CSS,docker,frontend,graphql</code>
                 </td>
                 <td width="200">
-                <text>216 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/frontend-developer-1801792" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div><strong>The Role:</strong></div><div>
-<br>We are searching for a Senior Ruby on Rails Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
-<br><br>
-</div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
-<li>You have +3 years of experience with Ruby on Rails;</li>
-<li>You have experience working with the libraries like Resque and RSpec;</li>
-<li>You are able to write clean Ruby code;</li>
-<li>You have proficiency with code versioning tools including Git, Github, SVN, and Mercurial;</li>
-<li>You got experience with Angular or ReactJS;</li>
-<li>You are familiar with MVC, Mocking, RESTful, and ORM;</li>
-<li>You have a good understanding of front-end technologies including HTML5, JavaScript, and CSS3;</li>
-<li>You possess knowledge of server-side templating languages including Slim and Liquid;</li>
-<li>You got familiar with testing tools.</li>
-<li>Commercial experience</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>Nice-to-have:</strong> <br><br>
-</div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Knowledge of TypeScript.</li>
-</ul><div><br></div><div>
-<strong>Responsibilities:<br></strong><br>
-</div><ul>
-<li>Designing and developing new web applications;</li>
-<li>Maintaining and troubleshooting existing web applications;</li>
-<li>Writing and maintaining reliable Ruby code;</li>
-<li>Integrating data storage solutions;</li>
-<li>Creating back-end components;</li>
-<li>Identifying and fixing bottlenecks and bugs;</li>
-<li>Integrating user-facing elements designed by the front-end team;</li>
-<li>Connecting applications with additional web servers;</li>
-<li>Maintaining the APIs.</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
-<br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of the Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul><div>
-<br><strong>Salary Range: </strong>€3,200  - €6,400 per month<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-fully-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0017/3489/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>OpenCraft</h5>
-                    <h3> Senior Open Source Developer & DevOps (Python, Django, React, AWS/OpenStack)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>1057 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0017/3489/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Fully remote company (worldwide, incorporated in Berlin)
-    <br /><strong>URL:</strong> <a href="https://opencraft.com/">https://opencraft.com/</a>
-</p>
-
-<div>Do you care about contributing to open-source, and appreciate a good challenge? We do too! :) <br><br>
-</div><div>
-<strong>Open-source<br></strong><br>
-</div><div>We are a team of veteran open-source developers, working on educational and community-based projects in an<a href="https://handbook.opencraft.com/en/latest/open_first/"> open-first</a> environment – and we are looking for new members. By joining us, you will work full-time on open-source, pushing your changes to free software projects upstream through pull requests, contributing features, documentation, or help on public forums. </div><div>
-<br>We care deeply about contributing our work upstream. You will see the results of your work reused and recognized across the educational community, increasing access to quality education for everyone, everywhere.</div><div>
-<br><strong>Remote-first</strong>
-</div><div>
-<br>Unlike companies who reluctantly started to accept remote workers recently, we have embraced it from day 1. For the past 7 years, we have based and refined our way of working around remote-friendly workflows, from the ground up. No day-long video meetings, mandatory work hours, or risk of being forced back into an office one day -- as long as you have a good internet connection, it’s none of our business when or where you work from. :)</div><div>
-<br>We are all working remotely, from all continents (except Antarctica, at least so far - applicants welcome!). We use remote-friendly and timezone-agnostic workflows based on asynchronous principles and good documentation practices.</div><div>
-<br><strong>Online education<br></strong><br>
-</div><div>We are one of the main contributors to the <a href="https://open.edx.org/">Open edX project</a>, the main open-source MOOC platform created by MIT, Harvard and many other top universities. It powers sites like <a href="https://www.edx.org/">edX.org</a>, the <a href="https://openlearning.mit.edu/courses-programs/open-learning-library">MIT Open Learning Library</a>, and the <a href="https://www.fun-mooc.fr/">national online learning platform for France</a>. We provide development and hosting for institutions like <a href="https://onlinelearning.hms.harvard.edu/hmx/">Harvard Medical School</a>, <a href="https://www.labxchange.org">Harvard LabXchange</a>, <a href="https://ondemand.cloudera.com">Cloudera</a>, <a href="https://www.upskill.autodesk.com">Autodesk</a>, and several governments. We are not affiliated with <a href="https://www.edx.org/">edX.org</a>, but we contribute and work with them on various projects. </div><div>
-<br><strong>Technical stack</strong><br><br>
-</div><div>The Open edX project is a large Python/Django codebase, with good code standards and architecture. Tasks are varied, from developing core platform features, custom exercises and tools for specific courses (XBlocks), customizing and deploying instances, working full-stack, operating our service infrastructure, improving our hosting platform, etc. You won't get bored here.<br><br>
-</div><div>
-<strong>Contracting terms<br></strong><br>
-</div><div>This is a full-time, permanent contract position. We aim for long-term relationships -- once in, almost all team members stay for many years. </div><div><br></div><div>We care about paying fairly: </div><ul>
-<li>Team members set their own compensation level, which is paid based on hours worked (no unpaid overtime!). </li>
-<li>When determining your rate, we will expect you to factor in benefits (vacation, healthcare, purchase budgets, etc.) - the idea is to let <em>you</em> pick the benefits that are useful to you, rather than offer one-size-fits-all packages that aren’t always very valuable.</li>
-<li>We also proactively apply generous raises team-wide, based on the company results at the end of each year. <a href="https://handbook.opencraft.com/en/latest/team_compensation/">See the details about how we approach compensation in our handbook</a>.</li>
-</ul><div>We also firmly believe in work-life balance: as long as you deliver what you commit to, there is a lot of latitude in how much work you can choose to accept. We are open to time commitments anywhere in the 30h to 40h/week range, and highly discourage working more than that. It’s important to have time to ourselves, as well as having some slack, and there are diminishing returns in working more anyway. We are currently recruiting precisely to preserve that balance, and ensure we have plenty of capacity to handle our projects.</div><div><br></div><div>We welcome applicants of all genders and ethnicities.</div><div>
-<br><strong>Basic Requirements:</strong>
-</div><ul>
-<li>Experience with contributing to free software projects - small contributions are completely fine, but you <em>must</em> have at least one patch or pull request merged in a third-party project, or been a maintainer of an open source project with significant adoption. (Note that you can contribute now to satisfy this requirement - see for example the <a href="https://github.com/openedx/build-test-release-wg/projects/1">Open edX release issues</a>, fixing one of these issues guarantees an interview.)</li>
-<li>Senior developer with 3+ years working with Python</li>
-<li>Experience with Python web frameworks, specifically Django</li>
-<li>3+ years of HTML, Javascript, and CSS (experience with React and/or Typescript is a big plus!)</li>
-<li>Experience with unit testing</li>
-<li>Comfortable working in a Linux environment, specifically Debian or Ubuntu</li>
-<li>Experience with databases: MySQL, MongoDB, PostgreSQL</li>
-</ul><div>
-<strong>Additional Skills:</strong><br><br>
-</div><div>You will work on tasks from the following categories, but you can pick up the skills on the job if you haven't mastered these yet:</div><ul>
-<li>DevOps experience, especially on Debian/Ubuntu servers, Terraform, Vault, Packer, Prometheus, ELK, Docker. We are building a modern infrastructure and having a strong DevOps presence on top of core software engineering skills is a big plus with us.</li>
-<li>Cloud computing, like AWS or OpenStack</li>
-<li>Configuration management tools such as Ansible, Consul</li>
-<li>RabbitMQ, Redis &amp; Elasticsearch</li>
-<li>Mobile development (iOS and/or Android)</li>
-<li>Managing clients &amp; projects from beginning to completion (senior developer)</li>
-<li>Public speaking at conferences (you would present a talk every year at the Open edX Con)</li>
-</ul><div>
-<br><strong>Apply for this Position</strong><br><br>
-</div><div>Our recruitment process differs from most other companies - we don’t believe resumes and the traditional interviews to be particularly effective. Often, they tell more about how good someone is at interviewing, rather than at the actual work. So, our initial interview is lighter and easier to pass than in other companies - but we then provide you with real (and paid!) work to see how it works out in reality.</div><ul>
-<li>Step 1: You apply by filling out this form: <a href="https://opencraft.com/jobs/open-source-developer/">https://opencraft.com/jobs/open-source-developer/</a> </li>
-<li>Step 2: We do two interviews with candidates matching the requirements listed above. The first interview includes a (simple) coding exercise.</li>
-<li>Step 3: If this works out, we hire you! We start with a 2 months <a href="https://handbook.opencraft.com/en/latest/processes/#recruitment">trial period</a>, which allows both you and the rest of the team to fully evaluate how we work together, and is followed by a final review and confirmation. </li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack">https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack</a></p>
-
+                <p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); ">This posting is for a Frontend Developer, you would work alongside our team. We are a fully remote team so it does not matter which country or time zone you are in, as long as you are available from 10 AM to 1 PM (EST). We are NOT looking for part-time work, contractors, software development companies or consultants, so please only apply if you're looking for a full-time position.</p><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); ">Projects you'll be working on:</p><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); ">We're focused on enhancing our UI and UX, as well as streamlining operations and improving our technical foundation. As a core member of the Front-End team, you will influence how we build individual features, take ownership of end to end product quality that will help make our app/website reliable We want you to focus on high-quality code and know that quality is more than just unit tests and code coverage. You would look for opportunities to automate, always package up reusable code, be constantly learning, ready to pick up new technologies, patterns, and paradigms.</p><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); ">COOL TECH</p><ul style=""><li style="">Chatbots </li><li style="">Computer vision </li><li style="">Data visualization </li><li style="">Machine learning </li><li style="">Natural language processing </li><li style="">Video processing/conferencing</li></ul><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); "><br></p><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); ">Being a Frontend engineer you will need strong logical skills but also understand design patterns and ability to predict edge cases for handling different issues. You will be working with our lead designer but a good understanding of UI and UX would be needed.</p><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); ">Requirements Front-end developer position (required tech):</p><ul style=""><li style="">Profound knowledge of JavaScript</li><li style="">TypeScript</li><li style="">Next.js</li><li style="">Practical and recent experience with React.js</li><li style="">Experience communicating with RESTful services</li><li style="">Experience with testing (e.g. Jest)</li><li style="">Experience with bundling of JavaScript code (e.g. Webpack)</li><li style="">Have deep knowledge in CSS, preprocessors (e.g. Sass)</li><li style="">GraphQL</li></ul><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); "><br></p><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); ">Bonus skills:</p><ul style=""><li style="">Docker</li><li style="">Ramda</li></ul><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); "><br></p><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); ">Whatever else you decide - we're constantly re-evaluating our stack and tools Having prior experience with the technologies is a plus, but not mandatory for skilled candidates.</p><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); ">PS: Please add your Github account link to your application, as it will make the evaluation process easier and more robust.</p>
+<img src="https://remotive.com/job/track/1801792/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -485,7 +254,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -562,7 +331,7 @@
                     <code>backend,docker,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-ror-developer-mid-level-1783538" align="right" target="_blank">Apply</a>
@@ -632,7 +401,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
