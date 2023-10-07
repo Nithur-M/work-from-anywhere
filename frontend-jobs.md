@@ -1,129 +1,5 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1651226564728700928/h0tz5UT1_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Supabase</h5>
-                    <h3>Technical Documentation Lead (Frontend Engineer)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/supabase/jobs/4965064004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p><img src="https://pbs.twimg.com/media/FIdU8GJWQAUGWRA?format=jpg&amp;name=small" alt="Join Supabase" width="680" height="453"></p></div>
-
-    <p>Supabase is an Open Source and fully remote company building developer tools for hundreds of thousands of indie developers, startups, and businesses.</p>
-<p>We’re seeking a Technical Documentation Lead to build our <a href="https://supabase.com/docs">documentation</a>. Emphasis on <em>building</em>, where you will also work with various teams to help them document their products.</p>
-<p>We believe that documentation is more than just a tool. It’s part of our product. The documentation is where developers take their first step on their side project.</p>
-<p>We know our docs need a lot of work, and that’s why we need you. If you have ideas for what the best docs in the world would look like, we want you to join us and make that happen.</p>
-<h2>Who we need:</h2>
-<ul>
-<li>Key Criteria
-<ul>
-<li><strong>Frontend skills:</strong> you must be proficient in Next.js/React. The site is under heavy development, and it will be your task to maintain the docs and create new features.</li>
-<li><strong>Supabase experience:</strong> you need to know about the Supabase products and benefits better than anyone, so that you can clearly articulate them to developers.</li>
-<li><strong>Writing/Editing ability:</strong> You write concisely. We like short sentences. We don’t like fluff. You’re not required to write <em>all</em> the docs, but you will be the final checkpoint before they get merged into production.<br><br></li>
-</ul>
-</li>
-<li>Important Criteria
-<ul>
-<li><strong>Previous experience with docs:</strong> You know how to structure docs. Have an understanding that your structure is to help search engines find things as well as humans. You understand the communication level of docs. Guides vs Reference Level. Understand how to and when to link to other parts of the docs.</li>
-<li><strong>Product Management experience:</strong> in this role you will be a bit of a “docs enforcer”, cajoling the Supabase teams to write docs as part of their product development. It’s not done until it’s documented, and it’s your job to make that happen.</li>
-<li><strong>Writing experience:</strong> the more experience you’ve had with writing the better your writing is going to be.</li>
-<li><strong>DevRel experience:</strong> The goal of documentation is to give developers the best experience possible.</li>
-<li><strong><span class="notion-enable-hover" data-token-index="0">Community facilitator:</span></strong> You’ll be facilitating and managing GitHub issues and PR’s from open source community members<br><br></li>
-</ul>
-</li>
-<li>General mindset
-<ul>
-<li>You love developer tools. That’s the content you’ll be writing about every day.</li>
-<li>You are collaborative. You’ll be working with basically everyone in the company.</li>
-</ul>
-</li>
-</ul>
-<h2>Who we don’t need</h2>
-<ul>
-<li>A manager. You won’t need to manage a team of people to write docs. You will be the developer, editor, and the owner of documentation as a product.</li>
-<li>A designer. You won’t need to come up with icons and font-selections. If you can pencil an idea onto paper, we’ll turn it into something cool.</li>
-</ul>
-<h2>Some skills that will be useful</h2>
-<ul>
-<li>Knowledge of SQL and databases (specifically databases).</li>
-<li>Know how to create images or videos/gifs. We love visual docs (and generally anything to write less words).</li>
-<li>Understanding of SEO</li>
-</ul>
-<h2>We offer</h2>
-<ul>
-<li>
-<p>100% remote work from anywhere in the world. No location-based adjustment to your salary.&nbsp;</p>
-</li>
-<li>
-<p>Autonomous work. We work collaboratively on projects, but you set your own pace.</p>
-</li>
-<li>
-<p>Health, Vision and Dental benefits. Supabase covers 100% of the cost for employees and 80% for dependants</p>
-</li>
-<li>
-<p>Generous Tech Allowance for any office setup you need</p>
-</li>
-<li>
-<p>Annual Education Allowance</p>
-</li>
-<li>
-<p>Annually run off-sites.</p>
-</li>
-</ul>
-<p>&nbsp;</p>
-
-    
-
-    <div class="content-conclusion"><h3>BUILD IN A WEEKEND. SCALE TO BILLIONS</h3>
-<p>Supabase adds auth, realtime, and restful APIs to Postgres without a single line of code.</p>
-<p>Each project within Supabase is an isolated&nbsp;Postgres cluster, allowing customers to scale independently, while still providing the features that you need to build: instant database setup, auth, row level security, realtime data streams, auto-generating APIs, and a simple to use web interface.</p>
-<p>We are a fully remote company.</p>
-<p>Key Tech: Javascript, Typescript, Go, Elixir, PostgREST (haskell), Postgres, Pulumi.</p>
-<h3><a id="about-the-team" class="anchor"></a>About the team</h3>
-<ul>
-<li>We're a startup. It's unstructured.</li>
-<li>Collectively founded more than a dozen venture-backed companies.</li>
-<li>More than 10 different nationalities.</li>
-<li>We deeply believe in <a href="https://supabase.com/blog/2022/03/25/should-i-open-source-my-company" target="_blank">the efficacy of collaborative open source</a>. We support existing communities and tools, rather than building "yet another xx".</li>
-<li>We "dogfood" everything. If you use it in your project, we use it in Supabase.</li>
-</ul>
-<h2><a id="process" class="anchor"></a>Process</h2>
-<ul>
-<li>The entire process is fully remote and all communication will happen over email or via video chat.</li>
-<li>Once you've submitted your application, the team will review your submission, and may reach out for a short screening interview over video call.</li>
-<li>If you pass the screen you will be invited to up to four follow up interviews. The calls:
-<ul>
-<li>usually take between 20-45 minutes each depending on the interviewer.</li>
-<li>are all 1:1.</li>
-<li>will be with both founders, a member of either the growth or engineering team (depending on the role), and usually one other person from your immediate team or function.</li>
-</ul>
-</li>
-<li>Once the interviews are over, the team will meet to discuss several roles and candidates and may:
-<ul>
-<li>ask one or two follow-up questions over email or a quick call.</li>
-<li>go directly to making an offer.</li>
-</ul>
-</li>
-</ul>
-<h2>&nbsp;</h2></div>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -148,7 +24,7 @@
                 
             <p>Hi, we’re DuckDuckGo, the Internet privacy company for everyone who wants to take back their privacy now. For over a decade, we've been building our all-in-one product, developing new privacy technology, and working with policymakers to make online privacy simple and accessible for all. </p>
 <p><br></p>
-<p>Our app is now downloaded more than 75M times a year, and our private search engine packaged with it has become the #2 search engine on mobile in over 21 countries, including the United States, United Kingdom, Canada, Australia, Germany, and the Netherlands. Oh, and we've been profitable since 2014 with revenue currently exceeding $100 million a year! Now, we’re rolling out a suite of new privacy solutions, including <u><a href="https://www.spreadprivacy.com/introducing-email-protection-beta/" rel="noopener">Email Protection</a></u>,  <u><a href="https://spreadprivacy.com/introducing-app-tracking-protection/" rel="noopener">App Tracking Protection</a></u> and our first-ever Desktop Apps for <u><a href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/" rel="noopener">Mac</a></u><a href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/" rel="noopener"> </a>and Windows.</p>
+<p>Our app is now downloaded more than 78M times a year, and our private search engine packaged with it has become the #2 search engine on mobile in the United States and 18 other countries, including the United Kingdom, Canada, Australia, Germany, and the Netherlands. Oh, and we've been profitable since 2014, with revenue exceeding $100 million a year! Now, we’re rolling out a suite of new privacy solutions, including <u><a target="_blank" rel="noopener" href="https://www.spreadprivacy.com/introducing-email-protection-beta/">Email Protection</a></u>,  <u><a target="_blank" rel="noopener" href="https://spreadprivacy.com/introducing-app-tracking-protection/">App Tracking Protection</a></u> and our first-ever Desktop Apps for <u><a target="_blank" rel="noopener" href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/">Mac</a></u><a target="_blank" rel="noopener" href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/"> </a>and <u><a target="_blank" rel="noopener" href="https://spreadprivacy.com/windows-browser-open-beta/">Windows</a></u>.</p>
 <p><br></p>
 <p>We’re looking for a <strong>Senior Frontend Engineer, JavaScript</strong> to help shape our all-in-one privacy solution and join our mission to show the world that protecting your privacy online can be simple.</p>
 <p><br></p>
@@ -270,196 +146,6 @@
                 </td>
                 <td width="300">
                     <h5>Remote</h5>
-                    <h3>Senior Frontend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/remotecom/jobs/5696932003" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Remote&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Remote is solving global remote organizations’ biggest challenge: employing anyone anywhere compliantly. We make it possible for businesses big and small to employ a global team by handling global payroll, benefits, taxes, and compliance. Check out &lt;a href=&quot;http://remote.com/how-it-works&quot;&gt;remote.com/how-it-works&lt;/a&gt; to learn more or if you’re interested in adding to the mission, scroll down to apply now.&lt;/p&gt;
-&lt;p&gt;Please take a look at &lt;strong&gt;&lt;a href=&quot;http://remote.com/handbook&quot;&gt;remote.com/handbook&lt;/a&gt;&lt;/strong&gt; to learn more about our culture and what it is like to work here. &lt;strong&gt;Not only do we encourage folks from all ethnic groups, genders, sexuality, age and abilities to apply, but we prioritize a sense of &lt;a href=&quot;https://www.notion.so/people-Belonging-Diversity-Equity-Inclusion-DEI-4990e36a7d7b4d52a78ca3efb23d718b&quot;&gt;belonging&lt;/a&gt;.&lt;/strong&gt; You can check out independent reviews by other candidates on &lt;a href=&quot;https://www.glassdoor.com/Overview/Working-at-Remote-EI_IE3871683.11,17.htm&quot;&gt;Glassdoor&lt;/a&gt; or look up the &lt;a href=&quot;https://www.notion.so/people-Candidate-Experience-Surveys-17d595a88b7548148593792a8072235f&quot;&gt;results of our candidate surveys&lt;/a&gt; to see how others feel about working and interviewing here.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;All of our positions are fully remote. You do not have to relocate to join us!&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;The position&lt;/h2&gt;
-&lt;p&gt;You&#39;ll join a team of approximately 200 engineers across Frontend, Backend, SRE, Data, and QA. We&#39;re organized into cross-functional development teams assigned to specific verticals.&lt;/p&gt;
-&lt;p&gt;This role is open for several teams, and we will define the exact team you will be joining during the interview process based on the business needs and your preferences.&lt;/p&gt;
-&lt;p&gt;Regardless of the specific team, you will be working on building tools, APIs, and integrations for one of our products.&lt;/p&gt;
-&lt;p&gt;Our backend is built with Elixir and Phoenix, with a Postgres database. We use React, Next.js, and Typescript for our frontend. Gitlab is used for version control and as a CI/CD solution. Our issue tracker is Linear. Our applications are hosted on AWS. We fully rely on our CI for deployments and deploy multiple times per day.&lt;/p&gt;
-&lt;h2&gt;What this job can offer you&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Complex and meaningful challenges — solving them will enable people and businesses to live and operate in any country of the world.&lt;/li&gt;
-&lt;li&gt;Opportunity to have a significant impact on the business — we are still very early in our journey as a company, and each change you make today is amplified by the company&#39;s growth.&lt;/li&gt;
-&lt;li&gt;Freedom to organize your work and life —&amp;nbsp;you are not bound to daily stand-ups, recurring meetings or other ceremonies.&lt;/li&gt;
-&lt;li&gt;Competitive salary, stock options, unlimited PTO and a set of perks and benefits.&lt;/li&gt;
-&lt;li&gt;A supportive and kind work environment where we would like you to challenge the dogmas and pursue innovation!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;What you bring&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;At least 7 years of experience as a Frontend Engineer or Full-Stack Engineer, which includes building, shipping, and maintaining a feature-rich software project&lt;/li&gt;
-&lt;li&gt;At least 4 years working with React.js&lt;/li&gt;
-&lt;li&gt;Solid knowledge and experience in React and Next.js&lt;/li&gt;
-&lt;li&gt;Proficiency in JavaScript, as well as semantic HTML and CSS&lt;/li&gt;
-&lt;li&gt;Familiarity with TypeScript&lt;/li&gt;
-&lt;li&gt;Experience in dealing with ambiguity, taking abstract concepts and turning them into working software`&lt;/li&gt;
-&lt;li&gt;Strong ability to work independently and self-guided&lt;/li&gt;
-&lt;li&gt;Curiosity and willingness to learn and develop&lt;/li&gt;
-&lt;li&gt;Experience working in HR or Fintech projects is a plus&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Practicals&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;You&#39;ll report to:&lt;/strong&gt; The Engineering Team Lead&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Location&lt;/strong&gt;: Anywhere in the World&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Start date&lt;/strong&gt;: As soon as possible&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;strong&gt;Remote Compensation Philosophy&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Remote&#39;s &lt;a href=&quot;https://www.notion.so/people-Total-Rewards-1945bce8d3924ece9421ba8630f57b0c?pvs=21&quot;&gt;Total Rewards philosophy&lt;/a&gt; is to ensure&amp;nbsp;fair, unbiased compensation&amp;nbsp;and fair&amp;nbsp;equity pay along with competitive benefits in all locations in which we operate. We do not agree to or encourage cheap-labor practices and therefore we ensure to pay above in-location rates. We hope to inspire other companies to support global talent-hiring and bring local wealth to developing countries.&lt;/p&gt;
-&lt;h2&gt;Application process&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Screening call with a Recruiter&lt;/li&gt;
-&lt;li&gt;Interview with an Engineering Manager&lt;/li&gt;
-&lt;li&gt;(async) Code exercise&lt;/li&gt;
-&lt;li&gt;Interview with the team (you&#39;ll get a sense of who you&#39;d be working with)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.notion.so/96e108c037b8423cbd4c3f07a1f9b38b?pvs=21&quot;&gt;Prior employment verification check&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;#LI-DNI&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/h2&gt;
-&lt;div class=&quot;p-rich_text_section&quot;&gt;
-&lt;div class=&quot;p-rich_text_section&quot;&gt;Our full benefits &amp;amp; perks are explained in our handbook at&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;http://remote.com/r/benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://remote.com/r/benefits&quot; data-sk=&quot;tooltip_parent&quot;&gt;remote.com/r/benefits&lt;/a&gt;. As a global company, each country works differently, but some benefits/perks are for all Remoters:&lt;/div&gt;
-&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;work from anywhere&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;unlimited personal time off (minimum 4 weeks)&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;quarterly company-wide day off for self care&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;flexible working hours (we are&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.notion.so/remotecom/Working-Async-at-Remote-80c01cd443ad4c77a8ceaef7c5fba5d0&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.notion.so/remotecom/Working-Async-at-Remote-80c01cd443ad4c77a8ceaef7c5fba5d0&quot; data-sk=&quot;tooltip_parent&quot;&gt;async&lt;/a&gt;)&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;16 weeks paid parental leave&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;mental health support services&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;stock options&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;learning budget&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;home office budget &amp;amp; IT equipment&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;budget for local in-person social events or co-working spaces&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;h2&gt;&lt;strong&gt;How you’ll plan your day (and life)&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;We work async at Remote which means you can plan your schedule around your life (and not around meetings). Read more at &lt;a href=&quot;http://www.remote.com/async&quot;&gt;remote.com/async&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You will be empowered to take ownership and be proactive. When in doubt you will default to action instead of waiting. Your &lt;strong&gt;life-work balance&lt;/strong&gt; is important and you will be encouraged to put yourself and your family first, and fit work around your needs.&lt;/p&gt;
-&lt;p&gt;If that sounds like something you want, apply now!&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;How to apply&lt;/strong&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Please fill out the form below and upload your CV with a PDF format.&lt;/li&gt;
-&lt;li&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;We kindly ask you to submit your application and CV in English, as this is the standardised language we use here at Remote.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;If you don’t have an up to date CV but you are still interested in talking to us, please feel free to add a copy of your LinkedIn profile instead.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;We will ask you to voluntarily tell us your pronouns at interview stage, and you will have the option to answer our anonymous demographic questionnaire when you apply below. As an equal employment opportunity employer it’s important to us that our workforce reflects people of all backgrounds, identities, and experiences and this data will help us to stay accountable. We thank you for providing this data, if you chose to.&lt;/p&gt;
-&lt;p&gt;Need help? Email&amp;nbsp;&lt;a class=&quot;c-link&quot; style=&quot;color: rgba(var(--sk_highlight,18,100,163),1); text-decoration: none;&quot; href=&quot;mailto:hiring@remote.com&quot; target=&quot;_blank&quot; data-stringify-link=&quot;mailto:hiring@remote.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;hiring@remote.com&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://d21buns5ku92am.cloudfront.net/69529/images/420204-RemoteMark_purple-da25a3-original-1646241858.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Remote</h5>
-                    <h3>Senior Frontend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/remotecom/jobs/5747356003" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Remote&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Remote is solving global remote organizations’ biggest challenge: employing anyone anywhere compliantly. We make it possible for businesses big and small to employ a global team by handling global payroll, benefits, taxes, and compliance. Check out &lt;a href=&quot;http://remote.com/how-it-works&quot;&gt;remote.com/how-it-works&lt;/a&gt; to learn more or if you’re interested in adding to the mission, scroll down to apply now.&lt;/p&gt;
-&lt;p&gt;Please take a look at &lt;strong&gt;&lt;a href=&quot;http://remote.com/handbook&quot;&gt;remote.com/handbook&lt;/a&gt;&lt;/strong&gt; to learn more about our culture and what it is like to work here. &lt;strong&gt;Not only do we encourage folks from all ethnic groups, genders, sexuality, age and abilities to apply, but we prioritize a sense of &lt;a href=&quot;https://www.notion.so/people-Belonging-Diversity-Equity-Inclusion-DEI-4990e36a7d7b4d52a78ca3efb23d718b&quot;&gt;belonging&lt;/a&gt;.&lt;/strong&gt; You can check out independent reviews by other candidates on &lt;a href=&quot;https://www.glassdoor.com/Overview/Working-at-Remote-EI_IE3871683.11,17.htm&quot;&gt;Glassdoor&lt;/a&gt; or look up the &lt;a href=&quot;https://www.notion.so/people-Candidate-Experience-Surveys-17d595a88b7548148593792a8072235f&quot;&gt;results of our candidate surveys&lt;/a&gt; to see how others feel about working and interviewing here.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;All of our positions are fully remote. You do not have to relocate to join us!&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;The position&lt;/h2&gt;
-&lt;p&gt;You&#39;ll join a team of approximately 200 engineers across Frontend, Backend, SRE, Data, and QA. We&#39;re organized into cross-functional development teams assigned to specific verticals.&lt;/p&gt;
-&lt;p&gt;This role is open for several teams, and we will define the exact team you will be joining during the interview process based on the business needs and your preferences.&lt;/p&gt;
-&lt;p&gt;Regardless of the specific team, you will be working on building tools, APIs, and integrations for one of our products.&lt;/p&gt;
-&lt;p&gt;Our backend is built with Elixir and Phoenix, with a Postgres database. We use React, Next.js, and Typescript for our frontend. Gitlab is used for version control and as a CI/CD solution. Our issue tracker is Linear. Our applications are hosted on AWS. We fully rely on our CI for deployments and deploy multiple times per day.&lt;/p&gt;
-&lt;h2&gt;What this job can offer you&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Complex and meaningful challenges — solving them will enable people and businesses to live and operate in any country of the world.&lt;/li&gt;
-&lt;li&gt;Opportunity to have a significant impact on the business — we are still very early in our journey as a company, and each change you make today is amplified by the company&#39;s growth.&lt;/li&gt;
-&lt;li&gt;Freedom to organize your work and life —&amp;nbsp;you are not bound to daily stand-ups, recurring meetings or other ceremonies.&lt;/li&gt;
-&lt;li&gt;Competitive salary, stock options, unlimited PTO and a set of perks and benefits.&lt;/li&gt;
-&lt;li&gt;A supportive and kind work environment where we would like you to challenge the dogmas and pursue innovation!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;What you bring&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;At least 7 years of experience as a Frontend Engineer or Full-Stack Engineer, which includes building, shipping, and maintaining a feature-rich software project&lt;/li&gt;
-&lt;li&gt;At least 4 years working with React.js&lt;/li&gt;
-&lt;li&gt;Solid knowledge and experience in React and Next.js&lt;/li&gt;
-&lt;li&gt;Proficiency in JavaScript, as well as semantic HTML and CSS&lt;/li&gt;
-&lt;li&gt;Familiarity with TypeScript&lt;/li&gt;
-&lt;li&gt;Experience in dealing with ambiguity, taking abstract concepts and turning them into working software`&lt;/li&gt;
-&lt;li&gt;Strong ability to work independently and self-guided&lt;/li&gt;
-&lt;li&gt;Curiosity and willingness to learn and develop&lt;/li&gt;
-&lt;li&gt;Experience working in HR or Fintech projects is a plus&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Practicals&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;You&#39;ll report to:&lt;/strong&gt; The Engineering Team Lead&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Location&lt;/strong&gt;: Anywhere in the World&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Start date&lt;/strong&gt;: As soon as possible&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;strong&gt;Remote Compensation Philosophy&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Remote&#39;s &lt;a href=&quot;https://www.notion.so/people-Total-Rewards-1945bce8d3924ece9421ba8630f57b0c?pvs=21&quot;&gt;Total Rewards philosophy&lt;/a&gt; is to ensure&amp;nbsp;fair, unbiased compensation&amp;nbsp;and fair&amp;nbsp;equity pay along with competitive benefits in all locations in which we operate. We do not agree to or encourage cheap-labor practices and therefore we ensure to pay above in-location rates. We hope to inspire other companies to support global talent-hiring and bring local wealth to developing countries.&lt;/p&gt;
-&lt;h2&gt;Application process&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Screening call with a Recruiter&lt;/li&gt;
-&lt;li&gt;Interview with an Engineering Manager&lt;/li&gt;
-&lt;li&gt;(async) Code exercise&lt;/li&gt;
-&lt;li&gt;Interview with the team (you&#39;ll get a sense of who you&#39;d be working with)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.notion.so/96e108c037b8423cbd4c3f07a1f9b38b?pvs=21&quot;&gt;Prior employment verification check&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;#LI-DNI&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/h2&gt;
-&lt;div class=&quot;p-rich_text_section&quot;&gt;
-&lt;div class=&quot;p-rich_text_section&quot;&gt;Our full benefits &amp;amp; perks are explained in our handbook at&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;http://remote.com/r/benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://remote.com/r/benefits&quot; data-sk=&quot;tooltip_parent&quot;&gt;remote.com/r/benefits&lt;/a&gt;. As a global company, each country works differently, but some benefits/perks are for all Remoters:&lt;/div&gt;
-&lt;ul class=&quot;p-rich_text_list p-rich_text_list__bullet&quot; data-stringify-type=&quot;unordered-list&quot; data-indent=&quot;0&quot; data-border=&quot;0&quot;&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;work from anywhere&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;unlimited personal time off (minimum 4 weeks)&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;quarterly company-wide day off for self care&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;flexible working hours (we are&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.notion.so/remotecom/Working-Async-at-Remote-80c01cd443ad4c77a8ceaef7c5fba5d0&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.notion.so/remotecom/Working-Async-at-Remote-80c01cd443ad4c77a8ceaef7c5fba5d0&quot; data-sk=&quot;tooltip_parent&quot;&gt;async&lt;/a&gt;)&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;16 weeks paid parental leave&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;mental health support services&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;stock options&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;learning budget&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;home office budget &amp;amp; IT equipment&lt;/li&gt;
-&lt;li data-stringify-indent=&quot;0&quot; data-stringify-border=&quot;0&quot;&gt;budget for local in-person social events or co-working spaces&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;h2&gt;&lt;strong&gt;How you’ll plan your day (and life)&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;We work async at Remote which means you can plan your schedule around your life (and not around meetings). Read more at &lt;a href=&quot;http://www.remote.com/async&quot;&gt;remote.com/async&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You will be empowered to take ownership and be proactive. When in doubt you will default to action instead of waiting. Your &lt;strong&gt;life-work balance&lt;/strong&gt; is important and you will be encouraged to put yourself and your family first, and fit work around your needs.&lt;/p&gt;
-&lt;p&gt;If that sounds like something you want, apply now!&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;How to apply&lt;/strong&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Please fill out the form below and upload your CV with a PDF format.&lt;/li&gt;
-&lt;li&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;We kindly ask you to submit your application and CV in English, as this is the standardised language we use here at Remote.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;If you don’t have an up to date CV but you are still interested in talking to us, please feel free to add a copy of your LinkedIn profile instead.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;We will ask you to voluntarily tell us your pronouns at interview stage, and you will have the option to answer our anonymous demographic questionnaire when you apply below. As an equal employment opportunity employer it’s important to us that our workforce reflects people of all backgrounds, identities, and experiences and this data will help us to stay accountable. We thank you for providing this data, if you chose to.&lt;/p&gt;
-&lt;p&gt;Need help? Email&amp;nbsp;&lt;a class=&quot;c-link&quot; style=&quot;color: rgba(var(--sk_highlight,18,100,163),1); text-decoration: none;&quot; href=&quot;mailto:hiring@remote.com&quot; target=&quot;_blank&quot; data-stringify-link=&quot;mailto:hiring@remote.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;hiring@remote.com&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://d21buns5ku92am.cloudfront.net/69529/images/420204-RemoteMark_purple-da25a3-original-1646241858.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Remote</h5>
                     <h3>Staff Frontend Engineer</h3>
                 </td>
                 <td width="300">
@@ -469,7 +155,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/remotecom/jobs/5750406003" align="right" target="_blank">Apply</a>
+                <a href="https://boards.greenhouse.io/remotecom/jobs/5753174003" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -563,7 +249,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/remotecom/jobs/5753174003" align="right" target="_blank">Apply</a>
+                <a href="https://boards.greenhouse.io/remotecom/jobs/5750406003" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
