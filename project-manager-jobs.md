@@ -1,5 +1,64 @@
 <div align="center"><h2>PROJECT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/7908/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>BBE Marketing Inc</h5>
+                    <h3> Administrative Assistant/Project Manager</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-administrative-assistant-project-manager-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0064/7908/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Hurst, TX
+    <br /><strong>URL:</strong> <a href="http://bbemarketing.com/">http://bbemarketing.com/</a>
+</p>
+
+<div>BBE Marketing is seeking a detail-oriented and proactive Virtual Assistant to join our dynamic team. The ideal candidate will seamlessly integrate into our operations, providing invaluable support across various sectors of our organization.<br><br>
+</div><div>
+<strong><br>The tasks include:<br></strong><br>
+</div><ul>
+<li>Monitor industry trends and news updates pertinent to our organization.</li>
+<li>Deliver timely notifications to the team via Slack regarding significant developments.</li>
+<li>Supervise and assess the work of our writers to ensure quality, accuracy, and originality.</li>
+<li>Address customer service inquiries with promptness and professionalism.</li>
+<li>Maintain a structured system for tracking and managing customer inquiries and follow-up tasks.</li>
+<li>Oversee and process customer refunds</li>
+<li>Monitor the progress of team-specific tasks, ensuring they meet the stipulated deadlines.</li>
+<li>Assigning work to researchers and managing work until competition</li>
+<li>Proactively pinpoint and communicate any deviations or delays in project milestones.</li>
+<li>Assist with a range of administrative duties, including data entry, meeting scheduling, report preparation, and document maintenance.</li>
+<li>Design and create comprehensive SOPs and guides to streamline operations.</li>
+<li>Craft engaging newsletters using Mailchimp, ensuring they resonate with our target audience.</li>
+</ul><div>
+<strong><br>Requirements:<br></strong><br>
+</div><ul>
+<li>Great communication skills</li>
+<li>Strong attention to detail</li>
+<li>Proficiency with tools such as Slack, Mailchimp, Confluence, and Asana.</li>
+<li>Experience using Google Sheets and Microsoft Excel</li>
+<li>Project Management experience</li>
+<li>Mailchimp experience is a plus</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-administrative-assistant-project-manager-2">https://weworkremotely.com/remote-jobs/bbe-marketing-inc-administrative-assistant-project-manager-2</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
