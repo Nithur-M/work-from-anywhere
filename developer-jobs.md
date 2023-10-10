@@ -1,5 +1,199 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/8492/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Cliniko</h5>
+                    <h3> 🎉 Unique Software Developer job 🎉</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/cliniko-unique-software-developer-job" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0124/8492/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Melbourne, Australia.
+    <br /><strong>URL:</strong> <a href="https://cliniko.com">https://cliniko.com</a>
+</p>
+
+<div>
+<strong>About the Job<br></strong><br>
+</div><div>We are looking for a few amazing software developers to join our globally remote team at <a href="https://www.cliniko.com/">Cliniko</a>. Cliniko is a web application, comprising Ruby on Rails in the backend, and we’re in the process of transitioning the frontend to a React stack. This role will need to work with both backend and frontend, with more of a focus on the backend. Experience in Ruby is a bonus, but not required.</div><div>
+<br><br>
+</div><div>
+<strong>What is Cliniko?<br></strong><br>
+</div><div>
+<a href="https://www.cliniko.com/">Cliniko</a> is practice management software that makes life easy for allied health professionals by handling appointment scheduling, storing treatment notes, running video consultations, and much more. The software is used globally by tens of thousands of practitioners every day.</div><div>
+<br>Behind Cliniko is a team of 50 people, spread around the world. We work completely remotely, although our base is in Melbourne, Australia. We care more about finding the best person for the job than looking for someone that lives nearby.</div><div>
+<br>We don't have managers, we almost <a href="https://www.cliniko.com/blog/work-culture/why-we-have-no-meetings-at-cliniko/">never have meetings</a>, and there are no time sheets to complete. We're responsible, autonomous, creative, and proactive in doing our best for our customers. We're focused on making great software and we take pride in doing good work. It’s also important to us that <a href="https://www.cliniko.com/blog/news/cliniko-has-donated-1-million-to-charity/">we have a positive impact on the world</a>.</div><div>
+<br>If you want to know more about how we work, our founder, Joel, <a href="https://www.youtube.com/watch?v=o_2jXqzxBNU">gave a talk about it</a>.</div><div>
+<br><br>
+</div><div>
+<strong>What you’ll work on<br></strong><br>
+</div><div>You will spend your time developing Cliniko. Some of the things you’ll do are:</div><ul>
+<li>Adding new features to Cliniko.</li>
+<li>Improving existing features.</li>
+<li>Fixing bugs.</li>
+<li>Refactoring code.</li>
+<li>Reviewing code written by other developers.</li>
+<li>Making Cliniko faster.</li>
+<li>Improving security.</li>
+<li>Resolving issues for customers.</li>
+<li>Assisting the support team with queries. </li>
+<li>Testing and deploying your own code.</li>
+<li>Anything else you think needs doing.</li>
+</ul><div>Basically, you’ll be doing all you can to make Cliniko better for our customers.<br><br><strong>About you<br></strong><br>
+</div><div>You are someone who loves to code, and cares about having code that is easy to understand. You’re passionate about your work having a positive impact. You want to learn and share what you know.</div><div>
+<br>Taking initiative, and being responsible come naturally to you. You want your code meticulously reviewed, so that you can improve it. You also enjoy doing the same in return. You enjoy working with a team, but you are driven and motivated to take control of your projects, and deliver your own code. </div><div>
+<br>You understand the importance of security practices in your development. You write tests because they matter, not just to achieve coverage.</div><div>
+<br>You’re comfortable working from the database through to the DOM. This includes:</div><ul>
+<li>Relational databases.</li>
+<li>Queues and caches.</li>
+<li>Server side web frameworks.</li>
+<li>JSON APIs.</li>
+<li>Client side JS.</li>
+</ul><div>You're either proficient in all of these, or extremely capable in a few. We use Ruby on Rails. Experience with it is not required, but similar experience and an ability to quickly come up to speed is.</div><div>
+<br>No matter what your background is, or how you identify, if you feel you meet the requirements, we encourage you to apply. We know that having a diverse team brings the benefit of different perspectives, and it's how we’ll continue to find new ways to make Cliniko better. We are committed to the continual diversification of the team and working to constantly improve our inclusivity which is crucial to how we work.<br><br><strong>How we work<br></strong><br>
+</div><div>Here are some things we do a little differently to enable people to do their best work and live a happy life:</div><ul>
+<li>30-hour work week, full-time pay.</li>
+<li>Flexible hours, choose when you work</li>
+<li>Work from anywhere.</li>
+<li>Unlimited annual leave (minimum 4 weeks per year).</li>
+<li>Supplied computer equipment.</li>
+<li>Ergonomic furniture.</li>
+<li>Fresh organic fruit delivered weekly to your home.</li>
+<li>Overseas trips for full team meet-ups (family invited and paid for, too).</li>
+<li>No managers.</li>
+<li>No meetings.</li>
+</ul><div><br></div><div>
+<strong>How to apply<br></strong><br>
+</div><div>Read the instructions thoroughly on the application page.</div><div>
+<br>Job applications <strong>close</strong> <strong>25th of October, 2023</strong>.</div><div>
+<br><br>
+</div><div>
+<strong>What you can expect after applying<br></strong><br>
+</div><div>Once you’ve applied, sit back and relax while we get to work on our side! We’ll be reviewing all the applications as they come in, and we’ll get back to you at latest, a week after applications close. Everyone will hear back from us, successful or not.</div><div>
+<br>If we select you for the next stage, it will be a short 5 minute chat with our founder, Joel. Following the chat, if you’re still a contender, there’ll be a technical task to complete. These tasks are paid.</div><div>
+<br>Lastly, you’d meet with a few from our team, and we’ll make the final decision. This is the exciting part for us, and hopefully also for the chosen person. We’ll hire them to join our team! That will happen fast, and the start date will be chosen by the applicant.</div><div>
+<br>We know it’s quite a process to go through, so we want to make sure you know what you’re in for up front. We’ll be transparent with everyone along the way.</div><div>
+<br>One final note, unfortunately due to the quantity of applications we receive, we are not able to provide feedback for those not successful in the first round. In the later stages, we’ll do our best to provide what we can, if requested.</div><div>
+<br>Good luck!</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/cliniko-unique-software-developer-job">https://weworkremotely.com/remote-jobs/cliniko-unique-software-developer-job</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/8491/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Zipline</h5>
+                    <h3> UI Designer / Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Design</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/zipline-ui-designer-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0124/8491/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> California
+    <br /><strong>URL:</strong> <a href="https://retailzipline.com/">https://retailzipline.com/</a>
+</p>
+
+<div>Zipline is 100% remote and accepts applicants from Canada, US &amp; internationally.
+<br>
+<br>Do you enjoy building what you design?
+<br>
+<br>Want to do meaningful design AND development work at a mission-driven company, and have a real impact on the lives of millions of people working in retail? As a hybrid UI Designer / Developer at Zipline you will do just that - solving exciting and interesting problems that help retail workers keep their day on track.
+<br>
+<br>At Zipline, our mission is to bring retail operations out of the dark ages and give companies effective tools that their employees love to use. You will help improve the way that this 4.4 trillion dollar industry communicates with its store employees and save them from sad, slow, inefficient systems (think fax machines, voicemails, and the postal service). People deserve better! We need your help to make this happen.
+<br>
+<br>We are a well-funded market leader and have great customers, but there is so much more to do and improve. We are looking for another hybrid UI Designer / Developer to collaborate daily with product, design, and engineering to drive ideas and features from concept to execution to launch - all while testing, prototyping, and honing the experience to ensure it sets a high bar for quality and is something our customers will love. You will dive deep into parts of the Zipline product, solving critical user needs, and shipping solutions to challenging problems.
+<br>
+<br>The user experience matters to us and our customers (Gap Inc, Allbirds, Lululemon, LEGO, and many more), and we want you to be part of shaping that!
+<br>
+<br>
+<br>
+<br>
+<br>Responsibilities
+<br>Work cross-functionally with Product, Design, and Engineering to design and build high-quality experiences that our customers will love.
+<br>Tackle projects from inception to completion - from designs to flows to prototypes to builds - constantly iterating on scope, UI, edge cases, and polish.
+<br>Participate in user research to better understand customer needs and gather feedback on concepts and solutions.
+<br>Solicit feedback from your teammates and colleagues on the effectiveness of your ideas and solutions.
+<br>Balance short-term execution inspired by long-term direction, always thinking about how we can iterate on and improve our product over time.
+<br>Demonstrate good communication and collaboration in your work - contributing to process and operational improvements as part of a remote organization.
+<br>Promote a collaborative and inclusive environment for the team.
+<br>
+<br>Must-haves
+<br>3+ years experience designing and building for desktop and mobile.
+<br>Solid portfolio of information architecture, UI &amp; interaction design, and working with design systems.
+<br>Solid experience creating prototypes and builds of your designs and flows.
+<br>Solid experience writing clean and intuitive HTML, CSS, and Javascript.
+<br>Solid experience writing Ruby on Rails applications (experience with React, Elasticsearch, Flux, Redux, or similar is also valuable).
+<br>Experience with testing, troubleshooting, and debugging practices and techniques
+<br>Experience conducting user interviews and concept testing with customers.
+<br>Experience developing rationale, options, and execution plans for your features.
+<br>
+<br>More about you
+<br>Retail experience is an asset, but not required.
+<br>Experience with data visualization, or a desire to learn it, is valuable.
+<br>Proficient in tools such as Github, Figma, Slack, Google Docs, etc.
+<br>Ability to act with empathy and intentionality towards customers and colleagues.
+<br>Ability to listen, understand, share, and collaborate with your teammates.
+<br>Self-motivated, curious, and dependable.
+<br>
+<br>Employee Benefits
+<br>Stock Options
+<br>Paid Flexible Time Off (including time off to care for family members, as well as Sick Time)
+<br>Paid Parental Leave Benefit
+<br>Group Health Insurance (Medical, Vision, and Dental) with a variety of PPO &amp; HMO plans and a flexible spending account
+<br>401(k) Retirement Plan
+<br>100% Paid Life and Long-Term Disability Insurance
+<br>The “Extras”
+<br>Remote Work: Join a flexible, effective remote team and work where you’re comfortable- literally anywhere! We’ve had Zipliners join us from vans, RVs, sailboats, and AirBnBs around the globe.
+<br>Computer accessories and office setup: There’s a science to being effective at home and we help you get there with the right equipment and accessories that you need.
+<br>Company off-sites: Most years we come together (IRL!). Past retreats were held in Santa Cruz, New York, Mexico City, Puerto Vallarta, and Costa Rica.
+<br>Education stipends: We believe in perpetual learning! If there’s a class that you want to take or a book that will help you expand your horizons, we’ll support it, as long as it fits within our team budgets.
+<br>Coffee Stipend: To encourage breaks and a change of scenery, we provide a small stipend each month to get you out of the house and relax at your favorite coffee spot.
+<br>A note on our Flexible Time Off Policy - We don’t have a set number of “Days Off” at Zipline, and instead Zipliners request time off when and as they need it, under a Flexible Time Off Policy. Each request is then reviewed by your manager and a decision is made with all of the appropriate business considerations accounted for. Typically, we see Zipliners using 15-25 days per year, and it’s important to note that time off is not unlimited.
+<br>
+<br>We value diversity of all kinds and are committed to building a diverse and inclusive workplace where we learn from each other. We are an equal-opportunity employer and welcome people of all different backgrounds, experiences, abilities, and perspectives.
+<br>
+<br>Got More Time, here’s more about Zipline!
+<br>
+<br>How do we work? Remotely. We have been 100% remote since the company was founded. We come together as a company every week for our Wednesdays Socials, where the topic can be a classic “Standup” format, a micro learning around burnout and mental health, followed by discussion, or a silly trivia…and anything in between! Some Fridays, we come together to learn from each other. One week it might be about opossum rescue. Another week it might be an update on our product roadmap or the results of our customer satisfaction survey. We are all expert Zoom navigators, and love the freedom of working from anywhere, using technology to connect.
+<br>
+<br>With Zipline, retail employees feel more connected, understand the role they play in the brand’s mission, and can feel good about the work they’re doing. This is important to us because retail is one of America's most populous workforces but also one of the most underserved. Through Zipline, we can touch on one in four American workers whose jobs and needs are often underrepresented.
+<br>
+<br>We have made incredible progress but changing the industry is hard. We are well funded by leading venture capital firms like Emergence Capital and ready to scale. We need your help to improve the way that this 4.4 trillion dollar industry communicates with its store employees. Cumbersome, slow, and inefficient systems should not be the status quo. Help us retool retail, and Keep Today on Track™</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/zipline-ui-designer-developer">https://weworkremotely.com/remote-jobs/zipline-ui-designer-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +204,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/dm-holdings-llc-senior-software-developer" align="right" target="_blank">Apply</a>
@@ -63,157 +257,116 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/6685/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>TempMee</h5>
-                    <h3> Backend Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/tempmee-backend-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0083/6685/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Miami, FL, United States
-    <br /><strong>URL:</strong> <a href="https://tempmee.com">https://tempmee.com</a>
-</p>
-
-<div>Venture-backed Miami based tech startup seeking an experienced Backend Developer.<br><br>TempMee is changing the way the world works - starting with the Dental Industry! We are an ambitious and motivated tech startup that has secured multiple rounds of venture backing to create an Uber-like platform/app to disrupt the dental staffing industry. After launching in late 2019, we have already built the largest community of nationwide hygienists and dental offices, dwarfing our established competition in the dental tech staffing space. It is truly a matter of time until TempMee is the industry standard for dental staffing needs in the Dental Community!<br><br>Working with TempMee means you will be working alongside committed fellow engineers who know their work is critical to the company's success. We are a people-first company that actively seeks your input to make you more successful in your role! We like to have fun with our work and encourage you to get to know the people you work with. We have a motto - Hard work doesn’t have to be serious!<br><br>Qualifications:<br><br>- 3-5 years of experience with software development in one or more programming languages<br>- Must be available on weekdays for meetings 9 AM - 11 AM Eastern American time;<br>- 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture<br>- Solid programming skills in JavaScript<br>- Deep understanding of relational database systems, specifically MySQL and Postgres<br>- Understanding NoSQL Datastores such as ElasticSearch, and MongoDB is a plus<br>- Experience building scalable, performant, and modular solutions<br>- Understanding of modern cloud technologies such as AWS or Google Cloud<br>- Experience with microservices and service-oriented architecture</div><div>
-<br>What you'll do<br><br>- Work in an exciting and high-growth startup<br>- Research novel solutions to nuanced and often unchartered engineering challenges<br>- Work with designers, product managers, and engineers to design impactful products<br>- Perform and uphold code best practices.<br>- Produce high-quality code that raises the bar for all engineering team members<br>- Improve scalable distributed systems on the cloud<br>- Improve web applications for performance and scalability<br>- Perform quality assurance/debugging procedures to provide a secure and functional delivery<br>- Implement testing protocols for managing successful deployments across development, staging, and production environments<br>- Recommend system solutions by comparing the advantages and disadvantages of custom development and purchasing alternatives<br><br>We are excited to meet you!<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tempmee-backend-developer">https://weworkremotely.com/remote-jobs/tempmee-backend-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0099/5721/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>TextMagic</h5>
-                    <h3> Senior Back-end developer (PHP, Symfony, PostgreSQL)</h3>
+                    <h5>XM</h5>
+                    <h3> Modern C++ Software Developer – Remote</h3>
                 </td>
                 <td width="300">
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>65 days ago</text>
+                <text>90 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/textmagic-senior-back-end-developer-php-symfony-postgresql-1" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0099/5721/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
-  <strong>Headquarters:</strong> Estonia
-    <br /><strong>URL:</strong> <a href="https://www.textmagic.com">https://www.textmagic.com</a>
+  <strong>Headquarters:</strong> Cyprus
+    <br /><strong>URL:</strong> <a href="https://bit.ly/3Yljr8s">https://bit.ly/3Yljr8s</a>
 </p>
 
-<div><strong>The main technologies we use:</strong></div><ul>
-<li>PHP 7, Symfony 4, Codeception, PHPUnit, OpenAPI<br><br>
-</li>
-<li>PostgreSQL 10, Memcached<br><br>
-</li>
-<li>Beanstalk<br><br>
-</li>
-<li>Docker<br><br>
-</li>
-</ul><div><strong>What you will do:</strong></div><ul>
-<li>Develop new features and platform architecture.<br><br>
-</li>
-<li>Design and build REST API.<br><br>
-</li>
-<li>Integrate with third-party services using API.<br><br>
-</li>
-<li>Refactoring and code optimization.<br><br>
-</li>
-<li>Scale the project for increasing loads.<br><br>
-</li>
-<li>Participate in the team’s product logic development.<br><br>
-</li>
-<li>Undertake code reviews of other team members’ work.<br><br>
-</li>
-<li>Optimize database queries.<br><br>
-</li>
-</ul><div><strong><br>What we expect from you:</strong></div><ul>
-<li>Excellent knowledge of and experience with the technologies listed above.<br><br>
-</li>
-<li>A clear understanding of the architecture of a web application and its separate components.<br><br>
-</li>
-<li>An understanding of how the HTTP request lifecycle works.<br><br>
-</li>
-<li>Experience in building REST API.<br><br>
-</li>
-<li>An understanding of the principles of SOLID and OOP.<br><br>
-</li>
-<li>Experience in creating high-load systems in conditions of zero downtime.<br><br>
-</li>
-<li>An understanding of how to build efficient, scalable database architecture. Experience with PostgreSQL or MySQL (writing complex queries; understanding EXPLAIN; optimizing slow queries without changing the database structure; changing schemas of large tables without downtime, etc.)<br><br>
-</li>
-</ul><div><br></div><div><strong><br>What we offer:</strong></div><ul>
-<li>Full support for your professional growth.<br><br>
-</li>
-<li>Any equipment you need for productive work.<br><br>
-</li>
-<li>The opportunity to bring your vision to the project.<br><br>
-</li>
-<li>Remote working.<br><br>
-</li>
-<li>A professional and friendly team, ready to help you.<br><br>
-</li>
-</ul>
+<div>
+<strong>Modern C++ Software Developer – Remote<br></strong><br>
+</div><div>
+<strong>Reference Number: CSD1022<br></strong><br>
+</div><div><br></div><div>
+<strong>The Role: <br></strong><br>
+</div><div>We are looking for a Modern C++ Software Developer to join our software development team.  You will be working on internal software related to trading financial products; monitoring tools; alerting and reporting. You will have the opportunity to offer your ideas, suggestions, and designs to help the team improve their quality of work. The team strives to write clean, decoupled, and testable code with a clear separation of components and responsibilities.<br><br>
+</div><div><br></div><div>
+<strong>The key responsibilities of the role include:<br></strong><br>
+</div><div>●       Develop standalone applications and plug-ins in C++ 17</div><div>●       Use libraries such as Boost.Asio for asynchronous TCP sockets</div><div>●       Write unit-tests, end-to-end tests and stress testing</div><div>●       Communicate with the team to identify business requirements</div><div>●       Understand business requirements and develop systems/features to meet them</div><div>●       Develop code in accordance with the system design and coding standards with minimal supervision</div><div>●       Review the code of associate developers<br><br>
+</div><div><strong> </strong></div><div><strong>Main requirements:</strong></div><div> </div><div>●       BSc/MSc in computer science, computer engineering or a related subject</div><div>●       Experience in any object-oriented language either in a professional environment or on personal projects</div><div>●       Strong knowledge and an active interest in object-oriented principles, practices and design patterns</div><div>●       Willingness to work with and learn modern C++, asynchronous programming and unit-testing</div><div>●       Excellent problem solving and troubleshooting skills</div><div>●       Knowledge of any of the following will be a plus: unit-testing, UML design,Boost.Asio, FIX protocol,         MetaTrader API, asynchronous programming, profiling</div><div>●       Outstanding communication and interpersonal skills, including the ability to describe software designs at all technical knowledge levels</div><div>●       Self-starter with a passion for coding, tinkering, reading, exploring and breaking things</div><div>●       Very good written and verbal skills in English<br><br>
+</div><div> </div><div>
+<strong>Benefit from:<br></strong><br>
+</div><div>●       Attractive remuneration package plus performance related reward</div><div>●       Intellectually stimulating work environment</div><div>●       Continuous personal development and international training opportunities<br><br>
+</div><div>
+<br>Type of employment: Full time<br><br>
+</div><div>
+<br>Location: Remote<br><br>
+</div><div>Please visit https://bit.ly/3Yljr8s to submit your online application for this position.<br><br>
+</div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/textmagic-senior-back-end-developer-php-symfony-postgresql-1">https://weworkremotely.com/remote-jobs/textmagic-senior-back-end-developer-php-symfony-postgresql-1</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2">https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2</a></p>
 
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0099/5455/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Overmind</h5>
-                    <h3> Blockchain Developer</h3>
+                    <h5>XM</h5>
+                    <h3> Senior PHP Web Developers– Cyprus, Greece or Remote</h3>
                 </td>
                 <td width="300">
-                    <code>Full-Stack Programming</code>
+                    <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>68 days ago</text>
+                <text>90 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/overmind-blockchain-developer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0099/5455/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
-  <strong>Headquarters:</strong> Singapore
-    <br /><strong>URL:</strong> <a href="https://overmind.xyz/">https://overmind.xyz/</a>
+  <strong>Headquarters:</strong> Cyprus, Greece or Remote
+    <br /><strong>URL:</strong> <a href="https://xm.com">https://xm.com</a>
 </p>
 
-<div><strong>The Role</strong></div><div>You will develop the core smart contracts powering Overmind on multiple chains. You will develop puzzles and challenges for developers to crack. You will work closely with a small team and take ownership of important projects from the get-go.</div><div><br></div><div><strong>Skills &amp; Experience</strong></div><div><strong>Essential Requirements</strong></div><div>- 3+ years of smart contract development experience</div><div>- Love for coding puzzles and challenges</div><div>- English fluency (written &amp; oral)</div><div><br></div><div><strong>Nice-to-haves</strong></div><div>- Experience with Move</div><div>- Experience writing Layer 1 code, e.g. EVM or Tendermint</div><div>- Experience with coding competitions, e.g. ACM ICPC or Topcoder</div><div>- Experience with remote work at startups</div><div>- Bachelors or advanced degree in Computer Science or related subject</div><div><br></div><div><strong>Needless to say, none of the above supersedes your intellectual curiosity and drive to build world-changing products.</strong></div>
+<div>
+<strong>Reference Number: SPHPWD1021<br></strong><br>
+</div><div>
+<strong> <br></strong><br>
+</div><div>
+<strong>The role:<br></strong><br>
+</div><div>As our new Senior PHP Developer, you will join an amazing team who is dedicated to taking the next step in software engineering. You will make key decisions on software processes, and use Kubernetes and Terraform on PHP, Go, React &amp; Angular on AWS. The team will keep you up-to-date with the latest technology stacks and processes and help you see challenging projects from beginning to end.<br><br>
+</div><div> <br><br>
+</div><div>
+<strong>The main responsibilities of the role include:<br></strong><br>
+</div><div>●        Design and implement new features/projects</div><div>●        Maintain and refactor existing web applications such as the company's website, registration forms, Members Area and internal web services</div><div>●        Research and integrate new web technologies</div><div>●        Write tests that will run on a continuous integration server 24/7 to ensure code testability, code coverage and quality conforms to the company’s highest standards</div><div>●        Resolve support tickets for IT related issues</div><div>
+<strong> <br></strong><br>
+</div><div>
+<strong>Main requirements:<br></strong><br>
+</div><div>●        BSc/MSc in information technology or any other relevant degree</div><div>●        At least 3 years of experience in a similar position</div><div>●        Very good knowledge of PHP 7+, MySQL, Redis, Git</div><div>●        Very good understanding of object-oriented programming principles</div><div>●        Experience in creating and consuming web services</div><div>●        Experience with modern PHP frameworks</div><div>●        Experience in writing tests with PHPUnit</div><div>●        Ability to research and adapt new web technologies that add value to the team</div><div>●        Strong organisational skills with the ability to multitask and prioritise</div><div>●        Problem solving and analytical skills</div><div>●        Ability to work independently and integrate well within a team</div><div>
+<strong> <br></strong><br>
+</div><div>
+<strong>The following will be considered an advantage:<br></strong><br>
+</div><div>●        Experience in Symfony framework</div><div>●        Experience in the development of REST APIs</div><div>●        Experience in software development practices like design patterns, SOLID principles, DRY</div><div>●        Very good understanding of security practices (OWASP)</div><div>●        Experience with cloud providers (e.g. AWS)</div><div>●        Experience in database query optimization</div><div>●        Experience in creating composer packages</div><div>●        Experience in front-end frameworks or libraries like Angular or React</div><div>
+<strong> <br></strong><br>
+</div><div>
+<strong>Benefit from:<br></strong><br>
+</div><div>●        Attractive remuneration package </div><div>●        Private health insurance</div><div>●        Food allowance</div><div>●        Intellectually stimulating work environment</div><div>●        Continuous personal development and international training opportunities</div><div> </div><div>
+<br>Type of employment: Full time<br><br>
+</div><div>
+<br>Location: Cyprus, Greece or Remote <br><br>
+</div><div>
+<br> <br><br>
+</div><div>Please visit our website <a href="http://www.xm.com/careers">www.xm.com/careers</a> to submit your online application for this position. </div><div> </div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/overmind-blockchain-developer">https://weworkremotely.com/remote-jobs/overmind-blockchain-developer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2">https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2</a></p>
 
                 </details>
                 </td>
@@ -229,7 +382,7 @@
                     <code>CSS,docker,frontend,graphql</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-developer-1801792" align="right" target="_blank">Apply</a>
@@ -254,7 +407,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -331,7 +484,7 @@
                     <code>backend,docker,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-ror-developer-mid-level-1783538" align="right" target="_blank">Apply</a>
@@ -401,7 +554,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
