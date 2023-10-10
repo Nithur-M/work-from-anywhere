@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/contra-senior-site-reliability-engineer-1" align="right" target="_blank">Apply</a>
@@ -120,6 +120,105 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1803829/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Contra</h5>
+                    <h3>Senior Site Reliability Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>cloud,docker,javascript,kubernetes</code>
+                </td>
+                <td width="200">
+                <text>4 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/devops/senior-site-reliability-engineer-1803829" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="text-size-adjust: 100%; overflow-wrap: break-word; color: #212529;">We're looking for a <span style="text-size-adjust: 100%;">Senior Site Reliability Engineer</span> to join our engineering team and help us build the best platform for independents &amp; clients. As a SRE, you are an integral member of our engineering organization. You'll not only help scale our infrastructure and CI/CD pipelines, but also have the chance to shape our technological choices and processes for ensuring the growth, stability and success of the Contra platform. This is a major role at a rapidly expanding startup, working with a team of highly accomplished yet humble people who are passionate about our company's mission. ✨<br style="text-size-adjust: 100%;"><br style="text-size-adjust: 100%;"></p>
+<p style="text-size-adjust: 100%; overflow-wrap: break-word; color: #212529;"><span style="text-size-adjust: 100%;"><br style="text-size-adjust: 100%;">How you’ll add value at Contra:<br style="text-size-adjust: 100%;"></span></p>
+<ul style="">
+<li style="">Expert knowledge in a wide variety of DevOps technologies &amp; best practices</li>
+<li style="">Knowledge and experience leveraging Google Cloud Platform natively and with complimentary tech</li>
+<li style="">Bridging the gap between our infrastructure and our applications, you have experience and comfort working within TypeScript/JavaScript Node.js environments and can identify and resolve issues that are impacting <a href="http://contra.com/" rel="nofollow" style="text-size-adjust: 100%; color: #212529; overflow-wrap: break-word; background-image: linear-gradient(rgba(221, 224, 244, 0.9), rgba(221, 224, 244, 0.9)); background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; text-decoration: none !important;">contra.com</a> reliability</li>
+<li style="">Excellent communication and documentation skills</li>
+<li style="">Collaboration with the rest of the team through regular communication, information sharing and mentorship</li>
+<li style="">Designing, engineering and maintaining solutions for a highly resilient, scalable and fault-tolerant infrastructure</li>
+<li style="">Improving &amp; scaling CI/CD pipelines</li>
+<li style="">Eliminating user impacting defects raised in Sentry and GCP logs</li>
+<li style="">Developing, maintaining and improving monitoring, alerting and reporting tools</li>
+<li style="">Providing on-going operational support</li>
+<li style="">Identifying and improving the developer experience</li>
+<li style="">We expect you to be self-sufficient and take the initiative to drive the company forward. We are looking for individuals who are highly energetic, capable and ambitious, and who are eager to expand their knowledge and show how their contributions help achieve business objectives.</li>
+</ul>
+<p style="text-size-adjust: 100%; overflow-wrap: break-word; color: #212529;"><span style="text-size-adjust: 100%;"><br style="text-size-adjust: 100%;">You’ll be successful here if you are:<br style="text-size-adjust: 100%;"></span></p>
+<ul style="">
+<li style=""><span style="text-size-adjust: 100%;">Everyone Wins Together.</span> You thrive in a collaborative, remote-only environment and you are comfortable with 8 am-1 pm PST core hours and flexibility around those hours for the rest of your work day!</li>
+<li style=""><span style="text-size-adjust: 100%;">Energy is Everything.</span> You bring a strong work ethic and contagious energy to your team as we work towards our North Star.</li>
+<li style=""><span style="text-size-adjust: 100%;">Change is Good.</span> You embrace change to evolve, improve, and build what matters.</li>
+<li style=""><span style="text-size-adjust: 100%;">Think Big.</span> No idea is too big at Contra. Our greatest successes often stem from seemingly crazy ideas. You enjoy setting ambitious goals, both individually and as a team, and strive to achieve them.</li>
+<li style=""><span style="text-size-adjust: 100%;">Feedback is a Gift.</span> Feedback is a catalyst for growth and improvement. It is routinely given and delivered with positive and actionable steps.</li>
+<li style=""><span style="text-size-adjust: 100%;">The Best is Yet to Come.</span> You strive to remain optimistic through all ups &amp; downs because you know the “best is yet to come.”</li>
+<li style=""><span style="text-size-adjust: 100%;">Make it Fun.</span> Nothing in life is worth it if it isn’t fun, even when stakes are high.</li>
+<li style=""><span style="text-size-adjust: 100%;">Good People Only.</span> You recognize that each of us brings unique experiences, backgrounds, and knowledge from which we can learn.</li>
+<li style=""><span style="text-size-adjust: 100%;">GSD.</span> We are building quickly, changing frequently, and growing fast with no plans of stopping anytime soon. You take ownership of your work and are proud to execute at a high level.</li>
+</ul>
+<p style="text-size-adjust: 100%; overflow-wrap: break-word; color: #212529;"><span style="text-size-adjust: 100%;"><br style="text-size-adjust: 100%;">Our stack:<br style="text-size-adjust: 100%;"></span></p>
+<ul style="">
+<li style="">ArgoCD</li>
+<li style="">AlloyDB / PostgreSQL</li>
+<li style="">Github Actions</li>
+<li style="">Google Cloud Platform</li>
+<li style="">Fluentbit</li>
+<li style="">Kubernetes, Helm &amp; Docker</li>
+<li style="">Meillisearch</li>
+<li style=""><a href="http://node.js/" rel="nofollow" style="text-size-adjust: 100%; color: #212529; overflow-wrap: break-word; background-image: linear-gradient(rgba(221, 224, 244, 0.9), rgba(221, 224, 244, 0.9)); background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; text-decoration: none !important;">Node.js</a></li>
+<li style="">OpsGenie</li>
+<li style="">Playwright</li>
+<li style="">Redis</li>
+<li style="">Temporal</li>
+<li style="">Traefik</li>
+<li style="">Turbo repo</li>
+<li style="">TypeScript</li>
+<li style="">Vite</li>
+<li style="">Vitest</li>
+</ul>
+<p style="text-size-adjust: 100%; overflow-wrap: break-word; color: #212529;"><span style="text-size-adjust: 100%;"><br style="text-size-adjust: 100%;">You'll love Contra for:<br style="text-size-adjust: 100%;"></span></p>
+<ul style="">
+<li style="">🌎 Remote-only culture that is here to stay</li>
+<li style="">🍎 100% health coverage for US full-time employees, and health reimbursements for all international contractors</li>
+<li style="">💸 $4,000 laptop reimbursement upon starting + additional for equipment, co-working, and meetups</li>
+<li style="">💰 401k matching for US full-time employees</li>
+<li style="">💛 No-meeting Tuesdays &amp; Wednesdays</li>
+<li style="">👋 Generous time off</li>
+<li style="">👶 Flexible parental leave</li>
+<li style="">💁 A custom slack emoji, just for you!</li>
+</ul>
+<p style="text-size-adjust: 100%; overflow-wrap: break-word; color: #212529;"><span style="text-size-adjust: 100%;"><br style="text-size-adjust: 100%;">Our interview process:<br style="text-size-adjust: 100%;"></span></p>
+<ul style="">
+<li style="">Intro Call (15-30 minutes)</li>
+<li style="">Interview #1 In Depth Technical Discussion Chat with Hiring Manager (45 minutes)</li>
+<li style="">Assessment</li>
+<li style="">Interview #2 Culture Interview (30 minutes)</li>
+<li style="">Interview #3 Technical Interview with Engineering Manager (45 minutes)</li>
+<li style="">Interview #4 CTO &amp; Co-Founder Interview (30 minutes)</li>
+<li style="">Interview #5 Interview with CEO &amp; Co-Founder (30 minutes)</li>
+</ul>
+<p style="text-size-adjust: 100%; overflow-wrap: break-word; color: #212529;"><span style="text-size-adjust: 100%;"><br style="text-size-adjust: 100%;">Salary + Equity Range<br style="text-size-adjust: 100%;"></span></p>
+<ul style="">
+<li style="">$145K -$160K USD</li>
+<li style="">Equity Value Range: $180k+ USD<br style="text-size-adjust: 100%;"><br style="text-size-adjust: 100%;"></li>
+</ul>
+<p style="text-size-adjust: 100%; overflow-wrap: break-word; color: #212529;"> </p>
+<img src="https://remotive.com/job/track/1803829/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1783144/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -130,7 +229,7 @@
                     <code>cloud,docker,javascript,kubernetes</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-site-reliability-engineer-1783144" align="right" target="_blank">Apply</a>
@@ -370,7 +469,7 @@
                 
             <p>Hi, we’re DuckDuckGo, the Internet privacy company for everyone who's had enough of hidden online tracking and wants to take back their privacy now. For over a decade, we've been building our products, including new privacy technology, and working with policymakers to make online privacy simple and accessible for all.<br></p>
 <p><br></p>
-<p>At DuckDuckGo, we currently serve 100+ million search queries a day (nearly doubling each year), anonymously leverage over 400 upstream sources for results, and serve more than 1PB of proxied traffic per month. Our app is now downloaded more than 78M times a year, and our private search engine packaged with it has become the #2 search engine on mobile in the United States and 18 other countries, including the United Kingdom, Canada, Australia, Germany, and the Netherlands. Oh, and we've been profitable since 2014, with revenue exceeding $100 million a year! Now, we’re rolling out a suite of new privacy solutions, including <u><a target="_blank" rel="noopener" href="https://www.spreadprivacy.com/introducing-email-protection-beta/">Email Protection</a></u>,  <u><a target="_blank" rel="noopener" href="https://spreadprivacy.com/introducing-app-tracking-protection/">App Tracking Protection</a></u> and our first-ever Desktop Apps for <u><a target="_blank" rel="noopener" href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/">Mac</a></u><a target="_blank" rel="noopener" href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/"> </a>and <u><a target="_blank" rel="noopener" href="https://spreadprivacy.com/windows-browser-open-beta/">Windows</a></u>.</p>
+<p>At DuckDuckGo, we currently serve 100+ million search queries a day (nearly doubling each year), anonymously leverage over 400 upstream sources for results, and serve more than 1PB of proxied traffic per month.&nbsp;Our app is now downloaded more than 78M times a year, and our private search engine packaged with it has become the #2 search engine on mobile in the United States and 18 other countries, including the United Kingdom, Canada, Australia, Germany, and the Netherlands. Oh, and we've been profitable since 2014, with revenue exceeding $100 million a year! Now, we’re rolling out a suite of new privacy solutions, including <u><a target="_blank" rel="noopener" href="https://www.spreadprivacy.com/introducing-email-protection-beta/">Email Protection</a></u>,  <u><a target="_blank" rel="noopener" href="https://spreadprivacy.com/introducing-app-tracking-protection/">App Tracking Protection</a></u> and our first-ever Desktop Apps for <u><a target="_blank" rel="noopener" href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/">Mac</a></u><a target="_blank" rel="noopener" href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/"> </a>and <u><a target="_blank" rel="noopener" href="https://spreadprivacy.com/windows-browser-open-beta/">Windows</a></u>.</p>
 <p><br></p>
 <p>Join us as a <strong>Senior Site Reliability Engineer</strong> to help build and maintain world-class infrastructure to meet the needs of millions of users seeking to protect their privacy online.&nbsp;</p>
 <p><br></p>
