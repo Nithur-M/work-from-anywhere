@@ -306,6 +306,91 @@
                 </td>
                 <td width="300">
                     <h5>Status</h5>
+                    <h3>Software Engineer (Chat SDK)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=5175038&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <div class="careers-block__trix external-panel text-left">
+<div>
+<p><strong>About Waku</strong></p>
+<p>We are building Waku as a public good infrastructure. Waku is uncompromising Web3 communication at scale. It is a decentralized, censorship-resistant, privacy-preserving communication network that enables anyone to send and receive messages without worrying about surveillance or deplatforming.</p>
+<p>We are enabling Ethereum builders to create new projects with a fully decentralized architecture, think dApp to Wallet notifications, NFT marketplaces, censorship-resistant chat, layer-2 and more.&nbsp;</p>
+<p>Waku enables a variety of complex use cases and applications. To facilitate the adoption of Waku, you will design and implement application protocols to provide to dapp developers as off-the-shelf SDKs.</p>
+<p><a href="waku.org">Waku.org&nbsp;</a></p>
+<p><strong>Key responsibilities:</strong></p>
+<p><strong></strong></p>
+<ul>
+<li>Integrate Waku in Status Communities Golang application (status-go).</li>
+<li>Liaise with Status engineer to support and investigate issues encountered by the chat functionalities in status-go.</li>
+<li>Liaise with Waku engineers to report bugs and use new APIs.</li>
+<li>Maintain, improve and troubleshoot the chat related functionalities of status-go codebase. Report issues to Waku and Status teams.</li>
+<li>Beyond 3-6 months: Create a Golang Chat SDK using knowledge acquired working on status-go.</li>
+</ul>
+<p><strong></strong></p>
+<p><strong>You ideally will have: </strong></p>
+<p></p>
+<ul>
+<li>Have experience building applications with complex logic, cutting edge technology or applied research.</li>
+<li>Experience with Golang or other system/backend languages such as C/C++/C#/Java/Rust, etc.</li>
+<li>Have experience building instant messaging and chat applications that includes cryptographic such as end-to-end encryption.</li>
+<li>Have passion for blockchain and decentralized technologies and understand how they work.</li>
+<li>Have good communication skills (written and conversational).</li>
+<li>Have a strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a>&nbsp;</li>
+</ul>
+<p>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</p>
+<p><strong>Bonus points if:</strong></p>
+<ul>
+<li>You have experience leading the integration of a complex tech stack in an application.</li>
+<li>You are already familiar with the Ethereum community, Web3 or blockchain development</li>
+<li>You work for an open-source organization</li>
+<li>You have experience working remotely</li>
+</ul>
+<p><strong>Hiring process:</strong></p>
+<ul>
+<li>Chat with people ops</li>
+<li>Pair programming with Go-Waku Developer</li>
+<li>Chat with Status Mobile Lead</li>
+<li>Chat with Waku Lead</li>
+</ul>
+<p>[The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline].&nbsp;</p>
+</div>
+<p><strong>Compensation:</strong></p>
+<p>The expected compensation range for this role is $80,000 - $100,000 (dependent on how we assess your skills and experience throughout our interview process).&nbsp;</p>
+<p>We are happy to pay in any mix of fiat/crypto.</p>
+</div>
+
+    
+
+    
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
                     <h3>Software Engineer Distributed Systems Testing</h3>
                 </td>
                 <td width="300">
@@ -523,6 +608,116 @@
 <p>Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, “the world’s best free software platform”. Our services help businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.</p>
 <p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your<a href="https://canonical.com/careers/diversity/identity"> identity</a>, we will give your application fair consideration.</em></p>
 <p>#LI-Remote&nbsp;</p><p>Requisition ID: 967</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Embedded Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/5140562" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>This role is one of our general tracks. Apply here for all engineering teams at Canonical who work on low-level system technology and embedded systems, across all seniority levels.</p>
+<p>We hire careful and conscientious engineers who appreciate the challenge of memory, performance, battery and connectivity constrained code that has to work every time in an unreliable and unforgiving world, on x86, ARM or RISC-V silicon.</p>
+<p>Canonical Ubuntu is the leading Linux for software engineers, desktops, cloud and IoT. We bring open source to the world as a high-performance, safe and secure platform for enterprise computing, software engineering, and connected devices.</p>
+<p>These smart, connected devices have the potential to transform every industry. Classic Ubuntu – desktop or server – is widely used in embedded systems because of its developer focus and enterprise grade security maintenance. We partner with the world's most prominent silicon companies to optimise Ubuntu on their latest and greatest chips, as well as with major OEMs and ODMs (PC, servers and connected device manufacturers) to ensure that Ubuntu works perfectly on their hardware.</p>
+<p>But while classic, ‘deb’ based Ubuntu is ideal for developers, it has too much variability for appliance or connected device environments, where you want to know *exactly* what the state of millions or billions of devices might be. So Canonical builds Ubuntu Core, a fully containerised version of Ubuntu that is mathematically precise and rigorously secure. We are working on additional solutions for even smaller devices.</p>
+<p>We have several teams that focus on open source for embedded environments. We hire outstanding Linux and RTOS software engineers with a passion for open source, innovation, cutting-edge hardware and software technologies in general. You will be expected to make significant contributions through high-quality design and code, and to develop your technical leadership.</p>
+<p>These roles include:</p>
+<ul>
+<li>Ubuntu Core and snapd software development&nbsp;</li>
+<li>Silicon software and optimisation engineers&nbsp;</li>
+<li>Kernel driver and hardware enablement engineers&nbsp;</li>
+<li>Hardware-centric Linux QA Engineers&nbsp;</li>
+<li>Hardware Certification Engineers&nbsp;</li>
+<li>Robotics engineers&nbsp;</li>
+<li>Industrial IoT software engineers&nbsp;</li>
+<li>Networking software engineers (switching, routing, access and SmartNICs)</li>
+</ul>
+<p>At Canonical you will have the opportunity to engage with the broader open source community. We're looking for individuals who can help build a thriving community, contribute to a broad range of technologies, and contribute to the deployment of Ubuntu and Ubuntu Core across the widest range of devices.</p>
+<p>Location: we have remote roles open in every time zone.</p>
+<h2>What your day will look like</h2>
+<p>Based on the first round of interviews we identify specific teams where you might be an excellent fit, and conduct second round interviews with those teams. Our engineers:</p>
+<ul>
+<li>Work with the latest Linux kernel, RTOS, and open source technologies</li>
+<li>Deliver Ubuntu for the latest IoT and server-class hardware platforms</li>
+<li>Integrate and maintain device-oriented software stacks</li>
+<li>Write high-quality, well-designed software</li>
+<li>Collaborate proactively with other globally distributed teams&nbsp;</li>
+<li>Display technical leadership internally and within our external communities&nbsp;</li>
+<li>Help our customers ship their apps and SDKs on Ubuntu</li>
+<li>Build device OS images with Ubuntu Core, Desktop and Server</li>
+<li>Optimise the Ubuntu kernel and libraries for silicon-specific capabilities&nbsp;</li>
+<li>Debug issues and produce high-quality code to fix them&nbsp;</li>
+<li>Contribute to technical documentation to make it the best of its kind&nbsp;</li>
+<li>Discuss ideas and collaborate on finding good solutions&nbsp;</li>
+<li>Participate as technical lead on complex customer engagements involving complete system architectures from cloud to edge&nbsp;</li>
+<li>Work usually from home, with global travel 2 to 4 weeks for company events&nbsp;</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<ul>
+<li>An exceptional academic track record from both high school and university</li>
+<li>Drive and a track record of going above-and-beyond expectations</li>
+<li>Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path</li>
+<li>Passion for embedded systems software (e.g. kernel, graphics, Yocto, RTOS)&nbsp;</li>
+<li>Fluency in at least one of Golang, C, C++, or Rust&nbsp;</li>
+<li>Professional written and spoken English&nbsp;</li>
+<li>Experience with Linux (Debian or Ubuntu preferred)&nbsp;</li>
+<li>Excellent interpersonal skills, curiosity, flexibility, and accountability&nbsp;</li>
+<li>Passion, thoughtfulness, and self-motivation&nbsp;</li>
+<li>Excellent communication and presentation skills&nbsp;</li>
+<li>Result-oriented, with a personal drive to meet commitments&nbsp;</li>
+<li>Ability to travel twice a year, for company events up to two weeks each</li>
+</ul>
+<h2>Additional skills that you might also bring</h2>
+<ul>
+<li>Experience with Debian/Ubuntu or other distro packaging&nbsp;</li>
+<li>Understanding of build systems and toolchains, including for cross-compilation&nbsp;</li>
+<li>Experience with firmware, uboot, UEFI, ACPI, DSDT, or boot loaders</li>
+<li>Experience with power management on PCI ASPM, SATA ALPM, low power profiles&nbsp;</li>
+<li>Computer architecture knowledge of x86, ARM, RISC-V&nbsp;</li>
+<li>Experience in board design, bring up, and validation&nbsp;</li>
+<li>Experience with electrical engineering design tools (e.g. schematic capture, layout)&nbsp;</li>
+<li>Familiarity with Ubuntu development model</li>
+<li>Performance engineering and security experience&nbsp;</li>
+<li>Shell or Python scripting skills&nbsp;</li>
+</ul>
+<h2>What we offer you</h2>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues</li>
+<li>Priority Pass, and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote</p>
+
+<p>Requisition ID: 1079</p><p></p>
     
                 </details>
                 </td>
