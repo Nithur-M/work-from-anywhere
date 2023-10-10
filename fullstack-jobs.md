@@ -1,5 +1,61 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/8465/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Froonze</h5>
+                    <h3> Senior Full Stack Engineer (Ruby on Rails + Vue.js)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>3 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/froonze-senior-full-stack-engineer-ruby-on-rails-vue-js" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0124/8465/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Vietnam
+    <br /><strong>URL:</strong> <a href="https://www.froonze.com">https://www.froonze.com</a>
+</p>
+
+<div>We are a small team of 3 people who decided to start our own project - build a Shopify app.</div><div>We chose a relatively small niche to compete in, so we could test whether we had what it takes to succeed. About a year later we dominated that niche! We are now serving more than 3000 merchants!<br><br>
+</div><div>During that time, all of us have gone through impressive personal growth. We learned a lot. We got confidence.<br><br>
+</div><div>Now we are ready to get into one of the biggest niches in the market. And eventually we will dominate it too. It will take a few years, but we know we can do it! We can do it only with <strong>your</strong> help.</div><div>
+<br><strong>What will you do?</strong>
+</div><ul>
+<li>Maintain our existing app and help build a new one. </li>
+<li>Create entire big modules from scratch. </li>
+<li>Tackle lots of interesting challenges. </li>
+<li>Help us reach 100k merchants!</li>
+<li>As one of our first employees, you will be a very important/valuable part of our team, have lots of room to develop yourself and have a big say in the direction the company takes.</li>
+</ul><div>
+<br><strong>Who are you?</strong> </div><ul>
+<li>A damn good full stack developer (senior level).</li>
+<li>You are comfortable working both on front and back end, and can even contribute to UI/UX discussions.</li>
+<li>Detail oriented, eager to learn and go deep, a team player.</li>
+<li>You naturally like building and solving complex problems.</li>
+<li>You’ve worked on multiple interesting, complex projects and you are proud of the way you built them.</li>
+<li>Ideally you have a good knowledge of Ruby on Rails + Vue.js.</li>
+<li>If you haven’t worked with RoR or Vue.js, but are very good at similar frameworks, e.g. Django + React, and willing to switch to our stack, we are open to consider.</li>
+<li>Knowledge of ElasticSearch, AWS and deployment tools could be a big plus.</li>
+<li>Good English is a must.</li>
+<li>You are fine having 4 hours overlap at least with Vietnam(GMT +7) 9am-6pm </li>
+</ul><div>Everything else is optional.<br><br><strong>Monthly salary range<br></strong>$1500 - $4000</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/froonze-senior-full-stack-engineer-ruby-on-rails-vue-js">https://weworkremotely.com/remote-jobs/froonze-senior-full-stack-engineer-ruby-on-rails-vue-js</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1263546899153502209/ObHsQoNr_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
