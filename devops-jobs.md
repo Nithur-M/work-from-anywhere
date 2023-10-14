@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/marialdn-webmaster-website-administration-devops-wordpress" align="right" target="_blank">Apply</a>
@@ -37,107 +37,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/marialdn-webmaster-website-administration-devops-wordpress">https://weworkremotely.com/remote-jobs/marialdn-webmaster-website-administration-devops-wordpress</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1803312/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>SOAX</h5>
-                    <h3>Middle DevOps Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>AWS,javascript,saas,TCP/IP</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/devops/middle-devops-engineer-1803312" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="min-height: 1.5em;">📌 SOAX is a value-driven UK company dedicated to empower the world and help people advance tomorrow’s technologies with public data at their service.</p>
-<p style="min-height: 1.5em;">Our product is a high-margin and fast-growing SaaS business with a usage-based pricing model operated by a stellar team of 70+ fully remote people across 20+ countries. Founded in early 2020, SOAX has won the hearts of 1000+ data-hungry organizations across the globe with its core product — robust infrastructure for public data collection (a.k.a Residential Rotating Back-connect Proxy Network).</p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;">As a DevOps at SOAX, you will be responsible for supporting our infrastructure and ensuring its reliability and efficiency. Here are some of the key responsibilities:</p>
-<p style="min-height: 1.5em;"> </p>
-<div class="h3"><strong>Key Tasks</strong></div>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Perform routine updates and maintenance of Ansible.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Assist in the management of adding and removing services.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Address and respond to system alerts promptly.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Contribute to the development of an IP address quality checker.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Provide support for various services within our infrastructure.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Work with a medium-sized proxy setup to ensure its optimal performance.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Participate in the development of essential tools to streamline our operations.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Utilize Ansible, GitHub, Linux, and SQUID to streamline operations.</p>
-</li>
-</ul>
-<div class="h3"><strong>What You Need To Succeed</strong></div>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Previous experience with the mentioned tools is essential.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Proficiency in English.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Possess the right attitude to adapt to shifts and collaborate effectively with teammates from different countries.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Strong problem-solving skills and a proactive approach to troubleshooting.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Ability to adapt to a fast-paced and ever-evolving technology landscape.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Practical or theoretical knowledge of TCP/IP is a plus.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Familiarity with BGP is a plus.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Familiarity with AWS and JavaScript is a plus.</p>
-</li>
-</ul>
-<div class="h2"><strong>What we offer</strong></div>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Four-day workweek &amp; flexible working hours. We believe in the power of results, not just the number of hours worked.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Remote-first location policy which means you have the freedom to live and work wherever you choose. You can travel the world or stay put, it's up to you. And with 4 weeks of paid vacation, 9 company-wide holidays, and 5 additional holidays-on-demand, you'll have plenty of time to explore.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">At SOAX, we're all about helping you achieve your wildest dreams. Whether you're a seasoned pro or just starting out, we provide global opportunities to help you grow and shine. We're a fast-growing startup with big goals, and we want you to help us achieve the next milestone in our journey.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">We know that continuous learning and development are key to success, which is why we provide learning and development budgets for courses and books. With a competitive salary and benefits in GBP, we're committed to ensuring you have everything you need to thrive.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Last but not least, you'll be joining a fantastic team of enthusiasts who value collaboration, energy, and openness. Our onboarding process is fast-paced yet supportive, so you'll feel right at home from day one.</p>
-</li>
-</ul>
-<img src="https://remotive.com/job/track/1803312/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
