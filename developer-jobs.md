@@ -1,5 +1,308 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/1275/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CobbleWeb</h5>
+                    <h3> Senior Full-stack PHP Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/cobbleweb-senior-full-stack-php-developer-5" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0084/1275/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> London
+    <br /><strong>URL:</strong> <a href="https://www.cobbleweb.co.uk">https://www.cobbleweb.co.uk</a>
+</p>
+
+<div><strong>What are we looking for?</strong></div><div>We are looking for solution-focused individuals with a can-do attitude. Your commitment to continuous learning means you are tech agnostic – always looking for the best way to execute a project or task. You share our philosophy of purpose-driven development that ensures the best possible outcomes for our clients. Like us, you believe in a strong work ethic and take pride in the quality of your code. You see the big picture and strive for the sense of accomplishment that comes from successfully executing a new project, such as an online marketplace that is perfectly geared for growth. Last but not least, you enjoy collaborating with a team of equally motivated developers and digital strategists.</div><div><br></div><div><strong>Job requirements</strong></div><ul>
+<li>Expert with Symfony framework (3+years experience)</li>
+<li>Expert PHP5, PHP7 (5+years experience)</li>
+<li>Strong Experience developing within ReactJS (2+years experience)</li>
+<li>Expert MySQL / Doctrine 2 (3+years experience)</li>
+<li>Experience Developing Frontend with Bootstrap/Material (1+years experience).</li>
+<li>Very strong Object Oriented Programming skills</li>
+<li>Experience with REST APIs</li>
+<li>Use of Docker in local and production environments</li>
+<li>Adoption of Agile methodologies</li>
+<li>Experience with techniques such as TDD, continuous integration and continuous delivery</li>
+<li>Experience with test automation using Behat, Jenkins, Selenium or other testing frameworks would be advantageous</li>
+<li>RabbitMQ, Redis, AWS or Elastisearch is a plus</li>
+<li>Be willing to help your teammates, share your knowledge with them, and learn from them.</li>
+<li>Be open to receiving feedback.</li>
+<li>Be conscientious and have a good work ethic.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/cobbleweb-senior-full-stack-php-developer-5">https://weworkremotely.com/remote-jobs/cobbleweb-senior-full-stack-php-developer-5</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/8522/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Checkly</h5>
+                    <h3> Senior Developer Relations Advocate</h3>
+                </td>
+                <td width="300">
+                    <code>Sales and Marketing</code>
+                </td>
+                <td width="200">
+                <text>3 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/checkly-senior-developer-relations-advocate" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0124/8522/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Berlin, Germany
+    <br /><strong>URL:</strong> <a href="https://checklyhq.com">https://checklyhq.com</a>
+</p>
+
+<div>
+<em><br>(Fully remote, dev-tools, observability, async-first, 32-40h/week, time zones: GMT-5 to GMT+2)<br></em><br>
+</div><div>
+<br>Join <a href="https://www.checklyhq.com/">Checkly</a>, a <a href="https://www.checklyhq.com/blog/checkly-recognized-a-third-time-by-gartner/">Gartner Cool Vendor</a>, as the Senior Developer Relations Advocate and be at the forefront of the Monitoring as Code (MaC) movement, recently recognized in <a href="https://www.checklyhq.com/blog/exciting-times-for-monitoring-as-code/">two Gartner Hype Cycles</a>. We're seeking a dynamic DevRel who is deeply rooted in the DevOps, Platform Engineering, SRE space to engage with new and existing users and customers including 1Password, Deno, Render, Sentry, and Vercel. Your role will be pivotal in building trust, credibility, and meaningful relationships within the developer community, while also serving as a key contributor to Checkly's as-code approach to modern synthetic monitoring and observability.<br><br>
+</div><div>We care about building a team where people of all backgrounds are encouraged to do their best work. To achieve this we built a <a href="https://blog.checklyhq.com/how-to-build-a-leading-remote-first-company-while-exceeding-company-goals-do-this/">flexible, fully remote and async-first</a> startup environment with <a href="https://www.notion.so/ad474bec3a5d4d17bfbb43ebae3fec9c?pvs=21">inclusive benefits</a>.<br><br>
+</div><h1><strong>Key Areas of Impact</strong></h1><div>
+<strong>Advocacy:</strong> Be the voice of Checkly at meet-ups, conferences, podcasts, and streams. Your role is to represent the developer community within Checkly, ensuring their needs are heard and addressed.</div><div>
+<br><strong>Adoption:</strong> Guide our users through their journey from problem awareness to becoming Checkly champions. Show them how MaC workflows can solve their challenges.<br><br>
+</div><div>
+<strong>Product Input:</strong> Your insights into the needs of developers will strengthen Checkly’s product-market fit. Actively seek and drive feedback to shape our offerings.<br><br>
+</div><div>
+<strong>Enablement:</strong> Provide the resources that help developers implement Checkly's technology. This includes developer education, experience, and community engagement.</div><div><br></div><h1><strong>What You'll Do</strong></h1><ul>
+<li>Identify and secure partnerships to extend Checkly's reach and influence communities.</li>
+<li>Drive engagement in our Slack community and extend our influence by proactively reaching out and engaging with external channels and communities.</li>
+<li>Collaborate with engineering teams to create compelling MaC demos.</li>
+<li>Produce engineering-focused content and training materials that empower developers, build Checkly and MaC visibility, and ultimately grow our community.</li>
+<li>Create educational video content to enhance Checkly's already thriving <a href="https://www.youtube.com/c/checklyhq">YouTube channel</a>, focusing on MaC and related topics.</li>
+<li>Shape and influence Checkly’s product and developer experience through feedback, education and code.</li>
+</ul><div><br></div><h1><strong>What you should have</strong></h1><ul>
+<li>Love for technology as well as for doing things in public (learning in public, conference speaking, blogging, open source...)</li>
+<li>Proficient in monitoring and observability, with publicly available work samples.</li>
+<li>Experience in roles like software development or SRE, including hands-on experience with monitoring and production systems.</li>
+<li>Skilled at advocacy and engagement of developers across channels.</li>
+<li>Experience, patience and empathy to teach developers about best-practices and new technologies, whether in-person, by writing tutorials or by recording a video.</li>
+<li>Fluent in at least one programming language (e.g., JavaScript, TypeScript) and familiar with modern cloud infrastructure.</li>
+<li>Excellent spoken and written English.</li>
+<li>Ability to be autonomous and self-motivated in a remote, async-first work environment, while you also enjoy getting to know your colleagues and helping others.</li>
+<li>Knowledgeable with "as Code" workflows and tools like Grafana, Prometheus, OpenTofu, and Terraform.</li>
+</ul><div><br></div><h1><strong>What we offer</strong></h1><ul>
+<li>Become part of a fast-growing, international, and remote team where you can have a real impact</li>
+<li>
+<a href="https://blog.checklyhq.com/we-scored-10-5-on-gitlabs-12-steps-to-better-remote-test/">Fully remote</a>, flexible work hours, async-first and transparent culture</li>
+<li>Stock options</li>
+<li>27 days of paid vacation + your local public holidays</li>
+<li>Paid sick leave &amp; up to 14 weeks of paid parental leave</li>
+<li>$1,000 learning &amp; visiting budget</li>
+<li>Co-working budget or home office setup</li>
+<li>Bi-annual company retreats</li>
+<li>Employment &amp; contractor options</li>
+</ul><div>Find out more <a href="https://www.notion.so/ad474bec3a5d4d17bfbb43ebae3fec9c?pvs=21">here</a>.</div><div><br></div><h1><strong>What we pay</strong></h1><div>Fair, competitive, and transparent pay is very important for us. Therefore we work with a <a href="https://www.notion.so/f3c42feab82b444a9cbf8fed545cb727?pvs=21">standardized salary calculator</a> that includes several factors such as seniority level as well as location.<br><br>
+</div><div>For this role, we’re looking at a range of €85,500 - €95,000 for someone located in a similar cost of market as Germany, UK, Ireland… If you live in a lower or higher cost of market tier, that also moves the pay range.<br><br>
+</div><h1><strong>Apply</strong></h1><div>If this sounds interesting, please apply! Studies by several different sources have shown that on average men will apply for a job if they meet 60% of the application requirements. Women,non-binary people and POC will seek to match a much higher percentage of requirements before applying. If you're not sure you're the right fit, apply anyway and let us know what you bring to the table. We'd love to hear from you!<br><br>
+</div><div>We're all about being transparent and setting clear expectations. That's why we've put together our <a href="https://www.notion.so/54bc05178d3b4118a15effe885f96d1a?pvs=21">hiring playbook</a> and open-sourced our <a href="https://www.notion.so/Checkly-s-Employee-Handbook-f262e36a64d641af8588a1c09bc0ff48?pvs=21">employee handbook</a>. There you'll find a sneak peek of who we are, how we work and what you can expect in our hiring process.<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/checkly-senior-developer-relations-advocate">https://weworkremotely.com/remote-jobs/checkly-senior-developer-relations-advocate</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/2990/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>OnTheGoSystems</h5>
+                    <h3> Technical Writer for Developer Documentation</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>3 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/onthegosystems-technical-writer-for-developer-documentation" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0076/2990/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> 100% remote
+    <br /><strong>URL:</strong> <a href="https://onthegosystems.com">https://onthegosystems.com</a>
+</p>
+
+<div>We’re looking for <strong>a talented technical writer</strong> to join our team. Your mission is to create compelling technical documentation and UI texts that resonate with our target developer audience.</div><h1>About You</h1><div>You’re eager to delve into new material, ready to master our system to provide accurate, comprehensive documentation and explanations. Although our supportive team will assist you in settling in, your inherent motivation and dedication to learning quickly will be invaluable.</div><h1>Requirements</h1><div>You <strong>must </strong>meet the following requirements for consideration:<br><br>
+</div><ul>
+<li>You have at least 2 years of experience writing technical documentation for developers using frameworks and languages such as React, Vue, Swift, Java, etc. </li>
+<li>You have native-speaking English skills</li>
+<li>You reside in Europe or a similar time zone (plus/minus 2 hours)</li>
+</ul><h1>We also expect you to be:</h1><ul>
+<li>Meticulous and detail-oriented</li>
+<li>An exceptional researcher, learner, and communicator</li>
+<li>Experienced with writing UI texts</li>
+<li>Experienced working with companies that create tools for developers</li>
+</ul><h1>How We Work</h1><div>Our team stays in sync through regular online meetings, ensuring everyone is aligned with our short and long-term objectives. You will proactively stay updated on product developments, making you an integral part of the product design process. Your responsibilities will include creating the technical documentation and materials that introduce our product to the world. You will also be writing UX texts for the product’s interface.</div><h1>What We’re Building</h1><div>We’re developing the “Private Translation Cloud”, a unique software translation system that stands apart from the rest due to a technical advantage we’re building.</div><h1>What We Offer</h1><ul>
+<li>100% remote position with flexible working hours</li>
+<li>A collaborative environment with creative, kind, and like-minded individuals</li>
+<li>Participation in an exciting, high-impact project</li>
+<li>Freedom to innovate: We encourage you to contribute ideas for documentation strategies and product improvements</li>
+<li>A healthy work-life balance and generous paid vacation</li>
+<li>Reimbursement for your work computer and any necessary software licenses</li>
+<li>A scholarship program for your personal activities (sports, workshops, hobbies, etc.)</li>
+<li>Access to our e-book library via Kindle</li>
+</ul><div><br></div><div>We <strong>value mutual trust and respect</strong> above all. We don’t employ monitoring software or micromanage our teammates, which is why your self-drive and organizational skills are essential.</div><h1>Join Our Team</h1><div>If you’re excited by this opportunity, we would love to hear from you. Apply now to start a conversation.</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/onthegosystems-technical-writer-for-developer-documentation">https://weworkremotely.com/remote-jobs/onthegosystems-technical-writer-for-developer-documentation</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Contra</h5>
+                    <h3> Freelance developer for a Chrome Extension (Vue.js/IndexedDB) at Taberone</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>3 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/contra-freelance-developer-for-a-chrome-extension-vue-js-indexeddb-at-taberone" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> San Francisco, CA
+    <br /><strong>URL:</strong> <a href="http://bit.ly/3kLhMdk">http://bit.ly/3kLhMdk</a>
+</p>
+
+<div>
+<br>ABOUT THE EXTENSION<br><br>
+</div><div>
+<a href="https://tabler.one/"><br>TABLERONE</a> is a browser extension that saves tabs and a lot of time. It does what modern browsers should do but don't — enable you to close and continue sessions later, batch process URLs, browse collaboratively, and organise a life-time worth of information found online. Like Google Photos but for links. <br><br>
+</div><div>
+<br>Traction:<br><br>
+</div><ul>
+<li>Weekly users: 15,000+</li>
+<li>Chrome Web Store rating: 4.54</li>
+<li>Sean Ellis Test satisfaction score: 54%</li>
+</ul><div>
+<br><br>
+</div><div>
+<br>Initial engagement scope:<br><br>
+</div><ul>
+<li>Overhaul the extension’s core auto-save mechanism</li>
+<li>Implement support for browser Tab Groups</li>
+<li>Upgrade collections sharing (temp -&gt; permanent)</li>
+<li>Add new analytics events and metrics</li>
+<li>Develop a link-collection Twitter bot</li>
+<li>Fix bugs and issues</li>
+</ul><div>
+<br><br>
+</div><div>
+<br>Continued engagement:<br><br>
+</div><ul>
+<li>Develop cloud sync with client-side encryption</li>
+<li>Develop a premium SaaS product (subscriptions)</li>
+</ul><div>
+<br><br>
+</div><div>
+<br>Compensation:<br><br>
+</div><div>
+<br>Flexible - name your price<br><br>
+</div><div>
+<br><br>
+</div><div>
+<br>You will be working directly with the founder on a well-documented codebase that was freshly revamped to Manifest V3, modularised, and ported to service workers.<br><br>
+</div><div>
+<br><br>
+</div><div>
+<br>- - -<br><br>
+</div><div>
+<br><br>
+</div><div>
+<br>ABOUT YOU<br><br>
+</div><div>
+<br><br>
+</div><div>
+<strong><br>Non-negotiable qualifications<br></strong><br>
+</div><ul>
+<li>Front-end expert or FE-focused full-stack know-how</li>
+<li>Past architect or lead developer role(s)</li>
+<li>Prior experience developing browser extensions (Manifest V3)</li>
+<li>Experience developing 0-1 and at scale</li>
+<li>Likes UI engineering and has eye for details</li>
+<li>Great verbal and written communication skills</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong><br>Unfair advantage know-how<br></strong><br>
+</div><ul>
+<li>Extensive experience with Vue.js</li>
+<li>Familiarity with IndexedDB</li>
+<li>Back-end development experience (Node.js and/or PHP)</li>
+<li>Experience developing a local-first webapp</li>
+<li>Familiarity with CouchDB and PouchDB</li>
+<li>Experience building CI/CD pipelines</li>
+<li>Experience with automated testing &amp; QA (of extensions)</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong><br>Operational expectations<br></strong><br>
+</div><ul>
+<li>Full-time commitment (40h/week) for the duration of the project on a freelance basis</li>
+<li>At least 4h overlap with GMT(+1)</li>
+<li>Self-directed and independent execution</li>
+<li>Collaborate with the team to find optimal implementation solutions</li>
+<li>Proactive async communication</li>
+<li>On need-to basis video call meetings</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong><br>Why you should join<br></strong><br>
+</div><ul>
+<li><a href="https://www.notion.so/natannikolic/Technical-cofounder-de2fa6b2781c4feb987f6043aca59802?pvs=4">Potential for partnership</a></li>
+<li>Possibility of part-equity compensation</li>
+<li>‘Zero knowledge’ architecture technical challenge</li>
+<li>Opportunity to create a useful product to be proud of</li>
+</ul><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/contra-freelance-developer-for-a-chrome-extension-vue-js-indexeddb-at-taberone">https://weworkremotely.com/remote-jobs/contra-freelance-developer-for-a-chrome-extension-vue-js-indexeddb-at-taberone</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/8492/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +313,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/cliniko-unique-software-developer-job" align="right" target="_blank">Apply</a>
@@ -105,7 +408,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/zipline-ui-designer-developer" align="right" target="_blank">Apply</a>
@@ -197,69 +500,6 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>DM Holdings LLC</h5>
-                    <h3> Senior Software Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/dm-holdings-llc-senior-software-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Boca Raton, FL 
-    <br /><strong>URL:</strong> <a href="http://www.domainmarket.com">http://www.domainmarket.com</a>
-</p>
-
-<div>This position is for a Senior Software Developer, plus a little. You should be an expert in PHP and Javascript, comfortable writing and reviewing code for a sizable existing code base, and capable of occasionally mentoring and supporting junior developers. You should also have experience running a complex system with high levels of uptime.<br><br>The compensation for this role is $80k - $130k USD.<br><br><strong>About Us</strong>
-</div><ul>
-<li>We're a small team, half technical, half not so technical.</li>
-<li>We're fully-remote with team members in time zones around the world.</li>
-<li>We've been in business for over 10 years and we're profitable.</li>
-<li>We offer flexible hours and vacation time.</li>
-</ul><div><strong>What The Job Is</strong></div><ul>
-<li>Writing, testing, and debugging PHP (Laravel) and Javascript (React) for our internal domain management system and marketing sites.</li>
-<li>Integrating with third party APIs and web scraping.</li>
-<li>Light project management. You should be comfortable assembling and creating epics and breaking them into smaller deliverables.</li>
-<li>Sometimes becoming the resident expert on new subjects or technologies. You may be asked to figure out how we might use a new technology to help inform decisions about the company's direction.</li>
-<li>Helping out across the entire company. You'll help share the load with things like dealing with vendors, monitoring logs and verifying things are running as they should, supporting our internal teams with ad-hoc SQL queries, managing contractor deliverables, and being the go-to person for questions.</li>
-</ul><div><strong>Requirements</strong></div><ul>
-<li>7+ years of experience with PHP, Laravel, Javascript, and React.</li>
-<li>Comfortable working with Docker, git, MySQL/MariaDB.</li>
-<li>Excellent written communication skills.</li>
-<li>A self-starter attitude and the willingness to chip in where needed.</li>
-</ul><div><strong>Pluses</strong></div><ul>
-<li>Database design, optimization.</li>
-<li>AWS operations and configuration (Terraform, Ansible, Packer).</li>
-<li>Solo entrepreneur experience.</li>
-<li>UI/UX, design, or marketing experience.</li>
-</ul><div><strong>This Job is Right For You if</strong></div><ul>
-<li>You know your way around software development from soup to nuts. You've created, deployed, and maintained a large system with high uptime requirements, large databases, and lots of moving parts.</li>
-<li>You're self-motivated and like to jump right in; there isn't anybody looking over your shoulder.</li>
-<li>You feel a sense of ownership of your code. There is no QA team on the other side of the wall -- you're the last person between writing the code and supporting it.</li>
-<li>You respect Chesterton's Fence. Our codebase spans a decade and you strive to thoroughly understand a problem before you implement solutions.</li>
-</ul><div>If you're a good fit, please send your resume and a couple paragraphs about how your experience applies to this role to <strong>newjobs</strong><a href="mailto:whoever@domainmarket.com"><strong>@domainmarket.com</strong></a>. We look forward to hearing from you!</div><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/dm-holdings-llc-senior-software-developer">https://weworkremotely.com/remote-jobs/dm-holdings-llc-senior-software-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
                     <h5>XM</h5>
                     <h3> Modern C++ Software Developer – Remote</h3>
                 </td>
@@ -267,7 +507,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>90 days ago</text>
+                <text>94 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2" align="right" target="_blank">Apply</a>
@@ -320,7 +560,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>90 days ago</text>
+                <text>94 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2" align="right" target="_blank">Apply</a>
@@ -372,6 +612,82 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1680495/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Coalition Technologies </h5>
+                    <h3>Front End Developer</h3>
+                </td>
+                <td width="300">
+                    <code>CSS,excel,frontend,git</code>
+                </td>
+                <td width="200">
+                <text>3 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p class="h3">WHY YOU SHOULD APPLY:</p>
+<p> </p>
+<p>Coalition Technologies is devoted to delivering clients the highest quality work while providing our team a fun, thriving, and innovative environment. Along with the opportunity for tremendous career growth and rapid advancement, CT offers:</p>
+<ul style="">
+<li style="">The most competitive profit-sharing bonus plan in the industry, paying up to 50% of company profits to full-time employees each month!</li>
+<li style="">A highly competitive Paid Time Off plan, promoting quality work-life balance.</li>
+<li style="">Subsidized gym memberships to help team members feel their best.</li>
+<li style="">Medical, dental, vision, and life insurance packages for all US-based team members.</li>
+<li style="">International Health Insurance Reimbursement Program for all international team members, a benefit unique to Coalition.</li>
+<li style="">Device upgrade and learning reimbursement programs.</li>
+<li style="">Motivating career development plans with clearly defined goals and rewards.</li>
+<li style="">Additional job-specific incentives and bonuses.</li>
+</ul>
+<p>Plus, 100% of our team works remotely with the support of time tracking software. Our company culture specializes in supporting remote team members, and we’ve been doing so for more than a decade. CT welcomes your application, wherever in the world it's coming from!</p>
+<p class="h3"> </p>
+<p class="h3">YOU SHOULD HAVE:</p>
+<p> </p>
+<ul style="">
+<li style="">An expertise in HTML5, CSS3 and jQuery</li>
+<li style="">A thorough understanding of cross-browser compatibility issues</li>
+<li style="">Experience with media queries</li>
+<li style="">A knowledge of CSS platforms such as Twitter’s Bootstrap</li>
+<li style="">An ability to multi-task on multiple projects and tasks at the same time</li>
+<li style="">Great attention to detail and be highly organized</li>
+<li style="">A positive and upbeat attitude with the ability to learn quickly</li>
+<li style="">Proficiency in PHP/MYSQL and AJAX (preferred)</li>
+<li style="">Experience with WordPress, BigCommerce, Magento, and Shopify (preferred)</li>
+<li style="">Excellent written and spoken English</li>
+<li style="">The availability to work 40 hours per week from 9:00 am to 6:00 pm PST</li>
+<li style="">The ability to adapt to a diverse and multicultural environment</li>
+<li style="">Passion to build a startup</li>
+<li style="">Reliable transportation if working in-house</li>
+<li style="">A reliable workstation with a fast computer, microphone and speakers, reliable internet and power if working remotely</li>
+</ul>
+<p class="h3"> </p>
+<p class="h3">YOUR DUTIES AND TASKS:</p>
+<p> </p>
+<ul style="">
+<li style="">Transforming complex layout PSDs into pixel-perfect presentation-layer HTML5/CSS3 templates</li>
+<li style="">Creating responsive website designs</li>
+<li style="">Building websites with WordPress, extending and developing plugins and themes</li>
+<li style="">Working with Photoshop, Illustrator, and Fireworks to create images optimized for the web</li>
+<li style="">Working with version control systems such as GIT / SVN</li>
+<li style="">Working under tight deadlines</li>
+<li style="">Handling multiple projects at the same time</li>
+<li style="">Producing high quality of work with a strong focus on detail</li>
+</ul>
+<p class="h5"> </p>
+<p class="h5">We are looking for talented and diligent candidates who excel in our skills tests, and will consider these candidates even if past experience or educational background criteria aren't met.</p><p class="h5"><br></p><p>*California, New York, Washington, and Colorado: starting base pay for this position ranges between $15 - $35 per hour.</p>
+<p>Compensation may vary based on factors such as experience, 
+qualifications, skills test performance, geographic location, and 
+seniority of the position offered. Outside of California, New York, 
+Washington, and Colorado compensation may fall outside the above ranges.</p><img src="https://remotive.com/job/track/1680495/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1801792/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -382,7 +698,7 @@
                     <code>CSS,docker,frontend,graphql</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-developer-1801792" align="right" target="_blank">Apply</a>
@@ -407,7 +723,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -484,7 +800,7 @@
                     <code>backend,docker,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-ror-developer-mid-level-1783538" align="right" target="_blank">Apply</a>
@@ -540,81 +856,6 @@
 <p>We are super passionate about developing an excellent remote work culture and ensuring that not only the customers, but the team feels heard, welcome, and appreciated. We are currently 9 people and a fully self-funded company.</p>
 <p>We value especially self-initiative, ownership, open communication, commitment as well as level-headedness. We welcome people into our team regardless of gender, ethnic origin, religion, age, sexual identity or disability. Please only apply if you share our values as a cultural fit is an essential requirement for this role.</p>
 <img src="https://remotive.com/job/track/1783538/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1680495/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Coalition Technologies </h5>
-                    <h3>Front End Developer</h3>
-                </td>
-                <td width="300">
-                    <code>CSS,excel,frontend,git</code>
-                </td>
-                <td width="200">
-                <text>29 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="h3">WHY YOU SHOULD APPLY:</div>
-<p> </p>
-<p>Coalition Technologies is devoted to delivering clients the highest quality work while providing our team a fun, thriving, and innovative environment. Along with the opportunity for tremendous career growth and rapid advancement, CT offers:</p>
-<ul style="">
-<li style="">The most competitive profit-sharing bonus plan in the industry, paying up to 50% of company profits to full-time employees each month!</li>
-<li style="">A highly competitive Paid Time Off plan, promoting quality work-life balance.</li>
-<li style="">Subsidized gym memberships to help team members feel their best.</li>
-<li style="">Medical, dental, vision, and life insurance packages for all US-based team members.</li>
-<li style="">International Health Insurance Reimbursement Program for all international team members, a benefit unique to Coalition.</li>
-<li style="">Device upgrade and learning reimbursement programs.</li>
-<li style="">Motivating career development plans with clearly defined goals and rewards.</li>
-<li style="">Additional job-specific incentives and bonuses.</li>
-</ul>
-<p>Plus, 100% of our team works remotely with the support of time tracking software. Our company culture specializes in supporting remote team members, and we’ve been doing so for more than a decade. CT welcomes your application, wherever in the world it's coming from!</p>
-<div class="h3"> </div>
-<div class="h3">YOU SHOULD HAVE:</div>
-<p> </p>
-<ul style="">
-<li style="">An expertise in HTML5, CSS3 and jQuery</li>
-<li style="">A thorough understanding of cross-browser compatibility issues</li>
-<li style="">Experience with media queries</li>
-<li style="">A knowledge of CSS platforms such as Twitter’s Bootstrap</li>
-<li style="">An ability to multi-task on multiple projects and tasks at the same time</li>
-<li style="">Great attention to detail and be highly organized</li>
-<li style="">A positive and upbeat attitude with the ability to learn quickly</li>
-<li style="">Proficiency in PHP/MYSQL and AJAX (preferred)</li>
-<li style="">Experience with WordPress, BigCommerce, Magento, and Shopify (preferred)</li>
-<li style="">Excellent written and spoken English</li>
-<li style="">The availability to work 40 hours per week from 9:00 am to 6:00 pm PST</li>
-<li style="">The ability to adapt to a diverse and multicultural environment</li>
-<li style="">Passion to build a startup</li>
-<li style="">Reliable transportation if working in-house</li>
-<li style="">A reliable workstation with a fast computer, microphone and speakers, reliable internet and power if working remotely</li>
-</ul>
-<div class="h3"> </div>
-<div class="h3">YOUR DUTIES AND TASKS:</div>
-<p> </p>
-<ul style="">
-<li style="">Transforming complex layout PSDs into pixel-perfect presentation-layer HTML5/CSS3 templates</li>
-<li style="">Creating responsive website designs</li>
-<li style="">Building websites with WordPress, extending and developing plugins and themes</li>
-<li style="">Working with Photoshop, Illustrator, and Fireworks to create images optimized for the web</li>
-<li style="">Working with version control systems such as GIT / SVN</li>
-<li style="">Working under tight deadlines</li>
-<li style="">Handling multiple projects at the same time</li>
-<li style="">Producing high quality of work with a strong focus on detail</li>
-</ul>
-<div class="h5"> </div>
-<div class="h5">We are looking for talented and diligent candidates who excel in our skills tests, and will consider these candidates even if past experience or educational background criteria aren't met.</div>
-<p> </p>
-<p>*Starting base pay in the US states of California, New York, Washington and Colorado for this position ranges between $15 - $35 per hour</p>
-<img src="https://remotive.com/job/track/1680495/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1150,6 +1391,87 @@
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote</p>
 <h2><br><br></h2><p>Requisition ID: 799</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Developer Relations Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
+<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
+<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
+<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
+<h2>What your day will look like</h2>
+<p>In a typical day, a developer relations engineer might:</p>
+<ul>
+<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
+<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
+<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
+<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
+<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
+<li>work on technical articles, presentations or workshops&nbsp;</li>
+<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
+<li>present at conferences, meetups or technical events</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<p>A strong candidate</p>
+<ul>
+<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
+<li>has worked with real-world challenges developing and deploying software using Linux</li>
+<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
+<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
+<li>has been a contributor to open-source communities, software and documentation</li>
+<li>is an engaging, vivacious speaker and presenter</li>
+<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
+<li>builds trust, relationships and confidence</li>
+<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
+</ul>
+<h2>Additional skills that you might also bring</h2>
+<ul>
+<li>previous experience in a developer advocacy or community role</li>
+<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
+</ul>
+
+<h2>What we offer you</h2>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote&nbsp;</p>
+
+<p><br><br></p><p>Requisition ID: 1114</p><p></p>
     
                 </details>
                 </td>
