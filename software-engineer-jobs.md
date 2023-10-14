@@ -1,29 +1,5 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1569512792381878278/Smf8h3tt_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>ConvertKit</h5>
-                    <h3>Senior Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/convertkit/j/66D863522C" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>ConvertKit is a powerful marketing platform built for creators, by creators. We help creators grow and monetize their audience with ease. For coaches, YouTubers, authors, podcasters, and other creatives, there isn’t a better marketing hub to rely on to grow audiences, automate email marketing, and sell digital products - all within one platform. More importantly, there isn’t a team more committed to helping creators earn a living.</p><p>We’re on a mission to help creators earn $1 billion using our creator marketing platform. We have always been 100% independent and 100% remote. We are proud to have built a product that our customers love, and we look for people who have enthusiasm and belief in our mission, vision, and values to join our team.</p><p>The ConvertKit culture is one where emotional intelligence is valued, radical candor is encouraged, and where everyone works together to uphold a set of shared team principles.</p><p><strong>The Role</strong></p><p>You’ll join a team of engineers responsible for email and commerce compliance tooling, building out adaptive fraud prevention and detection systems, and providing creators with in-application analytics to inform how they grow.</p><p>This group cares deeply about creators and helping them along their journey. We’re looking for an engineer that enjoys the product side of product development; has empathy for the creators that we serve, and is eager to work in on a fast paced team that ships consistently. </p><p>To learn more about how our engineering team works, you can peruse <a href="https://convertkit.engineering/" rel="nofollow noreferrer noopener" class="external">our engineering blog</a>.</p><p><strong>Responsibilities</strong></p><ul> <li>Own solving problems across the full stack in collaboration with your team</li> <li>Actively participate in driving the technical direction of our codebase</li> <li>Collaborate with team members across the organization</li> <li>Proactive communication with product stakeholders</li> <li>Staying up to date with current technical best practices</li> </ul><h3>Requirements: </h3><ul> <li>At least five years building software in a team environment or equivalent experience. Years of experience doesn’t always capture expertise, so we encourage you to apply if you can demonstrate you’re well versed in building software in a team environment</li> <li>At least two years working professionally on a Ruby on Rails application - if you don’t have two years of experience but can demonstrate a confident grasp of Ruby on Rails, we encourage you to apply</li> <li>Experience working with JavaScript and React (or comparable framework)</li> <li>Experience writing code that is accessible, scalable, maintainable, and performant</li> <li>Comfortable working remotely in an autonomous environment - you don’t mind asking questions and problem solving in public communication channels</li> <li>Able to work in US time zones - you don’t have to live in those time zones, but you have to be able to collaborate with your teammates during those times</li> <li>Belief in our mission, vision, and values</li> <li>Attend bi-annual in-person retreats</li> </ul><p><strong>Nice to Haves</strong></p><ul> <li>Experience building and/or integrating with machine learning models. </li> <li>Experience with visualizing data and/or statistical analysis</li> <li>Experience with algorithms for surfacing relevant content to users based on shared traits or interests</li> <li>Experience with Stripe, Paypal, or other billing systems</li> </ul><h3>Benefits: </h3><p>ConvertKit has standardized salaries based on position, no matter where you live. For this role, we’re hiring at a level 4 ($174,000), out of five levels. Level is determined based on experience and our interview process.</p><p><strong>Other benefits include:</strong></p><ul> <li>Profit Sharing - <a target="_blank" href="https://twitter.com/nathanbarry/status/1491429183977050114" rel="nofollow noreferrer noopener" class="external">Learn about profit sharing and compensation at ConvertKit</a>  </li> <li>Twenty (20) days of paid time off during each year of employment</li> <li>Paid paid vacation: An after-tax bonus of $1,000 for taking five consecutive days of vacation where you’re fully unplugged from work</li> <li>Ten paid holidays a year</li> <li>Monthly medical benefits up to $1,750 a month toward premiums. Dental and vision premiums covered 100%</li> <li>Two weeks of paid sick time each year, including mental health + well being days</li> <li>12 weeks paid parental leave and flexible scheduling in your child’s first year</li> <li>Childcare benefit up to $3,000 annually</li> <li>Up to six weeks of paid bereavement leave, medical leave, and disaster after six months of employment, two weeks of each paid leave in your first six months</li> <li>Gender affirming benefits</li> <li>$4,000 equipment allowance for your first two years, $3,000 budget every following two years</li> <li>Individual learning + development budget ($3,500/year)</li> <li>Four-week, paid sabbatical after five years with the team</li> <li>Fantastic in-person or virtual retreats with the team twice a year</li> </ul><p><strong>How to Apply</strong></p><p>We know that most people hate interviewing (we relate!). We aim to make it as good of an experience as we can, and part of that includes keeping you informed during the process.</p><p>Here’s what you can expect from the process:</p><ol> <li>30 min - Recruiter screen</li> <li>45 min - Hiring Manager screen</li> <li>Homework Assignment</li> <li>60 min - Technical Interview to discuss HW</li> <li>60 min - Culture Contribution Chat</li> </ol><p>To get started, complete this application, including answers to the questions on the next page.<strong> We read every single application, and your responses to our application questions help put your experience into context.</strong></p><p><br></p><p>ConvertKit is an equal opportunity employer. We value diversity in all of its forms, and we hire the best person we can for each role, no matter your personal background. Research tells us that applicants who are female or non-binary, as well as applicants who are people of color, are less likely to apply for roles they do not feel 100% qualified for. If you think you meet more than 50% of our requirements but fewer than 100% of them, please apply. We’re imperfect communicators, so think of our job postings as the starting point for discussion rather than proof that you shouldn’t apply.</p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -120,7 +96,7 @@
                 </td>
                 <td width="300">
                     <h5>Kraken</h5>
-                    <h3>Senior Software Engineer - C++ - Trading Technologies</h3>
+                    <h3>Software Engineer - Rust - Trading Technologies</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -129,13 +105,13 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/kraken/a8b876c3-9b7e-407f-85c9-b46e168d7030" align="right" target="_blank">Apply</a>
+                <a href="https://jobs.lever.co/kraken/ac0d544a-262d-4b05-845b-51dc4088b693" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Future of Crypto&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to <a href="https://blog.kraken.com/crypto-education/security-at-kraken" class="postings-link">industry-leading security</a>, <a href="https://blog.kraken.com/category/crypto-education" class="postings-link">crypto education</a>, and <a href="https://blog.kraken.com/crypto-education/support-at-kraken" class="postings-link">world-class client support</a> through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://futures.kraken.com/wallets" class="postings-link">Kraken Futures</a>.</div><div><br></div><div>Become a Krakenite and build the future of crypto!</div><div><br></div><div><br></div><div><b style="font-size: 24px">Proof of work</b></div><div><br></div><div><b style="font-size: 18px">The team</b></div><div><br></div><div>Join our Trading Technology team and start building the internet of money.</div><div>The Trading Technology team is responsible for everything to do with the trading backend services such as the matching engine, market data gateways, internal and external APIs, and various other trading services. The team is located globally and responsibilities are split into sub-teams, working with various tech stacks. Our teams code in C++, Go, Rust, and Python, depending on the product they are contributing to within Kraken and work agile around the globe<b>. </b>Recently, the Trading Technologies team played a critical role in <a href="https://blog.kraken.com/post/17936/performance-at-kraken/" class="postings-link">scaling Kraken's trading infrastructure.</a>&nbsp;</div><div><br></div></div><div class="section page-centered"><div><h3>The opportunity </h3><ul class="posting-requirements plain-list"><ul><li>Develop and maintain core framework and key software components for the Kraken trading engine</li><li>Build and design solutions that mitigate risk, implement security, and protect both systems and data</li><li>Improve site performance by designing and implementing low-latency and high-availability applications</li><li>Construct dynamically scalable platforms capable of heavy transaction volume</li><li>Write reusable, testable, and efficient code</li><li>Collaborate with cross-functional teams and contribute to product roadmap accomplishment</li><li>Work collaboratively on a distributed team leveraging soft skills to effectively communicate and engage with stakeholders</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>Prior experience in at least one of the following using Linux - distributed and/or highly-concurrent systems; low-latency and/or high-volume transaction environments</li><li>5+ years experience working with C++</li><li>High level of proficiency in Python, Java, and SQL strongly preferred</li><li>Demonstrated knowledge of advanced order types, trading systems, and financial products</li><li>Experience profiling and optimising code (CPU, memory, network)</li><li>Cryptocurrency/Blockchain familiarity highly preferable</li><li>Proactive mindset with the ability to both prioritise tasks and adhere to aggressive deadlines</li><li>BS in a technical or quantitative field</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="salary-range"><div>$155,000 - $234,000 a year</div><small><div>This is the target annual salary range for this role. This range is not inclusive of other additional compensation elements, such as our Bonus program, Equity program, Wellness allowance, and other benefits [US Only] (including medical, dental, vision and 401(k)).</div><div><br></div><div>The compensation range provided is influenced by various factors and represents the initial target range. Our salary offerings are dynamic and we strive to ensure that our base salary and total compensation package aligns and recognizes the top talent we aim to attract and retain. The compensation package of the successful candidate is based on various factors such as their skillset, experience, and job scope.</div></small></div><div class="section page-centered" data-qa="closing-description"><div>&nbsp;#US #EU #LI-Remote #Canada #LI-VF1</div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/a8b876c3-9b7e-407f-85c9-b46e168d7030/apply">Apply for this job</a></div>
+                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Future of Crypto&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to <a href="https://blog.kraken.com/crypto-education/security-at-kraken" class="postings-link">industry-leading security</a>, <a href="https://blog.kraken.com/category/crypto-education" class="postings-link">crypto education</a>, and <a href="https://blog.kraken.com/crypto-education/support-at-kraken" class="postings-link">world-class client support</a> through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://futures.kraken.com/wallets" class="postings-link">Kraken Futures</a>.</div><div><br></div><div>Become a Krakenite and build the future of crypto!</div><div><br></div><div><br></div><div><b style="font-size: 24px">Proof of work</b></div><div><br></div><div><b style="font-size: 18px">The team</b></div><div><br></div><div>Join our Trading Technology team and start building the internet of money.</div><div>The Trading Technology team is responsible for everything to do with the trading backend services such as the matching engine, market data gateways, internal and external APIs, and various other trading services. The team is located globally and responsibilities are split into sub-teams, working with various tech stacks. Our teams code in C++, Go, Rust, and Python, depending on the product they are contributing to within Kraken and work agile around the globe<b>. </b>Recently, the Trading Technologies team played a critical role in <a href="https://blog.kraken.com/post/17936/performance-at-kraken/" class="postings-link">scaling Kraken's trading infrastructure.</a>&nbsp;</div><div><br></div></div><div class="section page-centered"><div><h3>The opportunity </h3><ul class="posting-requirements plain-list"><ul><li>Design and implementation of microservices in Rust</li><li>Writing reusable, testable, and efficient code</li><li>Implementation of reusable components/libraries for Kraken’s backend systems</li><li>Write highly scalable, high volume services</li><li>Create optimized database schemas</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>5+ years of experience in software engineering</li><li>Experience writing network services or asynchronous code in Rust</li><li>Experience using a Linux server environment</li><li>Ability to define technical requirements and drive projects through to completion</li><li>Assume technical responsibility of complex backend systems, identify opportunities for system improvement</li><li>Have experience with system languages (C, C++, Go) and/or strongly typed programming (OCaml, Haskell, Rust)</li><li>Previous trading knowledge is a nice to have</li><li>Knowledge about distributed systems and technologies (gRPC, Kafka, NoSQL, SQL, Redis, ...)</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="salary-range"><div>$135,000 - $203,000 a year</div><small><div>This is the target annual salary range for this role. This range is not inclusive of other additional compensation elements, such as our Bonus program, Equity program, Wellness allowance, and other benefits [US Only] (including medical, dental, vision and 401(k)).</div><div><br></div><div>The compensation range provided is influenced by various factors and represents the initial target range. Our salary offerings are dynamic and we strive to ensure that our base salary and total compensation package aligns and recognizes the top talent we aim to attract and retain. The compensation package of the successful candidate is based on various factors such as their skillset, experience, and job scope.</div></small></div><div class="section page-centered" data-qa="closing-description"><div>&nbsp;#US #EU #LI-Remote #Canada #LI-VF1</div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/ac0d544a-262d-4b05-845b-51dc4088b693/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -617,7 +593,7 @@
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
-                    <h3>Embedded Software Engineer</h3>
+                    <h3>Embedded Linux Software Engineer</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -1149,6 +1125,115 @@
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
 
 <p>#LI-remote&nbsp;</p><p>Requisition ID: 666</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Software Engineering Director</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/5211861" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>This is the general track for Engineering Director at Canonical, apply here if you are confident to run a project which spans teams and time zones, hiring and managing engineering managers and staff engineers.</p>
+<p>Canonical’s largest software products are built by multiple teams working together under a single director of engineering. Once you have passed the first round of interviews we will discuss specific software products which would be a good fit for your interests.</p>
+<p>We believe that open source is just starting to transform the tech sector and enterprise compute. Our goal is to make open source easier, more reliable and more secure for deployment and development. We strive to be the provider of ‘most software to most companies’. To deliver on that ambition, our engineers are carefully selected from the applicants across the globe. We select for brilliance and motivation to take open source to the next level. Our engineering directors set the pace and the direction to help teams achieve more than they realised they could, and feel proud of the result.</p>
+<p>Even though this is a senior management position, managing managers, we expect Engineering Directors to be outstanding developers with the confidence to lead by example across the full range of activities in their teams. You need to understand what great code looks like in the language and genre of your product - whether that is a web service, or a system daemon, or a desktop application, or a distributed system. You’ll need to know how to drive testing and benchmarking to improve the clarity in your teams around quality and performance. You’ll also need to be confident to set and defend high expectations of work ethic, consistency, focus and learning.</p>
+<p>We have director level roles across a wide range of engineering domains, including:</p>
+<ul>
+<li>Python and Golang</li>
+<li>C / C++ / Rust</li>
+<li>Data infrastructure</li>
+<li>HTML / CSS / JavaScript / Typescript / React</li>
+<li>Flutter</li>
+<li>Distro packaging and systems</li>
+<li>SAAS and web microservices</li>
+<li>Kernel</li>
+<li>Servers</li>
+<li>Graphics, Browser and Desktop&nbsp;&nbsp;</li>
+<li>Silicon enablement and embedded devices</li>
+<li>Product Security</li>
+</ul>
+<p>If your domain of expertise isn’t listed above, yet you feel it’s relevant to Canonical, then feel free to apply anyway. We will route you to the most suitable team.</p>
+<p>Location: The role is remote, with positions available in all time zones. It includes a requirement for global travel for twice per year, for trips up to two weeks long.</p>
+<h2>What you’ll do</h2>
+<ul>
+<li>Lead multiple teams of engineers, ranging from graduate to senior</li>
+<li>Develop your engineering managers and maintain Canonical culture</li>
+<li>Hire staff level engineers for specific roles like performance and quality</li>
+<li>Coach, mentor, and offer career development feedback</li>
+<li>Identify and measure indicators of team health and productivity</li>
+<li>Ensure rounded delivery including community participation and docs</li>
+<li>Implement disciplined engineering processes and defend them</li>
+<li>Set and measure progress against benchmark goals for speed and efficiency</li>
+<li>Represent your product to stakeholders, partners, and customers</li>
+<li>Develop and evangelise great engineering and organisational practices</li>
+<li>Plan and manage progress on agreed goals and projects</li>
+<li>Be an active part of the leadership team, collaborating with other leaders</li>
+<li>Collaborate with leads for related or dependent products</li>
+</ul>
+<h2>What we’re looking for in you</h2>
+<ul>
+<li>An exceptional academic track record from both high school and university</li>
+<li>Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path</li>
+<li>Extensive management experience and confidence to set high expectations</li>
+<li>Outstanding Linux based software engineering track record</li>
+<li>Drive and a track record of going above-and-beyond expectations</li>
+<li>Excellent verbal and written communication skills in English</li>
+<li>Public speaking and presentation skills</li>
+<li>A love of developing and growing people and a track record of it</li>
+<li>Experience in leading, coaching and mentoring software developers</li>
+<li>Organised and able to ensure your team delivers timely, high quality results</li>
+<li>Well-organised, self-starting and able to deliver to schedule</li>
+<li>Professional manner interacting with colleagues, partners, and community</li>
+<li>You have advanced expertise in your own domain&nbsp;</li>
+<li>You are knowledgeable and passionate about software development&nbsp;</li>
+<li>You have solid experience working in an agile development environment</li>
+<li>You have a demonstrated drive for continual learning</li>
+<li>Builds trust, relationships and confidence</li>
+<li>Result-oriented, with a personal drive to meet commitments&nbsp;</li>
+<li>Ability to travel twice a year, for company events up to two weeks each</li>
+</ul>
+<h2>Additional skills we value</h2>
+<ul>
+<li>Experience in a developer advocacy or community role</li>
+<li>Open source community engagement and leadership</li>
+<li>Ops and system administration experience</li>
+<li>Performance engineering and security experience</li>
+</ul>
+<h2>What we offer you</h2>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues</li>
+<li>Priority Pass, and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote</p><p>Requisition ID: 1104</p><p></p>
     
                 </details>
                 </td>
