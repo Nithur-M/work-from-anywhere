@@ -1,146 +1,19 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0084/1275/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/2990/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>CobbleWeb</h5>
-                    <h3> Senior Full-stack PHP Developer</h3>
+                    <h5>OnTheGoSystems</h5>
+                    <h3> Senior RoR/React Developer</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/cobbleweb-senior-full-stack-php-developer-5" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0084/1275/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> London
-    <br /><strong>URL:</strong> <a href="https://www.cobbleweb.co.uk">https://www.cobbleweb.co.uk</a>
-</p>
-
-<div><strong>What are we looking for?</strong></div><div>We are looking for solution-focused individuals with a can-do attitude. Your commitment to continuous learning means you are tech agnostic – always looking for the best way to execute a project or task. You share our philosophy of purpose-driven development that ensures the best possible outcomes for our clients. Like us, you believe in a strong work ethic and take pride in the quality of your code. You see the big picture and strive for the sense of accomplishment that comes from successfully executing a new project, such as an online marketplace that is perfectly geared for growth. Last but not least, you enjoy collaborating with a team of equally motivated developers and digital strategists.</div><div><br></div><div><strong>Job requirements</strong></div><ul>
-<li>Expert with Symfony framework (3+years experience)</li>
-<li>Expert PHP5, PHP7 (5+years experience)</li>
-<li>Strong Experience developing within ReactJS (2+years experience)</li>
-<li>Expert MySQL / Doctrine 2 (3+years experience)</li>
-<li>Experience Developing Frontend with Bootstrap/Material (1+years experience).</li>
-<li>Very strong Object Oriented Programming skills</li>
-<li>Experience with REST APIs</li>
-<li>Use of Docker in local and production environments</li>
-<li>Adoption of Agile methodologies</li>
-<li>Experience with techniques such as TDD, continuous integration and continuous delivery</li>
-<li>Experience with test automation using Behat, Jenkins, Selenium or other testing frameworks would be advantageous</li>
-<li>RabbitMQ, Redis, AWS or Elastisearch is a plus</li>
-<li>Be willing to help your teammates, share your knowledge with them, and learn from them.</li>
-<li>Be open to receiving feedback.</li>
-<li>Be conscientious and have a good work ethic.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/cobbleweb-senior-full-stack-php-developer-5">https://weworkremotely.com/remote-jobs/cobbleweb-senior-full-stack-php-developer-5</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/8522/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Checkly</h5>
-                    <h3> Senior Developer Relations Advocate</h3>
-                </td>
-                <td width="300">
-                    <code>Sales and Marketing</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/checkly-senior-developer-relations-advocate" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0124/8522/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Berlin, Germany
-    <br /><strong>URL:</strong> <a href="https://checklyhq.com">https://checklyhq.com</a>
-</p>
-
-<div>
-<em><br>(Fully remote, dev-tools, observability, async-first, 32-40h/week, time zones: GMT-5 to GMT+2)<br></em><br>
-</div><div>
-<br>Join <a href="https://www.checklyhq.com/">Checkly</a>, a <a href="https://www.checklyhq.com/blog/checkly-recognized-a-third-time-by-gartner/">Gartner Cool Vendor</a>, as the Senior Developer Relations Advocate and be at the forefront of the Monitoring as Code (MaC) movement, recently recognized in <a href="https://www.checklyhq.com/blog/exciting-times-for-monitoring-as-code/">two Gartner Hype Cycles</a>. We're seeking a dynamic DevRel who is deeply rooted in the DevOps, Platform Engineering, SRE space to engage with new and existing users and customers including 1Password, Deno, Render, Sentry, and Vercel. Your role will be pivotal in building trust, credibility, and meaningful relationships within the developer community, while also serving as a key contributor to Checkly's as-code approach to modern synthetic monitoring and observability.<br><br>
-</div><div>We care about building a team where people of all backgrounds are encouraged to do their best work. To achieve this we built a <a href="https://blog.checklyhq.com/how-to-build-a-leading-remote-first-company-while-exceeding-company-goals-do-this/">flexible, fully remote and async-first</a> startup environment with <a href="https://www.notion.so/ad474bec3a5d4d17bfbb43ebae3fec9c?pvs=21">inclusive benefits</a>.<br><br>
-</div><h1><strong>Key Areas of Impact</strong></h1><div>
-<strong>Advocacy:</strong> Be the voice of Checkly at meet-ups, conferences, podcasts, and streams. Your role is to represent the developer community within Checkly, ensuring their needs are heard and addressed.</div><div>
-<br><strong>Adoption:</strong> Guide our users through their journey from problem awareness to becoming Checkly champions. Show them how MaC workflows can solve their challenges.<br><br>
-</div><div>
-<strong>Product Input:</strong> Your insights into the needs of developers will strengthen Checkly’s product-market fit. Actively seek and drive feedback to shape our offerings.<br><br>
-</div><div>
-<strong>Enablement:</strong> Provide the resources that help developers implement Checkly's technology. This includes developer education, experience, and community engagement.</div><div><br></div><h1><strong>What You'll Do</strong></h1><ul>
-<li>Identify and secure partnerships to extend Checkly's reach and influence communities.</li>
-<li>Drive engagement in our Slack community and extend our influence by proactively reaching out and engaging with external channels and communities.</li>
-<li>Collaborate with engineering teams to create compelling MaC demos.</li>
-<li>Produce engineering-focused content and training materials that empower developers, build Checkly and MaC visibility, and ultimately grow our community.</li>
-<li>Create educational video content to enhance Checkly's already thriving <a href="https://www.youtube.com/c/checklyhq">YouTube channel</a>, focusing on MaC and related topics.</li>
-<li>Shape and influence Checkly’s product and developer experience through feedback, education and code.</li>
-</ul><div><br></div><h1><strong>What you should have</strong></h1><ul>
-<li>Love for technology as well as for doing things in public (learning in public, conference speaking, blogging, open source...)</li>
-<li>Proficient in monitoring and observability, with publicly available work samples.</li>
-<li>Experience in roles like software development or SRE, including hands-on experience with monitoring and production systems.</li>
-<li>Skilled at advocacy and engagement of developers across channels.</li>
-<li>Experience, patience and empathy to teach developers about best-practices and new technologies, whether in-person, by writing tutorials or by recording a video.</li>
-<li>Fluent in at least one programming language (e.g., JavaScript, TypeScript) and familiar with modern cloud infrastructure.</li>
-<li>Excellent spoken and written English.</li>
-<li>Ability to be autonomous and self-motivated in a remote, async-first work environment, while you also enjoy getting to know your colleagues and helping others.</li>
-<li>Knowledgeable with "as Code" workflows and tools like Grafana, Prometheus, OpenTofu, and Terraform.</li>
-</ul><div><br></div><h1><strong>What we offer</strong></h1><ul>
-<li>Become part of a fast-growing, international, and remote team where you can have a real impact</li>
-<li>
-<a href="https://blog.checklyhq.com/we-scored-10-5-on-gitlabs-12-steps-to-better-remote-test/">Fully remote</a>, flexible work hours, async-first and transparent culture</li>
-<li>Stock options</li>
-<li>27 days of paid vacation + your local public holidays</li>
-<li>Paid sick leave &amp; up to 14 weeks of paid parental leave</li>
-<li>$1,000 learning &amp; visiting budget</li>
-<li>Co-working budget or home office setup</li>
-<li>Bi-annual company retreats</li>
-<li>Employment &amp; contractor options</li>
-</ul><div>Find out more <a href="https://www.notion.so/ad474bec3a5d4d17bfbb43ebae3fec9c?pvs=21">here</a>.</div><div><br></div><h1><strong>What we pay</strong></h1><div>Fair, competitive, and transparent pay is very important for us. Therefore we work with a <a href="https://www.notion.so/f3c42feab82b444a9cbf8fed545cb727?pvs=21">standardized salary calculator</a> that includes several factors such as seniority level as well as location.<br><br>
-</div><div>For this role, we’re looking at a range of €85,500 - €95,000 for someone located in a similar cost of market as Germany, UK, Ireland… If you live in a lower or higher cost of market tier, that also moves the pay range.<br><br>
-</div><h1><strong>Apply</strong></h1><div>If this sounds interesting, please apply! Studies by several different sources have shown that on average men will apply for a job if they meet 60% of the application requirements. Women,non-binary people and POC will seek to match a much higher percentage of requirements before applying. If you're not sure you're the right fit, apply anyway and let us know what you bring to the table. We'd love to hear from you!<br><br>
-</div><div>We're all about being transparent and setting clear expectations. That's why we've put together our <a href="https://www.notion.so/54bc05178d3b4118a15effe885f96d1a?pvs=21">hiring playbook</a> and open-sourced our <a href="https://www.notion.so/Checkly-s-Employee-Handbook-f262e36a64d641af8588a1c09bc0ff48?pvs=21">employee handbook</a>. There you'll find a sneak peek of who we are, how we work and what you can expect in our hiring process.<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/checkly-senior-developer-relations-advocate">https://weworkremotely.com/remote-jobs/checkly-senior-developer-relations-advocate</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/2990/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>OnTheGoSystems</h5>
-                    <h3> Technical Writer for Developer Documentation</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/onthegosystems-technical-writer-for-developer-documentation" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/onthegosystems-senior-ror-react-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -153,28 +26,138 @@
     <br /><strong>URL:</strong> <a href="https://onthegosystems.com">https://onthegosystems.com</a>
 </p>
 
-<div>We’re looking for <strong>a talented technical writer</strong> to join our team. Your mission is to create compelling technical documentation and UI texts that resonate with our target developer audience.</div><h1>About You</h1><div>You’re eager to delve into new material, ready to master our system to provide accurate, comprehensive documentation and explanations. Although our supportive team will assist you in settling in, your inherent motivation and dedication to learning quickly will be invaluable.</div><h1>Requirements</h1><div>You <strong>must </strong>meet the following requirements for consideration:<br><br>
-</div><ul>
-<li>You have at least 2 years of experience writing technical documentation for developers using frameworks and languages such as React, Vue, Swift, Java, etc. </li>
-<li>You have native-speaking English skills</li>
-<li>You reside in Europe or a similar time zone (plus/minus 2 hours)</li>
-</ul><h1>We also expect you to be:</h1><ul>
-<li>Meticulous and detail-oriented</li>
-<li>An exceptional researcher, learner, and communicator</li>
-<li>Experienced with writing UI texts</li>
-<li>Experienced working with companies that create tools for developers</li>
-</ul><h1>How We Work</h1><div>Our team stays in sync through regular online meetings, ensuring everyone is aligned with our short and long-term objectives. You will proactively stay updated on product developments, making you an integral part of the product design process. Your responsibilities will include creating the technical documentation and materials that introduce our product to the world. You will also be writing UX texts for the product’s interface.</div><h1>What We’re Building</h1><div>We’re developing the “Private Translation Cloud”, a unique software translation system that stands apart from the rest due to a technical advantage we’re building.</div><h1>What We Offer</h1><ul>
-<li>100% remote position with flexible working hours</li>
-<li>A collaborative environment with creative, kind, and like-minded individuals</li>
-<li>Participation in an exciting, high-impact project</li>
-<li>Freedom to innovate: We encourage you to contribute ideas for documentation strategies and product improvements</li>
-<li>A healthy work-life balance and generous paid vacation</li>
-<li>Reimbursement for your work computer and any necessary software licenses</li>
-<li>A scholarship program for your personal activities (sports, workshops, hobbies, etc.)</li>
-<li>Access to our e-book library via Kindle</li>
-</ul><div><br></div><div>We <strong>value mutual trust and respect</strong> above all. We don’t employ monitoring software or micromanage our teammates, which is why your self-drive and organizational skills are essential.</div><h1>Join Our Team</h1><div>If you’re excited by this opportunity, we would love to hear from you. Apply now to start a conversation.</div><div><br></div>
+<div><strong>Are you a seasoned software engineer with a passion for building products from start to finish? Do you thrive in a remote work environment, where you can work on challenging problems with like-minded people? If so, we have an exciting opportunity for you to join our team at OnTheGoSystems!</strong></div><h1><strong>What skills we’re looking for in a RoR/React developer:</strong></h1><ul>
+<li>
+<strong>Ruby on Rails</strong>, </li>
+<li>Experience in designing, developing and implementing complex <strong>React</strong> applications,</li>
+<li>Be familiar in design systems usage,</li>
+<li>Automated testing with Cypress,</li>
+<li>Version control with <strong>Git</strong>,</li>
+<li>
+<strong>AWS experience</strong> will be a big plus,</li>
+<li>CI/CD experience – <strong>GitLab/Jenkins</strong> or another similar tool,</li>
+<li>Experience in efficient database usage (<strong>MySQL</strong>), dealing with relational tables of billions of records.</li>
+</ul><h1><strong>Our ideal candidate is:</strong></h1><ul>
+<li>Proactive and challenge-driven,</li>
+<li>Able to take ownership of work and responsibility of the results,</li>
+<li>Open to receiving feedback and collaboration with team members – we strive at finding the best solutions,</li>
+<li>Smart, curious and interested in trying new tools and solutions, especially as AI continues to transform the software development industry,</li>
+<li>Passionate and enthusiastic about work. </li>
+</ul><h1><strong>What you will do:</strong></h1><ul>
+<li>All developers in our team participate in software architecture, implementation, maintenance, and test automation.</li>
+<li>Some weeks, you will work on completely new features. Other times, you’ll optimize systems for performance, usability and scalability. Every millisecond that you save translates into thousands of dollars in infrastructure costs.</li>
+</ul><h1><strong>What we offer:</strong></h1><ul>
+<li>100% remote position,</li>
+<li>Full-time position with paid public holidays, vacation, and sick leave,</li>
+<li>Paid sabbatical (yes, most people in our team stick with us for years!),</li>
+<li>Being part of a team of smart, self-driven individuals,</li>
+<li>Great opportunity to progress and advance,</li>
+<li>Collaborating with team members across the globe.</li>
+</ul>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/onthegosystems-technical-writer-for-developer-documentation">https://weworkremotely.com/remote-jobs/onthegosystems-technical-writer-for-developer-documentation</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/onthegosystems-senior-ror-react-developer">https://weworkremotely.com/remote-jobs/onthegosystems-senior-ror-react-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0015/2558/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Prospect</h5>
+                    <h3> Java Developer (Backend)</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/prospect-java-developer-backend" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0015/2558/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Waterloo, Canada
+    <br /><strong>URL:</strong> <a href="https://tryprospect.com">https://tryprospect.com</a>
+</p>
+
+<div>We are a remote startup (headquartered in Canada) building a smart, curious, and driven team that’s making software to help sales reps sell better.</div><div>
+<br>Prospect is a lead generation app that helps you find contact data right inside your browser in real time. The best sales teams from the top tech companies worldwide use Prospect to crush their sales targets.</div><div><br></div><div><strong>About You</strong></div><div>
+<br>We are currently a team of 15 people — you will be #16.</div><div>
+<br>You enjoy writing beautiful code. You care not just about whether the code works, but you think deeply about how well it performs, and how it will be understood by future developers.</div><div>
+<br>You like shipping things. You realize that building excellent products is a marathon, not a sprint, and regularly make improvements in iterations.</div><div>
+<br>You are an excellent communicator. You realize that working remotely requires thoughtful communication and you do so through great written communication.</div><div>
+<br>You self-manage and are open to feedback. You enjoy taking a goal and figuring out how to ship it without heavy direction and regular check-ins.</div><div>
+<br>You are product and customer-centric. Whether it is a bug fix, perf improvement, or a new feature, you realize that every line of code is an opportunity to make a user’s experience better.</div><div><strong><br>Our Engineering Team</strong></div><div>
+<br>We are currently a team of 7 developers. Our roles are divided based on the projects we work on.</div><div>
+<br>We work in 4-week long development cycles in which we focus on adding new features, fixing bugs, or making improvements. After each cycle, we have a 2-week cool-off which we use to work on anything we would like to as well as plan for the next cycle.</div><div>
+<br>Our stack is currently:</div><ul>
+<li>
+<strong>Backend</strong>: Java 17 (Spring)</li>
+<li>
+<strong>Cloud</strong>: AWS, managed by Terraform</li>
+<li>
+<strong>Database</strong>: AWS DynamoDB and PostgreSQL</li>
+<li>
+<strong>Frontend</strong>: TypeScript, React</li>
+<li>
+<strong>Internal</strong>: GitLab, LaunchDarkly, Linear</li>
+</ul><div>
+<br><strong>Projects You Will Work On</strong>
+</div><div>
+<br>You will be working on our backend, a REST API written using modern Java practices.</div><div>
+<br>This is a high-impact role. We are looking for someone to take real ownership of one or two core features within six months. You will own some extremely important parts of our application that serve thousands of customers.</div><div>
+<br>You will work closely with the backend and frontend team and our CTO.</div><div>
+<br>We prioritize our projects based on what customers are requesting the most.</div><div>
+<br>Some things that you might work on include:</div><ul>
+<li>
+<strong>Data</strong>: Scale our real-time data discovery engine to process 5x-10x more volume</li>
+<li>
+<strong>DevOps</strong>: Speed up our CI pipeline for faster builds</li>
+<li>
+<strong>Integrations</strong>: Add features to our existing integrations</li>
+<li>
+<strong>Monitoring</strong>: Modernize our logging and metrics infrastructure</li>
+<li>
+<strong>Reporting</strong>: Add functionality to allow customers to run advanced custom usage reports</li>
+</ul><div>
+<br><strong>Hiring Process</strong>
+</div><div>
+<br>Our process is as follows:</div><ol>
+<li>
+<strong>Initial screening (90 min)</strong>: Complete an asynchronous questionnaire and a relevant coding challenge</li>
+<li>
+<strong>CTO Interview (30 min)</strong>: A call with our CTO to delve into your experiences and discuss the projects we’re working on</li>
+<li>
+<strong>Live coding session (3 hours)</strong>: Collaborate on a problem with our team in real-time</li>
+<li>
+<strong>Founder’s interview (30 min)</strong>: A final conversation with our founders to understand your personal goals and share our company vision</li>
+<li>
+<strong>Job offer</strong>: If we find you're a great fit, we'll make you an offer at this stage</li>
+</ol><div>
+<br><strong>Must Haves</strong>
+</div><ul>
+<li>5+ years of Java programming experience</li>
+<li>Experience with relational databases</li>
+<li>Familiarity with Spring</li>
+</ul><div>
+<br><strong>Nice To Haves</strong>
+</div><ul>
+<li>Previous work experience using Spring Boot or similar modern Java frameworks</li>
+<li>Proficiency with modern infrastructure tools, such as Terraform</li>
+<li>Experience with AWS or other cloud vendors</li>
+<li>Track record in building concurrent systems at scale</li>
+<li>Past success working asynchronously in a fully remote environment</li>
+<li>Demonstrable usage of a metrics-centric approach, using tools like Grafana</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/prospect-java-developer-backend">https://weworkremotely.com/remote-jobs/prospect-java-developer-backend</a></p>
 
                 </details>
                 </td>
@@ -183,17 +166,17 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Contra</h5>
-                    <h3> Freelance developer for a Chrome Extension (Vue.js/IndexedDB) at Taberone</h3>
+                    <h5>EventMobi</h5>
+                    <h3> Senior Front End Developer - Remote</h3>
                 </td>
                 <td width="300">
-                    <code>Full-Stack Programming</code>
+                    <code>Front-End Programming</code>
                 </td>
                 <td width="200">
                 <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/contra-freelance-developer-for-a-chrome-extension-vue-js-indexeddb-at-taberone" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/eventmobi-senior-front-end-developer-remote" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -202,197 +185,257 @@
                 
 
 <p>
-  <strong>Headquarters:</strong> San Francisco, CA
-    <br /><strong>URL:</strong> <a href="http://bit.ly/3kLhMdk">http://bit.ly/3kLhMdk</a>
+  <strong>Headquarters:</strong> 151 Yonge Street 11th Floor Toronto, Ontario M5C 2W7
+    <br /><strong>URL:</strong> <a href="https://www.eventmobi.com/">https://www.eventmobi.com/</a>
 </p>
 
 <div>
-<br>ABOUT THE EXTENSION<br><br>
-</div><div>
-<a href="https://tabler.one/"><br>TABLERONE</a> is a browser extension that saves tabs and a lot of time. It does what modern browsers should do but don't — enable you to close and continue sessions later, batch process URLs, browse collaboratively, and organise a life-time worth of information found online. Like Google Photos but for links. <br><br>
-</div><div>
-<br>Traction:<br><br>
+<em>** EventMobi is an all-remote company and this is a fully remote position, open to all candidates with a focus in Pakistan, India, Brazil, Columbia, Argentina and Armenia. You will need to be able to work in EST time zones.</em> <br> <br> <strong><br>WHY EVENTMOBI?<br></strong> <br>EventMobi is an award-winning tech scale-up with thousands of clients across the globe. We believe that live events bring people together to enable change, for businesses and society at large. At EventMobi we have a huge impact on enabling success for events and their attendees. We are on a mission to revolutionize how event planners create, market and manage their events and how attendees experience conferences and tradeshows. <br> <br>If you're looking for a software development role that allows you to drive the web forward by utilizing the latest technologies, you've come to the right place! Developers at EventMobi focus on building powerful front-ends that work across devices, are offline-capable, and are just as, if not more powerful, than their native counterparts. We use the best tools for the job, including React+Redux, Capacitor, Material UI and Webpack to develop a platform that generates &amp; deploys thousands of apps annually and we're constantly looking to push the bar with your help! <br> <br> <br><strong>WHAT YOUR WORK WILL FOCUS ON </strong>
 </div><ul>
-<li>Weekly users: 15,000+</li>
-<li>Chrome Web Store rating: 4.54</li>
-<li>Sean Ellis Test satisfaction score: 54%</li>
+<li>Modern Web App - You will be involved in enhancing our responsive web app, solving interesting problems along the way - real-time content updates, offline content, UI and architecture scaling for performance. </li>
+<li>Ownership - From initial design to deployment, test automation to performance monitoring, you own what you build end-to-end. </li>
+<li>Architecture &amp; Scale - Gathering insights and employing strong design principles, you will determine the best tech to address our customers' needs while optimizing for scale. </li>
+<li>Development - Best practices, craftsmanship, well thought out code, and mentorship to your team is your ideal and you preach this in your own work as well as with your teammates. </li>
+<li>Quality - You will help grow the team around you in not only pushing new capabilities for our customers but also maintaining the utmost quality in everything we build.</li>
 </ul><div>
-<br><br>
-</div><div>
-<br>Initial engagement scope:<br><br>
+<br><strong>WHAT YOU WILL BRING TO THE TEAM </strong>
 </div><ul>
-<li>Overhaul the extension’s core auto-save mechanism</li>
-<li>Implement support for browser Tab Groups</li>
-<li>Upgrade collections sharing (temp -&gt; permanent)</li>
-<li>Add new analytics events and metrics</li>
-<li>Develop a link-collection Twitter bot</li>
-<li>Fix bugs and issues</li>
+<li>6+ years experience as a software developer working on large and/or fast scaling product </li>
+<li>3+ years experience working with Javascript and a deep understanding in React/Redux including concepts such as Hooks and functional components </li>
+<li>Ability to architect elegant solutions to complex problems using appropriate abstractions and techniques </li>
+<li>Comfortable working with large code bases </li>
+<li>Experience working with Restful APIs </li>
+<li>Proficient using JSX/ES2020+/HTML/CSS </li>
+<li>Experience with Material UI or Ant Design </li>
+<li>Champion best practices and performance improvements </li>
+<li>Experience with automated testing suites like Jest and React Testing Library </li>
+<li>Ability to debug a codebase in a self-sufficient manner </li>
+<li>Excellent written and verbal communication </li>
+<li>Knowledge of SOLID Principles, Domain Modeling, and Design Patterns is a major benefit</li>
+<li>Ability to mentor and grow team members, and provide technical guidance and oversight on implementation direction <br><br>
+</li>
+</ul><div><strong>NICE TO HAVE: </strong></div><ul>
+<li>Experience working with Typescript and writing strongly typed React components and hooks </li>
+<li>Experience with React-Query or similar libraries for API-driven React components </li>
+<li>Knowledge of developing mobile applications through Capacitor, Cordova, or React Native </li>
+<li>Experience with Docker, AWS, and CI/CD like GitHub Actions </li>
 </ul><div>
-<br><br>
-</div><div>
-<br>Continued engagement:<br><br>
+<br><strong>SOME OF THE INTERESTING THINGS YOU WILL GET TO WORK ON: </strong>
 </div><ul>
-<li>Develop cloud sync with client-side encryption</li>
-<li>Develop a premium SaaS product (subscriptions)</li>
-</ul><div>
-<br><br>
-</div><div>
-<br>Compensation:<br><br>
-</div><div>
-<br>Flexible - name your price<br><br>
-</div><div>
-<br><br>
-</div><div>
-<br>You will be working directly with the founder on a well-documented codebase that was freshly revamped to Manifest V3, modularised, and ported to service workers.<br><br>
-</div><div>
-<br><br>
-</div><div>
-<br>- - -<br><br>
-</div><div>
-<br><br>
-</div><div>
-<br>ABOUT YOU<br><br>
-</div><div>
-<br><br>
-</div><div>
-<strong><br>Non-negotiable qualifications<br></strong><br>
-</div><ul>
-<li>Front-end expert or FE-focused full-stack know-how</li>
-<li>Past architect or lead developer role(s)</li>
-<li>Prior experience developing browser extensions (Manifest V3)</li>
-<li>Experience developing 0-1 and at scale</li>
-<li>Likes UI engineering and has eye for details</li>
-<li>Great verbal and written communication skills</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong><br>Unfair advantage know-how<br></strong><br>
-</div><ul>
-<li>Extensive experience with Vue.js</li>
-<li>Familiarity with IndexedDB</li>
-<li>Back-end development experience (Node.js and/or PHP)</li>
-<li>Experience developing a local-first webapp</li>
-<li>Familiarity with CouchDB and PouchDB</li>
-<li>Experience building CI/CD pipelines</li>
-<li>Experience with automated testing &amp; QA (of extensions)</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong><br>Operational expectations<br></strong><br>
-</div><ul>
-<li>Full-time commitment (40h/week) for the duration of the project on a freelance basis</li>
-<li>At least 4h overlap with GMT(+1)</li>
-<li>Self-directed and independent execution</li>
-<li>Collaborate with the team to find optimal implementation solutions</li>
-<li>Proactive async communication</li>
-<li>On need-to basis video call meetings</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong><br>Why you should join<br></strong><br>
-</div><ul>
-<li><a href="https://www.notion.so/natannikolic/Technical-cofounder-de2fa6b2781c4feb987f6043aca59802?pvs=4">Potential for partnership</a></li>
-<li>Possibility of part-equity compensation</li>
-<li>‘Zero knowledge’ architecture technical challenge</li>
-<li>Opportunity to create a useful product to be proud of</li>
-</ul><div><br></div>
+<li>Implementing API calls with a Stale-With-Revalidate paradigm to support fast, network-first data access with offline caching </li>
+<li>Utilizing Redux and dynamic reducers </li>
+<li>React based page builder that generates React components with API integration</li>
+<li>Adding more engagement features (chat/group discussions/1:1 video meetings/breakout rooms) <br><br>
+</li>
+</ul><div><strong>WHAT WILL YOU GET FROM EVENTMOBI? </strong></div><ul>
+<li>We offer the experience of a lifetime working with a dynamic, open-minded and diverse team, who are excited to come to work every day and passionate about what they do and the clients they help </li>
+<li>Competitive compensation </li>
+<li>Company Stock-Options</li>
+<li>A great culture with much more along the way <br><br>
+</li>
+</ul><div><strong>REMOTE WORKSPACE REQUIREMENTS: </strong></div><ul>
+<li>You have a safe, comfortable, and ergonomic workspace and working environment - a private and quiet workspace is vital for doing your best work! </li>
+<li>You have a reliable internet connection capable of participating in video calls, with at least 30Mbps download speed </li>
+</ul>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/contra-freelance-developer-for-a-chrome-extension-vue-js-indexeddb-at-taberone">https://weworkremotely.com/remote-jobs/contra-freelance-developer-for-a-chrome-extension-vue-js-indexeddb-at-taberone</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/eventmobi-senior-front-end-developer-remote">https://weworkremotely.com/remote-jobs/eventmobi-senior-front-end-developer-remote</a></p>
 
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/8492/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/8587/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Cliniko</h5>
-                    <h3> 🎉 Unique Software Developer job 🎉</h3>
+                    <h5>Flare</h5>
+                    <h3> Expert-level React/Redux Frontend Javascript Developer</h3>
                 </td>
                 <td width="300">
-                    <code>Full-Stack Programming</code>
+                    <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/cliniko-unique-software-developer-job" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/flare-expert-level-react-redux-frontend-javascript-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0124/8492/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0124/8587/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Melbourne, Australia.
-    <br /><strong>URL:</strong> <a href="https://cliniko.com">https://cliniko.com</a>
+  <strong>Headquarters:</strong> London, United Kingdom
+    <br /><strong>URL:</strong> <a href="http://flare.africa">http://flare.africa</a>
 </p>
 
-<div>
-<strong>About the Job<br></strong><br>
-</div><div>We are looking for a few amazing software developers to join our globally remote team at <a href="https://www.cliniko.com/">Cliniko</a>. Cliniko is a web application, comprising Ruby on Rails in the backend, and we’re in the process of transitioning the frontend to a React stack. This role will need to work with both backend and frontend, with more of a focus on the backend. Experience in Ruby is a bonus, but not required.</div><div>
-<br><br>
-</div><div>
-<strong>What is Cliniko?<br></strong><br>
-</div><div>
-<a href="https://www.cliniko.com/">Cliniko</a> is practice management software that makes life easy for allied health professionals by handling appointment scheduling, storing treatment notes, running video consultations, and much more. The software is used globally by tens of thousands of practitioners every day.</div><div>
-<br>Behind Cliniko is a team of 50 people, spread around the world. We work completely remotely, although our base is in Melbourne, Australia. We care more about finding the best person for the job than looking for someone that lives nearby.</div><div>
-<br>We don't have managers, we almost <a href="https://www.cliniko.com/blog/work-culture/why-we-have-no-meetings-at-cliniko/">never have meetings</a>, and there are no time sheets to complete. We're responsible, autonomous, creative, and proactive in doing our best for our customers. We're focused on making great software and we take pride in doing good work. It’s also important to us that <a href="https://www.cliniko.com/blog/news/cliniko-has-donated-1-million-to-charity/">we have a positive impact on the world</a>.</div><div>
-<br>If you want to know more about how we work, our founder, Joel, <a href="https://www.youtube.com/watch?v=o_2jXqzxBNU">gave a talk about it</a>.</div><div>
-<br><br>
-</div><div>
-<strong>What you’ll work on<br></strong><br>
-</div><div>You will spend your time developing Cliniko. Some of the things you’ll do are:</div><ul>
-<li>Adding new features to Cliniko.</li>
-<li>Improving existing features.</li>
-<li>Fixing bugs.</li>
-<li>Refactoring code.</li>
-<li>Reviewing code written by other developers.</li>
-<li>Making Cliniko faster.</li>
-<li>Improving security.</li>
-<li>Resolving issues for customers.</li>
-<li>Assisting the support team with queries. </li>
-<li>Testing and deploying your own code.</li>
-<li>Anything else you think needs doing.</li>
-</ul><div>Basically, you’ll be doing all you can to make Cliniko better for our customers.<br><br><strong>About you<br></strong><br>
-</div><div>You are someone who loves to code, and cares about having code that is easy to understand. You’re passionate about your work having a positive impact. You want to learn and share what you know.</div><div>
-<br>Taking initiative, and being responsible come naturally to you. You want your code meticulously reviewed, so that you can improve it. You also enjoy doing the same in return. You enjoy working with a team, but you are driven and motivated to take control of your projects, and deliver your own code. </div><div>
-<br>You understand the importance of security practices in your development. You write tests because they matter, not just to achieve coverage.</div><div>
-<br>You’re comfortable working from the database through to the DOM. This includes:</div><ul>
-<li>Relational databases.</li>
-<li>Queues and caches.</li>
-<li>Server side web frameworks.</li>
-<li>JSON APIs.</li>
-<li>Client side JS.</li>
-</ul><div>You're either proficient in all of these, or extremely capable in a few. We use Ruby on Rails. Experience with it is not required, but similar experience and an ability to quickly come up to speed is.</div><div>
-<br>No matter what your background is, or how you identify, if you feel you meet the requirements, we encourage you to apply. We know that having a diverse team brings the benefit of different perspectives, and it's how we’ll continue to find new ways to make Cliniko better. We are committed to the continual diversification of the team and working to constantly improve our inclusivity which is crucial to how we work.<br><br><strong>How we work<br></strong><br>
-</div><div>Here are some things we do a little differently to enable people to do their best work and live a happy life:</div><ul>
-<li>30-hour work week, full-time pay.</li>
-<li>Flexible hours, choose when you work</li>
-<li>Work from anywhere.</li>
-<li>Unlimited annual leave (minimum 4 weeks per year).</li>
-<li>Supplied computer equipment.</li>
-<li>Ergonomic furniture.</li>
-<li>Fresh organic fruit delivered weekly to your home.</li>
-<li>Overseas trips for full team meet-ups (family invited and paid for, too).</li>
-<li>No managers.</li>
-<li>No meetings.</li>
-</ul><div><br></div><div>
-<strong>How to apply<br></strong><br>
-</div><div>Read the instructions thoroughly on the application page.</div><div>
-<br>Job applications <strong>close</strong> <strong>25th of October, 2023</strong>.</div><div>
-<br><br>
-</div><div>
-<strong>What you can expect after applying<br></strong><br>
-</div><div>Once you’ve applied, sit back and relax while we get to work on our side! We’ll be reviewing all the applications as they come in, and we’ll get back to you at latest, a week after applications close. Everyone will hear back from us, successful or not.</div><div>
-<br>If we select you for the next stage, it will be a short 5 minute chat with our founder, Joel. Following the chat, if you’re still a contender, there’ll be a technical task to complete. These tasks are paid.</div><div>
-<br>Lastly, you’d meet with a few from our team, and we’ll make the final decision. This is the exciting part for us, and hopefully also for the chosen person. We’ll hire them to join our team! That will happen fast, and the start date will be chosen by the applicant.</div><div>
-<br>We know it’s quite a process to go through, so we want to make sure you know what you’re in for up front. We’ll be transparent with everyone along the way.</div><div>
-<br>One final note, unfortunately due to the quantity of applications we receive, we are not able to provide feedback for those not successful in the first round. In the later stages, we’ll do our best to provide what we can, if requested.</div><div>
-<br>Good luck!</div>
+<p>Flare is a tech startup building next-gen emergency response for the future. Named "the 911 of the Future" by Fast Company (<a href="https://www.fastcompany.com/company/flare" class="external">https://www.fastcompany.com/company/flare</a>), our 24-hour rescue.co Dispatch Centre provides life-saving services throughout Kenya and our platform powers emergency response for SOS and EMS applications.</p>
+<p><strong>---------------------------<br></strong></p>
+<p><strong>The platform</strong></p>
+<p>Over the last four years, we've built and deployed <strong>a lifesaving platform</strong> that has reduced response times by more than 80% and <strong>saved thousands of people from previously impossible situations</strong>. We are growing and looking for effective developers and product professionals to join our team. Today, the team is 40+ business &amp; ops specialists, software engineers, and emergency dispatchers distributed globally and operationally based in Nairobi and throughout Kenya. We are a goal-driven and results-oriented team focused on the continuous improvement of our technologies and rescue operations. </p>
+<p><strong>---------------------------</strong></p>
+<p><strong><strong>The Role<br></strong></strong>This Senior-level Frontend developer will build modern user interfaces for Emergency Responders who use the Flare  platform for mission-critical response, communication, and coordination. This role is part of a collaborative team of developers and engineers that work together towards a common goal. We're looking for somebody with significant React, Redux, Typescript and frontend architecture experience.</p>
+<p>This is a remote-first role, but you must be within the GMT to GMT+3 timezone range. </p>
+<p><br></p>
+<p><strong>---------------------------<br></strong></p>
+<p><strong>The main responsibilities include:</strong></p>
+<ul> <li>Launch new features scoped to improve the lifesaving and ops capacity of the platform.</li> <li>Develop and maintain the code powering the UI for mission-critical tools/services and rescue operations management.</li> <li>Contribute to development of API spec and improvement of existing services and applications.</li> <li>Take ownership on the implementation and translation of business requirements into quality software code, providing proper test coverage and relevant documentation where required.</li> <li>Dedicate required resources into increasing the overall quality of existing software.</li> <li>As a team player, work closely with a creative and technical team and participate to all the phases of the software development lifecycle — including brainstorming and planning sessions as well as daily briefings.</li> </ul>
+<p><strong>Requirements</strong></p>
+<p>As a senior frontend developer you are required to have the relevant experience and technical background to develop high quality, modern web applications using React, Redux, Typescript, Javascript, and other relevant frontend frameworks.<br> <br>You understand code architecture best practices, look to streamline and build scalable code.</p>
+<p>You are a self motivated person who likes to constantly build and improve the codebases you work on.</p>
+<p>You have a proactive attitude; you know how to enhance beside the requirements and look long term.</p>
+<p>You are eager to discover what's the last new trend in the frontend world, as well you have the relevant background and experience in order to properly pick the right tools you need.<br></p>
+<p>You know how web applications are built, tested, and released today, including collaboration and architectural strategies.</p>
+<p><br></p>
+<p><strong>Technical and professional requirements:<br></strong></p>
+<ul> <li>Minimum of 6 years of senior ReactJS experience working on scaling enterprise platforms and libraries. </li> <li>Solid knowledge of vanilla Javascript and recent ECMAScript specifications.</li> <li>Strong in Redux usage and best practices.</li> <li>Solid knowledge of Typescript.</li> <li>Experience developing feature and data-rich real time platforms or SaaS products.</li> <li>Solid understanding and knowledge on CSS and extensions SCSS, LESS</li> <li>Understanding and familiarity with common frontend-oriented tools, bundlers.</li> <li>Some experience in NodeJS (preferred) and/or other server-oriented programming languages.</li> <li>Experience with CI/CD systems.</li> <li>Relevant experience using tools to develop well written software code, as well as the tools to identify issues and run performance measurements.</li> <li>Experience working in highly-collaborative teams/environments, releasing on live platforms requiring zero downtime and seamless deployments.</li> <li>Good planning, time-management, accurate task scheduling, and excellent communication skills are required.</li> </ul>
+<p><strong>Benefits</strong></p>
+<p>Lean and agile team of highly-skilled and experienced global tech talent.</p>
+<p>Mission-driven team &amp; work; chance to work on live and action-packed lifesaving platform.</p>
+<p>Full-time position.</p>
+<p>Fast paced, interesting and flexible work environment.</p>
+<p>Can be fully remote or partly remote, #LI-Remote</p>
+<p><br></p>
+<p><br></p>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/cliniko-unique-software-developer-job">https://weworkremotely.com/remote-jobs/cliniko-unique-software-developer-job</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/flare-expert-level-react-redux-frontend-javascript-developer">https://weworkremotely.com/remote-jobs/flare-expert-level-react-redux-frontend-javascript-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/5855/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Tech Guys Who Get Marketing</h5>
+                    <h3> Salesforce.com Developer/Administrator</h3>
+                </td>
+                <td width="300">
+                    <code>DevOps and Sysadmin</code>
+                </td>
+                <td width="200">
+                <text>4 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/tech-guys-who-get-marketing-salesforce-com-developer-administrator" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0074/5855/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Florida
+    <br /><strong>URL:</strong> <a href="https://techguyswhogetmarketing.com">https://techguyswhogetmarketing.com</a>
+</p>
+
+<h1>Salesforce.com Developer/Administrator</h1><div>
+<br>Job Description<br><br>
+</div><div><strong>Salesforce.com Engineer</strong></div><div><br></div><div>Are you a freelance Salesforce.com Developer/Administrator with 5+ years experience and 20+ hours of availability a week? Are you platform agnostic yet experienced in APEX, VisualForce, Flows, Custom Object creation and the technical inner workings of optimizing Salesforce? Are you someone who loves solving business puzzles and who can match technical solutions to business outcomes?</div><div><br></div><div>Tech Guys Who Get Marketing is looking for new contractors interested in flexible, remote work with an entrepreneur spirited, motley crew of misfits who help Fortune 500 companies, quiet millionaire business owners, and exciting nonprofits bridge the gap between technology and marketing.</div><div><br></div><div>If this sounds like you, we’d love to know more about you. But before you enter the gauntlet, you need to know the rules of the game…</div><div><br></div><div><strong>Qualifications</strong></div><ul>
+<li>5+ years experience as a developer (will consider 3-5 years for right candidate)</li>
+<li>Experienced with all aspects of Salesforce.com, development and administration</li>
+<li>Experience with Google Cloud, Cloud Functions and Pub/Sub</li>
+<li>Able to work fully remote and maintain excellent communication with our team</li>
+<li>Comfortable leading high profile client calls, articulating strategy and technical solutions</li>
+<li>Able to problem solve, pivot and learn new platforms and tools when needed</li>
+<li>Provide accurate estimations of time needed to complete assigned work</li>
+<li>Understanding and interest in how marketing and technology work in tandem (highly preferred)<br><br>
+</li>
+</ul><div>
+<strong><br>Responsibilities<br></strong><br>
+</div><ul>
+<li>Help find, strategize, research, and recommend technical solutions to our client's challenges - we're looking for someone who can lead on strategy and guide implementation resources as well as implement technical solutions</li>
+<li>Attend client and internal calls when needed</li>
+<li>Maintain transparent and regular communication with the team on your work</li>
+<li>Provide technical support to clients that meets not only their budget and technical needs, but their business objectives</li>
+<li>This could mean</li>
+<li>Recommending solutions to clients</li>
+<li>Custom developing SaaS apps or functionality</li>
+<li>Utilizing off the shelf solutions or custom development where appropriate</li>
+<li>Integration of the Salesforce.com API to mobile app environments such as Firebase and Flutter</li>
+<li>Creating dashboards and reporting</li>
+<li>Front end UI/UX development with Lightning Pages, Apex, Visualforce and backend administration of data flows.</li>
+<li>Provide tutorials and written or recorded demos for clients in simple to understand terms</li>
+<li>Testing and Quality Assurance</li>
+<li>Writing technical documentation<br><br>
+</li>
+</ul><div>
+<strong><br>The Job<br></strong><br>
+</div><ul>
+<li>Free-lance contractor based work (1099)</li>
+<li>Pay range: $40-60/hr, skill dependent</li>
+<li>Expected work of 20+ hours/week (varies based on work closed and capacity)</li>
+<li>Must have reliable access to a computer and able to use or learn company tools including Slack, Zoom, and Salesforce</li>
+<li>Flexible availability Monday-Friday, we can work with most schedules and do not require or expect weekend work</li>
+<li>Don't be a jerk. Kindness is everything. We reject blame culture and believe in mutual support <br><br>
+</li>
+</ul><div><strong><br>Who we are</strong></div><div>Tech Guys Who Get Marketing is a marketing and technology agency focusing on powering-up organizations with creative solutions to impact the world. What sets us apart is our team members' unique combination of a strong technology background, with a deep understanding and knowledge of marketing strategy and solutions. This understanding of both tech and marketing gives our team an edge in building tech and marketing and delivers results.</div><div>Tech Guys is an equal opportunity organization and will not allow discrimination based upon age, ethnicity, ancestry, gender, national origin, disability, race, size, religion, sexual orientation, socioeconomic background, or any other status prohibited by applicable law.</div><div><br></div><div>To apply:</div><div>Record us a video. Nothing fancy (unless you’re into that kind of thing), just a video that tells us why we should consider you for the position. </div><div>
+<br>Email us your video and resume. Include any portfolios, work examples, etc., and whatever you think we should know about you. <strong>Resumes without videos will be ignored</strong>. Send it all to: hr@techguys.co<br><br>
+</div><div>
+<br><br>
+</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tech-guys-who-get-marketing-salesforce-com-developer-administrator">https://weworkremotely.com/remote-jobs/tech-guys-who-get-marketing-salesforce-com-developer-administrator</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/8560/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Waldo Photos</h5>
+                    <h3> Backend Platform Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>6 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/waldo-photos-backend-platform-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0124/8560/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Austin, TX
+    <br /><strong>URL:</strong> <a href="http://www.waldophotos.com">http://www.waldophotos.com</a>
+</p>
+
+<div><strong>Who We're Looking For</strong></div><div>We're in search of a unique kind of developer. You're already grounded in the fundamentals of software development and have taught yourself some machine learning or deep learning out of personal interest or curiosity. You're looking for the chance to apply your skills, learn new ones, and develop and deploy your code into real production situations and feel pride in seeing what you've built be used to make people's lives better.  You're not looking to be micromanaged; you're looking for a role where you're handed a problem and apply your skills and resourcefulness to solve it. You're eager to work in an environment where your decisions and work have a significant impact. You'll have access to a rich set of production data, a robust computing infrastructure, and you'll be building on an established foundation. If you've been longing for a role that allows you to develop your own machine-learning skills on an existing stable platform that already has machine-learning integrated into it, you'll find this position to be a perfect fit.</div><div><br></div><div><strong>Our Stack</strong></div><div>Python, Node.js, GraphQL, RabbitMQ, PostgreSQL, Prometheus, Opensearch, DynamoDB, Github, AWS, Kubernetes, CircleCI, Slack</div><div><br></div><div><strong>Roles and Responsibilities</strong></div><div><br></div><div>
+<strong>Maintain and Extend Services:</strong> Maintain and improve a set of microservices written in Python and NodeJS to ensure high reliability, scalability, and performance.</div><div><br></div><div>
+<strong>Data Management &amp; Model Development:</strong> Develop, create, and curate large datasets that will be used to train supervised machine learning models. Work on cleaning, processing, and verifying the integrity of data used for analysis. Train, evaluate, and fine-tune deep learning models using frameworks such as PyTorch.</div><div><br></div><div>
+<strong>Data Analytics:</strong> Analyze various aspects of the business to produce actionable insights and reporting that lead to increases in revenue, improved customer retention, or reduced operational costs.</div><div><br></div><div>
+<strong>AWS Management:</strong> Monitor and configure various AWS services such as S3 for storage, RDS for databases, Opensearch for search functionalities, and EKS for Kubernetes deployment to ensure smooth operations.</div><div>
+<br><br>
+</div><div><strong>Skills and Proficiencies</strong></div><div><br></div><div><strong>Essential Skills</strong></div><div><br></div><ul>
+<li>
+<strong>Basic Software Engineering:</strong> Must have experience with Git for version control, Continuous Integration pipelines for automated testing, Docker for containerization, and an understanding of service-based applications.</li>
+<li>
+<strong>Python:</strong> Proficiency in libraries such as PyTorch for deep learning, Jupyter for notebooks, NumPy for numerical operations, and Matplotlib for plotting and visualization.</li>
+<li>
+<strong>Database Management:</strong> Practical experience with PostgreSQL and an understanding of relational databases.</li>
+<li>
+<strong>Excellent communication skills</strong>: Must be fluent in English and possess strong written and verbal communication abilities.</li>
+<li>Strong analytical and problem-solving abilities: Curious, resourceful, and analytical.</li>
+</ul><div>
+<br><br>
+</div><div><strong>Preferred Skills</strong></div><div><br></div><ul>
+<li>Experience in machine learning and deep learning.</li>
+<li>Experience in configuring and monitoring AWS services.</li>
+<li>Familiarity with Node.js.</li>
+<li>Familiarity with GQL. </li>
+<li>Familiarity with RabbitMQ (or AMQP more generally) for messaging between services.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/waldo-photos-backend-platform-developer">https://weworkremotely.com/remote-jobs/waldo-photos-backend-platform-developer</a></p>
 
                 </details>
                 </td>
@@ -408,7 +451,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/zipline-ui-designer-developer" align="right" target="_blank">Apply</a>
@@ -497,6 +540,123 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/2406/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>XM</h5>
+                    <h3> Senior Java Developers – Cyprus, Greece or Remote</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>31 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/xm-senior-java-developers-cyprus-greece-or-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0124/2406/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Cyprus
+    <br /><strong>URL:</strong> <a href="https://xm.com">https://xm.com</a>
+</p>
+
+<div>
+<strong>The Role: <br></strong><br>
+</div><div>We are looking for experienced Java Developers with a passion for pushing technologies to the limits and who will work with our team of talented engineers to develop XM’s enterprise suite of trading applications.</div><div>
+<strong> <br></strong><br>
+</div><div>
+<strong>The main responsibilities of the position include:<br></strong><br>
+</div><ul>
+<li>Build advanced back end applications on the Java platform</li>
+<li>Follow test-driven development, continuous integration and agile methodologies</li>
+<li>Review the code of other developers</li>
+<li>Monitor and improve application reliability, and optimize performance</li>
+<li>Run unit testing and automation testing</li>
+<li>Contribute to system design and architecture</li>
+<li>Present ideas for system improvements</li>
+</ul><div> </div><div>
+<strong>Main requirements:<br></strong><br>
+</div><ul>
+<li>BSc/MSc in computer science, engineering, or any other relevant degree</li>
+<li>At least 5 years of work experience in Java development</li>
+<li>Solid understanding of the full development life cycle</li>
+<li>Very good knowledge of programming best practises and design patterns</li>
+<li>Good understanding of algorithmic complexity, data structures and multi-threading concepts</li>
+<li>Knowledge of REST API and web services implementation concepts</li>
+<li>A keen interest in benchmarking and optimisation</li>
+<li>Passion for back end applications</li>
+<li>Strong teamworking skills and interest in personal development</li>
+</ul><div> </div><div>
+<strong>The following will be considered an advantage:</strong><br><br>
+</div><ul>
+<li>Knowledge of Oracle &amp; MySQL </li>
+<li>Knowledge of AWS Cloud Services </li>
+<li>Work portfolio of open-source projects and technical blogs</li>
+</ul><div> </div><div> </div><div> </div><div>
+<strong>Benefit from:<br></strong><br>
+</div><ul>
+<li>Attractive remuneration package</li>
+<li>Food allowance </li>
+<li>Intellectually stimulating work environment</li>
+<li>Continuous personal development and international training opportunities</li>
+<li>Attractive relocation package and support for a smooth relocation for you and your family</li>
+</ul><div> </div><div>Type of employment: Full time<br><br>
+</div><div>Location: Cyprus, Greece or Remote<br><br>
+</div><div>Please visit our website http://tiny.cc/vd9bvz to submit your online application for this position.</div><div> </div><div>
+<strong>All applications will be treated with strict confidentiality!</strong> </div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-senior-java-developers-cyprus-greece-or-remote">https://weworkremotely.com/remote-jobs/xm-senior-java-developers-cyprus-greece-or-remote</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/2398/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Tactiq Tech</h5>
+                    <h3> Lead Python Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>32 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/tactiq-tech-lead-python-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0124/2398/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Richmond, VA 
+    <br /><strong>URL:</strong> <a href="https://www.tactiqtech.com/">https://www.tactiqtech.com/</a>
+</p>
+
+<div>
+<em>Please note: We have multiple openings. Please do not hesitate to reach out to us again!<br></em><br>
+</div><h1><strong>Lead Backend Engineer </strong></h1><div>
+<br><strong>Join us!<br></strong>Join <strong>Tactiq</strong>, the growing eLogistics leader keeping food on local shelves across the US. Our team is building SaaS solutions to everyday out-of-stock and invoicing problems faced by America's largest retailers. Our developers deliver native mobile apps and web applications backed by cloud agnostic APIs that enable you to buy the food you love from over 30,000 of the stores you trust.<br><br><em>Time zones:  We are recruiting only within UTC  to UTC -7 because we value collaboration and working sane hours!<br></em><br><strong>Position:<br></strong>The Lead Backend Engineer will lead the design and development of a large scale public API suite. Their responsibilities include architecture and software design, all aspects of development, and team leadership. The Lead Backend Engineer will organize the activities of up to four Backend Engineers. They will have a leadership role in a remote-first scrum team with individuals in five countries in Europe and the Americas.<br><br><strong>Responsibilities:<br></strong>- Own the system architecture and lead the coding<br>- Help develop timelines and priorities<br>- Mentor a team of platform developers. Delegate responsibilities.<br>- Collaborate with frontend, QA, DevOps, mobile and product teams and a scrum master to get to market rapidly and with quality!<br><br><strong>Qualifications:<br></strong>- Strong Python skills<br>- Experience with Linux, Postgres, and AWS-centric development.<br>- Past use of OpenAPI, DynamoDB, Lamba, SQS, Angular, Terraform or CloudFormation would be great.<br>- Excellent communication skills and a head for problem solving<br>- A degree in Computer Science is preferred, but we are open-minded<br><br><em>All qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status. EOE</em>
+</div><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tactiq-tech-lead-python-developer">https://weworkremotely.com/remote-jobs/tactiq-tech-lead-python-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -507,7 +667,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>94 days ago</text>
+                <text>100 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2" align="right" target="_blank">Apply</a>
@@ -550,63 +710,67 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>XM</h5>
-                    <h3> Senior PHP Web Developers– Cyprus, Greece or Remote</h3>
+                    <h5>A.Team</h5>
+                    <h3> Senior Independent Software Developer ($110-$190/hr)</h3>
                 </td>
                 <td width="300">
-                    <code>Back-End Programming</code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>94 days ago</text>
+                <text>813 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
+                <img src="https://we-work-remotely.imgix.net/logos/0066/7400/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Cyprus, Greece or Remote
-    <br /><strong>URL:</strong> <a href="https://xm.com">https://xm.com</a>
+  <strong>Headquarters:</strong> NYC, SF, and TLV
+    <br /><strong>URL:</strong> <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a>
 </p>
 
 <div>
-<strong>Reference Number: SPHPWD1021<br></strong><br>
-</div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>The role:<br></strong><br>
-</div><div>As our new Senior PHP Developer, you will join an amazing team who is dedicated to taking the next step in software engineering. You will make key decisions on software processes, and use Kubernetes and Terraform on PHP, Go, React &amp; Angular on AWS. The team will keep you up-to-date with the latest technology stacks and processes and help you see challenging projects from beginning to end.<br><br>
-</div><div> <br><br>
-</div><div>
-<strong>The main responsibilities of the role include:<br></strong><br>
-</div><div>●        Design and implement new features/projects</div><div>●        Maintain and refactor existing web applications such as the company's website, registration forms, Members Area and internal web services</div><div>●        Research and integrate new web technologies</div><div>●        Write tests that will run on a continuous integration server 24/7 to ensure code testability, code coverage and quality conforms to the company’s highest standards</div><div>●        Resolve support tickets for IT related issues</div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>Main requirements:<br></strong><br>
-</div><div>●        BSc/MSc in information technology or any other relevant degree</div><div>●        At least 3 years of experience in a similar position</div><div>●        Very good knowledge of PHP 7+, MySQL, Redis, Git</div><div>●        Very good understanding of object-oriented programming principles</div><div>●        Experience in creating and consuming web services</div><div>●        Experience with modern PHP frameworks</div><div>●        Experience in writing tests with PHPUnit</div><div>●        Ability to research and adapt new web technologies that add value to the team</div><div>●        Strong organisational skills with the ability to multitask and prioritise</div><div>●        Problem solving and analytical skills</div><div>●        Ability to work independently and integrate well within a team</div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>The following will be considered an advantage:<br></strong><br>
-</div><div>●        Experience in Symfony framework</div><div>●        Experience in the development of REST APIs</div><div>●        Experience in software development practices like design patterns, SOLID principles, DRY</div><div>●        Very good understanding of security practices (OWASP)</div><div>●        Experience with cloud providers (e.g. AWS)</div><div>●        Experience in database query optimization</div><div>●        Experience in creating composer packages</div><div>●        Experience in front-end frameworks or libraries like Angular or React</div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>Benefit from:<br></strong><br>
-</div><div>●        Attractive remuneration package </div><div>●        Private health insurance</div><div>●        Food allowance</div><div>●        Intellectually stimulating work environment</div><div>●        Continuous personal development and international training opportunities</div><div> </div><div>
-<br>Type of employment: Full time<br><br>
-</div><div>
-<br>Location: Cyprus, Greece or Remote <br><br>
-</div><div>
-<br> <br><br>
-</div><div>Please visit our website <a href="http://www.xm.com/careers">www.xm.com/careers</a> to submit your online application for this position. </div><div> </div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div>
+<a href="https://build.a.team/wwrfastrackreferral">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. <br><br>After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.<br><br>As part of A·Team, you can expect:</div><ul>
+<li>
+<strong>High-paying, meaningful missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
+<li>
+<strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
+<li>
+<strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
+<li>
+<strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
+<li>
+<strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
+</ul><div>
+<br><strong>How to apply:<br></strong>Go here: <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a> + mention WWR under how you heard about A·Team. No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.<br><strong><br>What you’ll do:</strong>
+</div><ul>
+<li>Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would.</li>
+<li>Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </li>
+<li>You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is for:</strong>
+</div><ul>
+<li>Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy.</li>
+<li>Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</li>
+<li>The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing.</li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is </strong><strong><em>not</em></strong><strong> for:</strong>
+</div><ul>
+<li>People looking for small gigs.</li>
+<li>Folks looking to build simple wordpress/wix/squarespace-style websites.</li>
+<li>Those still early in their careers and recent university/bootcamp grads (at least not yet).</li>
+</ul><div>
+<br><strong>Our long-term vision:<br></strong><a href="https://build.a.team/wwrfastrackreferral">A·Team</a> is a new type of company for a new kind of independent software builders. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </div><div>
+<br>To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2">https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-2</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr</a></p>
 
                 </details>
                 </td>
@@ -622,7 +786,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -683,7 +847,8 @@
 <p>Compensation may vary based on factors such as experience, 
 qualifications, skills test performance, geographic location, and 
 seniority of the position offered. Outside of California, New York, 
-Washington, and Colorado compensation may fall outside the above ranges.</p><img src="https://remotive.com/job/track/1680495/blank.gif?source=public_api" alt=""/>
+Washington, and Colorado compensation may fall outside the above ranges.</p>
+<img src="https://remotive.com/job/track/1680495/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -698,7 +863,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p><img
                     <code>CSS,docker,frontend,graphql</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-developer-1801792" align="right" target="_blank">Apply</a>
@@ -707,7 +872,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p><img
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); ">This posting is for a Frontend Developer, you would work alongside our team. We are a fully remote team so it does not matter which country or time zone you are in, as long as you are available from 10 AM to 1 PM (EST). We are NOT looking for part-time work, contractors, software development companies or consultants, so please only apply if you're looking for a full-time position.</p><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); ">Projects you'll be working on:</p><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); ">We're focused on enhancing our UI and UX, as well as streamlining operations and improving our technical foundation. As a core member of the Front-End team, you will influence how we build individual features, take ownership of end to end product quality that will help make our app/website reliable We want you to focus on high-quality code and know that quality is more than just unit tests and code coverage. You would look for opportunities to automate, always package up reusable code, be constantly learning, ready to pick up new technologies, patterns, and paradigms.</p><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); ">COOL TECH</p><ul style=""><li style="">Chatbots </li><li style="">Computer vision </li><li style="">Data visualization </li><li style="">Machine learning </li><li style="">Natural language processing </li><li style="">Video processing/conferencing</li></ul><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); "><br></p><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); ">Being a Frontend engineer you will need strong logical skills but also understand design patterns and ability to predict edge cases for handling different issues. You will be working with our lead designer but a good understanding of UI and UX would be needed.</p><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); ">Requirements Front-end developer position (required tech):</p><ul style=""><li style="">Profound knowledge of JavaScript</li><li style="">TypeScript</li><li style="">Next.js</li><li style="">Practical and recent experience with React.js</li><li style="">Experience communicating with RESTful services</li><li style="">Experience with testing (e.g. Jest)</li><li style="">Experience with bundling of JavaScript code (e.g. Webpack)</li><li style="">Have deep knowledge in CSS, preprocessors (e.g. Sass)</li><li style="">GraphQL</li></ul><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); "><br></p><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); ">Bonus skills:</p><ul style=""><li style="">Docker</li><li style="">Ramda</li></ul><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); "><br></p><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); ">Whatever else you decide - we're constantly re-evaluating our stack and tools Having prior experience with the technologies is a plus, but not mandatory for skilled candidates.</p><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); ">PS: Please add your Github account link to your application, as it will make the evaluation process easier and more robust.</p>
+                <p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px;"><font color="#050c26"><strong>**(All applications will be considered ONLY through Wellfound. Please do not contact any employee of the company as no such contact/connection will be considered as an application for the job.)**</strong></font></p><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); ">This posting is for a Frontend Developer, you would work alongside our team. We are a fully remote team so it does not matter which country or time zone you are in, as long as you are available from 10 AM to 1 PM (EST). We are NOT looking for part-time work, contractors, software development companies or consultants, so please only apply if you're looking for a full-time position.</p><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); ">Projects you'll be working on:</p><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); ">We're focused on enhancing our UI and UX, as well as streamlining operations and improving our technical foundation. As a core member of the Front-End team, you will influence how we build individual features, take ownership of end to end product quality that will help make our app/website reliable We want you to focus on high-quality code and know that quality is more than just unit tests and code coverage. You would look for opportunities to automate, always package up reusable code, be constantly learning, ready to pick up new technologies, patterns, and paradigms.</p><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); ">COOL TECH</p><ul style=""><li style="">Chatbots </li><li style="">Computer vision </li><li style="">Data visualization </li><li style="">Machine learning </li><li style="">Natural language processing </li><li style="">Video processing/conferencing</li></ul><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); "><br></p><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); ">Being a Frontend engineer you will need strong logical skills but also understand design patterns and ability to predict edge cases for handling different issues. You will be working with our lead designer but a good understanding of UI and UX would be needed.</p><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); ">Requirements Front-end developer position (required tech):</p><ul style=""><li style="">Profound knowledge of JavaScript</li><li style="">TypeScript</li><li style="">Next.js</li><li style="">Practical and recent experience with React.js</li><li style="">Experience communicating with RESTful services</li><li style="">Experience with testing (e.g. Jest)</li><li style="">Experience with bundling of JavaScript code (e.g. Webpack)</li><li style="">Have deep knowledge in CSS, preprocessors (e.g. Sass)</li><li style="">GraphQL</li></ul><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); "><br></p><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); ">Bonus skills:</p><ul style=""><li style="">Docker</li><li style="">Ramda</li></ul><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); "><br></p><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); ">Whatever else you decide - we're constantly re-evaluating our stack and tools Having prior experience with the technologies is a plus, but not mandatory for skilled candidates.</p><p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(5, 12, 38); ">PS: Please add your Github account link to your application, as it will make the evaluation process easier and more robust.</p>
 <img src="https://remotive.com/job/track/1801792/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
@@ -723,7 +888,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p><img
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -786,76 +951,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p><img
 <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a new type of company for a new kind of independent software builder. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </span></p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</span></p>
 <img src="https://remotive.com/job/track/814298/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1783538/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>ofri Internet GmbH</h5>
-                    <h3>Full Stack RoR Developer (Mid-Level)</h3>
-                </td>
-                <td width="300">
-                    <code>backend,docker,frontend,fullstack</code>
-                </td>
-                <td width="200">
-                <text>32 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/full-stack-ror-developer-mid-level-1783538" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Hi there!</p>
-<p>We run ofri, the most awesome platform in Switzerland to find and compare craftspeople for your remodelling projects. We were a fully-remote company, even before it was cool.</p>
-<p>Our team consists of former Sound Engineers, Biologists, Car Mechanics, Stockbrokers and Carpenters. We even have some outcasts who studied Business Administration.</p>
-<div class="h2">Tasks</div>
-<p>We’re looking for a solid, battle-tested engineer with a pioneer spirit who will work in a small product team and have a high impact on the technical side of the product.</p>
-<p>You will ideally have at least 3-5 years of experience and be a person with strong ownership and self-initiative. We need someone who will push things forward, does code reviews and contributes to the team in terms of code quality and processes.</p>
-<div class="h2">Requirements</div>
-<p><strong>Our Stack</strong></p>
-<p><strong>Backend</strong></p>
-<ul style="">
-<li style="">Ruby 3.2, Rails 7</li>
-<li style="">MySQL 8</li>
-<li style="">Hybrid infrastructure approach-ubuntu lts + some docker containers (whole thing configured via Ansible-it’s almost maintenance free at this point so devops skills not required)</li>
-<li style="">Redis + some redisearch</li>
-</ul>
-<p><strong>Frontend</strong></p>
-<ul style="">
-<li style="">Webpacker</li>
-<li style="">Bootstrap 4, stimulus js, jquery, some react (is most complex UI-wise section),semantic-ui on the support panel, typescript</li>
-</ul>
-<p><strong>Flow</strong></p>
-<ul style="">
-<li style="">Github pull requests and code reviews, 2 different deployment environments</li>
-<li style="">We heavily rely on CI&amp;CD (CircleCI) and test whole stack-we do both unit and feature specs (over 85% C0 coverage) and have bunch of linters hooked-in (rubocop+ eslint + brakeman + bundle audit + stylelint + some more)</li>
-<li style="">At the moment we’re using Trello and working in a kanban style-we meet every week for dev &amp; company-wide calls</li>
-</ul>
-<p><strong>Analytics</strong></p>
-<ul style="">
-<li style="">Sentry, AppSignal, PostHog, RudderStack, Google Analytics, Matomo, Metabase</li>
-</ul>
-<div class="h2">Benefits</div>
-<p><strong>We offer</strong></p>
-<ul style="">
-<li style="">100% remote job.</li>
-<li style="">Flexible working hours – We believe in a good work-life balance.</li>
-<li style="">Laptop and hardware, Home-office setup budget, Educational budget.</li>
-<li style="">Company retreats when possible.</li>
-<li style="">Bi-weekly colleague online coffee chats.</li>
-<li style="">Fun and friendly remote work environment with a motivated, helpful, and international team where we don’t take ourselves too seriously and support each other.</li>
-<li style="">You can contribute and take responsibility from day one - your opinion matters!</li>
-</ul>
-<p><strong>More about us</strong></p>
-<p>We are a Swiss company that operates fully remotely.</p>
-<p>We’re not a software house so you won’t be doing rails new every 2 months, but on the other hand, your work will have a tremendous impact and you will have a chance to see what works and what doesn’t over a longer period of time-iterate, refactor and learn from your mistakes and decisions. You will also have the chance to see a codebase that survived ~10 years and lead to having a profitable and growing business.</p>
-<p>We are super passionate about developing an excellent remote work culture and ensuring that not only the customers, but the team feels heard, welcome, and appreciated. We are currently 9 people and a fully self-funded company.</p>
-<p>We value especially self-initiative, ownership, open communication, commitment as well as level-headedness. We welcome people into our team regardless of gender, ethnic origin, religion, age, sexual identity or disability. Please only apply if you share our values as a cultural fit is an essential requirement for this role.</p>
-<img src="https://remotive.com/job/track/1783538/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1160,19 +1255,13 @@ Washington, and Colorado compensation may fall outside the above ranges.</p><img
 <p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
 
     <div id="external-jobs-show-description" class="external-panel__trix-content external-panel__trix-content--colored external-panel__trix-content--lead-in">
 <div data-react-class="external/careersPage/RenderPlyrVideo" data-react-props="{&quot;htmlString&quot;:&quot;\u003cdiv\u003e\n\u003cbr\u003eThe project \u0026amp; role&nbsp;\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eStatus is an organisation that seeks to accelerate consumer adoption of the web3 ecosystem forward through products, research, the creation of developer tools, and support of the open source community. Our core product is an Ethereum blockchain based app for mobile and desktop platforms that enables communities to permissionlessly create 100% decentralized group chat spaces, and allows users to message, make payments and browse and transact on the decentralized web.&nbsp; Status also builds foundational infrastructure for the Ethereum ecosystem as a whole including the Nimbus Ethereum client, the Keycard hardware wallet, and the Waku messaging protocol which is a continuation of Whisper.&nbsp; Everything Status creates is built in the open and released under permissive open source licenses.\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eWe're a fully remote team made up of ~100 core contributors and a growing number of community members scattered around the globe. We care deeply about open source software, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.&nbsp;\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eAfter a pause during which the Status team focused on our mobile application, the development of Status Desktop was restarted in 2020 with a clean sheet QT / QML UI codebase.&nbsp;\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003eStatus Desktop is currently in beta for Mac, Windows and Linux platforms.&nbsp; Current product focus is on the privacy-centric messenger and group chat functionality, and we’ve just kicked off development of our new ‘multi-chain from the ground up’ crypto Wallet.&nbsp; ÐApp browser and blockchain node functionality will follow next. Status desktop is currently built using \u003ca href=\&quot;https://nim-lang.org/\&quot;\u003eNim\u003c/a\u003e \u0026amp; QT for the frontend, and it shares a common backend with Status mobile that is written in Go.&nbsp; We are currently in the middle of a large refactor of our architecture.&nbsp; This refactor includes transitioning the QT front end from Nim to C++, moving all business logic to our status-go backend, and upgrading from QT5.14.2 to QT6.2.&nbsp; As we work in the open and are fully open source you can get a better idea of who we are and the work we are doing by browsing our \u003ca href=\&quot;https://hackmd.io/@status-desktop/main/%2FwAbKqYTdR_-FWLZZouSxsg\&quot;\u003eteam wiki here\u003c/a\u003e and taking a look at our \u003ca href=\&quot;https://github.com/status-im/status-desktop\&quot;\u003eStatus Desktop\u003c/a\u003e, \u003ca href=\&quot;https://github.com/status-im/statusQ\&quot;\u003eStatus Desktop QML component library\u003c/a\u003e and \u003ca href=\&quot;https://github.com/status-im/status-go\&quot;\u003eStatus Desktop and Mobile Go backend\u003c/a\u003e GitHub repos.&nbsp; You can find more information about our desktop effort in this \u003ca href=\&quot;https://our.status.im/status-desktop-why-and-what/\&quot;\u003eblog post\u003c/a\u003e.&nbsp;\u003cbr\u003e\u003cbr\u003eStatus is looking for multiple senior experienced C++/QML UI devs to join our growing desktop dev team and to work with us to create a permissionless, decentralized, censorship proof group chat platform. Role responsibilities include developing new features, creating and enhancing components in our QML UI toolkit component library, advising and assisting other members of the desktop dev team with solving challenging QML UI development problems, and perhaps working on the Go backend if this is something you would enjoy.&nbsp; As a team we try to match task assignment with the individual interests and passions of our team members, so there is a high degree of flexibility with regards to what you would be working on.&nbsp; If you are a passionate C++/QML expert who knows all the ins and outs of C++ and QT/QML UI development this could be an ideal role for you.\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eThe desktop team is spread between Europe and North America with crossover work hours being the European timezone afternoon on Monday, Wednesday and Friday. Ideally you will be located in a timezone between UTC -5 and UTC +3 e.g. anywhere in-between Panama and Moscow.&nbsp; Work is async using Status, Google Meet and Github, typically in Scrum Sprints.\u003c/div\u003e\u003cdiv\u003e\n\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e&quot;}" data-react-cache-id="external/careersPage/RenderPlyrVideo-0">
 <div>
-<div><strong>About Status</strong></div>
-<div>&nbsp;</div>
-<div>Status is an organisation that seeks to accelerate consumer adoption of the web3 ecosystem forward through products, research, the creation of developer tools, and support of the open source community. Our core product is an Ethereum blockchain based app for mobile and desktop platforms that enables communities to permissionlessly create 100% decentralized group chat spaces, and allows users to message, make payments and browse and transact on the decentralized web.&nbsp; Status also builds foundational infrastructure for the Ethereum ecosystem as a whole including the Nimbus Ethereum client, the Keycard hardware wallet, and the Waku messaging protocol which is a continuation of Whisper.&nbsp; Everything Status creates is built in the open and released under permissive open source licenses.</div>
-<div>&nbsp;</div>
-<div>We're a fully remote team made up of ~100 core contributors and a growing number of community members scattered around the globe. We care deeply about open source software, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.&nbsp;</div>
-<div>&nbsp;</div>
-<div>After a pause during which the Status team focused on our mobile application, the development of Status Desktop was restarted in 2020 with a clean sheet QT / QML UI codebase.&nbsp;<br><br></div>
+<div><strong>The role</strong><br><br></div>
 <div>Status Desktop is currently in beta for Mac, Windows and Linux platforms.&nbsp; Current product focus is on the privacy-centric messenger and group chat functionality, and we’ve just kicked off development of our new ‘multi-chain from the ground up’ crypto Wallet.&nbsp; ÐApp browser and blockchain node functionality will follow next. Status desktop is currently built using&nbsp;<a href="https://nim-lang.org/">Nim</a>&nbsp;&amp; QT for the frontend, and it shares a common backend with Status mobile that is written in Go.&nbsp; We are currently in the middle of a large refactor of our architecture.&nbsp; This refactor includes transitioning the QT front end from Nim to C++, moving all business logic to our status-go backend, and upgrading from QT5.14.2 to QT6.2.&nbsp; As we work in the open and are fully open source you can get a better idea of who we are and the work we are doing by browsing our&nbsp;<a href="https://hackmd.io/@status-desktop/main/%2FwAbKqYTdR_-FWLZZouSxsg">team wiki here</a>&nbsp;and taking a look at our&nbsp;<a href="https://github.com/status-im/status-desktop">Status Desktop</a>,&nbsp;<a href="https://github.com/status-im/statusQ">Status Desktop QML component library</a>&nbsp;and&nbsp;<a href="https://github.com/status-im/status-go">Status Desktop and Mobile Go backend</a>&nbsp;GitHub repos.&nbsp; You can find more information about our desktop effort in this&nbsp;<a href="https://our.status.im/status-desktop-why-and-what/">blog post</a>.&nbsp;<br><br>Status is looking for multiple senior experienced C++/QML UI devs to join our growing desktop dev team and to work with us to create a permissionless, decentralized, censorship proof group chat platform. Role responsibilities include developing new features, creating and enhancing components in our QML UI toolkit component library, advising and assisting other members of the desktop dev team with solving challenging QML UI development problems, and perhaps working on the Go backend if this is something you would enjoy.&nbsp; As a team we try to match task assignment with the individual interests and passions of our team members, so there is a high degree of flexibility with regards to what you would be working on.&nbsp; If you are a passionate C++/QML expert who knows all the ins and outs of C++ and QT/QML UI development this could be an ideal role for you.</div>
 <div>&nbsp;</div>
 <div>The desktop team is spread between Europe and North America with crossover work hours being the European timezone afternoon on Monday, Wednesday and Friday. Ideally you will be located in a timezone between UTC -8 and UTC +3 e.g. anywhere in-between Panama and Moscow.&nbsp; Work is async using Status, Google Meet and Github, typically in Scrum Sprints.</div>
@@ -1269,7 +1358,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p><img
 <p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
 
     <div class="careers-block__trix external-panel text-left">
@@ -1309,6 +1398,87 @@ Washington, and Colorado compensation may fall outside the above ranges.</p><img
 
     
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Developer Relations Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
+<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
+<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
+<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
+<h2>What your day will look like</h2>
+<p>In a typical day, a developer relations engineer might:</p>
+<ul>
+<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
+<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
+<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
+<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
+<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
+<li>work on technical articles, presentations or workshops&nbsp;</li>
+<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
+<li>present at conferences, meetups or technical events</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<p>A strong candidate</p>
+<ul>
+<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
+<li>has worked with real-world challenges developing and deploying software using Linux</li>
+<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
+<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
+<li>has been a contributor to open-source communities, software and documentation</li>
+<li>is an engaging, vivacious speaker and presenter</li>
+<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
+<li>builds trust, relationships and confidence</li>
+<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
+</ul>
+<h2>Additional skills that you might also bring</h2>
+<ul>
+<li>previous experience in a developer advocacy or community role</li>
+<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
+</ul>
+
+<h2>What we offer you</h2>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote&nbsp;</p>
+
+<p><br><br></p><p>Requisition ID: 1114</p><p></p>
+    
                 </details>
                 </td>
             </tr>,<tr>
@@ -1391,87 +1561,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p><img
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote</p>
 <h2><br><br></h2><p>Requisition ID: 799</p><p></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Developer Relations Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
-<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
-<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
-<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
-<h2>What your day will look like</h2>
-<p>In a typical day, a developer relations engineer might:</p>
-<ul>
-<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
-<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
-<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
-<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
-<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
-<li>work on technical articles, presentations or workshops&nbsp;</li>
-<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
-<li>present at conferences, meetups or technical events</li>
-</ul>
-<h2>What we are looking for in you</h2>
-<p>A strong candidate</p>
-<ul>
-<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
-<li>has worked with real-world challenges developing and deploying software using Linux</li>
-<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
-<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
-<li>has been a contributor to open-source communities, software and documentation</li>
-<li>is an engaging, vivacious speaker and presenter</li>
-<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
-<li>builds trust, relationships and confidence</li>
-<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
-</ul>
-<h2>Additional skills that you might also bring</h2>
-<ul>
-<li>previous experience in a developer advocacy or community role</li>
-<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
-</ul>
-
-<h2>What we offer you</h2>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote&nbsp;</p>
-
-<p><br><br></p><p>Requisition ID: 1114</p><p></p>
     
                 </details>
                 </td>
@@ -1725,6 +1814,30 @@ Washington, and Colorado compensation may fall outside the above ranges.</p><img
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div>Collabora is looking for a passionate and enthusiastic open-source software developer, with good knowledge of at least one of OpenGL or Vulkan, to join our ever growing geographically-distributed Graphics domain team.</div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li>Good knowledge of at least one of the OpenGL or Vulkan APIs</li><li>Experience developing on Linux systems</li><li>Knowledge of open source development methodologies and relevant open source communities</li><li>Good English language skills (both verbal and written)&nbsp;</li><li>Ability to work and communicate in an online fully distributed environment </li></ul></ul></div></div><div class="section page-centered"><div><h3>Desirable Skills (The below are skills that to some degree will be useful at the start of your career within Collabora. Training and opportunities for development will be offered)</h3><ul class="posting-requirements plain-list"><ul><li>Experience profiling and optimizing application's use of the GPU</li><li>Experience with developing GPU compilers</li><li>Direct contributions to the Mesa 3D Graphics Library</li><li>Experience leading teams to understand and define constraints, requirements and solutions</li><li>Good communication with customers and upstream communities</li><li>Self-learning skills to get sufficient knowledge of Collabora's services,&nbsp;business model, project delivery life cycle and other related technical domains</li><div><br></div></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Collabora's Graphics team contributes to the entire Linux Graphics stack, from the Linux kernel up to the display servers, including but not  limited to GPU and display kernel drivers, Wayland/Weston, OpenGL, Vulkan and other open-source graphics drivers within the Mesa 3D Graphics Library for different customers’ projects in various market verticals.</div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/bd4a9eb8-528f-4553-a832-ca6949ab46bd/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>PHP Security Developer/Researcher Remote - work anywhere</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/5AD6475DB5" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Imunify360 Security Suite is a product of CloudLinux Inc., the maker of the #1 OS in security and stability for hosting providers. Imunify is an innovative security solution designed specifically for shared and VPS/Dedicated servers. The automated, easy-to-use solution with the six-layer approach to security delivers comprehensive and complete attack prevention.</p><p>As our PHP Security Developer/Researcher, you'll be joining our dedicated research team which delivers an important part of our product: security patches. The Research team is directly responsible for analyzing vulnerabilities/threats and fix them.</p><p>As a security Developer/Researcher, you play a critical role in the organization. You will have full autonomy and responsibility in analyzing new threats (security vulnerabilities and malware) and resolving them for our customers. You will also be responsible for increasing our coverage of supported PHP applications and plugins.</p><p>Your work directly impacts the safety and workings of millions of websites around the world, so attention to detail and a high quality work standard are extremely important skills that we’re looking for. </p><p>As our PHP Security Developer/Researcher, you will;<br></p><ul> <li>Analyze new security vulnerabilities in open source PHP applications (such as WordPress, Joomla and Drupal) and backport upstream patches to fix those vulnerabilities in earlier versions.</li> <li>Design, build and deploy new features for our internal tooling to automate our workflows.</li> <li>Research and analyze new trends in exploitation techniques, malware approaches, etc. and develop strategies to mitigate them.</li> <li>Expand coverage of supported applications and plugins.</li> </ul><h3>Requirements: </h3><p>To be successful you should have;</p><ul> <li>Advanced proficiency with PHP scripting language; </li> <li>Several years of relevant work experience as a Software Tester Engineer or similar role.</li> <li>Understanding and knowledge of security vulnerabilities in web applications is a plus.</li> <li>Fluent English speaker.</li> <li>You have a true passion for the security field.</li> <li>Self-driven work ethic. You love taking initiative and seeing things through to completion.</li> <li>Passion for continuous learning. </li> </ul><h3>Benefits: </h3><p>What's in it for you?<br></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> </ul> <ul><li>Interesting and challenging projects</li></ul> </li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
                 </details>
                 </td>
             </tr>,<tr>
