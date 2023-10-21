@@ -1,93 +1,81 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0125/3420/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>DuckDuckGo</h5>
-                    <h3>
-            Senior Software Engineer, Windows Desktop App (Remote)
-          </h3>
+                    <h5>Magic Inc.</h5>
+                    <h3> Software Engineer</h3>
                 </td>
                 <td width="300">
-                    <code></code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://duckduckgo.recruitee.com/o/senior-software-engineer-windows-desktop-app-remote" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/magic-inc-software-engineer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-            <p>Hi, we’re DuckDuckGo, the Internet privacy company for everyone who wants to take back their privacy now. For over a decade, we've been building our all-in-one product, developing new privacy technology, and working with policymakers to make online privacy simple and accessible for all.  </p>
-<p><br></p>
-<p>Our app is now downloaded more than 78M times a year, and our private search engine packaged with it has become the #2 search engine on mobile in the United States and 18 other countries, including the United Kingdom, Canada, Australia, Germany, and the Netherlands. Oh, and we've been profitable since 2014, with revenue exceeding $100 million a year! Now, we’re rolling out a suite of new privacy solutions, including <u><a target="_blank" rel="noopener" href="https://www.spreadprivacy.com/introducing-email-protection-beta/">Email Protection</a></u>,  <u><a target="_blank" rel="noopener" href="https://spreadprivacy.com/introducing-app-tracking-protection/">App Tracking Protection</a></u> and our first-ever Desktop Apps for <u><a target="_blank" rel="noopener" href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/">Mac</a></u><a target="_blank" rel="noopener" href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/"> </a>and <u><a target="_blank" rel="noopener" href="https://spreadprivacy.com/windows-browser-open-beta/">Windows</a></u>.</p>
-<p><br></p>
-<p>We’re looking for a <strong><strong>Senior Software Engineer, Windows Desktop App</strong></strong> to help shape our all-in-one privacy solution and join our mission to show the world that protecting your privacy online can be simple.  </p>
-<p><br></p>
-<p><strong>The Opportunity</strong> </p>
-<p>In this role, you will work on the team responsible for launching our first ever DuckDuckGo Privacy App for Windows. You'll collaborate with Product Managers, Designers, and Engineers across Native Apps to craft a world-class browser with embedded privacy features that will revolutionize the way people search, surf, and exist online. </p>
-<p><br></p>
-<p>You will be critical to the successful launch of this product and responsible for taking pieces of the puzzle and autonomously building solutions to get us closer to our first release. You will help define the roadmap, take ownership of significant application features and experiment with ways to improve them. </p>
-<p><br></p>
-<p>You will lay the foundations of what will become one of DuckDuckGo's flagship products and critical levers for growing privacy online. </p>
-<p><br></p>
-<p><strong>What You Will Bring to DuckDuckGo</strong> </p>
-<ul>
-<li>Experience implementing ideas from scratch, owning major application features, and taking responsibility for their maintenance and improvement over time.</li>
-<li>Experience participating in technical architecture decisions for complex products, essentially shaping the software architecture of a consumer product.</li>
-<li>Experience building at least one desktop application (ideally with WPF, UWP, WinUI, WinForms, or other relevant .NET UI).</li>
-<li>An advanced level of programming expertise, with knowledge of C#. We currently use .NET 6.</li>
-<li>A significant level of experience in building customer facing applications, including crafting user interfaces.<br>
-</li>
-<li>Deep understanding of software design patterns such as MVVM, MVP, etc.</li>
-<li>Event-driven programming (e.g., using Rx.NET) experience is considered an advantage.</li>
+                <img src="https://we-work-remotely.imgix.net/logos/0125/3420/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Magic Inc.
+    <br /><strong>URL:</strong> <a href="http://www.getmagic.com">http://www.getmagic.com</a>
+</p>
+
+<div><strong>Why this role exists</strong></div><div>
+<br>We're the Engineering Team at Magic, a company that provides virtual assistants, matched and managed for our clients with the software we build.</div><div>
+<br>Our tech stack is JavaScript, React, Next.js, AWS Lambda, and PostgreSQL.</div><div>
+<br>Our company came out of Y Combinator in 2015 with strong venture-backed funding with over $17MM raised to date and a round led by Sequoia Capital. We've got one team of 5 engineers plus a project manager, a product team, and a designer. We plan to add a second team within 6 months so you can grow and learn as either an individual contributor or a team lead.</div><div>
+<br>Knowledge transfer and learning are core values, so we expect you to contribute to mentoring, code reviews, pair programming, and tech exploration, while striving to improve our agile software development process.</div><div><strong><br>The basics:</strong></div><ul>
+<li>Fully remote across Asia and US time zones (we have no physical office and are staying 100% remote even when the pandemic ends)</li>
+<li>Our engineers self-manage, working async at any time they wish</li>
+<li>Require only a few meetings for scrum coordination or pairing</li>
+<li>Encourage work time contributed to open source or civic engagement projects Build a strong learning culture around mentorship, pairing, blogging, exploratory projects, in-house talks, and outside conferences</li>
+<li>Actively explore and adopt new tech (for example, moving from frameworks to HTML-standard web components)</li>
+</ul><div><strong>The impact you'll make:</strong></div><ul>
+<li>Conduct in-depth research on emerging machine learning technologies and provide insights and recommendations to the organization.</li>
+<li>Use AI technologies and APIs to drive business growth and improve operational efficiency through automation and other means..</li>
+<li>Implement software solutions and conduct code reviews.</li>
+<li>Collaborate with cross-functional teams to identify areas where AI can be leveraged to drive innovation and growth.</li>
+<li>Develop and implement best practices for AI development and deployment.</li>
+<li>Apply GPT, GPT-type technology</li>
+</ul><div><strong>Within 1 month, you'll:</strong></div><ul>
+<li>Complete onboarding and get familiar with our tools and process.</li>
+<li>Get to know the team.</li>
+<li>Work with colleagues to release small features and bug fixes.</li>
+</ul><div><strong>Within 3 months, you'll:</strong></div><ul><li>Be responsible for releasing features to production on a rapid agile cadence</li></ul><div><strong>Within 6 months, you'll:</strong></div><ul>
+<li>Take ownership and lead a technical project;</li>
+<li>Or, become an expert on a specific technology or product domain.</li>
+<li>Help to set direction for the AI Engineering team.</li>
+</ul><div><strong>Within 12 months, you'll:</strong></div><ul>
+<li>Architect larger systems.</li>
+<li>Help to bring on new team members and level up existing team members.</li>
+</ul><div><strong>Our Hiring Process</strong></div><div>
+<br>You choose how to interview! We know different people have different desires for the interviewing process. Here's a menu of ways we can get to know you.</div><div>
+<br>We aim to spend less than 3 hours of your time in interviews and assessments, and we’ll get back to you promptly with a written offer to join the team immediately after your final interview. We realize your time is valuable.</div><div><strong><br>Stage 1</strong></div><div>
+<br>Initial 30-minute discussion with our in-house tech recruiter. Ask her your deal-breaker questions and she'll tell you why you might want to work for our company.</div><div><strong><br>Stage 2</strong></div><div>
+<br>Talk to the Technical Project Manager for a "culture fit" interview. You can schedule a 1-hour interview to find out what it's like working on our engineering team and give us the chance to get to know your style as well.</div><div><strong><br>Stage 3</strong></div><div>
+<br>We want to see how you solve a tech problem. The best way for us to assess your technical proficiency is with a simulated code review. We'll give you a pull request from a small JavaScript application. Perform a code review and explain how you could improve the code (a one-hour live call with a senior engineer).</div><div><strong><br>Stage 4</strong></div><div>
+<br>30-minute interview with our Head of Engineering to discuss our expectations for job success and your expectations for job growth.</div><div>
+<br>If you're interested in this job, take the next step and set up a call with our in-house tech recruiter.</div><div>
+<br>We look forward to meeting you! Get started now by using this link to schedule your initial interview: :<a href="https://calendly.com/ysai-lafrades/initial_discussion"> https://calendly.com/ysai-lafrades/initial_discussion</a><br><br><strong>Requirements<br></strong><br>
+</div><ul>
+<li>A bachelor's or master's degree in Computer Science, Electrical Engineering, or a related field.</li>
+<li>3+ years of experience working with AI products and deployment</li>
+<li>Background in working and interacting with existing AI APIs</li>
+<li>Extensive knowledge of machine learning algorithms and their applications.</li>
+<li>Strong programming skills (JavaScript - preferably React, Next, Node)</li>
+<li>Excellent communication skills and the ability to collaborate effectively with cross-functional teams.</li>
+<li>A passion for staying current with emerging AI technologies and trends.</li>
+<li><em>Nice to have: experience with AI libraries such as TensorFlow, PyTorch, and scikit-learn.</em></li>
 </ul>
-<p><br></p>
-<p><strong>How We Will Support You </strong> </p>
-<p>Our core values -- build trust, question assumptions, and validate direction -- underpin how we work day-to-day and the support we give our team members. We strive to empower our team members to be self-directed and self-motivated in their work.  </p>
-<p><br></p>
-<ul>
-<li>
-<strong>Remote First, Always</strong>: We've always been a fully distributed company with team members all over the world. We trust you to get your work done wherever, whenever.</li>
-<li>
-<strong>Commitment to Personal Growth:</strong> Every team member has an annual budget of $1,250 USD to invest in their professional development. Every team member also has a dedicated Career Advisor, who serves as a guide to help you develop your strengths, identify your motivations, and understand your opportunities for growth.</li>
-<li>
-<strong>Leadership:</strong> We have many different types of leaders and possible combinations of leadership roles, so you can grow your career in a way that aligns best with your personal goals. You can seek additional leadership roles by being directly responsible for projects, taking ownership of areas of the company, developing and maintaining internal processes, or pursuing advisory roles.</li>
-<li>
-<strong>Work/Life Balance: </strong>Team members have the freedom and flexibility to organize their own work schedules. We want you to thrive both in and out of the office. We trust you to use good judgment and take the time off that you need to bring your best self to work.  </li>
-</ul>
-<p><br></p>
-<p>We also offer <strong>paid parental leave, a co-working stipend, office setup reimbursement, </strong>and<strong> a wellness stipend.</strong> More support resources can be found in our, <u><a href="https://duckduckgo.com/assets/hiring/team_support_guide.pdf" rel="noopener">Team Member Support Guide</a></u>, which explains how we make your well-being a priority. </p>
-<p><br></p>
-<p>For more information on how we collaborate worldwide, from leadership in our relatively flat organization to start-to-finish ownership, check out <u><a href="https://duckduckgo.com/assets/hiring/how_we_work.pdf" rel="noopener">DuckDuckGo Culture: How We Work.</a></u> </p>
-<p><br></p>
-<p><strong>Compensation</strong> </p>
-<p>Annual compensation: <strong>$176,000</strong>&nbsp;<strong>USD</strong> and stock options.&nbsp;Compensation is the same within a professional level, regardless of geographic location or functional area, and the compensation for each professional level is transparent across the organization.</p>
-<p><br></p>
-<p><strong>Hiring Process</strong> </p>
-<p>Hiring works best when it's a two-way street. Learn how we help you get to know DuckDuckGo and envision your future role here. Find out more about <u><a href="https://duckduckgo.com/assets/hiring/how_we_hire.pdf" rel="noopener">how we hire</a></u>. </p>
-<p><br></p>
-<p><strong>Diversity, Equity, and Inclusion</strong> </p>
-<p>DuckDuckGo provides equal work opportunities to all team members and applicants<u>,</u> and it prohibits discrimination and harassment of any type&nbsp;on the basis of race, color, ethnicity, caste, religion, age, sex (including pregnancy), national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by our policies or federal, state, or local laws.</p>
-<p><br></p>
-<p>We want to ensure that our hiring process is accessible. If you need reasonable accommodation for any part of the application process because of a medical condition or disability, please send an email to <u><a rel="noopener">careers@duckduckgo.com</a></u> to let us know the nature of your request.  </p>
-<p><br></p>
-<p>If you think you might thrive in this environment, we would love to hear from you. </p>
-<p><br></p>
-<p><strong>Please note that:</strong> </p>
-<ul>
-<li><p>Sometimes we meet up! Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.</p></li>
-<li>While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week. </li>
-<li>A successful candidate will be subject to a background check and must receive satisfactory results of the same, as a condition of joining the team. </li>
-<li>By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.</li>
-</ul>
-<p><br></p>
-<p>#US #UK #SP #PL #IR #IC #HN #CR #CN #AU<br></p>
-          
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/magic-inc-software-engineer">https://weworkremotely.com/remote-jobs/magic-inc-software-engineer</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -224,7 +212,7 @@
 <p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
 
     <p><strong>The Role</strong></p>
@@ -303,7 +291,7 @@
 <p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
 
     <div class="careers-block__trix external-panel text-left">
@@ -388,7 +376,7 @@
 <p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
 
     <div class="careers-block__trix external-panel text-left">
@@ -437,89 +425,8 @@
 <p><strong>Compensation:</strong></p>
 </div>
 <p>We are happy to pay in any mix of fiat/crypto.</p>
-<p><strong>&nbsp;</strong></p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 </div>
-
-    
-
-    
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Status</h5>
-                    <h3>Software Engineer (Typescript)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=5041268&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 150+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <h4>JS-Waku:</h4>
-<p>We are building Waku as a public good infrastructure. Waku is the messaging layer of Web3. It is a decentralized, censorship-resistant, privacy-preserving communication network that enables anyone to send and receive messages without worrying about surveillance or deplatforming. We are developing 3 open source implementations of Waku: nwaku, go-waku and js-waku. JS-Waku is the TypeScript implementation used in browser and web environments.</p>
-<p>Our main repo is https://github.com/waku-org/js-waku</p>
-<p>We are enabling Ethereum builders to create new projects with a fully decentralized architecture, think dApp to Wallet notifications, NFT marketplaces, censorship-resistant chat, layer-2 and more.</p>
-<p>We are looking for Software Engineers that are into the Ethereum ecosystem, decentralization and developer experience and who would relish the opportunity to create a first class decentralized machine-to-machine messaging interface and toolkit and bring these new capabilities to Web3 developers!</p>
-<h4>You will:&nbsp;</h4>
-<ul>
-<li>Design, implement and document Waku TypeScript libraries</li>
-<li>Implement new protocols as defined by the Research Team</li>
-<li>Investigate and fix issues in js-waku and upstream libraries such as js-libp2p</li>
-<li>Liaise with the libp2p team to resolve web-only libp2p matters (WebRTC, etc)</li>
-<li>Optimize js-waku and upstream libraries for the browser</li>
-<li>Support dApp developers in using js-waku and Waku TypeScript libraries</li>
-</ul>
-<h4>Ideally, you:&nbsp;</h4>
-<ul>
-<li>Have experience building applications with complex logic, cutting edge technology or applied research</li>
-<li>Are already familiar with the Ethereum community</li>
-<li>Have the ability to learn new concepts and technologies quickly, you are a polyglot</li>
-<li>Have passion for blockchain and decentralized technologies and understand how they work</li>
-<li>Have good communication skills (written and conversational)</li>
-<li>Have a strong alignment to our principles: <a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a></li>
-</ul>
-<h4>Bonus points if you have experience:</h4>
-<ul>
-<li>In Web development (TypeScript, JavaScript, etc)</li>
-<li>With js-libp2p or other libp2p implementations</li>
-<li>With transport layer: websocket, WebRTC, WebTransport</li>
-<li>In Web3 or blockchain development</li>
-<li>Working for an open source organization</li>
-<li>Working remotely</li>
-</ul>
-<p>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</p>
-<h4>Compensation:</h4>
-<p>We are happy to pay in either 100% fiat or any mix of fiat and/or crypto.&nbsp;</p>
-<p><strong>Hiring process:</strong></p>
-<ol>
-<li>Introductory call with member of the Talent team</li>
-<li>Culture and Pair programming session with js-waku Developer</li>
-<li>Technical &amp; Culture Interview with Waku Lead</li>
-<li>Final interview with Logos Lead&nbsp;</li>
-</ol>
 
     
 
@@ -820,6 +727,102 @@
 <h3>Canonical is an equal opportunity employer</h3>
 <p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration</a>.</em></p>
 <p>#LI-Remote #stack</p><p>Requisition ID: 847</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Security Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/5146620" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>This is a general track for security-focused engineering in every team at Canonical, across all levels of seniority. Apply here if you are already an exceptional security-focused software engineer.</p>
+<p>Most product engineering teams at Canonical include one or two spaces for dedicated security-oriented software engineers. Their role is to challenge the entire team to think more deeply about security. They contribute to the product as engineers too, but their primary focus is to improve security through state of the art practices - from table-top threat model exercises to architecture reviews, from extended security testing with fuzzers and static analysis tools to external security analyst liaison.</p>
+<p>We also build a number of products that are entirely motivated by security technology and requirements, such as our AppArmor kernel investments and our hardening, compliance and certification toolkits for Ubuntu.</p>
+<p>As the publisher of Ubuntu we also handle long-term security response and hardening for the entire operating system and open source universe. Working with tens of thousands of upstreams means that we need to be fluent in every major programming language, and design, build and adopt sophisticated tools that enable us to work at scale and speed with confidence.</p>
+<p>These roles encompass all aspects of product security, including feature development, vulnerability response, proactive security and open source community participation. All security roles interact closely with many of the other Canonical engineering and development teams, Canonical customers and our partners across the open source community.</p>
+<p>Location: We have open roles for security specialist software engineers in every timezone.</p>
+<h2>What you'll do</h2>
+<p>Security roles might tackle any of the following:</p>
+<ul>
+<li>Define, implement and document new security features&nbsp;</li>
+<li>Lead security-oriented thinking in a product engineering team</li>
+<li>Analyze, fix, and test vulnerabilities in Canonical and open source Software</li>
+<li>Contribute to Ubuntu and upstream projects to benefit the community&nbsp;</li>
+<li>Audit and analyze source code for vulnerabilities&nbsp;</li>
+<li>Integrate new tools in our security infrastructure, pipelines and processes</li>
+<li>Achieve and retain various security certifications&nbsp;</li>
+<li>Extend and enhance Linux cryptographic components - specifically with modules such as OpenSSL/Libgcrypt - with the features and functionality required for country-specific compliance such as FIPS and CC certification&nbsp;</li>
+<li>Work with external partners to develop CIS benchmarks</li>
+<li>Design and develop hardening automation for Ubuntu&nbsp;</li>
+<li>Monitor the security industry for new developments&nbsp;</li>
+<li>Develop, test and maintain new software capabilities&nbsp;&nbsp;</li>
+<li>Provide guidance and support to other engineering teams</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<ul>
+<li>An exceptional academic track record from both high school and university</li>
+<li>Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path</li>
+<li>Drive and a track record of going above-and-beyond expectations</li>
+<li>A thorough understanding of the common categories of security vulnerabilities</li>
+<li>Modern engineering techniques to find and fix them&nbsp;</li>
+<li>Familiarity with open source development tools and methodologies&nbsp;</li>
+<li>Skill in one or more of C, Python, Go, Rust, Java, Ruby or PHP</li>
+<li>Experience as a security champion</li>
+<li>Experience driving security within a wider SDLC process&nbsp;</li>
+<li>Professional written and spoken English&nbsp;</li>
+<li>Experience with Linux (Debian or Ubuntu preferred)&nbsp;</li>
+<li>Excellent interpersonal skills, curiosity, flexibility, and accountability&nbsp;</li>
+<li>Passion, thoughtfulness, and self-motivation&nbsp;</li>
+<li>Excellent communication and presentation skills&nbsp;</li>
+<li>Result-oriented, with a personal drive to meet commitments&nbsp;</li>
+<li>Ability to travel twice a year, for company events up to two weeks each</li>
+</ul>
+<h2>Optional skills we also value</h2>
+<ul>
+<li>Clear and effective communication with the team and Ubuntu community members&nbsp;</li>
+<li>Experience working with Linux Kernel&nbsp;</li>
+<li>Security Certification experience and knowledge in FIPS and/or CC&nbsp;</li>
+<li>Experience with OVAL (Open Vulnerability Assessment Language)&nbsp;</li>
+<li>Knowledge of and familiarity with low-level Linux cryptography APIs&nbsp;</li>
+<li>Demonstrated high learning ability</li>
+<li>Performance engineering experience&nbsp;</li>
+</ul>
+<h2>What we offer you</h2>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues</li>
+<li>Priority Pass, and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote</p>
+<p><br><br></p><p>Requisition ID: 1086</p><p></p>
     
                 </details>
                 </td>
