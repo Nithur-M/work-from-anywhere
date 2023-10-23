@@ -1,5 +1,77 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8558/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>DesignFiles</h5>
+                    <h3> Full-Stack Ruby on Rails Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/designfiles-full-stack-ruby-on-rails-developer-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/8558/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Remote
+    <br /><strong>URL:</strong> <a href="https://designfiles.co">https://designfiles.co</a>
+</p>
+
+<div>
+<strong>At DesignFiles we're looking for a Full-Stack Ruby on Rails Developer to join our engineering team.<br></strong><br>
+</div><div><strong>About the Job:</strong></div><div>
+<br>DesignFiles is an interior design project management software company on a mission to help interior designers and home furnishing retailers take their design services and businesses to new heights. With 5,000+ customers and 20+ team members located all over the world, we're growing quickly and looking for our next driven and talented team member.<br><br>
+</div><div>We’re looking for a Full Stack Ruby on Rails Developer to join the company to drive product development from the ground level.<br><br>
+</div><div>
+<em>Please note: This is a contract role and we are looking for individuals (not agencies) that can commit 40+ hours a week to become a core member of our team.<br></em><br>
+</div><div>
+<br><strong>What You'll Do:</strong>
+</div><ul>
+<li>Write, review and improve Ruby and JavaScript code working in Unix environment.<br><br>
+</li>
+<li>Collaborate with our product team to bring features from conception to completion.<br><br>
+</li>
+<li>Develop features with an emphasis on consistency and integrity at all levels of the stack.<br><br>
+</li>
+<li>Improve DesignFiles' engineering culture with an eye for best practices, code quality and code reviews.<br><br>
+</li>
+<li>Actively contribute to the project with ideas and solutions to constantly improve the lives of our designers and their clients.<br><br>
+</li>
+<li>Participate in Sprint Planning, Retros, 1:1s<br><br>
+</li>
+</ul><div>
+<br><strong>What We Want From You:</strong>
+</div><ul>
+<li>5+ years experience as a full-stack developer.<br><br>
+</li>
+<li>3+ years of hands-on Ruby on Rails experience.<br><br>
+</li>
+<li>Strong experience with Ruby on Rails: rubocop, minitest-spec-rails, delayed job, paperclip, paranoia, etc.<br><br>
+</li>
+<li>Strong experience with modern JavaScript/CSS: Webpack, Gulp, eslint, prettier, BEM.<br><br>
+</li>
+<li>Solid knowledge of unix shell, PostgreSQL, Docker, Node.js, AWS S3.<br><br>
+</li>
+<li>Fluent English, good communication skills and full presence during agreed work hours.<br><br>
+</li>
+<li>Taking responsibility for testing own code, thinking through the edge cases and ability to work productively without close supervision.</li>
+</ul><div><br></div><div>Sounds interesting? Apply here &gt;&gt; https://designfiles.homerun.co/full-stack-ruby-on-rails-developer</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/designfiles-full-stack-ruby-on-rails-developer-2">https://weworkremotely.com/remote-jobs/designfiles-full-stack-ruby-on-rails-developer-2</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/2990/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +82,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/onthegosystems-senior-ror-react-developer" align="right" target="_blank">Apply</a>
@@ -71,7 +143,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/prospect-java-developer-backend" align="right" target="_blank">Apply</a>
@@ -173,7 +245,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/eventmobi-senior-front-end-developer-remote" align="right" target="_blank">Apply</a>
@@ -244,67 +316,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/8587/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Flare</h5>
-                    <h3> Expert-level React/Redux Frontend Javascript Developer</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/flare-expert-level-react-redux-frontend-javascript-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0124/8587/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> London, United Kingdom
-    <br /><strong>URL:</strong> <a href="http://flare.africa">http://flare.africa</a>
-</p>
-
-<p>Flare is a tech startup building next-gen emergency response for the future. Named "the 911 of the Future" by Fast Company (<a href="https://www.fastcompany.com/company/flare" class="external">https://www.fastcompany.com/company/flare</a>), our 24-hour rescue.co Dispatch Centre provides life-saving services throughout Kenya and our platform powers emergency response for SOS and EMS applications.</p>
-<p><strong>---------------------------<br></strong></p>
-<p><strong>The platform</strong></p>
-<p>Over the last four years, we've built and deployed <strong>a lifesaving platform</strong> that has reduced response times by more than 80% and <strong>saved thousands of people from previously impossible situations</strong>. We are growing and looking for effective developers and product professionals to join our team. Today, the team is 40+ business &amp; ops specialists, software engineers, and emergency dispatchers distributed globally and operationally based in Nairobi and throughout Kenya. We are a goal-driven and results-oriented team focused on the continuous improvement of our technologies and rescue operations. </p>
-<p><strong>---------------------------</strong></p>
-<p><strong><strong>The Role<br></strong></strong>This Senior-level Frontend developer will build modern user interfaces for Emergency Responders who use the Flare  platform for mission-critical response, communication, and coordination. This role is part of a collaborative team of developers and engineers that work together towards a common goal. We're looking for somebody with significant React, Redux, Typescript and frontend architecture experience.</p>
-<p>This is a remote-first role, but you must be within the GMT to GMT+3 timezone range. </p>
-<p><br></p>
-<p><strong>---------------------------<br></strong></p>
-<p><strong>The main responsibilities include:</strong></p>
-<ul> <li>Launch new features scoped to improve the lifesaving and ops capacity of the platform.</li> <li>Develop and maintain the code powering the UI for mission-critical tools/services and rescue operations management.</li> <li>Contribute to development of API spec and improvement of existing services and applications.</li> <li>Take ownership on the implementation and translation of business requirements into quality software code, providing proper test coverage and relevant documentation where required.</li> <li>Dedicate required resources into increasing the overall quality of existing software.</li> <li>As a team player, work closely with a creative and technical team and participate to all the phases of the software development lifecycle — including brainstorming and planning sessions as well as daily briefings.</li> </ul>
-<p><strong>Requirements</strong></p>
-<p>As a senior frontend developer you are required to have the relevant experience and technical background to develop high quality, modern web applications using React, Redux, Typescript, Javascript, and other relevant frontend frameworks.<br> <br>You understand code architecture best practices, look to streamline and build scalable code.</p>
-<p>You are a self motivated person who likes to constantly build and improve the codebases you work on.</p>
-<p>You have a proactive attitude; you know how to enhance beside the requirements and look long term.</p>
-<p>You are eager to discover what's the last new trend in the frontend world, as well you have the relevant background and experience in order to properly pick the right tools you need.<br></p>
-<p>You know how web applications are built, tested, and released today, including collaboration and architectural strategies.</p>
-<p><br></p>
-<p><strong>Technical and professional requirements:<br></strong></p>
-<ul> <li>Minimum of 6 years of senior ReactJS experience working on scaling enterprise platforms and libraries. </li> <li>Solid knowledge of vanilla Javascript and recent ECMAScript specifications.</li> <li>Strong in Redux usage and best practices.</li> <li>Solid knowledge of Typescript.</li> <li>Experience developing feature and data-rich real time platforms or SaaS products.</li> <li>Solid understanding and knowledge on CSS and extensions SCSS, LESS</li> <li>Understanding and familiarity with common frontend-oriented tools, bundlers.</li> <li>Some experience in NodeJS (preferred) and/or other server-oriented programming languages.</li> <li>Experience with CI/CD systems.</li> <li>Relevant experience using tools to develop well written software code, as well as the tools to identify issues and run performance measurements.</li> <li>Experience working in highly-collaborative teams/environments, releasing on live platforms requiring zero downtime and seamless deployments.</li> <li>Good planning, time-management, accurate task scheduling, and excellent communication skills are required.</li> </ul>
-<p><strong>Benefits</strong></p>
-<p>Lean and agile team of highly-skilled and experienced global tech talent.</p>
-<p>Mission-driven team &amp; work; chance to work on live and action-packed lifesaving platform.</p>
-<p>Full-time position.</p>
-<p>Fast paced, interesting and flexible work environment.</p>
-<p>Can be fully remote or partly remote, #LI-Remote</p>
-<p><br></p>
-<p><br></p>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/flare-expert-level-react-redux-frontend-javascript-developer">https://weworkremotely.com/remote-jobs/flare-expert-level-react-redux-frontend-javascript-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/5855/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -315,7 +326,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tech-guys-who-get-marketing-salesforce-com-developer-administrator" align="right" target="_blank">Apply</a>
@@ -393,7 +404,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/waldo-photos-backend-platform-developer" align="right" target="_blank">Apply</a>
@@ -451,7 +462,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/zipline-ui-designer-developer" align="right" target="_blank">Apply</a>
@@ -550,7 +561,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-java-developers-cyprus-greece-or-remote" align="right" target="_blank">Apply</a>
@@ -627,7 +638,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tactiq-tech-lead-python-developer" align="right" target="_blank">Apply</a>
@@ -657,59 +668,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>XM</h5>
-                    <h3> Modern C++ Software Developer – Remote</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>100 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Cyprus
-    <br /><strong>URL:</strong> <a href="https://bit.ly/3Yljr8s">https://bit.ly/3Yljr8s</a>
-</p>
-
-<div>
-<strong>Modern C++ Software Developer – Remote<br></strong><br>
-</div><div>
-<strong>Reference Number: CSD1022<br></strong><br>
-</div><div><br></div><div>
-<strong>The Role: <br></strong><br>
-</div><div>We are looking for a Modern C++ Software Developer to join our software development team.  You will be working on internal software related to trading financial products; monitoring tools; alerting and reporting. You will have the opportunity to offer your ideas, suggestions, and designs to help the team improve their quality of work. The team strives to write clean, decoupled, and testable code with a clear separation of components and responsibilities.<br><br>
-</div><div><br></div><div>
-<strong>The key responsibilities of the role include:<br></strong><br>
-</div><div>●       Develop standalone applications and plug-ins in C++ 17</div><div>●       Use libraries such as Boost.Asio for asynchronous TCP sockets</div><div>●       Write unit-tests, end-to-end tests and stress testing</div><div>●       Communicate with the team to identify business requirements</div><div>●       Understand business requirements and develop systems/features to meet them</div><div>●       Develop code in accordance with the system design and coding standards with minimal supervision</div><div>●       Review the code of associate developers<br><br>
-</div><div><strong> </strong></div><div><strong>Main requirements:</strong></div><div> </div><div>●       BSc/MSc in computer science, computer engineering or a related subject</div><div>●       Experience in any object-oriented language either in a professional environment or on personal projects</div><div>●       Strong knowledge and an active interest in object-oriented principles, practices and design patterns</div><div>●       Willingness to work with and learn modern C++, asynchronous programming and unit-testing</div><div>●       Excellent problem solving and troubleshooting skills</div><div>●       Knowledge of any of the following will be a plus: unit-testing, UML design,Boost.Asio, FIX protocol,         MetaTrader API, asynchronous programming, profiling</div><div>●       Outstanding communication and interpersonal skills, including the ability to describe software designs at all technical knowledge levels</div><div>●       Self-starter with a passion for coding, tinkering, reading, exploring and breaking things</div><div>●       Very good written and verbal skills in English<br><br>
-</div><div> </div><div>
-<strong>Benefit from:<br></strong><br>
-</div><div>●       Attractive remuneration package plus performance related reward</div><div>●       Intellectually stimulating work environment</div><div>●       Continuous personal development and international training opportunities<br><br>
-</div><div>
-<br>Type of employment: Full time<br><br>
-</div><div>
-<br>Location: Remote<br><br>
-</div><div>Please visit https://bit.ly/3Yljr8s to submit your online application for this position.<br><br>
-</div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2">https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -720,7 +678,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>813 days ago</text>
+                <text>815 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -786,7 +744,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -863,7 +821,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                     <code>CSS,docker,frontend,graphql</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-developer-1801792" align="right" target="_blank">Apply</a>
@@ -888,7 +846,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -951,30 +909,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a new type of company for a new kind of independent software builder. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </span></p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</span></p>
 <img src="https://remotive.com/job/track/814298/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1306325743580848130/mk0qvsZ9_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Kraken</h5>
-                    <h3>Lifecycle Campaign Developer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/kraken/51988622-2f16-4af8-be86-c77c85e99987" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Future of Crypto&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to <a href="https://blog.kraken.com/crypto-education/security-at-kraken" class="postings-link">industry-leading security</a>, <a href="https://blog.kraken.com/category/crypto-education" class="postings-link">crypto education</a>, and <a href="https://blog.kraken.com/crypto-education/support-at-kraken" class="postings-link">world-class client support</a> through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://futures.kraken.com/wallets" class="postings-link">Kraken Futures</a>.</div><div><br></div><div>Become a Krakenite and build the future of crypto!</div><div><br></div><div><b style="font-size: 24px">The Team</b></div><div><br></div><div>The Marketing Operations and Technology team supports the company’s growth and client engagement strategy by implementing tools and executing cross-channel communications in order to help our clients make the most of Kraken’s exchange ecosystem. We strive to serve our internal and external clients with best-in-class technology&nbsp; and marketing best practices, such as hyper-personalization and real-time, relevant messaging, towards flawless execution.</div><div><br></div><div>Kraken’s CRM Ops team is looking for a campaign developer/specialist who will build marketing campaigns in our client engagement tool. We need support to execute and automate lifecycle campaigns using our best-in-class marketing technology tools to build complex customer journeys and dynamic, personalized content to serve all of our client segments. Besides building lifecycle campaigns, this is a role that will support a fast-paced environment, supporting ad-hoc campaigns such as new asset launches. This role will report to our Director of Marketing Technology and Operations, and collaborate cross-functionally with lifecycle marketing, product marketing, product management, and client support teams.&nbsp;</div></div><div class="section page-centered"><div><h3>The Opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Build and deploy on messaging campaigns across email, push, and in-app (web/app) messages; as well as audience segments based on the business logic provided by requestors</li><li>Implement copy and creative tests, and provide design and copywriting input ad-hoc to optimize engagement &amp; conversion</li><li>Collaborate with internal partners for QA and approvals - sending test emails/push to requestors and coordinating with product teams in designing and QA-ing in-app messages</li><li>Attend team meetings to understand priorities and conduct campaign reviews with relevant stakeholders</li><li>Apply learnings from historical campaigns and help ideate on campaign testing roadmap for each customer journey towards optimization based on campaign and business KPIs</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>2-5 years of experience with ESP management required (Braze, Klaviyo, Iterable, etc.)</li><li>Intermediate knowledge of HTML/CSS coding</li><li>An understanding of performance metrics as well as business/marketing analytics</li><li>Strong organization and project management skills</li><li>Strong crypto conviction and familiarity with our product offerings</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="salary-range"><div>$82,000 - $134,000 a year</div><small><div>This is the target annual salary range for this role. This range is not inclusive of other additional compensation elements, such as our Bonus program, Equity program, Wellness allowance, and other benefits [US Only] (including medical, dental, vision and 401(k)).</div><div><br></div><div>The compensation range provided is influenced by various factors and represents the initial target range. Our salary offerings are dynamic and we strive to ensure that our base salary and total compensation package aligns and recognizes the top talent we aim to attract and retain. The compensation package of the successful candidate is based on various factors such as their skillset, experience, and job scope.</div></small></div><div class="section page-centered" data-qa="closing-description"><div>Location Tagging: #US #EU #Canada #LI-AG1</div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/51988622-2f16-4af8-be86-c77c85e99987/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1814,6 +1748,30 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div>Collabora is looking for a passionate and enthusiastic open-source software developer, with good knowledge of at least one of OpenGL or Vulkan, to join our ever growing geographically-distributed Graphics domain team.</div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li>Good knowledge of at least one of the OpenGL or Vulkan APIs</li><li>Experience developing on Linux systems</li><li>Knowledge of open source development methodologies and relevant open source communities</li><li>Good English language skills (both verbal and written)&nbsp;</li><li>Ability to work and communicate in an online fully distributed environment </li></ul></ul></div></div><div class="section page-centered"><div><h3>Desirable Skills (The below are skills that to some degree will be useful at the start of your career within Collabora. Training and opportunities for development will be offered)</h3><ul class="posting-requirements plain-list"><ul><li>Experience profiling and optimizing application's use of the GPU</li><li>Experience with developing GPU compilers</li><li>Direct contributions to the Mesa 3D Graphics Library</li><li>Experience leading teams to understand and define constraints, requirements and solutions</li><li>Good communication with customers and upstream communities</li><li>Self-learning skills to get sufficient knowledge of Collabora's services,&nbsp;business model, project delivery life cycle and other related technical domains</li><div><br></div></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Collabora's Graphics team contributes to the entire Linux Graphics stack, from the Linux kernel up to the display servers, including but not  limited to GPU and display kernel drivers, Wayland/Weston, OpenGL, Vulkan and other open-source graphics drivers within the Mesa 3D Graphics Library for different customers’ projects in various market verticals.</div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/bd4a9eb8-528f-4553-a832-ca6949ab46bd/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1545121577632763912/7FMnABb0_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Collabora</h5>
+                    <h3>Python Web Developer - Systems (Remote/Anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/collabora/7b5a45c0-9535-4aff-8553-3affbad5337f" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div>Collabora is looking for Web/Systems Software Developers of all levels of experience to join our in-house Systems Development team. The Systems Development team supports and develops the software tools used within the company to help deliver client projects and effectively run the business. The team is not client facing. Working in a friendly and highly cooperative environment with colleagues from every part of the company, you will help to deliver software involved in planning, business intelligence, communications, project management, security and accounting.</div><div><br></div><div>Our ecosystem includes (but is not limited to) Python/Django, MariaDB, Redis, GitLab, Grafana, SuiteCRM, Phabricator, Mattermost, OTRS, Chef, Docker and Kubernetes.</div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li>Strong Python  </li><li>Experience building for the web, especially using Django  </li><li>Understanding of typical open-source web architectures and stacks  </li><li>A respectful and pragmatic approach to providing technical support  </li><li>Some experience in PHP, JavaScript and Linux shell scripting  </li><li>Good English proficiency (both verbal and written)  </li><li>Ability to work in an online, globally distributed company  </li><li>A desire to work with open source communities</li></ul></ul></div></div><div class="section page-centered"><div><h3>Additional Skills for Senior Applicants</h3><ul class="posting-requirements plain-list"><ul><li>Experience writing well-tested code in business critical systems (e.g. finance)  </li><li>Familiarity with container-based working, e.g. Docker, Podman, Kubernetes  </li><li>Experience using, maintaining and designing CI  </li><li>Experience with database schema design and optimisation  </li><li>A solid grounding in Linux system and database administration and networking concepts  </li><li>A positive approach to designing and developing applications with a variety of stakeholders</li><li>Experience building and using existing web APIs in order to integrate systems  </li><li>Demonstrable technical writing skills (documentation, blogs)  </li><li>Skills in other modern languages (Go/Rust/Ruby) and frameworks such as Laravel, Rails  </li><li>Knowledge of security- and privacy-by-design principles  </li><li>A willingness to mentor more junior engineers</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Collabora is a software consultancy specializing in bringing companies and the Open Source community together. We combine years of Open Source software leadership with an understanding of the challenges that businesses, non-profits, and governments face. </div><div><br></div><div>Collabora brings deep technical expertise in system integration &amp; architecture, graphics, multimedia, web engines and communications to a number of market verticals, including mobile, IVI / automotive, set top box / smart TV, and a range of other specialized embedded applications.</div><div><br></div><div>Collabora has the unique business model of enabling enterprises to leverage Open Source software in their solutions. Having worked with notable industry leading companies in the automotive, aerospace and handset mobile verticals amongst many others, Collabora has established a broad customer portfolio</div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/7b5a45c0-9535-4aff-8553-3affbad5337f/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
