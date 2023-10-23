@@ -10,7 +10,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sketchdeck-hq-senior-full-stack-engineer" align="right" target="_blank">Apply</a>
@@ -44,94 +44,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sketchdeck-hq-senior-full-stack-engineer">https://weworkremotely.com/remote-jobs/sketchdeck-hq-senior-full-stack-engineer</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1806871/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Subspace Labs</h5>
-                    <h3>Product Engineer (Fullstack)</h3>
-                </td>
-                <td width="300">
-                    <code>api,backend,docker,fullstack</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/product-engineer-fullstack-1806871" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div>Subspace Labs is an early-stage, venture-backed startup with a remote-first, globally distributed team. To learn more, visit our <a class="postings-link" href="https://www.subspace.network/" rel="nofollow">website</a>, view our <a class="postings-link" href="https://subspacelabs.notion.site/Subspace-Labs-Team-Handbook-6806dc3dc33d4795869db79b061ab789" rel="nofollow">team handbook</a>, and read the <a class="postings-link" href="https://subspace.network/blog/subspace-network-whitepaper" rel="nofollow">technical whitepaper</a>.</div>
-<div> </div>
-<div>We are seeking a Senior Full-Stack JS/TS Developer to complement our product engineering team. Responsibilities include contributing to several user-facing apps (wallet, block explorer, desktop app), integrating with other blockchain networks and decentralized protocols, maintaining a developer SDK, and building decentralized apps that demonstrate the potential of the Subspace Network.</div>
-<p><br><br></p>
-<div class="h3">In this role, you will...</div>
-<ul style="">
-<li style=""><strong>Build </strong>user flows across both web and backend (React and Node).</li>
-</ul>
-<ul style="">
-<li style=""><strong>Integrate</strong> directly with other blockchain networks using native RPCs.</li>
-</ul>
-<ul style="">
-<li style=""><strong>Collaborate</strong> with Product, Design, and Engineering to define, prioritize, and build features for Web3 users.</li>
-</ul>
-<ul style="">
-<li style=""><strong>Drive </strong>detailed project definition and cross-functional alignment.</li>
-</ul>
-<ul style="">
-<li style=""><strong>Design </strong>and architect backend REST and/or GraphQL APIs.</li>
-</ul>
-<p><br><br></p>
-<div class="h3">Key Requirements:</div>
-<ul style="">
-<li style="">3+ years of experience building open-source code that is clean, maintainable, and well-tested, for production networks at scale</li>
-</ul>
-<ul style="">
-<li style="">2 + years of experience working with Typescript and Node.js</li>
-</ul>
-<ul style="">
-<li style="">2+ years of experience of experience with Ethers/Web3.js or Polkadot.js</li>
-</ul>
-<ul style="">
-<li style="">2+ years of experience working with React.js</li>
-</ul>
-<ul style="">
-<li style=""><a class="postings-link" href="http://React.jsE" rel="nofollow">E</a>xperience working with container technologies like Docker</li>
-</ul>
-<ul style="">
-<li style="">A passion for decentralized, peer-to-peer systems and Web3 technologies</li>
-</ul>
-<p><br><br></p>
-<div class="h3">Bonus Points:</div>
-<ul style="">
-<li style="">Experience with the Rust programming language</li>
-</ul>
-<ul style="">
-<li style="">Familiarity with Substrate and the Polkadot ecosystem</li>
-</ul>
-<ul style="">
-<li style="">Experience building developer SDKs and internal tools</li>
-</ul>
-<ul style="">
-<li style="">Experience writing smart contracts in Solidity or similar language</li>
-</ul>
-<ul style="">
-<li style="">Theoretical knowledge of blockchains and distributed systems</li>
-</ul>
-<div><strong>What We Offer</strong></div>
-<div> </div>
-<div>𐄁 The ability to work from anywhere in the world</div>
-<div>𐄁 A competitive salary with generous equity and token grants</div>
-<div>𐄁 Medical, dental, and vision insurance (US-based only)</div>
-<div>𐄁 A unique opportunity to shape the future of the internet</div>
-<div>𐄁 Team off-sites in various locations around the globe</div>
-<img src="https://remotive.com/job/track/1806871/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
