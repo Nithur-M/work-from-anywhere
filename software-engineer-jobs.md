@@ -1,5 +1,95 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>DuckDuckGo</h5>
+                    <h3>
+            Senior Software Engineer, Windows Desktop App (Remote)
+          </h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://duckduckgo.recruitee.com/o/senior-software-engineer-windows-desktop-app-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+            <p>Hi, we’re DuckDuckGo, the Internet privacy company for everyone who wants to take back their privacy now. For over a decade, we've been building our all-in-one product, developing new privacy technology, and working with policymakers to make online privacy simple and accessible for all.  </p>
+<p><br></p>
+<p>Our app is now downloaded more than 78M times a year, and our private search engine packaged with it has become the #2 search engine on mobile in the United States and 18 other countries, including the United Kingdom, Canada, Australia, Germany, and the Netherlands. Oh, and we've been profitable since 2014, with revenue exceeding $100 million a year! Now, we’re rolling out a suite of new privacy solutions, including <u><a target="_blank" rel="noopener" href="https://www.spreadprivacy.com/introducing-email-protection-beta/">Email Protection</a></u>,  <u><a target="_blank" rel="noopener" href="https://spreadprivacy.com/introducing-app-tracking-protection/">App Tracking Protection</a></u> and our first-ever Desktop Apps for <u><a target="_blank" rel="noopener" href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/">Mac</a></u><a target="_blank" rel="noopener" href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/"> </a>and <u><a target="_blank" rel="noopener" href="https://spreadprivacy.com/windows-browser-open-beta/">Windows</a></u>.</p>
+<p><br></p>
+<p>We’re looking for a <strong><strong>Senior Software Engineer, Windows Desktop App</strong></strong> to help shape our all-in-one privacy solution and join our mission to show the world that protecting your privacy online can be simple.  </p>
+<p><br></p>
+<p><strong>The Opportunity</strong> </p>
+<p>In this role, you will work on the team responsible for launching our first ever DuckDuckGo Privacy App for Windows. You'll collaborate with Product Managers, Designers, and Engineers across Native Apps to craft a world-class browser with embedded privacy features that will revolutionize the way people search, surf, and exist online. </p>
+<p><br></p>
+<p>You will be critical to the successful launch of this product and responsible for taking pieces of the puzzle and autonomously building solutions to get us closer to our first release. You will help define the roadmap, take ownership of significant application features and experiment with ways to improve them. </p>
+<p><br></p>
+<p>You will lay the foundations of what will become one of DuckDuckGo's flagship products and critical levers for growing privacy online. </p>
+<p><br></p>
+<p><strong>What You Will Bring to DuckDuckGo</strong> </p>
+<ul>
+<li>Experience implementing ideas from scratch, owning major application features, and taking responsibility for their maintenance and improvement over time.</li>
+<li>Experience participating in technical architecture decisions for complex products, essentially shaping the software architecture of a consumer product.</li>
+<li>Experience building at least one desktop application (ideally with WPF, UWP, WinUI, WinForms, or other relevant .NET UI).</li>
+<li>An advanced level of programming expertise, with knowledge of C#. We currently use .NET 6.</li>
+<li>A significant level of experience in building customer facing applications, including crafting user interfaces.<br>
+</li>
+<li>Deep understanding of software design patterns such as MVVM, MVP, etc.</li>
+<li>Event-driven programming (e.g., using Rx.NET) experience is considered an advantage.</li>
+</ul>
+<p><br></p>
+<p><strong>How We Will Support You </strong> </p>
+<p>Our core values -- build trust, question assumptions, and validate direction -- underpin how we work day-to-day and the support we give our team members. We strive to empower our team members to be self-directed and self-motivated in their work.  </p>
+<p><br></p>
+<ul>
+<li>
+<strong>Remote First, Always</strong>: We've always been a fully distributed company with team members all over the world. We trust you to get your work done wherever, whenever.</li>
+<li>
+<strong>Commitment to Personal Growth:</strong> Every team member has an annual budget of $1,250 USD to invest in their professional development. Every team member also has a dedicated Career Advisor, who serves as a guide to help you develop your strengths, identify your motivations, and understand your opportunities for growth.</li>
+<li>
+<strong>Leadership:</strong> We have many different types of leaders and possible combinations of leadership roles, so you can grow your career in a way that aligns best with your personal goals. You can seek additional leadership roles by being directly responsible for projects, taking ownership of areas of the company, developing and maintaining internal processes, or pursuing advisory roles.</li>
+<li>
+<strong>Work/Life Balance: </strong>Team members have the freedom and flexibility to organize their own work schedules. We want you to thrive both in and out of the office. We trust you to use good judgment and take the time off that you need to bring your best self to work.  </li>
+</ul>
+<p><br></p>
+<p>We also offer <strong>paid parental leave, a co-working stipend, office setup reimbursement, </strong>and<strong> a wellness stipend.</strong> More support resources can be found in our, <u><a href="https://duckduckgo.com/assets/hiring/team_support_guide.pdf" rel="noopener">Team Member Support Guide</a></u>, which explains how we make your well-being a priority. </p>
+<p><br></p>
+<p>For more information on how we collaborate worldwide, from leadership in our relatively flat organization to start-to-finish ownership, check out <u><a href="https://duckduckgo.com/assets/hiring/how_we_work.pdf" rel="noopener">DuckDuckGo Culture: How We Work.</a></u> </p>
+<p><br></p>
+<p><strong>Compensation</strong> </p>
+<p>Annual compensation: <strong>$176,000</strong>&nbsp;<strong>USD</strong> and stock options.&nbsp;Compensation is the same within a professional level, regardless of geographic location or functional area, and the compensation for each professional level is transparent across the organization.</p>
+<p><br></p>
+<p><strong>Hiring Process</strong> </p>
+<p>Hiring works best when it's a two-way street. Learn how we help you get to know DuckDuckGo and envision your future role here. Find out more about <u><a href="https://duckduckgo.com/assets/hiring/how_we_hire.pdf" rel="noopener">how we hire</a></u>. </p>
+<p><br></p>
+<p><strong>Diversity, Equity, and Inclusion</strong> </p>
+<p>DuckDuckGo provides equal work opportunities to all team members and applicants<u>,</u> and it prohibits discrimination and harassment of any type&nbsp;on the basis of race, color, ethnicity, caste, religion, age, sex (including pregnancy), national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by our policies or federal, state, or local laws.</p>
+<p><br></p>
+<p>We want to ensure that our hiring process is accessible. If you need reasonable accommodation for any part of the application process because of a medical condition or disability, please send an email to <u><a rel="noopener">careers@duckduckgo.com</a></u> to let us know the nature of your request.  </p>
+<p><br></p>
+<p>If you think you might thrive in this environment, we would love to hear from you. </p>
+<p><br></p>
+<p><strong>Please note that:</strong> </p>
+<ul>
+<li><p>Sometimes we meet up! Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.</p></li>
+<li>While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week. </li>
+<li>A successful candidate will be subject to a background check and must receive satisfactory results of the same, as a condition of joining the team. </li>
+<li>By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.</li>
+</ul>
+          
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1306325743580848130/mk0qvsZ9_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -44,6 +134,121 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Future of Crypto&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to <a href="https://blog.kraken.com/crypto-education/security-at-kraken" class="postings-link">industry-leading security</a>, <a href="https://blog.kraken.com/category/crypto-education" class="postings-link">crypto education</a>, and <a href="https://blog.kraken.com/crypto-education/support-at-kraken" class="postings-link">world-class client support</a> through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://futures.kraken.com/wallets" class="postings-link">Kraken Futures</a>.</div><div><br></div><div>Become a Krakenite and build the future of crypto!</div><div><br></div><div><b style="font-size: 24px">Proof of work</b></div><div><br></div><div><b style="font-size: 18px">The team</b></div><div><br></div><div>We are currently seeking an experienced Senior Software Engineer to join our growing Engineering team. In this role, you will be responsible for developing and maintaining both our Web and Mobile user interfaces using React and React Native, respectively. Your expertise in building scalable and high-performance applications will directly contribute to the success of our platform.</div></div><div class="section page-centered"><div><h3>The opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Design, develop, and maintain high-quality web and mobile applications using React and React Native</li><li>Collaborate with cross-functional teams, including Product, Design, and Backend Engineering, to ensure seamless integration of new features and improvements</li><li>Contribute to the architecture and design of our web and mobile applications</li><li>Identify, analyze, and resolve performance bottlenecks and inefficiencies in the codebase</li><li>Write and maintain comprehensive unit tests and documentation</li><li>Stay up-to-date with the latest industry trends and technologies to ensure our applications remain current and competitive</li><li>Mentor junior developers and participate in code reviews to maintain a high standard of code quality</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>Bachelor's degree in Computer Science or a related field, or equivalent experience</li><li>5+ years of experience in software development, with a focus on web and mobile applications</li><li>Deep understanding of JavaScript/TypeScript and proficiency with React and React Native frameworks</li><li>Experience with <a href="http://Next.js" class="postings-link">Next.js</a>, RESTful APIs and WebSockets</li><li>Experience with frontend testing frameworks</li><li>Familiarity with modern front-end build pipelines and tooling</li><li>Strong understanding of UI/UX best practices and principles</li><li>Excellent problem-solving skills, attention to detail, and ability to work independently and as part of a team</li><li>Strong written and verbal communication skills in English</li></ul></ul></div></div><div class="section page-centered"><div><h3>Nice to Haves</h3><ul class="posting-requirements plain-list"><ul><li>Knowledge of the cryptocurrency industry and blockchain technology</li><li>Familiarity with native mobile app development (iOS/Android)</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="salary-range"><div>$135,000 - $203,000 a year</div><small><div>This is the target annual salary range for this role. This range is not inclusive of other additional compensation elements, such as our Bonus program, Equity program, Wellness allowance, and other benefits [US Only] (including medical, dental, vision and 401(k)).</div><div><br></div><div>The compensation range provided is influenced by various factors and represents the initial target range. Our salary offerings are dynamic and we strive to ensure that our base salary and total compensation package aligns and recognizes the top talent we aim to attract and retain. The compensation package of the successful candidate is based on various factors such as their skillset, experience, and job scope.</div></small></div><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 15px">Location Tagging: </span>#US #EU #LI-LM1 #LI-Remote #Canada</div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/dce1dfa2-17e8-446f-95a2-ac83bee87df6/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1428393724527190022/4mt5PACL_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sourcegraph</h5>
+                    <h3>Software Engineer - Cody Strategy</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/sourcegraph91/jobs/5004011004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
+<h2><span style="color: #a112ff;">Who we are</span></h2>
+<p><span style="font-weight: 400;">Our mission at Sourcegraph is to make it so that </span><a href="https://handbook.sourcegraph.com/strategy-goals/strategy"><span style="font-weight: 400;">everyone can code</span></a><span style="font-weight: 400;">, not just ~0.1% of the population. Our code graph powers Cody, the most powerful and accurate code AI for writing, fixing, and maintaining code, as well as our Code Search product, helping devs explore their entire codebase and make large-scale migrations and security fixes. We’re building software that builds software, and in doing so we’re making devs more productive and growing the population of coders by giving anybody access to the deep knowledge base of a senior engineer through Cody and all of the context it brings. We’re preparing for a world with a lot more code than exists today, and that benefits us all.</span></p>
+<p><span style="font-weight: 400;">It’s an exciting time to join Sourcegraph. AI has taken over the world, and we’ve spent the last 10 years building infrastructure that’s integral to making AI generated code more powerful and accurate. Our customers include 4/5 FAANG companies, 4 of the top 10 banks, government organizations, Uber, Plaid, and many other companies building the software that pushes the world forward. We’ve raised $225M at a $2.625B valuation from </span><a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/"><span style="font-weight: 400;">Andreessen Horowitz</span></a><span style="font-weight: 400;">, </span><a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"><span style="font-weight: 400;">Sequoia</span></a><span style="font-weight: 400;">, </span><a href="https://www.redpoint.com/companies/sourcegraph/"><span style="font-weight: 400;">Redpoint</span></a><span style="font-weight: 400;">, </span><a href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d"><span style="font-weight: 400;">Craft</span></a><span style="font-weight: 400;"> and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</span></p></div>
+
+    <h2><span style="color: rgb(140, 51, 236);"><strong>Working hours</strong></span></h2>
+<p>🌎 Given that we are an all-remote company and hire <a href="https://handbook.sourcegraph.com/departments/people-ops/process/how-we-engage-talent-outside-the-us/">almost anywhere</a> in the world, we don’t have a location requirement for this role. However, this person will be needed to work 4pm to 10pm UTC Monday to Friday.</p>
+<h2><span style="color: rgb(140, 51, 236);"><strong>Why this job is exciting</strong></span></h2>
+<p>Cody is an AI coding assistant that lives in your editor that can find, explain, and write code. Cody uses LLMs and the Sourcegraph search engine and code graph, providing answers that eliminate toil and keep human programmers in flow. You can think of Cody as your programmer buddy who has read through all the code on GitHub, all the questions on StackOverflow, and all your organization’s private code, and is always there to answer questions you might have or suggest ways of doing something based on prior knowledge.</p>
+<p>The Cody Strategic team is aimed at turning the largest, most world-recognizable brands into Cody Champions. We do this by partnering with a small number of highly engaged <a href="https://handbook.sourcegraph.com/strategy-goals/strategy/#market-segmentation">strategic customers</a> to build product functionality that enables these customers to successfully deploy the most-loved coding assistant, but at massive scale. You will work closely with the ML Infrastructure team, all the Cody teams across Cody’s e2e service stack, and teams across Sourcegraph to bring the best-of-class coding assistant to your favorite big brands. The Strat team focuses on one or two projects at a time, delivers and scales them, and then works to hand them off to the other Cody teams so that it just becomes part of how Cody is operated. This is high-impact work and has the attention of the entire company. You will be supported by Eng, Design, Product, Legal and the go-to-market teams, and you are joining a team of very talented and experienced engineers who have already accomplished amazing things in a short time. They will be there to help you hit the ground running and guide your work.</p>
+<p>📅 Within one month, you will…</p>
+<ul>
+<li>Start building a trusting relationship with your peers, and learning the company structure.</li>
+<li>Be set up to do local development, and be actively prototyping.</li>
+<li>Ship a substantial new feature to end users.</li>
+</ul>
+<p>📅 Within three months, you will…</p>
+<ul>
+<li>Be seen as a subject matter expert in all things Cody at Sourcegraph.</li>
+<li>Be contributing actively to the world’s best coding assistant.</li>
+<li>Be following all the relevant research, and conducting research of your own.</li>
+</ul>
+<p>📅 Within six months, you will…</p>
+<ul>
+<li>Be fully ramped up and able to anticipate the needs of strategic customers.</li>
+<li>Be ramped up on other relevant parts of the Sourcegraph product.</li>
+<li>Be helping design and build what might become the biggest dev accelerator in 20 years.</li>
+</ul>
+<h2><span style="color: rgb(140, 51, 236);"><strong>About you</strong></span></h2>
+<p>You are a full-stack software engineer with at least 2 years of industry experience, equally comfortable with frontend and backend work as needed, with the ability to pick up frameworks quickly and deliver high-quality work. Ideally, you have worked directly with enterprise customers as a SaaS developer. Or perhaps you have worked with internal customers on large cross-functional projects. You should enjoy cross-functional, cross-company collaboration, since that is the bread and butter of the Cody Strat team.</p>
+<p>Our Strat customers are typically deployed with complex legacy configurations, and we often need to build bridges into those systems. Much of the Strat work is becoming ML-oriented in nature, as our investment in Cody AI increases and our Strat customers become early adopters. LLMs and their ecosystem are at the core of Cody’s architecture, so you ideally have prior experience working with LLM-based applications, and should be seeking to increase your knowledge of AI/ML as the space quickly evolves.</p>
+<p>Requirements:</p>
+<ul>
+<li>Comfortable with developing and deploying software and services on at least one major Cloud provider, with preference for experience with GCP, as most of your Cloud work will be on GCP.</li>
+<li>Comfortable with at least the basics of Docker, Kubernetes, Linux, and systems programming</li>
+<li>Experience with Go (minimum) and in an ideal world, TypeScript, Java, and various scripting languages</li>
+<li>You have used Cody and understand Cody’s current architecture, and you have your own opinions about the directions it could and should go next.</li>
+</ul>
+<p>Nice-to-haves: <em>(All optional, but each would enable you to have even higher impact.)</em></p>
+<ul>
+<li>Postgres. If you have very deep Postgres experience, you may be in luck.</li>
+<li>Node.js. Cody’s cross-client logic is largely in Node.js, and being able to contribute there is helpful.</li>
+<li>Understanding of the modern LLM ecosystem especially as it pertains to coding and AI assistants, including the basics of prompt engineering and retrieval-augmented generation (RAG) applications.</li>
+<li>Understanding of compiler construction, and experience working with tools that work with code. We have a code graph that is central to Cody’s operation, and you may be working with it at scale.</li>
+<li>Frontend programming with React. If you have this specialty, it’s often in demand on this team, e.g. for delivering new administrative workflows and user onboarding experiences.</li>
+<li>Rust. More and more of our code is being written in Rust, and you may need to fiddle with it at some point.</li>
+<li>Kotlin and Java Swing, since one of our flagship Cody clients is IntelliJ, and it is often in need of Enterprise-specific features to help close large deals.</li>
+<li>Plugin development with Neovim or Emacs. Our Strat customers come in all shapes and sizes.</li>
+</ul>
+<h2><span style="color: rgb(140, 51, 236);"><strong>Level</strong></span></h2>
+<p>📊 This job is an IC2.&nbsp; You can read more about <a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/leveling-guide/">our job leveling philosophy</a> in our Handbook.</p>
+<h2><span style="color: rgb(140, 51, 236);"><strong>Compensation</strong></span></h2>
+<p><strong>💸 We pay you an above-average salary</strong> because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. You will have the flexibility to work and live anywhere in the world<em> (unless specified otherwise in the job description)</em>, and we’ll never take your location or current/past salary information into account when determining your compensation.&nbsp; As an <a href="https://handbook.sourcegraph.com/company-info-and-process/values/#sts=Open%20and%20transparent">open and transparent </a>company that values equitable and competitive compensation for everyone, our <a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/">compensation ranges are visible</a> to every single Sourcegraph Teammate. To determine your salary, we use a number of market and data-driven salary sources and target the high-end of the range, ensuring that we’re always paying above market regardless of where you live in the world.&nbsp;&nbsp;</p>
+<p>💰The target compensation for this role is $141,500 USD base.</p>
+<p>📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous <a href="https://handbook.sourcegraph.com/benefits-pay-perks/benefits-perks/">perks &amp; benefits</a>.</p>
+<h2><span style="color: rgb(140, 51, 236);"><strong>Interview process</strong></span></h2>
+<p><em>Below is the interview process you can expect for this role (you can read more about </em><a href="https://handbook.sourcegraph.com/talent/types_of_interviews"><em>the types of interviews</em></a><em> in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&nbsp;</em></p>
+<p>We expect the interview process to take 5.5 hours in total.<br><br></p>
+<p><strong>👋 Introduction Stage</strong> - we have initial conversations to get to know you better…</p>
+<ul>
+<li>[30m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#recruiter-screen">Recruiter Screen</a>&nbsp;</li>
+<li>[60m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process_candidates/#technical-interview">Peer Technical Interview</a> / <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive">Resume Deep Dive</a></li>
+</ul>
+<p><strong>🧑‍💻 Team Interview Stage</strong> - we then delve into your experience in more depth and introduce you to members of the team…</p>
+<ul>
+<li>[60m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process_candidates/#code-walkthrough">Code Walkthrough</a></li>
+<li>[60m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process_candidates/#pairing-exercise">Pairing Exercise</a></li>
+<li>[30m] Stakeholders Interview</li>
+<li>[30m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#values-interview">Values Interview</a></li>
+</ul>
+<p><strong>🎉 Final Interview Stage </strong>- we move you to our final round, where you gain a better understanding of our business and values holistically…</p>
+<ul>
+<li>[60m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#hiring-manager-screen">Hiring Manager Interview</a></li>
+<li>[30m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#leadership-interview">Leadership Interview</a> with co-founder&nbsp;</li>
+<li>We check references and conduct your background check</li>
+</ul>
+<p>Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.</p>
+
+    
+
+    <div class="content-conclusion"><h2><span style="color: #a112ff;">Not sure if this is you?</span></h2>
+<p><span style="font-weight: 400;">We want a diverse, global team, with a broad range of experience and perspectives. If this job sounds great, but you’re not sure if you qualify, apply anyway! We carefully consider every application, and will either move forward with you, find another team that might be a better fit, keep in touch for future opportunities, or thank you for your time.</span></p>
+<h2><span style="color: #a112ff;">Learn more about us</span></h2>
+<p><span style="font-weight: 400;">To create a product that serves the needs of all developers, we are building a diverse </span><a href="https://handbook.sourcegraph.com/company-info-and-process/remote"><span style="font-weight: 400;">all-remote team</span></a><span style="font-weight: 400;"> that is </span><a href="https://handbook.sourcegraph.com/team"><span style="font-weight: 400;">distributed across the world</span></a><span style="font-weight: 400;">. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We provide </span><a href="https://about.sourcegraph.com/handbook/people-ops/compensation"><span style="font-weight: 400;">competitive compensation</span></a><span style="font-weight: 400;"> and </span><a href="https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks"><span style="font-weight: 400;">practical benefits</span></a><span style="font-weight: 400;"> to keep you happy and healthy so that you can do your best work.&nbsp;</span><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Learn more about what it is like to work at Sourcegraph by reading </span><a href="https://about.sourcegraph.com/handbook/"><span style="font-weight: 400;">our handbook</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process.</span></p>
+<p><span style="font-weight: 400;">Go back to the </span><a href="https://about.sourcegraph.com/jobs/"><span style="font-weight: 400;">careers page</span></a><span style="font-weight: 400;"> for all open positions.</span></p>
+<p>&nbsp;</p>
+<p><em><span style="font-weight: 400;">Sourcegraph participates in <a href="https://handbook.sourcegraph.com/departments/people-talent/e-verify/" target="_blank">E-Verify</a> for U.S. Employees</span></em></p></div>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -102,85 +307,6 @@
 <p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
 <p>Why Join MixRank? Fully-remote, no HQ office. Team of 32 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
 <p>Please include your updated resume when applying for this role.</p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Status</h5>
-                    <h3>Nim Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=2386730&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <p><strong>The Role</strong></p>
-<p><span style="font-weight: 400;">The Nimbus team is looking for a Senior Engineer who will take ownership of Developer Experience. Someone who enjoys researching new technologies and building products for the decentralized web while being in the midst of Open Source Libraries and P2P networks. This means writing cool products in Nim for Ethereum and Web3, crafting documentation and SDKs, plus representing the team at developer conferences and online events.</span></p>
-<p><a href="https://nimbus.team/"><span style="font-weight: 400;">Nimbus</span></a><span style="font-weight: 400;"> is a research team that focuses on developing an Ethereum client and library targeting both Ethereum and the upcoming, proof-of-stake-based ETH2. We believe that the largest deployment of Ethereum will potentially be on embedded systems, Nimbus will be designed to perform well on embedded, mobile and generally resource-restricted devices. The extensible, configurable, and modular design of Nimbus will make it production ready for Web 3.0 and will ensure that it can be supported and maintained across all goals of Ethereum 2.0.</span></p>
-<p><span style="font-weight: 400;">Building the stack from ground up, we’re translating the latest Ethereum 2.0 research into practical, performant and reusable libraries to provide fertile exploration ground for further R&amp;D. </span><a href="https://our.status.im/nimbus-update-september-11th/"><span style="font-weight: 400;">Check our latest update!</span></a></p>
-<h4><span style="font-weight: 400;"><strong>Responsibilities</strong>:</span></h4>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Lead the effort to create a powerful developer experience around Nimbus, both as a library and as a RPC backend.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Define and design APIs that allow block explorers, wallets and decentralized applications interact with Nimbus.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Respond to community needs &amp; requests, transforming them into concrete specifications and products or features.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Be the face of our developer community, represent Nimbus at conferences and online events.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Create powerful documentation and SDKs.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Support evangelizing Nimbus as the go-to ETH 2.0 client for mobile devices and embedded systems within the Open Source community.&nbsp;</span></li>
-</ul>
-<p><span style="font-weight: 400;"><strong>You will ideally have:</strong>&nbsp;</span></p>
-<p><em><span style="font-weight: 400;">[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role!]</span></em></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interest in open data, blockchain and decentralization.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">A strong alignment to our principles: </span><a href="https://status.im/about/#our-principles"><span style="font-weight: 400;">https://status.im/about/#our-principles</span></a></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">5+ years professional experience in software engineering</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with Rust or C/C++, and curiosity about dynamic languages.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Background in (embedded) systems programming, p2p technologies.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Familiarity with modern cryptography.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with APIs, SDKs and crafting documentation.&nbsp;</span></li>
-</ul>
-<p><strong>Bonus points:</strong></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience working for an open source organization.&nbsp;&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Ideally, you’ll have some Nim/Rust/C++ related GitHub projects to make it easier for us to evaluate your skills.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Basic knowledge of the lexing, parsing and semantic checking passes applicable to a compiler.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience with Nim.</span></li>
-</ul>
-<h4>Hiring process</h4>
-<ol>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Interview with our People Ops team.</span></li>
-<li><span style="font-weight: 400;">Technical Interview with team members from the Nimbus team.</span></li>
-<li><span style="font-weight: 400;">Technical Interview with hiring manager from the Nimbus team.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Final Meeting with Jacek, our Head of Research.&nbsp;</span></li>
-</ol>
-<p><span style="font-weight: 400;">The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline. We’re looking for you to join our team as soon as possible.</span><span style="font-weight: 400;">&nbsp;</span></p>
-<p><strong>Compensation</strong><span style="font-weight: 400;">:</span></p>
-<p><span style="font-weight: 400;">We are happy to pay salaries in either 100% fiat or any mix of fiat and/or crypto. For more information regarding benefits at Status: https://people-ops.status.im/tag/perks/</span></p>
-<p>&nbsp;</p>
-
-    
-
-    
 
                 </details>
                 </td>
