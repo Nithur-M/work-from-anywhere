@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>712 days ago</text>
+                <text>714 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -361,7 +361,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/remotecom/jobs/5679083003" align="right" target="_blank">Apply</a>
+                <a href="https://boards.greenhouse.io/remotecom/jobs/5781146003" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -460,7 +460,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/remotecom/jobs/5781146003" align="right" target="_blank">Apply</a>
+                <a href="https://boards.greenhouse.io/remotecom/jobs/5679083003" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
