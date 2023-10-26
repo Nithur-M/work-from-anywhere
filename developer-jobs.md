@@ -1,5 +1,52 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/8520/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>SEO Sherpa</h5>
+                    <h3> Web Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/seo-sherpa-web-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0124/8520/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Dubai, United Arab Emirates
+    <br /><strong>URL:</strong> <a href="https://seosherpa.com/careers/">https://seosherpa.com/careers/</a>
+</p>
+
+<div>We are looking for a talented full-stack web developer to join our team at SEO Sherpa. </div><div><br></div><div>In this role, you will be responsible for the planning and executing delivery of website improvements and updates. Your tasks could include executing everything from speed optimization to user experience improvements and custom tracking scripts to landing page builds. </div><div><br></div><div>You will integrate closely with the SEO and paid search teams by implementing performance recommendations on client’s websites. You shall skillfully deploy technical improvements and customizations on various content management systems, including but not limited to WordPress, Shopify, Magento, and custom builds.</div><div><br></div><div>In this position, you’ll keep close tabs on your clients’ website health by tracking and fixing issues as they arise. Your goal is to maintain optimum site health while delighting our clients (and their users) with superior functionality, UX, and performance and help drive more organic traffic and revenue growth.</div><div><br></div><div>You will be accountable to your portfolio of websites, with regular monitoring and maintenance to ensure superior performance and minimize errors and downtime.</div><div><br></div><div>Note - this position is remote, but it requires collaboration with other team members. Applicants residing in time zones of 4 hours +/- of Dubai (GST) will be considered for that purpose.</div><div><br></div><h1><strong>Requirements</strong></h1><div><br></div><div>We seek a skilled end-to-end web developer to drive website improvements and optimizations for our clients, including fast-growing startups and world-leading brands.</div><div><br></div><div>Is This Role Right For You?</div><div><br></div><div>If you answer “YES” to all these, we’ll be a great fit…</div><div><br></div><ul><li>You have a verifiable, proven track record of customizing, updating, and maintaining web-standard CMSs like WordPress, WooCommerce, Shopify, Magento, and others.</li></ul><div><br></div><ul><li>You have serious developer chops. You know your way around backend and frontend technologies and are experienced working with Javascript frontend frameworks/SPAs and other emerging technologies.</li></ul><div><br></div><ul><li>You have the knack for creating well-documented, reusable code for website improvements, custom theme development, plugin creation, and automation. </li></ul><div><br></div><ul><li>While you are a developer first, you take pride in keeping up with SEO fundamentals and trends. You enjoy reading up on industry blogs and sharing insights with team members.</li></ul><div><br></div><ul><li>You know how to get your point across. Whether you’re writing an email or Slack message to a teammate, or sharing your recommendations with a client, your communication style is always concise and effective</li></ul><div><br></div><ul><li>While your primary role is execution, you’re also eager to share strategic opinions and recommendations.</li></ul><div><br></div><ul><li>You possess superior problem-solving skills and can tackle complex problems and translate them into actionable solutions.</li></ul><div><br></div><ul><li>You approach your work with urgency, organize and prioritize your work, and meet deadlines without micromanagement.</li></ul><div><br></div><ul><li>You don’t just find problems, you find solutions! You anticipate hiccups and provide proactive solutions. You are always one step ahead.</li></ul><div><br></div><ul><li>SEO Sherpa operates in a rapid-paced environment, embracing the idea that change is the only constant. Keeping up is a breeze because you move at lightning speed.  </li></ul><div><br></div><div>A proven successful track record of having worked on improving and maintaining sites as small as a few hundred pages to sites as large as hundreds of thousands of URLs. Lastly, to fit in at SEO Sherpa, a fun-going attitude is not pleasant to have. It's a must.</div><div><br></div><div><br></div><h1><strong>Benefits</strong></h1><div><br></div><ul>
+<li>The opportunity to work with a talented team on an important mission.</li>
+<li>Above market salary + incentives.</li>
+<li>Unlimited (paid) personal time off for vacation, sick, and wellness days.</li>
+<li>Full-time, flexible hours, and the freedom to work from home (or anywhere else) within timezones of 4 hours +/- of Dubai.</li>
+<li>Radical transparency across business metrics and information (we call this "open for business").</li>
+<li>100% company-paid health insurance.</li>
+<li>When the company does well, so will you. 8-15% of the net profit gets shared amongst the team members you included.</li>
+<li>Regular training, professional workshops, and book purchases are covered by us.</li>
+<li>Team retreats and meet-ups that bring together our remote-first workforce.</li>
+<li>A fun work culture where we value your work and our client's business.</li>
+</ul><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/seo-sherpa-web-developer">https://weworkremotely.com/remote-jobs/seo-sherpa-web-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8558/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +57,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/designfiles-full-stack-ruby-on-rails-developer-2" align="right" target="_blank">Apply</a>
@@ -82,7 +129,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/prospect-java-developer-backend" align="right" target="_blank">Apply</a>
@@ -184,7 +231,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/eventmobi-senior-front-end-developer-remote" align="right" target="_blank">Apply</a>
@@ -255,7 +302,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/5855/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Tech Guys Who Get Marketing</h5>
@@ -265,7 +312,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tech-guys-who-get-marketing-salesforce-com-developer-administrator" align="right" target="_blank">Apply</a>
@@ -274,7 +321,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/5855/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
   <strong>Headquarters:</strong> Florida
@@ -333,64 +380,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/8560/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Waldo Photos</h5>
-                    <h3> Backend Platform Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>10 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/waldo-photos-backend-platform-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0124/8560/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Austin, TX
-    <br /><strong>URL:</strong> <a href="http://www.waldophotos.com">http://www.waldophotos.com</a>
-</p>
-
-<div><strong>Who We're Looking For</strong></div><div>We're in search of a unique kind of developer. You're already grounded in the fundamentals of software development and have taught yourself some machine learning or deep learning out of personal interest or curiosity. You're looking for the chance to apply your skills, learn new ones, and develop and deploy your code into real production situations and feel pride in seeing what you've built be used to make people's lives better.  You're not looking to be micromanaged; you're looking for a role where you're handed a problem and apply your skills and resourcefulness to solve it. You're eager to work in an environment where your decisions and work have a significant impact. You'll have access to a rich set of production data, a robust computing infrastructure, and you'll be building on an established foundation. If you've been longing for a role that allows you to develop your own machine-learning skills on an existing stable platform that already has machine-learning integrated into it, you'll find this position to be a perfect fit.</div><div><br></div><div><strong>Our Stack</strong></div><div>Python, Node.js, GraphQL, RabbitMQ, PostgreSQL, Prometheus, Opensearch, DynamoDB, Github, AWS, Kubernetes, CircleCI, Slack</div><div><br></div><div><strong>Roles and Responsibilities</strong></div><div><br></div><div>
-<strong>Maintain and Extend Services:</strong> Maintain and improve a set of microservices written in Python and NodeJS to ensure high reliability, scalability, and performance.</div><div><br></div><div>
-<strong>Data Management &amp; Model Development:</strong> Develop, create, and curate large datasets that will be used to train supervised machine learning models. Work on cleaning, processing, and verifying the integrity of data used for analysis. Train, evaluate, and fine-tune deep learning models using frameworks such as PyTorch.</div><div><br></div><div>
-<strong>Data Analytics:</strong> Analyze various aspects of the business to produce actionable insights and reporting that lead to increases in revenue, improved customer retention, or reduced operational costs.</div><div><br></div><div>
-<strong>AWS Management:</strong> Monitor and configure various AWS services such as S3 for storage, RDS for databases, Opensearch for search functionalities, and EKS for Kubernetes deployment to ensure smooth operations.</div><div>
-<br><br>
-</div><div><strong>Skills and Proficiencies</strong></div><div><br></div><div><strong>Essential Skills</strong></div><div><br></div><ul>
-<li>
-<strong>Basic Software Engineering:</strong> Must have experience with Git for version control, Continuous Integration pipelines for automated testing, Docker for containerization, and an understanding of service-based applications.</li>
-<li>
-<strong>Python:</strong> Proficiency in libraries such as PyTorch for deep learning, Jupyter for notebooks, NumPy for numerical operations, and Matplotlib for plotting and visualization.</li>
-<li>
-<strong>Database Management:</strong> Practical experience with PostgreSQL and an understanding of relational databases.</li>
-<li>
-<strong>Excellent communication skills</strong>: Must be fluent in English and possess strong written and verbal communication abilities.</li>
-<li>Strong analytical and problem-solving abilities: Curious, resourceful, and analytical.</li>
-</ul><div>
-<br><br>
-</div><div><strong>Preferred Skills</strong></div><div><br></div><ul>
-<li>Experience in machine learning and deep learning.</li>
-<li>Experience in configuring and monitoring AWS services.</li>
-<li>Familiarity with Node.js.</li>
-<li>Familiarity with GQL. </li>
-<li>Familiarity with RabbitMQ (or AMQP more generally) for messaging between services.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/waldo-photos-backend-platform-developer">https://weworkremotely.com/remote-jobs/waldo-photos-backend-platform-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/8491/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -401,7 +390,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/zipline-ui-designer-developer" align="right" target="_blank">Apply</a>
@@ -490,6 +479,68 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>OnTheGoSystems</h5>
+                    <h3> Senior PHP Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/onthegosystems-senior-php-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> 100% remote
+    <br /><strong>URL:</strong> <a href="https://onthegosystems.com">https://onthegosystems.com</a>
+</p>
+
+<div>
+<strong>We’re looking for an experienced PHP developer who wants to invest their expertise into giving thousands of people the opportunity to build advanced WordPress websites without programming by maintaining and adding small new features to our Toolset product known all over the world.<br></strong><br>
+</div><div>If you would like to join a stable company and work hand-in-hand under the mentorship of the lead developer of Toolset and foster your professional development – we are anticipating your application!</div><div><strong><br>What strong skills we’re looking for in a PHP developer</strong></div><ul>
+<li>PHP, with experience on legacy versions (7.0 minimum, 5.6 is a plus) as well as new versions (8.x).</li>
+<li>JavaScript, including legacy libraries (like jQuery), vanilla JavaScript, and React (and real experience in <strong>its usage in the WordPress blocks editor</strong>).</li>
+<li>Dependency managers, including Composer for PHP and NPM for JavaScript.</li>
+<li>Debugging tools: XDebug, browser console.</li>
+<li>Testing and code quality tools: PHPUnit, PHPStan, PHPCS, Codeception.</li>
+<li>Version control using Git.</li>
+<li>Experience with GitLab (CI/CD, pipelines, jobs, configuration files) or any other similar tool. </li>
+</ul><div><br></div><div>
+<strong>Role expectations and responsibilities will align with short-,mid- and long-term goals<br></strong><br>
+</div><div><strong>Short-term goals:</strong></div><ul>
+<li>Get used to a large codebase with lots of inner connections that uses a wide number of different languages and techniques.</li>
+<li>Be able to work on issues in our most challenging plugins with the largest user base (Views/Blocks, Forms) with supervision: code reviews, and periodic mentoring.</li>
+</ul><div><strong>Mid-term goals:</strong></div><ul>
+<li>Triage newly created tickets based on their severity and reach, working together with Support on prioritization, executions, and delivery.</li>
+<li>Be able to work on general issues with little-to-no supervision, with specific feedback on complex tasks and topics.</li>
+</ul><div><strong>Long-term goals:</strong></div><ul>
+<li>Take care of the legacy Codeception tests for Toolset. Consolidate passing tests, and evaluate failing tests: discard, fix, rewrite. This is a long task so it should spread as a short, mid, and long goal, but starting ASAP.</li>
+<li>Track and preview changes from the platform (WordPress) and how they affect the compatibility of the plugins. This is also an ongoing goal from day 1.</li>
+</ul><div><br></div><div><strong>What we offer</strong></div><ul>
+<li>100% remote position,</li>
+<li>Full-time position with paid public holidays, vacation, and sick leave,</li>
+<li>Paid sabbatical (yes, most people in our team stick with us for years!),</li>
+<li>Being part of a team of smart, self-driven individuals,</li>
+<li>Great opportunity to progress and advance,</li>
+<li>Collaborating with team members across the globe.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/onthegosystems-senior-php-developer">https://weworkremotely.com/remote-jobs/onthegosystems-senior-php-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/2406/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -500,7 +551,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>36 days ago</text>
+                <text>37 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-java-developers-cyprus-greece-or-remote" align="right" target="_blank">Apply</a>
@@ -577,7 +628,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>36 days ago</text>
+                <text>38 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tactiq-tech-senior-python-developer" align="right" target="_blank">Apply</a>
@@ -607,72 +658,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>A.Team</h5>
-                    <h3> Senior Independent Software Developer ($110-$190/hr)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>817 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0066/7400/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> NYC, SF, and TLV
-    <br /><strong>URL:</strong> <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a>
-</p>
-
-<div>
-<a href="https://build.a.team/wwrfastrackreferral">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. <br><br>After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.<br><br>As part of A·Team, you can expect:</div><ul>
-<li>
-<strong>High-paying, meaningful missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
-<li>
-<strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
-<li>
-<strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
-<li>
-<strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
-<li>
-<strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
-</ul><div>
-<br><strong>How to apply:<br></strong>Go here: <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a> + mention WWR under how you heard about A·Team. No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.<br><strong><br>What you’ll do:</strong>
-</div><ul>
-<li>Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would.</li>
-<li>Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </li>
-<li>You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </li>
-</ul><div>
-<br><strong>Who A</strong>·<strong>Team is for:</strong>
-</div><ul>
-<li>Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy.</li>
-<li>Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</li>
-<li>The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing.</li>
-</ul><div>
-<br><strong>Who A</strong>·<strong>Team is </strong><strong><em>not</em></strong><strong> for:</strong>
-</div><ul>
-<li>People looking for small gigs.</li>
-<li>Folks looking to build simple wordpress/wix/squarespace-style websites.</li>
-<li>Those still early in their careers and recent university/bootcamp grads (at least not yet).</li>
-</ul><div>
-<br><strong>Our long-term vision:<br></strong><a href="https://build.a.team/wwrfastrackreferral">A·Team</a> is a new type of company for a new kind of independent software builders. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </div><div>
-<br>To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1816492/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -683,7 +668,7 @@
                     <code>backend,CSS,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-engineer-developer-experience-1816492" align="right" target="_blank">Apply</a>
@@ -778,7 +763,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -855,7 +840,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                     <code>CSS,docker,frontend,graphql</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-developer-1801792" align="right" target="_blank">Apply</a>
@@ -880,7 +865,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -993,8 +978,8 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 
     <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
 <h2><span style="color: #a112ff;">Who we are</span></h2>
-<p><span style="font-weight: 400;">Our mission at Sourcegraph is to make it so that </span><a href="https://handbook.sourcegraph.com/strategy-goals/strategy"><span style="font-weight: 400;">everyone can code</span></a><span style="font-weight: 400;">, not just ~0.1% of the population. Our code graph powers Cody, the most powerful and accurate code AI for writing, fixing, and maintaining code, as well as our Code Search product, helping devs explore their entire codebase and make large-scale migrations and security fixes. We’re building software that builds software, and in doing so we’re making devs more productive and growing the population of coders by giving anybody access to the deep knowledge base of a senior engineer through Cody and all of the context it brings. We’re preparing for a world with a lot more code than exists today, and that benefits us all.</span></p>
-<p><span style="font-weight: 400;">It’s an exciting time to join Sourcegraph. AI has taken over the world, and we’ve spent the last 10 years building infrastructure that’s integral to making AI generated code more powerful and accurate. Our customers include 4/5 FAANG companies, 4 of the top 10 banks, government organizations, Uber, Plaid, and many other companies building the software that pushes the world forward. We’ve raised $225M at a $2.625B valuation from </span><a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/"><span style="font-weight: 400;">Andreessen Horowitz</span></a><span style="font-weight: 400;">, </span><a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"><span style="font-weight: 400;">Sequoia</span></a><span style="font-weight: 400;">, </span><a href="https://www.redpoint.com/companies/sourcegraph/"><span style="font-weight: 400;">Redpoint</span></a><span style="font-weight: 400;">, </span><a href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d"><span style="font-weight: 400;">Craft</span></a><span style="font-weight: 400;"> and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</span></p></div>
+<p>Our mission at Sourcegraph is to make it so that&nbsp;<a class="c-link" href="https://handbook.sourcegraph.com/strategy-goals/strategy" target="_blank" data-stringify-link="https://handbook.sourcegraph.com/strategy-goals/strategy" data-sk="tooltip_parent">everyone can code</a>, not just ~0.1% of the population. Our code graph powers Cody, the most powerful and accurate AI coding assistant, as well as our Code Search product, which helps devs explore their entire codebase and make large-scale migrations and security fixes. We’re building software that builds software, and in doing so we’re making devs more productive and preparing for a world where a lot more code gets written.</p>
+<p>It’s an exciting time to join Sourcegraph. AI has taken over the world, and we’ve spent the last 10 years building infrastructure that’s integral to making AI generated code more powerful and accurate. Our customers include 4/5 FAANG companies, 4 of the top 10 banks, government organizations, Uber, Plaid, and many other companies building the software that pushes the world forward. We’ve raised $225M at a $2.625B valuation from <a class="c-link" href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" target="_blank" data-stringify-link="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" data-sk="tooltip_parent">Andreessen Horowitz</a>,&nbsp;<a class="c-link" href="https://about.sourcegraph.com/blog/series-c-with-sequoia/" target="_blank" data-stringify-link="https://about.sourcegraph.com/blog/series-c-with-sequoia/" data-sk="tooltip_parent">Sequoia</a>,&nbsp;<a class="c-link" href="https://www.redpoint.com/companies/sourcegraph/" target="_blank" data-stringify-link="https://www.redpoint.com/companies/sourcegraph/" data-sk="tooltip_parent">Redpoint</a>,&nbsp;<a class="c-link" href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" target="_blank" data-stringify-link="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" data-sk="tooltip_parent">Craft</a>&nbsp;and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</p></div>
 
     <h2><span style="color: #8c33ec;"><strong>Working hours</strong></span></h2>
 <p>While Sourcegraph is fully remote, we are specifically seeking candidates located in North America to be able to attend events regularly.&nbsp;</p>
@@ -1092,8 +1077,8 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 
     <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
 <h2><span style="color: #a112ff;">Who we are</span></h2>
-<p><span style="font-weight: 400;">Our mission at Sourcegraph is to make it so that </span><a href="https://handbook.sourcegraph.com/strategy-goals/strategy"><span style="font-weight: 400;">everyone can code</span></a><span style="font-weight: 400;">, not just ~0.1% of the population. Our code graph powers Cody, the most powerful and accurate code AI for writing, fixing, and maintaining code, as well as our Code Search product, helping devs explore their entire codebase and make large-scale migrations and security fixes. We’re building software that builds software, and in doing so we’re making devs more productive and growing the population of coders by giving anybody access to the deep knowledge base of a senior engineer through Cody and all of the context it brings. We’re preparing for a world with a lot more code than exists today, and that benefits us all.</span></p>
-<p><span style="font-weight: 400;">It’s an exciting time to join Sourcegraph. AI has taken over the world, and we’ve spent the last 10 years building infrastructure that’s integral to making AI generated code more powerful and accurate. Our customers include 4/5 FAANG companies, 4 of the top 10 banks, government organizations, Uber, Plaid, and many other companies building the software that pushes the world forward. We’ve raised $225M at a $2.625B valuation from </span><a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/"><span style="font-weight: 400;">Andreessen Horowitz</span></a><span style="font-weight: 400;">, </span><a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"><span style="font-weight: 400;">Sequoia</span></a><span style="font-weight: 400;">, </span><a href="https://www.redpoint.com/companies/sourcegraph/"><span style="font-weight: 400;">Redpoint</span></a><span style="font-weight: 400;">, </span><a href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d"><span style="font-weight: 400;">Craft</span></a><span style="font-weight: 400;"> and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</span></p></div>
+<p>Our mission at Sourcegraph is to make it so that&nbsp;<a class="c-link" href="https://handbook.sourcegraph.com/strategy-goals/strategy" target="_blank" data-stringify-link="https://handbook.sourcegraph.com/strategy-goals/strategy" data-sk="tooltip_parent">everyone can code</a>, not just ~0.1% of the population. Our code graph powers Cody, the most powerful and accurate AI coding assistant, as well as our Code Search product, which helps devs explore their entire codebase and make large-scale migrations and security fixes. We’re building software that builds software, and in doing so we’re making devs more productive and preparing for a world where a lot more code gets written.</p>
+<p>It’s an exciting time to join Sourcegraph. AI has taken over the world, and we’ve spent the last 10 years building infrastructure that’s integral to making AI generated code more powerful and accurate. Our customers include 4/5 FAANG companies, 4 of the top 10 banks, government organizations, Uber, Plaid, and many other companies building the software that pushes the world forward. We’ve raised $225M at a $2.625B valuation from <a class="c-link" href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" target="_blank" data-stringify-link="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" data-sk="tooltip_parent">Andreessen Horowitz</a>,&nbsp;<a class="c-link" href="https://about.sourcegraph.com/blog/series-c-with-sequoia/" target="_blank" data-stringify-link="https://about.sourcegraph.com/blog/series-c-with-sequoia/" data-sk="tooltip_parent">Sequoia</a>,&nbsp;<a class="c-link" href="https://www.redpoint.com/companies/sourcegraph/" target="_blank" data-stringify-link="https://www.redpoint.com/companies/sourcegraph/" data-sk="tooltip_parent">Redpoint</a>,&nbsp;<a class="c-link" href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" target="_blank" data-stringify-link="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" data-sk="tooltip_parent">Craft</a>&nbsp;and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</p></div>
 
     <h2><span style="color: #8c33ec;"><strong>Working hours</strong></span></h2>
 <p>While Sourcegraph is fully remote, we require the successful candidate for this role to reside in San Francisco. Regular attendance at weekly DevRel events in the city is an essential aspect of this position</p>
@@ -1379,87 +1364,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
-<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
-<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
-<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
-<h2>What your day will look like</h2>
-<p>In a typical day, a developer relations engineer might:</p>
-<ul>
-<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
-<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
-<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
-<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
-<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
-<li>work on technical articles, presentations or workshops&nbsp;</li>
-<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
-<li>present at conferences, meetups or technical events</li>
-</ul>
-<h2>What we are looking for in you</h2>
-<p>A strong candidate</p>
-<ul>
-<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
-<li>has worked with real-world challenges developing and deploying software using Linux</li>
-<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
-<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
-<li>has been a contributor to open-source communities, software and documentation</li>
-<li>is an engaging, vivacious speaker and presenter</li>
-<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
-<li>builds trust, relationships and confidence</li>
-<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
-</ul>
-<h2>Additional skills that you might also bring</h2>
-<ul>
-<li>previous experience in a developer advocacy or community role</li>
-<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
-</ul>
-
-<h2>What we offer you</h2>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote&nbsp;</p>
-
-<p><br><br></p><p>Requisition ID: 1114</p><p></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Developer Relations Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
                 <a href="https://canonical.com/careers/3655681" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
@@ -1525,6 +1429,87 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote</p>
 <h2><br><br></h2><p>Requisition ID: 799</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Developer Relations Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
+<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
+<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
+<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
+<h2>What your day will look like</h2>
+<p>In a typical day, a developer relations engineer might:</p>
+<ul>
+<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
+<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
+<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
+<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
+<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
+<li>work on technical articles, presentations or workshops&nbsp;</li>
+<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
+<li>present at conferences, meetups or technical events</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<p>A strong candidate</p>
+<ul>
+<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
+<li>has worked with real-world challenges developing and deploying software using Linux</li>
+<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
+<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
+<li>has been a contributor to open-source communities, software and documentation</li>
+<li>is an engaging, vivacious speaker and presenter</li>
+<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
+<li>builds trust, relationships and confidence</li>
+<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
+</ul>
+<h2>Additional skills that you might also bring</h2>
+<ul>
+<li>previous experience in a developer advocacy or community role</li>
+<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
+</ul>
+
+<h2>What we offer you</h2>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote&nbsp;</p>
+
+<p><br><br></p><p>Requisition ID: 1114</p><p></p>
     
                 </details>
                 </td>
