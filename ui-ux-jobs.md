@@ -10,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/contra-product-ux-ui-designer-software-at-intent-ux" align="right" target="_blank">Apply</a>
@@ -69,7 +69,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>714 days ago</text>
+                <text>715 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -135,7 +135,7 @@
                     <code>go,UI/UX,wordpress,chat</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
@@ -265,7 +265,8 @@
 &lt;li&gt;Interview with future manager&lt;/li&gt;
 &lt;li&gt;Case Study (async)&lt;/li&gt;
 &lt;li&gt;Case Study Review (async)&lt;/li&gt;
-&lt;li&gt;Team Interview&lt;/li&gt;
+&lt;li&gt;Team Interview with research and operations team members&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Second Team Interview design team members&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.notion.so/Veremark-Remote-96e108c037b8423cbd4c3f07a1f9b38b&quot;&gt;Prior employment verification check&lt;/a&gt; (Read more at &lt;a href=&quot;http://remote.com/employment-checks&quot;&gt;remote.com/employment-checks&lt;/a&gt;)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;span class=&quot;c-mrkdwn__highlight&quot;&gt;#LI&lt;/span&gt;-DNP&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/h2&gt;
