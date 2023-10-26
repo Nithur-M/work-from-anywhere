@@ -1,5 +1,77 @@
 <div align="center"><h2>PROJECT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0126/5307/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>commercebuild</h5>
+                    <h3> Technical Project Manager</h3>
+                </td>
+                <td width="300">
+                    <code>Management and Finance</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/commercebuild-technical-project-manager" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0126/5307/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Vancouver, Canada
+    <br /><strong>URL:</strong> <a href="https://commercebuild.com/">https://commercebuild.com/</a>
+</p>
+
+<h1>Drive eCommerce Success Through Exceptional Project Management</h1><div>In today's world, eCommerce is critically important, and commercebuild is helping businesses around the world bring their physical storefronts to the digital world.</div><div><br></div><div>Founded in 2006, commercebuild is a worldwide eCommerce platform that allows businesses to unlock the power of their ERP systems to deliver a complete, end-to-end digital eCommerce experience for their customers.</div><div><br></div><div>And that's where you come in! We are looking to grow our diverse team with individuals who can leverage their technical knowledge and project management skills to tackle nearly any project that comes their way. Our Technical Project Managers work with clients during the implementation of their eCommerce website(s) by scoping out needs, documenting deliverables, and ensuring projects are completed on time and within budget. </div><div><br></div><div>If all of this sounds great to you so far, please keep reading. We want to hear from you!</div><div><br></div><h1>YOUR DAY WILL INVOLVE:</h1><ul>
+<li>
+<strong>Leading kick off calls</strong> and scheduling weekly status calls to go over budget, timelines, and deliverables.</li>
+<li>
+<strong>Maintaining visibility of client projects</strong> and account budgets, as well as holding implementation consultants accountable to those budgets and the completion of their tasks in the project.</li>
+<li>
+<strong>Providing exceptional customer service</strong> to clients and understanding their needs. Our clients should feel like we are an extension of their business. </li>
+<li>
+<strong>Anticipating problems</strong> through high awareness and proactive action. You should be able to easily quantify the impact of changing requirements and timelines.</li>
+<li>
+<strong>Writing and maintaining documentation.</strong> You keep meticulous records of meeting outcomes and internal processes.</li>
+<li>
+<strong>Continuous learning and ongoing education. </strong>You will strive to be knowledgeable on the benefits of our eCommerce platform and the power of ERP driven eCommerce.</li>
+</ul><h1>BEING ONE OF OUR TECHNICAL PROJECT MANAGER REQUIRES:</h1><ul>
+<li>
+<strong>A minimum of 3 to 5 years experience in project management,</strong> specifically in executing intricate eCommerce projects involving various stakeholders.</li>
+<li>
+<strong>Technical Knowledge:</strong> Experience with common web technologies, including HTML, JavaScript, and CSS is a huge plus. Knowledge of ERP systems is also advantageous, especially Sage ERP (X3 and/or Sage 300), and Microsoft Business Central.</li>
+<li>
+<strong>Remote work experience</strong>: You have experience communicating asynchronously, using tools such as Slack.</li>
+<li>
+<strong>Superb communication skills:</strong> You are skilled in verbal communication, active listening and presenting ideas convincingly. Fluency in written and verbal English is required. (Other languages are a plus!)</li>
+<li>
+<strong>Exceptional organizational skills</strong>, demonstrated through effective use of tools and documentation to manage multiple concurrent projects seamlessly. You must be able to work in a fast-paced, deadline-driven environment, making good on promises made / promises kept.</li>
+<li>
+<strong>A proactive mindset</strong>: You are willing to go above and beyond designated responsibilities to achieve project success and contribute to team goals.</li>
+<li>
+<strong>An eagerness to learn</strong> and the ability to adapt, allowing you to teach others. You are a lifelong learner and are comfortable working within an entrepreneurial environment.</li>
+<li>
+<strong>Knowing when to get help</strong>. Our culture celebrates the humility of acknowledging gaps in knowledge, and we highly appreciate team members willing to seek guidance to surmount challenges.</li>
+</ul><h1>SHIFT:</h1><div>We are looking to fill a full time shift, Monday through Friday, starting daily at approximately 13:00 UTC.</div><div><br></div><h1>COMPENSATION:</h1><div>The salary range for this position is between $57,000 and $104,000 USD.</div><div><br></div><h1>HOW TO APPLY:</h1><div>Send your résumé/CV and cover letter to careers[@]commercebuild.com. To know that you've read this, put "Driven by Devotion" as your email subject. </div><div><br></div><div>Want to make your application stand out? If so, we’d love to hear your thoughts on the following in your cover letter:</div><div><br></div><ul>
+<li>What draws you to project management? Share a success story you’re proud of!</li>
+<li>Have you ever worked with eCommerce or ERP systems? If so, tell us about your experience.</li>
+<li>Have you ever built or helped build a website? Tell us about the experience. Was it an eCommerce site? For whom was the site built?</li>
+</ul><div><br></div><div>We may invite applicants to complete a limited-time paid trial as part of the hiring process. A trial is a shared opportunity for our team and the applicant to get experience working together to see if we’re the right fit.</div><div><br></div><div>Wherever you live, whatever your interests, wherever you’re from — if you have the skills we're looking for, we look forward to seeing your application.</div><div>
+<br><br>
+</div><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/commercebuild-technical-project-manager">https://weworkremotely.com/remote-jobs/commercebuild-technical-project-manager</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
