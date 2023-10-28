@@ -1,64 +1,5 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Contra</h5>
-                    <h3> 🚀 Product UX/UI Designer (Software) at Intent UX</h3>
-                </td>
-                <td width="300">
-                    <code>Design</code>
-                </td>
-                <td width="200">
-                <text>28 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/contra-product-ux-ui-designer-software-at-intent-ux" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> San Francisco, CA
-    <br /><strong>URL:</strong> <a href="http://bit.ly/3kLhMdk">http://bit.ly/3kLhMdk</a>
-</p>
-
-<div>
-<strong><br>🔥 Let's get to the point!<br></strong><br>
-</div><div>We are a fully remote product design UX/UI agency. We design large enterprise software portals and mobile apps. </div><div>
-<br><br>
-</div><div>Our Website: <a href="https://www.intentux.com/">https://www.intentux.com/</a>
-</div><div><br></div><div>
-<br>We are looking for a well-rounded UX/UI designer to help build out designs in Miro and Figma.<br><br>
-</div><div><br></div><div><strong><br>What's a must:</strong></div><ul>
-<li>Great English accent and English speaking (On client meetings)</li>
-<li>Polished UI skills (Know all the good Figma plugins and design systems)</li>
-<li>Know how to UX and more about how to build UI in Figma</li>
-<li>That's it!</li>
-</ul><div><br></div><div><strong><br>Job Specs:</strong></div><ul>
-<li>Fully remote</li>
-<li>NYC Time Zone clients and staff</li>
-<li>25 hours per week</li>
-<li>$28/hour </li>
-<li>2-3 Projects/Clients at a time</li>
-<li>Building wires, creating Figma screens, attending to client comments, attending UX review meetings</li>
-<li>A senior designer will oversee you and guide</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong><br>This is you?<br></strong><br>
-</div><div>Apply directly on Contra!<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/contra-product-ux-ui-designer-software-at-intent-ux">https://weworkremotely.com/remote-jobs/contra-product-ux-ui-designer-software-at-intent-ux</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4150/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -69,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>715 days ago</text>
+                <text>717 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -135,7 +76,7 @@
                     <code>go,UI/UX,wordpress,chat</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
