@@ -1,5 +1,59 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0126/5309/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Missive</h5>
+                    <h3> Senior Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/missive-senior-software-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0126/5309/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Quebec city
+    <br /><strong>URL:</strong> <a href="https://missiveapp.com">https://missiveapp.com</a>
+</p>
+
+<div>Missive is looking for a staff developer specialized in Ruby/Postgres.<br><br>Within a small team of three passionate individuals, you will be a key player for a complex, yet brilliantly constructed product.<br><br>If you have the talent, diligence, and varied development experience (with "war stories" to share), we are looking for you.<br><br><strong>Missive is</strong><br><br>💾 5 TB+ of Postgres data<br>💌 5 000+ emails/minute<br>🚀 50 000+ Rails requests/minute<br>💰 US$ 4 000 000+ ARR<br><br><strong>Techstack</strong>
+</div><ul>
+<li>    Ruby on Rails (essential expertise)</li>
+<li>    PostgreSQL (essential expertise), Crunchy Data</li>
+<li>    Heroku, AWS (cloud infrastructure experience is a significant asset)</li>
+<li>    Electron, Cordova</li>
+<li>    JavaScript, CoffeeScript, TypeScript</li>
+</ul><div>
+<br><strong>Why join Missive</strong>
+</div><ul>
+<li>    Join a team where every member matters, and your expertise in Rails and PostgreSQL will be highly valued.</li>
+<li>    A "zero-ish meeting" culture, allowing you to focus on what you do best.</li>
+<li>    Face stimulating technical challenges and actively contribute to product evolution.</li>
+<li>    Have a direct impact on the roadmap, code review, and development.</li>
+<li>    Close collaboration with a team that recognizes the value of technical expertise.</li>
+</ul><div>Benefits</div><ul>
+<li>    A highly competitive salary, commensurate with your technical skills and contributions.</li>
+<li>    Be an integral part of the evolution of a product used worldwide.</li>
+<li>    Flexibility and autonomy in your work, with a particular emphasis on mastery of Ruby and PostgreSQL.</li>
+<li>    Option to work remotely or in the office.</li>
+</ul><div>If you're ready to embark on a journey filled with technical challenges and be part of a dynamic team, apply now!</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/missive-senior-software-engineer">https://weworkremotely.com/remote-jobs/missive-senior-software-engineer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -336,7 +390,7 @@
 <p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol; the p2p communication layer for Web3.</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
 
@@ -421,7 +475,7 @@
 <p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol; the p2p communication layer for Web3.</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
 
