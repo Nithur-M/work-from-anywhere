@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/contra-senior-site-reliability-engineer-1" align="right" target="_blank">Apply</a>
@@ -130,7 +130,7 @@
                     <code>cloud,docker,javascript,kubernetes</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-site-reliability-engineer-1803829" align="right" target="_blank">Apply</a>
