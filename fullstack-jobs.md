@@ -1,56 +1,5 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0126/5291/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>SketchDeck HQ</h5>
-                    <h3> Senior Full Stack Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/sketchdeck-hq-senior-full-stack-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0126/5291/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> United States
-    <br /><strong>URL:</strong> <a href="https://sketchdeck.com">https://sketchdeck.com</a>
-</p>
-
-<p><strong>About SketchDeck</strong></p>
-<p>SketchDeck is building the model for the next generation of creative agencies. Through a combination of technology, partnership, and a global talent community, SketchDeck gives marketers access to quality creative on demand. We work with clients from startups to well-known enterprise brands such as Dropbox, Rémy Cointreau, and Asana.</p>
-<p>At SketchDeck, our global community is united by our values. Together we commit to:  </p>
-<ul> <li>Work as a team</li> <li>Push boundaries </li> <li>Act with humility </li> <li>Take ownership</li> <li>Have heart</li> </ul>
-<p>As a remote-first company, these core values serve as the operating principles for our daily behaviors. They are more to us than a few feel-good mantras. Being a SketchDecker means you hold yourself and others accountable for preserving and progressing our culture. </p>
-<p></p>
-<p><strong>Job Overview</strong></p>
-<p>The Senior Full Stack Engineer is involved in all stages of software development, including front-end development, back-end development, database integrations, user interface, user experience, and back-end server management.</p>
-<p>The ideal candidate has a desire and drive to solve problems in every area of B2B, customer-facing software product development, including</p>
-<ul> <li>Developing comprehensive new feature proposals from back-end to front-end, implementation-ready</li> <li>Working with customers and co-workers across different business functions and disparate domains to capture user experience feedback, user stories and product requirements.</li> <li>Working with designers and team members to develop and evolve user interfaces and experience.</li> </ul>
-<p><strong>Responsibilities</strong></p>
-<ul> <li>Write effective REST APIs and technical documentation</li> <li>Build features for a single-page application using Angular &amp; Typescript.</li> <li>Design and build database interfaces.</li> <li>Work with a team of developers with deep experience in frontend technologies, distributed microservices, and full-stack systems</li> <li>Work with Node stack built on AWS.</li> <li>Work with our team to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies</li> <li>Write automated test cases to ensure the correctness, responsiveness, and efficiency of the software product</li> <li>Provide expertise to influence project, initiative, and maintenance technical direction during discovery, planning, and implementation stages.</li> <li>Maintain modern development standards with best-practice approaches and development processes</li> <li>Technology: Typescript (Javascript), Angular 13+, AWS, Node, Document-oriented database</li> </ul>
-<p><strong>Requirements</strong></p>
-<p>What we are looking for</p>
-<ul> <li>Experience with object-oriented and functional software design.</li> <li>Experience with document-oriented databases.</li> <li>Minimum 5 years of professional software development experience (related fields do not qualify)</li> <li>Minimum 3 years experience with Javascript &amp; Typescript 1 year.</li> <li>Minimum 3 years experience with any front-end single-page application framework (e.g. Angular, React, Vue), 1 year experience with Angular</li> <li>Minimum of 2 years working directly with the non-technical users of a software product they've developed</li> <li>2 professional references we can talk to on a call.</li> <li>Bachelor's Degree in Computer Science or equivalent</li> </ul>
-<p><strong>Benefits</strong></p>
-<p>We pride ourselves on being a great place to work. By joining the team, you will get:</p>
-<ul> <li>Salary range: $100,000 - $150,000</li> <li>Health insurance (medical, dental, and vision)</li> <li>401(k) with company match</li> <li>Fully remote working (that started pre-covid and will continue after!)</li> <li>Paid time off that grows with tenure</li> <li>Annual company retreat </li> <li>Computer hardware of your choice (up to $1500)</li> <li>$500 towards your office setup expenses</li> <li>To work with a talented team of creatives, business people, and engineers!</li> </ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sketchdeck-hq-senior-full-stack-engineer">https://weworkremotely.com/remote-jobs/sketchdeck-hq-senior-full-stack-engineer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1263546899153502209/ObHsQoNr_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
