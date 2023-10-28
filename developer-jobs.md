@@ -1,5 +1,44 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/5744/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Contra</h5>
+                    <h3> Game Developer in Unreal Engine</h3>
+                </td>
+                <td width="300">
+                    <code>Design</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/contra-game-developer-in-unreal-engine" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0083/5744/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> San Francisco, CA
+    <br /><strong>URL:</strong> <a href="http://bit.ly/3kLhMdk">http://bit.ly/3kLhMdk</a>
+</p>
+
+<div>
+<br>Looking to hire an Unreal Engine Game Developer with experience in Blueprints. The project is a medieval adventure/fantasy game prototype; with Soulslight-style locomotion and combat system, or, as a reference, the game Kena: Bridge of Spirits. Work is focused on blueprints; it does not require 3D Modeling, nor Level Design, and it does not require Sound Design. The project already has 3D assets for the player, bots (AI), scenarios, and has ready-made animations. The dev may; work with Blueprints assets from the UE Marketplace, create Blueprints from scratch, or, find the middle ground that best applies to each task.<br><br>
+</div><div><br></div><div>
+<strong><br>Tasks<br></strong><br>
+</div><div>
+<br>Create and edit Blueprints for locomotion, combat with attacks, combos, blocks, life and respawn, advanced locomotion (e.g. vaulting over obstacles, climbing walls, etc.), animation overlay systems for the player (e.g. breathing, hurt pose) and bots, bug fix, etc. Perform tasks aiming for quality and efficiency. Refine the work to achieve the ideal end result. Flexible deadlines.</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/contra-game-developer-in-unreal-engine">https://weworkremotely.com/remote-jobs/contra-game-developer-in-unreal-engine</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/8520/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +49,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/seo-sherpa-web-developer" align="right" target="_blank">Apply</a>
@@ -57,7 +96,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/designfiles-full-stack-ruby-on-rails-developer-2" align="right" target="_blank">Apply</a>
@@ -129,7 +168,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/prospect-java-developer-backend" align="right" target="_blank">Apply</a>
@@ -231,7 +270,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/eventmobi-senior-front-end-developer-remote" align="right" target="_blank">Apply</a>
@@ -312,7 +351,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tech-guys-who-get-marketing-salesforce-com-developer-administrator" align="right" target="_blank">Apply</a>
@@ -390,7 +429,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/zipline-ui-designer-developer" align="right" target="_blank">Apply</a>
@@ -489,7 +528,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/onthegosystems-senior-php-developer" align="right" target="_blank">Apply</a>
@@ -541,214 +580,226 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/2406/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>XM</h5>
-                    <h3> Senior Java Developers – Cyprus, Greece or Remote</h3>
+                    <h5>Proxify AB</h5>
+                    <h3> Senior Shopware Developer</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>240 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-shopware-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Sweden
+    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
+</p>
+
+<div><strong>The Role:</strong></div><div><br></div><div>We are looking for a Shopware developer with commercial experience for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products.</div><div><br></div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
+<li>Strong experience with Shopware</li>
+<li>Experience in JTL, Shopify, Laravel &amp; Magento </li>
+<li>Ability to work with minimal supervision.</li>
+<li>Intermediate-advanced English level.</li>
+</ul><div><br></div><div><strong>Nice-to-have: </strong></div><div><br></div><ul>
+<li>Time zone: CET (+/- 3 hours)</li>
+<li>Knowledge in Shopware 5 would be appreciated</li>
+<li>Experience in using Chat GPT</li>
+</ul><div><br></div><div><strong>Responsibilities:</strong></div><div><br></div><ul>
+<li>Development and maintenance of Shopware plugins </li>
+<li>Debugging and resolving problems related to Shopware plugins</li>
+<li>Implementing solutions related to Shopware APIs</li>
+<li>Use your skills to build, evolve, and optimize projects for the best customer experience.</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong><br>What Proxify offers<br></strong><br>
+</div><ul>
+<li>
+<strong>Career-accelerating positions at cutting-edge companies</strong><br>Discover exclusive long-term remote engagements at the world's most interesting product companies.<br><br><br>
+</li>
+<li>
+<strong>Hand-picked opportunities, just for you</strong><br>Skip the typical recruitment roadblocks and biases with personally matched engagements.<br><br><br>
+</li>
+<li>
+<strong>Fast-track your independent developer career</strong><br>Start small and gain more freedom to take on new engagements as you build your independent developer career.<br><br><br>
+</li>
+<li>
+<strong>A recruitment process that values your time<br></strong>Only one hiring process with the possibility of several positions, without any additional tests.<br><br>
+</li>
+</ul><div>
+<br><strong>Salary Range: </strong>€3,200  - €6,080 per month<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-shopware-developer">https://weworkremotely.com/remote-jobs/proxify-ab-senior-shopware-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0017/3489/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>OpenCraft</h5>
+                    <h3> Senior Open Source Developer & DevOps (Python, Django, React, AWS/OpenStack)</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>37 days ago</text>
+                <text>1081 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/xm-senior-java-developers-cyprus-greece-or-remote" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0124/2406/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0017/3489/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Cyprus
-    <br /><strong>URL:</strong> <a href="https://xm.com">https://xm.com</a>
+  <strong>Headquarters:</strong> Fully remote company (worldwide, incorporated in Berlin)
+    <br /><strong>URL:</strong> <a href="https://opencraft.com/">https://opencraft.com/</a>
 </p>
 
-<div>
-<strong>The Role: <br></strong><br>
-</div><div>We are looking for experienced Java Developers with a passion for pushing technologies to the limits and who will work with our team of talented engineers to develop XM’s enterprise suite of trading applications.</div><div>
-<strong> <br></strong><br>
+<div>Do you care about contributing to open-source, and appreciate a good challenge? We do too! :) <br><br>
 </div><div>
-<strong>The main responsibilities of the position include:<br></strong><br>
+<strong>Open-source<br></strong><br>
+</div><div>We are a team of veteran open-source developers, working on educational and community-based projects in an<a href="https://handbook.opencraft.com/en/latest/open_first/"> open-first</a> environment – and we are looking for new members. By joining us, you will work full-time on open-source, pushing your changes to free software projects upstream through pull requests, contributing features, documentation, or help on public forums. </div><div>
+<br>We care deeply about contributing our work upstream. You will see the results of your work reused and recognized across the educational community, increasing access to quality education for everyone, everywhere.</div><div>
+<br><strong>Remote-first</strong>
+</div><div>
+<br>Unlike companies who reluctantly started to accept remote workers recently, we have embraced it from day 1. For the past 7 years, we have based and refined our way of working around remote-friendly workflows, from the ground up. No day-long video meetings, mandatory work hours, or risk of being forced back into an office one day -- as long as you have a good internet connection, it’s none of our business when or where you work from. :)</div><div>
+<br>We are all working remotely, from all continents (except Antarctica, at least so far - applicants welcome!). We use remote-friendly and timezone-agnostic workflows based on asynchronous principles and good documentation practices.</div><div>
+<br><strong>Online education<br></strong><br>
+</div><div>We are one of the main contributors to the <a href="https://open.edx.org/">Open edX project</a>, the main open-source MOOC platform created by MIT, Harvard and many other top universities. It powers sites like <a href="https://www.edx.org/">edX.org</a>, the <a href="https://openlearning.mit.edu/courses-programs/open-learning-library">MIT Open Learning Library</a>, and the <a href="https://www.fun-mooc.fr/">national online learning platform for France</a>. We provide development and hosting for institutions like <a href="https://onlinelearning.hms.harvard.edu/hmx/">Harvard Medical School</a>, <a href="https://www.labxchange.org">Harvard LabXchange</a>, <a href="https://ondemand.cloudera.com">Cloudera</a>, <a href="https://www.upskill.autodesk.com">Autodesk</a>, and several governments. We are not affiliated with <a href="https://www.edx.org/">edX.org</a>, but we contribute and work with them on various projects. </div><div>
+<br><strong>Technical stack</strong><br><br>
+</div><div>The Open edX project is a large Python/Django codebase, with good code standards and architecture. Tasks are varied, from developing core platform features, custom exercises and tools for specific courses (XBlocks), customizing and deploying instances, working full-stack, operating our service infrastructure, improving our hosting platform, etc. You won't get bored here.<br><br>
+</div><div>
+<strong>Contracting terms<br></strong><br>
+</div><div>This is a full-time, permanent contract position. We aim for long-term relationships -- once in, almost all team members stay for many years. </div><div><br></div><div>We care about paying fairly: </div><ul>
+<li>Team members set their own compensation level, which is paid based on hours worked (no unpaid overtime!). </li>
+<li>When determining your rate, we will expect you to factor in benefits (vacation, healthcare, purchase budgets, etc.) - the idea is to let <em>you</em> pick the benefits that are useful to you, rather than offer one-size-fits-all packages that aren’t always very valuable.</li>
+<li>We also proactively apply generous raises team-wide, based on the company results at the end of each year. <a href="https://handbook.opencraft.com/en/latest/team_compensation/">See the details about how we approach compensation in our handbook</a>.</li>
+</ul><div>We also firmly believe in work-life balance: as long as you deliver what you commit to, there is a lot of latitude in how much work you can choose to accept. We are open to time commitments anywhere in the 30h to 40h/week range, and highly discourage working more than that. It’s important to have time to ourselves, as well as having some slack, and there are diminishing returns in working more anyway. We are currently recruiting precisely to preserve that balance, and ensure we have plenty of capacity to handle our projects.</div><div><br></div><div>We welcome applicants of all genders and ethnicities.</div><div>
+<br><strong>Basic Requirements:</strong>
 </div><ul>
-<li>Build advanced back end applications on the Java platform</li>
-<li>Follow test-driven development, continuous integration and agile methodologies</li>
-<li>Review the code of other developers</li>
-<li>Monitor and improve application reliability, and optimize performance</li>
-<li>Run unit testing and automation testing</li>
-<li>Contribute to system design and architecture</li>
-<li>Present ideas for system improvements</li>
-</ul><div> </div><div>
-<strong>Main requirements:<br></strong><br>
-</div><ul>
-<li>BSc/MSc in computer science, engineering, or any other relevant degree</li>
-<li>At least 5 years of work experience in Java development</li>
-<li>Solid understanding of the full development life cycle</li>
-<li>Very good knowledge of programming best practises and design patterns</li>
-<li>Good understanding of algorithmic complexity, data structures and multi-threading concepts</li>
-<li>Knowledge of REST API and web services implementation concepts</li>
-<li>A keen interest in benchmarking and optimisation</li>
-<li>Passion for back end applications</li>
-<li>Strong teamworking skills and interest in personal development</li>
-</ul><div> </div><div>
-<strong>The following will be considered an advantage:</strong><br><br>
-</div><ul>
-<li>Knowledge of Oracle &amp; MySQL </li>
-<li>Knowledge of AWS Cloud Services </li>
-<li>Work portfolio of open-source projects and technical blogs</li>
-</ul><div> </div><div> </div><div> </div><div>
-<strong>Benefit from:<br></strong><br>
-</div><ul>
-<li>Attractive remuneration package</li>
-<li>Food allowance </li>
-<li>Intellectually stimulating work environment</li>
-<li>Continuous personal development and international training opportunities</li>
-<li>Attractive relocation package and support for a smooth relocation for you and your family</li>
-</ul><div> </div><div>Type of employment: Full time<br><br>
-</div><div>Location: Cyprus, Greece or Remote<br><br>
-</div><div>Please visit our website http://tiny.cc/vd9bvz to submit your online application for this position.</div><div> </div><div>
-<strong>All applications will be treated with strict confidentiality!</strong> </div>
+<li>Experience with contributing to free software projects - small contributions are completely fine, but you <em>must</em> have at least one patch or pull request merged in a third-party project, or been a maintainer of an open source project with significant adoption. (Note that you can contribute now to satisfy this requirement - see for example the <a href="https://github.com/openedx/build-test-release-wg/projects/1">Open edX release issues</a>, fixing one of these issues guarantees an interview.)</li>
+<li>Senior developer with 3+ years working with Python</li>
+<li>Experience with Python web frameworks, specifically Django</li>
+<li>3+ years of HTML, Javascript, and CSS (experience with React and/or Typescript is a big plus!)</li>
+<li>Experience with unit testing</li>
+<li>Comfortable working in a Linux environment, specifically Debian or Ubuntu</li>
+<li>Experience with databases: MySQL, MongoDB, PostgreSQL</li>
+</ul><div>
+<strong>Additional Skills:</strong><br><br>
+</div><div>You will work on tasks from the following categories, but you can pick up the skills on the job if you haven't mastered these yet:</div><ul>
+<li>DevOps experience, especially on Debian/Ubuntu servers, Terraform, Vault, Packer, Prometheus, ELK, Docker. We are building a modern infrastructure and having a strong DevOps presence on top of core software engineering skills is a big plus with us.</li>
+<li>Cloud computing, like AWS or OpenStack</li>
+<li>Configuration management tools such as Ansible, Consul</li>
+<li>RabbitMQ, Redis &amp; Elasticsearch</li>
+<li>Mobile development (iOS and/or Android)</li>
+<li>Managing clients &amp; projects from beginning to completion (senior developer)</li>
+<li>Public speaking at conferences (you would present a talk every year at the Open edX Con)</li>
+</ul><div>
+<br><strong>Apply for this Position</strong><br><br>
+</div><div>Our recruitment process differs from most other companies - we don’t believe resumes and the traditional interviews to be particularly effective. Often, they tell more about how good someone is at interviewing, rather than at the actual work. So, our initial interview is lighter and easier to pass than in other companies - but we then provide you with real (and paid!) work to see how it works out in reality.</div><ul>
+<li>Step 1: You apply by filling out this form: <a href="https://opencraft.com/jobs/open-source-developer/">https://opencraft.com/jobs/open-source-developer/</a> </li>
+<li>Step 2: We do two interviews with candidates matching the requirements listed above. The first interview includes a (simple) coding exercise.</li>
+<li>Step 3: If this works out, we hire you! We start with a 2 months <a href="https://handbook.opencraft.com/en/latest/processes/#recruitment">trial period</a>, which allows both you and the rest of the team to fully evaluate how we work together, and is followed by a final review and confirmation. </li>
+</ul>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-senior-java-developers-cyprus-greece-or-remote">https://weworkremotely.com/remote-jobs/xm-senior-java-developers-cyprus-greece-or-remote</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack">https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack</a></p>
 
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0124/2398/logo.gif" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1820192/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Tactiq Tech</h5>
-                    <h3> Senior Python Developer</h3>
+                    <h5>Inside.com</h5>
+                    <h3>Full-Stack Developer</h3>
                 </td>
                 <td width="300">
-                    <code>Back-End Programming</code>
+                    <code>api,AWS,azure,cloud</code>
                 </td>
                 <td width="200">
-                <text>38 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/tactiq-tech-senior-python-developer" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1820192" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0124/2398/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Richmond, VA 
-    <br /><strong>URL:</strong> <a href="https://www.tactiqtech.com/">https://www.tactiqtech.com/</a>
-</p>
-
-<div>
-<em>Please note: We have multiple openings. Please do not hesitate to reach out to us again!<br></em><br>
-</div><h1><strong>Senior Backend Engineer </strong></h1><div>
-<br><strong>Join us!<br></strong>Join <strong>Tactiq</strong>, the growing eLogistics leader keeping food on local shelves across the US. Our team is building SaaS solutions to everyday out-of-stock and invoicing problems faced by America's largest retailers. Our developers deliver native mobile apps and web applications backed by cloud agnostic APIs that enable you to buy the food you love from over 30,000 of the stores you trust.<br><br><em>Time zones:  We are recruiting only within UTC  to UTC -7 because we value collaboration and working sane hours!<br></em><br><strong>Position:<br></strong>The Senior Backend Engineer will have an instrumental role in the design and development of a large scale public API suite. Their responsibilities include architecture, software design,  development, and delivery.  They will have a leadership role in a remote-first scrum team with individuals in five countries in Europe and the Americas.<br><br><strong>Responsibilities:<br></strong>- Designing, coding, and testing <br>- Provide technical leadership and mentoring to less advanced team members<br>- Collaborate with frontend, QA, DevOps, mobile dev, PO, and Scrum Master to get to market rapidly and with quality!<br><br><strong>Qualifications:<br></strong>- Strong Python skills<br>- Experience with Linux, Postgres, and AWS-centric development.<br>- Past use of OpenAPI, DynamoDB, Lamba, SQS, Angular, Terraform or CloudFormation would be great.<br>- Excellent communication skills and a head for problem solving<br>- A degree in Computer Science is preferred, but we are open-minded<br><br><em>All qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status. EOE</em>
-</div><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tactiq-tech-senior-python-developer">https://weworkremotely.com/remote-jobs/tactiq-tech-senior-python-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1816492/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Philabs</h5>
-                    <h3>Fullstack Engineer, Developer Experience</h3>
-                </td>
-                <td width="300">
-                    <code>backend,CSS,frontend,fullstack</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/fullstack-engineer-developer-experience-1816492" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Who are we?</strong></p>
-<p dir="ltr"><a href="https://www.philabs.xyz/" rel="nofollow"><u>Phi Labs</u></a> is a contributor of the<a href="https://archway.io/" rel="nofollow"> <u>Archway</u></a> protocol, a Cosmos-based layer 1 blockchain designed to reward dapp developers.<br>We are a software engineering company that focuses on the Cosmos SDK and CosmWasm, state-of-the-art frameworks for blockchain development. Our vision is to empower people to create a more transparent and accountable world through open, distributed, and interoperable networks.</p>
-<p dir="ltr">Archway is reshaping how value is created and shared across blockchain ecosystems. Initially incubated by Tendermint (Cosmos founders), Archway recently raised a $21 million seed round from <a href="https://www.coindesk.com/business/2022/03/24/cosmos-protocol-archway-raises-21m-to-provide-developer-rewards/" rel="nofollow"><u>Hashed and CoinFund</u></a>.</p>
-<p dir="ltr"><strong>How we work</strong></p>
-<p dir="ltr">We have team members working worldwide, from the Americas, Europe to the Middle East and Asia. We leverage agile methodologies to move quickly and stay focused. Communication is vital to us, and we rely heavily on Slack, Google Workspace, Notion, and GitHub to help us stay in sync. Most of the technology we build is free and open source.</p>
-<p dir="ltr">This role is a full-time remote position, and you’re free to work from anywhere. Be advised that most team meetings occur between 6:30 am and 10:00 am Pacific Time (UTC-8/-7). If you're applying from a location where these hours are outside your usual working hours, we expect you to adapt to our meeting times.<br><strong><br></strong></p>
-<p dir="ltr"><strong>About the Role</strong><strong><br></strong></p>
-<p dir="ltr">Phi Labs is seeking a talented and motivated Fullstack Engineer to join our Developer Experience (<strong>DevX</strong>) team. As a member of the DevX team, you won't just be working on “ordinary” applications – you'll be at the helm of pioneering web3 solutions on top of one of the most developer-friendly blockchain in the Cosmos ecosystem. Whether it's in-house projects that push the boundaries of what's possible or collaborative endeavors alongside our ecosystem teams, your contribution will be integral and influential.<br><br></p>
-<p dir="ltr"><strong>What’s in it for you</strong></p>
-<p dir="ltr">📍 Remote-first company with company off-sites and retreats</p>
-<p dir="ltr">🌎 Flexible, dynamic environment within a diverse international team</p>
-<p dir="ltr">🧑‍💻 The scope to create and build high-impact work that makes a difference in the Cosmos ecosystem and blockchain industry as a whole</p>
-<p dir="ltr">💸 6 month contract to hire.  Attractive compensation package with a token allocation after 6 months</p>
-<p dir="ltr">✈️ Generous time off to rest, recharge, and be your best</p>
-<p><strong>What you will need</strong></p>
+                <p><strong>OVERVIEW</strong></p>
+<p>Let's be honest, you're here, so I'm assuming you already know INSIDE. But here's a recap for you --</p>
+<p><a href="http://INSIDE.COM" rel="nofollow">INSIDE.COM</a> provides executive summaries of the news you need, delivered to your inbox daily. Our audience consists of over 310,000 entrepreneurs and executives who read our newsletters daily.</p>
+<p>You're probably asking yourself, "Why does a newsletter need full-stack devs?"</p>
+<p>Great question!</p>
+<p>Well, we're building something that adds a little AI magic to our company. The MVP we have is looking good, but we want to bring on some full-stack devs to help us get to that next level - to build something truly amazing that, as cliche of a line as possible, has the opportunity to really disrupt and change news and information-consuming habits.</p>
+<p>I know that's vague, but if we get to the interview part, I'll show you what we have cooking....</p>
+<p><strong>JOB DESCRIPTION</strong></p>
+<p>As a Full-Stack Developer at <a href="http://INSIDE.COM" rel="nofollow">INSIDE.COM</a>, you will play a key role in developing, optimizing, designing, and maintaining our web applications. You'll work closely with our President (Alex Medick) and CEO (Jason Calacanis) to deliver high-quality products for our fast-growing audience.</p>
+<p>We primarily use Ruby on Rails and JavaScript at INSIDE, so experience in those languages is a great.</p>
+<p><strong>KEY RESPONSIBILITIES</strong></p>
 <ul style="">
-<li style="">
-<p dir="ltr">Understanding of web3, decentralized applications (dapps) and blockchain principles.</p>
-</li>
-<li style="">
-<p dir="ltr">Strong written and verbal English communication </p>
-</li>
-<li style="">
-<p dir="ltr">Strong proficiency in VueJS, Typescript and Tailwind CSS for building frontend applications.</p>
-</li>
-<li style="">
-<p dir="ltr">Solid experience with NodeJS for backend development.</p>
-</li>
-<li style="">
-<p dir="ltr">Proven track record of building and deploying production-grade web2 / web3 applications</p>
-</li>
-<li style="">
-<p dir="ltr">Proven ability to transform design prototypes into functional web applications while maintaining design integrity and ensuring a seamless user experience</p>
-</li>
-<li style="">
-<p dir="ltr">Excellent knowledge of shell scripting (Bash, ZSH)</p>
-</li>
-<li style="">
-<p dir="ltr">Proficient with git and git workflows</p>
-</li>
+<li style="">Collaborate with product managers, designers, and other developers to understand project requirements and translate them into technical specifications.</li>
+<li style="">Create and maintain database schemas, models, and migrations.</li>
+<li style="">Implement responsive and mobile-friendly designs.</li>
+<li style="">Write clean, maintainable, and efficient code following best practices and coding standards.</li>
+<li style="">Perform code reviews and provide constructive feedback to team members.</li>
+<li style="">Troubleshoot and resolve software defects and issues.</li>
+<li style="">Stay up-to-date with industry trends and emerging technologies to ensure our applications remain competitive.</li>
+<li style="">Work hard, have fun, and BUILD!</li>
 </ul>
-<p dir="ltr"><strong>Nice to have skills</strong></p>
+<p><strong>MUST-HAVE'S</strong></p>
 <ul style="">
-<li dir="ltr" style="">
-<p dir="ltr">Familiarity with the Cosmos Network ecosystem</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Familiarity or keen interest in Rust and CosmWasm for smart contract development.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">ProtoBuf</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Knowledge of WebAssembly</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Flexible and willing to perform other tasks as assigned</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Familiarity with the Cosmos Network ecosystem</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Experience with dApp development</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Open source development</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Experience with continuous integration pipelines (GitHub Actions, CircleCI, Travis)</p>
-</li>
+<li style="">Proven experience as a Full-Stack Developer, with a focus on Ruby on Rails and JavaScript.</li>
+<li style="">Proficiency in Ruby on Rails, JavaScript, HTML5, and CSS3.</li>
+<li style="">API Development</li>
+<li style="">Experience with modern front-end frameworks like React, Vue.js, or Angular.</li>
+<li style="">Familiarity with database systems, including PostgreSQL or MySQL.</li>
+<li style="">Knowledge of version control systems, such as Git.</li>
+<li style="">Strong problem-solving skills and attention to detail.</li>
+<li style="">Excellent communication and teamwork skills.</li>
+<li style="">Ability to work in an agile development environment.</li>
+<li style="">Experience with cloud platforms (e.g., AWS, Azure) is a plus.</li>
 </ul>
-<img src="https://remotive.com/job/track/1816492/blank.gif?source=public_api" alt=""/>
+<p><strong>BENEFITS</strong></p>
+<ul style="">
+<li style="">Competitive Pay</li>
+<li style="">100% Remote (we're a fully distributed team)
+<ul style="">
+<li style="">No travel is required, but we may ask to do a team meet-up 1-2x per year for a few days - no stress if you can't make it though</li>
+</ul>
+</li>
+<li style="">Only 2 real meetings per week
+<ul style="">
+<li style="">Working on lessening this though</li>
+</ul>
+</li>
+<li style="">Build rad products with rad people!</li>
+</ul>
+<p><strong>HOW TO APPLY</strong></p>
+<p>With your application, don't worry about a fancy cover letter. Quite frankly, I won't read it… Instead, write me out a short origin story and some bullet points of some work you've shipped, including at least one URL (a personal portfolio website works if you don't have a side project or can't share work you've done for an employer).</p>
+<p>You can also email me the above: alex @ inside . com</p>
+<p>L<strong><strong><strong><strong><strong>EGAL STUFF</strong></strong></strong></strong></strong></p>
+<p><a href="http://INSIDE.COM" rel="nofollow">INSIDE.COM</a> is an equal-opportunity employer. We celebrate diversity and are committed to creating an inclusive and supportive workplace.</p>
+<img src="https://remotive.com/job/track/1820192/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -763,7 +814,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -840,7 +891,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                     <code>CSS,docker,frontend,graphql</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-developer-1801792" align="right" target="_blank">Apply</a>
@@ -865,7 +916,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1207,7 +1258,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol; the p2p communication layer for Web3.</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
 
@@ -1306,7 +1357,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol (a continuation of Whisper).</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol; the p2p communication layer for Web3.</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
 
@@ -1786,7 +1837,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt">Collabora is looking for a Python Web Developers of all levels of experience to join our in-house Business Applications Integration team. The team supports, develops and integrates the software and services used within the company to help deliver client projects and effectively run the business. The team is not client facing. Working in a friendly and highly cooperative environment with colleagues from every part of the company, you will help to deliver software and integrate services involved in planning, business intelligence, communications, project management, security and accounting.</span></div><div><br></div><div><span style="font-size: 11pt">Collabora primarily uses Open Source Software applications to run its business processes (timelogging, invoicing, feedback, project management, asset management, communications, business intelligence...) integrating with other 3rd party SaaS applications (HRIS, ATS, Finance Accounting, Travel Booking). Some of our tools are developed in-house and others are customised from open source projects to suit our use cases. Examples of our software tools include: GitLab (with GitLab CI), Docker/Podman, Grafana, MariaDB, PostgreSQL, SuiteCRM, Phabricator, OTRS, SnipeIT, Hugo, Ansible, and an in-house developed Django web application, among others.</span></div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li>Strong Python  </li><li>Experience building for the web, especially using Django  </li><li>Solid experience coding with REST APIs</li><li>Understanding of typical web architectures and stacks  </li><li>A respectful and pragmatic approach to providing technical support  </li><li>Some experience in PHP, JavaScript and Linux shell scripting  </li><li>Good English proficiency (both verbal and written)  </li><li>Ability to work in an online, globally distributed company  </li><li>A desire to work with open source communities</li></ul></ul></div></div><div class="section page-centered"><div><h3>Additional Skills for Senior Applicants</h3><ul class="posting-requirements plain-list"><ul><li>Experience writing well-tested code in business critical systems (e.g. finance)  </li><li>Familiarity with container-based working, e.g. Docker, Podman, Kubernetes </li><li>Experience in Business Applications Integration and Automation</li><li>Experience using, maintaining and designing CI  </li><li>Experience with database schema design and optimisation  </li><li>A solid grounding in Linux system and database administration and networking concepts  </li><li>A positive approach to designing and developing applications with a variety of stakeholders</li><li>Experience building and using existing web APIs in order to integrate systems  </li><li>Demonstrable technical writing skills (documentation, blogs)  </li><li>Skills in other modern languages (Go/Rust/Ruby) and frameworks such as Laravel, Rails  </li><li>Knowledge of security- and privacy-by-design principles  </li><li>A willingness to mentor more junior engineers</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Collabora is a software consultancy specializing in bringing companies and the Open Source community together. We combine years of Open Source software leadership with an understanding of the challenges that businesses, non-profits, and governments face. </div><div><br></div><div>Collabora brings deep technical expertise in system integration &amp; architecture, graphics, multimedia, web engines and communications to a number of market verticals, including mobile, IVI / automotive, set top box / smart TV, and a range of other specialized embedded applications.</div><div><br></div><div>Collabora has the unique business model of enabling enterprises to leverage Open Source software in their solutions. Having worked with notable industry leading companies in the automotive, aerospace and handset mobile verticals amongst many others, Collabora has established a broad customer portfolio</div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/7b5a45c0-9535-4aff-8553-3affbad5337f/apply">Apply for this job</a></div>
+                <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt">Collabora is looking for a Python Web Developer to join our in-house Business Applications Integration team. The team supports, develops and integrates the software and services used within the company to help deliver client projects and effectively run the business. The team is not client facing. Working in a friendly and highly cooperative environment with colleagues from every part of the company, you will help to deliver software and integrate services involved in planning, business intelligence, communications, project management, security and accounting.</span></div><div><br></div><div><span style="font-size: 11pt">Collabora primarily uses Open Source Software applications to run its business processes (timelogging, invoicing, feedback, project management, asset management, communications, business intelligence...) integrating with other 3rd party SaaS applications (HRIS, ATS, Finance Accounting, Travel Booking). Some of our tools are developed in-house and others are customised from open source projects to suit our use cases. Examples of our software tools include: GitLab (with GitLab CI), Docker/Podman, Grafana, MariaDB, PostgreSQL, SuiteCRM, Phabricator, OTRS, SnipeIT, Hugo, Ansible, and an in-house developed Django web application, among others.</span></div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li><b>Strong Python</b></li><li><b>5+ years of application integration experience</b></li><li><b>Experience building for the web, especially using Django  </b></li><li><b>Solid experience coding with REST APIs</b></li><li><b>Understanding of typical web architectures and stacks</b>&nbsp;</li><li>A respectful and pragmatic approach to providing technical support  </li><li>Some experience in PHP, JavaScript and Linux shell scripting  </li><li>Good English proficiency (both verbal and written)  </li><li>Ability to work in an online, globally distributed company  </li></ul></ul></div></div><div class="section page-centered"><div><h3>Additional Skills for Senior Applicants</h3><ul class="posting-requirements plain-list"><ul><li>Experience writing well-tested code in business critical systems (e.g. finance)  </li><li>Familiarity with container-based working, e.g. Docker, Podman, Kubernetes </li><li>Experience in Business Applications Integration and Automation</li><li>Experience using, maintaining and designing CI  </li><li>Experience with database schema design and optimisation  </li><li>A solid grounding in Linux system and database administration and networking concepts  </li><li>A positive approach to designing and developing applications with a variety of stakeholders</li><li>Experience building and using existing web APIs in order to integrate systems  </li><li>Demonstrable technical writing skills (documentation, blogs)  </li><li>Skills in other modern languages (Go/Rust/Ruby) and frameworks such as Laravel, Rails  </li><li>Knowledge of security- and privacy-by-design principles  </li><li>A willingness to mentor more junior engineers</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Collabora is a software consultancy specializing in bringing companies and the Open Source community together. We combine years of Open Source software leadership with an understanding of the challenges that businesses, non-profits, and governments face. </div><div><br></div><div>Collabora brings deep technical expertise in system integration &amp; architecture, graphics, multimedia, web engines and communications to a number of market verticals, including mobile, IVI / automotive, set top box / smart TV, and a range of other specialized embedded applications.</div><div><br></div><div>Collabora has the unique business model of enabling enterprises to leverage Open Source software in their solutions. Having worked with notable industry leading companies in the automotive, aerospace and handset mobile verticals amongst many others, Collabora has established a broad customer portfolio</div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/7b5a45c0-9535-4aff-8553-3affbad5337f/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1811,30 +1862,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>Imunify360 Security Suite is a product of CloudLinux Inc., the maker of the #1 OS in security and stability for hosting providers. Imunify is an innovative security solution designed specifically for shared and VPS/Dedicated servers. The automated, easy-to-use solution with the six-layer approach to security delivers comprehensive and complete attack prevention.</p><p>As our PHP Security Developer/Researcher, you'll be joining our dedicated research team which delivers an important part of our product: security patches. The Research team is directly responsible for analyzing vulnerabilities/threats and fix them.</p><p>As a security Developer/Researcher, you play a critical role in the organization. You will have full autonomy and responsibility in analyzing new threats (security vulnerabilities and malware) and resolving them for our customers. You will also be responsible for increasing our coverage of supported PHP applications and plugins.</p><p>Your work directly impacts the safety and workings of millions of websites around the world, so attention to detail and a high quality work standard are extremely important skills that we’re looking for. </p><p>As our PHP Security Developer/Researcher, you will;<br></p><ul> <li>Analyze new security vulnerabilities in open source PHP applications (such as WordPress, Joomla and Drupal) and backport upstream patches to fix those vulnerabilities in earlier versions.</li> <li>Design, build and deploy new features for our internal tooling to automate our workflows.</li> <li>Research and analyze new trends in exploitation techniques, malware approaches, etc. and develop strategies to mitigate them.</li> <li>Expand coverage of supported applications and plugins.</li> </ul><h3>Requirements: </h3><p>To be successful you should have;</p><ul> <li>Advanced proficiency with PHP scripting language; </li> <li>Several years of relevant work experience as a Software Tester Engineer or similar role.</li> <li>Understanding and knowledge of security vulnerabilities in web applications is a plus.</li> <li>Fluent English speaker.</li> <li>You have a true passion for the security field.</li> <li>Self-driven work ethic. You love taking initiative and seeing things through to completion.</li> <li>Passion for continuous learning. </li> </ul><h3>Benefits: </h3><p>What's in it for you?<br></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> </ul> <ul><li>Interesting and challenging projects</li></ul> </li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Senior Python Developer for CloudLinux OS - REMOTE/Work Anywhere</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/2BB440A02A" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and  we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful. <br></p><p><strong>We are looking for Senior Developers to join our CloudLinux OS team.</strong></p><p>CloudLinux OS, our flagship product, runs on more than 25,000 production servers today, powering over 20 million websites, and is recognized as the best OS for security and efficiency in a shared hosting environment. CloudLinux OS increases server density and enhances security, thus reducing operating costs, decreasing churn rates, and increasing profitability. Check out our website for more information about our CLOS Product <a href="https://www.cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">https://www.cloudlinux.com/</a></p><p>You will be involved in backend development for CloudLinux projects using Python.<br></p><p>It is required to cover your code with unit-tests using Python and/or with functional tests.</p><p><strong>Additional activities may include:</strong></p><ul> <li>investigating issues reported by our clients, partners or support team;</li> <li>communication with our 3rd level support team to provide consultations or help related to CloudLinux projects;</li> <li>writing technical documentation for new features;</li> <li>review of code written by your colleagues using Gerrit.</li> </ul><p>Work is fully remote, with flexible hours, where you can plan your day and work from anywhere.</p><p>More details about the company on <a href="https://www.cloudlinux.com/" target="_blank" rel="nofollow noreferrer noopener" class="external">Cloudlinux.com</a>.</p><p>Join us to make the difference!</p><h3>Requirements: </h3><p><br></p><ul> <li>3+ years of experience with Python</li> <li>Basic algorithms and data structures</li> <li>Good knowledge of SQL</li> <li>Experience in system programming for Linux OS</li> <li>Research and propose performance optimization solutions for PHP sites, including those working on WordPress.</li> <li>Basic knowledge of Git</li> <li>Able to read code</li> <li>The ability to read and write in English</li> <li>Shell scripting </li> <li>Knowledge of Ansible, Vagrant, Jenkins</li> <li>Experience with building RPM packages</li> </ul><p><strong>Will be a plus:</strong></p><ul><li>Knowledge of C, PHP, Perl and JavaScript </li></ul><p><strong>Personal skills:</strong></p><ul> <li>Fast-learning, proactivity</li> <li>Desire to work in a fast-paced growing deadline-driven startup-up environment</li> <li>Strong self-motivation, driven to achieve committed milestones</li> <li>The ability to independently analyze a task and find the right solution</li> <li>The ability to work in a team</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> </li> <li>Flexible working hours</li> <li>Paid 24 days of vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em>
                 </details>
                 </td>
             </tr></table>
