@@ -1,5 +1,70 @@
 <div align="center"><h2>SITE RELIABILITY ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/1353/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Magnolia International Ltd.</h5>
+                    <h3> Site Reliability Engineer </h3>
+                </td>
+                <td width="300">
+                    <code>DevOps and Sysadmin</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/magnolia-international-ltd-site-reliability-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0082/1353/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Switzerland
+    <br /><strong>URL:</strong> <a href="https://www.magnolia-cms.com/">https://www.magnolia-cms.com/</a>
+</p>
+
+<div>Our Site Reliability Engineers ensure a reliable and smooth interaction of the various systems Magnolia and our customers use every day. SREs apply software engineering approaches to infrastructural and operational challenges - the ultimate goal is to develop and maintain highly-exposed, fault-tolerant systems in an ever-growing and complex IT landscape. We continuously innovate to make our product more reliable, robust and fault-tolerant to fulfill our business-critical mission. SRE team plays a key role in Magnolia’s mission to further evolve its product in a world of automation and microservices.<br><br><strong><em>This is a full-time, remote role. We are primarily looking for candidates based in the USA (East Coast) and/or Europe.</em></strong><br><br><strong>What things you'll be doing?</strong>
+</div><ul>
+<li>You will work with SRE practitioners at the heart of our production environment</li>
+<li>You will be an internal advocate of DevOps culture and cloud technologies at Magnolia</li>
+<li>You will monitor service performance and ensure its smooth operation</li>
+<li>You will leverage your experience and knowledge of complex customer-facing systems to improve and automate existing tools, processes, and infrastructure</li>
+<li>You will be involved in the design, build, and deployment of scalable and secure services and provide architectural reviews, vulnerability testing, security reviews, and availability and reliability assessments</li>
+<li>You will participate in an on-call schedule </li>
+</ul><div><br></div><div><strong>What do we need from you?</strong></div><ul>
+<li>BA/BS in Computer Science or related technical field, or equivalent practical experience</li>
+<li>Experience with Cloud infrastructure - preferably AWS and Kubernetes</li>
+<li>Experience with Infrastructure as Code: Terraform/Terratest, Configuration Management tools (eg. Ansible)</li>
+<li>Experience with container technologies (Docker)</li>
+<li>Experience with monitoring tools (eg. Datadog, Prometheus, CloudWatch)</li>
+<li>Experience with Kubernetes Operators is a plus</li>
+<li>Experience with a flair for automation: CI/CD pipelines, testing, automated releases and deployment strategies</li>
+<li>Programming experience with one or more relevant languages: Java, Go, Python, Bash, JavaScript</li>
+<li>Ability to analyze and troubleshoot large-scale distributed systems in production</li>
+<li>Experience in operating, optimizing, and scaling SQL databases, Kubernetes clusters and/or Datadog</li>
+<li>Familiarity with security and operation standards as well as best practices around personal data</li>
+<li>Solid communication skills</li>
+</ul><div><br></div><div><strong>We are for you if you like to:</strong></div><ul>
+<li>
+<strong>take charge:</strong> You are in the driver’s seat and set the direction according to what customers, colleagues and cultures need. No matter the roadblocks you see ahead, you take charge in (re)shaping the destination.<br><br>
+</li>
+<li>
+<strong>connect:</strong> You never drive alone. Building meaningful connections means creating experiences together that form a foundation of trust so next time there’s a bump in the road, you know someone else has your back.<br><br>
+</li>
+<li>
+<strong>be you</strong>: Choose your own ways and means. You make every perspective count so that everyone feels safe enough to follow their purpose and at the same time pursue one common goal. Your way of growing is to mutually question yourself and others.<br><br>
+</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/magnolia-international-ltd-site-reliability-engineer">https://weworkremotely.com/remote-jobs/magnolia-international-ltd-site-reliability-engineer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +75,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/contra-senior-site-reliability-engineer-1" align="right" target="_blank">Apply</a>
@@ -120,153 +185,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1823134/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Tempo</h5>
-                    <h3>Staff Site Reliability Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>AWS,cloud,kubernetes,saas</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/devops/staff-site-reliability-engineer-1823134" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p dir="ltr"><strong>ROLE SUMMARY</strong></p>
-<p><strong> </strong></p>
-<p dir="ltr">As a Staff SRE you’ll join our team in building the infrastructure needed to support the rest of our engineering department. You’ll help to create a stable foundation for our engineers to build off of and tools that are highly available, cost efficient and extensible. As we continue to scale and embrace the devops culture, this team will be looked to for guidance and mentorship. </p>
-<p><strong> </strong></p>
-<p dir="ltr">We’re looking for someone who is excited to learn, a great team player, and strives for doing the right things the first time around - knowing that it may take longer but understands that there’s a balance to be achieved and the importance of quality.</p>
-<p><strong><br><br></strong></p>
-<p dir="ltr"><strong>What you’ll be doing: </strong></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr">Design and Build CI/CD pipelines </p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Automate key processes, including build, release, and monitoring (alerting and observability), in the development and deployment of both infrastructure and products</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Participate in a rotating on-call duty to support the application</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Mentor and collaborate with team members and other staff to further develop a DevOps culture</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Design and execute technical solutions </p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Work with latest technology like Kubernetes </p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Ensuring our AWS based platform continues to scale as we do</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">A build champion, implementing changes that improve speed and quality</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Contributing to our monitoring, alerting, and recovery pipelines</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Design projects that improve our production environment</p>
-</li>
-</ul>
-<p><strong><br><br></strong></p>
-<p dir="ltr"><strong>What we are looking for:</strong></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr">8+ years of relevant work experience in a SaaS environment</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Proficiency with AWS or other cloud-hosted services</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Solid understanding of software design patterns </p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Software development skills and proficient in at least one language </p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Experience in the testing and deployment of complex software solutions in a fast-paced, cloud environment</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Experience working with Kubernetes</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Experience with RUM, tracing, monitoring and other important metrics. </p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Demonstrated ability to learn quickly and pick up new technologies </p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Highly analytical with a passion for finding solutions to tough problems </p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Excellent communication and collaboration skills</p>
-</li>
-</ul>
-<p><strong><br><br><br><br><br></strong></p>
-<p dir="ltr"><strong>What's In It For You </strong></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr">Hybrid or Remote work! </p>
-</li>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr">If you’re close to one of our 4 Hubs: Boston, Montreal, Reykjavik or Toronto; feel free to use the space and catch up with the local team(s) </p>
-</li>
-</ul>
-<li dir="ltr" style="">
-<p dir="ltr">Unlimited vacation in most of our locations!!</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Great benefits including health, dental, vision and savings plan.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Perks such as training reimbursement, WFH reimbursement, and more.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Diverse and dynamic teams with challenging and exciting work.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">An opportunity to have a real impact on our business.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">A great range of social activities (both in person and virtual).</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Optional in person meet-ups and the ability to travel to our international offices</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Employee referral program</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">And so much more!!</p>
-</li>
-</ul>
-<p dir="ltr">Note: As our hiring teams are global, please submit your resume in English only.</p>
-<p><strong> </strong></p>
-<p dir="ltr"><strong> Org-wide Summary</strong></p>
-<p><strong> </strong></p>
-<p dir="ltr">At Tempo we’re on a mission to help teams build better, together. We are creators of top-selling Atlassian Marketplace apps, supporting more than 29,000 customers and working with hundreds of Solutions Partners globally. Our solutions help customers orchestrate creation and delivery, so their teams can focus and optimize around their highest priorities. </p>
-<p><strong> </strong></p>
-<p dir="ltr">Our product suite has grown from our popular time-tracking solution, which launched in Iceland in 2009, to resource &amp; capacity planning, project cost tracking, project &amp; program management, and strategic roadmapping. In 2021, Tempo acquired Roadmunk, a roadmapping solution popular with product management teams, and ALM Works, creators of the Structure for Jira suite that delights project and program managers around the world. </p>
-<p><strong> </strong></p>
-<p dir="ltr">We envision a world where everyone inside an organization works in harmony on the most impactful opportunities aligned with their mission. Come join us as we continuously innovate our award-winning products, create new solutions, and expand to new ecosystems. Are you ready to unlock the joy of building with us?</p>
-<p><strong> </strong></p>
-<p dir="ltr">At Tempo Software, we are proud to be an equal opportunity employer and are committed to creating an inclusive culture. As such all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status</p>
-<img src="https://remotive.com/job/track/1823134/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1803829/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -277,7 +195,7 @@
                     <code>cloud,docker,javascript,kubernetes</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-site-reliability-engineer-1803829" align="right" target="_blank">Apply</a>
@@ -483,7 +401,6 @@
 <li>A successful candidate will be subject to a background check and must receive satisfactory results of the same, as a condition of joining the team. </li>
 <li>By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.</li>
 </ul>
-<p>#US #UK #SP #PL #IR #IC #HN #CR #CN #AU</p>
           
                 </details>
                 </td>
