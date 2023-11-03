@@ -1,5 +1,62 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0126/5399/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>FM</h5>
+                    <h3> Senior Software Engineer, Front End</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/fm-senior-software-engineer-front-end-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0126/5399/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Fort Worth, TX 
+    <br /><strong>URL:</strong> <a href="https://www.fm.co/">https://www.fm.co/</a>
+</p>
+
+<div>
+<strong>Job description<br></strong><br>
+</div><div>As a Senior Front End engineer at FM, you will work web applications that create the way that thousands of creative people around the world find great music and inspiring clips for use in their projects and campaigns. As part of the Engineering team, your time will be spent collaborating with other front end engineers, back end engineers, product managers and designers to create the best experience for our customers. You love tinkering with cutting edge technology and have at least 5 years experience building large scale React applications. Here are some of the aspect of your role:<br><br>
+</div><div><br></div><div>
+<strong>Lead the front end development of product features:</strong> As well as coding out complex features, you will contribute to the technical design process. You will collaborate with your teammates (including other senior engineers) to refine the product roadmap and vision, and guide your team in building out new features.<br><br>
+</div><div>
+<strong>Define technical direction: </strong>You will help maintain the standard of engineering excellence at FM and shape the technical vision for our front end engineering stack (React, Next.js, React Native). You will influence best practices and introduce new technologies when appropriate.<br><br>
+</div><div>
+<strong>Mentor other engineers:</strong> Work with more junior engineers to help them grow and develop their skills.</div><div>There are a lot of challenging and interesting technical problems to solve that directly impact our clients and colleagues. Here are some example projects that we have worked on recently:<br><br>
+</div><ul>
+<li>Build a custom audio player that includes the ability to track progress, expands to show additional details and allows users to easily explore our artist catalogue.</li>
+<li>Enhance the purchase flow with additional payment options, subscriptions, and a seamless checkout.</li>
+<li>Help maintain a beautiful custom React component library, including reusable components with tailored functionality and consistent design attributes.</li>
+<li>Work on a multi-month greenfield project in Next.js.</li>
+<li>Implement a robust CI/CD pipeline.</li>
+</ul><div>We’re after individuals that are curious about the possibility of technology, are eager to learn, and are diligent and kind. Our teams work well because we place trust in them to succeed. We believe in collaboration and that great ideas can come from anybody. We welcome and encourage candidates from diverse backgrounds.<br><br>
+</div><div><strong><br>Job requirements</strong></div><ul>
+<li>At least 5 years experience developing front end applications with React (and preferably Next.js).</li>
+<li>A love of Typescript and unit-tested React components.</li>
+<li>Highly skilled in HTML and CSS (including responsive design and cross-browser compatibility).</li>
+<li>Proven technical leadership skills, including the ability to architect complex front-end web applications.</li>
+<li>Excellent communication skills (written and verbal).</li>
+<li>Experience in any of the following is a bonus: Webpack, Unstated, Cypress, React Native.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/fm-senior-software-engineer-front-end-1">https://weworkremotely.com/remote-jobs/fm-senior-software-engineer-front-end-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
