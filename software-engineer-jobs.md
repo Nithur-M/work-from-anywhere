@@ -1,5 +1,58 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0126/5398/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Hennessey Digital</h5>
+                    <h3> Software Engineer I</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/hennessey-digital-software-engineer-i" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0126/5398/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> California
+    <br /><strong>URL:</strong> <a href="http://hennessey.com">http://hennessey.com</a>
+</p>
+
+<div><strong>What are we looking for?</strong></div><div>We’re looking for a Software Engineer I. Someone who is a thoughtful team member who can ensure that all projects are delivered on time, on budget, and on strategy.</div><div><br></div><div><strong>What will you do?</strong></div><ul>
+<li>Develop applications and websites (coding, programming)</li>
+<li>Document and test new software applications</li>
+<li>Utilize custom theme Wordpress development</li>
+<li>Assess new application ideas</li>
+</ul><div><br></div><div><strong>What do we require?</strong></div><ul>
+<li>Must have created at least 3 websites and be able to provide samples and/or a link to a GitHub portfolio</li>
+<li>Experience building websites with <strong>CSS, JavaScript and PHP</strong> in Wordpress or another similar CMS</li>
+<li>Full-Stack Experience (front-end and back-end development)</li>
+<li>Proficient understanding of code versioning tools such as Git, Bitbucket</li>
+<li>Experience programming in different languages such as HTML, CSS, SCSS, JS, PHP</li>
+<li>Comfortable with scoping features and delivering the feature according to the agreed deadline with the project manager</li>
+<li>Comfortable working with debugging tools like Firebug, Chrome inspector, etc.</li>
+<li>Experience in marketing, forum posting, link building and SEO is a plus</li>
+<li>Fluent in English</li>
+<li>Ability to work in teams</li>
+</ul><div><br></div><div><strong>Do you need to know anything else? </strong></div><ul>
+<li>This is a 40 hour per week contract position, paid biweekly</li>
+<li>Core business hours are 9 am - 2 pm Pacific Standard Time</li>
+</ul><div><br></div><div><strong>Interested in being our next Software Engineer I? We’d love to hear from you! Please apply with your CV, 3 links to websites you’ve created (or a link to a portfolio), and the answers to the following questions. </strong></div><div><br></div><div>1. What are your salary expectations per month? </div><div>2. Our required core business hours are 9 am to 2 pm Pacific Standard Time, with a full work day being 8 hours. Are you okay working those hours?</div><div>3. Do you have experience in both Front End and Back End development?</div><div>4. What coding languages do you have experience with?</div><div><br></div><div>Click to apply, or send your application to <a href="mailto:peoplesuccess@hennessey.com">peoplesuccess@hennessey.com</a>.</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/hennessey-digital-software-engineer-i">https://weworkremotely.com/remote-jobs/hennessey-digital-software-engineer-i</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0126/5309/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +63,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/missive-senior-software-engineer" align="right" target="_blank">Apply</a>
@@ -309,6 +362,118 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1428393724527190022/4mt5PACL_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sourcegraph</h5>
+                    <h3>Software Engineer - Release</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/sourcegraph91/jobs/4989014004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
+<h2><span style="color: #a112ff;">Who we are</span></h2>
+<p>Our mission at Sourcegraph is to make it so that&nbsp;<a class="c-link" href="https://handbook.sourcegraph.com/strategy-goals/strategy" target="_blank" data-stringify-link="https://handbook.sourcegraph.com/strategy-goals/strategy" data-sk="tooltip_parent">everyone can code</a>, not just ~0.1% of the population. Our code graph powers Cody, the most powerful and accurate AI coding assistant, as well as our Code Search product, which helps devs explore their entire codebase and make large-scale migrations and security fixes. We’re building software that builds software, and in doing so we’re making devs more productive and preparing for a world where a lot more code gets written.</p>
+<p>It’s an exciting time to join Sourcegraph. AI has taken over the world, and we’ve spent the last 10 years building infrastructure that’s integral to making AI generated code more powerful and accurate. Our customers include 4/5 FAANG companies, 4 of the top 10 banks, government organizations, Uber, Plaid, and many other companies building the software that pushes the world forward. We’ve raised $225M at a $2.625B valuation from <a class="c-link" href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" target="_blank" data-stringify-link="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" data-sk="tooltip_parent">Andreessen Horowitz</a>,&nbsp;<a class="c-link" href="https://about.sourcegraph.com/blog/series-c-with-sequoia/" target="_blank" data-stringify-link="https://about.sourcegraph.com/blog/series-c-with-sequoia/" data-sk="tooltip_parent">Sequoia</a>,&nbsp;<a class="c-link" href="https://www.redpoint.com/companies/sourcegraph/" target="_blank" data-stringify-link="https://www.redpoint.com/companies/sourcegraph/" data-sk="tooltip_parent">Redpoint</a>,&nbsp;<a class="c-link" href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" target="_blank" data-stringify-link="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" data-sk="tooltip_parent">Craft</a>&nbsp;and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</p></div>
+
+    <h2><span style="color: rgb(140, 51, 236);"><strong>Working hours&nbsp;</strong></span></h2>
+<p>🌎 Given that we are an all-remote company and hire <a href="https://handbook.sourcegraph.com/departments/people-ops/process/how-we-engage-talent-outside-the-us/">almost anywhere</a> in the world, we don’t have a particular time-zone preference for this role. However, you may need to be available for non-recurring urgent meetings outside of working hours.</p>
+<h2><span style="color: rgb(140, 51, 236);"><strong>Why this job is exciting&nbsp;</strong></span></h2>
+<p><a href="https://about.sourcegraph.com/cody?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=19895311885&amp;utm_term=sourcegraph%20cody&amp;gclid=CjwKCAjw0ZiiBhBKEiwA4PT9z9jbT-6ncbQS5bLcQHfuIy9Je5bCogDwICrbbZ8Z9TkwiKkenGMuFRoCptEQAvD_BwE">Cody</a> is the best AI coding assistant today, and you'll get to help build it and get it in the hands of millions of devs. Our code intelligence, married with modern AI, is already providing a remarkable alpha experience, and you can help us unlock its full potential.&nbsp;</p>
+<p>Our rapid development pace means that building and releasing our products to the market is a unique challenge, from overseeing the release of all components supporting Cody as well as Cody itself, building the tools to provide a self-service experience to all teammates, to taking part in building a quality infrastructure to monitor Cody quality.&nbsp;</p>
+<p>We are looking for a Senior Release Engineer to join the Developer Infrastructure team to take our release process to the next level, turning it into a seamless process for everyone, maximizing the ownership of individual teams with a platform based approach.&nbsp;</p>
+<p>By joining our team, you will directly impact how Cody and our Code Intelligence platform is released to the world and be at the crossroads of all Sourcegraph teams by building mission critical tools to support our mission.&nbsp; If you’re passionate about enhancing developers’ productivity and are excited to be a part of a dynamic team pushing the boundaries of technology, then this role is for you.</p>
+<p>📅 Within one month, you will…</p>
+<ul>
+<li>Begin building relationships with cross-functional teams, including the Cody development team and other stakeholders.</li>
+<li>Dive into the codebase of Cody and Code Intelligence platform, gaining a deep understanding of the existing code, architecture, and dependencies.</li>
+</ul>
+<p>📅 Within three months, you will…</p>
+<ul>
+<li>Implement improvements that result in a measurable reduction in the time it takes to release new versions of Cody and the Code Intelligence platform while higher-level insights on architecture, scalability, and customer focus.</li>
+<li data-stringify-indent="1" data-stringify-border="0">Establish strong working relationships with Security teams, ensuring that the release process incorporates necessary security measures.</li>
+<li data-stringify-indent="1" data-stringify-border="0">Actively participate in code reviews and discussions to contribute higher-level insights on architecture, scalability, and customer focus.</li>
+</ul>
+<p>📅 Within six months, you will…</p>
+<ul>
+<li>Contribute to the development of a robust and scalable infrastructure for monitoring Cody's quality, performance, and user experience.</li>
+<li>Implement proactive alerting and monitoring systems to detect issues before they impact customers.</li>
+</ul>
+<p>📅 Within one year, you will…</p>
+<ul>
+<li>Successfully evolve the release process into a mature platform, enabling teams across Sourcegraph to manage their releases independently.</li>
+<li>Proactively propose additions and changes to the team's roadmap, aligning it with the broader goals of Sourcegraph.</li>
+</ul>
+<h2><span style="color: rgb(140, 51, 236);"><strong>About you</strong></span></h2>
+<p>You are a polyglot hacker in the dev-ops space, and you're passionate about tools, developer-experience, and infrastructure, with a solid experience of the challenges faced by other developers. Your strong sense of empathy helps you to understand your peers' challenges and you sharply understand how to balance solving current and future problems, carving a path to implement your vision.&nbsp;</p>
+<p>First, you have a deep understanding of the software lifecycle, having experienced it yourself by working on the product side, and a strong familiarity with all the tools supporting it; e.g.:</p>
+<ul>
+<li>You’ve worked with Bazel or other build systems to support polyglot codebases.&nbsp;</li>
+<li>You've set up delivery pipelines of various shapes and various constraints.&nbsp;</li>
+<li>You're naturally putting yourself in the shoes of other developers and constantly seek to understand their perspective.</li>
+<li>You’re a great communicator and collaborator. You’re able to work effectively across teams to solve complex problems with multiple stakeholders.</li>
+<li>You're proficient at writing Go code, but you're a polyglot at your core.&nbsp;&nbsp;</li>
+<li>You have a deep knowledge of Kubernetes, including working with and developing applications using the operator pattern.</li>
+<li>Bonus: You have experience with database complex database schema migrations and Postgres internals.</li>
+</ul>
+<p>It doesn't matter if you're not an expert on all points, what really counts is that you understand the complexities of releasing software, and thrive to make it a seamless experience for both our customers and our teammates. Ultimately, you can jump at any point in the delivery pipeline and understand how to fix issues.</p>
+<h2><span style="color: rgb(140, 51, 236);"><strong>Level</strong></span></h2>
+<p>📊 This job is an IC3.&nbsp; You can read more about <a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/leveling-guide/">our job leveling philosophy</a> in our Handbook.</p>
+<h2><span style="color: rgb(140, 51, 236);"><strong>Compensation</strong></span></h2>
+<p><strong>💸 We pay you an above-average salary</strong> because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. You will have the flexibility to work and live anywhere in the world<em> (unless specified otherwise in the job description)</em>, and we’ll never take your location or current/past salary information into account when determining your compensation.&nbsp; As an <a href="https://handbook.sourcegraph.com/company-info-and-process/values/#sts=Open%20and%20transparent">open and transparent </a>company that values equitable and competitive compensation for everyone, our <a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/">compensation ranges are visible</a> to every single Sourcegraph Teammate. To determine your salary, we use a number of market and data-driven salary sources and target the high-end of the range, ensuring that we’re always paying above market regardless of where you live in the world.&nbsp;&nbsp;</p>
+<p>💰 The target compensation for this role is $164,570 USD.</p>
+<p>📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous <a href="https://handbook.sourcegraph.com/benefits-pay-perks/benefits-perks/">perks &amp; benefits</a>.</p>
+<h2><span style="color: rgb(140, 51, 236);"><strong>Interview process</strong></span></h2>
+<p><em>Below is the interview process you can expect for this role (you can read more about </em><a href="https://handbook.sourcegraph.com/talent/types_of_interviews"><em>the types of interviews</em></a><em> in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&nbsp;</em></p>
+<p>We expect the interview process to take 4 hours in total.</p>
+<p><strong>👋 Introduction Stage</strong> - we have initial conversations to get to know you better…</p>
+<ul>
+<li>[30m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#recruiter-screen">Recruiter Screen</a> with Grace Bohl&nbsp;</li>
+<li>[30m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#peer-interview">Peer Interview</a> / <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process_candidates/#technical-interview">Technical Interview</a> with Jacob Pleiness</li>
+</ul>
+<p><strong>🧑‍💻 Team Interview Stage</strong> - we then delve into your experience in more depth and introduce you to members of the team…</p>
+<ul>
+<li>[15m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#hiring-manager-screen">Hiring Manager Screen </a>with Nelson Araujo</li>
+<li>[60m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive">Resume Deep Dive</a> with Grace Bohl</li>
+<li>[60m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process_candidates/#pairing-exercise">Technical Interview: Pairing Exercise</a> with Michael Lin and Dax McDonald</li>
+<li>[45m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#cross-functional-team-collaboration-interview">Cross-functional Team Interview</a> with <span style="font-weight: 400;">Jon Galindo and Louis Jarvis</span></li>
+</ul>
+<p><strong>🎉 Final Interview Stage </strong>- we move you to our final round, where you meet cross-functional partners and gain a better understanding of our business and values holistically…</p>
+<ul>
+<li>[30m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#values-interview">Values Interview</a></li>
+<li>[30m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#leadership-interview">Leadership Interview</a> with co-founder&nbsp;</li>
+</ul>
+<p>We check references and conduct your background check</p>
+<p>Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.</p>
+
+    
+
+    <div class="content-conclusion"><h2><span style="color: #a112ff;">Not sure if this is you?</span></h2>
+<p><span style="font-weight: 400;">We want a diverse, global team, with a broad range of experience and perspectives. If this job sounds great, but you’re not sure if you qualify, apply anyway! We carefully consider every application, and will either move forward with you, find another team that might be a better fit, keep in touch for future opportunities, or thank you for your time.</span></p>
+<h2><span style="color: #a112ff;">Learn more about us</span></h2>
+<p><span style="font-weight: 400;">To create a product that serves the needs of all developers, we are building a diverse </span><a href="https://handbook.sourcegraph.com/company-info-and-process/remote"><span style="font-weight: 400;">all-remote team</span></a><span style="font-weight: 400;"> that is </span><a href="https://handbook.sourcegraph.com/team"><span style="font-weight: 400;">distributed across the world</span></a><span style="font-weight: 400;">. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We provide </span><a href="https://about.sourcegraph.com/handbook/people-ops/compensation"><span style="font-weight: 400;">competitive compensation</span></a><span style="font-weight: 400;"> and </span><a href="https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks"><span style="font-weight: 400;">practical benefits</span></a><span style="font-weight: 400;"> to keep you happy and healthy so that you can do your best work.&nbsp;</span><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Learn more about what it is like to work at Sourcegraph by reading </span><a href="https://about.sourcegraph.com/handbook/"><span style="font-weight: 400;">our handbook</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process.</span></p>
+<p><span style="font-weight: 400;">Go back to the </span><a href="https://about.sourcegraph.com/jobs/"><span style="font-weight: 400;">careers page</span></a><span style="font-weight: 400;"> for all open positions.</span></p>
+<p>&nbsp;</p>
+<p><em><span style="font-weight: 400;">Sourcegraph participates in <a href="https://handbook.sourcegraph.com/departments/people-talent/e-verify/" target="_blank">E-Verify</a> for U.S. Employees</span></em></p></div>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/378800000147745937/0fac42c12b433bbbd53ff3e15cd6fca4_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -372,7 +537,92 @@
                 </td>
                 <td width="300">
                     <h5>Status</h5>
-                    <h3>Software Engineer Distributed Systems Testing</h3>
+                    <h3>Software Engineer Data Science</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=5479806&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol; the p2p communication layer for Web3.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <div class="careers-block__trix external-panel text-left">
+<div>&nbsp;</div>
+<div>
+<p><strong>About Waku</strong></p>
+<p>We are building Waku as a public good infrastructure. Waku is uncompromising Web3 communication at scale. It is a decentralized, censorship-resistant, privacy-preserving communication network that enables anyone to send and receive messages without worrying about surveillance or deplatforming.</p>
+<p>We are enabling Ethereum builders to create new projects with a fully decentralized architecture, think dApp to Wallet notifications, NFT marketplaces, censorship-resistant chat, layer-2 and more.&nbsp;</p>
+<p>Waku enables a variety of complex use cases and applications. To facilitate the adoption of Waku, you will design and implement application protocols to provide to dapp developers as off-the-shelf SDKs.</p>
+<p><a href="https://boards.greenhouse.io/embed/waku.org">Waku.org&nbsp;</a></p>
+<p><strong>Key responsibilities:</strong></p>
+</div>
+<div>
+<ul>
+<li>Design and implement network simulation tools and solutions to validate the functionality and performance of distributed systems.</li>
+<li>Run, analyze, and report on small-scale simulations to test the behavior of a specific protocol change or software implementation, or to simulate a type of attack on the Waku clients.</li>
+<li>Own, maintain and improve the <a href="https://github.com/waku-org/waku-simulator">waku-simulator</a> framework to enable running local simulations of the Waku network.</li>
+<li>Work closely with Waku engineers and researchers to help design and analyze simulations needed to validate assumptions.</li>
+<li>Assist engineers by conducting ad-hoc regression testing, reproducing bugs, and testing bug fixes.</li>
+<li>Be the point of contact within the Waku team for the the Vac/DST (Distributed System Test) Team who is in charge of large scale simulations and QA activities.</li>
+<li>Pre-empt and plan small scale simulations to study the behaviour of Waku clients, identify potential bottlenecks and performance optimization, then handover to DST for large scale simulation to confirm findings.</li>
+<li>Foresee, and help plan and execute any other testing activities that helps ensure the production readiness of Waku, including secure scaling.</li>
+<li>Help provide visibility on testing and simulation output, to ensure that the wider Waku ecosystem is informed of the expected performance of the Waku protocol and software.</li>
+</ul>
+</div>
+<div>
+<p><strong>You ideally will have:</strong></p>
+</div>
+<div>
+<ul>
+<li>A passion for blockchain technology, privacy-preserving technology and decentralization.</li>
+<li>Solid experience with scripting languages (Python, Shell) and a systems language like Rust, C++, Nim, Go.</li>
+<li>Strong foundation in networks and system programming.</li>
+<li>Working knowledge of Docker and POSIX-like systems.</li>
+<li>Algorithm design skills.&nbsp;</li>
+<li>Have a strong alignment to our principles:&nbsp;<a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a>&nbsp;</li>
+</ul>
+<p><strong>Hiring process:</strong></p>
+<ul>
+<li>Call with Talent</li>
+<li>Interview with Waku Research team member or lead</li>
+<li>Take home task (paid)</li>
+<li>Interview with another Waku Research team member or Lead to present home task and discuss further</li>
+<li>Interview with Waku Lead</li>
+</ul>
+<p><strong>Compensation:</strong></p>
+</div>
+<p>We are happy to pay in any mix of fiat/crypto.</p>
+<p>&nbsp;</p>
+</div>
+
+    
+
+    
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
+                    <h3>Software Engineer (Test Simulation)</h3>
                 </td>
                 <td width="300">
                     <code></code>
