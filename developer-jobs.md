@@ -1,5 +1,127 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/9434/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>aThemes</h5>
+                    <h3> WordPress Plugin Developer (aThemes)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/athemes-wordpress-plugin-developer-athemes" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0018/9434/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Bristol, UK
+    <br /><strong>URL:</strong> <a href="https://athemes.com">https://athemes.com</a>
+</p>
+
+<div>
+<br>We are aThemes and we make awesome WordPress themes and plugins. We are now looking for a talented full-stack WordPress developer to join our small but growing team and help us take our products to the next level. <br><br>The main product you will be working on is <a href="https://athemes.com/merchant/">Merchant</a>, which is an all-in-one plugin for WooCommerce with over 40 modules designed to improve conversions for store owners. We have an ambitious roadmap for this product and you will play an instrumental role in realising it. <br><br>You might also be asked to contribute to <a href="https://wordpress.org/themes/botiga/">Botiga</a>, which is a WooCommerce theme. Then there is Botiga Pro, a plugin that extends Botiga with additional, advanced features (wishlist, size chart, checkout layouts etc). </div><div>
+<br>This is a fully remote position, meaning you can work from anywhere. However, ideally your working hours should overlap at least a few hours per day with Central European Time (CET).<br><br>
+</div><div>
+<strong><br>Ideal Candidate<br></strong><br>
+</div><div>Our ideal candidate has worked at another WordPress product company like ours or has developed custom themes and plugins for clients.<br><br>
+</div><div><strong><br>What you will do:</strong></div><ul>
+<li>Help us deliver on our product roadmap by coding and testing new features</li>
+<li>Update themes/plugins with bug fixes and code improvements</li>
+<li>Maintain and optimize <a href="http://athemes.com">athemes.com</a>
+</li>
+<li>Liaise with the support team to troubleshoot and solve issues</li>
+</ul><div><strong><br>Requirements</strong></div><ul>
+<li>2+ years professional experience and strong expertise in PHP/WordPress development</li>
+<li>Experience coding custom WordPress themes and plugins from scratch</li>
+<li>Expert level HTML, CSS (SCSS/SASS)</li>
+<li>Strong familiarity with JavaScript (vanilla and jQuery)</li>
+<li>Experience working with major plugins like WooCommerce and Elementor</li>
+<li>Familiarity with the WordPress Block Editor</li>
+<li>Experience using Git and GitHub</li>
+<li>A consistent coding style and passion for well-organized, clean code</li>
+<li>Ability to convert UI designs to functional, performant code</li>
+<li>Knowledge of Full Site Editing</li>
+</ul><div><strong><br>Nice to haves</strong></div><ul><li>Published theme/plugin author (or contributor) on a major WordPress marketplace like the .org repo or Envato</li></ul><div><br></div><div><strong>Benefits</strong></div><ul>
+<li>A salary of $35,000 – $55,000 USD, based on your experience and location.</li>
+<li>This is a full-time, 100% remote position. Work from wherever you want in the world.</li>
+<li>True flexibility. While we do ask for a few hours of overlap with CET each day, outside of that, you are free to work whenever suits you best.</li>
+<li>Massive autonomy. No one likes to be micro-managed, and we don't like to micro-manage anyone (if you need that kind of hand holding and direction, we're not going to be your cup of tea!). We hire people who are excited to own their work and we look to you to tell us the big levers in your role that'll make the most impact.</li>
+<li>Competitive compensation. Everyone on our team is an expert at what they do and we believe in paying people fairly for their contribution.</li>
+<li>Be part of a small team (you will be our fourth developer) trying to make a difference in the WordPress world.</li>
+</ul><div>
+<strong><br>About aThemes:<br></strong><br>
+</div><div>'The ‘a’ in aThemes stands for Awesome. That’s right — we don’t beat around the bush.<br><br>
+</div><div>We create well-designed and easy to use WordPress themes and plugins, backed by speedy support and frequent updates. We have 100k+ users from around the world and those numbers are growing.</div><div>
+<br>We've been in business since 2013, and profitable since day one. We are carving our own path in the WordPress world — no investor money, nor financial obligations to anyone but ourselves.</div><div>
+<br>With a flat structure, everyone on the team works closely with the CEO and each other. We don't believe things are set in stone. We want to find the best ideas and go big. We create the space and give our team the autonomy to do that.<br><br>
+</div><div>As a 100% remote company, distributed globally we don't mind where you work: from home, a co-working space, a coffee shop — wherever you feel the most inspired.<br><br>
+</div><div><strong><br>The Application Process:</strong></div><div>
+<br>It’s important we find the best candidate for this position, and our selection process will reflect this.</div><div>
+<br>If we think you are a good fit, you’ll be asked to carry out a paid trial task and be invited to at least one remote interview before we make you an offer.<br><br>
+</div><div>We’re fortunate to receive a large volume of applications, so be sure to make your application stand out. Please pay special attention to the main responsibilities of this role, make sure you meet the requirements and give us a good reason to select you!<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/athemes-wordpress-plugin-developer-athemes">https://weworkremotely.com/remote-jobs/athemes-wordpress-plugin-developer-athemes</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>XM</h5>
+                    <h3> iOS Developer – Cyprus, Greece or Remote</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/xm-ios-developer-cyprus-greece-or-remote-6" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Cyprus, Greece or Remote
+    <br /><strong>URL:</strong> <a href="https://xm.com">https://xm.com</a>
+</p>
+
+<div>
+<strong>The Role: <br></strong><br>
+</div><div>We are looking for an iOS Developer with a passion for pushing mobile technologies to the limits. If you're ready to join forces with our dynamic team to drive the growth and sustainability of a high-speed, multicultural environment within one of the premier Forex/CFD trading apps, we want to hear from you.<br><br>
+</div><div> </div><div><strong>The main responsibilities of the position include:</strong></div><div>·        Be part of the development of company's complex mobile application (challenging requirements such as security, live updates and complex business rules)</div><div>·        Emphasis on code quality delivery: unit and snapshot testing, UI testing</div><div>·        Follow continuous integration and Agile Methods; read and submit merge requests</div><div>·        Invest in multiple areas of the mobile development cycle: CI/CD, app health monitoring and alerting, data-driven analysis</div><div>·        Present ideas for system improvements and help to shape the future of our company</div><div>·        Continuously monitor and improve application, reliability and performance optimisation</div><div>·        Participate in design sprints when building new features or products</div><div> </div><div>
+<strong>Main requirements:<br></strong><br>
+</div><div>·        BSc/MSc in Computer Science, Engineering, or any other relevant degree</div><div>·        2+ years of experience on iOS development (Swift and the iOS SDK, Xcode, Apple Human Interface Guidelines)</div><div>·        Passion for mobile applications and a keen interest on personal development </div><div>·        Solid understanding of the full mobile development life cycle</div><div>·        Have successfully published at least one iOS application to App Store (portfolio of apps on App Store)  </div><div>·        A keen interest in benchmarking and optimisation</div><div>·        Showcase of open-source projects and technical blogs will be considered as a plus</div><div>·        Proactive, sharp, efficient and organised</div><div>·        Excellent team working skills</div><div> </div><div><br></div><div>
+<strong>Benefit from:<br></strong><br>
+</div><div>·        Attractive remuneration package</div><div>·        Food allowance </div><div>·        Intellectually stimulating work environment</div><div>·        Continuous personal development and international training opportunities</div><div><br></div><div>
+<br>Type of employment: Full time<br><br>
+</div><div>Location: Cyprus, Greece or Remote<br><br>
+</div><div> </div><div>Please visit this linkhttps://www.xm.com/careers to submit your online application for this position.<br><br>
+</div><div>
+<strong><br>All applications will be treated with strict confidentiality!<br></strong><br>
+</div><div> </div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-ios-developer-cyprus-greece-or-remote-6">https://weworkremotely.com/remote-jobs/xm-ios-developer-cyprus-greece-or-remote-6</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +132,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/contra-game-developer-in-unreal-engine" align="right" target="_blank">Apply</a>
@@ -49,7 +171,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/seo-sherpa-web-developer" align="right" target="_blank">Apply</a>
@@ -86,180 +208,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8558/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>DesignFiles</h5>
-                    <h3> Full-Stack Ruby on Rails Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>9 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/designfiles-full-stack-ruby-on-rails-developer-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/8558/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Remote
-    <br /><strong>URL:</strong> <a href="https://designfiles.co">https://designfiles.co</a>
-</p>
-
-<div>
-<strong>At DesignFiles we're looking for a Full-Stack Ruby on Rails Developer to join our engineering team.<br></strong><br>
-</div><div><strong>About the Job:</strong></div><div>
-<br>DesignFiles is an interior design project management software company on a mission to help interior designers and home furnishing retailers take their design services and businesses to new heights. With 5,000+ customers and 20+ team members located all over the world, we're growing quickly and looking for our next driven and talented team member.<br><br>
-</div><div>We’re looking for a Full Stack Ruby on Rails Developer to join the company to drive product development from the ground level.<br><br>
-</div><div>
-<em>Please note: This is a contract role and we are looking for individuals (not agencies) that can commit 40+ hours a week to become a core member of our team.<br></em><br>
-</div><div>
-<br><strong>What You'll Do:</strong>
-</div><ul>
-<li>Write, review and improve Ruby and JavaScript code working in Unix environment.<br><br>
-</li>
-<li>Collaborate with our product team to bring features from conception to completion.<br><br>
-</li>
-<li>Develop features with an emphasis on consistency and integrity at all levels of the stack.<br><br>
-</li>
-<li>Improve DesignFiles' engineering culture with an eye for best practices, code quality and code reviews.<br><br>
-</li>
-<li>Actively contribute to the project with ideas and solutions to constantly improve the lives of our designers and their clients.<br><br>
-</li>
-<li>Participate in Sprint Planning, Retros, 1:1s<br><br>
-</li>
-</ul><div>
-<br><strong>What We Want From You:</strong>
-</div><ul>
-<li>5+ years experience as a full-stack developer.<br><br>
-</li>
-<li>3+ years of hands-on Ruby on Rails experience.<br><br>
-</li>
-<li>Strong experience with Ruby on Rails: rubocop, minitest-spec-rails, delayed job, paperclip, paranoia, etc.<br><br>
-</li>
-<li>Strong experience with modern JavaScript/CSS: Webpack, Gulp, eslint, prettier, BEM.<br><br>
-</li>
-<li>Solid knowledge of unix shell, PostgreSQL, Docker, Node.js, AWS S3.<br><br>
-</li>
-<li>Fluent English, good communication skills and full presence during agreed work hours.<br><br>
-</li>
-<li>Taking responsibility for testing own code, thinking through the edge cases and ability to work productively without close supervision.</li>
-</ul><div><br></div><div>Sounds interesting? Apply here &gt;&gt; https://designfiles.homerun.co/full-stack-ruby-on-rails-developer</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/designfiles-full-stack-ruby-on-rails-developer-2">https://weworkremotely.com/remote-jobs/designfiles-full-stack-ruby-on-rails-developer-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0015/2558/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Prospect</h5>
-                    <h3> Java Developer (Backend)</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>12 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/prospect-java-developer-backend" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0015/2558/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Waterloo, Canada
-    <br /><strong>URL:</strong> <a href="https://tryprospect.com">https://tryprospect.com</a>
-</p>
-
-<div>We are a remote startup (headquartered in Canada) building a smart, curious, and driven team that’s making software to help sales reps sell better.</div><div>
-<br>Prospect is a lead generation app that helps you find contact data right inside your browser in real time. The best sales teams from the top tech companies worldwide use Prospect to crush their sales targets.</div><div><br></div><div><strong>About You</strong></div><div>
-<br>We are currently a team of 15 people — you will be #16.</div><div>
-<br>You enjoy writing beautiful code. You care not just about whether the code works, but you think deeply about how well it performs, and how it will be understood by future developers.</div><div>
-<br>You like shipping things. You realize that building excellent products is a marathon, not a sprint, and regularly make improvements in iterations.</div><div>
-<br>You are an excellent communicator. You realize that working remotely requires thoughtful communication and you do so through great written communication.</div><div>
-<br>You self-manage and are open to feedback. You enjoy taking a goal and figuring out how to ship it without heavy direction and regular check-ins.</div><div>
-<br>You are product and customer-centric. Whether it is a bug fix, perf improvement, or a new feature, you realize that every line of code is an opportunity to make a user’s experience better.</div><div><strong><br>Our Engineering Team</strong></div><div>
-<br>We are currently a team of 7 developers. Our roles are divided based on the projects we work on.</div><div>
-<br>We work in 4-week long development cycles in which we focus on adding new features, fixing bugs, or making improvements. After each cycle, we have a 2-week cool-off which we use to work on anything we would like to as well as plan for the next cycle.</div><div>
-<br>Our stack is currently:</div><ul>
-<li>
-<strong>Backend</strong>: Java 17 (Spring)</li>
-<li>
-<strong>Cloud</strong>: AWS, managed by Terraform</li>
-<li>
-<strong>Database</strong>: AWS DynamoDB and PostgreSQL</li>
-<li>
-<strong>Frontend</strong>: TypeScript, React</li>
-<li>
-<strong>Internal</strong>: GitLab, LaunchDarkly, Linear</li>
-</ul><div>
-<br><strong>Projects You Will Work On</strong>
-</div><div>
-<br>You will be working on our backend, a REST API written using modern Java practices.</div><div>
-<br>This is a high-impact role. We are looking for someone to take real ownership of one or two core features within six months. You will own some extremely important parts of our application that serve thousands of customers.</div><div>
-<br>You will work closely with the backend and frontend team and our CTO.</div><div>
-<br>We prioritize our projects based on what customers are requesting the most.</div><div>
-<br>Some things that you might work on include:</div><ul>
-<li>
-<strong>Data</strong>: Scale our real-time data discovery engine to process 5x-10x more volume</li>
-<li>
-<strong>DevOps</strong>: Speed up our CI pipeline for faster builds</li>
-<li>
-<strong>Integrations</strong>: Add features to our existing integrations</li>
-<li>
-<strong>Monitoring</strong>: Modernize our logging and metrics infrastructure</li>
-<li>
-<strong>Reporting</strong>: Add functionality to allow customers to run advanced custom usage reports</li>
-</ul><div>
-<br><strong>Hiring Process</strong>
-</div><div>
-<br>Our process is as follows:</div><ol>
-<li>
-<strong>Initial screening (90 min)</strong>: Complete an asynchronous questionnaire and a relevant coding challenge</li>
-<li>
-<strong>CTO Interview (30 min)</strong>: A call with our CTO to delve into your experiences and discuss the projects we’re working on</li>
-<li>
-<strong>Live coding session (3 hours)</strong>: Collaborate on a problem with our team in real-time</li>
-<li>
-<strong>Founder’s interview (30 min)</strong>: A final conversation with our founders to understand your personal goals and share our company vision</li>
-<li>
-<strong>Job offer</strong>: If we find you're a great fit, we'll make you an offer at this stage</li>
-</ol><div>
-<br><strong>Must Haves</strong>
-</div><ul>
-<li>5+ years of Java programming experience</li>
-<li>Experience with relational databases</li>
-<li>Familiarity with Spring</li>
-</ul><div>
-<br><strong>Nice To Haves</strong>
-</div><ul>
-<li>Previous work experience using Spring Boot or similar modern Java frameworks</li>
-<li>Proficiency with modern infrastructure tools, such as Terraform</li>
-<li>Experience with AWS or other cloud vendors</li>
-<li>Track record in building concurrent systems at scale</li>
-<li>Past success working asynchronously in a fully remote environment</li>
-<li>Demonstrable usage of a metrics-centric approach, using tools like Grafana</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/prospect-java-developer-backend">https://weworkremotely.com/remote-jobs/prospect-java-developer-backend</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -270,7 +218,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/eventmobi-senior-front-end-developer-remote" align="right" target="_blank">Apply</a>
@@ -351,7 +299,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tech-guys-who-get-marketing-salesforce-com-developer-administrator" align="right" target="_blank">Apply</a>
@@ -429,7 +377,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/zipline-ui-designer-developer" align="right" target="_blank">Apply</a>
@@ -518,6 +466,42 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0126/5351/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>GoTu (formerly TempMee)</h5>
+                    <h3> Backend Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/tempmee-backend-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0126/5351/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Miami, FL, United States
+    <br /><strong>URL:</strong> <a href="https://tempmee.com">https://tempmee.com</a>
+</p>
+
+<div>Venture-backed Miami based tech startup seeking an experienced Backend Developer.<br><br>TempMee is changing the way the world works - starting with the Dental Industry! We are an ambitious and motivated tech startup that has secured multiple rounds of venture backing to create an Uber-like platform/app to disrupt the dental staffing industry. After launching in late 2019, we have already built the largest community of nationwide hygienists and dental offices, dwarfing our established competition in the dental tech staffing space. It is truly a matter of time until TempMee is the industry standard for dental staffing needs in the Dental Community!<br><br>Working with TempMee means you will be working alongside committed fellow engineers who know their work is critical to the company's success. We are a people-first company that actively seeks your input to make you more successful in your role! We like to have fun with our work and encourage you to get to know the people you work with. We have a motto - Hard work doesn’t have to be serious!<br><br>Qualifications:<br><br>- 3-5 years of experience with software development in one or more programming languages<br>- Must be available on weekdays for meetings 9 AM - 11 AM Eastern American time;<br>- 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture<br>- Solid programming skills in JavaScript<br>- Deep understanding of relational database systems, specifically MySQL and Postgres<br>- Understanding NoSQL Datastores such as ElasticSearch, and MongoDB is a plus<br>- Experience building scalable, performant, and modular solutions<br>- Understanding of modern cloud technologies such as AWS or Google Cloud<br>- Experience with microservices and service-oriented architecture</div><div>
+<br>What you'll do<br><br>- Work in an exciting and high-growth startup<br>- Research novel solutions to nuanced and often unchartered engineering challenges<br>- Work with designers, product managers, and engineers to design impactful products<br>- Perform and uphold code best practices.<br>- Produce high-quality code that raises the bar for all engineering team members<br>- Improve scalable distributed systems on the cloud<br>- Improve web applications for performance and scalability<br>- Perform quality assurance/debugging procedures to provide a secure and functional delivery<br>- Implement testing protocols for managing successful deployments across development, staging, and production environments<br>- Recommend system solutions by comparing the advantages and disadvantages of custom development and purchasing alternatives<br><br>We are excited to meet you!<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tempmee-backend-developer">https://weworkremotely.com/remote-jobs/tempmee-backend-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -528,7 +512,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>36 days ago</text>
+                <text>38 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/onthegosystems-senior-php-developer" align="right" target="_blank">Apply</a>
@@ -580,73 +564,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior Shopware Developer</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>244 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-shopware-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div><strong>The Role:</strong></div><div><br></div><div>We are looking for a Shopware developer with commercial experience for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products.</div><div><br></div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
-<li>Strong experience with Shopware</li>
-<li>Experience in JTL, Shopify, Laravel &amp; Magento </li>
-<li>Ability to work with minimal supervision.</li>
-<li>Intermediate-advanced English level.</li>
-</ul><div><br></div><div><strong>Nice-to-have: </strong></div><div><br></div><ul>
-<li>Time zone: CET (+/- 3 hours)</li>
-<li>Knowledge in Shopware 5 would be appreciated</li>
-<li>Experience in using Chat GPT</li>
-</ul><div><br></div><div><strong>Responsibilities:</strong></div><div><br></div><ul>
-<li>Development and maintenance of Shopware plugins </li>
-<li>Debugging and resolving problems related to Shopware plugins</li>
-<li>Implementing solutions related to Shopware APIs</li>
-<li>Use your skills to build, evolve, and optimize projects for the best customer experience.</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong><br>What Proxify offers<br></strong><br>
-</div><ul>
-<li>
-<strong>Career-accelerating positions at cutting-edge companies</strong><br>Discover exclusive long-term remote engagements at the world's most interesting product companies.<br><br><br>
-</li>
-<li>
-<strong>Hand-picked opportunities, just for you</strong><br>Skip the typical recruitment roadblocks and biases with personally matched engagements.<br><br><br>
-</li>
-<li>
-<strong>Fast-track your independent developer career</strong><br>Start small and gain more freedom to take on new engagements as you build your independent developer career.<br><br><br>
-</li>
-<li>
-<strong>A recruitment process that values your time<br></strong>Only one hiring process with the possibility of several positions, without any additional tests.<br><br>
-</li>
-</ul><div>
-<br><strong>Salary Range: </strong>€3,200  - €6,080 per month<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-shopware-developer">https://weworkremotely.com/remote-jobs/proxify-ab-senior-shopware-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0017/3489/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -657,7 +574,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1085 days ago</text>
+                <text>1087 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
@@ -736,7 +653,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -813,7 +730,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -890,7 +807,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                     <code>CSS,docker,frontend,graphql</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-developer-1801792" align="right" target="_blank">Apply</a>
