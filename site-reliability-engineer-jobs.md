@@ -1,190 +1,5 @@
 <div align="center"><h2>SITE RELIABILITY ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/1353/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Magnolia International Ltd.</h5>
-                    <h3> Site Reliability Engineer </h3>
-                </td>
-                <td width="300">
-                    <code>DevOps and Sysadmin</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/magnolia-international-ltd-site-reliability-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0082/1353/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Switzerland
-    <br /><strong>URL:</strong> <a href="https://www.magnolia-cms.com/">https://www.magnolia-cms.com/</a>
-</p>
-
-<div>Our Site Reliability Engineers ensure a reliable and smooth interaction of the various systems Magnolia and our customers use every day. SREs apply software engineering approaches to infrastructural and operational challenges - the ultimate goal is to develop and maintain highly-exposed, fault-tolerant systems in an ever-growing and complex IT landscape. We continuously innovate to make our product more reliable, robust and fault-tolerant to fulfill our business-critical mission. SRE team plays a key role in Magnolia’s mission to further evolve its product in a world of automation and microservices.<br><br><strong><em>This is a full-time, remote role. We are primarily looking for candidates based in the USA (East Coast) and/or Europe.</em></strong><br><br><strong>What things you'll be doing?</strong>
-</div><ul>
-<li>You will work with SRE practitioners at the heart of our production environment</li>
-<li>You will be an internal advocate of DevOps culture and cloud technologies at Magnolia</li>
-<li>You will monitor service performance and ensure its smooth operation</li>
-<li>You will leverage your experience and knowledge of complex customer-facing systems to improve and automate existing tools, processes, and infrastructure</li>
-<li>You will be involved in the design, build, and deployment of scalable and secure services and provide architectural reviews, vulnerability testing, security reviews, and availability and reliability assessments</li>
-<li>You will participate in an on-call schedule </li>
-</ul><div><br></div><div><strong>What do we need from you?</strong></div><ul>
-<li>BA/BS in Computer Science or related technical field, or equivalent practical experience</li>
-<li>Experience with Cloud infrastructure - preferably AWS and Kubernetes</li>
-<li>Experience with Infrastructure as Code: Terraform/Terratest, Configuration Management tools (eg. Ansible)</li>
-<li>Experience with container technologies (Docker)</li>
-<li>Experience with monitoring tools (eg. Datadog, Prometheus, CloudWatch)</li>
-<li>Experience with Kubernetes Operators is a plus</li>
-<li>Experience with a flair for automation: CI/CD pipelines, testing, automated releases and deployment strategies</li>
-<li>Programming experience with one or more relevant languages: Java, Go, Python, Bash, JavaScript</li>
-<li>Ability to analyze and troubleshoot large-scale distributed systems in production</li>
-<li>Experience in operating, optimizing, and scaling SQL databases, Kubernetes clusters and/or Datadog</li>
-<li>Familiarity with security and operation standards as well as best practices around personal data</li>
-<li>Solid communication skills</li>
-</ul><div><br></div><div><strong>We are for you if you like to:</strong></div><ul>
-<li>
-<strong>take charge:</strong> You are in the driver’s seat and set the direction according to what customers, colleagues and cultures need. No matter the roadblocks you see ahead, you take charge in (re)shaping the destination.<br><br>
-</li>
-<li>
-<strong>connect:</strong> You never drive alone. Building meaningful connections means creating experiences together that form a foundation of trust so next time there’s a bump in the road, you know someone else has your back.<br><br>
-</li>
-<li>
-<strong>be you</strong>: Choose your own ways and means. You make every perspective count so that everyone feels safe enough to follow their purpose and at the same time pursue one common goal. Your way of growing is to mutually question yourself and others.<br><br>
-</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/magnolia-international-ltd-site-reliability-engineer">https://weworkremotely.com/remote-jobs/magnolia-international-ltd-site-reliability-engineer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Contra</h5>
-                    <h3> Senior Site Reliability Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>DevOps and Sysadmin</code>
-                </td>
-                <td width="200">
-                <text>27 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/contra-senior-site-reliability-engineer-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> San Francisco, CA
-    <br /><strong>URL:</strong> <a href="http://bit.ly/3kLhMdk">http://bit.ly/3kLhMdk</a>
-</p>
-
-<div>
-<br>We're looking for a <strong>Senior Site Reliability Engineer</strong> to join our engineering team and help us build the best platform for independents &amp; clients. As a SRE, you are an integral member of our engineering organization. You'll not only help scale our infrastructure and CI/CD pipelines, but also have the chance to shape our technological choices and processes for ensuring the growth, stability and success of the Contra platform. This is a major role at a rapidly expanding startup, working with a team of highly accomplished yet humble people who are passionate about our company's mission. ✨<br><br>
-</div><div>
-<strong><br>How you’ll add value at Contra:<br></strong><br>
-</div><ul>
-<li>Expert knowledge in a wide variety of DevOps technologies &amp; best practices</li>
-<li>Knowledge and experience leveraging Google Cloud Platform natively and with complimentary tech</li>
-<li>Bridging the gap between our infrastructure and our applications, you have experience and comfort working within TypeScript/JavaScript Node.js environments and can identify and resolve issues that are impacting <a href="http://contra.com">contra.com</a> reliability</li>
-<li>Excellent communication and documentation skills</li>
-<li>Collaboration with the rest of the team through regular communication, information sharing and mentorship</li>
-<li>Designing, engineering and maintaining solutions for a highly resilient, scalable and fault-tolerant infrastructure</li>
-<li>Improving &amp; scaling CI/CD pipelines</li>
-<li>Eliminating user impacting defects raised in Sentry and GCP logs</li>
-<li>Developing, maintaining and improving monitoring, alerting and reporting tools</li>
-<li>Providing on-going operational support</li>
-<li>Identifying and improving the developer experience</li>
-<li>We expect you to be self-sufficient and take the initiative to drive the company forward. We are looking for individuals who are highly energetic, capable and ambitious, and who are eager to expand their knowledge and show how their contributions help achieve business objectives.</li>
-</ul><div>
-<strong><br>You’ll be successful here if you are:<br></strong><br>
-</div><ul>
-<li>
-<strong>Everyone Wins Together.</strong> You thrive in a collaborative, remote-only environment and you are comfortable with 8 am-1 pm PST core hours and flexibility around those hours for the rest of your work day!</li>
-<li>
-<strong>Energy is Everything.</strong> You bring a strong work ethic and contagious energy to your team as we work towards our North Star.</li>
-<li>
-<strong>Change is Good.</strong> You embrace change to evolve, improve, and build what matters.</li>
-<li>
-<strong>Think Big.</strong> No idea is too big at Contra. Our greatest successes often stem from seemingly crazy ideas. You enjoy setting ambitious goals, both individually and as a team, and strive to achieve them.</li>
-<li>
-<strong>Feedback is a Gift.</strong> Feedback is a catalyst for growth and improvement. It is routinely given and delivered with positive and actionable steps.</li>
-<li>
-<strong>The Best is Yet to Come.</strong> You strive to remain optimistic through all ups &amp; downs because you know the “best is yet to come.”</li>
-<li>
-<strong>Make it Fun.</strong> Nothing in life is worth it if it isn’t fun, even when stakes are high.</li>
-<li>
-<strong>Good People Only.</strong> You recognize that each of us brings unique experiences, backgrounds, and knowledge from which we can learn.</li>
-<li>
-<strong>GSD.</strong> We are building quickly, changing frequently, and growing fast with no plans of stopping anytime soon. You take ownership of your work and are proud to execute at a high level.</li>
-</ul><div>
-<strong><br>Our stack:<br></strong><br>
-</div><ul>
-<li>ArgoCD</li>
-<li>AlloyDB / PostgreSQL</li>
-<li>Github Actions</li>
-<li>Google Cloud Platform</li>
-<li>Fluentbit</li>
-<li>Kubernetes, Helm &amp; Docker</li>
-<li>Meillisearch</li>
-<li><a href="http://node.js/">Node.js</a></li>
-<li>OpsGenie</li>
-<li>Playwright</li>
-<li>Redis</li>
-<li>Temporal</li>
-<li>Traefik</li>
-<li>Turbo repo</li>
-<li>TypeScript</li>
-<li>Vite</li>
-<li>Vitest</li>
-</ul><div>
-<strong><br>You'll love Contra for:<br></strong><br>
-</div><ul>
-<li>🌎 Remote-only culture that is here to stay</li>
-<li>🍎 100% health coverage for US full-time employees, and health reimbursements for all international contractors</li>
-<li>💸 $4,000 laptop reimbursement upon starting + additional for equipment, co-working, and meetups</li>
-<li>💰 401k matching for US full-time employees</li>
-<li>💛 No-meeting Tuesdays &amp; Wednesdays</li>
-<li>👋 Generous time off</li>
-<li>👶 Flexible parental leave</li>
-<li>💁 A custom slack emoji, just for you!</li>
-</ul><div>
-<strong><br>Our interview process:<br></strong><br>
-</div><ul>
-<li>Intro Call (15-30 minutes)</li>
-<li>Interview #1 In Depth Technical Discussion Chat with Hiring Manager (45 minutes)</li>
-<li>Assessment</li>
-<li>Interview #2 Culture Interview (30 minutes)</li>
-<li>Interview #3 Technical Interview with Engineering Manager (45 minutes)</li>
-<li>Interview #4 CTO &amp; Co-Founder Interview (30 minutes)</li>
-<li>Interview #5 Interview with CEO &amp; Co-Founder (30 minutes)</li>
-</ul><div>
-<strong><br>Salary + Equity Range<br></strong><br>
-</div><ul>
-<li>$145K -$160K USD</li>
-<li>Equity Value Range: $180k+ USD<br><br>
-</li>
-</ul><div>Apply Here: <a href="https://contra-ambassadors.typeform.com/to/qbUvpUoB">https://contra-ambassadors.typeform.com/to/qbUvpUoB</a>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/contra-senior-site-reliability-engineer-1">https://weworkremotely.com/remote-jobs/contra-senior-site-reliability-engineer-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1803829/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -195,7 +10,7 @@
                     <code>cloud,docker,javascript,kubernetes</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-site-reliability-engineer-1803829" align="right" target="_blank">Apply</a>
@@ -280,6 +95,100 @@
 </ul>
 <p style="text-size-adjust: 100%; overflow-wrap: break-word; color: #212529;"> </p>
 <img src="https://remotive.com/job/track/1803829/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1651226564728700928/h0tz5UT1_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Supabase</h5>
+                    <h3>Cloud Platform / Site Reliability Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/supabase/jobs/5013075004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p><img src="https://pbs.twimg.com/media/FIdU8GJWQAUGWRA?format=jpg&amp;name=small" alt="Join Supabase" width="680" height="453"></p></div>
+
+    <p>Supabase is an Open Source and fully remote company building developer tools for databases.</p>
+<p>We are seeking an experienced Cloud Platform /Site Reliability Engineer to manage our hosted cloud offering, which currently serves over 100k Postgres instances and is growing at a rate of 10% each month.</p>
+<h3>You will:</h3>
+<ul>
+<li>Help build the Supabase Cloud offering.</li>
+<li>Improve our system architecture to reduce costs while balancing security and performance.</li>
+<li>Work on designing and tracking metrics for platform uptime.</li>
+<li>Increase observability into our system by capturing relevant metrics and logs.</li>
+<li>Implement and maintain intrusion detection, automated remediation and patch management systems.</li>
+<li>Design CI/CD systems to speed up deployments with proper change and release management processes.</li>
+<li>Work on our SOC2 and GDPR compliance initiatives.</li>
+</ul>
+<h3>You are:</h3>
+<ul>
+<li>Experience in designing multi-tenant database solutions, designing for failover, fault-tolerance, and disaster recovery;</li>
+<li>5+ years experience in SRE/DevOps/Cloud Infrastructure;</li>
+<li>3+ years of experience in building with Golang;</li>
+<li>Experience in managing large deployments on AWS;</li>
+<li>Knowledge of networking;</li>
+<li>Experience with Infrastructure as Code tools;</li>
+</ul>
+<p><strong>We offer:</strong></p>
+<ul>
+<li>100% remote work from anywhere in the world. No location-based adjustment to your salary.</li>
+<li>ESOP (equity ownership in the company)</li>
+<li>Autonomous work. We work collaboratively on projects, but you set your own pace.</li>
+<li>Health, Vision and Dental benefits. Supabase covers 100% of the cost for employees and 80% for dependents</li>
+<li>Generous Tech Allowance for any office setup you need</li>
+<li>Annual Education Allowance</li>
+<li>Annually run off-sites.</li>
+</ul>
+<p>&nbsp;</p>
+
+    
+
+    <div class="content-conclusion"><h3>BUILD IN A WEEKEND. SCALE TO BILLIONS</h3>
+<p>Supabase adds auth, realtime, and restful APIs to Postgres without a single line of code.</p>
+<p>Each project within Supabase is an isolated&nbsp;Postgres cluster, allowing customers to scale independently, while still providing the features that you need to build: instant database setup, auth, row level security, realtime data streams, auto-generating APIs, and a simple to use web interface.</p>
+<p>We are a fully remote company.</p>
+<p>Key Tech: Javascript, Typescript, Go, Elixir, PostgREST (haskell), Postgres, Pulumi.</p>
+<h3><a id="about-the-team" class="anchor"></a>About the team</h3>
+<ul>
+<li>We're a startup. It's unstructured.</li>
+<li>Collectively founded more than a dozen venture-backed companies.</li>
+<li>More than 10 different nationalities.</li>
+<li>We deeply believe in <a href="https://supabase.com/blog/2022/03/25/should-i-open-source-my-company" target="_blank">the efficacy of collaborative open source</a>. We support existing communities and tools, rather than building "yet another xx".</li>
+<li>We "dogfood" everything. If you use it in your project, we use it in Supabase.</li>
+</ul>
+<h2><a id="process" class="anchor"></a>Process</h2>
+<ul>
+<li>The entire process is fully remote and all communication will happen over email or via video chat.</li>
+<li>Once you've submitted your application, the team will review your submission, and may reach out for a short screening interview over video call.</li>
+<li>If you pass the screen you will be invited to up to four follow up interviews. The calls:
+<ul>
+<li>usually take between 20-45 minutes each depending on the interviewer.</li>
+<li>are all 1:1.</li>
+<li>will be with both founders, a member of either the growth or engineering team (depending on the role), and usually one other person from your immediate team or function.</li>
+</ul>
+</li>
+<li>Once the interviews are over, the team will meet to discuss several roles and candidates and may:
+<ul>
+<li>ask one or two follow-up questions over email or a quick call.</li>
+<li>go directly to making an offer.</li>
+</ul>
+</li>
+</ul>
+<h2>&nbsp;</h2></div>
+
                 </details>
                 </td>
             </tr>,<tr>
