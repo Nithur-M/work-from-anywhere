@@ -320,7 +320,7 @@
 <li>You have a deep knowledge of Kubernetes, including working with and developing applications using the operator pattern.</li>
 <li>Bonus: You have experience with database complex database schema migrations and Postgres internals.</li>
 </ul>
-<p>It doesn't matter if you're not an expert on all points, what really counts is that you understand the complexities of releasing software, and thrive to make it a seamless experience for both our customers and our teammates. Ultimately, you can jump at any point in the delivery pipeline and understand how to fix issues.</p>
+<p>Apart from Go proficiency, it doesn't matter if you're not an expert on all points, what really counts is that you understand the complexities of releasing software, and thrive to make it a seamless experience for both our customers and our teammates. Ultimately, you can jump at any point in the delivery pipeline and understand how to fix issues.</p>
 <h2><span style="color: rgb(140, 51, 236);"><strong>Level</strong></span></h2>
 <p>📊 This job is an IC3.&nbsp; You can read more about <a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/leveling-guide/">our job leveling philosophy</a> in our Handbook.</p>
 <h2><span style="color: rgb(140, 51, 236);"><strong>Compensation</strong></span></h2>
@@ -550,176 +550,6 @@
 <p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
 <p>Why Join MixRank? Fully-remote, no HQ office. Team of 32 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
 <p>Please include your updated resume when applying for this role.</p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Status</h5>
-                    <h3>Software Engineer Data Science</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=5479806&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol; the p2p communication layer for Web3.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <div class="careers-block__trix external-panel text-left">
-<div>&nbsp;</div>
-<div>
-<p><strong>About Waku</strong></p>
-<p>We are building Waku as a public good infrastructure. Waku is uncompromising Web3 communication at scale. It is a decentralized, censorship-resistant, privacy-preserving communication network that enables anyone to send and receive messages without worrying about surveillance or deplatforming.</p>
-<p>We are enabling Ethereum builders to create new projects with a fully decentralized architecture, think dApp to Wallet notifications, NFT marketplaces, censorship-resistant chat, layer-2 and more.&nbsp;</p>
-<p>Waku enables a variety of complex use cases and applications. To facilitate the adoption of Waku, you will design and implement application protocols to provide to dapp developers as off-the-shelf SDKs.</p>
-<p><a href="https://boards.greenhouse.io/embed/waku.org">Waku.org&nbsp;</a></p>
-<p><strong>Key responsibilities:</strong></p>
-</div>
-<div>
-<ul>
-<li>Design and implement network simulation tools and solutions to validate the functionality and performance of distributed systems.</li>
-<li>Run, analyze, and report on small-scale simulations to test the behavior of a specific protocol change or software implementation, or to simulate a type of attack on the Waku clients.</li>
-<li>Own, maintain and improve the <a href="https://github.com/waku-org/waku-simulator">waku-simulator</a> framework to enable running local simulations of the Waku network.</li>
-<li>Work closely with Waku engineers and researchers to help design and analyze simulations needed to validate assumptions.</li>
-<li>Assist engineers by conducting ad-hoc regression testing, reproducing bugs, and testing bug fixes.</li>
-<li>Be the point of contact within the Waku team for the the Vac/DST (Distributed System Test) Team who is in charge of large scale simulations and QA activities.</li>
-<li>Pre-empt and plan small scale simulations to study the behaviour of Waku clients, identify potential bottlenecks and performance optimization, then handover to DST for large scale simulation to confirm findings.</li>
-<li>Foresee, and help plan and execute any other testing activities that helps ensure the production readiness of Waku, including secure scaling.</li>
-<li>Help provide visibility on testing and simulation output, to ensure that the wider Waku ecosystem is informed of the expected performance of the Waku protocol and software.</li>
-</ul>
-</div>
-<div>
-<p><strong>You ideally will have:</strong></p>
-</div>
-<div>
-<ul>
-<li>A passion for blockchain technology, privacy-preserving technology and decentralization.</li>
-<li>Solid experience with scripting languages (Python, Shell) and a systems language like Rust, C++, Nim, Go.</li>
-<li>Strong foundation in networks and system programming.</li>
-<li>Working knowledge of Docker and POSIX-like systems.</li>
-<li>Algorithm design skills.&nbsp;</li>
-<li>Have a strong alignment to our principles:&nbsp;<a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a>&nbsp;</li>
-</ul>
-<p><strong>Hiring process:</strong></p>
-<ul>
-<li>Call with Talent</li>
-<li>Interview with Waku Research team member or lead</li>
-<li>Take home task (paid)</li>
-<li>Interview with another Waku Research team member or Lead to present home task and discuss further</li>
-<li>Interview with Waku Lead</li>
-</ul>
-<p><strong>Compensation:</strong></p>
-</div>
-<p>We are happy to pay in any mix of fiat/crypto.</p>
-<p>&nbsp;</p>
-</div>
-
-    
-
-    
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Status</h5>
-                    <h3>Software Engineer (Test Simulation)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=5310503&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol; the p2p communication layer for Web3.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <div class="careers-block__trix external-panel text-left">
-<div>&nbsp;</div>
-<div>
-<p><strong>About Waku</strong></p>
-<p>We are building Waku as a public good infrastructure. Waku is uncompromising Web3 communication at scale. It is a decentralized, censorship-resistant, privacy-preserving communication network that enables anyone to send and receive messages without worrying about surveillance or deplatforming.</p>
-<p>We are enabling Ethereum builders to create new projects with a fully decentralized architecture, think dApp to Wallet notifications, NFT marketplaces, censorship-resistant chat, layer-2 and more.&nbsp;</p>
-<p>Waku enables a variety of complex use cases and applications. To facilitate the adoption of Waku, you will design and implement application protocols to provide to dapp developers as off-the-shelf SDKs.</p>
-<p><a href="https://boards.greenhouse.io/embed/waku.org">Waku.org&nbsp;</a></p>
-<p><strong>Key responsibilities:</strong></p>
-</div>
-<div>
-<ul>
-<li>Design and implement network simulation tools and solutions to validate the functionality and performance of distributed systems.</li>
-<li>Run, analyze, and report on small-scale simulations to test the behavior of a specific protocol change or software implementation, or to simulate a type of attack on the Waku clients.</li>
-<li>Own, maintain and improve the <a href="https://github.com/waku-org/waku-simulator">waku-simulator</a> framework to enable running local simulations of the Waku network.</li>
-<li>Work closely with Waku engineers and researchers to help design and analyze simulations needed to validate assumptions.</li>
-<li>Assist engineers by conducting ad-hoc regression testing, reproducing bugs, and testing bug fixes.</li>
-<li>Be the point of contact within the Waku team for the the Vac/DST (Distributed System Test) Team who is in charge of large scale simulations and QA activities.</li>
-<li>Pre-empt and plan small scale simulations to study the behaviour of Waku clients, identify potential bottlenecks and performance optimization, then handover to DST for large scale simulation to confirm findings.</li>
-<li>Foresee, and help plan and execute any other testing activities that helps ensure the production readiness of Waku, including secure scaling.</li>
-<li>Help provide visibility on testing and simulation output, to ensure that the wider Waku ecosystem is informed of the expected performance of the Waku protocol and software.</li>
-</ul>
-</div>
-<div>
-<p><strong>You ideally will have:</strong></p>
-</div>
-<div>
-<ul>
-<li>A passion for blockchain technology, privacy-preserving technology and decentralization.</li>
-<li>Solid experience with scripting languages (Python, Shell) and a systems language like Rust, C++, Nim, Go.</li>
-<li>Strong foundation in networks and system programming.</li>
-<li>Working knowledge of Docker and POSIX-like systems.</li>
-<li>Algorithm design skills.&nbsp;</li>
-<li>Have a strong alignment to our principles:&nbsp;<a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a>&nbsp;</li>
-</ul>
-<p><strong>Hiring process:</strong></p>
-<ul>
-<li>Call with Talent</li>
-<li>Interview with Waku Research team member or lead</li>
-<li>Take home task (paid)</li>
-<li>Interview with another Waku Research team member or Lead to present home task and discuss further</li>
-<li>Interview with Waku Lead</li>
-</ul>
-<p><strong>Compensation:</strong></p>
-</div>
-<p>We are happy to pay in any mix of fiat/crypto.</p>
-<p>&nbsp;</p>
-</div>
-
-    
-
-    
 
                 </details>
                 </td>
@@ -1883,7 +1713,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt">Mechanical Orchard is a new kind of software consultancy. We build new applications and replace legacy systems for a wide range of customers, spanning from seed stage startups to the Fortune 500, but it doesn’t end there. We run what we build, and build what we run. Our customers focus on their business, rather than manage all the cost, complexity, and risk that comes with operating production systems.</span></div><div><br></div><div><span style="font-size: 11pt">Our background in software development and the impact on the industry is well known, and we've helped write the book on XP and other effective agile practices. We believe in the durable principles behind agile, and embrace the power of cross-functional teams, collective ownership, test driven development, short feedback loops, and continuous improvement.</span></div><div><br></div><div><span style="font-size: 11pt">We are Generous, Ethical, Effective, and Kind.</span></div><div><br></div><div><span style="font-size: 11pt">As a Software Engineer at Mechanical Orchard, you will be expected to:</span></div><div><br></div><div><span style="font-size: 11pt">- Work as part of small, cross functional XP teams building production applications for customers or for Mechanical Orchard using Elixir or other modern programming languages </span></div><div><span style="font-size: 11pt">- Pair program with other engineers and collaborate closely with other roles such as&nbsp; product managers and designers</span></div><div><span style="font-size: 11pt">- Apply and evolve XP engineering practices such pair programming, test-driven development, refactoring, continuous integration and continuous delivery</span></div><div><span style="font-size: 11pt">- Operate and support production applications as a team in the context of the agile DevOps model</span></div><div><span style="font-size: 11pt">- Help onboard client developers and/or new Mechanical Orchard team members with practices and techniques</span></div><div><span style="font-size: 11pt">- Lead and collaborate on technical discovery efforts for existing customer systems including legacy applications</span></div><div><span style="font-size: 11pt">- Continuously learn about relevant emerging technologies or practices and foster the growth of the organization through mentorship, tech talks, and other means</span></div><div><br></div><div><span style="font-size: 11pt">The ideal candidate has worked as a software engineer in a professional, team based environment, with some exposure or demonstrated passion for&nbsp; XP practices such as pair programming and test driven development.&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">They are comfortable as a full stack developer, and have expertise in at least one modern programming language and application framework.</span></div><div><br></div><div><span style="font-size: 11pt">Strong communication and collaboration skills as well as empathy are essential for working closely with the development team, customers, and others at Mechanical Orchard.</span></div><div><br></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 11pt">Mechanical Orchard, Inc. is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind. Mechanical Orchard, Inc. is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Mechanical Orchard, Inc. are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Mechanical Orchard, Inc. will not tolerate discrimination or harassment based on any of these characteristics. Mechanical Orchard, Inc. encourages applicants of all ages. Mechanical Orchard, Inc. will provide reasonable accommodation to employees who have protected disabilities consistent with local law.</span></div><div><br></div><div>We look forward to reviewing your application. Thanks!</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/mechanicalorchard/b60587e2-0046-4e35-b7c3-5da3ff46348f/apply">Apply for this job</a></div>
+                <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt">Mechanical Orchard is a fast-growing startup that takes a fresh view on old problems. We replace legacy computing systems for the Global 2000, with a focus on mitigating risk and creating a genuinely solid foundation for innovating and adapting.&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">Our background in software development and the impact on the industry is well known, and we've literally helped write the book on XP and other impactful agile practices. We’re applying the same thoughtfulness and rigor in weaving AI into everything we do. We believe in the durable principles behind agile, and embrace the power of cross-functional teams, collective ownership, test driven development, short feedback loops, and continuous improvement.</span></div><div><br></div><div><span style="font-size: 11pt">We are Generous, Ethical, Effective, and Kind.</span></div><div><br></div><div><span style="font-size: 11pt">As a Software Engineer at Mechanical Orchard, you will be expected to:</span></div><div><br></div><div><span style="font-size: 11pt">- Work as part of small, cross functional XP teams building production applications for customers or for Mechanical Orchard using Elixir or other modern programming languages </span></div><div><span style="font-size: 11pt">- Pair program with other engineers and collaborate closely with other roles such as&nbsp; product managers and designers</span></div><div><span style="font-size: 11pt">- Apply and evolve XP engineering practices such pair programming, test-driven development, refactoring, continuous integration and continuous delivery</span></div><div><span style="font-size: 11pt">- Operate and support production applications as a team in the context of the agile DevOps model</span></div><div><span style="font-size: 11pt">- Help onboard client developers and/or new Mechanical Orchard team members with practices and techniques</span></div><div><span style="font-size: 11pt">- Lead and collaborate on technical discovery efforts for existing customer systems including legacy applications</span></div><div><span style="font-size: 11pt">- Continuously learn about relevant emerging technologies or practices and foster the growth of the organization through mentorship, tech talks, and other means</span></div><div><br></div><div><span style="font-size: 11pt">The ideal candidate has worked as a software engineer in a professional, team based environment, with some exposure or demonstrated passion for&nbsp; XP practices such as pair programming and test driven development.&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">They are comfortable as a full stack developer, and have expertise in at least one modern programming language and application framework.</span></div><div><br></div><div><span style="font-size: 11pt">Strong communication and collaboration skills as well as empathy are essential for working closely with the development team, customers, and others at Mechanical Orchard.</span></div><div><br></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 11pt">Mechanical Orchard, Inc. is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind. Mechanical Orchard, Inc. is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Mechanical Orchard, Inc. are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Mechanical Orchard, Inc. will not tolerate discrimination or harassment based on any of these characteristics. Mechanical Orchard, Inc. encourages applicants of all ages. Mechanical Orchard, Inc. will provide reasonable accommodation to employees who have protected disabilities consistent with local law.</span></div><div><br></div><div>We look forward to reviewing your application. Thanks!</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/mechanicalorchard/b60587e2-0046-4e35-b7c3-5da3ff46348f/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1907,7 +1737,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt">Mechanical Orchard is a new kind of software consultancy. We build new applications and replace legacy systems for a wide range of customers, spanning from seed stage startups to the Fortune 500, but it doesn’t end there. We run what we build, and build what we run. Our customers focus on their business, rather than manage all the cost, complexity, and risk that comes with operating production systems.</span></div><div><br></div><div><span style="font-size: 11pt">Our background in software development and the impact on the industry is well known, and we've helped write the book on XP and other effective agile practices. We believe in the durable principles behind agile, and embrace the power of cross-functional teams, collective ownership, test driven development, short feedback loops, and continuous improvement.</span></div><div><br></div><div><span style="font-size: 11pt">We are Generous, Ethical, Effective, and Kind.</span></div><div><br></div><div><span style="font-size: 11pt">Generative AI plays an increasingly important role for us, in particular around reverse engineering of legacy systems, and we are applying it in pragmatic ways that </span><a href="https://www.mechanical-orchard.com/post/the-ai-robots-are-not-coming-for-our-jobs" style="font-size: 11pt" class="postings-link">augments our human teams</a><span style="font-size: 11pt">.</span></div><div><br></div><div><span style="font-size: 11pt">We’re looking for engineers with generative AI experience to join our R&amp;D practice. On this team, we’re developing tools and processes to enable our delivery teams, with an eye towards creating a platform to help dramatically improve and accelerate our legacy modernization efforts at scale.</span></div><div><br></div><div><span style="font-size: 11pt">As an R&amp;D Software Engineer at Mechanical Orchard, you will be expected to:</span></div><div><br></div><div><span style="font-size: 11pt">- Work as part of cross functional team researching and building internal and/or customer facing tools and platforms using Elixir, python, and/or other modern programming languages</span></div><div>- <span style="font-size: 11pt">Incorporate and integrate generative AI technology including LLMs using tools such as LangChain and approaches such as prompt engineering, retrieval augmented generation, and model fine tuning or training</span></div><div>- <span style="font-size: 11pt">Pair program with other engineers and collaborate closely with other roles such as&nbsp; product managers and designers</span></div><div>- <span style="font-size: 11pt">Apply and evolve XP engineering practices such pair programming, test-driven development, refactoring, continuous integration and continuous delivery</span></div><div>- <span style="font-size: 11pt">Operate and support production platforms and applications as a team in the context of the agile DevOps model</span></div><div>- <span style="font-size: 11pt">Collaborate with other teams at Mechanical Orchard, including client delivery and sales teams on technical discovery efforts for existing customer systems including legacy applications</span></div><div>- <span style="font-size: 11pt">Continuously learn about relevant emerging technologies or practices and foster the growth of the team and organization through mentorship, tech talks, and other means</span></div><div><br></div><div><span style="font-size: 11pt">As the ideal candidate, you've worked as a software engineer in a professional, team based environment, with exposure or demonstrated passion for XP practices such as pair programming and test driven development.&nbsp;</span></div><div><br></div><div><span style="font-size: 14.6667px">You are comfortable in a full stack developer role, but have deeper expertise in at least one modern programming language and application framework.</span></div><div><br></div><div><span style="font-size: 14.6667px">You have a foundation of theoretical knowledge about machine learning and data science, combined with recent practical experience with generative AI including LLM prompt engineering, evaluation, application integration, and production deployment.</span></div><div><br></div><div><span style="font-size: 11pt">Strong communication and collaboration skills as well as empathy are essential for working closely with the R&amp;D team, our internal and external customers, and others at Mechanical Orchard.</span></div><div><br></div><div><span style="font-size: 11pt">This is a full time, remote position, and we’re looking for candidates in the US Eastern, US Central, or European time zones.</span></div><div><br></div><div><span style="font-size: 11pt">Occasional travel may be required for customer visits or team gatherings.&nbsp;</span></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 11pt">Mechanical Orchard, Inc. is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind. Mechanical Orchard, Inc. is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Mechanical Orchard, Inc. are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Mechanical Orchard, Inc. will not tolerate discrimination or harassment based on any of these characteristics. Mechanical Orchard, Inc. encourages applicants of all ages. Mechanical Orchard, Inc. will provide reasonable accommodation to employees who have protected disabilities consistent with local law.</span></div><div><br></div><div>We look forward to reviewing your application. Thanks!</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/mechanicalorchard/a349636d-9d4f-4219-add3-3afb211b4dd7/apply">Apply for this job</a></div>
+                <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt">Mechanical Orchard is a fast-growing startup that takes a fresh view on old problems. We replace legacy computing systems for the Global 2000, with a focus on mitigating risk and creating a genuinely solid foundation for innovating and adapting.&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">Our background in software development and the impact on the industry is well known, and we've literally helped write the book on XP and other impactful agile practices. We’re applying the same thoughtfulness and rigor in weaving AI into everything we do. We believe in the durable principles behind agile, and embrace the power of cross-functional teams, collective ownership, test driven development, short feedback loops, and continuous improvement.</span></div><div><br></div><div><span style="font-size: 11pt">We are Generous, Ethical, Effective, and Kind.</span></div><div><br></div><div><span style="font-size: 11pt">Generative AI plays an increasingly important role for us, in particular around reverse engineering of legacy systems, and we are applying it in pragmatic ways that </span><a href="https://www.mechanical-orchard.com/post/the-ai-robots-are-not-coming-for-our-jobs" style="font-size: 11pt" class="postings-link">augments our human teams</a><span style="font-size: 11pt">.</span></div><div><br></div><div><span style="font-size: 11pt">We’re looking for engineers with generative AI experience to join our R&amp;D practice. On this team, we’re developing tools and processes to enable our delivery teams, with an eye towards creating a platform to help dramatically improve and accelerate our legacy modernization efforts at scale.</span></div><div><br></div><div><span style="font-size: 11pt">As an R&amp;D Software Engineer at Mechanical Orchard, you will be expected to:</span></div><div><br></div><div><span style="font-size: 11pt">- Work as part of cross functional team researching and building internal and/or customer facing tools and platforms using Elixir, python, and/or other modern programming languages</span></div><div>- <span style="font-size: 11pt">Incorporate and integrate generative AI technology including LLMs using tools such as LangChain and approaches such as prompt engineering, retrieval augmented generation, and model fine tuning or training</span></div><div>- <span style="font-size: 11pt">Pair program with other engineers and collaborate closely with other roles such as&nbsp; product managers and designers</span></div><div>- <span style="font-size: 11pt">Apply and evolve XP engineering practices such pair programming, test-driven development, refactoring, continuous integration and continuous delivery</span></div><div>- <span style="font-size: 11pt">Operate and support production platforms and applications as a team in the context of the agile DevOps model</span></div><div>- <span style="font-size: 11pt">Collaborate with other teams at Mechanical Orchard, including client delivery and sales teams on technical discovery efforts for existing customer systems including legacy applications</span></div><div>- <span style="font-size: 11pt">Continuously learn about relevant emerging technologies or practices and foster the growth of the team and organization through mentorship, tech talks, and other means</span></div><div><br></div><div><span style="font-size: 11pt">As the ideal candidate, you've worked as a software engineer in a professional, team based environment, with exposure or demonstrated passion for XP practices such as pair programming and test driven development.&nbsp;</span></div><div><br></div><div><span style="font-size: 14.6667px">You are comfortable in a full stack developer role, but have deeper expertise in at least one modern programming language and application framework.</span></div><div><br></div><div><span style="font-size: 14.6667px">You have a foundation of theoretical knowledge about machine learning and data science, combined with recent practical experience with generative AI including LLM prompt engineering, evaluation, application integration, and production deployment.</span></div><div><br></div><div><span style="font-size: 11pt">Strong communication and collaboration skills as well as empathy are essential for working closely with the R&amp;D team, our internal and external customers, and others at Mechanical Orchard.</span></div><div><br></div><div><span style="font-size: 11pt">This is a full time, remote position, and we’re looking for candidates in the US Eastern, US Central, or European time zones.</span></div><div><br></div><div><span style="font-size: 11pt">Occasional travel may be required for customer visits or team gatherings.&nbsp;</span></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 11pt">Mechanical Orchard, Inc. is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind. Mechanical Orchard, Inc. is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Mechanical Orchard, Inc. are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Mechanical Orchard, Inc. will not tolerate discrimination or harassment based on any of these characteristics. Mechanical Orchard, Inc. encourages applicants of all ages. Mechanical Orchard, Inc. will provide reasonable accommodation to employees who have protected disabilities consistent with local law.</span></div><div><br></div><div>We look forward to reviewing your application. Thanks!</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/mechanicalorchard/a349636d-9d4f-4219-add3-3afb211b4dd7/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
