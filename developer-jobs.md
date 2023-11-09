@@ -10,7 +10,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -87,7 +87,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -409,7 +409,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
                 <td width="300">
                     <h5>Status</h5>
-                    <h3>Senior C++ Qt/QML developer for blockchain app</h3>
+                    <h3>Senior C++ Qt/QML developer</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -586,6 +586,87 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
+<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
+<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
+<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
+<h2>What your day will look like</h2>
+<p>In a typical day, a developer relations engineer might:</p>
+<ul>
+<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
+<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
+<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
+<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
+<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
+<li>work on technical articles, presentations or workshops&nbsp;</li>
+<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
+<li>present at conferences, meetups or technical events</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<p>A strong candidate</p>
+<ul>
+<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
+<li>has worked with real-world challenges developing and deploying software using Linux</li>
+<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
+<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
+<li>has been a contributor to open-source communities, software and documentation</li>
+<li>is an engaging, vivacious speaker and presenter</li>
+<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
+<li>builds trust, relationships and confidence</li>
+<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
+</ul>
+<h2>Additional skills that you might also bring</h2>
+<ul>
+<li>previous experience in a developer advocacy or community role</li>
+<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
+</ul>
+
+<h2>What we offer you</h2>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote&nbsp;</p>
+
+<p><br><br></p><p>Requisition ID: 1114</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Developer Relations Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
                 <a href="https://canonical.com/careers/3655681" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
@@ -651,87 +732,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote</p>
 <h2><br><br></h2><p>Requisition ID: 799</p><p></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Developer Relations Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
-<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
-<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
-<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
-<h2>What your day will look like</h2>
-<p>In a typical day, a developer relations engineer might:</p>
-<ul>
-<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
-<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
-<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
-<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
-<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
-<li>work on technical articles, presentations or workshops&nbsp;</li>
-<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
-<li>present at conferences, meetups or technical events</li>
-</ul>
-<h2>What we are looking for in you</h2>
-<p>A strong candidate</p>
-<ul>
-<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
-<li>has worked with real-world challenges developing and deploying software using Linux</li>
-<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
-<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
-<li>has been a contributor to open-source communities, software and documentation</li>
-<li>is an engaging, vivacious speaker and presenter</li>
-<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
-<li>builds trust, relationships and confidence</li>
-<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
-</ul>
-<h2>Additional skills that you might also bring</h2>
-<ul>
-<li>previous experience in a developer advocacy or community role</li>
-<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
-</ul>
-
-<h2>What we offer you</h2>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote&nbsp;</p>
-
-<p><br><br></p><p>Requisition ID: 1114</p><p></p>
     
                 </details>
                 </td>
