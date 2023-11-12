@@ -10,7 +10,7 @@
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -73,107 +73,6 @@
 <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a new type of company for a new kind of independent software builder. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </span></p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</span></p>
 <img src="https://remotive.com/job/track/814298/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1680495/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Coalition Technologies </h5>
-                    <h3>Front End Developer</h3>
-                </td>
-                <td width="300">
-                    <code>CSS,excel,frontend,git</code>
-                </td>
-                <td width="200">
-                <text>28 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p class="h3">WHY YOU SHOULD APPLY:</p>
-<p> </p>
-<p>Coalition Technologies is devoted to delivering clients the highest quality work while providing our team a fun, thriving, and innovative environment. Along with the opportunity for tremendous career growth and rapid advancement, CT offers:</p>
-<ul style="">
-<li style="">The most competitive profit-sharing bonus plan in the industry, paying up to 50% of company profits to full-time employees each month!</li>
-<li style="">A highly competitive Paid Time Off plan, promoting quality work-life balance.</li>
-<li style="">Subsidized gym memberships to help team members feel their best.</li>
-<li style="">Medical, dental, vision, and life insurance packages for all US-based team members.</li>
-<li style="">International Health Insurance Reimbursement Program for all international team members, a benefit unique to Coalition.</li>
-<li style="">Device upgrade and learning reimbursement programs.</li>
-<li style="">Motivating career development plans with clearly defined goals and rewards.</li>
-<li style="">Additional job-specific incentives and bonuses.</li>
-</ul>
-<p>Plus, 100% of our team works remotely with the support of time tracking software. Our company culture specializes in supporting remote team members, and we’ve been doing so for more than a decade. CT welcomes your application, wherever in the world it's coming from!</p>
-<p class="h3"> </p>
-<p class="h3">YOU SHOULD HAVE:</p>
-<p> </p>
-<ul style="">
-<li style="">An expertise in HTML5, CSS3 and jQuery</li>
-<li style="">A thorough understanding of cross-browser compatibility issues</li>
-<li style="">Experience with media queries</li>
-<li style="">A knowledge of CSS platforms such as Twitter’s Bootstrap</li>
-<li style="">An ability to multi-task on multiple projects and tasks at the same time</li>
-<li style="">Great attention to detail and be highly organized</li>
-<li style="">A positive and upbeat attitude with the ability to learn quickly</li>
-<li style="">Proficiency in PHP/MYSQL and AJAX (preferred)</li>
-<li style="">Experience with WordPress, BigCommerce, Magento, and Shopify (preferred)</li>
-<li style="">Excellent written and spoken English</li>
-<li style="">The availability to work 40 hours per week from 9:00 am to 6:00 pm PST</li>
-<li style="">The ability to adapt to a diverse and multicultural environment</li>
-<li style="">Passion to build a startup</li>
-<li style="">Reliable transportation if working in-house</li>
-<li style="">A reliable workstation with a fast computer, microphone and speakers, reliable internet and power if working remotely</li>
-</ul>
-<p class="h3"> </p>
-<p class="h3">YOUR DUTIES AND TASKS:</p>
-<p> </p>
-<ul style="">
-<li style="">Transforming complex layout PSDs into pixel-perfect presentation-layer HTML5/CSS3 templates</li>
-<li style="">Creating responsive website designs</li>
-<li style="">Building websites with WordPress, extending and developing plugins and themes</li>
-<li style="">Working with Photoshop, Illustrator, and Fireworks to create images optimized for the web</li>
-<li style="">Working with version control systems such as GIT / SVN</li>
-<li style="">Working under tight deadlines</li>
-<li style="">Handling multiple projects at the same time</li>
-<li style="">Producing high quality of work with a strong focus on detail</li>
-</ul>
-<p class="h5"> </p>
-<p class="h5">We are looking for talented and diligent candidates who excel in our skills tests, and will consider these candidates even if past experience or educational background criteria aren't met.</p><p class="h5"><br></p><p>*California, New York, Washington, and Colorado: starting base pay for this position ranges between $15 - $35 per hour.</p>
-<p>Compensation may vary based on factors such as experience, 
-qualifications, skills test performance, geographic location, and 
-seniority of the position offered. Outside of California, New York, 
-Washington, and Colorado compensation may fall outside the above ranges.</p>
-<img src="https://remotive.com/job/track/1680495/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1306325743580848130/mk0qvsZ9_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Kraken</h5>
-                    <h3>Senior NetSuite Developer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/kraken/3558e796-8434-469d-b27e-f5b07392073f" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Future of Crypto&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to <a href="https://blog.kraken.com/crypto-education/security-at-kraken" class="postings-link">industry-leading security</a>, <a href="https://blog.kraken.com/category/crypto-education" class="postings-link">crypto education</a>, and <a href="https://blog.kraken.com/crypto-education/support-at-kraken" class="postings-link">world-class client support</a> through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://futures.kraken.com/wallets" class="postings-link">Kraken Futures</a>.</div><div><br></div><div>Become a Krakenite and build the future of crypto!</div><div><br></div><div><b style="font-size: 24px">Proof of work</b></div><div><br></div><div><b style="font-size: 18px">The team</b></div><div><br></div><div><span style="font-size: 11pt">The Business Solutions team delivers technology solutions to our internal stakeholders.&nbsp; Our group is a partner to business as we look to drive scalability, optimization, integrated efficiencies, and audit-sound developments to our tech stack.&nbsp;&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">The Sr. NetSuite Developer will join the Business Solutions team to be our partner with the Accounting teams. The Sr. NetSuite Developer will own the technology solutions our accounting teams rely on to function. This includes designing, developing, customizing, documentation, training, reporting, stabilization and maintaining functionalities within the NetSuite platform and other financial systems. This role will also partner with various cross functional teams across Security, IT &amp; Engineering to design, develop and implement solutions involving integrations, data and analytics for the Accounting and Finance business teams.</span></div><div><br></div><div><span style="font-size: 11pt">The successful candidate will bring a strong customer service approach to enhancing and maintaining the security, data, and application integrity and performance of our financial-related applications. Additionally, this position will participate in the delivery of Financial IT services and projects and ensure internal client satisfaction.&nbsp;</span></div></div><div class="section page-centered"><div><h3>The opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Provide day-to-day administration and maintenance of critical business systems including but not limited to NetSuite, Blackline etc.&nbsp;</li><li>Experience writing and managing NetSuite scripts, workflows and integrations using SuiteScript, SuiteFlows, Web Services/SuiteTalk or other related tools (MUST have)</li><li>Responsible for owning system configuration and integration - configure fields, workflows, roles/permissions, custom rules, reports, scripts, and dashboards&nbsp;</li><li>Propose improvements to the NetSuite ERP system and the business systems that interface with it.&nbsp;</li><li>Work on implementations of various customizations within NetSuite, including but not limited to creating custom segments, custom fields, records, forms, workflows etc.</li><li>Create and maintain integrations between NetSuite and other systems</li><li>Develop and maintain custom script and workflow solutions using modern coding practices</li><li>Contributes to cross-functional projects that involve integration between back-office applications and other applications&nbsp;</li><li>Work with business stakeholders to understand current state business processes, and identify gaps/ opportunities for improvement within processes &amp; applications.</li><li>Take part in business project intake and prioritization meetings with business stakeholders.</li><li>Lead and execute requirements gathering sessions with Finance stakeholders.</li><li>Drive or participate in effort estimation, design, configuration, and testing of features and projects.</li><li>Collaborate with System Implementation(SI) partners on various outsourced projects to provide co-design and co-develop solutions.&nbsp;</li><li>Collaborate with Enterprise Integration &amp; Data warehouse teams on cross functional projects involving integrations.</li><li>Work closely with business to optimize business processes and drive efficiencies in the day to day operations and the functioning of the accounting office.&nbsp;</li><li>Provide finance system administration to support business users (e.g., developing workflows, page layouts, formulas, approval processes) for running their operations.</li><li>Communicate, log, and resolve planned or unplanned system downtime and system support issues</li><li>Mentor junior resources within the team on business analysis and system administration of Financial Systems</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>6+ years of working experience as a NetSuite Developer</li><li>Experience with NetSuite OneWorld administration, configuration, and 3rd party integrations</li><li>4+ Year of experience in NetSuite technical role including development with JavaScript , SuiteScript 2.0, SuiteFlow (workflow automation) and SuiteTalk (web services API) of NetSuite for a large enterprise&nbsp;</li><li>6+ years of administration &amp; configuration experience in enterprise financial and accounting systems</li><li>Netsuite ERP certifications(MUST have)&nbsp;</li><li>4-6 medium-scale or 2-3 enterprise ERP implementations in a consultant-related role</li><li>Demonstrate full understanding of the NetSuite stack and experience with NetSuite modules (Order to Cash, Revenue Recognition (606), Procurement, GL, AP, AR, FA, etc.)&nbsp;</li><li>Thorough understanding of finance business processes (AR, AP, GL,P2P, Treasury, Tax, etc), systems(NetSuite, Oracle, SAP, Blackline, etc) and operations (RevRec, Book Closing, etc).</li><li>Ability to articulate technical issues to a non-technical audience&nbsp;</li><li>Experience of working in a hyper growth environment/ large company experience will be a plus.</li><li>Advanced skills in business analysis and technical design with the capability to capture requirements and make recommendations on the best way to implement the requirements to meet overall business goals&nbsp;</li><li>Experience working on complex/ transformational projects for Finance business involving sensitive data, integrations with 3rd party systems and services.</li><li>A self-starter with the ability to build relationships &amp; credibility with team, stakeholders and management while working remotely.</li><li>Demonstrate effective communication skills through facilitation of critical meetings, documentation and presentations to management &amp; stakeholders.</li><li>Experience working with compliance, risk and audit teams to conduct SOX, SOC type of audits will be required.</li><li>Experience working with teams using agile methodologies (Sprint) and ability to prioritize and manage ad hoc projects will be critical.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="salary-range"><div>$104,000 - $176,000 a year</div><small><div>This is the target annual salary range for this role. This range is not inclusive of other additional compensation elements, such as our Bonus program, Equity program, Wellness allowance, and other benefits [US Only] (including medical, dental, vision and 401(k)).</div><div><br></div><div>The compensation range provided is influenced by various factors and represents the initial target range. Our salary offerings are dynamic and we strive to ensure that our base salary and total compensation package aligns and recognizes the top talent we aim to attract and retain. The compensation package of the successful candidate is based on various factors such as their skillset, experience, and job scope.</div></small></div><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 14.6667px">Location Tagging: #US #LI-AN1 #LI-Remote #Canada</span></div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/3558e796-8434-469d-b27e-f5b07392073f/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -409,7 +308,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
                 <td width="300">
                     <h5>Status</h5>
-                    <h3>Senior C++ Qt/QML developer</h3>
+                    <h3>Senior C++ Qt/QML Developer</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -436,59 +335,60 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
     <div id="external-jobs-show-description" class="external-panel__trix-content external-panel__trix-content--colored external-panel__trix-content--lead-in">
 <div data-react-class="external/careersPage/RenderPlyrVideo" data-react-props="{&quot;htmlString&quot;:&quot;\u003cdiv\u003e\n\u003cbr\u003eThe project \u0026amp; role&nbsp;\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eStatus is an organisation that seeks to accelerate consumer adoption of the web3 ecosystem forward through products, research, the creation of developer tools, and support of the open source community. Our core product is an Ethereum blockchain based app for mobile and desktop platforms that enables communities to permissionlessly create 100% decentralized group chat spaces, and allows users to message, make payments and browse and transact on the decentralized web.&nbsp; Status also builds foundational infrastructure for the Ethereum ecosystem as a whole including the Nimbus Ethereum client, the Keycard hardware wallet, and the Waku messaging protocol which is a continuation of Whisper.&nbsp; Everything Status creates is built in the open and released under permissive open source licenses.\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eWe're a fully remote team made up of ~100 core contributors and a growing number of community members scattered around the globe. We care deeply about open source software, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.&nbsp;\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eAfter a pause during which the Status team focused on our mobile application, the development of Status Desktop was restarted in 2020 with a clean sheet QT / QML UI codebase.&nbsp;\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003eStatus Desktop is currently in beta for Mac, Windows and Linux platforms.&nbsp; Current product focus is on the privacy-centric messenger and group chat functionality, and we’ve just kicked off development of our new ‘multi-chain from the ground up’ crypto Wallet.&nbsp; ÐApp browser and blockchain node functionality will follow next. Status desktop is currently built using \u003ca href=\&quot;https://nim-lang.org/\&quot;\u003eNim\u003c/a\u003e \u0026amp; QT for the frontend, and it shares a common backend with Status mobile that is written in Go.&nbsp; We are currently in the middle of a large refactor of our architecture.&nbsp; This refactor includes transitioning the QT front end from Nim to C++, moving all business logic to our status-go backend, and upgrading from QT5.14.2 to QT6.2.&nbsp; As we work in the open and are fully open source you can get a better idea of who we are and the work we are doing by browsing our \u003ca href=\&quot;https://hackmd.io/@status-desktop/main/%2FwAbKqYTdR_-FWLZZouSxsg\&quot;\u003eteam wiki here\u003c/a\u003e and taking a look at our \u003ca href=\&quot;https://github.com/status-im/status-desktop\&quot;\u003eStatus Desktop\u003c/a\u003e, \u003ca href=\&quot;https://github.com/status-im/statusQ\&quot;\u003eStatus Desktop QML component library\u003c/a\u003e and \u003ca href=\&quot;https://github.com/status-im/status-go\&quot;\u003eStatus Desktop and Mobile Go backend\u003c/a\u003e GitHub repos.&nbsp; You can find more information about our desktop effort in this \u003ca href=\&quot;https://our.status.im/status-desktop-why-and-what/\&quot;\u003eblog post\u003c/a\u003e.&nbsp;\u003cbr\u003e\u003cbr\u003eStatus is looking for multiple senior experienced C++/QML UI devs to join our growing desktop dev team and to work with us to create a permissionless, decentralized, censorship proof group chat platform. Role responsibilities include developing new features, creating and enhancing components in our QML UI toolkit component library, advising and assisting other members of the desktop dev team with solving challenging QML UI development problems, and perhaps working on the Go backend if this is something you would enjoy.&nbsp; As a team we try to match task assignment with the individual interests and passions of our team members, so there is a high degree of flexibility with regards to what you would be working on.&nbsp; If you are a passionate C++/QML expert who knows all the ins and outs of C++ and QT/QML UI development this could be an ideal role for you.\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eThe desktop team is spread between Europe and North America with crossover work hours being the European timezone afternoon on Monday, Wednesday and Friday. Ideally you will be located in a timezone between UTC -5 and UTC +3 e.g. anywhere in-between Panama and Moscow.&nbsp; Work is async using Status, Google Meet and Github, typically in Scrum Sprints.\u003c/div\u003e\u003cdiv\u003e\n\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e&quot;}" data-react-cache-id="external/careersPage/RenderPlyrVideo-0">
 <div>
-<div><strong>The role</strong><br><br></div>
-<div>Status Desktop is currently in beta for Mac, Windows and Linux platforms.&nbsp; Current product focus is on the privacy-centric messenger and group chat functionality, and we’ve just kicked off development of our new ‘multi-chain from the ground up’ crypto Wallet.&nbsp; ÐApp browser and blockchain node functionality will follow next. Status desktop is currently built using&nbsp;<a href="https://nim-lang.org/">Nim</a>&nbsp;&amp; QT for the frontend, and it shares a common backend with Status mobile that is written in Go.&nbsp; We are currently in the middle of a large refactor of our architecture.&nbsp; This refactor includes transitioning the QT front end from Nim to C++, moving all business logic to our status-go backend, and upgrading from QT5.14.2 to QT6.2.&nbsp; As we work in the open and are fully open source you can get a better idea of who we are and the work we are doing by browsing our&nbsp;<a href="https://hackmd.io/@status-desktop/main/%2FwAbKqYTdR_-FWLZZouSxsg">team wiki here</a>&nbsp;and taking a look at our&nbsp;<a href="https://github.com/status-im/status-desktop">Status Desktop</a>,&nbsp;<a href="https://github.com/status-im/statusQ">Status Desktop QML component library</a>&nbsp;and&nbsp;<a href="https://github.com/status-im/status-go">Status Desktop and Mobile Go backend</a>&nbsp;GitHub repos.&nbsp; You can find more information about our desktop effort in this&nbsp;<a href="https://our.status.im/status-desktop-why-and-what/">blog post</a>.&nbsp;<br><br>Status is looking for multiple senior experienced C++/QML UI devs to join our growing desktop dev team and to work with us to create a permissionless, decentralized, censorship proof group chat platform. Role responsibilities include developing new features, creating and enhancing components in our QML UI toolkit component library, advising and assisting other members of the desktop dev team with solving challenging QML UI development problems, and perhaps working on the Go backend if this is something you would enjoy.&nbsp; As a team we try to match task assignment with the individual interests and passions of our team members, so there is a high degree of flexibility with regards to what you would be working on.&nbsp; If you are a passionate C++/QML expert who knows all the ins and outs of C++ and QT/QML UI development this could be an ideal role for you.</div>
 <div>&nbsp;</div>
-<div>The desktop team is spread between Europe and North America with crossover work hours being the European timezone afternoon on Monday, Wednesday and Friday. Ideally you will be located in a timezone between UTC -8 and UTC +3 e.g. anywhere in-between Panama and Moscow.&nbsp; Work is async using Status, Google Meet and Github, typically in Scrum Sprints.</div>
+<div><span style="font-size: 12pt;"><strong>The role</strong></span><br><br></div>
+<div><span style="font-size: 12pt;">Status Desktop is currently in beta for Mac, Windows and Linux platforms.&nbsp; Current product focus is on the privacy-centric messenger and group chat functionality, and we’ve just kicked off development of our new ‘multi-chain from the ground up’ crypto Wallet.&nbsp; ÐApp browser and blockchain node functionality will follow next. Status desktop is currently built using&nbsp;<a href="https://nim-lang.org/">Nim</a>&nbsp;&amp; QT for the frontend, and it shares a common backend with Status mobile that is written in Go.&nbsp; We are currently in the middle of a large refactor of our architecture.&nbsp; This refactor includes transitioning the QT front end from Nim to C++, moving all business logic to our status-go backend, and upgrading from QT5.14.2 to QT6.2.&nbsp; As we work in the open and are fully open source you can get a better idea of who we are and the work we are doing by browsing our&nbsp;<a href="https://hackmd.io/@status-desktop/main/%2FwAbKqYTdR_-FWLZZouSxsg">team wiki here</a>&nbsp;and taking a look at our&nbsp;<a href="https://github.com/status-im/status-desktop">Status Desktop</a>,&nbsp;<a href="https://github.com/status-im/statusQ">Status Desktop QML component library</a>&nbsp;and&nbsp;<a href="https://github.com/status-im/status-go">Status Desktop and Mobile Go backend</a>&nbsp;GitHub repos.&nbsp; You can find more information about our desktop effort in this&nbsp;<a href="https://our.status.im/status-desktop-why-and-what/">blog post</a>.&nbsp;</span><br><br><span style="font-size: 12pt;">Status is looking for multiple senior experienced C++/QML UI devs to join our growing desktop dev team and to work with us to create a permissionless, decentralized, censorship proof group chat platform. Role responsibilities include developing new features, creating and enhancing components in our QML UI toolkit component library, advising and assisting other members of the desktop dev team with solving challenging QML UI development problems, and perhaps working on the Go backend if this is something you would enjoy.&nbsp; As a team we try to match task assignment with the individual interests and passions of our team members, so there is a high degree of flexibility with regards to what you would be working on.&nbsp; If you are a passionate C++/QML expert who knows all the ins and outs of C++ and QT/QML UI development this could be an ideal role for you.</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size: 12pt;">The desktop team is spread between Europe and North America with crossover work hours being the European timezone afternoon on Monday, Wednesday and Friday. Ideally you will be located in a timezone between UTC -8 and UTC +3 e.g. anywhere in-between Panama and Moscow.&nbsp; Work is async using Status, Google Meet and Github, typically in Scrum Sprints.</span></div>
 </div>
 </div>
 </div>
-<h4 id="responsibilities-heading" class="external-panel__heading">Key Responsibilities</h4>
+<h4 id="responsibilities-heading" class="external-panel__heading"><span style="font-size: 12pt;">Key Responsibilities</span></h4>
 <div id="responsibilities-body" class="external-panel__trix-content external-panel__trix-content--colored">
 <div data-react-class="external/careersPage/RenderPlyrVideo" data-react-props="{&quot;htmlString&quot;:&quot;\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cul\u003e\n\u003cli\u003eBuild new features, enhance existing functionality and fix issues in the Status Desktop application.\u003c/li\u003e\n\u003cli\u003eHelp develop and maintain Status’s QML UI component library (primarily used by the Status Desktop product)\u003c/li\u003e\n\u003cli\u003eAdvise and assist the other developers in the Desktop team as needed to help solve the hardest QML UI development challenges\u003c/li\u003e\n\u003cli\u003eContribute to C++ and Go codebases (and help with transitioning the codebase from Nim to C++ if you join us prior to this transition being completed), but don’t worry if you don’t have any prior Go or Nim experience.\u003c/li\u003e\n\u003cli\u003eBe one of our resident experts for everything related to C++ and Qt/QML UI development.\u003c/li\u003e\n\u003c/ul\u003e\u003cdiv\u003eYou ideally will have:&nbsp;\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003e\u003cem\u003eDon’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role!\u003c/em\u003e\u003c/div\u003e\u003cul\u003e\n\u003cli\u003eExpert level experience implementing UIs using Qt/QML/C++\u003c/li\u003e\n\u003cli\u003eA strong ability to think about components and modules as they relate to other components as part of a larger system\u003c/li\u003e\n\u003cli\u003eA very strong attention to detail and the willingness to deliver pixel perfect UI according to the designs.\u003c/li\u003e\n\u003cli\u003eProvide feedback and product ideas to the designers as needed\u003c/li\u003e\n\u003cli\u003eExperience with multithreading / concurrency\u003c/li\u003e\n\u003cli\u003eGood communication skills in English\u003c/li\u003e\n\u003cli\u003eA strong alignment to our principles: \u003ca href=\&quot;https://status.im/about/#our-principles\&quot;\u003ehttps://status.im/about/#our-principles\u003c/a\u003e&nbsp; We are a passion driven project on a mission to build tools that protect and enable free speech.&nbsp;\u003c/li\u003e\n\u003c/ul\u003e\u003cdiv\u003eBonus points if you have:\u003c/div\u003e\u003cul\u003e\n\u003cli\u003eExperience working in an open source organization\u003c/li\u003e\n\u003cli\u003eA strong interest in blockchain technology and have a good understanding of Ethereum.\u003c/li\u003e\n\u003cli\u003eWorked in a remote distributed environment that values asynchronous communication\u003c/li\u003e\n\u003cli\u003eKnowledge of Go and/or Nim and/or Solidity is a plus\u003c/li\u003e\n\u003cli\u003eExperience with using QT/QML to develop cross platform (Windows, OSX, Linux) desktop applications and mobile applications (iOS, Android) is a plus\u003c/li\u003e\n\u003cli\u003ePrior experience with using Squish for functional testing QT apps\u003c/li\u003e\n\u003cli\u003eExperience implementing openGL rendering in a QML context\u003c/li\u003e\n\u003cli\u003eAny background or experience with cryptography and/or security\u003c/li\u003e\n\u003c/ul\u003e\u003cdiv\u003eCompensation:&nbsp;\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003eStatus compensates people with above average salaries, plus a grant of Status Network Tokens vesting over a three-year period. More info on SNT here here: \u003ca href=\&quot;https://status.im/snt-utility/\&quot;\u003ehttps://status.im/snt-utility/\u003c/a\u003e&nbsp; We are happy to pay salaries in either 100% fiat or any mix of fiat and/or crypto (ETH or SNT). &nbsp;\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eHiring process\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003eThe hiring process for this role will be:\u003c/div\u003e\u003col\u003e\n\u003cli\u003eIntroductory conversation - People Ops team\u003c/li\u003e\n\u003cli\u003eVision alignment Interview - John\u003c/li\u003e\n\u003cli\u003eTeam lead interview - Iuri\u003c/li\u003e\n\u003cli\u003eTechnical interviews - Sale and Alexandra\u003c/li\u003e\n\u003cli\u003eTech and culture alignment Interview - Andrea\u003c/li\u003e\n\u003cli\u003eMeet the team interviews with Anthony, Pascal and Khushboo\u003c/li\u003e\n\u003c/ol\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eQuestions about this role?\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003eFeel free to get in touch, we are more than happy to discuss the role in more detail.\u003c/div\u003e\u003cdiv\u003e\n\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e&quot;}" data-react-cache-id="external/careersPage/RenderPlyrVideo-0">
 <ul>
-<li>Build new features, enhance existing functionality and fix issues in the Status Desktop application.</li>
-<li>Help develop and maintain Status’s QML UI component library (primarily used by the Status Desktop product)</li>
-<li>Advise and assist the other developers in the Desktop team as needed to help solve the hardest QML UI development challenges</li>
-<li>Contribute to C++ and Go codebases (and help with transitioning the codebase from Nim to C++ if you join us prior to this transition being completed), but don’t worry if you don’t have any prior Go or Nim experience.</li>
-<li>Be one of our resident experts for everything related to C++ and Qt/QML UI development.</li>
+<li style="font-size: 12pt;"><span style="font-size: 12pt;">Build new features, enhance existing functionality and fix issues in the Status Desktop application.</span></li>
+<li style="font-size: 12pt;"><span style="font-size: 12pt;">Help develop and maintain Status’s QML UI component library (primarily used by the Status Desktop product)</span></li>
+<li style="font-size: 12pt;"><span style="font-size: 12pt;">Advise and assist the other developers in the Desktop team as needed to help solve the hardest QML UI development challenges</span></li>
+<li style="font-size: 12pt;"><span style="font-size: 12pt;">Contribute to C++ and Go codebases (and help with transitioning the codebase from Nim to C++ if you join us prior to this transition being completed), but don’t worry if you don’t have any prior Go or Nim experience.</span></li>
+<li style="font-size: 12pt;"><span style="font-size: 12pt;">Be one of our resident experts for everything related to C++ and Qt/QML UI development.</span></li>
 </ul>
-<div><strong>You ideally will have</strong><br><br></div>
-<div><em>Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role!</em></div>
+<div><span style="font-size: 12pt;"><strong>You ideally will have</strong></span><br><br></div>
+<div><span style="font-size: 12pt;"><em>Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role!</em></span></div>
 <ul>
-<li>Expert level experience implementing UIs using Qt/QML/C++</li>
-<li>A strong ability to think about components and modules as they relate to other components as part of a larger system</li>
-<li>A very strong attention to detail and the willingness to deliver pixel perfect UI according to the designs.</li>
-<li>Provide feedback and product ideas to the designers as needed</li>
-<li>Experience with multithreading / concurrency</li>
-<li>Good communication skills in English</li>
-<li>A strong alignment to our principles:&nbsp;<a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a>&nbsp; We are a passion driven project on a mission to build tools that protect and enable free speech.&nbsp;</li>
+<li style="font-size: 12pt;"><span style="font-size: 12pt;">Expert level experience implementing UIs using Qt/QML/C++</span></li>
+<li style="font-size: 12pt;"><span style="font-size: 12pt;">A strong ability to think about components and modules as they relate to other components as part of a larger system</span></li>
+<li style="font-size: 12pt;"><span style="font-size: 12pt;">A very strong attention to detail and the willingness to deliver pixel perfect UI according to the designs.</span></li>
+<li style="font-size: 12pt;"><span style="font-size: 12pt;">Provide feedback and product ideas to the designers as needed</span></li>
+<li style="font-size: 12pt;"><span style="font-size: 12pt;">Experience with multithreading / concurrency</span></li>
+<li style="font-size: 12pt;"><span style="font-size: 12pt;">Good communication skills in English</span></li>
+<li style="font-size: 12pt;"><span style="font-size: 12pt;">A strong alignment to our principles:&nbsp;<a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a>&nbsp; We are a passion driven project on a mission to build tools that protect and enable free speech.&nbsp;</span></li>
 </ul>
-<div><strong>Bonus points if you have</strong></div>
+<div><span style="font-size: 12pt;"><strong>Bonus points if you have</strong></span></div>
 <ul>
-<li>Experience working in an open source organization</li>
-<li>A strong interest in blockchain technology and have a good understanding of Ethereum.</li>
-<li>Worked in a remote distributed environment that values asynchronous communication</li>
-<li>Knowledge of Go and/or Nim and/or Solidity is a plus</li>
-<li>Experience with using QT/QML to develop cross platform (Windows, OSX, Linux) desktop applications and mobile applications (iOS, Android) is a plus</li>
-<li>Prior experience with using Squish for functional testing QT apps</li>
-<li>Experience implementing openGL rendering in a QML context</li>
-<li>Any background or experience with cryptography and/or security</li>
+<li style="font-size: 12pt;"><span style="font-size: 12pt;">Experience working in an open source organization</span></li>
+<li style="font-size: 12pt;"><span style="font-size: 12pt;">A strong interest in blockchain technology and have a good understanding of Ethereum.</span></li>
+<li style="font-size: 12pt;"><span style="font-size: 12pt;">Worked in a remote distributed environment that values asynchronous communication</span></li>
+<li style="font-size: 12pt;"><span style="font-size: 12pt;">Knowledge of Go and/or Nim and/or Solidity is a plus</span></li>
+<li style="font-size: 12pt;"><span style="font-size: 12pt;">Experience with using QT/QML to develop cross platform (Windows, OSX, Linux) desktop applications and mobile applications (iOS, Android) is a plus</span></li>
+<li style="font-size: 12pt;"><span style="font-size: 12pt;">Prior experience with using Squish for functional testing QT apps</span></li>
+<li style="font-size: 12pt;"><span style="font-size: 12pt;">Experience implementing openGL rendering in a QML context</span></li>
+<li style="font-size: 12pt;"><span style="font-size: 12pt;">Any background or experience with cryptography and/or security</span></li>
 </ul>
-<h4><strong>Compensation</strong></h4>
-<p>We are happy to pay in either 100% fiat or any mix of fiat and/or crypto.</p>
+<h4><span style="font-size: 12pt;"><strong>Compensation</strong></span></h4>
+<p><span style="font-size: 12pt;">We are happy to pay in either 100% fiat or any mix of fiat and/or crypto.</span></p>
 </div>
 <div data-react-class="external/careersPage/RenderPlyrVideo" data-react-props="{&quot;htmlString&quot;:&quot;\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cul\u003e\n\u003cli\u003eBuild new features, enhance existing functionality and fix issues in the Status Desktop application.\u003c/li\u003e\n\u003cli\u003eHelp develop and maintain Status’s QML UI component library (primarily used by the Status Desktop product)\u003c/li\u003e\n\u003cli\u003eAdvise and assist the other developers in the Desktop team as needed to help solve the hardest QML UI development challenges\u003c/li\u003e\n\u003cli\u003eContribute to C++ and Go codebases (and help with transitioning the codebase from Nim to C++ if you join us prior to this transition being completed), but don’t worry if you don’t have any prior Go or Nim experience.\u003c/li\u003e\n\u003cli\u003eBe one of our resident experts for everything related to C++ and Qt/QML UI development.\u003c/li\u003e\n\u003c/ul\u003e\u003cdiv\u003eYou ideally will have:&nbsp;\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003e\u003cem\u003eDon’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role!\u003c/em\u003e\u003c/div\u003e\u003cul\u003e\n\u003cli\u003eExpert level experience implementing UIs using Qt/QML/C++\u003c/li\u003e\n\u003cli\u003eA strong ability to think about components and modules as they relate to other components as part of a larger system\u003c/li\u003e\n\u003cli\u003eA very strong attention to detail and the willingness to deliver pixel perfect UI according to the designs.\u003c/li\u003e\n\u003cli\u003eProvide feedback and product ideas to the designers as needed\u003c/li\u003e\n\u003cli\u003eExperience with multithreading / concurrency\u003c/li\u003e\n\u003cli\u003eGood communication skills in English\u003c/li\u003e\n\u003cli\u003eA strong alignment to our principles: \u003ca href=\&quot;https://status.im/about/#our-principles\&quot;\u003ehttps://status.im/about/#our-principles\u003c/a\u003e&nbsp; We are a passion driven project on a mission to build tools that protect and enable free speech.&nbsp;\u003c/li\u003e\n\u003c/ul\u003e\u003cdiv\u003eBonus points if you have:\u003c/div\u003e\u003cul\u003e\n\u003cli\u003eExperience working in an open source organization\u003c/li\u003e\n\u003cli\u003eA strong interest in blockchain technology and have a good understanding of Ethereum.\u003c/li\u003e\n\u003cli\u003eWorked in a remote distributed environment that values asynchronous communication\u003c/li\u003e\n\u003cli\u003eKnowledge of Go and/or Nim and/or Solidity is a plus\u003c/li\u003e\n\u003cli\u003eExperience with using QT/QML to develop cross platform (Windows, OSX, Linux) desktop applications and mobile applications (iOS, Android) is a plus\u003c/li\u003e\n\u003cli\u003ePrior experience with using Squish for functional testing QT apps\u003c/li\u003e\n\u003cli\u003eExperience implementing openGL rendering in a QML context\u003c/li\u003e\n\u003cli\u003eAny background or experience with cryptography and/or security\u003c/li\u003e\n\u003c/ul\u003e\u003cdiv\u003eCompensation:&nbsp;\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003eStatus compensates people with above average salaries, plus a grant of Status Network Tokens vesting over a three-year period. More info on SNT here here: \u003ca href=\&quot;https://status.im/snt-utility/\&quot;\u003ehttps://status.im/snt-utility/\u003c/a\u003e&nbsp; We are happy to pay salaries in either 100% fiat or any mix of fiat and/or crypto (ETH or SNT). &nbsp;\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eHiring process\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003eThe hiring process for this role will be:\u003c/div\u003e\u003col\u003e\n\u003cli\u003eIntroductory conversation - People Ops team\u003c/li\u003e\n\u003cli\u003eVision alignment Interview - John\u003c/li\u003e\n\u003cli\u003eTeam lead interview - Iuri\u003c/li\u003e\n\u003cli\u003eTechnical interviews - Sale and Alexandra\u003c/li\u003e\n\u003cli\u003eTech and culture alignment Interview - Andrea\u003c/li\u003e\n\u003cli\u003eMeet the team interviews with Anthony, Pascal and Khushboo\u003c/li\u003e\n\u003c/ol\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eQuestions about this role?\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003eFeel free to get in touch, we are more than happy to discuss the role in more detail.\u003c/div\u003e\u003cdiv\u003e\n\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e&quot;}" data-react-cache-id="external/careersPage/RenderPlyrVideo-0">
-<div><strong>Hiring process</strong><br><br></div>
-<div>The hiring process for this role is usually as follows (sometimes adapted):</div>
+<div><span style="font-size: 12pt;"><strong>Hiring process</strong></span><br><br></div>
+<div><span style="font-size: 12pt;">The hiring process for this role is usually as follows (sometimes adapted):</span></div>
 <ol>
-<li>Introductory conversation - Talent team</li>
-<li>3 Technical Interviews with Desktop Qt/QML Developers</li>
-<li>Team lead interview - Iuri, Desktop Team Lead</li>
-<li>'Meet the Desktop team' interviews with 3-4 Desktop Contributors (30-40m each)</li>
+<li style="font-size: 12pt;"><span style="font-size: 12pt;">Introductory conversation - Talent team</span></li>
+<li style="font-size: 12pt;"><span style="font-size: 12pt;">3 Technical Interviews with Desktop Qt/QML Developers</span></li>
+<li style="font-size: 12pt;"><span style="font-size: 12pt;">Team lead interview - Iuri, Desktop Team Lead</span></li>
+<li style="font-size: 12pt;"><span style="font-size: 12pt;">'Meet the Desktop team' interviews with 3-4 Desktop Contributors (30-40m each)</span></li>
 </ol>
-<div>Questions about this role?</div>
-<div>Feel free to get in touch, we are more than happy to discuss the role in more detail.</div>
+<div><span style="font-size: 12pt;">Questions about this role?</span></div>
+<div><span style="font-size: 12pt;">Feel free to get in touch, we are more than happy to discuss the role in more detail.</span></div>
 <div>&nbsp;</div>
 </div>
 </div>
@@ -533,7 +433,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
 
     <div class="careers-block__trix external-panel text-left">
-<div>&nbsp;</div>
 <div>
 <p><strong>The role</strong></p>
 <p><span style="font-weight: 400;">We're growing our mobile development team. Join us in building a fully decentralized, censorship resistant, privacy first group chat platform that leverages the Ethereum blockchain to enable individuals and groups worldwide to communicate and transact with one another freely without restriction.</span></p>
@@ -569,87 +468,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 
     
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Developer Relations Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
-<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
-<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
-<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
-<h2>What your day will look like</h2>
-<p>In a typical day, a developer relations engineer might:</p>
-<ul>
-<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
-<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
-<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
-<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
-<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
-<li>work on technical articles, presentations or workshops&nbsp;</li>
-<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
-<li>present at conferences, meetups or technical events</li>
-</ul>
-<h2>What we are looking for in you</h2>
-<p>A strong candidate</p>
-<ul>
-<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
-<li>has worked with real-world challenges developing and deploying software using Linux</li>
-<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
-<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
-<li>has been a contributor to open-source communities, software and documentation</li>
-<li>is an engaging, vivacious speaker and presenter</li>
-<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
-<li>builds trust, relationships and confidence</li>
-<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
-</ul>
-<h2>Additional skills that you might also bring</h2>
-<ul>
-<li>previous experience in a developer advocacy or community role</li>
-<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
-</ul>
-
-<h2>What we offer you</h2>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote&nbsp;</p>
-
-<p><br><br></p><p>Requisition ID: 1114</p><p></p>
-    
                 </details>
                 </td>
             </tr>,<tr>
@@ -732,6 +550,87 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote</p>
 <h2><br><br></h2><p>Requisition ID: 799</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Developer Relations Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
+<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
+<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
+<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
+<h2>What your day will look like</h2>
+<p>In a typical day, a developer relations engineer might:</p>
+<ul>
+<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
+<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
+<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
+<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
+<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
+<li>work on technical articles, presentations or workshops&nbsp;</li>
+<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
+<li>present at conferences, meetups or technical events</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<p>A strong candidate</p>
+<ul>
+<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
+<li>has worked with real-world challenges developing and deploying software using Linux</li>
+<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
+<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
+<li>has been a contributor to open-source communities, software and documentation</li>
+<li>is an engaging, vivacious speaker and presenter</li>
+<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
+<li>builds trust, relationships and confidence</li>
+<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
+</ul>
+<h2>Additional skills that you might also bring</h2>
+<ul>
+<li>previous experience in a developer advocacy or community role</li>
+<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
+</ul>
+
+<h2>What we offer you</h2>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote&nbsp;</p>
+
+<p><br><br></p><p>Requisition ID: 1114</p><p></p>
     
                 </details>
                 </td>
@@ -1017,7 +916,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
                 <td width="300">
                     <h5>CloudLinux</h5>
-                    <h3>PHP Security Developer/Researcher Remote - work anywhere</h3>
+                    <h3>Senior C Developer for popular open source projects - Work Anywhere/Remote</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -1026,13 +925,37 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/5AD6475DB5" align="right" target="_blank">Apply</a>
+                <a href="https://apply.workable.com/cloudlinux-1/j/EFD4939FC9" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>Imunify360 Security Suite is a product of CloudLinux Inc., the maker of the #1 OS in security and stability for hosting providers. Imunify is an innovative security solution designed specifically for shared and VPS/Dedicated servers. The automated, easy-to-use solution with the six-layer approach to security delivers comprehensive and complete attack prevention.</p><p>As our PHP Security Developer/Researcher, you'll be joining our dedicated research team which delivers an important part of our product: security patches. The Research team is directly responsible for analyzing vulnerabilities/threats and fix them.</p><p>As a security Developer/Researcher, you play a critical role in the organization. You will have full autonomy and responsibility in analyzing new threats (security vulnerabilities and malware) and resolving them for our customers. You will also be responsible for increasing our coverage of supported PHP applications and plugins.</p><p>Your work directly impacts the safety and workings of millions of websites around the world, so attention to detail and a high quality work standard are extremely important skills that we’re looking for. </p><p>As our PHP Security Developer/Researcher, you will;<br></p><ul> <li>Analyze new security vulnerabilities in open source PHP applications (such as WordPress, Joomla and Drupal) and backport upstream patches to fix those vulnerabilities in earlier versions.</li> <li>Design, build and deploy new features for our internal tooling to automate our workflows.</li> <li>Research and analyze new trends in exploitation techniques, malware approaches, etc. and develop strategies to mitigate them.</li> <li>Expand coverage of supported applications and plugins.</li> </ul><h3>Requirements: </h3><p>To be successful you should have;</p><ul> <li>Advanced proficiency with PHP scripting language; </li> <li>Several years of relevant work experience as a Software Tester Engineer or similar role.</li> <li>Understanding and knowledge of security vulnerabilities in web applications is a plus.</li> <li>Fluent English speaker.</li> <li>You have a true passion for the security field.</li> <li>Self-driven work ethic. You love taking initiative and seeing things through to completion.</li> <li>Passion for continuous learning. </li> </ul><h3>Benefits: </h3><p>What's in it for you?<br></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> </ul> <ul><li>Interesting and challenging projects</li></ul> </li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
+                <p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and&nbsp; we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful.&nbsp;We are truly a great place to work.&nbsp;</p><p>We are looking to hire a C Developer, who will be part of our <a href="https://tuxcare.com/extended-lifecycle-support/" rel="nofollow noreferrer noopener" class="external">Extended Lifecycle</a> team. In this position, you will work and contribute to major, open-source projects like Apache HTTPD, OpenSSL, and MySQL. You will also backport security fixed to stable, maintaining versions of those projects.</p><p>Become part of the team of experts and work with top-notch developers to contribute to open source. You can find more details about the project and the company on our branded websites at Cloudlinux.com and TuxCare.com.&nbsp;</p><p>Join us to make a difference!</p><p><strong>What you will do:</strong></p><ul> <li>Work on various open-source projects like Apache httpd, Python, OpenSSL, etc.</li> <li>Backport security and bug fixes from newer upstream versions or writing patches from scratch.&nbsp;</li> <li>Contribute to upstream projects</li> <li>Create reproducers and tests for vulnerabilities.</li> <li>Automation of routine processes like CVEs monitoring, patches applying, and testing.</li> </ul><h3>Requirements: </h3><p><strong>Who you are:</strong></p><ul> <li>You have 5+ years of С programming experience</li> <li>You have GNU/Linux operating system and shell scripting experience&nbsp;&nbsp;</li> <li>You have ability to work with various build systems like autotools, make and cmake</li> <li>You have experience with git-based development processes&nbsp;&nbsp;</li> <li>Python, Perl or other scripting language knowledge will be a plus</li> </ul><p></p><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li> Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Senior Kernel Developer for KernelCare - REMOTE/Work Anywhere</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/9955395BD5" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>We are looking for <strong>Senior Kernel Developers</strong> to work on our KernelCare team. The ideal candidate is someone looking for a rewarding and challenging career developing Linux Kernels and patches. This role requires someone with strong C development skills and a passion for all that is Linux. Our Kernel Developers create patches with a cyber security focus while finding solutions for our customers. </p><p>KernelCare is a product of CloudLinux Inc., the maker of the #1 OS in security and stability for hosting providers. KernelCare, a live kernel patching service provides security patches and bug fixes for a range of popular Linux kernels that can be installed without rebooting the system.  Check out our website for more information about our KernelCare Product <a href="https://tuxcare.com/live-patching-services/" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com/live-patching-services/</a></p><p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful. </p><p>We are truly a great place to work. </p><p><strong>As our Senior Kernel Developer, you will be responsible for:</strong></p><ul> <li>Support existing functionality and implementation of several new features</li> <li>Update existing kernels including security fixes and CVEs patches</li> <li>Develop and support Python and Bash scripts for task automation</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role you should have:</strong></p><ul> <li>Excellent C programming and debugging skills</li> <li>Good level knowledge of Linux kernel core subsystems</li> <li>CPU and cache architectures</li> <li>Experience with GDB and other debuggers</li> <li>CPU performance and power analysis</li> <li>Independent and self-motivated problem solver and strategic thinker</li> <li>Proficient in Git for development and patch/branch management</li> <li>Good planning, time management, decision-making, presentation, and organization skills</li> <li>Effective written and verbal communication</li> <li>Excellent interpersonal and teamwork skills</li> <li>Happy in an agile, fast-paced environment</li> </ul><ul> <li>Experience with python, shell scripting</li> <li>Experience with Jenkins</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong><br></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li> Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p></p><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
                 </details>
                 </td>
             </tr></table>
