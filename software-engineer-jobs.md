@@ -1,5 +1,104 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1829991/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Distribusion Technologies</h5>
+                    <h3>Senior Software Engineer, Python (all genders)</h3>
+                </td>
+                <td width="300">
+                    <code>api,backend,python,sql</code>
+                </td>
+                <td width="200">
+                <text>3 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-python-all-genders-1829991" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p dir="ltr"><strong>Distribusion</strong> is the world’s leading ground transportation marketplace and gives travelers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail, and ferry operators in 70+ countries with the biggest online retailers, including Google Maps and Booking.com.</p>
+<p dir="ltr">We are shaping the future of travel and building the largest global network of transport providers and retailers. Having grown 10x in the past year, we are one of the fastest-growing startups in travel. Backed by three leading VCs (Creandum, Northzone, and Lightrock), and now, following our recent €30 m Series B, we are ready to push beyond.</p>
+<p dir="ltr"> </p>
+<p dir="ltr">We are currently seeking a skilled <strong>Python Software Engineer </strong>to join our team. You will create robust web services based on micro-service architecture, use many different data sources, and aggregate data from and provide into the flexible API.<br><br><strong>What you will do:</strong></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr">Design, develop, deploy, maintain, and improve the backend for interactive web applications and APIs</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Lead designs of major software components, systems and features</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">Solve technically challenging problems working with high-load systems</p>
+</li>
+</ul>
+<div>
+<p dir="ltr"><strong> </strong></p>
+<div><strong>Workplace:</strong></div>
+<p>Berlin (HQ) or Remote</p>
+<p>We are a remote-first international company with team members spread around the world. We are looking to hire the best talent around the Globe, so wherever you are, feel free to reach out. </p>
+<p>If, however, you prefer working onsite/hybrid, our heart is in Berlin, one of the biggest and most vibrant tech hubs in Europe, and we are happy to assist with relocation.</p>
+</div>
+<p dir="ltr"><strong>Who you are:</strong></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr">You have a degree in Computer Science or a related field</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">You have at least 3 years of software engineering experience with a focus on developing web applications using modern, high-performance web frameworks in Python</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">General understanding of SQL databases</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">You have knowledge in systems architecture and how to design an API</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">You can break down complex problems and projects into manageable goal</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">You are driven, ambitious, and willing to get hands-on in shaping the future of ground transportation travel</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">You show ownership and responsibility for your problem space</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">You are fluent in English, both verbal and written</p>
+</li>
+</ul>
+<p> </p>
+<p dir="ltr"><strong>What you can expect:</strong></p>
+<ul style="">
+<li dir="ltr" style="">
+<p dir="ltr">You will join a fast-paced travel tech company and take on a rapidly growing industry.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">You will take on ownership and responsibility from day one and have a direct impact on the success of the company.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">We value agility! We’re constantly updating our tech stack and offer the best possible tools to ensure all of our in-house engineers, partners, and carriers benefit from cutting-edge, efficient solutions.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">You will work with global companies. Our product attracts the biggest names in travel technology, such as Booking.com, Google Maps, and national carriers like Amtrak, Deutsche Bahn, Renfe, and SNCF.</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">You will join an international team of talented and driven people with a clear mission. Expect your colleagues to inspire, support and challenge you every day!</p>
+</li>
+<li dir="ltr" style="">
+<p dir="ltr">We offer flexible and remote working conditions, relocation opportunities, and career growth in a small and developing company.<br><br></p>
+</li>
+</ul>
+<p dir="ltr"><strong>Our hiring team:</strong></p>
+<p dir="ltr">Your Talent Partner (TP) and point of contact is Ceren Volkan and the Hiring Manager (HM) is Bartosz Pranczke.<br>For any queries, please reach out to your Talent Partner at <a href="mailto:talent@distribusion.com" rel="nofollow" target="_blank">talent@distribusion.com</a>.</p>
+<p dir="ltr"><em> </em></p>
+<p dir="ltr"><em>Do you want to work on a product that is used by millions of people daily with a high load, availability and scalability and most advanced technology? </em>Come join us!</p>
+<img src="https://remotive.com/job/track/1829991/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -88,54 +187,6 @@
 <p><br></p>
 <p>#HN</p>
           
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1306325743580848130/mk0qvsZ9_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Kraken</h5>
-                    <h3>Software Engineer - Rust - Trading Technologies</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/kraken/ac0d544a-262d-4b05-845b-51dc4088b693" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Future of Crypto&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to <a href="https://blog.kraken.com/crypto-education/security-at-kraken" class="postings-link">industry-leading security</a>, <a href="https://blog.kraken.com/category/crypto-education" class="postings-link">crypto education</a>, and <a href="https://blog.kraken.com/crypto-education/support-at-kraken" class="postings-link">world-class client support</a> through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://futures.kraken.com/wallets" class="postings-link">Kraken Futures</a>.</div><div><br></div><div>Become a Krakenite and build the future of crypto!</div><div><br></div><div><br></div><div><b style="font-size: 24px">Proof of work</b></div><div><br></div><div><b style="font-size: 18px">The team</b></div><div><br></div><div>Join our Trading Technology team and start building the internet of money.</div><div>The Trading Technology team is responsible for everything to do with the trading backend services such as the matching engine, market data gateways, internal and external APIs, and various other trading services. The team is located globally and responsibilities are split into sub-teams, working with various tech stacks. Our teams code in C++, Go, Rust, and Python, depending on the product they are contributing to within Kraken and work agile around the globe<b>. </b>Recently, the Trading Technologies team played a critical role in <a href="https://blog.kraken.com/post/17936/performance-at-kraken/" class="postings-link">scaling Kraken's trading infrastructure.</a>&nbsp;</div><div><br></div></div><div class="section page-centered"><div><h3>The opportunity </h3><ul class="posting-requirements plain-list"><ul><li>Design and implementation of microservices in Rust</li><li>Writing reusable, testable, and efficient code</li><li>Implementation of reusable components/libraries for Kraken’s backend systems</li><li>Write highly scalable, high volume services</li><li>Create optimized database schemas</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>5+ years of experience in software engineering</li><li>Experience writing network services or asynchronous code in Rust</li><li>Experience using a Linux server environment</li><li>Ability to define technical requirements and drive projects through to completion</li><li>Assume technical responsibility of complex backend systems, identify opportunities for system improvement</li><li>Have experience with system languages (C, C++, Go) and/or strongly typed programming (OCaml, Haskell, Rust)</li><li>Previous trading knowledge is a nice to have</li><li>Knowledge about distributed systems and technologies (gRPC, Kafka, NoSQL, SQL, Redis, ...)</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="salary-range"><div>$135,000 - $203,000 a year</div><small><div>This is the target annual salary range for this role. This range is not inclusive of other additional compensation elements, such as our Bonus program, Equity program, Wellness allowance, and other benefits [US Only] (including medical, dental, vision and 401(k)).</div><div><br></div><div>The compensation range provided is influenced by various factors and represents the initial target range. Our salary offerings are dynamic and we strive to ensure that our base salary and total compensation package aligns and recognizes the top talent we aim to attract and retain. The compensation package of the successful candidate is based on various factors such as their skillset, experience, and job scope.</div></small></div><div class="section page-centered" data-qa="closing-description"><div>&nbsp;#US #EU #LI-Remote #Canada #LI-VF1</div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/ac0d544a-262d-4b05-845b-51dc4088b693/apply">Apply for this job</a></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1306325743580848130/mk0qvsZ9_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Kraken</h5>
-                    <h3>Senior Software Engineer - React Native - Mobile</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/kraken/dce1dfa2-17e8-446f-95a2-ac83bee87df6" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18pt">Building the Future of Crypto&nbsp;</b></div><div><br></div><div>Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.</div><div><br></div><div>What makes us different? Kraken is a mission-focused company rooted in crypto values. As a Krakenite, you’ll join us on our mission to accelerate the global adoption of crypto, so that everyone can achieve financial freedom and inclusion. For over a decade, Kraken’s focus on our mission and crypto ethos has attracted many of the most talented crypto experts in the world.</div><div><br></div><div>Before you apply, please read the&nbsp;<a href="https://www.kraken.com/culture" class="postings-link">Kraken Culture</a>&nbsp;page to learn more about our internal culture, values, and mission.</div><div><br></div><div>As a fully remote company, we have Krakenites in 60+ countries who speak over 50 languages. Krakenites are industry pioneers who develop premium crypto products for experienced traders, institutions, and newcomers to the space. Kraken is committed to <a href="https://blog.kraken.com/crypto-education/security-at-kraken" class="postings-link">industry-leading security</a>, <a href="https://blog.kraken.com/category/crypto-education" class="postings-link">crypto education</a>, and <a href="https://blog.kraken.com/crypto-education/support-at-kraken" class="postings-link">world-class client support</a> through our products like&nbsp;<a href="https://pro.kraken.com/" class="postings-link">Kraken Pro</a>,&nbsp;<a href="https://www.kraken.com/en-us/nft" class="postings-link">Kraken NFT</a>, and&nbsp;<a href="https://futures.kraken.com/wallets" class="postings-link">Kraken Futures</a>.</div><div><br></div><div>Become a Krakenite and build the future of crypto!</div><div><br></div><div><b style="font-size: 24px">Proof of work</b></div><div><br></div><div><b style="font-size: 18px">The team</b></div><div><br></div><div>We are currently seeking an experienced Senior Software Engineer to join our growing Engineering team. In this role, you will be responsible for developing and maintaining both our Web and Mobile user interfaces using React and React Native, respectively. Your expertise in building scalable and high-performance applications will directly contribute to the success of our platform.</div></div><div class="section page-centered"><div><h3>The opportunity</h3><ul class="posting-requirements plain-list"><ul><li>Design, develop, and maintain high-quality web and mobile applications using React and React Native</li><li>Collaborate with cross-functional teams, including Product, Design, and Backend Engineering, to ensure seamless integration of new features and improvements</li><li>Contribute to the architecture and design of our web and mobile applications</li><li>Identify, analyze, and resolve performance bottlenecks and inefficiencies in the codebase</li><li>Write and maintain comprehensive unit tests and documentation</li><li>Stay up-to-date with the latest industry trends and technologies to ensure our applications remain current and competitive</li><li>Mentor junior developers and participate in code reviews to maintain a high standard of code quality</li></ul></ul></div></div><div class="section page-centered"><div><h3>Skills you should HODL</h3><ul class="posting-requirements plain-list"><ul><li>Bachelor's degree in Computer Science or a related field, or equivalent experience</li><li>5+ years of experience in software development, with a focus on web and mobile applications</li><li>Deep understanding of JavaScript/TypeScript and proficiency with React and React Native frameworks</li><li>Experience with <a href="http://Next.js" class="postings-link">Next.js</a>, RESTful APIs and WebSockets</li><li>Experience with frontend testing frameworks</li><li>Familiarity with modern front-end build pipelines and tooling</li><li>Strong understanding of UI/UX best practices and principles</li><li>Excellent problem-solving skills, attention to detail, and ability to work independently and as part of a team</li><li>Strong written and verbal communication skills in English</li></ul></ul></div></div><div class="section page-centered"><div><h3>Nice to Haves</h3><ul class="posting-requirements plain-list"><ul><li>Knowledge of the cryptocurrency industry and blockchain technology</li><li>Familiarity with native mobile app development (iOS/Android)</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="salary-range"><div>$135,000 - $203,000 a year</div><small><div>This is the target annual salary range for this role. This range is not inclusive of other additional compensation elements, such as our Bonus program, Equity program, Wellness allowance, and other benefits [US Only] (including medical, dental, vision and 401(k)).</div><div><br></div><div>The compensation range provided is influenced by various factors and represents the initial target range. Our salary offerings are dynamic and we strive to ensure that our base salary and total compensation package aligns and recognizes the top talent we aim to attract and retain. The compensation package of the successful candidate is based on various factors such as their skillset, experience, and job scope.</div></small></div><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 15px">Location Tagging: </span>#US #EU #LI-LM1 #LI-Remote #Canada</div><div><br></div><div>Kraken is powered by people from around the world and we celebrate all Krakenites for their diverse talents, backgrounds, contributions and unique perspectives. We hire strictly based on merit, meaning we seek out the candidates with the right abilities, knowledge, and skills considered the most suitable for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!</div><div><br></div><div>As an equal opportunity employer, we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.&nbsp;</div><div><br></div><div><b style="font-size: 18px">Stay in the know</b></div><div><br></div><div><a href="https://twitter.com/krakenfx" class="postings-link">Follow us on Twitter</a></div><div><a href="https://blog.kraken.com/#:~:text=Enter%20your%20email%20address" class="postings-link">Learn on the Kraken Blog</a></div><div><a href="https://www.linkedin.com/company/kraken-exchange/" class="postings-link">Connect on LinkedIn</a></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/kraken/dce1dfa2-17e8-446f-95a2-ac83bee87df6/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
