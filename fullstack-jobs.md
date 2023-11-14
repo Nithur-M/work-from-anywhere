@@ -1,5 +1,122 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1836078/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Slate</h5>
+                    <h3>Senior Full Stack Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>api,AWS,backend,frontend</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-engineer-1836078" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>🔑 THE KEY BITS</p>
+<ul style="">
+<li style="">Whereabouts: We are a fully remote company with globally distributed team members. For this role, we are prioritizing candidates who are based in EST (UTC-5) to EEST (UTC+3) time zones.</li>
+<li style="">Visas: We do not sponsor work visas or relocation expenses</li>
+<li style="">Salary: We have budgeted a range of $90-110k USD but are flexible to speak with candidates who feel excited about the role and qualify</li>
+<li style="">Video Interviews: 3 interviews: Initial Interview (30 minutes) with People &amp; Culture Lead, Nicole or COO/CO-Founder, Will; Technical Interview (1 hour) with Chief Architect &amp; Engineering Team Lead, Maciej and Tech Lead, Fernando; Third Interview (30 minutes) to meet our other Web Engineers.
+<ul style="">
+<li style="">Candidates selected to advance in our process will be required to do a brief technical coding test before an initial chat</li>
+<li style="">Any final candidates will also have the opportunity to meet more team members</li>
+</ul>
+</li>
+<li style="">Ideal Start Date: As soon as we find you!</li>
+<li style="">Reporting to: Fernando Chucre, Tech Lead</li>
+</ul>
+<p>🌟 ABOUT SLATE</p>
+<p>Slate is a web and mobile SaaS product used by leading brands to create branded social content in real-time. We have customers from the NFL, NBA, MLB, MLS, EPL as well as some of the largest media and entertainment brands in the world. Being backed by reputable investors including Titletown Tech (associated with the Green Bay Packers) and WISE ventures (associated with the Minnesota Vikings) we have ambitious plans to grow the company and continue working on exciting new developments that will shape how our brand and products will look in the future.</p>
+<p> </p>
+<p>🌍 OUR MISSION</p>
+<p>Slate has big ambitions: Slate was born out of our Founders’ experiences seeing how difficult it is for brand content creators to keep up with the pace &amp; demands of social media. We have come together out of a passion for solving problems, building a company based on deeply held values, and to make social content creation effortless for brands.</p>
+<p> </p>
+<p>🔎 OUR VISION</p>
+<p>Slate is a content creation platform that gives professional social content creators the ability to produce more engaging, on-brand content in real time.</p>
+<p> </p>
+<p>🌠 YOUR CONTRIBUTION</p>
+<p>In this rapidly evolving world, Slate is always looking for new ways to disrupt the status quo, go to market faster, and optimize customer experiences. We are looking for a Senior Full Stack Engineer who will focus on web development, including Angular on the Frontend, and Node.js, Typescript &amp; AWS on the Backend. Being part of a small, nimble team, you will be working closely with our Co-Founding team including our CEO/Head of Product (based in NYC) as well as other Co-Founders, Engineers, and Designers. This is an ideal role for an experienced engineer who is looking to join a passionate team and be part of the exciting startup journey.</p>
+<p>We’re looking for:</p>
+<ul style="">
+<li style=""><em>Someone comfortable working in a fast-paced remote environment without a lot of structure.</em></li>
+<li style=""><em>Someone with a strong passion for collaboration, quick iteration, and improving the skill sets of those they work alongside.</em></li>
+<li style=""><em>Someone who has high ambitions to help lead an engineering team. </em></li>
+<li style=""><em>Someone who succeeds at working autonomously.</em></li>
+<li style=""><em>Someone who is hyper proactive and goal oriented.</em></li>
+<li style=""><em>Someone with strong abilities to balance business values, code quality, and development pace. </em></li>
+<li style=""><em>Someone who will bring big ideas and strategies that foster an environment of collaboration and creativity.</em></li>
+<li style=""><em>Someone who enjoys discovering, evaluating, and implementing new technologies to maximize development efficiency.</em></li>
+<li style=""><em>Someone who enjoys challenges that keep you on your toes and embraces continuous learning to expand your abilities and grow.</em></li>
+</ul>
+<p>Does this make you jump out of your seat because it describes you? If so, continue reading details of how you will contribute and then please apply so we can take this thing to the next level together!</p>
+<p>You will:</p>
+<ol style="">
+<li style="">Actively contribute to one of our small cross-functional teams with high degree of autonomy and ownership</li>
+<li style="">Design, build and ship new features to production fast</li>
+<li style="">Improve and extend our existing services (and create new ones) to help us scale as we rapidly grow and evolve</li>
+<li style="">Write sustainable, testable and high-quality code in Typescript / Node.js</li>
+<li style="">Identify opportunities for improvement and be encouraged to share and execute it</li>
+<li style="">Assist in designing infrastructure and architecture</li>
+<li style="">Be open to share knowledge with teammates and to help/assist other teammates as needed</li>
+</ol>
+<p><strong>Requirements</strong></p>
+<p>📬 WE'D LOVE TO HEAR FROM YOU IF YOU MEET THESE QUALIFICATIONS:</p>
+<ul style="">
+<li style="">Ideal candidate with have 5-10 years of programming and development experience</li>
+<li style="">At least 3+ years of front-end development experience, ideally with Angular</li>
+<li style="">At least 3+ years of back-end development experience with Node.js, ideally with Typescript</li>
+<li style="">Experience with developing and maintaining services and APIs in a serverless infrastructure, ideally with AWS Lambda</li>
+<li style="">Experience with AWS DynamoDB or a similar NoSQL database</li>
+<li style="">Experience with the following AWS services: S3, Cognito, EventBridge, SQS. Other AWS services are a plus.</li>
+<li style="">Experience with AWS infrastructure setup with either CloudFormation, AWS CDK, Terraform or Serverless framework</li>
+<li style="">Previous experience working in a startup environment is a plus</li>
+<li style="">Excellent communication skills</li>
+<li style="">Ability to think effectively, critically and creatively</li>
+<li style="">English language: Intermediate level or higher for reading, writing, speaking</li>
+</ul>
+<p>You also approach work in a way that emphasizes our values:</p>
+<ul style="">
+<li style="">🧑‍🤝‍🧑 #PeopleFirst: We put people first, and care about the personal well being of our colleagues. We go above and beyond for our customers and each other.</li>
+<li style="">⛰️ #EmbraceAdventure: We are excited to take on new challenges, grow, and change in a fast changing environment. A willingness to pitch in and get outside of your comfort zone will help us thrive.</li>
+<li style="">🚀 #Innovate to be Great: We're creative, innovative, &amp; think BIG! We’re a unique company blazing our own path. We got to where we are through creativity and innovation and are only confined by our notions of what is possible.</li>
+<li style="">🙋‍♀️ #Win or Lose, Wear It: Celebrate your successes but also own your failures.</li>
+<li style="">🤝 #Stronger Together: We are a team dedicated to collaboration and transparency. We keep lines of communication open and realize that we can only win if we work together.</li>
+</ul>
+<p> </p>
+<p><strong>Benefits</strong></p>
+<p>WHAT WE OFFER:</p>
+<ul style="">
+<li style="">🏡 Fully remote - work where you want</li>
+<li style="">🕰 Flex hours - we just ask you be available for core meetings</li>
+<li style="">📈 Equity options</li>
+<li style="">🌏 Unlimited PTO policy - we mean it and encourage you to take it</li>
+<li style="">🩺 Medical, Dental, Vision Benefits stipend</li>
+<li style="">💝 Health and Wellness monthly stipend</li>
+<li style="">🏝 Company offsites and local meetups</li>
+<li style="">🖥 Home office budget or co-working space allowance</li>
+<li style="">🌱 Learning and Development monthly stipend</li>
+<li style="">👨‍👨‍👧‍👧 Work with an Amazingly Fun and Collaborative Team!!</li>
+</ul>
+<p>🌈 We support DEIB initiatives and strongly encourage women and those in traditionally underrepresented groups to apply even if you don’t check all boxes. If this job interests you and you think you have what it takes, please still get in touch. We'd love to have a chat and see if you could be a great fit.</p>
+<p> </p>
+<p>🏆 Fun Fact: Slate was named to Fast Company's list of the World’s Most Innovative Companies for 2022 as No. 2 in the video category!</p>
+<p> </p>
+<p>👉 View our our website: <a class="external" href="https://slateteams.com/" rel="nofollow">https://slateteams.com</a> for more information about us!</p>
+<p>… WE LOOK FORWARD TO HEARING FROM YOU.</p>
+<p>#LI-remote</p>
+<img src="https://remotive.com/job/track/1836078/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1263546899153502209/ObHsQoNr_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
