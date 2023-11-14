@@ -1,104 +1,5 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1829991/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Distribusion Technologies</h5>
-                    <h3>Senior Software Engineer, Python (all genders)</h3>
-                </td>
-                <td width="300">
-                    <code>api,backend,python,sql</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-python-all-genders-1829991" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p dir="ltr"><strong>Distribusion</strong> is the world’s leading ground transportation marketplace and gives travelers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail, and ferry operators in 70+ countries with the biggest online retailers, including Google Maps and Booking.com.</p>
-<p dir="ltr">We are shaping the future of travel and building the largest global network of transport providers and retailers. Having grown 10x in the past year, we are one of the fastest-growing startups in travel. Backed by three leading VCs (Creandum, Northzone, and Lightrock), and now, following our recent €30 m Series B, we are ready to push beyond.</p>
-<p dir="ltr"> </p>
-<p dir="ltr">We are currently seeking a skilled <strong>Python Software Engineer </strong>to join our team. You will create robust web services based on micro-service architecture, use many different data sources, and aggregate data from and provide into the flexible API.<br><br><strong>What you will do:</strong></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr">Design, develop, deploy, maintain, and improve the backend for interactive web applications and APIs</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Lead designs of major software components, systems and features</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">Solve technically challenging problems working with high-load systems</p>
-</li>
-</ul>
-<div>
-<p dir="ltr"><strong> </strong></p>
-<div><strong>Workplace:</strong></div>
-<p>Berlin (HQ) or Remote</p>
-<p>We are a remote-first international company with team members spread around the world. We are looking to hire the best talent around the Globe, so wherever you are, feel free to reach out. </p>
-<p>If, however, you prefer working onsite/hybrid, our heart is in Berlin, one of the biggest and most vibrant tech hubs in Europe, and we are happy to assist with relocation.</p>
-</div>
-<p dir="ltr"><strong>Who you are:</strong></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr">You have a degree in Computer Science or a related field</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">You have at least 3 years of software engineering experience with a focus on developing web applications using modern, high-performance web frameworks in Python</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">General understanding of SQL databases</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">You have knowledge in systems architecture and how to design an API</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">You can break down complex problems and projects into manageable goal</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">You are driven, ambitious, and willing to get hands-on in shaping the future of ground transportation travel</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">You show ownership and responsibility for your problem space</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">You are fluent in English, both verbal and written</p>
-</li>
-</ul>
-<p> </p>
-<p dir="ltr"><strong>What you can expect:</strong></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr">You will join a fast-paced travel tech company and take on a rapidly growing industry.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">You will take on ownership and responsibility from day one and have a direct impact on the success of the company.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">We value agility! We’re constantly updating our tech stack and offer the best possible tools to ensure all of our in-house engineers, partners, and carriers benefit from cutting-edge, efficient solutions.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">You will work with global companies. Our product attracts the biggest names in travel technology, such as Booking.com, Google Maps, and national carriers like Amtrak, Deutsche Bahn, Renfe, and SNCF.</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">You will join an international team of talented and driven people with a clear mission. Expect your colleagues to inspire, support and challenge you every day!</p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr">We offer flexible and remote working conditions, relocation opportunities, and career growth in a small and developing company.<br><br></p>
-</li>
-</ul>
-<p dir="ltr"><strong>Our hiring team:</strong></p>
-<p dir="ltr">Your Talent Partner (TP) and point of contact is Ceren Volkan and the Hiring Manager (HM) is Bartosz Pranczke.<br>For any queries, please reach out to your Talent Partner at <a href="mailto:talent@distribusion.com" rel="nofollow" target="_blank">talent@distribusion.com</a>.</p>
-<p dir="ltr"><em> </em></p>
-<p dir="ltr"><em>Do you want to work on a product that is used by millions of people daily with a high load, availability and scalability and most advanced technology? </em>Come join us!</p>
-<img src="https://remotive.com/job/track/1829991/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -447,7 +348,7 @@
 <p>🌎 Given that we are an all-remote company and hire&nbsp;<a href="https://handbook.sourcegraph.com/departments/people-ops/process/how-we-engage-talent-outside-the-us/">almost anywhere</a> in the world, we don’t have a particular time-zone preference for this role. However, you may need to be available for non-recurring urgent meetings outside of working hours.</p>
 <h2><span style="color: rgb(140, 51, 236);"><strong>Why this job is exciting</strong></span></h2>
 <p>Sourcegraph Code Search is an advanced, user-friendly code search and navigation tool designed to help developers efficiently understand, navigate, and review the software they're working on, irrespective of its size or complexity. It offers a web-based, universal code search capability across various repositories, branches, and languages, enabling quick and accurate search results with context. It also provides features such as semantic code search, syntax highlighting, hover tooltips, and real-time code insights, significantly reducing the time spent understanding codebases or hunting for specific logic. With integrations into popular version control systems and code editors, Sourcegraph Code Search aids in code exploration, bug squashing, and feature development, making it an indispensable tool for modern development teams.</p>
-<p>The Code Search team is aimed at growing the Code Search product into a 100+ million dollar product that is an integral part of every Fortune-500 company’s workflow. As a senior software engineer on the Code Search team, you will contribute to the direction of Sourcegraph’s Code Search product. With your expertise, you will be in the thick of maintaining, expanding, and shaping the future of the product, ensuring it meets the needs of our largest enterprise customers. Search engine experience is not required.</p>
+<p>The Code Search team is aimed at growing the Code Search product into a 100+ million dollar product that is an integral part of every Fortune-500 company’s workflow. As a software engineer on the Code Search team, you will contribute to the direction of Sourcegraph’s Code Search product. With your expertise, you will be in the thick of maintaining, expanding, and shaping the future of the product, ensuring it meets the needs of our largest enterprise customers. Search engine experience is not required.</p>
 <p>📅 Within one month, you will…</p>
 <ul>
 <li>Onboard onto the Sourcegraph codebase, architecture, tooling, and development workflow.</li>
