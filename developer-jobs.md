@@ -1,56 +1,5 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1836313/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MindX Jobs</h5>
-                    <h3>Android Developer (Kotlin Multiplatform)</h3>
-                </td>
-                <td width="300">
-                    <code>android,crypto,java,react</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/android-developer-kotlin-multiplatform-1836313" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>About Our Client:</strong></p>
-<p>Our client is the creator of an all-in-one language learning platform that revolutionizes how users learn new languages while enjoying their favorite content from Netflix, YouTube, websites, books, and more. Their platform offers a unique feature that enables users to effortlessly create language-enhancing flashcards, complete with screenshots and audio recordings, all on their mobile devices.</p>
-<p><strong>Role Overview:</strong></p>
-<p>We are searching for an experienced Android Developer to take charge of upgrading our client's product on the Android platform. The ideal candidate should possess substantial experience in delivering top-notch products for Android, a strong passion for UI and animation, excellent communication skills, and the ability to work effectively as a team member while maintaining a high degree of autonomy for independent tasks.</p>
-<p><strong>Requirements</strong></p>
-<ul style="">
-<li style="">A minimum of 6 years of hands-on experience in Android app development.</li>
-<li style="">Proficiency in Java and Kotlin, with experience with Kotlin Multiplatform is a must</li>
-<li style="">An innate talent for creating visually stunning and user-friendly interfaces is a must. Your work should stand as a testament to your UI expertise, with Android apps in the Play Store showcasing your skills.</li>
-<li style="">A keen eye for animations.</li>
-<li style="">Your portfolio should feature apps from the Play Store, emphasizing your direct contributions to UI development.</li>
-</ul>
-<p><strong>Bonuses:</strong></p>
-<ul style="">
-<li style="">Game Development: Experience in mobile game development is a valuable asset.</li>
-<li style="">Proficiency in React Native</li>
-<li style="">OCR Text Recognition: Familiarity with OCR text recognition technologies is a significant advantage.</li>
-</ul>
-<p><strong>Benefits</strong></p>
-<ul style="">
-<li style="">Monthly Salary: $5,000 - $6,000 per month, with flexible payment options via Bank Transfer or Crypto.</li>
-</ul>
-<ul style="">
-<li style="">Equity in a rapidly growing startup boasting over 3000+ paying users.</li>
-<li style="">36 paid time-off days each year to promote work-life balance.</li>
-<li style="">This is a fully remote position, providing the freedom to work from a location that suits your needs.</li>
-</ul>
-<img src="https://remotive.com/job/track/1836313/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1680495/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -61,7 +10,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -138,7 +87,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -201,204 +150,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a new type of company for a new kind of independent software builder. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </span></p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</span></p>
 <img src="https://remotive.com/job/track/814298/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1428393724527190022/4mt5PACL_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Sourcegraph</h5>
-                    <h3>Developer Advocate</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/sourcegraph91/jobs/4935833004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
-<h2><span style="color: #a112ff;">Who we are</span></h2>
-<p>Our mission at Sourcegraph is to make it so that&nbsp;<a class="c-link" href="https://handbook.sourcegraph.com/strategy-goals/strategy" target="_blank" data-stringify-link="https://handbook.sourcegraph.com/strategy-goals/strategy" data-sk="tooltip_parent">everyone can code</a>, not just ~0.1% of the population. Our code graph powers Cody, the most powerful and accurate AI coding assistant, as well as our Code Search product, which helps devs explore their entire codebase and make large-scale migrations and security fixes. We’re building software that builds software, and in doing so we’re making devs more productive and preparing for a world where a lot more code gets written.</p>
-<p>It’s an exciting time to join Sourcegraph. AI has taken over the world, and we’ve spent the last 10 years building infrastructure that’s integral to making AI generated code more powerful and accurate. Our customers include 4/5 FAANG companies, 4 of the top 10 banks, government organizations, Uber, Plaid, and many other companies building the software that pushes the world forward. We’ve raised $225M at a $2.625B valuation from <a class="c-link" href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" target="_blank" data-stringify-link="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" data-sk="tooltip_parent">Andreessen Horowitz</a>,&nbsp;<a class="c-link" href="https://about.sourcegraph.com/blog/series-c-with-sequoia/" target="_blank" data-stringify-link="https://about.sourcegraph.com/blog/series-c-with-sequoia/" data-sk="tooltip_parent">Sequoia</a>,&nbsp;<a class="c-link" href="https://www.redpoint.com/companies/sourcegraph/" target="_blank" data-stringify-link="https://www.redpoint.com/companies/sourcegraph/" data-sk="tooltip_parent">Redpoint</a>,&nbsp;<a class="c-link" href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" target="_blank" data-stringify-link="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" data-sk="tooltip_parent">Craft</a>&nbsp;and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</p></div>
-
-    <h2><span style="color: #8c33ec;"><strong>Working hours</strong></span></h2>
-<p>While Sourcegraph is fully remote, we are specifically seeking candidates located in North America to be able to attend events regularly.&nbsp;</p>
-<h2><span style="color: #8c33ec;"><strong>Why this job is exciting</strong></span></h2>
-<p><a href="https://about.sourcegraph.com/cody?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=19895311885&amp;utm_term=sourcegraph%20cody&amp;gclid=CjwKCAjw0ZiiBhBKEiwA4PT9z9jbT-6ncbQS5bLcQHfuIy9Je5bCogDwICrbbZ8Z9TkwiKkenGMuFRoCptEQAvD_BwE"><span style="font-weight: 400;">Cody</span></a><span style="font-weight: 400;"> is the best AI coding assistant today, and you'll get to help build it and get it in the hands of millions of devs. AI applied to software engineering will change the world more than any single other technology. We're perfectly positioned to keep building the best coding AI because of our large-scale, deep understanding of code inside the most advanced companies in the world and across the world of public code.</span></p>
-<h2><span style="color: #8c33ec;"><strong>Job Responsibilities</strong></span></h2>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Build apps with Cody in public</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Build integrations on top of Cody (such as teaching Cody how to use and gather information from other dev tools, including logging, perf, etc., tools)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Livestream and record demos of what you build, for Twitter, YouTube, Twitch, etc.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Be an incredibly helpful and inspirational member of our dev community yourself and help grow it</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Represent our user community within Sourcegraph</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Write awesome technical blog posts and docs pages</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Promote Sourcegraph on social media</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Help connect our user community growth to our product-led growth engine</span></li>
-</ul>
-<h2><span style="color: #8c33ec;"><strong>Skills and experience</strong></span></h2>
-<p><span style="font-weight: 400;">Your skill-set:</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You are intrinsically motivated by Sourcegraph’s mission and </span><a href="https://about.sourcegraph.com/cody?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=19895311885&amp;utm_term=sourcegraph%20cody&amp;gclid=CjwKCAjw0ZiiBhBKEiwA4PT9z9jbT-6ncbQS5bLcQHfuIy9Je5bCogDwICrbbZ8Z9TkwiKkenGMuFRoCptEQAvD_BwE"><span style="font-weight: 400;">Cody</span></a><span style="font-weight: 400;">.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience as a software engineer or prolific coding</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">TypeScript skills (</span><a href="https://sourcegraph.com/github.com/sourcegraph/sourcegraph/-/tree/client/cody"><span style="font-weight: 400;">Cody's code</span></a><span style="font-weight: 400;"> is open source)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Able to communicate technical concepts in a simple and engaging way</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience creating high-quality technical writing and videos</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience working in a high-agency environment that requires ownership</span></li>
-</ul>
-<p><span style="font-weight: 400;">&nbsp;Bonus Points:</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You’ve established a strong following on social media platforms</span></li>
-</ul>
-<h2><span style="color: #8c33ec;"><strong>Level</strong></span></h2>
-<p><span style="font-weight: 400;">This job is an IC3 - IC4.&nbsp; You can read more about </span><a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/leveling-guide/"><span style="font-weight: 400;">our job leveling philosophy</span></a><span style="font-weight: 400;"> in our Handbook.</span></p>
-<h2><span style="color: #8c33ec;"><strong>Compensation</strong></span></h2>
-<p><strong>We pay you an above-average salary</strong><span style="font-weight: 400;"> because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. You will have the flexibility to work and live anywhere in the world</span><em><span style="font-weight: 400;"> (unless specified otherwise in the job description)</span></em><span style="font-weight: 400;">, and we’ll never take your location or current/past salary information into account when determining your compensation.&nbsp; As an </span><a href="https://handbook.sourcegraph.com/company-info-and-process/values/#sts=Open%20and%20transparent"><span style="font-weight: 400;">open and transparent </span></a><span style="font-weight: 400;">company that values equitable and competitive compensation for everyone, our </span><a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/"><span style="font-weight: 400;">compensation ranges are visible</span></a><span style="font-weight: 400;"> to every single Sourcegraph Teammate. To determine your salary, we use a number of market and data-driven salary sources and target the high-end of the range, ensuring that we’re always paying above market regardless of where you live in the world.&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">The target compensation for this role is $158,404 USD base.</span></p>
-<p><span style="font-weight: 400;">In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous </span><a href="https://handbook.sourcegraph.com/benefits-pay-perks/benefits-perks/"><span style="font-weight: 400;">perks &amp; benefits</span></a><span style="font-weight: 400;">.</span></p>
-<h2><strong><span style="color: #8c33ec;">Interview process</span>&nbsp;</strong></h2>
-<p><em><span style="font-weight: 400;">Below is the interview process you can expect for this role (you can read more about </span></em><a href="https://handbook.sourcegraph.com/talent/types_of_interviews"><em><span style="font-weight: 400;">the types of interviews</span></em></a><em><span style="font-weight: 400;"> in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&nbsp;</span></em></p>
-<p><span style="font-weight: 400;">We expect the interview process to take 4.5</span><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;">hours in total.</span><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;"><br><br></span></p>
-<p><strong>👋 Introduction Stage</strong><span style="font-weight: 400;"> - we have initial conversations to get to know you better…</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#recruiter-screen"><span style="font-weight: 400;">Recruiter Screen</span></a><span style="font-weight: 400;"> with Kelsey Nagel</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#hiring-manager-screen"><span style="font-weight: 400;">Hiring Manager Screen</span></a> with Ado Kukic</li>
-</ul>
-<p><strong>🧑‍💻 Team Interview Stage</strong><span style="font-weight: 400;"> - we then delve into your experience in more depth and introduce you to members of the team…</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive"><span style="font-weight: 400;">Resume Deep Dive</span></a> with Kelsey Nagel and Ado Kukic</li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[60m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#developer-relations-working-session">Working Session</a> with Alex Isken, Justin Dorfman, Raman Sharma, Beyang Liu, Ado Kukic, Amie Rotherham</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[45m] <a href="https://about.sourcegraph.com/handbook/talent/types_of_interviews#cross-functional-team-collaboration-interview">Cross-functional team collaboration</a> with Justin Dorfman and Amie Rotherham&nbsp;</span></li>
-</ul>
-<p><strong>🎉 Final Interview Stage </strong><span style="font-weight: 400;">- we move you to our final round, where you meet cross-functional partners and gain a better understanding of our business and values holistically…</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#values-interview"><span style="font-weight: 400;">Values Interview</span></a></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#leadership-interview"><span style="font-weight: 400;">Leadership Interview</span></a> with Quinn Slack or Beyang Liu<span style="font-weight: 400;">&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">We check references and conduct your background check</span></li>
-</ul>
-<p><span style="font-weight: 400;">Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process. You can learn more about the team <a href="https://handbook.sourcegraph.com/team/">here</a>.&nbsp;</span></p>
-
-    
-
-    <div class="content-conclusion"><h2><span style="color: #a112ff;">Not sure if this is you?</span></h2>
-<p><span style="font-weight: 400;">We want a diverse, global team, with a broad range of experience and perspectives. If this job sounds great, but you’re not sure if you qualify, apply anyway! We carefully consider every application, and will either move forward with you, find another team that might be a better fit, keep in touch for future opportunities, or thank you for your time.</span></p>
-<h2><span style="color: #a112ff;">Learn more about us</span></h2>
-<p><span style="font-weight: 400;">To create a product that serves the needs of all developers, we are building a diverse </span><a href="https://handbook.sourcegraph.com/company-info-and-process/remote"><span style="font-weight: 400;">all-remote team</span></a><span style="font-weight: 400;"> that is </span><a href="https://handbook.sourcegraph.com/team"><span style="font-weight: 400;">distributed across the world</span></a><span style="font-weight: 400;">. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.&nbsp;</span></p>
-<p><span style="font-weight: 400;">We provide </span><a href="https://about.sourcegraph.com/handbook/people-ops/compensation"><span style="font-weight: 400;">competitive compensation</span></a><span style="font-weight: 400;"> and </span><a href="https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks"><span style="font-weight: 400;">practical benefits</span></a><span style="font-weight: 400;"> to keep you happy and healthy so that you can do your best work.&nbsp;</span><span style="font-weight: 400;">&nbsp;</span></p>
-<p><span style="font-weight: 400;">Learn more about what it is like to work at Sourcegraph by reading </span><a href="https://about.sourcegraph.com/handbook/"><span style="font-weight: 400;">our handbook</span></a><span style="font-weight: 400;">.</span></p>
-<p><span style="font-weight: 400;">We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process.</span></p>
-<p><span style="font-weight: 400;">Go back to the </span><a href="https://about.sourcegraph.com/jobs/"><span style="font-weight: 400;">careers page</span></a><span style="font-weight: 400;"> for all open positions.</span></p>
-<p>&nbsp;</p>
-<p><em><span style="font-weight: 400;">Sourcegraph participates in <a href="https://handbook.sourcegraph.com/departments/people-talent/e-verify/" target="_blank">E-Verify</a> for U.S. Employees</span></em></p></div>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1428393724527190022/4mt5PACL_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Sourcegraph</h5>
-                    <h3>Developer Advocate (based in San Francisco, CA)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/sourcegraph91/jobs/4913314004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
-<h2><span style="color: #a112ff;">Who we are</span></h2>
-<p>Our mission at Sourcegraph is to make it so that&nbsp;<a class="c-link" href="https://handbook.sourcegraph.com/strategy-goals/strategy" target="_blank" data-stringify-link="https://handbook.sourcegraph.com/strategy-goals/strategy" data-sk="tooltip_parent">everyone can code</a>, not just ~0.1% of the population. Our code graph powers Cody, the most powerful and accurate AI coding assistant, as well as our Code Search product, which helps devs explore their entire codebase and make large-scale migrations and security fixes. We’re building software that builds software, and in doing so we’re making devs more productive and preparing for a world where a lot more code gets written.</p>
-<p>It’s an exciting time to join Sourcegraph. AI has taken over the world, and we’ve spent the last 10 years building infrastructure that’s integral to making AI generated code more powerful and accurate. Our customers include 4/5 FAANG companies, 4 of the top 10 banks, government organizations, Uber, Plaid, and many other companies building the software that pushes the world forward. We’ve raised $225M at a $2.625B valuation from <a class="c-link" href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" target="_blank" data-stringify-link="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" data-sk="tooltip_parent">Andreessen Horowitz</a>,&nbsp;<a class="c-link" href="https://about.sourcegraph.com/blog/series-c-with-sequoia/" target="_blank" data-stringify-link="https://about.sourcegraph.com/blog/series-c-with-sequoia/" data-sk="tooltip_parent">Sequoia</a>,&nbsp;<a class="c-link" href="https://www.redpoint.com/companies/sourcegraph/" target="_blank" data-stringify-link="https://www.redpoint.com/companies/sourcegraph/" data-sk="tooltip_parent">Redpoint</a>,&nbsp;<a class="c-link" href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" target="_blank" data-stringify-link="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" data-sk="tooltip_parent">Craft</a>&nbsp;and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</p></div>
-
-    <h2><span style="color: #8c33ec;"><strong>Working hours</strong></span></h2>
-<p>While Sourcegraph is fully remote, we require the successful candidate for this role to reside in San Francisco. Regular attendance at weekly DevRel events in the city is an essential aspect of this position</p>
-<h2><span style="color: #8c33ec;"><strong>Why this job is exciting</strong></span></h2>
-<p><a href="https://about.sourcegraph.com/cody?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=19895311885&amp;utm_term=sourcegraph%20cody&amp;gclid=CjwKCAjw0ZiiBhBKEiwA4PT9z9jbT-6ncbQS5bLcQHfuIy9Je5bCogDwICrbbZ8Z9TkwiKkenGMuFRoCptEQAvD_BwE"><span style="font-weight: 400;">Cody</span></a><span style="font-weight: 400;"> is the best AI coding assistant today, and you'll get to help build it and get it in the hands of millions of devs. AI applied to software engineering will change the world more than any single other technology. We're perfectly positioned to keep building the best coding AI because of our large-scale, deep understanding of code inside the most advanced companies in the world and across the world of public code.</span></p>
-<h2><span style="color: #8c33ec;"><strong>Job Responsibilities</strong></span></h2>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Build apps with Cody in public</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Build integrations on top of Cody (such as teaching Cody how to use and gather information from other dev tools, including logging, perf, etc., tools)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Livestream and record demos of what you build, for Twitter, YouTube, Twitch, etc.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Be an incredibly helpful and inspirational member of our dev community yourself and help grow it</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Represent our user community within Sourcegraph</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Write awesome technical blog posts and docs pages</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Promote Sourcegraph on social media</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Help connect our user community growth to our product-led growth engine</span></li>
-</ul>
-<h2><span style="color: #8c33ec;"><strong>Skills and experience</strong></span></h2>
-<p><span style="font-weight: 400;">Your skill-set:</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You are intrinsically motivated by Sourcegraph’s mission and </span><a href="https://about.sourcegraph.com/cody?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=19895311885&amp;utm_term=sourcegraph%20cody&amp;gclid=CjwKCAjw0ZiiBhBKEiwA4PT9z9jbT-6ncbQS5bLcQHfuIy9Je5bCogDwICrbbZ8Z9TkwiKkenGMuFRoCptEQAvD_BwE"><span style="font-weight: 400;">Cody</span></a><span style="font-weight: 400;">.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience as a software engineer or prolific coding</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">TypeScript skills (</span><a href="https://sourcegraph.com/github.com/sourcegraph/sourcegraph/-/tree/client/cody"><span style="font-weight: 400;">Cody's code</span></a><span style="font-weight: 400;"> is open source)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Able to communicate technical concepts in a simple and engaging way</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience creating high-quality technical writing and videos</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience working in a high-agency environment that requires ownership</span></li>
-</ul>
-<p><span style="font-weight: 400;">&nbsp;Bonus Points:</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">You’ve established a strong following on social media platforms</span></li>
-</ul>
-<h2><span style="color: #8c33ec;"><strong>Level</strong></span></h2>
-<p><span style="font-weight: 400;">This job is an IC3 - IC4.&nbsp; You can read more about </span><a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/leveling-guide/"><span style="font-weight: 400;">our job leveling philosophy</span></a><span style="font-weight: 400;"> in our Handbook.</span></p>
-<h2><span style="color: #8c33ec;"><strong>Compensation</strong></span></h2>
-<p><strong>We pay you an above-average salary</strong><span style="font-weight: 400;"> because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. You will have the flexibility to work and live anywhere in the world</span><em><span style="font-weight: 400;"> (unless specified otherwise in the job description)</span></em><span style="font-weight: 400;">, and we’ll never take your location or current/past salary information into account when determining your compensation.&nbsp; As an </span><a href="https://handbook.sourcegraph.com/company-info-and-process/values/#sts=Open%20and%20transparent"><span style="font-weight: 400;">open and transparent </span></a><span style="font-weight: 400;">company that values equitable and competitive compensation for everyone, our </span><a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/"><span style="font-weight: 400;">compensation ranges are visible</span></a><span style="font-weight: 400;"> to every single Sourcegraph Teammate. To determine your salary, we use a number of market and data-driven salary sources and target the high-end of the range, ensuring that we’re always paying above market regardless of where you live in the world.&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">The target compensation for this role is $158,404 USD base.</span></p>
-<p><span style="font-weight: 400;">In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous </span><a href="https://handbook.sourcegraph.com/benefits-pay-perks/benefits-perks/"><span style="font-weight: 400;">perks &amp; benefits</span></a><span style="font-weight: 400;">.</span></p>
-<h2><strong><span style="color: #8c33ec;">Interview process</span>&nbsp;</strong></h2>
-<p><em><span style="font-weight: 400;">Below is the interview process you can expect for this role (you can read more about </span></em><a href="https://handbook.sourcegraph.com/talent/types_of_interviews"><em><span style="font-weight: 400;">the types of interviews</span></em></a><em><span style="font-weight: 400;"> in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&nbsp;</span></em></p>
-<p><span style="font-weight: 400;">We expect the interview process to take 4.5</span><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;">hours in total.</span><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;"><br><br></span></p>
-<p><strong>👋 Introduction Stage</strong><span style="font-weight: 400;"> - we have initial conversations to get to know you better…</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#recruiter-screen"><span style="font-weight: 400;">Recruiter Screen</span></a><span style="font-weight: 400;"> with Kelsey Nagel</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#hiring-manager-screen"><span style="font-weight: 400;">Hiring Manager Screen</span></a> with Ado Kukic</li>
-</ul>
-<p><strong>🧑‍💻 Team Interview Stage</strong><span style="font-weight: 400;"> - we then delve into your experience in more depth and introduce you to members of the team…</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive"><span style="font-weight: 400;">Resume Deep Dive</span></a> with Kelsey Nagel and Ado Kukic</li>
-<li>[60m]&nbsp;<a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#developer-relations-working-session">Working Session</a>&nbsp;with Alex Isken, Justin Dorfman, Raman Sharma, Beyang Liu, Ado Kukic, Amie Rotherham</li>
-<li>[45m]&nbsp;<a href="https://about.sourcegraph.com/handbook/talent/types_of_interviews#cross-functional-team-collaboration-interview">Cross-functional team collaboration</a>&nbsp;with Justin Dorfman and Amie Rotherham&nbsp;</li>
-</ul>
-<p><strong>🎉 Final Interview Stage </strong><span style="font-weight: 400;">- we move you to our final round, where you meet cross-functional partners and gain a better understanding of our business and values holistically…</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#values-interview"><span style="font-weight: 400;">Values Interview</span></a></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#leadership-interview"><span style="font-weight: 400;">Leadership Interview</span></a><span style="font-weight: 400;"> with Quinn Slack or Beyang Liu&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">We check references and conduct your background check</span></li>
-</ul>
-<p><span style="font-weight: 400;">Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process. You can learn more about the team&nbsp;<a href="https://handbook.sourcegraph.com/team/">here</a>.&nbsp;</span></p>
-
-    
-
-    <div class="content-conclusion"><h2><span style="color: #a112ff;">Not sure if this is you?</span></h2>
-<p><span style="font-weight: 400;">We want a diverse, global team, with a broad range of experience and perspectives. If this job sounds great, but you’re not sure if you qualify, apply anyway! We carefully consider every application, and will either move forward with you, find another team that might be a better fit, keep in touch for future opportunities, or thank you for your time.</span></p>
-<h2><span style="color: #a112ff;">Learn more about us</span></h2>
-<p><span style="font-weight: 400;">To create a product that serves the needs of all developers, we are building a diverse </span><a href="https://handbook.sourcegraph.com/company-info-and-process/remote"><span style="font-weight: 400;">all-remote team</span></a><span style="font-weight: 400;"> that is </span><a href="https://handbook.sourcegraph.com/team"><span style="font-weight: 400;">distributed across the world</span></a><span style="font-weight: 400;">. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.&nbsp;</span></p>
-<p><span style="font-weight: 400;">We provide </span><a href="https://about.sourcegraph.com/handbook/people-ops/compensation"><span style="font-weight: 400;">competitive compensation</span></a><span style="font-weight: 400;"> and </span><a href="https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks"><span style="font-weight: 400;">practical benefits</span></a><span style="font-weight: 400;"> to keep you happy and healthy so that you can do your best work.&nbsp;</span><span style="font-weight: 400;">&nbsp;</span></p>
-<p><span style="font-weight: 400;">Learn more about what it is like to work at Sourcegraph by reading </span><a href="https://about.sourcegraph.com/handbook/"><span style="font-weight: 400;">our handbook</span></a><span style="font-weight: 400;">.</span></p>
-<p><span style="font-weight: 400;">We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process.</span></p>
-<p><span style="font-weight: 400;">Go back to the </span><a href="https://about.sourcegraph.com/jobs/"><span style="font-weight: 400;">careers page</span></a><span style="font-weight: 400;"> for all open positions.</span></p>
-<p>&nbsp;</p>
-<p><em><span style="font-weight: 400;">Sourcegraph participates in <a href="https://handbook.sourcegraph.com/departments/people-talent/e-verify/" target="_blank">E-Verify</a> for U.S. Employees</span></em></p></div>
-
                 </details>
                 </td>
             </tr>,<tr>
