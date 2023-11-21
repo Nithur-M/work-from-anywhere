@@ -217,6 +217,91 @@
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
+                    <h3>Senior Site Reliability / Gitops Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/5517891" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>This role is an opportunity for a hands-on, but literally hands-off, senior technologist with a passion for Linux to build a career with Canonical and drive the success with those leveraging Ubuntu and open source products.&nbsp; If you have experience of IT operations automation, Infrastructure as Code and a passion for technology, then you will enjoy working with some of the best people in the industry at Canonical.</p>
+<h2><strong>Job Summary</strong></h2>
+<p>The IS team at Canonical supports and maintains all of Canonical’s IT production services. The team is in charge of running services used by over 60 million Ubuntu users.</p>
+<p>As an Senior SRE &amp; Gitops engineer you’ll be in a unique position to drive operations automation to the next level, both in our own private clouds as well as in the public clouds. We do this by utilizing the best of open source infrastructure as code software, software development practices such as CI/CD pipelines, and Canonical’s leading products for software operation automation.</p>
+<p>In addition to defining the infrastructure as code, you will improve Canonical products and the open-source technologies they’re based on by providing critical feedback to developers on how their products operate at scale. This is done by submitting bugs (and sometimes writing pull requests) and collaborating on design and implementations with other teams within the company.</p>
+<p>You’ll be part of a global team of SREs that work together and support each other to provide the best possible services to our company, Canonical’s customers and the Ubuntu Community.</p>
+<h2><strong>As a Senior Site Reliability / Gitops Engineer engineer you will</strong></h2>
+<ul>
+<li>Drive the development of automation, Gitops in your team as an embedded tech lead</li>
+<li>Closely collaborate with the IS architect to align your solutions with the IS architecture vision</li>
+<li>Design and architect services that IS can offer to the organization as products</li>
+<li>Apply your experience of IaC to develop infrastructure as code practice within IS by constantly increasing automation and improving IaC processes</li>
+<li>Automate software operations for re-usability and consistency across private and public clouds, taking into consideration the complexities of distributed systems</li>
+<li>Maintain operational responsibility for all of Canonical’s core services, networks, and infrastructure</li>
+<li>Develop skills in troubleshooting, capacity planning, and performance investigation, Setting up, maintaining and using observability tools such as Prometheus, Grafana, and Elasticsearch; design, implement and maintain monitoring and alerting for various systems and services</li>
+<li>Provide assistance and work with globally distributed engineering, operations, and support peers</li>
+<li>Be given uninterrupted development time to focus on larger projects and automation of manual tasks</li>
+<li>Share your experience, know-how and best practices with other team members in design sessions, mentorship and ‘doing work together’</li>
+<li>Carry final responsibility for time-critical escalations</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<ul>
+<li>A modern view on hosting architecture, driven by infrastructure as code across both private and public clouds.</li>
+<li>A product mindset thriving to develop products rather than solutions.</li>
+<li>Python software development experience, with large projects</li>
+<li>Experience working with Kubernetes or other container orchestration systems.</li>
+<li>Proven exposure to manage and deploy cloud infrastructure with code.&nbsp;&nbsp;</li>
+<li>Practical knowledge of Linux networking, routing, and firewalls</li>
+<li>Affinity with various forms of Linux storage, from Ceph to Databases</li>
+<li>Hands-on experience administering enterprise Linux servers</li>
+<li>Extensive knowledge of cloud computing concepts and technologies</li>
+<li>Bachelor's degree or greater, preferably in computer science or related engineering field</li>
+<li>Able to communicate clearly and effectively in English over email, chat, video or voice calls and in-person</li>
+<li>Motivated and able to troubleshoot from kernel to web, and willing to ask others when appropriate</li>
+<li>A willingness to be flexible and able to learn new things quickly</li>
+<li>Be inspired by the needs of fast-changing environments</li>
+<li>Happy to work within distributed teams</li>
+<li>Be passionate and familiarized about open-source, especially Ubuntu or Debian</li>
+</ul>
+<h2>What we offer you</h2>
+<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilization. Our compensation philosophy is to ensure equity right across our global workforce.&nbsp;&nbsp;</p>
+<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.</p>
+<ul>
+<li>Fully remote working environment - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of 2,000USD per annum</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Parental Leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues at ‘sprints’</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote&nbsp;</p>
+<p>Requisition ID: 263</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
                     <h3>Site Reliability / Gitops Engineer</h3>
                 </td>
                 <td width="300">
@@ -252,7 +337,6 @@
 <li>Share your experience, know-how and best practices with other team members in design sessions, mentorship and ‘doing work together’</li>
 <li>Carry final responsibility for time-critical escalations</li>
 </ul>
-<h2></h2>
 <h2>What we are looking for in you</h2>
 <ul>
 <li>A deep experience of, and knowledge to define operations in code, using version control, peer review and CI/CD to roll out changes both to applications and infrastructure</li>
@@ -270,7 +354,6 @@
 <li>Happy to work within distributed teams</li>
 <li>Be passionate and familiarized about open-source, especially Ubuntu or Debian<br></li>
 </ul>
-
 <h2>What we offer you</h2>
 <p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilization. Our compensation philosophy is to ensure equity right across our global workforce.&nbsp;&nbsp;</p>
 <p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.</p>
