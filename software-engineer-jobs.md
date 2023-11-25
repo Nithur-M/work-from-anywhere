@@ -261,18 +261,25 @@
 <li>Proactively propose additions and changes to the team's roadmap, aligning it with the broader goals of Sourcegraph.</li>
 </ul>
 <h2><span style="color: rgb(140, 51, 236);"><strong>About you</strong></span></h2>
-<p>You are a polyglot hacker in the dev-ops space, and you're passionate about tools, developer-experience, and infrastructure, with a solid experience of the challenges faced by other developers. Your strong sense of empathy helps you to understand your peers' challenges and you sharply understand how to balance solving current and future problems, carving a path to implement your vision.&nbsp;</p>
-<p>First, you have a deep understanding of the software lifecycle, having experienced it yourself by working on the product side, and a strong familiarity with all the tools supporting it; e.g.:</p>
 <ul>
-<li>You’ve worked with Bazel or other build systems to support polyglot codebases.&nbsp;</li>
-<li>You've set up delivery pipelines of various shapes and various constraints.&nbsp;</li>
-<li>You're naturally putting yourself in the shoes of other developers and constantly seek to understand their perspective.</li>
-<li>You’re a great communicator and collaborator. You’re able to work effectively across teams to solve complex problems with multiple stakeholders.</li>
-<li>You're proficient at writing Go code, but you're a polyglot at your core.&nbsp;&nbsp;</li>
-<li>You have a deep knowledge of Kubernetes, including working with and developing applications using the operator pattern.</li>
-<li>Bonus: You have experience with database complex database schema migrations and Postgres internals.</li>
+<li>You’re a software engineer first, but you have a passion for working on the boundaries between software and the underlying infrastructure. You might have some past experience as an SRE, developing tooling for other developers, or jumping between the two.</li>
+<li>You're just as comfortable designing distributed systems as you are methodically debugging a complex performance issue with skills you have honed from years of experience.</li>
+<li>You understand the software lifecycle, from design, to coding, to docs, as well as the maintenance lifecycle over time. You've experienced it in its entirety at least once in your career.</li>
+<li>You don't write code for the sake of it, but to provide value to our customers by solving problems.</li>
+<li>You value integrity and teamwork. Your strong sense of empathy helps you understand your peers' challenges and you sharply understand how to balance solving current and future problems, carving a path to implement your vision. You're able to work effectively across teams to solve complex problems with multiple stakeholders.</li>
+<li>You understand your role in the company and how you contribute to its success or failures. You have a strong sense of ownership and a healthy sense of urgency. You&nbsp; understand that this is <strong>your</strong> company now.</li>
+<li>Your sense of ownership extends to the software that you ship to your customers. You understand that your code is likely the first impression many customers have of your company, and you often pause to consider the customer experience during development.</li>
+<li>You do work you are proud of and your work is respected by your peers as well as the broader community.</li>
 </ul>
-<p>Apart from Go proficiency, it doesn't matter if you're not an expert on all points, what really counts is that you understand the complexities of releasing software, and thrive to make it a seamless experience for both our customers and our teammates. Ultimately, you can jump at any point in the delivery pipeline and understand how to fix issues.</p>
+<h3>Skills</h3>
+<ul>
+<li>You're highly proficient at writing Go and likely experienced in other languages as well.</li>
+<li>You've had experience setting up delivery and build pipelines of various sizes. You know the challenges of shipping software at scale and how to overcome them.</li>
+<li>You have deep knowledge of Kubernetes, including working and developing with Kubernetes APIs and internals such as CRDs and controllers.</li>
+<li><strong>Bonus:</strong> You have experience with database internals and complex schema migrations.</li>
+<li><strong>Bonus:</strong> You have worked with Bazel or other build systems in large polyglot codebases.</li>
+</ul>
+<p>It doesn't matter if you're not an expert on all points, what really counts is that you understand the complexities of releasing software, and thrive to make it a seamless experience for both our customers and our teammates. Ultimately, you can jump in at any point in the software lifecycle and understand how to fix issues.&nbsp;</p>
 <h2><span style="color: rgb(140, 51, 236);"><strong>Level</strong></span></h2>
 <p>📊 This job is an IC3.&nbsp; You can read more about <a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/leveling-guide/">our job leveling philosophy</a> in our Handbook.</p>
 <h2><span style="color: rgb(140, 51, 236);"><strong>Compensation</strong></span></h2>
@@ -561,7 +568,7 @@
 <h3>What is Canonical?</h3>
 <p>Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, “the world’s best free software platform”. Our services help businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.</p>
 <p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your<a href="https://canonical.com/careers/diversity/identity"> identity</a>, we will give your application fair consideration.</em></p>
-<p>#LI-Remote&nbsp;</p><p>Requisition ID: 967</p><p></p>
+<p>#LI-Remote&nbsp;</p>
     
                 </details>
                 </td>
@@ -671,7 +678,7 @@
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote</p>
 
-<p>Requisition ID: 1079</p><p></p>
+
     
                 </details>
                 </td>
@@ -740,7 +747,7 @@
 <p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
 <h2>Canonical is an equal opportunity employer</h2>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-<p>&nbsp;#LI-remote</p><p>Requisition ID: 805</p><p></p>
+<p>&nbsp;#LI-remote</p>
     
                 </details>
                 </td>
@@ -797,7 +804,7 @@
 </ul>
 <h3>Canonical is an equal opportunity employer</h3>
 <p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration</a>.</em></p>
-<p>#LI-Remote #stack</p><p>Requisition ID: 847</p><p></p>
+<p>#LI-Remote #stack</p>
     
                 </details>
                 </td>
@@ -893,7 +900,7 @@
 <h2>Canonical is an equal opportunity employer</h2>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote</p>
-<p><br><br></p><p>Requisition ID: 1086</p><p></p>
+<p><br><br></p>
     
                 </details>
                 </td>
@@ -975,7 +982,7 @@
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
 
 <p>#LI-Remote</p>
-<p>Requisition ID: 688</p><p></p>
+
     
                 </details>
                 </td>
@@ -1046,7 +1053,7 @@
 <p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
 <h2>Canonical is an equal opportunity employer</h2>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote&nbsp;</p><p>Requisition ID: 531</p><p></p>
+<p>#LI-remote&nbsp;</p>
     
                 </details>
                 </td>
@@ -1124,7 +1131,7 @@
 <p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
 <p>Canonical is an equal-opportunity employer</p>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-<p><em>#li-remote</em></p><p>Requisition ID: 666</p><p></p>
+<p><em>#li-remote</em></p>
     
                 </details>
                 </td>
@@ -1198,7 +1205,7 @@
 <p>Canonical is an equal-opportunity employer</p>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
 
-<p>#LI-remote&nbsp;</p><p>Requisition ID: 666</p><p></p>
+<p>#LI-remote&nbsp;</p>
     
                 </details>
                 </td>
@@ -1307,7 +1314,7 @@
 <p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p>
 <h2>Canonical is an equal opportunity employer</h2>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote</p><p>Requisition ID: 1104</p><p></p>
+<p>#LI-remote</p>
     
                 </details>
                 </td>
@@ -1366,7 +1373,7 @@
 <li>Priority Pass for travel</li>
 </ul>
 <p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity</a> we will give your application fair consideration</em></p>
-<p><em>&nbsp;</em>#LI-remote</p><p>Requisition ID: 805</p><p></p>
+<p><em>&nbsp;</em>#LI-remote</p>
     
                 </details>
                 </td>
@@ -1434,7 +1441,7 @@
 <p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
 <h2>Canonical is an equal opportunity employer</h2>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote&nbsp;</p><p>Requisition ID: 788</p><p></p>
+<p>#LI-remote&nbsp;</p>
     
                 </details>
                 </td>
@@ -1491,7 +1498,7 @@
 <h3>About Canonical</h3>
 <p>Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, “the world’s best free software platform”. Our mission is to realise the potential of free software in the lives of individuals and organisations. Our services are helping individuals and businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.</p>
 <p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity</a> we will give your application fair consideration.<br></em></p>
-<p>#LI-Remote #Stack</p><p>Requisition ID: 815</p><p></p>
+<p>#LI-Remote #Stack</p>
     
                 </details>
                 </td>
@@ -1544,7 +1551,7 @@
 </ul>
 <p>Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, the world’s best free software platform. Our services help businesses worldwide reduce costs, improve efficiency and enhance security with Ubuntu.</p>
 <p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your <a href="https://canonical.com/careers/diversity/identity">identity</a> we will give your application fair consideration.</em></p>
-<p>#LI-remote</p><p>Requisition ID: 933</p><p></p>
+<p>#LI-remote</p>
     
                 </details>
                 </td>
