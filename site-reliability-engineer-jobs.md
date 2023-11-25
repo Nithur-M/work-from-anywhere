@@ -292,7 +292,7 @@
 <h2>Canonical is an equal opportunity employer</h2>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote&nbsp;</p>
-<p>Requisition ID: 263</p><p></p>
+
     
                 </details>
                 </td>
@@ -374,7 +374,7 @@
 <h2>Canonical is an equal opportunity employer</h2>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote&nbsp;</p>
-<p>Requisition ID: 263</p><p></p>
+
     
                 </details>
                 </td>
