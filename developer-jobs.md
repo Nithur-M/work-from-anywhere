@@ -10,7 +10,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -87,7 +87,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                     <code>go,wordpress,chat,apple</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -154,6 +154,108 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1428393724527190022/4mt5PACL_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sourcegraph</h5>
+                    <h3>Developer Advocate (based in San Francisco, CA)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/sourcegraph91/jobs/4913314004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
+<h2><span style="color: #a112ff;">Who we are</span></h2>
+<p>Our mission at Sourcegraph is to make it so that&nbsp;<a class="c-link" href="https://handbook.sourcegraph.com/strategy-goals/strategy" target="_blank" data-stringify-link="https://handbook.sourcegraph.com/strategy-goals/strategy" data-sk="tooltip_parent">everyone can code</a>, not just ~0.1% of the population. Our code graph powers Cody, the most powerful and accurate AI coding assistant, as well as our Code Search product, which helps devs explore their entire codebase and make large-scale migrations and security fixes. We’re building software that builds software, and in doing so we’re making devs more productive and preparing for a world where a lot more code gets written.</p>
+<p>It’s an exciting time to join Sourcegraph. AI has taken over the world, and we’ve spent the last 10 years building infrastructure that’s integral to making AI generated code more powerful and accurate. Our customers include 4/5 FAANG companies, 4 of the top 10 banks, government organizations, Uber, Plaid, and many other companies building the software that pushes the world forward. We’ve raised $225M at a $2.625B valuation from <a class="c-link" href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" target="_blank" data-stringify-link="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" data-sk="tooltip_parent">Andreessen Horowitz</a>,&nbsp;<a class="c-link" href="https://about.sourcegraph.com/blog/series-c-with-sequoia/" target="_blank" data-stringify-link="https://about.sourcegraph.com/blog/series-c-with-sequoia/" data-sk="tooltip_parent">Sequoia</a>,&nbsp;<a class="c-link" href="https://www.redpoint.com/companies/sourcegraph/" target="_blank" data-stringify-link="https://www.redpoint.com/companies/sourcegraph/" data-sk="tooltip_parent">Redpoint</a>,&nbsp;<a class="c-link" href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" target="_blank" data-stringify-link="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" data-sk="tooltip_parent">Craft</a>&nbsp;and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</p></div>
+
+    <h2><span style="color: rgb(140, 51, 236);">Working hours</span></h2>
+<p>While Sourcegraph is fully remote, we require the successful candidate for this role to reside in San Francisco, California. Regular attendance at weekly Developer and AI events in the city is an essential aspect of this position.</p>
+<h2><span style="color: rgb(140, 51, 236);">Why this job is exciting</span></h2>
+<p><a href="https://about.sourcegraph.com/cody?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=19895311885&amp;utm_term=sourcegraph%20cody&amp;gclid=CjwKCAjw0ZiiBhBKEiwA4PT9z9jbT-6ncbQS5bLcQHfuIy9Je5bCogDwICrbbZ8Z9TkwiKkenGMuFRoCptEQAvD_BwE">Cody</a> is the best AI coding assistant today, and you'll get to help build it and get it in the hands of millions of devs. (It's also open source and built in public.) AI applied to software engineering will change the world more than any single other technology. We're perfectly positioned to keep building the best coding AI because of our large-scale, deep understanding of code inside the most advanced companies in the world and across the world of public code.</p>
+<p>As a Developer Advocate, you will spend 75% of your time engaging with Developers at events in person and 25% of your time creating content and recording videos.</p>
+<h2><span style="color: rgb(140, 51, 236);">Job responsibilities</span></h2>
+<ul>
+<li>Attend 1-3 meet-ups and events in San Francisco weekly</li>
+<li>Represent our user community within Sourcegraph</li>
+<li>Build apps with Cody in public</li>
+<li>Build integrations on top of Cody (such as teaching Cody how to use and gather information from other dev tools, including logging, perf, etc., tools)</li>
+<li>Livestream and record demos of what you build, for Twitter, YouTube, Twitch, etc.</li>
+<li>Be an incredibly helpful and inspirational member of our dev community yourself and help grow it</li>
+<li>Write awesome technical blog posts</li>
+<li>Promote Sourcegraph on social media</li>
+<li>Help connect our user community growth to our product-led growth engine</li>
+<li>Overall, help define what dev advocacy means at Sourcegraph</li>
+</ul>
+<h2><span style="color: rgb(140, 51, 236);">Skills and experience</span></h2>
+<p>Your skill-set:</p>
+<ul>
+<li>You are intrinsically motivated by Sourcegraph’s mission and <a href="https://about.sourcegraph.com/cody?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=19895311885&amp;utm_term=sourcegraph%20cody&amp;gclid=CjwKCAjw0ZiiBhBKEiwA4PT9z9jbT-6ncbQS5bLcQHfuIy9Je5bCogDwICrbbZ8Z9TkwiKkenGMuFRoCptEQAvD_BwE">Cody</a>.&nbsp;</li>
+<li>Experience as a software engineer or prolific coding</li>
+<li>TypeScript skills (<a href="https://sourcegraph.com/github.com/sourcegraph/sourcegraph/-/tree/client/cody">Cody's code</a> is open source)</li>
+<li>Able to communicate technical concepts in a simple and engaging way</li>
+<li>Experience creating high-quality technical writing and videos</li>
+<li>Experience working in a high-agency environment that requires ownership</li>
+</ul>
+<p>&nbsp;Bonus Points:</p>
+<ul>
+<li>You’ve established a strong following on social media platforms</li>
+</ul>
+<h2><span style="color: rgb(140, 51, 236);">Level</span></h2>
+<p>This job is an IC2-IC3.&nbsp; You can read more about <a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/leveling-guide/">our job leveling philosophy</a> in our Handbook.</p>
+<h2><span style="color: rgb(140, 51, 236);">Compensation</span></h2>
+<p><strong>We pay you an above-average salary</strong> because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. You will have the flexibility to work and live anywhere in the world<em> (unless specified otherwise in the job description)</em>, and we’ll never take your location or current/past salary information into account when determining your compensation.&nbsp; As an <a href="https://handbook.sourcegraph.com/company-info-and-process/values/#sts=Open%20and%20transparent">open and transparent </a>company that values equitable and competitive compensation for everyone, our <a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/">compensation ranges are visible</a> to every single Sourcegraph Teammate. To determine your salary, we use a number of market and data-driven salary sources and target the high-end of the range, ensuring that we’re always paying above market regardless of where you live in the world.&nbsp;&nbsp;</p>
+<p>The target compensation for this role is $128,314 USD (IC2) and $158,404 (IC3)&nbsp; base.</p>
+<p>&nbsp;In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous <a href="https://handbook.sourcegraph.com/benefits-pay-perks/benefits-perks/">perks &amp; benefits</a>.</p>
+<h2><strong><span style="color: #8c33ec;">Interview process</span>&nbsp;</strong></h2>
+<p><em><span style="font-weight: 400;">Below is the interview process you can expect for this role (you can read more about </span></em><a href="https://handbook.sourcegraph.com/talent/types_of_interviews"><em><span style="font-weight: 400;">the types of interviews</span></em></a><em><span style="font-weight: 400;"> in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&nbsp;</span></em></p>
+<p><span style="font-weight: 400;">We expect the interview process to take 4.5</span><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;">hours in total.</span><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;"><br><br></span></p>
+<p><strong>👋 Introduction Stage</strong><span style="font-weight: 400;"> - we have initial conversations to get to know you better…</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#recruiter-screen"><span style="font-weight: 400;">Recruiter Screen</span></a><span style="font-weight: 400;"> with Kelsey Nagel</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#hiring-manager-screen"><span style="font-weight: 400;">Hiring Manager Screen</span></a> with Ado Kukic</li>
+</ul>
+<p><strong>🧑‍💻 Team Interview Stage</strong><span style="font-weight: 400;"> - we then delve into your experience in more depth and introduce you to members of the team…</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive"><span style="font-weight: 400;">Resume Deep Dive</span></a> with Kelsey Nagel and Ado Kukic</li>
+<li>[60m]&nbsp;<a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#developer-relations-working-session">Working Session</a>&nbsp;with Alex Isken, Justin Dorfman, Raman Sharma, Beyang Liu, Ado Kukic, Amie Rotherham</li>
+<li>[45m]&nbsp;<a href="https://about.sourcegraph.com/handbook/talent/types_of_interviews#cross-functional-team-collaboration-interview">Cross-functional team collaboration</a>&nbsp;with Justin Dorfman and Amie Rotherham&nbsp;</li>
+</ul>
+<p><strong>🎉 Final Interview Stage </strong><span style="font-weight: 400;">- we move you to our final round, where you meet cross-functional partners and gain a better understanding of our business and values holistically…</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#values-interview"><span style="font-weight: 400;">Values Interview</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#leadership-interview"><span style="font-weight: 400;">Leadership Interview</span></a><span style="font-weight: 400;"> with Quinn Slack or Beyang Liu&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">We check references and conduct your background check</span></li>
+</ul>
+<p><span style="font-weight: 400;">Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process. You can learn more about the team&nbsp;<a href="https://handbook.sourcegraph.com/team/">here</a>.&nbsp;</span></p>
+
+    
+
+    <div class="content-conclusion"><h2><span style="color: #a112ff;">Not sure if this is you?</span></h2>
+<p><span style="font-weight: 400;">We want a diverse, global team, with a broad range of experience and perspectives. If this job sounds great, but you’re not sure if you qualify, apply anyway! We carefully consider every application, and will either move forward with you, find another team that might be a better fit, keep in touch for future opportunities, or thank you for your time.</span></p>
+<h2><span style="color: #a112ff;">Learn more about us</span></h2>
+<p><span style="font-weight: 400;">To create a product that serves the needs of all developers, we are building a diverse </span><a href="https://handbook.sourcegraph.com/company-info-and-process/remote"><span style="font-weight: 400;">all-remote team</span></a><span style="font-weight: 400;"> that is </span><a href="https://handbook.sourcegraph.com/team"><span style="font-weight: 400;">distributed across the world</span></a><span style="font-weight: 400;">. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We provide </span><a href="https://about.sourcegraph.com/handbook/people-ops/compensation"><span style="font-weight: 400;">competitive compensation</span></a><span style="font-weight: 400;"> and </span><a href="https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks"><span style="font-weight: 400;">practical benefits</span></a><span style="font-weight: 400;"> to keep you happy and healthy so that you can do your best work.&nbsp;</span><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Learn more about what it is like to work at Sourcegraph by reading </span><a href="https://about.sourcegraph.com/handbook/"><span style="font-weight: 400;">our handbook</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process.</span></p>
+<p><span style="font-weight: 400;">Go back to the </span><a href="https://about.sourcegraph.com/jobs/"><span style="font-weight: 400;">careers page</span></a><span style="font-weight: 400;"> for all open positions.</span></p>
+<p>&nbsp;</p>
+<p><em><span style="font-weight: 400;">Sourcegraph participates in <a href="https://handbook.sourcegraph.com/departments/people-talent/e-verify/" target="_blank">E-Verify</a> for U.S. Employees</span></em></p></div>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/378800000147745937/0fac42c12b433bbbd53ff3e15cd6fca4_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -211,69 +313,61 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
 
-    <div id="external-jobs-show-description" class="external-panel__trix-content external-panel__trix-content--colored external-panel__trix-content--lead-in">
-<div data-react-class="external/careersPage/RenderPlyrVideo" data-react-props="{&quot;htmlString&quot;:&quot;\u003cdiv\u003e\n\u003cbr\u003eThe project \u0026amp; role&nbsp;\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eStatus is an organisation that seeks to accelerate consumer adoption of the web3 ecosystem forward through products, research, the creation of developer tools, and support of the open source community. Our core product is an Ethereum blockchain based app for mobile and desktop platforms that enables communities to permissionlessly create 100% decentralized group chat spaces, and allows users to message, make payments and browse and transact on the decentralized web.&nbsp; Status also builds foundational infrastructure for the Ethereum ecosystem as a whole including the Nimbus Ethereum client, the Keycard hardware wallet, and the Waku messaging protocol which is a continuation of Whisper.&nbsp; Everything Status creates is built in the open and released under permissive open source licenses.\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eWe're a fully remote team made up of ~100 core contributors and a growing number of community members scattered around the globe. We care deeply about open source software, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.&nbsp;\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eAfter a pause during which the Status team focused on our mobile application, the development of Status Desktop was restarted in 2020 with a clean sheet QT / QML UI codebase.&nbsp;\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003eStatus Desktop is currently in beta for Mac, Windows and Linux platforms.&nbsp; Current product focus is on the privacy-centric messenger and group chat functionality, and we’ve just kicked off development of our new ‘multi-chain from the ground up’ crypto Wallet.&nbsp; ÐApp browser and blockchain node functionality will follow next. Status desktop is currently built using \u003ca href=\&quot;https://nim-lang.org/\&quot;\u003eNim\u003c/a\u003e \u0026amp; QT for the frontend, and it shares a common backend with Status mobile that is written in Go.&nbsp; We are currently in the middle of a large refactor of our architecture.&nbsp; This refactor includes transitioning the QT front end from Nim to C++, moving all business logic to our status-go backend, and upgrading from QT5.14.2 to QT6.2.&nbsp; As we work in the open and are fully open source you can get a better idea of who we are and the work we are doing by browsing our \u003ca href=\&quot;https://hackmd.io/@status-desktop/main/%2FwAbKqYTdR_-FWLZZouSxsg\&quot;\u003eteam wiki here\u003c/a\u003e and taking a look at our \u003ca href=\&quot;https://github.com/status-im/status-desktop\&quot;\u003eStatus Desktop\u003c/a\u003e, \u003ca href=\&quot;https://github.com/status-im/statusQ\&quot;\u003eStatus Desktop QML component library\u003c/a\u003e and \u003ca href=\&quot;https://github.com/status-im/status-go\&quot;\u003eStatus Desktop and Mobile Go backend\u003c/a\u003e GitHub repos.&nbsp; You can find more information about our desktop effort in this \u003ca href=\&quot;https://our.status.im/status-desktop-why-and-what/\&quot;\u003eblog post\u003c/a\u003e.&nbsp;\u003cbr\u003e\u003cbr\u003eStatus is looking for multiple senior experienced C++/QML UI devs to join our growing desktop dev team and to work with us to create a permissionless, decentralized, censorship proof group chat platform. Role responsibilities include developing new features, creating and enhancing components in our QML UI toolkit component library, advising and assisting other members of the desktop dev team with solving challenging QML UI development problems, and perhaps working on the Go backend if this is something you would enjoy.&nbsp; As a team we try to match task assignment with the individual interests and passions of our team members, so there is a high degree of flexibility with regards to what you would be working on.&nbsp; If you are a passionate C++/QML expert who knows all the ins and outs of C++ and QT/QML UI development this could be an ideal role for you.\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eThe desktop team is spread between Europe and North America with crossover work hours being the European timezone afternoon on Monday, Wednesday and Friday. Ideally you will be located in a timezone between UTC -5 and UTC +3 e.g. anywhere in-between Panama and Moscow.&nbsp; Work is async using Status, Google Meet and Github, typically in Scrum Sprints.\u003c/div\u003e\u003cdiv\u003e\n\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e&quot;}" data-react-cache-id="external/careersPage/RenderPlyrVideo-0">
+    <p></p>
+<div id="external-jobs-show-description">
 <div>
-<div>&nbsp;</div>
-<div><span style="font-size: 12pt;"><strong>The role</strong></span><br><br></div>
-<div><span style="font-size: 12pt;">Status Desktop is currently in beta for Mac, Windows and Linux platforms.&nbsp; Current product focus is on the privacy-centric messenger and group chat functionality, and we’ve just kicked off development of our new ‘multi-chain from the ground up’ crypto Wallet.&nbsp; ÐApp browser and blockchain node functionality will follow next. Status desktop is currently built using&nbsp;<a href="https://nim-lang.org/">Nim</a>&nbsp;&amp; QT for the frontend, and it shares a common backend with Status mobile that is written in Go.&nbsp; We are currently in the middle of a large refactor of our architecture.&nbsp; This refactor includes transitioning the QT front end from Nim to C++, moving all business logic to our status-go backend, and upgrading from QT5.14.2 to QT6.2.&nbsp; As we work in the open and are fully open source you can get a better idea of who we are and the work we are doing by browsing our&nbsp;<a href="https://hackmd.io/@status-desktop/main/%2FwAbKqYTdR_-FWLZZouSxsg">team wiki here</a>&nbsp;and taking a look at our&nbsp;<a href="https://github.com/status-im/status-desktop">Status Desktop</a>,&nbsp;<a href="https://github.com/status-im/statusQ">Status Desktop QML component library</a>&nbsp;and&nbsp;<a href="https://github.com/status-im/status-go">Status Desktop and Mobile Go backend</a>&nbsp;GitHub repos.&nbsp; You can find more information about our desktop effort in this&nbsp;<a href="https://our.status.im/status-desktop-why-and-what/">blog post</a>.&nbsp;</span><br><br><span style="font-size: 12pt;">Status is looking for multiple senior experienced C++/QML UI devs to join our growing desktop dev team and to work with us to create a permissionless, decentralized, censorship proof group chat platform. Role responsibilities include developing new features, creating and enhancing components in our QML UI toolkit component library, advising and assisting other members of the desktop dev team with solving challenging QML UI development problems, and perhaps working on the Go backend if this is something you would enjoy.&nbsp; As a team we try to match task assignment with the individual interests and passions of our team members, so there is a high degree of flexibility with regards to what you would be working on.&nbsp; If you are a passionate C++/QML expert who knows all the ins and outs of C++ and QT/QML UI development this could be an ideal role for you.</span></div>
-<div>&nbsp;</div>
-<div><span style="font-size: 12pt;">The desktop team is spread between Europe and North America with crossover work hours being the European timezone afternoon on Monday, Wednesday and Friday. Ideally you will be located in a timezone between UTC -8 and UTC +3 e.g. anywhere in-between Panama and Moscow.&nbsp; Work is async using Status, Google Meet and Github, typically in Scrum Sprints.</span></div>
+<div>&nbsp;<br>&nbsp;<strong>The role:</strong><br><br>Status Desktop is currently in beta for Mac, Windows and Linux platforms. &nbsp;Current product focus is on the privacy-centric messenger and group chat functionality, and we’ve just kicked off development of our new ‘multi-chain from the ground up’ crypto Wallet. &nbsp;ÐApp browser and blockchain node functionality will follow next. Status desktop is currently built using&nbsp;<a href="https://nim-lang.org/"><span class="gmail-s1">Nim</span></a>&nbsp;&amp; QT for the frontend, and it shares a common backend with Status mobile that is written in Go. &nbsp;We are currently in the middle of a large refactor of our architecture. &nbsp;This refactor includes transitioning the QT front end from Nim to C++, moving all business logic to our status-go backend, and upgrading from QT5.14.2 to QT6.2. &nbsp;As we work in the open and are fully open source you can get a better idea of who we are and the work we are doing by browsing our&nbsp;<a href="https://hackmd.io/@status-desktop/main/%2FwAbKqYTdR_-FWLZZouSxsg"><span class="gmail-s1">team wiki here</span></a>&nbsp;and taking a look at our&nbsp;<a href="https://github.com/status-im/status-desktop"><span class="gmail-s1">Status Desktop</span></a>,&nbsp;<a href="https://github.com/status-im/statusQ"><span class="gmail-s1">Status Desktop QML component library</span></a>&nbsp;and&nbsp;<a href="https://github.com/status-im/status-go"><span class="gmail-s1">Status Desktop and Mobile Go backend</span></a>&nbsp;GitHub repos.&nbsp; You can find more information about our desktop effort in this&nbsp;<a href="https://our.status.im/status-desktop-why-and-what/"><span class="gmail-s1">blog post</span></a>.&nbsp;</div>
 </div>
 </div>
-</div>
-<h4 id="responsibilities-heading" class="external-panel__heading"><span style="font-size: 12pt;">Key Responsibilities</span></h4>
-<div id="responsibilities-body" class="external-panel__trix-content external-panel__trix-content--colored">
-<div data-react-class="external/careersPage/RenderPlyrVideo" data-react-props="{&quot;htmlString&quot;:&quot;\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cul\u003e\n\u003cli\u003eBuild new features, enhance existing functionality and fix issues in the Status Desktop application.\u003c/li\u003e\n\u003cli\u003eHelp develop and maintain Status’s QML UI component library (primarily used by the Status Desktop product)\u003c/li\u003e\n\u003cli\u003eAdvise and assist the other developers in the Desktop team as needed to help solve the hardest QML UI development challenges\u003c/li\u003e\n\u003cli\u003eContribute to C++ and Go codebases (and help with transitioning the codebase from Nim to C++ if you join us prior to this transition being completed), but don’t worry if you don’t have any prior Go or Nim experience.\u003c/li\u003e\n\u003cli\u003eBe one of our resident experts for everything related to C++ and Qt/QML UI development.\u003c/li\u003e\n\u003c/ul\u003e\u003cdiv\u003eYou ideally will have:&nbsp;\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003e\u003cem\u003eDon’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role!\u003c/em\u003e\u003c/div\u003e\u003cul\u003e\n\u003cli\u003eExpert level experience implementing UIs using Qt/QML/C++\u003c/li\u003e\n\u003cli\u003eA strong ability to think about components and modules as they relate to other components as part of a larger system\u003c/li\u003e\n\u003cli\u003eA very strong attention to detail and the willingness to deliver pixel perfect UI according to the designs.\u003c/li\u003e\n\u003cli\u003eProvide feedback and product ideas to the designers as needed\u003c/li\u003e\n\u003cli\u003eExperience with multithreading / concurrency\u003c/li\u003e\n\u003cli\u003eGood communication skills in English\u003c/li\u003e\n\u003cli\u003eA strong alignment to our principles: \u003ca href=\&quot;https://status.im/about/#our-principles\&quot;\u003ehttps://status.im/about/#our-principles\u003c/a\u003e&nbsp; We are a passion driven project on a mission to build tools that protect and enable free speech.&nbsp;\u003c/li\u003e\n\u003c/ul\u003e\u003cdiv\u003eBonus points if you have:\u003c/div\u003e\u003cul\u003e\n\u003cli\u003eExperience working in an open source organization\u003c/li\u003e\n\u003cli\u003eA strong interest in blockchain technology and have a good understanding of Ethereum.\u003c/li\u003e\n\u003cli\u003eWorked in a remote distributed environment that values asynchronous communication\u003c/li\u003e\n\u003cli\u003eKnowledge of Go and/or Nim and/or Solidity is a plus\u003c/li\u003e\n\u003cli\u003eExperience with using QT/QML to develop cross platform (Windows, OSX, Linux) desktop applications and mobile applications (iOS, Android) is a plus\u003c/li\u003e\n\u003cli\u003ePrior experience with using Squish for functional testing QT apps\u003c/li\u003e\n\u003cli\u003eExperience implementing openGL rendering in a QML context\u003c/li\u003e\n\u003cli\u003eAny background or experience with cryptography and/or security\u003c/li\u003e\n\u003c/ul\u003e\u003cdiv\u003eCompensation:&nbsp;\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003eStatus compensates people with above average salaries, plus a grant of Status Network Tokens vesting over a three-year period. More info on SNT here here: \u003ca href=\&quot;https://status.im/snt-utility/\&quot;\u003ehttps://status.im/snt-utility/\u003c/a\u003e&nbsp; We are happy to pay salaries in either 100% fiat or any mix of fiat and/or crypto (ETH or SNT). &nbsp;\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eHiring process\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003eThe hiring process for this role will be:\u003c/div\u003e\u003col\u003e\n\u003cli\u003eIntroductory conversation - People Ops team\u003c/li\u003e\n\u003cli\u003eVision alignment Interview - John\u003c/li\u003e\n\u003cli\u003eTeam lead interview - Iuri\u003c/li\u003e\n\u003cli\u003eTechnical interviews - Sale and Alexandra\u003c/li\u003e\n\u003cli\u003eTech and culture alignment Interview - Andrea\u003c/li\u003e\n\u003cli\u003eMeet the team interviews with Anthony, Pascal and Khushboo\u003c/li\u003e\n\u003c/ol\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eQuestions about this role?\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003eFeel free to get in touch, we are more than happy to discuss the role in more detail.\u003c/div\u003e\u003cdiv\u003e\n\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e&quot;}" data-react-cache-id="external/careersPage/RenderPlyrVideo-0">
+<div id="gmail-about-body" class="external-panel__trix-content external-panel__trix-content--colored">
+<div>
 <ul>
-<li style="font-size: 12pt;"><span style="font-size: 12pt;">Build new features, enhance existing functionality and fix issues in the Status Desktop application.</span></li>
-<li style="font-size: 12pt;"><span style="font-size: 12pt;">Help develop and maintain Status’s QML UI component library (primarily used by the Status Desktop product)</span></li>
-<li style="font-size: 12pt;"><span style="font-size: 12pt;">Advise and assist the other developers in the Desktop team as needed to help solve the hardest QML UI development challenges</span></li>
-<li style="font-size: 12pt;"><span style="font-size: 12pt;">Contribute to C++ and Go codebases (and help with transitioning the codebase from Nim to C++ if you join us prior to this transition being completed), but don’t worry if you don’t have any prior Go or Nim experience.</span></li>
-<li style="font-size: 12pt;"><span style="font-size: 12pt;">Be one of our resident experts for everything related to C++ and Qt/QML UI development.</span></li>
+<li>Status is looking for multiple senior experienced C++/QML UI devs to join our growing desktop dev team and to work with us to create a permissionless, decentralized, censorship proof group chat platform. Role responsibilities include developing new features, creating and enhancing components in our QML UI toolkit component library, advising and assisting other members of the desktop dev team with solving challenging QML UI development problems, and perhaps working on the Go backend if this is something you would enjoy. &nbsp;As a team we try to match task assignment with the individual interests and passions of our team members, so there is a high degree of flexibility&nbsp;with regards to what you would be working on. &nbsp;If you are a passionate C++/QML expert who knows all the ins and outs of C++ and QT/QML UI development this could be an ideal role for you.</li>
+<li>The desktop team is spread between Europe and North America with crossover work hours being the European timezone afternoon on Monday, Wednesday and Friday. Ideally you will be located in a timezone between UTC -8 and UTC +3 e.g. anywhere in-between Panama and Moscow. &nbsp;Work is async using Status, Google Meet and Github, typically in Scrum Sprints.</li>
 </ul>
-<div><span style="font-size: 12pt;"><strong>You ideally will have</strong></span><br><br></div>
-<div><span style="font-size: 12pt;"><em>Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role!</em></span></div>
+<p><strong>Key Responsibilities:</strong></p>
 <ul>
-<li style="font-size: 12pt;"><span style="font-size: 12pt;">Expert level experience implementing UIs using Qt/QML/C++</span></li>
-<li style="font-size: 12pt;"><span style="font-size: 12pt;">A strong ability to think about components and modules as they relate to other components as part of a larger system</span></li>
-<li style="font-size: 12pt;"><span style="font-size: 12pt;">A very strong attention to detail and the willingness to deliver pixel perfect UI according to the designs.</span></li>
-<li style="font-size: 12pt;"><span style="font-size: 12pt;">Provide feedback and product ideas to the designers as needed</span></li>
-<li style="font-size: 12pt;"><span style="font-size: 12pt;">Experience with multithreading / concurrency</span></li>
-<li style="font-size: 12pt;"><span style="font-size: 12pt;">Good communication skills in English</span></li>
-<li style="font-size: 12pt;"><span style="font-size: 12pt;">A strong alignment to our principles:&nbsp;<a href="https://status.im/about/#our-principles">https://status.im/about/#our-principles</a>&nbsp; We are a passion driven project on a mission to build tools that protect and enable free speech.&nbsp;</span></li>
+<li>Build new features, enhance existing functionality and fix issues in the Status Desktop application.</li>
+<li>Help develop and maintain Status’s QML UI component library (primarily used by the Status Desktop product)</li>
+<li>Advise and assist the other developers in the Desktop team as needed to help solve the hardest QML UI development challenges</li>
+<li>Contribute to C++ and Go codebases (and help with transitioning the codebase from Nim to C++ if you join us prior to this transition being completed), but don’t worry if you don’t have any prior Go or Nim experience.</li>
+<li>Be one of our resident experts for everything related to C++ and Qt/QML UI development.</li>
 </ul>
-<div><span style="font-size: 12pt;"><strong>Bonus points if you have</strong></span></div>
+<p><strong>You ideally will have:</strong></p>
 <ul>
-<li style="font-size: 12pt;"><span style="font-size: 12pt;">Experience working in an open source organization</span></li>
-<li style="font-size: 12pt;"><span style="font-size: 12pt;">A strong interest in blockchain technology and have a good understanding of Ethereum.</span></li>
-<li style="font-size: 12pt;"><span style="font-size: 12pt;">Worked in a remote distributed environment that values asynchronous communication</span></li>
-<li style="font-size: 12pt;"><span style="font-size: 12pt;">Knowledge of Go and/or Nim and/or Solidity is a plus</span></li>
-<li style="font-size: 12pt;"><span style="font-size: 12pt;">Experience with using QT/QML to develop cross platform (Windows, OSX, Linux) desktop applications and mobile applications (iOS, Android) is a plus</span></li>
-<li style="font-size: 12pt;"><span style="font-size: 12pt;">Prior experience with using Squish for functional testing QT apps</span></li>
-<li style="font-size: 12pt;"><span style="font-size: 12pt;">Experience implementing openGL rendering in a QML context</span></li>
-<li style="font-size: 12pt;"><span style="font-size: 12pt;">Any background or experience with cryptography and/or security</span></li>
+<li>Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role!</li>
+<li>Expert level experience implementing UIs using Qt/QML/C++</li>
+<li>A strong ability to think about components and modules as they relate to other components as part of a larger system</li>
+<li>A very strong attention to detail and the willingness to deliver pixel perfect UI according to the designs.</li>
+<li>Provide feedback and product ideas to the designers as needed</li>
+<li>Experience with multithreading / concurrency</li>
+<li>Good communication skills in English</li>
+<li>A strong alignment to our principles:&nbsp;<a href="https://status.im/about/#our-principles"><span class="gmail-s1">https://status.im/about/#our-principles</span></a>&nbsp;We are a passion driven project on a mission to build tools that protect and&nbsp;enable free speech.</li>
 </ul>
-<h4><span style="font-size: 12pt;"><strong>Compensation</strong></span></h4>
-<p><span style="font-size: 12pt;">We are happy to pay in either 100% fiat or any mix of fiat and/or crypto.</span></p>
+<p><strong>Bonus points if you have:</strong></p>
+<ul>
+<li>Experience working in an open source organization</li>
+<li>A strong interest in blockchain technology and have a good understanding of Ethereum.</li>
+<li>Worked in a remote distributed environment that values asynchronous communication</li>
+<li>Knowledge of Go and/or Nim and/or Solidity is a plus</li>
+<li>Experience with using QT/QML to develop cross platform (Windows, OSX, Linux) desktop applications and mobile applications (iOS, Android) is a plus</li>
+<li>Prior experience with using Squish for functional testing QT apps</li>
+<li>Experience implementing openGL rendering in a QML context</li>
+<li>Any background or experience with cryptography and/or security</li>
+<li><strong>Compensation:</strong></li>
+<li>We are happy to pay in either 100% fiat or any mix of fiat and/or crypto.&nbsp;</li>
+</ul>
+<p><strong>Hiring process:</strong></p>
+<ul>
+<li>The hiring process for this role is usually as follows (sometimes adapted):</li>
+<li>Introductory conversation - Talent team</li>
+<li>3 Technical Interviews with Desktop Qt/QML Developers</li>
+<li>Team lead interview - Iuri, Desktop Team Lead</li>
+<li>'Meet the Desktop team' interviews with 3-4 Desktop Contributors (30-40m each)</li>
+</ul>
+<br>Questions about this role?<br><br>Feel free to get in touch, we are more than happy to discuss the role in more detail.</div>
 </div>
-<div data-react-class="external/careersPage/RenderPlyrVideo" data-react-props="{&quot;htmlString&quot;:&quot;\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cul\u003e\n\u003cli\u003eBuild new features, enhance existing functionality and fix issues in the Status Desktop application.\u003c/li\u003e\n\u003cli\u003eHelp develop and maintain Status’s QML UI component library (primarily used by the Status Desktop product)\u003c/li\u003e\n\u003cli\u003eAdvise and assist the other developers in the Desktop team as needed to help solve the hardest QML UI development challenges\u003c/li\u003e\n\u003cli\u003eContribute to C++ and Go codebases (and help with transitioning the codebase from Nim to C++ if you join us prior to this transition being completed), but don’t worry if you don’t have any prior Go or Nim experience.\u003c/li\u003e\n\u003cli\u003eBe one of our resident experts for everything related to C++ and Qt/QML UI development.\u003c/li\u003e\n\u003c/ul\u003e\u003cdiv\u003eYou ideally will have:&nbsp;\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003e\u003cem\u003eDon’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role!\u003c/em\u003e\u003c/div\u003e\u003cul\u003e\n\u003cli\u003eExpert level experience implementing UIs using Qt/QML/C++\u003c/li\u003e\n\u003cli\u003eA strong ability to think about components and modules as they relate to other components as part of a larger system\u003c/li\u003e\n\u003cli\u003eA very strong attention to detail and the willingness to deliver pixel perfect UI according to the designs.\u003c/li\u003e\n\u003cli\u003eProvide feedback and product ideas to the designers as needed\u003c/li\u003e\n\u003cli\u003eExperience with multithreading / concurrency\u003c/li\u003e\n\u003cli\u003eGood communication skills in English\u003c/li\u003e\n\u003cli\u003eA strong alignment to our principles: \u003ca href=\&quot;https://status.im/about/#our-principles\&quot;\u003ehttps://status.im/about/#our-principles\u003c/a\u003e&nbsp; We are a passion driven project on a mission to build tools that protect and enable free speech.&nbsp;\u003c/li\u003e\n\u003c/ul\u003e\u003cdiv\u003eBonus points if you have:\u003c/div\u003e\u003cul\u003e\n\u003cli\u003eExperience working in an open source organization\u003c/li\u003e\n\u003cli\u003eA strong interest in blockchain technology and have a good understanding of Ethereum.\u003c/li\u003e\n\u003cli\u003eWorked in a remote distributed environment that values asynchronous communication\u003c/li\u003e\n\u003cli\u003eKnowledge of Go and/or Nim and/or Solidity is a plus\u003c/li\u003e\n\u003cli\u003eExperience with using QT/QML to develop cross platform (Windows, OSX, Linux) desktop applications and mobile applications (iOS, Android) is a plus\u003c/li\u003e\n\u003cli\u003ePrior experience with using Squish for functional testing QT apps\u003c/li\u003e\n\u003cli\u003eExperience implementing openGL rendering in a QML context\u003c/li\u003e\n\u003cli\u003eAny background or experience with cryptography and/or security\u003c/li\u003e\n\u003c/ul\u003e\u003cdiv\u003eCompensation:&nbsp;\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003eStatus compensates people with above average salaries, plus a grant of Status Network Tokens vesting over a three-year period. More info on SNT here here: \u003ca href=\&quot;https://status.im/snt-utility/\&quot;\u003ehttps://status.im/snt-utility/\u003c/a\u003e&nbsp; We are happy to pay salaries in either 100% fiat or any mix of fiat and/or crypto (ETH or SNT). &nbsp;\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eHiring process\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003eThe hiring process for this role will be:\u003c/div\u003e\u003col\u003e\n\u003cli\u003eIntroductory conversation - People Ops team\u003c/li\u003e\n\u003cli\u003eVision alignment Interview - John\u003c/li\u003e\n\u003cli\u003eTeam lead interview - Iuri\u003c/li\u003e\n\u003cli\u003eTechnical interviews - Sale and Alexandra\u003c/li\u003e\n\u003cli\u003eTech and culture alignment Interview - Andrea\u003c/li\u003e\n\u003cli\u003eMeet the team interviews with Anthony, Pascal and Khushboo\u003c/li\u003e\n\u003c/ol\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cdiv\u003eQuestions about this role?\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003eFeel free to get in touch, we are more than happy to discuss the role in more detail.\u003c/div\u003e\u003cdiv\u003e\n\u003cbr\u003e\u003cbr\u003e\n\u003c/div\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e&quot;}" data-react-cache-id="external/careersPage/RenderPlyrVideo-0">
-<div><span style="font-size: 12pt;"><strong>Hiring process</strong></span><br><br></div>
-<div><span style="font-size: 12pt;">The hiring process for this role is usually as follows (sometimes adapted):</span></div>
-<ol>
-<li style="font-size: 12pt;"><span style="font-size: 12pt;">Introductory conversation - Talent team</span></li>
-<li style="font-size: 12pt;"><span style="font-size: 12pt;">3 Technical Interviews with Desktop Qt/QML Developers</span></li>
-<li style="font-size: 12pt;"><span style="font-size: 12pt;">Team lead interview - Iuri, Desktop Team Lead</span></li>
-<li style="font-size: 12pt;"><span style="font-size: 12pt;">'Meet the Desktop team' interviews with 3-4 Desktop Contributors (30-40m each)</span></li>
-</ol>
-<div><span style="font-size: 12pt;">Questions about this role?</span></div>
-<div><span style="font-size: 12pt;">Feel free to get in touch, we are more than happy to discuss the role in more detail.</span></div>
-<div>&nbsp;</div>
-</div>
-</div>
-<div id="about-body" class="external-panel__trix-content external-panel__trix-content--colored">
-<div>&nbsp;</div>
-</div>
+<p></p>
 
     
 
@@ -428,7 +522,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <h2>Canonical is an equal opportunity employer</h2>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote</p>
-<h2><br><br></h2><p>Requisition ID: 799</p><p></p>
+<h2><br><br></h2>
     
                 </details>
                 </td>
@@ -509,7 +603,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote&nbsp;</p>
 
-<p><br><br></p><p>Requisition ID: 1114</p><p></p>
+<p><br><br></p>
     
                 </details>
                 </td>
@@ -592,7 +686,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
 <h2>Canonical is an equal opportunity employer</h2>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote</p><p>Requisition ID: 924</p><p></p>
+<p>#LI-remote</p>
     
                 </details>
                 </td>
@@ -665,7 +759,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
 <h2>Canonical is an equal opportunity employer</h2>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote&nbsp;</p><p>Requisition ID: 405</p><p></p>
+<p>#LI-remote&nbsp;</p>
     
                 </details>
                 </td>
@@ -795,7 +889,55 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
                 <td width="300">
                     <h5>CloudLinux</h5>
-                    <h3>Senior C Developer for popular open source projects - Work Anywhere/Remote</h3>
+                    <h3>Full Stack Developer (Python) - Internal Projects & AI - Remote</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/5AC92872CE" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>We are seeking a highly skilled and motivated Full Stack Developer with strong analytical skills and expertise in Python and JavaScript to join our team. In this role, you will be working on various internal projects, including projects involving the integration of systems and the use of OpenAI to automate aspects of work. Most projects will be small in scope, and the ability to write clear, easy-to-understand code and complete projects quickly is essential. You will be talking directly with stakeholders, and figuring out the best way to solve the problem. You will go for "works well enough" instead of perfection. Quick, prototype quality work will be preferred to fully engineered projects</p><p>As a Full Stack Developer at our company, you will play a crucial role in developing innovative solutions to help optimize internal processes and replace manual tasks with automated solutions. <br></p><p><strong>As our Full Stack Developer you will;</strong></p><ul> <li>Design, develop, and maintain Python and JavaScript applications for internal projects</li> <li>Talk to stakeholders, and figure out the best way to solve their problems</li> <li>Integrate various systems and work on projects involving the use of OpenAI to automate tasks</li> <li>Write clear, well-structured, and maintainable code that is easy to understand and modify</li> <li>Collaborate with cross-functional teams to develop innovative solutions and optimize internal processes</li> <li>Participate in code reviews to ensure high-quality code and identify areas for improvement</li> <li>Ensure projects are completed quickly and efficiently without compromising quality</li> </ul><h3>Requirements: </h3><ul> <li>Strong analytical and communication skills</li> <li>Ability to pinpoint the problem and come up with the solution</li> <li>Strong expertise in Python and JavaScript programming languages</li> <li>Proficiency in Git for version control</li> <li>Experience with shell scripting and Linux operating system</li> <li>Ability to communicate effectively in English, both in writing and verbally</li> <li>Demonstrated problem-solving skills and ability to work independently as well as in a team environment</li> <li>Quick learner</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> </li> <li>Flexible working hours</li> <li>Paid 24 days of vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Senior Python Developer AI/ML/NLP - REMOTE/Work Anywhere</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/10E2D9BB03" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>CloudLinux stands as a pioneering remote-first entity, deeply committed to its core values: integrity, employee-centricity, embracing remote work, and delivering cost-effective, high-performance Linux infrastructure and security products. Our team is united in mutual support, striving for collective success and fostering a thriving work environment. Discover more at Cloudlinux.com.</p><p></p><p>We are looking for someone who embodies our&nbsp;<strong>company values</strong>:</p><ul> <li> <strong>Curious:</strong>&nbsp;Be willing to do research and design experiments by being hands-on</li> <li> <strong>Tenacious:</strong>&nbsp;Creating something new is hard work, and our Analytics team never gives up</li> <li> <strong>Customer Passion:</strong>&nbsp;Be the backbone of our solution and help us stay ahead of malware developers.</li> <li> <strong>Design for Scale:</strong>&nbsp;Work with the rest of the analytics and engineering team to make web-protection at scale possible</li> <li> <strong>Agile:</strong>&nbsp;Some days you may spend researching and designing experiments while others are spent using your analytical toolbox to surface insights into real-time incidents and file infection.</li> <li> <strong>Roll Up Your Sleeves:</strong>&nbsp;Partner closely internally to learn from others, and succeed as a team.</li> </ul><p></p><p><strong>How you’ll have an impact:</strong></p><ul> <li>Develop automation services using AI/ML/NLP and Large Language Model integrations (code generation, code review, workflow automation) to streamline the company's workflows.</li> <li>Design and prototype new algorithms for code generation, code analysis, and code review with a touch of AI. </li> <li>Review and enhance Python-based services, and their CI/CD workflows.</li> </ul><p></p><p><strong>The benefits you get:</strong></p><ul> <li> <strong>Independence in Action:</strong> We welcome candidates who thrive on working autonomously, taking projects from inception to completion with a self-driven approach.</li> <li> <strong>End-to-End Ownership:</strong> Ideal for those who enjoy overseeing all aspects of a project, ensuring every detail is handled with care and precision.</li> <li> <strong>Dynamic Environment:</strong> If you excel in rapidly changing contexts and can juggle multiple tasks effectively, this role is for you.</li> <li> <strong>Quick Learners Welcome:</strong> Perfect for individuals who can rapidly assimilate new information and skills, adapting to evolving challenges with ease.</li> <li> <strong>Variety and Challenge:</strong> Suited for those who seek a constantly evolving workload, offering a diverse range of tasks and learning opportunities.</li> </ul><h3>Requirements: </h3><p><strong>Past experience you’ll need:</strong></p><ul> <li>5+ years of experience as a Python developer</li> <li>Ability to read/review ANSI C source code</li> <li>Writing code and reviewing others in a shared codebase in Python</li> <li>Understanding and experience in CI/CD workflow using GitLab and git, and automated testing</li> <li>Familiarity with the Linux command line</li> <li>Ability to speak, read, and write in English C1 or better</li> <li>LLM/NLP/ML expertise would be a plus</li> <li>Practical SQL knowledge would be a plus</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li> Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>C Developer for popular open source projects - Work Anywhere/Remote</h3>
                 </td>
                 <td width="300">
                     <code></code>
