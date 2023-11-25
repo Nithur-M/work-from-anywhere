@@ -10,7 +10,7 @@
                     <code>api,backend,cloud,docker</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/backend-software-engineer-1838115" align="right" target="_blank">Apply</a>
@@ -218,7 +218,7 @@
 </ul>
 <p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.</em></p>
 <p>#LI-remote</p>
-<p>#stack</p><p>Requisition ID: 545</p><p></p>
+<p>#stack</p>
     
                 </details>
                 </td>
