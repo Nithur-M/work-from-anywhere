@@ -71,7 +71,7 @@
 <p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
 <h2><strong>Canonical is an equal opportunity employer</strong></h2>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#Stack</p><p>Requisition ID: 265</p><p></p>
+<p>#Stack</p>
     
                 </details>
                 </td>
