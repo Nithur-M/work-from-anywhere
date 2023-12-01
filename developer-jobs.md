@@ -10,7 +10,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -73,83 +73,6 @@ qualifications, skills test performance, geographic location, and
 seniority of the position offered. Outside of California, New York, 
 Washington, and Colorado compensation may fall outside the above ranges.</p>
 <img src="https://remotive.com/job/track/1680495/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/814298/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>A.Team</h5>
-                    <h3>Senior Independent Software Developer</h3>
-                </td>
-                <td width="300">
-                    <code>go,wordpress,chat,apple</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="text-size-adjust: 100%; overflow-wrap: break-word;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. </p>
-<p style="text-size-adjust: 100%; overflow-wrap: break-word;">After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.</p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><em>As part of A·Team, you can expect:</em></span></p>
-<ul style="">
-<li style=""><strong>High-paying, meaningful missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
-<li style=""><strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
-<li style=""><strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
-<li style=""><strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
-<li style=""><strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
-</ul>
-<p> </p>
-<p> </p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>How to apply:</strong></span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Go here: <a href="https://build.a.team/remotivereferral" rel="nofollow">https://build.a.team/remotivereferral</a> + mention Remotive. </span>No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.</p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>What you’ll do:</strong></span></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><strong><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Who A</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">·</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Team is for:</span></strong></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing</span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><strong><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Who A</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">·</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Team is </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">not</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"> for:</span></strong></p>
-<ul style="">
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">People looking for small gigs</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Folks looking to build simple wordpress/wix/squarespace-style websites</span></p>
-</li>
-<li dir="ltr" style="">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Those still early in their careers and recent university/bootcamp grads (at least not yet)</span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>Our long-term vision:</strong></span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a new type of company for a new kind of independent software builder. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</span></p>
-<img src="https://remotive.com/job/track/814298/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -353,6 +276,326 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Developer Relations Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/3655681" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
+<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
+<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
+<p>Location: we are building our initial DevRel team in Europe, Middle East, African and American time zones</p>
+<h2>What your day will look like</h2>
+<ul>
+<li>Contribute to product management team meetings</li>
+<li>Maintain conversations with developer community members</li>
+<li>Engage on IRC, social media, product forums, meet-ups and more</li>
+<li>Collaborate across Canonical teams</li>
+<li>Solve specific technical problems that users or colleagues have identified</li>
+<li>Contribute to technical documentation</li>
+<li>Work on technical articles, presentations or workshops&nbsp;</li>
+<li>Identify new opportunities in developer experience</li>
+<li>Present at conferences, meetups or technical events</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<ul>
+<li>An exceptional academic track record from both high school and university</li>
+<li>Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path</li>
+<li>Drive and a track record of going above-and-beyond expectations</li>
+<li>Developer with a demonstrable engagement in open-source software</li>
+<li>Well-organised, self-starting and able to deliver to schedule</li>
+<li>Professional manner interacting with colleagues, partners, and community</li>
+<li>Experience of Linux software packaging (deb, rpm or snap)</li>
+<li>Contributor to open-source communities, software and documentation</li>
+<li>An engaging, vivacious speaker and presenter</li>
+<li>Effective, tactful, empathetic and confident</li>
+<li>Builds trust, relationships and confidence</li>
+<li>Result-oriented, with a personal drive to meet commitments&nbsp;</li>
+<li>Ability to travel twice a year, for company events up to two weeks each</li>
+<li>Ability to travel in addition to upstream and industry events</li>
+</ul>
+<h2>Additional skills that you might also bring</h2>
+<ul>
+<li>Experience in a developer advocacy or community role</li>
+<li>Ops and system administration experience</li>
+<li>Performance engineering and security experience</li>
+</ul>
+<h2>What we offer you</h2>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues</li>
+<li>Priority Pass, and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote</p>
+<h2><br><br></h2>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Developer Relations Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
+<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
+<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
+<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
+<h2>What your day will look like</h2>
+<p>In a typical day, a developer relations engineer might:</p>
+<ul>
+<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
+<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
+<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
+<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
+<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
+<li>work on technical articles, presentations or workshops&nbsp;</li>
+<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
+<li>present at conferences, meetups or technical events</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<p>A strong candidate</p>
+<ul>
+<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
+<li>has worked with real-world challenges developing and deploying software using Linux</li>
+<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
+<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
+<li>has been a contributor to open-source communities, software and documentation</li>
+<li>is an engaging, vivacious speaker and presenter</li>
+<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
+<li>builds trust, relationships and confidence</li>
+<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
+</ul>
+<h2>Additional skills that you might also bring</h2>
+<ul>
+<li>previous experience in a developer advocacy or community role</li>
+<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
+</ul>
+
+<h2>What we offer you</h2>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote&nbsp;</p>
+
+<p><br><br></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Developer Relations Manager</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/4322699" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <h2>The role of a Developer Relations Manager at Canonical</h2>
+<p>The Developer Relations team at Canonical engage with community and enterprise software developers to help them embrace the Canonical approach to open source. We enable community developers and ISVs to deliver their applications to millions of Linux users and devices as snaps, charms, debs and Docker images. We also bring their feedback to engineering teams at Canonical for continuous improvement.</p>
+<p>As a Developer Relations Manager, you will lead a team of developer relations engineers who engage with developer communities and ISVs to help them reach the Ubuntu ecosystem. Typically we help them shape their snaps, charms, or Ubuntu-based Docker images, and ensure that Ubuntu is fully enabled in their CI/CD pipelines.</p>
+<p>This is a role that requires strong technical grounding in software engineering, Linux and open source communities, container technologies and devops. It is also a management role that requires judgement, empathy and drive. You and your team will represent not only the Ubuntu community but also Canonical as a contributor to the wider Linux ecosystem. You will lead a distributed team and travel internationally 2-4 times per year for engineering sprints, community summits, industry events, and strategic planning sessions.</p>
+<p><strong>Location</strong>: This is a Globally remote role.</p>
+<h2>What your day will look like</h2>
+<ul>
+<li>Build and lead a developer relations team at Canonical</li>
+<li>Gain a deep understanding of snaps, Juju charms, or Docker containers</li>
+<li>Grow the developer community by attracting software developers and ISVs to the platform</li>
+<li>Create content to scale up adoption, demonstrate best practices, and showcase new features</li>
+<li>Provide input to development teams at Canonical based on feedback from ISVs, developers, and the wider community</li>
+<li>Collaborate with software developers, product managers and technical writers on developing documentation</li>
+<li>Write ecosystem specific guides, tutorials, release notes, and white papers</li>
+<li>Curate existing documentation, performing periodic reviews, triage user feedback/bug reports and determine priorities for remedial work</li>
+<li>Engage with the community through various means, including discourse, IRC, social media, conferences, etc</li>
+<li>Identify relevant influencers and devising plans on how to effectively engage with them</li>
+<li>Deliver training workshops in person and remotely</li>
+<li>Represent the platform via speaking engagements at industry events and community conferences</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<ul>
+<li>You love technology and working with brilliant people</li>
+<li>You are curious, flexible, articulate, and accountable</li>
+<li>You value soft skills and are passionate, thoughtful, and self-motivated</li>
+<li>You have experience with developer tools and open source projects</li>
+<li>You have a clear public record of accomplishments (talks, blog posts, GitHub, Twitter, etc)</li>
+<li>You have interest and experience with two or more of the following: Ubuntu Linux - kernel or userspace, DevOps, software development, testing and QA, package management, container technology</li>
+<li>You can work autonomously and assume full ownership of objectives as needed</li>
+<li>You can be flexible with your time and enjoy working with new technology in a fast-paced environment</li>
+<li>You are experienced working with open source communities and understand the workflow of volunteer contributors</li>
+</ul>
+<h2>Additional skills that you might also bring</h2>
+<ul>
+<li>Experience as a software developer</li>
+<li>Examples of contributions to the Ubuntu Community</li>
+<li>Experience with contributing to open source projects</li>
+</ul>
+<h2>What we offer you</h2>
+<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.</p>
+<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.</p>
+<ul>
+<li>Fully remote working environment - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of 2,000USD per annum</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Parental Leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues at ‘sprints’</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote</p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Senior Observability Platform Developer - Python/Go</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/2166631" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>Canonical seeks an experienced developer with a proven track record in Python and/or Go. As part of the Observability team, you will develop a cloud-native monitoring stack that composes best-in-class open-source monitoring tools. The stack is opinionated, resilient, and scalable, providing deep insights out of the box. The user experience is polished and seamless for the end-users, and its administrators will enjoy smooth, lightweight Day 1 and Day 2 operations.&nbsp;</p>
+<p>This is an exciting opportunity for a software engineer passionate about open source software, Linux, Kubernetes, and Observability. Build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, the growing international software company behind Ubuntu.</p>
+<p>The monitoring stack will monitor applications running on a mix of cloud technologies such as Kubernetes and OpenStack, as well as bare-metal, virtual machines and containers. The stack will be capable of monitoring applications and infrastructure irrespective of whether they are operated by Juju, and will leverage multiple data sources at various levels of the architecture, including Juju itself, to contextualize the collected telemetry and insights delivered to the end-users.</p>
+<p>You can read more about the project <a href="https://grafana.com/blog/2021/10/28/open-source-done-right-why-canonical-adopted-grafana-loki-and-grafana-agent-for-their-new-stack/">here</a> and <a href="https://juju.is/blog/model-driven-observability-part-1">here</a>.</p>
+<p><strong>Location: </strong><em>This role will be based remotely in the EMEA and Americas regions</em></p>
+<h2>What your day will look like</h2>
+<ul>
+<li>Collaborate proactively with a globally distributed team</li>
+<li>Write, test and document high quality code to create new features</li>
+<li>Debug issues and interact with a vibrant community</li>
+<li>Review code produced by other engineers</li>
+<li>Attend conferences to represent Canonical and the Charmed Observability Stack</li>
+<li>Work from home with global travel 2 to 4 weeks for internal and external events</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<ul>
+<li>You love technology, observability and working with brilliant people</li>
+<li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li>
+<li>You have a Bachelor’s or equivalent in Computer Science, STEM or similar degree</li>
+<li>You have a proven understanding of the importance of observability and monitoring for keeping software running smoothly</li>
+<li>You have strong working knowledge of modern monitoring technologies like Prometheus, Alertmanager, Grafana, Loki, Mimir, etc., and how they fit together</li>
+<li>You are a skilled Python developer, preferably with a track record in open source</li>
+<li>You have a working knowledge of Go</li>
+<li>You have proven, hands-on experience deploying, configuring and using Kubernetes</li>
+<li>You are comfortable contributing to open source codebases maintained by other companies, you have a history of driving consensus in groups of multiple stakeholders with different interests and getting the resulting work delivered</li>
+<li>You have experience with infrastructure-as-code and configuration management tools</li>
+<li>You have interest and experience with two or more of the following: Ubuntu Linux, container images, Debian packaging, snap, distributed systems.</li>
+</ul>
+<h2>What we offer you</h2>
+<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.&nbsp;&nbsp;</p>
+<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, please ask your Talent Partner.</p>
+<ul>
+<li>Fully remote working environment - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of 2,000USD per annum</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Parental Leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues at ‘sprints’</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote&nbsp;</p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1545121577632763912/7FMnABb0_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -516,7 +759,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>CloudLinux stands as a pioneering remote-first entity, deeply committed to its core values: integrity, employee-centricity, embracing remote work, and delivering cost-effective, high-performance Linux infrastructure and security products. Our team is united in mutual support, striving for collective success and fostering a thriving work environment. Discover more at Cloudlinux.com.</p><p></p><p>We are looking for someone who embodies our&nbsp;<strong>company values</strong>:</p><ul> <li> <strong>Curious:</strong>&nbsp;Be willing to do research and design experiments by being hands-on</li> <li> <strong>Tenacious:</strong>&nbsp;Creating something new is hard work, and our Analytics team never gives up</li> <li> <strong>Customer Passion:</strong>&nbsp;Be the backbone of our solution and help us stay ahead of malware developers.</li> <li> <strong>Design for Scale:</strong>&nbsp;Work with the rest of the analytics and engineering team to make web-protection at scale possible</li> <li> <strong>Agile:</strong>&nbsp;Some days you may spend researching and designing experiments while others are spent using your analytical toolbox to surface insights into real-time incidents and file infection.</li> <li> <strong>Roll Up Your Sleeves:</strong>&nbsp;Partner closely internally to learn from others, and succeed as a team.</li> </ul><p></p><p><strong>How you’ll have an impact:</strong></p><ul> <li>Develop automation services using AI/ML/NLP and Large Language Model integrations (code generation, code review, workflow automation) to streamline the company's workflows.</li> <li>Design and prototype new algorithms for code generation, code analysis, and code review with a touch of AI. </li> <li>Review and enhance Python-based services, and their CI/CD workflows.</li> </ul><p></p><p><strong>The benefits you get:</strong></p><ul> <li> <strong>Independence in Action:</strong> We welcome candidates who thrive on working autonomously, taking projects from inception to completion with a self-driven approach.</li> <li> <strong>End-to-End Ownership:</strong> Ideal for those who enjoy overseeing all aspects of a project, ensuring every detail is handled with care and precision.</li> <li> <strong>Dynamic Environment:</strong> If you excel in rapidly changing contexts and can juggle multiple tasks effectively, this role is for you.</li> <li> <strong>Quick Learners Welcome:</strong> Perfect for individuals who can rapidly assimilate new information and skills, adapting to evolving challenges with ease.</li> <li> <strong>Variety and Challenge:</strong> Suited for those who seek a constantly evolving workload, offering a diverse range of tasks and learning opportunities.</li> </ul><h3>Requirements: </h3><p><strong>Past experience you’ll need:</strong></p><ul> <li>5+ years of experience as a Python developer</li> <li>Ability to read/review ANSI C source code</li> <li>Writing code and reviewing others in a shared codebase in Python</li> <li>Understanding and experience in CI/CD workflow using GitLab and git, and automated testing</li> <li>Familiarity with the Linux command line</li> <li>Ability to speak, read, and write in English C1 or better</li> <li>LLM/NLP/ML expertise would be a plus</li> <li>Practical SQL knowledge would be a plus</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li> Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
+                <p>CloudLinux stands as a pioneering remote-first entity, deeply committed to its core values: integrity, employee-centricity, embracing remote work, and delivering cost-effective, high-performance Linux infrastructure and security products. Our team is united in mutual support, striving for collective success and fostering a thriving work environment. Discover more at Cloudlinux.com.</p><p>We seek 3 people for this role who will be instrumental in building our team. </p><p></p><p>We are looking for someone who embodies our&nbsp;<strong>company values</strong>:</p><ul> <li> <strong>Curious:</strong>&nbsp;Be willing to do research and design experiments by being hands-on</li> <li> <strong>Tenacious:</strong>&nbsp;Creating something new is hard work, and our Analytics team never gives up</li> <li> <strong>Customer Passion:</strong>&nbsp;Be the backbone of our solution and help us stay ahead of malware developers.</li> <li> <strong>Design for Scale:</strong>&nbsp;Work with the rest of the analytics and engineering team to make web-protection at scale possible</li> <li> <strong>Agile:</strong>&nbsp;Some days you may spend researching and designing experiments while others are spent using your analytical toolbox to surface insights into real-time incidents and file infection.</li> <li> <strong>Roll Up Your Sleeves:</strong>&nbsp;Partner closely internally to learn from others, and succeed as a team.</li> </ul><p></p><p><strong>How you’ll have an impact:</strong></p><ul> <li>Develop automation services using AI/ML/NLP and Large Language Model integrations (code generation, code review, workflow automation) to streamline the company's workflows.</li> <li>Design and prototype new algorithms for code generation, code analysis, and code review with a touch of AI. </li> <li>Review and enhance Python-based services, and their CI/CD workflows.</li> </ul><p></p><p><strong>The benefits you get:</strong></p><ul> <li> <strong>Independence in Action:</strong> We welcome candidates who thrive on working autonomously, taking projects from inception to completion with a self-driven approach.</li> <li> <strong>End-to-End Ownership:</strong> Ideal for those who enjoy overseeing all aspects of a project, ensuring every detail is handled with care and precision.</li> <li> <strong>Dynamic Environment:</strong> If you excel in rapidly changing contexts and can juggle multiple tasks effectively, this role is for you.</li> <li> <strong>Quick Learners Welcome:</strong> Perfect for individuals who can rapidly assimilate new information and skills, adapting to evolving challenges with ease.</li> <li> <strong>Variety and Challenge:</strong> Suited for those who seek a constantly evolving workload, offering a diverse range of tasks and learning opportunities.</li> </ul><h3>Requirements: </h3><p><strong>Past experience you’ll need:</strong></p><ul> <li>5+ years of experience as a Python developer</li> <li>Ability to read/review ANSI C source code</li> <li>Writing code and reviewing others in a shared codebase in Python</li> <li>Understanding and experience in CI/CD workflow using GitLab and git, and automated testing</li> <li>Familiarity with the Linux command line</li> <li>Ability to speak, read, and write in English C1 or better</li> <li>LLM/NLP/ML expertise would be a plus</li> <li>Practical SQL knowledge would be a plus</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li> Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
                 </details>
                 </td>
             </tr>,<tr>
