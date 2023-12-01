@@ -1,5 +1,98 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1852074/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Skrapp.io</h5>
+                    <h3>Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>saas,UI/UX,video,Figma</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/product-manager-1852074" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Skrapp.io is a fast-growing SaaS company helping millions of professionals worldwide grow their businesses and broaden their reach. We provide an advanced B2B data and email research &amp; verification tool that allows B2B marketers and salespeople to reach prospects and collect relevant business information.</p>
+<p>We are on the hunt for a dynamic Product Manager to foster and enhance the features of Skrapp.io and design new ones. Your role will involve defining the vision for our product, conducting market research, and understanding customer needs. Additionally, you will be responsible for prioritizing product roadmaps, ensuring alignment with business goals and user requirements, and managing the development process along with the technical lead.</p>
+<p> </p>
+<div class="h3"><strong>Responsibilities</strong></div>
+<p><strong> </strong></p>
+<p><strong>Defining the Product Roadmap:</strong></p>
+<ul style="">
+<li style="">Develop and maintain a clear, strategic vision for the product.</li>
+<li style="">Identify and prioritize product features and enhancements based on market research, customer feedback, and business objectives.</li>
+</ul>
+<p><strong>Features Specifications:</strong></p>
+<ul style="">
+<li style="">Write comprehensive functional specifications and rules for new features, ensuring clarity and feasibility.</li>
+<li style="">Collaborate with cross-functional teams, including engineering, sales, and marketing, to gather requirements and refine feature concepts.</li>
+<li style="">Ensure specifications align with the overall product strategy and user needs.</li>
+</ul>
+<p><strong>Product Design:</strong></p>
+<ul style="">
+<li style="">Utilize tools like Figma or similar to design user interfaces and user experiences for new features.</li>
+<li style="">Conduct user testing and gather feedback to iterate and improve designs.</li>
+</ul>
+<p><strong>Feature Delivery Management:</strong></p>
+<ul style="">
+<li style="">Manage the assignment of development tasks in collaboration with the technical lead.</li>
+<li style="">Track and report on the progress of development work, identifying and addressing any bottlenecks or issues.</li>
+<li style="">Facilitate agile ceremonies, such as sprint planning, reviews, and retrospectives.</li>
+</ul>
+<p><strong>Quality Assurance:</strong></p>
+<ul style="">
+<li style="">Ensure that developed features meet the functional specifications and quality standards.</li>
+<li style="">Address any quality issues promptly and effectively, working with the development team to implement fixes.</li>
+</ul>
+<p><strong>User Educational Content:</strong></p>
+<ul style="">
+<li style="">Create and maintain educational content for users and customers, including support articles, video tutorials, and support macro replies for customer service agents.</li>
+<li style="">Ensure content is clear, accurate, and useful, and reflects the features and functionalities of the product.</li>
+<li style="">Monitor user feedback and usage data to continually improve educational materials.</li>
+</ul>
+<p><strong> </strong></p>
+<p><strong>Requirements</strong></p>
+<ul style="">
+<li style="">4-8 years of experience in managing software or app-based products, with a preference for candidates experienced in SaaS (Software as a Service) environments.</li>
+<li style="">Expertise in Agile Software Team Management: The candidate should have proven skills in leading and managing software development teams using agile methodologies.</li>
+<li style="">Proficiency in UI (User Interface) and UX (User Experience) Design: Candidates must possess strong skills in designing intuitive and visually appealing user interfaces, as well as creating user-centered designs that enhance user experience. Experience with design software and a keen eye for detail are essential.</li>
+</ul>
+<p><strong> </strong></p>
+<p><strong>You'll be an excellent fit if you are:</strong></p>
+<ul style="">
+<ul style="">
+<li style="">Naturally organized at task and project management, crucial for remote work efficiency.</li>
+<li style="">Collaborative and approachable to imbibe transparency and eliminate silos in a fully-remote team.</li>
+</ul>
+</ul>
+<p><strong> </strong></p>
+<p><strong>Benefits</strong></p>
+<p>We only offer contractor/freelancer contracts to our team members.</p>
+<p><strong> </strong></p>
+<p><strong>Contract</strong>:</p>
+<p>Salary Range: <strong>$US30,000 - $US42,000 / year.</strong></p>
+<p><br>Contracts come with the following benefits:</p>
+<ul style="">
+<li style="">Observance of public holidays as per the contractor's country of residence.</li>
+<li style="">Annual paid leave: 25 days.</li>
+<li style="">Monthly coworking space stipend of $200.</li>
+</ul>
+<p>You will be responsible for paying for your local health insurance and retirement plan if you wish to have one.</p>
+<p> </p>
+<p><strong>Work Environment:</strong></p>
+<p>We are a team of young professionals working remotely from Pakistan, India, Spain, France, Egypt, and the United Arab Emirates. The position is fully remote; you will enjoy flexible working hours from anywhere in the world. We also plan up to 2 retreats per year to exotic destinations accessible by the team members, which represents a chance to meet, discuss, work, and do fun activities.</p>
+<img src="https://remotive.com/job/track/1852074/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1542681228666671107/L5LYJLAD_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -45,6 +138,30 @@
 &lt;li&gt;Comfortable engaging and working in the open with developer communities.&lt;/li&gt;
 &lt;li&gt;Computer Science or technical degree preferred, or prior technical development experience.&lt;/li&gt;
 &lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;By applying for this position, you are agreeing to &lt;a href=&quot;https://www.timescale.com/legal/timescale-applicant-privacy-note&quot; target=&quot;_blank&quot;&gt;Timescale&#39;s Applicant Privacy Notice.&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1470600385861611521/zGMS9sPM_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Coalesce</h5>
+                    <h3>Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/coalesce.io/6cdf7d50-ed97-4a3f-a9de-26104be7d927" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div>Since founding Coalesce, our mission has remained the same: to improve the lives of data professionals by helping them transform data as efficiently as possible. We aim to bring an end to the days of arduous manual coding and inflexible GUIs by providing a best of both worlds solution. </div><div><br></div><div>We are seeking a talented and driven Product Manager with experience in data warehousing or related data domains to join our small but dynamic team. As a Product Manager, you will collaborate closely with our product team to shape the future of our data-focused products and drive their success in the market. This is an excellent opportunity to work in a fast-paced startup environment, contribute to cross-functional collaboration, and make a significant impact on the growth and direction of Coalesce.</div></div><div class="section page-centered"><div><h3>Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li><b>Manage the entire product development lifecycle:</b> From ideation and design to testing, launch, and post-launch evaluation.</li><li><b>Product Planning and Execution:</b> Gather and define product requirements and specifications for data-centric features and functionality in collaboration with the greater product team. </li><li><b>Customer Engagement:</b> Engage directly with customers to gather feedback, understand pain points, and identify new opportunities.</li><li><b>Product Strategy and Vision:</b> Collaborate with product managers, designers, and stakeholders to develop a comprehensive product strategy and roadmap. Conduct market research, gather customer feedback, and analyze industry trends specific to data management to identify opportunities and define product enhancements.</li><li><b>User-Centric Design:</b> Collaborate with designers to deeply understand and empathize with customer pain points involved with data transformation features and apply user-centered design principles. Conduct user research, usability testing, and analyze metrics to ensure our products address customer needs and provide a seamless experience.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Qualifications</h3><ul class="posting-requirements plain-list"><ul><li>3+ years of experience as a Product Manager or similar role in the software industry, with a focus on data domains.</li><li>Strong project management skills with the ability to prioritize tasks and manage multiple projects simultaneously.</li><li>Demonstrated ability to translate customer needs and market insights into actionable product requirements for data-centric solutions.</li><li>Excellent analytical and problem-solving skills with a strong focus on data-driven decision-making.</li><li>Exceptional communication and interpersonal skills to effectively collaborate with a small team of product managers, designers, and stakeholders.</li><li><b>Flexibility to accommodate US Pacific working hours.</b></li><li>Bonus: Strong understanding of data management concepts, data warehousing, or related technologies.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="salary-range"><div>$110,000 - $140,000 a year</div><small><div>Equity and benefits included. All final pay rates will be determined by the candidate's specific education, experience, knowledge, skills, and abilities of the applicant, internal equity, and alignment with market data.</div><div><br></div><div>Remote, work-from-anywhere policy</div><div>401(k) retirement plan with up to 3% match</div><div>Affordable healthcare plans</div><div>Employee stock option plan</div><div>Flexible, take-what-you-need PTO policy (with minimums enforced)</div><div>Annual company leave from December 26-30</div><div>Bi-annual company meet-ups (Maui, Portugal, and Sedona were our most recent trips)</div><div>Reimbursed home office internet &amp; WiFi</div><div>Upward mobility</div><div>Ongoing learning opportunities</div></small></div><div class="section page-centered" data-qa="closing-description"><div>By joining Coalesce, you become part of our exciting journey as we continue to expand and redefine data transformation. We are a dynamic, future-focused company that values its employees and the contributions they make. We look forward to welcoming you to the team!</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/coalesce.io/6cdf7d50-ed97-4a3f-a9de-26104be7d927/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
