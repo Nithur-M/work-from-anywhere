@@ -1,5 +1,151 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1854159/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Pangolia</h5>
+                    <h3>Lead WordPress Developer for Fast-Growing Pet Company</h3>
+                </td>
+                <td width="300">
+                    <code>api,backend,CSS,frontend</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/lead-wordpress-developer-for-fast-growing-pet-company-1854159" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">(btw, here's a quick video that explains the position: <a href="https://youtu.be/s8aW66ZB8_o?feature=shared" rel="nofollow"><span style="color: blue;">https://youtu.be/s8aW66ZB8_o?feature=shared</span></a>)<br><strong><br></strong></span><strong><span style="mso-fareast-mso-bidi-mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">👉</span></strong><strong><span style="mso-fareast-mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"> Are you a talented web developer who loves WordPress? And do you get excited about building new features that will be used by millions of pet lovers every month? Then this could very well be the opportunity for you!</span></strong></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"><br>We’re <a href="https://pangolia.com/" rel="nofollow"><span style="color: blue;">Pangolia</span></a>—one of the fastest-growing pet companies, and we’re on a mission to create the biggest, most helpful pet company in the world. Our largest sites: <a href="https://www.catster.com/" rel="nofollow"><span style="color: blue;">Catster.com</span></a>, <a href="https://www.dogster.com/" rel="nofollow"><span style="color: blue;">Dogster.com</span></a>, <a href="https://www.hepper.com/" rel="nofollow"><span style="color: blue;">Hepper.com</span></a>, and <a href="https://petkeen.com/" rel="nofollow"><span style="color: blue;">PetKeen.com</span></a> are visited by more than 60 million pet lovers every year, and we’re undergoing rapid growth.</span></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"><br>Our media sites are all built on WordPress, and our own cat furniture e-commerce brand, Hepper, is running on WooCommerce.</span></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"><br>In this position you would be the lead web developer, which will consist of fixing the issues that come up, proactively keeping our sites secure, and building new things.</span></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">We’re a 100% remote company so you’d have the freedom to work from anywhere. It's a full-time position (40 hours a week), yet you get to plan your own schedule and work whenever you want. You will become an integral member of our team at Pangolia consisting of a diverse group of more than 80 talented individuals from all over the world, joining us on our united goal of building the biggest, most helpful pet company in the world.</span></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal;"><span style="mso-fareast- mso-bidi-mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">📌</span><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"> Note: we’re a fast-paced kickass team with very high expectations of ourselves and each other, and <strong>we work really hard</strong>. The webdev department needs to become kickass, so this position will definitely require working on some weekends.</span></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal;"><span style="mso-fareast- mso-bidi-mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">💻</span><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"> We’re looking for a fullstack developer. However, for this position, <strong>it is much more important to be great at backend coding than frontend design</strong>. Our sites already look great on the front end, but it’s mainly on the back end where a lot of work needs to be done. (we also have graphic designers on our team)</span></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal;"><span style="mso-fareast- mso-bidi-mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">💬</span><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"> <strong>Strong communication and team collaboration skills are a MUST. </strong>We're a remote company, so great communication is a fundamental part of making the company thrive.</span></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">—&gt; All in all, this is a great opportunity if you’re an amazing developer looking to rapidly grow your skills whilst working alongside peers who are at the top of their field.</span></p>
+<p> </p>
+<div class="h2" style="margin-bottom: 0cm; line-height: normal;"><strong><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">Big projects in front of us right now:</span></strong></div>
+<div class="h2" style="margin-bottom: 0cm; line-height: normal;"> </div>
+<ol style="">
+<li style=""><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">Make Catster.com, Dogster.com, PetKeen.com, and Hepper.com the fastest loading websites when compared to our competitors, and have fewer display ads than the competition.<br></span></li>
+<li style=""><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">Build out the Hepper.com e-commerce experience: revamping checkout pages, category pages, product listings, and making sure that data analytics on Hepper is properly configured.<br></span></li>
+<li style=""><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">Clearing the big backlog of tasks that has piled up over the last couple of months. We are behind, and we have lots to do, so it’s important that you hit the ground running!</span></li>
+<li style=""><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">In this role, you would over the next 3-4 months hire 1-2 developers in your department. So, it’s crucial that you’re excited about managing, inspiring, and doing code reviews with other developers too.</span></li>
+</ol>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal;"><strong><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">You will be responsible for<br></span></strong></p>
+<ul style="">
+<li class="MsoNormal" style=""><span style="mso-fareast-mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">Making the webdev department kickass: catching up with the backlog of tasks, and being an amazing communicator.</span></li>
+<li class="MsoNormal" style=""><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">After 3-4 hiring months: hiring 1-2 web developers who will work under you. It’s therefore important you are excited about hiring, managing, and doing code reviews with developers. We can help teach you the skills to hire and manage developers, though, you must be excited about this for this to work.<br></span></li>
+<li class="MsoNormal" style=""><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">Developing new tools and software that help millions of pet lovers every month (could for example be to develop a Puppy Weight Chart Tool / Calculator that helps pet owners predict how fast, and how big their dog will grow)</span></li>
+<li class="MsoNormal" style=""><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">Developing, testing, and maintaining new features and solutions for our WordPress sites for desktop and mobile browsers that are optimized for high traffic.<br></span></li>
+<li class="MsoNormal" style=""><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">Create, review, and update technical documentation such as contributing to our development processes, QA procedures, and technical planning</span></li>
+<li class="MsoNormal" style=""><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">Communicating and supporting our content and marketing departments with dev/IT requests, troubleshooting, fixing bugs<br></span></li>
+<li class="MsoNormal" style=""><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">Performing scheduled and non-scheduled maintenance and security updates on our WordPress sites</span></li>
+<li class="MsoNormal" style=""><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">Always proactively being on top of things and securing and protecting our WordPress sites from hackers and malware, as well as eliminating risks<br></span></li>
+<li class="MsoNormal" style=""><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">Be informed of relevant new technology and best practices</span></li>
+</ul>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal;"><strong><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">You are expected to have:</span></strong></p>
+<p> </p>
+<ul style="" type="disc">
+<li class="MsoNormal" style=""><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">Experience with HTML, CSS, JavaScript/jQuery, and PHP</span></span></li>
+<li class="MsoNormal" style=""><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">Experience with MySQL and managing databases</span></span></li>
+<li class="MsoNormal" style=""><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">Experience with WordPress development (e.g. themes, hooks, filters, plugin API, etc)</span></span></li>
+<li class="MsoNormal" style=""><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">Experience with build tools like Webpack or ViteJS</span></span></li>
+<li class="MsoNormal" style=""><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">Experience with Composer and a basic understanding of autoloading, dependency management, and dependency injection</span></span></li>
+<li class="MsoNormal" style=""><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">Experience with SSH and comfortable with basic terminal usage</span></span></li>
+<li class="MsoNormal" style=""><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">Experience with Git (and GitHub)</span></span></li>
+<li class="MsoNormal" style=""><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">Troubleshooting abilities (ie include finding CSS and JavaScript conflicts using browser developer tools, navigating codebases in theme and plugins, and determining whether a plugin or theme code could be causing a code conflict)</span></span></li>
+<li class="MsoNormal" style=""><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">The ability to take a project on your own and get it done before the deadline</span></span></li>
+<li class="MsoNormal" style=""><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">Strong communication skills. This is a MUST as we work remotely. (most of our communication is written in Slack with occasional calls)</span></span>
+<p> </p>
+</li>
+</ul>
+<p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"> </span></p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal;"><strong><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">The Type of Person We Would Love For This Role</span></strong></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">—&gt; You are a dependable, friendly communicator</span></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">—&gt; You’re passionate about solving problems with smart and elegant programming solutions. Your code is clean, understandable, and well-commented</span></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">—&gt; You’re a self-starter who loves taking initiative and seeing things through to completion.</span></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">—&gt; You have the curiosity and desire to learn and grow your skills and discover new modern practices and follow the latest trends in WordPress</span></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">—&gt; You’re able to juggle around and work on different projects and side tasks on a weekly basis. While we wish we could focus on one thing for weeks at a time to make it perfect, that’s often not the reality in a competitive market.</span></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal;"><strong><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">Benefits/Perks when working at Pangolia</span></strong></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal;"><span style="mso-fareast- mso-bidi-mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">🌏</span><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"> Work from anywhere (we’re 100% remote)</span></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal;"><span style="mso-fareast- mso-bidi-mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">💡</span><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"> Work with a hard-working, talented team of kickass people</span></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal;"><span style="mso-fareast- mso-bidi-mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">🕑</span><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"> Flexible work hours, you get to plan your own schedule and work whenever you want</span></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal;"><span style="mso-fareast- mso-bidi-mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">🌴</span><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"> Company retreats! (we just did a company retreat in Phuket, Thailand!)</span></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal;"><span style="mso-fareast- mso-bidi-mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">💰</span><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"> Your payment is paid biweekly (You’re paid every two weeks)</span></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal;"><strong><span style="mso-fareast- mso-bidi-mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">💻</span></strong><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"> We encourage you to find a working environment that suits your needs the best if working from home every single day isn’t for you. (We’ll cover monthly membership and/or day passes for co-working spaces.)<br></span><span style="mso-fareast-mso-bidi-mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">⛱️</span><span style="mso-fareast-mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"> 21 days of paid time off every year</span></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal;"><span style="mso-fareast- mso-bidi-mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">🤝</span><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"> Your work with a great, talented team that produces a high-growth work environment (we move fast)</span></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal;"><span style="mso-fareast- mso-bidi-mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">📈</span><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"> Opportunity to move up in the company, and earn higher pay and bonuses</span></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal;"><strong><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">Some things to know about our workflow</span></strong></p>
+<p> </p>
+<ul style="" type="disc">
+<li class="MsoNormal" style=""><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">Every Monday, we have a one-on-one Zoom meeting to discuss our goals, whether you are meeting your goals, what went well, what did not go well, and so on.</span></span>
+<p> </p>
+</li>
+<li class="MsoNormal" style=""><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">You would work directly with the CEO, Simon, who trusts you with your responsibility areas and empowers you to come up with and for you to find the solutions. In other words: this role has a lot of freedom for you to work in the way that you think is best for the company. Simon and the team do not micromanage and have no interest in doing so.</span></span>
+<p> </p>
+</li>
+<li class="MsoNormal" style=""><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">You’re also responsible for maintaining the Github repository of the project you’re working on, committing/pushing/documenting your changes, commenting on your code, and writing SOPs or technical documentation (if necessary). It doesn’t have to be pages long and can be very short and concise. But, as a developer, it makes life so much easier if you can return to your code in the future without having to think too hard about what you did. This is also about being considerate of your teammates' time.</span></span>
+<p> </p>
+</li>
+<li class="MsoNormal" style=""><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">There must be some overlap in our working hours so you can respond to urgent requests (if any) or chat with your manager or any of our departments on demand if they have an IT question. This means that some extra tasks may arise during the week.</span></span>
+<p> </p>
+</li>
+<li class="MsoNormal" style=""><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">You might have a day where one of our team members needs something urgent and needs it done the same or the next day, which can be valuable to the company, or a major issue needs to be fixed ASAP, in which case you might have to drop what you're working on and work on that. If your main project's deadline cannot be met because of this (which is understandable), you should be able to communicate this on time.</span></span>
+<p> </p>
+</li>
+<li class="MsoNormal" style=""><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">However, most of the time you are able to work on your main projects in solitary. We understand that developers need complete focus. You can also chat and ask questions in our Slack channels.</span></span>
+<p> </p>
+</li>
+</ul>
+<p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal;"><strong><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">The team (and our work culture)</span></strong></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">You’ll get to be part of a 100% remote company consisting of a diverse group of 80 talented individuals from all over the world. The people you will find on the team are veterinarians, marketers, content writers, editors, social media managers, graphics designers, content managers, and a lot more.</span></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">And you’ll get to join us on our united mission of improving the lives of pets and those who care for them. We dream big, and our mission is to become the biggest, most helpful pet company in the world.</span></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">You’ll get to be part of a company that’s undergoing hyper-growth, and the fast-paced work environment that comes with it.</span></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">And we’ve managed to grow at a healthy pace without ever sacrificing our culture and values.</span></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">Our company culture is focused on work and collaboration, but also being open to the casual humor and chatter that makes us get to know each other.</span></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal;"><span style="mso-fareast- mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: #2000; mso-fareast-language: #2000;">We value the freedom of being able to work from anywhere, trust, and collaboration.</span></p>
+<img src="https://remotive.com/job/track/1854159/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1680495/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +156,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
