@@ -10,7 +10,7 @@
                     <code>saas,UI/UX,video,Figma</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/product-manager-1852074" align="right" target="_blank">Apply</a>
@@ -138,30 +138,6 @@
 &lt;li&gt;Comfortable engaging and working in the open with developer communities.&lt;/li&gt;
 &lt;li&gt;Computer Science or technical degree preferred, or prior technical development experience.&lt;/li&gt;
 &lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;By applying for this position, you are agreeing to &lt;a href=&quot;https://www.timescale.com/legal/timescale-applicant-privacy-note&quot; target=&quot;_blank&quot;&gt;Timescale&#39;s Applicant Privacy Notice.&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1470600385861611521/zGMS9sPM_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Coalesce</h5>
-                    <h3>Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/coalesce.io/6cdf7d50-ed97-4a3f-a9de-26104be7d927" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div>Since founding Coalesce, our mission has remained the same: to improve the lives of data professionals by helping them transform data as efficiently as possible. We aim to bring an end to the days of arduous manual coding and inflexible GUIs by providing a best of both worlds solution. </div><div><br></div><div>We are seeking a talented and driven Product Manager with experience in data warehousing or related data domains to join our small but dynamic team. As a Product Manager, you will collaborate closely with our product team to shape the future of our data-focused products and drive their success in the market. This is an excellent opportunity to work in a fast-paced startup environment, contribute to cross-functional collaboration, and make a significant impact on the growth and direction of Coalesce.</div></div><div class="section page-centered"><div><h3>Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li><b>Manage the entire product development lifecycle:</b> From ideation and design to testing, launch, and post-launch evaluation.</li><li><b>Product Planning and Execution:</b> Gather and define product requirements and specifications for data-centric features and functionality in collaboration with the greater product team. </li><li><b>Customer Engagement:</b> Engage directly with customers to gather feedback, understand pain points, and identify new opportunities.</li><li><b>Product Strategy and Vision:</b> Collaborate with product managers, designers, and stakeholders to develop a comprehensive product strategy and roadmap. Conduct market research, gather customer feedback, and analyze industry trends specific to data management to identify opportunities and define product enhancements.</li><li><b>User-Centric Design:</b> Collaborate with designers to deeply understand and empathize with customer pain points involved with data transformation features and apply user-centered design principles. Conduct user research, usability testing, and analyze metrics to ensure our products address customer needs and provide a seamless experience.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Qualifications</h3><ul class="posting-requirements plain-list"><ul><li>3+ years of experience as a Product Manager or similar role in the software industry, with a focus on data domains.</li><li>Strong project management skills with the ability to prioritize tasks and manage multiple projects simultaneously.</li><li>Demonstrated ability to translate customer needs and market insights into actionable product requirements for data-centric solutions.</li><li>Excellent analytical and problem-solving skills with a strong focus on data-driven decision-making.</li><li>Exceptional communication and interpersonal skills to effectively collaborate with a small team of product managers, designers, and stakeholders.</li><li><b>Flexibility to accommodate US Pacific working hours.</b></li><li>Bonus: Strong understanding of data management concepts, data warehousing, or related technologies.</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="salary-range"><div>$110,000 - $140,000 a year</div><small><div>Equity and benefits included. All final pay rates will be determined by the candidate's specific education, experience, knowledge, skills, and abilities of the applicant, internal equity, and alignment with market data.</div><div><br></div><div>Remote, work-from-anywhere policy</div><div>401(k) retirement plan with up to 3% match</div><div>Affordable healthcare plans</div><div>Employee stock option plan</div><div>Flexible, take-what-you-need PTO policy (with minimums enforced)</div><div>Annual company leave from December 26-30</div><div>Bi-annual company meet-ups (Maui, Portugal, and Sedona were our most recent trips)</div><div>Reimbursed home office internet &amp; WiFi</div><div>Upward mobility</div><div>Ongoing learning opportunities</div></small></div><div class="section page-centered" data-qa="closing-description"><div>By joining Coalesce, you become part of our exciting journey as we continue to expand and redefine data transformation. We are a dynamic, future-focused company that values its employees and the contributions they make. We look forward to welcoming you to the team!</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/coalesce.io/6cdf7d50-ed97-4a3f-a9de-26104be7d927/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
