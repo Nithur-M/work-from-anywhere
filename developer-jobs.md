@@ -1,5 +1,91 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1856007/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Xapo61</h5>
+                    <h3>Senior iOS Developer</h3>
+                </td>
+                <td width="300">
+                    <code>android,backend,git,ios</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-ios-developer-1856007" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class='"content-intro"'>
+<p>Work from anywhere, impact everywhere </p>
+<p>We’re a fully distributed team of over 150 talented people that work remotely from 40+ countries around the world. We work hard, think globally, and inspire each other to learn and grow. <br>We are committed to changing the way things are done. To achieve that, we search the world for the best people for the job. This is how we are transforming the world of digital banking. </p>
+<p>Our team is worldwide, our capacity for innovation, limitless.</p>
+<p><strong>Risk is inherent in all of our business activities and managing risk well is the responsibility of every Xapien. <br>Sound risk management enables us to serve our customers and deliver value for our shareholders, and helps make Xapo a great place to work.</strong></p>
+<p><em>Although we are headquartered in Gibraltar, this is a full time, 100% remote position <br></em><em>Work from anywhere!</em></p>
+</div>
+<p> </p>
+<p><strong>Position overview</strong></p>
+<p>At Xapo we are building truly cross functional teams with full ownership of design, architecture, build and  test. You will collaborate closely with your fellow team members from the product, backend, design and QA communities of practice.</p>
+<p><strong>Responsibilities</strong></p>
+<p>As a Senior iOS Developer, you will be responsible for building components of our mobile app that will enable users all over the world to send, spend, save, and receive money and Bitcoin safely and globally. The impact of what you will help develop at Xapo will help people protect their life savings.</p>
+<p>If you are a passionate, enthusiastic engineer interested in revolutionizing the world of banking, join us!</p>
+<p><strong><br></strong>Our tech stack includes:</p>
+<ul style="">
+<li style="">Latest Swift</li>
+</ul>
+<ul style="">
+<li style="">Our own UI Component Library (Mostly SwiftUI, but still we have some UIKit remaining)</li>
+<li style="">Unit tests, snapshot tests, integration tests, UITests</li>
+<li style="">Swift Package Manager</li>
+<li style="">Kotlin Multiplatform</li>
+</ul>
+<p><strong>Requirements:</strong></p>
+<ul style="">
+<li style="">5+ years’ experience in iOS development Swift.</li>
+<li style="">SwiftUI experience.</li>
+<li style="">Experience working with code sharing, pull requests and code reviews (Git).</li>
+<li style="">Experience working with teams in an agile environment (Jira).</li>
+<li style="">Passion for clean code where re-usability, testability and readability are a must (SOLID).</li>
+<li style="">Experience with the tech stack described above.</li>
+<li style="">A good understanding of software architecture &amp; object-oriented design patterns</li>
+<li style="">Self-motivated, with initiative and enthusiasm, willing to work with a remote team.</li>
+<li style="">Great communication skills in English.</li>
+</ul>
+<p><strong>Nice to have:</strong></p>
+<ul style="">
+<li style="">Experience in CI/CD (CircleCI), Fastlane and static code quality analytics.</li>
+<li style="">Experience in BDD.</li>
+<li style="">Kotlin, including multiplatform, KMM (believe it! — we use it both Android and iOS)</li>
+<li style="">Open source contributions.</li>
+<li style="">Experience with Combine</li>
+<li style="">Experience working with modular architectures</li>
+<li style="">Experience with Swift Package Manager, Carthage, Cocoapods</li>
+<li style="">Shipped successful iOS app(s), ideally still available in the App Store</li>
+</ul>
+<p><strong>Other requirements:</strong></p>
+<ul style="">
+<li style="">A dedicated workspace.</li>
+<li style="">A reliable internet connection with the fastest speed possible in your area.</li>
+<li style="">Devices and other essential equipment that meet minimal technical specifications.</li>
+<li style="">Alignment with Our Values.</li>
+</ul>
+<div class='"content-conclusion"'>
+<p><strong>Why work for Xapo?</strong></p>
+<p>IMPACT GLOBALLY, WORK REMOTELY.</p>
+<ul style="">
+<li style=""><strong>Shape the Future:</strong> Improve lives through cutting-edge technology, work 100% remotely from anywhere in the world.</li>
+<li style=""><strong>Great work-life balance:</strong> Build amazing things with a balance of autonomy and collaborative teamwork. Set your own work schedule and make use of a flexible PTO plan when you need to recharge. </li>
+<li style=""><strong>Expect Excellence:</strong> Collaborate, learn, and grow with a high-performance team. Learn how you learn best - from books to conferences, you’ll get a yearly budget for your individual learning and development goals.</li>
+</ul>
+</div>
+<img src="https://remotive.com/job/track/1856007/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1854159/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +96,7 @@
                     <code>api,backend,CSS,frontend</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/lead-wordpress-developer-for-fast-growing-pet-company-1854159" align="right" target="_blank">Apply</a>
@@ -156,7 +242,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -354,11 +440,11 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Status</h5>
-                    <h3>Senior Mobile ClojureScript UI Developer </h3>
+                    <h5>Canonical</h5>
+                    <h3>Developer Relations Engineer</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -367,57 +453,70 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=3702173&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol; the p2p communication layer for Web3.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
+<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
+<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
+<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
+<h2>What your day will look like</h2>
+<p>In a typical day, a developer relations engineer might:</p>
+<ul>
+<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
+<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
+<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
+<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
+<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
+<li>work on technical articles, presentations or workshops&nbsp;</li>
+<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
+<li>present at conferences, meetups or technical events</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<p>A strong candidate</p>
+<ul>
+<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
+<li>has worked with real-world challenges developing and deploying software using Linux</li>
+<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
+<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
+<li>has been a contributor to open-source communities, software and documentation</li>
+<li>is an engaging, vivacious speaker and presenter</li>
+<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
+<li>builds trust, relationships and confidence</li>
+<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
+</ul>
+<h2>Additional skills that you might also bring</h2>
+<ul>
+<li>previous experience in a developer advocacy or community role</li>
+<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
+</ul>
 
-    <div class="careers-block__trix external-panel text-left">
-<div>
-<p><strong>The role</strong></p>
-<p><span style="font-weight: 400;">We're growing our mobile development team. Join us in building a fully decentralized, censorship resistant, privacy first group chat platform that leverages the Ethereum blockchain to enable individuals and groups worldwide to communicate and transact with one another freely without restriction.</span></p>
-<p><span style="font-weight: 400;">Status is looking for a Clojure UI Engineer to join our mobile development team who will work closely with Design to transform UI specifications into beautiful, smooth, performant and near pixel perfect interactive interfaces. The ideal person will be comfortable working on features end-to-end</span><a href="https://github.com/status-im/status-go"><span style="font-weight: 400;">,</span></a><span style="font-weight: 400;"> has an eye for design and visual detail, enjoys working with designers as well as developers, and who can transform reused UI patterns such as list items into reusable UI components.&nbsp; The ideal candidate will love finessing UI implementations to the highest levels of quality and will care deeply about things like code cleanliness, reusability, maintainability, performance, and UI layout accuracy - as well as doing whatever needed to create a best-in-class user experience for Status’s users.</span></p>
-<p><span style="font-weight: 400;">Willingness to both learn and share your knowledge with others, product-orientation, and making sure all team members are aligned when developing new features, will make you successful in the role. Status is a fast-paced, flat organization, working on cutting edge blockchain and decentralized messaging technologies in a dynamic landscape. We look forward to meeting you!</span></p>
-<p><strong>Key responsibilities:</strong></p>
+<h2>What we offer you</h2>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Implement new features end to end.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Collaborate closely with the Design team around both the designs and the implementation of the designs.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Craft eye catching UIs and propose improvements to our code base.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Sense checking with the team and prioritizing work from our backlog.</span></li>
+<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
 </ul>
-<p><strong>You ideally will have:</strong></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience working with ClojureScript and React Native</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Eye for detail; point us to completed implementation work.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">3+ years of experience working on complex UI applications.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience in, and passion for, blockchain technology.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">A strong alignment to our principles: </span><a href="https://status.im/about/#our-principles"><span style="font-weight: 400;">https://status.im/about/#our-principle</span></a></li>
-</ul>
-<p><strong>Bonus points if:</strong></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience working remotely.&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience working for an open source organization.&nbsp;&nbsp;</span></li>
-</ul>
-<p><span style="font-weight: 400;">[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</span></p>
-<h4><strong>Compensation:&nbsp;</strong></h4>
-<p>We are happy to pay in either 100% fiat or any mix of fiat and/or crypto.</p>
-</div>
-</div>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote&nbsp;</p>
 
+<p><br><br></p>
     
-
-    
-
                 </details>
                 </td>
             </tr>,<tr>
@@ -500,87 +599,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote</p>
 <h2><br><br></h2>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Developer Relations Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
-<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
-<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
-<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
-<h2>What your day will look like</h2>
-<p>In a typical day, a developer relations engineer might:</p>
-<ul>
-<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
-<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
-<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
-<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
-<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
-<li>work on technical articles, presentations or workshops&nbsp;</li>
-<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
-<li>present at conferences, meetups or technical events</li>
-</ul>
-<h2>What we are looking for in you</h2>
-<p>A strong candidate</p>
-<ul>
-<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
-<li>has worked with real-world challenges developing and deploying software using Linux</li>
-<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
-<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
-<li>has been a contributor to open-source communities, software and documentation</li>
-<li>is an engaging, vivacious speaker and presenter</li>
-<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
-<li>builds trust, relationships and confidence</li>
-<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
-</ul>
-<h2>Additional skills that you might also bring</h2>
-<ul>
-<li>previous experience in a developer advocacy or community role</li>
-<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
-</ul>
-
-<h2>What we offer you</h2>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote&nbsp;</p>
-
-<p><br><br></p>
     
                 </details>
                 </td>
@@ -834,30 +852,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div>Collabora is looking for a passionate and enthusiastic open-source software developer, with good knowledge of at least one of OpenGL or Vulkan, to join our ever growing geographically-distributed Graphics domain team.</div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li>Good knowledge of at least one of the OpenGL or Vulkan APIs</li><li>Experience developing on Linux systems</li><li>Knowledge of open source development methodologies and relevant open source communities</li><li>Good English language skills (both verbal and written)&nbsp;</li><li>Ability to work and communicate in an online fully distributed environment </li></ul></ul></div></div><div class="section page-centered"><div><h3>Desirable Skills (The below are skills that to some degree will be useful at the start of your career within Collabora. Training and opportunities for development will be offered)</h3><ul class="posting-requirements plain-list"><ul><li>Experience profiling and optimizing application's use of the GPU</li><li>Experience with developing GPU compilers</li><li>Direct contributions to the Mesa 3D Graphics Library</li><li>Experience leading teams to understand and define constraints, requirements and solutions</li><li>Good communication with customers and upstream communities</li><li>Self-learning skills to get sufficient knowledge of Collabora's services,&nbsp;business model, project delivery life cycle and other related technical domains</li><div><br></div></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Collabora's Graphics team contributes to the entire Linux Graphics stack, from the Linux kernel up to the display servers, including but not  limited to GPU and display kernel drivers, Wayland/Weston, OpenGL, Vulkan and other open-source graphics drivers within the Mesa 3D Graphics Library for different customers’ projects in various market verticals.</div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/bd4a9eb8-528f-4553-a832-ca6949ab46bd/apply">Apply for this job</a></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1545121577632763912/7FMnABb0_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Collabora</h5>
-                    <h3>Python Web Developer - Business Applications Integration (Remote/Anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/collabora/7b5a45c0-9535-4aff-8553-3affbad5337f" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt">Collabora is looking for a Python Web Developer to join our in-house Business Applications Integration team. The team supports, develops and integrates the software and services used within the company to help deliver client projects and effectively run the business. The team is not client facing. Working in a friendly and highly cooperative environment with colleagues from every part of the company, you will help to deliver software and integrate services involved in planning, business intelligence, communications, project management, security and accounting.</span></div><div><br></div><div><span style="font-size: 11pt">Collabora primarily uses Open Source Software applications to run its business processes (timelogging, invoicing, feedback, project management, asset management, communications, business intelligence...) integrating with other 3rd party SaaS applications (HRIS, ATS, Finance Accounting, Travel Booking). Some of our tools are developed in-house and others are customised from open source projects to suit our use cases. Examples of our software tools include: GitLab (with GitLab CI), Docker/Podman, Grafana, MariaDB, PostgreSQL, SuiteCRM, Phabricator, OTRS, SnipeIT, Hugo, Ansible, and an in-house developed Django web application, among others.</span></div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li><b>Strong Python</b></li><li><b>5+ years of application integration experience</b></li><li><b>Experience building for the web, especially using Django  </b></li><li><b>Solid experience coding with REST APIs</b></li><li><b>Understanding of typical web architectures and stacks</b>&nbsp;</li><li>A respectful and pragmatic approach to providing technical support  </li><li>Some experience in PHP, JavaScript and Linux shell scripting  </li><li>Good English proficiency (both verbal and written)  </li><li>Ability to work in an online, globally distributed company  </li></ul></ul></div></div><div class="section page-centered"><div><h3>Additional Skills for Senior Applicants</h3><ul class="posting-requirements plain-list"><ul><li>Experience writing well-tested code in business critical systems (e.g. finance)  </li><li>Familiarity with container-based working, e.g. Docker, Podman, Kubernetes </li><li>Experience in Business Applications Integration and Automation</li><li>Experience using, maintaining and designing CI  </li><li>Experience with database schema design and optimisation  </li><li>A solid grounding in Linux system and database administration and networking concepts  </li><li>A positive approach to designing and developing applications with a variety of stakeholders</li><li>Experience building and using existing web APIs in order to integrate systems  </li><li>Demonstrable technical writing skills (documentation, blogs)  </li><li>Skills in other modern languages (Go/Rust/Ruby) and frameworks such as Laravel, Rails  </li><li>Knowledge of security- and privacy-by-design principles  </li><li>A willingness to mentor more junior engineers</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Collabora is a software consultancy specializing in bringing companies and the Open Source community together. We combine years of Open Source software leadership with an understanding of the challenges that businesses, non-profits, and governments face. </div><div><br></div><div>Collabora brings deep technical expertise in system integration &amp; architecture, graphics, multimedia, web engines and communications to a number of market verticals, including mobile, IVI / automotive, set top box / smart TV, and a range of other specialized embedded applications.</div><div><br></div><div>Collabora has the unique business model of enabling enterprises to leverage Open Source software in their solutions. Having worked with notable industry leading companies in the automotive, aerospace and handset mobile verticals amongst many others, Collabora has established a broad customer portfolio</div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/7b5a45c0-9535-4aff-8553-3affbad5337f/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
