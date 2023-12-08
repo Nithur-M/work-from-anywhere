@@ -1,5 +1,173 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1855154/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>IOVLabs</h5>
+                    <h3>Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>crypto,go,golang,java</code>
+                </td>
+                <td width="200">
+                <text>3 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-1855154" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><strong>About IOV Labs</strong></div>
+<div>IOV Labs is on a mission to provide the next generation of fintech innovators with the decentralized tools and technology to build a new global economy.</div>
+<div>IOV Labs develops, promotes, and supports the RSK Blockchain, a Bitcoin merge-mined smart contract platform – the most secure smart contract platform in the world. IOV Labs also develops the RSK Infrastructure Framework (RIF) to provide our partners with everything they need to build decentralized apps and new Open Finance services on the RSK Blockchain.</div>
+<div>Every day our teams come to work to build a more decentralized world, for a freer and fairer future.</div>
+<div><strong>About the role</strong></div>
+<div>We are looking for a Semi-senior Software Engineer to join our Rollup Squad.</div>
+<div>The candidate will be collaborating to analyze existing open-source solutions, design, implement and maintain protocols and services, reviewing peers’ code, documenting and testing features.</div>
+<div>The candidate is also expected to be involved in improving the squad's work processes, implementing changes to streamline operations, and bringing best practices from his/her experience.  </div>
+<div>Should be open-minded, passionate, analytical, and hard-working; interested in agile and decentralized organizations and enthusiastic about the blockchain ecosystem. As a member of an autonomous squad, the candidate will be encouraged to raise their opinions, to suggest and to help implement changes, be it regarding the projects, methodology, or anything else. </div>
+<div> </div>
+<p><br><br></p>
+<div class="h3">What You'll Be Doing</div>
+<ul style="">
+<li style="">Actively participate during the product design phases, analysing requirements and proposing innovative and alternative solutions.</li>
+</ul>
+<ul style="">
+<li style="">Collaborate on architecture definitions, always thinking of solutions that are scalable and secure.</li>
+</ul>
+<ul style="">
+<li style="">Develop quality code, with emphasis on correctness of implementation.</li>
+</ul>
+<ul style="">
+<li style="">Write and support unit/integration tests</li>
+</ul>
+<ul style="">
+<li style="">Collaborate in the evolutionary maintenance of the product.</li>
+</ul>
+<ul style="">
+<li style="">Conduct independent research in your area of ownership; design, implement, and document solutions.</li>
+</ul>
+<p><br><br></p>
+<div class="h3">What You Bring to the Table</div>
+<ul style="">
+<li style="">Bachelor or advanced student of Computer Science, Computer Engineering or other related degree</li>
+</ul>
+<ul style="">
+<li style="">Strong experience with 3+ years as a Software Engineer.</li>
+</ul>
+<ul style="">
+<li style="">Knowledge about software architecture principles, design patterns, performance, and software engineering best practices.</li>
+</ul>
+<ul style="">
+<li style="">Vast experience in some mainstream language (e.g.:  Javascript, Typescript, Golang, Rust, Java)</li>
+</ul>
+<ul style="">
+<li style="">Keen interest in learning decentralized/distributed technologies and work on all layers of the stack.</li>
+</ul>
+<ul style="">
+<li style="">Motivation to continuously learn from new technologies/languages and work in a fast-paced team with many diverse projects.</li>
+</ul>
+<ul style="">
+<li style="">English language proficiency.</li>
+</ul>
+<ul style="">
+<li style="">Willingness to research emerging solutions</li>
+</ul>
+<div><strong>Bonus points:</strong></div>
+<ul style="">
+<li style="">Experience working with Rust/Go</li>
+</ul>
+<ul style="">
+<li style="">Experience working in blockchain technology projects, smart contract development and/or dApps development.</li>
+</ul>
+<ul style="">
+<li style="">Grasp of the Bitcoin and/or the Ethereum protocol</li>
+</ul>
+<ul style="">
+<li style="">Experience in relational and non-relational databases.</li>
+</ul>
+<ul style="">
+<li style="">Experience with functional programming is a plus.</li>
+</ul>
+<ul style="">
+<li style="">Computer security knowledge.</li>
+</ul>
+<ul style="">
+<li style="">Have experience working for objectives with remote teams.</li>
+</ul>
+<div> </div>
+<p><br><br></p>
+<div class="h3">What You’ll Get Back</div>
+<ul style="">
+<li style="">Competitive salary, annual bonus.</li>
+</ul>
+<ul style="">
+<li style="">100% remote working (External Employee) from anywhere in the world.</li>
+</ul>
+<ul style="">
+<li style="">Global WeWork membership. </li>
+</ul>
+<ul style="">
+<li style="">Flexible working hours – you’re free to work in any way you work the best.</li>
+</ul>
+<ul style="">
+<li style="">Paid leave and national holidays observed. </li>
+</ul>
+<ul style="">
+<li style="">Opportunity to work with state-of-the-art technology through challenging and unique projects.</li>
+</ul>
+<ul style="">
+<li style="">Culturally diverse and dynamic team with a clear vision and strategy. </li>
+</ul>
+<ul style="">
+<li style="">Training programs to learn everything about crypto. </li>
+</ul>
+<ul style="">
+<li style="">Language courses: English, Spanish. </li>
+</ul>
+<ul style="">
+<li style="">Independent employee assistance program offering legal, financial, family, psychological, healthcare, and wellness counseling for you and your family</li>
+</ul>
+<p><br><br></p>
+<div class="h3">IOV Labs Mission, Vision &amp; Purpose</div>
+<ul style="">
+<li style=""><strong>Our purpose is to… </strong>build a more decentralized world, for a freer and fairer future.</li>
+</ul>
+<ul style="">
+<li style=""><strong>Our vision is…</strong> a safe and equitable global financial system that enables everyone to participate and prosper.</li>
+</ul>
+<ul style="">
+<li style=""><strong>We’re on a mission to… </strong>provide the next generation of fintech innovators with the decentralized tools and technology to build a new global economy.</li>
+</ul>
+<div> </div>
+<div><strong>IOV Labs Values</strong></div>
+<div>Our values reflect the fact that we are a global, distributed team who embrace complex and revolutionary decentralized technologies, guided by a strong social purpose.</div>
+<ul style="">
+<li style="">Focus</li>
+</ul>
+<ul style="">
+<li style="">Take Responsibility</li>
+</ul>
+<ul style="">
+<li style="">Make it Useful</li>
+</ul>
+<ul style="">
+<li style="">Stay Open</li>
+</ul>
+<ul style="">
+<li style="">Be Fair</li>
+</ul>
+<div>We are excited to see what you're made of!</div>
+<div> </div>
+<div><em>IOV Labs embraces diversity and is proud to be an equal opportunity employer open to all qualified applicants regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, Veteran status, or any other legally protected status.</em></div>
+<div> </div>
+<img src="https://remotive.com/job/track/1855154/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
                 </td>
                 <td width="300">
