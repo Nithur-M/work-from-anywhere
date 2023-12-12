@@ -1,100 +1,5 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1852744/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Ancient Gaming</h5>
-                    <h3>Backend Test Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>backend,go,javascript,node.js</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/qa/backend-test-engineer-1852744" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>🌟 Allow us to introduce ourselves</strong></p>
-<p>Ancient Gaming, an innovative software creator for the future of iGaming, bucks the trend that has lacked innovation for two decades. <strong>We're not trend followers; we're trendsetters. </strong>As iGaming pioneers, we challenge the status quo, crafting not just appealing software but a whole new experience for the younger, high-spending generation seeking to reinvent gaming interactions.</p>
-<p> </p>
-<p>Founded in 2018 in Malta, we've become a global presence with <strong>50+ dedicated team members </strong>spanning <strong>25+ countries</strong>. And yes, we're proudly remote-first!</p>
-<p> </p>
-<p><strong>🚀 Your mission as a Backend Test Engineer!</strong></p>
-<p>As a Backend Test Engineer, you will be the one point of connection between Backend Developers and the QA team to ensure the excellence and reliability of our products by raising our Backend testing efficiency to a whole new level. You'll craft and maintain comprehensive Backend test suites to fortify the integrity of our platforms, focusing on using JavaScript automation suites. Your sharp eye will catch development defects before they hit production and Your prowess in identifying essential test data and debugging will be instrumental in eliminating any hindrances to the success of our automation suites.</p>
-<p><strong> </strong></p>
-<p><strong>What you’ll be doing:</strong></p>
-<ul style="">
-<li style="">Collaborating closely with our dedicated Backend Development and QA teams to write and develop test suits in order to improve the reliability of our products (including Integration, Unit, and Load tests)</li>
-<li style="">Creating and maintaining test case documentation in the testing tool</li>
-<li style="">Utilizing JavaScript automation suites</li>
-<li style="">Reviewing QA Engineer’s test case creation to make sure they follow business requirements</li>
-<li style="">Independently identifying development defects before items go into production</li>
-<li style="">Identifying necessary test data to support testing</li>
-<li style="">Debugging code that has been written to remove any defects that hinder the success of any automation suites</li>
-<li style="">Utilizing an array of development tools to verify automation effectiveness</li>
-</ul>
-<p><strong>Examples of projects you’ll be working on:</strong></p>
-<ul style="">
-<li style=""><a href="https://www.csgoroll.com/" rel="nofollow" title="https://www.csgoroll.com/">CSGORoll</a>: A community social gaming platform targeted towards CSGO players, featuring unique in-house custom-built games such as Roulette, Crash, Unboxing, and PVP. Users have the capability to bet and win Skins in real time.</li>
-<li style=""><a href="https://www.hypedrop.com/" rel="nofollow" title="https://www.hypedrop.com/">HypeDrop</a>: A platform for buying and opening Mystery Boxes in real-time, featuring an unboxing game where people can unbox real-life products and have them shipped to their houses.</li>
-<li style=""><a href="https://www.hypeup.com/" rel="nofollow" title="https://www.hypeup.com/">HypeUp</a>: An iGaming brand where users can wager their balance or items from their "Inventory" against other people's items, such as watches, electronics, sneakers, and more, and can physically redeem their contents upon withdrawal.</li>
-<li style="">These projects use the same codebase and share libraries of components and modules.</li>
-</ul>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p><strong><strong>You will thrive in this role if you have:</strong></strong></p>
-<ul style="">
-<li style="">Having at least 2 years of previous experience in Backend Development and Automated Testing (writing advanced Integration, Load and Unit tests).</li>
-<li style="">Having a strong knowledge of JavaScript and TypeScript.</li>
-<li style="">Someone who has previous experience working within the Node.js ecosystem.</li>
-<li style="">Having previous experience in working with PostgreSQL/MySQL.</li>
-</ul>
-<p><strong><strong><strong>It will be good if you have:</strong></strong></strong></p>
-<ul style="">
-<li style="">Have previous experience with Redis, as well as Jest or K6 testing suits.</li>
-<li style="">Have good Project Management skills.</li>
-</ul>
-<p><br><strong>What’s in it for you?</strong></p>
-<ul style="">
-<li dir="ltr" style=""><strong>Flexibility Policy</strong> – It's about giving you the freedom to structure your workday in a way that best suits your lifestyle and responsibilities outside of work</li>
-<li dir="ltr" style=""><strong>Work-from-anywhere Policy</strong> – you have the chance to work from anywhere in the world, we are a remote-first company and we are proud of it!</li>
-<li dir="ltr" style="">Every year for our <strong>team-building </strong>we choose a location and go there to celebrate our achievements together</li>
-<li dir="ltr" style="">A<strong> dedicated budget</strong> to purchase all the equipment you need to set up your home office</li>
-<li dir="ltr" style=""><strong>L&amp;D budget</strong> for you to develop your skills!</li>
-<li dir="ltr" style=""><strong>Spill Mental Health Service </strong>– full access to counselling for any employees who need it</li>
-<li dir="ltr" style="">Young, fun, flat structured <strong>rapidly growing</strong> company with endless opportunities to grow</li>
-<li style="">A <strong>diverse portfolio</strong> that includes gamified e-commerce, video game arcade and iGaming</li>
-<li style="">Entirely <strong>modern</strong> stack, <strong>no legacy</strong> code!</li>
-</ul>
-<p> </p>
-<p><em>This post not only outlines our ideal candidate but also serves as an inspiration for what this role can evolve into. Even if you consider yourself an 80% fit but have a genuine passion for this position, we encourage you to apply. We're eager to hear from individuals who share our enthusiasm.</em></p>
-<p><br><em>Ancient Gaming is an equal-opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.</em><em><br></em></p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<img src="https://remotive.com/job/track/1852744/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1838115/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -105,7 +10,7 @@
                     <code>api,backend,cloud,docker</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/backend-software-engineer-1838115" align="right" target="_blank">Apply</a>
