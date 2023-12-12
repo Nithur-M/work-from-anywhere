@@ -1,173 +1,5 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1855154/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>IOVLabs</h5>
-                    <h3>Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>crypto,go,golang,java</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-1855154" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><strong>About IOV Labs</strong></div>
-<div>IOV Labs is on a mission to provide the next generation of fintech innovators with the decentralized tools and technology to build a new global economy.</div>
-<div>IOV Labs develops, promotes, and supports the RSK Blockchain, a Bitcoin merge-mined smart contract platform – the most secure smart contract platform in the world. IOV Labs also develops the RSK Infrastructure Framework (RIF) to provide our partners with everything they need to build decentralized apps and new Open Finance services on the RSK Blockchain.</div>
-<div>Every day our teams come to work to build a more decentralized world, for a freer and fairer future.</div>
-<div><strong>About the role</strong></div>
-<div>We are looking for a Semi-senior Software Engineer to join our Rollup Squad.</div>
-<div>The candidate will be collaborating to analyze existing open-source solutions, design, implement and maintain protocols and services, reviewing peers’ code, documenting and testing features.</div>
-<div>The candidate is also expected to be involved in improving the squad's work processes, implementing changes to streamline operations, and bringing best practices from his/her experience.  </div>
-<div>Should be open-minded, passionate, analytical, and hard-working; interested in agile and decentralized organizations and enthusiastic about the blockchain ecosystem. As a member of an autonomous squad, the candidate will be encouraged to raise their opinions, to suggest and to help implement changes, be it regarding the projects, methodology, or anything else. </div>
-<div> </div>
-<p><br><br></p>
-<div class="h3">What You'll Be Doing</div>
-<ul style="">
-<li style="">Actively participate during the product design phases, analysing requirements and proposing innovative and alternative solutions.</li>
-</ul>
-<ul style="">
-<li style="">Collaborate on architecture definitions, always thinking of solutions that are scalable and secure.</li>
-</ul>
-<ul style="">
-<li style="">Develop quality code, with emphasis on correctness of implementation.</li>
-</ul>
-<ul style="">
-<li style="">Write and support unit/integration tests</li>
-</ul>
-<ul style="">
-<li style="">Collaborate in the evolutionary maintenance of the product.</li>
-</ul>
-<ul style="">
-<li style="">Conduct independent research in your area of ownership; design, implement, and document solutions.</li>
-</ul>
-<p><br><br></p>
-<div class="h3">What You Bring to the Table</div>
-<ul style="">
-<li style="">Bachelor or advanced student of Computer Science, Computer Engineering or other related degree</li>
-</ul>
-<ul style="">
-<li style="">Strong experience with 3+ years as a Software Engineer.</li>
-</ul>
-<ul style="">
-<li style="">Knowledge about software architecture principles, design patterns, performance, and software engineering best practices.</li>
-</ul>
-<ul style="">
-<li style="">Vast experience in some mainstream language (e.g.:  Javascript, Typescript, Golang, Rust, Java)</li>
-</ul>
-<ul style="">
-<li style="">Keen interest in learning decentralized/distributed technologies and work on all layers of the stack.</li>
-</ul>
-<ul style="">
-<li style="">Motivation to continuously learn from new technologies/languages and work in a fast-paced team with many diverse projects.</li>
-</ul>
-<ul style="">
-<li style="">English language proficiency.</li>
-</ul>
-<ul style="">
-<li style="">Willingness to research emerging solutions</li>
-</ul>
-<div><strong>Bonus points:</strong></div>
-<ul style="">
-<li style="">Experience working with Rust/Go</li>
-</ul>
-<ul style="">
-<li style="">Experience working in blockchain technology projects, smart contract development and/or dApps development.</li>
-</ul>
-<ul style="">
-<li style="">Grasp of the Bitcoin and/or the Ethereum protocol</li>
-</ul>
-<ul style="">
-<li style="">Experience in relational and non-relational databases.</li>
-</ul>
-<ul style="">
-<li style="">Experience with functional programming is a plus.</li>
-</ul>
-<ul style="">
-<li style="">Computer security knowledge.</li>
-</ul>
-<ul style="">
-<li style="">Have experience working for objectives with remote teams.</li>
-</ul>
-<div> </div>
-<p><br><br></p>
-<div class="h3">What You’ll Get Back</div>
-<ul style="">
-<li style="">Competitive salary, annual bonus.</li>
-</ul>
-<ul style="">
-<li style="">100% remote working (External Employee) from anywhere in the world.</li>
-</ul>
-<ul style="">
-<li style="">Global WeWork membership. </li>
-</ul>
-<ul style="">
-<li style="">Flexible working hours – you’re free to work in any way you work the best.</li>
-</ul>
-<ul style="">
-<li style="">Paid leave and national holidays observed. </li>
-</ul>
-<ul style="">
-<li style="">Opportunity to work with state-of-the-art technology through challenging and unique projects.</li>
-</ul>
-<ul style="">
-<li style="">Culturally diverse and dynamic team with a clear vision and strategy. </li>
-</ul>
-<ul style="">
-<li style="">Training programs to learn everything about crypto. </li>
-</ul>
-<ul style="">
-<li style="">Language courses: English, Spanish. </li>
-</ul>
-<ul style="">
-<li style="">Independent employee assistance program offering legal, financial, family, psychological, healthcare, and wellness counseling for you and your family</li>
-</ul>
-<p><br><br></p>
-<div class="h3">IOV Labs Mission, Vision &amp; Purpose</div>
-<ul style="">
-<li style=""><strong>Our purpose is to… </strong>build a more decentralized world, for a freer and fairer future.</li>
-</ul>
-<ul style="">
-<li style=""><strong>Our vision is…</strong> a safe and equitable global financial system that enables everyone to participate and prosper.</li>
-</ul>
-<ul style="">
-<li style=""><strong>We’re on a mission to… </strong>provide the next generation of fintech innovators with the decentralized tools and technology to build a new global economy.</li>
-</ul>
-<div> </div>
-<div><strong>IOV Labs Values</strong></div>
-<div>Our values reflect the fact that we are a global, distributed team who embrace complex and revolutionary decentralized technologies, guided by a strong social purpose.</div>
-<ul style="">
-<li style="">Focus</li>
-</ul>
-<ul style="">
-<li style="">Take Responsibility</li>
-</ul>
-<ul style="">
-<li style="">Make it Useful</li>
-</ul>
-<ul style="">
-<li style="">Stay Open</li>
-</ul>
-<ul style="">
-<li style="">Be Fair</li>
-</ul>
-<div>We are excited to see what you're made of!</div>
-<div> </div>
-<div><em>IOV Labs embraces diversity and is proud to be an equal opportunity employer open to all qualified applicants regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, Veteran status, or any other legally protected status.</em></div>
-<div> </div>
-<img src="https://remotive.com/job/track/1855154/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -256,121 +88,6 @@
 <p><br></p>
 <p>#HN</p>
           
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1428393724527190022/4mt5PACL_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Sourcegraph</h5>
-                    <h3>Software Engineer - Cody Strategy</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/sourcegraph91/jobs/5004011004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
-<h2><span style="color: #a112ff;">Who we are</span></h2>
-<p>Our mission at Sourcegraph is to make it so that&nbsp;<a class="c-link" href="https://handbook.sourcegraph.com/strategy-goals/strategy" target="_blank" data-stringify-link="https://handbook.sourcegraph.com/strategy-goals/strategy" data-sk="tooltip_parent">everyone can code</a>, not just ~0.1% of the population. Our code graph powers Cody, the most powerful and accurate AI coding assistant, as well as our Code Search product, which helps devs explore their entire codebase and make large-scale migrations and security fixes. We’re building software that builds software, and in doing so we’re making devs more productive and preparing for a world where a lot more code gets written.</p>
-<p>It’s an exciting time to join Sourcegraph. AI has taken over the world, and we’ve spent the last 10 years building infrastructure that’s integral to making AI generated code more powerful and accurate. Our customers include 4/5 FAANG companies, 4 of the top 10 banks, government organizations, Uber, Plaid, and many other companies building the software that pushes the world forward. We’ve raised $225M at a $2.625B valuation from <a class="c-link" href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" target="_blank" data-stringify-link="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" data-sk="tooltip_parent">Andreessen Horowitz</a>,&nbsp;<a class="c-link" href="https://about.sourcegraph.com/blog/series-c-with-sequoia/" target="_blank" data-stringify-link="https://about.sourcegraph.com/blog/series-c-with-sequoia/" data-sk="tooltip_parent">Sequoia</a>,&nbsp;<a class="c-link" href="https://www.redpoint.com/companies/sourcegraph/" target="_blank" data-stringify-link="https://www.redpoint.com/companies/sourcegraph/" data-sk="tooltip_parent">Redpoint</a>,&nbsp;<a class="c-link" href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" target="_blank" data-stringify-link="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" data-sk="tooltip_parent">Craft</a>&nbsp;and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</p></div>
-
-    <h2><span style="color: rgb(140, 51, 236);"><strong>Working hours</strong></span></h2>
-<p>🌎 Given that we are an all-remote company and hire <a href="https://handbook.sourcegraph.com/departments/people-ops/process/how-we-engage-talent-outside-the-us/">almost anywhere</a> in the world, we don’t have a location requirement for this role. However, this person will be needed to work 4pm to 10pm UTC Monday to Friday.</p>
-<h2><span style="color: rgb(140, 51, 236);"><strong>Why this job is exciting</strong></span></h2>
-<p>Cody is an AI coding assistant that lives in your editor that can find, explain, and write code. Cody uses LLMs and the Sourcegraph search engine and code graph, providing answers that eliminate toil and keep human programmers in flow. You can think of Cody as your programmer buddy who has read through all the code on GitHub, all the questions on StackOverflow, and all your organization’s private code, and is always there to answer questions you might have or suggest ways of doing something based on prior knowledge.</p>
-<p>The Cody Strategic team is aimed at turning the largest, most world-recognizable brands into Cody Champions. We do this by partnering with a small number of highly engaged <a href="https://handbook.sourcegraph.com/strategy-goals/strategy/#market-segmentation">strategic customers</a> to build product functionality that enables these customers to successfully deploy the most-loved coding assistant, but at massive scale. You will work closely with the ML Infrastructure team, all the Cody teams across Cody’s e2e service stack, and teams across Sourcegraph to bring the best-of-class coding assistant to your favorite big brands. The Strat team focuses on one or two projects at a time, delivers and scales them, and then works to hand them off to the other Cody teams so that it just becomes part of how Cody is operated. This is high-impact work and has the attention of the entire company. You will be supported by Eng, Design, Product, Legal and the go-to-market teams, and you are joining a team of very talented and experienced engineers who have already accomplished amazing things in a short time. They will be there to help you hit the ground running and guide your work.</p>
-<p>📅 Within one month, you will…</p>
-<ul>
-<li>Start building a trusting relationship with your peers, and learning the company structure.</li>
-<li>Be set up to do local development, and be actively prototyping.</li>
-<li>Ship a substantial new feature to end users.</li>
-</ul>
-<p>📅 Within three months, you will…</p>
-<ul>
-<li>Be seen as a subject matter expert in all things Cody at Sourcegraph.</li>
-<li>Be contributing actively to the world’s best coding assistant.</li>
-<li>Be following all the relevant research, and conducting research of your own.</li>
-</ul>
-<p>📅 Within six months, you will…</p>
-<ul>
-<li>Be fully ramped up and able to anticipate the needs of strategic customers.</li>
-<li>Be ramped up on other relevant parts of the Sourcegraph product.</li>
-<li>Be helping design and build what might become the biggest dev accelerator in 20 years.</li>
-</ul>
-<h2><span style="color: rgb(140, 51, 236);"><strong>About you</strong></span></h2>
-<p>You are a full-stack software engineer with at least 2 years of industry experience, equally comfortable with frontend and backend work as needed, with the ability to pick up frameworks quickly and deliver high-quality work. Ideally, you have worked directly with enterprise customers as a SaaS developer. Or perhaps you have worked with internal customers on large cross-functional projects. You should enjoy cross-functional, cross-company collaboration, since that is the bread and butter of the Cody Strat team.</p>
-<p>Our Strat customers are typically deployed with complex legacy configurations, and we often need to build bridges into those systems. Much of the Strat work is becoming ML-oriented in nature, as our investment in Cody AI increases and our Strat customers become early adopters. LLMs and their ecosystem are at the core of Cody’s architecture, so you ideally have prior experience working with LLM-based applications, and should be seeking to increase your knowledge of AI/ML as the space quickly evolves.</p>
-<p>Requirements:</p>
-<ul>
-<li>Comfortable with developing and deploying software and services on at least one major Cloud provider, with preference for experience with GCP, as most of your Cloud work will be on GCP.</li>
-<li>Comfortable with at least the basics of Docker, Kubernetes, Linux, and systems programming</li>
-<li>Experience with Go (minimum) and in an ideal world, TypeScript, Java, and various scripting languages</li>
-<li>You have used Cody and understand Cody’s current architecture, and you have your own opinions about the directions it could and should go next.</li>
-</ul>
-<p>Nice-to-haves: <em>(All optional, but each would enable you to have even higher impact.)</em></p>
-<ul>
-<li>Postgres. If you have very deep Postgres experience, you may be in luck.</li>
-<li>Node.js. Cody’s cross-client logic is largely in Node.js, and being able to contribute there is helpful.</li>
-<li>Understanding of the modern LLM ecosystem especially as it pertains to coding and AI assistants, including the basics of prompt engineering and retrieval-augmented generation (RAG) applications.</li>
-<li>Understanding of compiler construction, and experience working with tools that work with code. We have a code graph that is central to Cody’s operation, and you may be working with it at scale.</li>
-<li>Frontend programming with React. If you have this specialty, it’s often in demand on this team, e.g. for delivering new administrative workflows and user onboarding experiences.</li>
-<li>Rust. More and more of our code is being written in Rust, and you may need to fiddle with it at some point.</li>
-<li>Kotlin and Java Swing, since one of our flagship Cody clients is IntelliJ, and it is often in need of Enterprise-specific features to help close large deals.</li>
-<li>Plugin development with Neovim or Emacs. Our Strat customers come in all shapes and sizes.</li>
-</ul>
-<h2><span style="color: rgb(140, 51, 236);"><strong>Level</strong></span></h2>
-<p>📊 This job is an IC2.&nbsp; You can read more about <a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/leveling-guide/">our job leveling philosophy</a> in our Handbook.</p>
-<h2><span style="color: rgb(140, 51, 236);"><strong>Compensation</strong></span></h2>
-<p><strong>💸 We pay you an above-average salary</strong> because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. You will have the flexibility to work and live anywhere in the world<em> (unless specified otherwise in the job description)</em>, and we’ll never take your location or current/past salary information into account when determining your compensation.&nbsp; As an <a href="https://handbook.sourcegraph.com/company-info-and-process/values/#sts=Open%20and%20transparent">open and transparent </a>company that values equitable and competitive compensation for everyone, our <a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/">compensation ranges are visible</a> to every single Sourcegraph Teammate. To determine your salary, we use a number of market and data-driven salary sources and target the high-end of the range, ensuring that we’re always paying above market regardless of where you live in the world.&nbsp;&nbsp;</p>
-<p>💰The target compensation for this role is $141,500 USD base.</p>
-<p>📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous <a href="https://handbook.sourcegraph.com/benefits-pay-perks/benefits-perks/">perks &amp; benefits</a>.</p>
-<h2><span style="color: rgb(140, 51, 236);"><strong>Interview process</strong></span></h2>
-<p><em>Below is the interview process you can expect for this role (you can read more about </em><a href="https://handbook.sourcegraph.com/talent/types_of_interviews"><em>the types of interviews</em></a><em> in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&nbsp;</em></p>
-<p>We expect the interview process to take 5.5 hours in total.<br><br></p>
-<p><strong>👋 Introduction Stage</strong> - we have initial conversations to get to know you better…</p>
-<ul>
-<li>[30m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#recruiter-screen">Recruiter Screen</a>&nbsp;</li>
-<li>[60m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process_candidates/#technical-interview">Peer Technical Interview</a> / <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive">Resume Deep Dive</a></li>
-</ul>
-<p><strong>🧑‍💻 Team Interview Stage</strong> - we then delve into your experience in more depth and introduce you to members of the team…</p>
-<ul>
-<li>[60m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process_candidates/#code-walkthrough">Code Walkthrough</a></li>
-<li>[60m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process_candidates/#pairing-exercise">Pairing Exercise</a></li>
-<li>[30m] Stakeholders Interview</li>
-<li>[30m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#values-interview">Values Interview</a></li>
-</ul>
-<p><strong>🎉 Final Interview Stage </strong>- we move you to our final round, where you gain a better understanding of our business and values holistically…</p>
-<ul>
-<li>[60m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#hiring-manager-screen">Hiring Manager Interview</a></li>
-<li>[30m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#leadership-interview">Leadership Interview</a> with co-founder&nbsp;</li>
-<li>We check references and conduct your background check</li>
-</ul>
-<p>Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.</p>
-
-    
-
-    <div class="content-conclusion"><h2><span style="color: #a112ff;">Not sure if this is you?</span></h2>
-<p><span style="font-weight: 400;">We want a diverse, global team, with a broad range of experience and perspectives. If this job sounds great, but you’re not sure if you qualify, apply anyway! We carefully consider every application, and will either move forward with you, find another team that might be a better fit, keep in touch for future opportunities, or thank you for your time.</span></p>
-<h2><span style="color: #a112ff;">Learn more about us</span></h2>
-<p><span style="font-weight: 400;">To create a product that serves the needs of all developers, we are building a diverse </span><a href="https://handbook.sourcegraph.com/company-info-and-process/remote"><span style="font-weight: 400;">all-remote team</span></a><span style="font-weight: 400;"> that is </span><a href="https://handbook.sourcegraph.com/team"><span style="font-weight: 400;">distributed across the world</span></a><span style="font-weight: 400;">. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.&nbsp;</span></p>
-<p><span style="font-weight: 400;">We provide </span><a href="https://about.sourcegraph.com/handbook/people-ops/compensation"><span style="font-weight: 400;">competitive compensation</span></a><span style="font-weight: 400;"> and </span><a href="https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks"><span style="font-weight: 400;">practical benefits</span></a><span style="font-weight: 400;"> to keep you happy and healthy so that you can do your best work.&nbsp;</span><span style="font-weight: 400;">&nbsp;</span></p>
-<p><span style="font-weight: 400;">Learn more about what it is like to work at Sourcegraph by reading </span><a href="https://about.sourcegraph.com/handbook/"><span style="font-weight: 400;">our handbook</span></a><span style="font-weight: 400;">.</span></p>
-<p><span style="font-weight: 400;">We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process.</span></p>
-<p><span style="font-weight: 400;">Go back to the </span><a href="https://about.sourcegraph.com/jobs/"><span style="font-weight: 400;">careers page</span></a><span style="font-weight: 400;"> for all open positions.</span></p>
-<p>&nbsp;</p>
-<p><em><span style="font-weight: 400;">Sourcegraph participates in <a href="https://handbook.sourcegraph.com/departments/people-talent/e-verify/" target="_blank">E-Verify</a> for U.S. Employees</span></em></p></div>
-
                 </details>
                 </td>
             </tr>,<tr>
@@ -945,7 +662,7 @@
 <p>As an Engineering Manager on the Foundations team, you must be passionate about the future of Ubuntu, mindful of the dynamics of the open source ecosystem, and equally aware of the needs of enterprise technologists. You will work closely with product managers to define and deliver the Ubuntu roadmap.</p>
 <p>Your primary responsibility is to your team: helping them grow as engineers, do important and satisfying work, and have a great time while doing it. Technical leadership experience and a background in software engineering are necessary prerequisites for this role. You will be expected to lead, challenge, and develop strong engineers, positively influence the culture, facilitate technical delivery, and work with your team on strategy and execution.</p>
 <p>This Engineering Management role is an opportunity for a technologist with a passion for Linux and Ubuntu to build a career with Canonical and drive the success of the business. If you have an affinity for open source development, then you will enjoy working with some of the best people in the industry at Canonical.</p>
-<h3>What you'll do</h3>
+<p><strong>What you'll do</strong></p>
 <ul>
 <li>Demonstrate sound engineering principles through architecture, development and code reviews</li>
 <li>Be responsible for planning, estimation and execution</li>
@@ -959,7 +676,7 @@
 <li>Be an active part of the leadership team and collaborate with other leaders in the organization</li>
 <li>Work from home with international travel up to 6 weeks per year for internal and external events</li>
 </ul>
-<h3>Valued skills and experience</h3>
+<p><strong>Valued skills and experience</strong></p>
 <ul>
 <li>Deep knowledge of Debian/Ubuntu architecture</li>
 <li>Good understanding of Debian packaging policy, tools and techniques</li>
@@ -970,9 +687,25 @@
 <li>A love of developing and growing people and a track record of doing it</li>
 <li>Experience working in an agile development environment</li>
 </ul>
-<h3>Canonical is an equal opportunity employer</h3>
-<p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration</a>.</em></p>
-<p>#LI-Remote #stack</p>
+<p><strong>What we offer you</strong></p>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<p><strong>About Canonical</strong></p>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<p><strong>Canonical is an equal opportunity employer</strong></p>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote</p>
     
                 </details>
                 </td>
@@ -1721,6 +1454,30 @@
 <p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your <a href="https://canonical.com/careers/diversity/identity">identity</a> we will give your application fair consideration.</em></p>
 <p>#LI-remote</p>
     
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1545121577632763912/7FMnABb0_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Collabora</h5>
+                    <h3>Senior C++ Software Engineer (Remote/Anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/collabora/afb6f2ea-9c39-498c-863c-82764ea247a0" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt">Collabora Productivity Ltd. is a software company specialising in bringing the innovation created in Open Source projects such as LibreOffice to the market, along with services, long term support and software consultancy. We combine years of open source software leadership with an understanding of the challenges that businesses, non-profits, and governments face.</span></div><div><br></div><div><span style="font-size: 11pt">Collabora Productivity brings deep technical expertise around the Office space, from our preferred Open Document format to many other, including legacy, document formats such as OpenXML and Microsoft binary formats, using modern technologies like C++ 17.</span></div><div><br></div><div><br></div></div><div class="section page-centered"><div><h3>Key Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Root cause analysis and fixing of document interoperability issues</li><li>Analysing client problems, designing, and implementing solutions leveraging open source technologies and communicating the solutions in a compelling fashion</li><li>Annual conference attendance to present progress made to the Open Source community</li><li>Self starting analysis of limited project descriptions, ability to break complex tasks down into smaller deliverables, execute and report progress against these</li><li>Assistance in estimation of project costs</li><li>Implementation of features based on unclear customer input to exceed their expectations</li><li>Communication with the community, other team members, and customers using mailing 	lists, chats, phone and video conference</li><li>Capacity to travel a few times per year worldwide</li><li>Reliable and timely delivery of quality solutions to clients and internal customers</li><li>Development of strong relationships with key personnel, decision makers and customers</li></ul></ul></div></div><div class="section page-centered"><div><h3>Commercial Skills</h3><ul class="posting-requirements plain-list"><ul><li>Understanding client needs and reconciling time constraints, available technologies and resources and open source best practices</li><li>Ability to work in a global context with clients and engineers spanning continents</li><li>Knowledge of customers’ organization, management, product, target market, applications and decision making internal process 	</li></ul></ul></div></div><div class="section page-centered"><div><h3>Technical Skills</h3><ul class="posting-requirements plain-list"><ul><li>Large scale C++ development experience, on projects of &gt; 1 million lines of code</li><li>LibreOffice development experience preferred</li><li>Excellent code reading skills</li><li>Office Suite, file format and binary file format reverse engineering experience a plus</li><li>Good interpersonal skills, along with knowledge of open source 	development methodologies and good standing in the open source community</li><li>Significant demonstrable contributions to components in the open source ecosystem</li><li>BS/BA or extensive experience in the role of Software Engineer </li><li>Experience of unit testing</li><li>Cross-platform aware, deep knowledge of either Linux, MS Windows, or OSX, and some knowledge of one more platform (Cygwin knowledge helpful if MS Windows is the core skill)</li><li>Experience with Android, iOS or another mobile operating system a bonus</li><li>Casual scripting in Perl / Python / BASH or other language(s)</li><li>Version control systems – ideally knowledge of git</li></ul></ul></div></div><div class="section page-centered"><div><h3>Personal Skills</h3><ul class="posting-requirements plain-list"><ul><li>Highly self motivated, reliable with a demonstrable passion for Open Source and the office domain</li><li>Able to work from home office, managing own time effectively</li><li>Self learning skill to get sufficient knowledge of Collabora's services, 	business model, project delivery lifecycle and other related technical domains</li><li>Good interpersonal skills</li><li>Winsome presentation skills appreciated</li><li>Good English language skills (both verbal and written) </li><li>German language skills a bonus</li><li>Ability to work and communicate in an online distributed environment</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/afb6f2ea-9c39-498c-863c-82764ea247a0/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
