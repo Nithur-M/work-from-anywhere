@@ -96,7 +96,7 @@
                 </td>
                 <td width="300">
                     <h5>Sourcegraph</h5>
-                    <h3>Software Engineer - Release</h3>
+                    <h3>Software Engineer - Release [IC3] </h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -215,7 +215,7 @@
                 </td>
                 <td width="300">
                     <h5>Sourcegraph</h5>
-                    <h3>Software Engineer - Search Suite</h3>
+                    <h3>Software Engineer - Search Suite [IC2]</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -573,6 +573,88 @@
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
+                    <h3>Juju Software Engineer (Go)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/5566667" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p><strong>The role of a Software Engineer at Canonical</strong></p>
+<p>As a software engineer on the team, you'll be contributing to the development of Juju, a large open-source Go project that powers complex distributed software systems across the world.</p>
+<p>Juju is the engine behind model-driven operations, providing a means to operate complex software on public cloud, private cloud, Kubernetes, and bare-metal. Combined with the Ops framework, Juju provides a complete solution for applications and infrastructure management.</p>
+<p>Many internal and external teams depend on Juju to deliver their products and services - from Canonical Managed Solutions, our OpenStack and cloud delivery teams, to Fortune 500 companies.</p>
+<p><strong>Location: </strong>This is a Globally remote role.</p>
+<p><strong>What your day will look like</strong></p>
+<ul>
+<li>Contribute to the design, delivery, and support of features in a highly concurrent, highly distributed system that drives cloud automation and software operations at scale.</li>
+<li>Collaborate proactively with a distributed team</li>
+<li>Debug issues and interact with upstream communities publicly</li>
+<li>Work with helpful and talented engineers including experts in many fields</li>
+<li>Discuss ideas and collaborate on finding good solutions</li>
+<li>Work from home with global travel for 2 to 4 weeks per year for internal and external events&nbsp;</li>
+</ul>
+<p><strong>What we are looking for in you</strong></p>
+<ul>
+<li>Experience developing software using Go.</li>
+<li>Excellent communication skills in the English language, both verbal and written, especially in online environments</li>
+<li>An exceptional academic track record from both high school and preferably university</li>
+<li>Willingness to travel up to 4 times a year for internal events</li>
+</ul>
+<p><strong>Additional skills that you might also bring</strong></p>
+<p>The following skills may be helpful to you in the role, but we don't expect everyone to bring all of them.</p>
+<ul>
+<li>Hands-on experience developing highly concurrent distributed systems</li>
+<li>Experience with container technologies (Docker, LXD, Kubernetes, etc.)</li>
+<li>Solid networking background and experience</li>
+<li>Experience with agile software development methodologies</li>
+<li>Experience in the Linux and open-source software world</li>
+<li>Experience with configuration management software (Ansible, Chef, Puppet, et al.)</li>
+<li>Working knowledge of cloud computing</li>
+<li>Experience with software packaging (Debian, snaps)</li>
+<li>Programming with, and operating, SQL and NoSQL databases</li>
+<li>Experience working on a distributed team on an open source project -- even if that is community open source contributions.</li>
+<li>Demonstrated track record of Open Source contributions</li>
+<li>Prior experience developing plugins for Terraform</li>
+</ul>
+<p><strong>What we offer you</strong></p>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<p><strong>About Canonical</strong></p>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<p><strong>Canonical is an equal opportunity employer</strong></p>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
+
+<p>#LI-remote&nbsp;</p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
                     <h3>Linux Server Software Engineering Manager</h3>
                 </td>
                 <td width="300">
@@ -811,6 +893,90 @@
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
+                    <h3>Senior Juju Software Engineer (Go)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/5566674" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p><strong>The role of a Senior Software Engineer at Canonical</strong></p>
+<p>As a senior software engineer, you'll be an integral part of the team, driving process improvement, assisting the manager in running the team, coaching and developing colleagues with less experience, as well as owning functional areas from design and implementation all the way to support and maintenance.&nbsp;</p>
+<p>Juju is the engine behind model-driven operations, providing a means to operate complex software on public cloud, private cloud, Kubernetes, and bare-metal. Combined with the Ops framework, Juju provides a complete solution for applications and infrastructure management.</p>
+<p>Many internal and external teams depend on Juju to deliver their products and services - from Canonical Managed Solutions, our OpenStack and cloud delivery teams, to Fortune 500 companies.</p>
+<p><strong>Location: </strong>This is a Globally remote role.</p>
+<p><strong>What your day will look like</strong></p>
+<ul>
+<li>Own the design, delivery, and support of features in a highly concurrent, highly distributed system that drives cloud automation and software operations at scale.</li>
+<li>Collaborate proactively with a distributed team</li>
+<li>Debug issues and interact with upstream communities publicly</li>
+<li>Work with helpful and talented engineers including experts in many fields</li>
+<li>Discuss ideas and collaborate on finding good solutions</li>
+<li>Coach and develop team members with less experience, actively contributing to building and maintaining a first-class engineering team.</li>
+<li>Work from home with global travel for 2 to 4 weeks per year for internal and external events&nbsp;</li>
+</ul>
+<p><strong>What we are looking for in you</strong></p>
+<ul>
+<li>Proven track record of professional software delivery using Go.</li>
+<li>Hands-on experience developing highly concurrent distributed systems</li>
+<li>Excellent communication skills in the English language, both verbal and written, especially in online environments</li>
+<li>An exceptional academic track record from both high school and preferably university</li>
+<li>Experience with agile software development methodologies</li>
+<li>Willingness to travel up to 4 times a year for internal events</li>
+</ul>
+<p><strong>Additional skills that you might also bring</strong></p>
+<p>The following skills may be helpful to you in the role, but we don't expect everyone to bring all of them.</p>
+<ul>
+<li>Experience with container technologies (Docker, LXD, Kubernetes, etc.)</li>
+<li>Experience doing development in C, C++, Rust, or other low-level programming languages.</li>
+<li>Solid networking background and experience</li>
+<li>Experience in the Linux and open-source software world</li>
+<li>Experience with configuration management software (Ansible, Chef, Puppet, et al.)</li>
+<li>Working knowledge of cloud computing</li>
+<li>Passionate about software quality and testing</li>
+<li>Experience with packaging (Debian, snaps)</li>
+<li>Programming with, and operating, SQL and NoSQL databases</li>
+<li>Experience working on a distributed team on an open source project -- even if that is community open source contributions.</li>
+<li>Demonstrated track record of Open Source contributions</li>
+<li>Prior experience developing plugins for Terraform</li>
+</ul>
+<p><strong>What we offer you</strong></p>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<p><strong>About Canonical</strong></p>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<p><strong>Canonical is an equal opportunity employer</strong></p>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote&nbsp;</p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
                     <h3>Senior Software Engineer</h3>
                 </td>
                 <td width="300">
@@ -884,77 +1050,6 @@
 
 <p>#LI-Remote</p>
 
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Senior Software Engineer - Go</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/2824997" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>Design, develop and contribute to a mature distributed systems Go code base. We're looking for experienced Go developers who can show strong technical leadership and engineering rigour. Own the design, delivery and support of features in a highly concurrent, highly distributed system that drives cloud automation and software operations at scale. </p>
-<p>As a software engineer on the <a href="https://juju.is">Juju</a> team, you'll be working on a large open source Go project that powers complex distributed software systems across the world. Juju is the engine behind model-driven operations, providing a means to operate complex software on public cloud, private cloud, Kubernetes and bare-metal. Combined with the Charmed Operator framework, Juju provides a complete solution for applications and infrastructure management. </p>
-<p>If you love solving interesting technical challenges in elegant, high-performance ways, come join our globally-distributed team of software engineers in building the future of the software-defined datacenter on the Ubuntu platform. </p>
-<p>Many internal and external teams depend on Juju to deliver their products and services - from Canonical Infrastructure Services, our Openstack and cloud delivery teams, to Fortune 500 companies</p>
-<h2>What we are looking for in you</h2>
-<ul>
-<li>Proven track record of professional software delivery using Go, C, C++ or similar.</li>
-<li>Hands-on experience developing highly concurrent distributed systems</li>
-<li>Experience with container technologies (Docker, LXD, Kubernetes, etc.)</li>
-<li>Solid networking background and experience</li>
-<li>Degree level education in a technology field&nbsp;&nbsp;</li>
-<li>Experience with agile software development methodologies</li>
-<li>Experience of the Linux and free software world</li>
-<li>Working knowledge of cloud computing and experience with highly-concurrent distributed systems<br></li>
-<li>Excellent communications skills in the English language, both verbal and written, especially in online environments</li>
-<li>Ability to effectively interact with a diverse group of people (both technical and non-technical)</li>
-<li>Ability to be productive in a globally distributed team through self-discipline and self-motivation, delivering according to a schedule, and to motivate and mentor others to do the same</li>
-</ul>
-<h2>Additional skills that you might also bring</h2>
-<ul>
-<li>Passionate about software quality and testing</li>
-<li>Experience with packaging (debian, snappy)</li>
-<li>Programming with and operating MongoDB</li>
-<li>Experience working on a distributed team on an open source project -- even if that is outside work open source contributions.</li>
-<li>Demonstrated track record of Open Source contributions</li>
-</ul>
-<h2>What we offer you</h2>
-<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.&nbsp;&nbsp;</p>
-<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.</p>
-<ul>
-<li>Fully remote working environment - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of 2,000USD per annum</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Parental Leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues at ‘sprints’</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote&nbsp;</p>
     
                 </details>
                 </td>
@@ -1400,6 +1495,85 @@
 <p>Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, “the world’s best free software platform”. Our mission is to realise the potential of free software in the lives of individuals and organisations. Our services are helping individuals and businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.</p>
 <p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity</a> we will give your application fair consideration.<br></em></p>
 <p>#LI-Remote #Stack</p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Software Engineer - Solutions Engineering</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/3290946" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>Help us shape the future of open source IT, devops, and IS, from bare metal to containers. Our goal is to revolutionise open source application and infrastructure operations.</p>
+<p>We want to transform the world of software operations by enabling true model-driven operations via next-generation infrastructure-as-code. This will allow companies to run very efficient bare-metal operations for high-performance computing, private cloud, data lakes, AI/ML, and analytics. We need to invent some new technology, and we need to build some new products; we are therefore looking for someone who can lead and inspire a regional software engineering team to fulfill this initiative.</p>
+<p>The Solutions Engineering team works in close collaboration with our managed infrastructure operations team, which runs many private OpenStack clouds and Kubernetes clusters for customers around the world. This enables us to improve our infra-as-code products based on our own real experience, mirroring that of our users and customers. We work in Python, creating open source automation capabilities that simplify operations for anybody, anywhere, who is building on Ubuntu.</p>
+<p>Most of the team's work involves pure Python software development focused on enabling true DevOps workflows. We strive for high quality in both design, documentation, tests, and performance as we enhance operations code packages and Ubuntu itself in order to ensure our platform is the easiest, most robust, and best performing for driving your infrastructure.</p>
+<p>This role is ideal for software engineers who want to work in a global team, have a passion for distributed systems and cloud computing, and an interest in the entire Linux stack - from kernel to networking to virtualization and containers.</p>
+
+<h3>What you’ll do</h3>
+<ul>
+<li>Work in Python and Golang to design and deliver open source software operations code</li>
+<li>Work with the entire Linux stack, from kernel, networking, storage, to applications</li>
+<li>Shape high quality open source monitoring and alerting infrastructure</li>
+<li>Rethink open source operations for our customers and open source community</li>
+<li>Demonstrate sound engineering design and testing principles in your code</li>
+<li>Follow agile software development practices</li>
+<li>Coach and develop your colleagues where you have insights</li>
+<li>Grow a healthy, collaborative engineering culture in line with the company values</li>
+<li>Global travel up to 10% of time for internal and external events</li>
+</ul>
+<h3>Who you are</h3>
+<ul>
+<li>You are a passionate Python developer</li>
+<li>You are organised and want your team to deliver timely, high quality software</li>
+<li>You understand the importance of reliable operations in an agile world</li>
+<li>You have sound knowledge of cloud computing concepts &amp; technologies</li>
+<li>You have practical knowledge of Linux and networking</li>
+<li>You are a lifelong learner</li>
+</ul>
+<h3>Bonus points for</h3>
+<ul>
+<li>You have graduated with a university degree in Computer Science or related software engineering field</li>
+<li>Golang programming skills</li>
+</ul>
+<h3>What you will learn</h3>
+<ul>
+<li>OpenStack and Kubernetes in production</li>
+<li>Thinking rigorously about application and infrastructure reliability</li>
+<li>Wide range of open source applications and skills</li>
+<li>Real-life and hands-on exposure to a wide range of emerging technologies and tools</li>
+</ul>
+<h3>We offer:&nbsp;</h3>
+<ul>
+<li>100% work-from-home</li>
+<li>Learning and development</li>
+<li>Competitive salary</li>
+<li>Recognition rewards</li>
+<li>Annual leave</li>
+<li>Priority Pass for travel</li>
+</ul>
+<h2><strong>About Canonical</strong></h2>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h2><strong>Canonical is an equal opportunity employer</strong></h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#Stack</p>
     
                 </details>
                 </td>
