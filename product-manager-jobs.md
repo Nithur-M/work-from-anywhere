@@ -10,7 +10,7 @@
                     <code>saas,UI/UX,video,Figma</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/product-manager-1852074" align="right" target="_blank">Apply</a>
