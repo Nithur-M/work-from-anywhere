@@ -1,53 +1,59 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1863208/logo" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1863207/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Nitka</h5>
-                    <h3>Database Developer</h3>
+                    <h3>Rust Developer</h3>
                 </td>
                 <td width="300">
-                    <code>sql,research,trading,performance optimization</code>
+                    <code>api,go,python,react</code>
                 </td>
                 <td width="200">
                 <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/data/database-developer-1863208" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/rust-developer-1863207" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p><strong>Nitka Technologies</strong>'s developing software for customers in the US and Europe and brings together about 300 professionals from Eastern Europe, North and South America, Armenia, Georgia and Kazakhstan.</p>
-<p>We are looking for an experienced<strong> Database Developer </strong>on a long-term project.  </p>
-<p>In this position you will be working on a challenging project of transforming complex distributed system used by one of a large equity trading companies in USA from desktop to web platform. Our customer is a<strong> leading global investment-management and research firm </strong>that offers independent research, portfolio strategy and brokerage-related services tailored to their clients’ unique needs.</p>
-<p>You will work closely with team in United States applying your expertise to develop robust, scalable, resilient solution. You will communicate directly with developers and management of a client discussing project related topics.</p>
-<p><strong>We offer 100% full-time remote work with a flexible schedule.</strong></p>
-<p><strong>Responsibilities:</strong></p>
+<p>We are looking for an experienced<strong> Rust (CosmWasm) Blockchain Developer</strong> to work at DeFi blockchain project. We offer fresh technologies, interesting tasks, ambitious team. </p>
+<p><strong>Main task:</strong> Development of the Cosmos SDK based blockchain with a DeFi protocol on it.</p>
+<p><strong>Project is a startup with a work in the following areas:</strong></p>
 <ul style="">
-<li style="">Maintenance, user Support and development of Middle Office application called TPS (Trading Processing System).</li>
-<li style="">Migration from Sybase to MSSQL.</li>
-<li style="">Analyze existing systems along with peers and put together requirements for new features or enhancements.</li>
-<li style="">Work with Systems Support teams to resolve user issues</li>
+<li style="">Blockchain protocol development (Go)</li>
+<li style="">Off-chain tools development (Go, Python, Typescript)</li>
+<li style="">CosmWasm smart contracts development (Rust)</li>
+<li style="">Web UI development (Typescript, React)</li>
+<li style="">Infrastructure configuration (GCP, Terraform)</li>
+<li style="">Monitoring tools development (Grafana, Prometheus)</li>
 </ul>
-<p><strong>Requirements:</strong></p>
+<p><strong>What you could work on:</strong></p>
 <ul style="">
-<li style="">Strong knowledge of SQL</li>
-<li style="">On hands knowledge of T-SQL</li>
-<li style="">Experience as database architect</li>
-<li style="">Experience with DB level performance optimization</li>
-<li style="">Spoken English at Intermediate level and above for communication with the customer and the team</li>
-<li style="">Experience with Sybase is a plus</li>
+<li style="">Integration support for partner protocols, wallets, custodians, exchanges and so on.</li>
+<li style="">Produce high quality technical documentation e.g. API docs, cookbooks, code examples and tutorials</li>
+<li style="">Engaging developers on discord channels for dev support</li>
+</ul>
+<p><strong>Skills required</strong>:</p>
+<ul style="">
+<li style="">Smart Contract Development experience in Rust, Cosm-Wasm</li>
+<li style="">Familiar with Cosmos-SDK</li>
+<li style="">Strong spoken and written English skills (Upper Intermediate level and more)</li>
+<li style="">We are looking for a sociable, communicable, easy-going person</li>
 </ul>
 <p><strong>Working conditions:</strong></p>
 <ul style="">
 <li style="">Remote work</li>
 <li style="">Full-time (8 hours/day)</li>
-<li style="">Flexible schedule </li>
+<li style="">Interaction with a team from the USA (а few times a week calls're in the evening, around 19:00 - 21:00 GTM+3 (morning on the US West Coast))</li>
+<li style="">Flexible schedule without time trackers</li>
 <li style="">Attractive USD compensation</li>
 <li style="">Paid vacation, holidays</li>
-</ul><img src="https://remotive.com/job/track/1863208/blank.gif?source=public_api" alt=""/>
+</ul>
+<p> </p><img src="https://remotive.com/job/track/1863207/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -62,7 +68,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -139,7 +145,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                     <code>api,backend,CSS,frontend</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/lead-wordpress-developer-for-fast-growing-pet-company-1854159" align="right" target="_blank">Apply</a>
