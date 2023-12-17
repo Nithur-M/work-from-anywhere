@@ -307,7 +307,7 @@
 <p><strong>👋 Introduction Stage</strong> - we have initial conversations to get to know you better…</p>
 <ul>
 <li>[30m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#recruiter-screen">Recruiter Screen</a> with Devon Coords</li>
-<li>[60m] <a href="https://about.sourcegraph.com/handbook/talent/types_of_interviews#peer-interview">Peer</a> / <a href="https://about.sourcegraph.com/handbook/talent/types_of_interviews#resume-deep-dive">Resume Deep Dive</a> with Camden Cheek</li>
+<li>[60m] T<a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process_candidates/#technical-screen--resume-deep-dive">echnical Screen / Resume Deep Dive</a> with Camden Cheek</li>
 </ul>
 <p><strong>🧑‍💻 Team Interview Stage</strong> - we then delve into your experience in more depth and introduce you to members of the team, including cross-functional partners…</p>
 <ul>
