@@ -5,7 +5,7 @@
                 <td width="300">
                     <h5>DuckDuckGo</h5>
                     <h3>
-            Senior UX Writer
+            Senior UX Writer (Worldwide Remote)
           </h3>
                 </td>
                 <td width="300">
@@ -35,7 +35,7 @@
 <p><br></p>
 <p><strong>What You Will Bring to DuckDuckGo</strong> </p>
 <ul>
-<li>At least four years of UX writing experience. </li>
+<li>At least five years of UX writing/copywriting experience. </li>
 <li>Ability to lead and collaborate on high-impact and complex projects from proposal through postmortem.  </li>
 <li>Skills to wrangle vague problems, propose innovative solutions, and execute them with a strong focus on metrics. </li>
 <li>Proven success in moving product, design, and brand team KPIs through increased user adoption, retention, and engagement. </li>
@@ -83,7 +83,7 @@
 <li>A successful candidate will be subject to a background check and must receive satisfactory results of the same, as a condition of joining the team. </li>
 <li>By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.  </li>
 </ol>
-<p><br></p>
+<p>#US #CN #UK #AU</p>
           
                 </details>
                 </td>
