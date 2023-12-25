@@ -10,7 +10,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -87,7 +87,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                     <code>api,backend,CSS,frontend</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/lead-wordpress-developer-for-fast-growing-pet-company-1854159" align="right" target="_blank">Apply</a>
@@ -836,54 +836,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div>Collabora is looking for a passionate and enthusiastic open-source software developer, with good knowledge of at least one of OpenGL or Vulkan, to join our ever growing geographically-distributed Graphics domain team.</div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li>Good knowledge of at least one of the OpenGL or Vulkan APIs</li><li>Experience developing on Linux systems</li><li>Knowledge of open source development methodologies and relevant open source communities</li><li>Good English language skills (both verbal and written)&nbsp;</li><li>Ability to work and communicate in an online fully distributed environment </li></ul></ul></div></div><div class="section page-centered"><div><h3>Desirable Skills (The below are skills that to some degree will be useful at the start of your career within Collabora. Training and opportunities for development will be offered)</h3><ul class="posting-requirements plain-list"><ul><li>Experience profiling and optimizing application's use of the GPU</li><li>Experience with developing GPU compilers</li><li>Direct contributions to the Mesa 3D Graphics Library</li><li>Experience leading teams to understand and define constraints, requirements and solutions</li><li>Good communication with customers and upstream communities</li><li>Self-learning skills to get sufficient knowledge of Collabora's services,&nbsp;business model, project delivery life cycle and other related technical domains</li><div><br></div></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Collabora's Graphics team contributes to the entire Linux Graphics stack, from the Linux kernel up to the display servers, including but not  limited to GPU and display kernel drivers, Wayland/Weston, OpenGL, Vulkan and other open-source graphics drivers within the Mesa 3D Graphics Library for different customers’ projects in various market verticals.</div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/bd4a9eb8-528f-4553-a832-ca6949ab46bd/apply">Apply for this job</a></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Full Stack Developer (Python) - Internal Projects & AI - Remote</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/5AC92872CE" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We are seeking a highly skilled and motivated Full Stack Developer with strong analytical skills and expertise in Python and JavaScript to join our team. In this role, you will be working on various internal projects, including projects involving the integration of systems and the use of OpenAI to automate aspects of work. Most projects will be small in scope, and the ability to write clear, easy-to-understand code and complete projects quickly is essential. You will be talking directly with stakeholders, and figuring out the best way to solve the problem. You will go for "works well enough" instead of perfection. Quick, prototype quality work will be preferred to fully engineered projects</p><p>As a Full Stack Developer at our company, you will play a crucial role in developing innovative solutions to help optimize internal processes and replace manual tasks with automated solutions. <br></p><p><strong>As our Full Stack Developer you will;</strong></p><ul> <li>Design, develop, and maintain Python and JavaScript applications for internal projects</li> <li>Talk to stakeholders, and figure out the best way to solve their problems</li> <li>Integrate various systems and work on projects involving the use of OpenAI to automate tasks</li> <li>Write clear, well-structured, and maintainable code that is easy to understand and modify</li> <li>Collaborate with cross-functional teams to develop innovative solutions and optimize internal processes</li> <li>Participate in code reviews to ensure high-quality code and identify areas for improvement</li> <li>Ensure projects are completed quickly and efficiently without compromising quality</li> </ul><h3>Requirements: </h3><ul> <li>Strong analytical and communication skills</li> <li>Ability to pinpoint the problem and come up with the solution</li> <li>Strong expertise in Python and JavaScript programming languages</li> <li>Proficiency in Git for version control</li> <li>Experience with shell scripting and Linux operating system</li> <li>Ability to communicate effectively in English, both in writing and verbally</li> <li>Demonstrated problem-solving skills and ability to work independently as well as in a team environment</li> <li>Quick learner</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> </li> <li>Flexible working hours</li> <li>Paid 24 days of vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Senior Python Developer AI/ML/NLP - REMOTE/Work Anywhere</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/10E2D9BB03" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>CloudLinux stands as a pioneering remote-first entity, deeply committed to its core values: integrity, employee-centricity, embracing remote work, and delivering cost-effective, high-performance Linux infrastructure and security products. Our team is united in mutual support, striving for collective success and fostering a thriving work environment. Discover more at Cloudlinux.com.</p><p>We seek 3 people for this role who will be instrumental in building our team. </p><p></p><p>We are looking for someone who embodies our&nbsp;<strong>company values</strong>:</p><ul> <li> <strong>Curious:</strong>&nbsp;Be willing to do research and design experiments by being hands-on</li> <li> <strong>Tenacious:</strong>&nbsp;Creating something new is hard work, and our Analytics team never gives up</li> <li> <strong>Customer Passion:</strong>&nbsp;Be the backbone of our solution and help us stay ahead of malware developers.</li> <li> <strong>Design for Scale:</strong>&nbsp;Work with the rest of the analytics and engineering team to make web-protection at scale possible</li> <li> <strong>Agile:</strong>&nbsp;Some days you may spend researching and designing experiments while others are spent using your analytical toolbox to surface insights into real-time incidents and file infection.</li> <li> <strong>Roll Up Your Sleeves:</strong>&nbsp;Partner closely internally to learn from others, and succeed as a team.</li> </ul><p></p><p><strong>How you’ll have an impact:</strong></p><ul> <li>Develop automation services using AI/ML/NLP and Large Language Model integrations (code generation, code review, workflow automation) to streamline the company's workflows.</li> <li>Design and prototype new algorithms for code generation, code analysis, and code review with a touch of AI. </li> <li>Review and enhance Python-based services, and their CI/CD workflows.</li> </ul><p></p><p><strong>The benefits you get:</strong></p><ul> <li> <strong>Independence in Action:</strong> We welcome candidates who thrive on working autonomously, taking projects from inception to completion with a self-driven approach.</li> <li> <strong>End-to-End Ownership:</strong> Ideal for those who enjoy overseeing all aspects of a project, ensuring every detail is handled with care and precision.</li> <li> <strong>Dynamic Environment:</strong> If you excel in rapidly changing contexts and can juggle multiple tasks effectively, this role is for you.</li> <li> <strong>Quick Learners Welcome:</strong> Perfect for individuals who can rapidly assimilate new information and skills, adapting to evolving challenges with ease.</li> <li> <strong>Variety and Challenge:</strong> Suited for those who seek a constantly evolving workload, offering a diverse range of tasks and learning opportunities.</li> </ul><h3>Requirements: </h3><p><strong>Past experience you’ll need:</strong></p><ul> <li>5+ years of experience as a Python developer</li> <li>Ability to read/review ANSI C source code</li> <li>Writing code and reviewing others in a shared codebase in Python</li> <li>Understanding and experience in CI/CD workflow using GitLab and git, and automated testing</li> <li>Familiarity with the Linux command line</li> <li>Ability to speak, read, and write in English C1 or better</li> <li>LLM/NLP/ML expertise would be a plus</li> <li>Practical SQL knowledge would be a plus</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li> Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
                 </details>
                 </td>
             </tr></table>
