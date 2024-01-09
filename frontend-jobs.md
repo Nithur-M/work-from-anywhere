@@ -1,5 +1,31 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1881826/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>B</h5>
+                    <h3>Mid-Senior Frontend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>crypto,frontend,react js,redux</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/mid-senior-frontend-engineer-1881826" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <br><br><div class="h3">Company Description</div><p>Trust Wallet is the world’s most inclusive, chain-agnostic, self-custody wallet that serves tens of millions users globally. Trust Wallet provides a secure, seamless and intuitive gateway to the crypto and NFT ecosystems. Our users are able to send, receive, stake, mint and store across 4.5+ million cryptocurrencies on 66+ blockchains, including Ethereum, BSC, Polygon, Solana, Avalanche, etc. Our developer community of different projects relies on us to reach millions of their users, build their own wallets, and grow crypto adoption.</p><p> </p><p>We are looking for experienced Frontend Engineers passionate about delivering amazing crypto products that people love and motivated to deliver the next generation of Trust Wallet for the web. </p><br><br><div class="h3">Job Description</div><p>Responsibilities:</p><ul style=""><li style=""><ul style=""><li style="">Lead the development of our Chrome Browser Extension, working closely with Product to define the experience</li><li style="">Drive new  initiatives to add support for many blockchains ecosystem features and launch new complementary products</li><li style="">Interfacing directly with end-users and developers</li><li style="">Supporting them and collecting feedback to inform the direction of the product</li></ul></li></ul><br><br><div class="h3">Qualifications</div><p>Qualifications:</p><ul style=""><li style=""><ul style=""><li style="">3-5+ years full-time experience as a front-end developer</li><li style="">1+ years full-time experience in a blockchain based project</li><li style="">Strong ReactJS experience  with TypeScript</li><li style="">Deep understanding of state management and routing with Redux</li><li style="">Experience with QA automation with Cypress and Unit tests with Jest</li></ul></li></ul><br><br><div class="h3">Additional Information</div><p><strong>Working at Trust Wallet</strong></p><ul style=""><li style="">Do something meaningful; Be a part of the future of finance technology and the no.1 company in the industry</li><li style="">Fast moving, challenging and unique business problems</li><li style="">International work environment, flat organization, flexible working hours</li><li style="">Great career development opportunities in a growing company</li><li style="">Possibility for relocation and international transfers mid-career</li><li style="">Competitive salary</li></ul><div></div><p><strong>Why work at Trust Wallet?</strong></p><ul style=""><li style="">Be a part of the world’s leading blockchain ecosystem that continues to grow and offers excellent career development opportunities.</li><li style="">Work alongside diverse, world-class talent, in an environment where learning and growth opportunities are endless.</li><li style="">Tackle fast-paced, challenging and unique projects.</li><li style="">Work in a truly global organization, with international teams and a flat organizational structure.</li><li style="">Enjoy competitive salary and benefits.</li><li style="">Balance life and work with flexible working hours and casual work attire.</li></ul><p>Apply today to join our team in building the world’s most trusted and secure crypto wallet and enable a decentralized future for everyone.<br>
+<br>
+Trust Wallet is committed to being an equal opportunity employer. We believe that having a diverse workforce is fundamental to our success.</p><p><em>By submitting a job application, you confirm that you have read and agree to our <a href="https://trustwallet.com/candidate-privacy-notice" rel="nofollow">Candidate Privacy Notice</a>.</em></p><img src="https://remotive.com/job/track/1881826/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
