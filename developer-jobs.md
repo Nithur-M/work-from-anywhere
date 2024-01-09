@@ -1,5 +1,49 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1882749/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Nitka</h5>
+                    <h3>Solidity Smart Contracts Developer</h3>
+                </td>
+                <td width="300">
+                    <code>blockchain,solidity</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/solidity-smart-contracts-developer-1882749" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Nitka Technologies</strong>'s developing software for customers in the US and Europe and brings together about 300 professionals from Eastern Europe, North and South America, Armenia, Georgia and Kazakhstan.</p>
+<p>We are looking for an experienced<strong> Solidity Smart Contracts Developer </strong>to work<strong> </strong>in the project <span style="font-weight: 400;">in the education sector.</span></p>
+<p><span style="font-weight: 400;"><strong>We offer 100% full-time remote work with a flexible schedule.</strong></span></p>
+<p><span style="font-weight: 400;"><strong>Main task: </strong>The scope of work encompasses the development of smart contracts tailored for educational applications. This includes managing credentials, streamlining payments, automating various aspects of the learning process, and issuing digital certificates. Additionally, the role involves engaging in innovative and challenging tasks aimed at shaping the future of education. The developer will also explore the integration of blockchain technology in enhancing student engagement, tracking academic progress, and facilitating secure and transparent academic record-keeping. This role is pivotal in revolutionizing how educational services are delivered and accessed, leveraging the unique capabilities of blockchain to offer cutting-edge solutions in the educational landscape.</span></p>
+<p><strong>Skills required</strong>:</p>
+<ul style="">
+<li style="">1+ year of development experience in Solidity (Examples of completed works are required)</li>
+<li style="">3+ years of programming experience</li>
+<li style="">Strong spoken and written English skills (Intermediate level and more)</li>
+<li style=""><span lang="ru-BY" style=" line-height: 107%;  mso-ascii-theme-font: minor-latin; mso-fareast- mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi- mso-bidi-theme-font: minor-bidi; mso-ansi-language: #0C00; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Passion to develop blockchain projects</span></li>
+</ul>
+<p><strong>Working conditions:</strong></p>
+<ul style="">
+<li style="">Remote work</li>
+<li style="">Full-time (8 hours/day)</li>
+<li style="">Interaction with a team from the USA (а few times a week calls're in the evening, around 19:00 - 21:00 GTM+3 (morning on the US West Coast))</li>
+<li style="">Flexible schedule without time trackers</li>
+<li style="">Attractive USD compensation</li>
+<li style="">Paid vacation, holidays</li>
+</ul>
+<p> </p><img src="https://remotive.com/job/track/1882749/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1680495/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +54,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -212,7 +256,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
                 <td width="300">
                     <h5>Status</h5>
-                    <h3>Senior Frontend Developer (JS, Typescript, React)</h3>
+                    <h3>Senior Mobile ClojureScript UI Developer </h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -221,7 +265,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=5567968&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=3702173&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -236,44 +280,119 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
 
-    <div class="careers-block__trix external-panel text-left">
-<p><strong>The role:</strong></p>
-<p>We are looking for an experienced React developer to join a small, fully asynchronous team, who will take ownership of certain web-related areas at Status. Your role will not only involve translating high-level designs into production-ready UI, but also collaborating with colleagues across the stack to deliver new features.&nbsp;</p>
-<p>Our stack is built on modern foundations – a monorepo powered by TypeScript, React, Storybook, Vite, Vitest, Playwright, ESLint, Prettier, Yarn Workspaces, and Turborepo. As we work in the open and are fully open-source, you can get a better idea of who we are and the work we are doing by browsing our <a href="https://github.com/status-im/status-web">Status Web</a> repository. We strive to build solid foundations that will enable us to continuously make progress. We don't expect you to have a background in everything we use, but we do expect strong JavaScript fundamentals and experience working with React and TypeScript.</p>
-<p>We function as generalists, often undertaking a variety of challenges, and deeply care about the quality of our work. We look forward to collaborating with experienced individuals who can operate independently, make important decisions, and take ownership.</p>
-<p><strong>Key responsibilities:&nbsp;</strong></p>
-<ul>
-<li>Building new features with beautiful and scalable UI components from start to finish</li>
-<li>Building and maintaining the new React implementation of Status’ design system</li>
-<li>Collaborating with other people across the teams</li>
-<li>Gathering feedback from users and developers to better understand their needs</li>
+    <p class="p1"><strong>The role</strong></p>
+<p class="p1">We're growing our mobile development team. Join us in building a fully decentralized, censorship resistant, privacy first group chat platform that leverages the Ethereum blockchain to enable individuals and groups worldwide to communicate and transact with one another freely without restriction.</p>
+<p class="p1">Status is looking for a Clojure UI Engineer to join our mobile development team who will work closely with Design to transform UI specifications into beautiful, smooth, performant and near pixel perfect interactive interfaces. The ideal person will be comfortable working on features end-to-end, has an eye for design and visual detail, enjoys working with designers as well as developers, and who can transform reused UI patterns such as list items into reusable UI components. &nbsp;The ideal candidate will love finessing UI implementations to the highest levels of quality and will care deeply about things like code cleanliness, reusability, maintainability, performance, and UI layout accuracy - as well as doing whatever needed to create a best-in-class user experience for Status’s users.</p>
+<p class="p1">Willingness to both learn and share your knowledge with others, product-orientation, and making sure all team members are aligned when developing new features, will make you successful in the role. Status is a fast-paced, flat organization, working on cutting edge blockchain and decentralized messaging technologies in a dynamic landscape. We look forward to meeting you!</p>
+<p class="p1"><strong>Key responsibilities:</strong></p>
+<ul class="ul1">
+<li class="li1">Implement new features end to end.&nbsp;</li>
+<li class="li1">Collaborate closely with the Design team around both the designs and the implementation of the designs.</li>
+<li class="li1">Craft eye catching UIs and propose improvements to our code base.</li>
+<li class="li1">Sense checking with the team and prioritizing work from our backlog.</li>
 </ul>
-<p><strong>You ideally will have:</strong></p>
-<ul>
-<li>Clear and effective communication skills, both verbally and written</li>
-<li>Thoughtful and pragmatic problem-solving</li>
-<li>5+ years of software engineering experience, with 3+ years of experience with React</li>
-<li>Experience writing modern, performant, and accessible React code&nbsp;</li>
-<li>Strong knowledge of JavaScript, and ideally TypeScript</li>
-<li>Prior experience creating a component library</li>
+<p class="p1"><strong>You ideally will have:</strong></p>
+<ul class="ul1">
+<li class="li1">Experience working with ClojureScript and React Native</li>
+<li class="li1">Eye for detail; point us to completed implementation work.</li>
+<li class="li1">3+ years of experience working on complex UI applications.</li>
+<li class="li1">Experience in, and passion for, blockchain technology.</li>
+<li class="li1">A strong alignment to our principles:&nbsp;<a href="https://status.im/about/#our-principles"><span class="s2">https://status.im/about/#our-principle</span></a></li>
 </ul>
-<p><strong>Hiring process:</strong></p>
-<p><em>The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline.&nbsp;</em></p>
-<ul>
-<li>Call with Talent</li>
-<li>Technical interview&nbsp;</li>
-<li>Paid task</li>
-<li>Technical interview</li>
-<li>Final interview</li>
+<p class="p1"><strong>Bonus points if:</strong></p>
+<ul class="ul1">
+<li class="li1">Experience working remotely.&nbsp;</li>
+<li class="li1">Experience working for an open source organization.&nbsp;&nbsp;</li>
 </ul>
-<p><strong>Compensation:</strong></p>
-<p>The expected compensation range for this role is negotiable, dependent on how we assess your skills and experience throughout our interview process. We are happy to pay in any mix of fiat/crypto.</p>
-</div>
+<p class="p1">[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</p>
+<p class="p1"><strong>Compensation:&nbsp;</strong></p>
+<p class="p1">We are happy to pay in either 100% fiat or any mix of fiat and/or crypto.</p>
 
     
 
     
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Developer Relations Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
+<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
+<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
+<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
+<h2>What your day will look like</h2>
+<p>In a typical day, a developer relations engineer might:</p>
+<ul>
+<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
+<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
+<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
+<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
+<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
+<li>work on technical articles, presentations or workshops&nbsp;</li>
+<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
+<li>present at conferences, meetups or technical events</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<p>A strong candidate</p>
+<ul>
+<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
+<li>has worked with real-world challenges developing and deploying software using Linux</li>
+<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
+<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
+<li>has been a contributor to open-source communities, software and documentation</li>
+<li>is an engaging, vivacious speaker and presenter</li>
+<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
+<li>builds trust, relationships and confidence</li>
+<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
+</ul>
+<h2>Additional skills that you might also bring</h2>
+<ul>
+<li>previous experience in a developer advocacy or community role</li>
+<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
+</ul>
+
+<h2>What we offer you</h2>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote&nbsp;</p>
+
+<p><br><br></p>
+    
                 </details>
                 </td>
             </tr>,<tr>
@@ -356,87 +475,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote</p>
 <h2><br><br></h2>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Developer Relations Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
-<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
-<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
-<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
-<h2>What your day will look like</h2>
-<p>In a typical day, a developer relations engineer might:</p>
-<ul>
-<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
-<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
-<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
-<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
-<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
-<li>work on technical articles, presentations or workshops&nbsp;</li>
-<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
-<li>present at conferences, meetups or technical events</li>
-</ul>
-<h2>What we are looking for in you</h2>
-<p>A strong candidate</p>
-<ul>
-<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
-<li>has worked with real-world challenges developing and deploying software using Linux</li>
-<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
-<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
-<li>has been a contributor to open-source communities, software and documentation</li>
-<li>is an engaging, vivacious speaker and presenter</li>
-<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
-<li>builds trust, relationships and confidence</li>
-<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
-</ul>
-<h2>Additional skills that you might also bring</h2>
-<ul>
-<li>previous experience in a developer advocacy or community role</li>
-<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
-</ul>
-
-<h2>What we offer you</h2>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote&nbsp;</p>
-
-<p><br><br></p>
     
                 </details>
                 </td>
