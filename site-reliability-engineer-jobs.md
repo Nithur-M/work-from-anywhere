@@ -1,5 +1,102 @@
 <div align="center"><h2>SITE RELIABILITY ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1651226564728700928/h0tz5UT1_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Supabase</h5>
+                    <h3>Cloud Platform / Site Reliability Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/supabase/jobs/5013075004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p><img src="https://pbs.twimg.com/media/FIdU8GJWQAUGWRA?format=jpg&amp;name=small" alt="Join Supabase" width="680" height="453"></p></div>
+
+    <p>Supabase is an Open Source and fully remote company building developer tools for databases.</p>
+<p>We are seeking an experienced Cloud Platform /Site Reliability Engineer to manage our hosted cloud offering, which currently serves over 100k Postgres instances and is growing at a rate of 10% each month.</p>
+<h3>You will:</h3>
+<ul>
+<li>Help build the Supabase Cloud offering.</li>
+<li>Improve our system architecture to reduce costs while balancing security and performance.</li>
+<li>Work on designing and tracking metrics for platform uptime.</li>
+<li>Increase observability into our system by capturing relevant metrics and logs.</li>
+<li>Implement and maintain intrusion detection, automated remediation and patch management systems.</li>
+<li>Design CI/CD systems to speed up deploys with proper change and release management processes.</li>
+<li>Work on our SOC2 and GDPR compliance initiatives.&nbsp;</li>
+<li><span class="notion-enable-hover" data-token-index="1">Handle issues, alerts, and incidents that arise during American business hours.&nbsp;</span></li>
+<li><span class="notion-enable-hover" data-token-index="1">Support other teams with their Infrastructure needs during American business hours.</span></li>
+</ul>
+<h3>You are:</h3>
+<ul>
+<li>Experience in designing multi-tenant database solutions, designing for failover, fault-tolerance, and disaster recovery;</li>
+<li>~ 5<span class="notion-enable-hover" data-token-index="1">+</span> years experience in SRE/DevOps/Cloud Infrastructure;</li>
+<li>~ 1<span class="notion-enable-hover" data-token-index="3">+</span> years of experience in building with Golang;&nbsp;</li>
+<li><span class="notion-enable-hover" data-token-index="5">1+ years of experience in building with Typescript;</span></li>
+<li>Experience in managing large deployments on AWS;</li>
+<li>Knowledge of networking;</li>
+<li>Experience with Infrastructure as Code tools <span class="notion-enable-hover" data-token-index="7">(Pulumi preferred)</span>;</li>
+</ul>
+<p><strong>We offer:</strong></p>
+<ul>
+<li>100% remote work from anywhere in the world. No location-based adjustment to your salary.</li>
+<li>ESOP (equity ownership in the company)</li>
+<li>Autonomous work. We work collaboratively on projects, but you set your own pace.</li>
+<li>Health, Vision and Dental benefits. Supabase covers 100% of the cost for employees and 80% for dependents</li>
+<li>Generous Tech Allowance for any office setup you need</li>
+<li>Annual Education Allowance</li>
+<li>Annually run off-sites.</li>
+</ul>
+<p>&nbsp;</p>
+
+    
+
+    <div class="content-conclusion"><h3>BUILD IN A WEEKEND. SCALE TO BILLIONS</h3>
+<p>Supabase adds auth, realtime, and restful APIs to Postgres without a single line of code.</p>
+<p>Each project within Supabase is an isolated&nbsp;Postgres cluster, allowing customers to scale independently, while still providing the features that you need to build: instant database setup, auth, row level security, realtime data streams, auto-generating APIs, and a simple to use web interface.</p>
+<p>We are a fully remote company.</p>
+<p>Key Tech: Javascript, Typescript, Go, Elixir, PostgREST (haskell), Postgres, Pulumi.</p>
+<h3><a id="about-the-team" class="anchor"></a>About the team</h3>
+<ul>
+<li>We're a startup. It's unstructured.</li>
+<li>Collectively founded more than a dozen venture-backed companies.</li>
+<li>More than 10 different nationalities.</li>
+<li>We deeply believe in <a href="https://supabase.com/blog/2022/03/25/should-i-open-source-my-company" target="_blank">the efficacy of collaborative open source</a>. We support existing communities and tools, rather than building "yet another xx".</li>
+<li>We "dogfood" everything. If you use it in your project, we use it in Supabase.</li>
+</ul>
+<h2><a id="process" class="anchor"></a>Process</h2>
+<ul>
+<li>The entire process is fully remote and all communication will happen over email or via video chat.</li>
+<li>Once you've submitted your application, the team will review your submission, and may reach out for a short screening interview over video call.</li>
+<li>If you pass the screen you will be invited to up to four follow up interviews. The calls:
+<ul>
+<li>usually take between 20-45 minutes each depending on the interviewer.</li>
+<li>are all 1:1.</li>
+<li>will be with both founders, a member of either the growth or engineering team (depending on the role), and usually one other person from your immediate team or function.</li>
+</ul>
+</li>
+<li>Once the interviews are over, the team will meet to discuss several roles and candidates and may:
+<ul>
+<li>ask one or two follow-up questions over email or a quick call.</li>
+<li>go directly to making an offer.</li>
+</ul>
+</li>
+</ul>
+<h2>&nbsp;</h2></div>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1387074696831672327/C7WTpiAb_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -19,7 +116,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-eac634bede3baddc19ab"><div class="sqs-block-content">
+                <div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" id="block-eac634bede3baddc19ab"><div class="sqs-block-content">
 
 <div class="sqs-html-content">
   <h2 style="white-space:pre-wrap;">Your Mission,&nbsp;Should You Choose to Accept:</h2><p class="" style="white-space:pre-wrap;">Join our passionate team of top-notch engineers to solve a real-world problem, and help people spend less time managing expenses and more time pursuing their real goals. As we revolutionize the way people manage their expenses, being part of the Expensify team means building the easiest, fastest, and most efficient platform to automate everything expense-related.</p><p class="" style="white-space:pre-wrap;">Our employees work from all over the world, but if you're looking for a change of scene we offer visa sponsorship and relocation assistance to join us at one of our rad locations:</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">San Francisco </p></li><li><p class="" style="white-space:pre-wrap;">Portland </p></li><li><p class="" style="white-space:pre-wrap;">Michigan </p></li><li><p class="" style="white-space:pre-wrap;">New York </p></li><li><p class="" style="white-space:pre-wrap;">London </p></li><li><p class="" style="white-space:pre-wrap;">Melbourne</p></li></ul><p class="" style="white-space:pre-wrap;">Even though we work hard at Expensify, we make sure our employees are happy. Our most talked about perk is our<a href="https://we.are.expensify.com/explore-the-world"> Offshore</a> where we spend a month abroad working from a remote location as a team. This year we’re going to Bali, do you want to join?</p><h2 style="white-space:pre-wrap;">About Site Reliability Engineering at Expensify</h2><p class="" style="white-space:pre-wrap;">The SRE team is responsible for overseeing the development, implementation, and maintenance of the infrastructure used by our applications. We work closely with the product development and engineering teams to expand and enhance our deeply integrated service platform. Our goal is to develop and support the systems and automations that drive our business-critical platform, ensuring high uptime and quality deployments, while maintaining operational flexibility.</p><h2 style="white-space:pre-wrap;">About You</h2><p class="" style="white-space:pre-wrap;">Whether you’re tuning configs or writing a new automation task, you’re self-driven and collaborative. You’re an autonomous individual who is passionate about building a stable product. You’re open to working with our engineering and customer-facing teams to make sure we’re growing in the best possible way. You’re excited by our culture of <a href="https://we.are.expensify.com/inclusion">Live Rich, Have Fun, and Save the World</a>, and have an ambition you’re incredibly passionate about that Expensify can help you achieve.</p><p class="" style="white-space:pre-wrap;">As a Site Reliability Engineer, your responsibilities will include:</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Implementing and maintaining systems that monitor networks, server health, and application performance.</p></li><li><p class="" style="white-space:pre-wrap;">Configuring infrastructure systems to provide load balancing, application firewalls, reverse proxying, and related services.</p></li><li><p class="" style="white-space:pre-wrap;">Creating and implementing security policies that protect us and our customers.</p></li><li><p class="" style="white-space:pre-wrap;">Striving to deliver high availability and data redundancy throughout our platform.</p></li><li><p class="" style="white-space:pre-wrap;">Designing tools to help our entire engineering organization be as productive as possible.</p></li></ul><p class="" style="white-space:pre-wrap;">We’re looking for someone who:</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Communicates well, both interpersonally and in their code.</p></li><li><p class="" style="white-space:pre-wrap;">Knows how to solve problems by automating their solutions.</p></li><li><p class="" style="white-space:pre-wrap;">Has a strong foundation in security from a software, systems, and network standpoint.</p></li><li><p class="" style="white-space:pre-wrap;">Has experience with Linux system configuration, administration, and tuning.</p></li><li><p class="" style="white-space:pre-wrap;">Has experience with automated configuration management, and continuous integration (CI) systems.</p></li><li><p class="" style="white-space:pre-wrap;">Understands the role and impact that infrastructure can have on the organization as a whole.</p></li><li><p class="" style="white-space:pre-wrap;">Is passionate about “getting under the hood” of systems and technologies to understand their inner workings, and fix what needs fixing.</p></li></ul><p class="" style="white-space:pre-wrap;">We’re looking for people who already have a strong background in Linux system administration to join the team. We use this as the foundation for your launchpad in Expensify, with an expectation that you’re able to carry those skills into domains you have yet to dip your feet into.</p><h2 style="white-space:pre-wrap;">Compensation &amp; Benefits</h2><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Full-time, salaried position</p></li><li><p class="" style="white-space:pre-wrap;">401k with employer match</p></li><li><p class="" style="white-space:pre-wrap;">100% Medical/Dental/Mental Health support/Vision contributions</p></li><li><p class="" style="white-space:pre-wrap;">$20k annual family planning benefit through Carrot</p></li><li><p class="" style="white-space:pre-wrap;">Three months of fully paid leave, with up to six months for birthing parents</p></li><li><p class="" style="white-space:pre-wrap;">Commuter benefits</p></li><li><p class="" style="white-space:pre-wrap;">Free lunch</p></li><li><p class="" style="white-space:pre-wrap;">Flexible vacation policy</p></li><li><p class="" style="white-space:pre-wrap;">Relocation available</p></li></ul><h2 style="white-space:pre-wrap;">Next Steps</h2><p class="" style="white-space:pre-wrap;">Applying is easy, but it takes time. See, while we know you're awesome, it's actually really hard and time consuming to find you in the midst of literally hundreds of other applications we get from everyone else. So this is where we're going to ask our first favor: can you make it really easy and obvious how great you are, so we don't accidentally overlook you? There are many ways to do that, but the easiest way to help us out is by answering the following questions:</p><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">What's the URL of your website? If you don't have one, why not?</p></li><li><p class="" style="white-space:pre-wrap;">What's your admin/coding history? When did you start, and what have you done between then and now?</p></li><li><p class="" style="white-space:pre-wrap;">What do you want to do with the rest of your life, and how is Expensify a step toward your long-term goals? <em>(We’re serious, we want to know! Share what you’re comfortable sharing, but we are a group of ambitious individuals building a community of people who want to achieve success in every aspect of our lives, and we encourage employees to figure out how they can use Expensify to realize their personal goals with the support of the company around them.)</em></p></li><li><p class="" style="white-space:pre-wrap;">How did you hear about us? A job posting? Chalk on a sidewalk? From a friend? Let us know where you saw this opening.</p></li></ol><h2 style="white-space:pre-wrap;">Resume not your thing? That’s great, we don’t really read them anyway! Forward your responses to the questions to <a href="mailto:apply@expensify.com">apply@expensify.com</a>. We're excited to hear from you!</h2>
