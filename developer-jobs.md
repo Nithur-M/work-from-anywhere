@@ -1,49 +1,5 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1882749/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Nitka</h5>
-                    <h3>Solidity Smart Contracts Developer</h3>
-                </td>
-                <td width="300">
-                    <code>blockchain,solidity</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/solidity-smart-contracts-developer-1882749" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Nitka Technologies</strong>'s developing software for customers in the US and Europe and brings together about 300 professionals from Eastern Europe, North and South America, Armenia, Georgia and Kazakhstan.</p>
-<p>We are looking for an experienced<strong> Solidity Smart Contracts Developer </strong>to work<strong> </strong>in the project <span style="font-weight: 400;">in the education sector.</span></p>
-<p><span style="font-weight: 400;"><strong>We offer 100% full-time remote work with a flexible schedule.</strong></span></p>
-<p><span style="font-weight: 400;"><strong>Main task: </strong>The scope of work encompasses the development of smart contracts tailored for educational applications. This includes managing credentials, streamlining payments, automating various aspects of the learning process, and issuing digital certificates. Additionally, the role involves engaging in innovative and challenging tasks aimed at shaping the future of education. The developer will also explore the integration of blockchain technology in enhancing student engagement, tracking academic progress, and facilitating secure and transparent academic record-keeping. This role is pivotal in revolutionizing how educational services are delivered and accessed, leveraging the unique capabilities of blockchain to offer cutting-edge solutions in the educational landscape.</span></p>
-<p><strong>Skills required</strong>:</p>
-<ul style="">
-<li style="">1+ year of development experience in Solidity (Examples of completed works are required)</li>
-<li style="">3+ years of programming experience</li>
-<li style="">Strong spoken and written English skills (Intermediate level and more)</li>
-<li style=""><span lang="ru-BY" style=" line-height: 107%;  mso-ascii-theme-font: minor-latin; mso-fareast- mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi- mso-bidi-theme-font: minor-bidi; mso-ansi-language: #0C00; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Passion to develop blockchain projects</span></li>
-</ul>
-<p><strong>Working conditions:</strong></p>
-<ul style="">
-<li style="">Remote work</li>
-<li style="">Full-time (8 hours/day)</li>
-<li style="">Interaction with a team from the USA (а few times a week calls're in the evening, around 19:00 - 21:00 GTM+3 (morning on the US West Coast))</li>
-<li style="">Flexible schedule without time trackers</li>
-<li style="">Attractive USD compensation</li>
-<li style="">Paid vacation, holidays</li>
-</ul>
-<p> </p><img src="https://remotive.com/job/track/1882749/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1680495/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -54,7 +10,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -247,6 +203,179 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p>Experience with full-stack web development, Python, PostgreSQL, and Linux is required. Competency or interest in data visualization, UI, UX, and design are desired.</p>
 <p>Why Join MixRank? Fully-remote, no HQ office. Team of 32 people across 15+ countries Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
 <p>Please include your updated resume when applying for this role.</p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
+                    <h3>Senior Full Stack Developer </h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=5618418&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol; the p2p communication layer for Web3.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <div class="careers-block__trix external-panel text-left">
+<div>
+<p><strong>The role</strong></p>
+<p>As a Senior Full Stack Developer, you will be responsible for the development and technical maintenance and architecture of various web-based projects in the studio. Your role will involve execution and writing tests. This is a very collaborative role, where you will work closely with the development team, design team, and studio lead to bring our web projects to life. You will support all technical aspects of every web project (from development and testing to deployment and maintenance)&nbsp;</p>
+<p>&nbsp;<strong>Responsibilities</strong></p>
+<ul>
+<li>You will be developing and implementing internal tools, including our web frameworks, our design systems implementation in React and other projects</li>
+<li>You will co-write documentation for all the above mentioned products/projects</li>
+<li>You will be responsible for maintaining our open-sourced codebases on Github alongside the rest of team</li>
+<li>Communicate with other team members to establish effective workflows</li>
+<li>Design, build, and maintain efficient, reusable, and reliable code</li>
+<li>Ensure the best possible performance, quality, and responsiveness of applications</li>
+<li>Identify bottlenecks and defects, and devise solutions to address and mitigate&nbsp;</li>
+<li>Help maintain code quality, organization, and automation</li>
+<li>Support team members</li>
+</ul>
+<p>&nbsp;<strong>You ideally will have</strong></p>
+<ul>
+<li>5+ years experience in Full Stack / Web Development</li>
+<li>Experience in ReactJS and NodeJs (all in Typescript)&nbsp;</li>
+<li>Good understanding of software and database architecture</li>
+<li>Experience in implementation of frontend libraries and design systems</li>
+<li>Experience working with Git, Docker and NextJS framework as well as Vercel and/or Netlify</li>
+<li>MySQL, MongoDB, Database Architecture</li>
+<li>A strong alignment to our principles:<a href="https://status.im/about/#our-principles"> https://status.im/about/#our-principles</a></li>
+</ul>
+<p>&nbsp;<strong>Bonus points if</strong></p>
+<ul>
+<li>You are comfortable in working remotely and asynchronously</li>
+<li>Smart contracts and Web3</li>
+<li>You have experience working for an open source organisation</li>
+<li>You have exposure to creative coding (processing, open frameworks, WebGL, writing shaders, p5js)</li>
+</ul>
+<p><em>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</em></p>
+<p>&nbsp;<strong>Compensation</strong></p>
+<p>The expected compensation range for this role is $40,000 - $60,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process.</p>
+<p>&nbsp;<strong>Hiring process</strong></p>
+<ol>
+<li>Interview with Talent team</li>
+<li>Interview with Pavel, Web Developer</li>
+<li>Interview with Amir, Design Studio Lead</li>
+<li>Chat with Carl, Status Co-Founder</li>
+<li>Assessment (paid)</li>
+</ol>
+<p><em>[The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline!]</em></p>
+<p><strong>Get to know us</strong></p>
+<p>Find out about the Logos here:<a href="https://logos.co"> https://logos.co</a></p>
+</div>
+<p>&nbsp;</p>
+</div>
+
+    
+
+    
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
+                    <h3>Senior C++ Qt/QML Developer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=3694379&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol; the p2p communication layer for Web3.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <p class="p1"><strong>The role:</strong><br><br>Status Desktop is currently in beta for Mac, Windows and Linux platforms. Current product focus is on the privacy-centric messenger and group chat functionality, and we’ve just kicked off development of our new ‘multi-chain from the ground up’ crypto Wallet. &nbsp;ÐApp browser and blockchain node functionality will follow next. Status desktop is currently built using&nbsp;<a href="https://nim-lang.org/"><span class="s1">Nim</span></a>&nbsp;&amp;&nbsp;QT for the frontend, and it shares a common backend with Status mobile that is written in Go. We are currently in the middle of a large refactor of our architecture. &nbsp;This refactor includes transitioning the QT front end from Nim to C++, moving all business logic to our status-go backend, and upgrading from QT5.14.2 to QT6.2. &nbsp;As we work in the open and are fully open source you can get a better idea of who we are and the work we are doing by browsing&nbsp;our&nbsp;<a href="https://hackmd.io/@status-desktop/main/%2FwAbKqYTdR_-FWLZZouSxsg"><span class="s1">team wiki here</span></a>&nbsp;and taking a look at our&nbsp;<a href="https://github.com/status-im/status-desktop"><span class="s1">Status Desktop</span></a>,&nbsp;<a href="https://github.com/status-im/statusQ"><span class="s1">Status Desktop QML component library</span></a>&nbsp;and&nbsp;<a href="https://github.com/status-im/status-go"><span class="s1">Status Desktop and Mobile Go backend</span></a>&nbsp;GitHub repos.&nbsp; You can find more information about our desktop effort in this&nbsp;<a href="https://our.status.im/status-desktop-why-and-what/"><span class="s1">blog post</span></a>.&nbsp;</p>
+<p class="p1">Status is looking for multiple senior experienced C++/QML UI devs to join our growing desktop dev team and to work with us to create a permissionless, decentralized, censorship proof group chat platform. Role responsibilities include developing new features, creating and enhancing components in our QML UI toolkit component library, advising and assisting other members of the desktop dev team with solving challenging QML UI development problems, and perhaps working on the Go backend if this is something you would enjoy. &nbsp;As a team we try to match task assignment with the individual interests and passions of our team members, so there is a high degree of flexibility with regards to what you would be working on. &nbsp;If you are a passionate C++/QML expert who knows all the ins and outs of C++ and QT/QML UI development this could be an ideal role for you.</p>
+<p class="p1">The desktop team is spread between Europe and North America with crossover work hours being the European timezone afternoon on Monday, Wednesday and Friday. Ideally you will be located in a timezone between UTC -8 and UTC +3 e.g. anywhere in-between Panama and Moscow. &nbsp;Work is async using Status, Google Meet and Github, typically in Scrum Sprints.</p>
+<p class="p1"><strong>Key Responsibilities:</strong></p>
+<ul class="ul1">
+<li class="li1">Build new features, enhance existing functionality and fix issues in the Status Desktop application.</li>
+<li class="li1">Help develop and maintain Status’s QML UI component library (primarily used by the Status Desktop product)</li>
+<li class="li1">Advise and assist the other developers in the Desktop team as needed to help solve the hardest QML UI development challenges</li>
+<li class="li1">Contribute to C++ and Go codebases (and help with transitioning the codebase from Nim to C++ if you join us prior to this transition being completed), but don’t worry if you don’t have any prior Go or Nim experience.</li>
+<li class="li1">Be one of our resident experts for everything related to C++ and Qt/QML UI development.</li>
+</ul>
+<p class="p1"><strong>You ideally will have:</strong></p>
+<ul class="ul1">
+<li class="li1">Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role!</li>
+<li class="li1">Expert level experience implementing UIs using Qt/QML/C++</li>
+<li class="li1">A strong ability to think about components and modules as they relate to other components as part of a larger system</li>
+<li class="li1">A very strong attention to detail and the willingness to deliver pixel perfect UI according to the designs.</li>
+<li class="li1">Provide feedback and product ideas to the designers as needed</li>
+<li class="li1">Experience with multithreading / concurrency</li>
+<li class="li1">Good communication skills in English</li>
+<li class="li1">A strong alignment to our principles:&nbsp;<a href="https://status.im/about/#our-principles"><span class="s1">https://status.im/about/#our-principles</span></a>&nbsp;We are a passion driven project on a mission to build tools that protect and&nbsp;enable free speech.</li>
+</ul>
+<p class="p1"><strong>Bonus points if you have:</strong></p>
+<ul class="ul1">
+<li class="li1">Experience working in an open source organization</li>
+<li class="li1">A strong interest in blockchain technology and have a good understanding of Ethereum.</li>
+<li class="li1">Worked in a remote distributed environment that values asynchronous communication</li>
+<li class="li1">Knowledge of Go and/or Nim and/or Solidity is a plus</li>
+<li class="li1">Experience with using QT/QML to develop cross platform (Windows, OSX, Linux) desktop applications and mobile applications (iOS, Android) is a plus</li>
+<li class="li1">Prior experience with using Squish for functional testing QT apps</li>
+<li class="li1">Experience implementing openGL rendering in a QML context</li>
+<li class="li1">Any background or experience with cryptography and/or security</li>
+</ul>
+<p class="p1"><strong>Compensation:</strong></p>
+<ul class="ul1">
+<li class="li1">We are happy to pay in either 100% fiat or any mix of fiat and/or crypto.&nbsp;</li>
+</ul>
+<p class="p1"><strong>Hiring process:</strong></p>
+<ul class="ul1">
+<li class="li1">The hiring process for this role is usually as follows (sometimes adapted):</li>
+<li class="li1">Introductory conversation - Talent team</li>
+<li class="li1">3 Technical Interviews with Desktop Qt/QML Developers</li>
+<li class="li1">Team lead interview - Iuri, Desktop Team Lead</li>
+<li class="li1">'Meet the Desktop team' interviews with 3-4 Desktop Contributors (30-40m each)</li>
+</ul>
+<p class="p1"><strong>Questions about this role?</strong></p>
+<p class="p1">Feel free to get in touch, we are more than happy to discuss the role in more detail.</p>
+<p class="p1">&nbsp;</p>
+<p class="p1">&nbsp;</p>
+
+    
+
+    
 
                 </details>
                 </td>
@@ -655,7 +784,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div>Collabora is currently looking for a very technically capable, enthusiastic and passionate Continuous Integration (CI) &amp; Testing Developer to join its ever-growing engineering team.</div><div><br></div><div>As a member of the CI &amp; Testing  team, your primary focus will be to participate in the development,  integration and deployment of Open Source Continuous Integration and  Automated Testing systems in upstream projects. The scope of the work ranges from hardware automation through LAVA, to systems like KernelCI and Mesa CI.</div></div><div class="section page-centered"><div><h3>Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Analyse  a project's needs for automated testing and design an implementation plan to discuss with the upstream community and Collabora's customers</li><li>Monitor and identify areas of improvement for existing upstream Continuous Integration systems</li><li>Implement  the CI system by integrating the required dependencies, building the  code at test, deploying it to the device under testing, executing the  tests and distributing and presenting the results</li><li>Represent Collabora at conferences and trade shows to demonstrate and promote our leadership in the open source arena</li><li>Understand client needs and reconcile time constraints, available technologies and resources, and Open Source best practices</li></ul></ul></div></div><div class="section page-centered"><div><h3>Desired Skills</h3><ul class="posting-requirements plain-list"><ul><li>Good understanding of Continuous Integration systems</li><li>Experience with Gitlab CI/CD and/or GitHub Actions</li><li>Experience with Python and Python frameworks such as Django, Flask, FastAPI</li><li>Knowledge of open source development methodologies and relevant open source communities</li><li>Good English language skills (both verbal and written)</li><li>Ability to work and communicate in a fully distributed environment, completely online</li></ul></ul></div></div><div class="section page-centered"><div><h3>Additional Skills - for some projects, possessing any of these skills can be very helpful</h3><ul class="posting-requirements plain-list"><ul><li>Familiarity with the upstream Linux kernel development workflow</li><li>Embedded development experience (firmware, bootloaders, kernel, BSP)</li><li>Knowledge about OpenGL and/or Vulkan GPU drivers</li><li>Sysadmin/DevOps experience</li><li>Fluency with Kubernetes</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Collabora  is a software consultancy specialising in bringing companies and the  Open Source community together. We combine years of Open Source software  leadership with an understanding of the challenges that businesses, non-profits and governments face. Collabora brings deep technical expertise in  system integration &amp; architecture, graphics, multimedia, web engines  and communications to a number of market verticals, including mobile,  IVI / automotive, set top box / smart TV, and a range of other  specialised embedded applications.</div><div><br></div><div>Collabora  has the unique business model of enabling enterprises to leverage Open  Source software in their solutions. Having worked with notable industry  leading companies in the automotive, aerospace and handset mobile  verticals amongst many others, Collabora has established a broad  customer portfolio.</div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/7dd88e28-ffd5-4d6c-b54b-8a6c42cd7e85/apply">Apply for this job</a></div>
+                <div class="section page-centered" data-qa="job-description"><div>Collabora is currently looking for a very technically capable, enthusiastic and passionate Continuous Integration (CI) &amp; Testing Developer to join its ever-growing engineering team.</div><div><br></div><div>As a member of the CI &amp; Testing  team, your primary focus will be to participate in the development,  integration and deployment of Open Source Continuous Integration and  Automated Testing systems in upstream projects. The scope of the work ranges from hardware automation through LAVA, to systems like KernelCI and Mesa CI.</div></div><div class="section page-centered"><div><h3>Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Analyse  a project's needs for automated testing and design an implementation plan to discuss with the upstream community and Collabora's customers</li><li>Monitor and identify areas of improvement for existing upstream Continuous Integration systems</li><li>Implement  the CI system by integrating the required dependencies, building the  code at test, deploying it to the device under testing, executing the  tests and distributing and presenting the results</li><li>Represent Collabora at conferences and trade shows to demonstrate and promote our leadership in the open source arena</li><li>Understand client needs and reconcile time constraints, available technologies and resources, and Open Source best practices</li></ul></ul></div></div><div class="section page-centered"><div><h3>Desired Skills</h3><ul class="posting-requirements plain-list"><ul><li>Good understanding of Continuous Integration systems</li><li>Experience with Gitlab CI/CD and/or GitHub Actions</li><li>Experience with Python and Python frameworks such as Django, Flask, FastAPI</li><li>Knowledge of open source development methodologies and relevant open source communities</li><li>Good English language skills (both verbal and written)</li><li>Ability to work and communicate in a fully distributed environment, completely online</li></ul></ul></div></div><div class="section page-centered"><div><h3>Additional Skills - for some projects, possessing any of these skills can be very helpful</h3><ul class="posting-requirements plain-list"><ul><li>Familiarity with the upstream Linux kernel development workflow</li><li>Embedded development experience (firmware, bootloaders, kernel, BSP)</li><li>Knowledge about OpenGL and/or Vulkan GPU drivers</li><li>Sysadmin/DevOps experience</li><li>Fluency with Kubernetes</li></ul></ul></div></div><div class="section page-centered" data-qa="closing-description"><div>Collabora  is a software consultancy specialising in bringing companies and the  Open Source community together. We combine years of Open Source software  leadership with an understanding of the challenges that businesses, non-profits and governments face. Collabora brings deep technical expertise in  system integration &amp; architecture, graphics, multimedia, web engines  and communications to a number of market verticals, including mobile,  IVI / automotive, set top box / smart TV, and a range of other  specialised embedded applications.</div><div><br></div><div>Collabora  has the unique business model of enabling enterprises to leverage Open  Source software in their solutions. Having worked with notable industry  leading companies in the automotive, aerospace and handset mobile  verticals amongst many others, Collabora has established a broad  customer portfolio.</div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/7dd88e28-ffd5-4d6c-b54b-8a6c42cd7e85/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -679,7 +808,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div>We are looking for a passionate and enthusiastic open-source software developer, with contributions to the Mesa 3D Graphics Library, to join our ever growing geographically-distributed Graphics domain team.</div><div>&nbsp;</div><div>The Graphics domain team is contributing to the entire Linux Graphics stack from the Linux kernel up to the Graphics toolkits including but not limited to DRI and kernel-mode graphics drivers, Wayland/Weston, OpenGL, Vulkan, OpenGL/EGL and other open-source Graphics drivers within the Mesa 3D Graphics Library for different customers’ projects in various market verticals.</div></div><div class="section page-centered"><div><h3>Key Responsibilites</h3><ul class="posting-requirements plain-list"><ul><li>Discussing technology with clients and represent Collabora at conferences and trade shows to demonstrate and promote our leadership in the open source arena</li><li>Analysing client problems and designing solutions leveraging open source &nbsp;technologies and Collabora's technical expertise</li><li>Defining and scoping client projects in collaboration with the delivery team</li><li>Contributing publicly to open source projects to ensure Collabora's continuing technical leadership</li><li>Gain working knowledge of customers’ products, applications, technical and business strengths and target markets</li><li>Understanding client needs and reconciling time constraints, available technologies and resources, and open source best practices</li></ul></ul></div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li>Experience with direct contributions to the Mesa 3D Graphics Library: OpenGL, Vulkan, DRI, Gallium drivers...</li><li>Linux experience </li><li>Knowledge of open source development methodologies and relevant open source communities</li><li>Good English language skills (both verbal and written) </li><li>Ability to work and communicate in an online fully distributed environment </li></ul></ul></div></div><div class="section page-centered"><div><h3>Desired Skills</h3><ul class="posting-requirements plain-list"><ul><li>Experience with CI (Jenkins/LAVA, GitLab CI in particular) and testing (Piglit, GL/Vulkan CTS, dEQP) is a plus</li><li>Self learning skill to get sufficient knowledge of Collabora's services,  business model, project delivery life cycle and other related technical  domains</li><li>BS/BA or experience in the role of Engineer</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Collabora is a software consultancy specializing in bringing companies and the Open Source community together. We combine years of Open Source software leadership with an understanding of the challenges that businesses, non-profits, and governments face. Collabora brings deep technical expertise in system integration &amp; architecture, graphics, multimedia, web engines and communications to a number of market verticals, including mobile, IVI / automotive, set top box / smart TV, and a range of other specialized embedded applications.</div><div><br></div><div>Collabora has the unique business model of enabling enterprises to leverage Open Source software in their solutions. Having worked with notable industry leading companies in the automotive, aerospace and handset mobile verticals amongst many others, Collabora has established a broad customer portfolio.</div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/6e42d611-2f86-4c25-9d84-43c39b8f6c3c/apply">Apply for this job</a></div>
+                <div class="section page-centered" data-qa="job-description"><div>We are looking for a passionate and enthusiastic open-source software developer, with contributions to the Mesa 3D Graphics Library, to join our ever growing geographically-distributed Graphics domain team.</div><div>&nbsp;</div><div>The Graphics domain team is contributing to the entire Linux Graphics stack from the Linux kernel up to the Graphics toolkits including but not limited to DRI and kernel-mode graphics drivers, Wayland/Weston, OpenGL, Vulkan, OpenGL/EGL and other open-source Graphics drivers within the Mesa 3D Graphics Library for different customers’ projects in various market verticals.</div></div><div class="section page-centered"><div><h3>Key Responsibilites</h3><ul class="posting-requirements plain-list"><ul><li>Discussing technology with clients and represent Collabora at conferences and trade shows to demonstrate and promote our leadership in the open source arena</li><li>Analysing client problems and designing solutions leveraging open source &nbsp;technologies and Collabora's technical expertise</li><li>Defining and scoping client projects in collaboration with the delivery team</li><li>Contributing publicly to open source projects to ensure Collabora's continuing technical leadership</li><li>Gain working knowledge of customers’ products, applications, technical and business strengths and target markets</li><li>Understanding client needs and reconciling time constraints, available technologies and resources, and open source best practices</li></ul></ul></div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li>Experience with direct contributions to the Mesa 3D Graphics Library: OpenGL, Vulkan, DRI, Gallium drivers...</li><li>Linux experience </li><li>Knowledge of open source development methodologies and relevant open source communities</li><li>Good English language skills (both verbal and written) </li><li>Ability to work and communicate in an online fully distributed environment </li></ul></ul></div></div><div class="section page-centered"><div><h3>Desired Skills</h3><ul class="posting-requirements plain-list"><ul><li>Experience with CI (Jenkins/LAVA, GitLab CI in particular) and testing (Piglit, GL/Vulkan CTS, dEQP) is a plus</li><li>Self learning skill to get sufficient knowledge of Collabora's services,  business model, project delivery life cycle and other related technical  domains</li><li>BS/BA or experience in the role of Engineer</li></ul></ul></div></div><div class="section page-centered" data-qa="closing-description"><div>Collabora is a software consultancy specializing in bringing companies and the Open Source community together. We combine years of Open Source software leadership with an understanding of the challenges that businesses, non-profits, and governments face. Collabora brings deep technical expertise in system integration &amp; architecture, graphics, multimedia, web engines and communications to a number of market verticals, including mobile, IVI / automotive, set top box / smart TV, and a range of other specialized embedded applications.</div><div><br></div><div>Collabora has the unique business model of enabling enterprises to leverage Open Source software in their solutions. Having worked with notable industry leading companies in the automotive, aerospace and handset mobile verticals amongst many others, Collabora has established a broad customer portfolio.</div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/6e42d611-2f86-4c25-9d84-43c39b8f6c3c/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -703,7 +832,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div>We are always looking for passionate and talented software developers to join our geographically-distributed engineering team. If you do not think your profile can fit any of the other targeted job openings on our web site, as we are eager to learn more about you, just apply to this one and we will definitely look into your application.</div></div><div class="section page-centered"><div><h3>Key Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Discussing 	technology with clients and represent Collabora at conferences and  trade shows to demonstrate and promote our leadership in the open  source arena</li><li>Analysing client problems and designing solutions leveraging open source  technologies and Collabora's technical expertise</li><li>Defining and scoping client projects in collaboration with the delivery team</li><li>Contributing publicly to open source projects to ensure Collabora's continuing technical leadership</li><li>Gain working knowledge of customers’ products, applications, technical and business strengths and target markets</li><li>Understanding 	client needs and reconciling time constraints, available technologies and resources, and open source best practices</li></ul></ul></div></div><div class="section page-centered"><div><h3>Desired Skills</h3><ul class="posting-requirements plain-list"><ul><li>Track record of experience in software development is essential</li><li>Knowledge 	of open source development methodologies and good standing in the open source community</li><li>Good English language skills (both verbal and written) </li><li>Ability to work and communicate in an online distributed environment</li><li>Existing familiarity with one or more of Collabora's market verticals is preferable</li><li>BS/BA or experience in the role of Engineer </li><li>Demonstrable contributions to components in open source projects</li><li>Preferable experience with direct development on one (or more) of WebKit, 	Blink, GStreamer, FFMPEG, libav, X11, wayland/weston, Jenkins, OBS, lava, Linux kernel/device drivers, distribution integration, porting</li><li>Self learning skills to get sufficient knowledge of Collabora's services, business model, project delivery life cycle and other related technical domains</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 12pt">Collabora is a software consultancy specializing in bringing companies and the Open Source community together. We combine years of Open Source software leadership with an understanding of the challenges that businesses, non-profits, and governments face. Collabora brings deep technical expertise in system integration &amp; architecture, graphics, multimedia, web engines and communications to a number of market verticals, including mobile, IVI / automotive, set top box / smart TV, and a range of other specialized embedded applications.</span></div><div><br></div><div><span style="font-size: 12pt">Collabora has the unique business model of enabling enterprises to leverage Open Source software in their solutions. Having worked with notable industry leading companies in the automotive, aerospace and handset mobile verticals amongst many others, Collabora has established a broad customer portfolio.</span></div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/f38d3f97-a52b-4963-8917-ad8016b43c23/apply">Apply for this job</a></div>
+                <div class="section page-centered" data-qa="job-description"><div>We are always looking for passionate and talented software developers to join our geographically-distributed engineering team. If you do not think your profile can fit any of the other targeted job openings on our web site, as we are eager to learn more about you, just apply to this one and we will definitely look into your application.</div></div><div class="section page-centered"><div><h3>Key Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Discussing 	technology with clients and represent Collabora at conferences and  trade shows to demonstrate and promote our leadership in the open  source arena</li><li>Analysing client problems and designing solutions leveraging open source  technologies and Collabora's technical expertise</li><li>Defining and scoping client projects in collaboration with the delivery team</li><li>Contributing publicly to open source projects to ensure Collabora's continuing technical leadership</li><li>Gain working knowledge of customers’ products, applications, technical and business strengths and target markets</li><li>Understanding 	client needs and reconciling time constraints, available technologies and resources, and open source best practices</li></ul></ul></div></div><div class="section page-centered"><div><h3>Desired Skills</h3><ul class="posting-requirements plain-list"><ul><li>Track record of experience in software development is essential</li><li>Knowledge 	of open source development methodologies and good standing in the open source community</li><li>Good English language skills (both verbal and written) </li><li>Ability to work and communicate in an online distributed environment</li><li>Existing familiarity with one or more of Collabora's market verticals is preferable</li><li>BS/BA or experience in the role of Engineer </li><li>Demonstrable contributions to components in open source projects</li><li>Preferable experience with direct development on one (or more) of WebKit, 	Blink, GStreamer, FFMPEG, libav, X11, wayland/weston, Jenkins, OBS, lava, Linux kernel/device drivers, distribution integration, porting</li><li>Self learning skills to get sufficient knowledge of Collabora's services, business model, project delivery life cycle and other related technical domains</li></ul></ul></div></div><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 12pt">Collabora is a software consultancy specializing in bringing companies and the Open Source community together. We combine years of Open Source software leadership with an understanding of the challenges that businesses, non-profits, and governments face. Collabora brings deep technical expertise in system integration &amp; architecture, graphics, multimedia, web engines and communications to a number of market verticals, including mobile, IVI / automotive, set top box / smart TV, and a range of other specialized embedded applications.</span></div><div><br></div><div><span style="font-size: 12pt">Collabora has the unique business model of enabling enterprises to leverage Open Source software in their solutions. Having worked with notable industry leading companies in the automotive, aerospace and handset mobile verticals amongst many others, Collabora has established a broad customer portfolio.</span></div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/f38d3f97-a52b-4963-8917-ad8016b43c23/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -727,7 +856,55 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div>Collabora is looking for a passionate and enthusiastic open-source software developer, with good knowledge of at least one of OpenGL or Vulkan, to join our ever growing geographically-distributed Graphics domain team.</div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li>Good knowledge of at least one of the OpenGL or Vulkan APIs</li><li>Experience developing on Linux systems</li><li>Knowledge of open source development methodologies and relevant open source communities</li><li>Good English language skills (both verbal and written)&nbsp;</li><li>Ability to work and communicate in an online fully distributed environment </li></ul></ul></div></div><div class="section page-centered"><div><h3>Desirable Skills (The below are skills that to some degree will be useful at the start of your career within Collabora. Training and opportunities for development will be offered)</h3><ul class="posting-requirements plain-list"><ul><li>Experience profiling and optimizing application's use of the GPU</li><li>Experience with developing GPU compilers</li><li>Direct contributions to the Mesa 3D Graphics Library</li><li>Experience leading teams to understand and define constraints, requirements and solutions</li><li>Good communication with customers and upstream communities</li><li>Self-learning skills to get sufficient knowledge of Collabora's services,&nbsp;business model, project delivery life cycle and other related technical domains</li><div><br></div></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div>Collabora's Graphics team contributes to the entire Linux Graphics stack, from the Linux kernel up to the display servers, including but not  limited to GPU and display kernel drivers, Wayland/Weston, OpenGL, Vulkan and other open-source graphics drivers within the Mesa 3D Graphics Library for different customers’ projects in various market verticals.</div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/bd4a9eb8-528f-4553-a832-ca6949ab46bd/apply">Apply for this job</a></div>
+                <div class="section page-centered" data-qa="job-description"><div>Collabora is looking for a passionate and enthusiastic open-source software developer, with good knowledge of at least one of OpenGL or Vulkan, to join our ever growing geographically-distributed Graphics domain team.</div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li>Good knowledge of at least one of the OpenGL or Vulkan APIs</li><li>Experience developing on Linux systems</li><li>Knowledge of open source development methodologies and relevant open source communities</li><li>Good English language skills (both verbal and written)&nbsp;</li><li>Ability to work and communicate in an online fully distributed environment </li></ul></ul></div></div><div class="section page-centered"><div><h3>Desirable Skills (The below are skills that to some degree will be useful at the start of your career within Collabora. Training and opportunities for development will be offered)</h3><ul class="posting-requirements plain-list"><ul><li>Experience profiling and optimizing application's use of the GPU</li><li>Experience with developing GPU compilers</li><li>Direct contributions to the Mesa 3D Graphics Library</li><li>Experience leading teams to understand and define constraints, requirements and solutions</li><li>Good communication with customers and upstream communities</li><li>Self-learning skills to get sufficient knowledge of Collabora's services,&nbsp;business model, project delivery life cycle and other related technical domains</li><div><br></div></ul></ul></div></div><div class="section page-centered" data-qa="closing-description"><div>Collabora's Graphics team contributes to the entire Linux Graphics stack, from the Linux kernel up to the display servers, including but not  limited to GPU and display kernel drivers, Wayland/Weston, OpenGL, Vulkan and other open-source graphics drivers within the Mesa 3D Graphics Library for different customers’ projects in various market verticals.</div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/bd4a9eb8-528f-4553-a832-ca6949ab46bd/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Senior Python Developer CloudLinux - REMOTE/Work Anywhere</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/1885701506" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>We are seeking<strong> Python developers</strong> to work on innovative projects within our CloudLinux OS team. These opportunities will play an integral role in our enterprise cyber security applications. The Senior Python developers will have several opportunities for growth through leadership programs and challenging projects. </p><p>CloudLinux OS, our flagship product, runs on more than 25,000 production servers today, powering over 20 million websites, and is recognized as the best OS for security and efficiency in a shared hosting environment. CloudLinux OS increases server density and enhances security, thus reducing operating costs, decreasing churn rates, and increasing profitability.<br></p><p>Work is fully remote, with flexible hours, where you can plan your day and work from anywhere in the world.</p><p></p><p><strong>What you will do:</strong></p><ul> <li>You will be involved in development of CloudLinux OS products using Python. </li> <ul><li>It is required to cover your code with unit-tests using Python and/or with functional tests.</li></ul> <li>Review of code written by your colleagues using Gerrit.</li> <li>Architecture development and writing technical documentation for new features.</li> <li>Investigating issues reported by our clients, partners or support team.</li> <li>Communication with our 3rd level support team to provide consultations or help related to KernelCare products.</li> </ul><h3>Requirements: </h3><p><strong>Qualifications that we are looking for:</strong></p><p>Must:</p><ul> <li>4+ years of Python programming experience.</li> <li>System programming. Sockets, filesystem, process management.</li> <li>GNU/Linux operating system and shell scripting experience.</li> <li>Experience with git-based development processes.</li> <li>PyTest.</li> <li>Intermediate level of English language.</li> </ul><p>Desired:</p><ul> <li>Knowledge of Ansible, Jenkins.</li> <li>FE background using technologies such as Bootstrap, jquery and Vue.js.</li> <li>Knowledge about rpm/deb package management (writing rpm spec, deb rules).</li> <li>C language.</li> <li>Python frameworks: Flask, SQLAlchemy.</li> <li>NGINX.</li> <li>ClickHouse.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A great opportunity for professional development within the young and fast-growing company.</li> <li>Interesting and challenging projects</li> <li>Knowledge-Exchange</li> <li>Remote work with long-term employment on a full-time basis under contract</li> <li>High-level compensation based on the performance reviews</li> <li>Flexible working hours</li> <li>Paid one month vacation per year and sick leaves</li> <li>Medical insurance reimbursement</li> <li>English educational programs</li> <li>Ability to study and attend seminars and training according to the request</li> <li>Co-working and gym/sports compensations</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.<br> </li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Senior Python Developer/Lead for Imunify - REMOTE/ Work Anywhere</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/50DACE408A" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>We are looking for a talented Senior Python Developer/Lead to join our Imunify team.&nbsp;</p><p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure everyone is successful. We are truly a great place to work. </p><p>For more details about our company go to <a href="http://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">Cloudlinux.com</a>.</p><p>Imunify Security is an innovative security solution, powered by Artificial Intelligence for Linux web servers. It is designed specifically for shared and VPS/Dedicated servers. The automated, easy-to-use security solution with the six-layer approach to security delivers comprehensive and complete attack prevention.</p><p>As a&nbsp; Senior Python Developer/Lead&nbsp; Engineer you will be focused on: </p><p>1) the web-facing applications that are being used by our employees, our customers, and their end-users, and </p><p>2) the internal back-end services. In the back-end we’re processing, analyzing and acting upon scan data that is submitted by our agent software running on our customers’ web hosting servers. The component which ownership you will take is offered as SaaS and delivered from our own centralized infrastructure. Scalability challenges and the sensitive nature of the data that we are processing make this role incredibly demanding and interesting. You need to have a deep understanding and knowledge of Python, message queues, managing large data sets and security. Your work directly impacts the safety and workings of millions of websites around the world, so attention to detail and a high quality standard of your work are extremely important skills that we are looking for in evaluating our candidates.</p><p></p><p><strong>What you will do:</strong></p><ul> <li>Take technical ownership of one of the Imunify360 components</li> <li>Design, build and deploy new features for our web-facing applications and back-end services.</li> <li>Review and iterate architecture to ensure scale along with our incredible growth.</li> <li>Review and iterate architecture to ensure sensitive data is stored securely at all times.</li> <li>Be involved in architecture and write technical documents</li> <li>Investigate issues reported by our clients, partners, or support team.</li> </ul><p></p><h3>Requirements: </h3><p><strong>Qualifications that we are looking for:</strong></p><ul><ul> <li>Several years of relevant work experience as a Software Engineer</li> <li>You have a true passion for the security field.</li> <li>Web programming experience especially with Django framework</li> <li>Linux servers administration experience is a plus</li> <li>Experience with automated testing and CI/CD systems is a plus</li> <li>Intermediate level of English language.</li> </ul></ul><p><strong>Personal skills:</strong></p><ul><ul> <li>Fast-learning, proactivity.</li> <li>Strong self-motivation, driven to achieve committed milestones.</li> <li>Strong prioritization skills and a flexible mindset&nbsp;</li> <li>The ability to independently analyze a task and find the right solution.</li> <li>The ability to work with vague requirements and making independent decisions</li> <li>The ability to work in a team.</li> </ul></ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li> Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
                 </details>
                 </td>
             </tr>,<tr>
