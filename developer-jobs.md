@@ -1,5 +1,69 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1888157/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Gozem</h5>
+                    <h3>iOS Developer</h3>
+                </td>
+                <td width="300">
+                    <code>api,C,cloud,git</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/ios-developer-1888157" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Founded in 2018, Gozem is today a technological group of more than 400 people, <strong>agile and ambitious</strong>, which offers via its mobile application a very wide range of services including transport, delivery, financing, mobile money and many others, to African users. Present in Benin, Togo, Gabon and Cameroon, our group's ambition is to become "Africa's Super App" by establishing itself throughout French speaking Africa. Our solution is 100% focused on the African market, serving drivers, customers, traders and soon, SMEs in our areas of activity. </p>
+<p>We are a multinational group, with a strong presence in several cities and pride ourselves on <strong>helping to improve the lives of local communities</strong> through the digitalisation of the market and the introduction of technology-based efficiencies.</p>
+<p>Are you looking to grow in a challenging and friendly environment? Do you want to evolve and progress in dynamic and disruptive digital contexts? </p>
+<p>Join us in building a new African digital ecosystem that improves the quality of life. <strong>Together, let's make Africa smile!</strong></p>
+<p><br><br></p>
+<p>Website: <a href="http://www.gozem.co" rel="nofollow">http://www.gozem.co</a></p>
+<p>Google Play Store: <a href="https://play.google.com/store/apps/details?id=com.gozem" rel="nofollow">https://play.google.com/store/apps/details?id=com.gozem </a></p>
+<p>Apple App Store: <a href="https://apps.apple.com/us/app/gozem/id1441247963" rel="nofollow">https://apps.apple.com/us/app/gozem/id1441247963 </a></p>
+<p>Glassdoor:  <a href="https://www.glassdoor.fr/Avis/Gozem-Avis-E4564661.htm" rel="nofollow">https://www.glassdoor.fr/Avis/Gozem-Avis-E4564661.htm</a> </p>
+<p><br><br></p>
+<p><strong>What is an iOS Developer at Gozem?</strong></p>
+<p>As An iOS Developer, you should have a strong working knowledge of iOS Frameworks, be proficient in Objective-C, and be able to work as part of a team. Ultimately, an outstanding iOS Developer should be able to create functional, attractive applications that perfectly meet the needs of the user.</p>
+<p>You will work in collaboration with our team of developers located around the world (Benin, Cameroon, Nigeria, Senegal, Togo, Kenya, India, Sri Lanka...)</p>
+<p><strong>Your tasks: </strong></p>
+<ul style=""><li style="">Design and build applications for the iOS platform</li><li style="">Ensure the performance, quality, and responsiveness of applications</li><li style="">Collaborate with a team to define, design, and ship new features</li><li style="">Identify and correct bottlenecks and fix bugs</li><li style="">Help maintain code quality, organization, and automatization</li></ul>
+<p><strong>You are the right person for this job if you...</strong></p>
+<ul style=""><li style="">Are  proficient with Objective-C or Swift , and Cocoa Touch</li><li style="">Have an experience with offline storage, threading, and performance tuning</li><li style="">Are Familiarly with RESTful APIs to connect iOS applications to back-end services</li><li style="">Have knowledge of other web technologies and UI/UX standards</li><li style="">understand Apple's design principles and interface guidelines</li><li style="">Experience with performance and memory tuning with tools </li><li style="">Are familiarly with cloud message APIs and push notifications</li><li style="">Have good skills for benchmarking and optimization</li><li style="">Are familiarly with continuous integration</li><li style=""> understand code versioning tools such as Git</li></ul>
+<p></p>
+<p><strong>You have</strong></p>
+<p></p>
+<ul style=""><li style="">Level of education: Master's degree (recommended but not required)</li><li style="">At least 5 years experience in a similar position</li><li style="">Mandatory skills: iOS frameworks such as Core Data, Core Animation, etc.</li><li style="">Skills we are looking for in addition, Knowledge of low-level C-based libraries is preferred</li><li style="">Tools to master: Asana, Trello, G-Suite</li><li style="">Languages : <ul style=""><li style="">French </li><li style="">English</li></ul></li><li style="">Location: on site or remote</li></ul>
+<p></p>
+<p></p>
+<p><strong>Working conditions &amp; benefits</strong></p>
+<p></p>
+<p>We offer our employees a fair, friendly and intercultural working environment, in which we strive to develop the talents of each individual. To achieve this, we offer:  </p>
+<p></p>
+<p></p>
+<p> Remote work if you are not based in a country where Gozem is established (Togo, Benin, Gabon, Cameroon)</p>
+<p> Open-space offices and teleworking time possible (to be arranged with your </p>
+<p>manager)</p>
+<p> A gross monthly remuneration defined according to our internal salary grid as well as the relevance of your past experiences for the position.</p>
+<p> An annual bonus allowing you to receive between 0 and 4.5 months of additional salary the following year</p>
+<p> Benefits on our Super App for your travel and deliveries </p>
+<p> A health and IT insurance package</p>
+<p></p>
+<p><strong>And above all, the opportunity to join a young, dynamic team that has a real social impact in French-speaking Africa!</strong></p>
+<p><strong>Interview process</strong></p>
+<p></p>
+<ul style=""><li style="">An initial introductory meeting with the recruitment manager (30 minutes) </li><li style="">A business case to be completed within 08 days </li><li style="">A presentation of your business case with the head of the Tech team and a time to discuss your professional experience</li><li style="">An interview of 45 minutes with our Head of product (future n+1) followed by a referral request (you give us 4 professional contacts to whom we send a questionnaire)</li><li style="">One final validation interview with one of our co-founders (optional)</li></ul>
+<img src="https://remotive.com/job/track/1888157/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1680495/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +74,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
