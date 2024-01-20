@@ -10,7 +10,7 @@
                     <code>.Net,backend,git,sql</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-net-developer-flower-gifts-1886728" align="right" target="_blank">Apply</a>
@@ -37,70 +37,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1888157/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Gozem</h5>
-                    <h3>iOS Developer</h3>
-                </td>
-                <td width="300">
-                    <code>api,C,cloud,git</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/ios-developer-1888157" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Founded in 2018, Gozem is today a technological group of more than 400 people, <strong>agile and ambitious</strong>, which offers via its mobile application a very wide range of services including transport, delivery, financing, mobile money and many others, to African users. Present in Benin, Togo, Gabon and Cameroon, our group's ambition is to become "Africa's Super App" by establishing itself throughout French speaking Africa. Our solution is 100% focused on the African market, serving drivers, customers, traders and soon, SMEs in our areas of activity. </p>
-<p>We are a multinational group, with a strong presence in several cities and pride ourselves on <strong>helping to improve the lives of local communities</strong> through the digitalisation of the market and the introduction of technology-based efficiencies.</p>
-<p>Are you looking to grow in a challenging and friendly environment? Do you want to evolve and progress in dynamic and disruptive digital contexts? </p>
-<p>Join us in building a new African digital ecosystem that improves the quality of life. <strong>Together, let's make Africa smile!</strong></p>
-<p><br><br></p>
-<p>Website: <a href="http://www.gozem.co" rel="nofollow">http://www.gozem.co</a></p>
-<p>Google Play Store: <a href="https://play.google.com/store/apps/details?id=com.gozem" rel="nofollow">https://play.google.com/store/apps/details?id=com.gozem </a></p>
-<p>Apple App Store: <a href="https://apps.apple.com/us/app/gozem/id1441247963" rel="nofollow">https://apps.apple.com/us/app/gozem/id1441247963 </a></p>
-<p>Glassdoor:  <a href="https://www.glassdoor.fr/Avis/Gozem-Avis-E4564661.htm" rel="nofollow">https://www.glassdoor.fr/Avis/Gozem-Avis-E4564661.htm</a> </p>
-<p><br><br></p>
-<p><strong>What is an iOS Developer at Gozem?</strong></p>
-<p>As An iOS Developer, you should have a strong working knowledge of iOS Frameworks, be proficient in Objective-C, and be able to work as part of a team. Ultimately, an outstanding iOS Developer should be able to create functional, attractive applications that perfectly meet the needs of the user.</p>
-<p>You will work in collaboration with our team of developers located around the world (Benin, Cameroon, Nigeria, Senegal, Togo, Kenya, India, Sri Lanka...)</p>
-<p><strong>Your tasks: </strong></p>
-<ul style=""><li style="">Design and build applications for the iOS platform</li><li style="">Ensure the performance, quality, and responsiveness of applications</li><li style="">Collaborate with a team to define, design, and ship new features</li><li style="">Identify and correct bottlenecks and fix bugs</li><li style="">Help maintain code quality, organization, and automatization</li></ul>
-<p><strong>You are the right person for this job if you...</strong></p>
-<ul style=""><li style="">Are  proficient with Objective-C or Swift , and Cocoa Touch</li><li style="">Have an experience with offline storage, threading, and performance tuning</li><li style="">Are Familiarly with RESTful APIs to connect iOS applications to back-end services</li><li style="">Have knowledge of other web technologies and UI/UX standards</li><li style="">understand Apple's design principles and interface guidelines</li><li style="">Experience with performance and memory tuning with tools </li><li style="">Are familiarly with cloud message APIs and push notifications</li><li style="">Have good skills for benchmarking and optimization</li><li style="">Are familiarly with continuous integration</li><li style=""> understand code versioning tools such as Git</li></ul>
-<p></p>
-<p><strong>You have</strong></p>
-<p></p>
-<ul style=""><li style="">Level of education: Master's degree (recommended but not required)</li><li style="">At least 5 years experience in a similar position</li><li style="">Mandatory skills: iOS frameworks such as Core Data, Core Animation, etc.</li><li style="">Skills we are looking for in addition, Knowledge of low-level C-based libraries is preferred</li><li style="">Tools to master: Asana, Trello, G-Suite</li><li style="">Languages : <ul style=""><li style="">French </li><li style="">English</li></ul></li><li style="">Location: on site or remote</li></ul>
-<p></p>
-<p></p>
-<p><strong>Working conditions &amp; benefits</strong></p>
-<p></p>
-<p>We offer our employees a fair, friendly and intercultural working environment, in which we strive to develop the talents of each individual. To achieve this, we offer:  </p>
-<p></p>
-<p></p>
-<p> Remote work if you are not based in a country where Gozem is established (Togo, Benin, Gabon, Cameroon)</p>
-<p> Open-space offices and teleworking time possible (to be arranged with your </p>
-<p>manager)</p>
-<p> A gross monthly remuneration defined according to our internal salary grid as well as the relevance of your past experiences for the position.</p>
-<p> An annual bonus allowing you to receive between 0 and 4.5 months of additional salary the following year</p>
-<p> Benefits on our Super App for your travel and deliveries </p>
-<p> A health and IT insurance package</p>
-<p></p>
-<p><strong>And above all, the opportunity to join a young, dynamic team that has a real social impact in French-speaking Africa!</strong></p>
-<p><strong>Interview process</strong></p>
-<p></p>
-<ul style=""><li style="">An initial introductory meeting with the recruitment manager (30 minutes) </li><li style="">A business case to be completed within 08 days </li><li style="">A presentation of your business case with the head of the Tech team and a time to discuss your professional experience</li><li style="">An interview of 45 minutes with our Head of product (future n+1) followed by a referral request (you give us 4 professional contacts to whom we send a questionnaire)</li><li style="">One final validation interview with one of our co-founders (optional)</li></ul>
-<img src="https://remotive.com/job/track/1888157/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1680495/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -111,7 +47,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -871,6 +807,30 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div>Collabora is looking for a passionate and enthusiastic open-source software developer, with good knowledge of at least one of OpenGL or Vulkan, to join our ever growing geographically-distributed Graphics domain team.</div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li>Good knowledge of at least one of the OpenGL or Vulkan APIs</li><li>Experience developing on Linux systems</li><li>Knowledge of open source development methodologies and relevant open source communities</li><li>Good English language skills (both verbal and written)&nbsp;</li><li>Ability to work and communicate in an online fully distributed environment </li></ul></ul></div></div><div class="section page-centered"><div><h3>Desirable Skills (The below are skills that to some degree will be useful at the start of your career within Collabora. Training and opportunities for development will be offered)</h3><ul class="posting-requirements plain-list"><ul><li>Experience profiling and optimizing application's use of the GPU</li><li>Experience with developing GPU compilers</li><li>Direct contributions to the Mesa 3D Graphics Library</li><li>Experience leading teams to understand and define constraints, requirements and solutions</li><li>Good communication with customers and upstream communities</li><li>Self-learning skills to get sufficient knowledge of Collabora's services,&nbsp;business model, project delivery life cycle and other related technical domains</li><div><br></div></ul></ul></div></div><div class="section page-centered" data-qa="closing-description"><div>Collabora's Graphics team contributes to the entire Linux Graphics stack, from the Linux kernel up to the display servers, including but not  limited to GPU and display kernel drivers, Wayland/Weston, OpenGL, Vulkan and other open-source graphics drivers within the Mesa 3D Graphics Library for different customers’ projects in various market verticals.</div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/bd4a9eb8-528f-4553-a832-ca6949ab46bd/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Senior Python Developer Remote / Work Anywhere</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/D7E64E778E" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>KernelCare, CloudLinux’s fastest-growing product, provides automated kernel security updates without reboots for most popular Linux distributions. It ensures optimal performance and uptime by allowing hosting providers and enterprises to keep kernels up-to-date with all security patches while keeping servers online.</p><p>Work is fully remote, with flexible hours, where you can plan your day and work from anywhere in the world.</p><p>More details about the project you can find on the product website TuxCare.com</p><p>As our Senior Python Developer you will;</p><ul> <li>Get hands-on with developing our cutting-edge KernelCare products using Python.</li> <li>Ensure the quality of your code by writing comprehensive unit tests with Python and/or functional tests.</li> <li>Collaborate with your colleagues by reviewing their code through Gerrit.</li> <li>Contribute to the growth of our products through architecture development and creating detailed technical documentation for new features.</li> <li>Dive into reported issues from our clients, partners, or support team to investigate and find solutions.</li> <li>Work closely with our 3rd level support team, providing consultations and assistance on matters related to KernelCare products.</li> </ul><h3>Requirements: </h3><p>To be successful you should have;</p><ul><li>Experience with ClickHouse is a must</li></ul><ul> <li>4+ years of Python programming experience.</li> <li>Experience with System programming Sockets, filesystem, process management.</li> <li>GNU/Linux operating system and shell scripting experience.</li> <li>Experience with git-based development processes.</li> <li>PyTest.</li> <li>Intermediate level of English language.</li> </ul><p>It would be ideal if you also know;</p><ul> <li>Ansible, Jenkins.</li> <li>rpm/deb package management (writing rpm spec, deb rules).</li> <li>C language.</li> <li>Python frameworks: Flask, SQLAlchemy.</li> <li>NGINX.</li> </ul><p>In addition you should be;</p><ul> <li>Quick to learn and proactive.</li> <li>Highly self-motivated, determined to accomplish set goals.</li> <li>Able to independently analyze tasks and identify optimal solutions.</li> <li>Skilled at collaboration and working effectively in teams.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li> Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
                 </details>
                 </td>
             </tr>,<tr>
