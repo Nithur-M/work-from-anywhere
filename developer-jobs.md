@@ -1,38 +1,80 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1886728/logo" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1891624/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Social Discovery Group</h5>
-                    <h3>Senior .NET Developer (Flower&Gifts)</h3>
+                    <h5>Akasha</h5>
+                    <h3>JavaScript Developer</h3>
                 </td>
                 <td width="300">
-                    <code>.Net,backend,git,sql</code>
+                    <code>frontend,graphql,javascript,react</code>
                 </td>
                 <td width="200">
                 <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-net-developer-flower-gifts-1886728" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/javascript-developer-1891624" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p><a href="https://socialdiscoverygroup.com/about-us" rel="nofollow"><strong>Social Discovery Group</strong> </a>is the world's largest group of social discovery companies which unites <strong>more than 50 brands</strong>. For <strong>more than 20 years, </strong>we have been creating premium international dating services and social discovery apps with a focus on video streaming, AI technologies, entertainment, and game mechanics. Our product portfolio includes <strong>Dating.com, Cupid Media, Dil Mil, and many others.</strong> The products are already used by more than 500 million users in 150 countries around the world.</p>
-<p>SDG<strong> <a href="https://socialdiscoverygroup.com/investments" rel="nofollow">Invests</a> </strong>in social discovery technology startups around the world. <a href="https://socialdiscoverygroup.com/investments" rel="nofollow"><strong>Our Investments</strong></a> include <strong>Open AI, Patreon, Flo, Wildly, RAW, EVA AI, Clubhouse, Magnet, Tubit, Woebot, BamBam, Flure, </strong><strong>Astry</strong><strong>, </strong><strong>Coursera, Academia, Harbour, Space, Auto1, DocSend, AppAnnie, Rapyd, Boom Supersonic, Trading, View, K-Health and many others.</strong></p>
-<p>We solve the problem of loneliness, isolation, and disconnection with the help of digital reality.</p>
-<p>Our digital nomad team of <strong>more than 800 professionals </strong>works all over the world. Our international team of like-minded people and professionals solves ambitious daily tasks and creates truly global products. We value focusing on results, a proactive approach, and we are always looking for new and unconventional ideas.</p>
-<p>Our teams of digital nomads live and work remotely from <strong>Cyprus, Malta, the USA, Thailand, Indonesia, Hong Kong, Australia, Poland, Israel, Türkiye, Latvia and many others.</strong></p>
-<p>We are looking for a<strong> Senior Backend Developer  (.NET) for our Core product.</strong></p>
-<p><strong>Your main tasks will be:</strong></p>
-<ul style=""><li style="">Developing new features for a website/mobile application.</li><li style="">Contributing to the design of the architecture for a large, high-traffic application.</li><li style="">Implementing complex business tasks and technical system enhancements.</li><li style="">Continuously improving the development process.</li></ul>
-<p><strong>We expect from you:</strong></p>
-<ul style=""><li style="">Experience with Git.</li><li style="">Experience in developing distributed and/or high-load applications;</li><li style="">Experience with RabbitMQ or other Message Brokers;</li><li style="">Experience with Microsoft SQL Server 2008-2016;</li><li style="">Experience with .NET Core.</li></ul>
-<p><strong>What do we offer:</strong></p>
-<ul style=""><li style=""><strong>REMOTE OPPORTUNITY</strong> to work full time;</li><li style=""><strong>7 wellness days per year</strong> (time off) that can be used to deal with household issues, to lie down and recover without taking sick leave;</li><li style=""><strong>Bonuses up to $5000 </strong>for recommending successful applicants for positions in the company;</li><li style="">Full payment for <strong>professional training, international conferences and meetings;</strong></li><li style="">Corporate discount for <strong>English lessons;</strong></li><li style="">​<strong>Health benefits. </strong>If you are not eligible for Corporate Medical Insurance, the company will compensate up to $1000 gross per year per employee according to the paychecks. This can be spent on self-purchase of health insurance, or on doctor's fees for yourself and close relatives (spouse, children);</li><li style="">​<strong>Workplace organization. </strong>The company provides all employees with an equipped workplace and all the necessary equipment (table, armchair, wifi, etc.) in the locations where we have offices or co-working. In the other locations, the company provides reimbursement of workplace costs up to $ 1000 gross once every 3 years according to the paychecks. This money can be spent on the rent of the co-working room, on equipping the working place at home (desk, chair, Internet, etc.) during those 3 years;</li><li style=""><strong>Internal gamified gratitude system: </strong>receive bonuses from colleagues and exchange them for time off, merch, team building activities, massage certificates, etc.</li></ul>
-<p><strong>Sounds good? Join us now!</strong></p>
-<img src="https://remotive.com/job/track/1886728/blank.gif?source=public_api" alt=""/>
+                <p style="border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; line-height: 30px; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px auto 26px; padding: 0px; vertical-align: baseline; -webkit-font-smoothing: antialiased; text-align: center; background-color: #ffffff;"><span style="border: 0px; font-variant-alternates: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-position: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline;">If you're seeking an exciting career opportunity or an authentic chance to learn new technologies and feel that you are up to the challenge please get in touch: </span></p>
+<p style="border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; line-height: 30px; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px auto 26px; padding: 0px; vertical-align: baseline; -webkit-font-smoothing: antialiased; text-align: center; background-color: #ffffff;"><span style="border: 0px; font-variant-alternates: inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-position: inherit; font-stretch: inherit; line-height: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><span style="color: #333333; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: bold;"><em>YOU </em></span><span style="color: #333333;"><span style="font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit;">have a place in this team and project!</span></span><br><br><strong><span style="color: #333333;">(preferred time zones UTC to UTC +3)</span></strong><br><br></span></p>
+<div class="h4" style="border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; line-height: 30px; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px auto 26px; padding: 0px; vertical-align: baseline; -webkit-font-smoothing: antialiased; background-color: #ffffff; text-align: left;">Project Overview</div>
+<p style="border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; line-height: 30px; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px auto 26px; padding: 0px; vertical-align: baseline; -webkit-font-smoothing: antialiased; background-color: #ffffff; text-align: left;">By combining blockchain technologies such as Ethereum and the Inter Planetary File System (IPFS), AKASHA has the potential to change the way ideas, thoughts and experiences are shared and stored on the Internet.</p>
+<p style="border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; line-height: 30px; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px auto 26px; padding: 0px; vertical-align: baseline; -webkit-font-smoothing: antialiased; background-color: #ffffff; text-align: left;">As part of our remote team distributed across the globe, you will work with some of the brightest minds in the blockchain tech space on unique and challenging ideas. You will also be in direct contact with the development and user community at large, actively participating in open discussions and brainstorming sessions.</p>
+<p style="border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; line-height: 30px; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px auto 26px; padding: 0px; vertical-align: baseline; -webkit-font-smoothing: antialiased; text-align: center; background-color: #ffffff;"> </p>
+<div class="h4" style="border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; line-height: 30px; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px auto 26px; padding: 0px; vertical-align: baseline; -webkit-font-smoothing: antialiased; background-color: #ffffff; text-align: left;">Requirements</div>
+<ul style="">
+<li style="">3+ years JavaScript development experience</li>
+<li style="">Ability to work as a teammate in a fast-paced team</li>
+<li style="">Experience with software testing and continuous integration</li>
+<li style="">Eye for detail</li>
+<li style="">Good English skills written and spoken</li>
+</ul>
+<div class="h4" style="border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; line-height: 30px; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px auto 26px; padding: 0px; vertical-align: baseline; -webkit-font-smoothing: antialiased; background-color: #ffffff; text-align: left;"> </div>
+<div class="h4" style="border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; line-height: 30px; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px auto 26px; padding: 0px; vertical-align: baseline; -webkit-font-smoothing: antialiased; background-color: #ffffff; text-align: left;">Knowledge of</div>
+<ul style="">
+<li style="">Software design patterns</li>
+<li style="">React</li>
+<li style="">Typescript</li>
+<li style="">React hooks</li>
+<li style="">React Query</li>
+<li style="">Jest/Cypress</li>
+<li style="">GraphQL</li>
+<li style="">Micro-Frontend architecture</li>
+<li style="">Webpack</li>
+<li style="">IndexedDB</li>
+</ul>
+<div class="h4" style="border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; line-height: 30px; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px auto 26px; padding: 0px; vertical-align: baseline; -webkit-font-smoothing: antialiased; background-color: #ffffff; text-align: left;"> </div>
+<div class="h4" style="border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; line-height: 30px; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px auto 26px; padding: 0px; vertical-align: baseline; -webkit-font-smoothing: antialiased; background-color: #ffffff; text-align: left;">Nice to have</div>
+<ul style="">
+<li style="">5+ years JavaScript experience</li>
+<li style="">Knowledge of blockchain technologies (Ethereum, IPFS, Filecoin, etc)</li>
+<li style="">Experience in open source projects</li>
+<li style="">A university degree in information technology</li>
+</ul>
+<div class="h4" style="border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; line-height: 30px; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px auto 26px; padding: 0px; vertical-align: baseline; -webkit-font-smoothing: antialiased; background-color: #ffffff; text-align: left;"> </div>
+<div class="h4" style="border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; line-height: 30px; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px auto 26px; padding: 0px; vertical-align: baseline; -webkit-font-smoothing: antialiased; background-color: #ffffff; text-align: left;">What We Offer</div>
+<ul style="">
+<li style="">The opportunity to make a positive impact in the world</li>
+<li style="">A meaningful job in a young, dynamic and friendly team</li>
+<li style="">A work environment inspiring excellence and creativity</li>
+<li style="">Competitive compensation based on experience and performance</li>
+<li style="">The chance to play with ideas that could reshape entire industries</li>
+<li style="">Continuous learning opportunities and unique challenges to take on</li>
+<li style="">Traveling opportunities to various blockchain events and conferences</li>
+<li style="">Flexible schedule</li>
+</ul>
+<div class="h4" style="border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; line-height: 30px; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px auto 26px; padding: 0px; vertical-align: baseline; -webkit-font-smoothing: antialiased; background-color: #ffffff; text-align: left;"> </div>
+<div class="h4" style="border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; line-height: 30px; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px auto 26px; padding: 0px; vertical-align: baseline; -webkit-font-smoothing: antialiased; background-color: #ffffff; text-align: left;">The Company</div>
+<p style="border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; line-height: 30px; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px auto 26px; padding: 0px; vertical-align: baseline; -webkit-font-smoothing: antialiased; background-color: #ffffff; text-align: left;">Together with a group of independent thinkers hacking under the Swiss AKASHA Foundation umbrella, we are bravely experimenting with new technologies in the search for solutions that can transform the Web into an ecosystem in service of humanity.</p>
+<p style="border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; line-height: 30px; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px auto 26px; padding: 0px; vertical-align: baseline; -webkit-font-smoothing: antialiased; background-color: #ffffff; text-align: left;">On this note, we are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p>
+<p style="border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; line-height: 30px; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px auto 26px; padding: 0px; vertical-align: baseline; -webkit-font-smoothing: antialiased; background-color: #ffffff; text-align: left;">What's meaningful to us is being a friendly, passionate person resonating with our purpose and genuinely interested in doing a phenomenal job towards a better world through technology, while also having fun along the way :)</p>
+<div class="h4" style="border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; line-height: 30px; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px auto 26px; padding: 0px; vertical-align: baseline; -webkit-font-smoothing: antialiased; background-color: #ffffff; text-align: left;">Everyone's Welcome</div>
+<p style="border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; line-height: 30px; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; margin: 0px auto 26px; padding: 0px; vertical-align: baseline; -webkit-font-smoothing: antialiased; background-color: #ffffff; text-align: left;">Don't tick every box for this role but still think you'd be a great fit for our team? We'd love to hear from you! Just shoot us your application and let us know how you can make a difference at AKASHA. We're all about fresh ideas and new perspectives, so tell us about yours. Can't wait to see what you bring to the table!</p>
+<img src="https://remotive.com/job/track/1891624/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -47,7 +89,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
