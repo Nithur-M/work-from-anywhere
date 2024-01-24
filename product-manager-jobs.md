@@ -110,7 +110,7 @@
 <p>Our Product Managers are hard-working, results-driven, and passionate people advocates! We are product machines - passionate about turning feedback from our customers and turning that into better products. You are an enthusiastic, driven, and results-oriented Product Manager who shares<a href="https://about.sourcegraph.com/company/values"> our values</a> and has a passion for all things Product.</p>
 <p>🔍 Your skill-set:</p>
 <ul>
-<li>3 - 5 years working as a product manager.</li>
+<li>5+ years working as a product manager.</li>
 <li>Demonstrated leadership skills and ability to drive and influence product strategy across engineering, design, and distribution.</li>
 <li>Deep knowledge of the needs of enterprise customers, not just the core workflows but common supporting requirements like support, security, privacy and auditing.</li>
 <li>Experience working as a software engineer. This is a very technical role and requires software engineering experience to effectively communicate with engineers and make educated decisions affecting product scope and performance at scale.</li>
