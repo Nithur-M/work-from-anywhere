@@ -1,5 +1,86 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://media.licdn.com/dms/image/D4E0BAQGvUyfPVBWDyg/company-logo_200_200/0/1657595552015?e=2147483647&v=beta&t=EecsDCOy3Fh_26M1noQDDIYw8-JuGKz_d1JDvcBZ-yI" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Bobtail</h5>
+                    <h3>Sr. Software Engineer - Backend (Card Payment)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/bobtail/jobs/4001219005" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    
+
+    <h2><span style="font-weight: 400;">About Bobtail</span></h2>
+<p><span style="font-weight: 400;">Bobtail is dedicated to increasing happiness by eliminating inefficiencies in the supply chain.&nbsp; We envision a supply chain without friction, fraud, waste, and abuse where companies succeed based on the value they create.&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">We work in a unique way at Bobtail, where we value teams over individuals and encourage experimentation and iteration to constantly improve.&nbsp; Teams are given flexibility in working towards a shared purpose and given the freedom to decide how they will accomplish their goals.&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">If you are an out of the box thinker that takes a proactive approach in collaborating with others to solve problems and achieve your goals - we would love to talk to you.&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">The things we value:</span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mission</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Teams over individuals</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Collaboration</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Communication</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Iteration</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experimentation and failing fast</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Initiative and solutions oriented approach</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Documentation</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Data</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mental health and work life balance</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Diversity</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Transparency</span><span style="font-weight: 400;"><br><br></span></li>
+</ol>
+<h2><span style="font-weight: 400;">You should apply if you have:</span></h2>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Exposure to SDLC from reviewing requirements through to debugging complex systems in Production.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Strong theoretical fundamentals and hands-on experience designing and implementing highly available and performant fault-tolerant distributed systems.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">5+ years of experience in software engineering with demonstrated proficiency in programming languages, such as nodejs, typescript and overall system design.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Experience building enterprise software, event driven microservices architecture, and distributed systems at scale.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Bachelor's degree in computer science or a related engineering degree.</span></li>
+</ul>
+<h2><span style="font-weight: 400;">You will be responsible for:</span></h2>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Writing reusable, testable, efficient and secure code.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Working with large scale, highly available and resilient modern financial systems.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Working with automated deployment, enabling code release multiple times a day.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Working with modern tools and languages that excite you</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Being an integral part of a team, in addition to its culture and ways of working. Common practices include agile methodologies.</span></li>
+</ul>
+<h2><span style="font-weight: 400;">Some of the technologies you’ll get to work with:</span></h2>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Typescript &amp; Javascript.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Node.js, Express js.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">CI/CD, AWS, Terraform, Docker, EKS / ECS.</span></li>
+</ul>
+<h2><span style="font-weight: 400;">Benefits</span></h2>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Monthly Mental Break Day</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Paid Time Off</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Work from home (or wherever)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Parental leave</span></li>
+</ul>
+<p><span style="font-weight: 400;">If you are interested in learning more, please email us at careers@bobtail.com.</span></p>
+<p><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">Creating a diverse and inclusive workplace is Bobtail’s nucleus. We are an equal opportunity employer and embrace people of different backgrounds, cultures, religions, national origins, races, colors, genders, gender expressions, sexual orientations, ages, marital status, veteran status, experiences, abilities and perspective</span><span style="font-weight: 400;">s.</span> <span style="font-weight: 400;"><br><br></span></p>
+
+    
+
+    
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
