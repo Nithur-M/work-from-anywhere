@@ -1,5 +1,73 @@
 <div align="center"><h2>SITE RELIABILITY ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1894475/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Wikimedia</h5>
+                    <h3>Site Reliability Engineer III, Observability</h3>
+                </td>
+                <td width="300">
+                    <code>kubernetes,python</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/devops/site-reliability-engineer-iii-observability-1894475" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Site Reliability Engineer III, Observability</strong></p>
+<p><strong>Summary</strong></p>
+<p>Wikimedia Foundation is hiring a Site Reliability Engineer (SRE) to join our SRE team, where we take care of the infrastructure that runs wikipedia.org and other Wikimedia Foundation projects. We are responsible for the entire infrastructure stack, from multiple data centers through networking and interconnects to thousands of servers and the application stack that runs on them.</p>
+<p>We are a diverse, distributed team of engineers with a drive to explore, experiment, and embrace new technologies. We are transitioning our platform from a monolith to a hybrid microservices architecture and have implemented these microservices on our on-premises Kubernetes platform with an in-house designed deployment pipeline. We’ve adopted the Elastic Stack and Prometheus as our de facto logging and monitoring platforms. We automate the operational tasks with various technologies, mainly Python and Puppet. We ensure the availability and reliability of one of the most used sites on the Internet and develop the software we need to achieve these goals - for example, our automation platform “spicerack” (<a href="%22https://github.com/wikimedia/operations-software-spicerack%22" rel="nofollow">https://github.com/wikimedia/operations-software-spicerack</a>), which we use to develop cookbooks for repeatable tasks (we ❤️ automation).</p>
+<p>We work in the open and document our activities on our task management system (<a href="%22https://phabricator.wikimedia.org%22" rel="nofollow">https://phabricator.wikimedia.org</a>) and our technical wiki (<a href="%22https://wikitech.wikimedia.org%22" rel="nofollow">https://wikitech.wikimedia.org</a>). Last but not least, our Grafana instance is publicly available! (<a href="%22https://grafana.wikimedia.org%22" rel="nofollow">https://grafana.wikimedia.org</a>) Feel free to check out our work there.</p>
+<p>We are avid supporters of open-source software. If you have interesting open-source contributions, let us know!</p>
+<p>If you find what we do exciting and enjoy working with a globally distributed team that runs a Top-15 website, we may be the place you’re looking for.</p>
+<p>As an engineer in the SRE team, you will be involved in defining and running the infrastructure and services that form the base of Wikimedia Foundation projects. This will include frequent work with other SRE members to improve our scalability, high availability, recoverability, monitoring, and logging infrastructure. You will participate in incident response and the on-call rotation. You will also frequently interact with people not in SRE, like Security, Release, and Software Engineers, who all strive to improve MediaWiki and related software. </p>
+<p>We use more technologies than we can list here and are interested in your experience, even if it doesn’t exactly match the keywords listed here.</p>
+<div class="h5">Responsibilities:</div>
+<ul style="">
+<li style="">Implementation and maintenance of Internet-facing infrastructure and services</li>
+<li style="">Use of configuration management and deployment tools</li>
+<li style="">Monitoring of systems and services, optimization of performance, and resource utilization</li>
+<li style="">Typical operating system-level tasks such as logging and backup / restore</li>
+<li style="">Cookbook/runbook implementation for everyday maintenance actions</li>
+<li style="">Incident response, diagnosis, and follow-up on system outages or alerts</li>
+<li style="">Collaborating with a global and asynchronously communicating team (don’t worry if you have never worked remotely; we’ll help you get used to it)</li>
+</ul>
+<div class="h5">Qualifications:</div>
+<ul style="">
+<li style="">2+ years experience in an SRE/Operations/DevOps role</li>
+<li style="">Experience with operating highly available infrastructure</li>
+<li style="">Comfortable with shell and a programming language used in an SRE/Operations engineering context (Python, Go, Ruby, etc.)</li>
+<li style="">Experience with package management for operating systems (Debian, etc.)</li>
+<li style="">Comfortable with Open Source configuration management and orchestration tools (Puppet, Ansible, TerraForm, etc.)</li>
+<li style="">Past exposure to automation and streamlining of tasks</li>
+<li style="">Communicative technical English</li>
+</ul>
+<div class="h5">We would love it if you have:</div>
+<ul style="">
+<li style="">A history of contributing to Open Source projects</li>
+<li style="">Prior participation in the Wikimedia movement</li>
+<li style="">Hands-on experience with Observability related tools practices (tracing, logging, metrics, performance monitoring, SLOs, and alerting)</li>
+</ul>
+<div class="h4">About the Wikimedia Foundation</div>
+<p>The Wikimedia Foundation is the nonprofit organization that operates Wikipedia and the other Wikimedia free knowledge projects. Our vision is a world in which every single human can freely share in the sum of all knowledge. We believe that everyone has the potential to contribute something to our shared knowledge, and that everyone should be able to access that knowledge freely. We host Wikipedia and the Wikimedia projects, build software experiences for reading, contributing, and sharing Wikimedia content, support the volunteer communities and partners who make Wikimedia possible, and advocate for policies that enable Wikimedia and free knowledge to thrive. </p>
+<p>The Wikimedia Foundation is a charitable, not-for-profit organization that relies on donations. We receive donations from millions of individuals around the world, with an average donation of about $15. We also receive donations through institutional grants and gifts. The Wikimedia Foundation is a United States 501(c)(3) tax-exempt organization with offices in San Francisco, California, USA.</p>
+<p><em><strong>As an equal opportunity employer, the Wikimedia Foundation values having a diverse workforce and continuously strives to maintain an inclusive and equitable workplace. We encourage people with a diverse range of backgrounds to apply. We do not discriminate against any person based upon their race, traits historically associated with race, religion, color, national origin, sex, pregnancy or related medical conditions, parental status, sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, or any other legally protected characteristics.</strong></em></p>
+<p>The Wikimedia Foundation is a remote-first organization with staff members including contractors based in more than 50 countries. Salaries at the Wikimedia Foundation are set in a way that is competitive, equitable, and consistent with our values and culture. The anticipated annual pay range of this position for applicants based within the United States is US$85,925  to US$134,289  with multiple individualized factors, including cost of living in the location, being the determinants of the offered pay. For applicants located outside of the US, the pay range will be adjusted to the country of hire. We neither ask for nor take into consideration the salary history of applicants. The compensation for a successful applicant will be based on their skills, experience and location. </p>
+<p>All applicants can reach out to their recruiter to understand more about the specific pay range for their location during the interview process.</p>
+<p><em><strong>If you are a qualified applicant requiring assistance or an accommodation to complete any step of the application process due to a disability, you may contact us at recruiting@wikimedia.org or +1 (415) 839-6885.</strong></em></p>
+<p><strong>More information</strong></p>
+<p><a href="%22https://wikimediafoundation.org/about/jobs/#section-12%22" rel="nofollow"><strong>U.S. Benefits &amp; Perks</strong></a><br><a href="%22https://wikimediafoundation.org/%22" rel="nofollow"><strong>Wikimedia Foundation</strong></a><br><a href="%22https://foundation.wikimedia.org/wiki/Applicant_privacy_policy%22" rel="nofollow"><strong>Applicant Privacy Policy</strong></a><br><a href="%22https://diff.wikimedia.org/%22" rel="nofollow"><strong>News from across the Wikimedia movement</strong></a><br><a href="%22https://wikimediafoundation.org/news/%22" rel="nofollow"><strong>Blog</strong></a><br><a href="%22https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017%22" rel="nofollow"><strong>Wikimedia 2030</strong></a><br><a href="%22https://medium.com/freely-sharing-the-sum-of-all-knowledge/we-stand-for-racial-justice-49c31afbabca%22" rel="nofollow"><strong>Our Commitment to Equity</strong></a><br><a href="%22https://www.youtube.com/watch?v=OQzZI0l3IOw%22" rel="nofollow"><strong>This is Wikimedia Foundation</strong></a><strong> </strong><br><a href="%22https://www.youtube.com/watch?v=xQ4ba28-oGs%22" rel="nofollow"><strong>Facts Matter</strong></a><br><a href="%22https://wikimediafoundation.org/wiki/Our_projects%22" rel="nofollow"><strong>Our Projects</strong></a><br><a href="%22https://techblog.wikimedia.org/%22" rel="nofollow"><strong>Our Tech Stack</strong></a></p>
+<div id='"l-content"'></div><img src="https://remotive.com/job/track/1894475/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1651226564728700928/h0tz5UT1_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
