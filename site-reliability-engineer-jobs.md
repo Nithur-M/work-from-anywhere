@@ -10,7 +10,7 @@
                     <code>kubernetes,python</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/site-reliability-engineer-iii-observability-1894475" align="right" target="_blank">Apply</a>
