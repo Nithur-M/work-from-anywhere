@@ -4,6 +4,126 @@
                 </td>
                 <td width="300">
                     <h5>Sourcegraph</h5>
+                    <h3>Software Engineer - Release [IC2] </h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/sourcegraph91/jobs/5066307004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
+<h2><span style="color: #a112ff;">Who we are</span></h2>
+<p>Our mission at Sourcegraph is to make it so that&nbsp;<a class="c-link" href="https://handbook.sourcegraph.com/strategy-goals/strategy" target="_blank" data-stringify-link="https://handbook.sourcegraph.com/strategy-goals/strategy" data-sk="tooltip_parent">everyone can code</a>, not just ~0.1% of the population. Our code graph powers Cody, the most powerful and accurate AI coding assistant, as well as our Code Search product, which helps devs explore their entire codebase and make large-scale migrations and security fixes. We’re building software that builds software, and in doing so we’re making devs more productive and preparing for a world where a lot more code gets written.</p>
+<p>It’s an exciting time to join Sourcegraph. AI has taken over the world, and we’ve spent the last 10 years building infrastructure that’s integral to making AI generated code more powerful and accurate. Our customers include 4/5 FAANG companies, 4 of the top 10 banks, government organizations, Uber, Plaid, and many other companies building the software that pushes the world forward. We’ve raised $225M at a $2.625B valuation from <a class="c-link" href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" target="_blank" data-stringify-link="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" data-sk="tooltip_parent">Andreessen Horowitz</a>,&nbsp;<a class="c-link" href="https://about.sourcegraph.com/blog/series-c-with-sequoia/" target="_blank" data-stringify-link="https://about.sourcegraph.com/blog/series-c-with-sequoia/" data-sk="tooltip_parent">Sequoia</a>,&nbsp;<a class="c-link" href="https://www.redpoint.com/companies/sourcegraph/" target="_blank" data-stringify-link="https://www.redpoint.com/companies/sourcegraph/" data-sk="tooltip_parent">Redpoint</a>,&nbsp;<a class="c-link" href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" target="_blank" data-stringify-link="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" data-sk="tooltip_parent">Craft</a>&nbsp;and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</p></div>
+
+    <h2><span style="color: rgb(140, 51, 236);"><strong>Working hours&nbsp;</strong></span></h2>
+<p>🌎 Given that we are an all-remote company and hire <a href="https://handbook.sourcegraph.com/departments/people-ops/process/how-we-engage-talent-outside-the-us/">almost anywhere</a> in the world, we don’t have a particular time-zone preference for this role. However, you may need to be available for non-recurring urgent meetings outside of working hours.</p>
+<h2><span style="color: rgb(140, 51, 236);"><strong>Why this job is exciting&nbsp;</strong></span></h2>
+<p><a href="https://about.sourcegraph.com/cody?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=19895311885&amp;utm_term=sourcegraph%20cody&amp;gclid=CjwKCAjw0ZiiBhBKEiwA4PT9z9jbT-6ncbQS5bLcQHfuIy9Je5bCogDwICrbbZ8Z9TkwiKkenGMuFRoCptEQAvD_BwE">Cody</a> is the best AI coding assistant today, and you'll get to help build it and get it in the hands of millions of devs. Our code intelligence, married with modern AI, is already providing a remarkable alpha experience, and you can help us unlock its full potential.&nbsp;</p>
+<p>Our rapid development pace means that building and releasing our products to the market is a unique challenge, from overseeing the release of all components supporting Cody as well as Cody itself, building the tools to provide a self-service experience to all teammates, to taking part in building a quality infrastructure to monitor Cody quality.&nbsp;</p>
+<p>We are looking for a Senior Release Engineer to join the Developer Infrastructure team to take our release process to the next level, turning it into a seamless process for everyone, maximizing the ownership of individual teams with a platform based approach.&nbsp;</p>
+<p>By joining our team, you will directly impact how Cody and our Code Intelligence platform is released to the world and be at the crossroads of all Sourcegraph teams by building mission critical tools to support our mission.&nbsp; If you’re passionate about enhancing developers’ productivity and are excited to be a part of a dynamic team pushing the boundaries of technology, then this role is for you.</p>
+<p>📅 Within one month, you will…</p>
+<ul>
+<li>Begin building relationships with cross-functional teams, including the Cody development team and other stakeholders.</li>
+<li>Dive into the codebase of Cody and Code Intelligence platform, gaining a deep understanding of the existing code, architecture, and dependencies.</li>
+</ul>
+<p>📅 Within three months, you will…</p>
+<ul>
+<li>Implement improvements that result in a measurable reduction in the time it takes to release new versions of Cody and the Code Intelligence platform while higher-level insights on architecture, scalability, and customer focus.</li>
+<li>Establish strong working relationships with Security teams, ensuring that the release process incorporates necessary security measures.</li>
+<li>Actively participate in code reviews and discussions to contribute higher-level insights on architecture, scalability, and customer focus.</li>
+</ul>
+<p>📅 Within six months, you will…</p>
+<ul>
+<li>Contribute to the development of a robust and scalable infrastructure for monitoring Cody's quality, performance, and user experience.</li>
+<li>Implement proactive alerting and monitoring systems to detect issues before they impact customers.</li>
+</ul>
+<p>📅 Within one year, you will…</p>
+<ul>
+<li>Successfully evolve the release process into a mature platform, enabling teams across Sourcegraph to manage their releases independently.</li>
+<li>Proactively propose additions and changes to the team's roadmap, aligning it with the broader goals of Sourcegraph.</li>
+</ul>
+<h2><span style="color: rgb(140, 51, 236);"><strong>About you</strong></span></h2>
+<ul>
+<li>You’re a software engineer first, but you have a passion for working on the boundaries between software and the underlying infrastructure. You might have some past experience as an SRE, developing tooling for other developers, or jumping between the two.</li>
+<li>You’re interested in distributed systems and have experience debugging a few of the challenges that come along with them.</li>
+<li>You understand the software lifecycle, from design, to coding, to docs, as well as the maintenance lifecycle over time.</li>
+<li>You don't write code for the sake of it, but to provide value to our customers by solving problems.</li>
+<li>You value integrity and teamwork. Your strong sense of empathy helps you understand your peers' challenges and you sharply understand how to balance solving current and future problems, carving a path to implement your vision. You’re able to contribute feedback to your teammates as well as across team boundaries when needed.</li>
+<li>You understand your role in the company and how you contribute to its success or failures. You have a strong sense of ownership and a healthy sense of urgency. You&nbsp; understand that this is <strong>your</strong> company now.</li>
+<li>Your sense of ownership extends to the software that you ship to your customers. You understand that your code is likely the first impression many customers have of your company, and you often pause to consider the customer experience during development.</li>
+<li>You do work you are proud of and your work is respected by your peers as well as the broader community.</li>
+</ul>
+<h3>Skills</h3>
+<ul>
+<li>You're proficient at writing at least one language and likely experienced in other languages as well.</li>
+<li>You’ve done some frontend development work at some point in your career.</li>
+<li>You've had experience working with delivery and build pipelines of various sizes.</li>
+<li>You have working knowledge of Kubernetes, perhaps even including working and developing with Kubernetes APIs and internals such as CRDs and controllers.</li>
+<li><strong>Bonus:</strong> You have worked with Bazel or other build systems in large polyglot codebases.</li>
+<li><strong>Bonus:&nbsp;</strong>Familiarity with SvelteKit and Tailwind CSS.</li>
+</ul>
+<p>It doesn't matter if you're not an expert on all points, what really counts is that you understand the complexities of releasing software, and thrive to make it a seamless experience for both our customers and our teammates. Ultimately, you can jump in at any point in the software lifecycle and understand how to fix issues.</p>
+<h2><span style="color: rgb(140, 51, 236);"><strong>Level</strong></span></h2>
+<p>📊 This job is an IC2.&nbsp; You can read more about <a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/leveling-guide/">our job leveling philosophy</a> in our Handbook.</p>
+<h2><span style="color: rgb(140, 51, 236);"><strong>Compensation</strong></span></h2>
+<p><strong>💸 We pay you an above-average salary</strong> because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. You will have the flexibility to work and live anywhere in the world<em> (unless specified otherwise in the job description)</em>, and we’ll never take your location or current/past salary information into account when determining your compensation.&nbsp; As an <a href="https://handbook.sourcegraph.com/company-info-and-process/values/#sts=Open%20and%20transparent">open and transparent </a>company that values equitable and competitive compensation for everyone, our <a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/">compensation ranges are visible</a> to every single Sourcegraph Teammate. To determine your salary, we use a number of market and data-driven salary sources and target the high-end of the range, ensuring that we’re always paying above market regardless of where you live in the world.&nbsp;&nbsp;</p>
+<p>💰 The target compensation for this role is $141,500 USD base salary.</p>
+<p>📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous <a href="https://handbook.sourcegraph.com/benefits-pay-perks/benefits-perks/">perks &amp; benefits</a>.</p>
+<h2><span style="color: rgb(140, 51, 236);"><strong>Interview process</strong></span></h2>
+<p><em>Below is the interview process you can expect for this role (you can read more about </em><a href="https://handbook.sourcegraph.com/talent/types_of_interviews"><em>the types of interviews</em></a><em> in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&nbsp;</em></p>
+<p>We expect the interview process to take 4 hours in total.</p>
+<p><strong>👋 Introduction Stage</strong> - we have initial conversations to get to know you better…</p>
+<ul>
+<li>[30m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#recruiter-screen">Recruiter Screen</a> with Grace Bohl&nbsp;</li>
+<li>[60m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process_candidates/#technical-interview">Technical Interview</a> and&nbsp;<a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive">Resume Deep Dive</a> with Jacob Pleiness</li>
+</ul>
+<p><strong>🧑‍💻 Team Interview Stage</strong> - we then delve into your experience in more depth and introduce you to members of the team…</p>
+<ul>
+<li>[45m] Code Walkthrough</li>
+<li>[15m]&nbsp;<a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#hiring-manager-screen">Hiring Manager Screen </a>with Nelson Araujo</li>
+<li>[60m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process_candidates/#pairing-exercise">Technical Interview: Pairing Exercise</a> with Michael Lin and Dax McDonald</li>
+<li>[45m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#cross-functional-team-collaboration-interview">Cross-functional Team Interview</a> with <span style="font-weight: 400;">Jon Galindo and Louis Jarvis</span></li>
+</ul>
+<p><strong>🎉 Final Interview Stage </strong>- we move you to our final round, where you meet cross-functional partners and gain a better understanding of our business and values holistically…</p>
+<ul>
+<li>[30m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#values-interview">Values Interview</a></li>
+<li>[30m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#leadership-interview">Leadership Interview</a> with co-founder&nbsp;</li>
+</ul>
+<p>We check references and conduct your background check</p>
+<p>Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.</p>
+
+    
+
+    <div class="content-conclusion"><h2><span style="color: #a112ff;">Not sure if this is you?</span></h2>
+<p><span style="font-weight: 400;">We want a diverse, global team, with a broad range of experience and perspectives. If this job sounds great, but you’re not sure if you qualify, apply anyway! We carefully consider every application, and will either move forward with you, find another team that might be a better fit, keep in touch for future opportunities, or thank you for your time.</span></p>
+<h2><span style="color: #a112ff;">Learn more about us</span></h2>
+<p><span style="font-weight: 400;">To create a product that serves the needs of all developers, we are building a diverse </span><a href="https://handbook.sourcegraph.com/company-info-and-process/remote"><span style="font-weight: 400;">all-remote team</span></a><span style="font-weight: 400;"> that is </span><a href="https://handbook.sourcegraph.com/team"><span style="font-weight: 400;">distributed across the world</span></a><span style="font-weight: 400;">. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We provide </span><a href="https://about.sourcegraph.com/handbook/people-ops/compensation"><span style="font-weight: 400;">competitive compensation</span></a><span style="font-weight: 400;"> and </span><a href="https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks"><span style="font-weight: 400;">practical benefits</span></a><span style="font-weight: 400;"> to keep you happy and healthy so that you can do your best work.&nbsp;</span><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Learn more about what it is like to work at Sourcegraph by reading </span><a href="https://about.sourcegraph.com/handbook/"><span style="font-weight: 400;">our handbook</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process.</span></p>
+<p><span style="font-weight: 400;">Go back to the </span><a href="https://about.sourcegraph.com/jobs/"><span style="font-weight: 400;">careers page</span></a><span style="font-weight: 400;"> for all open positions.</span></p>
+<p>&nbsp;</p>
+<p><em><span style="font-weight: 400;">Sourcegraph participates in <a href="https://handbook.sourcegraph.com/departments/people-talent/e-verify/" target="_blank">E-Verify</a> for U.S. Employees</span></em></p></div>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1428393724527190022/4mt5PACL_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sourcegraph</h5>
                     <h3>Software Engineer - Release [IC3] </h3>
                 </td>
                 <td width="300">
@@ -85,12 +205,12 @@
 <p><strong>👋 Introduction Stage</strong> - we have initial conversations to get to know you better…</p>
 <ul>
 <li>[30m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#recruiter-screen">Recruiter Screen</a> with Grace Bohl&nbsp;</li>
-<li>[30m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#peer-interview">Peer Interview</a> / <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process_candidates/#technical-interview">Technical Interview</a> with Jacob Pleiness</li>
+<li>[60m]&nbsp;<a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process_candidates/#technical-interview">Technical Interview</a> /&nbsp;<a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive">Resume Deep Dive </a>with Jacob Pleiness</li>
+<li>[Async] Take Home Assignment</li>
 </ul>
 <p><strong>🧑‍💻 Team Interview Stage</strong> - we then delve into your experience in more depth and introduce you to members of the team…</p>
 <ul>
 <li>[15m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#hiring-manager-screen">Hiring Manager Screen </a>with Nelson Araujo</li>
-<li>[60m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive">Resume Deep Dive</a> with Grace Bohl</li>
 <li>[60m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/engineering_interview_process_candidates/#pairing-exercise">Technical Interview: Pairing Exercise</a> with Michael Lin and Dax McDonald</li>
 <li>[45m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#cross-functional-team-collaboration-interview">Cross-functional Team Interview</a> with <span style="font-weight: 400;">Jon Galindo and Louis Jarvis</span></li>
 </ul>
