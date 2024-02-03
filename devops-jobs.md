@@ -10,7 +10,7 @@
                     <code>AWS,kubernetes,terraform</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/devops-engineer-1894789" align="right" target="_blank">Apply</a>
@@ -65,6 +65,30 @@
 <p>BeInCrypto was created to unite and set you free from the hands, pockets, and minds of a controlling monetary system.</p>
 <p>Here, we create educational content and products for all things crypto that will help you to pave your way in Web3.</p>
 <img src="https://remotive.com/job/track/1894789/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1719900921793003520/qPc3pV09_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>VRChat</h5>
+                    <h3>DevOps Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/vrchat/6ae6dc27-ceda-4e27-8412-ca6124de6b08" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><span style="font-size: 24px">Join the VRChat Team!</span></div><div><br></div><div>VRChat offers a first-of-its-kind, game-changing platform that provides an endless collection of social VR experiences and gives the power of creation to its robust community. With over 250,000 worlds and growing, VRChat’s vision is to allow users to bring their imaginations to life and help shape the metaverse anywhere in the world on any device. VRChat has raised $100M to date with the support of investors Makers Fund, Anthos Capital and HTC and is building out a strong team to achieve hyper-growth in the coming years.</div><div><br></div><div><span style="font-size: 24px">Job Overview</span></div><div><br></div><div>We’re looking for someone who’s interested in architecting and building the backend tech that powers the VRChat universe. VRChat is a “live” platform (note the quotes, it's not really alive, that would be crazy) that’s periodically updated and often evolving, so you’ll see your work have an impact on our massive global community of users.</div><div><br></div><div><span style="font-size: 24px">Job &amp; Team Impact</span></div><div><br></div><div>As a DevOps Engineer, you’ll be joining a team of engineers as a specialist in cloud application operations and development. Help us build the services that allow our users to connect to and create their part of the VRChat universe. If you’re interested in keeping the machinery behind the scenes humming and finely tuned, then this role could be right up your alley.</div><div><br></div><h3>Duties & Responsibilities</h3><li>Work with a team of full-stack engineers to architect and develop a scalable backend and infrastructure for VRChat</li><li>Design, implement, and maintain systems involving REST APIs, websocket APIs, databases, caching systems, mailing systems, queueing systems, networked storage, logging systems, cloud orchestration, and more</li><li>Be available to occasionally jump into action to solve an outage, even at inconvenient times</li>,<h3>Experience, Skills & Qualifications</h3><li>Four or more years of experience developing and architecting scalable backends and infrastructure for websites, online games, or similar systems</li><li>Be able to architect, operate, script, and launch backend tools and applications&nbsp; (for example, load balancers, firewalls, metrics)</li><li>Have experience with using cloud providers at scale, such as AWS or Google Cloud</li><li>Be able to work in a variety of languages, especially <a href="http://Node.js" class="postings-link">Node.js</a>, Lua, Go, and C#</li><li>Is Terraform a language? Or a platform? Or a product? Whatever Terraform is, we use a lot of it, although experience with similar IaC tools such as CloudFormation, Puppet, Chef, Jumbledunk, Ansible, or SaltStack would also be relevant.</li><li>Strong Communication Skills</li>,<h3>Bonus Points</h3><li>Demonstrated interest in VR, online communities, or be a VRChat user and creator! Knowing how our platform and community works will be helpful for this role.</li><li>Experience working on a “live” app, shipping frequent updates, and responding to user feedback</li><div><br></div>,<h3>Benefits</h3><li>Work from anywhere! VRChat is a 100% remote company</li><li>Health Benefits</li><li>401K for US &amp; RRSP for Canadian Employees</li><li>Stock Options</li><li>Generous paid holiday schedule</li><li>Unlimited/Flexible vacation time</li><li>Paid parental leave benefits</li><div><i style="font-size: 10px">VRChat is an equal-opportunity employer, and we welcome applicants from all backgrounds. VRChat fosters a diverse, creative, and collaborative environment where anyone can contribute to any of the ongoing projects or direction of the roadmap at any time.&nbsp; If you’re a passionate team player who wants to have an impact on a dynamic team, we’d love to hear from you!</i></div>
                 </details>
                 </td>
             </tr></table>
