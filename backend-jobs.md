@@ -1,57 +1,5 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1895263/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Janeasystems</h5>
-                    <h3>Senior Backend Engineer - .NET/C#</h3>
-                </td>
-                <td width="300">
-                    <code>relational databases</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-backend-engineer-net-c-1895263" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Janea Systems (USA) is a dynamic team of the best &amp; brightest software engineering specialists and solutions innovators, from around the world. From kernel to cloud, we provide high-impact software development services to Fortune 500 companies. </p>
-<p>We are seeking an exceptionally talented Lead Backend Engineer to join our rapidly growing consulting team. In this role, you will have the opportunity to work on high profile projects at the cutting edge of the software industry.</p>
-<p><strong>To be considered for this position, you must have the following qualifications:</strong></p>
-<ul style="">
-<li style="">5+ years development experience with backend technologies, including experience with modern backend architecture (i.e. microservices, etc.)</li>
-<li style="">3+ years development experience with .NET/C# (with ASP.NET)</li>
-<li style="">Experience building and deploying solutions on cloud services (Azure preferred)</li>
-<li style="">Experience with relational databases (Postgres, SQL Server, MySQL, etc.) </li>
-<li style="">Fast learner with a can-do attitude and exceptional problem-solving abilities</li>
-<li style="">Self-sufficient, proactive, and comfortable working collaboratively on remote projects</li>
-<li style="">Experience in a client-facing role managing and delivering software engineering projects</li>
-<li style="">English skills (ability to effectively communicate via written and spoken English)</li>
-<li style="">A degree in computer science (or equivalent)</li>
-</ul>
-<p><strong>Ideal candidates will also have:</strong></p>
-<ul style="">
-<li style="">Experience architecting solutions on modern backend platforms</li>
-<li style="">Strong understanding of DevOps concepts and process and CI/CD tools</li>
-</ul>
-<p><strong>Why join Janea? Because world-class talent deserves a world-class opportunity. What we offer:</strong></p>
-<ul style="">
-<li style="">Competitive compensation with benefits, paid vacation, and sick leave</li>
-<li style="">The opportunity to work with a globally diverse team of top engineering talent on the industry’s toughest engineering challenges</li>
-<li style="">Ultra-flexible work conditions – Work from home using our virtual office setup or, if you prefer, we provide you with a desk at an office facility near you. Or use both. </li>
-<li style="">Flexible working hours – as a remote-first company, our focus has always been on getting the job done well, not when or where it gets done</li>
-<li style="">A startup work environment, with excellent opportunities for professional growth and enjoyment</li>
-</ul>
-<p> </p>
-<img src="https://remotive.com/job/track/1895263/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://media.licdn.com/dms/image/D4E0BAQGvUyfPVBWDyg/company-logo_200_200/0/1657595552015?e=2147483647&v=beta&t=EecsDCOy3Fh_26M1noQDDIYw8-JuGKz_d1JDvcBZ-yI" width="38px" height="auto">
                 </td>
                 <td width="300">
