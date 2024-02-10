@@ -4,6 +4,30 @@
                 </td>
                 <td width="300">
                     <h5>10up</h5>
+                    <h3>Freelance | Contract Senior Front End Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/10up-2/8d65f45b-1231-4d64-8ddc-d291a2d687ac" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div><b>Location: Remote - Anywhere</b> (Open to applicants located anywhere around the globe.)</div><div><br></div><div>At 10up, we call developers like you engineers because you aren't just a "coder": you're an innovative problem solver that uses web programming skills to divine smart, creative solutions to client challenges.&nbsp;</div><div><br></div><div>As a leading digital agency, 10up's client roster spans from innovative startups and impactful non-profits to some of the biggest names in the industry, such as ESPN, Google, The New York Times Co., Microsoft, and The Nobel Prize Committee. 10uppers have been pushing the boundaries of web experiences for over 12 years—become an engineer that innovates the internet by building exciting projects alongside a top-in-the-field team.</div><div><br></div><div>As a 10up contractor, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 40 countries, 10up fully embraces the benefits of distributed work.</div><div><br></div></div><div class="section page-centered"><div><h3>What you will do: </h3><ul class="posting-requirements plain-list"><ul><li>Develop large-scale modular applications with advanced knowledge of HTML, CSS, and JavaScript.</li><li>Provide code reviews.</li><li>Bring art direction to life on the web through quality craftsmanship defined by performance, accessibility, maintainability, and aesthetic refinement on large-scale projects.</li><li>Solve complex problems in simple yet elegant ways.</li><li>Ultimately you will make the web better by finely crafting websites, apps, and tools that reach millions of online visitors every day.</li></ul></ul></div></div><div class="section page-centered"><div><h3>About you: </h3><ul class="posting-requirements plain-list"><ul><li>You love perfecting your skills in cross-browser/device front-end engineering through crafting custom UI components in either React or a WordPress (block editor) stack.</li><li>You have a code portfolio of real-world samples showcasing your technical abilities. Link us to your best custom work on GitHub and you’ll never have to do any live coding or whiteboard testing!&nbsp;</li><li>You are comfortable talking to clients and team members to clearly present your thoughts.</li><li>You’re proficient at building coded style guides and creating highly componentized systems.</li><li>You prefer to work fully remote and are effectively engaging in a distributed team from the location of your choosing.</li></ul></ul></div></div><div class="section page-centered" data-qa="closing-description"><div>If you are passionate about 10up's mission and think you have what it takes to be successful in this role even if you don't check all the boxes, please apply. We'd appreciate the opportunity to personally review your application. Everyone gets a response.</div><div><br></div><div>Read more about <a href="https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view">What to Expect</a> through our Recruiting process.</div><div><br></div><div>Upon meeting the necessary criteria, you'll join the 10up contractor network. This grants you access to project invitations tailored to your expertise and time availability, although project opportunities may not arise instantly.</div><div><br></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/10up-2/8d65f45b-1231-4d64-8ddc-d291a2d687ac/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>10up</h5>
                     <h3>Lead Front End Engineer</h3>
                 </td>
                 <td width="300">
@@ -131,6 +155,30 @@
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote</p>
     
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1382655628523364355/MWPIbbID_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CoverGo</h5>
+                    <h3>Senior Front End Engineer (Fully Remote)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/covergo/j/A2578E71D3" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Top 3 Reasons To Join Us</strong></p><ul> <li>Competitive Salary</li> <li>100% Remote</li> <li>Working on the latest tech for the Insurtech Market Leader</li> </ul><p><strong>About Us</strong></p><p>At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.</p><ul> <li>We are a leading global no-code insurance platform for health, life, and P&amp;C</li> <li>We’re the winner of the Insurtech of the Year in all of Asia and other awards globally</li> <li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more</li> <li>We're an international, diverse team of over 120 people with 30 nationalities and team members working remotely from all over the world</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors</li> <li>We have a global presence in Asia, EMEA and the Americas</li> <li>We’ve grown our annualized revenue by over 30x since January 2021</li> <li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world</li> </ul><p><strong>About the Role</strong></p><p>As a Senior Front End Engineer at CoverGo, you will play a vital role in advancing the development of core product features. You will contribute to the design, implementation, and maintenance of new features, showcasing your proficiency in front-end frameworks. You will focus on crafting intuitive interfaces, leveraging your expertise to refine and optimize existing codebases. Collaborate with cross-functional teams, participate in code reviews, and maintain code quality through testing. Your role will also involve investigating and addressing bugs promptly, ensuring the reliability and security of our platform.</p><p><strong>What You Will Do</strong></p><ul> <li>As a Senior Front End Engineer, you'll work on core product features of the CoverGo platform</li> <li>Work on challenging frontend problems in multi-tenant and cloud-agnostic architectures</li> <li>Crafting no-code editors, tools and visual rules engines</li> <li>Fully own features from ideation with design and product, to working on iterations and improvements</li> <li>Improving and refactoring our current codebases</li> <li>Evaluating new technologies for the platform</li> <li>Participate in code reviews and enforce best coding practices, while also writing and executing unit tests and integration tests to maintain code quality</li> <li>Build relationships and work closely with engineers, product, design, architects and BAs across all product teams in CoverGo</li> <li>Ensure security and compliance by following best practices for securing web applications and adhering to relevant regulations in handling sensitive customer data</li> <li>Stay up-to-date with the latest technologies, frameworks, and best practices to ensure we remain competitive and innovative&nbsp;</li> <li>Provide mentorship to junior developers, aiding in their technical growth and effective contribution to the team's goals</li> </ul><p><strong>What We Need</strong></p><ul> <li>Minimum 5+ years of experience in frontend engineering</li> <li>Excellent knowledge of JavaScript, TypeScript, HTML5, and CSS3</li> <li>Experience in Vue and/or React with a willingness to learn</li> <li>Good understanding of code versioning with Git</li> <li>Very good knowledge of web security best practices and experience in ensuring compliance with industry regulations</li> <li>Strong communication skills to effectively interact with both technical and non-technical team members with diverse backgrounds</li> <li>Strong attention to detail with excellent analytical and problem-solving skills and a proactive approach to troubleshooting and bug-fixing</li> <li>Positive, hard-working, and committed team player</li> <li>Self-motivated and able to work independently</li> <li>Fast learner who enjoys coding and working with the latest tech</li> <li>Able, willing and excited to work in a fast-paced, collaborative startup environment</li> </ul><p><strong>Why You'll Love Working Here</strong></p><ul> <li>Fully Remote</li> <li>Flexible Leave</li> <li>International Environment</li> <li>Competitive renumeration package</li> <li>Performance Bonus</li> <li>Stock Options after 6 months </li> <li>Company activities and events</li> <li>Learning and development plan</li> </ul><p><strong>CoverGo Company</strong><a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"><strong> Video</strong></a></p><p>By submitting your application, you confirm that you have read, understood, and accepted the content of CoverGo’s <a href="https://apply.workable.com/covergo/gdpr_policy?lng=en" target="_blank" rel="nofollow noreferrer noopener" class="external">Privacy Notice</a> and you consent to the processing of your data as part of this application.</p><p><a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"></a></p><h3>Requirements: </h3><h3>Benefits: </h3>
                 </details>
                 </td>
             </tr>,<tr>
