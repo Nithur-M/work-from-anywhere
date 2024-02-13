@@ -116,14 +116,14 @@
 </ul>
 <h2><strong>Who you are</strong></h2>
 <ul>
+<li>You have demonstrated professional proficiency developing public-facing APIs and web applications using Python.</li>
+<li>You have a broad technology base but favor backend code and infrastructure.</li>
+<li>You know your way around relational and non-relational databases and can effectively design data models that perform well, and tune queries to access them.</li>
+<li>You are comfortable with Ubuntu as a development and deployment platform.</li>
+<li>You have demonstrated strong academic performance in Computer Science, STEM or similar degree.</li>
 <li>You love technology and working with a diverse set of talented people.</li>
 <li>You are curious, flexible, articulate, and accountable.</li>
 <li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated.</li>
-<li>You have a broad technology base but favor backend code and infrastructure.</li>
-<li>You have proficiency developing public-facing APIs and web applications, preferably using Python and/or Golang.</li>
-<li>You know your way around relational and non-relational databases and can effectively design data models that perform well, and tune queries to access them.</li>
-<li>You are comfortable with Ubuntu as a development and deployment platform.</li>
-<li>You have a Bachelor’s or equivalent in Computer Science, STEM or similar degree.</li>
 </ul>
 <h2><strong>About Canonical</strong></h2>
 <p>Canonical is a growing, international software company that works with the open-source community to deliver Ubuntu -- the world’s #1 cloud operating system. Our mission is to realise the potential of free software in the lives of individuals and organisations. Our services are helping businesses worldwide to reduce costs, improve efficiency and enhance security with Ubuntu.&nbsp; Canonical is a unique tech company - global, remote-first, open source, with 700 professionals across 50 countries - we want to be the world’s best, not biggest, global software company. With almost every team remote by default, Canonical sets the pace on the 21st-century digital workplace.</p>
