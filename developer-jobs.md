@@ -1,5 +1,82 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1680495/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Coalition Technologies </h5>
+                    <h3>Front End Developer</h3>
+                </td>
+                <td width="300">
+                    <code>CSS,excel,frontend,git</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p class="h3">WHY YOU SHOULD APPLY:</p>
+<p> </p>
+<p>Coalition Technologies is devoted to delivering clients the highest quality work while providing our team a fun, thriving, and innovative environment. Along with the opportunity for tremendous career growth and rapid advancement, CT offers:</p>
+<ul style="">
+<li style="">The most competitive profit-sharing bonus plan in the industry, paying up to 50% of company profits to full-time employees each month!</li>
+<li style="">A highly competitive Paid Time Off plan, promoting quality work-life balance.</li>
+<li style="">Subsidized gym memberships to help team members feel their best.</li>
+<li style="">Medical, dental, vision, and life insurance packages for all US-based team members.</li>
+<li style="">International Health Insurance Reimbursement Program for all international team members, a benefit unique to Coalition.</li>
+<li style="">Device upgrade and learning reimbursement programs.</li>
+<li style="">Motivating career development plans with clearly defined goals and rewards.</li>
+<li style="">Additional job-specific incentives and bonuses.</li>
+</ul>
+<p>Plus, 100% of our team works remotely with the support of time tracking software. Our company culture specializes in supporting remote team members, and we’ve been doing so for more than a decade. CT welcomes your application, wherever in the world it's coming from!</p>
+<p class="h3"> </p>
+<p class="h3">YOU SHOULD HAVE:</p>
+<p> </p>
+<ul style="">
+<li style="">An expertise in HTML5, CSS3 and jQuery</li>
+<li style="">A thorough understanding of cross-browser compatibility issues</li>
+<li style="">Experience with media queries</li>
+<li style="">A knowledge of CSS platforms such as Twitter’s Bootstrap</li>
+<li style="">An ability to multi-task on multiple projects and tasks at the same time</li>
+<li style="">Great attention to detail and be highly organized</li>
+<li style="">A positive and upbeat attitude with the ability to learn quickly</li>
+<li style="">Proficiency in PHP/MYSQL and AJAX (preferred)</li>
+<li style="">Experience with WordPress, BigCommerce, Magento, and Shopify (preferred)</li>
+<li style="">Excellent written and spoken English</li>
+<li style="">The availability to work 40 hours per week from 9:00 am to 6:00 pm PST</li>
+<li style="">The ability to adapt to a diverse and multicultural environment</li>
+<li style="">Passion to build a startup</li>
+<li style="">Reliable transportation if working in-house</li>
+<li style="">A reliable workstation with a fast computer, microphone and speakers, reliable internet and power if working remotely</li>
+</ul>
+<p class="h3"> </p>
+<p class="h3">YOUR DUTIES AND TASKS:</p>
+<p> </p>
+<ul style="">
+<li style="">Transforming complex layout PSDs into pixel-perfect presentation-layer HTML5/CSS3 templates</li>
+<li style="">Creating responsive website designs</li>
+<li style="">Building websites with WordPress, extending and developing plugins and themes</li>
+<li style="">Working with Photoshop, Illustrator, and Fireworks to create images optimized for the web</li>
+<li style="">Working with version control systems such as GIT / SVN</li>
+<li style="">Working under tight deadlines</li>
+<li style="">Handling multiple projects at the same time</li>
+<li style="">Producing high quality of work with a strong focus on detail</li>
+</ul>
+<p class="h5"> </p>
+<p class="h5">We are looking for talented and diligent candidates who excel in our skills tests, and will consider these candidates even if past experience or educational background criteria aren't met.</p><p class="h5"><br></p><p>*California, New York, Washington, and Colorado: starting base pay for this position ranges between $15 - $35 per hour.</p>
+<p>Compensation may vary based on factors such as experience, 
+qualifications, skills test performance, geographic location, and 
+seniority of the position offered. Outside of California, New York, 
+Washington, and Colorado compensation may fall outside the above ranges.</p>
+<img src="https://remotive.com/job/track/1680495/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1651226564728700928/h0tz5UT1_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -385,6 +462,87 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
+<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
+<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
+<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
+<h2>What your day will look like</h2>
+<p>In a typical day, a developer relations engineer might:</p>
+<ul>
+<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
+<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
+<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
+<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
+<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
+<li>work on technical articles, presentations or workshops&nbsp;</li>
+<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
+<li>present at conferences, meetups or technical events</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<p>A strong candidate</p>
+<ul>
+<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
+<li>has worked with real-world challenges developing and deploying software using Linux</li>
+<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
+<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
+<li>has been a contributor to open-source communities, software and documentation</li>
+<li>is an engaging, vivacious speaker and presenter</li>
+<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
+<li>builds trust, relationships and confidence</li>
+<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
+</ul>
+<h2>Additional skills that you might also bring</h2>
+<ul>
+<li>previous experience in a developer advocacy or community role</li>
+<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
+</ul>
+
+<h2>What we offer you</h2>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote&nbsp;</p>
+
+<p><br><br></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Developer Relations Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
                 <a href="https://canonical.com/careers/3655681" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
@@ -450,87 +608,6 @@
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote</p>
 <h2><br><br></h2>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Developer Relations Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
-<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
-<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
-<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
-<h2>What your day will look like</h2>
-<p>In a typical day, a developer relations engineer might:</p>
-<ul>
-<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
-<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
-<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
-<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
-<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
-<li>work on technical articles, presentations or workshops&nbsp;</li>
-<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
-<li>present at conferences, meetups or technical events</li>
-</ul>
-<h2>What we are looking for in you</h2>
-<p>A strong candidate</p>
-<ul>
-<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
-<li>has worked with real-world challenges developing and deploying software using Linux</li>
-<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
-<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
-<li>has been a contributor to open-source communities, software and documentation</li>
-<li>is an engaging, vivacious speaker and presenter</li>
-<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
-<li>builds trust, relationships and confidence</li>
-<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
-</ul>
-<h2>Additional skills that you might also bring</h2>
-<ul>
-<li>previous experience in a developer advocacy or community role</li>
-<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
-</ul>
-
-<h2>What we offer you</h2>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote&nbsp;</p>
-
-<p><br><br></p>
     
                 </details>
                 </td>
@@ -832,30 +909,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>CloudLinux OS, our flagship product, powers over 45 million websites and is widely recognized as the best operating system for security and efficiency in the shared hosting industry. Running on more than 50,000 production servers, CloudLinux OS increases server density and enhances security, resulting in reduced operating costs, lower churn rates, and increased profitability.</p><p>As part of this exciting opportunity, you will be working on the Apache2Nginx project. This project involves setting up NGINX on the server and automatically converting .htaccess files into corresponding NGINX configuration.</p><p>You can find more details about the Apache2Nginx project on our product website <a href="https://cloudlinux.com" rel="nofollow noreferrer noopener" class="external">https://cloudlinux.com</a> and in our documentation at <a href="https://docs.cloudlinux.com/shared/apache2nginx/" rel="nofollow noreferrer noopener" class="external">https://docs.cloudlinux.com/shared/apache2nginx/</a>. Get to know more about our company at <a href="https://www.cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">Cloudlinux.com</a>.</p><h3>Requirements: </h3><p>To be successful you should have:</p><ul> <li>At least 5 years of hands-on experience in software development</li> <li>Extensive knowledge and proficiency with Linux, with at least 5 years of experience</li> <li>Strong understanding and ability to analyze the performance of classical algorithms and data structures</li> <li>Proficient in writing and maintaining code following the Go style guide</li> <li>Proven experience in multithreaded programming and developing asynchronous applications</li> <li>Thorough understanding of the network stack, particularly TCP/IP and HTTP</li> <li>Familiarity with Go-testing and debugging tools</li> <li>Monitor deployments, application performance</li> <li>Identify and troubleshoot emerging issues; optimize the application for performance and scalability</li> <li>Skilled in performance analysis and optimization</li> <li>Ability to patch and modify existing Go solutions</li> <li>Excellent knowledge and understanding of Nginx/Apache architecture for developing additional components</li> <li>Proficiency in using Git for version control</li> <li>Strong Linux/Unix skills, preferably with experience in RHEL/CentOS/Almalinux</li> <li>Experience with Shell scripting</li> <li>Great teamwork skills</li> <li>Ability to read and understand code written by others</li> <li>Good command of the English language, including reading technical documentation</li> </ul><p>Would be a plus:&nbsp;</p><ul> <li>Strong experience with WAF, specifically ModSecurity</li> <li>Proven expertise in system programming</li> <li>Deep knowledge of Python, C/C++ or other programming languages</li> <li>Extensive background in open-source projects</li> <li>Solid understanding of Internet security fundamentals</li> <li>Proficiency in selecting appropriate data serialization algorithms</li> <li>Familiarity with embedded databases like BoltDB, LevelDB, and others</li> <li>Ability to seamlessly integrate with C code and libraries</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Senior Kernel Developer for KernelCare - REMOTE/Work Anywhere</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/FD1C1CF92A" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We are seeking <strong>experienced Kernel Developers</strong> to join our talented team at KernelCare. If you are passionate about Linux and enjoy the challenge of developing Linux Kernels and patches, then this is the perfect opportunity for you. As a Senior Kernel Developer, you will utilize your strong C development skills and passion for Linux to create patches with a strong focus on cyber security. This role offers a rewarding and stimulating career where you can find solutions for our valued customers.</p><p>It's important to note that this is <strong>not</strong> an embedded Kernel role. At KernelCare, our product provides live kernel patching services that deliver security patches and bug fixes for a variety of popular Linux kernels, all without the need for system reboots. We are proud to be a part of CloudLinux Inc., the provider of the #1 OS in security and stability for hosting providers. For more information about our KernelCare Product, please visit our website: <a href="https://tuxcare.com/live-patching-services/" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com/live-patching-services/</a></p><p></p><p>We take pride in being an excellent workplace, which is why KernelCare offers a great work environment. As a Senior Kernel Developer, you will have several key responsibilities:</p><ul> <li>Provide support for existing functionality and implement new features</li> <li>Ensure the timely update of existing kernels with security fixes and CVEs patches</li> <li>Create and maintain Python and Bash scripts for task automation</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role you should have:</strong></p><ul> <li>Strong proficiency in C programming and exceptional debugging skills</li> <li>Thorough understanding of Linux kernel core subsystems</li> <li>In-depth knowledge of CPU and cache architectures</li> <li>Extensive experience with GDB and other debuggers</li> <li>Expertise in CPU performance and power analysis</li> <li>Highly independent and self-motivated problem solver and strategic thinker</li> <li>Proficient in Git for development, patch management, and branch management</li> <li>Strong planning, time management, decision-making, presentation, and organizational abilities</li> <li>Exceptional written and verbal communication skills</li> <li>Excellent interpersonal abilities and a strong team player</li> <li>Thrives in an agile, fast-paced environment</li> <li>Experience with Python and shell scripting</li> <li>Prior exposure to Jenkins would be advantageous</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong><br></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li> Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p></p><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
                 </details>
                 </td>
             </tr>,<tr>
