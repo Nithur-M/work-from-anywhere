@@ -10,7 +10,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -385,11 +385,11 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Status</h5>
-                    <h3>Senior Mobile ClojureScript UI Developer </h3>
+                    <h5>Canonical</h5>
+                    <h3>Developer Relations Engineer</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -398,53 +398,72 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=3702173&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                <a href="https://canonical.com/careers/3655681" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol; the p2p communication layer for Web3.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <p class="p1"><strong>The role</strong></p>
-<p class="p1">We're growing our mobile development team. Join us in building a fully decentralized, censorship resistant, privacy first group chat platform that leverages the Ethereum blockchain to enable individuals and groups worldwide to communicate and transact with one another freely without restriction.</p>
-<p class="p1">Status is looking for a Clojure UI Engineer to join our mobile development team who will work closely with Design to transform UI specifications into beautiful, smooth, performant and near pixel perfect interactive interfaces. The ideal person will be comfortable working on features end-to-end, has an eye for design and visual detail, enjoys working with designers as well as developers, and who can transform reused UI patterns such as list items into reusable UI components. &nbsp;The ideal candidate will love finessing UI implementations to the highest levels of quality and will care deeply about things like code cleanliness, reusability, maintainability, performance, and UI layout accuracy - as well as doing whatever needed to create a best-in-class user experience for Status’s users.</p>
-<p class="p1">Willingness to both learn and share your knowledge with others, product-orientation, and making sure all team members are aligned when developing new features, will make you successful in the role. Status is a fast-paced, flat organization, working on cutting edge blockchain and decentralized messaging technologies in a dynamic landscape. We look forward to meeting you!</p>
-<p class="p1"><strong>Key responsibilities:</strong></p>
-<ul class="ul1">
-<li class="li1">Implement new features end to end.&nbsp;</li>
-<li class="li1">Collaborate closely with the Design team around both the designs and the implementation of the designs.</li>
-<li class="li1">Craft eye catching UIs and propose improvements to our code base.</li>
-<li class="li1">Sense checking with the team and prioritizing work from our backlog.</li>
+      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
+<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
+<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
+<p>Location: we are building our initial DevRel team in Europe, Middle East, African and American time zones</p>
+<h2>What your day will look like</h2>
+<ul>
+<li>Contribute to product management team meetings</li>
+<li>Maintain conversations with developer community members</li>
+<li>Engage on IRC, social media, product forums, meet-ups and more</li>
+<li>Collaborate across Canonical teams</li>
+<li>Solve specific technical problems that users or colleagues have identified</li>
+<li>Contribute to technical documentation</li>
+<li>Work on technical articles, presentations or workshops&nbsp;</li>
+<li>Identify new opportunities in developer experience</li>
+<li>Present at conferences, meetups or technical events</li>
 </ul>
-<p class="p1"><strong>You ideally will have:</strong></p>
-<ul class="ul1">
-<li class="li1">Experience working with ClojureScript and React Native</li>
-<li class="li1">Eye for detail; point us to completed implementation work.</li>
-<li class="li1">3+ years of experience working on complex UI applications.</li>
-<li class="li1">Experience in, and passion for, blockchain technology.</li>
-<li class="li1">A strong alignment to our principles:&nbsp;<a href="https://status.im/about/#our-principles"><span class="s2">https://status.im/about/#our-principle</span></a></li>
+<h2>What we are looking for in you</h2>
+<ul>
+<li>An exceptional academic track record from both high school and university</li>
+<li>Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path</li>
+<li>Drive and a track record of going above-and-beyond expectations</li>
+<li>Developer with a demonstrable engagement in open-source software</li>
+<li>Well-organised, self-starting and able to deliver to schedule</li>
+<li>Professional manner interacting with colleagues, partners, and community</li>
+<li>Experience of Linux software packaging (deb, rpm or snap)</li>
+<li>Contributor to open-source communities, software and documentation</li>
+<li>An engaging, vivacious speaker and presenter</li>
+<li>Effective, tactful, empathetic and confident</li>
+<li>Builds trust, relationships and confidence</li>
+<li>Result-oriented, with a personal drive to meet commitments&nbsp;</li>
+<li>Ability to travel twice a year, for company events up to two weeks each</li>
+<li>Ability to travel in addition to upstream and industry events</li>
 </ul>
-<p class="p1"><strong>Bonus points if:</strong></p>
-<ul class="ul1">
-<li class="li1">Experience working remotely.&nbsp;</li>
-<li class="li1">Experience working for an open source organization.&nbsp;&nbsp;</li>
+<h2>Additional skills that you might also bring</h2>
+<ul>
+<li>Experience in a developer advocacy or community role</li>
+<li>Ops and system administration experience</li>
+<li>Performance engineering and security experience</li>
 </ul>
-<p class="p1">[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</p>
-<p class="p1"><strong>Compensation:&nbsp;</strong></p>
-<p class="p1">We are happy to pay in either 100% fiat or any mix of fiat and/or crypto.</p>
-
+<h2>What we offer you</h2>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues</li>
+<li>Priority Pass, and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote</p>
+<h2><br><br></h2>
     
-
-    
-
                 </details>
                 </td>
             </tr>,<tr>
@@ -525,89 +544,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p>#LI-remote&nbsp;</p>
 
 <p><br><br></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Developer Relations Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/3655681" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
-<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
-<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
-<p>Location: we are building our initial DevRel team in Europe, Middle East, African and American time zones</p>
-<h2>What your day will look like</h2>
-<ul>
-<li>Contribute to product management team meetings</li>
-<li>Maintain conversations with developer community members</li>
-<li>Engage on IRC, social media, product forums, meet-ups and more</li>
-<li>Collaborate across Canonical teams</li>
-<li>Solve specific technical problems that users or colleagues have identified</li>
-<li>Contribute to technical documentation</li>
-<li>Work on technical articles, presentations or workshops&nbsp;</li>
-<li>Identify new opportunities in developer experience</li>
-<li>Present at conferences, meetups or technical events</li>
-</ul>
-<h2>What we are looking for in you</h2>
-<ul>
-<li>An exceptional academic track record from both high school and university</li>
-<li>Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path</li>
-<li>Drive and a track record of going above-and-beyond expectations</li>
-<li>Developer with a demonstrable engagement in open-source software</li>
-<li>Well-organised, self-starting and able to deliver to schedule</li>
-<li>Professional manner interacting with colleagues, partners, and community</li>
-<li>Experience of Linux software packaging (deb, rpm or snap)</li>
-<li>Contributor to open-source communities, software and documentation</li>
-<li>An engaging, vivacious speaker and presenter</li>
-<li>Effective, tactful, empathetic and confident</li>
-<li>Builds trust, relationships and confidence</li>
-<li>Result-oriented, with a personal drive to meet commitments&nbsp;</li>
-<li>Ability to travel twice a year, for company events up to two weeks each</li>
-<li>Ability to travel in addition to upstream and industry events</li>
-</ul>
-<h2>Additional skills that you might also bring</h2>
-<ul>
-<li>Experience in a developer advocacy or community role</li>
-<li>Ops and system administration experience</li>
-<li>Performance engineering and security experience</li>
-</ul>
-<h2>What we offer you</h2>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues</li>
-<li>Priority Pass, and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote</p>
-<h2><br><br></h2>
     
                 </details>
                 </td>
@@ -869,6 +805,30 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
                 <td width="300">
                     <h5>CloudLinux</h5>
+                    <h3>Senior C Developer for popular open source projects - Work Anywhere/Remote</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/B5108B5EA3" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>We are in search of a highly skilled and passionate C Developer to join our exceptional Extended Lifecycle team at CloudLinux. As a member of this team, you will have a unique opportunity to contribute to major open-source projects such as Apache HTTPD, OpenSSL, and MySQL. Your role will involve the important task of backporting crucial security fixes to ensure the stability of these projects.</p><p>By joining our team of experts, you will have the chance to collaborate with top-notch developers and have a significant impact on the open-source community. For more information about the project and our company, visit our branded websites, <a href="https://www.cloudlinux.com" rel="nofollow noreferrer noopener" class="external">CloudLinux.com</a> and <a href="https://www.tuxcare.com" rel="nofollow noreferrer noopener" class="external">TuxCare.com</a>.</p><p>Come be a part of CloudLinux, where every team member supports each other's success. </p><p><strong>What You Will Do:</strong></p><ul> <li>Collaborate on various open-source projects, including Apache HTTPD, Python, OpenSSL, and more.</li> <li>Backport security and bug fixes from newer upstream versions or develop patches from scratch.</li> <li>Contribute to upstream projects.</li> <li>Create reproducers and tests for vulnerabilities.</li> <li>Automate routine processes such as monitoring CVEs, applying patches, and testing.</li> </ul><h3>Requirements: </h3><p><strong>To be successful you should have;</strong></p><ul> <li>5+ years of professional experience in C programming required</li> <li>Must be proficient in GNU/Linux operating system and shell scripting</li> <li>Strong ability to work with various build systems, including autotools, make, and cmake</li> <li>Prior experience with git-based development processes preferred</li> <li>Knowledge of scripting languages like Python, Perl, or similar will be a valuable asset</li> </ul><p></p><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
                     <h3>Middle/Senior Python Developer - Remote/Work Anywhere</h3>
                 </td>
                 <td width="300">
@@ -981,6 +941,30 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div><b>About Airalo</b></div><div>Alo! Airalo is the world’s first eSIM store that helps people connect in over 200+ countries and regions across the globe. We are building the next digital service that revolutionizes the telecom industry. We are a travel-tech company and an equal-opportunity environment that values and executes diversity, inclusion, and equity. Our team is spread across 40+ countries and six continents. What glues us together is our commitment to changing the way you connect<span style="font-size: 13.3333px">. </span></div><div><br></div><div><b>About you</b></div><div>We hope that you care deeply about the quality of your work, the intrinsic worth of tasks, and the success of your team. You are self-disciplined and do not require micromanagement in terms of your skillset and work ethic. You do your best to flourish as an individual every day while working hard to foster a collaborative team environment. You believe in the importance of being — and staying — authentic, honest, positive, and kind. You are a good interlocutor with clear and concise communication. You are able to manage multiple projects, have an analytical mind, pay keen attention to detail, and love to get your hands dirty. You are cognizant, tolerant, and welcoming of vulnerabilities and cultural differences.</div><div><br></div><div><b>About the Role</b></div><div><b>Position</b>: Full-time / Employee</div><div><b>Location:</b>&nbsp;Remote-first </div><div><b>Benefits:</b>&nbsp;Health Insurance, work-from-anywhere stipend, annual wellness &amp; learning credits, annual all-expenses-paid company retreat in a gorgeous destination &amp; other benefits</div><div><br></div><div>We are looking for an experienced and responsible <b>Senior Backend Developer</b> who is willing to join our expert team developing new features and extending the existing ones in our Network experience team. We welcome talented, passionate, innovative, result-oriented professionals who will drive our technical excellence, get and share knowledge throughout the team.</div><h3>Responsibilities include but are not limited to:</h3><li>Developing new services, refactoring of the existing ones</li><li>Developing enterprise-quality, horizontally scalable, maintainable code using best practices, quickly and according to spec</li><li>Developing new features or enhancements to existing features</li><li>Developing API with multiple data sources</li><li>Developing and designing RESTful services and APIs for front-end clients and other consumers</li><li>Migrating Monolithic application to SOA</li><li>Collaborating daily with other developers across the full software development lifecycle</li><li>Automating testing by writing test code</li><li>Troubleshooting issues and problem-solving as necessary</li>,<h3>Must-haves:</h3><li>Expertise in building large scale distributed systems</li><li>Understanding of MNO vs MVNO vs MVNE concepts</li><li>Experience in developing the BSS/OSS telco integrations</li><li>Minimum 4 years of relevant full-time development experience in PHP</li><li>Proficiency in one or more programming languages like Java, Go, Javascript (<a href="http://node.js/" class="postings-link">Node.js</a>), Typescript</li><li>Minimum 2 years experience in Laravel</li><li>Minimum 2 enterprise project development</li><li>Proficiency in event-driven architecture and developing RESTful APIs</li><li>Experience and good knowledge of Messaging systems: Queue, Pub/Sub, etc.</li><li>Experience and good knowledge of Cache and Caching strategies</li><li>Proficiency in SQL/NoSQL</li><li>Experience and knowledge of AWS services (EC2, Lambda, SQS, Security, Aurora, DynamoDB)</li><li>Proficiency in OOP concept, SOLID and design patterns</li><li>Knowledge about developing multi-language API and admin panel</li><li>Knowledge about Unit Test/Feature Test/Mocking</li><li>Experience with Docker</li><li>Good communication skills and fluency in English</li>,<h3>Good to haves:</h3><li>Worked for a MVNE company as a software developer</li><li>Expert knowledge of PaaS/ SaaS, SOA, Micro/ Nano services</li><li>Prior work experience in telecommunications and network infrastructure</li><li>Knowledge of eSIM and GSMA related technologies and services</li><div>If you are interested in this position, <b>please apply via the link.</b></div><div><br></div><div><i>We sincerely thank all applicants in advance for submitting their interest in this opportunity with Airalo. </i></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/55028a36-609c-479c-9553-d4689ff2dd8c-1669620566663.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Airalo</h5>
+                    <h3>Senior Front-end Developer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/airalo/c8170555-ef3d-4f50-b9f5-aaf5e02fdb65" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><b>About Airalo</b></div><div>Alo! Airalo is the world’s first eSIM store that helps people connect in over 200+ countries and regions across the globe. We are building the next digital service that revolutionizes the telecom industry. We are a travel-tech company and an equal-opportunity environment that values and executes diversity, inclusion, and equity. Our team is spread across 40+ countries and six continents. What glues us together is our commitment to changing the way you connect<span style="font-size: 13.3333px">. </span></div><div><br></div><div><b>About you</b></div><div>We hope that you care deeply about the quality of your work, the intrinsic worth of tasks, and the success of your team. You are self-disciplined and do not require micromanagement in terms of your skillset and work ethic. You do your best to flourish as an individual every day while working hard to foster a collaborative team environment. You believe in the importance of being — and staying — authentic, honest, positive, and kind. You are a good interlocutor with clear and concise communication. You are able to manage multiple projects, have an analytical mind, pay keen attention to detail, and love to get your hands dirty. You are cognizant, tolerant, and welcoming of vulnerabilities and cultural differences.</div><div><br></div><div><b>About the Role</b></div><div><b>Position</b>: Full-time / Employee</div><div><b>Location:</b>&nbsp;Remote-first </div><div><b>Benefits:</b>&nbsp;Health Insurance, work-from-anywhere stipend, annual wellness &amp; learning credits, annual all-expenses-paid company retreat in a gorgeous destination &amp; other benefits</div><div><br></div><div><span style="font-size: 11pt">We are looking for an experienced and responsible senior frontend engineer who is willing to join our expert team developing new features and extending the existing ones in our main partner platform. We welcome talented, passionate, innovative, result-oriented professionals who will drive our technical excellence, get and share knowledge with the team.</span></div><h3>Responsibilities include but are not limited to:</h3><li>Designing and developing enterprise-quality software components based on product specifications</li><li>Developing new features or enhancements to existing features</li><li>Collaborating daily with other developers across the full software development lifecycle</li><li>Working on a single-page application and improving its SEO and performance</li><li>Evaluating user interaction issues and delivering the optimized product</li><li>Implementing unit tests</li><li>Identifying and mitigating project risks</li><li>Estimating the execution of frontend development tasks</li><li>Communicating project status and updates to stakeholders</li><li>Troubleshooting issues and problem-solving as necessary</li><li>Translating user and business needs into frontend code</li><li>Troubleshooting issues and problem-solving as necessary</li>,<h3>Must-haves:</h3><li>Bachelor’s degree in Computer Engineering or a similar discipline</li><li>Proficiency in building Single-page applications</li><li>Minimum 4 years of relevant full-time development experience in JavaScript, CS</li><li>Minimum 2 years of experience with VueJS</li><li>Minimum 2 enterprise project developments</li><li>Familiarity with modern front-end build pipelines and tools</li><li>Proficiency with code versioning tools such as Git</li><li>Proficiency with responsive design and cross-browser compatibility</li><li>Proficiency with RESTful web services</li><li>Proficiency with JavaScript test frameworks</li><li>Knowledge of distributed caching</li><li>Knowledge of cloud computing and cloud application architectures</li><li>Proficiency in OOP concept, SOLID and design pattern</li><li>Experience with Swagger, Docker</li><li>Excellent attention to detail</li><li>Experience with working in an Agile environment</li><li>Good communication skills and fluency in English.</li>,<h3>Good to have:</h3><li>Knowledge of UI/UX best practices</li><li>Experience in A/B testing</li><li>Prior work experience in telecommunications</li><li>Knowledge of eSIM and GSMA related technologies and services</li><div><span style="font-size: 15px">If you are interested in this position,&nbsp;</span><b style="font-size: 15px">please apply via the link.</b></div><div><br></div><div><i>We sincerely thank all applicants in advance for submitting their interest in this opportunity with Airalo. </i></div>
                 </details>
                 </td>
             </tr>,<tr>
