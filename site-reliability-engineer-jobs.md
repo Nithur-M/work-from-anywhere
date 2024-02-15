@@ -207,6 +207,86 @@
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
+                    <h3>Site Reliability Engineering Manager</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/5535122" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>This is a world-class devops and gitops engineering management challenge, bringing together operations management, software engineering and product development, and team leadership in a single high-value role.</p>
+<p>Our mission is to pioneer and prove new and better approaches to large-scale IS. We support Canonical and Ubuntu operations, but we also help shape Canonical's managed application service offerings, raising the bar on devops and cloud-native operations. We take infra-as-code to the next level, blazing a trail to next-generation model-driven operations. We not only aim to automate every process that underpins our business, we also share that automation as open source packages which others use to drive their own operations.</p>
+<p>We work across the full stack, from bare metal to Kubernetes, including cloud and virtualisation. We also work across the full range of infrastructure, from public cloud to private cloud and edge.</p>
+<p>We have fully distributed, home-based teams in EMEA, APAC and the Americas. You will lead a team in your time zone, and report to a global director who may not be in your time zone.</p>
+<h2>Your role as SRE Manager</h2>
+<p>You will need to be a Linux and operations expert, as well as a great manager capable of leading a high-performance team, to excel in this role.</p>
+<p>The IS team at Canonical runs the services used by over 60 million Ubuntu users. We automate all of Canonical’s production services, embracing model-driven operations. We are part of Canonical's effort to raise the bar on ops technology, encapsulating real-world operational knowledge into reusable and composable software operations packages. We use our real-life operational experiences to contribute to product improvements.</p>
+<p>From Kubernetes to the kernel and everything in-between, you will be working with the latest technologies in a fast-paced engineering environment. As an SRE Manager you will be responsible for the operations engineers in your time zone.&nbsp; This includes customer service management, managed services operations and consistent product improvement engineering. Collaboration with internal customers, product engineering, and development groups is critical to success.</p>
+<h2>What your day will look like</h2>
+<ul>
+<li>Lead your team in daily agile devops practices</li>
+<li>Represent the IS team to stakeholders, customers, and internal teams</li>
+<li>Organize, coordinate and drive internal projects</li>
+<li>Mentor engineers to improve their skills</li>
+<li>Identify and measure team health indicators</li>
+<li>Implement structured engineering and operations processes</li>
+<li>Ensure proper team focus on priorities, milestones, and deliverables</li>
+<li>Work to meet service level agreements with customer deployments around the globe</li>
+<li>Deliver quality managed services in a consistent, timely manner</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<ul>
+<li>Drive and a track record of going above-and-beyond expectations</li>
+<li>Proven experience of software delivery using infrastructure as code</li>
+<li>Proven experience managing devops teams for SAAS or similar offerings</li>
+<li>Understanding of testing methodologies and maintainable code quality</li>
+<li>Technical aptitude for understanding complex distributed systems</li>
+<li>Experience with cloud topologies and technologies</li>
+<li>Ability to travel twice a year, for company events up to two weeks long</li>
+<li>An exceptional academic track record from both high school and university</li>
+</ul>
+<h2>Additional skills that you might also bring</h2>
+<ul>
+<li>Experience with Ubuntu system administration</li>
+<li>Experience with agile software development methodologies</li>
+<li>Experience working in and managing distributed teams</li>
+</ul>
+<h2>What we offer you</h2>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues</li>
+<li>Priority Pass, and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote</p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
                     <h3>Site Reliability / Gitops Engineer</h3>
                 </td>
                 <td width="300">
