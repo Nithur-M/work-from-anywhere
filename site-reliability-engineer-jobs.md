@@ -1,5 +1,70 @@
 <div align="center"><h2>SITE RELIABILITY ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1897270/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>PandaDoc</h5>
+                    <h3>Senior Site Reliability Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>AWS,go,kubernetes,python</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/devops/senior-site-reliability-engineer-1897270" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Site Reliability Engineers are mission-critical for PandaDoc success. We ensure that PandaDoc services are reliable and service our customers with minimum downtime. Site Reliability Engineers are the driving force that keeps the system running smoothly and helps identify any bottlenecks before they become issues. We focus on metrics, observability, and eliminating manual operations work with automation.</p>
+<div class="h2"><strong>In this role, you will:</strong></div>
+<ul style="">
+<li style="">Build software, frameworks, and tools required for reliable operations of PandaDoc services</li>
+<li style="">Manage the stability and operation of most critical production applications through application reviews, capacity planning, and performance tuning</li>
+<li style="">Constantly develop automations/tooling for better platform reliability/availability</li>
+<li style="">Work with cutting-edge &amp; distributed systems not limited to, but including Kubernetes, RabbitMQ, Kafka, Redis and ElasticSearch</li>
+<li style="">Collaborate with other engineers on the team as well as cross functionally to foster solid engineering principles and represent our engineering values</li>
+<li style="">Participate in various POCs on new projects and frameworks being evaluated for the product/platforms</li>
+<li style="">Improve our observability as both a developer/maintainer of systems/frameworks, and a mentor to our product development teams</li>
+</ul>
+<div class="h2"><strong>About you:</strong></div>
+<ul style="">
+<li style="">3+ years of experience using higher level languages (e.g. Python or Go)</li>
+<li style="">Strong experience in configuration and maintenance observability tools (Prometheus, Grafana, Kibana)</li>
+<li style="">Experience in supporting critical production services</li>
+<li style="">Enjoy hands-on troubleshooting in a distributed Linux systems environment and are comfortable in tracing problems through applications, systems and networks</li>
+<li style="">Strong experience with AWS and Kubernetes</li>
+<li style="">Experience using industry standard DevOps tools such as GitLab, Jenkins, Terraform</li>
+<li style="">You enjoy communication and knowledge sharing on all things reliability</li>
+<li style="">You act like an owner and strive to do work you're proud of, both technically and in your team interactions</li>
+</ul>
+<div class="h2"><strong>Company Overview: </strong></div>
+<p>PandaDoc empowers more than 50,000 growing organizations to thrive by taking the work out of document workflow. PandaDoc provides an all-in-one document workflow automation platform that helps fast scaling teams accelerate the ability to create, manage, and sign digital documents including proposals, quotes, contracts, and more.  For more information, please visit<a href="%22https:/www.pandadoc.com/%22" rel="nofollow"> https://www.pandadoc.com</a>.</p>
+<div class="h2"><strong>Company Culture: </strong></div>
+<p>We're known for our work-life balance, kind co-workers, &amp; creative virtual team-bonding events. And although our Pandas are located across the globe, we stay connected with the help of technology and ensure that everyone on our team feels, well, like a team.</p>
+<p>Pandas work best when they're happy. We retain our talent by upholding our values of integrity &amp; transparency, and selling a product that changes the lives of our customers. </p>
+<p>Check out our<a href="%22https:/www.linkedin.com/company/pandadoc/life/pdcompanyculture%22" rel="nofollow"> LinkedIn</a> to learn more.</p>
+<div class="h2"><strong>Benefits:</strong></div>
+<ul style="">
+<li style="">An honest, open culture that emphasizes feedback and promotes professional and personal development</li>
+<li style="">An opportunity to work from anywhere — our team is distributed worldwide, from Lisbon to Manila, from Florida to California</li>
+<li style="">6 self care days</li>
+<li style="">A competitive salary</li>
+<li style="">And much more!</li>
+</ul>
+<p><strong>PandaDoc is an Equal Opportunity Employer.</strong> We are committed to equal treatment of all employees without regard to race, national origin, religion, gender, age, sexual orientation, veteran status, physical or mental disability or other basis protected by law.</p>
+<p><strong>EXTERNAL RECRUITERS</strong></p>
+<p><strong>Approval Requirement</strong></p>
+<p>The use of external recruiters/staffing agencies requires prior approval from our HR Team. The HR Team at PandaDoc requests that external recruiters/staffing agencies not to contact PandaDoc employees directly in an attempt to present candidates. Complying with this request will be a factor in determining future professional relationships with PandaDoc.</p>
+<p> </p>
+<img src="https://remotive.com/job/track/1897270/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1387074696831672327/C7WTpiAb_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
