@@ -1,5 +1,87 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1898376/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>OpenZeppelin</h5>
+                    <h3>Product Manager - Contracts and Ecosystems</h3>
+                </td>
+                <td width="300">
+                    <code>product marketing,product management,analytics</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/product-manager-contracts-and-ecosystems-1898376" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class='"content-intro"'><div class="h3"><strong>About us</strong></div>
+<p><span style='"font-weight:'>Founded in 2015 with the mission to protect the open economy, OpenZeppelin is the world leader in securing blockchain applications and smart contracts. </span></p>
+<p><span style='"font-weight:'>Its bedrock open source Contract Libraries are a public good and industry standard for smart contract development. </span></p>
+<p><span style='"font-weight:'>OpenZeppelin’s professional expertise, unified with the Defender developer security platform, integrates through clients’ development lifecycles, so teams can plan, code, audit, deploy and operate projects faster and more safely.</span></p>
+<p><span style='"font-weight:'><strong>Please note:</strong> Always refer to OpenZeppelin's official job page for the most accurate information about our open roles, as we have seen multiple third party job sites posting inaccurate information.</span></p></div><div class="h3"><strong>The Product Team ❤️<br></strong></div>
+<p><span style='"font-weight:'>Our product team is responsible for the strategy, planning, launch, and adoption of the different OpenZeppelin products. This role will be focused on adoption and helping developers thrive using the full OpenZeppelin stack. It will require experience and skills in go-to-market, product marketing, and developer relations, as well as product management.</span></p>
+<p><span style='"font-weight:'>The Product team works closely with all the functions in order to achieve our goal of protecting the open economy by enabling developers and companies to securely code, audit, deploy, and operate smart contracts. We put a strong emphasis on user experience and analytics, and we love to experiment!</span></p>
+<div class="h3"><strong>What you'll be doing</strong></div>
+<ul style="">
+<li style=""><span style='"font-weight:'>Craft and execute the product vision to make OpenZeppelin’s products complementary to each other.</span></li>
+<li style=""><span style='"font-weight:'>Design and ship the OpenZeppelin Contracts roadmap for investments in Solidity, Cairo, and the future, including managing OpenZeppelin’s partnerships and ecosystem strategy.</span></li>
+<li style=""><span style='"font-weight:'>Ship open source products, templates, libraries, and prototypes at a high velocity with the Contracts engineering team and Developer Relations.</span></li>
+<li style=""><span style='"font-weight:'>Identify and prioritize products that grow the ecosystem and empower more developers to build compelling smart contract applications using Contracts and Defender.</span></li>
+<li style=""><span style='"font-weight:'>Develop and execute a cohesive marketing strategy for the full OpenZeppelin stack.</span></li>
+<li style=""><span style='"font-weight:'>Live and breathe the customer experience by talking to our users every day, researching the smart contract development market, and incorporating learnings into the product and marketing strategy.</span></li>
+<li style=""><span style='"font-weight:'>Define and maintain metrics and counter metrics to determine the success of our ecosystem products and marketing efforts</span></li>
+</ul>
+<div class="h3"><strong>You have</strong></div>
+<ul style="">
+<li style=""><span style='"font-weight:'>Hands-on and practical experience of at least 5 years as a Product Manager and/or Product Marketing Manager.</span></li>
+<li style=""><span style='"font-weight:'>Been in the market already as a professional or hobbyist, spending time each day understanding web3 and smart contract applications, including technical details.</span></li>
+<li style=""><span style='"font-weight:'>Shipped products to millions of users and/or thousands of developers, and your track record shows a keen sense of design and painstaking attention to detail.</span></li>
+<li style=""><span style='"font-weight:'>Worked in an organization that delivers multiple products, and you’ve designed complementary offerings. You’ve seen these products go from zero to wide adoption.</span></li>
+<li style=""><span style='"font-weight:'>Communication skills, able to write about complex topics accurately, precisely, and simply for millions of readers to consume.</span></li>
+<li style=""><span style='"font-weight:'>A team player attitude and you know that producing great results takes a team. You defend your decisions but welcome feedback and are able to work collaboratively in a distributed team.</span></li>
+<li style=""><span style='"font-weight:'>High self-motivation, able to make decisions and relish owning the journey of your work from concept through to use by our customers.</span></li>
+</ul>
+<div class="h3"><strong>Nice to have</strong></div>
+<ul style="">
+<li style=""><span style='"font-weight:'>Experience in security software products.</span></li>
+<li style=""><span style='"font-weight:'>Working in a startup.</span></li>
+<li style=""><span style='"font-weight:'>Experience managing Web3 products.</span></li>
+</ul>
+<div class="h3"><strong>Logistics:</strong></div>
+<p><span style='"font-weight:'>The interview process takes place on Zoom and will consist of the following stages:</span></p>
+<ul style="">
+<li style=""><span style='"font-weight:'>Recruiter Call (45 mins)</span></li>
+<li style=""><span style='"font-weight:'>Team Interview (45 mins)</span></li>
+<li style=""><span style='"font-weight:'>Hiring Manager Call (45 mins)</span></li>
+<li style=""><span style='"font-weight:'>Leadership Interview (30 mins)</span></li>
+<li style=""><span style='"font-weight:'>Reference checks</span></li>
+</ul><div class='"content-conclusion"'><section class='"j-content"'>
+<div class='"container"'>
+<div class="h3"><strong>Benefits</strong></div>
+<ul style="">
+<li style=""><span style='"font-weight:'>Unlimited holidays 🏝</span></li>
+<li style=""><span style='"font-weight:'>Fully remote: your way of working 🌎</span></li>
+<li style=""><span style='"font-weight:'>Paid parental leave &amp; benefits for primary or second caregiver 💙</span></li>
+<li style=""><span style='"font-weight:'>Company retreats in different locations around the world 😎</span></li>
+<li style=""><span style='"font-weight:'>Work from home office equipment stipend of up to $500 USD 🪑</span></li>
+<li style=""><span style='"font-weight:'>Monthly allowance for wellness activities 💪</span></li>
+<li style=""><span style='"font-weight:'>Coworking: access to a coworking space of your choice 👩‍💻</span></li>
+<li style=""><span style='"font-weight:'>Learning: technical training; spoken language lessons in any language of your choice (using Italki) 🗣</span></li>
+<li style=""><span style='"font-weight:'>Working with a global team in a fast-growing industry 🚀</span></li>
+</ul>
+<p class='"job-description"'><span style='"font-family:'><span style='"font-weight:'>At </span><strong>OpenZeppelin</strong><span style='"font-weight:'>, we are an equal opportunity employer and we value different perspectives. We are committed to building a diverse workforce. This includes but is not limited to gender, race, sexual orientation, religion, national origin and other characteristics that make each one of us unique. In this uniqueness, we find the most value. Come join us!</span></span></p>
+<p> </p>
+</div>
+</section></div><img src="https://remotive.com/job/track/1898376/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1542681228666671107/L5LYJLAD_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -165,30 +247,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1592609773958025216/CaG1yAqK_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Mechanical Orchard</h5>
-                    <h3>R&D Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/mechanicalorchard/ecdf0039-af28-46c7-ba45-971b9aa92011" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt">Mechanical Orchard is a fast-growing startup that takes a fresh view on old problems. We replace legacy computing systems for the Global 2000, with a focus on mitigating risk and creating a genuinely solid foundation for innovating and adapting.&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">Our background in software development and the impact on the industry is well known, and we've literally helped write the book on XP and other impactful agile practices. We’re applying the same thoughtfulness and rigor in weaving AI into everything we do. We believe in the durable principles behind agile, and embrace the power of cross-functional teams, collective ownership, test driven development, short feedback loops, and continuous improvement.</span></div><div><br></div><div><span style="font-size: 11pt">We are Generous, Ethical, Effective, and Kind.</span></div><div><br></div><div><span style="font-size: 11pt">Mechanical Orchard takes a disciplined approach to legacy modernization, starting with a focused, collaborative discovery phase to create a shared understanding of the existing system.&nbsp;This is followed by a “steel thread” that paves a path to production, cutting through integration, testing, access, and organizational hurdles for the first modernized job or application workload. We then scale up and accelerate the modernization process, gradually reducing risk and steadily unlocking innovation for our customers.</span></div><div><br></div><div><span style="font-size: 11pt">Our R&amp;D team is leading the way in using generative AI and other technology to accelerate this legacy modernization journey.</span></div><div><br></div><div><span style="font-size: 11pt">We’re starting with comprehension tools to facilitate reverse engineering, with AI-generated source summaries, interactive dependency visualizations, and LLM agents that empower our delivery teams and allow them to hit the ground running.</span></div><div><br></div><div><span style="font-size: 11pt">Here’s what Jeff Schomay, our staff AI engineer has to say about it:</span></div><div><br></div><div><i style="font-size: 11pt">“Working on the R&amp;D team offers constant fun and interesting challenges.&nbsp; Legacy code bases are hard enough to understand by trained software engineers, let alone AIs, and the traditional code-aware models and embedding techniques don’t work so well with COBOL, so we have to make innovative inroads to the problems that build upon each other.&nbsp; But the effort is worth it and we feel like wizards when our clients start realizing that we can show them insights into their own systems that they’ve been working on for over 30 years that they’ve never seen before.”</i></div><div><br></div><div><span style="font-size: 11pt">Our vision is an AI-first platform that streamlines the entire modernization process from discovery through to production operations. This platform aims to augment the capabilities of our delivery teams, offer unparalleled transparency for our customers, and firmly establish Mechanical Orchard as a disruptive force in the legacy modernization industry.</span></div><div><br></div><div><span style="font-size: 11pt">We’re looking for an experienced software product manager to join our R&amp;D team and help realize this vision.</span></div><div><br></div><div><span style="font-size: 11pt">In this role, you will work as part of a balanced product team, collaborating with engineers, AI researchers, product designers, and other roles to develop a platform that helps accelerate our legacy modernization efforts, with an eye towards potential product opportunities.</span></div><div><br></div><div><span style="font-size: 11pt">We’re taking an AI-first approach, so in this role you will also be expected to keep up with developments in the generative AI space and work closely with the R&amp;D team to identify ways that these developments can be applied to solving customer problems.</span></div><div><br></div><div><span style="font-size: 11pt">You role will also involve:</span></div><div><br></div><div><span style="font-size: 11pt">-  Engaging closely with customer delivery teams, external customers, and business stakeholders to understand their needs, and leverage this understanding to shape product strategy and inform decision-makingUsing lean startup and lean UX principles to develop and test product ideas quickly and efficiently</span></div><div><span style="font-size: 11pt">-  Working in partnership with product designer(s) to conduct user research, develop experiments, design solutions, validate design effectiveness, and iterate on designs based on qualitative and quantitative feedback from users, customers, and the development team</span></div><div><span style="font-size: 11pt">-  Managing a roadmap and a tactical backlog to drives incremental progress in terms of learning and valueMonitoring, analyzing, and discerning learnings from qualitative and quantitative data&nbsp;</span></div><div><span style="font-size: 11pt">-  Organizing and facilitating regular project planning meetings, brainstorming sessions, team retrospectives, and other agile team ceremonies&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">As the ideal candidate, you have at least 3 years experience as a software product manager, with experience across the entire product lifecycle, and a deep understanding of product management principles.&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">You have at least some exposure to AI, with an understanding of how LLMs work.&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">You’ve worked in an R&amp;D environment, demonstrating the ability to navigate exploratory and innovative technology domains.&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">Strong communication and collaboration skills are critical, as is the ability to empathize and engage effectively with a diverse team including AI experts, customers, and other stakeholders within Mechanical Orchard.</span></div><div><br></div><div><span style="font-size: 11pt">This is a full time, remote position, and we’re looking for candidates in the US Eastern, US Central, or the (Europe) CET time zone.</span></div><div><br></div><div><span style="font-size: 11pt">Occasional travel may be required for customer visits or team gatherings.&nbsp;</span></div></div><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 11pt">Mechanical Orchard, Inc. is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind. Mechanical Orchard, Inc. is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Mechanical Orchard, Inc. are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Mechanical Orchard, Inc. will not tolerate discrimination or harassment based on any of these characteristics. Mechanical Orchard, Inc. encourages applicants of all ages. Mechanical Orchard, Inc. will provide reasonable accommodation to employees who have protected disabilities consistent with local law.</span></div><div><br></div><div>We look forward to reviewing your application. Thanks!</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/mechanicalorchard/ecdf0039-af28-46c7-ba45-971b9aa92011/apply">Apply for this job</a></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/2e1a369c-b58f-41ac-8d86-4b0a77695e68-1687915522032.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -233,6 +291,30 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div>*Scroll has a remote-first work culture, our staff base is globally distributed and we are location agnostic. We make hiring decisions based on talent, culture fit and role suitability. If you have the skills and experience requested by this job description then please APPLY!</div><div>We are hiring the senior product manager to execute ongoing developer-facing frontend product initiatives. You will be driving ongoing experimentations of new product-lead initiatives to learn how we can support developer/user growth at all stages (awareness, consideration or retention). Potentially, your initiatives will turn out to be a powerful tool for developer/user growth on which we can double down investment to scale up.</div><div><br></div><div><b>About Scroll…</b></div><div>Scroll is building an open source, bytecode level compatible zkEVM layer 2 solution for Ethereum. Our mission is to scale Ethereum while maintaining our values of credible neutrality, openness, and community driven.</div><div><br></div><h3>Responsibilities: </h3><li>Your primary objective is to help Scroll explore growth levers to grow developer communities with a product-driven mindset;</li><li>You absorb ideas from Founders, BD, DevRel, engineers and research from developers, work with cofounders and stakeholders to sponsor your projects;</li><li>Execute project with designers and engineers and share feedback and learnings with stakeholders and initiate projects;</li><li>Part of your job is to craft a good product solution with stakeholders, and you have the space to be creative, and try out new ideas which some of them might turn out to be a long-term growth lever for Scroll;</li><li>In long-term, you will become the thought leader for Scroll and completely own projects and roadmaps;</li>,<h3>Requirements:</h3><li>5 experience in working in product management across at least two distinct business domains</li><li>1 year experience in building product in Web3</li><li>Able to identify, prioritize and articulate user problems from noisy data and raw info;</li><li>Able to come up with creative solutions;</li><li>Perfect product execution: on time, high quality with measurable impact and learnings</li><li>Have a good sense of UX craft;</li><li>Familiar and passionate about blockchain ecosystem, and also have an opinion on how the ecosystem will evolve;</li><li>Familiar with Scroll’s tech stack and differentiations</li>,<h3>About You</h3><li>You are a self-starter and ability to take ownership, well organised, self-disciplined and effective when working autonomously on tasks and projects;</li><li>You are responsive, collaborative and committed person with a high work ethic;</li><li>You are a high class communicator who can articulate their views succinctly on calls or asynchronously in globally distributed, remote teams;</li><li>You relish working in an agile start-up environment;</li><li>You are a great listener who understands when to listen first and engages well with colleagues;</li><li>You are a resilient, driven individual who is willing and able to continually develop and iterate to succeed;</li>,<h3>What We Offer </h3><li>A mission-led, collaborative culture</li><li>Opportunity to work with cutting edge technology and like-minded people who are contributing to the progression of Ethereum</li><li>Competitive salary package / generous paid time off / annual growth budget</li><li>Remote from any location with flexible hours</li><li>Home office set up / co-working membership allowance</li><li>Private healthcare in selected countries</li><div>Scroll is proud to be an equal opportunity workplace. We are committed to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. If you have a disability or special need, please let us know and we'll do our best to accommodate.</div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/55028a36-609c-479c-9553-d4689ff2dd8c-1669620566663.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Airalo</h5>
+                    <h3>Senior Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/airalo/54bdede9-e89c-4943-9ebb-79b5e8eea0dc" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><b>About Airalo</b></div><div>Alo! Airalo is the world’s first eSIM store that helps people connect in over 200+ countries and regions across the globe. We are building the next digital service that revolutionizes the telecom industry. We are a travel-tech company and an equal-opportunity environment that values and executes diversity, inclusion, and equity. Our team is spread across 40+ countries and six continents. What glues us together is our commitment to changing the way you connect<span style="font-size: 13.3333px">. </span></div><div><br></div><div><b>About you</b></div><div>We hope that you care deeply about the quality of your work, the intrinsic worth of tasks, and the success of your team. You are self-disciplined and do not require micromanagement in terms of your skillset and work ethic. You do your best to flourish as an individual every day while working hard to foster a collaborative team environment. You believe in the importance of being — and staying — authentic, honest, positive, and kind. You are a good interlocutor with clear and concise communication. You are able to manage multiple projects, have an analytical mind, pay keen attention to detail, and love to get your hands dirty. You are cognizant, tolerant, and welcoming of vulnerabilities and cultural differences.</div><div><br></div><div><b>About the Role</b></div><div><b>Position</b>: Full-time / Employee</div><div><b>Location:</b>&nbsp;Remote-first </div><div><b>Benefits:</b>&nbsp;Health Insurance, work-from-anywhere stipend, annual wellness &amp; learning credits, annual all-expenses-paid company retreat in a gorgeous destination &amp; other benefits</div><div><br></div><div>Our vision is to be-to-go connectivity solution for Partners globally. We are on a mission to empower our partners, helping them unlock new economic opportunities through affordable, accessible and innovative connectivity products.</div><div><br></div><div>As a Senior Product Manager, you will be responsible for defining and executing the product strategy and product roadmap for our SaaS product. You will play a pivotal role in driving the success of your product area, delivering first-class product experiences at a global scale. Your curiosity, humility, and pride in uplifting others through your support and leadership define your role.</div><h3>Responsibilities include but are not limited to:</h3><li>Define and articulate a clear vision, OKRs and Product Roadmaps for your Product area, focusing on Partner onboarding, and facilitating eSIM purchases</li><li>Define, analyse and optimize metrics to grow your Product area while measuring impact and reporting on progress</li><li>Apply product management best practices involving working backwards, conducting product discovery and leveraging data insights to uncover new product opportunities</li><li>Deeply understand user needs, articulate use cases clearly, identify potential bottlenecks and translate these insights into requirements for the engineering team</li><li>Adopt and embrace Product Requirements Documents reflecting your thought process</li><li>Define, prioritize and manage a product backlog effectively</li><li>Work collaboratively with&nbsp;engineering, design, research, data, finance and Partnerships to deliver impactful products and features</li>,<h3>Must-haves:</h3><li>5+ years experience as a Product Manager in a SaaS focused company</li><li>Experience in defining and executing product-led growth strategies, especially in optimizing partner onboarding experiences</li><li>Experience in collaborating with and designers, engineers, Q/A and Partnerships in an agile environment</li><li>Experience in defining and iterating product roadmaps and OKRs</li><li>Experience in facilitating technical discussions about products and features and providing feedback for technical designs</li><li>Strong analytical and problem-solving skills with data-driven decision-making</li><li>Extraordinary attention to detail by thinking the beauty is hidden in them</li><li>Proven experience in user-centred design and research, with the ability to conduct interviews and understand user needs</li><li>Excellent verbal and written communication skills</li>,<h3>Good-to-haves:</h3><li>Product experience in partnerships and telecommunications</li><li>Experience with Jira, Figma, QuickSight, Tableau, Dovetail, Google Analytics, Hotjar, Mixpanel</li><li>Knowledge of eSIM and GSMA-related technologies and services</li><div><i>We sincerely thank all applicants in advance for submitting their interest in this opportunity with Airalo. </i></div>
                 </details>
                 </td>
             </tr></table>
