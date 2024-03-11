@@ -207,86 +207,6 @@
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
-                    <h3>Site Reliability Engineering Manager</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/5535122" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>This is a world-class devops and gitops engineering management challenge, bringing together operations management, software engineering and product development, and team leadership in a single high-value role.</p>
-<p>Our mission is to pioneer and prove new and better approaches to large-scale IS. We support Canonical and Ubuntu operations, but we also help shape Canonical's managed application service offerings, raising the bar on devops and cloud-native operations. We take infra-as-code to the next level, blazing a trail to next-generation model-driven operations. We not only aim to automate every process that underpins our business, we also share that automation as open source packages which others use to drive their own operations.</p>
-<p>We work across the full stack, from bare metal to Kubernetes, including cloud and virtualisation. We also work across the full range of infrastructure, from public cloud to private cloud and edge.</p>
-<p>We have fully distributed, home-based teams in EMEA, APAC and the Americas. You will lead a team in your time zone, and report to a global director who may not be in your time zone.</p>
-<h2>Your role as SRE Manager</h2>
-<p>You will need to be a Linux and operations expert, as well as a great manager capable of leading a high-performance team, to excel in this role.</p>
-<p>The IS team at Canonical runs the services used by over 60 million Ubuntu users. We automate all of Canonical’s production services, embracing model-driven operations. We are part of Canonical's effort to raise the bar on ops technology, encapsulating real-world operational knowledge into reusable and composable software operations packages. We use our real-life operational experiences to contribute to product improvements.</p>
-<p>From Kubernetes to the kernel and everything in-between, you will be working with the latest technologies in a fast-paced engineering environment. As an SRE Manager you will be responsible for the operations engineers in your time zone.&nbsp; This includes customer service management, managed services operations and consistent product improvement engineering. Collaboration with internal customers, product engineering, and development groups is critical to success.</p>
-<h2>What your day will look like</h2>
-<ul>
-<li>Lead your team in daily agile devops practices</li>
-<li>Represent the IS team to stakeholders, customers, and internal teams</li>
-<li>Organize, coordinate and drive internal projects</li>
-<li>Mentor engineers to improve their skills</li>
-<li>Identify and measure team health indicators</li>
-<li>Implement structured engineering and operations processes</li>
-<li>Ensure proper team focus on priorities, milestones, and deliverables</li>
-<li>Work to meet service level agreements with customer deployments around the globe</li>
-<li>Deliver quality managed services in a consistent, timely manner</li>
-</ul>
-<h2>What we are looking for in you</h2>
-<ul>
-<li>Drive and a track record of going above-and-beyond expectations</li>
-<li>Proven experience of software delivery using infrastructure as code</li>
-<li>Proven experience managing devops teams for SAAS or similar offerings</li>
-<li>Understanding of testing methodologies and maintainable code quality</li>
-<li>Technical aptitude for understanding complex distributed systems</li>
-<li>Experience with cloud topologies and technologies</li>
-<li>Ability to travel twice a year, for company events up to two weeks long</li>
-<li>An exceptional academic track record from both high school and university</li>
-</ul>
-<h2>Additional skills that you might also bring</h2>
-<ul>
-<li>Experience with Ubuntu system administration</li>
-<li>Experience with agile software development methodologies</li>
-<li>Experience working in and managing distributed teams</li>
-</ul>
-<h2>What we offer you</h2>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues</li>
-<li>Priority Pass, and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote</p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
                     <h3>Site Reliability / Gitops Engineer</h3>
                 </td>
                 <td width="300">
@@ -361,30 +281,6 @@
 <p>#LI-remote&nbsp;</p>
 
     
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://lever-client-logos.s3-us-west-2.amazonaws.com/0f4b434e-502f-4390-9819-c058d43028c1-1595260531860.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Bio Render</h5>
-                    <h3>Software Engineer, Site Reliability (Senior or Staff)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/biorender/8fa5d9de-2eed-4885-ae8b-bd68ee24ebdf" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div>At BioRender, our mission is to accelerate the world’s ability to learn, discover and communicate science. We are passionate about democratizing science communication in order to accelerate scientific discovery and understanding. We're looking for amazing people to help create the world’s go-to-place and platform where science is communicated. Come join us!</div><div><br></div><div><span style="font-size: 11pt">As our Sr/Staff SRE in the Platform Engineering team, you'll get in on the ground floor and play a pivotal role in developing and shaping a resilient, high-performant, and secure platform for BioRender's engineering prowess. Aligned with our company mission to accelerate the world’s ability to learn, discover, and communicate science, your objective is to design, implement, and maintain robust, scalable, and fault-tolerant systemsthat our customers rely on. Harnessing the power of automation, CI/CD, and Infrastructure as Code, you'll seamlessly integrate and deploy our applications into the cloud while establishing observability enhanced with actionable alerts and automation to detect performance bottlenecks. You'll adeptly address production issues, promptly restore services, and lead post-mortems to continually enhance our engineering excellence, thereby fulfilling our company's vision to be the go-to trusted place where science is communicated.</span></div><h3>Our ideal fit:</h3><li>You have experience working in a fast-paced, competitive environment and have a deep desire to work collaboratively, solve problems, and find win/win solutions.</li><li>You are passionate about architecting and building scalable platform solutions.</li><li>You are a results-oriented individual who takes initiative and has a strong bias for action.</li><li>You’re a creative thinker who finds efficient and simple solutions and evangelizes best practices.</li><li>You have effective communication skills, a sense of ownership and drive to consistently improve yourself and others.&nbsp;</li><li>You’re a selfless team player who sees the big picture and puts common goals at the forefront of solutioning and decision-making.</li>,<h3>What you'll be doing:</h3><li>Elevate and Innovate: Enhance platform resilience by constantly seeking ways to improve the reliability, scalability and release efficiency of the platform</li><li>Develop Robust Observability and Monitoring Solutions: Define, build, deploy, maintain, and extend advanced observability and monitoring tools to bolster system reliability and availability.</li><li>Define and Monitor Performance Metrics: Play a key role in formulating and tracking Service Level Indicators (SLIs) and Service Level Objectives (SLOs) to establish precise benchmarks for system performance.</li><li>Solve Complex Issues and Conduct Root Cause Analysis: Swiftly respond to escalated incidents, troubleshoot intricate system and application problems, and conduct thorough root cause analyses to implement corrective measures.</li><li>Thought Leadership and Innovation: stay up to date with the latest industry trends and emerging technologies and iterate on best practices to increase the quality &amp; velocity of development and deliverables.</li><li>Architect Scalable and Reliable Systems: Lead in the design and architecture of scalable, distributed, fault-tolerant systems that uphold performance and reliability standards.</li><li>Mentorship and Evangelism: Champion the adoption of new technologies, disseminate best practices, and advocate for architectural patterns. Mentor and guide fellow engineers in the organization.</li>,<h3>What you bring to the table:</h3><li>10-12+ years of experience in the software/DevOps/SRE realm</li><li>Strong programming skills in 2 or more of these languages: javascript, typescript, python, Go</li><li>Ability to troubleshoot complex distributed systems at scale</li><li>Comfortable innovating and establishing new practices, processes, and tooling</li><li>Strong analytical skills, system design, and architecture for cloud applications</li><li>CI/CD, configuration management, monitoring, and automation expertise</li><li>Advanced knowledge of observability and best practices (ELK, Datadog, OpenTelemetry, Prometheus, Grafana)</li><li>Deployment and orchestration via AWS ECS, k8s, CloudRun etc.</li><li>Understanding of Linux, virtualization, networking, VPCs, firewalls, security groups</li><li>Hands-on knowledge of AWS and resources provisioning via CLI/API/IaC</li><li>Bachelor's degree in Computer Science, similar technical field of study, or equivalent practical experience.</li>,<h3>Why join us?</h3><li>We are mission-driven, and work collaboratively towards our shared vision of improving scientific communication and accelerating scientific discovery: BioRender figures have appeared in more than 16,000 publications!&nbsp;</li><li>It’s a product that users love! We have a world-class NPS and a community of loyal fans. <a href="https://biorender.com/testimonials/ " class="postings-link">Check out our Testimonials page </a>to see what our customers are saying about us!</li><li>We are in the top quartile for profitability and year-over-year revenue growth, with users in 200+ countries.</li><li>BioRender is an equal opportunity employer, and an inclusive hiring process and work environment is a part of our DNA.&nbsp;</li><li>We’re remote-first and have team members across Canada and the United States. A physical office in Toronto is available, but you have the flexibility to work from anywhere.&nbsp;</li><li>We’re backed by top investors, accelerators, and some of the most successful life science entrepreneurs and philanthropists in the world including Y Combinator, Malala Fund founders, and Fifty Years VC.&nbsp;</li><li>We are committed to building a warm, inclusive, and diverse environment. Check out how we make sure our <a href="https://www.biorender.com/biorender-careers" class="postings-link">employees come first.</a></li><div><br></div><div>If your interest is piqued, please apply. We'd love to hear from you. Also, be sure to check out other listings on our <a href="https://jobs.lever.co/biorender" class="postings-link">Careers page</a>. BioRender is now remote-first, with plans to bring everyone together at our Toronto office a few times each year. </div><div><br></div><div>We are committed to providing work environments which promote the health, safety and well-being of all employees in accordance with public health regulations and guidance. Accordingly, as a condition of any offer of employment, employees are required to provide evidence of full vaccination or have an approved exemption in accordance with the Ontario Human Rights Code.</div><div><br></div><div>BioRender is an equal opportunity employer and, as such does not discriminate on the basis of race, colour, religion, sex, national origin, age, sexual orientation, disability or any other characteristic protected by applicable laws.&nbsp; Selection decisions are solely based on job-related factors.</div>
                 </details>
                 </td>
             </tr></table>
