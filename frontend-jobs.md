@@ -96,8 +96,8 @@
 
     <h2><span style="font-weight: 400;">About Bobtail</span></h2>
 <p><span style="font-weight: 400;">Bobtail is dedicated to increasing happiness by eliminating inefficiencies in the supply chain.&nbsp; We envision a supply chain without friction, fraud, waste, and abuse where companies succeed based on the value they create.&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">We work in a unique way at Bobtail, where we value teams over individuals and encourage experimentation and iteration to constantly improve.&nbsp; Teams are given flexibility in working towards a shared purpose and given the freedom to decide how they will accomplish their goals.&nbsp;&nbsp;</span></p>
-<p><span style="font-weight: 400;">If you are an out of the box thinker that takes a proactive approach in collaborating with others to solve problems and achieve your goals - we would love to talk to you.&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">We work uniquely at Bobtail, where we value teams over individuals and encourage experimentation and iteration to constantly improve.&nbsp; Teams are given flexibility in working towards a shared purpose and given the freedom to decide how they will accomplish their goals.&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">If you are an out-of-the-box thinker who takes a proactive approach to collaborating with others to solve problems and achieve your goals - we would love to talk to you.&nbsp;&nbsp;</span></p>
 <p><span style="font-weight: 400;">The things we value:</span></p>
 <ol>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Mission</span></li>
@@ -106,16 +106,17 @@
 <li style="font-weight: 400;"><span style="font-weight: 400;">Communication</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Iteration</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Experimentation and failing fast</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Initiative and solutions oriented approach</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Initiative and solutions-oriented approach</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Documentation</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Data</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Mental health and work life balance</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mental health and work-life balance</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Diversity</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Transparency</span><span style="font-weight: 400;"><br><br></span></li>
 </ol>
 <h2><span style="font-weight: 400;">You should apply if you have:</span></h2>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Solve technical problems of high scope and complexity.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">5 years or more experience contributing towards the frontend layer using Javascript frameworks. Vue.js is preferred</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Exert influence on the overall objectives and long-range goals of your team.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Experience with performance and optimization problems, particularly at large scale, and a demonstrated ability to both diagnose and prevent these problems</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Help to define and improve our internal standards for style, maintainability, and best practices for a high-scale web environment. Maintain and advocate for these standards through code review.</span></li>
@@ -124,9 +125,9 @@
 </ul>
 <h2><span style="font-weight: 400;">You will be responsible for:</span></h2>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Craft user experiences that work on devices that our users use (primarily mobile devices and desktop browsers).</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Writing reusable, testable, efficient and secure code.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Working with large scale, highly available and resilient modern financial systems.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Crafting user experiences that work on devices that our users use (primarily mobile devices and desktop browsers).</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Writing reusable, testable, efficient, and secure code.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Working with large-scale, highly available and resilient modern financial systems.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Working with automated deployment, enabling code release multiple times a day.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Working with modern tools and languages that excite you.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Being an integral part of a team, in addition to its culture and ways of working. Common practices include agile methodologies.</span></li>
@@ -136,16 +137,16 @@
 <li style="font-weight: 400;"><span style="font-weight: 400;">HTML, CSS, SCSS.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Typescript &amp; Javascript.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Vue.js with Build Tools.</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Docker, AWS S3 and CloudFront.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Docker, AWS S3, and CloudFront.</span></li>
 </ul>
 <h2><span style="font-weight: 400;">Benefits</span></h2>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Monthly Mental Break Day</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Unlimited vacation</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Paid Time Off</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Work from home (or wherever)</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Parental leave</span></li>
 </ul>
-<p><span style="font-weight: 400;"><br><br></span><span style="font-weight: 400;">Creating a diverse and inclusive workplace is Bobtail’s nucleus. We are an equal opportunity employer and embrace people of different backgrounds, cultures, religions, national origins, races, colors, genders, gender expressions, sexual orientations, ages, marital status, veteran status, experiences, abilities and perspective</span><span style="font-weight: 400;">s.</span> <span style="font-weight: 400;"><br><br></span></p>
+<p><span style="font-weight: 400;"><br><br></span><span style="font-weight: 400;">Creating a diverse and inclusive workplace is Bobtail’s nucleus. We are an equal opportunity employer and embrace people of different backgrounds, cultures, religions, national origins, races, colors, genders, gender expressions, sexual orientations, ages, marital status, veteran status, experiences, abilities, and perspective</span><span style="font-weight: 400;">s.</span> <span style="font-weight: 400;"><br><br></span></p>
 
     
 
