@@ -782,88 +782,6 @@
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
-                    <h3>Senior Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/3326693" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>This is a fast-paced engineering role in Linux-based software-defined infrastructure and applications, covering all layers of the stack, including bare metal, virtualization (KVM) and containerization (Docker/LXC/LXD), storage (Ceph and Linux filesystems), networking (OVS, OVN and Core networking), up to OpenStack and Kubernetes, and the open source applications running on top of them. It will challenge you to show the breadth of engineering skill needed to work on almost any aspect of Ubuntu and the open source things people run with it.&nbsp;</p>
-<p>This role is an opportunity for a technologist with a passion for Linux and open source to build a career with Canonical and drive success for our customers, community and the company. If you have an affinity for open source development, great communication skills, and a passion for troubleshooting and fixing issues in technology used by millions across the world, then you will enjoy working with some of the best people in the industry at Canonical.</p>
-<p><strong>Location:</strong> This is a remote role, we have teams in all time zones.</p>
-<p>This role deals with critical issues in the open source stack that require software engineering for upstream fixes. Our engineers have to be able to work productively at any level of the stack above the kernel, in a wide range of languages, to understand and address the software issues at hand. Our group is critical to the success of our enterprise customers, partners and Ubuntu itself.</p>
-<p>You will help with troubleshooting and driving issues to resolution with workarounds, guidance, and fixes to be released upstream and in Ubuntu.</p>
-<h3>What your day will look like</h3>
-<ul>
-<li>Resolve complex customer problems related to Ubuntu, Kernel, Ceph, OpenStack, or Kubernetes and other open source software</li>
-<li>Maintain a close working relationship with Canonical's field, support and product engineering teams</li>
-<li>Participate in upstream communities</li>
-<li>Develop fixes, backport patches, and work with upstream for inclusion</li>
-<li>Review code produced by other engineers</li>
-<li>Demonstrate good judgment in technical methods and techniques</li>
-<li>Prioritize work and manage your time effectively against those priorities</li>
-<li>Participate in team discussions to improve processes, tools, and documentation</li>
-<li>Maintain clear, technical and concise communications</li>
-<li>Work from home and travel internationally up to 10% of work time for team meetings, events and conferences</li>
-</ul>
-<h3>What we are looking for in you</h3>
-<ul>
-<li>Professional experience as a software engineer&nbsp;</li>
-<li>Background in Computer Science, STEM or similar</li>
-<li>Strong experience with Linux, Ceph, OpenStack, Kubernetes or other cloud technologies</li>
-<li>Strong development-level experience with Python, Go, C or C++ on Linux</li>
-<li>Ability to troubleshoot with gdb and other tools</li>
-<li>Familiarity with git source code repositories and branches</li>
-<li>An exceptional academic track record&nbsp;</li>
-<li>Willingness to travel up to 4 times a year for internal events</li>
-</ul>
-<h3>Additional skills that you might also bring</h3>
-<ul>
-<li>You love technology and working with brilliant people</li>
-<li>You are curious, flexible, articulate, and accountable</li>
-<li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li>
-<li>You have interest in, and experience with most of the following: Ubuntu Linux - kernel or userspace, Kubernetes, OpenStack, Ceph, QEMU/KVM, LXC/LXD, Python, Go, C, Postgresql, Mongo, Debian packaging, distributed systems</li>
-</ul>
-<h3>What we offer you</h3>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h3>About Canonical</h3>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h3>Canonical is an equal opportunity employer</h3>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
-
-<p>#LI-Remote</p>
-
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
                     <h3>Software Engineer - Data Infrastructure - Kafka</h3>
                 </td>
                 <td width="300">
@@ -1389,6 +1307,92 @@
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
+                    <h3>Software Engineer, Sustaining Engineering</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/3326693" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>This is a fast-paced engineering role in Linux-based software-defined infrastructure and applications, covering all layers of the stack, including bare metal, virtualization (KVM) and containerization (Docker/LXC/LXD), storage (Ceph and Linux filesystems), networking (OVS, OVN and Core networking), up to OpenStack and Kubernetes, and the open source applications running on top of them. It will challenge you to show the breadth of engineering skill needed to work on almost any aspect of Ubuntu and the open source things people run with it.&nbsp;</p>
+<p>This role is an opportunity for a technologist with a passion for Linux and open source to build a career with Canonical and drive success for our customers, community and the company. If you have an affinity for open source development, great communication skills, and a passion for troubleshooting and fixing issues in technology used by millions across the world, then you will enjoy working with some of the best people in the industry at Canonical.</p>
+<p><strong>Location:</strong> This is a remote role, we have teams in all time zones.</p>
+<p>This role deals with critical issues in the open source stack that require software engineering for upstream bug fixes. Our engineers have to be able to work productively at any level of the stack above the kernel, in a wide range of languages, to understand and address the software issues at hand. Our group is critical to the success of our enterprise customers, partners and Ubuntu itself.</p>
+<p>You will help with troubleshooting and driving issues to resolution with workarounds, guidance, and bug fixes to be released upstream and in Ubuntu.</p>
+<h3>What your day will look like</h3>
+<ul>
+<li>Resolve complex customer problems related to Ubuntu, Kernel, Ceph, OpenStack, or Kubernetes and other open source software</li>
+<li>Maintain a close working relationship with Canonical's field, support and product engineering teams</li>
+<li>Participate in upstream communities</li>
+<li>Develop bug fixes, backport patches, and work with upstream for inclusion</li>
+<li>Review code produced by other engineers</li>
+<li>Demonstrate good judgment in technical methods and techniques</li>
+<li>Prioritize work and manage your time effectively against those priorities</li>
+<li>Participate in team discussions to improve processes, tools, and documentation</li>
+<li>Maintain clear, technical and concise communications</li>
+<li>Work from home and travel internationally up to 10% of work time for team meetings, events and conferences</li>
+</ul>
+<h3>What we are looking for in you</h3>
+<ul>
+<li>Professional experience as a software engineer&nbsp;</li>
+<li>Background in Computer Science, STEM or similar</li>
+<li><strong>Strong</strong> experience with Linux, and at least <strong>one</strong> of the following:
+<ul>
+<li>Ceph, OpenStack, Kubernetes or other cloud technologies</li>
+</ul>
+</li>
+<li>Strong development-level experience with at least <strong>one</strong> of Python, Go, C or C++ on Linux</li>
+<li>Ability to troubleshoot with debugging tools like gdb</li>
+<li>Familiarity with git source code repositories and branches</li>
+<li>An exceptional academic track record&nbsp;</li>
+<li>Willingness to travel up to 4 times a year for internal events</li>
+</ul>
+<h3>Additional skills that you might also bring</h3>
+<ul>
+<li>You love technology and working with brilliant people</li>
+<li>You are curious, flexible, articulate, and accountable</li>
+<li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li>
+<li>You have interest in, and experience with most of the following: Ubuntu Linux - kernel or userspace, Kubernetes, OpenStack, Ceph, QEMU/KVM, LXC/LXD, Python, Go, C, Postgresql, Mongo, Debian packaging, distributed systems</li>
+</ul>
+<h3>What we offer you</h3>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h3>About Canonical</h3>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h3>Canonical is an equal opportunity employer</h3>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+
+<p>#LI-Remote</p>
+
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
                     <h3>System Software Engineer - Rust compiler, tooling, and ecosystem</h3>
                 </td>
                 <td width="300">
@@ -1534,30 +1538,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1592609773958025216/CaG1yAqK_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Mechanical Orchard</h5>
-                    <h3>Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/mechanicalorchard/b60587e2-0046-4e35-b7c3-5da3ff46348f" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt">Mechanical Orchard is a fast-growing startup that takes a fresh view on old problems. We replace legacy computing systems for the Global 2000, with a focus on mitigating risk and creating a genuinely solid foundation for innovating and adapting.&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">Our background in software development and the impact on the industry is well known, and we've literally helped write the book on XP and other impactful agile practices. We’re applying the same thoughtfulness and rigor in weaving AI into everything we do. We believe in the durable principles behind agile, and embrace the power of cross-functional teams, collective ownership, test driven development, short feedback loops, and continuous improvement.</span></div><div><br></div><div><span style="font-size: 11pt">We are Generous, Ethical, Effective, and Kind.</span></div><div><br></div><div><span style="font-size: 11pt">As a Software Engineer at Mechanical Orchard, you will be expected to:</span></div><div><br></div><div><span style="font-size: 11pt">- Work as part of small, cross functional XP teams building production applications for customers or for Mechanical Orchard using Elixir or other modern programming languages </span></div><div><span style="font-size: 11pt">- Pair program with other engineers and collaborate closely with other roles such as&nbsp; product managers and designers</span></div><div><span style="font-size: 11pt">- Apply and evolve XP engineering practices such pair programming, test-driven development, refactoring, continuous integration and continuous delivery</span></div><div><span style="font-size: 11pt">- Operate and support production applications as a team in the context of the agile DevOps model</span></div><div><span style="font-size: 11pt">- Help onboard client developers and/or new Mechanical Orchard team members with practices and techniques</span></div><div><span style="font-size: 11pt">- Lead and collaborate on technical discovery efforts for existing customer systems including legacy applications</span></div><div><span style="font-size: 11pt">- Continuously learn about relevant emerging technologies or practices and foster the growth of the organization through mentorship, tech talks, and other means</span></div><div><br></div><div><span style="font-size: 11pt">The ideal candidate has worked as a software engineer in a professional, team based environment, with some exposure or demonstrated passion for&nbsp; XP practices such as pair programming and test driven development.&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">They are comfortable as a full stack developer, and have expertise in at least one modern programming language and application framework.</span></div><div><br></div><div><span style="font-size: 11pt">Strong communication and collaboration skills as well as empathy are essential for working closely with the development team, customers, and others at Mechanical Orchard.</span></div><div><br></div></div><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 11pt">Mechanical Orchard, Inc. is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind. Mechanical Orchard, Inc. is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Mechanical Orchard, Inc. are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Mechanical Orchard, Inc. will not tolerate discrimination or harassment based on any of these characteristics. Mechanical Orchard, Inc. encourages applicants of all ages. Mechanical Orchard, Inc. will provide reasonable accommodation to employees who have protected disabilities consistent with local law.</span></div><div><br></div><div>We look forward to reviewing your application. Thanks!</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/mechanicalorchard/b60587e2-0046-4e35-b7c3-5da3ff46348f/apply">Apply for this job</a></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1663581815960145923/EiMoGuaS_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -1698,30 +1678,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 9 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 13pt">What are we looking for?</b></div><div>In this opportunity, we are looking for a Senior Software Engineer to work with one of our foreign clients, who are providing work with a diversity of clients in different industries including, Health, Legal, and Automotive.</div><div>If you are independent, a great communicator, a problem solver, and have strong attention to detail, this is a great fit for you! Our jobs are fully remote – as long as you have the skills and can get the work done well, you can work anywhere in the listed countries you want. So if you have the skills and can get the job done, join us and work from anywhere you want!</div><div><br></div><div><b style="font-size: 13pt">What's unique about this job?</b></div><div>As a Senior Software Engineer, &nbsp;you will be a key member of a top-shelf engineering team with lots of growth potential. You'll work closely with the product team to develop new features for our platform. And you will participate in mentoring team members and setting a high bar for quality.  You'll have the opportunity to take ownership of a cutting-edge consumer platform for Legal software and products. In this critical role, you'll not only deepen your expertise in the legal domain but also actively contribute to shaping and developing products that meet the unique needs of our customers. If you're a seasoned professional with a passion for learning, innovation, and collaboration, your unique insights and technical skills could be the driving force behind our next generation of solutions. </div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>&nbsp;Design, estimate, and code new features. This is primarily a coding position.</li><li>Architect new applications and enhance existing ones.</li><li>Collaborate on enterprise architecture with other teams.</li><li>Investigate and fix production issues.</li><li>Define, document, and enforce engineering standards.</li><li>Perform code reviews of your team members' work.</li><li>Mentor junior engineers.</li><li>Participate in software design discussions.</li><li>Participate in sprint planning and other project management meetings.</li><li>Ensure all code that goes to production is of top quality.</li><li>Ensure existing applications are scaled to meet expected demand.</li><li>Identify and fix gaps in system reliability, such as production monitoring.</li><li>Continuously improve the software infrastructure, such as the deployment process.</li>,<h3>You will shine if you have these:</h3><li>5+ years with object-oriented programming language.</li><li>2+ years with front-end technologies such as JavaScript, HTML, CSS, and React.</li><li>Complex SQL queries and database schema design.</li><li>Working in a collaborative team environment using tools like JIRA and Git.</li><li>Consuming and creating web services.</li><li>Stable work history and an ability to collaborate effectively.</li>,<h3>It doesn't hurt if you also have:</h3><li>&nbsp;Strong fundamentals in web and Linux platforms</li><li>Scrum, Kanban, or other agile methodologies.</li><li>Collaborating with engineering teams in multiple locations.</li><li>Systems integration.</li><li>Distributed systems.</li><li>Service-oriented architecture.</li><li>Other programming languages include Java, C#, Perl, Python, and Ruby.</li><li>Unit testing.</li><li>Load testing.</li><li>Page load optimization.</li><li>Responsive design.</li>,<h3>Here are some of the perks we offer you:</h3><li>Salary in USD</li><li>Long-term</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/3c1d9ac7-6738-46c5-b6ca-a35fa2a0df57-1666278594128.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Blue Coding</h5>
-                    <h3>Software Engineer (IB)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/bluecoding/9d4988a5-df13-4d95-8b72-d9d12775f02b" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 9 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 16px">What are we looking for?</b></div><div><span style="font-size: 16px">In this opportunity, we are looking for a Software Engineer to work with one of our foreign clients, who are providing work with a diversity of clients in different industries including, Health, Legal, and Automotive.</span></div><div><span style="font-size: 16px">If you are independent, a great communicator, a problem solver, and have strong attention to detail, this is a great fit for you! Our jobs are fully remote – as long as you have the skills and can get the work done well, you can work anywhere in the listed countries you want.</span></div><div><span style="font-size: 16px">If you have the skills and can get the job done, join us and work from anywhere you want!</span></div><div><br></div><div><b style="font-size: 16px">What's unique about this job?</b></div><div><span style="font-size: 16px">As a Software Engineer, you’ll be developing and maintaining an application deployment system that allows microservice-architecture applications to be deployed easily on Kubernetes. An integral part of onboarding business units into this deployment system is converting all of their existing applications, databases, and supporting services from bare-metal/VM deployments to containers.&nbsp;</span></div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>You’ll be a member of a small team of developers working in an Agile setting.</li><li>The team's primary responsibility is applying 12-factor principles to existing applications and deploying them to Kubernetes. </li><li>The language, code quality, availability of tests, and level of active development vary between business units and applications. In this role, you will see many applications and go down some very interesting rabbit holes to find the best way to containerize and migrate the applications.</li><li>The team's working hours are centered around GMT+1, but the team supports business units in the Americas - primarily between GMT-4 and GMT-8. As a result, sometimes you will need to shift your schedule to accommodate meetings with members of the business units you work with.</li><li>Because of the number of "moving parts" involved, communication and good planning are paramount.</li><li>You’ll look for and take opportunities to help the team become stronger and more experienced.</li>,<h3>You will shine if you have these:</h3><li>Demonstrated proficiency in at least two web programming languages (e.g., Java, Python, Ruby, PHP, Go), ideally with exposure to application frameworks such as Laravel, Spring Boot, Rails, Django, etc.</li><li>Good understanding of Linux environments, including scripting and automation tools.</li><li>Experience with Docker for containerization of applications.</li><li>Demonstrated experience with CI/CD pipelines, including setup, maintenance, and optimization.Solid knowledge of Kubernetes for orchestrating containerized applications.</li><li>Able to work independently and have good attention to detail.</li><li>You love to talk about the nuances and trade-offs of implementation approaches, but you're also result-oriented and know how to avoid "analysis paralysis"</li>,<h3>Here are some of the perks we offer you:</h3><li>Salary in USD</li><li>Long-term</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
                 </details>
                 </td>
             </tr>,<tr>
