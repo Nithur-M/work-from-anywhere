@@ -1,5 +1,74 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1902019/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Accumulussynergyinc</h5>
+                    <h3>Principal Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>product management</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/principal-product-manager-1902019" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class='"content-intro"'><div class="h2">Background</div>
+<p>Accumulus Synergy is a nonprofit trade association working on behalf of industry to address the global need for digital transformation. To help solve for this need, Accumulus is developing a transformative data exchange platform to enable enhanced collaboration and efficiency between life sciences organizations and health authorities worldwide. The Accumulus Platform aims to improve efficiencies in the regulatory process by leveraging advanced technology, including data science and AI, as well as tools for secure data exchange to improve patient safety, help reduce the cost of innovation, and ultimately bring patients safe and effective medicines faster. Accumulus is working with key stakeholders in the life sciences - regulatory ecosystem to build and sustain a platform that aims to meet regulatory, cybersecurity, and privacy requirements spanning clinical, safety, chemistry and manufacturing, and regulatory exchanges and submissions. Accumulus Synergy sponsors include Amgen, Astellas, AstraZeneca, Bristol Myers Squibb, GSK, Johnson &amp; Johnson, Lilly, Merck, Pfizer, Roche, Sanofi, and Takeda.</p></div><div class="h2">Job Description</div>
+<p>Accumulus is seeking a Principal Product Manager. This will be a key role within the Product Team, reporting directly to the Chief Product Officer.</p>
+<p>Starting day one, you will have the unique opportunity to support the future of Accumulus Synergy and our platform by forming the strategy for and leading execution of foundational product initiatives in our roadmap. You will collaborate closely with subject matter experts, UX designers within Accumulus, sponsors, and representatives across global health authorities to develop strategic direction and high level designs. These efforts will help shape the path and effectively communicate and validate requirements throughout the agile development process. You’ll work across the product lifecycle from identifying market opportunities to understanding users to executing plans for meeting roadmap objectives and effectively communicating product value. You should enjoy working at a fast pace with experts across disciplines to deliver software tools supporting new review and sharing processes between health authorities and life sciences organizations. This role requires a deep understanding of complex software solutions, strong leadership skills, and a passion for innovation and driving product excellence.</p>
+<div class="h3">Responsibilities</div>
+<ul style="">
+<li style="">Own the strategy for multiple product teams, aligning with company goals and market opportunities. Drive innovation and differentiation within the regulated industry landscape, positioning our products for sustained growth and competitive advantage. </li>
+<li style="">Lead the development and execution of the product roadmap, driving the big picture and prioritizing initiatives based on customer insights, market trends, and strategic objectives, continually assessing and adjusting execution plans in response to evolving market dynamics. Collaborate with stakeholders and provide frequent communication to ensure alignment and transparency throughout the organization. </li>
+<li style="">Collaborate with Product Designers to develop high level designs that serve as the foundation for iteration to ensure what we plan to develop meets user needs, accomplishes the jobs to be done, and aligns with company strategy. </li>
+<li style="">Orchestrate the delivery of product commitments within the teams you lead to ensure functionality works as a whole and to maximize the value of each release. Anticipate risks and provide risk mitigation options. </li>
+<li style="">Work in partnership with business operations (program managers) to ensure successful and timely product delivery.</li>
+<li style="">Stay informed about regulatory requirements and industry standards relevant to our target markets. Ensure that our platform meets all necessary compliance standards and certifications, working closely with legal, regulatory, security and quality teams. </li>
+<li style="">Ensure the successful resolution of product issues identified by field organizations both during development and post-production.</li>
+<li style="">Articulate the value of new features and the future direction of the platform to customers and partners.</li>
+<li style="">Evangelize products and become the subject matter expert for internal audiences, external customers/potential customers, and market-facing communications</li>
+<li style="">Focus the company on future growth areas that drive business value and deliver a strong return based on corporate goals and initiatives.</li>
+<li style="">Collaborate with product marketing, customer success, sales and operations to develop effective go to market plans and appropriate training and processes for feature launches and feature scalability</li>
+<li style="">Develop a deep understanding of the market and identify areas to drive further digital transformation through unique value propositions that position the Accumulus platform as the leader and driver of innovation. </li>
+</ul>
+<div class="h3">Qualifications</div>
+<ul style="">
+<li style="">Bachelor’s degree or commensurate experience</li>
+<li style="">Excellent communication skills; written, verbal and formal presentation</li>
+<li style="">Willingness to travel once or twice per quarter</li>
+<li style="">Proven track record as a product leader in enterprise software</li>
+<li style="">8 years or more of experience in the product management function</li>
+<li style="">5 years or more of experience managing enterprise platforms</li>
+<li style="">5 years or more of experience working in an Agile environment</li>
+<li style="">Extensive experience in one of the following: Enterprise SaaS solutions, Life Sciences or other regulated software, project management software or content management software</li>
+<li style="">Preferred:</li>
+<ul style="">
+<li style="">Experience implementing AI/ML into enterprise software</li>
+<li style="">Experience managing collaboration software systems</li>
+<li style="">Technical or hands-on experience</li>
+</ul>
+</ul><div class='"content-conclusion"'><div class="h2">Benefits</div>
+<p>While we hope the Accumulus mission is what really attracts you, we also have a lot to offer. Organizations are built by great people, and to attract great people you need to offer a great employee experience. Accumulus can provide:</p>
+<ul style="">
+<li style="">Very competitive compensation w/ bonus plan. We must compete with big names in tech &amp; pharma for top talent and compensate accordingly.</li>
+<li style="">401(k) matching, immediately vested</li>
+<li style="">A full benefits package: multiple health plans, vision, dental, life, and disability insurance</li>
+<li style="">100% remote work. Accumulus is a <em>fully remote </em>organization, and we intend to remain so</li>
+<li style="">Experienced leadership to mentor you. We have drawn successful leaders from the biopharma industry with a deep understanding of regulatory affairs and combined them with similarly successful leaders in SaaS product development. Learning opportunities abound.</li>
+</ul>
+<div class="h2">Unsolicited Contact Policy</div>
+<p>Please note that we do not consider resumes submitted by unsolicited third-party recruitment firms. Additionally, we kindly request that candidates refrain from sending unsolicited resumes or making unsolicited phone calls directly to Accumulus employees. To be considered for any open positions, please utilize our online job application system. We appreciate your cooperation and understanding.</p></div><img src="https://remotive.com/job/track/1902019/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1542681228666671107/L5LYJLAD_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -75,7 +144,7 @@
     <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
 <h2><span style="color: #a112ff;">Who we are</span></h2>
 <p>Our mission at Sourcegraph is to make it so that&nbsp;<a class="c-link" href="https://handbook.sourcegraph.com/strategy-goals/strategy" target="_blank" data-stringify-link="https://handbook.sourcegraph.com/strategy-goals/strategy" data-sk="tooltip_parent">everyone can code</a>, not just ~0.1% of the population. Our code graph powers Cody, the most powerful and accurate AI coding assistant, as well as our Code Search product, which helps devs explore their entire codebase and make large-scale migrations and security fixes. We’re building software that builds software, and in doing so we’re making devs more productive and preparing for a world where a lot more code gets written.</p>
-<p>It’s an exciting time to join Sourcegraph. AI has taken over the world, and we’ve spent the last 10 years building infrastructure that’s integral to making AI generated code more powerful and accurate. Our customers include 4/5 FAANG companies, 4 of the top 10 banks, government organizations, Uber, Plaid, and many other companies building the software that pushes the world forward. We’ve raised $225M at a $2.625B valuation from <a class="c-link" href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" target="_blank" data-stringify-link="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" data-sk="tooltip_parent">Andreessen Horowitz</a>,&nbsp;<a class="c-link" href="https://about.sourcegraph.com/blog/series-c-with-sequoia/" target="_blank" data-stringify-link="https://about.sourcegraph.com/blog/series-c-with-sequoia/" data-sk="tooltip_parent">Sequoia</a>,&nbsp;<a class="c-link" href="https://www.redpoint.com/companies/sourcegraph/" target="_blank" data-stringify-link="https://www.redpoint.com/companies/sourcegraph/" data-sk="tooltip_parent">Redpoint</a>,&nbsp;<a class="c-link" href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" target="_blank" data-stringify-link="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" data-sk="tooltip_parent">Craft</a>&nbsp;and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</p></div>
+<p>It’s an exciting time to join Sourcegraph. AI has taken over the world, and we’ve spent the last 10 years building infrastructure that’s integral to making AI generated code more powerful and accurate. Our customers include 4/5 FAANG companies, 4 of the top 10 banks, government organizations, Uber, Plaid, and many other companies building the software that pushes the world forward. We’ve raised $225M at a $2.625B valuation from <a class="c-link" href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" target="_blank" data-stringify-link="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" data-sk="tooltip_parent">a16z</a>,&nbsp;<a class="c-link" href="https://about.sourcegraph.com/blog/series-c-with-sequoia/" target="_blank" data-stringify-link="https://about.sourcegraph.com/blog/series-c-with-sequoia/" data-sk="tooltip_parent">Sequoia</a>,&nbsp;<a class="c-link" href="https://www.redpoint.com/companies/sourcegraph/" target="_blank" data-stringify-link="https://www.redpoint.com/companies/sourcegraph/" data-sk="tooltip_parent">Redpoint</a>,&nbsp;<a class="c-link" href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" target="_blank" data-stringify-link="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" data-sk="tooltip_parent">Craft</a>&nbsp;and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</p></div>
 
     <h2><span style="color: rgb(140, 51, 236);"><strong>Working hours</strong></span></h2>
 <p>🌎 Given that we are an all-remote company and hire <a href="https://handbook.sourcegraph.com/departments/people-ops/process/how-we-engage-talent-outside-the-us/">almost anywhere</a> in the world, we don’t have a particular time-zone preference for this role. However, there is a great amount of planning that takes place synchronously in the western US, so anyone in this role will need to overlap at least 4 hours/day with the US Pacific Time zone.</p>
@@ -130,8 +199,8 @@
 <p>We expect the interview process to take 5 hours in total.</p>
 <p><strong>👋 Introduction Stage</strong> - we have initial conversations to get to know you better…</p>
 <ul>
-<li>[30m]<a href="https://handbook.sourcegraph.com/departments/product-engineering/product/roles/interviews/initial_screen">&nbsp;Recruiter Screen</a>&nbsp;- Kelsey Nagel</li>
-<li>[60m]&nbsp;<a href="https://about.sourcegraph.com/handbook/talent/types_of_interviews#peer-interview">Peer</a>&nbsp;/&nbsp;<a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive">Resume Deep Dive</a> - Taylor Sperry</li>
+<li>[30m]<a href="https://handbook.sourcegraph.com/departments/product-engineering/product/roles/interviews/initial_screen">&nbsp;Recruiter Screen</a> - Devon Coords</li>
+<li>[60m] <a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#team-collaboration--resume-deep-dive">Team Collaboration / Resume Deep Dive</a> - Taylor Sperry</li>
 </ul>
 <p><strong>🧑‍💻 Team Interview Stage</strong> - we then delve into your experience in more depth and introduce you to members of the team…</p>
 <ul>
