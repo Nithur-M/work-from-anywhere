@@ -13,7 +13,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://duckduckgo.recruitee.com/o/senior-software-engineer-windows-desktop-app-remote" align="right" target="_blank">Apply</a>
+                <a href="https://duckduckgo.recruitee.com/o/senior-windows" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -61,6 +61,86 @@
 <ul><li><p>Sometimes we meet up! Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.</p></li><li>While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week. </li><li>A successful candidate will be subject to a background check and must receive satisfactory results of the same, as a condition of joining the team. </li><li>By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.</li></ul>
 <p><br /></p>
 <p>#US #UK #SP #PL #IR #IC #HN #CR #CN #AU</p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1542681228666671107/L5LYJLAD_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Timescale</h5>
+                    <h3>Senior Software Engineer - Database</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://www.timescale.com/careers/7319360002?gh_jid=7319360002" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;p&gt;Timescale is building the world’s next great database company on top of industry-standard PostgreSQL, and we need your help!&amp;nbsp; We need extraordinary database engineers to join our team.&lt;/p&gt;
+&lt;p&gt;You will design, code, and test the core of our PostgreSQL-based time-series database. We focus on building a scalable, reliable, robust, usable, secure, and performant database. You should have strong systems-building experience and expertise in C, understand both query optimization and database systems and ideally already be a PostgreSQL expert (or show an interest and quick aptitude to become a PostgreSQL expert).&lt;/p&gt;
+&lt;p&gt;Timescale is a 100% remote organization with engineers throughout the world; this is a full-time position.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Play a core role in helping to design and develop new database capabilities, including analytics, clustering and distributed operations, query and storage optimizations, and more.&lt;/li&gt;
+&lt;li&gt;Develop, test, and release new features and functionality from our database technical roadmap.&lt;/li&gt;
+&lt;li&gt;Continually improve, optimize, and test the existing functionality of TimescaleDB.&lt;/li&gt;
+&lt;li&gt;Improve infrastructure to evaluate and test database correctness and performance.&lt;/li&gt;
+&lt;li&gt;Work closely with our Cloud Engineering team to build a world-class experience for our Timescale customers.&lt;/li&gt;
+&lt;li&gt;Provide elevated technical assistance to high-value customers, gaining insight into the needs and experiences of our users.&lt;/li&gt;
+&lt;li&gt;Be an enthusiastic and personable teammate, receiving and providing code reviews and partnering and helping other engineers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Expertise in building industrial-strength software in C/C++ for large code bases.&lt;/li&gt;
+&lt;li&gt;5+ years of engineering experience.&lt;/li&gt;
+&lt;li&gt;Experience in PostgreSQL internal development is highly desirable (but not required).&lt;/li&gt;
+&lt;li&gt;Solid knowledge of SQL, query processing and database engines, concurrency control, data replication, and/or distributed systems.&lt;/li&gt;
+&lt;li&gt;Passionate about building highly reliable system software.&lt;/li&gt;
+&lt;li&gt;Experience with industry-standard software validation tools helpful, e.g., Jepsen, Valgrind, Coverity, pprof, etc.&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;By applying for this position, you are agreeing to &lt;a href=&quot;https://www.timescale.com/legal/timescale-applicant-privacy-notice&quot;&gt;Timescale&#39;s Applicant Privacy Notice.&amp;nbsp;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1542681228666671107/L5LYJLAD_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Timescale</h5>
+                    <h3>Senior Software Engineer - Platform</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://www.timescale.com/careers/7311434002?gh_jid=7311434002" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;p&gt;We&#39;re looking for experienced engineers to help us build and maintain the platform for our managed TimescaleDB cloud services. You will be able to work with a close-knit team, building and maintaining the infrastructure that powers our platform. Your work will be instrumental in developing our Kubernetes-based clusters and infrastructure. You will interact with the Kubernetes API and codebase to build controllers, operators, and applications that power our platform. Additionally, you will work closely with and further develop our infrastructure tooling to ensure our clusters&#39; health, stability, and maintainability. You will also get a lot of hands-on experience debugging and optimizing TimescaleDB and Postgres workloads.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Timescale is an all-remote organization open to candidates in Amerian and European timezones to allow for team collaboration. This is a full-time position.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Strong programming skills (we mostly use Go but are more concerned with good fundamentals)&lt;/li&gt;
+&lt;li&gt;Extensive experience with at least one major cloud provider (AWS preferred)&lt;/li&gt;
+&lt;li&gt;Experience designing, understanding, and debugging complex distributed systems&lt;/li&gt;
+&lt;li&gt;Deep knowledge of Linux, container environments, bash, and infrastructure as code (e.g., Terraform, Pulumi)&lt;/li&gt;
+&lt;li&gt;Some experience programming in the Kubernetes ecosystem or using the Kubernetes API (operators, controllers, and custom CRDs)&lt;/li&gt;
+&lt;li&gt;Experience deploying, operating, and using major production-level databases. Huge bonus points for PostgreSQL and/or TimescaleDB!&lt;/li&gt;
+&lt;li&gt;Experience deploying and maintaining Kubernetes clusters at scale. Knowledge of Kubernetes cluster orchestration tools like kops or kubeadm a plus&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;By applying for this position, you are agreeing to &lt;a href=&quot;https://www.timescale.com/legal/timescale-applicant-privacy-notice&quot;&gt;Timescale&#39;s Applicant Privacy Notice.&amp;nbsp;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr>,<tr>
