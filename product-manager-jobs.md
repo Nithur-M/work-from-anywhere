@@ -1,70 +1,110 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1902019/logo" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1905478/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Accumulussynergyinc</h5>
-                    <h3>Principal Product Manager</h3>
+                    <h5>Garner Health</h5>
+                    <h3>Senior Product Manager</h3>
                 </td>
                 <td width="300">
-                    <code>product management</code>
+                    <code>data science,sql,product management,healthcare</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/principal-product-manager-1902019" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/product/senior-product-manager-1905478" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class='"content-intro"'><div class="h2">Background</div>
-<p>Accumulus Synergy is a nonprofit trade association working on behalf of industry to address the global need for digital transformation. To help solve for this need, Accumulus is developing a transformative data exchange platform to enable enhanced collaboration and efficiency between life sciences organizations and health authorities worldwide. The Accumulus Platform aims to improve efficiencies in the regulatory process by leveraging advanced technology, including data science and AI, as well as tools for secure data exchange to improve patient safety, help reduce the cost of innovation, and ultimately bring patients safe and effective medicines faster. Accumulus is working with key stakeholders in the life sciences - regulatory ecosystem to build and sustain a platform that aims to meet regulatory, cybersecurity, and privacy requirements spanning clinical, safety, chemistry and manufacturing, and regulatory exchanges and submissions. Accumulus Synergy sponsors include Amgen, Astellas, AstraZeneca, Bristol Myers Squibb, GSK, Johnson &amp; Johnson, Lilly, Merck, Pfizer, Roche, Sanofi, and Takeda.</p></div><div class="h2">Job Description</div>
-<p>Accumulus is seeking a Principal Product Manager. This will be a key role within the Product Team, reporting directly to the Chief Product Officer.</p>
-<p>Starting day one, you will have the unique opportunity to support the future of Accumulus Synergy and our platform by forming the strategy for and leading execution of foundational product initiatives in our roadmap. You will collaborate closely with subject matter experts, UX designers within Accumulus, sponsors, and representatives across global health authorities to develop strategic direction and high level designs. These efforts will help shape the path and effectively communicate and validate requirements throughout the agile development process. You’ll work across the product lifecycle from identifying market opportunities to understanding users to executing plans for meeting roadmap objectives and effectively communicating product value. You should enjoy working at a fast pace with experts across disciplines to deliver software tools supporting new review and sharing processes between health authorities and life sciences organizations. This role requires a deep understanding of complex software solutions, strong leadership skills, and a passion for innovation and driving product excellence.</p>
-<div class="h3">Responsibilities</div>
+                <div class='"content-intro"'><p style='"text-align:'>Garner's <span class='"il"'>mission</span> is to transform the healthcare economy, delivering high quality and affordable care for all. By helping employers restructure their healthcare benefit to provide clear incentives and data-driven insights, we direct employees to higher quality and lower cost healthcare providers. The result is that patients get better health outcomes while doctors are rewarded for practicing well, not performing more procedures. We are backed by top-tier venture capital firms, are growing rapidly and looking to expand our team.</p></div><p>At the core of our product is our Concierge team that provides a human touch and real time support for our members navigating the Garner benefit. The Concierge team is a key differentiator for Garner from other app-based care navigation vendors. The Concierge area within Product is responsible for envisioning the user experience for members interacting with the Concierge team as well as developing the tools that the Concierge team uses to serve our members. </p>
+<p><strong>What you’ll do</strong></p>
+<p>You’ll be given wide-ranging responsibility to build and shape our Concierge ecosystem, including the architecture of our knowledge management, utilization of LLMs to drive team efficiency, and the integration of our Concierge team into the Garner app.</p>
+<p><strong>Your responsibilities</strong></p>
 <ul style="">
-<li style="">Own the strategy for multiple product teams, aligning with company goals and market opportunities. Drive innovation and differentiation within the regulated industry landscape, positioning our products for sustained growth and competitive advantage. </li>
-<li style="">Lead the development and execution of the product roadmap, driving the big picture and prioritizing initiatives based on customer insights, market trends, and strategic objectives, continually assessing and adjusting execution plans in response to evolving market dynamics. Collaborate with stakeholders and provide frequent communication to ensure alignment and transparency throughout the organization. </li>
-<li style="">Collaborate with Product Designers to develop high level designs that serve as the foundation for iteration to ensure what we plan to develop meets user needs, accomplishes the jobs to be done, and aligns with company strategy. </li>
-<li style="">Orchestrate the delivery of product commitments within the teams you lead to ensure functionality works as a whole and to maximize the value of each release. Anticipate risks and provide risk mitigation options. </li>
-<li style="">Work in partnership with business operations (program managers) to ensure successful and timely product delivery.</li>
-<li style="">Stay informed about regulatory requirements and industry standards relevant to our target markets. Ensure that our platform meets all necessary compliance standards and certifications, working closely with legal, regulatory, security and quality teams. </li>
-<li style="">Ensure the successful resolution of product issues identified by field organizations both during development and post-production.</li>
-<li style="">Articulate the value of new features and the future direction of the platform to customers and partners.</li>
-<li style="">Evangelize products and become the subject matter expert for internal audiences, external customers/potential customers, and market-facing communications</li>
-<li style="">Focus the company on future growth areas that drive business value and deliver a strong return based on corporate goals and initiatives.</li>
-<li style="">Collaborate with product marketing, customer success, sales and operations to develop effective go to market plans and appropriate training and processes for feature launches and feature scalability</li>
-<li style="">Develop a deep understanding of the market and identify areas to drive further digital transformation through unique value propositions that position the Accumulus platform as the leader and driver of innovation. </li>
+<li style="">Develop a deep intuition for what is important to our users and our Concierge associates—and use that to drive your roadmap and help shape the overall product strategy</li>
+<li style="">Drive new feature development from start to finish: from ideation, requirements gathering, documentation, product development, launch and iteration</li>
+<li style="">Define what success looks like, ensure we have the data in place to measure progress, and rally the team around what winning looks like and how we get there</li>
 </ul>
-<div class="h3">Qualifications</div>
+<p><strong>Minimum requirements</strong></p>
 <ul style="">
-<li style="">Bachelor’s degree or commensurate experience</li>
-<li style="">Excellent communication skills; written, verbal and formal presentation</li>
-<li style="">Willingness to travel once or twice per quarter</li>
-<li style="">Proven track record as a product leader in enterprise software</li>
-<li style="">8 years or more of experience in the product management function</li>
-<li style="">5 years or more of experience managing enterprise platforms</li>
-<li style="">5 years or more of experience working in an Agile environment</li>
-<li style="">Extensive experience in one of the following: Enterprise SaaS solutions, Life Sciences or other regulated software, project management software or content management software</li>
-<li style="">Preferred:</li>
-<ul style="">
-<li style="">Experience implementing AI/ML into enterprise software</li>
-<li style="">Experience managing collaboration software systems</li>
-<li style="">Technical or hands-on experience</li>
+<li style="">You have 3+ years product management experience</li>
+<li style="">You’re a highly autonomous self-starter, and thrive when you’re given ownership of hard, unscoped problems </li>
+<li style="">You’re an insatiable learner, with a track record of entering a large, complicated domain and obsessively becoming the content expert upon whom others rely</li>
+<li style="">You are an excellent written and verbal communicator, able to communicate your vision and drive execution on the immediate team and with stakeholders across the company</li>
+<li style="">You are extremely analytical, and insistently use data to shape your product intuition and decisions</li>
 </ul>
-</ul><div class='"content-conclusion"'><div class="h2">Benefits</div>
-<p>While we hope the Accumulus mission is what really attracts you, we also have a lot to offer. Organizations are built by great people, and to attract great people you need to offer a great employee experience. Accumulus can provide:</p>
+<p><strong>Preferred qualifications</strong></p>
 <ul style="">
-<li style="">Very competitive compensation w/ bonus plan. We must compete with big names in tech &amp; pharma for top talent and compensate accordingly.</li>
-<li style="">401(k) matching, immediately vested</li>
-<li style="">A full benefits package: multiple health plans, vision, dental, life, and disability insurance</li>
-<li style="">100% remote work. Accumulus is a <em>fully remote </em>organization, and we intend to remain so</li>
-<li style="">Experienced leadership to mentor you. We have drawn successful leaders from the biopharma industry with a deep understanding of regulatory affairs and combined them with similarly successful leaders in SaaS product development. Learning opportunities abound.</li>
+<li style="">You have software engineering or data science experience, and/or a computer science or engineering degree, and are comfortable with SQL</li>
+<li style="">You have experience building products for internal teams / users</li>
+<li style="">You have experience working with hourly operational users or member services</li>
+<li style="">You have experience working in healthcare or employee benefits</li>
 </ul>
-<div class="h2">Unsolicited Contact Policy</div>
-<p>Please note that we do not consider resumes submitted by unsolicited third-party recruitment firms. Additionally, we kindly request that candidates refrain from sending unsolicited resumes or making unsolicited phone calls directly to Accumulus employees. To be considered for any open positions, please utilize our online job application system. We appreciate your cooperation and understanding.</p></div><img src="https://remotive.com/job/track/1902019/blank.gif?source=public_api" alt=""/>
+<p>The target salary range for this position is: $160,000 - $180,000. Individual compensation for this role will depend on a variety of factors including qualifications, skills and applicable laws. In addition to base compensation this role is eligible to participate in our equity incentive and competitive benefits plans.</p><div class='"content-conclusion"'><div> </div>
+<div><em>Garner Health is proud to be an Equal Employment Opportunity employer and values diversity in the workplace. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics.</em></div>
+<div> </div>
+<div><em>Garner Health is committed to providing accommodations for qualified individuals with disabilities in our recruiting process. If you need assistance or an accommodation due to a disability, you may contact us at <a href="%22mailto:talent@getgarner.com%22" rel="nofollow">talent@getgarner.com.</a> </em></div></div><img src="https://remotive.com/job/track/1905478/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1904535/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Ingenious</h5>
+                    <h3>Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>Figma,jira</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/product-manager-1904535" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class='"content-intro"'><p><span style='"font-weight:'>At INGENIOUS.BUILD, we’ve cracked the code and built a world-class platform for companies of all sizes within the real estate and construction industries across the globe, enabling them to simply and effortlessly manage all aspects of their projects--from inception to completion, and both internally and in conjunction with the other project participants.</span></p>
+<p><strong><em>Think about what you could do here</em></strong><span style='"font-weight:'>… At INGENIOUS.BUILD, you’ll be participating in one of the most exciting and unparalleled journeys of your career--a journey to pioneer the first cloud application to manage the entire lifecycle of a real estate construction project. In short, you’ll be building what some have claimed is the holy grail of construction project management. </span></p>
+<p><span style='"font-weight:'>It’s big. Bold. Audacious, even. But that's how we roll...</span></p>
+<p><span style='"font-weight:'>And if you’ve got what it takes, you’ll be directly involved in its development. The rest, as they say, will be history...</span></p></div><div class='"styles--2BkR3"'>
+<div class='"styles--2Kv6p"'>
+<p>As a Product Manager, you will be responsible for shipping incredible value to the customer for the more technical Delivery Team that focuses on external integrations. This is done by gathering customer requirements, prioritizing the work, and partnering with cross-functional teams to ensure the product is delivered on time, within budget, and to the highest quality standards.</p>
+<p>We are looking for a tenacious, well-rounded person who thrives in a fast-paced environment and can relentlessly transform fragmented information into valuable software for our users.</p>
+<p><strong>In this position, you will: </strong></p>
+<ul style="">
+<li style="">Set the product vision and strategy for 3rd party integrations using data-driven decisions.</li>
+<li style="">Ingest information about your clients, research the market, conduct user tests as needed, and partner with stakeholders to build a roadmap that optimizes value and delivers the Right Thing at the Right Time.</li>
+<li style="">Monitor product performance and key metrics to identify areas for improvement and growth opportunities.</li>
+<li style="">Collaborate with Delivery Teams (Software, Design, Quality Assurance) to ship impactful, world class products. </li>
+<li style="">Develop clear GTM strategies for internal stakeholders and customers.</li>
+<li style="">Communicate with various internal and external stakeholders.</li>
+</ul>
+<p><strong>Skills and Experience needed:</strong></p>
+<ul style="">
+<li style="">2+ years of career experience in a related field</li>
+<li style="">Proficient in discussing APIs and data structures</li>
+<li style="">Demonstrated history of advancing business outcomes through thoughtful leadership, logical thinking, and cross-functional partnership</li>
+<li style="">Proven ability to successfully wear many hats/roles</li>
+<li style="">Scrum Methodology </li>
+<li style="">Experience with our tooling: Jira, Figma, Productboard</li>
+</ul>
+<div class="h4"><strong>Preferred Qualifications</strong></div>
+<ul style="">
+<li style="">Experience with iPaaS</li>
+<li style="">Experience with integrations</li>
+<li style="">Experience in AECO or PropTech industry</li>
+<li style="">Experience in a start-up environment</li>
+</ul>
+<p><em>The compensation range for this position is quite broad, and we in good faith believe it to be anywhere between $70,000 to $110000; provided, however, that we may ultimately pay more or less than this range depending upon skill set, location, and market fluctuation </em></p>
+</div>
+</div><div class='"content-conclusion"'><p>We're fired up to learn more about you to see how you can help us on our mission!  We genuinely look forward to receiving your application to gain further detail on who you are and how you tick... and hopefully start the process of bringing you into the Ingenious family ;).</p></div><img src="https://remotive.com/job/track/1904535/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -142,12 +182,16 @@
                 <details><summary>Description</summary>
                 
     <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
-<h2><span style="color: #a112ff;">Who we are</span></h2>
+<h2><strong><span style="color: #a112ff;">Who we are</span></strong></h2>
 <p>Our mission at Sourcegraph is to make it so that&nbsp;<a class="c-link" href="https://handbook.sourcegraph.com/strategy-goals/strategy" target="_blank" data-stringify-link="https://handbook.sourcegraph.com/strategy-goals/strategy" data-sk="tooltip_parent">everyone can code</a>, not just ~0.1% of the population. Our code graph powers Cody, the most powerful and accurate AI coding assistant, as well as our Code Search product, which helps devs explore their entire codebase and make large-scale migrations and security fixes. We’re building software that builds software, and in doing so we’re making devs more productive and preparing for a world where a lot more code gets written.</p>
 <p>It’s an exciting time to join Sourcegraph. AI has taken over the world, and we’ve spent the last 10 years building infrastructure that’s integral to making AI generated code more powerful and accurate. Our customers include 4/5 FAANG companies, 4 of the top 10 banks, government organizations, Uber, Plaid, and many other companies building the software that pushes the world forward. We’ve raised $225M at a $2.625B valuation from <a class="c-link" href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" target="_blank" data-stringify-link="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" data-sk="tooltip_parent">a16z</a>,&nbsp;<a class="c-link" href="https://about.sourcegraph.com/blog/series-c-with-sequoia/" target="_blank" data-stringify-link="https://about.sourcegraph.com/blog/series-c-with-sequoia/" data-sk="tooltip_parent">Sequoia</a>,&nbsp;<a class="c-link" href="https://www.redpoint.com/companies/sourcegraph/" target="_blank" data-stringify-link="https://www.redpoint.com/companies/sourcegraph/" data-sk="tooltip_parent">Redpoint</a>,&nbsp;<a class="c-link" href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" target="_blank" data-stringify-link="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" data-sk="tooltip_parent">Craft</a>&nbsp;and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</p></div>
 
     <h2><span style="color: rgb(140, 51, 236);"><strong>Working hours</strong></span></h2>
-<p>🌎 Given that we are an all-remote company and hire <a href="https://handbook.sourcegraph.com/departments/people-ops/process/how-we-engage-talent-outside-the-us/">almost anywhere</a> in the world, we don’t have a particular time-zone preference for this role. However, there is a great amount of planning that takes place synchronously in the western US, so anyone in this role will need to overlap at least 4 hours/day with the US Pacific Time zone.</p>
+<p>🌎 While we are an all-remote company and hire <a href="https://handbook.sourcegraph.com/departments/people-ops/process/how-we-engage-talent-outside-the-us/">almost anywhere</a> in the world, we have a preference for someone to reside in the following locations for this role. However, if you feel qualified, we welcome you to apply regardless of location. No matter what, working hours <em>must overlap</em> at least 4 hours/day with the US Pacific timezone as there is a great amount of planning that takes place synchronously in the western US.</p>
+<p><strong>Preferred location:</strong></p>
+<ul>
+<li>Remote - United States and Canada</li>
+</ul>
 <h2><span style="color: rgb(140, 51, 236);"><strong>Why this job is exciting</strong></span></h2>
 <p>To achieve our mission, we're looking for a Product Manager to help grow our values-driven, all-remote team. Reporting to the VP of Product, you'll work on our marquee Code Search product, which represents the top product in the industry in this category and a significant percentage of our recurring&nbsp; revenue. You’ll have the opportunity to make a big impact as we level up this product to meet the increasingly high needs of our large enterprise customers.</p>
 <p>As a Product Manager, you will have more responsibility, upside, and growth potential than anywhere else otherwise comparable. We strive to make Sourcegraph the best company where exceptionally talented people can thrive. If you join us, we know you’ll make a big impact!&nbsp; Here’s what we’re thinking:</p>
@@ -191,8 +235,8 @@
 <h2><span style="color: rgb(140, 51, 236);"><strong>Level</strong></span></h2>
 <p>📊 This job is an IC3.&nbsp; You can read more about <a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/leveling-guide/">our job leveling philosophy</a> in our Handbook.</p>
 <h2><span style="color: rgb(140, 51, 236);"><strong>Compensation</strong></span></h2>
-<p><strong>💸 We pay you an above-average salary</strong> because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. You will have the flexibility to work and live anywhere in the world<em> (unless specified otherwise in the job description)</em>, and we’ll never take your location or current/past salary information into account when determining your compensation.&nbsp; As an <a href="https://handbook.sourcegraph.com/company-info-and-process/values/#sts=Open%20and%20transparent">open and transparent </a>company that values equitable and competitive compensation for everyone, our <a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/">compensation ranges are visible</a> to every single Sourcegraph Teammate. To determine your salary, we use a number of market and data-driven salary sources and target the high-end of the range, ensuring that we’re always paying above market regardless of where you live in the world.&nbsp;&nbsp;</p>
-<p>💰 The target compensation for this role is $165,000 USD base.</p>
+<p><strong>💸 We pay you an above-average salary</strong>&nbsp;because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. As an&nbsp;<a href="https://handbook.sourcegraph.com/company-info-and-process/values/#sts=Open%20and%20transparent">open and transparent</a>&nbsp;company that values competitive compensation, our&nbsp;<a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/">compensation ranges are visible</a>&nbsp;to every single Sourcegraph teammate. To determine your salary, we use a number of market and data-driven salary sources, along with your location zone, and target the high-end of the range to ensure we’re always paying above market regardless of where you live in the world.&nbsp;</p>
+<p>💰 The target compensation for this role is $132,000 - $165,000 USD base.</p>
 <p>📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous <a href="https://handbook.sourcegraph.com/benefits-pay-perks/benefits-perks/">perks &amp; benefits</a>.</p>
 <h2><strong><span style="color: rgb(140, 51, 236);">Interview process</span>&nbsp;</strong></h2>
 <p><em>Below is the interview process you can expect for this role (you can read more about </em><a href="https://handbook.sourcegraph.com/talent/types_of_interviews"><em>the types of interviews</em></a><em> in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&nbsp;</em></p>
@@ -205,7 +249,7 @@
 <p><strong>🧑‍💻 Team Interview Stage</strong> - we then delve into your experience in more depth and introduce you to members of the team…</p>
 <ul>
 <li>[15m]<a href="https://handbook.sourcegraph.com/departments/product-engineering/product/roles/interviews/hm_intro_call">&nbsp;Hiring Manager Screen</a>&nbsp;- Chris Sells</li>
-<li>[45m]<a href="https://handbook.sourcegraph.com/departments/talent/process/types_of_interviews/#engineering-collaboration">&nbsp;Engineering Collaboration</a> - Erika Rice Scherpelz &amp; Camden Cheek</li>
+<li>[45m]<a href="https://handbook.sourcegraph.com/departments/talent/process/types_of_interviews/#engineering-collaboration">&nbsp;Engineering Collaboration</a> - Peter Guy &amp; Matt Manela</li>
 <li>[60m]&nbsp;<a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#product-manager-overview-of-past-projects">Overview of Past Projects</a> (requires preparation) - Chris Sells, Kevin Chen, Rob Rhyne &amp; Taylor Sperry</li>
 </ul>
 <p><strong>🎉 Final Interview Stage </strong>- we move you to our final round, where you meet cross-functional partners and gain a better understanding of our business and values holistically…</p>
@@ -219,9 +263,9 @@
 
     
 
-    <div class="content-conclusion"><h2><span style="color: #a112ff;">Not sure if this is you?</span></h2>
+    <div class="content-conclusion"><h2><strong><span style="color: #a112ff;">Not sure if this is you?</span></strong></h2>
 <p><span style="font-weight: 400;">We want a diverse, global team, with a broad range of experience and perspectives. If this job sounds great, but you’re not sure if you qualify, apply anyway! We carefully consider every application, and will either move forward with you, find another team that might be a better fit, keep in touch for future opportunities, or thank you for your time.</span></p>
-<h2><span style="color: #a112ff;">Learn more about us</span></h2>
+<h2><strong><span style="color: #a112ff;">Learn more about us</span></strong></h2>
 <p><span style="font-weight: 400;">To create a product that serves the needs of all developers, we are building a diverse </span><a href="https://handbook.sourcegraph.com/company-info-and-process/remote"><span style="font-weight: 400;">all-remote team</span></a><span style="font-weight: 400;"> that is </span><a href="https://handbook.sourcegraph.com/team"><span style="font-weight: 400;">distributed across the world</span></a><span style="font-weight: 400;">. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.&nbsp;</span></p>
 <p><span style="font-weight: 400;">We provide </span><a href="https://about.sourcegraph.com/handbook/people-ops/compensation"><span style="font-weight: 400;">competitive compensation</span></a><span style="font-weight: 400;"> and </span><a href="https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks"><span style="font-weight: 400;">practical benefits</span></a><span style="font-weight: 400;"> to keep you happy and healthy so that you can do your best work.&nbsp;</span><span style="font-weight: 400;">&nbsp;</span></p>
 <p><span style="font-weight: 400;">Learn more about what it is like to work at Sourcegraph by reading </span><a href="https://about.sourcegraph.com/handbook/"><span style="font-weight: 400;">our handbook</span></a><span style="font-weight: 400;">.</span></p>
@@ -310,7 +354,31 @@
                 </td>
                 <td width="300">
                     <h5>Bio Render</h5>
-                    <h3>Senior Product Manager, Search & Recommendations</h3>
+                    <h3>Senior Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/biorender/5fe012fe-1e08-4ced-9ee0-f81ed675194c" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div>At BioRender, our mission is to accelerate the world’s ability to learn, discover and communicate science. We are passionate about democratizing science communication in order to accelerate scientific discovery and understanding. We're looking for amazing people to help create the world’s go-to-place and platform where science is communicated. Come join us!</div><div><br></div><div><span style="font-size: 11pt">You can think of BioRender as the “Figma or Canva for scientists,” with a suite of web-based graphics communication products that empower scientists to create beautiful scientific visuals and presentations with ease.</span></div><div><br></div><div><span style="font-size: 11pt">As a Senior Product Manager at BioRender, you will be responsible for leading a team of engineers and designers to build features that leverage AI to help millions of scientists all over the world communicate their scientific breakthroughs and discoveries. You will own a specific area of the product based on your skills, interest, and needs of BioRender.&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">Our product team focuses on a few core missions: enhancing and expanding our core editor, building for enterprise customers, and a product led growth motion.</span></div><h3>What you'll do at BioRender: </h3><li>Deliver features and products that users love</li><li>Drive development, communication, and execution of a vision for your product area</li><li>Own product roadmap, measurement of success, and operations for your product area</li><li>Leverage data from millions of users to proactively assess feature opportunities and solution prioritization&nbsp;</li><li>Research, experiment, and implement AI powered solutions to solve user problems</li><li>Engage in direct touch points with our users to build the right products and features&nbsp;</li><li>Contribute to the team and processes that enable BioRender to be an exceptional product management organization&nbsp;</li>,<h3>What we value: </h3><li>5- 7 years of product management experience</li><li>Demonstrated ability to lead and influence teams towards an outcome oriented goal</li><li>Experience tying together user insights with data to make the most effective product decisions</li><li>Excellent written and verbal communication skills&nbsp;</li><li>A passion for our mission, vision, and product</li>,<h3>Nice to haves:</h3><li>Experience at a fast growing SaaS startup </li><li>Educational background in life sciences</li>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://lever-client-logos.s3-us-west-2.amazonaws.com/0f4b434e-502f-4390-9819-c058d43028c1-1595260531860.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Bio Render</h5>
+                    <h3>Senior Product Manager, Search and Discovery</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -325,7 +393,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div>At BioRender, our mission is to accelerate the world’s ability to learn, discover and communicate science. We are passionate about democratizing science communication in order to accelerate scientific discovery and understanding. We're looking for amazing people to help create the world’s go-to-place and platform where science is communicated. Come join us!</div><div><br></div><div><span style="font-size: 11pt">As a Senior Product Manager leading Search &amp; Recommendations, you will have the opportunity to accelerate our ability to return billions of hours to scientists by empowering them with the most relevant content in the most highly trafficked part of our application: the core illustrator. As a member of our AI product group, you will lead the strategic direction for how we can make BioRender a place that feels as unique as the revolutionary breakthroughs communicated using our product.&nbsp;</span></div><h3> What you'll do at BioRender: </h3><li><b>Imagine and define</b> personalized creation experiences, tailored to each scientist’s unique needs for their research, discovery, and communication&nbsp;</li><li><b>Collaborate </b>with an all-star team of data scientists, engineers, designers, and user researchers to define and execute on a roadmap to increase the speed with which scientists can utilize the beautiful and scientifically accurate content in BioRender</li><li><b>Build </b>a strong culture of experiment driven product development and learning for BioRender, driving engagement and retention in BioRender for scientists across the world&nbsp;</li><li><b>Experiment and Implement </b>the latest technology to make our BioRender search experience world class</li><li><b>Leverage</b> data, user research, and domain knowledge to deliver results in a fast paced environment</li>,<h3>What we value:</h3><li>5+ years of product management experience in Search/ Recommendations, ideally at a fast growing SaaS startup </li><li>Proficiency in measurement and metrics for relevance and search quality</li><li>Strong understanding of various search, NLP, and ML technologies and the ability to leverage this technical breadth to make the right decisions for our users&nbsp;</li><li>Experience tying together user insights with data to make the most effective product decisions</li><li>Excellent communication skills with the ability to convey complex ideas to technical and non-technical audiences</li>,<h3>Nice to haves:</h3><li>Familiarity with popular search vendor solutions such as Elastic and Algolia&nbsp;</li><li>Educational background in life sciences</li><div><br></div><div>Note: We recognize that career paths vary, and your unique journey may have equipped you with the necessary skills even if you don’t meet all of the criteria above. If you believe you have what it takes to excel in this role, we encourage you to apply!</div>,<h3>Why join us?</h3><li>We are mission-driven, and work collaboratively towards our shared vision of improving scientific communication and accelerating scientific discovery: BioRender figures have appeared in more than 54,000 publications!&nbsp;</li><li>It’s a product that users love! We have a world-class NPS and a community of loyal fans. Check out our Testimonials page to see what our customers are saying about us: <a href="https://biorender.com/testimonials/" class="postings-link">https://biorender.com/testimonials/</a>&nbsp;</li><li>We are in the top quartile for profitability and year-over-year revenue growth, with users in 200+ <a href="http://countries.biorender/" class="postings-link">countries.</a></li><li>BioRender is an equal opportunity employer, and an inclusive hiring process and work environment is a part of our DNA.&nbsp;</li><li>We’re remote-first and have team members across Canada and the United States. A physical office in Toronto is available, but you have the flexibility to work from anywhere.&nbsp;</li><li>We’re backed by top investors, accelerators, and some of the most successful life science entrepreneurs and philanthropists in the world including Y Combinator, Malala Fund founders, and Fifty Years VC.&nbsp;</li><li>We’re proud that women make up 2 of 3 co-founders, 53% of our team, and 37% of leadership. This representation continues to grow and we are hiring!</li><li>We are committed to building a warm, inclusive, and diverse environment. Check out how we make sure <a href="https://careers.biorender.com/" class="postings-link">our employees come first</a>.</li><div><br></div><div>Check out our candidate resource - <a href="https://biorender.notion.site/Engineering-Product-Design-66275a3c2cca42e39234412881621467" class="postings-link">Engineering, Product &amp; Design at BioRender!</a>&nbsp;</div><div>You can also read more about the <a href="https://biorender.notion.site/BioRender-Candidate-Resources-8255c155797f442a950720a33b4764d5" class="postings-link">BioRender interview process and FAQs here</a>! </div><div><br></div><div>Check out what it's like to work at BioRender in <a href="https://biorender.notion.site/biorender/Working-at-BioRender-as-a-Canada-Based-Employee-f6e12ab844154bb9948b22b32e3f0c70" class="postings-link">Canada</a> and the <a href="https://biorender.notion.site/biorender/Working-at-BioRender-as-a-U-S-Based-Employee-4ab2cc8e48f546f89aa98c318bccebc9" class="postings-link">US</a>!</div><div><br></div><div>#LI-KS1</div>
+                <div>At BioRender, our mission is to accelerate the world’s ability to learn, discover and communicate science. We are passionate about democratizing science communication in order to accelerate scientific discovery and understanding. We're looking for amazing people to help create the world’s go-to-place and platform where science is communicated. Come join us!</div><div><br></div><div><span style="font-size: 11pt">You can think of BioRender as the “Figma or Canva for scientists,” with a suite of web-based graphics communication products that empower scientists to create beautiful scientific visuals and presentations with ease.</span></div><div><br></div><div><span style="font-size: 11pt">As a Senior Product Manager leading Search and Discovery, you will help accelerate our ability to return billions of hours to scientists by empowering them with the most relevant content in the most highly trafficked part of our application: the core illustrator. As a member of our AI product group, you will lead the strategic direction for how we can make BioRender as revolutionary as the breakthroughs communicated using our product.&nbsp;&nbsp;</span></div><h3> What you'll do at BioRender: </h3><li><b>Imagine and define</b> personalized creation experiences, tailored to each scientist’s unique needs for their research, discovery, and communication&nbsp;</li><li><b>Collaborate </b>with an all-star team of data scientists, engineers, designers, and user researchers to define and execute on a roadmap to increase the speed with which scientists can utilize the beautiful and scientifically accurate content in BioRender</li><li><b>Build </b>a strong culture of experiment driven product development and learning for BioRender, driving engagement and retention in BioRender for millions of scientists across the world&nbsp;</li><li><b>Experiment and Implement </b>the latest technology to make our BioRender search experience world class</li><li><b>Leverage</b> data, user research, and domain knowledge to deliver results in a fast paced environment</li>,<h3>What we value:</h3><li>5+ years of product management experience in Search, Discovery, and personalization, ideally at a fast growing SaaS startup&nbsp;</li><li>An interest in leveraging AI to help return billions of hours to scientists&nbsp;</li><li>Proficiency in measurement and metrics for relevance and search quality</li><li>Strong understanding of various search, NLP, and ML technologies and the ability to leverage this technical breadth to make the right decisions for our users&nbsp;</li><li>Experience using user quantitative (e.g., metrics, analytics) and qualitative insights (e.g., research, user feedback) to inform product prioritization and decision-making</li><li>Excellent communication skills with the ability to convey complex ideas to technical and non-technical audiences</li>,<h3>Nice to haves:</h3><li>Familiarity with popular search vendor solutions such as Elastic and Algolia&nbsp;</li><li>Educational background in life sciences</li><div><br></div><div>Note: We recognize that career paths vary, and your unique journey may have equipped you with the necessary skills even if you don’t meet all of the criteria above. If you believe you have what it takes to excel in this role, we encourage you to apply!</div>,<h3>Why join us?</h3><li>We are mission-driven, and work collaboratively towards our shared vision of improving scientific communication and accelerating scientific discovery: BioRender figures have appeared in more than 54,000 publications!&nbsp;</li><li>It’s a product that users love! We have a world-class NPS and a community of loyal fans. Check out our Testimonials page to see what our customers are saying about us: <a href="https://biorender.com/testimonials/" class="postings-link">https://biorender.com/testimonials/</a>&nbsp;</li><li>We are in the top quartile for profitability and year-over-year revenue growth, with users in 200+ countries.</li><li>BioRender is an equal opportunity employer, and an inclusive hiring process and work environment is a part of our DNA.&nbsp;</li><li>We’re remote-first and have team members across Canada and the United States. A physical office in Toronto is available, but you have the flexibility to work from anywhere.&nbsp;</li><li>We’re backed by top investors, accelerators, and some of the most successful life science entrepreneurs and philanthropists in the world including Y Combinator, Malala Fund founders, and Fifty Years VC.&nbsp;</li><li>We’re proud that women make up 2 of 3 co-founders, 53% of our team, and 37% of leadership. This representation continues to grow and we are hiring!</li><li>We are committed to building a warm, inclusive, and diverse environment. Check out how we make sure <a href="https://careers.biorender.com/" class="postings-link">our employees come first</a>.</li><div><br></div><div>Check out our candidate resource - <a href="https://biorender.notion.site/Engineering-Product-Design-66275a3c2cca42e39234412881621467" class="postings-link">Engineering, Product &amp; Design at BioRender!</a>&nbsp;</div><div>You can also read more about the <a href="https://biorender.notion.site/BioRender-Candidate-Resources-8255c155797f442a950720a33b4764d5" class="postings-link">BioRender interview process and FAQs here</a>! </div><div><br></div><div>Check out what it's like to work at BioRender in <a href="https://biorender.notion.site/biorender/Working-at-BioRender-as-a-Canada-Based-Employee-f6e12ab844154bb9948b22b32e3f0c70" class="postings-link">Canada</a> and the <a href="https://biorender.notion.site/biorender/Working-at-BioRender-as-a-U-S-Based-Employee-4ab2cc8e48f546f89aa98c318bccebc9" class="postings-link">US</a>!</div><div><br></div><div>#LI-KS1</div>
                 </details>
                 </td>
             </tr></table>
