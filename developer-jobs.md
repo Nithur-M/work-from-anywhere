@@ -10,7 +10,7 @@
                     <code>accounting,fullstack,javascript,php</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/founding-cto-lead-developer-1903636" align="right" target="_blank">Apply</a>
@@ -35,7 +35,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -123,16 +123,20 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <details><summary>Description</summary>
                 
     <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
-<h2><span style="color: #a112ff;">Who we are</span></h2>
+<h2><strong><span style="color: #a112ff;">Who we are</span></strong></h2>
 <p>Our mission at Sourcegraph is to make it so that&nbsp;<a class="c-link" href="https://handbook.sourcegraph.com/strategy-goals/strategy" target="_blank" data-stringify-link="https://handbook.sourcegraph.com/strategy-goals/strategy" data-sk="tooltip_parent">everyone can code</a>, not just ~0.1% of the population. Our code graph powers Cody, the most powerful and accurate AI coding assistant, as well as our Code Search product, which helps devs explore their entire codebase and make large-scale migrations and security fixes. We’re building software that builds software, and in doing so we’re making devs more productive and preparing for a world where a lot more code gets written.</p>
 <p>It’s an exciting time to join Sourcegraph. AI has taken over the world, and we’ve spent the last 10 years building infrastructure that’s integral to making AI generated code more powerful and accurate. Our customers include 4/5 FAANG companies, 4 of the top 10 banks, government organizations, Uber, Plaid, and many other companies building the software that pushes the world forward. We’ve raised $225M at a $2.625B valuation from <a class="c-link" href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" target="_blank" data-stringify-link="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" data-sk="tooltip_parent">a16z</a>,&nbsp;<a class="c-link" href="https://about.sourcegraph.com/blog/series-c-with-sequoia/" target="_blank" data-stringify-link="https://about.sourcegraph.com/blog/series-c-with-sequoia/" data-sk="tooltip_parent">Sequoia</a>,&nbsp;<a class="c-link" href="https://www.redpoint.com/companies/sourcegraph/" target="_blank" data-stringify-link="https://www.redpoint.com/companies/sourcegraph/" data-sk="tooltip_parent">Redpoint</a>,&nbsp;<a class="c-link" href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" target="_blank" data-stringify-link="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" data-sk="tooltip_parent">Craft</a>&nbsp;and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</p></div>
 
-    <h2><span style="color: rgb(140, 51, 236);">Working hours</span></h2>
-<p>While Sourcegraph is fully remote, we require the successful candidate for this role to reside in San Francisco, California. Regular attendance at weekly Developer and AI events in the city is an essential aspect of this position.</p>
-<h2><span style="color: rgb(140, 51, 236);">Why this job is exciting</span></h2>
+    <h2><span style="color: rgb(161, 18, 255);"><strong>Working hours</strong></span></h2>
+<p>🌎 While we are an all-remote company and hire <a href="https://handbook.sourcegraph.com/departments/people-ops/process/how-we-engage-talent-outside-the-us/">almost anywhere</a> in the world, we require the successful candidate for this role to reside in San Francisco, California. Regular attendance at weekly Developer and AI events in the city is an essential aspect of this position.</p>
+<p><strong>Preferred locations:</strong></p>
+<ul>
+<li>Remote - San Francisco, California</li>
+</ul>
+<h2><span style="color: rgb(161, 18, 255);"><strong>Why this job is exciting</strong></span></h2>
 <p><a href="https://about.sourcegraph.com/cody?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=19895311885&amp;utm_term=sourcegraph%20cody&amp;gclid=CjwKCAjw0ZiiBhBKEiwA4PT9z9jbT-6ncbQS5bLcQHfuIy9Je5bCogDwICrbbZ8Z9TkwiKkenGMuFRoCptEQAvD_BwE">Cody</a> is the best AI coding assistant today, and you'll get to help build it and get it in the hands of millions of devs. (It's also open source and built in public.) AI applied to software engineering will change the world more than any single other technology. We're perfectly positioned to keep building the best coding AI because of our large-scale, deep understanding of code inside the most advanced companies in the world and across the world of public code.</p>
-<p>As a Developer Advocate, you will spend 75% of your time engaging with Developers at events in person and 25% of your time creating content and recording videos.</p>
-<h2><span style="color: rgb(140, 51, 236);">Job responsibilities</span></h2>
+<p>As a Developer Advocate, you will spend 75% of your time engaging with Developers at events in-person and 25% of your time creating content and recording videos.</p>
+<h2><span style="color: rgb(161, 18, 255);"><strong>Job responsibilities</strong></span></h2>
 <ul>
 <li>Attend 1-3 meet-ups and events in San Francisco weekly</li>
 <li>Represent our user community within Sourcegraph</li>
@@ -145,7 +149,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <li>Help connect our user community growth to our product-led growth engine</li>
 <li>Overall, help define what dev advocacy means at Sourcegraph</li>
 </ul>
-<h2><span style="color: rgb(140, 51, 236);">Skills and experience</span></h2>
+<h2><span style="color: rgb(161, 18, 255);"><strong>Skills and experience</strong></span></h2>
 <p>Your skill-set:</p>
 <ul>
 <li>You are intrinsically motivated by Sourcegraph’s mission and <a href="https://about.sourcegraph.com/cody?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=19895311885&amp;utm_term=sourcegraph%20cody&amp;gclid=CjwKCAjw0ZiiBhBKEiwA4PT9z9jbT-6ncbQS5bLcQHfuIy9Je5bCogDwICrbbZ8Z9TkwiKkenGMuFRoCptEQAvD_BwE">Cody</a>.&nbsp;</li>
@@ -159,12 +163,12 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <ul>
 <li>You’ve established a strong following on social media platforms</li>
 </ul>
-<h2><span style="color: rgb(140, 51, 236);">Level</span></h2>
+<h2><span style="color: rgb(161, 18, 255);"><strong>Level</strong></span></h2>
 <p>This job is an IC2-IC3.&nbsp; You can read more about <a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/leveling-guide/">our job leveling philosophy</a> in our Handbook.</p>
-<h2><span style="color: rgb(140, 51, 236);">Compensation</span></h2>
-<p><strong>We pay you an above-average salary</strong> because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. You will have the flexibility to work and live anywhere in the world<em> (unless specified otherwise in the job description)</em>, and we’ll never take your location or current/past salary information into account when determining your compensation.&nbsp; As an <a href="https://handbook.sourcegraph.com/company-info-and-process/values/#sts=Open%20and%20transparent">open and transparent </a>company that values equitable and competitive compensation for everyone, our <a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/">compensation ranges are visible</a> to every single Sourcegraph Teammate. To determine your salary, we use a number of market and data-driven salary sources and target the high-end of the range, ensuring that we’re always paying above market regardless of where you live in the world.&nbsp;&nbsp;</p>
-<p>The target compensation for this role is $128,314 USD (IC2) and $158,404 (IC3)&nbsp; base.</p>
-<p>&nbsp;In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous <a href="https://handbook.sourcegraph.com/benefits-pay-perks/benefits-perks/">perks &amp; benefits</a>.</p>
+<h2><span style="color: rgb(161, 18, 255);"><strong>Compensation</strong></span></h2>
+<p><strong>💸 We pay you an above-average salary</strong> because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. As an <a href="https://handbook.sourcegraph.com/company-info-and-process/values/#sts=Open%20and%20transparent">open and transparent</a> company that values competitive compensation, our <a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/">compensation ranges are visible</a> to every single Sourcegraph teammate. To determine your salary, we use a number of market and data-driven salary sources, along with your location zone, and target the high-end of the range to ensure we’re always paying above market regardless of where you live in the world.&nbsp;&nbsp;</p>
+<p>💰 The target compensation for this role is $130,300 - $159,000 USD (depending on level &amp; location).&nbsp;&nbsp;</p>
+<p>📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous <a href="https://handbook.sourcegraph.com/benefits-pay-perks/benefits-perks/">perks &amp; benefits</a>.</p>
 <h2><strong><span style="color: #8c33ec;">Interview process</span>&nbsp;</strong></h2>
 <p><em><span style="font-weight: 400;">Below is the interview process you can expect for this role (you can read more about </span></em><a href="https://handbook.sourcegraph.com/talent/types_of_interviews"><em><span style="font-weight: 400;">the types of interviews</span></em></a><em><span style="font-weight: 400;"> in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&nbsp;</span></em></p>
 <p><span style="font-weight: 400;">We expect the interview process to take 4.5</span><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;">hours in total.</span><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;"><br><br></span></p>
@@ -189,9 +193,9 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 
     
 
-    <div class="content-conclusion"><h2><span style="color: #a112ff;">Not sure if this is you?</span></h2>
+    <div class="content-conclusion"><h2><strong><span style="color: #a112ff;">Not sure if this is you?</span></strong></h2>
 <p><span style="font-weight: 400;">We want a diverse, global team, with a broad range of experience and perspectives. If this job sounds great, but you’re not sure if you qualify, apply anyway! We carefully consider every application, and will either move forward with you, find another team that might be a better fit, keep in touch for future opportunities, or thank you for your time.</span></p>
-<h2><span style="color: #a112ff;">Learn more about us</span></h2>
+<h2><strong><span style="color: #a112ff;">Learn more about us</span></strong></h2>
 <p><span style="font-weight: 400;">To create a product that serves the needs of all developers, we are building a diverse </span><a href="https://handbook.sourcegraph.com/company-info-and-process/remote"><span style="font-weight: 400;">all-remote team</span></a><span style="font-weight: 400;"> that is </span><a href="https://handbook.sourcegraph.com/team"><span style="font-weight: 400;">distributed across the world</span></a><span style="font-weight: 400;">. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.&nbsp;</span></p>
 <p><span style="font-weight: 400;">We provide </span><a href="https://about.sourcegraph.com/handbook/people-ops/compensation"><span style="font-weight: 400;">competitive compensation</span></a><span style="font-weight: 400;"> and </span><a href="https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks"><span style="font-weight: 400;">practical benefits</span></a><span style="font-weight: 400;"> to keep you happy and healthy so that you can do your best work.&nbsp;</span><span style="font-weight: 400;">&nbsp;</span></p>
 <p><span style="font-weight: 400;">Learn more about what it is like to work at Sourcegraph by reading </span><a href="https://about.sourcegraph.com/handbook/"><span style="font-weight: 400;">our handbook</span></a><span style="font-weight: 400;">.</span></p>
@@ -228,161 +232,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p>Experience with full-stack web development, Python, PostgreSQL, and Linux is required. Competency or interest in data visualization, UI, UX, and design are desired.</p>
 <p>Why Join MixRank? Fully-remote, no HQ office. Team of 32 people across 15+ countries Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
 <p>Please include your updated resume when applying for this role.</p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Status</h5>
-                    <h3>Senior C++ Qt/QML Developer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=3694379&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol; the p2p communication layer for Web3.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <p class="p1"><strong>The role:</strong><br><br>Status Desktop is currently in beta for Mac, Windows and Linux platforms. Current product focus is on the privacy-centric messenger and group chat functionality, and we’ve just kicked off development of our new ‘multi-chain from the ground up’ crypto Wallet. &nbsp;ÐApp browser and blockchain node functionality will follow next. Status desktop is currently built using&nbsp;<a href="https://nim-lang.org/"><span class="s1">Nim</span></a>&nbsp;&amp;&nbsp;QT for the frontend, and it shares a common backend with Status mobile that is written in Go. We are currently in the middle of a large refactor of our architecture. &nbsp;This refactor includes transitioning the QT front end from Nim to C++, moving all business logic to our status-go backend, and upgrading from QT5.14.2 to QT6.2. &nbsp;As we work in the open and are fully open source you can get a better idea of who we are and the work we are doing by browsing&nbsp;our&nbsp;<a href="https://hackmd.io/@status-desktop/main/%2FwAbKqYTdR_-FWLZZouSxsg"><span class="s1">team wiki here</span></a>&nbsp;and taking a look at our&nbsp;<a href="https://github.com/status-im/status-desktop"><span class="s1">Status Desktop</span></a>,&nbsp;<a href="https://github.com/status-im/statusQ"><span class="s1">Status Desktop QML component library</span></a>&nbsp;and&nbsp;<a href="https://github.com/status-im/status-go"><span class="s1">Status Desktop and Mobile Go backend</span></a>&nbsp;GitHub repos.&nbsp; You can find more information about our desktop effort in this&nbsp;<a href="https://our.status.im/status-desktop-why-and-what/"><span class="s1">blog post</span></a>.&nbsp;</p>
-<p class="p1">Status is looking for multiple senior experienced C++/QML UI devs to join our growing desktop dev team and to work with us to create a permissionless, decentralized, censorship proof group chat platform. Role responsibilities include developing new features, creating and enhancing components in our QML UI toolkit component library, advising and assisting other members of the desktop dev team with solving challenging QML UI development problems, and perhaps working on the Go backend if this is something you would enjoy. &nbsp;As a team we try to match task assignment with the individual interests and passions of our team members, so there is a high degree of flexibility with regards to what you would be working on. &nbsp;If you are a passionate C++/QML expert who knows all the ins and outs of C++ and QT/QML UI development this could be an ideal role for you.</p>
-<p class="p1">The desktop team is spread between Europe and North America with crossover work hours being the European timezone afternoon on Monday, Wednesday and Friday. Ideally you will be located in a timezone between UTC -8 and UTC +3 e.g. anywhere in-between Panama and Moscow. &nbsp;Work is async using Status, Google Meet and Github, typically in Scrum Sprints.</p>
-<p class="p1"><strong>Key Responsibilities:</strong></p>
-<ul class="ul1">
-<li class="li1">Build new features, enhance existing functionality and fix issues in the Status Desktop application.</li>
-<li class="li1">Help develop and maintain Status’s QML UI component library (primarily used by the Status Desktop product)</li>
-<li class="li1">Advise and assist the other developers in the Desktop team as needed to help solve the hardest QML UI development challenges</li>
-<li class="li1">Contribute to C++ and Go codebases (and help with transitioning the codebase from Nim to C++ if you join us prior to this transition being completed), but don’t worry if you don’t have any prior Go or Nim experience.</li>
-<li class="li1">Be one of our resident experts for everything related to C++ and Qt/QML UI development.</li>
-</ul>
-<p class="p1"><strong>You ideally will have:</strong></p>
-<ul class="ul1">
-<li class="li1">Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role!</li>
-<li class="li1">Expert level experience implementing UIs using Qt/QML/C++</li>
-<li class="li1">A strong ability to think about components and modules as they relate to other components as part of a larger system</li>
-<li class="li1">A very strong attention to detail and the willingness to deliver pixel perfect UI according to the designs.</li>
-<li class="li1">Provide feedback and product ideas to the designers as needed</li>
-<li class="li1">Experience with multithreading / concurrency</li>
-<li class="li1">Good communication skills in English</li>
-<li class="li1">A strong alignment to our principles:&nbsp;<a href="https://status.im/about/#our-principles"><span class="s1">https://status.im/about/#our-principles</span></a>&nbsp;We are a passion driven project on a mission to build tools that protect and&nbsp;enable free speech.</li>
-</ul>
-<p class="p1"><strong>Bonus points if you have:</strong></p>
-<ul class="ul1">
-<li class="li1">Experience working in an open source organization</li>
-<li class="li1">A strong interest in blockchain technology and have a good understanding of Ethereum.</li>
-<li class="li1">Worked in a remote distributed environment that values asynchronous communication</li>
-<li class="li1">Knowledge of Go and/or Nim and/or Solidity is a plus</li>
-<li class="li1">Experience with using QT/QML to develop cross platform (Windows, OSX, Linux) desktop applications and mobile applications (iOS, Android) is a plus</li>
-<li class="li1">Prior experience with using Squish for functional testing QT apps</li>
-<li class="li1">Experience implementing openGL rendering in a QML context</li>
-<li class="li1">Any background or experience with cryptography and/or security</li>
-</ul>
-<p class="p1"><strong>Compensation:</strong></p>
-<ul class="ul1">
-<li class="li1">We are happy to pay in either 100% fiat or any mix of fiat and/or crypto.&nbsp;</li>
-</ul>
-<p class="p1"><strong>Hiring process:</strong></p>
-<ul class="ul1">
-<li class="li1">The hiring process for this role is usually as follows (sometimes adapted):</li>
-<li class="li1">Introductory conversation - Talent team</li>
-<li class="li1">3 Technical Interviews with Desktop Qt/QML Developers</li>
-<li class="li1">Team lead interview - Iuri, Desktop Team Lead</li>
-<li class="li1">'Meet the Desktop team' interviews with 3-4 Desktop Contributors (30-40m each)</li>
-</ul>
-<p class="p1"><strong>Questions about this role?</strong></p>
-<p class="p1">Feel free to get in touch, we are more than happy to discuss the role in more detail.</p>
-<p class="p1">&nbsp;</p>
-<p class="p1">&nbsp;</p>
-
-    
-
-    
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Status</h5>
-                    <h3>Senior Frontend Developer (JS, Typescript, React)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=5567968&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol; the p2p communication layer for Web3.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <div class="careers-block__trix external-panel text-left">
-<p><strong>The role:</strong></p>
-<p>We are looking for an experienced React developer to join a small, fully asynchronous team, who will take ownership of certain web-related areas at Status. Your role will not only involve translating high-level designs into production-ready UI, but also collaborating with colleagues across the stack to deliver new features.&nbsp;</p>
-<p>Our stack is built on modern foundations – a monorepo powered by TypeScript, React, Storybook, Vite, Vitest, Playwright, ESLint, Prettier, Yarn Workspaces, and Turborepo. As we work in the open and are fully open-source, you can get a better idea of who we are and the work we are doing by browsing our <a href="https://github.com/status-im/status-web">Status Web</a> repository. We strive to build solid foundations that will enable us to continuously make progress. We don't expect you to have a background in everything we use, but we do expect strong JavaScript fundamentals and experience working with React and TypeScript.</p>
-<p>We function as generalists, often undertaking a variety of challenges, and deeply care about the quality of our work. We look forward to collaborating with experienced individuals who can operate independently, make important decisions, and take ownership.</p>
-<p><strong>Key responsibilities:&nbsp;</strong></p>
-<ul>
-<li>Building new features with beautiful and scalable UI components from start to finish</li>
-<li>Building and maintaining the new React implementation of Status’ design system</li>
-<li>Collaborating with other people across the teams</li>
-<li>Gathering feedback from users and developers to better understand their needs</li>
-</ul>
-<p><strong>You ideally will have:</strong></p>
-<ul>
-<li>Clear and effective communication skills, both verbally and written</li>
-<li>Thoughtful and pragmatic problem-solving</li>
-<li>5+ years of software engineering experience, with 3+ years of experience with React</li>
-<li>Experience writing modern, performant, and accessible React code&nbsp;</li>
-<li>Strong knowledge of JavaScript, and ideally TypeScript</li>
-<li>Prior experience creating a component library</li>
-</ul>
-<p><strong>Hiring process:</strong></p>
-<p><em>The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline.&nbsp;</em></p>
-<ul>
-<li>Call with Talent</li>
-<li>Technical interview</li>
-<li>Live coding interview</li>
-<li>Interview with Design&nbsp;</li>
-</ul>
-<p><strong>Compensation:</strong></p>
-<p>The expected compensation range for this role is negotiable, dependent on how we assess your skills and experience throughout our interview process. We are happy to pay in any mix of fiat/crypto.</p>
-</div>
-
-    
-
-    
 
                 </details>
                 </td>
@@ -808,7 +657,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
                 <td width="300">
                     <h5>CloudLinux</h5>
-                    <h3>Middle Python Developer - Remote/Work Anywhere</h3>
+                    <h3>Senior Python Developer Remote / Work Anywhere</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -817,13 +666,13 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/26F80D85B5" align="right" target="_blank">Apply</a>
+                <a href="https://apply.workable.com/cloudlinux-1/j/F5D6410564" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and&nbsp;we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful.&nbsp;</p><p>We are truly a great place to work. </p><p>Join our dynamic team in the Release Engineering Department where we take charge of supporting a wide range of system programs. From the Linux kernel to OpenSSL, and from Python to PHP interpreters, we've got it all covered. Our department handles the entire pipeline, from finding vulnerabilities to building, testing, and distributing packages. Here, you'll have the perfect opportunity to enhance your expertise in Linux, security, and packaging. </p><p>As an Engineer in the Innovation Release Engineering Team, you'll play a vital role in our department. Your focus will be on developing, prototyping, enhancing, and supporting software solutions that aim to improve internal company processes. We're looking for someone who brings a combination of creativity, technical expertise, and a problem-solving mindset to deliver reliable and efficient solutions that can be scaled across the entire company.</p><h3></h3><p><strong>Key Responsibilities:</strong></p><ul> <li> <strong>Develop Software Solutions:</strong> Develop and maintain software solutions that streamline internal processes, enhance efficiency, and contribute to cost reduction, supporting the company's scaling efforts.</li> <li> <strong>Solution Enhancement and Support:</strong> Take responsibility for refining prototypes, enhancing their functionality, ensuring their reliability, and supporting these solutions as they are adopted across various teams within the company.</li> <li> <strong>Problem Investigation:</strong> Proactively identify and investigate issues that arise during development and in deployed solutions, employing up-to-date technologies and best practices to find innovative solutions.</li> <li> <strong>Collaboration and Innovation:</strong> Work closely with team members and stakeholders across the company to understand needs, gather feedback, and continuously improve our solutions and processes.</li> </ul><h3>Requirements: </h3><p><strong>To excel in this role, you need:</strong></p><ul> <li>At least 2 years of hands-on experience in Python programming.</li> <li>Experience with System programming, including Sockets, filesystem, and process management, or a strong desire to work with it.</li> <li>Experience with multithreading/multiprocessing/asyncio</li> <li>A strong command over the GNU/Linux operating system and shell scripting abilities.</li> <li>Experience with git-based development processes.</li> <li>Familiarity with PyTest.</li> <li>Intermediate level of English language proficiency.</li> <li>Knowledge of relation databases, along with familiarity in the SQL language (PostgreSQL would be perfect).</li> </ul><p></p><p><strong>It would be great if you also have:</strong></p><ul> <li>Familiarity with Ansible, Jenkins, Docker.</li> <li>Experience in rpm/deb package management (writing rpm spec, deb rules).</li> <li>Capability of performing basic DevOps operations, like setting up testing and production environments.</li> <li>Familiar with basic concepts of LLMs or any other AI</li> </ul><p></p><p><strong>In addition, it is essential that you:</strong></p><ul> <li>Are quick to learn and proactive.</li> <li>Possess a high level of self-motivation and determination to accomplish set goals.</li> <li>Can independently analyze tasks and identify optimal solutions.</li> <li>Excel in collaboration and thrive in team-based environments.</li> <li>Have the versatility to switch between robust production development and speedy rough prototype implementation.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li> Flexible working hours</li> <li>Paid one month of vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p></p><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
+                <p><em>KernelCare</em>, CloudLinux’s fastest-growing product, provides automated kernel security updates without reboots for most popular Linux distributions. It ensures optimal performance and uptime by enabling hosting providers and enterprises to keep their kernels up-to-date with all the latest security patches while keeping their servers online.</p><p></p><p>Work is fully remote, with flexible hours, allowing you to plan your day and work from anywhere in the world.</p><p>For more details about the project, please visit the product website at <a href="https://www.tuxcare.com" rel="nofollow noreferrer noopener" class="external">TuxCare.com</a>.</p><p>As our Senior Python Developer, you will:</p><ul> <li>Get hands-on experience developing our cutting-edge KernelCare products using Python.</li> <li>Ensure the quality of your code by writing comprehensive unit tests with Python and/or functional tests.</li> <li>Collaborate with your colleagues by reviewing their code through Gerrit.</li> <li>Contribute to the growth of our products through architectural development and creating detailed technical documentation for new features.</li> <li>Dive into reported issues from our clients, partners, or support team to investigate and find solutions.</li> <li>Work closely with our 3rd level support team, providing consultations and assistance on matters related to KernelCare products.</li> </ul><h3>Requirements: </h3><p>To thrive in this role, you should possess the following:</p><p></p><ul> <li>5+ years of Python programming experience.</li> <li>Experience with System programming, including Sockets, filesystem, and process management.</li> <li>Proficiency in GNU/Linux operating system and shell scripting.</li> <li>Experience with git-based development processes.</li> <li>Knowledge of PyTest.</li> <li>Intermediate level of English language proficiency.</li> </ul><p>It would be great if you also have:</p><ul> <li>Familiarity with Ansible and Jenkins.</li> <li>Experience as a DevOps or SysAdmin </li> <li>Experience with ClickHouse.</li> <li>Experience in rpm/deb package management (writing rpm spec, deb rules).</li> <li>Understanding of C language.</li> <li>Proficiency in Python frameworks such as Flask and SQLAlchemy.</li> <li>Knowledge of NGINX.</li> </ul><p>In addition, it is essential that you:</p><ul> <li>Are quick to learn and proactive.</li> <li>Are highly self-motivated and determined to accomplish set goals.</li> <li>Can independently analyze tasks and identify optimal solutions.</li> <li>Are skilled at collaboration and working effectively in teams.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li> Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
                 </details>
                 </td>
             </tr>,<tr>
@@ -848,30 +697,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>We have a fantastic opportunity for individuals who embody our company values:</p><ul> <li> <strong>Curious:</strong> Are you willing to explore, conduct research, and design experiments?</li> <li> <strong>Tenacious:</strong> Do you have the determination to persevere and never give up?</li> <li> <strong>Customer Passion:</strong> Are you passionate about providing solutions and staying ahead of malware developers?</li> <li> <strong>Design for Scale:</strong> Can you contribute to making web protection at scale achievable?</li> <li> <strong>Agile:</strong> Are you comfortable switching between researching and designing experiments and using your analytical skills to uncover real-time insights and address incidents?</li> <li> <strong>Roll Up Your Sleeves:</strong> Are you ready to collaborate closely with internal teams and succeed together?</li> </ul><p>If this describes you, then you have the potential to join our team and make a significant impact. As part of the role, you will:</p><ul> <li>Develop automation services using AI/ML/NLP and Large Language Model integrations to streamline our workflows.</li> <li>Design and prototype new algorithms with a touch of AI for code generation, code analysis, and code review.</li> <li>Review and enhance Python-based services and their CI/CD workflows.</li> </ul><p>By joining us, you will enjoy a range of benefits:</p><ul> <li> <strong>Independence in Action:</strong> Take ownership of projects from beginning to end, working autonomously.</li> <li> <strong>End-to-End Ownership:</strong> Oversee all aspects of a project, ensuring attention to detail and precision.</li> <li> <strong>Dynamic Environment:</strong> Thrive in a fast-paced, ever-changing setting, effectively managing multiple tasks.</li> <li> <strong>Quick Learners Welcome:</strong> Adapt to new information and skills with ease, embracing evolving challenges.</li> <li> <strong>Variety and Challenge:</strong> Engage in a diverse workload that offers continual learning opportunities.</li> </ul><h3>Requirements: </h3><p>To thrive in this role, you should possess:</p><ul> <li>At least 5 years of experience as a Python developer</li> <li>Proficiency in reviewing ANSI C source code</li> <li>Hands-on experience writing and reviewing code in a shared Python codebase</li> <li>Familiarity with CI/CD workflow using GitLab and git, including automated testing</li> <li>Comfortable working with the Linux command line</li> <li>Excellent English communication skills (spoken, written, and reading at C1 level or better)</li> <li>Expertise in LLM/NLP/ML is a plus</li> <li>Practical knowledge of SQL is a plus</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li> Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Middle/Senior Java Developer Remote/Work Anywhere</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/FF5A9ACE9C" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Are you a talented and passionate Java Developer? Join our team at CloudLinux and be a part of something amazing!</p><p>As the leading provider of the #1 OS for web-hosting providers, we take pride in developing innovative products that are used by thousands of companies worldwide.</p><p>In this role, you'll be an integral part of our Extended Lifecycle team. With your expertise in Java tools and fresh approach, you'll have the opportunity to make a significant impact by providing secure Java instrumentation for diverse Java-based environments.</p><p>What will you do in this role? Let's dive into the exciting details:</p><ul> <li>Your role will involve enhancing the security of Java and exploring its inner workings.</li> <li>You'll conduct research and run experiments to expedite the assembly of Java packages.</li> <li>Your work will result in a more secure Java environment, making development easier for others.</li> <li>You'll investigate vulnerabilities in Java and Java libraries, focusing on popular end-of-life versions.</li> <li>Your responsibilities will also include improving automation processes for dependency tree construction and project rebuilding.</li> </ul><p></p><h3>Requirements: </h3><p>To be successful you should have;</p><ul> <li>Over 4 years of expertise in software development</li> <li>Extensive hands-on experience and deep understanding of Java core, Spring boot, Spring data JPA, and Spring security</li> <li>Proficient with both noSQL (neo4j) and PostgreSQL databases</li> <li>Highly advantageous to have previous experience working with Gitlab as CI/CD</li> <li>Knowledge of repository management systems like Nexus will also be considered a plus</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
                 </details>
                 </td>
             </tr>,<tr>
@@ -920,30 +745,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>We are seeking <strong>experienced Kernel Developers</strong> to join our talented team at KernelCare. If you are passionate about Linux and enjoy the challenge of developing Linux Kernels and patches, then this is the perfect opportunity for you. As a Senior Kernel Developer, you will utilize your strong C development skills and passion for Linux to create patches with a strong focus on cyber security. This role offers a rewarding and stimulating career where you can find solutions for our valued customers.</p><p>It's important to note that this is <strong>not</strong> an embedded Kernel role. At KernelCare, our product provides live kernel patching services that deliver security patches and bug fixes for a variety of popular Linux kernels, all without the need for system reboots. We are proud to be a part of CloudLinux Inc., the provider of the #1 OS in security and stability for hosting providers. For more information about our KernelCare Product, please visit our website: <a href="https://tuxcare.com/live-patching-services/" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com/live-patching-services/</a></p><p></p><p>We take pride in being an excellent workplace, which is why KernelCare offers a great work environment. As a Senior Kernel Developer, you will have several key responsibilities:</p><ul> <li>Provide support for existing functionality and implement new features</li> <li>Ensure the timely update of existing kernels with security fixes and CVEs patches</li> <li>Create and maintain Python and Bash scripts for task automation</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role you should have:</strong></p><ul> <li>Strong proficiency in C programming and exceptional debugging skills</li> <li>Thorough understanding of Linux kernel core subsystems</li> <li>In-depth knowledge of CPU and cache architectures</li> <li>Extensive experience with GDB and other debuggers</li> <li>Expertise in CPU performance and power analysis</li> <li>Highly independent and self-motivated problem solver and strategic thinker</li> <li>Proficient in Git for development, patch management, and branch management</li> <li>Strong planning, time management, decision-making, presentation, and organizational abilities</li> <li>Exceptional written and verbal communication skills</li> <li>Excellent interpersonal abilities and a strong team player</li> <li>Thrives in an agile, fast-paced environment</li> <li>Experience with Python and shell scripting</li> <li>Prior exposure to Jenkins would be advantageous</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong><br></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li> Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p></p><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Middle/Senior Golang Developer for Imunify360</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/D41365C6EB" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Our company is Cloud Linux Inc. - the maker of the #1 OS for web-hosting providers. We develop our products -- CloudLinux OS, KernelCare, Imunify360, and Imunify Email -- using the most innovative technologies. Our products are used by thousands of companies around the world, including Dell, GoDaddy, IBM, Zoom, and many others.<br></p><p><strong>About the project</strong></p><p>Imunify360 is an intelligent security solution that provides comprehensive protection for Linux web servers. It uses sophisticated machine learning algorithms and advanced firewall technologies to detect and prevent various types of attacks. </p><p>We are looking for a talented Golang developer to join our Imunify360 team. As a Golang Developer, you will work on the development of new features and improvements for Imunify360. You will be responsible for writing high-quality code, participating in code reviews, and collaborating with cross-functional teams to deliver effective solutions. </p><p>We offer a flexible and remote work environment, where you can work from anywhere and have the opportunity to make a significant impact on the security of web hosting providers worldwide. </p><h3>Requirements: </h3><ul> <li>3+ years experience in software development</li> <li>2+ years experience as a Go developer</li> <li>Experience with REST API, OpenAPI, WebSocket</li> <li>A passion for writing clean and testable code.</li> <li>Experience in multithreaded programming and development of asynchronous applications</li> <li>Performance analysis and optimization</li> <li>Good knowledge of Linux and SQL</li> <li>Be ready to implement tests and improve CI/CD process</li> <li>Be ready to get ownership of the component and lead its development</li> <li>Ability to read and understand someone else's code</li> <li>Good English level, ability to read and speak</li> </ul><p><strong>Additional qualifications:</strong></p><ul> <li>Knowledge of Python, C/C++ or Lua</li> <li>Knowledge of how emails work</li> <li>Experience in DevOps</li> <li>Experience in open-source projects</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development;<ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> </li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p><br></p><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1064,6 +865,30 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 9 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 16px">What are we looking for?</b></div><div><span style="font-size: 16px">In this opportunity, we are looking for a Developer Support Engineer to work with one of our foreign clients, who are providing work with diverse clients in different industries including, Health, Legal, and Automotive.</span></div><div><a href="http://Automotive.If" style="font-size: 16px" class="postings-link">If</a><span style="font-size: 16px"> you are independent, a great communicator, a problem solver, and have strong attention to detail, this is a great fit for you! Our jobs are fully remote – as long as you have the skills and can get the work done well, you can work anywhere in the listed countries you want.</span></div><div><span style="font-size: 16px">If you have the skills and can get the job done, join us and work from anywhere you want!</span></div><div><br></div><div><b style="font-size: 16px">What's unique about this job?</b></div><div><span style="font-size: 16px">As a Developer Support Engineer, you’ll be developing and maintaining an application deployment system that allows microservice-architecture applications to be deployed easily on Kubernetes. An integral part of onboarding business units into this deployment system is converting their existing applications, databases, and supporting services from bare-metal/VM deployments to containers.&nbsp;</span></div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>Assist developers in converting their applications to 12-Factor principles so that the apps can run cleanly in a containerized environment, and migrate cleanly from one environment to the next</li><li>Set up, monitor, and debug CI/CD pipelines constructed in GitLab and Jenkins. This includes Docker container builds managed by bespoke Jenkins libraries, so the job will entail debugging and enhancing these libraries (written in Groovy) from time to time</li><li>Assist developers in debugging application configuration, code questions, or debugging issues across various languages: PHP, NodeJS, Java, Ruby, .NET Core, and sometimes even Elixir</li><li>Assist developers in introducing exception reporting and APM metrics into existing and new applications, to improve runtime performance and error monitoring</li><li>Monitor, tune, and debug issues related to application health and Kubernetes cluster health</li><li>Identify bugs or shortcomings in the platform and implement solutions to make the IKE Platform better for users and/or easier to maintain</li>,<h3>You will shine if you have these:</h3><li>Git, including management of remotes, branching/merging, and rebasing</li><li>Basics of Jenkins: Jobs, Pipelines, webhooks</li><li>Basic RDBMS design and tuning</li><li>Linux "power user" skills</li><li><b>Docker concepts:</b></li><li>Builds, including multi-stage builds</li><li>Layer management and caching</li><li>Volume management</li><li>SecurityContainer networking and IPC</li><li>docker-compose</li><li>Use of Kubernetes: namespaces, core objects (Deployment, StatefulSet, PersistentVolumes, etc.)</li><li>Familiarity with configuring and automating Prometheus metrics collection and Grafana dashboards</li><li><b>Familiarity with principles of web application development:</b></li><li>Configuration by convention (e.g. Rails, Laravel, etc.)</li><li>Proxying server configurations (Nginx and/Apache)</li><li>Exception reporting, logging, and performance metrics</li>,<h3>It doesn’t hurt if you also have:</h3><li>Rancher Kubernetes cluster management</li><li>12-Factor concepts and their real-life application</li><li>Familiarity with as many programming languages and frameworks as possible: PHP/Laravel, NodeJS, Java/Spring Boot, Ruby/Rails, .NET Core, Elixir, Rust, Python/Django/Flask, etc.</li><li>Experience with MVC frameworks in particular</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/3c1d9ac7-6738-46c5-b6ca-a35fa2a0df57-1666278594128.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Blue Coding</h5>
+                    <h3>Senior Front-end Developer (A)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/bluecoding/5690d472-9e8e-468a-b8f5-961b3a655acd" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 9 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 18px">What are we looking for?</b></div><div><br></div><div><span style="font-size: 16px">In this opportunity, we are looking for a Senior FrontEnd Developer to work with one of our foreign clients, who is a market leader in the consultation, design, procurement, implementation, and ongoing managed services for technology services for mid to large global enterprises. As a Telecom Managed Service company, they partner with over 300 service providers globally to help customers with technology design and find the best solutions to meet their needs.</span></div><div><br></div><div><span style="font-size: 16px">If you are independent, a great communicator, a problem solver, and have strong attention to detail, this is a great fit for you! Our jobs are fully remote – as long as you have the skills and can get the work done well, you can work anywhere in the listed countries you want.</span></div><div><span style="font-size: 16px">If you have the skills and can get the job done, join us and work from anywhere you want!</span></div><div><br></div><div><b style="font-size: 13pt">What's unique about this job?</b></div><div><br></div><div><span style="font-size: 16px">As a Senior FrontEnd Developer, you’ll be part of a massive migration, rebuilding, and rewriting of our client's existing application working alongside a top-of-the-line team creating this application from the ground up to transition it to modern languages and practices.  This transition will be divided into 5 phases and post-launch support and iteration. This is a very long-term project.</span></div><div><br></div><div><span style="font-size: 16px">The platform supports all business functions from sourcing and pricing, purchasing, implementation and project management, customer lifecycle management, incident management, financial management, expense management, and business process automation and integrations. This is written in Coldfusion running on Lucee with ColdBox. About half of the source code has been refactored into an MVC framework while other pages may still be in a single file approach. There is some code that is still tag-based but much of this has been migrated to a script-based code structure.</span></div><div><br></div><div><span style="font-size: 16px">As the platform is rebuilt, the client will be implementing a new UI based on their design standards which are based on Bootstrap 5. Additionally, they will deprecate certain functionality or data points from the application to streamline the User Experience and better align with how the company operates various parts of the business.</span></div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>You'll participate in doing a transition and migrate all existing functionality from Ruby to .Net Core MVC.</li><li>All of the migration will be done using Agile methodologies and Scrum.</li><li>Rebuilding the UI based on the client's design standards which are based in Bootstrap 5.</li><li>Build out and maintain the CSS and core JS files to support the developers in implementing the code in .NET</li>,<h3>You will shine if you have:</h3><li>Strong hands-on experience with HTML, CSS, and Javascript.</li><li>Experience with Agile methodologies such as Scrum, and Kanban.</li><li>Experience with cloud environments like Azure or similar.</li><li>Knowledge or experience working or reading React, Typescript, C# and .NET code is  plus.</li>,<h3>Here are some of the perks we offer you:</h3><li>Salary in USD</li><li>Long-term</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
                 </details>
                 </td>
             </tr></table>
