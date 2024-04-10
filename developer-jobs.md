@@ -1,5 +1,77 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1906222/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>KoboToolbox</h5>
+                    <h3>Experienced Python Web Application Developer</h3>
+                </td>
+                <td width="300">
+                    <code>api,backend,django,docker</code>
+                </td>
+                <td width="200">
+                <text>5 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/experienced-python-web-application-developer-1906222" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Location:</strong> Remote<br><strong>Availability:</strong> 35-40 hours per week<br><strong>Working hours:</strong> US East business hours<br><strong>Reporting to:</strong> Backend lead</p>
+<p><a href="http://www.kobotoolbox.org/" rel="nofollow">KoboToolbox</a> has an immediate opening for an experienced Python Web Application Developer to fill a full-time position of approximately 35-40 hours per week, ideally for a commitment of at least 1 year. As a member of our team, you will share in the challenge and excitement of writing code used by over 14,000 nonprofit organizations around the world who collect more than 20 million surveys a month to create data-driven change.</p>
+<p>Applicants with diverse professional experience are encouraged to apply. A commitment to mastering our backend technologies as well as advanced knowledge of both Python and relational databases as applied to real-world web applications are required. This means that you must already have experience working on systems supporting substantial volumes of traffic and data. Beyond technical acumen, we are seeking a team member who demonstrates curiosity, initiative, and a cooperative approach to problem solving and decision-making.</p>
+<p>If you’re passionate about leveraging technology to make a positive impact, we want to hear from you!</p>
+<p>Responsibilities</p>
+<ul style="">
+<li style="">Writing robust, concise, and reusable code with accompanying tests and documentation.</li>
+<li style="">Searching and reading the extensive, long-lived code base—which spans multiple libraries, projects, and programming languages—to understand, follow, and (where appropriate) challenge existing behavior and conventions.</li>
+<li style="">Reviewing other developers’ code and providing constructive feedback.</li>
+<li style="">Distilling requests from the humanitarian community into technically detailed feature requests (and, of course, writing bug reports!).</li>
+<li style="">Scoping, prioritizing, estimating, and organizing work into manageable-sized tasks.</li>
+<li style="">Attending regular videoconference check-ins with other members of the technical team.</li>
+<li style="">Communicating with the public in conjunction with our support staff or directly through forums, issue trackers, etc.</li>
+<li style="">Shaping the design and architecture of the overall tool suite collaboratively with the larger team.</li>
+<li style="">Performing other related duties as directed by the lead developers.</li>
+</ul>
+<p><br><br><strong>Requirements</strong><br><br>Required Qualifications</p>
+<ul style="">
+<li style="">Experience writing, deploying, and maintaining server-side Python code for real-world, API-driven web applications.</li>
+<li style="">Substantial understanding of relational databases, their performance characteristics, and methods of mapping relational data into an object-oriented programming environment.</li>
+<li style="">Interest in data collection (surveying), particularly in humanitarian emergencies and other challenging contexts, and a desire to improve our platform for our users.</li>
+<li style="">Proficiency with spoken and written English.</li>
+<li style="">Fluency with Git.</li>
+<li style="">Overlap with working hours in the Eastern time zone.</li>
+<li style="">Average availability of at least 30 hours per week, preferably 35 hours or more.</li>
+</ul>
+<p> </p>
+<p>Preferred Qualifications</p>
+<p>Experience with the following is preferred but not required to apply:</p>
+<ul style="">
+<li style="">Django (and particularly Django REST Framework)</li>
+<li style="">Celery</li>
+<li style="">PostgreSQL</li>
+<li style="">MongoDB</li>
+<li style="">Redis</li>
+<li style="">XLSForm, ODK XForm, and OpenRosa</li>
+<li style="">NGINX and uWSGI</li>
+<li style="">Ubuntu Linux</li>
+<li style="">Docker, Kubernetes, and Helm</li>
+</ul>
+<p><br><br><strong>Benefits</strong><br><br></p>
+<ul style="">
+<li style="">Genuine Impact: Contribute directly to projects that impact millions of people around the world globally, working alongside the largest international humanitarian organizations as well as thousands of national and small community based partners in 200 countries.</li>
+<li style="">Meaningful Work Environment: Join a team that believes work should be meaningful as well as fun, tackling global challenges through innovative data collection and management tools with a proven impact for lasting change.</li>
+<li style="">Diverse Team: Be part of an amazing, progressive, and globally diverse team that values diversity, equity, and inclusion across all spectrums.</li>
+<li style="">Flexible Work Culture: Enjoy mutual flexibility, the option for a 4-day workweek, and supported by a culture that prioritizes work-life balance.</li>
+<li style="">Professional Development: Benefit from generous professional development options.</li>
+</ul>
+<img src="https://remotive.com/job/track/1906222/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1903636/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +82,7 @@
                     <code>accounting,fullstack,javascript,php</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/founding-cto-lead-developer-1903636" align="right" target="_blank">Apply</a>
@@ -35,7 +107,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -98,6 +170,58 @@ qualifications, skills test performance, geographic location, and
 seniority of the position offered. Outside of California, New York, 
 Washington, and Colorado compensation may fall outside the above ranges.</p>
 <img src="https://remotive.com/job/track/1680495/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1542681228666671107/L5LYJLAD_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Timescale</h5>
+                    <h3>Developer Advocate</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://www.timescale.com/careers/7325275002?gh_jid=7325275002" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;p&gt;Timescale is looking for a Developer Advocate to represent our products in technical communities around the world. A Developer Advocate is a developer’s best friend. We are engineers with experience building the kinds of systems we advocate for. We are leaders and earnest participants in the developer community. We care deeply about inclusion and providing a positive experience for all developers everywhere we go. At Timescale, Developer Advocates are passionate stewards not only for Timescale’s products but also for PostgreSQL. We believe in Postgres for Everything, and you should too.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;In this role, you’ll build amazing online content (articles, videos, blog posts) for Timescale as well as third-party developer sites and publications. You’ll build long-lasting relationships with community leaders around the world, establishing your own brand as a Timescale expert, a PostgreSQL expert, and a time-series expert.&lt;/p&gt;
+&lt;p&gt;Our current need is for content (blog posts, videos, and benchmarks), especially around Timescale use cases and the verticals to which we can help. If you’ve got experience with IoT data, event streams, time-series workloads, or small-scale analytics then we would love to hear from you. We want you to establish yourself as a trusted industry expert, able to help developers solve the difficulties they face with Timescale products.&lt;/p&gt;
+&lt;p&gt;Oh, and Timescale is a developer-first company. There will never be confusion in this role about whether or not we’re a developer company. We are, and we embrace it. You’ll also work in an organization where even the marketing people write code. We love developers, and you’ll fit right in if you love developers, too.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Timescale is a mostly remote company with team members around the world, and English language fluency is a requirement. The preferred candidate for this role will have working hours in United States time zones to better coordinate with their teams.&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Create content, videos, and samples from beginner to best practices that demonstrate how to develop and work with Timescale, Postgres, and time-series data.&lt;/li&gt;
+&lt;li&gt;Create benchmarking content that zooms out to focus on the big picture, comparing more than just raw performance.&lt;/li&gt;
+&lt;li&gt;Identify external advocates and community leaders, and support them as they talk about Timescale and time-series data independent of us.&lt;/li&gt;
+&lt;li&gt;Collect and summarize customer feedback and relay it effectively to the product team.&lt;/li&gt;
+&lt;li&gt;Use data, experiments, and customer feedback to drive Timescale adoption.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Excellent written communication skills.&lt;/li&gt;
+&lt;li&gt;Excellent presentation creation and delivery skills.&lt;/li&gt;
+&lt;li&gt;A self-starter who can manage and prioritize initiatives that will make developers successful.&lt;/li&gt;
+&lt;li&gt;Proven ability to quantify and meet project goals.&lt;/li&gt;
+&lt;li&gt;Experience with PostgreSQL is strongly preferred; it’s the backbone of our product, and we need you to be able to dive deep.&lt;/li&gt;
+&lt;li&gt;Industry experience with the type of data you’d use Timescale with. This could be anything, but be prepared to cover it in your interview.&lt;/li&gt;
+&lt;li&gt;Previous experience working with developers is highly desirable, but that could be as an advocate, an evangelist, a developer, or a solutions architect.&lt;/li&gt;
+&lt;li&gt;Proven experience working with 3rd party communities, social media, and blogging is a plus.&lt;/li&gt;
+&lt;li&gt;A deep understanding and appreciation for the constant and rapid shift in how and where people consume content and share their experiences.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;A belief that organizations and industries are best when they are diverse and inclusive, and a commitment to ensuring that everything we do reflects that belief.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Works well independently and remotely.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;By applying for this position, you are agreeing to &lt;a href=&quot;https://www.timescale.com/legal/timescale-applicant-privacy-notice&quot;&gt;Timescale&#39;s Applicant Privacy Notice.&amp;nbsp;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr>,<tr>
@@ -657,6 +781,30 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
                 <td width="300">
                     <h5>CloudLinux</h5>
+                    <h3>Middle/Senior Java Developer Remote/Work Anywhere</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/FF5A9ACE9C" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Are you a talented and passionate Java Developer? Join our team at CloudLinux and be a part of something amazing!</p><p>As the leading provider of the #1 OS for web-hosting providers, we take pride in developing innovative products that are used by thousands of companies worldwide.</p><p>In this role, you'll be an integral part of our Extended Lifecycle team. With your expertise in Java tools and fresh approach, you'll have the opportunity to make a significant impact by providing secure Java instrumentation for diverse Java-based environments.</p><p>What will you do in this role? Let's dive into the exciting details:</p><ul> <li>Your role will involve enhancing the security of Java and exploring its inner workings.</li> <li>You'll conduct research and run experiments to expedite the assembly of Java packages.</li> <li>Your work will result in a more secure Java environment, making development easier for others.</li> <li>You'll investigate vulnerabilities in Java and Java libraries, focusing on popular end-of-life versions.</li> <li>Your responsibilities will also include improving automation processes for dependency tree construction and project rebuilding.</li> </ul><p></p><h3>Requirements: </h3><p>To be successful you should have;</p><ul> <li>Over 4 years of expertise in software development</li> <li>Extensive hands-on experience and deep understanding of Java core, Spring boot, Spring data JPA, and Spring security</li> <li>Proficient with both noSQL (neo4j) and PostgreSQL databases</li> <li>Highly advantageous to have previous experience working with Gitlab as CI/CD</li> <li>Knowledge of repository management systems like Nexus will also be considered a plus</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
                     <h3>Senior Python Developer Remote / Work Anywhere</h3>
                 </td>
                 <td width="300">
@@ -769,6 +917,30 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div><b style="font-size: 18px">Wishpond Technologies currently has the position of PHP DEVELOPER available and we’re excited to tell you about it !</b></div><div><br></div><div><br></div><div><b style="font-size: 22px">OVERVIEW</b></div><div><span style="font-size: 15px">We are searching for a PHP DEVELOPER to join our team on a full-time basis.&nbsp; This is a fully remote position, and the successful individual could be based anywhere in the world. You will work with an amazing team, building relationships and ensuring the products and services offered by Wishpond are utilized by clients throughout Canada and the US. In collaboration with the Development Department, the PHP Developer is responsible for the success of Wishpond Technologies Ltd.</span></div><div>&nbsp;</div><div><br></div><div><b style="font-size: 18px">RESPONSIBILITIES</b></div><div>• <span style="font-size: 15px">Write effective and scalable code using a variety of languages including PHP and Javascript</span></div><div>• <span style="font-size: 15px">Build components for web applications</span></div><div>• <span style="font-size: 15px">Test applications for performance, responsiveness, and security</span></div><div>• <span style="font-size: 15px">Review and debug code</span></div><div>• <span style="font-size: 15px">Integrate data storage and data processing solutions</span></div><div>• <span style="font-size: 15px">Build, install, and share libraries and plugins</span></div><div>• <span style="font-size: 15px">Create automated test scripts</span></div><div>• <span style="font-size: 15px">Improve, monitor, and maintain applications after deployment</span></div><div>• <span style="font-size: 15px">Coordinate with team members who work on different layers of infrastructure</span></div><div>• <span style="font-size: 15px">Other duties as assigned</span></div><div><br></div><div><b style="font-size: 18px">QUALIFICATIONS</b></div><div>• A minimum of 4 years of PHP (Laravel) experience</div><div>• A minimum of 3 years with Javascript and frameworks such as Angularjs, ReactJS, or VueJS</div><div>• Solid database experience, preferably with MySQL</div><div>•  <span style="font-size: 15px">A degree or diploma that contributes to the organization or role is considered an asset</span></div><div>• <span style="font-size: 15px">Must be very detail-oriented, creative, and have a passion for helping others achieve their goals</span></div><div>• <span style="font-size: 15px">Self-motivated with the ability to establish and maintain solid relationships through a client-first mentality&nbsp;</span></div><div>• <span style="font-size: 15px">As part of a diverse team, ability to work both independently and collaboratively in a fast-paced, results-oriented environment</span></div><div>• <span style="font-size: 15px">Must be&nbsp;technical, and analytical, and have the ability to manage complex projects seamlessly</span></div><div>• <span style="font-size: 15px">Organized, administratively strong, great time management, and have solid writing, phone, and general communication skills</span></div><div>• <span style="font-size: 15px">Fluent in English (spoken and written). Knowledge of a second language is considered an asset</span></div><div>• <span style="font-size: 15px">Willing to participate in ongoing education and training for the role</span></div><div><br></div><div><br></div><div><b style="font-size: 18px">WORK ENVIRONMENT&nbsp;/ BACKGROUND VERIFICATION</b></div><div>• Given the nature of this role, it is expected that the successful candidate will provide their own workstation, computer, headset, and have a fast and reliable internet connection.&nbsp;Certain roles will be required to utilize and or download company-approved software.</div><div>• The successful candidate is expected to work either Pacific (PT) or Eastern Time Zones (ET) </div><div>• <span style="font-size: 15px">Due to the nature of this role, we may verify backgrounds, including conducting employment references, criminal records, and credit checks.</span></div><div><span style="font-size: 15px">&nbsp;</span>• <span style="font-size: 15px">Once hired, the successful candidate must provide a copy of valid governmental photo ID and proof of residential address as part of their onboarding process</span></div><div><br></div><div><b style="font-size: 18px">GREAT REASONS TO APPLY FOR THIS ROLE</b></div><div>• &nbsp;<span style="font-size: 15px">Fully remote position allowing you to </span><b style="font-size: 15px">work from your home anywhere in the world !</b></div><div>•  <span style="font-size: 15px">Exciting and dynamic environment with a great leadership team&nbsp;</span></div><div>•  <span style="font-size: 15px">Comprehensive training program and regular performance reviews to facilitate your success</span></div><div>•  <span style="font-size: 15px">Competitive compensation based on experience and proven abilities</span></div><div>•  <span style="font-size: 15px">Great referral programs with incentives and bonuses</span></div><div>•  <span style="font-size: 15px">Unbelievable product discounts when you use our products for your own business</span></div><div>•  <span style="font-size: 15px">A global workforce of multi-cultural and talented colleagues&nbsp;</span></div><div>•  <span style="font-size: 15px">A close-knit operation with amazing growth opportunities for your personal development</span></div><div>•  <span style="font-size: 15px">A high growth SaaS technology company publicly traded on the TSX Venture Exchange</span></div><div>•  <span style="font-size: 15px">Corporate headquarters in beautiful Vancouver, British Columbia, Canada</span></div><div>•  <span style="font-size: 15px">Access to our education credits program and so much more !</span></div><div><br></div><div><b style="font-size: 18px">ABOUT US</b></div><div>Founded in 2009, Wishpond is a rapidly growing technology company providing digital marketing solutions targeted at small businesses.&nbsp; The cloud-based platform includes landing pages, social promotions, website pop-ups, online forms, and lead activity tracking. Wishpond has a dedicated team of professional project managers, designers, copywriters, and developers who provide marketing services tailored to our individual clients.</div><div>&nbsp;</div><div>Wishpond serves over 3,000 customers in various industries and sizes, from startups to large Fortune 500 companies. Wishpond has a rapidly growing global headcount and continues to hire dedicated and qualified employees and contractors who have what it takes to scale a successful software company.</div><div><br></div><div>To learn more about Wishpond Technologies, please visit our website or any of our social media platforms:</div><div><br></div><div>• Website: <a href="http://www.wishpond.com/" class="postings-link">www.wishpond.com</a></div><div>• Instagram: @wishpondofficial</div><div>• Twitter: Wishpond</div><div>• Youtube: Thewishpond</div><div>• LinkedIn : Wishpond</div><div><br></div><div><b style="font-size: 18px">APPLICATION PROCESS</b></div><div><b>If you are interested in applying for this exciting opportunity, please provide an updated resume IN ENGLISH (PDF or Word formats only), quoting the position title in the subject line of your cover letter</b></div><div>&nbsp;<b>&nbsp;</b></div><div>Wishpond Technologies is an equal-opportunity employer committed to hiring a diverse workforce and sustaining an inclusive culture that does not discriminate on the basis of disability, status, or any other basis protected under legislation</div><div>&nbsp;</div><div>We thank all applicants in advance for their interest in this position however due to the volume of applications we receive, we are unable to respond to phone, email, or agency inquiries.</div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://scontent.fcmb4-2.fna.fbcdn.net/v/t39.30808-6/273499217_5218973671480777_3308731762242867065_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=YDi_Wd17RD8AX9wXcyR&_nc_zt=23&_nc_ht=scontent.fcmb4-2.fna&oh=00_AfB4sOOYpj6VyDSuvvuqhVnZbH22m89SqG99HwaOa-uslw&oe=65BE4336" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Wishpond</h5>
+                    <h3>SENIOR DEVELOPER, RUBY ON RAILS, 100% REMOTE</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/wishpond/e9b27315-4761-4213-bf4a-a2efde9136b0" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><b style="font-size: 18px">Wishpond Technologies currently has the position of  Senior Developer, Ruby on Rails and we’re excited to tell you about it !</b></div><div><span style="font-size: 22px">&nbsp;</span></div><div><b style="font-size: 18px">OVERVIEW</b></div><div><span style="font-size: 16px">We are searching for a </span><b style="font-size: 16px">Senior RoR Developer</b><span style="font-size: 16px"> to join our team on a full-time basis.&nbsp; This is a fully remote position, and the successful individual could be based anywhere in the world. You will work with an amazing team, building relationships and ensuring the products and services offered by Wishpond are utilized by clients throughout Canada and the US. In collaboration with the Product Development Department, the Senior RoR Developer is responsible for the success of Wishpond Technologies Ltd.</span></div><div>&nbsp;</div><div><span style="font-size: 15px">&nbsp;</span><b style="font-size: 18px">RESPONSIBILITIES</b></div><div>• <span style="font-size: 16px">Write clean and scalable code using a variety of languages primarily Ruby and Java Script</span></div><div><span style="font-size: 16px">• Build components for web applications pragmatically, focusing on performance and security</span></div><div><span style="font-size: 16px">• Troubleshoot application issues, adeptly debugging and rectifying errors to ensure the best user experience</span></div><div><span style="font-size: 16px">• Actively provide technical insight and participate in code reviews</span></div><div><span style="font-size: 16px">• Thoroughly test code and write effective automated tests</span></div><div><span style="font-size: 16px">• Uphold best practices and maintain high standards for engineering and product quality</span></div><div><span style="font-size: 16px">• Improve, monitor, and maintain applications after deployment</span></div><div><span style="font-size: 16px">• Coordinate with team members who work on different layers of product life cycle including Product Managers, QA Specialists and DevOps Engineers</span></div><div><span style="font-size: 16px">• Other duties as assigned</span></div><div>&nbsp;</div><div><b style="font-size: 18px">QUALIFICATIONS</b></div><div>• <span style="font-size: 16px">A minimum of 4 years of Ruby on Rails experience</span></div><div><span style="font-size: 16px">• A minimum of 3 years of experience with JavaScript and at least one front-end framework such as Angular, React, Vue or equivalent</span></div><div><span style="font-size: 16px">• Solid database experience, preferably with MySQL, PostgreSQL and Redis</span></div><div><span style="font-size: 16px">• Experience with Elasticsearch and MongoDB is a plus</span></div><div><span style="font-size: 16px">• </span><span style="font-size: 11.5pt">Familiarity with using Docker, Git and a Linux environment is preferred</span></div><div><span style="font-size: 16px">• </span><span style="font-size: 11.5pt">Strong problem solving skills and is able to craft solutions within the expected timeline</span></div><div><span style="font-size: 16px">• Must be results-driven, have the ability to multi-task in a fast-paced Agile environment with large scale SaaS products</span></div><div><span style="font-size: 16px">• A degree or diploma that contributes to the organization or role is considered an asset</span></div><div><span style="font-size: 16px">• Must be very detail-oriented, and have a passion for programming</span></div><div><span style="font-size: 16px">• Self-motivated with the ability to establish and maintain solid relationships through a client-first mentality&nbsp;</span></div><div><span style="font-size: 16px">• As part of a diverse team, ability to work both independently and collaboratively in a fast-paced, results-oriented environment</span></div><div><span style="font-size: 16px">• Must be&nbsp;technical, and analytical, and have the ability to manage complex projects seamlessly</span></div><div><span style="font-size: 16px">• Fluent in English (spoken and written) and able to communicate effectively with ease. Knowledge of a second language is considered an asset</span></div><div><span style="font-size: 16px">• Willing to participate in ongoing education and training for the role</span></div><div><br></div><div><b style="font-size: 18px">WORK ENVIRONMENT&nbsp;/ BACKGROUND VERIFICATION</b></div><div>• <span style="font-size: 16px">Given the nature of this role, it is expected that the successful candidate will provide their own workstation, high quality computer capable of running all our applications locally, headset, and have a fast and reliable internet connection.&nbsp;Certain roles will be required to utilize and or download company-approved software.</span></div><div><span style="font-size: 16px">• The successful candidate is expected to work PST/PDT standard business hours (GMT-8) </span></div><div>• <span style="font-size: 16px">Due to the nature of this role, we may verify backgrounds, including conducting employment references, criminal records, and credit checks.</span></div><div><span style="font-size: 15px">&nbsp;</span>• <span style="font-size: 15px">Once hired, the successful candidate must provide a copy of valid governmental photo ID and proof of residential address as part of their onboarding process</span></div><div><br></div><div><b style="font-size: 18px">GREAT REASONS TO APPLY FOR THIS ROLE</b></div><div>• &nbsp;<span style="font-size: 15px">Fully remote position allowing you to </span><b style="font-size: 15px">work from your home anywhere in the world !</b></div><div>•  <span style="font-size: 15px">Exciting and dynamic environment with a great leadership team&nbsp;</span></div><div>•  <span style="font-size: 15px">Comprehensive training program and regular performance reviews to facilitate your success</span></div><div>•  <span style="font-size: 15px">Competitive compensation based on experience and proven abilities</span></div><div>•  <span style="font-size: 15px">Great referral programs with incentives and bonuses</span></div><div>•  <span style="font-size: 15px">Unbelievable product discounts when you use our products for your own business</span></div><div>•  <span style="font-size: 15px">A global workforce of multi-cultural and talented colleagues&nbsp;</span></div><div>•  <span style="font-size: 15px">A close-knit operation with amazing growth opportunities for your personal development</span></div><div>•  <span style="font-size: 15px">A high growth SaaS technology company publicly traded on the TSX Venture Exchange</span></div><div>•  <span style="font-size: 15px">Corporate headquarters in beautiful Vancouver, British Columbia, Canada</span></div><div>•  <span style="font-size: 15px">Access to our education credits program and so much more !</span></div><div><br></div><div><b style="font-size: 18px">ABOUT US</b></div><div><span style="font-size: 16px">Founded in 2009, Wishpond is a rapidly growing technology company providing digital marketing solutions targeted at small businesses.&nbsp; The cloud-based platform includes landing pages, social promotions, website pop-ups, online forms, and lead activity tracking. Wishpond has a dedicated team of professional project managers, designers, copywriters, and developers who provide marketing services tailored to our individual clients.</span></div><div><span style="font-size: 16px">&nbsp;</span></div><div><span style="font-size: 16px">Wishpond serves over 3,000 customers in various industries and sizes, from startups to large Fortune 500 companies. Wishpond has a rapidly growing global headcount and continues to hire dedicated and qualified employees and contractors who have what it takes to scale a successful software company.</span></div><div><br></div><div><span style="font-size: 16px">To learn more about Wishpond Technologies, please visit our website or any of our social media platforms:</span></div><div><br></div><div><span style="font-size: 16px">• Website: </span><a href="http://www.wishpond.com/" style="font-size: 16px" class="postings-link">www.wishpond.com</a></div><div><span style="font-size: 16px">• Instagram: @wishpondofficial</span></div><div><span style="font-size: 16px">• Twitter: Wishpond</span></div><div><span style="font-size: 16px">• Youtube: Thewishpond</span></div><div><span style="font-size: 16px">• LinkedIn : Wishpond</span></div><div><br></div><div><b style="font-size: 18px">APPLICATION PROCESS</b></div><div><b style="font-size: 16px">If you are interested in applying for this exciting opportunity, please provide an updated resume IN ENGLISH (PDF or Word formats only), quoting the position title in the subject line of your cover letter</b></div><div><span style="font-size: 16px">&nbsp;</span><b style="font-size: 16px">&nbsp;</b></div><div><span style="font-size: 16px">Wishpond Technologies is an equal-opportunity employer committed to hiring a diverse workforce and sustaining an inclusive culture that does not discriminate on the basis of disability, status, or any other basis protected under legislation</span></div><div><span style="font-size: 16px">&nbsp;</span></div><div><span style="font-size: 16px">We thank all applicants in advance for their interest in this position however due to the volume of applications we receive, we are unable to respond to phone, email, or agency inquiries.</span></div><div><br></div>
                 </details>
                 </td>
             </tr>,<tr>
