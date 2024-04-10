@@ -1,110 +1,25 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1905478/logo" width="38px" height="auto">
+                    <img src="https://pbs.twimg.com/profile_images/1177267684574208000/54eG3WmW_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Garner Health</h5>
-                    <h3>Senior Product Manager</h3>
+                    <h5>SafetyWing</h5>
+                    <h3>Product Manager (Remote Health)</h3>
                 </td>
                 <td width="300">
-                    <code>data science,sql,product management,healthcare</code>
+                    <code></code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/senior-product-manager-1905478" align="right" target="_blank">Apply</a>
+                <a href="https://safetywing.pinpointhq.com/en/jobs/188474" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class='"content-intro"'><p style='"text-align:'>Garner's <span class='"il"'>mission</span> is to transform the healthcare economy, delivering high quality and affordable care for all. By helping employers restructure their healthcare benefit to provide clear incentives and data-driven insights, we direct employees to higher quality and lower cost healthcare providers. The result is that patients get better health outcomes while doctors are rewarded for practicing well, not performing more procedures. We are backed by top-tier venture capital firms, are growing rapidly and looking to expand our team.</p></div><p>At the core of our product is our Concierge team that provides a human touch and real time support for our members navigating the Garner benefit. The Concierge team is a key differentiator for Garner from other app-based care navigation vendors. The Concierge area within Product is responsible for envisioning the user experience for members interacting with the Concierge team as well as developing the tools that the Concierge team uses to serve our members. </p>
-<p><strong>What you’ll do</strong></p>
-<p>You’ll be given wide-ranging responsibility to build and shape our Concierge ecosystem, including the architecture of our knowledge management, utilization of LLMs to drive team efficiency, and the integration of our Concierge team into the Garner app.</p>
-<p><strong>Your responsibilities</strong></p>
-<ul style="">
-<li style="">Develop a deep intuition for what is important to our users and our Concierge associates—and use that to drive your roadmap and help shape the overall product strategy</li>
-<li style="">Drive new feature development from start to finish: from ideation, requirements gathering, documentation, product development, launch and iteration</li>
-<li style="">Define what success looks like, ensure we have the data in place to measure progress, and rally the team around what winning looks like and how we get there</li>
-</ul>
-<p><strong>Minimum requirements</strong></p>
-<ul style="">
-<li style="">You have 3+ years product management experience</li>
-<li style="">You’re a highly autonomous self-starter, and thrive when you’re given ownership of hard, unscoped problems </li>
-<li style="">You’re an insatiable learner, with a track record of entering a large, complicated domain and obsessively becoming the content expert upon whom others rely</li>
-<li style="">You are an excellent written and verbal communicator, able to communicate your vision and drive execution on the immediate team and with stakeholders across the company</li>
-<li style="">You are extremely analytical, and insistently use data to shape your product intuition and decisions</li>
-</ul>
-<p><strong>Preferred qualifications</strong></p>
-<ul style="">
-<li style="">You have software engineering or data science experience, and/or a computer science or engineering degree, and are comfortable with SQL</li>
-<li style="">You have experience building products for internal teams / users</li>
-<li style="">You have experience working with hourly operational users or member services</li>
-<li style="">You have experience working in healthcare or employee benefits</li>
-</ul>
-<p>The target salary range for this position is: $160,000 - $180,000. Individual compensation for this role will depend on a variety of factors including qualifications, skills and applicable laws. In addition to base compensation this role is eligible to participate in our equity incentive and competitive benefits plans.</p><div class='"content-conclusion"'><div> </div>
-<div><em>Garner Health is proud to be an Equal Employment Opportunity employer and values diversity in the workplace. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics.</em></div>
-<div> </div>
-<div><em>Garner Health is committed to providing accommodations for qualified individuals with disabilities in our recruiting process. If you need assistance or an accommodation due to a disability, you may contact us at <a href="%22mailto:talent@getgarner.com%22" rel="nofollow">talent@getgarner.com.</a> </em></div></div><img src="https://remotive.com/job/track/1905478/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1904535/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Ingenious</h5>
-                    <h3>Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>Figma,jira</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/product-manager-1904535" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class='"content-intro"'><p><span style='"font-weight:'>At INGENIOUS.BUILD, we’ve cracked the code and built a world-class platform for companies of all sizes within the real estate and construction industries across the globe, enabling them to simply and effortlessly manage all aspects of their projects--from inception to completion, and both internally and in conjunction with the other project participants.</span></p>
-<p><strong><em>Think about what you could do here</em></strong><span style='"font-weight:'>… At INGENIOUS.BUILD, you’ll be participating in one of the most exciting and unparalleled journeys of your career--a journey to pioneer the first cloud application to manage the entire lifecycle of a real estate construction project. In short, you’ll be building what some have claimed is the holy grail of construction project management. </span></p>
-<p><span style='"font-weight:'>It’s big. Bold. Audacious, even. But that's how we roll...</span></p>
-<p><span style='"font-weight:'>And if you’ve got what it takes, you’ll be directly involved in its development. The rest, as they say, will be history...</span></p></div><div class='"styles--2BkR3"'>
-<div class='"styles--2Kv6p"'>
-<p>As a Product Manager, you will be responsible for shipping incredible value to the customer for the more technical Delivery Team that focuses on external integrations. This is done by gathering customer requirements, prioritizing the work, and partnering with cross-functional teams to ensure the product is delivered on time, within budget, and to the highest quality standards.</p>
-<p>We are looking for a tenacious, well-rounded person who thrives in a fast-paced environment and can relentlessly transform fragmented information into valuable software for our users.</p>
-<p><strong>In this position, you will: </strong></p>
-<ul style="">
-<li style="">Set the product vision and strategy for 3rd party integrations using data-driven decisions.</li>
-<li style="">Ingest information about your clients, research the market, conduct user tests as needed, and partner with stakeholders to build a roadmap that optimizes value and delivers the Right Thing at the Right Time.</li>
-<li style="">Monitor product performance and key metrics to identify areas for improvement and growth opportunities.</li>
-<li style="">Collaborate with Delivery Teams (Software, Design, Quality Assurance) to ship impactful, world class products. </li>
-<li style="">Develop clear GTM strategies for internal stakeholders and customers.</li>
-<li style="">Communicate with various internal and external stakeholders.</li>
-</ul>
-<p><strong>Skills and Experience needed:</strong></p>
-<ul style="">
-<li style="">2+ years of career experience in a related field</li>
-<li style="">Proficient in discussing APIs and data structures</li>
-<li style="">Demonstrated history of advancing business outcomes through thoughtful leadership, logical thinking, and cross-functional partnership</li>
-<li style="">Proven ability to successfully wear many hats/roles</li>
-<li style="">Scrum Methodology </li>
-<li style="">Experience with our tooling: Jira, Figma, Productboard</li>
-</ul>
-<div class="h4"><strong>Preferred Qualifications</strong></div>
-<ul style="">
-<li style="">Experience with iPaaS</li>
-<li style="">Experience with integrations</li>
-<li style="">Experience in AECO or PropTech industry</li>
-<li style="">Experience in a start-up environment</li>
-</ul>
-<p><em>The compensation range for this position is quite broad, and we in good faith believe it to be anywhere between $70,000 to $110000; provided, however, that we may ultimately pay more or less than this range depending upon skill set, location, and market fluctuation </em></p>
-</div>
-</div><div class='"content-conclusion"'><p>We're fired up to learn more about you to see how you can help us on our mission!  We genuinely look forward to receiving your application to gain further detail on who you are and how you tick... and hopefully start the process of bringing you into the Ingenious family ;).</p></div><img src="https://remotive.com/job/track/1904535/blank.gif?source=public_api" alt=""/>
+                <h2>🧘 What we offer</h2> <div><!--block-->We operate in a fully remote work environment – work from anywhere globally.&nbsp;<br><br>You will receive salary and equity compensation, premium health insurance that works in most countries worldwide, travel insurance, a laptop, an office stipend, a minimum of four weeks of vacation per year, and a personal development budget.</div><div><!--block--><br>We also have fantastic annual team gatherings. The previous ones were in Ljubljana, San Francisco, Mexico, Bali, and Siglufjörður.</div><div><!--block--><br>We are looking forward to hearing from you!</div> <div><!--block--><a href="https://safetywing.com"><strong>SafetyWing</strong></a> (YC W18) is seeking an ambitious and creative <strong>product manager</strong> to help make our product something our customers love so much that they’ll tell their friends about it.&nbsp;<br><br>We are on a mission to remove the role of geographical borders as a barrier to equal opportunities and freedom for everyone. And we are doing that by creating simple health, insurance, and retirement products for remote workers worldwide as a replacement for national welfare systems.</div> <h2>💻 Your responsibilities will include</h2>  <ul><li><!--block-->Craft, prioritize, and execute the product vision and strategy to enhance our Remote Health product, particularly as we expand to serve enterprise customers.</li><li><!--block-->Lead a cross-functional and tech-savvy team. We need you to be right there with them, understanding the work, leading projects, and ensuring things get done right. Extra shine if you understand our tech stack: Kotlin (and some Java), TypeScript with React and NextJS, and Google Cloud with Kubernetes to implement product features swiftly and efficiently.</li><li><!--block-->Help Remote Health product achieve its potential by understanding the latest status of all priority projects happening, pushing goals to be met, and being a jack of all trades to support your team in implementation.&nbsp;</li><li><!--block-->Build operational systems and automation as we scale and grow, and ultimately make a product people love so much they tell their friends about it.</li><li><!--block-->Engage with diverse stakeholders, from development teams to the CEO, ensuring alignment and buy-in across the company.</li></ul> <h2>🧪 We are looking for someone who</h2> <ul><li><!--block-->Has product management experience, ideally with a background in B2B, SaaS, insurtech, or fintech, and has seen products from conception to delivery.</li><li><!--block-->Has strong leadership skills and can make people around you fulfill their potential.</li><li><!--block-->Is ambitious, organized, and great with verbal and written communication.</li><li><!--block-->Is comfortable with product development cycles and ready to iterate and innovate on our processes.&nbsp;</li><li><!--block-->Has a growth-oriented mindset and is motivated by challenging growth targets.</li><li><!--block-->Has the ability to plan a project, gather the resources, and see it through to completion, no matter the challenges.</li><li><!--block-->Has good judgment when creating products that people love and recommend to their friends.</li></ul><div><!--block--><strong>😀 We like to work with people who:</strong></div><ul><li><!--block-->Want to help build a global social safety net on the Internet.</li><li><!--block-->Think for themselves instead of copying others.</li><li><!--block-->Are willing to try new things, even with the risk of failure.</li><li><!--block-->Are intellectually curious and open to new ideas.</li><li><!--block-->Are creative and bold in the face of any problems.</li><li><!--block-->Have strong integrity and do the right thing.</li></ul>
                 </details>
                 </td>
             </tr>,<tr>
@@ -350,6 +265,30 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/55028a36-609c-479c-9553-d4689ff2dd8c-1669620566663.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Airalo</h5>
+                    <h3>Technical Product Manager (Network)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/airalo/d0992044-a38b-4aed-a9aa-ffa345f0a1a9" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><b>About Airalo</b></div><div>Alo! Airalo is the world’s first eSIM store that helps people connect in over 200+ countries and regions across the globe. We are building the next digital service that revolutionizes the telecom industry. We are a travel-tech company and an equal-opportunity environment that values and executes diversity, inclusion, and equity. Our team is spread across 50+ countries and six continents. What glues us together is our commitment to changing the way you connect<span style="font-size: 13.3333px">. </span></div><div><br></div><div><b>About you</b></div><div>We hope that you care deeply about the quality of your work, the intrinsic worth of tasks, and the success of your team. You are self-disciplined and do not require micromanagement in terms of your skillset and work ethic. You do your best to flourish as an individual every day while working hard to foster a collaborative team environment. You believe in the importance of being — and staying — authentic, honest, positive, and kind. You are a good interlocutor with clear and concise communication. You are able to manage multiple projects, have an analytical mind, pay keen attention to detail, and love to get your hands dirty. You are cognizant, tolerant, and welcoming of vulnerabilities and cultural differences.</div><div><br></div><div><b>About the Role</b></div><div><b>Position</b>: Full-time / Employee</div><div><b>Location:</b>&nbsp;Remote-first </div><div><b>Benefits:</b>&nbsp;Health Insurance, work-from-anywhere stipend, annual wellness &amp; learning credits, annual all-expenses-paid company retreat in a gorgeous destination &amp; other benefits</div><div><br></div><div>You will be responsible for defining and executing the roadmap for a backend-oriented integration product that takes care of the eSIMs lifecycle over the Telecom Networks by the use of APIs. You will drive your product in the right direction by addressing the needs originating from multiple sources, such as: business requirements for new telco offerings, technical requirements defined by CTO, functional roadmaps of other teams, internal improvement needs. You will support the Engineering Director of the Network Division in making sure the eSim services are well integrated through APIs into external Networks of Telecom Providers.</div><div><br></div><div>The overall performance of the product and its delivery of business value for the company will lie with you on a day-to-day basis. You are curious, humble and take pride in seeing others succeed as a result of your support and leadership. You are an excellent collaborator, with cross-discipline experience working to successfully deploy products and work streams.</div><div><br></div><h3>Responsibilities include but are not limited to:</h3><li>Define and develop the roadmap for the backend-oriented integration product</li><li>Analyze, refine and document product backlog items to make them ready for development</li><li>Support Engineering Director for the Network Division in making sure the eSIM services are well integrated through APIs into external Telecom Networks.</li><li>Effectively manage diverse stakeholders to translate their requests into clear problem statements and needs. The important stakeholders include: external Telecom Network Providers, CTO, Customer Service, Engineering Management team, Product Managers of dependant products, engineering teams</li><li>Define and optimise metrics and KPIs to measure impact, communicate status, and inform the decision-making process</li><li>Own, prioritise and manage a backlog with clear Product Requirements Documents while ensuring successful and high-quality product delivery</li><li>Define, implement and maintain product documentation, presentations and agile processes to efficiently work in a remote setup while educating our Partnerships and Sales teams</li>,<h3>Must-haves:</h3><li>4+ years of building world-class products as a (technical) product manager</li><li>Experience in creating and iterating product roadmaps</li><li>Experience in facilitating technical discussions about products and features and providing feedback for technical designs</li><li>Experience in defining, building, and shipping technical products</li><li>Experience in collaborating with and designers, engineers, Q/A in an agile environment</li><li>Product experience in a high-growth start-up or scale-up</li><li>Strong analytical and problem-solving skills and data-driven decision-making</li><li>Excellent time management skills</li><li>Experience in agile/scrum methodology</li><li>Excellent verbal and written communication skills</li><li>Bachelor’s degree in Telecommunications, Computer Engineering or a similar discipline</li>,<h3>Good to have:</h3><li>Knowledge of eSIM, GSM, MNO / MVNO / MVNE operating models</li><li>Experience with Jira, Confluence or Notion, Figma, QuickSight, Tableau, Dovetail, Google</li><li>Analytics, Hotjar</li><li>Coding experience or technical knowledge of coding languages</li><li>Prior work experience in telecommunications</li><div>If you are interested in this position, <b>please apply via the link</b></div><div><br></div><div><i>We sincerely thank all applicants in advance for submitting their interest in this opportunity with Airalo. </i></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://lever-client-logos.s3-us-west-2.amazonaws.com/0f4b434e-502f-4390-9819-c058d43028c1-1595260531860.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -369,7 +308,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div>At BioRender, our mission is to accelerate the world’s ability to learn, discover and communicate science. We are passionate about democratizing science communication in order to accelerate scientific discovery and understanding. We're looking for amazing people to help create the world’s go-to-place and platform where science is communicated. Come join us!</div><div><br></div><div><span style="font-size: 11pt">You can think of BioRender as the “Figma or Canva for scientists,” with a suite of web-based graphics communication products that empower scientists to create beautiful scientific visuals and presentations with ease.</span></div><div><br></div><div><span style="font-size: 11pt">As a Senior Product Manager at BioRender, you will be responsible for leading a team of engineers and designers to build features that leverage AI to help millions of scientists all over the world communicate their scientific breakthroughs and discoveries. You will own a specific area of the product based on your skills, interest, and needs of BioRender.&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">Our product team focuses on a few core missions: enhancing and expanding our core editor, building for enterprise customers, and a product led growth motion.</span></div><h3>What you'll do at BioRender: </h3><li>Deliver features and products that users love</li><li>Drive development, communication, and execution of a vision for your product area</li><li>Own product roadmap, measurement of success, and operations for your product area</li><li>Leverage data from millions of users to proactively assess feature opportunities and solution prioritization&nbsp;</li><li>Research, experiment, and implement AI powered solutions to solve user problems</li><li>Engage in direct touch points with our users to build the right products and features&nbsp;</li><li>Contribute to the team and processes that enable BioRender to be an exceptional product management organization&nbsp;</li>,<h3>What we value: </h3><li>5- 7 years of product management experience</li><li>Demonstrated ability to lead and influence teams towards an outcome oriented goal</li><li>Experience tying together user insights with data to make the most effective product decisions</li><li>Excellent written and verbal communication skills&nbsp;</li><li>A passion for our mission, vision, and product</li>,<h3>Nice to haves:</h3><li>Experience at a fast growing SaaS startup </li><li>Educational background in life sciences</li>
+                <div>At BioRender, our mission is to accelerate the world’s ability to learn, discover and communicate science. We are passionate about democratizing science communication in order to accelerate scientific discovery and understanding. We're looking for amazing people to help create the world’s go-to-place and platform where science is communicated. Come join us!</div><div><br></div><div><span style="font-size: 11pt">You can think of BioRender as the “Figma or Canva for scientists,” with a suite of web-based graphics communication products that empower scientists to create beautiful scientific visuals and presentations with ease.</span></div><div><br></div><div><span style="font-size: 11pt">As a Senior Product Manager at BioRender, you will be responsible for leading a team of engineers and designers to build features that leverage AI to help millions of scientists all over the world communicate their scientific breakthroughs and discoveries. You will own a specific area of the product based on your skills, interest, and needs of BioRender.&nbsp;</span></div><div><br></div><div><span style="font-size: 11pt">Our product team focuses on a few core missions: enhancing and expanding our core editor, building for enterprise customers, and a product led growth motion.</span></div><h3>What you'll do at BioRender: </h3><li>Deliver features and products that users love</li><li>Drive development, communication, and execution of a vision for your product area</li><li>Own product roadmap, measurement of success, and operations for your product area</li><li>Leverage data from millions of users to proactively assess feature opportunities and solution prioritization&nbsp;</li><li>Research, experiment, and implement AI powered solutions to solve user problems</li><li>Engage in direct touch points with our users to build the right products and features&nbsp;</li><li>Contribute to the team and processes that enable BioRender to be an exceptional product management organization&nbsp;</li>,<h3>What we value: </h3><li>5- 7 years of product management experience</li><li>Demonstrated ability to lead and influence teams towards an outcome oriented goal</li><li>Experience tying together user insights with data to make the most effective product decisions</li><li>Excellent written and verbal communication skills&nbsp;</li><li>A passion for our mission, vision, and product</li>,<h3>Nice to haves:</h3><li>Experience at a fast growing SaaS startup </li><li>Educational background in life sciences</li><div>#LI-DNI</div>
                 </details>
                 </td>
             </tr>,<tr>
