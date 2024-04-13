@@ -1,5 +1,82 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1680495/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Coalition Technologies </h5>
+                    <h3>Front End Developer</h3>
+                </td>
+                <td width="300">
+                    <code>CSS,excel,frontend,git</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p class="h3">WHY YOU SHOULD APPLY:</p>
+<p> </p>
+<p>Coalition Technologies is devoted to delivering clients the highest quality work while providing our team a fun, thriving, and innovative environment. Along with the opportunity for tremendous career growth and rapid advancement, CT offers:</p>
+<ul style="">
+<li style="">The most competitive profit-sharing bonus plan in the industry, paying up to 50% of company profits to full-time employees each month!</li>
+<li style="">A highly competitive Paid Time Off plan, promoting quality work-life balance.</li>
+<li style="">Subsidized gym memberships to help team members feel their best.</li>
+<li style="">Medical, dental, vision, and life insurance packages for all US-based team members.</li>
+<li style="">International Health Insurance Reimbursement Program for all international team members, a benefit unique to Coalition.</li>
+<li style="">Device upgrade and learning reimbursement programs.</li>
+<li style="">Motivating career development plans with clearly defined goals and rewards.</li>
+<li style="">Additional job-specific incentives and bonuses.</li>
+</ul>
+<p>Plus, 100% of our team works remotely with the support of time tracking software. Our company culture specializes in supporting remote team members, and we’ve been doing so for more than a decade. CT welcomes your application, wherever in the world it's coming from!</p>
+<p class="h3"> </p>
+<p class="h3">YOU SHOULD HAVE:</p>
+<p> </p>
+<ul style="">
+<li style="">An expertise in HTML5, CSS3 and jQuery</li>
+<li style="">A thorough understanding of cross-browser compatibility issues</li>
+<li style="">Experience with media queries</li>
+<li style="">A knowledge of CSS platforms such as Twitter’s Bootstrap</li>
+<li style="">An ability to multi-task on multiple projects and tasks at the same time</li>
+<li style="">Great attention to detail and be highly organized</li>
+<li style="">A positive and upbeat attitude with the ability to learn quickly</li>
+<li style="">Proficiency in PHP/MYSQL and AJAX (preferred)</li>
+<li style="">Experience with WordPress, BigCommerce, Magento, and Shopify (preferred)</li>
+<li style="">Excellent written and spoken English</li>
+<li style="">The availability to work 40 hours per week from 9:00 am to 6:00 pm PST</li>
+<li style="">The ability to adapt to a diverse and multicultural environment</li>
+<li style="">Passion to build a startup</li>
+<li style="">Reliable transportation if working in-house</li>
+<li style="">A reliable workstation with a fast computer, microphone and speakers, reliable internet and power if working remotely</li>
+</ul>
+<p class="h3"> </p>
+<p class="h3">YOUR DUTIES AND TASKS:</p>
+<p> </p>
+<ul style="">
+<li style="">Transforming complex layout PSDs into pixel-perfect presentation-layer HTML5/CSS3 templates</li>
+<li style="">Creating responsive website designs</li>
+<li style="">Building websites with WordPress, extending and developing plugins and themes</li>
+<li style="">Working with Photoshop, Illustrator, and Fireworks to create images optimized for the web</li>
+<li style="">Working with version control systems such as GIT / SVN</li>
+<li style="">Working under tight deadlines</li>
+<li style="">Handling multiple projects at the same time</li>
+<li style="">Producing high quality of work with a strong focus on detail</li>
+</ul>
+<p class="h5"> </p>
+<p class="h5">We are looking for talented and diligent candidates who excel in our skills tests, and will consider these candidates even if past experience or educational background criteria aren't met.</p><p class="h5"><br></p><p>*California, New York, Washington, and Colorado: starting base pay for this position ranges between $15 - $35 per hour.</p>
+<p>Compensation may vary based on factors such as experience, 
+qualifications, skills test performance, geographic location, and 
+seniority of the position offered. Outside of California, New York, 
+Washington, and Colorado compensation may fall outside the above ranges.</p>
+<img src="https://remotive.com/job/track/1680495/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1906222/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +87,7 @@
                     <code>api,backend,django,docker</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/experienced-python-web-application-developer-1906222" align="right" target="_blank">Apply</a>
@@ -82,7 +159,7 @@
                     <code>accounting,fullstack,javascript,php</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/founding-cto-lead-developer-1903636" align="right" target="_blank">Apply</a>
@@ -93,83 +170,6 @@
                 <details><summary>Description</summary>
                 <p>Are you seeking a role that combines your love for technology with the thrill of creative innovation? Do you envision waking up each day feeling passionate about your work, knowing you're making a tangible difference? Welcome to Webicient, where your dream job awaits!</p><p><br></p><p><strong>Discover Webicient:</strong></p><p>At Webicient, we're not just a Createch agency; we're a hub of creativity and technical mastery. Our mission is to empower ambitious businesses with ingenious and practical solutions. Imagine a world where creativity and tech are seamlessly integrated, accessible, and lightning-fast – that's the world we're building.</p><p><br></p><p>Our cutting-edge SaaS platform streamlines the process for our clients, offering bespoke createch services, complemented by the expertise of our dedicated project managers.</p><p><br></p><p><strong>Join Us as a CTO / Lead Developer:</strong></p><p>We're on the hunt for a Lead Developer, someone who's not just a participant but a pacesetter in our journey. Here's what your role will entail:</p><p></p><ul style=""><li style="">Becoming a guiding light in production, inspiring fellow developers.</li><li style="">Propelling our teams towards groundbreaking achievements, while offering a wealth of knowledge for all developmental discussions.</li><li style="">Crafting the blueprint for our DevOps strategies, ensuring that our development processes are ever-evolving.</li><li style="">Harmonizing our production methods, anchoring our growth strategy.</li><li style="">Pioneering our technical vision and strategy, making sure our technology solutions align not only with our current objectives but also scale with our ambitious future.</li></ul><p><br></p><p><strong>We Need You to Bring:</strong></p><p></p><ul style=""><li style="">A proven track record of assembling and nurturing development teams.</li><li style="">A minimum of 6 years in full-stack development, with a strong focus on PHP and JavaScript (React, Next.JS).</li><li style="">A knack for precise project estimation, accounting for potential risks.</li><li style="">The talent to deconstruct larger tasks into manageable, estimable units.</li><li style="">An in-depth understanding of DevOps processes.</li><li style="">A BSc degree (or equivalent) in Computer Science.</li><li style="">Expertise in CMS and Headless architectures.</li><li style="">The agility to thrive in dynamic, fast-paced settings.</li><li style="">A commitment to not just work with us but to be an integral part of our visionary journey.</li><li style="">Experience in Sanity (Not a must but a bonus!)</li></ul><p><br></p><p><strong>What's in It for You:</strong></p><p></p><ul style=""><li style="">A transformative role where personal growth is a reality.</li><li style="">Generous paid vacation to ensure work-life balance.</li><li style="">An organizational culture that treasures its team.</li><li style="">A platform where your ideas are not only heard but valued and implemented.</li></ul><p><br></p><p>At Webicient, you're not just joining a company; you're becoming a part of a revolution. Are you ready to make your mark? Join us and elevate your career to new heights, as we stride towards becoming a tier-1 agency on the global stage!</p>
 <img src="https://remotive.com/job/track/1903636/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1680495/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Coalition Technologies </h5>
-                    <h3>Front End Developer</h3>
-                </td>
-                <td width="300">
-                    <code>CSS,excel,frontend,git</code>
-                </td>
-                <td width="200">
-                <text>29 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p class="h3">WHY YOU SHOULD APPLY:</p>
-<p> </p>
-<p>Coalition Technologies is devoted to delivering clients the highest quality work while providing our team a fun, thriving, and innovative environment. Along with the opportunity for tremendous career growth and rapid advancement, CT offers:</p>
-<ul style="">
-<li style="">The most competitive profit-sharing bonus plan in the industry, paying up to 50% of company profits to full-time employees each month!</li>
-<li style="">A highly competitive Paid Time Off plan, promoting quality work-life balance.</li>
-<li style="">Subsidized gym memberships to help team members feel their best.</li>
-<li style="">Medical, dental, vision, and life insurance packages for all US-based team members.</li>
-<li style="">International Health Insurance Reimbursement Program for all international team members, a benefit unique to Coalition.</li>
-<li style="">Device upgrade and learning reimbursement programs.</li>
-<li style="">Motivating career development plans with clearly defined goals and rewards.</li>
-<li style="">Additional job-specific incentives and bonuses.</li>
-</ul>
-<p>Plus, 100% of our team works remotely with the support of time tracking software. Our company culture specializes in supporting remote team members, and we’ve been doing so for more than a decade. CT welcomes your application, wherever in the world it's coming from!</p>
-<p class="h3"> </p>
-<p class="h3">YOU SHOULD HAVE:</p>
-<p> </p>
-<ul style="">
-<li style="">An expertise in HTML5, CSS3 and jQuery</li>
-<li style="">A thorough understanding of cross-browser compatibility issues</li>
-<li style="">Experience with media queries</li>
-<li style="">A knowledge of CSS platforms such as Twitter’s Bootstrap</li>
-<li style="">An ability to multi-task on multiple projects and tasks at the same time</li>
-<li style="">Great attention to detail and be highly organized</li>
-<li style="">A positive and upbeat attitude with the ability to learn quickly</li>
-<li style="">Proficiency in PHP/MYSQL and AJAX (preferred)</li>
-<li style="">Experience with WordPress, BigCommerce, Magento, and Shopify (preferred)</li>
-<li style="">Excellent written and spoken English</li>
-<li style="">The availability to work 40 hours per week from 9:00 am to 6:00 pm PST</li>
-<li style="">The ability to adapt to a diverse and multicultural environment</li>
-<li style="">Passion to build a startup</li>
-<li style="">Reliable transportation if working in-house</li>
-<li style="">A reliable workstation with a fast computer, microphone and speakers, reliable internet and power if working remotely</li>
-</ul>
-<p class="h3"> </p>
-<p class="h3">YOUR DUTIES AND TASKS:</p>
-<p> </p>
-<ul style="">
-<li style="">Transforming complex layout PSDs into pixel-perfect presentation-layer HTML5/CSS3 templates</li>
-<li style="">Creating responsive website designs</li>
-<li style="">Building websites with WordPress, extending and developing plugins and themes</li>
-<li style="">Working with Photoshop, Illustrator, and Fireworks to create images optimized for the web</li>
-<li style="">Working with version control systems such as GIT / SVN</li>
-<li style="">Working under tight deadlines</li>
-<li style="">Handling multiple projects at the same time</li>
-<li style="">Producing high quality of work with a strong focus on detail</li>
-</ul>
-<p class="h5"> </p>
-<p class="h5">We are looking for talented and diligent candidates who excel in our skills tests, and will consider these candidates even if past experience or educational background criteria aren't met.</p><p class="h5"><br></p><p>*California, New York, Washington, and Colorado: starting base pay for this position ranges between $15 - $35 per hour.</p>
-<p>Compensation may vary based on factors such as experience, 
-qualifications, skills test performance, geographic location, and 
-seniority of the position offered. Outside of California, New York, 
-Washington, and Colorado compensation may fall outside the above ranges.</p>
-<img src="https://remotive.com/job/track/1680495/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -781,30 +781,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
                 <td width="300">
                     <h5>CloudLinux</h5>
-                    <h3>Middle/Senior Java Developer Remote/Work Anywhere</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/FF5A9ACE9C" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Are you a talented and passionate Java Developer? Join our team at CloudLinux and be a part of something amazing!</p><p>As the leading provider of the #1 OS for web-hosting providers, we take pride in developing innovative products that are used by thousands of companies worldwide.</p><p>In this role, you'll be an integral part of our Extended Lifecycle team. With your expertise in Java tools and fresh approach, you'll have the opportunity to make a significant impact by providing secure Java instrumentation for diverse Java-based environments.</p><p>What will you do in this role? Let's dive into the exciting details:</p><ul> <li>Your role will involve enhancing the security of Java and exploring its inner workings.</li> <li>You'll conduct research and run experiments to expedite the assembly of Java packages.</li> <li>Your work will result in a more secure Java environment, making development easier for others.</li> <li>You'll investigate vulnerabilities in Java and Java libraries, focusing on popular end-of-life versions.</li> <li>Your responsibilities will also include improving automation processes for dependency tree construction and project rebuilding.</li> </ul><p></p><h3>Requirements: </h3><p>To be successful you should have;</p><ul> <li>Over 4 years of expertise in software development</li> <li>Extensive hands-on experience and deep understanding of Java core, Spring boot, Spring data JPA, and Spring security</li> <li>Proficient with both noSQL (neo4j) and PostgreSQL databases</li> <li>Highly advantageous to have previous experience working with Gitlab as CI/CD</li> <li>Knowledge of repository management systems like Nexus will also be considered a plus</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
                     <h3>Senior Python Developer Remote / Work Anywhere</h3>
                 </td>
                 <td width="300">
@@ -845,54 +821,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>We have a fantastic opportunity for individuals who embody our company values:</p><ul> <li> <strong>Curious:</strong> Are you willing to explore, conduct research, and design experiments?</li> <li> <strong>Tenacious:</strong> Do you have the determination to persevere and never give up?</li> <li> <strong>Customer Passion:</strong> Are you passionate about providing solutions and staying ahead of malware developers?</li> <li> <strong>Design for Scale:</strong> Can you contribute to making web protection at scale achievable?</li> <li> <strong>Agile:</strong> Are you comfortable switching between researching and designing experiments and using your analytical skills to uncover real-time insights and address incidents?</li> <li> <strong>Roll Up Your Sleeves:</strong> Are you ready to collaborate closely with internal teams and succeed together?</li> </ul><p>If this describes you, then you have the potential to join our team and make a significant impact. As part of the role, you will:</p><ul> <li>Develop automation services using AI/ML/NLP and Large Language Model integrations to streamline our workflows.</li> <li>Design and prototype new algorithms with a touch of AI for code generation, code analysis, and code review.</li> <li>Review and enhance Python-based services and their CI/CD workflows.</li> </ul><p>By joining us, you will enjoy a range of benefits:</p><ul> <li> <strong>Independence in Action:</strong> Take ownership of projects from beginning to end, working autonomously.</li> <li> <strong>End-to-End Ownership:</strong> Oversee all aspects of a project, ensuring attention to detail and precision.</li> <li> <strong>Dynamic Environment:</strong> Thrive in a fast-paced, ever-changing setting, effectively managing multiple tasks.</li> <li> <strong>Quick Learners Welcome:</strong> Adapt to new information and skills with ease, embracing evolving challenges.</li> <li> <strong>Variety and Challenge:</strong> Engage in a diverse workload that offers continual learning opportunities.</li> </ul><h3>Requirements: </h3><p>To thrive in this role, you should possess:</p><ul> <li>At least 5 years of experience as a Python developer</li> <li>Proficiency in reviewing ANSI C source code</li> <li>Hands-on experience writing and reviewing code in a shared Python codebase</li> <li>Familiarity with CI/CD workflow using GitLab and git, including automated testing</li> <li>Comfortable working with the Linux command line</li> <li>Excellent English communication skills (spoken, written, and reading at C1 level or better)</li> <li>Expertise in LLM/NLP/ML is a plus</li> <li>Practical knowledge of SQL is a plus</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li> Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>C Developer Intern Remote/Work Anywhere</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/8E1D5B9866" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We are in search of exceptionally talented and highly motivated С Developer Interns to join our remarkable CloudLinux team. As an intern at CloudLinux, you'll be able to immerse yourself in С development, gaining hands-on experience and actively contributing to the evolution of our trailblazing projects.</p><p>CloudLinux thrives as a leading provider of Linux-based operating systems and security solutions specifically designed for web hosting providers. Our wide range of products, including the renowned CloudLinux OS, KernelCare, and Imunify360, are trusted and utilized by countless companies worldwide.</p><p>As a С Developer Intern, you'll be provided with the unique opportunity to partake in:</p><ul> <li>Working on real-world projects, making significant contributions to the advancement of our products</li> <li>Collaborating alongside our seasoned development team, learning valuable insights from industry professionals</li> <li>Gaining experience in crafting clean, efficient, and maintainable code</li> <li>Participating in code reviews, adhering to best practices</li> <li>Mastering the art of writing effective unit tests, ensuring the utmost quality in software development</li> <li>Receiving exposure to various facets of С development, such as backend development and system programming</li> </ul><p>This opportunity is a remote internship, enabling you to work from any location while enjoying a flexible schedule that suits your needs.</p><p>If you are a passionate individual yearning for practical experience in С development and the chance to contribute to projects that truly make a difference, we would be thrilled to hear from you!</p><p>Apply now to kick-start your extraordinary journey with CloudLinux!</p><p></p><p></p><p></p><p></p><p><br><br></p><h3>Requirements: </h3><ul> <li>Proficient in C programming and adept at debugging</li> <li>Skilled in using Git for development and managing patches and branches</li> <li>Experience with the GNU/Linux operating system (command-line interface) and shell scripting</li> <li>Familiarity with building the Linux kernel and effectively troubleshooting associated issues</li> <li>English proficiency at B1 level or above (excellent written communication is essential)</li> <li>Hungry for knowledge and highly self-motivated</li> <li>Final-year student or entry-level engineer with a solid foundation</li> </ul><h3>Benefits: </h3><p>What's in it for you?</p><ul> <li>Work on real project tasks in an Agile team</li> <li>A part-time role with 50% of your time dedicated to self-development (we'll provide a competency matrix and self-study materials)</li> <li>A dedicated mentor who's always ready to answer your questions</li> </ul><ul> <li>A focus on professional development;</li> <ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> <li>Flexible working hours</li> </ul>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Senior Kernel Developer for KernelCare - REMOTE/Work Anywhere</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/CA2FFA7C98" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We are seeking <strong>experienced Kernel Developers</strong> to join our talented team at KernelCare. If you are passionate about Linux and enjoy the challenge of developing Linux Kernels and patches, then this is the perfect opportunity for you. As a Senior Kernel Developer, you will utilize your strong C development skills and passion for Linux to create patches with a strong focus on cyber security. This role offers a rewarding and stimulating career where you can find solutions for our valued customers.</p><p>It's important to note that this is <strong>not</strong> an embedded Kernel role. At KernelCare, our product provides live kernel patching services that deliver security patches and bug fixes for a variety of popular Linux kernels, all without the need for system reboots. We are proud to be a part of CloudLinux Inc., the provider of the #1 OS in security and stability for hosting providers. For more information about our KernelCare Product, please visit our website: <a href="https://tuxcare.com/live-patching-services/" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com/live-patching-services/</a></p><p></p><p>We take pride in being an excellent workplace, which is why KernelCare offers a great work environment. As a Senior Kernel Developer, you will have several key responsibilities:</p><ul> <li>Provide support for existing functionality and implement new features</li> <li>Ensure the timely update of existing kernels with security fixes and CVEs patches</li> <li>Create and maintain Python and Bash scripts for task automation</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role you should have:</strong></p><ul> <li>Strong proficiency in C programming and exceptional debugging skills</li> <li>Thorough understanding of Linux kernel core subsystems</li> <li>In-depth knowledge of CPU and cache architectures</li> <li>Extensive experience with GDB and other debuggers</li> <li>Expertise in CPU performance and power analysis</li> <li>Highly independent and self-motivated problem solver and strategic thinker</li> <li>Proficient in Git for development, patch management, and branch management</li> <li>Strong planning, time management, decision-making, presentation, and organizational abilities</li> <li>Exceptional written and verbal communication skills</li> <li>Excellent interpersonal abilities and a strong team player</li> <li>Thrives in an agile, fast-paced environment</li> <li>Experience with Python and shell scripting</li> <li>Prior exposure to Jenkins would be advantageous</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong><br></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li> Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p></p><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
                 </details>
                 </td>
             </tr>,<tr>
