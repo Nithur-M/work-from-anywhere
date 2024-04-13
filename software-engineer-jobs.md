@@ -19,10 +19,14 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>Hi, we’re DuckDuckGo, the Internet privacy company for everyone who wants to take back their privacy now. For over a decade, we've been building our all-in-one product, developing new privacy technology, and working with policymakers to make online privacy simple and accessible for all.  </p>
+                <p>Hi, we’re DuckDuckGo, the Internet privacy company for everyone who wants to take back their privacy now. For over a decade, we've been building our all-in-one product, developing new privacy technology, and working with policymakers to make online privacy simple and accessible for all.  <br /></p>
 <p><br /></p>
-<p>Our app is now downloaded more than 78M times a year, and our private search engine packaged with it has become the #2 search engine on mobile in the United States and 18 other countries, including the United Kingdom, Canada, Australia, Germany, and the Netherlands. Oh, and we've been profitable since 2014, with revenue exceeding $100 million a year! Now, we’re rolling out a suite of new privacy solutions, including <u><a target="_blank" rel="noopener" href="https://www.spreadprivacy.com/introducing-email-protection-beta/">Email Protection</a></u>,  <u><a target="_blank" rel="noopener" href="https://spreadprivacy.com/introducing-app-tracking-protection/">App Tracking Protection</a></u> and our first-ever Desktop Apps for <u><a target="_blank" rel="noopener" href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/">Mac</a></u><a target="_blank" rel="noopener" href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/"> </a>and <u><a target="_blank" rel="noopener" href="https://spreadprivacy.com/windows-browser-open-beta/">Windows</a></u>.</p>
+<p>Our browsers and extensions have been downloaded over 250 million times with our built-in private search engine, which has seen over 100 billion searches and is the 2nd largest search engine on mobile in the United States and 17 other countries, including the United Kingdom, Canada, Australia, Germany, Poland, and Spain. Our private search engine is also 3rd in market share in the U.S. and over 20 major markets. Oh, and we've been profitable since 2014, with annual revenue exceeding $100 million!</p>
 <p><br /></p>
+<p>The DuckDuckGo browser’s uniquely comprehensive privacy protections are used by tens of millions of people to protect their everyday online activities on <a href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/" rel="noopener">Mac</a>, <a href="https://spreadprivacy.com/windows-browser-open-beta/" rel="noopener">Windows</a>, <a href="https://spreadprivacy.com/duckduckgo-privacy-browser-ios14/" rel="noopener">iOS</a>, and <a href="https://spreadprivacy.com/duckduckgo-2021-review/" rel="noopener">Android</a>, from searching to browsing, emailing, and more. We also offer <a href="https://spreadprivacy.com/meetprivacypro/" rel="noopener">Privacy Pro</a>, a three-in-one subscription service that includes a VPN, Personal Information Removal, and Identity Theft Restoration.</p>
+<p><br /></p>
+
+
 <p>We’re looking for a <strong><strong>Senior Software Engineer, Windows Desktop App</strong></strong> to help shape our all-in-one privacy solution and join our mission to show the world that protecting your privacy online can be simple.  </p>
 <p><br /></p>
 <p><strong>The Opportunity</strong> </p>
@@ -673,6 +677,92 @@
 <h2>Canonical is an equal opportunity employer</h2>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
 <p>&nbsp;#LI-remote</p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Python and Kubernetes Software Engineer - Data, AI/ML & Analytics</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/5703396" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1000+ colleagues in 70+ countries and very few roles based in offices. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.</p>
+<p>The company is founder led, profitable and growing. We are hiring&nbsp;<strong>Python and Kubernetes Specialist Engineers focused on Data, AI/ML and Analytics Solutions </strong>to join our teams building open source solutions for public cloud and private infrastructure.</p>
+<p>As a software engineer on the team, you'll collaborate on an end-to-end data analytics and mlops solution composed of popular, open-source, machine learning tools, such as Kubeflow, MLFlow, DVC, and Feast. You may also work on workflow, ETL, data governance and visualization tools like Apache SuperSet, dbt, and Temporal, or data warehouse solutions such as Apache Trino, or ClickHouse. Your team will own a solution from the analytics and machine learning space, and integrate with the solutions from other teams to build the world's best end-to-end data platform. These solutions may be run on servers or on the cloud, on machines or on Kubernetes, on developer desktops, or as web services.</p>
+<p>We serve the needs of individuals and community members as much as the needs of our Global 2000 and Fortune 500 customers; we make our primary work available free of charge and our Pro subscriptions are also available to individuals for personal use at no cost. Our goal is to enable more people to enjoy the benefits of open source, regardless of their circumstances.</p>
+<p><strong>Location: </strong>This initiative spans many teams that are home-based in EMEA, Americas and APAC time zones, so we can accommodate candidates in almost any location. We believe in distributed collaboration but we also try to ensure that colleagues have company during their work hourse! Successful candidates will join a team where most members and your manager are broadly in the same time zone so that you have the benefits of constant collaboration and discussion.</p>
+<p><strong>What your day will look like</strong></p>
+<ul>
+<li>Develop your understanding of the entire Linux stack, from kernel, networking, and storage, to the application layer</li>
+<li>Design, build and maintain solutions that will be deployed on public and private clouds and local workstations</li>
+<li>Master distributed systems concepts such as observability, identity, tracing</li>
+<li>Work with both Kubernetes and machine-oriented open source applications</li>
+<li>Collaborate proactively with a distributed team of engineers, designers and product managers</li>
+<li>Debug issues and interact in public with upstream and Ubuntu communities</li>
+<li>Generate and discuss ideas, and collaborate on finding good solutions</li>
+</ul>
+<p><strong>What we are looking for in you</strong></p>
+<ul>
+<li>Professional or academic software delivery using Python or Golang</li>
+<li>Exceptional academic track record from both high school and university</li>
+<li>Undergraduate degree in a technical subject or a compelling narrative about your alternative chosen path</li>
+<li>Confidence to respectfully speak up, exchange feedback, and share ideas without hesitation</li>
+<li>Track record of going above-and-beyond expectations to achieve outstanding results</li>
+<li>Passion for technology evidenced by personal projects and initiatives</li>
+<li>The work ethic and confidence to shine alongside motivated colleagues</li>
+<li>Professional written and spoken English with excellent presentation skills</li>
+<li>Experience with Linux (Debian or Ubuntu preferred)&nbsp;</li>
+<li>Excellent interpersonal skills, curiosity, flexibility, and accountability</li>
+<li>Appreciative of diversity, polite and effective in a multi-cultural, multi-national organisation</li>
+<li>Thoughtfulness and self-motivation&nbsp;</li>
+<li>Result-oriented, with a personal drive to meet commitments&nbsp;</li>
+<li>Ability to travel twice a year, for company events up to two weeks long</li>
+</ul>
+<p><strong>Additional skills that would be nice to have<br></strong></p>
+<p>The following skills may be helpful to you in the role, but we don't expect everyone to bring all of them.</p>
+<ul>
+<li>Hands-on experience with machine learning libraries, or tools.</li>
+<li>Proven track record of building highly automated machine learning solutions for the cloud.</li>
+<li>Experience with container technologies (Docker, LXD, Kubernetes, etc.)</li>
+<li>Experience with public clouds (AWS, Azure, Google Cloud)</li>
+<li>Working knowledge of cloud computing</li>
+<li>Passionate about software quality and testing</li>
+<li>Experience working on an open source project</li>
+</ul>
+<h3>What we offer colleagues</h3>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues</li>
+<li>Priority Pass, and travel upgrades for long haul company events</li>
+</ul>
+<h3>About Canonical</h3>
+<p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p>
+<p><strong>Canonical is an equal opportunity employer</strong></p>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote</p>
     
                 </details>
                 </td>
