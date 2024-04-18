@@ -10,7 +10,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -87,7 +87,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                     <code>api,backend,django,docker</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/experienced-python-web-application-developer-1906222" align="right" target="_blank">Apply</a>
@@ -159,7 +159,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                     <code>accounting,fullstack,javascript,php</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/founding-cto-lead-developer-1903636" align="right" target="_blank">Apply</a>
@@ -222,112 +222,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 &lt;/ul&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;By applying for this position, you are agreeing to &lt;a href=&quot;https://www.timescale.com/legal/timescale-applicant-privacy-notice&quot;&gt;Timescale&#39;s Applicant Privacy Notice.&amp;nbsp;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1428393724527190022/4mt5PACL_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Sourcegraph</h5>
-                    <h3>Developer Advocate - based in San Francisco, CA [IC2]</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/sourcegraph91/jobs/4913314004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
-<h2><strong><span style="color: #a112ff;">Who we are</span></strong></h2>
-<p>Our mission at Sourcegraph is to make it so that&nbsp;<a class="c-link" href="https://handbook.sourcegraph.com/strategy-goals/strategy" target="_blank" data-stringify-link="https://handbook.sourcegraph.com/strategy-goals/strategy" data-sk="tooltip_parent">everyone can code</a>, not just ~0.1% of the population. Our code graph powers Cody, the most powerful and accurate AI coding assistant, as well as our Code Search product, which helps devs explore their entire codebase and make large-scale migrations and security fixes. We’re building software that builds software, and in doing so we’re making devs more productive and preparing for a world where a lot more code gets written.</p>
-<p>It’s an exciting time to join Sourcegraph. AI has taken over the world, and we’ve spent the last 10 years building infrastructure that’s integral to making AI generated code more powerful and accurate. Our customers include 4/5 FAANG companies, 4 of the top 10 banks, government organizations, Uber, Plaid, and many other companies building the software that pushes the world forward. We’ve raised $225M at a $2.625B valuation from <a class="c-link" href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" target="_blank" data-stringify-link="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" data-sk="tooltip_parent">a16z</a>,&nbsp;<a class="c-link" href="https://about.sourcegraph.com/blog/series-c-with-sequoia/" target="_blank" data-stringify-link="https://about.sourcegraph.com/blog/series-c-with-sequoia/" data-sk="tooltip_parent">Sequoia</a>,&nbsp;<a class="c-link" href="https://www.redpoint.com/companies/sourcegraph/" target="_blank" data-stringify-link="https://www.redpoint.com/companies/sourcegraph/" data-sk="tooltip_parent">Redpoint</a>,&nbsp;<a class="c-link" href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" target="_blank" data-stringify-link="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" data-sk="tooltip_parent">Craft</a>&nbsp;and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</p></div>
-
-    <h2><span style="color: rgb(161, 18, 255);"><strong>Working hours</strong></span></h2>
-<p>🌎 While we are an all-remote company and hire <a href="https://handbook.sourcegraph.com/departments/people-ops/process/how-we-engage-talent-outside-the-us/">almost anywhere</a> in the world, we require the successful candidate for this role to reside in San Francisco, California. Regular attendance at weekly Developer and AI events in the city is an essential aspect of this position.</p>
-<p><strong>Preferred locations:</strong></p>
-<ul>
-<li>Remote - San Francisco, California</li>
-</ul>
-<h2><span style="color: rgb(161, 18, 255);"><strong>Why this job is exciting</strong></span></h2>
-<p><a href="https://about.sourcegraph.com/cody?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=19895311885&amp;utm_term=sourcegraph%20cody&amp;gclid=CjwKCAjw0ZiiBhBKEiwA4PT9z9jbT-6ncbQS5bLcQHfuIy9Je5bCogDwICrbbZ8Z9TkwiKkenGMuFRoCptEQAvD_BwE">Cody</a> is the best AI coding assistant today, and you'll get to help build it and get it in the hands of millions of devs. (It's also open source and built in public.) AI applied to software engineering will change the world more than any single other technology. We're perfectly positioned to keep building the best coding AI because of our large-scale, deep understanding of code inside the most advanced companies in the world and across the world of public code.</p>
-<p>As a Developer Advocate, you will spend 75% of your time engaging with Developers at events in-person and 25% of your time creating content and recording videos.</p>
-<h2><span style="color: rgb(161, 18, 255);"><strong>Job responsibilities</strong></span></h2>
-<ul>
-<li>Attend 1-3 meet-ups and events in San Francisco weekly</li>
-<li>Represent our user community within Sourcegraph</li>
-<li>Build apps with Cody in public</li>
-<li>Build integrations on top of Cody (such as teaching Cody how to use and gather information from other dev tools, including logging, perf, etc., tools)</li>
-<li>Livestream and record demos of what you build, for Twitter, YouTube, Twitch, etc.</li>
-<li>Be an incredibly helpful and inspirational member of our dev community yourself and help grow it</li>
-<li>Write awesome technical blog posts</li>
-<li>Promote Sourcegraph on social media</li>
-<li>Help connect our user community growth to our product-led growth engine</li>
-<li>Overall, help define what dev advocacy means at Sourcegraph</li>
-</ul>
-<h2><span style="color: rgb(161, 18, 255);"><strong>Skills and experience</strong></span></h2>
-<p>Your skill-set:</p>
-<ul>
-<li>You are intrinsically motivated by Sourcegraph’s mission and <a href="https://about.sourcegraph.com/cody?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=19895311885&amp;utm_term=sourcegraph%20cody&amp;gclid=CjwKCAjw0ZiiBhBKEiwA4PT9z9jbT-6ncbQS5bLcQHfuIy9Je5bCogDwICrbbZ8Z9TkwiKkenGMuFRoCptEQAvD_BwE">Cody</a>.&nbsp;</li>
-<li>Experience as a software engineer or prolific coding</li>
-<li>TypeScript skills (<a href="https://sourcegraph.com/github.com/sourcegraph/sourcegraph/-/tree/client/cody">Cody's code</a> is open source)</li>
-<li>Able to communicate technical concepts in a simple and engaging way</li>
-<li>Experience creating high-quality technical writing and videos</li>
-<li>Experience working in a high-agency environment that requires ownership</li>
-</ul>
-<p>&nbsp;Bonus Points:</p>
-<ul>
-<li>You’ve established a strong following on social media platforms</li>
-</ul>
-<h2><span style="color: rgb(161, 18, 255);"><strong>Level</strong></span></h2>
-<p>This job is an IC2-IC3.&nbsp; You can read more about <a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/leveling-guide/">our job leveling philosophy</a> in our Handbook.</p>
-<h2><span style="color: rgb(161, 18, 255);"><strong>Compensation</strong></span></h2>
-<p><strong>💸 We pay you an above-average salary</strong> because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. As an <a href="https://handbook.sourcegraph.com/company-info-and-process/values/#sts=Open%20and%20transparent">open and transparent</a> company that values competitive compensation, our <a href="https://handbook.sourcegraph.com/benefits-pay-perks/pay-expenses/compensation/">compensation ranges are visible</a> to every single Sourcegraph teammate. To determine your salary, we use a number of market and data-driven salary sources, along with your location zone, and target the high-end of the range to ensure we’re always paying above market regardless of where you live in the world.&nbsp;&nbsp;</p>
-<p>💰 The target compensation for this role is $130,300 - $159,000 USD (depending on level &amp; location).&nbsp;&nbsp;</p>
-<p>📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous <a href="https://handbook.sourcegraph.com/benefits-pay-perks/benefits-perks/">perks &amp; benefits</a>.</p>
-<h2><strong><span style="color: #8c33ec;">Interview process</span>&nbsp;</strong></h2>
-<p><em><span style="font-weight: 400;">Below is the interview process you can expect for this role (you can read more about </span></em><a href="https://handbook.sourcegraph.com/talent/types_of_interviews"><em><span style="font-weight: 400;">the types of interviews</span></em></a><em><span style="font-weight: 400;"> in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&nbsp;</span></em></p>
-<p><span style="font-weight: 400;">We expect the interview process to take 4.5</span><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;">hours in total.</span><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;"><br><br></span></p>
-<p><strong>👋 Introduction Stage</strong><span style="font-weight: 400;"> - we have initial conversations to get to know you better…</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#recruiter-screen"><span style="font-weight: 400;">Recruiter Screen</span></a><span style="font-weight: 400;"> with Kelsey Nagel</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#hiring-manager-screen"><span style="font-weight: 400;">Hiring Manager Screen</span></a> with Ado Kukic</li>
-</ul>
-<p><strong>🧑‍💻 Team Interview Stage</strong><span style="font-weight: 400;"> - we then delve into your experience in more depth and introduce you to members of the team…</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[60m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#resume-deep-dive"><span style="font-weight: 400;">Resume Deep Dive</span></a> with Kelsey Nagel and Ado Kukic</li>
-<li>[60m]&nbsp;<a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#developer-relations-working-session">Working Session</a>&nbsp;with Alex Isken, Justin Dorfman, Raman Sharma, Beyang Liu, Ado Kukic, Amie Rotherham</li>
-<li>[45m]&nbsp;<a href="https://about.sourcegraph.com/handbook/talent/types_of_interviews#cross-functional-team-collaboration-interview">Cross-functional team collaboration</a>&nbsp;with Justin Dorfman and Amie Rotherham&nbsp;</li>
-</ul>
-<p><strong>🎉 Final Interview Stage </strong><span style="font-weight: 400;">- we move you to our final round, where you meet cross-functional partners and gain a better understanding of our business and values holistically…</span></p>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#values-interview"><span style="font-weight: 400;">Values Interview</span></a></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">[30m] </span><a href="https://handbook.sourcegraph.com/departments/people-talent/talent/process/types_of_interviews/#leadership-interview"><span style="font-weight: 400;">Leadership Interview</span></a><span style="font-weight: 400;"> with Quinn Slack or Beyang Liu&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">We check references and conduct your background check</span></li>
-</ul>
-<p><span style="font-weight: 400;">Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process. You can learn more about the team&nbsp;<a href="https://handbook.sourcegraph.com/team/">here</a>.&nbsp;</span></p>
-
-    
-
-    <div class="content-conclusion"><h2><strong><span style="color: #a112ff;">Not sure if this is you?</span></strong></h2>
-<p><span style="font-weight: 400;">We want a diverse, global team, with a broad range of experience and perspectives. If this job sounds great, but you’re not sure if you qualify, apply anyway! We carefully consider every application, and will either move forward with you, find another team that might be a better fit, keep in touch for future opportunities, or thank you for your time.</span></p>
-<h2><strong><span style="color: #a112ff;">Learn more about us</span></strong></h2>
-<p><span style="font-weight: 400;">To create a product that serves the needs of all developers, we are building a diverse </span><a href="https://handbook.sourcegraph.com/company-info-and-process/remote"><span style="font-weight: 400;">all-remote team</span></a><span style="font-weight: 400;"> that is </span><a href="https://handbook.sourcegraph.com/team"><span style="font-weight: 400;">distributed across the world</span></a><span style="font-weight: 400;">. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.&nbsp;</span></p>
-<p><span style="font-weight: 400;">We provide </span><a href="https://about.sourcegraph.com/handbook/people-ops/compensation"><span style="font-weight: 400;">competitive compensation</span></a><span style="font-weight: 400;"> and </span><a href="https://about.sourcegraph.com/handbook/people-ops/benefits-and-perks"><span style="font-weight: 400;">practical benefits</span></a><span style="font-weight: 400;"> to keep you happy and healthy so that you can do your best work.&nbsp;</span><span style="font-weight: 400;">&nbsp;</span></p>
-<p><span style="font-weight: 400;">Learn more about what it is like to work at Sourcegraph by reading </span><a href="https://about.sourcegraph.com/handbook/"><span style="font-weight: 400;">our handbook</span></a><span style="font-weight: 400;">.</span></p>
-<p><span style="font-weight: 400;">We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process.</span></p>
-<p><span style="font-weight: 400;">Go back to the </span><a href="https://about.sourcegraph.com/jobs/"><span style="font-weight: 400;">careers page</span></a><span style="font-weight: 400;"> for all open positions.</span></p>
-<p>&nbsp;</p>
-<p><em><span style="font-weight: 400;">Sourcegraph participates in <a href="https://handbook.sourcegraph.com/departments/people-talent/e-verify/" target="_blank">E-Verify</a> for U.S. Employees</span></em></p></div>
-
                 </details>
                 </td>
             </tr>,<tr>
@@ -821,30 +715,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>We have a fantastic opportunity for individuals who embody our company values:</p><ul> <li> <strong>Curious:</strong> Are you willing to explore, conduct research, and design experiments?</li> <li> <strong>Tenacious:</strong> Do you have the determination to persevere and never give up?</li> <li> <strong>Customer Passion:</strong> Are you passionate about providing solutions and staying ahead of malware developers?</li> <li> <strong>Design for Scale:</strong> Can you contribute to making web protection at scale achievable?</li> <li> <strong>Agile:</strong> Are you comfortable switching between researching and designing experiments and using your analytical skills to uncover real-time insights and address incidents?</li> <li> <strong>Roll Up Your Sleeves:</strong> Are you ready to collaborate closely with internal teams and succeed together?</li> </ul><p>If this describes you, then you have the potential to join our team and make a significant impact. As part of the role, you will:</p><ul> <li>Develop automation services using AI/ML/NLP and Large Language Model integrations to streamline our workflows.</li> <li>Design and prototype new algorithms with a touch of AI for code generation, code analysis, and code review.</li> <li>Review and enhance Python-based services and their CI/CD workflows.</li> </ul><p>By joining us, you will enjoy a range of benefits:</p><ul> <li> <strong>Independence in Action:</strong> Take ownership of projects from beginning to end, working autonomously.</li> <li> <strong>End-to-End Ownership:</strong> Oversee all aspects of a project, ensuring attention to detail and precision.</li> <li> <strong>Dynamic Environment:</strong> Thrive in a fast-paced, ever-changing setting, effectively managing multiple tasks.</li> <li> <strong>Quick Learners Welcome:</strong> Adapt to new information and skills with ease, embracing evolving challenges.</li> <li> <strong>Variety and Challenge:</strong> Engage in a diverse workload that offers continual learning opportunities.</li> </ul><h3>Requirements: </h3><p>To thrive in this role, you should possess:</p><ul> <li>At least 5 years of experience as a Python developer</li> <li>Proficiency in reviewing ANSI C source code</li> <li>Hands-on experience writing and reviewing code in a shared Python codebase</li> <li>Familiarity with CI/CD workflow using GitLab and git, including automated testing</li> <li>Comfortable working with the Linux command line</li> <li>Excellent English communication skills (spoken, written, and reading at C1 level or better)</li> <li>Expertise in LLM/NLP/ML is a plus</li> <li>Practical knowledge of SQL is a plus</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li> Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://scontent.fcmb4-2.fna.fbcdn.net/v/t39.30808-6/273499217_5218973671480777_3308731762242867065_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=YDi_Wd17RD8AX9wXcyR&_nc_zt=23&_nc_ht=scontent.fcmb4-2.fna&oh=00_AfB4sOOYpj6VyDSuvvuqhVnZbH22m89SqG99HwaOa-uslw&oe=65BE4336" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Wishpond</h5>
-                    <h3>PHP DEVELOPER - 100% Remote !</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/wishpond/dfe51441-46d3-42df-a30a-670edacbadef" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b style="font-size: 18px">Wishpond Technologies currently has the position of PHP DEVELOPER available and we’re excited to tell you about it !</b></div><div><br></div><div><br></div><div><b style="font-size: 22px">OVERVIEW</b></div><div><span style="font-size: 15px">We are searching for a PHP DEVELOPER to join our team on a full-time basis.&nbsp; This is a fully remote position, and the successful individual could be based anywhere in the world. You will work with an amazing team, building relationships and ensuring the products and services offered by Wishpond are utilized by clients throughout Canada and the US. In collaboration with the Development Department, the PHP Developer is responsible for the success of Wishpond Technologies Ltd.</span></div><div>&nbsp;</div><div><br></div><div><b style="font-size: 18px">RESPONSIBILITIES</b></div><div>• <span style="font-size: 15px">Write effective and scalable code using a variety of languages including PHP and Javascript</span></div><div>• <span style="font-size: 15px">Build components for web applications</span></div><div>• <span style="font-size: 15px">Test applications for performance, responsiveness, and security</span></div><div>• <span style="font-size: 15px">Review and debug code</span></div><div>• <span style="font-size: 15px">Integrate data storage and data processing solutions</span></div><div>• <span style="font-size: 15px">Build, install, and share libraries and plugins</span></div><div>• <span style="font-size: 15px">Create automated test scripts</span></div><div>• <span style="font-size: 15px">Improve, monitor, and maintain applications after deployment</span></div><div>• <span style="font-size: 15px">Coordinate with team members who work on different layers of infrastructure</span></div><div>• <span style="font-size: 15px">Other duties as assigned</span></div><div><br></div><div><b style="font-size: 18px">QUALIFICATIONS</b></div><div>• A minimum of 4 years of PHP (Laravel) experience</div><div>• A minimum of 3 years with Javascript and frameworks such as Angularjs, ReactJS, or VueJS</div><div>• Solid database experience, preferably with MySQL</div><div>•  <span style="font-size: 15px">A degree or diploma that contributes to the organization or role is considered an asset</span></div><div>• <span style="font-size: 15px">Must be very detail-oriented, creative, and have a passion for helping others achieve their goals</span></div><div>• <span style="font-size: 15px">Self-motivated with the ability to establish and maintain solid relationships through a client-first mentality&nbsp;</span></div><div>• <span style="font-size: 15px">As part of a diverse team, ability to work both independently and collaboratively in a fast-paced, results-oriented environment</span></div><div>• <span style="font-size: 15px">Must be&nbsp;technical, and analytical, and have the ability to manage complex projects seamlessly</span></div><div>• <span style="font-size: 15px">Organized, administratively strong, great time management, and have solid writing, phone, and general communication skills</span></div><div>• <span style="font-size: 15px">Fluent in English (spoken and written). Knowledge of a second language is considered an asset</span></div><div>• <span style="font-size: 15px">Willing to participate in ongoing education and training for the role</span></div><div><br></div><div><br></div><div><b style="font-size: 18px">WORK ENVIRONMENT&nbsp;/ BACKGROUND VERIFICATION</b></div><div>• Given the nature of this role, it is expected that the successful candidate will provide their own workstation, computer, headset, and have a fast and reliable internet connection.&nbsp;Certain roles will be required to utilize and or download company-approved software.</div><div>• The successful candidate is expected to work either Pacific (PT) or Eastern Time Zones (ET) </div><div>• <span style="font-size: 15px">Due to the nature of this role, we may verify backgrounds, including conducting employment references, criminal records, and credit checks.</span></div><div><span style="font-size: 15px">&nbsp;</span>• <span style="font-size: 15px">Once hired, the successful candidate must provide a copy of valid governmental photo ID and proof of residential address as part of their onboarding process</span></div><div><br></div><div><b style="font-size: 18px">GREAT REASONS TO APPLY FOR THIS ROLE</b></div><div>• &nbsp;<span style="font-size: 15px">Fully remote position allowing you to </span><b style="font-size: 15px">work from your home anywhere in the world !</b></div><div>•  <span style="font-size: 15px">Exciting and dynamic environment with a great leadership team&nbsp;</span></div><div>•  <span style="font-size: 15px">Comprehensive training program and regular performance reviews to facilitate your success</span></div><div>•  <span style="font-size: 15px">Competitive compensation based on experience and proven abilities</span></div><div>•  <span style="font-size: 15px">Great referral programs with incentives and bonuses</span></div><div>•  <span style="font-size: 15px">Unbelievable product discounts when you use our products for your own business</span></div><div>•  <span style="font-size: 15px">A global workforce of multi-cultural and talented colleagues&nbsp;</span></div><div>•  <span style="font-size: 15px">A close-knit operation with amazing growth opportunities for your personal development</span></div><div>•  <span style="font-size: 15px">A high growth SaaS technology company publicly traded on the TSX Venture Exchange</span></div><div>•  <span style="font-size: 15px">Corporate headquarters in beautiful Vancouver, British Columbia, Canada</span></div><div>•  <span style="font-size: 15px">Access to our education credits program and so much more !</span></div><div><br></div><div><b style="font-size: 18px">ABOUT US</b></div><div>Founded in 2009, Wishpond is a rapidly growing technology company providing digital marketing solutions targeted at small businesses.&nbsp; The cloud-based platform includes landing pages, social promotions, website pop-ups, online forms, and lead activity tracking. Wishpond has a dedicated team of professional project managers, designers, copywriters, and developers who provide marketing services tailored to our individual clients.</div><div>&nbsp;</div><div>Wishpond serves over 3,000 customers in various industries and sizes, from startups to large Fortune 500 companies. Wishpond has a rapidly growing global headcount and continues to hire dedicated and qualified employees and contractors who have what it takes to scale a successful software company.</div><div><br></div><div>To learn more about Wishpond Technologies, please visit our website or any of our social media platforms:</div><div><br></div><div>• Website: <a href="http://www.wishpond.com/" class="postings-link">www.wishpond.com</a></div><div>• Instagram: @wishpondofficial</div><div>• Twitter: Wishpond</div><div>• Youtube: Thewishpond</div><div>• LinkedIn : Wishpond</div><div><br></div><div><b style="font-size: 18px">APPLICATION PROCESS</b></div><div><b>If you are interested in applying for this exciting opportunity, please provide an updated resume IN ENGLISH (PDF or Word formats only), quoting the position title in the subject line of your cover letter</b></div><div>&nbsp;<b>&nbsp;</b></div><div>Wishpond Technologies is an equal-opportunity employer committed to hiring a diverse workforce and sustaining an inclusive culture that does not discriminate on the basis of disability, status, or any other basis protected under legislation</div><div>&nbsp;</div><div>We thank all applicants in advance for their interest in this position however due to the volume of applications we receive, we are unable to respond to phone, email, or agency inquiries.</div>
                 </details>
                 </td>
             </tr>,<tr>
