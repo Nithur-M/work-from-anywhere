@@ -10,7 +10,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -87,7 +87,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                     <code>api,backend,django,docker</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/experienced-python-web-application-developer-1906222" align="right" target="_blank">Apply</a>
@@ -145,31 +145,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <li style="">Professional Development: Benefit from generous professional development options.</li>
 </ul>
 <img src="https://remotive.com/job/track/1906222/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1903636/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Webicient</h5>
-                    <h3>Founding CTO / Lead Developer</h3>
-                </td>
-                <td width="300">
-                    <code>accounting,fullstack,javascript,php</code>
-                </td>
-                <td width="200">
-                <text>27 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/founding-cto-lead-developer-1903636" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Are you seeking a role that combines your love for technology with the thrill of creative innovation? Do you envision waking up each day feeling passionate about your work, knowing you're making a tangible difference? Welcome to Webicient, where your dream job awaits!</p><p><br></p><p><strong>Discover Webicient:</strong></p><p>At Webicient, we're not just a Createch agency; we're a hub of creativity and technical mastery. Our mission is to empower ambitious businesses with ingenious and practical solutions. Imagine a world where creativity and tech are seamlessly integrated, accessible, and lightning-fast – that's the world we're building.</p><p><br></p><p>Our cutting-edge SaaS platform streamlines the process for our clients, offering bespoke createch services, complemented by the expertise of our dedicated project managers.</p><p><br></p><p><strong>Join Us as a CTO / Lead Developer:</strong></p><p>We're on the hunt for a Lead Developer, someone who's not just a participant but a pacesetter in our journey. Here's what your role will entail:</p><p></p><ul style=""><li style="">Becoming a guiding light in production, inspiring fellow developers.</li><li style="">Propelling our teams towards groundbreaking achievements, while offering a wealth of knowledge for all developmental discussions.</li><li style="">Crafting the blueprint for our DevOps strategies, ensuring that our development processes are ever-evolving.</li><li style="">Harmonizing our production methods, anchoring our growth strategy.</li><li style="">Pioneering our technical vision and strategy, making sure our technology solutions align not only with our current objectives but also scale with our ambitious future.</li></ul><p><br></p><p><strong>We Need You to Bring:</strong></p><p></p><ul style=""><li style="">A proven track record of assembling and nurturing development teams.</li><li style="">A minimum of 6 years in full-stack development, with a strong focus on PHP and JavaScript (React, Next.JS).</li><li style="">A knack for precise project estimation, accounting for potential risks.</li><li style="">The talent to deconstruct larger tasks into manageable, estimable units.</li><li style="">An in-depth understanding of DevOps processes.</li><li style="">A BSc degree (or equivalent) in Computer Science.</li><li style="">Expertise in CMS and Headless architectures.</li><li style="">The agility to thrive in dynamic, fast-paced settings.</li><li style="">A commitment to not just work with us but to be an integral part of our visionary journey.</li><li style="">Experience in Sanity (Not a must but a bonus!)</li></ul><p><br></p><p><strong>What's in It for You:</strong></p><p></p><ul style=""><li style="">A transformative role where personal growth is a reality.</li><li style="">Generous paid vacation to ensure work-life balance.</li><li style="">An organizational culture that treasures its team.</li><li style="">A platform where your ideas are not only heard but valued and implemented.</li></ul><p><br></p><p>At Webicient, you're not just joining a company; you're becoming a part of a revolution. Are you ready to make your mark? Join us and elevate your career to new heights, as we stride towards becoming a tier-1 agency on the global stage!</p>
-<img src="https://remotive.com/job/track/1903636/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -250,6 +225,75 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p>Experience with full-stack web development, Python, PostgreSQL, and Linux is required. Competency or interest in data visualization, UI, UX, and design are desired.</p>
 <p>Why Join MixRank? Fully-remote, no HQ office. Team of 32 people across 15+ countries Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
 <p>Please include your updated resume when applying for this role.</p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/966759182589308928/s5rZXoWk_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
+                    <h3>Senior Frontend Developer (JS, Typescript, React)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=5567968&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol; the p2p communication layer for Web3.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <div class="careers-block__trix external-panel text-left">
+<p><strong>The role:</strong></p>
+<p>We are looking for an experienced React developer to join a small, fully asynchronous team, who will take ownership of certain web-related areas at Status. Your role will not only involve translating high-level designs into production-ready UI, but also collaborating with colleagues across the stack to deliver new features.&nbsp;</p>
+<p>Our stack is built on modern foundations – a monorepo powered by TypeScript, React, Storybook, Vite, Vitest, Playwright, ESLint, Prettier, Yarn Workspaces, and Turborepo. As we work in the open and are fully open-source, you can get a better idea of who we are and the work we are doing by browsing our <a href="https://github.com/status-im/status-web">Status Web</a> repository. We strive to build solid foundations that will enable us to continuously make progress. We don't expect you to have a background in everything we use, but we do expect strong JavaScript fundamentals and experience working with React and TypeScript.</p>
+<p>We function as generalists, often undertaking a variety of challenges, and deeply care about the quality of our work. We look forward to collaborating with experienced individuals who can operate independently, make important decisions, and take ownership.</p>
+<p><strong>Key responsibilities:&nbsp;</strong></p>
+<ul>
+<li>Building new features with beautiful and scalable UI components from start to finish</li>
+<li>Building and maintaining the new React implementation of Status’ design system</li>
+<li>Collaborating with other people across the teams</li>
+<li>Gathering feedback from users and developers to better understand their needs</li>
+</ul>
+<p><strong>You ideally will have:</strong></p>
+<ul>
+<li>Clear and effective communication skills, both verbally and written</li>
+<li>Thoughtful and pragmatic problem-solving</li>
+<li>5+ years of software engineering experience, with 3+ years of experience with React</li>
+<li>Experience writing modern, performant, and accessible React code&nbsp;</li>
+<li>Strong knowledge of JavaScript, and ideally TypeScript</li>
+<li>Prior experience creating a component library</li>
+</ul>
+<p><strong>Hiring process:</strong></p>
+<p><em>The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline.&nbsp;</em></p>
+<ul>
+<li>Call with Talent</li>
+<li>Technical interview</li>
+<li>Live coding interview</li>
+<li>Interview with Design&nbsp;</li>
+</ul>
+<p><strong>Compensation:</strong></p>
+<p>The expected compensation range for this role is negotiable, dependent on how we assess your skills and experience throughout our interview process. We are happy to pay in any mix of fiat/crypto.</p>
+</div>
+
+    
+
+    
 
                 </details>
                 </td>
@@ -767,30 +811,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/55028a36-609c-479c-9553-d4689ff2dd8c-1669620566663.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Airalo</h5>
-                    <h3>Senior Backend Developer - Telecom</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/airalo/3151f836-3365-4ca2-a187-02d52efdbb09" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b>About Airalo</b></div><div>Alo! Airalo is the world’s first eSIM store that helps people connect in over 200+ countries and regions across the globe. We are building the next digital service that revolutionizes the telecom industry. We are a travel-tech company and an equal-opportunity environment that values and executes diversity, inclusion, and equity. Our team is spread across 50+ countries and six continents. What glues us together is our commitment to changing the way you connect<span style="font-size: 13.3333px">. </span></div><div><br></div><div><b>About you</b></div><div>We hope that you care deeply about the quality of your work, the intrinsic worth of tasks, and the success of your team. You are self-disciplined and do not require micromanagement in terms of your skillset and work ethic. You do your best to flourish as an individual every day while working hard to foster a collaborative team environment. You believe in the importance of being — and staying — authentic, honest, positive, and kind. You are a good interlocutor with clear and concise communication. You are able to manage multiple projects, have an analytical mind, pay keen attention to detail, and love to get your hands dirty. You are cognizant, tolerant, and welcoming of vulnerabilities and cultural differences.</div><div><br></div><div><b>About the Role</b></div><div><b>Position</b>: Full-time / Employee</div><div><b>Location:</b>&nbsp;Remote-first </div><div><b>Benefits:</b>&nbsp;Health Insurance, work-from-anywhere stipend, annual wellness &amp; learning credits, annual all-expenses-paid company retreat in a gorgeous destination &amp; other benefits</div><div><br></div><div>We are looking for an experienced and responsible <b>Senior Backend Developer</b> who is willing to join our expert team developing new features and extending the existing ones in our Network experience team. We welcome talented, passionate, innovative, result-oriented professionals who will drive our technical excellence, get and share knowledge throughout the team.</div><h3>Responsibilities include but are not limited to:</h3><li>Developing new services, refactoring of the existing ones</li><li>Developing enterprise-quality, horizontally scalable, maintainable code using best practices, quickly and according to spec</li><li>Developing new features or enhancements to existing features</li><li>Developing API with multiple data sources</li><li>Developing and designing RESTful services and APIs for front-end clients and other consumers</li><li>Migrating Monolithic application to SOA</li><li>Collaborating daily with other developers across the full software development lifecycle</li><li>Automating testing by writing test code</li><li>Troubleshooting issues and problem-solving as necessary</li>,<h3>Must-haves:</h3><li>Expertise in building large scale distributed systems</li><li>Understanding of MNO vs MVNO vs MVNE concepts</li><li>Experience in developing the BSS/OSS telco integrations</li><li>Minimum 4 years of relevant full-time development experience in PHP</li><li>Proficiency in one or more programming languages like Java, Go, Javascript (<a href="http://node.js/" class="postings-link">Node.js</a>), Typescript</li><li>Minimum 2 years experience in Laravel</li><li>Minimum 2 enterprise project development</li><li>Proficiency in event-driven architecture and developing RESTful APIs</li><li>Experience and good knowledge of Messaging systems: Queue, Pub/Sub, etc.</li><li>Experience and good knowledge of Cache and Caching strategies</li><li>Proficiency in SQL/NoSQL</li><li>Experience and knowledge of AWS services (EC2, Lambda, SQS, Security, Aurora, DynamoDB)</li><li>Proficiency in OOP concept, SOLID and design patterns</li><li>Knowledge about developing multi-language API and admin panel</li><li>Knowledge about Unit Test/Feature Test/Mocking</li><li>Experience with Docker</li><li>Good communication skills and fluency in English</li>,<h3>Good to haves:</h3><li>Worked for a MVNE company as a software developer</li><li>Expert knowledge of PaaS/ SaaS, SOA, Micro/ Nano services</li><li>Prior work experience in telecommunications and network infrastructure</li><li>Knowledge of eSIM and GSMA related technologies and services</li><div>If you are interested in this position, <b>please apply via the link.</b></div><div><br></div><div><i>We sincerely thank all applicants in advance for submitting their interest in this opportunity with Airalo. </i></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/de4eebbf-97f1-4bdb-b542-4fa65a0b48ab-1662467464737.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -810,7 +830,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><i>Technology (AI / ML / add all the buzzwords here) is changing the world precipitously and shaping our future.</i></div><div><br></div><div> Join us if you DISAGREE and want to shape the future yourself!</div><div><br></div><div><b>We need top-notch&nbsp;Ax Developer with the ambition to create the technology that changes the world. The technology that makes history, and decodes the future while transforming the present…</b></div><div><b>Already excited? Then we’d like to know you better!</b></div><div><br></div><div>Our team will be a perfect fit for you, if you’re a multi-dimensional IT expert ready to join a high performance, large scale, geographically dispersed ecosystem, as we become a global e-commerce player with the vision to be the greatest gifting company in the world.</div><h3>🥰Are You the One We’re Seeking?</h3><li>You possess exceptional analytical and conceptual thinking skills</li><li>You hold full accountability of your work regardless of your position or title in the team</li><li>You’re a humble and competent team member who’s excited to join a culture devoid of corporate buzzwords and bureaucracy</li><li>You have an insatiable curiosity and a craving for lifelong learning</li><li>You’re enjoying every minute of your job as you can see the results immediately</li><li>You have superb communication skills, with a knack for interacting effectively with multidisciplinary teams</li>,<h3>✨Let Your Skills Shine with Us!</h3><li>BS degree in Computer Science/Engineering or relevant engineering programs</li><li>Experience in Dynamics AX (X ++) or Dynamics 365 software development</li><li>Knowledge of Visual Studio .Net platform and C# coding language</li>,<h3>🎯Your Journey Begins: Embrace the Exciting Adventure Ahead!</h3><li>Developing in Dynamics 365 ERP Projects</li><li>Supporting functional consultants during the technical design phase, which is part of the analysis </li><li>Examining the problems in the applications developed and to take the necessary actions to solve them</li><li>Writing well-designed code for significant projects considering the software development</li><li>Responsible for planning and conducting the integration of new modul into the project</li><li>Planning and taking part in the software development testing</li><li>Proactively reporting the optimization of inner processes and errors to the team lead</li>,<h3>😎What’s in here for you?</h3><li>🏡Break Free from the Cubicle: Work from Anywhere, Anytime! 🌟</li><li>🎉Fun and Adventure Await: Get ready for exhilarating team adventures and unforgettable company activities that will create memories to cherish! 🌈</li><li>🌟Dive into an Exciting World of Entertainment! : Netflix, BluTV, YouTube Premium, and More! 🎬🍿</li><li>🎩Express Your Unique Style: No more stuffy suits or uncomfortable attire. Embrace your personal style and wear whatever makes you feel confident and comfortable. 👗👕</li><li>📚Unlock Your Potential: Biweekly Learning Hours and a Vast Training Library Await! 🎓 Never stop learning and growing! With unlimited access to top-notch training resources like Udemy and more, your professional growth knows no limits! 🚀</li><li>🥰Join Vibrant Social Clubs: Connect, Collaborate, and Create Lifelong Friendships!🎉Be part of our vibrant social clubs, where you can engage with colleagues who share your passions and interests. Cultivate meaningful connections, foster collaboration, and create memories that extend beyond the workplace.🤝</li><li>🤝Seamless Onboarding: Receive a Warm Welcome and a Smooth Transition! 📋 Our dedicated onboarding process ensures you feel supported and empowered from day one. We provide comprehensive training and resources to help you settle into your role quickly and effectively. 🌟</li><li>Join us on this exciting journey where remote work, a dynamic work ecosystem, thrilling team activities, entertainment galore, a flexible dress code, and endless learning opportunities await you! It’s time to unleash your full potential and embrace the future of work! 💃</li><div><b>😍About Us</b></div><div><br></div><div>As a pioneering tech company in gifts, our vision is to be a leader in all markets in which we operate. We create lifelong value in the lives of our employees, customers and all our business partners! 💪</div><div><br></div><div>Founded in 2006 by Emre Aydın, <a href="http://ciceksepeti.com/" class="postings-link">Ciceksepeti.com</a> offers the broadest selection of flowers &amp; gifts delivered same day within a single experience. We are very proud to have created a culture of celebration among people with our gift arrangements and our brand Bonnyfood. We are committed to continuing this tradition by making every special day memorable. In addition to our original mission of bringing a new perspective to the e-commerce sector in Turkey and making shipping faster and easier, now we offer a diverse range of products under various categories, such as electronics, home &amp; living, personal care, supermarket, cosmetics, fashion, sports &amp; outdoor, hobby, pet shop, jewellery &amp; accessories, as well as flowers and edible flowers since 2019.</div><div><br></div><div><a href="http://ciceksepeti.com/" class="postings-link">Ciceksepeti.com</a> is the most visited floral and gifting website according to SimilarWeb data, having 4 times more visitors than the second largest player in the world. 😎</div><div><br></div><div>Besides covering 70+ cities in Turkey through 55.000+ vendors and 24x7 customer support, Ciceksepeti has expanded into Mexico with its international brand, LolaFlora.💃</div><div><br></div><div>We are so happy and proud to have been selected the Best Employer Brand at LinkedIn Turkey Talent Awards in 2019 and 2022! 🥳</div><div><br></div><div>Headquartered in İstanbul, we’re a young, nimble, dedicated team of professionals, who are not only hard workers but also smart workers; who know how to get things done in the right way, as well as getting the right things done for our customers. Moreover, we’re on the verge of an exciting episode in our journey as we simultaneously set foot on international markets and grow further in domestic market.</div><div><br></div><div><span style="font-size: 14px">"İşe alım süreçlerimizde kişisel verilerinizi nasıl işlediğimize dair bilgiye çalışan adayı aydınlatma metnimizden ulaşabilirsiniz./ Please see our candidate privacy note for information on how we process your personal data during our recruitment activities."</span></div><div><a href="https://cdn03.ciceksepeti.com/editor/hr/Ciceksepeti_CS-Teknoloji-Calisan-Adayi_Aydinlatma-Metni-15092023.pdf" class="postings-link">https://cdn03.ciceksepeti.com/editor/hr/Ciceksepeti_CS-Teknoloji-Calisan-Adayi_Aydinlatma-Metni-15092023.pdf</a></div><div><a href="https://cdn03.ciceksepeti.com/editor/hr/Ciceksepeti_CS-Teknoloji-Calisan-Adayi_Aydinlatma-Metni-15092023.docx.pdf" class="postings-link">https://cdn03.ciceksepeti.com/editor/hr/Ciceksepeti_CS-Teknoloji-Calisan-Adayi_Aydinlatma-Metni-15092023.docx.pdf</a></div>
+                <div><i>Technology (AI / ML / add all the buzzwords here) is changing the world precipitously and shaping our future.</i></div><div><br></div><div> Join us if you DISAGREE and want to shape the future yourself!</div><div><br></div><div><b>We need top-notch&nbsp;Ax Developer with the ambition to create the technology that changes the world. The technology that makes history, and decodes the future while transforming the present…</b></div><div><b>Already excited? Then we’d like to know you better!</b></div><div><br></div><div>Our team will be a perfect fit for you, if you’re a multi-dimensional IT expert ready to join a high performance, large scale, geographically dispersed ecosystem, as we become a global e-commerce player with the vision to be the greatest gifting company in the world.</div><h3>🥰Are You the One We’re Seeking?</h3><li>You possess exceptional analytical and conceptual thinking skills</li><li>You hold full accountability of your work regardless of your position or title in the team</li><li>You’re a humble and competent team member who’s excited to join a culture devoid of corporate buzzwords and bureaucracy</li><li>You have an insatiable curiosity and a craving for lifelong learning</li><li>You’re enjoying every minute of your job as you can see the results immediately</li><li>You have superb communication skills, with a knack for interacting effectively with multidisciplinary teams</li>,<h3>✨Let Your Skills Shine with Us!</h3><li>BS degree in Computer Science/Engineering or relevant engineering programs</li><li>Experience in Dynamics AX (X ++) or Dynamics 365 software development</li><li>Knowledge of Visual Studio .Net platform and C# coding language</li>,<h3>🎯Your Journey Begins: Embrace the Exciting Adventure Ahead!</h3><li>Developing in Dynamics 365 ERP Projects</li><li>Supporting functional consultants during the technical design phase, which is part of the analysis </li><li>Examining the problems in the applications developed and to take the necessary actions to solve them</li><li>Writing well-designed code for significant projects considering the software development</li><li>Responsible for planning and conducting the integration of new modul into the project</li><li>Planning and taking part in the software development testing</li><li>Proactively reporting the optimization of inner processes and errors to the team lead</li>,<h3>😎What’s in here for you?</h3><li>🎉Fun and Adventure Await: Get ready for exhilarating team adventures and unforgettable company activities that will create memories to cherish!&nbsp;🌈</li><li>🛍️Take excellent care of yourself : HiDoctor, Momento, and More!&nbsp;👩🏻‍⚕️</li><li>🎩Express Your Unique Style: No more stuffy suits or uncomfortable attire. Embrace your personal style and wear whatever makes you feel confident and comfortable. 👗👕</li><li>📚Unlock Your Potential: Biweekly Learning Hours and a Vast Training Library Await! 🎓 Never stop learning and growing! With unlimited access to top-notch training resources like Udemy and more, your professional growth knows no limits! 🚀</li><li>🥰Join Vibrant Social Clubs: Connect, Collaborate, and Create Lifelong Friendships!🎉Be part of our vibrant social clubs, where you can engage with colleagues who share your passions and interests. Cultivate meaningful connections, foster collaboration, and create memories that extend beyond the workplace.🤝</li><li>🤝Seamless Onboarding: Receive a Warm Welcome and a Smooth Transition! 📋 Our dedicated onboarding process ensures you feel supported and empowered from day one. We provide comprehensive training and resources to help you settle into your role quickly and effectively. 🌟</li><li>Join us on this exciting journey a dynamic work ecosystem, thrilling team activities, entertainment galore, a flexible dress code, and endless learning opportunities await you! It’s time to unleash your full potential and embrace the future of work!&nbsp;💃</li><div><b>😍About Us</b></div><div><br></div><div>As a pioneering tech company in gifts, our vision is to be a leader in all markets in which we operate. We create lifelong value in the lives of our employees, customers and all our business partners! 💪</div><div><br></div><div>Founded in 2006 by Emre Aydın, <a href="http://ciceksepeti.com/" class="postings-link">Ciceksepeti.com</a> offers the broadest selection of flowers &amp; gifts delivered same day within a single experience. We are very proud to have created a culture of celebration among people with our gift arrangements and our brand Bonnyfood. We are committed to continuing this tradition by making every special day memorable. In addition to our original mission of bringing a new perspective to the e-commerce sector in Turkey and making shipping faster and easier, now we offer a diverse range of products under various categories, such as electronics, home &amp; living, personal care, supermarket, cosmetics, fashion, sports &amp; outdoor, hobby, pet shop, jewellery &amp; accessories, as well as flowers and edible flowers since 2019.</div><div><br></div><div><a href="http://ciceksepeti.com/" class="postings-link">Ciceksepeti.com</a> is the most visited floral and gifting website according to SimilarWeb data, having 4 times more visitors than the second largest player in the world. 😎</div><div><br></div><div>Besides covering 70+ cities in Turkey through 55.000+ vendors and 24x7 customer support, Ciceksepeti has expanded into Mexico with its international brand, LolaFlora.💃</div><div><br></div><div>We are so happy and proud to have been selected the Best Employer Brand at LinkedIn Turkey Talent Awards in 2019 and 2022! 🥳</div><div><br></div><div>Headquartered in İstanbul, we’re a young, nimble, dedicated team of professionals, who are not only hard workers but also smart workers; who know how to get things done in the right way, as well as getting the right things done for our customers. Moreover, we’re on the verge of an exciting episode in our journey as we simultaneously set foot on international markets and grow further in domestic market.</div><div><br></div><div><span style="font-size: 14px">"İşe alım süreçlerimizde kişisel verilerinizi nasıl işlediğimize dair bilgiye çalışan adayı aydınlatma metnimizden ulaşabilirsiniz./ Please see our candidate privacy note for information on how we process your personal data during our recruitment activities."</span></div><div><a href="https://cdn03.ciceksepeti.com/editor/hr/Ciceksepeti_CS-Teknoloji-Calisan-Adayi_Aydinlatma-Metni-15092023.pdf" class="postings-link">https://cdn03.ciceksepeti.com/editor/hr/Ciceksepeti_CS-Teknoloji-Calisan-Adayi_Aydinlatma-Metni-15092023.pdf</a></div><div><a href="https://cdn03.ciceksepeti.com/editor/hr/Ciceksepeti_CS-Teknoloji-Calisan-Adayi_Aydinlatma-Metni-15092023.docx.pdf" class="postings-link">https://cdn03.ciceksepeti.com/editor/hr/Ciceksepeti_CS-Teknoloji-Calisan-Adayi_Aydinlatma-Metni-15092023.docx.pdf</a></div>
                 </details>
                 </td>
             </tr>,<tr>
