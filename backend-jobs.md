@@ -19,11 +19,12 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>Hi, we’re DuckDuckGo, the Internet privacy company for everyone who wants to take back their privacy now. For over a decade, we've been building our all-in-one product, developing new privacy technology, and working with policymakers to make online privacy simple and accessible for all. <br /><br /></p>
+                <p>Hi, we’re DuckDuckGo, the Internet privacy company for everyone who wants to take back their privacy now. For over a decade, we've been building our all-in-one product, developing new privacy technology, and working with policymakers to make online privacy simple and accessible for all. <br /></p>
 
-<p>Our browsers and extensions have been downloaded over 250 million times with our built-in private search engine, which has seen over 100 billion searches and is the 2nd largest search engine on mobile in the United States and 17 other countries, including the United Kingdom, Canada, Australia, Germany, Poland, and Spain. Our private search engine is also 3rd in market share in the U.S. and over 20 major markets. Oh, and we've been profitable since 2014, with annual revenue exceeding $100 million!</p>
 <p><br /></p>
-<p>The DuckDuckGo browser’s uniquely comprehensive privacy protections are used by tens of millions of people to protect their everyday online activities on <a href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/" rel="noopener">Mac</a>, <a href="https://spreadprivacy.com/windows-browser-open-beta/" rel="noopener">Windows</a>, <a href="https://spreadprivacy.com/duckduckgo-privacy-browser-ios14/" rel="noopener">iOS</a>, and <a href="https://spreadprivacy.com/duckduckgo-2021-review/" rel="noopener">Android</a>, from searching to browsing, emailing, and more. We also offer <a href="https://spreadprivacy.com/meetprivacypro/" rel="noopener">Privacy Pro</a>, a three-in-one subscription service that includes a VPN, Personal Information Removal, and Identity Theft Restoration.<br /></p>
+<p>Our browsers and extensions have been downloaded over 250 million times with our built-in private search engine, which has delivered over 100 billion searches and is the 2nd largest search engine on mobile in the United States and 17 other countries, including the United Kingdom, Canada, Australia, Germany, Poland, and Spain. Our private search engine is also 3rd in market share in the U.S. and over 20 major markets. Oh, and we've been profitable since 2014, withannual revenue exceeding $100 million!</p>
+<p><br /></p>
+<p>The DuckDuckGo browser’s uniquely comprehensive privacy protections are used by tens of millions of people to protect their everyday online activities on <a href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/" rel="noopener">Mac</a>, <a href="https://spreadprivacy.com/windows-browser-open-beta/" rel="noopener">Windows</a>, <a href="https://spreadprivacy.com/duckduckgo-privacy-browser-ios14/" rel="noopener">iOS</a>, and <a href="https://spreadprivacy.com/introducing-app-tracking-protection/" rel="noopener">Android</a>, from searching to browsing, emailing, and more. We also offer <a href="https://spreadprivacy.com/meetprivacypro/" rel="noopener">Privacy Pro</a>, a three-in-one subscription service that includes a VPN, Personal Information Removal, and Identity Theft Restoration.</p>
 <p><br /></p>
 <p>We’re looking for a <strong>Senior Backend Engineer </strong>to help shape our all-in-one privacy solution and join our mission to show the world that protecting your privacy online can be simple.  <br /><br /></p>
 <p><br /></p>
@@ -61,6 +62,45 @@
 <div><br /></div>
 <p><br /></p>
 <p><br /></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1542681228666671107/L5LYJLAD_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Timescale</h5>
+                    <h3>(Senior) Software Engineer - Backend</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://www.timescale.com/careers/7341529002?gh_jid=7341529002" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We&#39;re looking for experienced software engineers to help us build and maintain our managed TimescaleDB cloud services. You will have the opportunity to work with a close-knit team, developing Golang services that power our users’ TimescaleDB experience. You will design and architect features and services from the ground up and have ownership over them from the design phase through deployment to production.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Timescale is an all-remote organization; this is a full-time position and can be located anywhere across a wide range of time zones and locations (UTC-8 to UTC+5.5)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;2+ years of software engineering experience in production environments&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong programming skills (we mainly use Go but are more concerned with good fundamentals), including working with concurrency and high volume/traffic workloads&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with event-driven architecture and modern API technologies like gRPC and GraphQL&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Strong experience with and commitment to testing&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;Comfortable developing with Linux and containers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Nice to haves&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience with deploying in Kubernetes environments and/or developing Kubernetes operators/controllers&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Deep knowledge of at least one major cloud provider (AWS preferred)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience deploying, operating, and using major production-level databases. Huge bonus points for PostgreSQL and/or TimescaleDB!&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;By applying for this position, you are agreeing to &lt;a href=&quot;https://www.timescale.com/legal/timescale-applicant-privacy-notice&quot;&gt;Timescale&#39;s Applicant Privacy Notice.&amp;nbsp;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr>,<tr>
