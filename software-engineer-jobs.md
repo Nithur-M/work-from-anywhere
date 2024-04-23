@@ -1,5 +1,58 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1907458/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Imagen Technologies</h5>
+                    <h3>Software Engineer, Infrastructure</h3>
+                </td>
+                <td width="300">
+                    <code>AWS,CI/CD,terraform</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-infrastructure-1907458" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Imagen Technologies is a high growth healthcare startup enabling patients to be diagnosed, treated, and managed at their primary care appointment (vs. having to refer out to hospitals, imaging centers and other slow and expensive options). Today, we’ve built an AI-enabled platform that enables patients to receive immediate diagnostic tests, immediate results, and immediate next steps – all in a single Primary Care appointment. For example: through our platform, women across the U.S. are now receiving comprehensive breast imaging, results, and specialist-driven next steps at their local Primary Care office, condensing a multi-month diagnostic journey into 60 minutes. </p>
+<p>With over $160m in funding from Google Ventures and some of the largest clinical networks in the country, we are rapidly expanding this platform across the U.S. - from 16 states and 500,000 patients in 2023, to 20+ states and 1.5M patients in 2024. By 2026, we will be delivering care across 35 states and to more than 5m patients per year. </p>
+<p>We’re looking for an infrastructure-focused Software Engineer to join our lean, highly influential team. In this role, you’ll own the cloud infrastructure and applications that support our medical imaging business, as well as build products to enable our customers to improve the quality of care they provide. You’ll also construct and scale the cloud infrastructure with automation and antifragile architecture which support our services. </p>
+<p>If you are deeply passionate about leveraging technology to make a meaningful impact, you could be a great fit for this role. This role plays a pivotal part in creating innovative solutions and ultimately driving our mission forward and improving patient outcomes</p>
+<p><strong>Responsibilities</strong>:</p>
+<ul style="">
+<li style="">Deliver high-quality work. You will own and drive the technical vision of the systems and solutions that impact business outcomes for the company</li>
+<li style="">Architect, implement, and maintain a robust and scalable cloud infrastructure tailored for medical image diagnostics services and adjacent products that help our customers provide better care for their patients</li>
+<li style="">Ensure industry best practices and compliance with regulatory requirements, including HIPAA, SOC2, HITRUST and FDA guidelines, in the design, development, security and operation of cloud-based systems</li>
+<li style="">Advance the adoption and maturity of DevOps practices within the organization, focusing on efficiency and reliability of the software build and delivery pipeline</li>
+<li style="">Collaborate closely with development teams to enhance CI/CD pipelines for seamless integration and deployment of software and infrastructure changes</li>
+<li style="">Implement and maintain monitoring and alerting systems to ensure the performance and availability of critical healthcare services</li>
+<li style="">Lead incident response efforts during critical system events, ensuring rapid resolution and minimal impact on patient care. Implement disaster recovery strategies to safeguard against data loss and ensure continuous availability of healthcare services</li>
+<li style="">Develop and maintain infrastructure and pipeline as code, ensuring consistent and reproducible deployments. Automate provisioning and configuration of cloud resources using tools such as Terraform, Python, etc.</li>
+<li style="">Build solutions and self-service tools for recurring/operational activities</li>
+</ul>
+<p><strong>Qualifications</strong>:</p>
+<ul style="">
+<li style="">3+ years of professional software development experience (2+ of them in DevOps/SRE) in an agile environment with exposure to best practices, ideally across various teams and environments.</li>
+<li style="">Strong proficiency in software design/programming and DevOps practices.</li>
+<li style="">Experience with CI/CD and Infrastructure as Code tools, Terraform is a plus</li>
+<li style="">Experience in building highly available architectures (auto-scaling, containerized and serverless) in the cloud. AWS experience preferred.</li>
+<li style="">Detail and execution-oriented, with the ability to communicate complex technical ideas effectively, both verbally and in writing</li>
+<li style="">Experience working in healthcare (or life sciences) is a plus, experience working with software as medical devices a plus.</li>
+<li style="">BS in Computer Science or a related field, or comparable experience</li>
+</ul>
+<p>Imagen Technologies is a remote-first company and this job is conducted remotely. </p>
+<p>The base salary for the position is between $100k - $130k, plus equity, commission and benefits. Please note that the base salary range is a guideline, and individual total compensation will vary based on factors such as qualifications, skill level, competencies, and work location.</p>
+<p><em>Imagen is committed to the principle of equal employment opportunity for all employees and applicants for employment and prohibits discrimination and harassment of any kind without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.  Imagen will not tolerate discrimination or harassment based on any of these characteristics. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training. </em></p>
+<p><em>Imagen Technologies maintains a Substance Abuse and Testing policy. Being under the influence of alcohol or controlled substances while on the job or while conducting business on Imagen’s behalf is prohibited. Imagen reserves the right to test any applicant or employee for alcohol and/or drug use, subject to compliance with any applicable state and/or federal laws.</em></p><img src="https://remotive.com/job/track/1907458/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -21,12 +74,10 @@
                 <details><summary>Description</summary>
                 <p>Hi, we’re DuckDuckGo, the Internet privacy company for everyone who wants to take back their privacy now. For over a decade, we've been building our all-in-one product, developing new privacy technology, and working with policymakers to make online privacy simple and accessible for all.  <br /></p>
 <p><br /></p>
-<p>Our browsers and extensions have been downloaded over 250 million times with our built-in private search engine, which has seen over 100 billion searches and is the 2nd largest search engine on mobile in the United States and 17 other countries, including the United Kingdom, Canada, Australia, Germany, Poland, and Spain. Our private search engine is also 3rd in market share in the U.S. and over 20 major markets. Oh, and we've been profitable since 2014, with annual revenue exceeding $100 million!</p>
+<p>Our browsers and extensions have been downloaded over 250 million times with our built-in private search engine, which has delivered over 100 billion searches and is the 2nd largest search engine on mobile in the United States and 17 other countries, including the United Kingdom, Canada, Australia, Germany, Poland, and Spain. Our private search engine is also 3rd in market share in the U.S. and over 20 major markets. Oh, and we've been profitable since 2014, withannual revenue exceeding $100 million!</p>
 <p><br /></p>
-<p>The DuckDuckGo browser’s uniquely comprehensive privacy protections are used by tens of millions of people to protect their everyday online activities on <a href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/" rel="noopener">Mac</a>, <a href="https://spreadprivacy.com/windows-browser-open-beta/" rel="noopener">Windows</a>, <a href="https://spreadprivacy.com/duckduckgo-privacy-browser-ios14/" rel="noopener">iOS</a>, and <a href="https://spreadprivacy.com/duckduckgo-2021-review/" rel="noopener">Android</a>, from searching to browsing, emailing, and more. We also offer <a href="https://spreadprivacy.com/meetprivacypro/" rel="noopener">Privacy Pro</a>, a three-in-one subscription service that includes a VPN, Personal Information Removal, and Identity Theft Restoration.</p>
+<p>The DuckDuckGo browser’s uniquely comprehensive privacy protections are used by tens of millions of people to protect their everyday online activities on <a href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/" rel="noopener">Mac</a>, <a href="https://spreadprivacy.com/windows-browser-open-beta/" rel="noopener">Windows</a>, <a href="https://spreadprivacy.com/duckduckgo-privacy-browser-ios14/" rel="noopener">iOS</a>, and <a href="https://spreadprivacy.com/introducing-app-tracking-protection/" rel="noopener">Android</a>, from searching to browsing, emailing, and more. We also offer <a href="https://spreadprivacy.com/meetprivacypro/" rel="noopener">Privacy Pro</a>, a three-in-one subscription service that includes a VPN, Personal Information Removal, and Identity Theft Restoration.</p>
 <p><br /></p>
-
-
 <p>We’re looking for a <strong><strong>Senior Software Engineer, Windows Desktop App</strong></strong> to help shape our all-in-one privacy solution and join our mission to show the world that protecting your privacy online can be simple.  </p>
 <p><br /></p>
 <p><strong>The Opportunity</strong> </p>
