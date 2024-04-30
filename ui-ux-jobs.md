@@ -1,5 +1,79 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1909103/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Exodus54</h5>
+                    <h3>3Zero UI Designer</h3>
+                </td>
+                <td width="300">
+                    <code>Figma,Interaction Design</code>
+                </td>
+                <td width="200">
+                <text>3 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/design/3zero-ui-designer-1909103" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>At 3Zero and Exodus, we are user-centric. This thinking drives everything that we do and is integral to how we design and build our apps, our website, and other digital properties. We continually invest in better understanding our users' needs, behaviors, and emotions in order to gain insights that inform our product strategy and design. We greatly value attention to detail and pixel-perfect design, as this is the foundation of a great user experience. To help the team as we craft this great user experience, we’re looking for a UI Designer to join the team!  </p>
+<p><strong>What You Will Do</strong></p>
+<ul style="">
+<li style="">Update existing UI projects based on the feedback received from the team.</li>
+<li style="">Create designs that meet project objectives and respond to feedback, analytics, and user testing</li>
+<li style="">Create and work on UI design goals, priorities, and deliverables that align with company milestones.</li>
+<li style="">Work across a wide range of projects, technologies, and devices.</li>
+<li style="">Support development teams throughout the implementation cycle.</li>
+<li style="">Clearly communicate conceptual ideas and design rationale visually and verbally.</li>
+<li style="">Own creative process from ideation to final deliverable.</li>
+</ul>
+<p><strong>Who You Are</strong></p>
+<ul style="">
+<li style="">You have the ability to design.</li>
+<li style="">You have the ability to work on motion and interaction (UI animation, Micro-Interaction, Motion skills, 3D)</li>
+<li style="">You enjoy being hands-on in a highly collaborative work environment.</li>
+<li style="">You’re focused, level-headed, and collaborate well with project partners.</li>
+<li style="">You have knowledge of design systems and Figma components and styles.</li>
+<li style="">You have exceptional attention to detail with a keen eye for pixel-perfect designs using grids, layouts, etc.</li>
+<li style="">You have a solid understanding of UX basics that enable you to finish concepts and solve UX problems.</li>
+<li style="">You have a systematic approach</li>
+<li style="">You are biased towards the simplification of information architecture.</li>
+<li style="">You have solid written and verbal communication skills.</li>
+<li style="">You have a passion for working with technology products.</li>
+<li style="">You have a portfolio that clearly showcases your abilities and experiences.</li>
+<li style="">You live in UTC +1 or UTC + 2 time zones</li>
+</ul>
+<p><strong>A Plus</strong></p>
+<ul style="">
+<li style="">You have experience with prototyping tools in addition to Figma such as Flinto and Protopie</li>
+<li style="">You have blockchain/crypto space experience.</li>
+</ul>
+<p><strong>About Exodus and 3Zero</strong></p>
+<p>Exodus is a multi-asset cryptocurrency wallet with a built-in exchange feature. We started our movement in 2015 and have been a distributed team since then. 3Zero, the Exodus-owned creative subsidiary, was created in 2023 to focus on being a creative powerhouse. The Exodus and 3Zero mission is the same: to help half of the world exit the traditional financial system and move into the crypto financial system by the year 2030. </p>
+<p><strong>What We Offer</strong></p>
+<ul style="">
+<li style="">Freedom to work wherever you want, whenever you want.</li>
+<li style="">Building the future. Cryptocurrencies lay the foundation to the internet of value, the next major wave in application technology and personal finance.</li>
+<li style="">Collaborative and feedback-driven culture.</li>
+<li style="">Opportunity to grow. </li>
+<li style="">Fair pay, no matter where you live </li>
+<li style="">100% pay in Bitcoin with a buffer to account for price changes and exchange fees. </li>
+<li style="">All the tools you need to do the job </li>
+</ul>
+<p><strong>Our Hiring Process</strong></p>
+<p>To apply, we'd love to learn more about you. Please answer our application questions! Submitting a resume is optional.</p>
+<p><em>Our hiring process consists of several different stages. </em></p>
+<p><strong>Recruiter Interview</strong>: If we like your initial application, expect to schedule an interview with a member of our recruitment team. This interview will focus on getting to know you a bit more and will focus on explaining the culture of the company. We want to know more about why you want to join our team, how you feel about our mission and cryptocurrency now and how it fits into your overall career plan to make sure this is the right place for you.</p>
+<p><strong>Interview(s) with your future manager</strong>: This is to make sure that you are a fit for the role you are applying to and to explore your career history. In this interview, we’ll learn more about the hard and soft skills you possess to help determine if you’d be a good fit for us.</p>
+<p><strong>Assessment: </strong>This role will include a take home test/assessment. You will be compensated for completing this take home test/assessment. </p>
+<p><em>Pay Transparency Notice</em>: The compensation for this role starts between $65,000 - $80,000. All other total compensation information (bonus eligibility and benefits eligibility) will be discussed in detail during the hiring process.</p><div class='"content-pay-transparency"'><div class='"pay-input"'><div class='"description"'><p><span style='"font-weight:'><strong><em>Pay Transparency Notice: </em></strong>Salary and all other total compensation information (bonus eligibility and benefits) will be discussed in detail during the hiring process.</span></p></div><div class='"title"'>Salary Range</div><div class='"pay-range"'><span>$65,000</span><span class='"divider"'>—</span><span>$80,000 USD</span></div></div></div><img src="https://remotive.com/job/track/1909103/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://lever-client-logos.s3-us-west-2.amazonaws.com/2a61cdfd-29d3-4707-b965-c4527aa67d0c-1593500521772.png" width="38px" height="auto">
                 </td>
                 <td width="300">
