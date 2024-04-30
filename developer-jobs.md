@@ -10,7 +10,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -73,78 +73,6 @@ qualifications, skills test performance, geographic location, and
 seniority of the position offered. Outside of California, New York, 
 Washington, and Colorado compensation may fall outside the above ranges.</p>
 <img src="https://remotive.com/job/track/1680495/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1906222/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>KoboToolbox</h5>
-                    <h3>Experienced Python Web Application Developer</h3>
-                </td>
-                <td width="300">
-                    <code>api,backend,django,docker</code>
-                </td>
-                <td width="200">
-                <text>18 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/experienced-python-web-application-developer-1906222" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Location:</strong> Remote<br><strong>Availability:</strong> 35-40 hours per week<br><strong>Working hours:</strong> US East business hours<br><strong>Reporting to:</strong> Backend lead</p>
-<p><a href="http://www.kobotoolbox.org/" rel="nofollow">KoboToolbox</a> has an immediate opening for an experienced Python Web Application Developer to fill a full-time position of approximately 35-40 hours per week, ideally for a commitment of at least 1 year. As a member of our team, you will share in the challenge and excitement of writing code used by over 14,000 nonprofit organizations around the world who collect more than 20 million surveys a month to create data-driven change.</p>
-<p>Applicants with diverse professional experience are encouraged to apply. A commitment to mastering our backend technologies as well as advanced knowledge of both Python and relational databases as applied to real-world web applications are required. This means that you must already have experience working on systems supporting substantial volumes of traffic and data. Beyond technical acumen, we are seeking a team member who demonstrates curiosity, initiative, and a cooperative approach to problem solving and decision-making.</p>
-<p>If you’re passionate about leveraging technology to make a positive impact, we want to hear from you!</p>
-<p>Responsibilities</p>
-<ul style="">
-<li style="">Writing robust, concise, and reusable code with accompanying tests and documentation.</li>
-<li style="">Searching and reading the extensive, long-lived code base—which spans multiple libraries, projects, and programming languages—to understand, follow, and (where appropriate) challenge existing behavior and conventions.</li>
-<li style="">Reviewing other developers’ code and providing constructive feedback.</li>
-<li style="">Distilling requests from the humanitarian community into technically detailed feature requests (and, of course, writing bug reports!).</li>
-<li style="">Scoping, prioritizing, estimating, and organizing work into manageable-sized tasks.</li>
-<li style="">Attending regular videoconference check-ins with other members of the technical team.</li>
-<li style="">Communicating with the public in conjunction with our support staff or directly through forums, issue trackers, etc.</li>
-<li style="">Shaping the design and architecture of the overall tool suite collaboratively with the larger team.</li>
-<li style="">Performing other related duties as directed by the lead developers.</li>
-</ul>
-<p><br><br><strong>Requirements</strong><br><br>Required Qualifications</p>
-<ul style="">
-<li style="">Experience writing, deploying, and maintaining server-side Python code for real-world, API-driven web applications.</li>
-<li style="">Substantial understanding of relational databases, their performance characteristics, and methods of mapping relational data into an object-oriented programming environment.</li>
-<li style="">Interest in data collection (surveying), particularly in humanitarian emergencies and other challenging contexts, and a desire to improve our platform for our users.</li>
-<li style="">Proficiency with spoken and written English.</li>
-<li style="">Fluency with Git.</li>
-<li style="">Overlap with working hours in the Eastern time zone.</li>
-<li style="">Average availability of at least 30 hours per week, preferably 35 hours or more.</li>
-</ul>
-<p> </p>
-<p>Preferred Qualifications</p>
-<p>Experience with the following is preferred but not required to apply:</p>
-<ul style="">
-<li style="">Django (and particularly Django REST Framework)</li>
-<li style="">Celery</li>
-<li style="">PostgreSQL</li>
-<li style="">MongoDB</li>
-<li style="">Redis</li>
-<li style="">XLSForm, ODK XForm, and OpenRosa</li>
-<li style="">NGINX and uWSGI</li>
-<li style="">Ubuntu Linux</li>
-<li style="">Docker, Kubernetes, and Helm</li>
-</ul>
-<p><br><br><strong>Benefits</strong><br><br></p>
-<ul style="">
-<li style="">Genuine Impact: Contribute directly to projects that impact millions of people around the world globally, working alongside the largest international humanitarian organizations as well as thousands of national and small community based partners in 200 countries.</li>
-<li style="">Meaningful Work Environment: Join a team that believes work should be meaningful as well as fun, tackling global challenges through innovative data collection and management tools with a proven impact for lasting change.</li>
-<li style="">Diverse Team: Be part of an amazing, progressive, and globally diverse team that values diversity, equity, and inclusion across all spectrums.</li>
-<li style="">Flexible Work Culture: Enjoy mutual flexibility, the option for a 4-day workweek, and supported by a culture that prioritizes work-life balance.</li>
-<li style="">Professional Development: Benefit from generous professional development options.</li>
-</ul>
-<img src="https://remotive.com/job/track/1906222/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -234,7 +162,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
                 <td width="300">
                     <h5>Status</h5>
-                    <h3>Senior Frontend Developer (JS, Typescript, React)</h3>
+                    <h3>L2 Lead Developer </h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -243,7 +171,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=5567968&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=5931357&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -254,47 +182,143 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of DApps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol; the p2p communication layer for Web3.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception.&nbsp; Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of Apps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol, the p2p communication layer for Web3.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception. Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
 
-    <div class="careers-block__trix external-panel text-left">
-<p><strong>The role:</strong></p>
-<p>We are looking for an experienced React developer to join a small, fully asynchronous team, who will take ownership of certain web-related areas at Status. Your role will not only involve translating high-level designs into production-ready UI, but also collaborating with colleagues across the stack to deliver new features.&nbsp;</p>
-<p>Our stack is built on modern foundations – a monorepo powered by TypeScript, React, Storybook, Vite, Vitest, Playwright, ESLint, Prettier, Yarn Workspaces, and Turborepo. As we work in the open and are fully open-source, you can get a better idea of who we are and the work we are doing by browsing our <a href="https://github.com/status-im/status-web">Status Web</a> repository. We strive to build solid foundations that will enable us to continuously make progress. We don't expect you to have a background in everything we use, but we do expect strong JavaScript fundamentals and experience working with React and TypeScript.</p>
-<p>We function as generalists, often undertaking a variety of challenges, and deeply care about the quality of our work. We look forward to collaborating with experienced individuals who can operate independently, make important decisions, and take ownership.</p>
-<p><strong>Key responsibilities:&nbsp;</strong></p>
+    <p><strong>About Status Network</strong></p>
+<p>Status Network is a forward-looking zkEVM L2 rollup on Ethereum tailored for social applications and seamless access to DeFi yield opportunities for everyone. Status Network is dedicated to providing an open playground for communities to build on and thrive, while also incentivising liquidity thanks to a native yield market. We are deeply committed to decentralisation, with a focus on minimising censorship risks and preserving the right to privacy.</p>
+<p>Status Network is tightly integrated within the broader <a href="http://free.technology">IFT ecosystem</a>. The IFT is building the tools and infrastructure for the advancement of a secure, private, collaborative and open internet, which includes the Status app.&nbsp;</p>
+<p>Status Network is set to become a settlement layer for these different protocols and social applications, offering the most seamless and open social infrastructure to build truly onchain organisations. Status Network will bring direct utility to the SNT token with upgraded tokenomics taking into account sequencer revenues.</p>
+<p><strong>The role</strong></p>
+<p>The L2 Lead Developer at Status Network will be responsible for the comprehensive deployment and ongoing operation of this new zkEVM L2 rollup. This role includes full oversight of the infrastructure setup in collaboration with a RaaS (Rollup as a Service) provider and other infrastructure partners. The Lead Developer will manage the integration of essential third-party partners required for the blockchain's operation, including but not limited to bridges, RPC endpoint providers, developers tooling, blockchain indexers and explorers, and fiat-to-crypto gateways, with a focus on delivering the smoothest developer experience.</p>
+<p>This position offers a unique opportunity to lead the engineering efforts for the launch and subsequent growth of a groundbreaking zk L2 rollup. You will be at the forefront of developing a platform that not only supports decentralised applications but also integrates social and financial functionalities deeply within its architecture, paving the way for a new era of onchain social interaction and economic exchange.</p>
+<p>If you are driven by innovation in blockchain technology, eager to lead a cutting-edge project, and passionate about decentralisation and privacy, this role will provide you with the perfect platform to make a significant impact.</p>
+<p><strong>Key responsibilities:</strong></p>
 <ul>
-<li>Building new features with beautiful and scalable UI components from start to finish</li>
-<li>Building and maintaining the new React implementation of Status’ design system</li>
-<li>Collaborating with other people across the teams</li>
-<li>Gathering feedback from users and developers to better understand their needs</li>
+<li>Spearhead the implementation, launch, and ongoing development of a new zkEVM L2 rollup on Ethereum.</li>
+<li>Oversee the entire infrastructure for the L2 rollup, collaborating with our RaaS and infra providers to ensure high reliability and performance.</li>
+<li>Manage technical integrations with external third-party providers as well as internal teams, including adapting Nimbus client software for the rollup and working with the Status App client teams for application integration.</li>
+<li>Collaborate on the codebase of our L2 stack partner to innovate and enhance the security and performance of our zkEVM rollup stack.</li>
+<li>Drive the development process of Status Network by establishing rigorous testing protocols on testnets and mainnet, implementing best practices in coding, security, and system design, and coordinating deployment processes to ensure the rollup's integrity and availability at launch.</li>
+<li>Engage with the community and developers through outreach, documentation, and support to encourage adoption and feedback for continuous improvement.</li>
+<li>Lead, mentor, and expand our team of developers and engineers, promoting a culture of innovation and collaboration.</li>
 </ul>
-<p><strong>You ideally will have:</strong></p>
+<p><strong>You will ideally have:</strong></p>
 <ul>
-<li>Clear and effective communication skills, both verbally and written</li>
-<li>Thoughtful and pragmatic problem-solving</li>
-<li>5+ years of software engineering experience, with 3+ years of experience with React</li>
-<li>Experience writing modern, performant, and accessible React code&nbsp;</li>
-<li>Strong knowledge of JavaScript, and ideally TypeScript</li>
-<li>Prior experience creating a component library</li>
+<li>Strong experience in the Ethereum ecosystem, particularly with L2 solutions like zkEVM rollups.</li>
+<li>Advanced knowledge of Solidity programming and a deep understanding of blockchain mechanics.</li>
+<li>Proven track record of leading software development teams, with experience successfully managing cross-functional teams.</li>
+<li>History of contributing to or leading open-source projects.</li>
+<li>Expertise in cloud infrastructure management, especially with AWS, including configuring and managing scalable and secure environments suitable for blockchain applications</li>
+<li>Proficient in setting up and maintaining continuous integration and continuous deployment (CI/CD) pipelines to streamline development and deployment processes, especially in the context of open-source software.</li>
+<li>Experience with implementing and managing decentralised and distributed systems, demonstrating a robust understanding of the challenges and solutions specific to these environments.<br>A hands-on approach and technical proficiency in troubleshooting, optimising, and innovating blockchain solutions under various constraint<br>Experience with various blockchain infrastructures and applications, including node operation, blockchain explorer integration, DeFi and NFT lending protocols, and cross-chain bridge mechanisms.</li>
+<li>Understanding of other blockchain and cryptographic technologies, including consensus algorithms, DeFi smart contract security, and network protocols.</li>
+<li>A strong alignment to our principles: <a href="https://status.app/manifesto">https://status.app/manifesto</a></li>
 </ul>
+<p><strong>Bonus points:</strong></p>
+<ul>
+<li>Degen</li>
+<li>Comfort with remote and asynchronous work environments</li>
+<li>A passionate advocate for the Ethereum community and the broader ethos of open-source contribution</li>
+<li>Enthusiasm for decentralisation and a personal drive to promote censorship resistance within the crypto space</li>
+</ul>
+<p><em>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</em></p>
 <p><strong>Hiring process:</strong></p>
-<p><em>The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline.&nbsp;</em></p>
 <ul>
-<li>Call with Talent</li>
-<li>Technical interview</li>
-<li>Live coding interview</li>
-<li>Interview with Design&nbsp;</li>
+<li>Interview with our People Ops team</li>
+<li>Interview with IFT Team Member</li>
+<li>Interview with IFT Team Member</li>
+<li>Interview with Program Lead</li>
 </ul>
-<p><strong>Compensation:</strong></p>
-<p>The expected compensation range for this role is negotiable, dependent on how we assess your skills and experience throughout our interview process. We are happy to pay in any mix of fiat/crypto.</p>
-</div>
+<p><strong>Compensation</strong></p>
+<p>The expected compensation range for this role is $140,000 - $180,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process). We are happy to pay in any mix of fiat/crypto.</p>
 
     
 
     
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Developer Relations Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
+<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
+<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
+<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
+<h2>What your day will look like</h2>
+<p>In a typical day, a developer relations engineer might:</p>
+<ul>
+<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
+<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
+<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
+<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
+<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
+<li>work on technical articles, presentations or workshops&nbsp;</li>
+<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
+<li>present at conferences, meetups or technical events</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<p>A strong candidate</p>
+<ul>
+<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
+<li>has worked with real-world challenges developing and deploying software using Linux</li>
+<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
+<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
+<li>has been a contributor to open-source communities, software and documentation</li>
+<li>is an engaging, vivacious speaker and presenter</li>
+<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
+<li>builds trust, relationships and confidence</li>
+<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
+</ul>
+<h2>Additional skills that you might also bring</h2>
+<ul>
+<li>previous experience in a developer advocacy or community role</li>
+<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
+</ul>
+
+<h2>What we offer you</h2>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote&nbsp;</p>
+
+<p><br><br></p>
+    
                 </details>
                 </td>
             </tr>,<tr>
@@ -377,87 +401,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote</p>
 <h2><br><br></h2>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Developer Relations Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
-<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
-<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
-<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
-<h2>What your day will look like</h2>
-<p>In a typical day, a developer relations engineer might:</p>
-<ul>
-<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
-<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
-<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
-<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
-<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
-<li>work on technical articles, presentations or workshops&nbsp;</li>
-<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
-<li>present at conferences, meetups or technical events</li>
-</ul>
-<h2>What we are looking for in you</h2>
-<p>A strong candidate</p>
-<ul>
-<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
-<li>has worked with real-world challenges developing and deploying software using Linux</li>
-<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
-<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
-<li>has been a contributor to open-source communities, software and documentation</li>
-<li>is an engaging, vivacious speaker and presenter</li>
-<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
-<li>builds trust, relationships and confidence</li>
-<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
-</ul>
-<h2>Additional skills that you might also bring</h2>
-<ul>
-<li>previous experience in a developer advocacy or community role</li>
-<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
-</ul>
-
-<h2>What we offer you</h2>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote&nbsp;</p>
-
-<p><br><br></p>
     
                 </details>
                 </td>
@@ -715,54 +658,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Senior Python Developer Remote / Work Anywhere</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/F5D6410564" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><em>KernelCare</em>, CloudLinux’s fastest-growing product, provides automated kernel security updates without reboots for most popular Linux distributions. It ensures optimal performance and uptime by enabling hosting providers and enterprises to keep their kernels up-to-date with all the latest security patches while keeping their servers online.</p><p></p><p>Work is fully remote, with flexible hours, allowing you to plan your day and work from anywhere in the world.</p><p>For more details about the project, please visit the product website at <a href="https://www.tuxcare.com" rel="nofollow noreferrer noopener" class="external">TuxCare.com</a>.</p><p>As our Senior Python Developer, you will:</p><ul> <li>Get hands-on experience developing our cutting-edge KernelCare products using Python.</li> <li>Ensure the quality of your code by writing comprehensive unit tests with Python and/or functional tests.</li> <li>Collaborate with your colleagues by reviewing their code through Gerrit.</li> <li>Contribute to the growth of our products through architectural development and creating detailed technical documentation for new features.</li> <li>Dive into reported issues from our clients, partners, or support team to investigate and find solutions.</li> <li>Work closely with our 3rd level support team, providing consultations and assistance on matters related to KernelCare products.</li> </ul><h3>Requirements: </h3><p>To thrive in this role, you should possess the following:</p><p></p><ul> <li>5+ years of Python programming experience.</li> <li>Experience with System programming, including Sockets, filesystem, and process management.</li> <li>Proficiency in GNU/Linux operating system and shell scripting.</li> <li>Experience with git-based development processes.</li> <li>Knowledge of PyTest.</li> <li>Intermediate level of English language proficiency.</li> </ul><p>It would be great if you also have:</p><ul> <li>Familiarity with Ansible and Jenkins.</li> <li>Experience as a DevOps or SysAdmin </li> <li>Experience with ClickHouse.</li> <li>Experience in rpm/deb package management (writing rpm spec, deb rules).</li> <li>Understanding of C language.</li> <li>Proficiency in Python frameworks such as Flask and SQLAlchemy.</li> <li>Knowledge of NGINX.</li> </ul><p>In addition, it is essential that you:</p><ul> <li>Are quick to learn and proactive.</li> <li>Are highly self-motivated and determined to accomplish set goals.</li> <li>Can independently analyze tasks and identify optimal solutions.</li> <li>Are skilled at collaboration and working effectively in teams.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li> Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Senior Python Developer - REMOTE/Work Anywhere</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/0852772D69" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We have a fantastic opportunity for individuals who embody our company values:</p><ul> <li> <strong>Curious:</strong> Are you willing to explore, conduct research, and design experiments?</li> <li> <strong>Tenacious:</strong> Do you have the determination to persevere and never give up?</li> <li> <strong>Customer Passion:</strong> Are you passionate about providing solutions and staying ahead of malware developers?</li> <li> <strong>Design for Scale:</strong> Can you contribute to making web protection at scale achievable?</li> <li> <strong>Agile:</strong> Are you comfortable switching between researching and designing experiments and using your analytical skills to uncover real-time insights and address incidents?</li> <li> <strong>Roll Up Your Sleeves:</strong> Are you ready to collaborate closely with internal teams and succeed together?</li> </ul><p>If this describes you, then you have the potential to join our team and make a significant impact. As part of the role, you will:</p><ul> <li>Develop automation services using AI/ML/NLP and Large Language Model integrations to streamline our workflows.</li> <li>Design and prototype new algorithms with a touch of AI for code generation, code analysis, and code review.</li> <li>Review and enhance Python-based services and their CI/CD workflows.</li> </ul><p>By joining us, you will enjoy a range of benefits:</p><ul> <li> <strong>Independence in Action:</strong> Take ownership of projects from beginning to end, working autonomously.</li> <li> <strong>End-to-End Ownership:</strong> Oversee all aspects of a project, ensuring attention to detail and precision.</li> <li> <strong>Dynamic Environment:</strong> Thrive in a fast-paced, ever-changing setting, effectively managing multiple tasks.</li> <li> <strong>Quick Learners Welcome:</strong> Adapt to new information and skills with ease, embracing evolving challenges.</li> <li> <strong>Variety and Challenge:</strong> Engage in a diverse workload that offers continual learning opportunities.</li> </ul><h3>Requirements: </h3><p>To thrive in this role, you should possess:</p><ul> <li>At least 5 years of experience as a Python developer</li> <li>Proficiency in reviewing ANSI C source code</li> <li>Hands-on experience writing and reviewing code in a shared Python codebase</li> <li>Familiarity with CI/CD workflow using GitLab and git, including automated testing</li> <li>Comfortable working with the Linux command line</li> <li>Excellent English communication skills (spoken, written, and reading at C1 level or better)</li> <li>Expertise in LLM/NLP/ML is a plus</li> <li>Practical knowledge of SQL is a plus</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li> Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://scontent.fcmb4-2.fna.fbcdn.net/v/t39.30808-6/273499217_5218973671480777_3308731762242867065_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=YDi_Wd17RD8AX9wXcyR&_nc_zt=23&_nc_ht=scontent.fcmb4-2.fna&oh=00_AfB4sOOYpj6VyDSuvvuqhVnZbH22m89SqG99HwaOa-uslw&oe=65BE4336" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -863,7 +758,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
                 <td width="300">
                     <h5>Blue Coding</h5>
-                    <h3>Senior Front-end Developer (A)</h3>
+                    <h3>Senior Python/Go Developer (DL)</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -872,13 +767,13 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/bluecoding/5690d472-9e8e-468a-b8f5-961b3a655acd" align="right" target="_blank">Apply</a>
+                <a href="https://jobs.lever.co/bluecoding/317e4a58-a9c3-4920-a52a-aef4fdc22231" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 9 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 18px">What are we looking for?</b></div><div><br></div><div><span style="font-size: 16px">In this opportunity, we are looking for a Senior FrontEnd Developer to work with one of our foreign clients, who is a market leader in the consultation, design, procurement, implementation, and ongoing managed services for technology services for mid to large global enterprises. As a Telecom Managed Service company, they partner with over 300 service providers globally to help customers with technology design and find the best solutions to meet their needs.</span></div><div><br></div><div><span style="font-size: 16px">If you are independent, a great communicator, a problem solver, and have strong attention to detail, this is a great fit for you! Our jobs are fully remote – as long as you have the skills and can get the work done well, you can work anywhere in the listed countries you want.</span></div><div><span style="font-size: 16px">If you have the skills and can get the job done, join us and work from anywhere you want!</span></div><div><br></div><div><b style="font-size: 13pt">What's unique about this job?</b></div><div><br></div><div><span style="font-size: 16px">As a Senior FrontEnd Developer, you’ll be part of a massive migration, rebuilding, and rewriting of our client's existing application working alongside a top-of-the-line team creating this application from the ground up to transition it to modern languages and practices.  This transition will be divided into 5 phases and post-launch support and iteration. This is a very long-term project.</span></div><div><br></div><div><span style="font-size: 16px">The platform supports all business functions from sourcing and pricing, purchasing, implementation and project management, customer lifecycle management, incident management, financial management, expense management, and business process automation and integrations. This is written in Coldfusion running on Lucee with ColdBox. About half of the source code has been refactored into an MVC framework while other pages may still be in a single file approach. There is some code that is still tag-based but much of this has been migrated to a script-based code structure.</span></div><div><br></div><div><span style="font-size: 16px">As the platform is rebuilt, the client will be implementing a new UI based on their design standards which are based on Bootstrap 5. Additionally, they will deprecate certain functionality or data points from the application to streamline the User Experience and better align with how the company operates various parts of the business.</span></div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>You'll participate in doing a transition and migrate all existing functionality from Ruby to .Net Core MVC.</li><li>All of the migration will be done using Agile methodologies and Scrum.</li><li>Rebuilding the UI based on the client's design standards which are based in Bootstrap 5.</li><li>Build out and maintain the CSS and core JS files to support the developers in implementing the code in .NET</li>,<h3>You will shine if you have:</h3><li>Strong hands-on experience with HTML, CSS, and Javascript.</li><li>Experience with Agile methodologies such as Scrum, and Kanban.</li><li>Experience with cloud environments like Azure or similar.</li><li>Knowledge or experience working or reading React, Typescript, C# and .NET code is  plus.</li>,<h3>Here are some of the perks we offer you:</h3><li>Salary in USD</li><li>Long-term</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
+                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 9 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b>What are we looking for?</b></div><div>In this opportunity, we are looking for a Senior Python and Go Developer to work with one of our foreign clients, which is an up-and-coming startup focusing on a mission to redefine the shopping experience by leveraging cutting-edge AI technology. They are working with thousands of brands to improve the shopping experience.</div><div>If you are independent, a great communicator, a problem solver, and have strong attention to detail, this is a great fit for you! Our jobs are fully remote – as long as you have the skills and can get the work done well, you can work anywhere in the listed countries you want.</div><div>If you have the skills and can get the job done, join us and work from anywhere you want!</div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>Helping with onboarding new data feeds into their platform.</li><li>You'll need to process the data for each brand they are working with using different tools.</li><li>Keeping up with new trends in software development.</li><li>Bring any suggestions that could improve the process.</li>,<h3>You will shine if you have these:</h3><li>Strong hands-on experience with both Python and Go (Golang).</li><li>Experience using Google Cloud or similar cloud platforms.</li>,<h3>It doesn't hurt if you also have:</h3><li>Experience or working knowledge of Docker and Kubernetes.</li>,<h3>Here are some of the perks we offer you:</h3><li>Salary in USD</li><li>Long-term</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
                 </details>
                 </td>
             </tr></table>
