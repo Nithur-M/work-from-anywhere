@@ -4,7 +4,7 @@
                 </td>
                 <td width="300">
                     <h5>Supabase</h5>
-                    <h3>Cloud Platform / Site Reliability Engineer</h3>
+                    <h3>Site Reliability Engineer: Postgres</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -23,25 +23,28 @@
     <div class="content-intro"><p><img src="https://pbs.twimg.com/media/FIdU8GJWQAUGWRA?format=jpg&amp;name=small" alt="Join Supabase" width="680" height="453"></p></div>
 
     <p>Supabase is an Open Source and fully remote company building developer tools for databases.</p>
-<p>We are seeking an experienced Cloud Platform /Site Reliability Engineer to manage our hosted cloud offering, which currently serves over 100k Postgres instances and is growing at a rate of 10% each month.</p>
-<h3>You will:</h3>
+<p>We are seeking an experienced SRE to manage the infrastructure of our Postgres databases. We currently manage over 1M Postgres instances and are growing fast.</p>
+<p><strong>You will:</strong></p>
 <ul>
-<li>Help build the Supabase Cloud offering.</li>
+<li>Help build the Supabase Postgres offering.</li>
+<li>Focus on improving the reliability of database backups and recovery</li>
+<li>Implement high availability with minimal downtime failover</li>
+<li>Help operationalize database management for our users by implementing maintenance windows, blue-green deployments as part of database upgrades, etc.</li>
+<li>Help users self serve debug their databases by improving database observability</li>
+<li>Improve the performance of provisioned Postgres databases and expose knobs for our users to further tune their database performance</li>
 <li>Improve our system architecture to reduce costs while balancing security and performance.</li>
-<li>Work on designing and tracking metrics for platform uptime.</li>
-<li>Increase observability into our system by capturing relevant metrics and logs.</li>
-<li>Implement and maintain intrusion detection, automated remediation and patch management systems.</li>
 <li>Design CI/CD systems to speed up deployments with proper change and release management processes.</li>
-<li>Work on our SOC2 and GDPR compliance initiatives.</li>
 </ul>
-<h3>You are:</h3>
+<p><strong>You have:</strong></p>
 <ul>
-<li>Experience in designing multi-tenant database solutions, designing for failover, fault-tolerance, and disaster recovery;</li>
-<li>5+ years experience in SRE/DevOps/Cloud Infrastructure;</li>
-<li>3+ years of experience in building with Golang;</li>
-<li>Experience in managing large deployments on AWS;</li>
-<li>Knowledge of networking;</li>
-<li>Experience with Infrastructure as Code tools;</li>
+<li>Experience in designing multi-tenant database solutions, designing for failover, fault-tolerance, and disaster recovery</li>
+<li>Experience with orchestrating stateful workloads at scale or having used a Postgres operator like the ones from <a href="https://github.com/CrunchyData/postgres-operator">Zalando</a> or <a href="https://github.com/CrunchyData/postgres-operator">Crunchy</a> is a plus</li>
+<li>Experience with tools in the Postgres ecosystem like <a href="https://github.com/pgbackrest/pgbackrest">pgbackrest</a>, <a href="https://pgbarman.org/">barman</a>, <a href="https://github.com/zalando/patroni">Patroni</a>, <a href="https://github.com/sorintlab/stolon">Stolon</a>, etc</li>
+<li>5+ years experience in SRE/DevOps/Cloud Infrastructure</li>
+<li>3+ years of experience in building with Golang</li>
+<li>Experience in managing large deployments on AWS</li>
+<li>Knowledge of networking</li>
+<li>Experience with Infrastructure as Code tools</li>
 </ul>
 <p><strong>We offer:</strong></p>
 <ul>
