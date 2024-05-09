@@ -1,75 +1,25 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1909103/logo" width="38px" height="auto">
+                    <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Exodus54</h5>
-                    <h3>3Zero UI Designer</h3>
+                    <h5>10up</h5>
+                    <h3>Director of UX & Research</h3>
                 </td>
                 <td width="300">
-                    <code>Figma,Interaction Design</code>
+                    <code></code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/design/3zero-ui-designer-1909103" align="right" target="_blank">Apply</a>
+                <a href="https://jobs.lever.co/10up-2/baeec154-fd4b-4805-aefc-45d4b6fe0105" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>At 3Zero and Exodus, we are user-centric. This thinking drives everything that we do and is integral to how we design and build our apps, our website, and other digital properties. We continually invest in better understanding our users' needs, behaviors, and emotions in order to gain insights that inform our product strategy and design. We greatly value attention to detail and pixel-perfect design, as this is the foundation of a great user experience. To help the team as we craft this great user experience, we’re looking for a UI Designer to join the team!  </p>
-<p><strong>What You Will Do</strong></p>
-<ul style="">
-<li style="">Update existing UI projects based on the feedback received from the team.</li>
-<li style="">Create designs that meet project objectives and respond to feedback, analytics, and user testing</li>
-<li style="">Create and work on UI design goals, priorities, and deliverables that align with company milestones.</li>
-<li style="">Work across a wide range of projects, technologies, and devices.</li>
-<li style="">Support development teams throughout the implementation cycle.</li>
-<li style="">Clearly communicate conceptual ideas and design rationale visually and verbally.</li>
-<li style="">Own creative process from ideation to final deliverable.</li>
-</ul>
-<p><strong>Who You Are</strong></p>
-<ul style="">
-<li style="">You have the ability to design.</li>
-<li style="">You have the ability to work on motion and interaction (UI animation, Micro-Interaction, Motion skills, 3D)</li>
-<li style="">You enjoy being hands-on in a highly collaborative work environment.</li>
-<li style="">You’re focused, level-headed, and collaborate well with project partners.</li>
-<li style="">You have knowledge of design systems and Figma components and styles.</li>
-<li style="">You have exceptional attention to detail with a keen eye for pixel-perfect designs using grids, layouts, etc.</li>
-<li style="">You have a solid understanding of UX basics that enable you to finish concepts and solve UX problems.</li>
-<li style="">You have a systematic approach</li>
-<li style="">You are biased towards the simplification of information architecture.</li>
-<li style="">You have solid written and verbal communication skills.</li>
-<li style="">You have a passion for working with technology products.</li>
-<li style="">You have a portfolio that clearly showcases your abilities and experiences.</li>
-<li style="">You live in UTC +1 or UTC + 2 time zones</li>
-</ul>
-<p><strong>A Plus</strong></p>
-<ul style="">
-<li style="">You have experience with prototyping tools in addition to Figma such as Flinto and Protopie</li>
-<li style="">You have blockchain/crypto space experience.</li>
-</ul>
-<p><strong>About Exodus and 3Zero</strong></p>
-<p>Exodus is a multi-asset cryptocurrency wallet with a built-in exchange feature. We started our movement in 2015 and have been a distributed team since then. 3Zero, the Exodus-owned creative subsidiary, was created in 2023 to focus on being a creative powerhouse. The Exodus and 3Zero mission is the same: to help half of the world exit the traditional financial system and move into the crypto financial system by the year 2030. </p>
-<p><strong>What We Offer</strong></p>
-<ul style="">
-<li style="">Freedom to work wherever you want, whenever you want.</li>
-<li style="">Building the future. Cryptocurrencies lay the foundation to the internet of value, the next major wave in application technology and personal finance.</li>
-<li style="">Collaborative and feedback-driven culture.</li>
-<li style="">Opportunity to grow. </li>
-<li style="">Fair pay, no matter where you live </li>
-<li style="">100% pay in Bitcoin with a buffer to account for price changes and exchange fees. </li>
-<li style="">All the tools you need to do the job </li>
-</ul>
-<p><strong>Our Hiring Process</strong></p>
-<p>To apply, we'd love to learn more about you. Please answer our application questions! Submitting a resume is optional.</p>
-<p><em>Our hiring process consists of several different stages. </em></p>
-<p><strong>Recruiter Interview</strong>: If we like your initial application, expect to schedule an interview with a member of our recruitment team. This interview will focus on getting to know you a bit more and will focus on explaining the culture of the company. We want to know more about why you want to join our team, how you feel about our mission and cryptocurrency now and how it fits into your overall career plan to make sure this is the right place for you.</p>
-<p><strong>Interview(s) with your future manager</strong>: This is to make sure that you are a fit for the role you are applying to and to explore your career history. In this interview, we’ll learn more about the hard and soft skills you possess to help determine if you’d be a good fit for us.</p>
-<p><strong>Assessment: </strong>This role will include a take home test/assessment. You will be compensated for completing this take home test/assessment. </p>
-<p><em>Pay Transparency Notice</em>: The compensation for this role starts between $65,000 - $80,000. All other total compensation information (bonus eligibility and benefits eligibility) will be discussed in detail during the hiring process.</p><div class='"content-pay-transparency"'><div class='"pay-input"'><div class='"description"'><p><span style='"font-weight:'><strong><em>Pay Transparency Notice: </em></strong>Salary and all other total compensation information (bonus eligibility and benefits) will be discussed in detail during the hiring process.</span></p></div><div class='"title"'>Salary Range</div><div class='"pay-range"'><span>$65,000</span><span class='"divider"'>—</span><span>$80,000 USD</span></div></div></div><img src="https://remotive.com/job/track/1909103/blank.gif?source=public_api" alt=""/>
+                <div class="section page-centered" data-qa="job-description"><div><b>Location: Remote - Americas Team</b> (Open to applicants located in the U.S. and Canada).</div><div><br></div><div>As Director of UX &amp; Research, you lead and champion 10up’s UX Design, Content Design, and User Research capabilities, craft, and processes. You shape the UX and research strategy across all of our clients, continuously refine and evolve our capabilities, and are accountable for ensuring we craft intuitive experiences that drive results. You will also oversee our UX, Content &amp; Research team.</div><div><br></div><div>As a leading digital agency, 10up’s client roster spans from innovative startups and impactful non-profits, to some of the biggest names in the industry, such as ESPN, Google, The New York Times Co., and The Nobel Prize Committee.</div><div><br></div><div>As a 10upper, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 38+ countries, 10up fully embraces the benefits of distributed work.</div></div><div class="section page-centered"><div><h3>What you will do: </h3><ul class="posting-requirements plain-list"><ul><li>Serve as the owner of 10up’s UX, content and research services. Establish and maintain best practices, and ensure that process, methodologies, and tooling are constantly refined to best meet the needs of our clients.</li><li>Oversee (and be accountable for) our output and quality of delivery on client engagements at every stage of the project lifecycle. Ensure that all products we create produce true end-user value.</li><li>Provide strategic oversight and guidance for UX, Content &amp; UXR practitioners on projects, and support execution as necessary.</li><li>Establish, operationalize, and own internal initiatives to better define, position, and socialize UX, Content &amp; Research as a capability at 10up (both internally and externally).</li><li>Work with leaders within the discipline to grow and evolve practices and processes related to Content Strategy and Content Design, including content modeling &amp; information architecture, content analysis &amp; disposition planning, content governance and content production processes.</li><li>Stay current on industry trends and ensure our UX and research services are modern, innovative, and ahead of the curve relative to our competitors.</li><li>Work with Delivery leads to maintain appropriate staffing levels and utilization.</li><li>Support the allocation of UX/Content and UXR resources to different engagements and initiatives.</li><li>Collaborate with Product and Design leadership to foster synergy and collaboration across the broader strategy practice.</li><li>Serve as a senior escalation point for UX, Content &amp; Research practitioners and support the resolution of project or team issues.</li><li>Build, mentor, and manage a growing team of high-performing UX, Content &amp; Research practitioners. Work with our Resourcing Manager to most effectively allocate the team’s time.</li><li>Represent 10up’s UX, Content &amp; Research practice externally at conferences, events, and speaking engagements.</li><li>Support our Sales and Marketing teams in pitching and positioning our UX, Content &amp; Research services to prospective clients (and the world!).</li></ul></ul></div></div><div class="section page-centered"><div><h3>About you: </h3><ul class="posting-requirements plain-list"><ul><li>You bring 10+ years of experience in UX design and research for digital products, preferably in an agency setting.</li><li>You have 3+ years of management experience, with a proven track record of leading UX &amp; Research teams.</li><li>You have deep expertise in User Experience Design and User Research methodologies and best practices.</li><li>You demonstrate a strong understanding of design principles for creating intuitive and user-friendly digital experiences, and demonstrated experience in doing so for mobile apps and websites.</li><li>Your experience gives you a strategic understanding of large scale content-heavy digital experiences and the role of content strategy in ensuring success of such projects</li><li>You have excellent communication, presentation, and interpersonal skills with the ability to influence executive-level stakeholders and manage client relationships.</li><li>You are passionate about user-centered design and have a strong desire to create exceptional user experiences.</li><li>You are proficient in a broad variety of UX research tools and design software (including Figma).</li><li>You have experience working with and leading others as part of a distributed (remote) team</li></ul></ul></div></div><div class="section page-centered"><div><h3>Benefits of interest:</h3><ul class="posting-requirements plain-list"><ul><li>Multiple paid time off programs, including accrued PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day.</li><li>Health, dental, and life insurance programs (available for United States team members).</li><li>Retirement contribution programs (currently available in the U.S. and U.K.).</li><li>$3,000 USD accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study.</li><li>Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations.</li><li>Global Company summits – opportunities to meet, socialize and learn with fellow 10uppers in person at remarkable destinations.</li><li>An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year.</li></ul></ul></div></div><div class="section page-centered" data-qa="salary-range"><div>$150,000 - $185,000 a year</div><small><div>The expected annual salary range for this position is between<b> $150,000 and $185,000</b> USD. Compensation is determined based on a variety of factors including relevant experience, other job related qualifications/skills, geographic location, and business needs.</div></small></div><div class="section page-centered" data-qa="closing-description"><div><b style="font-size: 18px">Join our team!&nbsp;</b></div><div><br></div><div>If you are passionate about 10up's mission and think you have what it takes to be successful in this role even if you don't check all the boxes, please apply. We'd appreciate the opportunity to personally review your application. Everyone gets a response.</div><div><br></div><div>Read more about <a href="https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view" class="postings-link">What to Expect </a>through our Recruiting process.</div><div><br></div><div>We don't want you to miss any communication from us! To ensure you receive updates on your application, please add jobs@10up.com to your contacts list! #LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/10up-2/baeec154-fd4b-4805-aefc-45d4b6fe0105/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
