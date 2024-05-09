@@ -10,7 +10,7 @@
                     <code>AWS,azure,cloud,django</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/devops-engineer-1909405" align="right" target="_blank">Apply</a>
@@ -74,30 +74,6 @@
 <li style="">Professional Development: Benefit from generous professional development options.</li>
 </ul>
 <img src="https://remotive.com/job/track/1909405/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/55028a36-609c-479c-9553-d4689ff2dd8c-1669620566663.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Airalo</h5>
-                    <h3>Senior DevOps/SRE Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/airalo/bb8cb1a8-de8b-40bb-989f-d60f3b674e19" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b>About Airalo</b></div><div>Alo! Airalo is the world’s first eSIM store that helps people connect in over 200+ countries and regions across the globe. We are building the next digital service that revolutionizes the telecom industry. We are a travel-tech company and an equal-opportunity environment that values and executes diversity, inclusion, and equity. Our team is spread across 50+ countries and six continents. What glues us together is our commitment to changing the way you connect<span style="font-size: 13.3333px">. </span></div><div><br></div><div><b>About you</b></div><div>We hope that you care deeply about the quality of your work, the intrinsic worth of tasks, and the success of your team. You are self-disciplined and do not require micromanagement in terms of your skillset and work ethic. You do your best to flourish as an individual every day while working hard to foster a collaborative team environment. You believe in the importance of being — and staying — authentic, honest, positive, and kind. You are a good interlocutor with clear and concise communication. You are able to manage multiple projects, have an analytical mind, pay keen attention to detail, and love to get your hands dirty. You are cognizant, tolerant, and welcoming of vulnerabilities and cultural differences.</div><div><br></div><div><b>About the Role</b></div><div><b>Position</b>: Full-time / Employee</div><div><b>Location:</b>&nbsp;Remote-first </div><div><b>Benefits:</b>&nbsp;Health Insurance, work-from-anywhere stipend, annual wellness &amp; learning credits, annual all-expenses-paid company retreat in a gorgeous destination &amp; other benefits</div><div><br></div><div>We are looking for an experienced DevOps Engineer to join our growing development team. We welcome talented, passionate, innovative, result-oriented professionals who are highly skilled in AWS, Docker, CI/CD design and development, configuration management.</div><h3>Responsibilities include, but are not limited to:</h3><li>Drive continuous improvement, continuous delivery, and lean practices within the team</li><li>Maintain and develop existing cloud infrastructure</li><li>Ensures a high level of end-user satisfaction by advocating and implementing practices, metrics and monitoring tools with a user perspective in mind</li><li>Improve observability of existing systems</li><li>Implement automation, testing and deployment pipelines (CI/CD)</li><li>Improve monitoring that alerts on anomalies rather than incidents, and infrastructure-as-code</li><li>Own the reliability and security of cloud infrastructure and services</li><li>Participate in system design consulting, platform management, and capacity planning</li><li>Be on an on-call (PagerDuty) rotation to respond to incidents that impact availability.</li>,<h3>Must-haves:</h3><li>Bachelor’s degree in Computer Engineering or a similar discipline.</li><li>5+ years of experience as DevOps Engineer.</li><li>5+ years of experience in Linux administration.</li><li>3+ years of experience with AWS services including strong knowledge in container orchestration.</li><li>Strong experience with Observability tools - logging/monitoring/alerting solutions.</li><li>Experience with CI/CD tools such as GitHub Actions, BitBucket CI/CD.</li><li>Experience with Configuration Management tools.</li><li>Comfortable with messaging systems (RabbitMQ, Kafka)</li><li>Experience and interest in infrastructure as a code approach (Terraform).</li><li>Strong development skills in scripting/programming language (Python, Bash, etc).</li><li>Experience in operating and automating Linux based systems.</li><li>Knowledge of distributed systems and microservices architecture.</li><li>Team player and open to new ideas.</li><li>Good communication skills and fluency in English.</li>,<h3>Good to haves:</h3><li>Prior experience with Scrum and other agile methods.</li><li>Prior work experience in telecommunications.</li><li>Knowledge of eSIM and GSMA related technologies and services.</li><div>If you are interested in this position, <b>please apply via the link.</b></div><div><br></div><div><i>We sincerely thank all applicants in advance for submitting their interest in this opportunity with Airalo. </i></div>
                 </details>
                 </td>
             </tr></table>
