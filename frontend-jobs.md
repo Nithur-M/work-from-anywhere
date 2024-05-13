@@ -1,5 +1,77 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1911439/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Himshers</h5>
+                    <h3>Sr. Software Engineer, Frontend</h3>
+                </td>
+                <td width="300">
+                    <code>javascript,react</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/sr-software-engineer-frontend-1911439" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class='"content-intro"'><p>Hims &amp; Hers Health, Inc. (better known as Hims &amp; Hers) is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are revolutionizing telehealth for providers and their patients alike. Making personalized solutions accessible is of paramount importance to Hims &amp; Hers and we are focused on continued innovation in this space. Hims &amp; Hers offers nonprescription products and access to highly personalized prescription solutions for a variety of conditions related to mental health, sexual health, hair care, skincare, heart health, and more.</p>
+<p>Hims &amp; Hers is a public company, traded on the NYSE under the ticker symbol “HIMS”. To learn more about the brand and offerings, you can visit<a href="%22http://forhims.com/%22" rel="nofollow"> hims.com</a> and<a href="%22http://forhers.com/%22" rel="nofollow"> forhers.com</a>, or visit our<a href="%22https://investors.hims.com/overview/default.aspx%22" rel="nofollow"> investor site</a>. For information on the company’s outstanding benefits, culture, and its talent-first flexible/remote work approach, see below and visit <a href="%22http://www.hims.com/careers-professionals%22" rel="nofollow">www.hims.com/careers-professionals</a>.</p></div><div class="h3"><strong>​​About the Role:</strong></div>
+<p>Hims and Hers is seeking an experienced SEO Engineer to help build a fast, reliable, and frictionless telemedicine end-user experience.</p>
+<div class="h3"><strong>You Will:</strong></div>
+<ul style="">
+<li style="">Work seamlessly to collaborate with backend and quality engineers to spec, write, test, and deploy code that powers<a href="%22https://boards.greenhouse.io/himshers/jobs/forhims.com%22" rel="nofollow"> hims.com</a> and<a href="%22https://boards.greenhouse.io/himshers/jobs/forhers.com%22" rel="nofollow"> forhers.com</a></li>
+<li style="">Create engaging and responsive user interfaces using modern web technologies</li>
+<li style="">Work with product managers and data scientists to analyze SEO product and user data, and iterate based on data insights </li>
+<li style="">Develop and execute successful SEO strategies to enhance organic search visibility and traffic</li>
+<li style="">Collaborate with content and marketing teams to create SEO-friendly content</li>
+<li style="">Optimize website architecture, content, and user experience to improve search rankings</li>
+<li style="">Implement on-page SEO best practices including meta tags, alt tags, and content optimization</li>
+<li style="">Lead technical SEO audits and work with the development team to implement fixes</li>
+<li style="">Brainstorm features with product managers and designers and guide decisions based on your knowledge of the codebase</li>
+<li style="">Monitor and improve the performance of applications, ensuring a seamless user experience</li>
+<li style="">Conduct thorough code reviews to ensure code quality, adherence to standards, and to foster a culture of continuous improvement within the development team</li>
+<li style="">Provide guidance and mentorship to junior developers, sharing your expertise and ensuring team growth</li>
+<li style="">Maintain detailed documentation of code and processes, ensuring alignment with company and industry standards</li>
+<li style="">Actively participate in retrospectives and help drive continuous improvement in our process and culture</li>
+</ul>
+<div class="h3"><strong>You Have:</strong></div>
+<ul style="">
+<li style="">5+ years as a software engineer, shipping production code</li>
+<li style="">3+ years of hands-on experience in SEO with a proven track record of success</li>
+<li style="">Proficiency in React, HTML5, Javascript, Typescript, CSS3/SASS</li>
+<li style="">Strong understanding of CSS, design principles, and component library creation</li>
+<li style="">Strong understanding of responsive design and cross-browser compatibility</li>
+<li style="">Deep understanding of search algorithms, ranking strategies, and SEO tools</li>
+<li style="">Strong analytical skills and experience with Amplitiude, Google Tag Manager, and similar platforms</li>
+<li style="">Excellent communication and collaboration skills</li>
+<li style="">Excellent problem-solving skills and attention to detail</li>
+<li style="">Ability to think strategically, analytically, and creatively.</li>
+</ul>
+<div class="h3"><strong>Our Benefits (there are more but here are some highlights):</strong></div>
+<ul style="">
+<li style="">Competitive salary &amp; equity compensation for full-time roles</li>
+<li style="">Unlimited PTO, company holidays, and quarterly mental health days</li>
+<li style="">Comprehensive health benefits including medical, dental &amp; vision, and parental leave</li>
+<li style="">Employee Stock Purchase Program (ESPP)</li>
+<li style="">Employee discounts on hims &amp; hers &amp; Apostrophe online products</li>
+<li style="">401k benefits with employer matching contribution</li>
+<li style="">Offsite team retreats</li>
+</ul>
+<p> </p>
+<p><em>#LI-Remote</em></p>
+<p> </p><div class='"content-pay-transparency"'><div class='"pay-input"'><div class='"description"'><p>Outlined below is a reasonable estimate of H&amp;H’s compensation range for this role for <strong>US-based candidates</strong>. If you're based outside of the US, your recruiter will be able to provide you with an estimated salary range for your location.<br><br>The actual amount will take into account a range of factors that are considered in making compensation decisions including but not limited to skill sets, experience and training, licensure and certifications, and location. H&amp;H also offers a comprehensive Total Rewards package that may include an equity grant.<br><br>Consult with your Recruiter during any potential screening to determine a more targeted range based on location and job-related factors. We don’t ever want the pay range to act as a deterrent from you applying!</p></div><div class='"title"'>An estimate of the current salary range for US-based employees is</div><div class='"pay-range"'><span>$125,000</span><span class='"divider"'>—</span><span>$175,000 USD</span></div></div></div><div class='"content-conclusion"'><p><em>We are focused on building a diverse and inclusive workforce. If you’re excited about this role, but do not meet 100% of the qualifications listed above, we encourage you to apply.</em></p>
+<p><em>Hims is an Equal Opportunity Employer and considers applicants for employment without regard to race, color, religion, sex, orientation, national origin, age, disability, genetics or any other basis forbidden under federal, state, or local law. Hims considers all qualified applicants in accordance with the San Francisco Fair Chance Ordinance.</em></p>
+<p><em>Hims &amp; hers is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, you may contact us at <a href="%22mailto:accommodations@forhims.com%22" rel="nofollow">accommodations@forhims.com</a>. Please do not send resumes to this email address.</em></p>
+<p><em>For our California-based applicants – Please see our <a href="%22https://www.hims.com/california-employment-candidate-privacy-policy%22" rel="nofollow" target='"_blank"'>California Employment Candidate Privacy Policy</a> to learn more about how we collect, use, retain, and disclose Personal Information. </em></p></div><img src="https://remotive.com/job/track/1911439/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
