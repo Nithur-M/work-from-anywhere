@@ -1,5 +1,100 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1911362/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Tabby</h5>
+                    <h3>Backend Engineer (Card Activation Team)</h3>
+                </td>
+                <td width="300">
+                    <code>golang,kubernetes,postgresql,Redis</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/backend-engineer-card-activation-team-1911362" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><!--block--><strong>Tabby</strong> creates financial freedom in the way people shop, earn and save by reshaping their relationship with money. Over 5,000,000 active users choose Tabby to stay in control of their spending and make the most out of their money.</div><div><!--block-->Over 30,000 global brands and small businesses, including H&amp;M, Adidas, IKEA, SHEIN, noon, and Bloomingdale’s, use Tabby’s technology to accelerate growth and gain loyal customers by offering flexible payments online and in stores. Tabby is active in Saudi Arabia, UAE, Egypt and Kuwait and backed by leading investors, including Sequoia Capital India, STV, PayPal Ventures, Mubadala Investment Capital, Arbor Ventures and others.<br><br><strong>Card Activation</strong> team is in charge of сard activation flow including card issuing and first transaction. Our <strong>Tabby Card</strong> can be added to customer’s device (Apple Wallet, Google and Samsung Pay), so that a customer can split any payment into 4 parts. Customers can pay with Tabby Card in offline stores and also online in limited number of stores.</div><div class="h3"><!--block-->You’ll be working in a dynamic, rapidly evolving environment. </div><div><!--block--><br></div><div class="h3"><!--block--><strong>We expect that you have</strong>:</div><ul style=""><li style=""><!--block-->Strong coding ability in Golang;</li><li style=""><!--block--><strong>2+ years as a Golang Engineer at a fast-growing fintech/e-commerce company;</strong></li><li style=""><!--block-->Profound experience with partner APIs integration and product development;</li><li style=""><!--block-->A passion for writing clean and testable code;</li><li style=""><!--block--><strong>English level B1 and above;</strong></li><li style=""><!--block-->And, of course, you should be proactive, enthusiastic and independent.</li></ul><div><!--block--><br></div><div><!--block--><strong>Some of the technologies you'll get to work with:</strong></div><ul style=""><li style=""><!--block-->Golang;</li><li style=""><!--block-->PostgreSQL;</li><li style=""><!--block-->Redis;</li><li style=""><!--block-->Kubernetes;</li><li style=""><!--block-->Google Cloud Platform;</li><li style=""><!--block-->Gitlab.</li></ul><div><!--block--><br></div><br><br><div class="h3">What you can expect</div><div><!--block--><strong>Relocation<br><br></strong>We offer remote work from anywhere in the world and are happy to work out an individual relocation plan for you.<br><br>Our employees have the opportunity to choose a country for registration: at the moment those are Armenia/Georgia/Serbia/Portugal/Spain.<br><br>We will help you open a legal entity and a bank account. In Armenia and Georgia the taxes are compensated by Tabby. In other countries we provide partial compensation of taxes.<br><br><strong>For our employees we cover the following:</strong></div><ul style=""><li style=""><!--block-->Flight to one of the mentioned countries.</li><li style=""><!--block-->Accommodation during the paperwork completion period.</li><li style=""><!--block-->Opening a bank account and getting a residence permit in one of the mentioned countries.</li><li style=""><!--block-->Family relocation (dependants).</li></ul><div><!--block-->New employees can also choose an alternative method of relocation to another country of their choice. In this case, Tabby will reimburse up to $5,000 of verified costs upon opening a legal entity and a bank account.<br><br></div><img src="https://remotive.com/job/track/1911362/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1911335/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Vivid Money</h5>
+                    <h3>Senior QA Engineer - Manual Testing (Backend and Mobile)</h3>
+                </td>
+                <td width="300">
+                    <code>manual testing</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/qa/senior-qa-engineer-manual-testing-backend-and-mobile-1911335" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>We are seeking a highly skilled and detail-oriented Senior QA Engineer to join our team. As a QA Engineer, you will be responsible for conducting manual testing of both backend systems and mobile applications. Your expertise will contribute to ensuring the quality, functionality, and performance of our software products. The ideal candidate will possess a strong understanding of software testing methodologies, possess excellent analytical skills, and be able to collaborate effectively with cross-functional teams.</p>
+<p><strong>Responsibilities</strong>:</p>
+<ul style="">
+<li style="">Perform manual testing of backend systems, mobile and web applications to identify bugs, defects, and usability issues.</li>
+<li style="">Develop and execute comprehensive test plans and test cases based on project requirements and specifications.</li>
+<li style="">Conduct functional, regression, integration, and performance testing to ensure product quality.</li>
+<li style="">Collaborate with cross-functional teams, including developers, product managers, and designers, to understand software requirements and contribute to the improvement of software quality.</li>
+<li style="">Identify, document, and track defects using bug tracking systems, and work with the development team to resolve issues.</li>
+<li style="">Analyze test results, provide detailed reports, and communicate findings to relevant stakeholders.</li>
+<li style="">Continuously improve testing processes and methodologies to enhance efficiency and effectiveness.</li>
+<li style="">Stay up-to-date with industry best practices and emerging technologies related to software testing and quality assurance.</li>
+<li style="">Contribute to the creation and maintenance of test documentation, including test cases, test scripts, and test data.</li>
+</ul>
+<p><strong>Requirements</strong></p>
+<ul style="">
+<li style="">5+ years of proven experience as a QA Engineer, with a focus on manual testing.</li>
+<li style="">Strong knowledge of software testing methodologies, techniques, and best practices.</li>
+<li style="">Proficiency in backend testing, including API testing, database testing, and server-side validation.</li>
+<li style="">Experience in testing mobile applications (Android and/or iOS) across multiple devices and platforms.</li>
+<li style="">Experience in cross-platform and cross-browser testing of web applications and utilizing testing tools.</li>
+<li style="">Proficient in conducting thorough analyses of functionality and adept at precisely identifying and resolving issues.</li>
+<li style="">Familiarity with bug tracking systems (e.g., Jira, Bugzilla) and test management tools.</li>
+<li style="">Ability to understand software requirements and translate them into comprehensive test plans and test cases.</li>
+<li style="">Strong analytical and problem-solving skills, with a keen eye for detail.</li>
+<li style="">Excellent written and verbal communication skills, with the ability to effectively collaborate with cross-functional teams.</li>
+<li style="">Self-motivated, proactive, and able to work independently with minimal supervision.</li>
+<li style="">Familiarity with Agile/Scrum development methodologies is a plus.</li>
+<li style=""><em>Will be an advantage:</em> Knowledge and experience in testing gRPC.</li>
+</ul>
+<p> </p>
+<p><strong>Tools</strong>:</p>
+<p>Kibana, Allure TestOps, Charles, Postman, gitlab, Kafka, MySQL, Jira, Notion, GSuite, Slack, Dev Tools, Browserstack</p>
+<p><strong>Benefits</strong></p>
+<ul style="">
+<li style="">This job is only for those who are outside of Russia (remote work) or willing to relocate to Limassol (Cyprus) or Almaty (Kazakhstan).</li>
+<li style="">We support relocation (visa, package) when needed.</li>
+<li style="">This is a senior-level position with a competitive salary and benefits package (depending on location).</li>
+</ul>
+<p>If you're looking for an exciting new opportunity to take your engineering skills to the next level and make an impact in the world of finance, then Vivid is the perfect place for you. Come and join our talented team of professionals and help us revolutionize the way people think about their money!</p>
+<p><br><br></p>
+<div class="h2">About the company</div>
+<p> </p>
+<p>Vivid offers a unique mobile banking app and a distinctive digital investing platform from a single app. Whether it’s payments, transfers, multi-currency accounts for your travels, spendings reports, split bills as well as the possibility to invest in international stocks, ETFs, precious metals and crypto. With Vivid, managing your finances is easy, flexible and 100% transparent.</p>
+<p> </p>
+<p>We founded Vivid wanting to bring a colourful and entirely different experience to modern banking. Banking needs to put the customer first and in control. With our knowledge and experience, we strive to help our customers earn more and increase their wealth. Online banking needs to be very easy, and on the other hand, very safe.</p>
+<p> </p>
+<p>On the 8th of June 2020, Vivid was launched in Germany as its first market, followed by France, Spain and Italy, with more European countries to come!</p>
+<img src="https://remotive.com/job/track/1911335/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
                 </td>
                 <td width="300">
