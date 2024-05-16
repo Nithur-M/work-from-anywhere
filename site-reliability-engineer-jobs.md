@@ -4,6 +4,100 @@
                 </td>
                 <td width="300">
                     <h5>Supabase</h5>
+                    <h3>Cloud Platform / Site Reliability Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/supabase/jobs/5172163004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p><img src="https://pbs.twimg.com/media/FIdU8GJWQAUGWRA?format=jpg&amp;name=small" alt="Join Supabase" width="680" height="453"></p></div>
+
+    <p>Supabase is an Open Source and fully remote company building developer tools for databases. We are seeking a Cloud Platform Engineer / SRE to manage the infrastructure of our Postgres databases. We currently manage over 1M Postgres instances and are growing fast.</p>
+<h4>You will</h4>
+<ul>
+<li>Help build the Supabase Cloud offering.</li>
+<li>Improve our system architecture to reduce costs while balancing security and performance.</li>
+<li>Work on designing and tracking metrics for platform uptime.</li>
+<li>Increase observability into our system by capturing relevant metrics and logs.</li>
+<li>Implement and maintain intrusion detection, automated remediation and patch management systems.</li>
+<li>Design CI/CD systems to speed up deployments with proper change and release management processes.</li>
+</ul>
+<h4>You are</h4>
+<ul>
+<li>Experience in designing multi-tenant database solutions, designing for failover, fault-tolerance, and disaster recovery;</li>
+<li>5+ years experience in SRE/DevOps/Cloud Infrastructure;</li>
+<li>4+ years of experience in building with Golang and Typescript;</li>
+<li>Experience in managing large deployments on AWS;</li>
+<li>Knowledge of networking;</li>
+<li>Experience with Infrastructure as Code tools;</li>
+</ul>
+<h4>Onboarding logistics</h4>
+<p>Successful candidates will be required to participate in an in-person onboarding program in Singapore. This onboarding process will last for 1-2 weeks. During this time, new hires will be immersed in our culture, systems, and processes, ensuring they are well-prepared to excel in their responsibilities.</p>
+<h4>We offer</h4>
+<ul>
+<li>100% remote work from anywhere in the world. No location-based adjustment to your salary.</li>
+<li>ESOP (equity ownership in the company)</li>
+<li>Autonomous work. We work collaboratively on projects, but you set your own pace.</li>
+<li>Health, Vision and Dental benefits. Supabase covers 100% of the cost for employees and 80% for dependents</li>
+<li>Tech Allowance for any office setup you need</li>
+<li>Annual Education Allowance</li>
+<li>Annually run off-sites.</li>
+</ul>
+<p>&nbsp;</p>
+
+    
+
+    <div class="content-conclusion"><h3>BUILD IN A WEEKEND. SCALE TO BILLIONS</h3>
+<p>Supabase adds auth, realtime, and restful APIs to Postgres without a single line of code.</p>
+<p>Each project within Supabase is an isolated&nbsp;Postgres cluster, allowing customers to scale independently, while still providing the features that you need to build: instant database setup, auth, row level security, realtime data streams, auto-generating APIs, and a simple to use web interface.</p>
+<p>We are a fully remote company.</p>
+<p>Key Tech: Javascript, Typescript, Go, Elixir, PostgREST (haskell), Postgres, Pulumi.</p>
+<h3><a id="about-the-team" class="anchor"></a>About the team</h3>
+<ul>
+<li>We're a startup. It's unstructured.</li>
+<li>Collectively founded more than a dozen venture-backed companies.</li>
+<li>More than 10 different nationalities.</li>
+<li>We deeply believe in <a href="https://supabase.com/blog/2022/03/25/should-i-open-source-my-company" target="_blank">the efficacy of collaborative open source</a>. We support existing communities and tools, rather than building "yet another xx".</li>
+<li>We "dogfood" everything. If you use it in your project, we use it in Supabase.</li>
+</ul>
+<h2><a id="process" class="anchor"></a>Process</h2>
+<ul>
+<li>The entire process is fully remote and all communication will happen over email or via video chat.</li>
+<li>Once you've submitted your application, the team will review your submission, and may reach out for a short screening interview over video call.</li>
+<li>If you pass the screen you will be invited to up to four follow up interviews. The calls:
+<ul>
+<li>usually take between 20-45 minutes each depending on the interviewer.</li>
+<li>are all 1:1.</li>
+<li>will be with both founders, a member of either the growth or engineering team (depending on the role), and usually one other person from your immediate team or function.</li>
+</ul>
+</li>
+<li>Once the interviews are over, the team will meet to discuss several roles and candidates and may:
+<ul>
+<li>ask one or two follow-up questions over email or a quick call.</li>
+<li>go directly to making an offer.</li>
+</ul>
+</li>
+</ul>
+<h2>&nbsp;</h2></div>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1651226564728700928/h0tz5UT1_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Supabase</h5>
                     <h3>Site Reliability Engineer: Postgres</h3>
                 </td>
                 <td width="300">
