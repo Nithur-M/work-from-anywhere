@@ -1,5 +1,92 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1912900/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Yassir</h5>
+                    <h3>Lead Backend Engineer (Nodejs) - FS</h3>
+                </td>
+                <td width="300">
+                    <code>git,react</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/lead-backend-engineer-nodejs-fs-1912900" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><strong><span style="">Yassir</span></strong><span style=""> is the leading super App in the Maghreb region set to changing the way daily services are provided. It currently operates in </span><strong><span style="">45 cities across Algeria, Morocco and Tunisia with recent expansions into France, Canada and Sub-Saharan Africa</span></strong><span style="">. It is backed (~</span><strong><span style="">$200M in funding</span></strong><span style="">) by VCs from Silicon Valley, Europe and other parts of the world. </span></div>
+<div><span style="">We offer on-demand services such as ride-hailing and last-mile delivery. Building on this infrastructure, we are now introducing financial services to help our users pay, save and borrow digitally. </span></div>
+<div><span style="">Helping usher the continent into a digital economy era. We’re not just about serving people - we’re about creating a marketplace to bring people what they need while infusing social values.</span></div>
+<div> </div>
+<div><span style="">About the role</span></div>
+<div>As a Backend Staff/lead Engineer, you will drive the technical standards for the Backend across our consumer domain, working with multiple squads inside the domain. You will lead Backend engineers with tech roadmaps, architecture decisions, and feature development and release cycle. You will mentor junior developers. You will contribute to scaling up Backend engineers in multiple squads and bringing great talents on board by conducting technical interviews.</div>
+<p><br><br></p>
+<div class="h3">About your role as Staff Engineer, Backend (Nodejs)</div>
+<ul style="">
+<li style="">Design, build and maintain features for the domain applications</li>
+<li style="">Provide technical leadership and manage dependencies</li>
+<li style="">Conduct design and code reviews</li>
+<li style="">Help the domain team members with technical blockers supporting them and helping them grow</li>
+<li style="">Continuously discover, evaluate, and implement new technologies to maximize efficiency</li>
+<li style="">Participate in architecture and design discussions</li>
+<li style="">Participate strongly in building the technical roadmap</li>
+<li style="">Conduct technical interviews</li>
+<li style="">Help Improving engineering standards, tooling, and processes</li>
+</ul>
+<p><br><br></p>
+<div class="h3">Owner of these projects</div>
+<ul style="">
+<li style="">Perform feasibility studies to validate capability and functionality</li>
+<li style="">Draft and submit intellectual property</li>
+<li style="">Research and assess current technologies</li>
+<li style="">Develop and execute complex, multi-tier distributed software search applications</li>
+<li style="">Create technical and domain expertise and apply to products and problems</li>
+<li style="">Assess and write code to improve or extend application</li>
+<li style="">Manage and assist current software applications</li>
+<li style="">Experience providing technical leadership, and mentoring others</li>
+</ul>
+<p><br><br></p>
+<div class="h3">About your experience</div>
+<ul style="">
+<li style="">At least 10 years of experience in backend engineering with NodeJS</li>
+<li style="">Strong foundation in programming fundamentals</li>
+<li style="">Excellent communication skills</li>
+<li style="">Enjoy solving problems and helping others meet their goals</li>
+<li style="">Substantial experience with Git in a team environment</li>
+<li style="">Experience writing testable code and unit tests</li>
+<li style="">Experience in a fast-growing startup in a the on-demand services space is a plus</li>
+<li style="">Have a deep knowledge of React and NodeJS, and you have experience developing products with it</li>
+<li style="">Experience using modern JavaScript and tooling in a full-stack setting</li>
+<li style="">Extensive experience with A/B experiments and have a data-driven attitude toward product development</li>
+</ul>
+<div>😎 You will be part of one of the first Algerian startups to go through the Y Combinator program and one of the fastest-growing tech companies in North Africa. We are current in +30 cities (Algeria, Tunisia, Morocco, Senegal, France and Germany)</div>
+<div>💸 Attractive salary and you even get a stake in the company</div>
+<div>🚉 Subsidized public transit pass</div>
+<div>🤙🏽Have a lasting impact on our company's culture</div>
+<div>🚀 Perfect timing with renowned investors to build something great</div>
+<div>📈 Extremely steep learning curve with own responsibility and intensive guidance</div>
+<div>💯 Make a real impact on the world by helping us bring affordable financial and on-demand services to millions of Africans</div>
+<div> </div>
+<div>At Yassir, we believe in the power of diversity and the importance of an inclusive culture. So, if you're ready to bring your unique perspective and experiences to the table, then we're excited to listen.</div>
+<div> </div>
+<div>Don't just apply for a job, come and be a part of our journey. Let's create a better tomorrow together.</div>
+<div> </div>
+<div>We look forward to receiving your application!</div>
+<div> </div>
+<div>Best of luck,</div>
+<div>Your Yassir TA Team</div>
+<div> </div>
+<div> </div>
+<img src="https://remotive.com/job/track/1912900/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
                 </td>
                 <td width="300">
