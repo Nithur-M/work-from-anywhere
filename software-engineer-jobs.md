@@ -132,7 +132,7 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 &lt;p&gt;We&#39;re looking for experienced engineers to help us build and maintain the platform for our managed TimescaleDB cloud services. You will be able to work with a close-knit team, building and maintaining the infrastructure that powers our platform. Your work will be instrumental in developing our Kubernetes-based clusters and infrastructure. You will interact with the Kubernetes API and codebase to build controllers, operators, and applications that power our platform. Additionally, you will work closely with and further develop our infrastructure tooling to ensure our clusters&#39; health, stability, and maintainability. You will also get a lot of hands-on experience debugging and optimizing TimescaleDB and Postgres workloads.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Timescale is an all-remote organization open to candidates in Amerian and European timezones to allow for team collaboration. This is a full-time position.&lt;/p&gt;
+&lt;p&gt;Timescale is an all-remote organization open to candidates in American and European timezones to allow for team collaboration. This is a full-time position.&lt;/p&gt;
 &lt;h3&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Strong programming skills (we mostly use Go but are more concerned with good fundamentals)&lt;/li&gt;
