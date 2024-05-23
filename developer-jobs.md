@@ -10,7 +10,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -654,6 +654,30 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div>Collabora is looking for a passionate and enthusiastic open-source software developer, with good knowledge of at least one of OpenGL or Vulkan, to join our ever growing geographically-distributed Graphics domain team.</div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li>Good knowledge of at least one of the OpenGL or Vulkan APIs</li><li>Experience developing on Linux systems</li><li>Knowledge of open source development methodologies and relevant open source communities</li><li>Good English language skills (both verbal and written)&nbsp;</li><li>Ability to work and communicate in an online fully distributed environment </li></ul></ul></div></div><div class="section page-centered"><div><h3>Desirable Skills (The below are skills that to some degree will be useful at the start of your career within Collabora. Training and opportunities for development will be offered)</h3><ul class="posting-requirements plain-list"><ul><li>Experience profiling and optimizing application's use of the GPU</li><li>Experience with developing GPU compilers</li><li>Direct contributions to the Mesa 3D Graphics Library</li><li>Experience leading teams to understand and define constraints, requirements and solutions</li><li>Good communication with customers and upstream communities</li><li>Self-learning skills to get sufficient knowledge of Collabora's services,&nbsp;business model, project delivery life cycle and other related technical domains</li><div><br></div></ul></ul></div></div><div class="section page-centered" data-qa="closing-description"><div>Collabora's Graphics team contributes to the entire Linux Graphics stack, from the Linux kernel up to the display servers, including but not  limited to GPU and display kernel drivers, Wayland/Weston, OpenGL, Vulkan and other open-source graphics drivers within the Mesa 3D Graphics Library for different customers’ projects in various market verticals.</div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/bd4a9eb8-528f-4553-a832-ca6949ab46bd/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>C Developer for popular open source projects (worldwide remote, work anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/52AFCFE196" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>We are in search of a highly skilled and passionate C Developer to join our exceptional Extended Lifecycle team at CloudLinux. As a member of this team, you will have a unique opportunity to contribute to major open-source projects such as Apache HTTPD, OpenSSL, and MySQL. Your role will involve the important task of backporting crucial security fixes to ensure the stability of these projects.</p><p>By joining our team of experts, you will have the chance to collaborate with top-notch developers and have a significant impact on the open-source community. For more information about the project and our company, visit our branded websites, <a href="https://www.cloudlinux.com" rel="nofollow noreferrer noopener" class="external">CloudLinux.com</a> and <a href="https://www.tuxcare.com" rel="nofollow noreferrer noopener" class="external">TuxCare.com</a>.</p><p>Come be a part of CloudLinux, where every team member supports each other's success. </p><p><strong>What You Will Do:</strong></p><ul> <li>Collaborate on various open-source projects, including Apache HTTPD, Python, OpenSSL, and more.</li> <li>Backport security and bug fixes from newer upstream versions or develop patches from scratch.</li> <li>Contribute to upstream projects.</li> <li>Create reproducers and tests for vulnerabilities.</li> <li>Automate routine processes such as monitoring CVEs, applying patches, and testing.</li> </ul><h3>Requirements: </h3><p><strong>To be successful you should have;</strong></p><ul> <li>5+ years of professional experience in C programming required</li> <li>Must be proficient in GNU/Linux operating system and shell scripting</li> <li>Strong ability to work with various build systems, including autotools, make, and cmake</li> <li>Prior experience with git-based development processes preferred</li> <li>Knowledge of scripting languages like Python, Perl, or similar will be a valuable asset</li> </ul><p></p><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
                 </details>
                 </td>
             </tr>,<tr>
