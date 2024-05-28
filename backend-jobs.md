@@ -56,7 +56,8 @@
 <p><br /></p>
 <p><strong>Please note that:</strong> </p>
 <ul><li>Sometimes we meet up! Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.</li><li>While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week. </li><li>A successful candidate will be subject to a background check and must receive satisfactory results of the same, as a condition of joining the team. </li><li>By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.</li></ul>
-<div><p>#US #UK #SP #PL #IR #IC #HN #CR #CN #AU</p></div>
+<p><br /></p>
+<p>#LI-REMOTE #US #UK #SP #PL #IR #IC #HN #CR #CN #AU</p>
 <div><p><br /></p></div>
 <div><br /></div>
 <p><br /></p>
