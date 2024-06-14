@@ -4,132 +4,7 @@
                 </td>
                 <td width="300">
                     <h5>Sourcegraph</h5>
-                    <h3>Product Manager, AI [IC4]</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/sourcegraph91/jobs/5196192004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
-<h2><strong><span style="color: #a112ff;">Who we are</span></strong></h2>
-<p>Our mission at Sourcegraph is to make it so that&nbsp;<a class="c-link" href="https://sourcegraph.notion.site/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d" target="_blank" data-stringify-link="https://handbook.sourcegraph.com/strategy-goals/strategy" data-sk="tooltip_parent">everyone can code</a>, not just ~0.1% of the population. Our code graph powers Cody, the most powerful and accurate AI coding assistant, as well as our Code Search product, which helps devs explore their entire codebase and make large-scale migrations and security fixes. We’re building software that builds software, and in doing so we’re making devs more productive and preparing for a world where a lot more code gets written.</p>
-<p>It’s an exciting time to join Sourcegraph. AI has taken over the world, and we’ve spent the last 10 years building infrastructure that’s integral to making AI generated code more powerful and accurate. Our customers include 4/5 FAANG companies, 4 of the top 10 banks, government organizations, Uber, Plaid, and many other companies building the software that pushes the world forward. We’ve raised $225M at a $2.625B valuation from <a class="c-link" href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" target="_blank" data-stringify-link="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" data-sk="tooltip_parent">a16z</a>,&nbsp;<a class="c-link" href="https://sourcegraph.com/blog/series-c-with-sequoia/" target="_blank" data-stringify-link="https://about.sourcegraph.com/blog/series-c-with-sequoia/" data-sk="tooltip_parent">Sequoia</a>,&nbsp;<a class="c-link" href="https://www.redpoint.com/companies/sourcegraph/" target="_blank" data-stringify-link="https://www.redpoint.com/companies/sourcegraph/" data-sk="tooltip_parent">Redpoint</a>,&nbsp;<a class="c-link" href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" target="_blank" data-stringify-link="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" data-sk="tooltip_parent">Craft</a>&nbsp;and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</p></div>
-
-    <h2><span style="color: rgb(161, 18, 255);"><strong>Location</strong></span></h2>
-<p>🌎 While we are an all-remote company and hire <a href="https://sourcegraph.notion.site/How-we-engage-talent-outside-of-the-US-218f7193695a46cbb1ef39ef9c1f72d4">almost anywhere</a> in the world, we have a preference for someone to reside in the following locations for this role. However, if you feel qualified, we welcome you to apply regardless of location. No matter what, working hours must overlap with PST for at least 20 hours/week.</p>
-<p><strong>Preferred locations:</strong></p>
-<ul>
-<li>Remote, San Francisco</li>
-</ul>
-<h2><span style="color: rgb(161, 18, 255);"><strong>Why this job is exciting</strong></span></h2>
-<p>Sourcegraph's deep code expertise sits at the heart of Cody’s industry-leading technical capabilities. Our Code AI platform is core to everything we do at Sourcegraph (read more in&nbsp;<a href="https://www.notion.so/sourcegraph/fe1432bc4f0945a9a133c78acbe04ff5?v=b7fe53afa3d14b4482b77e74a8ecaa92">our handbook</a>). As the Product Manager for our Code AI Platform, you will be responsible for continuing to push the boundaries of what it means to build an open and universal platform in the age of LLMs. How do we measure the impact of an admin’s LLM choice to their developers user experience? How do we help admins in extremely secure organizations trust our platform? Why would a developer build with our platform over competitors? Ideally, you will define a compelling vision at the center of our unique differentiation, an untapped part of the market, and something our customers are willing to pay for. You will be the go-to for defining a crucial member of our exceptional<a href="https://www.notion.so/sourcegraph/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d?pvs=4#0818ae942546415d8db15367a8480f1e"> high agency</a>, <a href="https://www.notion.so/sourcegraph/All-remote-guidelines-4d1270d806294bf4ae6db7ab02911957">all-remote team</a>, and will help us to achieve ambitious objectives to build a code intelligence platform.</p>
-<p>📅 Within one month, you will…</p>
-<ul>
-<li>You will start building a trusting relationship with your team and peers.</li>
-<li>Spend time learning from customers about why they chose Sourcegraph.</li>
-<li>You will understand the what, why, and how of the projects that your team is working on, how those projects contribute to our company goals, as well as current status, risks, and mitigations.</li>
-<li>Be transparent in your internal and external communication. Sourcegraph is open source, so most discussions are public or in channels where you communicate directly with our customers.</li>
-<li>Maintain the roadmap, backlog, and curate and solicit feedback for the product area.</li>
-</ul>
-<p>📅 Within three months, you will…</p>
-<ul>
-<li>You will have identified differentiated experiences and created a clear roadmap for the engineering team</li>
-<li>Uphold your side of the PM – EM partnership<a href="https://www.notion.so/sourcegraph/EPD-Resources-c92cc63f2d63463d91e11a02bebf641c"> responsibilities</a>.</li>
-<li>Begin to define and track activation metrics</li>
-<li>Gather customer feedback to validate priorities, improve documentation, and define product requirements.</li>
-<li>Your peers are enthusiastic to work with you because you reliably follow-through with your commitments.</li>
-</ul>
-<p>📅 Within six months, you will…</p>
-<ul>
-<li>Add value to the user by surfacing real problems to improve the trial start flow for cloud and self-managed, in-product onboarding and activations, and in-product calls-to-action</li>
-<li>Shown clear value to customers by shipping meaningful value (AI is moving fast, we can’t wait!)</li>
-<li>Unlocked a key differentiated experience via our Code AI Platform.</li>
-<li>You will celebrate the fact that your team has delivered key results in support of their objectives for the year.</li>
-</ul>
-<h2><span style="color: rgb(161, 18, 255);"><strong>About you</strong></span></h2>
-<p>As a Product Manager, you’re the storyteller of the organization, pulling together the story of “why”, and getting people excited about growth and what your team is doing. You collaborate with all parts of the organization to understand our market, our business model and the problems our customers are trying to solve to articulate a growth strategy. You are organized, results driven and provide clarity across the organization and your team, to help inspire focus and reinforce that they are working on the right things. You are constantly curious - wanting to dig into the data, discover optimization opportunities to get our users to value faster. You can identify root causes of friction and devise experiments to address them. You’re empathetic - you bring the voice of the user into every conversation, and hold empathy and understanding for your teammates to align on an experimentation approach that is right.</p>
-<ul>
-<li>5+ years of experience as a Product Manager with a specialization in enterprise SaaS development</li>
-<li>Experience as a software engineer or other technical background, particularly data-centric</li>
-<li>You have relevant domain knowledge and experience in one or more of the following areas: single-tenant cloud products, B2B, SaaS, developer tools, growth, product analytics, and user research</li>
-<li>Experience working with complex products that require integrations or complex implementations</li>
-<li>Your working hours overlap with 8am-5pm <a href="https://time.is/PT">Pacific Time</a> for at least 20 hours per week so we have time to collaborate synchronously when necessary.</li>
-</ul>
-<p>Nice to haves:</p>
-<ul>
-<li>Experience with LLMs and prompt engineering fundamentals</li>
-<li>Recent meaningful coding experience with an LLM-backed coding assistant</li>
-<li>Familiarity with the latest competitive landscape of coding assistants</li>
-<li>Deep experience with at least one major IDE such as VSCode or IntelliJ</li>
-</ul>
-<h2><span style="color: rgb(161, 18, 255);"><strong>Level</strong></span></h2>
-<p>📊 This job is an IC4. You can read more about <a href="https://www.notion.so/sourcegraph/Leveling-Guide-0e1b5c76ada64b9caac387f8b7c4fc66">our job leveling philosophy</a> in our Handbook.</p>
-<h2><span style="color: rgb(161, 18, 255);"><strong>Compensation</strong></span></h2>
-<p><strong>💸 We pay you an above-average salary</strong> because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. As an <a href="https://sourcegraph.notion.site/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d">open and transparent</a> company that values <a href="https://www.notion.so/sourcegraph/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=4">competitive compensation</a>, our compensation ranges are visible to every single Sourcegraph teammate.</p>
-<p>To determine your salary, we use a number of market and data-driven salary sources, along with your location zone, and target the high-end of the range to ensure we’re always paying above market regardless of where you live in the world. Both U.S. and international locations are divided into one of four zones, determined by the cost of labor index for each area. The starting salary for a successful candidate will be based on level, job-related skills, experience, qualifications, and location zone. Please note that these salary ranges may be adjusted in the future.</p>
-<p>💰The target compensation for this role is $208,500.</p>
-<ul>
-<li>Zone 1: $208,500</li>
-<li>Zone 2:$166,800</li>
-<li>Zone 3: $125,100</li>
-<li>Zone 4: $83,400</li>
-</ul>
-<p>Please speak with a recruiter for additional information regarding zone locations.</p>
-<p>📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous&nbsp;<a href="https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba">perks &amp; benefits</a>.</p>
-<h2><span style="color: rgb(161, 18, 255);"><strong>Interview process</strong></span></h2>
-<p><em>Below is the interview process you can expect for this role (you can read more about </em><a href="https://sourcegraph.notion.site/Types-of-interviews-f279f080583d49ee9f2c60e30c8cb1f7"><em>the types of interviews</em></a><em> in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&nbsp;</em></p>
-<p>We expect the interview process to take 5.5 hours in total.</p>
-<p><strong>👋 Introduction Stage</strong> - we have initial conversations to get to know you better…</p>
-<ul>
-<li>[30m]<a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#99be5ff628b2414194a0ba79d9f25f13"> Recruiter Screen</a></li>
-<li>[60m]<a href="https://www.notion.so/sourcegraph/Product-Interview-Process-82297583a0464461b6ee0ce9ec04e76a?pvs=4#4a81765044b648e49a2762e1e37877ce"> Team Collaboration / Resume Deep Dive</a></li>
-</ul>
-<p><strong>🧑‍💻 Team Interview Stage</strong> - we then delve into your experience in more depth and introduce you to members of the team, including cross-functional partners…</p>
-<ul>
-<li>[15m]<a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#1919882c0cf147c487eb1df40db8a694"> Hiring Manager intro</a></li>
-<li>[45m]<a href="https://www.notion.so/sourcegraph/Product-Interview-Process-82297583a0464461b6ee0ce9ec04e76a?pvs=4#4a682171775241f8b08ad3cbdfadc29b"> Engineering Collaboration</a></li>
-<li>[60m] <a href="https://www.notion.so/sourcegraph/Product-Interview-Process-82297583a0464461b6ee0ce9ec04e76a?pvs=4#72d47639962b4887894489792fdd64d0">Overview of Past Projects</a> (requires preparation)</li>
-</ul>
-<p><strong>🎉 Final Interview Stage </strong>- we move you to our final round, where you gain a better understanding of our business and values holistically…</p>
-<ul>
-<li>[30-60m] Final Hiring Manager Interview</li>
-<li>[30m] <a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#e3a04291743048df87541a88aa8199dd">Values</a></li>
-<li>We check references and conduct your background check</li>
-</ul>
-<p>Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.</p>
-
-    
-
-    <div class="content-conclusion"><h2><strong><span style="color: #a112ff;">Not sure if this is you?</span></strong></h2>
-<p><span style="font-weight: 400;">We want a diverse, global team, with a broad range of experience and perspectives. If this job sounds great, but you’re not sure if you qualify, apply anyway! We carefully consider every application, and will either move forward with you, find another team that might be a better fit, keep in touch for future opportunities, or thank you for your time.</span></p>
-<h2><strong><span style="color: #a112ff;">Learn more about us</span></strong></h2>
-<p><span style="font-weight: 400;">To create a product that serves the needs of all developers, we are building a diverse </span><a href="https://sourcegraph.notion.site/All-remote-guidelines-4d1270d806294bf4ae6db7ab02911957"><span style="font-weight: 400;">all-remote team</span></a><span style="font-weight: 400;"> that is </span><a href="https://www.notion.so/sourcegraph/7ed54d4ec4624475a4b45619901236d7?v=e06d936c673f46ca8c313a557bd4410f"><span style="font-weight: 400;">distributed across the world</span></a><span style="font-weight: 400;">. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.&nbsp;</span></p>
-<p><span style="font-weight: 400;">We provide </span><a href="https://sourcegraph.notion.site/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74"><span style="font-weight: 400;">competitive compensation</span></a><span style="font-weight: 400;"> and </span><a href="https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba?pvs=74"><span style="font-weight: 400;">practical benefits</span></a><span style="font-weight: 400;"> to keep you happy and healthy so that you can do your best work.&nbsp;</span><span style="font-weight: 400;">&nbsp;</span></p>
-<p><span style="font-weight: 400;">Learn more about what it is like to work at Sourcegraph by reading </span><a href="https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0"><span style="font-weight: 400;">our handbook</span></a><span style="font-weight: 400;">.</span></p>
-<p><span style="font-weight: 400;">We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process.</span></p>
-<p><span style="font-weight: 400;">Go back to the </span><a href="https://about.sourcegraph.com/jobs/"><span style="font-weight: 400;">careers page</span></a><span style="font-weight: 400;"> for all open positions.</span></p>
-<p>&nbsp;</p>
-<p><em><span style="font-weight: 400;">Sourcegraph participates in <a href="https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107" target="_blank">E-Verify</a> for U.S. Employees</span></em></p></div>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1428393724527190022/4mt5PACL_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Sourcegraph</h5>
-                    <h3>Product Manager, Enterprise [IC3]</h3>
+                    <h3>Product Manager [IC3]</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -154,10 +29,10 @@
 <p>🌎 While we are an all-remote company and hire <a href="https://sourcegraph.notion.site/How-we-engage-talent-outside-of-the-US-218f7193695a46cbb1ef39ef9c1f72d4">almost anywhere</a> in the world, we have a preference for someone to reside in the following locations for this role. However, if you feel qualified, we welcome you to apply regardless of location. No matter what, working hours&nbsp;<em>must overlap</em> at least 4 hours/day with the US Pacific timezone as there is a great amount of planning that takes place synchronously in the western US.</p>
 <p><strong>Preferred location:</strong></p>
 <ul>
-<li>Remote - United States and Canada</li>
+<li>Remote - San Francisco</li>
 </ul>
 <h2><span style="color: rgb(140, 51, 236);"><strong>Why this job is exciting</strong></span></h2>
-<p>To achieve our mission, we're looking for a Product Manager to help grow our values-driven, all-remote team. Reporting to the VP of Product, you'll work on our marquee Code Search product, which represents the top product in the industry in this category and a significant percentage of our recurring&nbsp; revenue. You’ll have the opportunity to make a big impact as we level up this product to meet the increasingly high needs of our large enterprise customers.</p>
+<p>To achieve our mission, we're looking for a Product Manager to help grow our values-driven, all-remote team. Reporting to our CEO and co-founder, you'll work across all of Sourcegraph, including our Code Search platform and our AI coding assistant, Cody. You’ll have the opportunity to make a big impact as we level up our product to meet the increasingly high needs of our customers.</p>
 <p>As a Product Manager, you will have more responsibility, upside, and growth potential than anywhere else otherwise comparable. We strive to make Sourcegraph the best company where exceptionally talented people can thrive. If you join us, we know you’ll make a big impact!&nbsp; Here’s what we’re thinking:</p>
 <p>📅 Within one month, you will…</p>
 <ul>
@@ -297,6 +172,30 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/55028a36-609c-479c-9553-d4689ff2dd8c-1669620566663.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Airalo</h5>
+                    <h3>Senior Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/airalo/c4f1af72-0f6b-4d1c-9ccf-9a361d25174c" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><b>About Airalo</b></div><div>Alo! Airalo is the world’s first eSIM store that helps people connect in over 200+ countries and regions across the globe. We are building the next digital service that revolutionizes the telecom industry. We are a travel-tech company and an equal-opportunity environment that values and executes diversity, inclusion, and equity. Our team is spread across 50+ countries and six continents. What glues us together is our commitment to changing the way you connect<span style="font-size: 13.3333px">. </span></div><div><br></div><div><b>About you</b></div><div>We hope that you care deeply about the quality of your work, the intrinsic worth of tasks, and the success of your team. You are self-disciplined and do not require micromanagement in terms of your skillset and work ethic. You do your best to flourish as an individual every day while working hard to foster a collaborative team environment. You believe in the importance of being — and staying — authentic, honest, positive, and kind. You are a good interlocutor with clear and concise communication. You are able to manage multiple projects, have an analytical mind, pay keen attention to detail, and love to get your hands dirty. You are cognizant, tolerant, and welcoming of vulnerabilities and cultural differences.</div><div><br></div><div><b>About the Role</b></div><div><b>Position</b>: Full-time / Employee</div><div><b>Location:</b>&nbsp;Remote-first </div><div><b>Benefits:</b>&nbsp;Health Insurance, work-from-anywhere stipend, annual wellness &amp; learning credits, annual all-expenses-paid company retreat in a gorgeous destination &amp; other benefits</div><div><br></div><div>As a Senior Product Manager, you will drive the strategy and execution of our product roadmap, focusing on delivering an unparalleled user experience to international travelers. Your role will be crucial in identifying and responding to the dynamic needs of our users, leading the charge in the development and implementation of innovative features. By orchestrating cross-functional teams, you will ensure the successful development, launch, and growth of our products, making every journey more seamless and connected.</div><div><br></div><div>To successfully accomplish this, you will partner closely with Engineering, Research, Design, Support, and Growth teams.</div><div>You are curious, humble and take pride in seeing others succeed as a result of your support and leadership. You are an excellent collaborator, with cross-discipline experience working to successfully deploy products and work streams.</div><div><br></div><h3>Responsibilities include but are not limited to:</h3><li>Work closely with the Director of Product and other team members in the department</li><li>Define, analyze and optimise the KPIs to grow your Product area while measuring impact and reporting on progress</li><li>Apply product management best practices incorporating working backwards, thorough product discovery and data insights to have a strong understanding of our users and identify new product opportunities</li><li>Own, prioritise and manage a backlog with clear Product Requirements Documents while ensuring successful and high quality product delivery</li><li>Work closely with&nbsp;Engineering, Product, Support, Growth and other departments to gather insights from our users and suggest improvements</li><li>Understand the needs of users and convert them into requirements for the engineering team</li><li>Ensure that the development team has a clear understanding of the product vision, goals, and priorities</li><li>Manage and mentor a designer within the product team, ensuring that design efforts align closely with product strategies and user experience goals, fostering collaboration between design and product development processes.</li>,<h3>Must-haves:</h3><li>5+ years of building world-class products as a Product Manager or Product Owner or relevant experience</li><li>Experience in defining, building, and shipping complex, technical products</li><li>Experience in collaborating with and designers, engineers, Q/A in an agile environment</li><li>Experience in creating and iterating product roadmaps</li><li>Experience in facilitating technical discussions about products and features and providing feedback for technical designs</li><li>Strong analytical and problem-solving skills and data-driven decision-making</li><li>Extraordinary attention to detail by thinking the beauty is hidden in them</li><li>Proven experience in user-centered design and research, with the ability to understand user needs and design products to meet those needs</li><li>Experience in Lean process as well as experience with agile/scrum methodology</li><li>Excellent verbal and written communication skills</li>,<h3>Good-to-have:</h3><li>Product experience in e-commerce, marketplace platforms, and mobile applications</li><li>Experience with Jira, Figma, QuickSight, Tableau, Dovetail, Google Analytics, Hotjar</li><li>Prior work experience in telecommunications</li><li>Knowledge of eSIM and GSMA-related technologies and services</li><div>If you are interested in this position, <b>please apply via the link.</b></div><div><br></div><div><i>We sincerely thank all applicants in advance for submitting their interest in this opportunity with Airalo. </i></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/de4eebbf-97f1-4bdb-b542-4fa65a0b48ab-1662467464737.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -389,6 +288,30 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div>At BioRender, our mission is to accelerate the world’s ability to learn, discover and communicate science. We are passionate about democratizing science communication in order to accelerate scientific discovery and understanding. We're looking for amazing people to help create the world’s go-to-place and platform where science is communicated. Come join us!</div><div><br></div><div><span style="font-size: 11pt">You can think of BioRender as the “Figma or Canva for scientists,” with a suite of web-based graphics communication products that empower scientists to create beautiful scientific visuals and presentations with ease.</span></div><div><br></div><div><span style="font-size: 11pt">As a Senior Product Manager leading Search and Discovery, you will help accelerate our ability to return billions of hours to scientists by empowering them with the most relevant content in the most highly trafficked part of our application: the core illustrator. As a member of our AI product group, you will lead the strategic direction for how we can make BioRender as revolutionary as the breakthroughs communicated using our product.&nbsp;&nbsp;</span></div><h3> What you'll do at BioRender: </h3><li><b>Imagine and define</b> personalized creation experiences, tailored to each scientist’s unique needs for their research, discovery, and communication&nbsp;</li><li><b>Collaborate </b>with an all-star team of data scientists, engineers, designers, and user researchers to define and execute on a roadmap to increase the speed with which scientists can utilize the beautiful and scientifically accurate content in BioRender</li><li><b>Build </b>a strong culture of experiment driven product development and learning for BioRender, driving engagement and retention in BioRender for millions of scientists across the world&nbsp;</li><li><b>Experiment and Implement </b>the latest technology to make our BioRender search experience world class</li><li><b>Leverage</b> data, user research, and domain knowledge to deliver results in a fast paced environment</li>,<h3>What we value:</h3><li>5+ years of product management experience in Search, Discovery, and personalization, ideally at a fast growing SaaS startup&nbsp;</li><li>An interest in leveraging AI to help return billions of hours to scientists&nbsp;</li><li>Proficiency in measurement and metrics for relevance and search quality</li><li>Strong understanding of various search, NLP, and ML technologies and the ability to leverage this technical breadth to make the right decisions for our users&nbsp;</li><li>Experience using user quantitative (e.g., metrics, analytics) and qualitative insights (e.g., research, user feedback) to inform product prioritization and decision-making</li><li>Excellent communication skills with the ability to convey complex ideas to technical and non-technical audiences</li>,<h3>Nice to haves:</h3><li>Familiarity with popular search vendor solutions such as Elastic and Algolia&nbsp;</li><li>Educational background in life sciences</li><div><br></div><div>Note: We recognize that career paths vary, and your unique journey may have equipped you with the necessary skills even if you don’t meet all of the criteria above. If you believe you have what it takes to excel in this role, we encourage you to apply!</div>,<h3>Why join us?</h3><li>We are mission-driven, and work collaboratively towards our shared vision of improving scientific communication and accelerating scientific discovery: BioRender figures have appeared in more than 54,000 publications!&nbsp;</li><li>It’s a product that users love! We have a world-class NPS and a community of loyal fans. Check out our Testimonials page to see what our customers are saying about us: <a href="https://biorender.com/testimonials/" class="postings-link">https://biorender.com/testimonials/</a>&nbsp;</li><li>We are in the top quartile for profitability and year-over-year revenue growth, with users in 200+ countries.</li><li>BioRender is an equal opportunity employer, and an inclusive hiring process and work environment is a part of our DNA.&nbsp;</li><li>We’re remote-first and have team members across Canada and the United States. A physical office in Toronto is available, but you have the flexibility to work from anywhere.&nbsp;</li><li>We’re backed by top investors, accelerators, and some of the most successful life science entrepreneurs and philanthropists in the world including Y Combinator, Malala Fund founders, and Fifty Years VC.&nbsp;</li><li>We’re proud that women make up 2 of 3 co-founders, 53% of our team, and 37% of leadership. This representation continues to grow and we are hiring!</li><li>We are committed to building a warm, inclusive, and diverse environment. Check out how we make sure <a href="https://careers.biorender.com/" class="postings-link">our employees come first</a>.</li><div><br></div><div>Check out our candidate resource - <a href="https://biorender.notion.site/Engineering-Product-Design-66275a3c2cca42e39234412881621467" class="postings-link">Engineering, Product &amp; Design at BioRender!</a>&nbsp;</div><div>You can also read more about the <a href="https://biorender.notion.site/BioRender-Candidate-Resources-8255c155797f442a950720a33b4764d5" class="postings-link">BioRender interview process and FAQs here</a>! </div><div><br></div><div>Check out what it's like to work at BioRender in <a href="https://biorender.notion.site/biorender/Working-at-BioRender-as-a-Canada-Based-Employee-f6e12ab844154bb9948b22b32e3f0c70" class="postings-link">Canada</a> and the <a href="https://biorender.notion.site/biorender/Working-at-BioRender-as-a-U-S-Based-Employee-4ab2cc8e48f546f89aa98c318bccebc9" class="postings-link">US</a>!</div><div><br></div><div>#LI-KS1</div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://manta.network/assets/img/logo.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Manta Network</h5>
+                    <h3>Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/MantaNetwork/04581756-7424-4cd5-8c0e-6a2e294374ac" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><span style="font-size: 32px">About p0x labs</span></div><div><br></div><div>p0x labs, a group developing technologies behind projects including Manta Network, delivers privacy for web3 applications and decentralized assets through use of zero-knowledge proofs. The project is built in accordance with first principles, <span style="font-size: 11pt">by applying cutting-edge cryptographic constructions such as zkSNARKs to design and deploy protocols with high performance and strong privacy/security guarantees. </span></div><div><br></div><div><span style="font-size: 11pt">Manta Network is supported by leading investors including Polychain and Binance Labs. The founding team has extensive experience in the blockchain space and come from educational institutions including Harvard and MIT, and leading web3 projects such as Algorand. If you are excited about building privacy-preserving solutions using zero-knowledge proofs, building blockchain applications, or learning about Polkadot ecosystems, then we want to hear from you.</span></div><div><br></div><div><b>About the role:</b></div><div><br></div><div>This role will contribute to Manta Network’s DeFi and NFT products. We are looking for creative, talented, and passionate individuals who are willing to dive deep into the complexity and challenges of blockchain and web3 to help deliver the best experiences to our users. As a Product Manager, you will lead the conceptualization, discovery, design, implementation, and launch of new products, orchestrating your cross-functional team to deliver the best possible outcomes for our users and the company.</div><div><br></div><div><b>Responsibilities:</b></div><div><br></div><div>Drive product development from discovery to concept to launch.</div><div>Work closely with engineering, design, and other cross-functional teams to develop and deliver high-quality products.</div><div>Research market trends and competition to inform product decisions and identify new opportunities.</div><div>Shape and develop your product roadmap.</div><div>Manage and prioritize the product backlog, ensuring alignment with overall business objectives.</div><div>Continuously monitor product performance and make data-driven decisions to improve user experience and drive growth.</div><div><br></div><div><b>Requirements:</b></div><div><br></div><div>3+ years of software product management experience.</div><div>Strong understanding of blockchain technology, DeFi protocols, NFT marketplaces, and crypto wallets.</div><div>Excellent communication, relationship management, and organizational skills.</div><div>Methodical prioritization and problem-solving skills.</div><div>Independently driven, constantly learning, always improving.</div><div>Passion for decentralized finance and the Manta mission; interest in blockchain and cryptocurrency.</div><div>Team player, inclusive leader, open to feedback, and transparent with intentions.</div><div><br></div><div><b>Nice to have:</b></div><div><br></div><div>Experience with zero-knowledge cryptography.</div><div>Experience working with remote teams.</div><div><b>About the role:</b></div><div><br></div><div>This role will contribute to Manta Network’s DeFi and NFT products. We are looking for creative, talented, and passionate individuals who are willing to dive deep into the complexity and challenges of blockchain and web3 to help deliver the best experiences to our users. As a Product Manager, you will lead the conceptualization, discovery, design, implementation, and launch of new products, orchestrating your cross-functional team to deliver the best possible outcomes for our users and the company.</div><div><br></div><div><b>Responsibilities:</b></div><div><br></div><div>Drive product development from discovery to concept to launch.</div><div>Work closely with engineering, design, and other cross-functional teams to develop and deliver high-quality products.</div><div>Research market trends and competition to inform product decisions and identify new opportunities.</div><div>Shape and develop your product roadmap.</div><div>Manage and prioritize the product backlog, ensuring alignment with overall business objectives.</div><div>Continuously monitor product performance and make data-driven decisions to improve user experience and drive growth.</div><div><br></div><div><b>Requirements:</b></div><div><br></div><div>3+ years of software product management experience.</div><div>Strong understanding of blockchain technology, DeFi protocols, NFT marketplaces, and crypto wallets.</div><div>Excellent communication, relationship management, and organizational skills.</div><div>Methodical prioritization and problem-solving skills.</div><div>Independently driven, constantly learning, always improving.</div><div>Passion for decentralized finance and the Manta mission; interest in blockchain and cryptocurrency.</div><div>Team player, inclusive leader, open to feedback, and transparent with intentions.</div><div><br></div><div><b>Nice to have:</b></div><div><br></div><div>Experience with zero-knowledge cryptography.</div><div>Experience working with remote teams.</div><div><span style="font-size: 24px">Life at p0x labs</span></div><div><br></div><div>p0x labs is comprised of a diverse and global group of core contributors. We offer a friendly, flexible work environment that provides full-remote opportunities. Our team is full of bright and motivated minds. Despite our geographical diversity, we host events both virtual and physical to promote a strong culture. We also pride ourselves on our ability to move fast as a cohesive team.</div><div><br></div><div><span style="font-size: 18px">Additional Benefits with p0x labs</span></div><div>- Competitive compensation</div><div>- Unlimited PTO</div><div>- Token allocation</div><div>- Remote-first</div><div>- Inclusive team</div><div>- Education opportunites</div><div>- Conference travel</div><div>- Many other benefits! </div><div><span style="font-size: 32px;">About p0x labs</span></div><div><br></div><div>p0x labs, a group developing technologies behind projects including Manta Network, delivers privacy for web3 applications and decentralized assets through use of zero-knowledge proofs. The project is built in accordance with first principles, <span style="font-size: 11pt;">by applying cutting-edge cryptographic constructions such as zkSNARKs to design and deploy protocols with high performance and strong privacy/security guarantees. </span></div><div><br></div><div><span style="font-size: 11pt;">Manta Network is supported by leading investors including Polychain and Binance Labs. The founding team has extensive experience in the blockchain space and come from educational institutions including Harvard and MIT, and leading web3 projects such as Algorand. If you are excited about building privacy-preserving solutions using zero-knowledge proofs, building blockchain applications, or learning about Polkadot ecosystems, then we want to hear from you.</span></div>
                 </details>
                 </td>
             </tr></table>
