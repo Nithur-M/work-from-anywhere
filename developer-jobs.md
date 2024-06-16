@@ -1,38 +1,165 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1916289/logo" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1917805/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Social Discovery Group</h5>
-                    <h3>Junior/Middle Front-End Developer (MarTech)</h3>
+                    <h5>Neondatabase</h5>
+                    <h3>Software Engineer, Developer Productivity</h3>
                 </td>
                 <td width="300">
-                    <code>CSS,html,react</code>
+                    <code>golang,python,rust</code>
                 </td>
                 <td width="200">
                 <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/junior-middle-front-end-developer-martech-1916289" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-developer-productivity-1917805" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p><strong><a href="https://socialdiscoverygroup.com/about-us/" rel="nofollow"></a></strong><a href="https://socialdiscoverygroup.com/about-us" rel="nofollow" style="text-decoration: none;"><strong>Social Discovery Group</strong></a> (SDG) is a global technology company that builds apps at the intersection of dating, social, and entertainment. The company's portfolio includes 70 social discovery platforms with a focus on AI, game mechanics, and video streaming. We actively support and invest in social discovery startups worldwide through our CVC fund.<br><br>More than 500 million people in 150 countries enjoy our products, and we strive to have ten times as many.<strong><br><br>SDG<a href="https://socialdiscoverygroup.com/investments" rel="nofollow"><span style="  color: rgb(34, 34, 34); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;"> </span>invests</a> </strong>in social discovery technology startups around the world. <a href="https://socialdiscoverygroup.com/investments" rel="nofollow" style="text-decoration: none;"><strong>Our Investments</strong></a> include <strong>Open AI, Patreon, Flo, RAW, EVA AI, Clubhouse, Magnet, Woebot, Flure, Astry, Coursera, Academia, Harbour, Space, Auto1, DocSend, AppAnnie, Rapyd, Boom Supersonic, Trading, View, K-Health and many others.</strong><br><br>We solve the problem of loneliness, isolation, and disconnection with the help of digital reality.<br><br>Our <strong>digital nomad team of more than 1200 professionals </strong>works all over the world.  Together, we are solving the prevalent problem of loneliness and shaping Social Life 3.0 — a new digital reality where people will be able to fulfil their needs for communication and attention from other people and artificial life forms.<br><br>Our teams of digital nomads live and work remotely from <strong>Cyprus, Malta, the USA, Thailand, Indonesia, Hong Kong, Japan, Australia, Poland, Israel, Turkey, Latvia and many others.</strong><strong></strong></p>
-<p>We are looking for a<strong> Junior/Middle  Front-End Developer</strong> for Internal service MarTech.<strong><strong></strong></strong></p>
-<p><strong>MarTech</strong> is a part of our company that creates tools to improve how we attract users. They use AI and modern technology to do things like:</p>
-<ul style=""><li style="">Target specific users in ads</li><li style="">Link users between different projects</li><li style="">Bring users back through email, push, web push, and SMS messages</li><li style="">Create landing pages with recommendation systems</li><li style="">Solve other tech and algorithm problems</li></ul>
-<p>Every day, hundreds of thousands of users use MarTech's products. With a small team of 20 people, MarTech makes almost a quarter of the total revenue of Dating Group.</p>
-<p><strong>Your main tasks will be:</strong></p>
-<ul style=""><li style="">Developing marketing landing pages with complex client-server logic;</li><li style="">Creating business card websites;</li><li style="">Developing and maintaining service UIs for CRM tools.</li></ul>
-<ul style=""></ul>
-<p><strong>We expect from you:</strong></p>
-<ul style=""><li style="">At least 2 years of experience in a similar position;</li><li style="">Proficiency in JS, HTML, CSS, sass, less;</li><li style="">Experience with react, gulp is preferred.</li></ul>
-<ul style=""></ul>
-<p><strong>What do we offer:</strong><strong><br></strong></p>
-<ul style=""><li style=""><strong>REMOTE OPPORTUNITY</strong> to work full time;</li><li style=""><strong>7 wellness days per year</strong> (time off) that can be used to deal with household issues, to lie down and recover without taking sick leave;</li><li style=""><strong>Bonuses up to $5000 </strong>for recommending successful applicants for positions in the company;</li><li style="">Full payment for <strong>professional training, international conferences and meetings;</strong></li><li style="">Corporate discount for <strong>English lessons;</strong></li><li style="">​<strong>Health benefits. </strong>If you are not eligible for corporate medical insurance, the company will compensate you with up to $ 1,000 gross per year per employee, according to the paychecks. This can be spent on self-purchase of health insurance or on doctor's fees for yourself and close relatives (spouse, children);</li><li style="">​<strong>Workplace organization. </strong>The company provides all employees with an equipped workplace and all the necessary equipment (table, armchair, wifi, etc.) in our offices or co-working locations. In the other locations, the company provides reimbursement of workplace costs up to $ 1000 gross once every 3 years, according to the paychecks. This money can be spent on the rent of the co-working room, on equipping the working place at home (desk, chair, Internet, etc.) during those 3 years;</li><li style=""><strong>Internal gamified gratitude system: </strong>receive bonuses from colleagues and exchange them for time off, merch, team building activities, massage certificates, etc. </li></ul>
-<p><strong>Sounds good? Join us now!</strong> </p><img src="https://remotive.com/job/track/1916289/blank.gif?source=public_api" alt=""/>
+                <div class="h2"><strong>Neon is an open-source company on a mission to create a cloud-native Postgres database as a service for every developer</strong></div>
+<p>We are looking for a <em>Senior Software Engineer</em> who will join our Developer Productivity team.</p>
+<p>The Developer Productivity team’s mission is to support Neon engineers be productive and to ensure they have the right tooling to test, build, and release code efficiently.</p>
+<p><strong>If you are passionate about reducing build and Continuous Integration run times, improving developer satisfaction, and reducing test flakiness - this role is for you!</strong></p>
+<hr>
+<p>As a DevProd engineer you innately understand the importance of fast feedback cycles and early discovery of bugs. You are an expert at at least one of Python, Golang, Rust, Javascript/Typescript. Ideally, you have experience defining and operating GitHub Action workflows or a similar technology, as well as experience with build systems.</p>
+<p>You are data driven and collect and utilize data from various systems to make sensible changes that positively affect engineer happiness! You are a self-starter and own projects end-to-end, driving them to completion with minimal supervision.</p>
+<p>You have empathy for engineering teams, care strongly about quality code, and implementing and scaling development best-practices.</p>
+<p>The ideal candidate for this role:</p>
+<ul style="">
+<li style="">has experience with Python, Golang, Rust, Javascript/Typescript (and related build chains for these languages, i.e., pip, poetry, bazel, go, cargo, webpack)</li>
+<li style="">has used Docker containers (Dockerfiles, networking, caching, running images) and has a general understanding of Kubernetes concepts (pods, CRDs, rollouts, Helm charts)</li>
+<li style="">has defined, operated, monitored, and improved CI/CD pipelines for multiple languages/build systems (i.e., GitHub Action workflows)</li>
+<li style="">has strong troubleshooting and problem solving skills</li>
+<li style="">has empathy for other engineers</li>
+<li style="">enjoys building and owning services</li>
+<li style="">collaborates effectively with colleagues in multiple locations, working on multiple timezones (we are a fully remote company!)</li>
+</ul>
+<div class="h3"><strong>About Neon</strong></div>
+<p>Neon is building open-source cloud-native PostgreSQL. Our architecture separates storage from compute, allowing for stateless and serverless Postgres. We're a well-funded startup with deep knowledge of Postgres internals and decades of experience building databases. We are a systems company; we work on low-level code with strict performance and correctness requirements.</p>
+<p>Neon was created by a team of Postgres hackers and led by CEO Nikita Shamgunov (co-founder of SingleStore). Neon is built on open-source principles and is focused on giving back to the Postgres and developer communities.</p>
+<div class="h3"><strong>Our Team</strong></div>
+<ul style="">
+<li style="">We are a distributed team of 90 people working from 29 countries (concentrating around North American and European time zones)</li>
+<li style="">We are a team built on open-source cultural principles (transparency, contribution, accountability, and proactivity)</li>
+<li style="">Team with decades of experience building databases and deep knowledge of Postgres internals. We are deeply technical.</li>
+<li style="">We have experienced Postgres committers and hackers on the team (check <a href="%22https:/github.com/hlinnaka%22" rel="nofollow">Heikki</a>, <a href="%22https:/github.com/lubennikovaav%22" rel="nofollow">Anastasia</a>, <a href="%22https:/github.com/arssher%22" rel="nofollow">Arseny</a>, <a href="%22https:/github.com/MMeent%22" rel="nofollow">Matthias</a> profiles)</li>
+<li style="">We believe in the efficacy of collaborative open-source</li>
+<li style="">We aim for a diversity of thoughts and backgrounds</li>
+<li style="">We are keen to be a fast-moving, flat org and avoid hierarchical structures</li>
+</ul>
+<div class="h3"><strong>Our Investors</strong></div>
+<ul style="">
+<li style="">Top-tier investors backed up Neon's vision:
+<ul style="">
+<li style="">We raised $104 million in funding from Menlo Ventures, Notable Capital, Khosla Ventures, General Catalyst, and Founders Fund.</li>
+<li style="">Venture vehicles of Snowflake and Databricks invested in Neon.</li>
+<li style="">Our angel investors are prominent technologists and ecosystem players. More than 20 awesome angels supported Neon, including Nat Friedman, Elad Gil, Mike Ovitz, Ajeet Singh, Guillermo Rauch, Søren Brammer Schmidt, and Wes McKinney.</li>
+<li style="">Our Board includes Quentin Clark, Glenn Solomon, Joe Morrissey, and Tim Tully.</li>
+</ul>
+</li>
+</ul>
+<div class="h3"><strong>Our Offer</strong></div>
+<ul style="">
+<li style="">You have an opportunity to be an early employee in the fast-scaling ambitious team</li>
+<li style="">You can work 100% remote: we'll handle all formalities to arrange work from your home</li>
+<li style="">We pay top of the market in most parts of the world</li>
+<li style="">We grant equity (stock options) to all full-time hires</li>
+<li style="">We offer a competitive benefits package in line with all tech companies (top-notch equipment, unlimited vacations, paid parental leaves, and much more)</li>
+<li style="">We are distributed, yet make our bonds during regular offsites (the last one was in Barcelona)</li>
+</ul>
+<p> </p>
+<img src="https://remotive.com/job/track/1917805/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1917887/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Reverse Tech</h5>
+                    <h3>Full Stack Developer (Backend)</h3>
+                </td>
+                <td width="300">
+                    <code>docker,node.js</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-backend-1917887" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>At Reverse Tech, we are on a mission to create, launch, and scale digital product brands in the health and wellness space. Our goal is ambitious – we aim to help 10 million people improve their health by 2026 through hyper-targeted, mass-scale brands. We specialize in subscription-based business models and pride ourselves on being results-focused, with no big egos, just big data.</p>
+<p><strong>What We Want to Achieve:</strong></p>
+<p>Our vision is to discover novel self-serve solutions to the world's greatest health problems, all while adhering to our core values.</p>
+<p>We're looking for a Full Stack Developer, focused on Backend that will be a vital part of our dynamic remote team. Your role is instrumental in building and scaling our mobile apps within the health and wellness vertical.</p>
+<p><strong>Requirements</strong></p>
+<ul style="">
+<li style="">At least 5 years of experience working in a similar role</li>
+<li style="">Proficient in Node.js and TypeScript</li>
+<li style="">Experience developing applications using frameworks such as NestJS and Express</li>
+<li style="">Knowledge and experience with Docker</li>
+<li style="">Experience with Non-Relational (Redis, MongoDB) and Relational DB (PostgreSQL)</li>
+<li style="">Strong knowledge of DDD and Hexagonal Architecture</li>
+<li style="">Experience developing and sacaling RESTful APIs</li>
+<li style="">Experience with Event Driven Architecture</li>
+<li style="">Ensure high code quality through code reviews, writing tests, and adhering to best practices in software development</li>
+<li style="">You have a keen interest in testing culture</li>
+<li style="">Experience creating efficient real-time systems using Pub/Sub models</li>
+<li style="">Experience contributing to the design and architecture of scalable, high-performance, and reliable systems</li>
+<li style="">Proficiency in working with git and gitflow</li>
+<li style="">Knowledge of software security standards, threat assessment, and secure programming methodologies</li>
+<li style="">You are a strong team player, being part of an agile team, actively taking care of team culture and the product value towards our customers</li>
+<li style="">Our company language is English, so you should write, read and speak it fluently</li>
+</ul>
+<p> </p>
+<p><strong>Desired Skills</strong></p>
+<ul style="">
+<li style="">Experience working in Product Team/s focusing on delivering value</li>
+<li style="">Experience working under Agile frameworks/methods such as Scrum, Kanban, SAFe, Lean, etc</li>
+<li style="">Experience working in a performance marketing product</li>
+<li style="">Experience working in e-commerce</li>
+</ul>
+<p> </p>
+<div class="h3">Our Values:</div>
+<ul style="">
+<li style=""><strong> Care: </strong>We support and stand by our team members in any situation, ensuring that no one is left behind.</li>
+<li style=""><strong> Extreme Ownership: </strong>We take responsibility not only for tasks under our direct control but for anything that impacts our mission's success.</li>
+<li style=""><strong> Identification: </strong>We take pride in being part of something bigger than ourselves, with the goal of changing the world by helping people get healthier.</li>
+<li style=""><strong> Communication: </strong>We value honesty and direct language, fostering a culture free of politics.</li>
+<li style=""><strong> Performance: </strong>We believe in providing full freedom while striving for top-notch performance from everyone.</li>
+<li style=""><strong> Trust: </strong>We value the words and qualities of our team members, fostering an environment of trust and respect</li>
+</ul>
+<p><strong>Benefits</strong></p>
+<p><strong>What Our Team Members Get:</strong></p>
+<ul style="">
+<li style="">100% remote and flexible work hours</li>
+<li style="">Top notch equipment (MacBook Pro or PC, you decide)</li>
+<li style="">Full-time or freelance opportunities</li>
+<li style="">Learning from the best, including ex-Googlers and more</li>
+<li style="">Unlimited growth prospects</li>
+<li style="">Inclusion in a winning team</li>
+<li style="">Competitive compensation</li>
+<li style="">A fun, non-corporate atmosphere</li>
+</ul>
+<p> </p>
+<p>If you're passionate about Engineering, have experience in Full Stack, and are ready to join a dynamic, global team, we encourage you to apply. Help us shape the future of health and wellness through technology.</p>
+<p>Learn more about us at <a class="external" href="https://www.reverse.tech/" rel="nofollow">https://www.reverse.tech/</a> and apply today to become a key player in our exciting journey.</p>
+<p> </p>
+<p><em>*This position is offered as a Remote option, reach out to us to evaluate the options according to your location.</em></p>
+<p><br><br></p>
+<div class="h2">About the company</div>
+<p> </p>
+<p>At Reverse Tech, we're a rapidly growing digital health and wellness company on a mission to create, launch, and scale hyper-targeted, mass-scale brands. Our ambitious goal is to improve the health of 10 million people by 2026 through innovative subscription-based solutions.</p>
+<p>With a presence in over 205 countries and a 5x year-over-year growth rate, we offer a dynamic, remote work environment across 20+ locations worldwide.</p>
+<p>We attract top-tier professionals who hunger for success and reward them with competitive salaries. Our culture is free of corporate nonsense, providing a place for you to enjoy your work and achieve your professional ambitions. Join us for an exciting venture!</p>
+<img src="https://remotive.com/job/track/1917887/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -47,7 +174,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
