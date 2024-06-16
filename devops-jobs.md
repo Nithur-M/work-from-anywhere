@@ -83,28 +83,4 @@
 
                 </details>
                 </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>IT Operations Manager / DevOps (remote-only opportunity, location - Europe&CIS)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/ABC11230EA" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We are looking for an IT Operations Manager to oversee a group of engineers who support our internal infrastructure, and employees’ technical issues. The ideal candidate will have a deep understanding of DevOps methodology and be able to work autonomously and effectively in a remote environment. They should be able to help support their employees with development and training. This person should also be strategic by providing guidance as we scale up.&nbsp;</p><p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and&nbsp; we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure everyone is successful. We are truly a great place to work.&nbsp;</p><p>Become part of the team of experts and work with top-notch developers to contribute to open source. You can find more details about the project and the company on our branded websites at <a href="http://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">cloudlinux.com</a></p><p><strong>What you will do:</strong></p><ul> <li>Develop and lead a team of IT engineers that support our internal staff and global systems.&nbsp;</li> <li>Manage the infrastructure operations and lead the team of DevOps experts to manage the CloudLinux R&amp;D tools (software, hardware, OS, peripherals).</li> <li>Plan and budget the investment in CloudLinux internal delivery platform (hybrid environments)&nbsp; to ensure effective software delivery and developer productivity.</li> <li>Organize and prioritize work to ensure critical issues are being addressed in an acceptable timeframe and in compliance with internal SLA's.</li> <li>Responsible for managing, planning, coordinating, and monitoring of Service functions, personnel, and software.</li> <li>Manage the Jira system for tracking incidents, problems, change, assets, and knowledge base; addressing any issues; and making recommendations for improvement.</li> <li>Maintain the security of the infrastructure at the level of certification requirements</li> <li>Purchase efficient and cost-effective technological equipment and software.&nbsp;</li> <li>Communicate with the vendors, oversee the budget.&nbsp;</li> </ul><h3>Requirements: </h3><p><strong>To be successful you should have:</strong></p><ul> <li>5+ years of operational experience in R&amp;D support and in IT Infrastructure.</li> <li>3+ years of IT management experience including communication with hardware vendors and data centers&nbsp;</li> <li>Deep understanding of DevOps methodology.</li> <li>Deep understanding of supporting Linux platform (on premise and cloud)</li> <li>R&amp;D-focused, with an ability to understand and manage engineers expectations.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p></p><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
-                </details>
-                </td>
             </tr></table>
