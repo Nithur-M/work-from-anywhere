@@ -684,6 +684,94 @@
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
+                    <h3>Open Source Networking Software Engineer - ToR Switch / SmartNIC / DPU </h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/5660661" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>Software has moved to play a central role in network technology. From outstanding routing implementations like Bird and FRR to overlay networking technology such as OVN/OVS and Cilium, from kernel with SwitchDev to userspace with DPDK, from P4 to OpenFlow, the relationship between network innovation and software continues to deepen. We are building teams to bring the very best open source networking software to market in a well integrated and opinionated stack that brings the latest hyperscaler innovation to end users and enterprise customers.</p>
+<p>We work with networking silicon providers to optimize Ubuntu and related applications for their ASICs, boards and appliances. We aim to provide a complete open source stack for data center networking, from bare metal through virtualization, container and serverless, and also to address IoT networking systematically.</p>
+<p>You will have a good chance of success if you are an outstanding software engineer, passionate about networking, with a special interest in the interface of hardware ASICs for acceleration and software for innovation and control. We value experience in open switch initiatives such as SoNIC and DENT, and upstream experience with components such as routing, kernel networking, eBPF, DNS, firewalls and load balancers.&nbsp;Our selection process is rigorous and requires work from the candidate as six to eight interviews over a period of months. We look for excellent academic results and a commitment to quality, resilience, documentation, security and performance in your work.</p>
+<p>At Canonical you will have the opportunity to engage with the broader open-source community and industry leading partners in developing future-proof networking solutions. We're looking for individuals who can help build a thriving community, contribute to a broad range of technologies, and contribute to the deployment of Ubuntu, Ubuntu Core, Private Clouds, MAAS and Kubernetes across a broad range of devices and use cases.</p>
+<p><strong>Location</strong>: we have network software engineering roles in EMEA and Americas time zones</p>
+<h2>What your day will look like</h2>
+<ul>
+<li>Work with the most advanced operating systems and network application technologies available</li>
+<li>Participate upstream and deliver the Ubuntu SoNIC or DENT stacks</li>
+<li>Collaborate with public clouds and network silicon providers</li>
+<li>Design and implement the best software-defined networking experience for the data center</li>
+<li>Write high-quality, well-designed, fast, secure and well-documented software</li>
+<li>Debug issues and produce high-quality fixes</li>
+<li>Collaborate proactively with a globally distributed organization</li>
+<li>Contribute to technical documentation to make it the best of its kind</li>
+<li>Display technical leadership internally, towards our partners, and in the open source communities</li>
+<li>Influence open-source projects and communities</li>
+<li>Work from home, with global travel twice a year for company events of up to two weeks duration</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<ul>
+<li>An exceptional academic track record</li>
+<li>Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path</li>
+<li>Drive and a track record of going above-and-beyond expectations</li>
+<li>Knowledge of networking: architecture, design, and protocols</li>
+<li>Understanding of Linux networking, from kernel to user space</li>
+<li>Fluency in C/C++ and at least one of Rust, Python or Golang</li>
+<li>Professional written and spoken English&nbsp;</li>
+<li>Experience with Linux</li>
+<li>Excellent interpersonal skills, curiosity, flexibility, and accountability&nbsp;</li>
+<li>Passion, thoughtfulness, and self-motivation&nbsp;</li>
+<li>Excellent communication and presentation skills&nbsp;</li>
+<li>Result-oriented, with a personal drive to meet commitments&nbsp;</li>
+<li>Ability to travel twice a year, for company events up to two weeks each</li>
+</ul>
+<h2>Additional skills that you might also bring</h2>
+<ul>
+<li>Familiarity with existing open source networking technologies: SONIC / SAI, DENT, kernel (e.g. eBPF, AF_XDP), DPDK, Switchdev, OVN, Open vSwitch.</li>
+<li>Familiarity with data path hardware acceleration protocols and interfaces, such as RDMA, RoCE, iWARP, NVMe, SR-IOV</li>
+<li>Computer architecture knowledge of x86, ARM, and RISC-V</li>
+<li>Experience in complex IP network engineering and implementation</li>
+<li>Experience with virtualization technologies, e.g., QEMU, KVM, etc.</li>
+<li>Previous contribution to open source projects and community involvement</li>
+<li>Performance engineering and security experience</li>
+</ul>
+<h2>What we offer you</h2>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues</li>
+<li>Priority Pass, and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world every day. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote</p><p>Requisition ID: 1140</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
                     <h3>Python and Kubernetes Software Engineer - Data, AI/ML & Analytics</h3>
                 </td>
                 <td width="300">
@@ -1810,7 +1898,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><b style="font-size: 24px">EMPOWER OVERVIEW</b></div><div><br></div><div><a href="http://empower.me/" class="postings-link">Empower</a>&nbsp;is a high-growth financial technology company on a mission to expand access to fair credit to give anyone in the world the opportunity to improve their financial security and mobility. We dream up and launch one-of-a-kind features that help our members get money instantly whenever they need it, save for the future, and rewrite their financial story. Our members see Empower Cash Advance as a life-saver, Empower Automatic Savings as a game-changer, and the new Empower Thrive line of credit (currently in beta, launching soon) as a lifeline to low-cost borrowing and the only practical path to building good credit.</div><div><br></div><div>Empower is backed by Sequoia Capital, Blisce, and Icon Ventures. Are we the next great place to grow your impact and accelerate your career? We think so:</div><div><br></div><div>Inc. ranked Empower #56 in the 2023 Inc. 5000 list of the fastest-growing private companies in the US (#55 in 2022). Forbes put Empower on its 2023 list of America's Best Startup Employers. Fast Company recognized the new Empower Thrive line of credit in their 2022 list of the Next Big Things in Tech. </div><div><br></div><div><b style="font-size: 18px">THE EMPOWER WAY</b></div><div><b>Great Expectations</b>: We come up with bold, audacious goals for ourselves and go all out for impact</div><div><b>Owner Mindset</b>: We give every employee latitude to act independently, make smart choices, and move the business forward</div><div><b>Spirited Debate</b>: We love skeptics and seek counter opinions to challenge our personal assumptions and expand our view</div><div><b>Customer Obsession: </b>We listen to understand, empathize, and create a memorable, rewarding experience for our community</div><div><b>Inclusive Collaboration</b>: We believe diverse teams make the best decisions, and we strive to give diverse voices a seat at the table</div><div>N<b>o Jerks Allowed</b>: We value our relationships and take the time to build trust and connection and communicate respectfully</div><div><br></div><div><b>&nbsp;</b></div><div><b>WHAT EMPOWER OFFERS</b></div><div><br></div><div>Competitive salary</div><div>Generous equity package</div><div>Full healthcare and dental benefits</div><div>Technology&nbsp; expense reimbursement</div><div>Work&nbsp; from anywhere</div><div><br></div><div><b>JOB DESCRIPTION</b></div><div>As an iOS Software Engineer, you’ll create the iOS mobile app that powers the Empower customer experience. You’ll engage with a collaborative, high powered team to develop solutions and lead product engineering on projects with a reach of millions. The solutions you’ll build will be robust, secure and easy to understand both for our users and your engineering peers.&nbsp;You’ll take end to end ownership of new features and product lines shaping work in early stages, building, deploying and running post deployment analysis to ensure we’re hitting our goals.</div><div><br></div><div><br></div><div>Travel for company offsites is expected at a minimum 2 times a year. </div><h3>Key Responsibilities</h3><li>Designing and building iOS mobile apps</li><li>Contribution and adherence to software engineering standards and practices</li><li>Implementing secure coding standards in accordance with the Empower Secure Development Policy</li><li>Perform on-going security testing and code review to improve software security</li><li>Meeting sprint goals</li><li>Leading and/or supporting feature specification activities (Product Engineering)</li><li>Monitoring the performance of the Empower mobile app and applying corrective action through bug fixing and general improvement.</li><li>Minimizing defects and improving reliability through: Development of automated tests, manual test validation, development of fit for purpose architecture and code, contributing to PRs</li><li>Developing and maintaining the iOS app build pipeline</li><li>Publishing the App to the App Store</li><li>Collaborating cross-functionally to define, design and ship new features that create customer and business value.</li><li>Playing an active role in advising and collaborating with design and product to flesh out the specifications of each epic.</li><li>Writing engineering specs, including acceptance criteria and server contracts</li><li>Grooming stories for upcoming sprints</li><li>Maximising effective development and identifying new technology opportunities by: Keeping across iOS development announcements, being across community best practice, discovering and evaluating new technologies</li>,<h3>Candidate Qualifications</h3><li>Bachelor degree or greater within Computer Science, Software Engineering or a related subject</li><li>5+ years developing consumer facing iOS apps</li><li>Working experience in Swift and iOS UI Frameworks</li><div>At Empower, we hire for people that push themselves to understand others and seek out ways to challenge their personal assumptions. Our hope is that by fostering such an environment, we strengthen our business and relationships by putting people first. We are committed to building a diverse, inclusive, and equitable workspace where everyone (regardless of age, education, ethnicity, gender, sexual orientation, or any personal characteristics) feels like they belong. Even if your experience doesn’t exactly match up to our job description, you should feel empowered to apply regardless!&nbsp;</div>
+                <div><b style="font-size: 24px">EMPOWER OVERVIEW</b></div><div><br></div><div><a href="http://empower.me/" class="postings-link">Empower</a>&nbsp;is a high-growth financial technology company on a mission to expand access to fair credit to give anyone in the world the opportunity to improve their financial security and mobility. We dream up and launch one-of-a-kind features that help our members get money instantly whenever they need it, save for the future, and rewrite their financial story. Our members see Empower Cash Advance as a life-saver, Empower Automatic Savings as a game-changer, and the new Empower Thrive line of credit as a lifeline to low-cost borrowing and the only practical path to building good credit.</div><div><br></div><div>Empower is backed by Sequoia Capital, Blisce, and Icon Ventures. Are we the next great place to grow your impact and accelerate your career? We think so:</div><div><br></div><div>Inc. ranked Empower #56 in the 2023 Inc. 5000 list of the fastest-growing private companies in the US (#55 in 2022). Forbes put Empower on its 2023 list of America's Best Startup Employers. Fast Company recognized the new Empower Thrive line of credit in their 2022 list of the Next Big Things in Tech. </div><div><br></div><div><b style="font-size: 18px">THE EMPOWER WAY</b></div><div><b>Great Expectations</b>: We come up with bold, audacious goals for ourselves and go all out for impact</div><div><b>Owner Mindset</b>: We give every employee latitude to act independently, make smart choices, and move the business forward</div><div><b>Spirited Debate</b>: We love skeptics and seek counter opinions to challenge our personal assumptions and expand our view</div><div><b>Customer Obsession: </b>We listen to understand, empathize, and create a memorable, rewarding experience for our community</div><div><b>Inclusive Collaboration</b>: We believe diverse teams make the best decisions, and we strive to give diverse voices a seat at the table</div><div>N<b>o Jerks Allowed</b>: We value our relationships and take the time to build trust and connection and communicate respectfully</div><div><br></div><div><b>&nbsp;</b></div><div><b>WHAT EMPOWER OFFERS</b></div><div><br></div><div>Competitive salary</div><div>Generous equity package</div><div>Full healthcare and dental benefits</div><div>Technology&nbsp; expense reimbursement</div><div>Work&nbsp; from anywhere</div><div><br></div><div><b>JOB DESCRIPTION</b></div><div>As an iOS Software Engineer, you’ll create the iOS mobile app that powers the Empower customer experience. You’ll engage with a collaborative, high powered team to develop solutions and lead product engineering on projects with a reach of millions. The solutions you’ll build will be robust, secure and easy to understand both for our users and your engineering peers.&nbsp;You’ll take end to end ownership of new features and product lines shaping work in early stages, building, deploying and running post deployment analysis to ensure we’re hitting our goals.</div><div><br></div><div><br></div><div>Travel for company offsites is expected at a minimum 2 times a year. </div><h3>Key Responsibilities</h3><li>Designing and building iOS mobile apps</li><li>Contribution and adherence to software engineering standards and practices</li><li>Implementing secure coding standards in accordance with the Empower Secure Development Policy</li><li>Perform on-going security testing and code review to improve software security</li><li>Meeting sprint goals</li><li>Leading and/or supporting feature specification activities (Product Engineering)</li><li>Monitoring the performance of the Empower mobile app and applying corrective action through bug fixing and general improvement.</li><li>Minimizing defects and improving reliability through: Development of automated tests, manual test validation, development of fit for purpose architecture and code, contributing to PRs</li><li>Developing and maintaining the iOS app build pipeline</li><li>Publishing the App to the App Store</li><li>Collaborating cross-functionally to define, design and ship new features that create customer and business value.</li><li>Playing an active role in advising and collaborating with design and product to flesh out the specifications of each epic.</li><li>Writing engineering specs, including acceptance criteria and server contracts</li><li>Grooming stories for upcoming sprints</li><li>Maximising effective development and identifying new technology opportunities by: Keeping across iOS development announcements, being across community best practice, discovering and evaluating new technologies</li>,<h3>Candidate Qualifications</h3><li>Bachelor degree or greater within Computer Science, Software Engineering or a related subject</li><li>5+ years developing consumer facing iOS apps</li><li>Working experience in Swift and iOS UI Frameworks</li><div>At Empower, we hire for people that push themselves to understand others and seek out ways to challenge their personal assumptions. Our hope is that by fostering such an environment, we strengthen our business and relationships by putting people first. We are committed to building a diverse, inclusive, and equitable workspace where everyone (regardless of age, education, ethnicity, gender, sexual orientation, or any personal characteristics) feels like they belong. Even if your experience doesn’t exactly match up to our job description, you should feel empowered to apply regardless!&nbsp;</div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1834,7 +1922,31 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><b style="font-size: 24px">EMPOWER OVERVIEW</b></div><div><br></div><div><a href="http://empower.me/" class="postings-link">Empower</a>&nbsp;is a high-growth financial technology company on a mission to expand access to fair credit to give anyone in the world the opportunity to improve their financial security and mobility. We dream up and launch one-of-a-kind features that help our members get money instantly whenever they need it, save for the future, and rewrite their financial story. Our members see Empower Cash Advance as a life-saver, Empower Automatic Savings as a game-changer, and the new Empower Thrive line of credit (currently in beta, launching soon) as a lifeline to low-cost borrowing and the only practical path to building good credit.</div><div><br></div><div>Empower is backed by Sequoia Capital, Blisce, and Icon Ventures. Are we the next great place to grow your impact and accelerate your career? We think so:</div><div><br></div><div>Inc. ranked Empower #56 in the 2023 Inc. 5000 list of the fastest-growing private companies in the US (#55 in 2022). Forbes put Empower on its 2023 list of America's Best Startup Employers. Fast Company recognized the new Empower Thrive line of credit in their 2022 list of the Next Big Things in Tech. </div><div><br></div><div><b style="font-size: 24px">THE EMPOWER WAY</b></div><div><b>Great Expectations</b>: We come up with bold, audacious goals for ourselves and go all out for impact</div><div><b>Owner Mindset</b>: We give every employee latitude to act independently, make smart choices, and move the business forward</div><div><b>Spirited Debate</b>: We love skeptics and seek counter opinions to challenge our personal assumptions and expand our view</div><div><b>Customer Obsession: </b>We listen to understand, empathize, and create a memorable, rewarding experience for our community</div><div><b>Inclusive Collaboration</b>: We believe diverse teams make the best decisions, and we strive to give diverse voices a seat at the table</div><div>N<b>o Jerks Allowed</b>: We value our relationships and take the time to build trust and connection and communicate respectfully</div><div><b>&nbsp;</b></div><div><b style="font-size: 18px">&nbsp;</b></div><div><b style="font-size: 18px">WHAT EMPOWER OFFERS</b></div><div>Competitive salary</div><div>Generous equity package</div><div>Full healthcare and dental benefits</div><div>Technology&nbsp; expense reimbursement</div><div>Work&nbsp; from anywhere</div><div><br></div><div><b style="font-size: 18px">JOB DESCRIPTION</b></div><div>As a Software Engineering Manager, you’ll work on the systems and processes that enable Empower's apps and business. You’ll engage with a collaborative, high powered team to deliver solutions on projects with a reach of millions. The solutions you’ll build will be robust, secure and easy to understand both for our users and your engineering peers.&nbsp;You’ll take end to end ownership of new features and product lines shaping work in early stages, building, deploying and running post deployment analysis to ensure we’re hitting our goals.</div><div><br></div><div>Travel for company offsites is expected at a minimum 2 times a year. </div><h3>Responsibilities</h3><li>Line management of engineering (3-15 staff)</li><li>Hiring technical talent across backend, web and mobile</li><li>Delivery management of high profile initiatives</li><li>Develop and execute strategic investments in technical infrastructure</li><li>Mentoring and coaching both technical and delivery within the delivery team</li><li>Management of high severity operational incidents</li><li>Management of a platform's technology roadmap</li><li>Hands on technical support (as required)</li><li>Analysis and specification of technical initiatives as a Technical Product Owner</li><li>System operational performance management</li><li>Participate in on-call schedule and escalations</li><li>Reporting of operational metrics</li><li>Process analysis, design and execution</li>,<h3>Requirements</h3><li>Bachelor degree or greater within Computer Science, Software Engineering or a related subject</li><li>6+ years developing web APIs </li><li>3+ years in a technical leadership role</li><div>At Empower, we hire for people that push themselves to understand others and seek out ways to challenge their personal assumptions. Our hope is that by fostering such an environment, we strengthen our business and relationships by putting people first. We are committed to building a diverse, inclusive, and equitable workspace where everyone (regardless of age, education, ethnicity, gender, sexual orientation, or any personal characteristics) feels like they belong. Even if your experience doesn’t exactly match up to our job description, you should feel empowered to apply regardless!&nbsp;</div>
+                <div><b style="font-size: 24px">EMPOWER OVERVIEW</b></div><div><br></div><div><a href="http://empower.me/" class="postings-link">Empower</a>&nbsp;is a high-growth financial technology company on a mission to expand access to fair credit to give anyone in the world the opportunity to improve their financial security and mobility. We dream up and launch one-of-a-kind features that help our members get money instantly whenever they need it, save for the future, and rewrite their financial story. Our members see Empower Cash Advance as a life-saver, Empower Automatic Savings as a game-changer, and the new Empower Thrive line of credit as a lifeline to low-cost borrowing and the only practical path to building good credit.</div><div>Empower is backed by Sequoia Capital, Blisce, and Icon Ventures. Are we the next great place to grow your impact and accelerate your career? We think so:</div><div><br></div><div>Inc. ranked Empower #56 in the 2023 Inc. 5000 list of the fastest-growing private companies in the US (#55 in 2022). Forbes put Empower on its 2023 list of America's Best Startup Employers. Fast Company recognized the new Empower Thrive line of credit in their 2022 list of the Next Big Things in Tech. </div><div><br></div><div><b style="font-size: 24px">THE EMPOWER WAY</b></div><div><b>Great Expectations</b>: We come up with bold, audacious goals for ourselves and go all out for impact</div><div><b>Owner Mindset</b>: We give every employee latitude to act independently, make smart choices, and move the business forward</div><div><b>Spirited Debate</b>: We love skeptics and seek counter opinions to challenge our personal assumptions and expand our view</div><div><b>Customer Obsession: </b>We listen to understand, empathize, and create a memorable, rewarding experience for our community</div><div><b>Inclusive Collaboration</b>: We believe diverse teams make the best decisions, and we strive to give diverse voices a seat at the table</div><div>N<b>o Jerks Allowed</b>: We value our relationships and take the time to build trust and connection and communicate respectfully</div><div><b>&nbsp;</b></div><div><b style="font-size: 18px">&nbsp;</b></div><div><b style="font-size: 18px">WHAT EMPOWER OFFERS</b></div><div>Competitive salary</div><div>Generous equity package</div><div>Full healthcare and dental benefits</div><div>Technology&nbsp; expense reimbursement</div><div>Work&nbsp; from anywhere</div><div><br></div><div><b style="font-size: 18px">JOB DESCRIPTION</b></div><div>As a Software Engineering Manager, you’ll work on the systems and processes that enable Empower's apps and business. You’ll engage with a collaborative, high powered team to deliver solutions on projects with a reach of millions. The solutions you’ll build will be robust, secure and easy to understand both for our users and your engineering peers.&nbsp;You’ll take end to end ownership of new features and product lines shaping work in early stages, building, deploying and running post deployment analysis to ensure we’re hitting our goals.</div><div><br></div><div>Travel for company offsites is expected at a minimum 2 times a year. </div><h3>Responsibilities</h3><li>Line management of engineering (3-15 staff)</li><li>Hiring technical talent across backend, web and mobile</li><li>Delivery management of high profile initiatives</li><li>Develop and execute strategic investments in technical infrastructure</li><li>Mentoring and coaching both technical and delivery within the delivery team</li><li>Management of high severity operational incidents</li><li>Management of a platform's technology roadmap</li><li>Hands on technical support (as required)</li><li>Analysis and specification of technical initiatives as a Technical Product Owner</li><li>System operational performance management</li><li>Participate in on-call schedule and escalations</li><li>Reporting of operational metrics</li><li>Process analysis, design and execution</li>,<h3>Requirements</h3><li>Bachelor degree or greater within Computer Science, Software Engineering or a related subject</li><li>6+ years developing web APIs </li><li>3+ years in a technical leadership role</li><div>At Empower, we hire for people that push themselves to understand others and seek out ways to challenge their personal assumptions. Our hope is that by fostering such an environment, we strengthen our business and relationships by putting people first. We are committed to building a diverse, inclusive, and equitable workspace where everyone (regardless of age, education, ethnicity, gender, sexual orientation, or any personal characteristics) feels like they belong. Even if your experience doesn’t exactly match up to our job description, you should feel empowered to apply regardless!&nbsp;</div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/2e1a369c-b58f-41ac-8d86-4b0a77695e68-1687915522032.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Empower</h5>
+                    <h3>Staff Software Engineer (Remote) - Mexico</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/empower.me/e6e53b71-6824-4f11-bc34-d2b059b91c8b" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><b><span style="font-size: 24px">EMPOWER OVERVIEW</span></b></div><div><br></div><div>Empower is a high-growth financial technology company on a mission to expand access to fair credit to give anyone in the world the opportunity to improve their financial security and mobility. We dream up and launch one-of-a-kind features that help our members get money instantly whenever they need it, save for the future, and rewrite their financial story. Our members see Empower Cash Advance as a life-saver, Empower Automatic Savings as a game-changer, and the new Empower Thrive line of credit as a lifeline to low-cost borrowing and the only practical path to building good credit.</div><div><br></div><div>Empower México is a new venture for the company. We offer small loans ranging from $150 to $2,000 MXN to help Mexican customers in a pinch, using non-traditional data to underwrite customers. </div><div><br></div><div>Empower is backed by Sequoia Capital, Blisce, and Icon Ventures. Are we the next great place to grow your impact and accelerate your career? We think so:</div><div><br></div><div>Inc. ranked Empower #56 in the 2023 Inc. 5000 list of the fastest-growing private companies in the US (#55 in 2022). Forbes put Empower on its 2023 list of America's Best Startup Employers. Fast Company recognized the new Empower Thrive line of credit in their 2022 list of the Next Big Things in Tech. </div><div><br></div><div><b><span style="font-size: 18px">THE EMPOWER WAY</span></b></div><div><b>Great Expectations</b>: We come up with bold, audacious goals for ourselves and go all out for impact</div><div><b>Owner Mindset</b>: We give every employee latitude to act independently, make smart choices, and move the business forward</div><div><b>Spirited Debate</b>: We love skeptics and seek counter opinions to challenge our personal assumptions and expand our view</div><div><b>Customer Obsession: </b>We listen to understand, empathize, and create a memorable, rewarding experience for our community</div><div><b>Inclusive Collaboration</b>: We believe diverse teams make the best decisions, and we strive to give diverse voices a seat at the table</div><div>N<b>o Jerks Allowed</b>: We value our relationships and take the time to build trust and connection and communicate respectfully</div><div><b>&nbsp;</b></div><div><b>&nbsp;</b></div><div><b><span style="font-size: 18px">WHAT EMPOWER OFFERS</span></b></div><div><br></div><div>Competitive salary</div><div>Generous equity package</div><div>Full healthcare and dental benefits</div><div>Technology&nbsp; expense reimbursement</div><div>Work&nbsp; from anywhere</div><div><br></div><div><b><span style="font-size: 18px">JOB DESCRIPTION</span></b></div><div>As a Staff Backend Engineer for Empower Mexico,&nbsp; you will play a pivotal role in shaping the technical direction of our solutions. You will identify strategic technical needs, lead large-scale and complex product initiatives, and optimize our engineering processes. You will also take ownership of technological initiatives, from management and execution to solution design and progress reporting. In addition, you will serve as a lead interviewer, mentor other engineers, and lead incident responses. You will also own technical ORKs for the Mexico business, serving as the driving force to achieve them.</div><div><br></div><div>Your role will also involve designing, building, and deploying server application code, implementing secure coding standards, and meeting sprint goals. You will monitor the performance of our server application, participate in the server ops on-call schedule, and work towards minimizing defects and improving reliability.</div><div><br></div><div>This role has a high impact in creating and owning a full business solution that is reliable, available and scalable, that meets our customer’s critical loan needs. We are a .NET / Azure stack and are looking for .NET engineers with strong experience with Azure.</div><div><br></div><div>Travel for company offsites is expected at a minimum 2 times a year.</div><div>For US based employee's, this salary range includes several career levels of consideration and will be discussed further during the interview process. The salary range is based on a variety of factors such as candidate experience, qualifications, and business needs. The base pay range is subject to change and may be modified in the future. </div><h3>Key Responsibilities</h3><li>Identify opportunities to foster optimal product direction, collaborate closely with business stakeholders to streamline and simplify designs, and proactively identify areas of risk and tradeoffs that can be enhanced.</li><li>Interfacing the financial business system into the customer facing Empower México Android app and internal “Back of House” support portal</li><li>Integrating with 3rd party services</li><li>Ownership of technical initiatives, being accountable for the initiative's outcome, managing and executing the project, designing the solution and defining its requirements, reporting on the initiative's progress, and coordinating resources.</li><li>Perform as a lead technical interviewer</li><li>Lead technical reviewer of Empower Engineering blog posts</li><li>Mentor Engineers up to and including Senior levels</li><li>Lead SEV1 and lower incident response through to resolution</li><li>Lead engineering of&nbsp; large scale and complex product initiatives</li><li>Culture leader across the engineering organization, delivery team and platform team</li>,<h3>Candidate Qualifications</h3><li>Minimum 10 years, ideally 15+ years developing web APIs within .NET (C#)</li><li>Working experience with ORMs such as Entity Framework</li><li>Working experience constructing and optimising RDMS queries</li><li>Working experience within the asynchronous programming model</li><li>Working experience with Azure solutions systems like Azure Functions and Azure Blob storage, and working knowledge of common .NET libraries like MediatR and Xunit for testing</li><li>General knowledge of Messaging Queues eg. AMQP</li><li>General knowledge of PaaS environments eg. Azure</li><div><br></div>,<h3>Preferred Qualifications</h3><li>Worked on a “zero to one” project taking a business from an idea to a profitable venture</li><li>Experience scaling a solution from tens of thousands to millions of customers (Scaling databases, queues, caching, monitoring and security with Azure)</li><li>Contributed to and/or owned a large, complex, critical banking or lending solution</li><div>At Empower, we hire for people that push themselves to understand others and seek out ways to challenge their personal assumptions. Our hope is that by fostering such an environment, we strengthen our business and relationships by putting people first. We are committed to building a diverse, inclusive, and equitable workspace where everyone (regardless of age, education, ethnicity, gender, sexual orientation, or any personal characteristics) feels like they belong. Even if your experience doesn’t exactly match up to our job description, you should feel empowered to apply regardless!&nbsp;</div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1891,7 +2003,94 @@
                 </td>
                 <td width="300">
                     <h5>Xapo Bank</h5>
-                    <h3>Senior Software Engineer - FCP (Remote - Work from Anywhere)</h3>
+                    <h3>Senior Software Engineer - CAO (Remote - Work from Anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/xapo61/jobs/6028673003" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-weight: 900;&quot;&gt;Work from anywhere, impact everywhere&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Diversity is at the heart of who we are at Xapo Bank. We’re a fully distributed team of over 140 Xapiens that work remotely from 40+ countries around the world.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Our beginning: A world that enjoys economic freedom and wealth protection, no matter where you live or who is running your country. This is the dream that drove Wences Casares, our Founder and Chairman, to quietly transform the world of banking.&lt;/p&gt;
+&lt;p&gt;To achieve that, we search the world for the best people for the job. We work hard, think globally, and inspire each other to learn and grow. We are committed to changing the way things are done.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Risk is inherent in all of our business activities and managing risk well is the responsibility of every Xapien. Sound risk management enables us to serve our customers and deliver value for our shareholders, and helps make Xapo a great place to work.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Although we are headquartered in Gibraltar, this is a full time, 100% remote position&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Work from anywhere!&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Position Overview:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We’re looking for a Senior Software Engineer to join our engineering function. At Xapo, we are building truly cross-functional teams with full ownership of design, architecture, building, testing, delivery, data, and operations.&lt;/p&gt;
+&lt;p&gt;You will collaborate closely with fellow team members from the product, apps, design, and QA communities of practice. You will be part of the product team (we call them SATs, the Stream Aligned Teams, as in the Team Topologies) in charge of the Onboarding, Marketing, and Customer Service aspects of Xapo products.&lt;/p&gt;
+&lt;p&gt;As a Senior Software Engineer, you will develop a high-impact service, provide guidance and coaching around technical good practices, and play an active, critical role in the Development Community of practice. You will shape architectural and technical patterns used in the company to solve the problems for operational teams, improve UX, and cause a WOW effect in the eyes of our Members. With that in mind, you will have an immense impact on how the future of finance looks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Our main tech stack includes:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AWS for all of our Infrastructure&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;li&gt;Python (Django, Flask)&lt;/li&gt;
+&lt;li&gt;MySQL&lt;/li&gt;
+&lt;li&gt;MongoDB&lt;/li&gt;
+&lt;li&gt;Redis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We also use:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cassandra&lt;/li&gt;
+&lt;li&gt;PostgreSQL&lt;/li&gt;
+&lt;li&gt;Node.js&lt;/li&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;BigQuery&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Support, coach, and develop team members into top-performing engineers.&lt;/li&gt;
+&lt;li&gt;Work closely in cross-functional teams where everyone is responsible for the outcome.&lt;/li&gt;
+&lt;li&gt;Build a great place to work for talented and motivated people.&lt;/li&gt;
+&lt;li&gt;Design, develop, and deploy backend services focusing on high availability, fault tolerance, low latency, and security.&lt;/li&gt;
+&lt;li&gt;Take full end-to-end responsibility for the services your team owns, from development to production, operations, and data.&lt;/li&gt;
+&lt;li&gt;Develop innovative solutions with Bitcoin at its core.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Skills needed:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Significant software engineering experience in one or more general-purpose programming languages (we use Python).&lt;/li&gt;
+&lt;li&gt;Excellent teamwork and communication skills, comfortable preparing high-quality documentation and designs to aid understanding and knowledge sharing.&lt;/li&gt;
+&lt;li&gt;Understanding of microservices architecture, container-based 12-factor apps, and cloud-native patterns around fault tolerance.&lt;/li&gt;
+&lt;li&gt;Track record of using Event Storming and Domain-Driven Design, delivering highly scalable asynchronous software.&lt;/li&gt;
+&lt;li&gt;Experience building contract-first services and adopting patterns and frameworks to enable appropriate automated testing at the unit, contract, service, and end-to-end levels.&lt;/li&gt;
+&lt;li&gt;Experience building services that can be deployed on demand, quickly, and with quality.&lt;/li&gt;
+&lt;li&gt;Excellent understanding of CI/CD patterns and good practices.&lt;/li&gt;
+&lt;li&gt;Understand the role of high-quality observability in building highly scalable and performant software.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Other requirements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A dedicated workspace.&lt;/li&gt;
+&lt;li&gt;A reliable internet connection with the fastest speed possible in your area.&lt;/li&gt;
+&lt;li&gt;Devices and other essential equipment that meet minimal technical specifications.&lt;/li&gt;
+&lt;li&gt;Alignment with Our Values and the Xapo Values-Driven Leadership principles.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Why work for Xapo?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 500; font-size: 10pt;&quot;&gt;IMPACT GLOBALLY, WORK REMOTELY.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Shape the Future:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; Improve lives through cutting-edge technology, work 100% remotely from anywhere in the world.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Great work-life balance:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Build amazing things with a balance of autonomy and collaborative teamwork. Set your own work schedule and make use of a flexible PTO plan when you need to recharge.&lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Expect Excellence:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; Collaborate, learn, and grow with a high-performance team. Learn&lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; how you learn best - from books to conferences, you’ll get a yearly budget for your individual learning and development goals.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;At Xapo, we prioritize consumer protection and adhere to regulatory requirements by ensuring that all Xapiens are accountable for upholding principles of fair treatment, transparency, and ethical conduct in their interactions with customers and stakeholders.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/530/000/resized/greyBackground.jpg?1692112526" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Xapo Bank</h5>
+                    <h3>Senior Software Engineer - Wealth Management (Remote - Work from Anywhere)</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -1913,56 +2112,7 @@
 &lt;p&gt;&lt;strong&gt;Risk is inherent in all of our business activities and managing risk well is the responsibility of every Xapien. Sound risk management enables us to serve our customers and deliver value for our shareholders, and helps make Xapo a great place to work.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p style=&quot;text-align: left;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Although we are headquartered in Gibraltar, this is a full time, 100% remote position&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Work from anywhere!&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Position Overview:&lt;/strong&gt;&lt;br&gt;We’re looking for a Senior Software Engineer to join our engineering function. At Xapo, we are&amp;nbsp;building truly cross-functional teams with full ownership of design, architecture, building, testing,&amp;nbsp;delivery, data, and operations.&lt;br&gt;You will collaborate closely with fellow team members from the product, apps, design, and QA&amp;nbsp;communities of practice. You will be part of the product team (we call them SATs, the Stream&amp;nbsp;Aligned Teams, as in the Team Topologies) in charge of the &lt;em&gt;Financial Crime Prevention&lt;/em&gt; products.&lt;br&gt;As a Senior Software Engineer, you will develop a high-impact service, provide guidance and coaching around technical good practices, and play an active, critical role in the Development Community of practice. You will shape architectural and technical patterns used in the company to solve the problems for operational teams, improve UX, and cause a WOW effect in the eyes of our Members.&amp;nbsp;With that in mind, you will have an immense impact on how the future of finance looks like.&lt;/p&gt;
-&lt;p&gt;Our main tech stack includes:&lt;br&gt;- AWS for all of our Infrastructure&lt;br&gt;- Docker&lt;br&gt;- Python (Django, Flask)&lt;br&gt;- MySQL&lt;br&gt;- MongoDB&lt;br&gt;- Redis&lt;br&gt;We use also:&lt;br&gt;- PostgreSQL&lt;br&gt;- Node.js&lt;br&gt;- Java&lt;br&gt;- BigQuery&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;br&gt;● Support, coach, and develop team members into top-performing engineers.&lt;br&gt;● Working closely in cross-functional teams where everyone is responsible for the outcome.&lt;br&gt;● Build a great place to work for talented and motivated people&lt;br&gt;● Designing, developing, and deploying backend services focusing on high availability, fault&amp;nbsp;tolerance, low latency, and security.&lt;br&gt;● Take full end-to-end responsibility for the services your team owns, from development to&amp;nbsp;production, operations, and data.&lt;br&gt;● Develop innovative solutions with Bitcoin at its core.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Skills needed:&lt;/strong&gt;&lt;br&gt;● Significant software engineering experience in one or more general-purpose programming&amp;nbsp;languages (we use Python and Node.js)&lt;br&gt;● Excellent teamwork and communication skills, comfortable preparing high-quality&amp;nbsp;documentation and designs to aid understanding and knowledge sharing.&lt;br&gt;● Understanding the microservices architecture, container-based 12-factor apps, and&amp;nbsp;cloud-native patterns around fault tolerance.&lt;br&gt;● Track record of using Event Storming and Domain Driven Design, delivering highly scalable&amp;nbsp;asynchronous software.&lt;br&gt;● Experience building contract-first services and adopting patterns and frameworks to enable&amp;nbsp;appropriate automated testing at the unit, contract, service, and end-to-end levels.&lt;br&gt;● Experience building services that can be deployed on demand, quickly, and with quality.&lt;br&gt;● Excellent understanding of CI/CD patterns and good practice.&lt;br&gt;● Understand the role of high-quality observability in building highly scalable and performant&amp;nbsp;software.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Other requirements&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A dedicated workspace.&lt;/li&gt;
-&lt;li&gt;A reliable internet connection with the fastest speed possible in your area.&lt;/li&gt;
-&lt;li&gt;Devices and other essential equipment that meet minimal technical specifications.&lt;/li&gt;
-&lt;li&gt;Alignment with Our Values and the Xapo Values-Driven Leadership principles.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Why work for Xapo?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 500; font-size: 10pt;&quot;&gt;IMPACT GLOBALLY, WORK REMOTELY.&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Shape the Future:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; Improve lives through cutting-edge technology, work 100% remotely from anywhere in the world.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Great work-life balance:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Build amazing things with a balance of autonomy and collaborative teamwork. Set your own work schedule and make use of a flexible PTO plan when you need to recharge.&lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Expect Excellence:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; Collaborate, learn, and grow with a high-performance team. Learn&lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; how you learn best - from books to conferences, you’ll get a yearly budget for your individual learning and development goals.&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;At Xapo, we prioritize consumer protection and adhere to regulatory requirements by ensuring that all Xapiens are accountable for upholding principles of fair treatment, transparency, and ethical conduct in their interactions with customers and stakeholders.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/530/000/resized/greyBackground.jpg?1692112526" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Xapo Bank</h5>
-                    <h3>Senior Software Engineer (Remote - Work from Anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/xapo61/jobs/5920981003" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;div class=&quot;content-intro&quot;&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-weight: 900;&quot;&gt;Work from anywhere, impact everywhere&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Diversity is at the heart of who we are at Xapo Bank. We’re a fully distributed team of over 140 Xapiens that work remotely from 40+ countries around the world.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Our beginning: A world that enjoys economic freedom and wealth protection, no matter where you live or who is running your country. This is the dream that drove Wences Casares, our Founder and Chairman, to quietly transform the world of banking.&lt;/p&gt;
-&lt;p&gt;To achieve that, we search the world for the best people for the job. We work hard, think globally, and inspire each other to learn and grow. We are committed to changing the way things are done.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Risk is inherent in all of our business activities and managing risk well is the responsibility of every Xapien. Sound risk management enables us to serve our customers and deliver value for our shareholders, and helps make Xapo a great place to work.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p style=&quot;text-align: left;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Although we are headquartered in Gibraltar, this is a full time, 100% remote position&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Work from anywhere!&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Position overview&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;We’re looking for a Senior Software Engineer to join our engineering function. At Xapo, we are&amp;nbsp;building truly cross-functional teams with full ownership of design, architecture, building, testing, delivery, data, and operations.&lt;br&gt;You will collaborate closely with fellow team members from the product, apps, design, and QA&amp;nbsp;communities of practice. You will be part of the product team (we call them SATs, the Stream&amp;nbsp;Aligned Teams, as in the Team Topologies) in charge of the Wealth Management products &amp;amp; Banking&lt;br&gt;Platform at Xapo.&lt;br&gt;As a Senior Software Engineer, you will develop a high-impact service, provide guidance and&amp;nbsp;coaching around technical good practices, and play an active, critical role in the Development&amp;nbsp;Community of practice. You will shape architectural and technical patterns used in the company to&lt;br&gt;solve the problems for operational teams, improve UX, and cause a WOW effect in the eyes of our&amp;nbsp;Members. With that in mind, you will have an immense impact on how the future of finance looks like.&lt;/p&gt;
 &lt;p&gt;Our tech stack includes:&lt;/p&gt;
@@ -2008,8 +2158,7 @@
 &lt;li&gt;A reliable internet connection with the fastest speed possible in your area.&lt;/li&gt;
 &lt;li&gt;Devices and other essential equipment that meet minimal technical specifications.&lt;/li&gt;
 &lt;li&gt;Alignment with Our Values and the Xapo Values-Driven Leadership principles.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Why work for Xapo?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Why work for Xapo?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-weight: 500; font-size: 10pt;&quot;&gt;IMPACT GLOBALLY, WORK REMOTELY.&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Shape the Future:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; Improve lives through cutting-edge technology, work 100% remotely from anywhere in the world.&lt;/span&gt;&lt;/li&gt;
