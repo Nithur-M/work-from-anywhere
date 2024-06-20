@@ -1,165 +1,74 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1917805/logo" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1919346/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Neondatabase</h5>
-                    <h3>Software Engineer, Developer Productivity</h3>
+                    <h5>KoboToolbox</h5>
+                    <h3>Senior Frontend Web Application Developer</h3>
                 </td>
                 <td width="300">
-                    <code>golang,python,rust</code>
+                    <code>api,django,docker,frontend</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-developer-productivity-1917805" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-web-application-developer-1919346" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="h2"><strong>Neon is an open-source company on a mission to create a cloud-native Postgres database as a service for every developer</strong></div>
-<p>We are looking for a <em>Senior Software Engineer</em> who will join our Developer Productivity team.</p>
-<p>The Developer Productivity team’s mission is to support Neon engineers be productive and to ensure they have the right tooling to test, build, and release code efficiently.</p>
-<p><strong>If you are passionate about reducing build and Continuous Integration run times, improving developer satisfaction, and reducing test flakiness - this role is for you!</strong></p>
-<hr>
-<p>As a DevProd engineer you innately understand the importance of fast feedback cycles and early discovery of bugs. You are an expert at at least one of Python, Golang, Rust, Javascript/Typescript. Ideally, you have experience defining and operating GitHub Action workflows or a similar technology, as well as experience with build systems.</p>
-<p>You are data driven and collect and utilize data from various systems to make sensible changes that positively affect engineer happiness! You are a self-starter and own projects end-to-end, driving them to completion with minimal supervision.</p>
-<p>You have empathy for engineering teams, care strongly about quality code, and implementing and scaling development best-practices.</p>
-<p>The ideal candidate for this role:</p>
+                <p><strong>Location:</strong> Remote<br><strong>Availability:</strong> 35-40 hours per week<br><strong>Working hours:</strong> US East business hours<br><strong>Reporting to:</strong> Lead developer</p>
+<p><a href="http://www.kobotoolbox.org/" rel="nofollow">KoboToolbox</a> has an immediate opening for a Senior Frontend Web Application Developer to fill a full-time position of approximately 35-40 hours per week, ideally for a commitment of at least 1 year. As a member of our team, you will share in the challenge and excitement of writing code used by over 14,000 nonprofit organizations around the world. These organizations create data-driven change through the collection and analysis of more than 20 million surveys per month.</p>
+<p>Only senior candidates who already have experience working on large web applications will be considered. Beyond technical acumen, we are seeking a team member who demonstrates curiosity, initiative, and a cooperative approach to problem solving and decision-making.</p>
+<p>If you're passionate about leveraging technology to make a positive impact, we want to hear from you!</p>
+<p>Responsibilities</p>
 <ul style="">
-<li style="">has experience with Python, Golang, Rust, Javascript/Typescript (and related build chains for these languages, i.e., pip, poetry, bazel, go, cargo, webpack)</li>
-<li style="">has used Docker containers (Dockerfiles, networking, caching, running images) and has a general understanding of Kubernetes concepts (pods, CRDs, rollouts, Helm charts)</li>
-<li style="">has defined, operated, monitored, and improved CI/CD pipelines for multiple languages/build systems (i.e., GitHub Action workflows)</li>
-<li style="">has strong troubleshooting and problem solving skills</li>
-<li style="">has empathy for other engineers</li>
-<li style="">enjoys building and owning services</li>
-<li style="">collaborates effectively with colleagues in multiple locations, working on multiple timezones (we are a fully remote company!)</li>
+<li style="">Searching and reading the extensive, long-lived code base to understand existing behavior and conventions.</li>
+<li style="">Evolving these conventions, without dogmatism, toward contemporary best practices that are appropriate for our project.</li>
+<li style="">Formulating plans to implement new conventions incrementally into the existing code base.</li>
+<li style="">Mentoring other developers, guiding them to follow these conventions, and encouraging their professional growth.</li>
+<li style="">Writing robust, concise, and reusable code with accompanying tests and documentation.</li>
+<li style="">Reviewing other developers' code and providing constructive feedback.</li>
+<li style="">Distilling requests from the humanitarian community into technically detailed feature requests (and bug reports).</li>
+<li style="">Scoping, prioritizing, estimating, and organizing work into manageably-sized tasks.</li>
+<li style="">Attending regular videoconference check-ins with other members of the technical team.</li>
+<li style="">Communicating with the public in conjunction with our support staff or directly through forums, issue trackers, etc.</li>
+<li style="">Shaping the design and architecture of the overall tool suite collaboratively with the larger team.</li>
+<li style="">Performing other related duties as directed by the lead developer.</li>
 </ul>
-<div class="h3"><strong>About Neon</strong></div>
-<p>Neon is building open-source cloud-native PostgreSQL. Our architecture separates storage from compute, allowing for stateless and serverless Postgres. We're a well-funded startup with deep knowledge of Postgres internals and decades of experience building databases. We are a systems company; we work on low-level code with strict performance and correctness requirements.</p>
-<p>Neon was created by a team of Postgres hackers and led by CEO Nikita Shamgunov (co-founder of SingleStore). Neon is built on open-source principles and is focused on giving back to the Postgres and developer communities.</p>
-<div class="h3"><strong>Our Team</strong></div>
+<p><br><br><strong>Requirements</strong><br><br>Required Qualifications</p>
 <ul style="">
-<li style="">We are a distributed team of 90 people working from 29 countries (concentrating around North American and European time zones)</li>
-<li style="">We are a team built on open-source cultural principles (transparency, contribution, accountability, and proactivity)</li>
-<li style="">Team with decades of experience building databases and deep knowledge of Postgres internals. We are deeply technical.</li>
-<li style="">We have experienced Postgres committers and hackers on the team (check <a href="%22https:/github.com/hlinnaka%22" rel="nofollow">Heikki</a>, <a href="%22https:/github.com/lubennikovaav%22" rel="nofollow">Anastasia</a>, <a href="%22https:/github.com/arssher%22" rel="nofollow">Arseny</a>, <a href="%22https:/github.com/MMeent%22" rel="nofollow">Matthias</a> profiles)</li>
-<li style="">We believe in the efficacy of collaborative open-source</li>
-<li style="">We aim for a diversity of thoughts and backgrounds</li>
-<li style="">We are keen to be a fast-moving, flat org and avoid hierarchical structures</li>
+<li style="">Experience writing, deploying, and maintaining client-side code for real-world, API-driven single-page applications.</li>
+<li style="">Thorough understanding of TypeScript, React, and related technologies, including styling, state management, and efficient data exchange over HTTP.</li>
+<li style="">Unflinching ability to work with legacy technologies such as Backbone and CoffeeScript.</li>
+<li style="">Recent experience giving and receiving code reviews.</li>
+<li style="">Interest in data collection (surveying), particularly in humanitarian emergencies and other challenging contexts, and a desire to improve our platform for our users.</li>
+<li style="">Proficiency with spoken and written English.</li>
+<li style="">Fluency with Git.</li>
+<li style="">Overlap with working hours in the Eastern time zone.</li>
+<li style="">Average availability of <em>at least</em> 30 hours per week, preferably 35 hours or more.</li>
 </ul>
-<div class="h3"><strong>Our Investors</strong></div>
+<p>Preferred Qualifications</p>
+<p>Experience with the following is preferred but not required to apply:</p>
 <ul style="">
-<li style="">Top-tier investors backed up Neon's vision:
+<li style="">Serving as the leader of a technical team.</li>
+<li style="">Using Docker and Docker Compose in a development environment.</li>
+<li style="">Programming in Python, ideally with Django (and particularly Django REST Framework).</li>
+<li style="">Optimizing queries for relational and document-oriented databases.</li>
+<li style="">Surveying with XLSForm, ODK XForm, and OpenRosa.</li>
+<li style="">Integrating with Stripe for payment processing.</li>
+</ul>
+<p><br><br><strong>Benefits</strong><br><br></p>
 <ul style="">
-<li style="">We raised $104 million in funding from Menlo Ventures, Notable Capital, Khosla Ventures, General Catalyst, and Founders Fund.</li>
-<li style="">Venture vehicles of Snowflake and Databricks invested in Neon.</li>
-<li style="">Our angel investors are prominent technologists and ecosystem players. More than 20 awesome angels supported Neon, including Nat Friedman, Elad Gil, Mike Ovitz, Ajeet Singh, Guillermo Rauch, Søren Brammer Schmidt, and Wes McKinney.</li>
-<li style="">Our Board includes Quentin Clark, Glenn Solomon, Joe Morrissey, and Tim Tully.</li>
+<li style="">Genuine Impact: Contribute directly to projects that impact millions of people around the world globally, working alongside the largest international humanitarian organizations as well as thousands of national and small community based partners in 200 countries.</li>
+<li style="">Meaningful Work Environment: Join a team that believes work should be meaningful as well as fun, tackling global challenges through innovative data collection and management tools with a proven impact for lasting change.</li>
+<li style="">Diverse Team: Be part of an amazing, progressive, and globally diverse team that values diversity, equity, and inclusion across all spectrums.</li>
+<li style="">Flexible Work Culture: Enjoy mutual flexibility, and the option for a 4-day workweek, supported by a culture that prioritizes work-life balance.</li>
+<li style="">Professional Development: Benefit from generous professional development options.</li>
 </ul>
-</li>
-</ul>
-<div class="h3"><strong>Our Offer</strong></div>
-<ul style="">
-<li style="">You have an opportunity to be an early employee in the fast-scaling ambitious team</li>
-<li style="">You can work 100% remote: we'll handle all formalities to arrange work from your home</li>
-<li style="">We pay top of the market in most parts of the world</li>
-<li style="">We grant equity (stock options) to all full-time hires</li>
-<li style="">We offer a competitive benefits package in line with all tech companies (top-notch equipment, unlimited vacations, paid parental leaves, and much more)</li>
-<li style="">We are distributed, yet make our bonds during regular offsites (the last one was in Barcelona)</li>
-</ul>
-<p> </p>
-<img src="https://remotive.com/job/track/1917805/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1917887/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Reverse Tech</h5>
-                    <h3>Full Stack Developer (Backend)</h3>
-                </td>
-                <td width="300">
-                    <code>docker,node.js</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-backend-1917887" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>At Reverse Tech, we are on a mission to create, launch, and scale digital product brands in the health and wellness space. Our goal is ambitious – we aim to help 10 million people improve their health by 2026 through hyper-targeted, mass-scale brands. We specialize in subscription-based business models and pride ourselves on being results-focused, with no big egos, just big data.</p>
-<p><strong>What We Want to Achieve:</strong></p>
-<p>Our vision is to discover novel self-serve solutions to the world's greatest health problems, all while adhering to our core values.</p>
-<p>We're looking for a Full Stack Developer, focused on Backend that will be a vital part of our dynamic remote team. Your role is instrumental in building and scaling our mobile apps within the health and wellness vertical.</p>
-<p><strong>Requirements</strong></p>
-<ul style="">
-<li style="">At least 5 years of experience working in a similar role</li>
-<li style="">Proficient in Node.js and TypeScript</li>
-<li style="">Experience developing applications using frameworks such as NestJS and Express</li>
-<li style="">Knowledge and experience with Docker</li>
-<li style="">Experience with Non-Relational (Redis, MongoDB) and Relational DB (PostgreSQL)</li>
-<li style="">Strong knowledge of DDD and Hexagonal Architecture</li>
-<li style="">Experience developing and sacaling RESTful APIs</li>
-<li style="">Experience with Event Driven Architecture</li>
-<li style="">Ensure high code quality through code reviews, writing tests, and adhering to best practices in software development</li>
-<li style="">You have a keen interest in testing culture</li>
-<li style="">Experience creating efficient real-time systems using Pub/Sub models</li>
-<li style="">Experience contributing to the design and architecture of scalable, high-performance, and reliable systems</li>
-<li style="">Proficiency in working with git and gitflow</li>
-<li style="">Knowledge of software security standards, threat assessment, and secure programming methodologies</li>
-<li style="">You are a strong team player, being part of an agile team, actively taking care of team culture and the product value towards our customers</li>
-<li style="">Our company language is English, so you should write, read and speak it fluently</li>
-</ul>
-<p> </p>
-<p><strong>Desired Skills</strong></p>
-<ul style="">
-<li style="">Experience working in Product Team/s focusing on delivering value</li>
-<li style="">Experience working under Agile frameworks/methods such as Scrum, Kanban, SAFe, Lean, etc</li>
-<li style="">Experience working in a performance marketing product</li>
-<li style="">Experience working in e-commerce</li>
-</ul>
-<p> </p>
-<div class="h3">Our Values:</div>
-<ul style="">
-<li style=""><strong> Care: </strong>We support and stand by our team members in any situation, ensuring that no one is left behind.</li>
-<li style=""><strong> Extreme Ownership: </strong>We take responsibility not only for tasks under our direct control but for anything that impacts our mission's success.</li>
-<li style=""><strong> Identification: </strong>We take pride in being part of something bigger than ourselves, with the goal of changing the world by helping people get healthier.</li>
-<li style=""><strong> Communication: </strong>We value honesty and direct language, fostering a culture free of politics.</li>
-<li style=""><strong> Performance: </strong>We believe in providing full freedom while striving for top-notch performance from everyone.</li>
-<li style=""><strong> Trust: </strong>We value the words and qualities of our team members, fostering an environment of trust and respect</li>
-</ul>
-<p><strong>Benefits</strong></p>
-<p><strong>What Our Team Members Get:</strong></p>
-<ul style="">
-<li style="">100% remote and flexible work hours</li>
-<li style="">Top notch equipment (MacBook Pro or PC, you decide)</li>
-<li style="">Full-time or freelance opportunities</li>
-<li style="">Learning from the best, including ex-Googlers and more</li>
-<li style="">Unlimited growth prospects</li>
-<li style="">Inclusion in a winning team</li>
-<li style="">Competitive compensation</li>
-<li style="">A fun, non-corporate atmosphere</li>
-</ul>
-<p> </p>
-<p>If you're passionate about Engineering, have experience in Full Stack, and are ready to join a dynamic, global team, we encourage you to apply. Help us shape the future of health and wellness through technology.</p>
-<p>Learn more about us at <a class="external" href="https://www.reverse.tech/" rel="nofollow">https://www.reverse.tech/</a> and apply today to become a key player in our exciting journey.</p>
-<p> </p>
-<p><em>*This position is offered as a Remote option, reach out to us to evaluate the options according to your location.</em></p>
-<p><br><br></p>
-<div class="h2">About the company</div>
-<p> </p>
-<p>At Reverse Tech, we're a rapidly growing digital health and wellness company on a mission to create, launch, and scale hyper-targeted, mass-scale brands. Our ambitious goal is to improve the health of 10 million people by 2026 through innovative subscription-based solutions.</p>
-<p>With a presence in over 205 countries and a 5x year-over-year growth rate, we offer a dynamic, remote work environment across 20+ locations worldwide.</p>
-<p>We attract top-tier professionals who hunger for success and reward them with competitive salaries. Our culture is free of corporate nonsense, providing a place for you to enjoy your work and achieve your professional ambitions. Join us for an exciting venture!</p>
-<img src="https://remotive.com/job/track/1917887/blank.gif?source=public_api" alt=""/>
+<img src="https://remotive.com/job/track/1919346/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -174,7 +83,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -201,34 +110,13 @@
 <p class="h3">YOU SHOULD HAVE:</p>
 <p> </p>
 <ul style="">
-<li style="">An expertise in HTML5, CSS3 and jQuery</li>
-<li style="">A thorough understanding of cross-browser compatibility issues</li>
-<li style="">Experience with media queries</li>
-<li style="">A knowledge of CSS platforms such as Twitter’s Bootstrap</li>
-<li style="">An ability to multi-task on multiple projects and tasks at the same time</li>
-<li style="">Great attention to detail and be highly organized</li>
-<li style="">A positive and upbeat attitude with the ability to learn quickly</li>
-<li style="">Proficiency in PHP/MYSQL and AJAX (preferred)</li>
-<li style="">Experience with WordPress, BigCommerce, Magento, and Shopify (preferred)</li>
-<li style="">Excellent written and spoken English</li>
-<li style="">The availability to work 40 hours per week from 9:00 am to 6:00 pm PST</li>
-<li style="">The ability to adapt to a diverse and multicultural environment</li>
-<li style="">Passion to build a startup</li>
-<li style="">Reliable transportation if working in-house</li>
-<li style="">A reliable workstation with a fast computer, microphone and speakers, reliable internet and power if working remotely</li>
+<li style="">An expertise in HTML5, CSS3, and jQuery.</li><li style="">A thorough understanding of cross-browser compatibility issues.</li><li style="">Experience with media queries.</li><li style="">A knowledge of CSS platforms such as Twitter’s Bootstrap.</li><li style="">An ability to multi-task on multiple projects and tasks at the same time.</li><li style="">Great attention to detail and a highly organized work style.</li><li style="">A positive and upbeat attitude with the ability to learn quickly.</li><li style="">Proficiency in PHP/MYSQL and AJAX (preferred).</li><li style="">Experience with WordPress, BigCommerce, Magento, and Shopify (preferred).</li><li style="">Excellent written and spoken English.</li><li style="">The availability to work 40 hours per week from 9:00 am to 6:00 pm PST.</li><li style="">The ability to adapt to a diverse and multicultural environment.</li><li style="">The passion to build a startup.</li><li style="">A reliable workstation with a fast computer, microphone, and speakers, reliable internet and power if working remotely.</li>
 </ul>
 <p class="h3"> </p>
 <p class="h3">YOUR DUTIES AND TASKS:</p>
 <p> </p>
 <ul style="">
-<li style="">Transforming complex layout PSDs into pixel-perfect presentation-layer HTML5/CSS3 templates</li>
-<li style="">Creating responsive website designs</li>
-<li style="">Building websites with WordPress, extending and developing plugins and themes</li>
-<li style="">Working with Photoshop, Illustrator, and Fireworks to create images optimized for the web</li>
-<li style="">Working with version control systems such as GIT / SVN</li>
-<li style="">Working under tight deadlines</li>
-<li style="">Handling multiple projects at the same time</li>
-<li style="">Producing high quality of work with a strong focus on detail</li>
+<li style="">Transforming complex layout PSDs into pixel-perfect presentation-layer HTML5/CSS3 templates.</li><li style="">Creating responsive website designs.</li><li style="">Building websites with WordPress, extending and developing plugins and themes.</li><li style="">Working with Photoshop, Illustrator, and Fireworks to create images optimized for the web.</li><li style="">Working with version control systems such as GIT / SVN.</li><li style="">Working under tight deadlines.</li><li style="">Handling multiple projects at the same time.</li><li style="">Producing high quality of work with a strong focus on detail.</li>
 </ul>
 <p class="h5"> </p>
 <p class="h5">We are looking for talented and diligent candidates who excel in our skills tests, and will consider these candidates even if past experience or educational background criteria aren't met.</p><p class="h5"><br></p><p>*California, New York, Washington, and Colorado: starting base pay for this position ranges between $15 - $35 per hour.</p>
@@ -367,87 +255,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
-<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
-<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
-<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
-<h2>What your day will look like</h2>
-<p>In a typical day, a developer relations engineer might:</p>
-<ul>
-<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
-<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
-<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
-<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
-<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
-<li>work on technical articles, presentations or workshops&nbsp;</li>
-<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
-<li>present at conferences, meetups or technical events</li>
-</ul>
-<h2>What we are looking for in you</h2>
-<p>A strong candidate</p>
-<ul>
-<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
-<li>has worked with real-world challenges developing and deploying software using Linux</li>
-<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
-<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
-<li>has been a contributor to open-source communities, software and documentation</li>
-<li>is an engaging, vivacious speaker and presenter</li>
-<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
-<li>builds trust, relationships and confidence</li>
-<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
-</ul>
-<h2>Additional skills that you might also bring</h2>
-<ul>
-<li>previous experience in a developer advocacy or community role</li>
-<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
-</ul>
-
-<h2>What we offer you</h2>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote&nbsp;</p>
-
-<p><br><br></p><p>Requisition ID: 1114</p><p></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Developer Relations Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
                 <a href="https://canonical.com/careers/3655681" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
@@ -513,6 +320,87 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote</p>
 <h2><br><br></h2><p>Requisition ID: 799</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Developer Relations Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
+<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
+<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
+<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
+<h2>What your day will look like</h2>
+<p>In a typical day, a developer relations engineer might:</p>
+<ul>
+<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
+<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
+<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
+<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
+<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
+<li>work on technical articles, presentations or workshops&nbsp;</li>
+<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
+<li>present at conferences, meetups or technical events</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<p>A strong candidate</p>
+<ul>
+<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
+<li>has worked with real-world challenges developing and deploying software using Linux</li>
+<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
+<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
+<li>has been a contributor to open-source communities, software and documentation</li>
+<li>is an engaging, vivacious speaker and presenter</li>
+<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
+<li>builds trust, relationships and confidence</li>
+<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
+</ul>
+<h2>Additional skills that you might also bring</h2>
+<ul>
+<li>previous experience in a developer advocacy or community role</li>
+<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
+</ul>
+
+<h2>What we offer you</h2>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote&nbsp;</p>
+
+<p><br><br></p><p>Requisition ID: 1114</p><p></p>
     
                 </details>
                 </td>
@@ -735,30 +623,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>C Developer for popular open source projects (worldwide remote, work anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/52AFCFE196" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We are in search of a highly skilled and passionate C Developer to join our exceptional Extended Lifecycle team at CloudLinux. As a member of this team, you will have a unique opportunity to contribute to major open-source projects such as Apache HTTPD, OpenSSL, and MySQL. Your role will involve the important task of backporting crucial security fixes to ensure the stability of these projects.</p><p>By joining our team of experts, you will have the chance to collaborate with top-notch developers and have a significant impact on the open-source community. For more information about the project and our company, visit our branded websites, <a href="https://www.cloudlinux.com" rel="nofollow noreferrer noopener" class="external">CloudLinux.com</a> and <a href="https://www.tuxcare.com" rel="nofollow noreferrer noopener" class="external">TuxCare.com</a>.</p><p>Come be a part of CloudLinux, where every team member supports each other's success. </p><p><strong>What You Will Do:</strong></p><ul> <li>Collaborate on various open-source projects, including Apache HTTPD, Python, OpenSSL, and more.</li> <li>Backport security and bug fixes from newer upstream versions or develop patches from scratch.</li> <li>Contribute to upstream projects.</li> <li>Create reproducers and tests for vulnerabilities.</li> <li>Automate routine processes such as monitoring CVEs, applying patches, and testing.</li> </ul><h3>Requirements: </h3><p><strong>To be successful you should have;</strong></p><ul> <li>5+ years of professional experience in C programming required</li> <li>Must be proficient in GNU/Linux operating system and shell scripting</li> <li>Strong ability to work with various build systems, including autotools, make, and cmake</li> <li>Prior experience with git-based development processes preferred</li> <li>Knowledge of scripting languages like Python, Perl, or similar will be a plus </li> </ul><p></p><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://scontent.fcmb4-2.fna.fbcdn.net/v/t39.30808-6/273499217_5218973671480777_3308731762242867065_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=YDi_Wd17RD8AX9wXcyR&_nc_zt=23&_nc_ht=scontent.fcmb4-2.fna&oh=00_AfB4sOOYpj6VyDSuvvuqhVnZbH22m89SqG99HwaOa-uslw&oe=65BE4336" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -899,6 +763,30 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div><i>Technology (AI / ML / add all the buzzwords here) is changing the world precipitously and shaping our future.</i></div><div><br></div><div> Join us if you DISAGREE and want to shape the future yourself!</div><div><br></div><div><b>We need top-notch&nbsp;Ax Developer with the ambition to create the technology that changes the world. The technology that makes history, and decodes the future while transforming the present…</b></div><div><b>Already excited? Then we’d like to know you better!</b></div><div><br></div><div>Our team will be a perfect fit for you, if you’re a multi-dimensional IT expert ready to join a high performance, large scale, geographically dispersed ecosystem, as we become a global e-commerce player with the vision to be the greatest gifting company in the world.</div><h3>🥰Are You the One We’re Seeking?</h3><li>You possess exceptional analytical and conceptual thinking skills</li><li>You hold full accountability of your work regardless of your position or title in the team</li><li>You’re a humble and competent team member who’s excited to join a culture devoid of corporate buzzwords and bureaucracy</li><li>You have an insatiable curiosity and a craving for lifelong learning</li><li>You’re enjoying every minute of your job as you can see the results immediately</li><li>You have superb communication skills, with a knack for interacting effectively with multidisciplinary teams</li>,<h3>✨Let Your Skills Shine with Us!</h3><li>BS degree in Computer Science/Engineering or relevant engineering programs</li><li>Experience in Dynamics AX (X ++) or Dynamics 365 software development</li><li>Knowledge of Visual Studio .Net platform and C# coding language</li>,<h3>🎯Your Journey Begins: Embrace the Exciting Adventure Ahead!</h3><li>Developing in Dynamics 365 ERP Projects</li><li>Supporting functional consultants during the technical design phase, which is part of the analysis </li><li>Examining the problems in the applications developed and to take the necessary actions to solve them</li><li>Writing well-designed code for significant projects considering the software development</li><li>Responsible for planning and conducting the integration of new modul into the project</li><li>Planning and taking part in the software development testing</li><li>Proactively reporting the optimization of inner processes and errors to the team lead</li>,<h3>😎What’s in here for you?</h3><li>🎉Fun and Adventure Await: Get ready for exhilarating team adventures and unforgettable company activities that will create memories to cherish!&nbsp;🌈</li><li>🛍️Take excellent care of yourself : HiDoctor, Momento, and More!&nbsp;👩🏻‍⚕️</li><li>🎩Express Your Unique Style: No more stuffy suits or uncomfortable attire. Embrace your personal style and wear whatever makes you feel confident and comfortable. 👗👕</li><li>📚Unlock Your Potential: Biweekly Learning Hours and a Vast Training Library Await! 🎓 Never stop learning and growing! With unlimited access to top-notch training resources like Udemy and more, your professional growth knows no limits! 🚀</li><li>🥰Join Vibrant Social Clubs: Connect, Collaborate, and Create Lifelong Friendships!🎉Be part of our vibrant social clubs, where you can engage with colleagues who share your passions and interests. Cultivate meaningful connections, foster collaboration, and create memories that extend beyond the workplace.🤝</li><li>🤝Seamless Onboarding: Receive a Warm Welcome and a Smooth Transition! 📋 Our dedicated onboarding process ensures you feel supported and empowered from day one. We provide comprehensive training and resources to help you settle into your role quickly and effectively. 🌟</li><li>Join us on this exciting journey a dynamic work ecosystem, thrilling team activities, entertainment galore, a flexible dress code, and endless learning opportunities await you! It’s time to unleash your full potential and embrace the future of work!&nbsp;💃</li><div><b>😍About Us</b></div><div><br></div><div>As a pioneering tech company in gifts, our vision is to be a leader in all markets in which we operate. We create lifelong value in the lives of our employees, customers and all our business partners! 💪</div><div><br></div><div>Founded in 2006 by Emre Aydın, <a href="http://ciceksepeti.com/" class="postings-link">Ciceksepeti.com</a> offers the broadest selection of flowers &amp; gifts delivered same day within a single experience. We are very proud to have created a culture of celebration among people with our gift arrangements and our brand Bonnyfood. We are committed to continuing this tradition by making every special day memorable. In addition to our original mission of bringing a new perspective to the e-commerce sector in Turkey and making shipping faster and easier, now we offer a diverse range of products under various categories, such as electronics, home &amp; living, personal care, supermarket, cosmetics, fashion, sports &amp; outdoor, hobby, pet shop, jewellery &amp; accessories, as well as flowers and edible flowers since 2019.</div><div><br></div><div><a href="http://ciceksepeti.com/" class="postings-link">Ciceksepeti.com</a> is the most visited floral and gifting website according to SimilarWeb data, having 4 times more visitors than the second largest player in the world. 😎</div><div><br></div><div>Besides covering 70+ cities in Turkey through 55.000+ vendors and 24x7 customer support, Ciceksepeti has expanded into Mexico with its international brand, LolaFlora.💃</div><div><br></div><div>We are so happy and proud to have been selected the Best Employer Brand at LinkedIn Turkey Talent Awards in 2019 and 2022! 🥳</div><div><br></div><div>Headquartered in İstanbul, we’re a young, nimble, dedicated team of professionals, who are not only hard workers but also smart workers; who know how to get things done in the right way, as well as getting the right things done for our customers. Moreover, we’re on the verge of an exciting episode in our journey as we simultaneously set foot on international markets and grow further in domestic market.</div><div><br></div><div><span style="font-size: 14px">"İşe alım süreçlerimizde kişisel verilerinizi nasıl işlediğimize dair bilgiye çalışan adayı aydınlatma metnimizden ulaşabilirsiniz./ Please see our candidate privacy note for information on how we process your personal data during our recruitment activities."</span></div><div><a href="https://cdn03.ciceksepeti.com/editor/hr/Ciceksepeti_CS-Teknoloji-Calisan-Adayi_Aydinlatma-Metni-15092023.pdf" class="postings-link">https://cdn03.ciceksepeti.com/editor/hr/Ciceksepeti_CS-Teknoloji-Calisan-Adayi_Aydinlatma-Metni-15092023.pdf</a></div><div><a href="https://cdn03.ciceksepeti.com/editor/hr/Ciceksepeti_CS-Teknoloji-Calisan-Adayi_Aydinlatma-Metni-15092023.docx.pdf" class="postings-link">https://cdn03.ciceksepeti.com/editor/hr/Ciceksepeti_CS-Teknoloji-Calisan-Adayi_Aydinlatma-Metni-15092023.docx.pdf</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/3c1d9ac7-6738-46c5-b6ca-a35fa2a0df57-1666278594128.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Blue Coding</h5>
+                    <h3>Senior Full-Stack TypeScript Developer (E)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/bluecoding/a931134c-a5e4-476b-9ada-2e602f7d32f2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 9 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 18px">What are we looking for?</b></div><div><br></div><div>In this opportunity, we are looking for a Senior Full-Stack TypeScript Developer to work with one of our foreign clients, who works in Ad Tech with an in-house advertising and marketing agency pushing the limits of advertising performance. The company uses its unique combination of marketing strategies and proprietary technologies to target users using mobile and internet-connected device-matching technology. You'll work on managing and developing the client's APIs and front-end applications using Keystone, Prisma, React, and NextJS. The ideal candidate has experience with multiple data providers and understands the complexities of working within a cloud-based, micro-services architecture.</div><div><br></div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>Develop and manage data schemas, authentication, and runtime processing of requests to our GraphQL APIs using Keystone.</li><li>Handle multiple Keystone and Prisma instances within the same project.</li><li>Build and maintain user interfaces with React.</li><li>Implement and manage micro-services using NextJS.</li><li>Work with various data providers including Azure SQL, Azure Serverless Synapse, Azure Blob Storage, and Azure Flexible PostgreSQL.</li><li>Write scalable and maintainable code in TypeScript.</li><li>Guide less experienced developers and help them improve their skills.</li>,<h3>You will shine if you have:</h3><li>Proficiency in TypeScript.</li><li>Experience with Keystone and Prisma.</li><li>Strong knowledge of React and NextJS.</li><li>Familiarity with Azure data services (SQL, Serverless Synapse, Blob Storage, Flexible PostgreSQL).</li><li>Understanding of micro-services architecture and cloud-based services.</li><li>Ability to manage multiple Keystone and Prisma instances within a single project.</li><li>Awareness of clustering and horizontal scaling impacts development, particularly within an AKS cluster.</li>,<h3>It doesn't hurt if you also have:</h3><li>Experience with Azure Kubernetes Services (AKS).</li><li>Familiarity with third-party data providers.</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
                 </details>
                 </td>
             </tr>,<tr>
