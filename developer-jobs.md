@@ -10,7 +10,7 @@
                     <code>api,django,docker,frontend</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-web-application-developer-1919346" align="right" target="_blank">Apply</a>
@@ -83,7 +83,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -255,6 +255,87 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
+<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
+<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
+<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
+<h2>What your day will look like</h2>
+<p>In a typical day, a developer relations engineer might:</p>
+<ul>
+<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
+<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
+<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
+<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
+<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
+<li>work on technical articles, presentations or workshops&nbsp;</li>
+<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
+<li>present at conferences, meetups or technical events</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<p>A strong candidate</p>
+<ul>
+<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
+<li>has worked with real-world challenges developing and deploying software using Linux</li>
+<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
+<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
+<li>has been a contributor to open-source communities, software and documentation</li>
+<li>is an engaging, vivacious speaker and presenter</li>
+<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
+<li>builds trust, relationships and confidence</li>
+<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
+</ul>
+<h2>Additional skills that you might also bring</h2>
+<ul>
+<li>previous experience in a developer advocacy or community role</li>
+<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
+</ul>
+
+<h2>What we offer you</h2>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote&nbsp;</p>
+
+<p><br><br></p><p>Requisition ID: 1114</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Developer Relations Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
                 <a href="https://canonical.com/careers/3655681" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
@@ -320,87 +401,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote</p>
 <h2><br><br></h2><p>Requisition ID: 799</p><p></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Developer Relations Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
-<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
-<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
-<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
-<h2>What your day will look like</h2>
-<p>In a typical day, a developer relations engineer might:</p>
-<ul>
-<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
-<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
-<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
-<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
-<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
-<li>work on technical articles, presentations or workshops&nbsp;</li>
-<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
-<li>present at conferences, meetups or technical events</li>
-</ul>
-<h2>What we are looking for in you</h2>
-<p>A strong candidate</p>
-<ul>
-<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
-<li>has worked with real-world challenges developing and deploying software using Linux</li>
-<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
-<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
-<li>has been a contributor to open-source communities, software and documentation</li>
-<li>is an engaging, vivacious speaker and presenter</li>
-<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
-<li>builds trust, relationships and confidence</li>
-<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
-</ul>
-<h2>Additional skills that you might also bring</h2>
-<ul>
-<li>previous experience in a developer advocacy or community role</li>
-<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
-</ul>
-
-<h2>What we offer you</h2>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote&nbsp;</p>
-
-<p><br><br></p><p>Requisition ID: 1114</p><p></p>
     
                 </details>
                 </td>
@@ -643,30 +643,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div><b style="font-size: 18px">Wishpond Technologies currently has the position of  Senior Developer, Ruby on Rails and we’re excited to tell you about it !</b></div><div><span style="font-size: 22px">&nbsp;</span></div><div><b style="font-size: 18px">OVERVIEW</b></div><div><span style="font-size: 16px">We are searching for a </span><b style="font-size: 16px">Senior RoR Developer</b><span style="font-size: 16px"> to join our team on a full-time basis.&nbsp; This is a fully remote position, and the successful individual could be based anywhere in the world. You will work with an amazing team, building relationships and ensuring the products and services offered by Wishpond are utilized by clients throughout Canada and the US. In collaboration with the Product Development Department, the Senior RoR Developer is responsible for the success of Wishpond Technologies Ltd.</span></div><div>&nbsp;</div><div><span style="font-size: 15px">&nbsp;</span><b style="font-size: 18px">RESPONSIBILITIES</b></div><div>• <span style="font-size: 16px">Write clean and scalable code using a variety of languages primarily Ruby and Java Script</span></div><div><span style="font-size: 16px">• Build components for web applications pragmatically, focusing on performance and security</span></div><div><span style="font-size: 16px">• Troubleshoot application issues, adeptly debugging and rectifying errors to ensure the best user experience</span></div><div><span style="font-size: 16px">• Actively provide technical insight and participate in code reviews</span></div><div><span style="font-size: 16px">• Thoroughly test code and write effective automated tests</span></div><div><span style="font-size: 16px">• Uphold best practices and maintain high standards for engineering and product quality</span></div><div><span style="font-size: 16px">• Improve, monitor, and maintain applications after deployment</span></div><div><span style="font-size: 16px">• Coordinate with team members who work on different layers of product life cycle including Product Managers, QA Specialists and DevOps Engineers</span></div><div><span style="font-size: 16px">• Other duties as assigned</span></div><div>&nbsp;</div><div><b style="font-size: 18px">QUALIFICATIONS</b></div><div>• <span style="font-size: 16px">A minimum of 4 years of Ruby on Rails experience</span></div><div><span style="font-size: 16px">• A minimum of 3 years of experience with JavaScript and at least one front-end framework such as Angular, React, Vue or equivalent</span></div><div><span style="font-size: 16px">• Solid database experience, preferably with MySQL, PostgreSQL and Redis</span></div><div><span style="font-size: 16px">• Experience with Elasticsearch and MongoDB is a plus</span></div><div><span style="font-size: 16px">• </span><span style="font-size: 11.5pt">Familiarity with using Docker, Git and a Linux environment is preferred</span></div><div><span style="font-size: 16px">• </span><span style="font-size: 11.5pt">Strong problem solving skills and is able to craft solutions within the expected timeline</span></div><div><span style="font-size: 16px">• Must be results-driven, have the ability to multi-task in a fast-paced Agile environment with large scale SaaS products</span></div><div><span style="font-size: 16px">• A degree or diploma that contributes to the organization or role is considered an asset</span></div><div><span style="font-size: 16px">• Must be very detail-oriented, and have a passion for programming</span></div><div><span style="font-size: 16px">• Self-motivated with the ability to establish and maintain solid relationships through a client-first mentality&nbsp;</span></div><div><span style="font-size: 16px">• As part of a diverse team, ability to work both independently and collaboratively in a fast-paced, results-oriented environment</span></div><div><span style="font-size: 16px">• Must be&nbsp;technical, and analytical, and have the ability to manage complex projects seamlessly</span></div><div><span style="font-size: 16px">• Fluent in English (spoken and written) and able to communicate effectively with ease. Knowledge of a second language is considered an asset</span></div><div><span style="font-size: 16px">• Willing to participate in ongoing education and training for the role</span></div><div><br></div><div><b style="font-size: 18px">WORK ENVIRONMENT&nbsp;/ BACKGROUND VERIFICATION</b></div><div>• <span style="font-size: 16px">Given the nature of this role, it is expected that the successful candidate will provide their own workstation, high quality computer capable of running all our applications locally, headset, and have a fast and reliable internet connection.&nbsp;Certain roles will be required to utilize and or download company-approved software.</span></div><div><span style="font-size: 16px">• The successful candidate is expected to work PST/PDT standard business hours (GMT-8) </span></div><div>• <span style="font-size: 16px">Due to the nature of this role, we may verify backgrounds, including conducting employment references, criminal records, and credit checks.</span></div><div><span style="font-size: 15px">&nbsp;</span>• <span style="font-size: 15px">Once hired, the successful candidate must provide a copy of valid governmental photo ID and proof of residential address as part of their onboarding process</span></div><div><br></div><div><b style="font-size: 18px">GREAT REASONS TO APPLY FOR THIS ROLE</b></div><div>• &nbsp;<span style="font-size: 15px">Fully remote position allowing you to </span><b style="font-size: 15px">work from your home anywhere in the world !</b></div><div>•  <span style="font-size: 15px">Exciting and dynamic environment with a great leadership team&nbsp;</span></div><div>•  <span style="font-size: 15px">Comprehensive training program and regular performance reviews to facilitate your success</span></div><div>•  <span style="font-size: 15px">Competitive compensation based on experience and proven abilities</span></div><div>•  <span style="font-size: 15px">Great referral programs with incentives and bonuses</span></div><div>•  <span style="font-size: 15px">Unbelievable product discounts when you use our products for your own business</span></div><div>•  <span style="font-size: 15px">A global workforce of multi-cultural and talented colleagues&nbsp;</span></div><div>•  <span style="font-size: 15px">A close-knit operation with amazing growth opportunities for your personal development</span></div><div>•  <span style="font-size: 15px">A high growth SaaS technology company publicly traded on the TSX Venture Exchange</span></div><div>•  <span style="font-size: 15px">Corporate headquarters in beautiful Vancouver, British Columbia, Canada</span></div><div>•  <span style="font-size: 15px">Access to our education credits program and so much more !</span></div><div><br></div><div><b style="font-size: 18px">ABOUT US</b></div><div><span style="font-size: 16px">Founded in 2009, Wishpond is a rapidly growing technology company providing digital marketing solutions targeted at small businesses.&nbsp; The cloud-based platform includes landing pages, social promotions, website pop-ups, online forms, and lead activity tracking. Wishpond has a dedicated team of professional project managers, designers, copywriters, and developers who provide marketing services tailored to our individual clients.</span></div><div><span style="font-size: 16px">&nbsp;</span></div><div><span style="font-size: 16px">Wishpond serves over 3,000 customers in various industries and sizes, from startups to large Fortune 500 companies. Wishpond has a rapidly growing global headcount and continues to hire dedicated and qualified employees and contractors who have what it takes to scale a successful software company.</span></div><div><br></div><div><span style="font-size: 16px">To learn more about Wishpond Technologies, please visit our website or any of our social media platforms:</span></div><div><br></div><div><span style="font-size: 16px">• Website: </span><a href="http://www.wishpond.com/" style="font-size: 16px" class="postings-link">www.wishpond.com</a></div><div><span style="font-size: 16px">• Instagram: @wishpondofficial</span></div><div><span style="font-size: 16px">• Twitter: Wishpond</span></div><div><span style="font-size: 16px">• Youtube: Thewishpond</span></div><div><span style="font-size: 16px">• LinkedIn : Wishpond</span></div><div><br></div><div><b style="font-size: 18px">APPLICATION PROCESS</b></div><div><b style="font-size: 16px">If you are interested in applying for this exciting opportunity, please provide an updated resume IN ENGLISH (PDF or Word formats only), quoting the position title in the subject line of your cover letter</b></div><div><span style="font-size: 16px">&nbsp;</span><b style="font-size: 16px">&nbsp;</b></div><div><span style="font-size: 16px">Wishpond Technologies is an equal-opportunity employer committed to hiring a diverse workforce and sustaining an inclusive culture that does not discriminate on the basis of disability, status, or any other basis protected under legislation</span></div><div><span style="font-size: 16px">&nbsp;</span></div><div><span style="font-size: 16px">We thank all applicants in advance for their interest in this position however due to the volume of applications we receive, we are unable to respond to phone, email, or agency inquiries.</span></div><div><br></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/55028a36-609c-479c-9553-d4689ff2dd8c-1669620566663.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Airalo</h5>
-                    <h3>Senior Android Developer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/airalo/46f295d0-ff0e-41b1-a9c4-6e96df34835e" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b>About Airalo</b></div><div>Alo! Airalo is the world’s first eSIM store that helps people connect in over 200+ countries and regions across the globe. We are building the next digital service that revolutionizes the telecom industry. We are a travel-tech company and an equal-opportunity environment that values and executes diversity, inclusion, and equity. Our team is spread across 50+ countries and six continents. What glues us together is our commitment to changing the way you connect<span style="font-size: 13.3333px">. </span></div><div><br></div><div><b>About you</b></div><div>We hope that you care deeply about the quality of your work, the intrinsic worth of tasks, and the success of your team. You are self-disciplined and do not require micromanagement in terms of your skillset and work ethic. You do your best to flourish as an individual every day while working hard to foster a collaborative team environment. You believe in the importance of being — and staying — authentic, honest, positive, and kind. You are a good interlocutor with clear and concise communication. You are able to manage multiple projects, have an analytical mind, pay keen attention to detail, and love to get your hands dirty. You are cognizant, tolerant, and welcoming of vulnerabilities and cultural differences.</div><div><br></div><div><b>About the Role</b></div><div><b>Position</b>: Full-time / Employee</div><div><b>Location:</b>&nbsp;Remote-first </div><div><b>Benefits:</b>&nbsp;Health Insurance, work-from-anywhere stipend, annual wellness &amp; learning credits, annual all-expenses-paid company retreat in a gorgeous destination &amp; other benefits</div><div><br></div><div>We are looking for a skilled Senior Android Engineer who is ready to learn and willing to join our expert team developing new features and extending the existing ones in our main product. We welcome talented, passionate, innovative, result-oriented professionals who strive to absorb new knowledge and technologies and are willing to use them.</div><h3>Responsibilities include but are not limited to:</h3><li>Designing and developing enterprise-quality software components based on product specifications</li><li>Developing new features or enhancements to existing features</li><li>Extend and improve engineering best practices in the teams</li><li>Oversee major changes to our Android architecture</li><li>Troubleshooting technical and application problems</li><li>Continuously discover, evaluate and implement new technologies to maximize developer efficiency</li><li>Work with Product Managers, Designers, and other Engineers to deliver best in class user experience and collaborate closely with local and global colleagues</li><li>Mentor and support other developers on your team with code reviews, design feedback, and other advice and guidance</li><li>Preparing technical documentation related to the Android application to enrich the knowledge base</li><li>Staying current with best practices and bringing new ideas to the team.</li><li>Writing quality code, following guidelines, and implementing tests.</li>,<h3>Must-haves:</h3><li>Bachelor’s degree in Computer Engineering or a similar discipline</li><li>Minimum 5 years of development experience in an agile team with Java/Kotlin</li><li>Published &amp; supported continuously developed one or multiple android apps</li><li>Expertise in MVVM and similar modern architectures</li><li>Goof understanding and usage of design patterns</li><li>Proficiency in Git, Gitflow, branching, and merging strategies</li><li>Proficiency in OOP concept and design patterns</li><li>Proficiency in Android SDK</li><li>Experience in payment systems, and marketplaces</li><li>Experience pixel perfect implementation and Android design guidelines</li><li>Knowledge about data structures, algorithms, processes, and memory management</li><li>Team player and open to new ideas</li><li>Excellent attention to detail</li><li>Knowledge and experience in Unit Test/Feature Test/Mocking</li><li>Good communication skills and fluency in English</li>,<h3>Good to haves:</h3><li>Knowledge of UI/UX best practices</li><li>Experience in A/B testing</li><li>Prior experience with scrum and other agile methods</li><li>Prior work experience in telecommunications or the travel industry</li><li>Knowledge of eSIM and GSMA related technologies and services</li><div>If you are interested in this position, <b>please apply via the link.</b></div><div><br></div><div><i>We sincerely thank all applicants in advance for submitting their interest in this opportunity with Airalo. </i></div>
                 </details>
                 </td>
             </tr>,<tr>
