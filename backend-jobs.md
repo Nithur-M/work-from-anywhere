@@ -1,5 +1,159 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1920819/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Prevalent IOT Inc.</h5>
+                    <h3>Devops / Backend Engineer / Kubernetes</h3>
+                </td>
+                <td width="300">
+                    <code>backend,docker,git,go</code>
+                </td>
+                <td width="200">
+                <text>6 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/devops/devops-backend-engineer-kubernetes-1920819" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p class="MsoNormal" style="margin: 0in; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><span style="color: black;"><br><br><em>Salary: $24K-$120K per year.  Negotiable depending on skills</em><br></span></p>
+<p class="MsoNormal" style="margin: 0in; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"> </p>
+<p class="MsoNormal" style="margin: 0in; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"> </p>
+<p class="MsoNormal" style="margin: 0in; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><span style="color: black;"><strong>Overview</strong><br>Seeking Devops engineer for small elite IOT development team. Job description includes research, development, and support of a Kubernetes cluster for a project which serves tens of thousands of IoT devices and thousands of users.<br><br><strong>Requirements<br></strong><br>Strong knowledge and experience in</span></p>
+<p> </p>
+<ul style="" type="disc">
+<li class="MsoNormal" style="">Kubernetes
+<p> </p>
+</li>
+<li class="MsoNormal" style="">Docker, Docker compose
+<p> </p>
+</li>
+<li class="MsoNormal" style="">CI/CD
+<p> </p>
+</li>
+<li class="MsoNormal" style="">Git Lab
+<p> </p>
+</li>
+<li class="MsoNormal" style="">Grafana (or analog)
+<p> </p>
+</li>
+<li class="MsoNormal" style="">NGINX
+<p> </p>
+</li>
+<li class="MsoNormal" style="">Mail services setup and manage
+<p> </p>
+</li>
+<li class="MsoNormal" style="">Scale services for MQTT, Mongo<br><br>DB, REDIS, etc
+<p> </p>
+</li>
+<li class="MsoNormal" style="">Certbot
+<p> </p>
+</li>
+<li class="MsoNormal" style="">Portainer
+<p> </p>
+</li>
+</ul>
+<p class="MsoNormal" style="margin: 0in; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><span style="color: black;"><strong>Fields of liability</strong><br><br>RnD</span></p>
+<p> </p>
+<ul style="" type="disc">
+<li class="MsoNormal" style="">design Kubernetes cluster architecture
+<p> </p>
+</li>
+<li class="MsoNormal" style="">setup Kubernetes cluster for the system's services (backend)
+<p> </p>
+</li>
+<li class="MsoNormal" style="">setup CI/CD pipeline for the services and Uis
+<p> </p>
+</li>
+<li class="MsoNormal" style="">setup monitoring (and alert) system for the backend, visualization of the backend health (e.g. Grafana)
+<p> </p>
+</li>
+<li class="MsoNormal" style="">automate scale and issue resolution for the backend.
+<p> </p>
+</li>
+<li class="MsoNormal" style="">setup mail service(s)
+<p> </p>
+</li>
+<li class="MsoNormal" style="">Ideally participate in the services RnD (Go, Node.<br><br>JS)
+<p> </p>
+</li>
+</ul>
+<p class="MsoNormal" style="margin: 0in; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><span style="color: black;">Monitoring&amp;Support</span></p>
+<p> </p>
+<ul style="" type="disc">
+<li class="MsoNormal" style="">monitor the system's health and react on accidents
+<p> </p>
+</li>
+<li class="MsoNormal" style="">monitor the system’s services resources consumption and act like a feedback for the services' developers (offer improvements)
+<p> </p>
+</li>
+<li class="MsoNormal" style="">perform penetration tests for the system services
+<p> </p>
+</li>
+</ul>
+<p class="MsoNormal" style="margin: 0in; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><span style="color: black;">Documentation</span></p>
+<p> </p>
+<ul style="" type="disc">
+<li class="MsoNormal" style="">Good technical writing skills for description of the cluster and recipes for work with it (internal WIKI)
+<p> </p>
+</li>
+</ul>
+<p class="MsoNormal" style="margin: 0in; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><span style="color: black;"><strong>Experience<br></strong><br>5+ years in Dev Ops for systems serves Io Ts<br>Contacts </span></p>
+<p> </p>
+<p class="MsoNormal" style="margin: 0in; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><strong><span style="color: black;">Position Requirements</span></strong></p>
+<p> </p>
+<p class="MsoNormal" style="margin: 0in; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><strong><span style="color: dimgray;">3+ Years </span></strong><span style="color: black; background: white;">work experience </span></p>
+<p> </p>
+<p class="MsoNormal" style="margin: 0in; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><span style="color: black;">Strong knowledge and experience in</span></p>
+<p> </p>
+<ul style="" type="disc">
+<li class="MsoNormal" style="">Kubernetes
+<p> </p>
+</li>
+<li class="MsoNormal" style="">Docker, Docker compose
+<p> </p>
+</li>
+<li class="MsoNormal" style="">CI/CD
+<p> </p>
+</li>
+<li class="MsoNormal" style="">Git Lab
+<p> </p>
+</li>
+<li class="MsoNormal" style="">Grafana (or analog)
+<p> </p>
+</li>
+<li class="MsoNormal" style="">NGINX
+<p> </p>
+</li>
+<li class="MsoNormal" style="">Mail services setup and manage
+<p> </p>
+</li>
+<li class="MsoNormal" style="">Scale services for MQTT, Mongo<br><br>DB, REDIS, etc
+<p> </p>
+</li>
+<li class="MsoNormal" style="">Certbot
+<p> </p>
+</li>
+<li class="MsoNormal" style="">Portainer
+<p> </p>
+</li>
+</ul>
+<p class="MsoNormal" style="margin: 0in; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><strong><span style="color: black;">Additional Information / Benefits</span></strong></p>
+<p> </p>
+<p class="MsoNormal" style="margin: 0in; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><span style="color: black;">Work with a small team of really smart people on a really cool project. Potential for long-term position if you fit in with the vibe of the team.</span></p>
+<p> </p>
+<p class="MsoNormal" style="margin: 0in; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><a name="application_box" rel="nofollow"></a></p>
+<p> </p>
+<p class="MsoNormal" style="caret-color: #000000; color: #000000;"> </p>
+<p> </p>
+<img src="https://remotive.com/job/track/1920819/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -57,7 +211,7 @@
 <ul><li>Sometimes we meet up! Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.</li><li>While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week. </li><li>A successful candidate will be subject to a background check and must receive satisfactory results of the same, as a condition of joining the team. </li><li>By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.</li></ul>
 <p><br /></p>
 <p><br /></p>
-<p>#LI-DNI</p>
+<p>#LI-DNI #INT</p>
 <p><br /></p>
 <div><p><br /></p></div>
 <div><br /></div>
@@ -265,30 +419,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div>At BioRender, our mission is to accelerate the world’s ability to learn, discover and communicate science. We are passionate about democratizing science communication in order to accelerate scientific discovery and understanding. We're looking for amazing people to help create the world’s go-to-place and platform where science is communicated. Come join us!</div><div><br></div><div><span style="font-size: 16px">We’re hiring a Senior Backend Engineers on our AI Product &amp; Personalization Team to join our mission in democratizing science communication. </span></div><div><br></div><div><b style="font-size: 16px">AI Product &amp; Personalization team</b><span style="font-size: 16px">: The mission of this new team is to dramatically reduce the effort it takes scientists to create figures in BioRender from hours to minutes, saving scientists a billion hours a year annually. Leveraging AI, this team will help supercharge our vision by empowering every scientist to be an incredible storyteller.</span></div><div><br></div><div>#LI-DNI</div><h3>You will:</h3><li>Be a foundational member of a cross-functional team, working closely with product, design, data science, and science experts to achieve our mission.</li><li>Build backend services.</li><li>Integrate with third-party systems like Algolia (search product) and work with creative team to enrich data sets.</li><li>Contribute to process improvements, hiring/onboarding procedures, enhancing product quality, and optimizing our codebase for ease of use and flexibility.</li><li>Successfully deliver substantial projects with a high level of quality, typically spanning 3 to 6 months.</li>,<h3>Our ideal fit brings:</h3><li>A strong background in backend engineering, with a knack for creating high-performing APIs capable of handling high volumes</li><li>Expertise with NoSQL databases (like MongoDB), and cloud infrastructure (like AWS).&nbsp;A track record of designing systems that are simple, scalable, secure, and performant.</li><li>Thrives on enhancing system maintainability for streamlined engagement by other engineers.</li><li>Data platform background is a plus.</li><li>Familiarity with our chosen tools in the JavaScript ecosystem (Node.js, Express.js, ReactJS) is a plus, but an interest in learning those tools and writing code in TypeScript is a must.</li>,<h3>Why join us?</h3><li>We are mission-driven, and work collaboratively towards our shared vision of improving scientific communication and accelerating scientific discovery: BioRender figures have appeared in more than 16,000 publications!&nbsp;</li><li>It’s a product that users love! We have a world-class NPS and a community of loyal fans. Check out our Testimonials page to see what our customers are saying about us: <a href="https://biorender.com/testimonials/" class="postings-link">https://biorender.com/testimonials/&nbsp;</a></li><li>We are in the top quartile for profitability and year-over-year revenue growth, with users in 200+ countries.</li><li>BioRender is an equal opportunity employer, and an inclusive hiring process and work environment is a part of our DNA.&nbsp;</li><li>We’re remote-first and have team members across Canada and the United States. A physical office in Toronto is available, but you have the flexibility to work from anywhere.&nbsp;</li><li>We’re backed by top investors, accelerators, and some of the most successful life science entrepreneurs and philanthropists in the world including Y Combinator, Malala Fund founders, and Fifty Years VC.&nbsp;</li><li>We are committed to building a warm, inclusive, and diverse environment. Check out how we make sure our <a href="https://www.biorender.com/biorender-careers" class="postings-link">employees come first</a>.</li><div>Check out our candidate resource - <a href="https://biorender.notion.site/Engineering-Product-Design-66275a3c2cca42e39234412881621467" class="postings-link">Engineering, Product &amp; Design at BioRender!</a>&nbsp;</div><div>You can also read more about the <a href="https://biorender.notion.site/BioRender-Candidate-Resources-8255c155797f442a950720a33b4764d5" class="postings-link">BioRender interview process and FAQs here</a>! </div><div>Check out what it's like to work at BioRender in <a href="https://biorender.notion.site/biorender/Working-at-BioRender-as-a-Canada-Based-Employee-f6e12ab844154bb9948b22b32e3f0c70" class="postings-link">Canada</a> and the <a href="https://biorender.notion.site/biorender/Working-at-BioRender-as-a-U-S-Based-Employee-4ab2cc8e48f546f89aa98c318bccebc9" class="postings-link">US</a>!</div><div><br></div><div><i>Please note that in Canada, only those companies licensed by a provincial or territorial engineering regulator may refer to themselves as an “engineer” and therefore, this role will be titled "developer" internally at BioRender.&nbsp;</i></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1725197105923293184/0HcwlDMy_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Avara</h5>
-                    <h3>Senior Backend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.eu.lever.co/avara/36ac08ca-79cb-40e8-96ad-8e29724cf3ff" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b style="font-size: 18px">About us: </b></div><div><br></div><div><span style="font-size: 16px">Avara builds innovative products leveraging blockchain technologies. Avara's suite includes the Aave Protocol, along with the native stablecoin GHO, Lens, an open social network, and Family, a design-first mobile crypto wallet. Avara's vision is to build a people-powered internet that benefits all.</span></div><div><br></div><div><b style="font-size: 18px">Our culture:</b></div><div><br></div><div><span style="font-size: 16px">Having cultivated a thriving, collaborative culture, our team is kind, welcoming and passionate about what we are building. We celebrate differences and seek to develop and retain the most talented people from a diverse candidate pool from all over the world. </span></div><div><br></div><div><b style="font-size: 18px">About the role: </b></div><div><br></div><div><span style="font-size: 16px">The Backend Developer will enhance and maintain high-performance systems using Node.js and TypeScript, optimise database performance, and implement best coding practices. This role involves collaborating with various teams to develop efficient APIs and streamline deployments, focusing on scalability and rapid response to support the Family Wallet. </span></div><div><b style="font-size: 18px;">About us: </b></div><div><br></div><div><span style="font-size: 16px;">Avara builds innovative products leveraging blockchain technologies. Avara's suite includes the Aave Protocol, along with the native stablecoin GHO, Lens, an open social network, and Family, a design-first mobile crypto wallet. Avara's vision is to build a people-powered internet that benefits all.</span></div><div><br></div><div><b style="font-size: 18px;">Our culture:</b></div><div><br></div><div><span style="font-size: 16px;">Having cultivated a thriving, collaborative culture, our team is kind, welcoming and passionate about what we are building. We celebrate differences and seek to develop and retain the most talented people from a diverse candidate pool from all over the world. </span></div><div><br></div><div><b style="font-size: 18px;">About the role: </b></div><div><br></div><div><span style="font-size: 16px;">The Backend Developer will enhance and maintain high-performance systems using Node.js and TypeScript, optimise database performance, and implement best coding practices. This role involves collaborating with various teams to develop efficient APIs and streamline deployments, focusing on scalability and rapid response to support the Family Wallet. </span></div><h3>How you can make an impact:</h3><li>Develop, maintain, and enhance high-performance backend systems utilizing Node.js and TypeScript.</li><li>Optimise database performance, scalability, and integrity, managing both PostgreSQL and MongoDB environments.</li><li>Implement best practices in coding, including automated tests, comprehensive documentation, and conducting code reviews as necessary.</li><li>Collaborate with the DevOps team to streamline automated deployments using CI/CD, enhancing production visibility and ensuring environment stability.</li><li>Work closely with the iOS team to architect and develop efficient REST APIs that support the rapid response requirements of the Family wallet.</li><li>Process and convert blockchain data from multiple chains into a format suitable for efficient querying.</li><li>Design and implement sophisticated caching mechanisms to provide instantaneous API responses.</li><li>Lead backend architecture discussions and planning for integrating new features seamlessly.</li><h3>Let's connect if:</h3><li>Minimum of 5 years' experience in backend development, preferably with large-scale systems.</li><li>Strong proficiency in Node.js, TypeScript, Redis, Git, and RESTful API design.</li><li>Solid experience with both SQL and NoSQL database technologies.</li><li>Familiarity with AWS and other cloud services.</li><li>At least 1 year of experience in the web3 sector, developing backend solutions.</li><li>In-depth knowledge of the Ethereum Virtual Machine (EVM) and data extraction techniques from EVM-based blockchains.</li><li>Excellent skills in communication, collaboration, and problem-solving.</li><li>Capable of working both independently and as part of a diverse team.</li><li>Passion for building products with a high degree of craft, polish and attention to detail.</li><div>Haven’t quite met all the criteria? Let’s not miss out on the chance to speak. Whilst you might not meet every single requirement, you might bring other, more exciting skills to the companies!&nbsp;&nbsp;</div><div><br></div><div><br></div><div><b style="font-size: 18px">Equal opportunity statement:</b></div><div><br></div><div>Avara celebrates diversity and view each and every team member as a separate individual with their own unique identity. No matter your race, religion, gender, ethnicity, age, (dis)ability, sexual orientation or even the wallet you use, we welcome you at Avara.&nbsp;</div><div>&nbsp;</div><div>As an equal opportunities employer, we take accountability and believe in everyone's potential to build, create and inspire changes. With a mission to build a diverse workforce, we are proud to foster a working environment in which everyone can feel safe and valued for who they are.&nbsp;</div>
                 </details>
                 </td>
             </tr>,<tr>
