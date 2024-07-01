@@ -62,7 +62,7 @@
 <p><strong>Please note that:</strong> </p>
 <ul><li><p>Sometimes we meet up! Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.</p></li><li>While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week. </li><li>A successful candidate will be subject to a background check and must receive satisfactory results of the same, as a condition of joining the team. </li><li>By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.</li></ul>
 <p><br /></p>
-<p>#US #UK #SP #PL #IR #IC #HN #CR #CN #AU</p>
+<p>#INT</p>
                 </details>
                 </td>
             </tr>,<tr>
@@ -278,36 +278,6 @@
 <p><span style="font-weight: 400;">Go back to the </span><a href="https://about.sourcegraph.com/jobs/"><span style="font-weight: 400;">careers page</span></a><span style="font-weight: 400;"> for all open positions.</span></p>
 <p>&nbsp;</p>
 <p><em><span style="font-weight: 400;">Sourcegraph participates in <a href="https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107" target="_blank">E-Verify</a> for U.S. Employees</span></em></p></div>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/378800000147745937/0fac42c12b433bbbd53ff3e15cd6fca4_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MixRank</h5>
-                    <h3>Software Engineer - Global/Remote</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/35HrJ61-software-engineer-global-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>MixRank processes petabytes of data every month from web crawls, Google Play Store, Apple App Store, social media, and dozens of other sources. We have hundreds of customers using our data products including Google, Amazon, Facebook, Intel, and Adobe, across industries Sales, Marketing, Finance, and Security.</p>
-<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
-<p>We're hiring generalist software engineers to work on web applications, data mining, machine learning/data science, data transformation/ETL, data modeling, database scaling, infrastructure, devops, and more. We'll cater the role to whatever subset of these areas match your interests.</p>
-<p>Beneficial experience includes PostgreSQL, Python, Linux, TypeScript, Nix, frontend/backend web development, and data mining.</p>
-<p>Why Join MixRank? Fully-remote, no HQ office. Team of 32 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
-<p>Please include your updated resume when applying for this role.</p>
 
                 </details>
                 </td>
@@ -740,7 +710,7 @@
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
-                    <h3>Linux Systems Software Engineering Manager</h3>
+                    <h3>Linux Software Engineering Manager - Ubuntu Platform Optimisation</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -749,68 +719,75 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/5780677" align="right" target="_blank">Apply</a>
+                <a href="https://canonical.com/careers/6066380" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 
-      <p>The Partner Engineering team works with the leading silicon companies to optimise Ubuntu to get the most from each new chip. Our goal is to collaborate with specialist engineers from our partners to integrate next-generation features and performance enhancements for upcoming hardware, while also ensure a common operating experience for their users.</p>
-<p>This role is a fast-paced, problem-solving role that’s challenging yet very exciting. The right candidate must be resourceful, articulate, and able to deliver on a wide variety of solutions across iot, desktop, automotive or server and data center technologies.&nbsp;</p>
-<p>As a Partner Engineering Manager at Canonical you will lead an engineering team that works across the full Linux server stack from kernel to AI workloads, to optimise Ubuntu for the latest silicon. You will manage relationships with our key technology partners by ensuring timely delivery on agreed project milestones.&nbsp;</p>
-<p>As a lead for strong engineers, technical leadership and a solid background in software engineering is a must, so that you’re able to challenge and grow your team members. Code reviews and architectural leadership are part of the job. As manager, the commitment to healthy engineering practices, documentation, quality and performance optimisation are equally important technical responsibilities, as is the requirement for fair and clear management, and the obligation to ensure a high performing team. You will have the opportunity to influence the culture, facilitate technical delivery, and work with your team on strategy and execution.</p>
-<p>Location: This is a Globally remote role</p>
-<h2>What your day will look like</h2>
+      <p>The Partner Engineering team works across the full Linux stack from kernel and system libraries to middleware, to integrate new features and optimise Ubuntu for the latest silicon platforms and software stacks. Our goal is to ensure Ubuntu is the premier platform for small iot and edge devices, networking, automotive, server and hyperconverged systems.</p>
+<p>As a Partner Engineering Manager you will lead an engineering team focused on some of these platforms. You will manage technical relationships with our key silicon partners to ensure timely delivery of agreed project goals, and collaborate with internal teams to deliver targeted results. Technical leadership experience and a background in software engineering, with a hands-on approach, are necessary prerequisites for this role.</p>
+<p>In this role, you will be expected to lead, challenge, and develop talented engineers, positively influence the culture, facilitate technical delivery, and work with your team on strategy and execution.</p>
+<h2>What you’ll do</h2>
 <ul>
-<li>Lead a team of distributed engineers to design and implement the best Ubuntu integration for the latest iot, desktop and server-class hardware platforms and software stacks</li>
-<li>Engage with commercial partners to deliver a delightful, optimised, first class Ubuntu experience on their platforms</li>
-<li>Develop your team through coaching, mentoring, leading by example, and feedback</li>
-<li>Oversee commercial engagements and support timely delivery on agreed project milestones</li>
-<li>Ensure an ongoing commitment to strict quality and reliability standards</li>
-<li>Engage with other teams at Canonical to ensure alignment on product architecture and roadmaps</li>
+<li>Lead and develop a team of engineers, ranging from graduate to senior</li>
+<li>Represent your team to partners, product stakeholders and customers&nbsp;</li>
+<li>Collaborate proactively with a globally distributed organisation</li>
+<li>Develop and evangelise great engineering and organisational practices</li>
+<li>Coach, mentor, and offer career development feedback</li>
+<li>Implement disciplined engineering processes</li>
+<li>Plan and manage progress on agreed goals and projects</li>
+<li>Be an active part of the leadership team, collaborating with other leaders</li>
+<li>Collaborate with other teams at Canonical to ensure alignment on product architecture and roadmaps</li>
+<li>Design and integrate new features and platform optimisations <br><br></li>
 </ul>
-<h2>What we are looking for in you</h2>
+<h2>What we’re looking for in you</h2>
 <ul>
-<li>You have experience with Linux packaging (Debian, RPM, Yocto)</li>
-<li>You have experience working with open source communities and licences</li>
-<li>You have experience working with Python, C, C++</li>
-<li>You have experience working directly with customers, going beyond resolving their technical issues, to interpreting their business challenges and effectively communicating how your solution will meet their needs</li>
-<li>You have experience managing software engineers with a track record of planning, delivery and quality</li>
-<li>You can work in a globally distributed team through self-discipline and self-motivation.</li>
-<li>You have experience collaboration across multiple internal teams, building trust and delivering results</li>
+<li>Experience with Linux packaging (Debian, RPM, Yocto)</li>
+<li>Experience working with Python, C, C++</li>
+<li>Experience managing software engineers with a track record of planning, delivery and quality</li>
+<li>Excellent verbal and written communication skills in English</li>
+<li>A love of developing and growing people and a track record of it</li>
+<li>Organised and able to ensure your team delivers timely, high quality results</li>
+<li>Well-organised, self-starting and able to ensure your team delivers to schedule</li>
+<li>Professional manner interacting with colleagues, partners, and community</li>
+<li>Experience working with customers, going beyond resolving their technical issues, to interpreting their business challenges and effectively communicating how your solution will meet their needs</li>
+<li>High-quality, well-designed and well-documented software experience</li>
+<li>Builds trust, relationships and confidence</li>
+<li>Solid experience working in an agile development environment</li>
+<li>Ability to travel twice a year, for company events up to two weeks each</li>
 </ul>
-<h2>Additional skills that you might also bring</h2>
+<h2>Additional skills we value</h2>
 <ul>
-<li>Experience with server technologies, including UEFI firmware, GPU computing, RDMA/Infiniband and virtualization stacks</li>
-<li>Experience with server IoT / Embedded experience – from board and SoC, BMCs, bootloaders and firmware to OS, through apps and services</li>
+<li>Experience working with open source communities and licenses</li>
+<li>Experience with server technologies, including UEFI firmware, GPU computing, RDMA/Infiniband and virtualization stacks (kvm, qemu, libvirt)</li>
+<li>Experience with IoT / Embedded devices from firmware, boot loaders and BSP enablement including hardware accelerators</li>
 <li>Experience with graphics stacks</li>
-<li>Basic understanding of security best practices in IoT or server environments</li>
-<li>Good communication skills, ideally public speaking experience</li>
-<li>Some experience with Docker/OCI containers/K8s</li>
-<li>Experience working with CI automation platforms such as GitHub</li>
+<li>Experience with open source networking technologies (eBPF, OVS, OVN, SoNIC, DPDK, SPDK, etc)</li>
+<li>Experience with container technologies such as LXD, Docker and Kubernetes&nbsp;</li>
+<li>Understanding of security best practices and Secure Software Development Lifecycles</li>
+<li>Experience designing and implementing CI/CD automation platforms such as GitHub Actions</li>
 <li>Experience with performance benchmarking and profiling</li>
 </ul>
 <h2>What we offer you</h2>
-<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.&nbsp;&nbsp;</p>
-<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.</p>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
 <ul>
-<li>Fully remote working environment - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of 2,000USD per annum</li>
+<li>Distributed work environment with twice-yearly team sprints in person</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
 <li>Annual compensation review</li>
 <li>Recognition rewards</li>
 <li>Annual holiday leave</li>
-<li>Parental Leave</li>
+<li>Maternity and paternity leave</li>
 <li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues at ‘sprints’</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+<li>Opportunity to travel to new locations to meet colleagues</li>
+<li>Priority Pass, and travel upgrades for long haul company events</li>
 </ul>
 <h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p>
 <h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-<p>&nbsp;#LI-remote</p><p>Requisition ID: 805</p><p></p>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote</p><p>Requisition ID: 805</p><p></p>
     
                 </details>
                 </td>
@@ -1165,93 +1142,6 @@
 <p><strong>Canonical is an equal opportunity employer</strong></p>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote&nbsp;</p><p>Requisition ID: 531</p><p></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Senior Software Engineer - Embedded & Desktop Linux Optimisation</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/4241188" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>You will work across the full Linux stack from kernel through networking, virtualization and graphics to optimise Ubuntu, the world’s most widely used Linux desktop and server, for the latest silicon.&nbsp;</p>
-<p>Our teams partner with specialist engineers from major silicon companies to integrate next-generation features and performance enhancements for upcoming hardware.</p>
-<p>This is an excellent opportunity for someone who wants to have a meaningful impact on the adoption of Linux across multiple industries. The right candidate must be resourceful, articulate, and able to deliver on a wide variety of solutions across server, desktop and IoT technologies. Canonical offers a fun, fast-paced team environment and a career full of learning and development opportunities.&nbsp;</p>
-<p>Location: <em>This is a Globally remote role</em></p>
-<h3>What your day will look like</h3>
-<ul>
-<li>Design and implement the best Ubuntu integration for the latest IoT desktop and server-class hardware platforms and software stacks</li>
-<li>Work with partners to deliver an optimised, first class Ubuntu experience on their platforms</li>
-<li>Take a holistic approach to the Ubuntu experience on partner platforms with inputs on technical plans, testing strategy, quality metrics</li>
-<li>Participate as technical lead on customer engagements involving complete system architectures from cloud to edge</li>
-<li>Help our partners integrate their apps, SDKs, build device OS images, and optimize applications with Ubuntu Core, Desktop and Server</li>
-<li>Work with the most advanced operating systems and application technologies available in the enterprise world.</li>
-</ul>
-<p>Joining Canonical, you will partner with bright minds from all over the world, and work with an exciting set of new technologies in a fast growing company with a truly unique and ambitious vision to build a better platform with free software. You will work with customers on exciting IoT, desktop and server platforms and technologies, built to support different verticals: from robots to data centers, from telco to retail, as well as automotive.</p>
-<h3>What we are looking for in you</h3>
-<ul>
-<li>You love technology and working with brilliant people</li>
-<li>You have a Bachelor’s degree in Computer Science, STEM or similar&nbsp;</li>
-<li>You have experience with Linux packaging (Debian, RPM, Yocto)</li>
-<li>You have experience working with open source communities and licences</li>
-<li>You have experience working with Python, C, C++</li>
-<li>You can work in a globally distributed team through self-discipline and self-motivation.</li>
-</ul>
-<h3>Nice to have</h3>
-<ul>
-<li>Experience with server technologies, including UEFI firmware, GPU computing, RDMA/Infiniband and virtualization stacks</li>
-<li>Experience with graphics stacks</li>
-<li>Good understanding of networking - TCP/IP, DHCP, HTTP/REST</li>
-<li>Basic understanding of security best practices in IoT or server environments</li>
-<li>Good communication skills, ideally public speaking experience</li>
-<li>IoT / Embedded experience – from board and SoC, BMCs, bootloaders and firmware to OS, through apps and services</li>
-<li>Experience working with CI automation platforms such as GitHub</li>
-<li>Experience with performance benchmarking and profiling</li>
-<li>Some experience with Docker/OCI containers/K8s</li>
-</ul>
-<h3>What we offer you</h3>
-<ul>
-<li>Learning and development opportunities</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual leave</li>
-<li>Priority Pass for travel</li>
-</ul>
-<p>Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. In addition to the benefits above, certain roles are also eligible for additional benefits and rewards including annual bonuses and sales incentives based on revenue or utilisation. Our compensation philosophy is to ensure equity right across our global workforce.&nbsp;&nbsp;</p>
-<p>In addition to a competitive base pay, we provide all team members with additional benefits, which reflect our values and ideals. Please note that additional benefits may apply depending on the work location and, for more information on these, you can ask in the later stages of the recruitment process.</p>
-<ul>
-<li>Fully remote working environment - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of 2,000USD per annum</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Parental Leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues at ‘sprints’</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote</p><p>Requisition ID: 829</p><p></p>
     
                 </details>
                 </td>
@@ -1958,30 +1848,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1545121577632763912/7FMnABb0_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Collabora</h5>
-                    <h3>Senior C++ Software Engineer (Remote/Anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/collabora/afb6f2ea-9c39-498c-863c-82764ea247a0" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt">Collabora Productivity Ltd. is a software company specialising in bringing the innovation created in Open Source projects such as LibreOffice to the market, along with services, long term support and software consultancy. We combine years of open source software leadership with an understanding of the challenges that businesses, non-profits, and governments face.</span></div><div><br></div><div><span style="font-size: 11pt">Collabora Productivity brings deep technical expertise around the Office space, from our preferred Open Document format to many other, including legacy, document formats such as OpenXML and Microsoft binary formats, using modern technologies like C++ 17.</span></div><div><br></div><div><br></div></div><div class="section page-centered"><div><h3>Key Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Root cause analysis and fixing of document interoperability issues</li><li>Analysing client problems, designing, and implementing solutions leveraging open source technologies and communicating the solutions in a compelling fashion</li><li>Annual conference attendance to present progress made to the Open Source community</li><li>Self starting analysis of limited project descriptions, ability to break complex tasks down into smaller deliverables, execute and report progress against these</li><li>Assistance in estimation of project costs</li><li>Implementation of features based on unclear customer input to exceed their expectations</li><li>Communication with the community, other team members, and customers using mailing 	lists, chats, phone and video conference</li><li>Capacity to travel a few times per year worldwide</li><li>Reliable and timely delivery of quality solutions to clients and internal customers</li><li>Development of strong relationships with key personnel, decision makers and customers</li></ul></ul></div></div><div class="section page-centered"><div><h3>Commercial Skills</h3><ul class="posting-requirements plain-list"><ul><li>Understanding client needs and reconciling time constraints, available technologies and resources and open source best practices</li><li>Ability to work in a global context with clients and engineers spanning continents</li><li>Knowledge of customers’ organization, management, product, target market, applications and decision making internal process 	</li></ul></ul></div></div><div class="section page-centered"><div><h3>Technical Skills</h3><ul class="posting-requirements plain-list"><ul><li>Large scale C++ development experience, on projects of &gt; 1 million lines of code</li><li>LibreOffice development experience preferred</li><li>Excellent code reading skills</li><li>Office Suite, file format and binary file format reverse engineering experience a plus</li><li>Good interpersonal skills, along with knowledge of open source 	development methodologies and good standing in the open source community</li><li>Significant demonstrable contributions to components in the open source ecosystem</li><li>BS/BA or extensive experience in the role of Software Engineer </li><li>Experience of unit testing</li><li>Cross-platform aware, deep knowledge of either Linux, MS Windows, or OSX, and some knowledge of one more platform (Cygwin knowledge helpful if MS Windows is the core skill)</li><li>Experience with Android, iOS or another mobile operating system a bonus</li><li>Casual scripting in Perl / Python / BASH or other language(s)</li><li>Version control systems – ideally knowledge of git</li></ul></ul></div></div><div class="section page-centered"><div><h3>Personal Skills</h3><ul class="posting-requirements plain-list"><ul><li>Highly self motivated, reliable with a demonstrable passion for Open Source and the office domain</li><li>Able to work from home office, managing own time effectively</li><li>Self learning skill to get sufficient knowledge of Collabora's services, 	business model, project delivery lifecycle and other related technical domains</li><li>Good interpersonal skills</li><li>Winsome presentation skills appreciated</li><li>Good English language skills (both verbal and written) </li><li>German language skills a bonus</li><li>Ability to work and communicate in an online distributed environment</li></ul></ul></div></div><div class="section page-centered" data-qa="closing-description"><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/afb6f2ea-9c39-498c-863c-82764ea247a0/apply">Apply for this job</a></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1435749714821926913/SgjRHZ17_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -2170,54 +2036,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div><b style="font-size: 24px">EMPOWER OVERVIEW</b></div><div><br></div><div>Empower is a high-growth financial technology company on a mission to expand access to fair credit to give anyone in the world the opportunity to improve their financial security and mobility. We dream up and launch one-of-a-kind features that help our members get money instantly whenever they need it, save for the future, and rewrite their financial story. Our members see Empower Cash Advance as a life-saver, Empower Automatic Savings as a game-changer, and the new Empower Thrive line of credit as a lifeline to low-cost borrowing and the only practical path to building good credit.</div><div><br></div><div>Empower México is a new venture for the company. We offer small loans ranging from $150 to $2,000 MXN to help Mexican customers in a pinch, using non-traditional data to underwrite customers. </div><div><br></div><div>Empower is backed by Sequoia Capital, Blisce, and Icon Ventures. Are we the next great place to grow your impact and accelerate your career? We think so:</div><div><br></div><div>Inc. ranked Empower #56 in the 2023 Inc. 5000 list of the fastest-growing private companies in the US (#55 in 2022). Forbes put Empower on its 2023 list of America's Best Startup Employers. Fast Company recognized the new Empower Thrive line of credit in their 2022 list of the Next Big Things in Tech. </div><div><br></div><div><b style="font-size: 18px">THE EMPOWER WAY</b></div><div><b>Great Expectations</b>: We come up with bold, audacious goals for ourselves and go all out for impact</div><div><b>Owner Mindset</b>: We give every employee latitude to act independently, make smart choices, and move the business forward</div><div><b>Spirited Debate</b>: We love skeptics and seek counter opinions to challenge our personal assumptions and expand our view</div><div><b>Customer Obsession: </b>We listen to understand, empathize, and create a memorable, rewarding experience for our community</div><div><b>Inclusive Collaboration</b>: We believe diverse teams make the best decisions, and we strive to give diverse voices a seat at the table</div><div>N<b>o Jerks Allowed</b>: We value our relationships and take the time to build trust and connection and communicate respectfully</div><div><b>&nbsp;</b></div><div><b>&nbsp;</b></div><div><b style="font-size: 18px">WHAT EMPOWER OFFERS</b></div><div><br></div><div>Competitive salary</div><div>Generous equity package</div><div>Full healthcare and dental benefits</div><div>Technology&nbsp; expense reimbursement</div><div>Work&nbsp; from anywhere</div><div><br></div><div><b style="font-size: 18px">JOB DESCRIPTION</b></div><div>As a Staff Backend Engineer for Empower Mexico,&nbsp; you will play a pivotal role in shaping the technical direction of our solutions. You will identify strategic technical needs, lead large-scale and complex product initiatives, and optimize our engineering processes. You will also take ownership of technological initiatives, from management and execution to solution design and progress reporting. In addition, you will serve as a lead interviewer, mentor other engineers, and lead incident responses. You will also own technical ORKs for the Mexico business, serving as the driving force to achieve them.</div><div><br></div><div>Your role will also involve designing, building, and deploying server application code, implementing secure coding standards, and meeting sprint goals. You will monitor the performance of our server application, participate in the server ops on-call schedule, and work towards minimizing defects and improving reliability.</div><div><br></div><div>This role has a high impact in creating and owning a full business solution that is reliable, available and scalable, that meets our customer’s critical loan needs. We are a .NET / Azure stack and are looking for .NET engineers with strong experience with Azure.</div><div><br></div><div>Travel for company offsites is expected at a minimum 2 times a year.</div><div>For US based employee's, this salary range includes several career levels of consideration and will be discussed further during the interview process. The salary range is based on a variety of factors such as candidate experience, qualifications, and business needs. The base pay range is subject to change and may be modified in the future. </div><h3>Key Responsibilities</h3><li>Identify opportunities to foster optimal product direction, collaborate closely with business stakeholders to streamline and simplify designs, and proactively identify areas of risk and tradeoffs that can be enhanced.</li><li>Interfacing the financial business system into the customer facing Empower México Android app and internal “Back of House” support portal</li><li>Integrating with 3rd party services</li><li>Ownership of technical initiatives, being accountable for the initiative's outcome, managing and executing the project, designing the solution and defining its requirements, reporting on the initiative's progress, and coordinating resources.</li><li>Perform as a lead technical interviewer</li><li>Lead technical reviewer of Empower Engineering blog posts</li><li>Mentor Engineers up to and including Senior levels</li><li>Lead SEV1 and lower incident response through to resolution</li><li>Lead engineering of&nbsp; large scale and complex product initiatives</li><li>Culture leader across the engineering organization, delivery team and platform team</li>,<h3>Candidate Qualifications</h3><li>Minimum 10 years, ideally 15+ years developing web APIs within .NET (C#)</li><li>Working experience with ORMs such as Entity Framework</li><li>Working experience constructing and optimising RDMS queries</li><li>Working experience within the asynchronous programming model</li><li>Working experience with Azure solutions systems like Azure Functions and Azure Blob storage, and working knowledge of common .NET libraries like MediatR and Xunit for testing</li><li>General knowledge of Messaging Queues eg. AMQP</li><li>General knowledge of PaaS environments eg. Azure</li><div><br></div>,<h3>Preferred Qualifications</h3><li>Worked on a “zero to one” project taking a business from an idea to a profitable venture</li><li>Experience scaling a solution from tens of thousands to millions of customers (Scaling databases, queues, caching, monitoring and security with Azure)</li><li>Contributed to and/or owned a large, complex, critical banking or lending solution</li><div>At Empower, we hire for people that push themselves to understand others and seek out ways to challenge their personal assumptions. Our hope is that by fostering such an environment, we strengthen our business and relationships by putting people first. We are committed to building a diverse, inclusive, and equitable workspace where everyone (regardless of age, education, ethnicity, gender, sexual orientation, or any personal characteristics) feels like they belong. Even if your experience doesn’t exactly match up to our job description, you should feel empowered to apply regardless!&nbsp;</div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://lever-client-logos.s3-us-west-2.amazonaws.com/2a61cdfd-29d3-4707-b965-c4527aa67d0c-1593500521772.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Crytek</h5>
-                    <h3>Lead Tools Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/crytek/5973354f-58b5-43ab-bd7b-bd9945e499a4" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div>Crytek is looking for an experienced&nbsp;and passionate&nbsp;<b>Lead Tools Software Engineer</b> to&nbsp;shape the next generation of content&nbsp;production tools&nbsp;in&nbsp;<a href="https://www.cryengine.com/" class="postings-link">CRYENGINE</a>.&nbsp;</div><div>&nbsp;</div><div>As&nbsp;the&nbsp;Lead&nbsp;Tools Software Engineer,&nbsp;you&nbsp;will&nbsp;oversee&nbsp;the Tools team,&nbsp;providing technical&nbsp;guidance,&nbsp;mentoring,&nbsp;and an&nbsp;environment that fosters&nbsp;innovation.&nbsp;&nbsp;</div><div>You will work together with the Technical Director&nbsp;in defining the roadmap for the editor framework technology stack and drive its implementation.&nbsp;You will also work closely with the CRYENGINE&nbsp;product team, assisting&nbsp;in the design of&nbsp;cutting-edge&nbsp;content editing tools and&nbsp;efficient&nbsp;content&nbsp;creator workflows.&nbsp;</div><div>&nbsp;</div><div>Join us and we’ll invent the future together.&nbsp;</div><div><b>&nbsp;</b></div><div><b>*Required documents that allow a careful evaluation of your application are resume and cover letter explaining why you are an ideal candidate and applying for the&nbsp;job.*&nbsp;</b></div><div><br></div><div><u><b>Relocation &amp; Remote Work</b></u></div><div><br></div><div><span style="font-size: inherit">For this position, you have one of the following options:</span></div><div><br></div><div><span style="font-size: inherit">1. Come to our modern headquarters in Frankfurt and receive an attractive relocation package and have access to all of our benefits.</span></div><div><br></div><div><span style="font-size: inherit">2. If you are already living in one of the following countries, we are able to offer you a permanent work contract and allow you to work remotely&nbsp;as an employee&nbsp;from there.&nbsp;</span></div><div><span style="font-size: inherit">Germany</span></div><div><span style="font-size: inherit">Sweden</span></div><div><span style="font-size: inherit">United Kingdom</span></div><div><span style="font-size: inherit">Spain</span></div><div><span style="font-size: inherit">Poland</span></div><div><span style="font-size: inherit">Austria</span></div><div><br></div><div><span style="font-size: inherit">3. If you are interested in full-time remote work in any other country (max. +/- 2 hours CET), we&nbsp;can offer you&nbsp;a freelance contract arrangement.</span></div><h3>Responsibilities</h3><li>Lead the development of&nbsp;CRYENGINE’s&nbsp;editor framework.&nbsp;</li><li>Design&nbsp;innovative&nbsp;tools and&nbsp;efficient&nbsp;workflows together with&nbsp;the&nbsp;UX/UI&nbsp;department.&nbsp;</li><li>Ensure reliability and stability of the editor code base.&nbsp;</li><li>Contribute to developer and end-user documentation.&nbsp;</li><li>Guide&nbsp;and mentor fellow&nbsp;engineers.&nbsp;</li><li>Assist in the recruitment process.&nbsp;</li><li>Take initiative and be willing to expand own horizon.&nbsp;</li><li>Delegate effectively, while involving team members in decision making processes&nbsp;</li>,<h3>Requirements</h3><li>5+ years&nbsp;professional&nbsp;experience&nbsp;working with C++.&nbsp;</li><li>3+ years of leading engineering teams.&nbsp;</li><li>Extensive experience developing tools as a Lead or Senior for the game or movie industries.</li><li>Experience with toolkits for creating desktop applications such as Qt, WPF, etc.&nbsp;</li><li>Experience&nbsp;shipping software products.&nbsp;</li><li>Experience with game engines, preferably experience with CRYENGINE.&nbsp;</li><li>Strong software engineering and debugging skills.&nbsp;</li><li>Team player and self-driven.&nbsp;</li><li>Solid English skills, good communication skills with strong affinity for transparence.&nbsp;</li>,<h3>Pluses</h3><li>Development experience on Apple, Linux, and Android platforms.&nbsp;</li><li>Experience with content&nbsp;importer toolchains, for example&nbsp;for&nbsp;3ds max&nbsp;or&nbsp;Photoshop.&nbsp;</li><li>Game development experience.&nbsp;</li><div><b><u>What you can expect from us</u></b></div><div><br></div><div><b>Career Path&nbsp;</b></div><div>Your professional development is important to us, so we have laid out a career plan to help you progress towards your goals and objectives.&nbsp;</div><div>&nbsp;</div><div><b>Company Apartment&nbsp;</b></div><div>To help you get settled, we provide you with a fully furnished company apartment during your first three months in Frankfurt.*&nbsp;</div><div><span style="font-size: 11pt">&nbsp;</span></div><div><b>Relocation&nbsp;Support&nbsp;</b></div><div>We offer a relocation budget and full coverage of flights to Frankfurt for you and your family.&nbsp;</div><div>You can expect extensive assistance with visa, work permits, and communication with authorities during the relocation process, as well as help settling into Germany (e.g. setting up appointments with banks, government agencies, schools, landlords, finding apartments etc.).*&nbsp;</div><div><b style="font-size: 11pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></div><div><b>Public Transport Pass&nbsp;</b></div><div>Discover Frankfurt by bus, tram and metro – free of charge.*&nbsp;</div><div><span style="font-size: 11pt">&nbsp;</span></div><div><b>Gym Card&nbsp;</b></div><div>A healthy body is a healthy mind. We offer a membership at the premium gym chain Fitness First in Germany. Work out, join group fitness classes, or relax in the wellness facilities.</div><div><span style="font-size: 11pt">&nbsp;</span></div><div><b>International Environment&nbsp;</b></div><div>We truly embody diversity at Crytek. With employees from over 42 different countries, we define ourselves by our cultural diversity.&nbsp;</div><div>&nbsp;</div><div><b>German Classes&nbsp;</b></div><div>Understanding the local culture will make your stay abroad more enjoyable, and Crytek supports that by offering German language courses for you and your family.&nbsp;</div><div><span style="font-size: 11pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div><div><b>Events</b></div><div>Join us on our exciting company events, including new starter breakfasts, summer and winter parties, our annual trip to Gamescom in Cologne, and many more!*&nbsp;</div><div>We are all gamers: stay connected and play games with your colleagues at our remote gaming parties.</div><div><span style="font-size: 11pt">&nbsp; &nbsp; </span></div><div><b>Vacation Days&nbsp;</b></div><div>At our Frankfurt office you can enjoy 24 days of vacation per year, and every 2 years you get 1 more (up to a maximum of 28 days). You will also have on average 10 public holidays on top of the days you take off. If you are working from another country, local standards apply.</div><div><span style="font-size: 11pt">&nbsp;&nbsp;</span></div><div>*only applicable to employees in Frankfurt. </div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/2616694d-50ee-4ca0-8184-ecbfb6dbe8a9-1686066452569.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Backflip</h5>
-                    <h3>Senior Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/backflip/91063320-6f2b-4372-8ac0-f1f8db560fc9" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b style="font-size: 10.5pt"><a href="https://www.dobackflip.com/" class="postings-link">Backflip</a></b><span style="font-size: 10.5pt"> is a venture-backed real estate </span><b style="font-size: 10.5pt">FinTech</b><span style="font-size: 10.5pt"> company </span><span style="font-size: 11pt">that supports entrepreneurs to acquire and renovate single family homes, thereby reinvigorating the housing supply and their local communities. The company offers purpose-built technology and capital products to source, analyze and finance residential real estate investments. Backflip is an all-in-one platform providing entrepreneurs with the technology, data, and financing strategies that allows them to scale their businesses.</span></div><div><br></div><div><b>Role Overview:</b> As a Senior Software Engineer at Backflip, you will play a pivotal role in the development and enhancement of our products and platform. You will collaborate with cross-functional teams, take ownership of challenging projects, and contribute to the success of the company. This role requires a blend of technical expertise, problem-solving skills, and the ability to work independently while embracing a collaborative mindset.</div><div><br></div><div><b>Responsibilities:</b></div><div>Design, develop, and maintain full-stack solutions using Python, React, and React Native.</div><div>Innovate and execute on features to enhance the user experience and platform capabilities.</div><div>Collaborate with product managers, designers, and other engineers to deliver high-quality software.</div><div>Contribute to the architecture, design, and implementation of scalable and maintainable code.</div><div>Write and maintain automated tests to ensure robustness, including following Test-Driven Development (TDD) practices.</div><div>Deploy applications to various cloud-based environments, ensuring reliability and performance.</div><div>Collaborate with teams to build RESTful APIs and other backend technologies.</div><div>Estimate work efforts accurately and ensure project milestones are met.</div><div>Stay current with industry trends and bring innovative ideas to the team.</div><div><br></div><div><b>Skills &amp; Qualifications:</b></div><div>Proficiency in Python and React, with a solid understanding of object-oriented programming.</div><div>Familiarity with front-end technologies like JavaScript and <a href="http://React.js" class="postings-link">React.js</a>.</div><div>Mastery of software development best practices and principles.</div><div>Experience with continuous integration and continuous deployment (CI/CD) pipelines.</div><div>Familiarity with cloud frameworks such as AWS, GCP, Firebase, or similar.</div><div>Strong understanding of design patterns, algorithms, and data structures.</div><div>Experience with RESTful APIs and backend technologies.</div><div>Familiarity with Docker and container-based environments.</div><div>Ability to provide accurate estimates and deliver high-quality code within deadlines.</div><div>Bachelor's degree in Computer Science or equivalent experience (8+ years) in building applications.</div><div><br></div><div><b>Bonus Skills:</b></div><div>Experience working with GraphQL.</div><div>Experience with mobile application development for iOS and Android.</div><div>Experience with machine learning techniques such as LLMs, NLP, and computer vision</div><div>Experience working in an Agile team environment.</div><div>Experience in researching and vetting third-party API providers.</div><div>Familiarity with geo-spatial search techniques.</div><div>Background in real estate, real estate investment, and/or FinTech is a plus.</div><div><br></div><div><b>Why Backflip:</b> At Backflip, you will be part of a collaborative and forward-thinking team that values innovation, creativity, and personal growth. We offer a remote work environment that allows you to work from anywhere while contributing to cutting-edge projects. As a Senior Software Engineer, you will have the opportunity to shape the future of our products and make a significant impact.</div><div>Join us in our mission to create groundbreaking solutions and revolutionize the industry. Apply now to become a part of the Backflip team.</div><div><br></div><div><i>Backflip is an equal-opportunity employer. We welcome and encourage diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability.</i></div><div><br></div><div><b style="font-size: 10.5pt;"><a href="https://www.dobackflip.com/" class="postings-link" target="_blank" rel="noopener noreferrer">Backflip</a></b><span style="font-size: 10.5pt;"> is a venture-backed real estate </span><b style="font-size: 10.5pt;">FinTech</b><span style="font-size: 10.5pt;"> company </span><span style="font-size: 11pt;">that supports entrepreneurs to acquire and renovate single family homes, thereby reinvigorating the housing supply and their local communities. The company offers purpose-built technology and capital products to source, analyze and finance residential real estate investments. Backflip is an all-in-one platform providing entrepreneurs with the technology, data, and financing strategies that allows them to scale their businesses.</span></div><div><br></div><div><b>Role Overview:</b> As a Senior Software Engineer at Backflip, you will play a pivotal role in the development and enhancement of our products and platform. You will collaborate with cross-functional teams, take ownership of challenging projects, and contribute to the success of the company. This role requires a blend of technical expertise, problem-solving skills, and the ability to work independently while embracing a collaborative mindset.</div><div><br></div><div><b>Responsibilities:</b></div><div>Design, develop, and maintain full-stack solutions using Python, React, and React Native.</div><div>Innovate and execute on features to enhance the user experience and platform capabilities.</div><div>Collaborate with product managers, designers, and other engineers to deliver high-quality software.</div><div>Contribute to the architecture, design, and implementation of scalable and maintainable code.</div><div>Write and maintain automated tests to ensure robustness, including following Test-Driven Development (TDD) practices.</div><div>Deploy applications to various cloud-based environments, ensuring reliability and performance.</div><div>Collaborate with teams to build RESTful APIs and other backend technologies.</div><div>Estimate work efforts accurately and ensure project milestones are met.</div><div>Stay current with industry trends and bring innovative ideas to the team.</div><div><br></div><div><b>Skills &amp; Qualifications:</b></div><div>Proficiency in Python and React, with a solid understanding of object-oriented programming.</div><div>Familiarity with front-end technologies like JavaScript and <a href="http://React.js" class="postings-link" target="_blank" rel="noopener noreferrer">React.js</a>.</div><div>Mastery of software development best practices and principles.</div><div>Experience with continuous integration and continuous deployment (CI/CD) pipelines.</div><div>Familiarity with cloud frameworks such as AWS, GCP, Firebase, or similar.</div><div>Strong understanding of design patterns, algorithms, and data structures.</div><div>Experience with RESTful APIs and backend technologies.</div><div>Familiarity with Docker and container-based environments.</div><div>Ability to provide accurate estimates and deliver high-quality code within deadlines.</div><div>Bachelor's degree in Computer Science or equivalent experience (8+ years) in building applications.</div><div><br></div><div><b>Bonus Skills:</b></div><div>Experience working with GraphQL.</div><div>Experience with mobile application development for iOS and Android.</div><div>Experience with machine learning techniques such as LLMs, NLP, and computer vision</div><div>Experience working in an Agile team environment.</div><div>Experience in researching and vetting third-party API providers.</div><div>Familiarity with geo-spatial search techniques.</div><div>Background in real estate, real estate investment, and/or FinTech is a plus.</div><div><br></div><div><b>Why Backflip:</b> At Backflip, you will be part of a collaborative and forward-thinking team that values innovation, creativity, and personal growth. We offer a remote work environment that allows you to work from anywhere while contributing to cutting-edge projects. As a Senior Software Engineer, you will have the opportunity to shape the future of our products and make a significant impact.</div><div>Join us in our mission to create groundbreaking solutions and revolutionize the industry. Apply now to become a part of the Backflip team.</div><div><br></div><div><i>Backflip is an equal-opportunity employer. We welcome and encourage diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability.</i></div><div><br></div><div><span style="font-size: 13.3333px">In addition to a competitive base pay, employees in this role may be eligible for both equity and additional incentive compensation.</span></div><h3>People that thrive at Backflip have…</h3><li>A desire to learn and grow with the company; propensity to “think like an owner”</li><li>An execution-oriented “one-team” mindset with motivation and scrappiness to achieve objectives</li><li>The ability to multi-task with exceptional time management, prioritization and attention to detail</li><li>An entrepreneurial mindset and a passion for technology and innovation</li><li>A bias for action; inclined to deploy rapid testing and iteration cycles</li><li>The ability to work effectively in a small, relatively unstructured office environment (we work remotely)</li><li>Excellent verbal and written communication skills with appropriate urgency to various audiences</li><li>Strong self-motivation, are coachable and highly collaborative; take ownership of tasks and pride in work product</li><li>High integrity; are dependable, accountable, humble and respectful</li><div><br></div>
                 </details>
                 </td>
             </tr>,<tr>
