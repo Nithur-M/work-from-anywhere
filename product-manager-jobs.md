@@ -1,5 +1,151 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1919586/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>TCP Management</h5>
+                    <h3>Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>saas,agile,project management,research</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/product-manager-1919586" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Are you a skilled and experienced Product Manager with a specialization in Saas Products? Join Voxco, a leader in the market research industry, and help us transform how organizations gather and analyze data. As a Product Manager at Voxco, you will play a pivotal role in shaping the future of our research products, driving innovation, and enhancing our data collection methods.</p>
+<p><strong>About Us:</strong></p>
+<p>Voxco is transforming how organizations gather and analyze data to make informed decisions. Our comprehensive suite of survey software solutions empowers businesses across various industries to unlock valuable insights and drive meaningful outcomes. We are committed to delivering exceptional value to our clients through innovative technology and unparalleled expertise.</p>
+<p> </p>
+<p><strong>Key Responsibilities:</strong></p>
+<ul style="">
+<li style="">Develop and maintain product roadmaps, ensuring alignment with company strategy and successful product execution.</li>
+<li style="">Become an expert in our platforms, understanding existing capabilities and identifying future opportunities.</li>
+<li style="">Manage the end-to-end product development process, collaborating with engineering, customer success, and marketing teams.</li>
+<li style="">Incorporate usability studies, research, and market analysis into product requirements to enhance user satisfaction.</li>
+<li style="">Analyze multiple data sources to identify opportunities for increased user value, showcasing attention to detail and initiative.</li>
+<li style="">Foster a collaborative and adaptive environment, working agilely to respond to market shifts and customer feedback.</li>
+</ul>
+<p> </p>
+<p>If you are passionate about creating innovative insights products, have a strong background in survey software or telephony data collection modes, and possess the skills outlined above, we encourage you to apply. Flexibility in working across different time zones is expected.</p>
+<p><strong>Requirements</strong></p>
+<p><strong>Experience and Qualifications:</strong></p>
+<p><strong>Required:</strong></p>
+<ul style="">
+<li style="">6+ years of software product management in a complex technical environment.</li>
+<li style="">Proven success in SaaS product management.</li>
+<li style="">Experience in agile environments with the ability to adapt to shifting priorities.</li>
+<li style="">Excellent organizational and project management skills, with strong attention to detail.</li>
+<li style="">Exceptional collaboration skills, engaging and influencing multiple business partners.</li>
+<li style="">Fluency in English; proficiency in French is a plus.</li>
+</ul>
+<p><strong>Preferred:</strong></p>
+<ul style="">
+<li style="">Experience with survey data collection platforms.</li>
+<li style="">Experience in telephony products.</li>
+<li style="">Knowledge of Research &amp; Customer Experience Insights.</li>
+<li style="">Strong analytical skills with a data-driven approach to decision-making.</li>
+<li style="">Ability to work effectively across different time zones and cultures.</li>
+</ul>
+<p> </p>
+<p><strong>Benefits</strong></p>
+<ul style="">
+<li style="">Be part of a team driving innovation in data collection and analysis.</li>
+</ul>
+<ul style="">
+<li style="">Work remotely from anywhere in the world, collaborating with colleagues in Europe, North America, and India.</li>
+<li style="">Enjoy a flexible work environment that values work-life balance.</li>
+<li style="">Competitive salary and benefits package.</li>
+</ul>
+<p><br><br></p>
+<div class="h2">About the company</div>
+<p> </p>
+<p>Founded in 2017, Terminus Capital Partners is a growth-oriented private equity firm focused exclusively on majority investments in B2B software companies. For over 14 years, at Terminus Capital Partners and at predecessor companies, our principals and associates have helped build 7 market-leading companies.</p>
+<p>We differentiate ourselves by being sector experts, truly helping our companies with nitty gritty work, and by being the best possible partner to founder to managers, founders, and sellers. Indeed, we strive to be the world's premier small-cap B2B software private equity firm, a commitment we renew every day.</p>
+<img src="https://remotive.com/job/track/1919586/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1920043/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Xapo61</h5>
+                    <h3>Product Manager - Treasury & Corporate Accounts</h3>
+                </td>
+                <td width="300">
+                    <code>product management,market research</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/product-manager-treasury-corporate-accounts-1920043" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class='"content-intro"'>
+<p>Work from anywhere, impact everywhere </p>
+<p>Diversity is at the heart of who we are at Xapo Bank. We’re a fully distributed team of over 140 Xapiens that work remotely from 40+ countries around the world. </p>
+<p>Our beginning: A world that enjoys economic freedom and wealth protection, no matter where you live or who is running your country. This is the dream that drove Wences Casares, our Founder and Chairman, to quietly transform the world of banking.</p>
+<p>To achieve that, we search the world for the best people for the job. We work hard, think globally, and inspire each other to learn and grow. We are committed to changing the way things are done.</p>
+<p><strong>Risk is inherent in all of our business activities and managing risk well is the responsibility of every Xapien. Sound risk management enables us to serve our customers and deliver value for our shareholders, and helps make Xapo a great place to work.</strong></p>
+<p> </p>
+<p><em>Although we are headquartered in Gibraltar, this is a full time, 100% remote position <br></em><em>Work from anywhere!</em></p>
+<p> </p>
+</div>
+<p><strong><em>Position overview</em></strong></p>
+<p>As a Product Manager for Treasury and Corporate Accounts at Xapo Bank, you will play a pivotal role in optimizing the deployment of funds for our internal Treasury team. You will lead product discovery and MVP development for a new corporate account offering that acts like a treasury account. This role involves close collaboration with cross-functional teams to ensure the successful launch and continuous improvement of our treasury and corporate account products.</p>
+<p><strong><em>Responsibilities</em></strong></p>
+<ul style="">
+<li style=""><strong>Treasury Optimization. </strong>Our Treasury team is the heartbeat of how we earn. You’ll work closely with the Treasury team to understand their needs and optimize fund deployment strategies - developing tools and processes to enhance our treasury.</li>
+<li style=""><strong>Product Discovery and Development.</strong> Lead extensive product discovery for corporate accounts that function like treasury accounts. Define MVP features and the creation of a potential roadmap moving forward. </li>
+<li style=""><strong>Market Research and Analysis.</strong> Conduct in-depth market research to identify trends, customer needs, and opportunities for product innovation. </li>
+<li style=""><strong>Product Development Support.</strong> Collaborate with cross-functional teams, including your tech lead, developers, our treasury function and others to create comprehensive product requirements, user stories, and feature prioritisation. You’ll coordinate with legal, compliance, and risk management teams as well to ensure successful launches and adherence to regulatory standards.</li>
+<li style=""><strong>Product Testing and Quality Assurance. </strong>Ensure rigorous testing and quality assurance for new product releases and feature updates. Maintain high standards of performance, security, and reliability.</li>
+<li style=""><strong>Performance Monitoring and Analysis. </strong>Track key performance indicators (KPIs), user engagement metrics, and customer feedback to identify areas for improvement and drive product optimization.</li>
+<li style=""><strong>Professional Development.</strong> You’ll have to stay updated on the latest trends and technologies in fintech, blockchain, and cryptocurrency markets to continuously enhance your knowledge and skills.</li>
+</ul>
+<p><strong><em>Skills needed</em></strong></p>
+<ul style="">
+<li style="">Bachelor's degree in a related field.</li>
+<li style="">Proven experience in product management, preferably within fintech, banking, or cryptocurrency markets.</li>
+<li style="">Excellent analytical, problem-solving, and critical thinking skills.</li>
+<li style="">Strong communication and interpersonal skills, with the ability to collaborate effectively in a global, multicultural environment.</li>
+<li style="">Detail-oriented with strong organizational and project management abilities.</li>
+<li style="">Experience with market research, data analysis, and performance monitoring.</li>
+<li style="">Knowledge of treasury management and corporate banking is a plus.</li>
+</ul>
+<p><strong><em>Other requirements</em></strong></p>
+<ul style="">
+<li style="">A dedicated workspace.</li>
+<li style="">A reliable internet connection with the fastest speed possible in your area.</li>
+<li style="">Devices and other essential equipment that meet minimal technical specifications.</li>
+<li style="">Alignment with Our Values and the Xapo Values-Driven Leadership principles.</li>
+</ul>
+<div class='"content-conclusion"'>
+<p><strong>Why work for Xapo?</strong></p>
+<p>IMPACT GLOBALLY, WORK REMOTELY.</p>
+<ul style="">
+<li style=""><strong>Shape the Future:</strong> Improve lives through cutting-edge technology, work 100% remotely from anywhere in the world.</li>
+<li style=""><strong>Great work-life balance:</strong> Build amazing things with a balance of autonomy and collaborative teamwork. Set your own work schedule and make use of a flexible PTO plan when you need to recharge. </li>
+<li style=""><strong>Expect Excellence:</strong> Collaborate, learn, and grow with a high-performance team. Learn how you learn best - from books to conferences, you’ll get a yearly budget for your individual learning and development goals.</li>
+</ul>
+<p><strong>At Xapo, we prioritize consumer protection and adhere to regulatory requirements by ensuring that all Xapiens are accountable for upholding principles of fair treatment, transparency, and ethical conduct in their interactions with customers and stakeholders.</strong></p>
+</div>
+<img src="https://remotive.com/job/track/1920043/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1428393724527190022/4mt5PACL_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -22,8 +168,8 @@
                 
     <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
 <h2><strong><span style="color: #a112ff;">Who we are</span></strong></h2>
-<p>Our mission at Sourcegraph is to make it so that&nbsp;<a class="c-link" href="https://sourcegraph.notion.site/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d" target="_blank" data-stringify-link="https://handbook.sourcegraph.com/strategy-goals/strategy" data-sk="tooltip_parent">everyone can code</a>, not just ~0.1% of the population. Our code graph powers Cody, the most powerful and accurate AI coding assistant, as well as our Code Search product, which helps devs explore their entire codebase and make large-scale migrations and security fixes. We’re building software that builds software, and in doing so we’re making devs more productive and preparing for a world where a lot more code gets written.</p>
-<p>It’s an exciting time to join Sourcegraph. AI has taken over the world, and we’ve spent the last 10 years building infrastructure that’s integral to making AI generated code more powerful and accurate. Our customers include 4/5 FAANG companies, 4 of the top 10 banks, government organizations, Uber, Plaid, and many other companies building the software that pushes the world forward. We’ve raised $225M at a $2.625B valuation from <a class="c-link" href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" target="_blank" data-stringify-link="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/" data-sk="tooltip_parent">a16z</a>,&nbsp;<a class="c-link" href="https://sourcegraph.com/blog/series-c-with-sequoia/" target="_blank" data-stringify-link="https://about.sourcegraph.com/blog/series-c-with-sequoia/" data-sk="tooltip_parent">Sequoia</a>,&nbsp;<a class="c-link" href="https://www.redpoint.com/companies/sourcegraph/" target="_blank" data-stringify-link="https://www.redpoint.com/companies/sourcegraph/" data-sk="tooltip_parent">Redpoint</a>,&nbsp;<a class="c-link" href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" target="_blank" data-stringify-link="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d" data-sk="tooltip_parent">Craft</a>&nbsp;and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</p></div>
+<p>Our mission at Sourcegraph is to make it so that <a href="https://www.notion.so/sourcegraph/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d?pvs=4">everyone can code</a>, not just ~0.1% of the population. We're building the code intelligence platform that powers the world's best code search and the most popular open-source code AI tool. It’s an exciting time to join Sourcegraph—AI has taken over the world, and we aim to automate 99% of the toil in software engineering with our code understanding and code AI tools, leaving the remaining 1% to the irreplicable creative spark from humans.&nbsp;</p>
+<p>Our customers range from startups to the Fortune 500, 4/5 FAANG companies, government organizations, Uber, Plaid, and more. We’ve raised $225M at a $2.625B valuation from <a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/">a16z</a>,<a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"> Sequoia</a>, <a href="https://www.redpoint.com/companies/sourcegraph/">Redpoint</a>, <a href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d">Craft</a> and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</p></div>
 
     <h2><span style="color: rgb(140, 51, 236);"><strong>Working hours</strong></span></h2>
 <p>🌎 While we are an all-remote company and hire <a href="https://sourcegraph.notion.site/How-we-engage-talent-outside-of-the-US-218f7193695a46cbb1ef39ef9c1f72d4">almost anywhere</a> in the world, we have a preference for someone to reside in the following locations for this role. However, if you feel qualified, we welcome you to apply regardless of location. No matter what, working hours&nbsp;<em>must overlap</em> at least 4 hours/day with the US Pacific timezone as there is a great amount of planning that takes place synchronously in the western US.</p>
@@ -117,7 +263,6 @@
 <p><span style="font-weight: 400;">Learn more about what it is like to work at Sourcegraph by reading </span><a href="https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0"><span style="font-weight: 400;">our handbook</span></a><span style="font-weight: 400;">.</span></p>
 <p><span style="font-weight: 400;">We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process.</span></p>
 <p><span style="font-weight: 400;">Go back to the </span><a href="https://about.sourcegraph.com/jobs/"><span style="font-weight: 400;">careers page</span></a><span style="font-weight: 400;"> for all open positions.</span></p>
-<p>&nbsp;</p>
 <p><em><span style="font-weight: 400;">Sourcegraph participates in <a href="https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107" target="_blank">E-Verify</a> for U.S. Employees</span></em></p></div>
 
                 </details>
@@ -216,54 +361,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div>Technology (AI/ML/<i>add all the buzzwords here</i>) is changing the world precipitously and shaping our future. Join us if you DISAGREE and want to shape the future yourself!</div><div><br></div><div><b>We need a top-notch Product Manager with the ambition to create the technology that changes the world and builds an impeccable user experience.</b></div><div><br></div><div>This is a great opportunity to blend your technical skills with a business mindset, as we become a global e-commerce player with the vision to be the greatest gifting company in the world!</div><h3>🎯Your Journey Begins: Embrace the Exciting Adventure Ahead!</h3><li>Developing the product vision by keeping an eye on new technologies and customer insight</li><li>Translating business requirements into conceptual, applicable, and user-friendly technological solutions</li><li>Creating new user stories, breaking-down complex stories into relevant pieces</li><li>Forming the product acceptance criteria in line with prioritized features and specifications</li><li>Creating and developing the product backlog</li><li>Establishing the project scope for business requirements, mapping the process in detail, measuring the added value of prospective projects</li><li>Keeping in touch with all stakeholders of the product on a regular basis, analyzing &amp; reporting key components of the product lifecycle (i.e. release burn down)</li><li>Following up the daily operation &amp; performance of both desktop and mobile sites / apps to take relevant actions in a timely manner</li><li>Testing the product on a regular basis and reporting the bugs</li>,<h3>🥰Are You the One We’re Seeking?</h3><li>BSc degree in relevant academic disciplines (Education in English will be preferred)</li><li>Experience in UX/UI in both web and mobile products</li><li>Proficiency in SQL is a nice to have</li><li>Experience in release management and planning is crucial for the role</li><li>Experience in A/B testing</li><li>Fluency in English (written &amp; spoken)</li><li>Proficiency in a software language will be nice to have</li><li>HTML, CSS knowledge will be preferred</li><li>Development management experience in web &amp; mobile would be a plus</li>,<h3>✨Let Your Skills Shine with Us!</h3><li>You possess exceptional analytical and conceptual thinking skills</li><li>You have excellent communication, planning, and collaboration skills</li><li>You’re genuinely interested in acting as a bridge between the technology team and the business team, to ensure an efficient translation of requirements and solutions</li><li>You have an insatiable curiosity and a craving for lifelong learning</li><li>You literally enjoy seeing the outcome of your work: <i>the actual experience of the user</i></li>,<h3>😎What’s in here for you?</h3><li>🎉Fun and Adventure Await: Get ready for exhilarating team adventures and unforgettable company activities that will create memories to cherish!&nbsp;🌈</li><li>🛍️Take excellent care of yourself : HiDoctor, Momento, and More!&nbsp;👩🏻‍⚕️</li><li>🎩Express Your Unique Style: No more stuffy suits or uncomfortable attire. Embrace your personal style and wear whatever makes you feel confident and comfortable. 👗👕</li><li>📚Unlock Your Potential: Biweekly Learning Hours and a Vast Training Library Await! 🎓 Never stop learning and growing! With unlimited access to top-notch training resources like Udemy and more, your professional growth knows no limits! 🚀</li><li>🥰Join Vibrant Social Clubs: Connect, Collaborate, and Create Lifelong Friendships!🎉Be part of our vibrant social clubs, where you can engage with colleagues who share your passions and interests. Cultivate meaningful connections, foster collaboration, and create memories that extend beyond the workplace.🤝</li><li>🤝Seamless Onboarding: Receive a Warm Welcome and a Smooth Transition! 📋 Our dedicated onboarding process ensures you feel supported and empowered from day one. We provide comprehensive training and resources to help you settle into your role quickly and effectively. 🌟</li><li>Join us on this exciting journey a dynamic work ecosystem, thrilling team activities, entertainment galore, a flexible dress code, and endless learning opportunities await you! It’s time to unleash your full potential and embrace the future of work!&nbsp;💃</li><div><b>😍About Us</b></div><div><br></div><div>As a pioneering tech company in gifts, our vision is to be a leader in all markets in which we operate. We create lifelong value in the lives of our employees, customers and all our business partners! 💪</div><div><br></div><div>Founded in 2006 by Emre Aydın, <a href="http://ciceksepeti.com/" class="postings-link">Ciceksepeti.com</a> offers the broadest selection of flowers &amp; gifts delivered same day within a single experience. We are very proud to have created a culture of celebration among people with our gift arrangements and our brand Bonnyfood. We are committed to continuing this tradition by making every special day memorable. In addition to our original mission of bringing a new perspective to the e-commerce sector in Turkey and making shipping faster and easier, now we offer a diverse range of products under various categories, such as electronics, home &amp; living, personal care, supermarket, cosmetics, fashion, sports &amp; outdoor, hobby, pet shop, jewellery &amp; accessories, as well as flowers and edible flowers since 2019.</div><div><br></div><div><a href="http://ciceksepeti.com/" class="postings-link">Ciceksepeti.com</a> is the most visited floral and gifting website according to SimilarWeb data, having 4 times more visitors than the second largest player in the world. 😎</div><div><br></div><div>Besides covering 70+ cities in Turkey through <a href="http://55.0.0.0/" class="postings-link">55.000</a>+ vendors and 24x7 customer support, Ciceksepeti has expanded into Mexico with its international brand, LolaFlora.💃</div><div><br></div><div>We are so happy and proud to have been selected the Best Employer Brand at LinkedIn Turkey Talent Awards in 2019 and 2022! 🥳</div><div><br></div><div>Headquartered in İstanbul, we’re a young, nimble, dedicated team of professionals, who are not only hard workers but also smart workers; who know how to get things done in the right way, as well as getting the right things done for our customers. Moreover, we’re on the verge of an exciting episode in our journey as we simultaneously set foot on international markets and grow further in domestic market.</div><div><br></div><div>"İşe alım süreçlerimizde kişisel verilerinizi nasıl işlediğimize dair bilgiye çalışan adayı aydınlatma metnimizden ulaşabilirsiniz./ Please see our candidate privacy note for information on how we process your personal data during our recruitment activities."</div><div><a href="https://cdn03.ciceksepeti.com/editor/hr/Ciceksepeti_CS-Teknoloji-Calisan-Adayi_Aydinlatma-Metni-15092023.pdf" class="postings-link">https://cdn03.ciceksepeti.com/editor/hr/Ciceksepeti_CS-Teknoloji-Calisan-Adayi_Aydinlatma-Metni-15092023.pdf</a></div><div><a href="https://cdn03.ciceksepeti.com/editor/hr/Ciceksepeti_CS-Teknoloji-Calisan-Adayi_Aydinlatma-Metni-15092023.docx.pdf" class="postings-link">https://cdn03.ciceksepeti.com/editor/hr/Ciceksepeti_CS-Teknoloji-Calisan-Adayi_Aydinlatma-Metni-15092023.docx.pdf</a></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://lever-client-logos.s3-us-west-2.amazonaws.com/0f4b434e-502f-4390-9819-c058d43028c1-1595260531860.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Bio Render</h5>
-                    <h3>Senior Product Manager, Graphing</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/biorender/ccf86dff-b665-435e-9766-63a029ea876a" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div>At BioRender, our mission is to accelerate the world’s ability to learn, discover and communicate science. We are passionate about democratizing science communication in order to accelerate scientific discovery and understanding. We're looking for amazing people to help create the world’s go-to-place and platform where science is communicated. Come join us!</div><div><br></div><div><span style="font-size: 11pt">You can think of BioRender as the “Figma or Canva for scientists,” with a suite of web-based graphics communication products that empower scientists to create beautiful scientific visuals and presentations with ease.</span></div><div><br></div><div><span style="font-size: 11pt">The Graphing team’s mission is to expand what scientists are able to communicate in BioRender through the easiest-to-use and most delightful graphing and statistical analysis solution. Graphing is a new product currently in open beta, and we’re looking for a Product Manager to lead the strategic direction for the product that helps scientists analyze, visualize and present data to achieve product market fit. This is an exciting opportunity for a product builder who loves the strategic questions that come from scaling a product from 0-1, to 1-N!</span></div><h3>What you'll do at BioRender: </h3><li>Within the first 90 days, become an expert on our users, their usage behaviors and workflows, and the market landscape. Understanding the user, the market, and our product offering will be critical to your success</li><li>Own the strategy for the Graphing product and how it integrates with the rest of the BioRender product suite.</li><li>Talk to users and obsess over user feedback and usage data of beta users to build the right 				feature set that will create raving fans. </li><li>Collaborate with Design and Data Science to determine what will make BioRender Graphing a critical part of industry scientists’ software stack.</li><li>Partner with marketing on the go to market strategy for the product, determining how best to spread awareness for the product to grow usage</li><li>Drive new feature development to grow user engagement KPIs&nbsp;</li><li>Launch experiments to reduce barriers to entry into the product and increase our funnel conversion rate for new and returning users</li><li>Contribute to the product strategy of BioRender. As we move from a single product company to a multiple product company, the Graphing PM will be integral to formulating our overall product expansion strategy.&nbsp;</li>,<h3>Our Ideal Fit: </h3><li>4+ years of product management experience</li><li>Proven track record of launching 0-1 products and achieving product-market fit in a market with incumbent players&nbsp;</li><li>You’ve owned the end-to-end user experience for an entire product. You have experience developing, launching and iterating a highly ambiguous and broad product surface area that may take multiple months to get adoption.</li><li>You have clear examples of transforming ambiguous user problems into clear roadmaps, and can draw on stories where you had to make a call between two divergent paths</li><li>You have experience using user quantitative (e.g., metrics, analytics) and qualitative insights (e.g., research, user feedback) to inform product prioritization and decision-making</li><li>Excellent communication skills with the ability to convey complex ideas to technical and non-technical audiences</li><li>You are detail oriented and user obsessed</li>,<h3>Nice to haves:</h3><li>Background in statistics or data science is a plus. At least, statistics or math is exciting to you. You will not need to be an expert in statistics and will partner with a data scientist, but statistics is a core part of the product and user research, so you will need to be comfortable with learning about users’ </li><li>Educational background in life sciences</li><div><br></div><div>Note: We recognize that career paths vary, and your unique journey may have equipped you with the necessary skills even if you don’t meet all of the criteria above. If you believe you have what it takes to excel in this role, we encourage you to apply!</div><div>Check out our candidate resource - <a href="https://biorender.notion.site/Engineering-Product-Design-66275a3c2cca42e39234412881621467" class="postings-link">Engineering, Product &amp; Design at BioRender!</a>&nbsp;</div><div>You can also read more about the <a href="https://biorender.notion.site/BioRender-Candidate-Resources-8255c155797f442a950720a33b4764d5" class="postings-link">BioRender interview process and FAQs here</a>! </div><div><br></div><div>Check out what it's like to work at BioRender in <a href="https://biorender.notion.site/biorender/Working-at-BioRender-as-a-Canada-Based-Employee-f6e12ab844154bb9948b22b32e3f0c70" class="postings-link">Canada</a> and the <a href="https://biorender.notion.site/biorender/Working-at-BioRender-as-a-U-S-Based-Employee-4ab2cc8e48f546f89aa98c318bccebc9" class="postings-link">US</a>!</div><div><br></div><div>#LI-KS1</div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://lever-client-logos.s3-us-west-2.amazonaws.com/0f4b434e-502f-4390-9819-c058d43028c1-1595260531860.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Bio Render</h5>
-                    <h3>Senior Product Manager, Search and Discovery</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/biorender/57497f3c-a1b9-49d8-843c-b6a4bd2b6c15" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div>At BioRender, our mission is to accelerate the world’s ability to learn, discover and communicate science. We are passionate about democratizing science communication in order to accelerate scientific discovery and understanding. We're looking for amazing people to help create the world’s go-to-place and platform where science is communicated. Come join us!</div><div><br></div><div><span style="font-size: 11pt">You can think of BioRender as the “Figma or Canva for scientists,” with a suite of web-based graphics communication products that empower scientists to create beautiful scientific visuals and presentations with ease.</span></div><div><br></div><div><span style="font-size: 11pt">As a Senior Product Manager leading Search and Discovery, you will help accelerate our ability to return billions of hours to scientists by empowering them with the most relevant content in the most highly trafficked part of our application: the core illustrator. As a member of our AI product group, you will lead the strategic direction for how we can make BioRender as revolutionary as the breakthroughs communicated using our product.&nbsp;&nbsp;</span></div><h3> What you'll do at BioRender: </h3><li><b>Imagine and define</b> personalized creation experiences, tailored to each scientist’s unique needs for their research, discovery, and communication&nbsp;</li><li><b>Collaborate </b>with an all-star team of data scientists, engineers, designers, and user researchers to define and execute on a roadmap to increase the speed with which scientists can utilize the beautiful and scientifically accurate content in BioRender</li><li><b>Build </b>a strong culture of experiment driven product development and learning for BioRender, driving engagement and retention in BioRender for millions of scientists across the world&nbsp;</li><li><b>Experiment and Implement </b>the latest technology to make our BioRender search experience world class</li><li><b>Leverage</b> data, user research, and domain knowledge to deliver results in a fast paced environment</li>,<h3>What we value:</h3><li>5+ years of product management experience in Search, Discovery, and personalization, ideally at a fast growing SaaS startup&nbsp;</li><li>An interest in leveraging AI to help return billions of hours to scientists&nbsp;</li><li>Proficiency in measurement and metrics for relevance and search quality</li><li>Strong understanding of various search, NLP, and ML technologies and the ability to leverage this technical breadth to make the right decisions for our users&nbsp;</li><li>Experience using user quantitative (e.g., metrics, analytics) and qualitative insights (e.g., research, user feedback) to inform product prioritization and decision-making</li><li>Excellent communication skills with the ability to convey complex ideas to technical and non-technical audiences</li>,<h3>Nice to haves:</h3><li>Familiarity with popular search vendor solutions such as Elastic and Algolia&nbsp;</li><li>Educational background in life sciences</li><div><br></div><div>Note: We recognize that career paths vary, and your unique journey may have equipped you with the necessary skills even if you don’t meet all of the criteria above. If you believe you have what it takes to excel in this role, we encourage you to apply!</div>,<h3>Why join us?</h3><li>We are mission-driven, and work collaboratively towards our shared vision of improving scientific communication and accelerating scientific discovery: BioRender figures have appeared in more than 54,000 publications!&nbsp;</li><li>It’s a product that users love! We have a world-class NPS and a community of loyal fans. Check out our Testimonials page to see what our customers are saying about us: <a href="https://biorender.com/testimonials/" class="postings-link">https://biorender.com/testimonials/</a>&nbsp;</li><li>We are in the top quartile for profitability and year-over-year revenue growth, with users in 200+ countries.</li><li>BioRender is an equal opportunity employer, and an inclusive hiring process and work environment is a part of our DNA.&nbsp;</li><li>We’re remote-first and have team members across Canada and the United States. A physical office in Toronto is available, but you have the flexibility to work from anywhere.&nbsp;</li><li>We’re backed by top investors, accelerators, and some of the most successful life science entrepreneurs and philanthropists in the world including Y Combinator, Malala Fund founders, and Fifty Years VC.&nbsp;</li><li>We’re proud that women make up 2 of 3 co-founders, 53% of our team, and 37% of leadership. This representation continues to grow and we are hiring!</li><li>We are committed to building a warm, inclusive, and diverse environment. Check out how we make sure <a href="https://careers.biorender.com/" class="postings-link">our employees come first</a>.</li><div><br></div><div>Check out our candidate resource - <a href="https://biorender.notion.site/Engineering-Product-Design-66275a3c2cca42e39234412881621467" class="postings-link">Engineering, Product &amp; Design at BioRender!</a>&nbsp;</div><div>You can also read more about the <a href="https://biorender.notion.site/BioRender-Candidate-Resources-8255c155797f442a950720a33b4764d5" class="postings-link">BioRender interview process and FAQs here</a>! </div><div><br></div><div>Check out what it's like to work at BioRender in <a href="https://biorender.notion.site/biorender/Working-at-BioRender-as-a-Canada-Based-Employee-f6e12ab844154bb9948b22b32e3f0c70" class="postings-link">Canada</a> and the <a href="https://biorender.notion.site/biorender/Working-at-BioRender-as-a-U-S-Based-Employee-4ab2cc8e48f546f89aa98c318bccebc9" class="postings-link">US</a>!</div><div><br></div><div>#LI-KS1</div>
                 </details>
                 </td>
             </tr>,<tr>
