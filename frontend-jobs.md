@@ -87,6 +87,30 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1520019984780513281/qnVtutKu_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Pluto Card</h5>
+                    <h3>Senior Software Engineer (Frontend)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/pluto-card/j/DE0D8F8E7B" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h3><strong>Company Overview</strong></h3><p>Pluto is a modern financial operating system for global businesses. We combine global payments infrastructure with intelligent workflow automation to provide businesses with unparalleled insights, control, and automation over their spending.</p><p>Pluto is a venture-capital funded company backed by top-tier Silicon Valley investors and built by folks from some of the best technology institutions in the world -- Google, Shopify, Square, Uber, PayPal, Cash App, Digital Ocean, Y Combinator, and more</p><p>We are reinventing corporate finance for the modern age and are solving challenging problems in the B2B payments space. With a stronghold in Dubai and sights set on expansion, we're now looking for a seasoned&nbsp;frontend engineer to help shape our next chapter</p><p></p><h3>Role</h3><p>As a Senior Frontend Engineer, you will lead the development of cutting-edge web applications and libraries for our flagship product. This role involves collaborating with high-performing cross-functional teams to build and ship greenfield projects.</p><p></p><h3><strong>Key Responsibilities</strong></h3><ul> <li>Develop and maintain complex software applications using React, Typescript, and GraphQL</li> <li>Lead the development lifecycle of features and work streams from design to deployment</li> <li>Collaborate with product managers, designers, and backend engineers to deliver world-class products</li> <li>Become a voracious problem solver who can tackle difficult issues on tight timelines, manage cross-functional dependencies and set an exemplary bar for engineering within the organization</li> <li>Write and maintain clean, maintainable and testable code, leveraging design patterns and architecture where appropriate</li> <li>Participate in code reviews, pair-programming sessions and provide constructive feedback to peers</li> <li>Develop a strong understanding of the domain and bring a deep product and design mindset while building solutions</li> </ul><h3>Requirements: </h3><ul> <li>Bachelor’s or Master’s degree in Computer Science, Software Engineering or related field</li> <li>Strong fundamentals in computer science, algorithms and data structures</li> <li>5+ years of experience in software development</li> <li>Mastery in React and Typescript, familiarity with GraphQL</li> <li>Strong understanding of web fundamentals, web performance, software design patterns and architecture</li> <li>Experience with modern front-end development tools and frameworks</li> <li>Excellent problem-solving and analytical skills</li> <li>Excellent communication and collaboration skills</li> <li>Experience working with nimble, cross-functional teams with high shipping velocity</li> </ul><p></p><h3><strong>Our Values</strong></h3><p>At Pluto, we live by the following core values:<br></p><ul> <li> <a href="https://handbook.gitlab.com/handbook/people-group/directly-responsible-individuals/" rel="nofollow noreferrer noopener" class="external"><strong>Directly Responsible Individuals (DRI)</strong></a>: We empower team members with autonomy to own their projects and outcomes fully, fostering a culture of accountability, clarity and outsized impact. As the DRI you are the driver of success for your projects — proactively identifying, communicating and mitigating risks and resolving blockers to ensure success.<br> </li> <li> <strong>Clear Communication</strong>: At Pluto, we emphasize clear, transparent communication as fundamental to our success. We strive for clarity, succinctness and transparency in all interactions, ensuring that every message is articulated clearly and understood universally across our teams. This commitment to clarity reduces misunderstandings and fosters a more productive environment especially for distributed teams.<br> </li> <li> <strong>Systems Thinking &amp; First Principles Reasoning</strong>: We love to deconstruct problems and innovate from the ground up. By understanding complex systems and questioning assumptions, we are able to develop creative solutions to difficult problems.<br> </li> <li> <strong>Fact-centric</strong>: We are intentional about questioning our assumptions, and bringing the facts to focus by diving into the data, quick-fire experimentation &amp; swift prototyping. We make room for varied perspectives &amp; calibrate our goals with metrics that track our progress, and accurately reflect reality.</li> </ul><h3>Benefits: </h3><ul> <li>Competitive compensation &amp; stock options so you have skin in the game</li> <li>Remote-first work environment</li> <li>We'll ship you a new MacBook</li> <li>Monthly fitness benefit up to $100 USD</li> <li>Home-office budget up to $1000 USD</li> <li>Discretionary learning budget</li> </ul>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/2e1a369c-b58f-41ac-8d86-4b0a77695e68-1687915522032.png" width="38px" height="auto">
                 </td>
                 <td width="300">
