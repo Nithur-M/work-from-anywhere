@@ -1,5 +1,82 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1921044/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Software Mind</h5>
+                    <h3>Fullstack Developer (React.js + Java)</h3>
+                </td>
+                <td width="300">
+                    <code>CSS,html,java,javascript</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/fullstack-developer-react-js-java-1921044" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><br><br></p>
+<div class="h3">Company Description</div>
+<p>We are<strong> Software Mind</strong>, an awesome team of engineers who are ready to ramp up any top-notch company’s projects! Our aim? To always be one step ahead. Become part of a multicultural company in constant growth with an excellent work environment certified by Great Place To Work!</p>
+<p><br><br></p>
+<div class="h3">Job Description</div>
+<p>We're looking for a skilled <strong>Fullstack Developer (Frontend oriented)</strong> to join our team and work with one of our inspiring US clients, a powerful Social Media Platform that helps global companies and organizations boost and enhance their marketing and branding actions. </p>
+<p>If you enjoy working with cutting-edge technologies in a fast-paced environment this opportunity is for you!</p>
+<p> </p>
+<p><br><br></p>
+<div class="h3">Qualifications</div>
+<p><strong>Expectations - the experience you need</strong></p>
+<ul style="">
+<li style="">BS/MS in Computer Science, Engineering, or related experience. </li>
+<li style="">4+ years of relevant experience as a software engineer. </li>
+<li style="">4+ years of experience with frontend technologies including HTML, JavaScript, CSS, React.js. </li>
+<li style="">Experience with Java programming language including object-oriented design.</li>
+<li style="">Experience building scalable infrastructure, REST interfaces, and distributed systems. </li>
+</ul>
+<p><strong>Nice to have</strong></p>
+<ul style="">
+<li style="">Open Source tech such as: Elastic search, Redis, MySQL. </li>
+<li style="">Experience with AWS technologies (EC2, DynamoDB) or equivalent. </li>
+<li style="">Understanding of Git, pull requests. </li>
+<li style="">Continuous integration tools such as Jenkins.</li>
+</ul>
+<p><strong>What you will do:</strong></p>
+<ul style="">
+<li style="">Collaborating with the team making sure deliverables are delivered on time with high quality. </li>
+<li style="">Developing and unit testing high quality code to implement features. </li>
+<li style="">Testing peer features during the development process. </li>
+<li style="">Performing code reviews and improving code quality by applying solid design principles. </li>
+<li style="">Exhibiting end-to-end ownership of a feature/task/bug. </li>
+<li style="">Supporting the application in production.</li>
+</ul>
+<p><strong>Our benefits </strong></p>
+<ul style="">
+<li style="">
+<p>Educational resources  </p>
+</li>
+<li style="">
+<p>Flexible schedule and Work From Anywhere  </p>
+</li>
+<li style="">
+<p>Referral Program  </p>
+</li>
+<li style="">
+<p>Supportive and chill atmosphere </p>
+</li>
+</ul>
+<p> </p>
+<p><strong>Position at: Software Mind Latam</strong></p>
+<p><br><br></p>
+<div class="h3">Additional Information</div>
+<img src="https://remotive.com/job/track/1921044/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1919346/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +87,7 @@
                     <code>api,django,docker,frontend</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-web-application-developer-1919346" align="right" target="_blank">Apply</a>
@@ -83,7 +160,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -618,31 +695,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>We are looking for <strong>Senior Kernel Developer</strong> to work on our KernelCare team. The ideal candidate is someone looking for a rewarding and challenging career developing Linux Kernels and patches. This role requires someone with strong C development skills and a passion for all that is Linux. Our Kernel Developers create patches with a cyber security focus while finding solutions for our customers. Please note, this is <strong>not</strong> an embedded Kernel role. </p><p>KernelCare is a product of CloudLinux Inc., the maker of the #1 OS in security and stability for hosting providers. KernelCare, a live kernel patching service provides security patches and bug fixes for a range of popular Linux kernels that can be installed without rebooting the system. Check out our website for more information about our KernelCare Product <a href="https://tuxcare.com/live-patching-services/" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com/live-patching-services/</a></p><p></p><p>We are truly a great place to work. </p><p><strong>As our Senior Kernel Developer, you will be responsible for:</strong></p><ul> <li>Support existing functionality and implementation of several new features</li> <li>Update existing kernels including security fixes and CVEs patches</li> <li>Develop and support Python and Bash scripts for task automation</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role you should have:</strong></p><ul> <li>Excellent C programming and debugging skills</li> <li>Good level knowledge of Linux kernel core subsystems</li> <li>CPU and cache architectures</li> <li>Experience with GDB and other debuggers</li> <li>CPU performance and power analysis</li> <li>Independent and self-motivated problem solver and strategic thinker</li> <li>Proficient in Git for development and patch/branch management</li> <li>Good planning, time management, decision-making, presentation, and organization skills</li> <li>Effective written and verbal communication</li> <li>Excellent interpersonal and teamwork skills</li> <li>Happy in an agile, fast-paced environment</li> </ul><ul> <li>Experience with python, shell scripting</li> <li>Experience with Jenkins</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>Focus on professional development;</li> <ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p></p><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Java Developer (worldwide remote, work anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/AB7592AA0A" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>At CloudLinux, we seek a talented and passionate Java Developer to join our team.&nbsp;</p><p>As the leading provider of the #1 OS for web-hosting providers, we pride ourselves on developing innovative products used by thousands of companies worldwide.&nbsp;</p><p>In this role, you will be working on the Extended Lifecycle team, where you will have the opportunity to make a significant impact by providing a secure Java instrumentation for heterogeneous Java-based environments.</p><p>We are looking for someone with extensive expertise in Java tools and a fresh and revolutionary approach. This challenging mission requires a deep understanding of Java tools and a keen eye for creating groundbreaking solutions.</p><p>For more details about the project, please visit the product website at <a href="https://tuxcare.com/extended-lifecycle-support/" rel="nofollow noreferrer noopener" class="external">TuxCare.com</a>.<br><br><strong>What will you do in this role?</strong></p><ul> <li>Your role will involve enhancing the security of Java and delving deep into its inner workings.</li> <li>You'll be tasked with conducting research and running experiments to expedite the assembly of Java packages.</li> <li>The fruits of your labor will be a more secure Java environment, facilitating the development work of others.</li> <li>You'll be investigating vulnerabilities in Java and Java libraries, particularly focusing on the most popular end-of-life versions of Java.</li> <li>Your responsibilities will also include improving automation processes that construct the dependency tree and automatically rebuild projects, etc.</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role, you should have:</strong></p><ul> <li>4+ years in software development.</li> <li>High-level Java core, Spring framework.</li> <li>Experience with NoSQL and PostgreSQL.</li> <li>Experience with Gitlab as CI/CD will be a plus.</li> <li>Experience with repository management systems such as Nexus will be a plus.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible hours, allowing you to schedule your day and work from any location worldwide.</li> <li>Paid one month of vacation per year and unlimited sick leave.</li> <li>Medical insurance reimbursement.</li> <li>Co-working and gym/sports reimbursement.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p></p><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
+                <p>We are looking for <strong>Senior Kernel Developer</strong> to work on our KernelCare team. The ideal candidate is someone looking for a rewarding and challenging career developing Linux Kernels and patches. This role requires someone with strong C development skills and a passion for all that is Linux. Our Kernel Developers create patches with a cyber security focus while finding solutions for our customers. Please note, this is <strong>not</strong> an embedded Kernel role. </p><p>KernelCare is a product of CloudLinux Inc., the maker of the #1 OS in security and stability for hosting providers. KernelCare, a live kernel patching service provides security patches and bug fixes for a range of popular Linux kernels that can be installed without rebooting the system. Check out our website for more information about our KernelCare Product <a href="https://tuxcare.com/live-patching-services/" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com/live-patching-services/</a></p><p>We are truly a great place to work. </p><p></p><p><strong>As our Senior Kernel Developer, you will be responsible for:</strong></p><ul> <li>Support existing functionality and implementation of several new features</li> <li>Update existing kernels including security fixes and CVEs patches</li> <li>Develop and support Python and Bash scripts for task automation</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role you should have:</strong></p><ul> <li>Excellent C programming and debugging skills</li> <li>Good level of knowledge of Linux kernel core subsystems</li> <li>CPU and cache architectures</li> <li>Experience with GDB and other debuggers</li> <li>CPU performance and power analysis</li> <li>Independent and self-motivated problem solver and strategic thinker</li> <li>Proficient in Git for development and patch/branch management</li> <li>Good planning, time management, decision-making, presentation, and organization skills</li> <li>Effective written and verbal communication</li> <li>Excellent interpersonal and teamwork skills</li> <li>Happy in an agile, fast-paced environment</li> </ul><ul> <li>Experience with Python and Shell scripting</li> <li>Experience with Jenkins</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>Focus on professional development:</li> <ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p></p><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
                 </details>
                 </td>
             </tr>,<tr>
