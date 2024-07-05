@@ -10,7 +10,7 @@
                     <code>backend,docker,git,go</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/devops-backend-engineer-kubernetes-1920819" align="right" target="_blank">Apply</a>
