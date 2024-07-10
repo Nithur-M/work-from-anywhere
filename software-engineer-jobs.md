@@ -1,29 +1,5 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1921143/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Helika</h5>
-                    <h3>Staff Software Engineer, Team Lead</h3>
-                </td>
-                <td width="300">
-                    <code>AWS,backend,cloud,docker</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/staff-software-engineer-team-lead-1921143" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="h2"><strong>About Helika:</strong></div><p style="min-height:1.5em">Helika provides industry leading solutions to help studios build, grow, and optimize their games. We are an industry-leading data analytics, marketing, and game management platform that focuses on solving these main challenges for studios:</p><ul style=""><li style=""><p style="min-height:1.5em">Driving scalable profitable User Acquisition via <strong>Helika Acquire </strong></p></li><li style=""><p style="min-height:1.5em">Providing comprehensive insights that lead to a holistic understandings of a game’s ecosystem via <strong>Helika Analyze</strong></p></li><li style=""><p style="min-height:1.5em">Providing the tools to create compelling and engaging user experiences via <strong>Helika Engage</strong></p></li><li style=""><p style="min-height:1.5em">Optimizing user experiences to improve player engagement, retention, and monetization via <strong>Helika Optimize</strong></p></li><li style=""><p style="min-height:1.5em">Programmatically creating contextual experiences relative to segments and individual users via <strong>Helika AI</strong></p></li></ul><p style="min-height:1.5em">Regardless of technical or analytical expertise, studios can double down on what's working, cut what isn't, and spend more time building the best games with Helika. </p><p style="min-height:1.5em">Helika is one tool to solve all data problems for Game Studios.</p><div class="h2"><strong>About the Role:</strong></div><p style="min-height:1.5em">As our Staff Software Engineer, Team Lead, you will play a key role in shaping and enhancing the Helika platform. Reporting directly to the Head of Engineering, you will be responsible for designing, developing, and maintaining scalable and efficient full-stack solutions that drive our platform's functionality and performance. Working with a tech stack that includes Python, JavaScript, FastAPI, and AWS, you will lead a team of talented engineers, collaborating closely with cross-functional teams to deliver innovative features and solutions that address the evolving needs of our clients.</p><p style="min-height:1.5em"></p><div class="h2"><strong>Key Responsibilities:</strong></div><p style="min-height:1.5em"><strong>Lead the Design and Implementation of Full-Stack Solutions:</strong></p><ul style=""><li style=""><p style="min-height:1.5em">Architect and develop robust and scalable full-stack applications using Python, JavaScript, and FastAPI.</p></li><li style=""><p style="min-height:1.5em">Collaborate with data, frontend, and backend engineers to ensure seamless integration of features and functionalities.</p></li><li style=""><p style="min-height:1.5em">Review PRs across different engineering pods and document knowledge for team context sharing.</p></li><li style=""><p style="min-height:1.5em">Implement best practices for code quality, performance, and security across the entire stack.</p></li></ul><p style="min-height:1.5em"><strong>Drive Technical Innovation and Excellence:</strong></p><ul style=""><li style=""><p style="min-height:1.5em">Stay updated on emerging technologies and industry trends to drive technical innovation within the team.</p></li><li style=""><p style="min-height:1.5em">Propose and implement solutions to optimize system architecture, performance, and scalability.</p></li><li style=""><p style="min-height:1.5em">Mentor junior engineers and foster a culture of continuous learning and improvement.</p></li></ul><p style="min-height:1.5em"><strong>Collaborate with Cross-Functional Teams:</strong></p><ul style=""><li style=""><p style="min-height:1.5em">Work closely with product managers, designers, and other stakeholders to understand requirements and translate them into technical solutions.</p></li><li style=""><p style="min-height:1.5em">Collaborate with QA engineers to ensure the quality and reliability of the platform.</p></li><li style=""><p style="min-height:1.5em">Participate in code reviews, sprint planning, and other Agile ceremonies to ensure timely delivery of features and enhancements.</p></li></ul><p style="min-height:1.5em"></p><div class="h2"><strong>Requirements:</strong></div><ul style=""><li style=""><p style="min-height:1.5em">Proven experience (8+ years) as a Full-Stack Engineer with a strong background in designing and developing complex web applications.</p></li><li style=""><p style="min-height:1.5em">Expertise in Python and JavaScript, with experience using frameworks like FastAPI for backend development.</p></li><li style=""><p style="min-height:1.5em">Proficiency in frontend development using modern JavaScript frameworks such as React.js or Vue.js.</p></li><li style=""><p style="min-height:1.5em">Experience with cloud services, particularly AWS, and containerization technologies like Docker.</p></li><li style=""><p style="min-height:1.5em">Strong understanding of software engineering best practices, including Agile methodologies, code versioning tools (e.g., Git), and CI/CD pipelines.</p></li><li style=""><p style="min-height:1.5em">Excellent problem-solving skills and the ability to thrive in a fast-paced, dynamic environment.</p></li><li style=""><p style="min-height:1.5em">Strong communication skills and the ability to collaborate effectively with cross-functional teams.</p></li><li style=""><p style="min-height:1.5em">Passion for gaming and a keen interest in leveraging technology to enhance gaming experiences.</p></li></ul><div class="h2"><strong>Why Join Helika?</strong></div><p style="min-height:1.5em"><strong>The Most Powerful Partner in Gaming:</strong> Empowering the Gaming Universe with Cutting-Edge Insights and Next-Level AI Optimization.</p><p style="min-height:1.5em">At Helika, our mission is to revolutionize the gaming industry by providing unparalleled analytics, game management infrastructure, and AI-driven optimization solutions. We provide the tools that empower studios to create and sustain fun and enduring games.As part of our team, you will work alongside innovative minds, enjoy opportunities for professional growth, and contribute significantly to an exciting, fast-paced industry. We are committed to diversity and inclusivity, providing an empowering environment for all our team members</p><p style="min-height:1.5em">Many top AAA studios, including Yuga Labs, Animoca Brands, Ubisoft, Wildcard, Treasure, Proof of Play, Azra Games, and more rely on Helika to support their core analytics and data infrastructure needs. Helika is backed by top VC firms including Pantera, Diagram Ventures, Sfermion, Sparkle Ventures, Big Brain Holdings, Fenbushi and Builder Capital.</p><img src="https://remotive.com/job/track/1921143/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -91,7 +67,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1542681228666671107/L5LYJLAD_400x400.png" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/8986001?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Timescale</h5>
@@ -136,7 +112,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1542681228666671107/L5LYJLAD_400x400.png" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/8986001?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Timescale</h5>
@@ -281,6 +257,120 @@
 <li>[60m] Pairing Exercise (45m) &amp; Infrastructure Interview (15m)</li>
 <li>[45m] Cross-functional Team Collaboration Interview</li>
 <li>[60m] Resume Deep Dive</li>
+</ul>
+<p><strong>🎉 Final Interview Stage </strong>- we move you to our final round, where you gain a better understanding of our business and values holistically…</p>
+<ul>
+<li>[30m] <a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#e3a04291743048df87541a88aa8199dd">Values</a></li>
+<li>[30m] <a href="https://www.notion.so/sourcegraph/How-to-work-with-Quinn-Slack-CEO-807673e0864d473f959cc4efd9642a5a?pvs=4#6f185c0e2011411eac5be9c675f9056c">Leadership</a> with co-founder&nbsp;</li>
+<li>We check references and conduct your background check</li>
+</ul>
+<p>Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.</p>
+
+    
+
+    <div class="content-conclusion"><h2><strong><span style="color: #a112ff;">Not sure if this is you?</span></strong></h2>
+<p><span style="font-weight: 400;">We want a diverse, global team, with a broad range of experience and perspectives. If this job sounds great, but you’re not sure if you qualify, apply anyway! We carefully consider every application, and will either move forward with you, find another team that might be a better fit, keep in touch for future opportunities, or thank you for your time.</span></p>
+<h2><strong><span style="color: #a112ff;">Learn more about us</span></strong></h2>
+<p><span style="font-weight: 400;">To create a product that serves the needs of all developers, we are building a diverse </span><a href="https://sourcegraph.notion.site/All-remote-guidelines-4d1270d806294bf4ae6db7ab02911957"><span style="font-weight: 400;">all-remote team</span></a><span style="font-weight: 400;"> that is </span><a href="https://www.notion.so/sourcegraph/7ed54d4ec4624475a4b45619901236d7?v=e06d936c673f46ca8c313a557bd4410f"><span style="font-weight: 400;">distributed across the world</span></a><span style="font-weight: 400;">. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We provide </span><a href="https://sourcegraph.notion.site/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74"><span style="font-weight: 400;">competitive compensation</span></a><span style="font-weight: 400;"> and </span><a href="https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba?pvs=74"><span style="font-weight: 400;">practical benefits</span></a><span style="font-weight: 400;"> to keep you happy and healthy so that you can do your best work.&nbsp;</span><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Learn more about what it is like to work at Sourcegraph by reading </span><a href="https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0"><span style="font-weight: 400;">our handbook</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process.</span></p>
+<p><span style="font-weight: 400;">Go back to the </span><a href="https://about.sourcegraph.com/jobs/"><span style="font-weight: 400;">careers page</span></a><span style="font-weight: 400;"> for all open positions.</span></p>
+<p><em><span style="font-weight: 400;">Sourcegraph participates in <a href="https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107" target="_blank">E-Verify</a> for U.S. Employees</span></em></p></div>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1428393724527190022/4mt5PACL_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sourcegraph</h5>
+                    <h3>Software Engineer - Cody Core [IC2]</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/sourcegraph91/jobs/5206969004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
+<h2><strong><span style="color: #a112ff;">Who we are</span></strong></h2>
+<p>Our mission at Sourcegraph is to make it so that <a href="https://www.notion.so/sourcegraph/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d?pvs=4">everyone can code</a>, not just ~0.1% of the population. We're building the code intelligence platform that powers the world's best code search and the most popular open-source code AI tool. It’s an exciting time to join Sourcegraph—AI has taken over the world, and we aim to automate 99% of the toil in software engineering with our code understanding and code AI tools, leaving the remaining 1% to the irreplicable creative spark from humans.&nbsp;</p>
+<p>Our customers range from startups to the Fortune 500, 4/5 FAANG companies, government organizations, Uber, Plaid, and more. We’ve raised $225M at a $2.625B valuation from <a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/">a16z</a>,<a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"> Sequoia</a>, <a href="https://www.redpoint.com/companies/sourcegraph/">Redpoint</a>, <a href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d">Craft</a> and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</p></div>
+
+    <h2><span style="color: rgb(161, 18, 255);"><strong>Location</strong></span></h2>
+<p>🌎 While we are an all-remote company and hire <a href="https://sourcegraph.notion.site/How-we-engage-talent-outside-of-the-US-218f7193695a46cbb1ef39ef9c1f72d4">almost anywhere</a> in the world, we have a preference for someone to reside in the following locations for this role. However, if you feel qualified, we welcome you to apply regardless of location. No matter what, working hours must overlap with PST for at least 30 hours/week.</p>
+<p><strong>Preferred locations:</strong></p>
+<ul>
+<li>Remote - San Francisco</li>
+</ul>
+<h2><span style="color: rgb(161, 18, 255);"><strong>Why this job is exciting</strong></span></h2>
+<p>Imagine being part of a team where your work will redefine the coding experience for developers around the world. As a Software Engineer on the Cody Core team, you will work on Cody, an AI coding assistant that lives in your editor. You will work at the forefront of integrating advanced AI technologies into everyday coding practices. This role offers a unique opportunity to innovate and push the boundaries of what an AI coding assistant can achieve, all while working with a talented and passionate team. You'll have the chance to see your contributions directly impact developers, enhancing their productivity and transforming how they interact with their code.</p>
+<p>📅 Within one month, you will…</p>
+<ul>
+<li>Familiarize yourself with Cody, understanding the architecture and the problems it solves for our users.</li>
+<li>Start contributing to our current focus areas by working on tasks related to the end-to-end user experience.</li>
+<li>Engage with your team members, learning from their experiences and sharing your insights to contribute to the project's direction.</li>
+</ul>
+<p>📅 Within three months, you will…</p>
+<ul>
+<li>Be contributing actively to the world’s best coding assistant.</li>
+<li>Take ownership of smaller features and implement them, with a focus on improving user engagement and satisfaction.</li>
+<li>Begin to influence the project's future direction by providing insights based on your work and user feedback, collaborating closely with product management and design teams.</li>
+</ul>
+<p>📅 Within six months, you will…</p>
+<ul>
+<li>Be fully ramped up and able to anticipate the needs of Cody users.</li>
+<li>Establish yourself as a key contributor to the team, known for your expertise in both the technical and product aspects of our work.</li>
+<li>Participate in initiatives that push the boundaries of what Cody can do, making coding more accessible and enjoyable for developers everywhere.</li>
+</ul>
+<h2><span style="color: rgb(161, 18, 255);"><strong>About you</strong></span></h2>
+<p>You are a full-stack software engineer with at least 2 years of industry experience. You are comfortable with frontend and backend work as needed, can pick up frameworks quickly, and can deliver high-quality work.&nbsp;</p>
+<p>Beyond your technical proficiency, you are a forward-thinking and adaptive contributor, ready to navigate a complex project. Your vision extends beyond code: you are passionate about the broader impact of your work on making coding accessible and enjoyable for a diverse global community. You actively seek out opportunities to challenge the status quo, drive meaningful change, and foster an inclusive, high-performing team culture. You are an experienced remote/async worker.</p>
+<ul>
+<li>2–5 years experience as a full-stack engineer</li>
+<li>Experience with Typescript or Go is required (both preferred)</li>
+<li>Familiarity with code intelligence tools and AI-assisted development platforms such as Sourcegraph Cody, GitHub Copilot, or similar</li>
+<li>Alignment with our values</li>
+<li>Growth mindset</li>
+</ul>
+<p>Nice to haves:</p>
+<ul>
+<li>Experience writing extensions for one or more of the following: Visual Studio Code, JetBrains IDEs, Visual Studio, or Eclipse</li>
+<li>Familiarity with compilers, language server protocols, code intelligence, or related technologies</li>
+<li>Experience working closely with Product and Design teams</li>
+<li>Previous role in a startup environment, comfortable with rapid iteration and adaptable to shifting priorities</li>
+</ul>
+<h2><span style="color: rgb(161, 18, 255);"><strong>Level</strong></span></h2>
+<p>📊 This job is an IC2. You can read more about <a href="https://www.notion.so/sourcegraph/Leveling-Guide-0e1b5c76ada64b9caac387f8b7c4fc66">our job leveling philosophy</a> in our Handbook.</p>
+<h2><span style="color: rgb(161, 18, 255);"><strong>Compensation</strong></span></h2>
+<p><strong>💸 We pay you an above-average salary</strong> because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. As an <a href="https://sourcegraph.notion.site/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d">open and transparent</a> company that values <a href="https://www.notion.so/sourcegraph/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=4">competitive compensation</a>, our compensation ranges are visible to every single Sourcegraph teammate.</p>
+<p>To determine your salary, we use a number of market and data-driven salary sources, along with your location zone, and target the high-end of the range to ensure we’re always paying above market regardless of where you live in the world. Both U.S. and international locations are divided into one of four zones, determined by the cost of labor index for each area. The starting salary for a successful candidate will be based on level, job-related skills, experience, qualifications, and location zone. Please note that these salary ranges may be adjusted in the future.</p>
+<p>💰The target compensation for this role is $145,000 USD base.</p>
+<p>Please speak with a recruiter for additional information regarding zone locations.📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous <a href="https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba">perks &amp; benefits</a>.</p>
+<h2><span style="color: rgb(161, 18, 255);"><strong>Interview process</strong></span></h2>
+<p><em>Below is the interview process you can expect for this role (you can read more about </em><a href="https://sourcegraph.notion.site/Types-of-interviews-f279f080583d49ee9f2c60e30c8cb1f7"><em>the types of interviews</em></a><em> in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&nbsp;</em></p>
+<p>We expect the interview process to take 5.5 hours in total.</p>
+<p><strong>👋 Introduction Stage</strong> - we have initial conversations to get to know you better…</p>
+<ul>
+<li>[30m] <a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#99be5ff628b2414194a0ba79d9f25f13">Recruiter Screen</a></li>
+<li>[15m] Hiring Manager Intro - Erika</li>
+</ul>
+<p><strong>🧑‍💻 Team Interview Stage</strong> - we then delve into your experience in more depth and introduce you to members of the team, including cross-functional partners…</p>
+<ul>
+<li>[60m] Pairing Exercise</li>
+<li>[45m] Code Walkthrough</li>
+<li>[60m] Resume Deep Dive</li>
+<li>[60m] Cross-functional Team Collaboration Interview</li>
 </ul>
 <p><strong>🎉 Final Interview Stage </strong>- we move you to our final round, where you gain a better understanding of our business and values holistically…</p>
 <ul>
@@ -1963,6 +2053,30 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div><b>About Us</b></div><div>At <a href="http://iterative.ai/" class="postings-link"><i>iterative.ai</i></a>, we build open-source tools for machine learning <a href="https://dvc.org/" class="postings-link">DVC</a> (12k+ ⭐&nbsp; on GitHub),  and enterprise-grade data infrastructure solutions. We also offer a team collaboration SaaS solution - <a href="https://studio.iterative.ai/" class="postings-link">Studio</a>. We're a well-funded (Series A), remote-first team (50+ employees) on a mission to solve the complexities of managing datasets, ML infrastructure, ML models lifecycle, and other ML &amp; data-centric workflows.</div><div>We value great collaboration and communication skills, both among internal teams and in how we interact with our users. We take care to balance and be responsive to the needs of our open source community as well as our enterprise customers.</div><div><b>Check us out in other places:</b></div><div>🖥  <a href="https://iterative.ai/" class="postings-link">Website</a>  📂&nbsp; <a href="http://dvc.org/doc" class="postings-link">Docs</a>  👾: <a href="http://github.com/iterative" class="postings-link">GitHub</a>  🖊&nbsp; <a href="http://dvc.org/blog" class="postings-link">Blog</a>  ⏯️&nbsp; <a href="https://www.youtube.com/channel/UC37rp97Go-xIX3aNFVHhXfQ" class="postings-link">YouTube</a>  💬&nbsp;<a href="https://dvc.org/chat" class="postings-link">Discord</a></div><div><br></div><div><b style="font-size: 18px">Job Description</b></div><div>We're seeking a strong python backend engineer to work on <a href="http://iterative.ai" class="postings-link">iterative.ai</a>'s SaaS&nbsp;offering - <a href="https://studio.iterative.ai/" class="postings-link">studio</a><b>&nbsp;</b>- a managed ML workspace/hub allowing for ML teams to share and collaborate experiments, models and more</div><div>Strong Python knowledge, code design, some full-stack abilities and excellent coding culture (standards, unit test, etc) are required. We are looking for someone who loves dev tools, ML and MLOps and is ready to be 100% hands-on and lead by doing! </div></div><div class="section page-centered"><div><h3>Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Discuss and research issues, bugs and new features.</li><li>Take ownership of the full development lifecycle - From planning, through designing, execution, testing to supporting in production</li><li>Be 100% hands-on - we expect technical expertise on the backend and some full stack ability and involvement in the frontend (react, typescript) to be able to be effective</li><li>Document your code and share knowledge with the team</li></ul></ul></div></div><div class="section page-centered"><div><h3>Must have</h3><ul class="posting-requirements plain-list"><ul><li>Motivation and interest (Technologies, domain, customer impact)</li><li>Love for clean &amp; efficient code</li><li>Remote work self-discipline - ability to focus and deliver reliably - respect team's planning, deadlines, etc</li><li>Excellent communication skills - clear, constructive, and respectful dialog with other team members, community</li><li>Technical Leadership - hands-on technical leadership, experience in lead by doing, driving big features and architectural decisions. Contributing to the team's growth and enriching other team members with your knowledge and experience</li></ul></ul></div></div><div class="section page-centered"><div><h3>Great to have</h3><ul class="posting-requirements plain-list"><ul><li>Experience working remotely</li><li>Open source contributions or experience of maintaining, developing an open source project</li><li>System programming experience - kernel, databases, etc.</li><li>Machine Learning or Data Science experience</li></ul></ul></div></div><div class="section page-centered" data-qa="closing-description"><div><br></div><div><br></div><div>ℹ️&nbsp;<b>Our Hiring Process</b></div><div>We will go over the process with you in the Introductory call to make sure it is clear and you know what to expect.</div><div>Here is the full interview process you can expect - It’s our go-to for most positions:</div><div>🤙&nbsp; Introductory call [~1h]</div><div>👨‍🏫&nbsp; Tech call with a team member [~45m]</div><div>👩🏾‍💻&nbsp; Take-home coding task [real-world, asynchronous] - <i>We pay for your time</i>! See this <a href="https://www.notion.so/Iterative-ai-is-Hiring-852cb978129645e1906e2c9a878a4d22" class="postings-link">FAQ</a>.</div><div>🦾&nbsp; Task summary / retro call [Optional, ~1h]</div><div>✏️  Offer</div><div><br></div><div>👩‍💻&nbsp;<b>Culture</b> - <b><i>We take care of our people</i></b></div><div>💖&nbsp; <b>Diversity</b> - As a <a href="https://iterative.ai/about/#the-team" class="postings-link">distributed company</a>, diversity drives our identity. Whether you’re looking to launch a new career or grow an existing one, <a href="http://iterative.ai/" class="postings-link"><i>iterative.ai</i></a> is the type of company where you can balance great work with great life, and work with a wonderful team that does the same! No matter who you are or where you’re from; we need you for what you can do and for caring about ML and delivering great developer tools!</div><div>⚖️&nbsp; <b>Equal opportunities</b> - We strive to have parity of benefits across regions and while regulations differ from place to place, we believe taking care of our people is the right thing to do. No country or region takes precedence for personal growth, compensation, team recognition, or anything else, it just doesn’t matter where you are.</div><div>👣&nbsp; <b>Flexibility first</b> - Ability to craft your calendar with flexible locations and schedules</div><div>⚓️  <b>Team Driven Culture</b> - Engineering team is involved in product discussions and planning. We do it openly via GitHub or Discord chat. Well-defined process that we all participate in improving. As an employee you will have visibility to everything in Iterative, we are <a href="https://iterative.ai/about/#the-team" class="postings-link"><b>One team</b></a><b>.</b></div><div><br></div><div>👏<b>&nbsp;Perks &amp; Benefits</b></div><div>🌎&nbsp; <b>Work wherever you want -</b> No offices. Team is distributed remotely worldwide.</div><div>🗓️  <b>Work whenever you want -</b> Asynchronous communication and engineering culture. We are light on meetings and emphasize people finding their own schedule to be <b>prolific &amp; effective</b>. Oh yeah, also <b>Unlimited PTO and sick days!</b></div><div>🤗  <b>Open-source your code</b> - We’re an open-source-first company (frankly, it’s in our DNA). Your work will be visible and will be used by thousands of developers every day! Check out our <a href="http://dvc.org/chat" class="postings-link">Discord</a> and <a href="http://github.com/iterative" class="postings-link">GitHub</a>.</div><div>🪙&nbsp; <b>Competitive compensation</b> - based on the work you do here and not your previous salary.</div><div>⚕️ <b>Great health coverage</b> (medical, dental, vision) for you and your family, 100% paid by us (US only, but can discuss and reimburse, adjust the salary in other locations).</div><div>🛡️ <b>Benefits</b> - 401K with 100% match up to 4% of annual salary (US only, but we give the best we can worldwide through reimbursements and hiring platforms).</div><div>🎤  <b>Participate in conventions and conferences</b> (PyCon, PyData, O'Reilly AI, etc) - We encourage and support everyone in giving talks, writing blog-posts, and other activities.</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit teal" data-qa="show-page-apply" href="https://jobs.lever.co/iterative/4d684b23-f924-41f5-a727-b79cac48a1e3/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1520019984780513281/qnVtutKu_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Pluto Card</h5>
+                    <h3>Senior Software Engineer (Payments)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/pluto-card/j/C6B14A470C" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Pluto is a modern financial operating system for global businesses. We combine our global payments infrastructure with intelligent workflow automation to provide businesses with unparalleled insights, control, and automation over their payments.</p><p>Pluto is a venture-capital funded company backed by top-tier Silicon Valley investors and built by folks from some of the best technology institutions in the world -- Google, Shopify, Square, PayPal, Cash App, Uber, Y Combinator, and more</p><p>We are reinventing corporate finance for the modern age and are solving challenging problems in the B2B payments space. With a stronghold in Dubai (UAE) and sights set on expansion, we're now looking for a seasoned&nbsp;<strong>Senior Software Engineer</strong> to help shape our next chapter.<br></p><h3>What You’ll Do</h3><ul> <li>Design and develop Pluto’s flagship products and build complex, resilient payments infrastructure</li> <li>Play a pivotal role in architecting and building critical payment processing, ledgering, and financial reconciliation systems</li> <li>Architect and implement robust integrations with various payment rails and financial APIs</li> <li>Lead the development lifecycle of features and work streams from design to deployment</li> <li>Become a voracious problem solver who can tackle difficult issues on tight timelines, manage cross-functional dependencies and set an exemplary bar for engineering within the organization</li> <li>Write and maintain clean, maintainable and testable code, leveraging design patterns and architecture where appropriate</li> <li>Participate in code reviews, pair-programming sessions and provide constructive feedback to peers</li> <li>Develop a strong understanding of the domain and bring a deep product and design mindset while building solutions</li> </ul><h3>Bonus Points</h3><ul> <li>Previous work experience in the banking or fintech</li> <li>Familiarity with financial industry frameworks and technologies such as payment gateways, transaction processing systems, or financial messaging protocols (e.g ISO 20022, ISO8583, SWIFT, SEPA, or Open Banking APIs)</li> <li>Familiarity with cloud platforms such as AWS or Azure and experienced in deploying and managing applications in a cloud environment.</li> <li>Experience with Kubernetes or other container orchestration platforms</li> <li>Experience with JVM tuning, configuration &amp; metrics</li> </ul><h3><strong>Our Tech Stack</strong></h3><ul> <li> <strong>Frontend:</strong>&nbsp;React, TypeScript</li> <li> <strong>Backend:</strong>&nbsp;Kotlin, GraphQL, Temporal</li> <li> <strong>Database:</strong>&nbsp;Postgres, AWS Aurora</li> <li> <strong>Infrastructure:</strong>&nbsp;AWS, Kubernetes, Terraform</li> <li> <strong>Observability:</strong>&nbsp;Datadog, Cloudwatch, Lightstep</li> </ul><h3>Requirements: </h3><h3><strong>Who We're Looking For</strong></h3><ul> <li>5+ years of professional experience as a software engineer (with a focus on payments/fintech)</li> <li>Extensive experience in developing and integrating with banking and card scheme protocols</li> <li>Experience in working with third-party APIs and integrating external financial services into backend systems</li> <li>Mastery in at least one programming language (e.g Kotlin, Java, Go, Scala, Rust)</li> <li>Deep understanding of relational and non-relational databases and distributed systems</li> <li>Strong grasp of SQL and relational data modelling</li> <li>Experienced with API design and development (e.g GraphQL, REST, RPC)</li> <li>Experience in designing and developing scalable, secure and reliable backend systems.</li> <li>Strong understanding of SDLC, software design principles, architectural and integration patterns</li> <li>Strong problem-solving skills and ability to analyze and debug complex software systems</li> <li>Excellent communication and collaboration skills, with the ability to work effectively in cross-functional teams.<br> </li> </ul><h3><strong>Our Values</strong></h3><p>At Pluto, we live by the following core values:</p><ul> <li> <a href="https://handbook.gitlab.com/handbook/people-group/directly-responsible-individuals/" rel="nofollow noreferrer noopener" class="external"><strong>Directly Responsible Individuals (DRI)</strong></a>: We empower team members with autonomy to own their projects and outcomes fully, fostering a culture of accountability, clarity and outsized impact. As the DRI you are the driver of success for your projects — proactively identifying, communicating and mitigating risks and resolving blockers to ensure success.</li> <li> <strong>Clear Communication</strong>: At Pluto, we emphasize clear, transparent communication as fundamental to our success. We strive for clarity, succinctness and transparency in all interactions, ensuring that every message is articulated clearly and understood universally across our teams. This commitment to clarity reduces misunderstandings and fosters a more productive environment especially for distributed teams.</li> <li> <strong>Systems Thinking &amp; First Principles Reasoning</strong>: We love to deconstruct problems and innovate from the ground up. By understanding complex systems and questioning assumptions, we are able to develop creative solutions to difficult problems.</li> <li> <strong>Fact-centric</strong>: We are intentional about questioning our assumptions, and bringing the facts to focus by diving into the data, quick-fire experimentation &amp; swift prototyping. We make room for varied perspectives &amp; calibrate our goals with metrics that track our progress, and accurately reflect reality.</li> </ul><h3>Benefits: </h3><ul> <li>Competitive compensation &amp; stock options so you have skin in the game</li> <li>Remote-first work environment</li> <li>We'll ship you a new MacBook</li> <li>Monthly fitness benefit up to $100 USD</li> <li>Home-office budget up to $1000 USD</li> <li>Discretionary learning budget</li> </ul>
                 </details>
                 </td>
             </tr>,<tr>
