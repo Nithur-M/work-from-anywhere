@@ -1,159 +1,5 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1920819/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Prevalent IOT Inc.</h5>
-                    <h3>Devops / Backend Engineer / Kubernetes</h3>
-                </td>
-                <td width="300">
-                    <code>backend,docker,git,go</code>
-                </td>
-                <td width="200">
-                <text>11 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/devops/devops-backend-engineer-kubernetes-1920819" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p class="MsoNormal" style="margin: 0in; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><span style="color: black;"><br><br><em>Salary: $24K-$120K per year.  Negotiable depending on skills</em><br></span></p>
-<p class="MsoNormal" style="margin: 0in; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"> </p>
-<p class="MsoNormal" style="margin: 0in; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"> </p>
-<p class="MsoNormal" style="margin: 0in; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><span style="color: black;"><strong>Overview</strong><br>Seeking Devops engineer for small elite IOT development team. Job description includes research, development, and support of a Kubernetes cluster for a project which serves tens of thousands of IoT devices and thousands of users.<br><br><strong>Requirements<br></strong><br>Strong knowledge and experience in</span></p>
-<p> </p>
-<ul style="" type="disc">
-<li class="MsoNormal" style="">Kubernetes
-<p> </p>
-</li>
-<li class="MsoNormal" style="">Docker, Docker compose
-<p> </p>
-</li>
-<li class="MsoNormal" style="">CI/CD
-<p> </p>
-</li>
-<li class="MsoNormal" style="">Git Lab
-<p> </p>
-</li>
-<li class="MsoNormal" style="">Grafana (or analog)
-<p> </p>
-</li>
-<li class="MsoNormal" style="">NGINX
-<p> </p>
-</li>
-<li class="MsoNormal" style="">Mail services setup and manage
-<p> </p>
-</li>
-<li class="MsoNormal" style="">Scale services for MQTT, Mongo<br><br>DB, REDIS, etc
-<p> </p>
-</li>
-<li class="MsoNormal" style="">Certbot
-<p> </p>
-</li>
-<li class="MsoNormal" style="">Portainer
-<p> </p>
-</li>
-</ul>
-<p class="MsoNormal" style="margin: 0in; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><span style="color: black;"><strong>Fields of liability</strong><br><br>RnD</span></p>
-<p> </p>
-<ul style="" type="disc">
-<li class="MsoNormal" style="">design Kubernetes cluster architecture
-<p> </p>
-</li>
-<li class="MsoNormal" style="">setup Kubernetes cluster for the system's services (backend)
-<p> </p>
-</li>
-<li class="MsoNormal" style="">setup CI/CD pipeline for the services and Uis
-<p> </p>
-</li>
-<li class="MsoNormal" style="">setup monitoring (and alert) system for the backend, visualization of the backend health (e.g. Grafana)
-<p> </p>
-</li>
-<li class="MsoNormal" style="">automate scale and issue resolution for the backend.
-<p> </p>
-</li>
-<li class="MsoNormal" style="">setup mail service(s)
-<p> </p>
-</li>
-<li class="MsoNormal" style="">Ideally participate in the services RnD (Go, Node.<br><br>JS)
-<p> </p>
-</li>
-</ul>
-<p class="MsoNormal" style="margin: 0in; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><span style="color: black;">Monitoring&amp;Support</span></p>
-<p> </p>
-<ul style="" type="disc">
-<li class="MsoNormal" style="">monitor the system's health and react on accidents
-<p> </p>
-</li>
-<li class="MsoNormal" style="">monitor the system’s services resources consumption and act like a feedback for the services' developers (offer improvements)
-<p> </p>
-</li>
-<li class="MsoNormal" style="">perform penetration tests for the system services
-<p> </p>
-</li>
-</ul>
-<p class="MsoNormal" style="margin: 0in; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><span style="color: black;">Documentation</span></p>
-<p> </p>
-<ul style="" type="disc">
-<li class="MsoNormal" style="">Good technical writing skills for description of the cluster and recipes for work with it (internal WIKI)
-<p> </p>
-</li>
-</ul>
-<p class="MsoNormal" style="margin: 0in; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><span style="color: black;"><strong>Experience<br></strong><br>5+ years in Dev Ops for systems serves Io Ts<br>Contacts </span></p>
-<p> </p>
-<p class="MsoNormal" style="margin: 0in; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><strong><span style="color: black;">Position Requirements</span></strong></p>
-<p> </p>
-<p class="MsoNormal" style="margin: 0in; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><strong><span style="color: dimgray;">3+ Years </span></strong><span style="color: black; background: white;">work experience </span></p>
-<p> </p>
-<p class="MsoNormal" style="margin: 0in; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><span style="color: black;">Strong knowledge and experience in</span></p>
-<p> </p>
-<ul style="" type="disc">
-<li class="MsoNormal" style="">Kubernetes
-<p> </p>
-</li>
-<li class="MsoNormal" style="">Docker, Docker compose
-<p> </p>
-</li>
-<li class="MsoNormal" style="">CI/CD
-<p> </p>
-</li>
-<li class="MsoNormal" style="">Git Lab
-<p> </p>
-</li>
-<li class="MsoNormal" style="">Grafana (or analog)
-<p> </p>
-</li>
-<li class="MsoNormal" style="">NGINX
-<p> </p>
-</li>
-<li class="MsoNormal" style="">Mail services setup and manage
-<p> </p>
-</li>
-<li class="MsoNormal" style="">Scale services for MQTT, Mongo<br><br>DB, REDIS, etc
-<p> </p>
-</li>
-<li class="MsoNormal" style="">Certbot
-<p> </p>
-</li>
-<li class="MsoNormal" style="">Portainer
-<p> </p>
-</li>
-</ul>
-<p class="MsoNormal" style="margin: 0in; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><strong><span style="color: black;">Additional Information / Benefits</span></strong></p>
-<p> </p>
-<p class="MsoNormal" style="margin: 0in; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><span style="color: black;">Work with a small team of really smart people on a really cool project. Potential for long-term position if you fit in with the vibe of the team.</span></p>
-<p> </p>
-<p class="MsoNormal" style="margin: 0in; caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><a name="application_box" rel="nofollow"></a></p>
-<p> </p>
-<p class="MsoNormal" style="caret-color: #000000; color: #000000;"> </p>
-<p> </p>
-<img src="https://remotive.com/job/track/1920819/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -221,7 +67,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1542681228666671107/L5LYJLAD_400x400.png" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/8986001?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Timescale</h5>
@@ -370,7 +216,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><b style="font-size: 24px">EMPOWER OVERVIEW</b></div><div><br></div><div>Empower is a high-growth financial technology company on a mission to expand access to fair credit to give anyone in the world the opportunity to improve their financial security and mobility. We dream up and launch one-of-a-kind features that help our members get money instantly whenever they need it, save for the future, and rewrite their financial story. Our members see Empower Cash Advance as a life-saver, Empower Automatic Savings as a game-changer, and the new Empower Thrive line of credit as a lifeline to low-cost borrowing and the only practical path to building good credit.</div><div><br></div><div>Empower México is a new venture for the company. We offer small loans ranging from $150 to $2,000 MXN to help Mexican customers in a pinch, using non-traditional data to underwrite customers. </div><div><br></div><div>Empower is backed by Sequoia Capital, Blisce, and Icon Ventures. Are we the next great place to grow your impact and accelerate your career? We think so:</div><div><br></div><div>Inc. ranked Empower #56 in the 2023 Inc. 5000 list of the fastest-growing private companies in the US (#55 in 2022). Forbes put Empower on its 2023 list of America's Best Startup Employers. Fast Company recognized the new Empower Thrive line of credit in their 2022 list of the Next Big Things in Tech. </div><div><br></div><div><b style="font-size: 18px">THE EMPOWER WAY</b></div><div><b>Great Expectations</b>: We come up with bold, audacious goals for ourselves and go all out for impact</div><div><b>Owner Mindset</b>: We give every employee latitude to act independently, make smart choices, and move the business forward</div><div><b>Spirited Debate</b>: We love skeptics and seek counter opinions to challenge our personal assumptions and expand our view</div><div><b>Customer Obsession: </b>We listen to understand, empathize, and create a memorable, rewarding experience for our community</div><div><b>Inclusive Collaboration</b>: We believe diverse teams make the best decisions, and we strive to give diverse voices a seat at the table</div><div>N<b>o Jerks Allowed</b>: We value our relationships and take the time to build trust and connection and communicate respectfully</div><div><b>&nbsp;</b></div><div><b>&nbsp;</b></div><div><b style="font-size: 18px">WHAT EMPOWER OFFERS</b></div><div><br></div><div>Competitive salary</div><div>Generous equity package</div><div>Full healthcare and dental benefits</div><div>Technology&nbsp; expense reimbursement</div><div>Work&nbsp; from anywhere</div><div><br></div><div><b style="font-size: 18px">JOB DESCRIPTION</b></div><div>As a Backend Server Software Engineer, you’ll work on the engine that powers the Empower apps and business. You’ll engage with a collaborative, high powered team to develop solutions and lead product engineering on projects with a reach of millions. The solutions you’ll build will be robust, secure and easy to understand both for our users and your engineering peers. You’ll take end to end ownership of new features and product lines shaping work in early stages, building, deploying and running post deployment analysis to ensure we’re hitting our goals.</div><div><br></div><div>Travel for company offsites is expected at a minimum 2 times a year.</div><div><br></div><h3>Key Responsibilities</h3><li>Designing, building, and deploying server application code that interfaces with 3rd party clients and Empower</li><li>Implementing secure coding standards in accordance with the Empower Secure Development Policy</li><li>Perform on-going security testing and code review to improve software security</li><li>Monitoring the performance of the Empower server application and applying corrective action through bug fixing and improved solutions</li><li>Minimizing defects and improving reliability through: Development of automated tests, manual test validation, development of fit for purpose architecture and code, contributing to PRs</li><li>Developing and maintaining the server app build and deployment pipeline</li><li>Collaborating cross-functionally to define, design and ship new features that create customer and business value</li><li>Working with business and operations stakeholders for the definition and development of business requirements</li><li>Contributing to server/client contract API definition</li><li>Architecting solutions that interface into 3rd parties and the Empower México Android app</li><li>Maximizing effective development and identifying new technology opportunities by: Keeping across .NET development announcements, being across community best practice, discovering and evaluating new technologies</li><li>Participating in the server ops on call schedule</li>,<h3>Candidate Qualifications</h3><li>Bachelor degree or greater within Computer Science, Software Engineering or a related subject</li><li>3+ years developing web APIs within .NET (C#)</li><li>Working experience constructing and optimizing MicrosoftSQL queries using ORMs such as Entity Framework</li>,<h3>Preferred Qualifications</h3><li>Worked on a “zero to one” project taking a business from an idea to a profitable venture</li><li>Experience scaling a solution from tens of thousands to millions of customers (Scaling databases, queues, caching, monitoring and security with Azure)</li><li>Contributed to and/or owned a large, complex, critical banking or lending solution</li><div>At Empower, we hire for people that push themselves to understand others and seek out ways to challenge their personal assumptions. Our hope is that by fostering such an environment, we strengthen our business and relationships by putting people first. We are committed to building a diverse, inclusive, and equitable workspace where everyone (regardless of age, education, ethnicity, gender, sexual orientation, or any personal characteristics) feels like they belong. Even if your experience doesn’t exactly match up to our job description, you should feel empowered to apply regardless!&nbsp;</div>
+                <div><b style="font-size: 24px">EMPOWER OVERVIEW</b></div><div><br></div><div>Empower is a high-growth financial technology company on a mission to expand access to fair credit to give anyone in the world the opportunity to improve their financial security and mobility. We dream up and launch one-of-a-kind features that help our members get money instantly whenever they need it, save for the future, and rewrite their financial story. Our members see Empower Cash Advance as a life-saver, Empower Automatic Savings as a game-changer, and the new Empower Thrive line of credit as a lifeline to low-cost borrowing and the only practical path to building good credit.</div><div><br></div><div>Empower México is a new venture for the company. We offer small loans ranging from $150 to $2,000 MXN to help Mexican customers in a pinch, using non-traditional data to underwrite customers. </div><div><br></div><div>Empower is backed by Sequoia Capital, Blisce, and Icon Ventures. Are we the next great place to grow your impact and accelerate your career? We think so:</div><div><br></div><div>Inc. ranked Empower #56 in the 2023 Inc. 5000 list of the fastest-growing private companies in the US (#55 in 2022). Forbes put Empower on its 2023 list of America's Best Startup Employers. Fast Company recognized the new Empower Thrive line of credit in their 2022 list of the Next Big Things in Tech. </div><div><br></div><div><b style="font-size: 18px">THE EMPOWER WAY</b></div><div><b>Great Expectations</b>: We come up with bold, audacious goals for ourselves and go all out for impact</div><div><b>Owner Mindset</b>: We give every employee latitude to act independently, make smart choices, and move the business forward</div><div><b>Spirited Debate</b>: We love skeptics and seek counter opinions to challenge our personal assumptions and expand our view</div><div><b>Customer Obsession: </b>We listen to understand, empathize, and create a memorable, rewarding experience for our community</div><div><b>Inclusive Collaboration</b>: We believe diverse teams make the best decisions, and we strive to give diverse voices a seat at the table</div><div>N<b>o Jerks Allowed</b>: We value our relationships and take the time to build trust and connection and communicate respectfully</div><div><b>&nbsp;</b></div><div><b>&nbsp;</b></div><div><b style="font-size: 18px">WHAT EMPOWER OFFERS</b></div><div><br></div><div>Competitive salary</div><div>Generous equity package</div><div>Full healthcare and dental benefits</div><div>Technology&nbsp; expense reimbursement</div><div>Work&nbsp; from anywhere</div><div><br></div><div><b style="font-size: 18px">JOB DESCRIPTION</b></div><div>As a Backend Server Software Engineer, you’ll work on the engine that powers the Empower apps and business. You’ll engage with a collaborative, high powered team to develop solutions and lead product engineering on projects with a reach of millions. The solutions you’ll build will be robust, secure and easy to understand both for our users and your engineering peers. You’ll take end to end ownership of new features and product lines shaping work in early stages, building, deploying and running post deployment analysis to ensure we’re hitting our goals.</div><div><br></div><div>Travel for company offsites is expected at a minimum 2 times a year.</div><div>For US based employee's, this salary range includes multiple career levels of consideration and will be discussed further during the interview process.</div><div><br></div><div>The comp range represents the span across 3 levels as detailed here:</div><div>107-144,000</div><div>128-173,000</div><div>154-208,000</div><div><br></div><div>The salary range is based on a variety of factors such as candidate experience, qualifications, and business needs. The base pay range is subject to change and may be modified in the future.</div><h3>Key Responsibilities</h3><li>Designing, building, and deploying server application code that interfaces with 3rd party clients and Empower</li><li>Implementing secure coding standards in accordance with the Empower Secure Development Policy</li><li>Perform on-going security testing and code review to improve software security</li><li>Monitoring the performance of the Empower server application and applying corrective action through bug fixing and improved solutions</li><li>Minimizing defects and improving reliability through: Development of automated tests, manual test validation, development of fit for purpose architecture and code, contributing to PRs</li><li>Developing and maintaining the server app build and deployment pipeline</li><li>Collaborating cross-functionally to define, design and ship new features that create customer and business value</li><li>Working with business and operations stakeholders for the definition and development of business requirements</li><li>Contributing to server/client contract API definition</li><li>Architecting solutions that interface into 3rd parties and the Empower México Android app</li><li>Maximizing effective development and identifying new technology opportunities by: Keeping across .NET development announcements, being across community best practice, discovering and evaluating new technologies</li><li>Participating in the server ops on call schedule</li>,<h3>Candidate Qualifications</h3><li>Bachelor degree or greater within Computer Science, Software Engineering or a related subject</li><li>3+ years developing web APIs within .NET (C#)</li><li>Working experience constructing and optimizing MicrosoftSQL queries using ORMs such as Entity Framework</li>,<h3>Preferred Qualifications</h3><li>Worked on a “zero to one” project taking a business from an idea to a profitable venture</li><li>Experience scaling a solution from tens of thousands to millions of customers (Scaling databases, queues, caching, monitoring and security with Azure)</li><li>Contributed to and/or owned a large, complex, critical banking or lending solution</li><div>At Empower, we hire for people that push themselves to understand others and seek out ways to challenge their personal assumptions. Our hope is that by fostering such an environment, we strengthen our business and relationships by putting people first. We are committed to building a diverse, inclusive, and equitable workspace where everyone (regardless of age, education, ethnicity, gender, sexual orientation, or any personal characteristics) feels like they belong. Even if your experience doesn’t exactly match up to our job description, you should feel empowered to apply regardless!&nbsp;</div>
                 </details>
                 </td>
             </tr>,<tr>
