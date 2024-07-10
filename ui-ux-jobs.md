@@ -1,5 +1,110 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1922445/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Yassir</h5>
+                    <h3>Product Designer (UI/UX)</h3>
+                </td>
+                <td width="300">
+                    <code>prototyping</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/design/product-designer-ui-ux-1922445" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><strong><span style="">Yassir</span></strong><span style=""> is the leading super App in the Maghreb region set to changing the way daily services are provided. It currently operates in </span><strong><span style="">45 cities across Algeria, Morocco and Tunisia with recent expansions into France, Canada and Sub-Saharan Africa</span></strong><span style="">. It is backed (~</span><strong><span style="">$200M in funding</span></strong><span style="">) by VCs from Silicon Valley, Europe and other parts of the world. </span></div>
+<div><span style="">We offer on-demand services such as ride-hailing and last-mile delivery. Building on this infrastructure, we are now introducing financial services to help our users pay, save and borrow digitally. </span></div>
+<div><span style="">Helping usher the continent into a digital economy era. We’re not just about serving people - we’re about creating a marketplace to bring people what they need while infusing social values.</span></div>
+<div> </div>
+<div><span style="">ABOUT THE ROLE</span></div>
+<div> </div>
+<div>We are in search of a talented and motivated individual to join our team and start working on all sorts of interesting products.</div>
+<div> </div>
+<div>‍As a Product designer at Yassir, you will be responsible for driving product design initiatives from inception through execution. In this role, you will collaborate closely with product managers, engineers, analysts, and other cross-functional team members within the organization to ensure that our products amaze and delight our users.</div>
+<div> </div>
+<div>We are looking for an experienced product designer to contribute to the effort in revamping our service. At Yassir, we put our users and data first. So we need Product Designers with smart UI/UX skills who are continuously adapting and excited to work on products that make the life of our people easier by the day. In this role, you will work cross-functionally to design and guide products from conception to launch by connecting the technical and business worlds and designing the product workflow from beginning to end.</div>
+<p><br><br></p>
+<div class="h3">TASKS</div>
+<ul style="">
+<li style="">Be responsible for creating end-to-end experiences, from start to finish.</li>
+<li style="">Partner up with Product Managers to define design solutions.</li>
+<li style="">Create and deliver high-quality user interfaces that help improve the overall design language of our products.</li>
+<li style="">Have a 360º view of the area you're working on and the business in general.</li>
+<li style="">Collaborate, assist and review junior designers.</li>
+<li style="">Lead and participate in brainstorming sessions.</li>
+<li style="">Present design projects to stakeholders and gather feedback.</li>
+<li style="">Develop exhaustive design handoffs, and follow design implementations with developers.</li>
+<li style="">Conduct design and usability tests.</li>
+<li style="">Actively build and maintain internal design system.</li>
+<li style="">Suggest improvements that contribute to the overall direction of our products and strategy.</li>
+<li style="">Participate in shaping the design culture at YASSIR.</li>
+<li style="">Help maintain and improve the internal design process.</li>
+</ul>
+<p><br><br></p>
+<div class="h3">REQUIREMENTS</div>
+<ul style="">
+<li style="">4+ years experience designing digital experiences, in a professional environment.</li>
+<li style="">Portfolio showcasing your work and great visual skills and attention to detail.</li>
+<li style="">Experience designing for iOS, Android, and Web.</li>
+<li style="">Ability to dissect and simplify complex problems.</li>
+<li style="">High understanding of iOS and Android design language and system behavior and platform standards in general.</li>
+<li style="">Advanced design tools mastery, such as Sketch or Figma.</li>
+<li style="">High proficiency in producing high-fidelity prototypes using tools such as Principle, ProtoPie, Origami... etc.</li>
+<li style="">Complete mastery of design principles.</li>
+<li style="">Strong knowledge of product development process.</li>
+<li style="">Always up to date with design industry news and best practices.</li>
+<li style="">Large knowledge of design patterns.</li>
+<li style="">Great written and verbal communication skills.</li>
+<li style="">Team player, you enjoy working in teams and sharing your experience and knowledge with others.</li>
+<li style="">Ability and willingness to learn and develop strong design leadership skills.</li>
+<li style="">Experience working and building Design Systems.</li>
+<li style="">A computer science graduate, relevant degree, or equivalent.</li>
+<li style="">Experience in a rapidly growing company in the food delivery or on-demand service space is a plus.</li>
+</ul>
+<p><br><br></p>
+<div class="h3">BENEFITS</div>
+<ul style="">
+<li style="">🚀 Perfect timing with renowned investors to build something great</li>
+<li style="">🎯Outstanding mentors who will support you in your growth</li>
+<li style="">💸 Attractive salary and you even get a stake in the company</li>
+<li style="">📈 Extremely steep learning curve with own responsibility and intensive support</li>
+<li style="">📣 Learn to be pragmatic and make quick and sustainable decisions</li>
+<li style="">⏱️ Flexible working hours, because we care about your outcome and not output</li>
+</ul>
+<div> </div>
+<p><br><br></p>
+<div class="h3">WHY YOU SHOULD JOIN YASSIR</div>
+<ul style="">
+<li style="">Join one of the fastest-growing tech companies in North Africa.</li>
+<li style="">Make a real impact on the world by helping us bring affordable financial and on-demand services to millions of Africans.</li>
+<li style="">Work on some really hard technical challenges from identity infrastructure for Africans, digital payment networks to complex mapping and routing systems across the continent.</li>
+<li style="">We are the first Algerian startup to go through Y Combinator program and we’re backed by top investors.</li>
+</ul>
+<div> </div>
+<div> </div>
+<div> </div>
+<div>At Yassir, we believe in the power of diversity and the importance of an inclusive culture. So, if you're ready to bring your unique perspective and experiences to the table, then we're excited to listen.</div>
+<div> </div>
+<div>Don't just apply for a job, come and be a part of our journey. Let's create a better tomorrow together.</div>
+<div> </div>
+<div>We look forward to receiving your application!</div>
+<div> </div>
+<div>Best of luck,</div>
+<div>Your Yassir TA Team</div>
+<div> </div>
+<div> </div>
+<img src="https://remotive.com/job/track/1922445/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://lever-client-logos.s3-us-west-2.amazonaws.com/2a61cdfd-29d3-4707-b965-c4527aa67d0c-1593500521772.png" width="38px" height="auto">
                 </td>
                 <td width="300">
