@@ -167,8 +167,7 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 
-    <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
-<h2><strong><span style="color: #a112ff;">Who we are</span></strong></h2>
+    <div class="content-intro"><h2><strong><span style="color: #a112ff;">Who we are</span></strong></h2>
 <p>Our mission at Sourcegraph is to make it so that <a href="https://www.notion.so/sourcegraph/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d?pvs=4">everyone can code</a>, not just ~0.1% of the population. We're building the code intelligence platform that powers the world's best code search and the most popular open-source code AI tool. It’s an exciting time to join Sourcegraph—AI has taken over the world, and we aim to automate 99% of the toil in software engineering with our code understanding and code AI tools, leaving the remaining 1% to the irreplicable creative spark from humans.&nbsp;</p>
 <p>Our customers range from startups to the Fortune 500, 4/5 FAANG companies, government organizations, Uber, Plaid, and more. We’ve raised $225M at a $2.625B valuation from <a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/">a16z</a>,<a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"> Sequoia</a>, <a href="https://www.redpoint.com/companies/sourcegraph/">Redpoint</a>, <a href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d">Craft</a> and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</p></div>
 
@@ -282,11 +281,11 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1428393724527190022/4mt5PACL_400x400.png" width="38px" height="auto">
+                    <img src="https://pbs.twimg.com/profile_images/378800000147745937/0fac42c12b433bbbd53ff3e15cd6fca4_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Sourcegraph</h5>
-                    <h3>Software Engineer - Cody Core [IC2]</h3>
+                    <h5>MixRank</h5>
+                    <h3>Junior Software Engineer - Global/Remote</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -295,102 +294,17 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/sourcegraph91/jobs/5206969004" align="right" target="_blank">Apply</a>
+                <a href="https://www.ycombinator.com/companies/mixrank/jobs/PZNzyWQ-junior-software-engineer-global-remote" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-    <div class="content-intro"><h3>ALL SOURCEGRAPH ROLES ARE FULLY REMOTE</h3>
-<h2><strong><span style="color: #a112ff;">Who we are</span></strong></h2>
-<p>Our mission at Sourcegraph is to make it so that <a href="https://www.notion.so/sourcegraph/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d?pvs=4">everyone can code</a>, not just ~0.1% of the population. We're building the code intelligence platform that powers the world's best code search and the most popular open-source code AI tool. It’s an exciting time to join Sourcegraph—AI has taken over the world, and we aim to automate 99% of the toil in software engineering with our code understanding and code AI tools, leaving the remaining 1% to the irreplicable creative spark from humans.&nbsp;</p>
-<p>Our customers range from startups to the Fortune 500, 4/5 FAANG companies, government organizations, Uber, Plaid, and more. We’ve raised $225M at a $2.625B valuation from <a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/">a16z</a>,<a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"> Sequoia</a>, <a href="https://www.redpoint.com/companies/sourcegraph/">Redpoint</a>, <a href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d">Craft</a> and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</p></div>
-
-    <h2><span style="color: rgb(161, 18, 255);"><strong>Location</strong></span></h2>
-<p>🌎 While we are an all-remote company and hire <a href="https://sourcegraph.notion.site/How-we-engage-talent-outside-of-the-US-218f7193695a46cbb1ef39ef9c1f72d4">almost anywhere</a> in the world, we have a preference for someone to reside in the following locations for this role. However, if you feel qualified, we welcome you to apply regardless of location. No matter what, working hours must overlap with PST for at least 30 hours/week.</p>
-<p><strong>Preferred locations:</strong></p>
-<ul>
-<li>Remote - San Francisco</li>
-</ul>
-<h2><span style="color: rgb(161, 18, 255);"><strong>Why this job is exciting</strong></span></h2>
-<p>Imagine being part of a team where your work will redefine the coding experience for developers around the world. As a Software Engineer on the Cody Core team, you will work on Cody, an AI coding assistant that lives in your editor. You will work at the forefront of integrating advanced AI technologies into everyday coding practices. This role offers a unique opportunity to innovate and push the boundaries of what an AI coding assistant can achieve, all while working with a talented and passionate team. You'll have the chance to see your contributions directly impact developers, enhancing their productivity and transforming how they interact with their code.</p>
-<p>📅 Within one month, you will…</p>
-<ul>
-<li>Familiarize yourself with Cody, understanding the architecture and the problems it solves for our users.</li>
-<li>Start contributing to our current focus areas by working on tasks related to the end-to-end user experience.</li>
-<li>Engage with your team members, learning from their experiences and sharing your insights to contribute to the project's direction.</li>
-</ul>
-<p>📅 Within three months, you will…</p>
-<ul>
-<li>Be contributing actively to the world’s best coding assistant.</li>
-<li>Take ownership of smaller features and implement them, with a focus on improving user engagement and satisfaction.</li>
-<li>Begin to influence the project's future direction by providing insights based on your work and user feedback, collaborating closely with product management and design teams.</li>
-</ul>
-<p>📅 Within six months, you will…</p>
-<ul>
-<li>Be fully ramped up and able to anticipate the needs of Cody users.</li>
-<li>Establish yourself as a key contributor to the team, known for your expertise in both the technical and product aspects of our work.</li>
-<li>Participate in initiatives that push the boundaries of what Cody can do, making coding more accessible and enjoyable for developers everywhere.</li>
-</ul>
-<h2><span style="color: rgb(161, 18, 255);"><strong>About you</strong></span></h2>
-<p>You are a full-stack software engineer with at least 2 years of industry experience. You are comfortable with frontend and backend work as needed, can pick up frameworks quickly, and can deliver high-quality work.&nbsp;</p>
-<p>Beyond your technical proficiency, you are a forward-thinking and adaptive contributor, ready to navigate a complex project. Your vision extends beyond code: you are passionate about the broader impact of your work on making coding accessible and enjoyable for a diverse global community. You actively seek out opportunities to challenge the status quo, drive meaningful change, and foster an inclusive, high-performing team culture. You are an experienced remote/async worker.</p>
-<ul>
-<li>2–5 years experience as a full-stack engineer</li>
-<li>Experience with Typescript or Go is required (both preferred)</li>
-<li>Familiarity with code intelligence tools and AI-assisted development platforms such as Sourcegraph Cody, GitHub Copilot, or similar</li>
-<li>Alignment with our values</li>
-<li>Growth mindset</li>
-</ul>
-<p>Nice to haves:</p>
-<ul>
-<li>Experience writing extensions for one or more of the following: Visual Studio Code, JetBrains IDEs, Visual Studio, or Eclipse</li>
-<li>Familiarity with compilers, language server protocols, code intelligence, or related technologies</li>
-<li>Experience working closely with Product and Design teams</li>
-<li>Previous role in a startup environment, comfortable with rapid iteration and adaptable to shifting priorities</li>
-</ul>
-<h2><span style="color: rgb(161, 18, 255);"><strong>Level</strong></span></h2>
-<p>📊 This job is an IC2. You can read more about <a href="https://www.notion.so/sourcegraph/Leveling-Guide-0e1b5c76ada64b9caac387f8b7c4fc66">our job leveling philosophy</a> in our Handbook.</p>
-<h2><span style="color: rgb(161, 18, 255);"><strong>Compensation</strong></span></h2>
-<p><strong>💸 We pay you an above-average salary</strong> because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. As an <a href="https://sourcegraph.notion.site/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d">open and transparent</a> company that values <a href="https://www.notion.so/sourcegraph/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=4">competitive compensation</a>, our compensation ranges are visible to every single Sourcegraph teammate.</p>
-<p>To determine your salary, we use a number of market and data-driven salary sources, along with your location zone, and target the high-end of the range to ensure we’re always paying above market regardless of where you live in the world. Both U.S. and international locations are divided into one of four zones, determined by the cost of labor index for each area. The starting salary for a successful candidate will be based on level, job-related skills, experience, qualifications, and location zone. Please note that these salary ranges may be adjusted in the future.</p>
-<p>💰The target compensation for this role is $145,000 USD base.</p>
-<p>Please speak with a recruiter for additional information regarding zone locations.📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous <a href="https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba">perks &amp; benefits</a>.</p>
-<h2><span style="color: rgb(161, 18, 255);"><strong>Interview process</strong></span></h2>
-<p><em>Below is the interview process you can expect for this role (you can read more about </em><a href="https://sourcegraph.notion.site/Types-of-interviews-f279f080583d49ee9f2c60e30c8cb1f7"><em>the types of interviews</em></a><em> in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&nbsp;</em></p>
-<p>We expect the interview process to take 5.5 hours in total.</p>
-<p><strong>👋 Introduction Stage</strong> - we have initial conversations to get to know you better…</p>
-<ul>
-<li>[30m] <a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#99be5ff628b2414194a0ba79d9f25f13">Recruiter Screen</a></li>
-<li>[15m] Hiring Manager Intro - Erika</li>
-</ul>
-<p><strong>🧑‍💻 Team Interview Stage</strong> - we then delve into your experience in more depth and introduce you to members of the team, including cross-functional partners…</p>
-<ul>
-<li>[60m] Pairing Exercise</li>
-<li>[45m] Code Walkthrough</li>
-<li>[60m] Resume Deep Dive</li>
-<li>[60m] Cross-functional Team Collaboration Interview</li>
-</ul>
-<p><strong>🎉 Final Interview Stage </strong>- we move you to our final round, where you gain a better understanding of our business and values holistically…</p>
-<ul>
-<li>[30m] <a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#e3a04291743048df87541a88aa8199dd">Values</a></li>
-<li>[30m] <a href="https://www.notion.so/sourcegraph/How-to-work-with-Quinn-Slack-CEO-807673e0864d473f959cc4efd9642a5a?pvs=4#6f185c0e2011411eac5be9c675f9056c">Leadership</a> with co-founder&nbsp;</li>
-<li>We check references and conduct your background check</li>
-</ul>
-<p>Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.</p>
-
-    
-
-    <div class="content-conclusion"><h2><strong><span style="color: #a112ff;">Not sure if this is you?</span></strong></h2>
-<p><span style="font-weight: 400;">We want a diverse, global team, with a broad range of experience and perspectives. If this job sounds great, but you’re not sure if you qualify, apply anyway! We carefully consider every application, and will either move forward with you, find another team that might be a better fit, keep in touch for future opportunities, or thank you for your time.</span></p>
-<h2><strong><span style="color: #a112ff;">Learn more about us</span></strong></h2>
-<p><span style="font-weight: 400;">To create a product that serves the needs of all developers, we are building a diverse </span><a href="https://sourcegraph.notion.site/All-remote-guidelines-4d1270d806294bf4ae6db7ab02911957"><span style="font-weight: 400;">all-remote team</span></a><span style="font-weight: 400;"> that is </span><a href="https://www.notion.so/sourcegraph/7ed54d4ec4624475a4b45619901236d7?v=e06d936c673f46ca8c313a557bd4410f"><span style="font-weight: 400;">distributed across the world</span></a><span style="font-weight: 400;">. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.&nbsp;</span></p>
-<p><span style="font-weight: 400;">We provide </span><a href="https://sourcegraph.notion.site/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74"><span style="font-weight: 400;">competitive compensation</span></a><span style="font-weight: 400;"> and </span><a href="https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba?pvs=74"><span style="font-weight: 400;">practical benefits</span></a><span style="font-weight: 400;"> to keep you happy and healthy so that you can do your best work.&nbsp;</span><span style="font-weight: 400;">&nbsp;</span></p>
-<p><span style="font-weight: 400;">Learn more about what it is like to work at Sourcegraph by reading </span><a href="https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0"><span style="font-weight: 400;">our handbook</span></a><span style="font-weight: 400;">.</span></p>
-<p><span style="font-weight: 400;">We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process.</span></p>
-<p><span style="font-weight: 400;">Go back to the </span><a href="https://about.sourcegraph.com/jobs/"><span style="font-weight: 400;">careers page</span></a><span style="font-weight: 400;"> for all open positions.</span></p>
-<p><em><span style="font-weight: 400;">Sourcegraph participates in <a href="https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107" target="_blank">E-Verify</a> for U.S. Employees</span></em></p></div>
+                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
+<p>We're looking for remote engineers that have finished school within the last 2 years or will finish in the next 6 months. This is an open-ended entry-level role with mentorship, and diverse opportunities to work on all areas of our product: databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
+<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
+<p>Why Join MixRank? Fully-remote, no HQ office. Team of 32 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
+<p>Please include your updated resume when applying for this role.</p>
 
                 </details>
                 </td>
@@ -2057,7 +1971,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1520019984780513281/qnVtutKu_400x400.jpg" width="38px" height="auto">
+                    <img src="https://scontent.fcmb1-2.fna.fbcdn.net/v/t39.30808-6/305200907_178698394725342_6069109098993528414_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=JISKnYqDfZ8Q7kNvgGCSB8S&_nc_ht=scontent.fcmb1-2.fna&oh=00_AYDo4rvyZ2vw-xwftMvz-iA4X1gzbK_vJwm-rsGqxHxkCg&oe=66945271" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Pluto Card</h5>
