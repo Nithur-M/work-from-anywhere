@@ -10,7 +10,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -52,6 +52,55 @@ qualifications, skills test performance, geographic location, and
 seniority of the position offered. Outside of California, New York, 
 Washington, and Colorado compensation may fall outside the above ranges.</p>
 <img src="https://remotive.com/job/track/1680495/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/8986001?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Timescale</h5>
+                    <h3>Developer Advocate - AI</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://www.timescale.com/careers/7537726002?gh_jid=7537726002" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;p&gt;Timescale is looking for a Developer Advocate to represent our products in technical communities around the world. A Developer Advocate is a developer’s best friend. We are engineers with experience building the kinds of systems we advocate for. We are leaders and earnest participants in the developer community. We care deeply about inclusion and providing a positive experience for all developers everywhere we go.&lt;/p&gt;
+&lt;p&gt;This role will focus on Timescale pgvector, a powerful extension for PostgreSQL that allows for efficient similarity search using vector data. In this role, you’ll build amazing online content (articles, videos, blog posts) for Timescale and third-party developer sites and publications. You will create content and provide guidance on how to leverage pgvector for advanced data processing and analysis.&lt;/p&gt;
+&lt;p&gt;Oh, and Timescale is a developer-first company. There will never be confusion in this role about whether or not we’re a developer company. We are, and we embrace it. You’ll also work in an organization where even the marketing people write code. We love developers, and you’ll fit right in if you love developers, too.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Create content, videos, and samples from beginner to best practices demonstrating how to develop and work with Timescale, Postgres, and time-series data.&lt;/li&gt;
+&lt;li&gt;Create benchmarking content that zooms out to focus on the big picture, comparing more than just raw performance.&lt;/li&gt;
+&lt;li&gt;Identify external advocates and community leaders and support them as they discuss Timescale and time-series data independently of us.&lt;/li&gt;
+&lt;li&gt;Collect and summarize customer feedback and relay it effectively to the product team.&lt;/li&gt;
+&lt;li&gt;Use data, experiments, and customer feedback to drive Timescale adoption.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience with AI and machine learning technologies, ideally in the context of PostgreSQL and time-series data.&lt;/li&gt;
+&lt;li&gt;Demonstrated ability to create and present content related to AI and its applications in data management and analysis.&lt;/li&gt;
+&lt;li&gt;Understanding of AI and machine learning trends and the ability to translate them into valuable content and advocacy efforts.&lt;/li&gt;
+&lt;li&gt;A self-starter who can manage and prioritize initiatives that will make developers successful.&lt;/li&gt;
+&lt;li&gt;Experience with PostgreSQL is strongly preferred; it’s the backbone of our product, and we need you to be able to dive deep.&lt;/li&gt;
+&lt;li&gt;Industry experience with the type of data you’d use Timescale with. This could be anything but be prepared to cover it in your interview.&lt;/li&gt;
+&lt;li&gt;Previous experience working with developers is highly desirable, but that could be as an advocate, an evangelist, a developer, or a solutions architect.&lt;/li&gt;
+&lt;li&gt;Proven experience working with 3rd party communities, social media, and blogging is a plus.&lt;/li&gt;
+&lt;li&gt;A deep understanding and appreciation for the constant and rapid shift in how and where people consume content and share their experiences.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;A belief that organizations and industries are best when they are diverse and inclusive, and a commitment to ensuring that everything we do reflects that belief.&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Works well independently and remotely.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Preference for US-based candidates. European candidates will also be considered.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;By applying for this position, you are agreeing to &lt;a href=&quot;https://www.timescale.com/legal/timescale-applicant-privacy-notice&quot;&gt;Timescale&#39;s Applicant Privacy Notice.&amp;nbsp;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr>,<tr>
@@ -406,7 +455,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1545121577632763912/7FMnABb0_400x400.jpg" width="38px" height="auto">
+                    <img src="https://media.licdn.com/dms/image/D4E0BAQFdRsd49YG4fQ/company-logo_200_200/0/1688735422027/collabora_logo?e=2147483647&v=beta&t=COQKgdesE_abHpZN-7BjhNZ1IKm2nhQyHB637TbP88E" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Collabora</h5>
@@ -430,7 +479,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1545121577632763912/7FMnABb0_400x400.jpg" width="38px" height="auto">
+                    <img src="https://media.licdn.com/dms/image/D4E0BAQFdRsd49YG4fQ/company-logo_200_200/0/1688735422027/collabora_logo?e=2147483647&v=beta&t=COQKgdesE_abHpZN-7BjhNZ1IKm2nhQyHB637TbP88E" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Collabora</h5>
@@ -454,7 +503,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1545121577632763912/7FMnABb0_400x400.jpg" width="38px" height="auto">
+                    <img src="https://media.licdn.com/dms/image/D4E0BAQFdRsd49YG4fQ/company-logo_200_200/0/1688735422027/collabora_logo?e=2147483647&v=beta&t=COQKgdesE_abHpZN-7BjhNZ1IKm2nhQyHB637TbP88E" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Collabora</h5>
@@ -478,7 +527,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1545121577632763912/7FMnABb0_400x400.jpg" width="38px" height="auto">
+                    <img src="https://media.licdn.com/dms/image/D4E0BAQFdRsd49YG4fQ/company-logo_200_200/0/1688735422027/collabora_logo?e=2147483647&v=beta&t=COQKgdesE_abHpZN-7BjhNZ1IKm2nhQyHB637TbP88E" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Collabora</h5>
@@ -502,7 +551,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1545121577632763912/7FMnABb0_400x400.jpg" width="38px" height="auto">
+                    <img src="https://media.licdn.com/dms/image/D4E0BAQFdRsd49YG4fQ/company-logo_200_200/0/1688735422027/collabora_logo?e=2147483647&v=beta&t=COQKgdesE_abHpZN-7BjhNZ1IKm2nhQyHB637TbP88E" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Collabora</h5>
@@ -522,6 +571,54 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div>Collabora is looking for a passionate and enthusiastic open-source software developer, with good knowledge of at least one of OpenGL or Vulkan, to join our ever growing geographically-distributed Graphics domain team.</div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li>Good knowledge of at least one of the OpenGL or Vulkan APIs</li><li>Experience developing on Linux systems</li><li>Knowledge of open source development methodologies and relevant open source communities</li><li>Good English language skills (both verbal and written)&nbsp;</li><li>Ability to work and communicate in an online fully distributed environment </li></ul></ul></div></div><div class="section page-centered"><div><h3>Desirable Skills (The below are skills that to some degree will be useful at the start of your career within Collabora. Training and opportunities for development will be offered)</h3><ul class="posting-requirements plain-list"><ul><li>Experience profiling and optimizing application's use of the GPU</li><li>Experience with developing GPU compilers</li><li>Direct contributions to the Mesa 3D Graphics Library</li><li>Experience leading teams to understand and define constraints, requirements and solutions</li><li>Good communication with customers and upstream communities</li><li>Self-learning skills to get sufficient knowledge of Collabora's services,&nbsp;business model, project delivery life cycle and other related technical domains</li><div><br></div></ul></ul></div></div><div class="section page-centered" data-qa="closing-description"><div>Collabora's Graphics team contributes to the entire Linux Graphics stack, from the Linux kernel up to the display servers, including but not  limited to GPU and display kernel drivers, Wayland/Weston, OpenGL, Vulkan and other open-source graphics drivers within the Mesa 3D Graphics Library for different customers’ projects in various market verticals.</div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/bd4a9eb8-528f-4553-a832-ca6949ab46bd/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Senior Go Developer for network security (worldwide remote, work anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/DA077D8CC9" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p></p><p>We are looking for talented <strong>Senior Golang Developer</strong> to join our CloudLinuxOS team.&nbsp;</p><p>We are CloudLinux Inc., the maker of the #1 OS for web-hosting providers. We develop our products -- CloudLinux OS, KernelCare, and Imunify360 -- using the most innovative technologies. Our products are used by thousands of companies around the world, including Dell, GoDaddy, IBM, 1&amp;1, Endurance and many others.</p><p>CloudLinux OS, our flagship product, runs on more than 50,000 production servers today, powering over 45 million websites, and is recognized as the best OS for security and efficiency in a shared hosting environment. CloudLinux OS increases server density and enhances security, thus reducing operating costs, decreasing churn rates, and increasing profitability. Check out our website for more information about our CLOS Product <a href="https://www.cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">https://www.cloudlinux.com</a>.&nbsp;</p><p>You will work on the interesting project Apache2Nginx which sets up NGINX on the server and automatically converts .htaccess files into corresponding NGINX configuration.</p><p>Work is fully remote, with flexible hours, where you can plan your day and work from anywhere.&nbsp;</p><p>More details about the project you can find on product website <a href="https://cloudlinux.com" rel="nofollow noreferrer noopener" class="external">https://cloudlinux.com</a> and <a href="https://docs.cloudlinux.com/shared/apache2nginx/" rel="nofollow noreferrer noopener" class="external">our documentation</a>, about the company on<a href="https://www.cloudlinux.com/" rel="nofollow noreferrer noopener" class="external"> Cloudlinux.com</a>.</p><h3>Requirements: </h3><p></p><ul> <li>5+ years experience in software development</li> <li>5+ years of experience with Linux</li> <li>Knowledge, understanding, and ability to select and analyze the performance of classical algorithms and data structures</li> <li>Ability to write and maintain code in accordance with the Go style guide</li> <li>Experience in multithreaded programming and development of asynchronous applications</li> <li>Good understanding of the network stack and TCP / IP, HTTP in particular</li> <li>Knowledge of Go-testing and debugging tools</li> <li>Monitor deployments, application performance</li> <li>Identify and troubleshoot emerging issues; optimize the application for performance and scalability</li> <li>Ability to patch any upstream solution written on Go</li> <li>Good knowledge and understanding of Nginx/Apache architecture for the development of additional component changing the main behavior</li> <li>Knowledge of Git</li> <li>Good Linux / Unix proficiency: experience with RHEL/CentOS/Almalinux</li> <li>Experience with Shell scripting</li> <li>Teamwork skills</li> <li>Ability to read and understand someone else's code</li> <li>Good English level, ability to read technical documentation&nbsp;</li> </ul><p></p><p><strong>Would be a plus:&nbsp;</strong></p><ul><ul> <li>Experience with WAF, particulary ModSecurity</li> <li>Experience in system programming</li> <li>Knowledge of Python, C/C++ or any other programming language</li> <li>Experience in open-source projects</li> <li>Knowledge of Internet security basics</li> <li>Knowledge and ability to select suitable data serialization algorithms</li> <li>Familiarity with embedded databases (storage engines) BoltDB, LevelDB and / or others</li> <li>Integration with C code and libraries</li> </ul></ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Middle/Senior Python Developer for Imunify CloudAV</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/4A41E04A84" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p></p><p>Imunify Security is a cutting-edge security solution that harnesses the power of Artificial Intelligence to protect Linux web servers. It is specifically tailored for shared and VPS/Dedicated servers, ensuring top-notch security. With its user-friendly interface and advanced six-layer security approach, Imunify delivers a comprehensive and foolproof defense against any type of attack.</p><p>Work is fully remote, with flexible hours, allowing you to plan your day and work from anywhere across the world.</p><p>For more details about the project, please visit the product website at <a href="https://imunify360.com/" rel="nofollow noreferrer noopener" class="external">Imunify360.com</a>.</p><p><strong>Join our team as a Python developer engineer and take on exciting challenges:&nbsp;</strong></p><ul> <li>Participate in architecture discussions and contribute to writing technical documents&nbsp;</li> <li>Investigate and address infrastructure issues</li> <li>Contribute to the creation of effective malware detection and remediation mechanisms&nbsp;</li> <li>Create high-performance and scalable code for processing big data&nbsp;</li> <li>Collaborate in analytics brainstorms and shape the team's backlog with your own vision&nbsp;</li> </ul><h3>Requirements: </h3><p></p><p><strong>To thrive in this role, we are looking for someone who:</strong></p><ul><li>Has 3+ years of Python programming experience</li></ul><ul> <li>Can write efficient code and understands concurrency (asyncio) and multiprocessing well.</li> <li>Proficient in GNU/Linux operating system and shell scripting</li> <li>Experienced with git-based development processes</li> <li>Is familiar with automated testing and CI/CD systems</li> <li>Demonstrates at least intermediate proficiency in English</li> </ul><p><strong>It would be great if you also have:</strong></p><ul> <li>Familiarity with Kubernetes</li> <li>Experience as a DevOps or SysAdmin</li> <li>Experience with Airflow</li> <li>Experience with ClickHouse, MongoDB, and PostgreSQL</li> <li>Experience with S3, Ceph, SeaweedFS (great plus)</li> <li>Knowledge of NGINX</li> </ul><p><strong>In addition, it is essential that you:</strong></p><ul> <li>Are quick to learn and proactive.</li> <li>Are highly self-motivated and determined to accomplish set goals.</li> <li>Can independently analyze tasks and identify optimal solutions.</li> <li>Are skilled at collaboration and working effectively in teams.</li> </ul><p></p><p>At CloudLinux, we are not just a company, but a close-knit community that values our employees above all. With our remote-first approach, each team member is empowered to excel in their roles, knowing that they have the support they need. Our high-performance, cost-effective Linux infrastructure and security products enable companies to streamline their operations and boost efficiency.</p><p>At CloudLinux, we believe that teamwork and collaboration are the keys to success. We foster an environment where everyone can thrive and contribute to each other's success. Here, you'll find a truly outstanding workplace.</p><p>For more information about our company, please visit <a href="http://cloudlinux.com" rel="nofollow noreferrer noopener" class="external">CloudLinux.com</a>.&nbsp;</p><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible hours, allowing you to schedule your day and work from any location worldwide.</li> <li>Paid one month of vacation per year and unlimited sick leave.</li> <li>Medical insurance reimbursement.</li> <li>Co-working and gym/sports reimbursement.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p></p><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
                 </details>
                 </td>
             </tr>,<tr>
@@ -574,31 +671,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Kernel Developer for KernelCare (worldwide remote, work anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/CA2FFA7C98" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We are seeking <strong>experienced Kernel Developers</strong> to join our talented team at KernelCare. If you are passionate about Linux and enjoy the challenge of developing Linux Kernels and patches, then this is the perfect opportunity for you. As a Kernel Developer, you will utilize your strong C development skills and passion for Linux to create patches with a strong focus on cyber security. This role offers a rewarding and stimulating career where you can find solutions for our valued customers.</p><p>At KernelCare, our product provides live kernel patching services that deliver security patches and bug fixes for a variety of popular Linux kernels, all without the need for system reboots. We are proud to be a part of CloudLinux Inc., the provider of the #1 OS in security and stability for hosting providers. For more information about our KernelCare Product, please visit our website: <a href="https://tuxcare.com/live-patching-services/" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com/live-patching-services/</a></p><p></p><p>We take pride in being an excellent workplace, which is why KernelCare offers a great work environment. As a Kernel Developer, you will have several key responsibilities:</p><ul> <li>Provide support for existing functionality and implement new features.</li> <li>Ensure the timely update of existing kernels with security fixes and CVEs patches.</li> <li>Create and maintain Python and Bash scripts for task automation.</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role you should have:</strong></p><ul> <li>Strong proficiency in C programming and exceptional debugging skills.</li> <li>Thorough understanding of Linux kernel core subsystems.</li> <li>Extensive experience with GDB and other debuggers.</li> <li>Highly independent and self-motivated problem solver and strategic thinker.</li> <li>Proficient in Git for development, patch management, and branch management.</li> <li>Strong planning, time management, decision-making, presentation, and organizational abilities.</li> <li>Exceptional written and verbal communication skills.</li> <li>Excellent interpersonal abilities and a strong team player.</li> <li>Thrives in an agile, fast-paced environment.</li> </ul><p></p><p><strong>Nice to have</strong></p><ul> <li>Expertise in CPU performance and power analysis.</li> <li>In-depth knowledge of CPU and cache architectures.</li> <li>Basic understanding of x86-64 Assembly (AT&amp;T asm).</li> <li>Basic understanding of x86-64 ABI.&nbsp;</li> <li>Experience with Python and shell scripting.</li> <li>Prior exposure to Jenkins would be advantageous.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong><br></p><ul> <li>A focus on professional development:</li> <ul> <li>training reimbursements;</li> <li>mentor programs;</li> <li>knowledge-exchange programs;</li> <li>interesting and challenging projects.</li> </ul> <li> Flexible working hours.</li> <li>Paid one month of vacation per year and unlimited sick leave.</li> <li>Medical insurance reimbursement.</li> <li>Co-working and gym/sports reimbursement.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p></p><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://scontent.fcmb4-2.fna.fbcdn.net/v/t39.30808-6/273499217_5218973671480777_3308731762242867065_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=YDi_Wd17RD8AX9wXcyR&_nc_zt=23&_nc_ht=scontent.fcmb4-2.fna&oh=00_AfB4sOOYpj6VyDSuvvuqhVnZbH22m89SqG99HwaOa-uslw&oe=65BE4336" width="38px" height="auto">
+                    <img src="https://scontent.fcmb1-2.fna.fbcdn.net/v/t39.30808-1/273499217_5218973671480777_3308731762242867065_n.jpg?stp=dst-jpg_p480x480&_nc_cat=110&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=PHzTy2MCH5YQ7kNvgGj7R4J&_nc_ht=scontent.fcmb1-2.fna&oh=00_AYBz8qb8YndiwcD5MM1DDO0NlDVnRb52R9lVj0lEEsY1qw&oe=669468B8" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Wishpond</h5>
@@ -674,6 +747,30 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
                 <td width="300">
                     <h5>Blue Coding</h5>
+                    <h3>Mid-level Full-stack Developer (IP)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/bluecoding/c2f90a1e-8fba-409b-a731-8f9d1894bcc0" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 9 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 18px">What are we looking for?</b></div><div><br></div><div><span style="font-size: 16px">In this opportunity, we are looking for a Mid-level Full-stack Developer to work with one of our foreign clients, a leading supply management and e-sourcing solutions provider dedicated to revolutionizing procurement processes. They empower businesses to enhance supplier relationships, achieve substantial cost savings, and drive sustainable value across their supply chains. Their services include e-sourcing tools for online auctions and RFx events, robust supplier and qualification processes, automated contract lifecycle management, and detailed spend analysis. They provide actionable insights and ensure data consistency for strategic decision-making by integrating advanced analytics and seamless ERP integration.</span></div><div><br></div><div><span style="font-size: 16px">If you are independent, a great communicator, a problem solver, and have strong attention to detail, this is a great fit for you! Our jobs are fully remote – as long as you have the skills and can get the work done well, you can work anywhere in the listed countries you want.</span></div><div><br></div><div><span style="font-size: 16px">If you have the skills and can get the job done, join us and work from anywhere you want!</span></div><h3>You will shine if you have:</h3><li>Proficiency in C# and ASP.NET</li><li>Experience with Javascript</li><li>Strong knowledge of SQL Server</li><li>Excellent communication and interpersonal skills</li><li>Fluency in English</li><div><br></div><div><br></div><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/3c1d9ac7-6738-46c5-b6ca-a35fa2a0df57-1666278594128.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Blue Coding</h5>
                     <h3>Senior Full-Stack TypeScript Developer (E)</h3>
                 </td>
                 <td width="300">
@@ -689,12 +786,12 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 9 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 18px">What are we looking for?</b></div><div><br></div><div>In this opportunity, we are looking for a Senior Full-Stack TypeScript Developer to work with one of our foreign clients, who works in Ad Tech with an in-house advertising and marketing agency pushing the limits of advertising performance. The company uses its unique combination of marketing strategies and proprietary technologies to target users using mobile and internet-connected device-matching technology. You'll work on managing and developing the client's APIs and front-end applications using Keystone, Prisma, React, and NextJS. The ideal candidate has experience with multiple data providers and understands the complexities of working within a cloud-based, micro-services architecture.</div><div><br></div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>Develop and manage data schemas, authentication, and runtime processing of requests to our GraphQL APIs using Keystone.</li><li>Handle multiple Keystone and Prisma instances within the same project.</li><li>Build and maintain user interfaces with React.</li><li>Implement and manage micro-services using NextJS.</li><li>Work with various data providers including Azure SQL, Azure Serverless Synapse, Azure Blob Storage, and Azure Flexible PostgreSQL.</li><li>Write scalable and maintainable code in TypeScript.</li><li>Guide less experienced developers and help them improve their skills.</li>,<h3>You will shine if you have:</h3><li>Proficiency in TypeScript.</li><li>Experience with Prisma and GraphQL</li><li>Strong knowledge of React and NextJS.</li><li>Familiarity with Azure data services (SQL, Serverless Synapse, Blob Storage, Flexible PostgreSQL).</li><li>Understanding of micro-services architecture and cloud-based services.</li><li>Ability to manage multiple Keystone and Prisma instances within a single project.</li><li>Awareness of clustering and horizontal scaling impacts development, particularly within an AKS cluster.</li>,<h3>It doesn't hurt if you also have:</h3><li>Experience with Azure Kubernetes Services (AKS).</li><li>Familiarity with third-party data providers.</li><li>Experience with Keystone</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
+                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 9 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 18px">What are we looking for?</b></div><div><br></div><div>In this opportunity, we are looking for a Senior Full-Stack TypeScript Developer to work with one of our foreign clients, who works in Ad Tech with an in-house advertising and marketing agency pushing the limits of advertising performance. The company uses its unique combination of marketing strategies and proprietary technologies to target users using mobile and internet-connected device-matching technology. You'll work on managing and developing the client's APIs and front-end applications using Keystone, Prisma, React, and NextJS. The ideal candidate has experience with multiple data providers and understands the complexities of working within a cloud-based, micro-services architecture.</div><div><br></div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>Develop and manage data schemas, authentication, and runtime processing of requests to our GraphQL APIs using Keystone.</li><li>Handle multiple Keystone and Prisma instances within the same project.</li><li>Build and maintain user interfaces with React.</li><li>Implement and manage micro-services using NextJS.</li><li>Work with various data providers including Azure SQL, Azure Serverless Synapse, Azure Blob Storage, and Azure Flexible PostgreSQL.</li><li>Write scalable and maintainable code in TypeScript.</li><li>Guide less experienced developers and help them improve their skills.</li>,<h3>You will shine if you have:</h3><li>Proficiency in TypeScript.</li><li>Experience with Prisma and GraphQL</li><li>Strong knowledge of React and NextJS.</li><li>Familiarity with Azure data services (SQL, Serverless Synapse, Blob Storage, Flexible PostgreSQL).</li><li>Understanding of micro-services architecture and cloud-based services.</li><li>Ability to manage multiple Keystone and Prisma instances within a single project.</li><li>Awareness of clustering and horizontal scaling impacts development, particularly within an AKS cluster.</li>,<h3>It doesn't hurt if you also have:</h3><li>Experience with Azure Kubernetes Services (AKS).</li><li>Familiarity with third-party data providers.</li><li>Experience with Keystone</li><li>Ability to work independently and in a team</li><li>Excellent communication and interpersonal skills</li><li>Fluency in English</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://lever-client-logos.s3-us-west-2.amazonaws.com/3f4a1490-d8b2-4b84-8e68-ca668c886eae-1582815376935.png" width="38px" height="auto">
+                    <img src="https://media.licdn.com/dms/image/C4E0BAQEaJsLubyO-AA/company-logo_200_200/0/1630591240152/webfxinc_logo?e=2147483647&v=beta&t=mkc8r0aeeGBHIC7BLKk7r18oCDh3xnykU31_6dhVPdQ" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>WebFX</h5>
@@ -718,7 +815,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://lever-client-logos.s3-us-west-2.amazonaws.com/3f4a1490-d8b2-4b84-8e68-ca668c886eae-1582815376935.png" width="38px" height="auto">
+                    <img src="https://media.licdn.com/dms/image/C4E0BAQEaJsLubyO-AA/company-logo_200_200/0/1630591240152/webfxinc_logo?e=2147483647&v=beta&t=mkc8r0aeeGBHIC7BLKk7r18oCDh3xnykU31_6dhVPdQ" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>WebFX</h5>
@@ -742,7 +839,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://lever-client-logos.s3-us-west-2.amazonaws.com/3f4a1490-d8b2-4b84-8e68-ca668c886eae-1582815376935.png" width="38px" height="auto">
+                    <img src="https://media.licdn.com/dms/image/C4E0BAQEaJsLubyO-AA/company-logo_200_200/0/1630591240152/webfxinc_logo?e=2147483647&v=beta&t=mkc8r0aeeGBHIC7BLKk7r18oCDh3xnykU31_6dhVPdQ" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>WebFX</h5>
@@ -766,7 +863,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://lever-client-logos.s3-us-west-2.amazonaws.com/3f4a1490-d8b2-4b84-8e68-ca668c886eae-1582815376935.png" width="38px" height="auto">
+                    <img src="https://media.licdn.com/dms/image/C4E0BAQEaJsLubyO-AA/company-logo_200_200/0/1630591240152/webfxinc_logo?e=2147483647&v=beta&t=mkc8r0aeeGBHIC7BLKk7r18oCDh3xnykU31_6dhVPdQ" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>WebFX</h5>
@@ -790,7 +887,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://lever-client-logos.s3-us-west-2.amazonaws.com/3f4a1490-d8b2-4b84-8e68-ca668c886eae-1582815376935.png" width="38px" height="auto">
+                    <img src="https://media.licdn.com/dms/image/C4E0BAQEaJsLubyO-AA/company-logo_200_200/0/1630591240152/webfxinc_logo?e=2147483647&v=beta&t=mkc8r0aeeGBHIC7BLKk7r18oCDh3xnykU31_6dhVPdQ" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>WebFX</h5>
@@ -814,7 +911,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://lever-client-logos.s3-us-west-2.amazonaws.com/3f4a1490-d8b2-4b84-8e68-ca668c886eae-1582815376935.png" width="38px" height="auto">
+                    <img src="https://media.licdn.com/dms/image/C4E0BAQEaJsLubyO-AA/company-logo_200_200/0/1630591240152/webfxinc_logo?e=2147483647&v=beta&t=mkc8r0aeeGBHIC7BLKk7r18oCDh3xnykU31_6dhVPdQ" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>WebFX</h5>
@@ -838,7 +935,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://lever-client-logos.s3-us-west-2.amazonaws.com/3f4a1490-d8b2-4b84-8e68-ca668c886eae-1582815376935.png" width="38px" height="auto">
+                    <img src="https://media.licdn.com/dms/image/C4E0BAQEaJsLubyO-AA/company-logo_200_200/0/1630591240152/webfxinc_logo?e=2147483647&v=beta&t=mkc8r0aeeGBHIC7BLKk7r18oCDh3xnykU31_6dhVPdQ" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>WebFX</h5>
@@ -862,7 +959,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://lever-client-logos.s3-us-west-2.amazonaws.com/3f4a1490-d8b2-4b84-8e68-ca668c886eae-1582815376935.png" width="38px" height="auto">
+                    <img src="https://media.licdn.com/dms/image/C4E0BAQEaJsLubyO-AA/company-logo_200_200/0/1630591240152/webfxinc_logo?e=2147483647&v=beta&t=mkc8r0aeeGBHIC7BLKk7r18oCDh3xnykU31_6dhVPdQ" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>WebFX</h5>
@@ -886,7 +983,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://lever-client-logos.s3-us-west-2.amazonaws.com/3f4a1490-d8b2-4b84-8e68-ca668c886eae-1582815376935.png" width="38px" height="auto">
+                    <img src="https://media.licdn.com/dms/image/C4E0BAQEaJsLubyO-AA/company-logo_200_200/0/1630591240152/webfxinc_logo?e=2147483647&v=beta&t=mkc8r0aeeGBHIC7BLKk7r18oCDh3xnykU31_6dhVPdQ" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>WebFX</h5>
@@ -910,7 +1007,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://lever-client-logos.s3-us-west-2.amazonaws.com/3f4a1490-d8b2-4b84-8e68-ca668c886eae-1582815376935.png" width="38px" height="auto">
+                    <img src="https://media.licdn.com/dms/image/C4E0BAQEaJsLubyO-AA/company-logo_200_200/0/1630591240152/webfxinc_logo?e=2147483647&v=beta&t=mkc8r0aeeGBHIC7BLKk7r18oCDh3xnykU31_6dhVPdQ" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>WebFX</h5>
@@ -934,7 +1031,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://lever-client-logos.s3-us-west-2.amazonaws.com/3f4a1490-d8b2-4b84-8e68-ca668c886eae-1582815376935.png" width="38px" height="auto">
+                    <img src="https://media.licdn.com/dms/image/C4E0BAQEaJsLubyO-AA/company-logo_200_200/0/1630591240152/webfxinc_logo?e=2147483647&v=beta&t=mkc8r0aeeGBHIC7BLKk7r18oCDh3xnykU31_6dhVPdQ" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>WebFX</h5>
