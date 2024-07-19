@@ -67,6 +67,42 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/8986001?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Timescale</h5>
+                    <h3>Senior Software Engineer - Backend - AI Projects</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://www.timescale.com/careers/7554764002?gh_jid=7554764002" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;p&gt;We are a data platform company that is aiming to develop new SaaS tools to help AI developers develop AI-based applications. Timescale is looking for an experienced Backend Engineer with a track record of building great SaaS and cloud services to help us develop these tools.&lt;/p&gt;
+&lt;p&gt;This is a new product and thus it is an exciting opportunity to play a central role in developing the next great AI developer platform. You will be responsible for playing a core role in designing, developing and implementing backend services to power everything from running the latest open-source models to building state-of-the-art tools for eval and tracing. This is a fast evolving space and you need to be a nimble “jack of all trades” engineer that’s excited to be working on new projects and with new technologies. You will get a lot of hands-on experience at the intersection of AI applications and data.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;While experience building AI applications is not required, it is definitely a big plus if applying to this role. You should, however, have a strong interest in gen-AI and in building developer tools to help AI developers. Product thinking is also very important for this role.&lt;/p&gt;
+&lt;p&gt;Timescale is an all-remote organization open to candidates in American and European timezones to allow for team collaboration. This is a full-time position.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;5+ years of engineering experience&lt;/li&gt;
+&lt;li&gt;Strong programming skills (we mostly use Go but are more concerned with good fundamentals)&lt;/li&gt;
+&lt;li&gt;Experience building gen-AI applications is preferred.&lt;/li&gt;
+&lt;li&gt;Experience designing, understanding, and debugging complex distributed systems&lt;/li&gt;
+&lt;li&gt;Deep knowledge of Linux, container environments, bash, and infrastructure as code (e.g., Terraform, Pulumi.&lt;/li&gt;
+&lt;li&gt;Experience building SaaS developer tools preferred&lt;/li&gt;
+&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;By applying for this position, you are agreeing to &lt;a href=&quot;https://www.timescale.com/legal/timescale-applicant-privacy-notice&quot;&gt;Timescale&#39;s Applicant Privacy Notice.&amp;nbsp;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1346314882648444928/c0g2OpD7_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
