@@ -4,6 +4,30 @@
                 </td>
                 <td width="300">
                     <h5>CloudLinux</h5>
+                    <h3>Senior DevOps Engineer (worldwide remote, work anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/BA7DD5131C" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>We are looking for a Senior DevOps Engineer to join our R&amp;D team of highly skilled professionals. You will design, develop, and integrate solutions using scripting and automation to achieve scalability and efficiency, focusing on SRE and DevOps best practices.</p><p></p><p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first. We are remote first, and we deliver high-volume, low-cost Linux infrastructure and security products that help companies increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure our success.&nbsp;</p><p></p><p>We are truly a great place to work.&nbsp;</p><p></p><h3><strong>Your responsibilities will be:</strong></h3><ul> <li>Take ownership of a complex&nbsp;infrastructure.</li> <li>Improve stability and performance of CI/CD infrastructure.</li> <li>Maintain and modify test environment and configuration as needed, create new test environments and configurations to meet customer-based configuration or problem reproducing requirements.</li> <li>Collaborate with cross-functional teams to understand business requirements.</li> <li>Create and maintain comprehensive documentation for configurations, procedures, and troubleshooting guides.</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role, you should have:</strong></p><ul> <li>Experience and passion for Linux.</li> <li>Good understanding of DevOps and SRE principles and their relation to automation engineering.</li> <li>Good knowledge of Docker, K8S.</li> <li>Hands-on experience with clouds (AWS, Google Cloud etc.).</li> <li>Understanding of CI/CD systems, tools and approaches.</li> <li>Strong scripting and automation skills (e.g., Python, Ansible).</li> <li>Experience in the creation of Jenkins scripted/declarative pipelines.</li> <li>Experience with Jenkins. Gitlab, Gerrit, Terraform, and monitoring solutions like Prometheus - a significant plus.</li> <li>Team player but also able to work independently using your initiative.</li> <li>Excellent problem-solving skills and the ability to work well under pressure.</li> <li>Strong communication and collaboration skills.</li> <li>Happy in an agile, fast-paced environment.</li> <li>Intermediate (and higher) English level.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Remote work with flexible working hours, allows you to schedule your day and work from anywhere worldwide.</li> <li>Paid one month of vacation per year and unlimited sick leave.</li> <li>Medical insurance reimbursement.</li> <li>Co-working and gym/sports reimbursement.</li> <li>The opportunity to be rewarded for the most innovative idea the company can patent.</li> </ul><p></p><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
                     <h3>Senior DevOps Engineer/Ceph and SeaweedFS expert (worldwide remote)</h3>
                 </td>
                 <td width="300">
