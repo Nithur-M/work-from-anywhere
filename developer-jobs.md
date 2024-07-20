@@ -10,7 +10,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -265,6 +265,87 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
+<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
+<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
+<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
+<h2>What your day will look like</h2>
+<p>In a typical day, a developer relations engineer might:</p>
+<ul>
+<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
+<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
+<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
+<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
+<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
+<li>work on technical articles, presentations or workshops&nbsp;</li>
+<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
+<li>present at conferences, meetups or technical events</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<p>A strong candidate</p>
+<ul>
+<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
+<li>has worked with real-world challenges developing and deploying software using Linux</li>
+<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
+<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
+<li>has been a contributor to open-source communities, software and documentation</li>
+<li>is an engaging, vivacious speaker and presenter</li>
+<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
+<li>builds trust, relationships and confidence</li>
+<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
+</ul>
+<h2>Additional skills that you might also bring</h2>
+<ul>
+<li>previous experience in a developer advocacy or community role</li>
+<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
+</ul>
+
+<h2>What we offer you</h2>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote&nbsp;</p>
+
+<p><br><br></p><p>Requisition ID: 1114</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Developer Relations Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
                 <a href="https://canonical.com/careers/3655681" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
@@ -330,87 +411,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote</p>
 <h2><br><br></h2><p>Requisition ID: 799</p><p></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Developer Relations Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
-<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
-<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
-<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
-<h2>What your day will look like</h2>
-<p>In a typical day, a developer relations engineer might:</p>
-<ul>
-<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
-<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
-<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
-<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
-<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
-<li>work on technical articles, presentations or workshops&nbsp;</li>
-<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
-<li>present at conferences, meetups or technical events</li>
-</ul>
-<h2>What we are looking for in you</h2>
-<p>A strong candidate</p>
-<ul>
-<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
-<li>has worked with real-world challenges developing and deploying software using Linux</li>
-<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
-<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
-<li>has been a contributor to open-source communities, software and documentation</li>
-<li>is an engaging, vivacious speaker and presenter</li>
-<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
-<li>builds trust, relationships and confidence</li>
-<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
-</ul>
-<h2>Additional skills that you might also bring</h2>
-<ul>
-<li>previous experience in a developer advocacy or community role</li>
-<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
-</ul>
-
-<h2>What we offer you</h2>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote&nbsp;</p>
-
-<p><br><br></p><p>Requisition ID: 1114</p><p></p>
     
                 </details>
                 </td>
@@ -533,30 +533,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div>We are looking for a passionate and enthusiastic open-source software developer, with contributions to the Mesa 3D Graphics Library, to join our ever growing geographically-distributed Graphics domain team.</div><div>&nbsp;</div><div>The Graphics domain team is contributing to the entire Linux Graphics stack from the Linux kernel up to the Graphics toolkits including but not limited to DRI and kernel-mode graphics drivers, Wayland/Weston, OpenGL, Vulkan, OpenGL/EGL and other open-source Graphics drivers within the Mesa 3D Graphics Library for different customers’ projects in various market verticals.</div></div><div class="section page-centered"><div><h3>Key Responsibilites</h3><ul class="posting-requirements plain-list"><ul><li>Discussing technology with clients and represent Collabora at conferences and trade shows to demonstrate and promote our leadership in the open source arena</li><li>Analysing client problems and designing solutions leveraging open source &nbsp;technologies and Collabora's technical expertise</li><li>Defining and scoping client projects in collaboration with the delivery team</li><li>Contributing publicly to open source projects to ensure Collabora's continuing technical leadership</li><li>Gain working knowledge of customers’ products, applications, technical and business strengths and target markets</li><li>Understanding client needs and reconciling time constraints, available technologies and resources, and open source best practices</li></ul></ul></div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li>Experience with direct contributions to the Mesa 3D Graphics Library: OpenGL, Vulkan, DRI, Gallium drivers...</li><li>Linux experience </li><li>Knowledge of open source development methodologies and relevant open source communities</li><li>Good English language skills (both verbal and written) </li><li>Ability to work and communicate in an online fully distributed environment </li></ul></ul></div></div><div class="section page-centered"><div><h3>Desired Skills</h3><ul class="posting-requirements plain-list"><ul><li>Experience with CI (Jenkins/LAVA, GitLab CI in particular) and testing (Piglit, GL/Vulkan CTS, dEQP) is a plus</li><li>Self learning skill to get sufficient knowledge of Collabora's services,  business model, project delivery life cycle and other related technical  domains</li><li>BS/BA or experience in the role of Engineer</li></ul></ul></div></div><div class="section page-centered" data-qa="closing-description"><div>Collabora is a software consultancy specializing in bringing companies and the Open Source community together. We combine years of Open Source software leadership with an understanding of the challenges that businesses, non-profits, and governments face. Collabora brings deep technical expertise in system integration &amp; architecture, graphics, multimedia, web engines and communications to a number of market verticals, including mobile, IVI / automotive, set top box / smart TV, and a range of other specialized embedded applications.</div><div><br></div><div>Collabora has the unique business model of enabling enterprises to leverage Open Source software in their solutions. Having worked with notable industry leading companies in the automotive, aerospace and handset mobile verticals amongst many others, Collabora has established a broad customer portfolio.</div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/6e42d611-2f86-4c25-9d84-43c39b8f6c3c/apply">Apply for this job</a></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/D4E0BAQFdRsd49YG4fQ/company-logo_200_200/0/1688735422027/collabora_logo?e=2147483647&v=beta&t=COQKgdesE_abHpZN-7BjhNZ1IKm2nhQyHB637TbP88E" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Collabora</h5>
-                    <h3>Multimedia/Kernel Open Source Software Developer (Remote/Anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/collabora/d177d6b6-51d3-458c-8385-5d21a69ab578" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 10pt">Collabora is looking for remote Open Source Software Developer to join its Multimedia domain within the Media/Kernel team.</span></div><div><span style="font-size: 10pt">Are you a passionate and enthusiastic about Multimedia, Linux and Open Source Software?</span></div><div><span style="font-size: 10pt">Are you striving for technical excellence and seeking for opportunities to learn and develop?</span></div><div><span style="font-size: 10pt">Are you looking for a flexible remote work opportunity that stretches your abilities?</span></div><div><br></div><div><span style="font-size: 10pt">This job opportunity might be for you!</span></div></div><div class="section page-centered"><div><h3>What you can expect to work on?</h3><ul class="posting-requirements plain-list"><ul><li>First and foremost, as a consultant you will be helping our customers on a wide variety of projects and products across various market segments. Here are few examples of recent projects we have worked on:</li><div><br></div><li>We designed new V4L2 stateless codec APIs in the Linux kernel and implementation of the userspace part as a GStreamer plug-in</li><li>We developed a build system to tailor/size GStreamer for a specific application (minimizing memory footprint and usage)</li><li>We built an Open Source system to stream audio/video with drones</li><li>For this role, there is also an element of troubleshooting functional and performance problems for different customers’ projects and products and participating in the mainline Linux kernel with code contributions, reviews and discussions</li></ul></ul></div></div><div class="section page-centered"><div><h3>Must Haves</h3><ul class="posting-requirements plain-list"><ul><li>Understanding of software and programming concepts, including C/C++, object-oriented design, applied knowledge of Rust</li><li>Knowledge of multimedia technologies such as frameworks (GStreamer, Video4Linux2, libcamera, VLC etc., Linux Media APIs (including Media Controller, Media Request), containers and codecs from MPEG, Xiph, IETF...</li><li>Experience with low-level hardware enablement</li></ul></ul></div></div><div class="section page-centered"><div><h3>Great to Haves</h3><ul class="posting-requirements plain-list"><ul><li>Knowledge of open source development methodologies and good standing in the open source community is a big plus</li><li>Contributions to relevant open source projects (GStreamer, PipeWire, libcamera, PulseAudio, FFmpeg, VLC...) as well as relevant parts of the Linux kernel</li><li>Applied knowledge of decoding and encoding process of major codecs</li><li>Exposure to Continuous Integration environments (GitLab, <a href="http://kernelci.org" class="postings-link">kernelci.org</a>...) is a plus</li><li>Knowledge of multimedia networking technologies and transmission protocols (RTP, RTSP, WebRTC, MPEG-DASH, HLS…)</li></ul></ul></div></div><div class="section page-centered"><div><h3>Desired Personal Skills</h3><ul class="posting-requirements plain-list"><ul><li>Self-motivated</li><li>Self-learner</li><li>Good interpersonal skills</li><li>Good English proficiency (both verbal and written)</li><li>Ability to work in an online distributed environment</li></ul></ul></div></div><div class="section page-centered" data-qa="closing-description"><div><span style="font-size: 10pt">Our raison d’être is to accelerate the adoption of Open Source technologies, methodologies &amp; philosophy. We strive towards this goal by providing consulting services specialized in bringing companies and the Open Source community together. Being part of the Open Source community, we believe in a world of shared knowledge and collaboration for the advancement of humanity and we are always enthusiastic about sharing, teaching and learning with everyone around us.</span></div><div><br></div><div><span style="font-size: 10pt">Our highly technical and talented team, distributed across 25+ geographies all over the world, brings deep technical expertise in system integration &amp; architecture, Linux kernel, graphics, multimedia, web engines and communications to a number of market verticals, including mobile, IVI / automotive, set top box / smart TV, and a range of other specialized embedded applications (low-latency audio/video, audio/video streaming solutions, audio/video editing...).</span></div><div><br></div><div><br></div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/d177d6b6-51d3-458c-8385-5d21a69ab578/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
