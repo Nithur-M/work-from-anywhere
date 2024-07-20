@@ -234,7 +234,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://lever-client-logos.s3-us-west-2.amazonaws.com/2a61cdfd-29d3-4707-b965-c4527aa67d0c-1593500521772.png" width="38px" height="auto">
+                    <img src="https://pbs.twimg.com/profile_images/1031556251782705153/l7Ht7Yer_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Crytek</h5>
