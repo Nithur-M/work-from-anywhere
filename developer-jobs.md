@@ -10,7 +10,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -589,6 +589,30 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
                 <td width="300">
                     <h5>CloudLinux</h5>
+                    <h3>Senior Python Developer for CLOS (worldwide remote)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/FDD1967713" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>We are looking for talented Python developers to join our dynamic team at CloudLinux OS. You will have the opportunity to work on cutting-edge projects that are pushing the boundaries of enterprise cyber security applications. As a Senior Python developer, you will be given the chance to grow and thrive through engaging leadership programs and challenging assignments. </p><p>CloudLinux OS, our flagship product, is currently deployed on over 25,000 production servers, supporting more than 20 million websites worldwide. Recognized as the industry's top operating system (OS) for security and efficiency in a shared hosting environment, CloudLinux OS drastically enhances server density and tightens security measures. This ultimately leads to reduced operating costs, lower churn rates, and increased profitability for our clients. </p><p>With our remote work arrangement and flexible hours, you have the freedom to plan your day and be productive from anywhere in the world.</p><p></p><p><strong>What you'll do: </strong></p><p>- Get involved in the development of Python-based CloudLinux OS products </p><p>- Write unit tests and functional tests for your code using Python </p><p>- Contribute to code reviews using Gerrit </p><p>- Help shape the architecture and create technical documentation for new features </p><p>- Investigate and address issues reported by clients, partners, or our support team </p><p>- Collaborate with our 3rd level support team to provide guidance and assistance related to our KernelCare products<br></p><h3>Requirements: </h3><p>- A solid background in Python programming with at least 4 years of experience. </p><p>- Proficiency in system programming, including knowledge of sockets, filesystem, and process management. </p><p>- Familiarity with GNU/Linux operating system and shell scripting. </p><p>- Experience working with git-based development processes. </p><p>- Proficiency in PyTest. </p><p>- Knowledge of Ansible and Jenkins. </p><p>- An intermediate level of proficiency in English.</p><p>- Familiarity with RPM/DEB package management, including writing RPM spec and DEB rules. </p><p></p><p><strong>Preferred: </strong></p><p>- Front-end experience using technologies such as Bootstrap, jQuery, and Vue.js. </p><p>- Knowledge of C language. </p><p>- Experience with Python frameworks: Flask and SQLAlchemy. </p><p>- Familiarity with NGINX. </p><p>- Experience with ClickHouse.<br></p><h3>Benefits: </h3><p>What's in it for you?<br>- A great opportunity for professional development within the young and fast-growing company. </p><p>- Interesting and challenging projects </p><p>- Knowledge-Exchange </p><p>- Remote work with long-term employment on a full-time basis under contract </p><p>- High-level compensation based on the performance reviews </p><p>- Flexible working hours </p><p>- Paid one month vacation per year and sick leaves </p><p>- Medical insurance reimbursement </p><p>- English educational programs </p><p>- Ability to study and attend seminars and training according to the request </p><p>- Co-working and gym/sports compensations </p><p>- The opportunity to receive a reward for the most innovative idea that the company can patent.</p><p></p><p><em>By applying for this position, you agree with&nbsp;</em><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em>&nbsp;and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
                     <h3>Senior Java Developer (worldwide remote, work anywhere)</h3>
                 </td>
                 <td width="300">
@@ -677,30 +701,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>We are looking for <strong>Senior Kernel Developer</strong> to work on our KernelCare team. The ideal candidate is someone looking for a rewarding and challenging career developing Linux Kernels and patches. This role requires someone with strong C development skills and a passion for all that is Linux. Our Kernel Developers create patches with a cyber security focus while finding solutions for our customers. Please note, this is <strong>not</strong> an embedded Kernel role. </p><p>KernelCare is a product of CloudLinux Inc., the maker of the #1 OS in security and stability for hosting providers. KernelCare, a live kernel patching service provides security patches and bug fixes for a range of popular Linux kernels that can be installed without rebooting the system. Check out our website for more information about our KernelCare Product <a href="https://tuxcare.com/live-patching-services/" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com/live-patching-services/</a></p><p>We are truly a great place to work. </p><p></p><p><strong>As our Senior Kernel Developer, you will be responsible for:</strong></p><ul> <li>Support existing functionality and implementation of several new features</li> <li>Update existing kernels including security fixes and CVEs patches</li> <li>Develop and support Python and Bash scripts for task automation</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role you should have:</strong></p><ul> <li>Excellent C programming and debugging skills</li> <li>Good level of knowledge of Linux kernel core subsystems</li> <li>CPU and cache architectures</li> <li>Experience with GDB and other debuggers</li> <li>CPU performance and power analysis</li> <li>Independent and self-motivated problem solver and strategic thinker</li> <li>Proficient in Git for development and patch/branch management</li> <li>Good planning, time management, decision-making, presentation, and organization skills</li> <li>Effective written and verbal communication</li> <li>Excellent interpersonal and teamwork skills</li> <li>Happy in an agile, fast-paced environment</li> </ul><ul> <li>Experience with Python and Shell scripting</li> <li>Experience with Jenkins</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>Focus on professional development:</li> <ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p></p><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Senior Python Developer (worldwide remote, work anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/33C0886368" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><em>KernelCare</em>, CloudLinux’s fastest-growing product, provides automated kernel security updates without reboots for most popular Linux distributions. It ensures optimal performance and uptime by enabling hosting providers and enterprises to keep their kernels up-to-date with all the latest security patches while keeping their servers online.</p><p></p><p>Work is fully remote, with flexible hours, allowing you to plan your day and work from anywhere in the world.</p><p>For more details about the project, please visit the product website at <a href="https://www.tuxcare.com" rel="nofollow noreferrer noopener" class="external">TuxCare.com</a>.</p><p></p><p><strong>As our Senior Python Developer, you will:</strong></p><ul> <li>Get hands-on experience developing our cutting-edge KernelCare products using Python.</li> <li>Ensure the quality of your code by writing comprehensive unit tests with Python and/or functional tests.</li> <li>Collaborate with your colleagues by reviewing their code through Gerrit.</li> <li>Contribute to the growth of our products through architectural development and creating detailed technical documentation for new features.</li> <li>Dive into reported issues from our clients, partners, or support team to investigate and find solutions.</li> <li>Work closely with our 3rd level support team, providing consultations and assistance on matters related to KernelCare products.</li> </ul><h3>Requirements: </h3><p><strong>To thrive in this role, you should possess the following:</strong></p><ul><li>5+ years of Python programming experience.</li></ul><ul> <li>Experience or desire to work with System programming, including Sockets, filesystem, and process management.</li> <li>Proficiency in GNU/Linux operating system and shell scripting.</li> <li>Experience with git-based development processes.</li> <li>Knowledge of PyTest.</li> <li>Intermediate level of English language proficiency.</li> </ul><p></p><p><strong>It would be great if you also have:</strong></p><ul> <li>Familiarity with Ansible and Jenkins.</li> <li>Experience as a DevOps or SysAdmin </li> <li>Experience with ClickHouse.</li> <li>Experience in rpm/deb package management (writing rpm spec, deb rules).</li> <li>Understanding of C language.</li> <li>Proficiency in Python frameworks such as Flask and SQLAlchemy.</li> <li>Knowledge of NGINX.</li> </ul><p></p><p><strong>In addition, it is essential that you:</strong></p><ul> <li>Are quick to learn and proactive.</li> <li>Are highly self-motivated and determined to accomplish set goals.</li> <li>Can independently analyze tasks and identify optimal solutions.</li> <li>Are skilled at collaboration and working effectively in teams.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li> Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
                 </details>
                 </td>
             </tr>,<tr>
