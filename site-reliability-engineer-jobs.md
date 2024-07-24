@@ -10,7 +10,7 @@
                     <code>AWS,docker,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/site-reliability-engineer-1923232" align="right" target="_blank">Apply</a>
@@ -332,15 +332,15 @@
 <p><br /></p>
 <ul><li><strong>Remote First, Always</strong>: We've always been a fully distributed company with team members all over the world. We trust you to get your work done wherever, and whenever.   </li><li><strong>Commitment to Personal Growth:</strong> Every team member has an annual budget of $1,250 USD to invest in their professional development. For team members in designated leadership roles, we offer reimbursement for leadership coaching services. The reimbursement amount varies by professional level. Every team member also has a dedicated Career Advisor, who serves as a guide to help you develop your strengths, identify your motivations, and understand your opportunities for growth. </li><li><strong>Leadership:</strong> We have many different types of leaders and possible combinations of leadership roles, so you can grow your career in a way that aligns best with your personal goals. You can seek additional leadership roles by being directly responsible for projects, taking ownership of areas of the company, developing and maintaining internal processes, or pursuing advisory roles. </li><li><strong>Work/Life Balance: </strong>Team members have the freedom and flexibility to organize their own work schedules. We want you to thrive both in and out of the office. We trust you to use good judgment and take the time off that you need to bring your best self to work.  </li></ul>
 <p><br /></p>
-<p>We also offer paid parental leave, a co-working stipend, office setup reimbursement, and a wellness stipend. More support resources can be found in our <u><a href="https://duckduckgo.com/assets/hiring/team_support_guide.pdf" rel="noopener">Team Member Support Guide</a></u>, which explains how we make your well-being a priority. </p>
+<p>We also offer paid parental leave, a co-working stipend, office setup reimbursement, and a wellness stipend. More support resources can be found in our <u><a href="https://duckduckgo.com/assets/hiring/team_support_guide.pdf" rel="noopener">Team Member Support Guide</a></u><a> </a><u><a href="https://duckduckgo.com/assets/hiring/team_support_guide.pdf" rel="noopener"><br /></a></u>(<a href="https://duckduckgo.com/assets/hiring/team_support_guide.pdf" rel="noopener">https://duckduckgo.com/assets/hiring/team_support_guide.pdf</a>), which explains how we make your well-being a priority. </p>
 <p><br /></p>
-<p>For more information on how we collaborate worldwide, from leadership in our relatively flat organization to start-to-finish ownership<strong>,</strong> check out <u><a href="https://duckduckgo.com/how-we-work" rel="noopener">DuckDuckGo Culture: How We Work.</a></u> </p>
+<p>For more information on how we collaborate worldwide, from leadership in our relatively flat organization to start-to-finish ownership<strong>,</strong> check out <u><a href="https://duckduckgo.com/how-we-work" rel="noopener">DuckDuckGo Culture: How We Work</a></u><a> (</a><a href="https://duckduckgo.com/how-we-work" rel="noopener">https://duckduckgo.com/how-we-work</a>).</p>
 <p><br /></p>
 <p><strong>Compensation</strong> </p>
 <p>Annual compensation: <strong>242,000</strong> <strong>USD</strong> and stock options. Compensation is the same within a professional level, regardless of geographic location or functional area, and the compensation for each professional level is transparent across the organization.</p>
 <p><br /></p>
 <p><strong>Hiring Process</strong> </p>
-<p>Hiring works best when it's a two-way street. Learn how we help you get to know DuckDuckGo and envision your future role here. Find out more about <u><a href="https://duckduckgo.com/how-we-hire" rel="noopener">how we hire</a></u>. </p>
+<p>Hiring works best when it's a two-way street. Learn how we help you get to know DuckDuckGo and envision your future role here. Find out more about <u><a href="https://duckduckgo.com/how-we-hire" rel="noopener">how we hire</a></u><a> (</a><a href="https://duckduckgo.com/how-we-hire" rel="noopener">https://duckduckgo.com/how-we-hire</a>).<u><a href="https://duckduckgo.com/how-we-hire" rel="noopener"><br /></a></u></p>
 <p><br /></p>
 <p><strong>Diversity, Equity, and Inclusion</strong> </p>
 <p>DuckDuckGo provides equal work opportunities to all team members and applicants<u>,</u> and it prohibits discrimination and harassment of any type on the basis of race, color, ethnicity, caste, religion, age, sex (including pregnancy), national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by our policies or federal, state, or local laws.</p>
