@@ -1,5 +1,171 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1925207/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Wikimedia</h5>
+                    <h3>Software Engineer, Trust and Safety Product</h3>
+                </td>
+                <td width="300">
+                    <code>CSS,javascript,php</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-trust-and-safety-product-1925207" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Summary</strong></p>
+<p>The Wikimedia Foundation is looking for a software engineer to join the <a href="%22https:/www.mediawiki.org/wiki/Trust_and_Safety_Product%22" rel="nofollow">Trust and Safety Product team</a>. As a software engineer, you will be responsible for building features to keep our communities safe from abuse, harassment, vandalism, and harmful or illicit content.  In this role, you will work in a fully-remote, geographically-distributed environment, where we value teamwork and a consensus-oriented approach. You will be writing open source code for collaborative experiences supporting over a billion users at a place that believes we're all more successful when everyone has a good work-life balance.</p>
+<p>The Trust and Safety Product team is an interdisciplinary product team developing technology that helps counteract efforts to harm civil discourse on our platforms, the integrity of the content, or other users of our projects. We are seeking a software engineer to join us in this effort to protect our users and our projects.</p>
+<p>Currently, we are working on a broad set of tools related to user privacy and protection. You can see more details in our <a href="%22https:/phabricator.wikimedia.org/project/view/6810/%22" rel="nofollow">backlog</a>. Your daily work will include contributing new patches or pull requests for existing features, estimating new work, participating in code reviews, collaborating with a designer, or helping a volunteer engineer get their code shaped up. Because of the sensitive nature of the tools we build, we interact with database administrators, security engineers, and our legal team on a regular basis. Our work goes beyond regular product development into topics such as privacy, security, abuse mitigation, content moderation and legal compliance.</p>
+<p>The team is fully staffed with a Product Manager, Engineering Manager, Product Designer, Research Analyst, Data Analyst, Community Liaison, Test Engineers, and several Software Engineers, of course.</p>
+<p>You will be working on, and improving, a codebase that has evolved over two decades. Much of our framework code was developed in-house, so you'll need to be comfortable learning through research, reviewing patches, and reading documentation. PHP and JavaScript make up most of our code. Developers at the Foundation have autonomy and responsibility, and can have a large and immediate impact on the future of the site and the movement. </p>
+<p>Our world is vast and can be complicated, so we consider communication, enthusiasm, and eagerness to learn as important as certificates or degrees.</p>
+<p><strong>You are responsible for:</strong></p>
+<ul style="">
+<li style="">Developing, testing, and deploying new features, improvements and upgrades to various systems and tools used by administrators and staff.</li>
+<li style="">Writing multilingual, accessible, and performant user interfaces using PHP, JavaScript, VueJS, and CSS.</li>
+<li style="">Documenting your contributions to our codebase in our technical documentation and our features’ documentation.</li>
+<li style="">Contributing to projects that require handling sensitive data and private information, complying with privacy and security regulations.</li>
+<li style="">Providing support in abuse investigations on our platform, helping identify sources and causes of incidents, and proposing ideas to mitigate their impact.</li>
+<li style="">Developing expertise in the Trust and Safety area, which includes, security, privacy, abuse mitigation, content moderation and legal compliance.</li>
+<li style="">Extending the capabilities of the MediaWiki stack to serve diverse community needs by incorporating possibilities that are offered by new tooling or technical advances.</li>
+<li style="">Working across teams to proactively reduce technical debt by refactoring code, updating testing frameworks, and reviewing code from other engineers.</li>
+</ul>
+<p><strong>Skills and Experience:<br></strong></p>
+<ul style="">
+<li style="">3+ years of related professional or volunteering experience in software engineering roles, including frontend and backend development, with an emphasis on backend.</li>
+<li style="">Experience with Object-Oriented development using a scripting language (such as PHP, Python, Ruby, or JavaScript). Most of our work is in PHP and JavaScript.</li>
+<li style="">Experience converting design mockups into functional components, incorporating performance and accessibility into the features using well-documented and readable code.</li>
+<li style="">Focused software engineering: writing unit and integration tests, proactively addressing security and code review feedback, and thoughtfully balancing tradeoffs.</li>
+<li style="">Strong written communication skills as our collaboration largely happens online, on chats, wikis, documents and tickets.</li>
+</ul>
+<p><strong>Qualities that are important to us:<br></strong></p>
+<ul style="">
+<li style="">The desire to make meaningful contributions to knowledge equity, free culture, and open access.</li>
+<li style="">An emphasis on communicating clearly in both synchronous and asynchronous channels.</li>
+<li style="">The willingness to participate in technical discussions, proposing solutions to technical challenges, participating in code reviews and receiving feedback.</li>
+<li style="">An eagerness and curiosity to solve technical problems, trying things out and investigating issues, and supporting the work of others.</li>
+<li style="">The skill to effectively work with documentation, writing clearly and concisely, and navigating existing documentation in search for answers.</li>
+<li style="">A sensitivity for the problems we are solving, empathy for our users, and the tact to handle the content and information we process.</li>
+</ul>
+<p><strong>Additionally, we’d love it if you have:<br></strong></p>
+<ul style="">
+<li style="">Experience with MediaWiki development or as a contributor to Wikimedia projects.</li>
+<li style="">Experience with legacy codebases and/or experience in free/open source software development experience.</li>
+<li style="">Experience with online community moderation, vandalism prevention and other Trust and Safety concepts and practices</li>
+</ul>
+<div class="h4">About the Wikimedia Foundation</div>
+<p>The Wikimedia Foundation is the nonprofit organization that operates Wikipedia and the other Wikimedia free knowledge projects. Our vision is a world in which every single human can freely share in the sum of all knowledge. We believe that everyone has the potential to contribute something to our shared knowledge, and that everyone should be able to access that knowledge freely. We host Wikipedia and the Wikimedia projects, build software experiences for reading, contributing, and sharing Wikimedia content, support the volunteer communities and partners who make Wikimedia possible, and advocate for policies that enable Wikimedia and free knowledge to thrive. </p>
+<p>The Wikimedia Foundation is a charitable, not-for-profit organization that relies on donations. We receive donations from millions of individuals around the world, with an average donation of about $15. We also receive donations through institutional grants and gifts. The Wikimedia Foundation is a United States 501(c)(3) tax-exempt organization with offices in San Francisco, California, USA.</p>
+<p><em><strong>As an equal opportunity employer, the Wikimedia Foundation values having a diverse workforce and continuously strives to maintain an inclusive and equitable workplace. We encourage people with a diverse range of backgrounds to apply. We do not discriminate against any person based upon their race, traits historically associated with race, religion, color, national origin, sex, pregnancy or related medical conditions, parental status, sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, or any other legally protected characteristics.</strong></em></p>
+<p>The Wikimedia Foundation is a remote-first organization with staff members including contractors based in 40+ countries*. Salaries at the Wikimedia Foundation are set in a way that is competitive, equitable, and consistent with our values and culture. The anticipated annual pay range of this position for applicants based within the United States is US$&lt;span data-sheets-root="1" data-sheets-value="{"1":3,"3":85924.8}" data-sheets-userformat="{"2":14585,"3":{"1":2,"2":"_-* #,##0_-;\\-* #,##0_-;_-* \"-\"?_-;_-@","3":1},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":2}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":0,"10":1,"14":{"1":2,"2":0},"15":"Verdana","16":10}" data-sheets-formula="=R[0]C[1]*0.8"&gt; 85,925  to US$ &lt;span data-sheets-root="1" data-sheets-value="{"1":3,"3":134289}" data-sheets-userformat="{"2":14589,"3":{"1":2,"2":"_(* #,##0_);_(* \\(#,##0\\);_(* \"-\"??_);_(@_)","3":1},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"14":{"1":3,"3":1},"15":"Verdana","16":10}"&gt;134,289  with multiple individualized factors, including cost of living in the location, being the determinants of the offered pay. For applicants located outside of the US, the pay range will be adjusted to the country of hire. We neither ask for nor take into consideration the salary history of applicants. The compensation for a successful applicant will be based on their skills, experience and location. </p>
+<p><strong>*Please note that we are currently able to hire in the following countries: </strong>Australia, Austria, Bangladesh, Belgium, Brazil, Canada, Colombia, Costa Rica, Croatia, Czech Republic, Denmark, Egypt, Estonia, Finland, France, Germany, Ghana, Greece, India, Indonesia, Ireland, Israel, Italy, Kenya, Mexico, Netherlands, Nigeria, Peru, Poland, Singapore, South Africa, Spain, Sweden, Switzerland, Uganda, United Arab Emirates, United Kingdom, United States of America and Uruguay.  Our non-US employees are hired through a local third party Employer of Record (EOR).</p>
+<p>We periodically review this list to streamline to ensure alignment with our hiring requirements. </p>
+<p>All applicants can reach out to their recruiter to understand more about the specific pay range for their location during the interview process.</p>
+<p><em><strong>If you are a qualified applicant requiring assistance or an accommodation to complete any step of the application process due to a disability, you may contact us at recruiting@wikimedia.org or +1 (415) 839-6885.</strong></em></p>
+<p><strong>More information</strong></p>
+<p><a href="%22https:/wikimediafoundation.org/about/jobs/#section-12%22" rel="nofollow"><strong>U.S. Benefits &amp; Perks</strong></a><br><a href="%22https:/wikimediafoundation.org/%22" rel="nofollow"><strong>Wikimedia Foundation</strong></a><br><a href="%22https:/foundation.wikimedia.org/wiki/Applicant_privacy_policy%22" rel="nofollow"><strong>Applicant Privacy Policy</strong></a><br><a href="%22https:/diff.wikimedia.org/%22" rel="nofollow"><strong>News from across the Wikimedia movement</strong></a><br><a href="%22https:/wikimediafoundation.org/news/%22" rel="nofollow"><strong>Blog</strong></a><br><a href="%22https:/meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017%22" rel="nofollow"><strong>Wikimedia 2030</strong></a><br><a href="%22https:/medium.com/freely-sharing-the-sum-of-all-knowledge/we-stand-for-racial-justice-49c31afbabca%22" rel="nofollow"><strong>Our Commitment to Equity</strong></a><br><a href="%22https:/www.youtube.com/watch?v=OQzZI0l3IOw%22" rel="nofollow"><strong>This is Wikimedia Foundation</strong></a><strong> </strong><br><a href="%22https:/www.youtube.com/watch?v=xQ4ba28-oGs%22" rel="nofollow"><strong>Facts Matter</strong></a><br><a href="%22https:/wikimediafoundation.org/wiki/Our_projects%22" rel="nofollow"><strong>Our Projects</strong></a><br><a href="%22https:/techblog.wikimedia.org/%22" rel="nofollow"><strong>Our Tech Stack</strong></a></p>
+<div id='"l-content"'> </div>
+<img src="https://remotive.com/job/track/1925207/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1924542/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Alpaca</h5>
+                    <h3>Senior Software Engineer - Payments & Treasury</h3>
+                </td>
+                <td width="300">
+                    <code>go,kubernetes</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-payments-treasury-1924542" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class='"content-intro"'>
+<div class='"c-message_kit__blocks'>
+<div class='"c-message__message_blocks'>
+<div class='"p-block_kit_renderer"'>
+<div class='"p-block_kit_renderer__block_wrapper'>
+<div class='"p-rich_text_block"'>
+<div class="h3"><strong>Who We Are:</strong></div>
+<p class='"p-rich_text_section"'>Alpaca is a fast-growing series B fintech company that’s raised over $120 million in funding.<br>Alpaca is an API-first stock and crypto platform that enables developers and businesses across the world to build trading algorithms, applications, and brokerage services.<br>Our globally distributed team consists of developers, traders, and brokerage specialists, and is backed by a group of prominent investors and highly experienced industry angel investors, including Portage Ventures, Spark Capital, Tribe Capital, Social Leverage, Horizons Ventures, Unbound, SBI Group, Eldridge, Positive Sum, Elefund, and Y Combinator.</p>
+<p class='"p-rich_text_section"'>And, of course, we are very enthusiastic about open source contributions as well as community building.</p>
+<div class="h3"><strong>The Alpaca Team:</strong></div>
+<p class='"p-rich_text_section"'>We have 150+ globally distributed (remote) team members who love to work from their favorite places in the world. We have team members based in the USA, Canada, Hungary, Japan, Brazil, Spain, Philippines, Nigeria, UK, and more! We love candidates who have a passion for making a global difference in financial services and technology, by impacting local communities and becoming a part of our hyper-growth company.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="h3"><strong>Your Role</strong></div>
+<p>As a senior software engineer, you will help build and scale the systems and services that form the foundation of Alpaca and empower millions of users that are trading  billions of dollars worth of assets daily .</p>
+<p>The payments team is responsible for building and maintaining a modern global payments and treasury platform. Operating in an industry in which money movement is a critical component, we adopt a modern technology focused approach with highly scalable, event-driven systems. Resilient engineering, technical and operational scalability, and system integrity are crucial to our success.</p>
+<p>We have ambitious plans to build a seamlessly integrated comprehensive treasury platform into an industry leading end-to-end financial infrastructure on a global scale. Alpaca has and will continue to prove ourselves as an innovative market leader and this team is a core component of our growth across global markets and asset classes.</p>
+<p>We are looking for senior engineers who are keen on providing quality solutions, have great fundamentals, proven experience building and architecting at scale, and not afraid of challenging conventions or voicing their opinions. In this role, you will have the autonomy to design and implement solutions to achieve defined goals while actively participating in defining those goals.</p>
+<p>An understanding of cloud-based modern architecture, infrastructure, and orchestration practices are also great assets we actively look for.</p>
+<div class="h3"><strong>Who You Are (Must-Haves):</strong></div>
+<ul style="">
+<li style="">Strong problem-solving skills paired with a proactive mindset</li>
+<li style="">Excellent communication and collaboration skills</li>
+<li style="">The ability to work independently and as part of a team</li>
+<li style="">A preference for simple and elegant solutions</li>
+<li style="">At least 3 years of experience working on systems at scale</li>
+<li style="">Proven experience in building and maintaining microservices</li>
+<li style="">Experience with client facing APIs</li>
+<li style="">Strong coding skills, preferably in Go</li>
+<li style="">Ability to write clean, well tested, and maintainable code</li>
+<li style="">Experience with domain driven design and event driven design</li>
+<li style="">Ability to debug issues or better yet, foresee problems and avoid them entirely</li>
+<li style="">Familiarity with containerization and orchestration technologies, especially Kubernetes</li>
+<li style="">Experience with cloud platforms, preferably Google Cloud Platform</li>
+<li style="">Experience with messaging queues and message brokers</li>
+<li style="">Experience with relational databases, preferably PostgreSQL</li>
+<li style="">Experience with distributed systems design</li>
+<li style="">Previous experience with or understanding of payment rails and the payment lifecycle</li>
+<li style="">Experience with double entry accounting and financial ledgers</li>
+</ul>
+<div class="h3"><strong>Who You Might Be (Nice-to-Haves):</strong></div>
+<ul style="">
+<li style="">Previous experience in the financial industry or knowledge of payments initiations</li>
+<li style="">Experience with financial reconciliation systems</li>
+<li style="">Experience with or understanding of ISO20022 financial standard</li>
+<li style="">Experience working remotely</li>
+<li style="">Experience working at a startup, exchange, brokerage, market maker, or hedge fund</li>
+<li style="">DevOps mindset is an asset</li>
+</ul>
+<div class='"content-conclusion"'>
+<div class="h3"><strong>How We Take Care of You:</strong></div>
+<ul style="">
+<li style="">Competitive Salary &amp; Stock Options</li>
+<li style="">Benefits: Health benefits start on day 1. In the US this includes Medical, Dental, Vision. In Canada, this includes supplemental health care.  Internationally, this includes a stipend value to offset medical costs.   </li>
+<li style="">New Hire Home-Office Setup: One-time USD $500</li>
+<li style="">Monthly Stipend: USD $150 per month via a Brex Card</li>
+<li style="">Work with awesome hard working people, super smart and cool clients and innovative partners from around the world</li>
+</ul>
+<p><em>Alpaca is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.<br></em></p>
+<p><a href="%22https:/files.alpaca.markets/disclosures/AlpacaRecruitmentPrivacyPolicy.pdf%22" rel="nofollow"><em>Recruitment Privacy Policy</em></a></p>
+</div>
+<img src="https://remotive.com/job/track/1924542/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -1971,7 +2137,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://scontent.fcmb1-2.fna.fbcdn.net/v/t39.30808-6/305200907_178698394725342_6069109098993528414_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=JISKnYqDfZ8Q7kNvgGCSB8S&_nc_ht=scontent.fcmb1-2.fna&oh=00_AYDo4rvyZ2vw-xwftMvz-iA4X1gzbK_vJwm-rsGqxHxkCg&oe=66945271" width="38px" height="auto">
+                    <img src="https://workablehr.s3.amazonaws.com/uploads/account/logo/548021/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Pluto Card</h5>
@@ -1995,7 +2161,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/530/000/resized/greyBackground.jpg?1692112526" width="38px" height="auto">
+                    <img src="https://pbs.twimg.com/profile_images/1630623773090037787/M9jBuyQv_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Xapo Bank</h5>
@@ -2008,7 +2174,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/xapo61/jobs/5984246003" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/xapo61/jobs/5984246003" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
