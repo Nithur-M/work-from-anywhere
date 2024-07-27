@@ -13,7 +13,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/10up/jobs/4038282008" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/10up/jobs/4038282008" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -99,7 +99,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/10up/jobs/4054603008" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/10up/jobs/4054603008" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -171,7 +171,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/10up/jobs/4038296008" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/10up/jobs/4038296008" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
