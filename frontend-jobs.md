@@ -13,7 +13,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/10up/jobs/4038230008" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/10up/jobs/4038230008" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -81,7 +81,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/10up/jobs/4038238008" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/10up/jobs/4038238008" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -160,7 +160,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/10up/jobs/4038244008" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.greenhouse.io/10up/jobs/4038244008" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -309,7 +309,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://scontent.fcmb1-2.fna.fbcdn.net/v/t39.30808-6/305200907_178698394725342_6069109098993528414_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=JISKnYqDfZ8Q7kNvgGCSB8S&_nc_ht=scontent.fcmb1-2.fna&oh=00_AYDo4rvyZ2vw-xwftMvz-iA4X1gzbK_vJwm-rsGqxHxkCg&oe=66945271" width="38px" height="auto">
+                    <img src="https://workablehr.s3.amazonaws.com/uploads/account/logo/548021/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Pluto Card</h5>
