@@ -10,7 +10,7 @@
                     <code>fullstack,seo,AI/ML</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-engineer-1924708" align="right" target="_blank">Apply</a>
