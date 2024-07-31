@@ -1,171 +1,5 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1925207/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Wikimedia</h5>
-                    <h3>Software Engineer, Trust and Safety Product</h3>
-                </td>
-                <td width="300">
-                    <code>CSS,javascript,php</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-trust-and-safety-product-1925207" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Summary</strong></p>
-<p>The Wikimedia Foundation is looking for a software engineer to join the <a href="%22https:/www.mediawiki.org/wiki/Trust_and_Safety_Product%22" rel="nofollow">Trust and Safety Product team</a>. As a software engineer, you will be responsible for building features to keep our communities safe from abuse, harassment, vandalism, and harmful or illicit content.  In this role, you will work in a fully-remote, geographically-distributed environment, where we value teamwork and a consensus-oriented approach. You will be writing open source code for collaborative experiences supporting over a billion users at a place that believes we're all more successful when everyone has a good work-life balance.</p>
-<p>The Trust and Safety Product team is an interdisciplinary product team developing technology that helps counteract efforts to harm civil discourse on our platforms, the integrity of the content, or other users of our projects. We are seeking a software engineer to join us in this effort to protect our users and our projects.</p>
-<p>Currently, we are working on a broad set of tools related to user privacy and protection. You can see more details in our <a href="%22https:/phabricator.wikimedia.org/project/view/6810/%22" rel="nofollow">backlog</a>. Your daily work will include contributing new patches or pull requests for existing features, estimating new work, participating in code reviews, collaborating with a designer, or helping a volunteer engineer get their code shaped up. Because of the sensitive nature of the tools we build, we interact with database administrators, security engineers, and our legal team on a regular basis. Our work goes beyond regular product development into topics such as privacy, security, abuse mitigation, content moderation and legal compliance.</p>
-<p>The team is fully staffed with a Product Manager, Engineering Manager, Product Designer, Research Analyst, Data Analyst, Community Liaison, Test Engineers, and several Software Engineers, of course.</p>
-<p>You will be working on, and improving, a codebase that has evolved over two decades. Much of our framework code was developed in-house, so you'll need to be comfortable learning through research, reviewing patches, and reading documentation. PHP and JavaScript make up most of our code. Developers at the Foundation have autonomy and responsibility, and can have a large and immediate impact on the future of the site and the movement. </p>
-<p>Our world is vast and can be complicated, so we consider communication, enthusiasm, and eagerness to learn as important as certificates or degrees.</p>
-<p><strong>You are responsible for:</strong></p>
-<ul style="">
-<li style="">Developing, testing, and deploying new features, improvements and upgrades to various systems and tools used by administrators and staff.</li>
-<li style="">Writing multilingual, accessible, and performant user interfaces using PHP, JavaScript, VueJS, and CSS.</li>
-<li style="">Documenting your contributions to our codebase in our technical documentation and our features’ documentation.</li>
-<li style="">Contributing to projects that require handling sensitive data and private information, complying with privacy and security regulations.</li>
-<li style="">Providing support in abuse investigations on our platform, helping identify sources and causes of incidents, and proposing ideas to mitigate their impact.</li>
-<li style="">Developing expertise in the Trust and Safety area, which includes, security, privacy, abuse mitigation, content moderation and legal compliance.</li>
-<li style="">Extending the capabilities of the MediaWiki stack to serve diverse community needs by incorporating possibilities that are offered by new tooling or technical advances.</li>
-<li style="">Working across teams to proactively reduce technical debt by refactoring code, updating testing frameworks, and reviewing code from other engineers.</li>
-</ul>
-<p><strong>Skills and Experience:<br></strong></p>
-<ul style="">
-<li style="">3+ years of related professional or volunteering experience in software engineering roles, including frontend and backend development, with an emphasis on backend.</li>
-<li style="">Experience with Object-Oriented development using a scripting language (such as PHP, Python, Ruby, or JavaScript). Most of our work is in PHP and JavaScript.</li>
-<li style="">Experience converting design mockups into functional components, incorporating performance and accessibility into the features using well-documented and readable code.</li>
-<li style="">Focused software engineering: writing unit and integration tests, proactively addressing security and code review feedback, and thoughtfully balancing tradeoffs.</li>
-<li style="">Strong written communication skills as our collaboration largely happens online, on chats, wikis, documents and tickets.</li>
-</ul>
-<p><strong>Qualities that are important to us:<br></strong></p>
-<ul style="">
-<li style="">The desire to make meaningful contributions to knowledge equity, free culture, and open access.</li>
-<li style="">An emphasis on communicating clearly in both synchronous and asynchronous channels.</li>
-<li style="">The willingness to participate in technical discussions, proposing solutions to technical challenges, participating in code reviews and receiving feedback.</li>
-<li style="">An eagerness and curiosity to solve technical problems, trying things out and investigating issues, and supporting the work of others.</li>
-<li style="">The skill to effectively work with documentation, writing clearly and concisely, and navigating existing documentation in search for answers.</li>
-<li style="">A sensitivity for the problems we are solving, empathy for our users, and the tact to handle the content and information we process.</li>
-</ul>
-<p><strong>Additionally, we’d love it if you have:<br></strong></p>
-<ul style="">
-<li style="">Experience with MediaWiki development or as a contributor to Wikimedia projects.</li>
-<li style="">Experience with legacy codebases and/or experience in free/open source software development experience.</li>
-<li style="">Experience with online community moderation, vandalism prevention and other Trust and Safety concepts and practices</li>
-</ul>
-<div class="h4">About the Wikimedia Foundation</div>
-<p>The Wikimedia Foundation is the nonprofit organization that operates Wikipedia and the other Wikimedia free knowledge projects. Our vision is a world in which every single human can freely share in the sum of all knowledge. We believe that everyone has the potential to contribute something to our shared knowledge, and that everyone should be able to access that knowledge freely. We host Wikipedia and the Wikimedia projects, build software experiences for reading, contributing, and sharing Wikimedia content, support the volunteer communities and partners who make Wikimedia possible, and advocate for policies that enable Wikimedia and free knowledge to thrive. </p>
-<p>The Wikimedia Foundation is a charitable, not-for-profit organization that relies on donations. We receive donations from millions of individuals around the world, with an average donation of about $15. We also receive donations through institutional grants and gifts. The Wikimedia Foundation is a United States 501(c)(3) tax-exempt organization with offices in San Francisco, California, USA.</p>
-<p><em><strong>As an equal opportunity employer, the Wikimedia Foundation values having a diverse workforce and continuously strives to maintain an inclusive and equitable workplace. We encourage people with a diverse range of backgrounds to apply. We do not discriminate against any person based upon their race, traits historically associated with race, religion, color, national origin, sex, pregnancy or related medical conditions, parental status, sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, or any other legally protected characteristics.</strong></em></p>
-<p>The Wikimedia Foundation is a remote-first organization with staff members including contractors based in 40+ countries*. Salaries at the Wikimedia Foundation are set in a way that is competitive, equitable, and consistent with our values and culture. The anticipated annual pay range of this position for applicants based within the United States is US$&lt;span data-sheets-root="1" data-sheets-value="{"1":3,"3":85924.8}" data-sheets-userformat="{"2":14585,"3":{"1":2,"2":"_-* #,##0_-;\\-* #,##0_-;_-* \"-\"?_-;_-@","3":1},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":2}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":0,"10":1,"14":{"1":2,"2":0},"15":"Verdana","16":10}" data-sheets-formula="=R[0]C[1]*0.8"&gt; 85,925  to US$ &lt;span data-sheets-root="1" data-sheets-value="{"1":3,"3":134289}" data-sheets-userformat="{"2":14589,"3":{"1":2,"2":"_(* #,##0_);_(* \\(#,##0\\);_(* \"-\"??_);_(@_)","3":1},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"9":1,"10":1,"14":{"1":3,"3":1},"15":"Verdana","16":10}"&gt;134,289  with multiple individualized factors, including cost of living in the location, being the determinants of the offered pay. For applicants located outside of the US, the pay range will be adjusted to the country of hire. We neither ask for nor take into consideration the salary history of applicants. The compensation for a successful applicant will be based on their skills, experience and location. </p>
-<p><strong>*Please note that we are currently able to hire in the following countries: </strong>Australia, Austria, Bangladesh, Belgium, Brazil, Canada, Colombia, Costa Rica, Croatia, Czech Republic, Denmark, Egypt, Estonia, Finland, France, Germany, Ghana, Greece, India, Indonesia, Ireland, Israel, Italy, Kenya, Mexico, Netherlands, Nigeria, Peru, Poland, Singapore, South Africa, Spain, Sweden, Switzerland, Uganda, United Arab Emirates, United Kingdom, United States of America and Uruguay.  Our non-US employees are hired through a local third party Employer of Record (EOR).</p>
-<p>We periodically review this list to streamline to ensure alignment with our hiring requirements. </p>
-<p>All applicants can reach out to their recruiter to understand more about the specific pay range for their location during the interview process.</p>
-<p><em><strong>If you are a qualified applicant requiring assistance or an accommodation to complete any step of the application process due to a disability, you may contact us at recruiting@wikimedia.org or +1 (415) 839-6885.</strong></em></p>
-<p><strong>More information</strong></p>
-<p><a href="%22https:/wikimediafoundation.org/about/jobs/#section-12%22" rel="nofollow"><strong>U.S. Benefits &amp; Perks</strong></a><br><a href="%22https:/wikimediafoundation.org/%22" rel="nofollow"><strong>Wikimedia Foundation</strong></a><br><a href="%22https:/foundation.wikimedia.org/wiki/Applicant_privacy_policy%22" rel="nofollow"><strong>Applicant Privacy Policy</strong></a><br><a href="%22https:/diff.wikimedia.org/%22" rel="nofollow"><strong>News from across the Wikimedia movement</strong></a><br><a href="%22https:/wikimediafoundation.org/news/%22" rel="nofollow"><strong>Blog</strong></a><br><a href="%22https:/meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017%22" rel="nofollow"><strong>Wikimedia 2030</strong></a><br><a href="%22https:/medium.com/freely-sharing-the-sum-of-all-knowledge/we-stand-for-racial-justice-49c31afbabca%22" rel="nofollow"><strong>Our Commitment to Equity</strong></a><br><a href="%22https:/www.youtube.com/watch?v=OQzZI0l3IOw%22" rel="nofollow"><strong>This is Wikimedia Foundation</strong></a><strong> </strong><br><a href="%22https:/www.youtube.com/watch?v=xQ4ba28-oGs%22" rel="nofollow"><strong>Facts Matter</strong></a><br><a href="%22https:/wikimediafoundation.org/wiki/Our_projects%22" rel="nofollow"><strong>Our Projects</strong></a><br><a href="%22https:/techblog.wikimedia.org/%22" rel="nofollow"><strong>Our Tech Stack</strong></a></p>
-<div id='"l-content"'> </div>
-<img src="https://remotive.com/job/track/1925207/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1924542/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Alpaca</h5>
-                    <h3>Senior Software Engineer - Payments & Treasury</h3>
-                </td>
-                <td width="300">
-                    <code>go,kubernetes</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-payments-treasury-1924542" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class='"content-intro"'>
-<div class='"c-message_kit__blocks'>
-<div class='"c-message__message_blocks'>
-<div class='"p-block_kit_renderer"'>
-<div class='"p-block_kit_renderer__block_wrapper'>
-<div class='"p-rich_text_block"'>
-<div class="h3"><strong>Who We Are:</strong></div>
-<p class='"p-rich_text_section"'>Alpaca is a fast-growing series B fintech company that’s raised over $120 million in funding.<br>Alpaca is an API-first stock and crypto platform that enables developers and businesses across the world to build trading algorithms, applications, and brokerage services.<br>Our globally distributed team consists of developers, traders, and brokerage specialists, and is backed by a group of prominent investors and highly experienced industry angel investors, including Portage Ventures, Spark Capital, Tribe Capital, Social Leverage, Horizons Ventures, Unbound, SBI Group, Eldridge, Positive Sum, Elefund, and Y Combinator.</p>
-<p class='"p-rich_text_section"'>And, of course, we are very enthusiastic about open source contributions as well as community building.</p>
-<div class="h3"><strong>The Alpaca Team:</strong></div>
-<p class='"p-rich_text_section"'>We have 150+ globally distributed (remote) team members who love to work from their favorite places in the world. We have team members based in the USA, Canada, Hungary, Japan, Brazil, Spain, Philippines, Nigeria, UK, and more! We love candidates who have a passion for making a global difference in financial services and technology, by impacting local communities and becoming a part of our hyper-growth company.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="h3"><strong>Your Role</strong></div>
-<p>As a senior software engineer, you will help build and scale the systems and services that form the foundation of Alpaca and empower millions of users that are trading  billions of dollars worth of assets daily .</p>
-<p>The payments team is responsible for building and maintaining a modern global payments and treasury platform. Operating in an industry in which money movement is a critical component, we adopt a modern technology focused approach with highly scalable, event-driven systems. Resilient engineering, technical and operational scalability, and system integrity are crucial to our success.</p>
-<p>We have ambitious plans to build a seamlessly integrated comprehensive treasury platform into an industry leading end-to-end financial infrastructure on a global scale. Alpaca has and will continue to prove ourselves as an innovative market leader and this team is a core component of our growth across global markets and asset classes.</p>
-<p>We are looking for senior engineers who are keen on providing quality solutions, have great fundamentals, proven experience building and architecting at scale, and not afraid of challenging conventions or voicing their opinions. In this role, you will have the autonomy to design and implement solutions to achieve defined goals while actively participating in defining those goals.</p>
-<p>An understanding of cloud-based modern architecture, infrastructure, and orchestration practices are also great assets we actively look for.</p>
-<div class="h3"><strong>Who You Are (Must-Haves):</strong></div>
-<ul style="">
-<li style="">Strong problem-solving skills paired with a proactive mindset</li>
-<li style="">Excellent communication and collaboration skills</li>
-<li style="">The ability to work independently and as part of a team</li>
-<li style="">A preference for simple and elegant solutions</li>
-<li style="">At least 3 years of experience working on systems at scale</li>
-<li style="">Proven experience in building and maintaining microservices</li>
-<li style="">Experience with client facing APIs</li>
-<li style="">Strong coding skills, preferably in Go</li>
-<li style="">Ability to write clean, well tested, and maintainable code</li>
-<li style="">Experience with domain driven design and event driven design</li>
-<li style="">Ability to debug issues or better yet, foresee problems and avoid them entirely</li>
-<li style="">Familiarity with containerization and orchestration technologies, especially Kubernetes</li>
-<li style="">Experience with cloud platforms, preferably Google Cloud Platform</li>
-<li style="">Experience with messaging queues and message brokers</li>
-<li style="">Experience with relational databases, preferably PostgreSQL</li>
-<li style="">Experience with distributed systems design</li>
-<li style="">Previous experience with or understanding of payment rails and the payment lifecycle</li>
-<li style="">Experience with double entry accounting and financial ledgers</li>
-</ul>
-<div class="h3"><strong>Who You Might Be (Nice-to-Haves):</strong></div>
-<ul style="">
-<li style="">Previous experience in the financial industry or knowledge of payments initiations</li>
-<li style="">Experience with financial reconciliation systems</li>
-<li style="">Experience with or understanding of ISO20022 financial standard</li>
-<li style="">Experience working remotely</li>
-<li style="">Experience working at a startup, exchange, brokerage, market maker, or hedge fund</li>
-<li style="">DevOps mindset is an asset</li>
-</ul>
-<div class='"content-conclusion"'>
-<div class="h3"><strong>How We Take Care of You:</strong></div>
-<ul style="">
-<li style="">Competitive Salary &amp; Stock Options</li>
-<li style="">Benefits: Health benefits start on day 1. In the US this includes Medical, Dental, Vision. In Canada, this includes supplemental health care.  Internationally, this includes a stipend value to offset medical costs.   </li>
-<li style="">New Hire Home-Office Setup: One-time USD $500</li>
-<li style="">Monthly Stipend: USD $150 per month via a Brex Card</li>
-<li style="">Work with awesome hard working people, super smart and cool clients and innovative partners from around the world</li>
-</ul>
-<p><em>Alpaca is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.<br></em></p>
-<p><a href="%22https:/files.alpaca.markets/disclosures/AlpacaRecruitmentPrivacyPolicy.pdf%22" rel="nofollow"><em>Recruitment Privacy Policy</em></a></p>
-</div>
-<img src="https://remotive.com/job/track/1924542/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -447,11 +281,11 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/378800000147745937/0fac42c12b433bbbd53ff3e15cd6fca4_400x400.png" width="38px" height="auto">
+                    <img src="https://pbs.twimg.com/profile_images/1428393724527190022/4mt5PACL_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>MixRank</h5>
-                    <h3>Junior Software Engineer - Global/Remote</h3>
+                    <h5>Sourcegraph</h5>
+                    <h3>Software Engineer - Code Search [IC2]</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -460,17 +294,112 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/PZNzyWQ-junior-software-engineer-global-remote" align="right" target="_blank">Apply</a>
+                <a href="https://boards.greenhouse.io/sourcegraph91/jobs/5211133004" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
-<p>We're looking for remote engineers that have finished school within the last 2 years or will finish in the next 6 months. This is an open-ended entry-level role with mentorship, and diverse opportunities to work on all areas of our product: databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
-<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
-<p>Why Join MixRank? Fully-remote, no HQ office. Team of 32 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
-<p>Please include your updated resume when applying for this role.</p>
+                
+    <div class="content-intro"><h2><strong><span style="color: #a112ff;">Who we are</span></strong></h2>
+<p>Our mission at Sourcegraph is to make it so that <a href="https://www.notion.so/sourcegraph/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d?pvs=4">everyone can code</a>, not just ~0.1% of the population. We're building the code intelligence platform that powers the world's best code search and the most popular open-source code AI tool. It’s an exciting time to join Sourcegraph—AI has taken over the world, and we aim to automate 99% of the toil in software engineering with our code understanding and code AI tools, leaving the remaining 1% to the irreplicable creative spark from humans.&nbsp;</p>
+<p>Our customers range from startups to the Fortune 500, 4/5 FAANG companies, government organizations, Uber, Plaid, and more. We’ve raised $225M at a $2.625B valuation from <a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/">a16z</a>,<a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"> Sequoia</a>, <a href="https://www.redpoint.com/companies/sourcegraph/">Redpoint</a>, <a href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d">Craft</a> and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</p></div>
+
+    <h2><span style="color: rgb(161, 18, 255);"><strong>Location</strong></span></h2>
+<p>🌎 While we are an all-remote company and hire <a href="https://sourcegraph.notion.site/How-we-engage-talent-outside-of-the-US-218f7193695a46cbb1ef39ef9c1f72d4">almost anywhere</a> in the world, we have a preference for someone to reside in the following locations for this role. However, if you feel qualified, we welcome you to apply regardless of location. No matter what, working hours must overlap with EST for at least 20 hours/week.</p>
+<p><strong>Preferred locations:</strong></p>
+<ul>
+<li>Remote</li>
+</ul>
+<h2><span style="color: rgb(161, 18, 255);"><strong>Why this job is exciting</strong></span></h2>
+<p>Sourcegraph Code Search is an advanced, user-friendly code search and navigation tool designed to help developers efficiently understand, navigate, and review the software they're working on, irrespective of its size or complexity. It offers a web-based, universal code search capability across various repositories, branches, and languages, enabling quick and accurate search results with context. It also provides features such as semantic code search, syntax highlighting, hover tooltips, and real-time code insights, significantly reducing the time spent understanding codebases or hunting for specific logic. With integrations into popular version control systems and code editors, Sourcegraph Code Search aids in code exploration, bug squashing, and feature development, making it an indispensable tool for modern development teams.</p>
+<p>The Code Search team is aimed at growing the Code Search product into a 100+ million dollar product that is an integral part of every Fortune-500 company’s workflow. As a software engineer on the Code Search team, you will contribute to the direction of Sourcegraph’s Code Search product. With your expertise, you will be in the thick of maintaining, expanding, and shaping the future of the product, ensuring it meets the needs of our largest enterprise customers.</p>
+<p>📅 Within one month, you will…</p>
+<ul>
+<li>Onboard onto the Sourcegraph codebase, architecture, tooling, and development workflow.</li>
+<li>Build a solid understanding of the team’s areas of ownership, technical challenges, and problems the team solves for our customers, and know how all of these align with the top-level company goals.</li>
+<li>Actively participate in team meetings, sharing ideas and insights to contribute to the overall team goals.</li>
+<li>Work closely with your team members, asking questions and seeking feedback to ensure alignment and clear understanding of tasks.</li>
+<li>Begin making meaningful contributions to ongoing projects, demonstrating a clear understanding of our coding standards and methodologies.</li>
+</ul>
+<p>📅 Within three months, you will…</p>
+<ul>
+<li>Demonstrate a comprehensive understanding of the Code Search product, its underlying technologies, and its integration within the Sourcegraph ecosystem.</li>
+<li>Begin to take ownership of specific areas of the product, showcasing expertise and problem-solving capabilities.</li>
+<li>Regularly participate in code reviews, providing constructive feedback to peers and upholding our high standards of code quality.</li>
+<li>Engage in team discussions on architectural design, scalability, and other higher-level aspects, bringing clarity and forward momentum to such conversations.</li>
+<li>Mentor and provide guidance to junior team members, fostering their growth and development within the Code Search team.</li>
+<li>Lead or co-lead smaller projects, showcasing strong scoping, implementation, and delivery skills.</li>
+<li>Proactively identify potential challenges in projects and work towards mitigating risks and ensuring smooth execution.</li>
+</ul>
+<p>📅 Within six months, you will…</p>
+<ul>
+<li>Act as a go-to expert within your domain, helping to address complex challenges, guide the team through intricate issues, and define best practices.</li>
+<li>Proactively dive into unfamiliar areas of the codebase, suggesting improvements, and ensuring that our technical infrastructure remains robust and forward-looking.</li>
+<li>Have a significant influence on the team’s roadmap, proposing new features, optimizations, and refactors based on customer needs, technical debt, and industry best practices.</li>
+<li>Lead larger projects from conception to deployment, ensuring that they align with our strategic objectives and adhere to our quality standards.</li>
+<li>Play a pivotal role in shaping the team's culture, ensuring that it remains collaborative, innovative, and focused on continuous growth.</li>
+<li>Actively mentor junior team members and collaborate with other senior engineers, ensuring their success within their teams.</li>
+</ul>
+<h2><span style="color: rgb(161, 18, 255);"><strong>About you</strong></span></h2>
+<p>You are a passionate Full-stack Software Engineer with 2-5 years of hands-on experience, eagerly seeking a challenging role that allows you to leverage your technical skills while also offering opportunities for learning and growth. Your coding skills are solid, and you are proficient in your primary focus area, yet you remain open and excited to dive into different parts of the technology stack.</p>
+<p>You are eager to continue building your track record of excellence, autonomy, and the expertise to solve complex software engineering challenges.</p>
+<p>While you are task-oriented and able to follow directions, you are also demonstrating a growing sense of independence in your work. You are self-sufficient, capable of delivering results with minimal guidance, and unafraid to take the lead on small and mid-sized projects. You are adaptable, thriving in a fast-paced, dynamic environment. You take ownership of your work, you are self-motivated, and you exhibit a strong sense of accountability and responsibility for the success of the product.</p>
+<p>Qualifications:</p>
+<ul>
+<li>You are proficient in Go, with exposure to scaling and concurrency.</li>
+<li>You are proficient with Typescript and Javascript frameworks; experience with React and SvelteKit is a plus.</li>
+<li>You have some knowledge of GraphQL.</li>
+<li>You are comfortable with Docker and Kubernetes.</li>
+<li>You are comfortable interacting with relational databases; PostgreSQL experience is a plus.</li>
+<li>You are comfortable with the command-line interface and bash scripting.</li>
+<li>You are comfortable in a multi-service environment.</li>
+<li>You can utilize Bazel as a build tool.</li>
+<li>You are familiar with macOS and Linux platforms.</li>
+</ul>
+<h2><span style="color: rgb(161, 18, 255);"><strong>Level</strong></span></h2>
+<p>📊 This job is an IC2. You can read more about <a href="https://www.notion.so/sourcegraph/Leveling-Guide-0e1b5c76ada64b9caac387f8b7c4fc66?pvs=4">our job leveling philosophy</a> in our Handbook.</p>
+<h2><span style="color: rgb(161, 18, 255);"><strong>Compensation</strong></span></h2>
+<p><strong>💸 We pay you an above-average salary</strong> because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. As an <a href="https://sourcegraph.notion.site/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d">open and transparent</a> company that values <a href="https://www.notion.so/sourcegraph/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=4">competitive compensation</a>, our compensation ranges are visible to every single Sourcegraph teammate.</p>
+<p>To determine your salary, we use a number of market and data-driven salary sources, along with your location zone, and target the high-end of the range to ensure we’re always paying above market regardless of where you live in the world. Both U.S. and international locations are divided into one of four zones, determined by the cost of labor index for each area. The starting salary for a successful candidate will be based on level, job-related skills, experience, qualifications, and location zone. Please note that these salary ranges may be adjusted in the future.</p>
+<p>💰 The target compensation for this role is $58,000 - $116,000 USD base.</p>
+<p>Zone 2: $116,000 USD<br>Zone 3: $87,000 USD<br>Zone 4: $58,000 USD</p>
+<p>Please speak with a recruiter for additional information regarding zone locations.</p>
+<p>📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous <a href="https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba">perks &amp; benefits</a>.</p>
+<h2><span style="color: rgb(161, 18, 255);"><strong>Interview process</strong></span></h2>
+<p><em>Below is the interview process you can expect for this role (you can read more about </em><a href="https://sourcegraph.notion.site/Types-of-interviews-f279f080583d49ee9f2c60e30c8cb1f7"><em>the types of interviews</em></a><em> in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&nbsp;</em></p>
+<p>We expect the interview process to take 5.5 hours in total.</p>
+<p><strong>👋 Introduction Stage</strong> - we have initial conversations to get to know you better…</p>
+<ul>
+<li>[30m]&nbsp;<a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#99be5ff628b2414194a0ba79d9f25f13">Recruiter Screen</a></li>
+<li>[15m]&nbsp;<a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#1919882c0cf147c487eb1df40db8a694">Hiring Manager Screen</a></li>
+</ul>
+<p><strong>🧑‍💻 Team Interview Stage</strong> - we then delve into your experience in more depth and introduce you to members of the team, including cross-functional partners…</p>
+<ul>
+<li>[60m] <a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#c678a2a86e0e47e4958507e869bf7ded">Resume Deep Dive</a></li>
+<li>[45m]&nbsp;<a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#cb00697e95304550a146c32563c0255d">Cross-functional team collaboration</a>&nbsp;</li>
+<li>[60m] Code Walkthrough</li>
+<li>[60m] Pairing Exercise</li>
+</ul>
+<p><strong>🎉 Final Interview Stage </strong>- we move you to our final round, where you gain a better understanding of our business and values holistically…</p>
+<ul>
+<li>[30m]&nbsp;<a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#e3a04291743048df87541a88aa8199dd">Values</a></li>
+<li>[30,]&nbsp;<a href="https://www.notion.so/sourcegraph/How-to-work-with-Quinn-Slack-CEO-807673e0864d473f959cc4efd9642a5a?pvs=4#6f185c0e2011411eac5be9c675f9056c">Leadership</a> with co-founder&nbsp;</li>
+<li>We check references and conduct your background check</li>
+</ul>
+<p>Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.</p>
+
+    
+
+    <div class="content-conclusion"><h2><strong><span style="color: #a112ff;">Not sure if this is you?</span></strong></h2>
+<p><span style="font-weight: 400;">We want a diverse, global team, with a broad range of experience and perspectives. If this job sounds great, but you’re not sure if you qualify, apply anyway! We carefully consider every application, and will either move forward with you, find another team that might be a better fit, keep in touch for future opportunities, or thank you for your time.</span></p>
+<h2><strong><span style="color: #a112ff;">Learn more about us</span></strong></h2>
+<p><span style="font-weight: 400;">To create a product that serves the needs of all developers, we are building a diverse </span><a href="https://sourcegraph.notion.site/All-remote-guidelines-4d1270d806294bf4ae6db7ab02911957"><span style="font-weight: 400;">all-remote team</span></a><span style="font-weight: 400;"> that is </span><a href="https://www.notion.so/sourcegraph/7ed54d4ec4624475a4b45619901236d7?v=e06d936c673f46ca8c313a557bd4410f"><span style="font-weight: 400;">distributed across the world</span></a><span style="font-weight: 400;">. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.&nbsp;</span></p>
+<p><span style="font-weight: 400;">We provide </span><a href="https://sourcegraph.notion.site/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74"><span style="font-weight: 400;">competitive compensation</span></a><span style="font-weight: 400;"> and </span><a href="https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba?pvs=74"><span style="font-weight: 400;">practical benefits</span></a><span style="font-weight: 400;"> to keep you happy and healthy so that you can do your best work.&nbsp;</span><span style="font-weight: 400;">&nbsp;</span></p>
+<p><span style="font-weight: 400;">Learn more about what it is like to work at Sourcegraph by reading </span><a href="https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0"><span style="font-weight: 400;">our handbook</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process.</span></p>
+<p><span style="font-weight: 400;">Go back to the </span><a href="https://about.sourcegraph.com/jobs/"><span style="font-weight: 400;">careers page</span></a><span style="font-weight: 400;"> for all open positions.</span></p>
+<p><em><span style="font-weight: 400;">Sourcegraph participates in <a href="https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107" target="_blank">E-Verify</a> for U.S. Employees</span></em></p></div>
 
                 </details>
                 </td>
@@ -2157,90 +2086,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>Pluto is a modern financial operating system for global businesses. We combine our global payments infrastructure with intelligent workflow automation to provide businesses with unparalleled insights, control, and automation over their payments.</p><p>Pluto is a venture-capital funded company backed by top-tier Silicon Valley investors and built by folks from some of the best technology institutions in the world -- Google, Shopify, Square, PayPal, Cash App, Uber, Y Combinator, and more</p><p>We are reinventing corporate finance for the modern age and are solving challenging problems in the B2B payments space. With a stronghold in Dubai (UAE) and sights set on expansion, we're now looking for a seasoned&nbsp;<strong>Senior Software Engineer</strong> to help shape our next chapter.<br></p><h3>What You’ll Do</h3><ul> <li>Design and develop Pluto’s flagship products and build complex, resilient payments infrastructure</li> <li>Play a pivotal role in architecting and building critical payment processing, ledgering, and financial reconciliation systems</li> <li>Architect and implement robust integrations with various payment rails and financial APIs</li> <li>Lead the development lifecycle of features and work streams from design to deployment</li> <li>Become a voracious problem solver who can tackle difficult issues on tight timelines, manage cross-functional dependencies and set an exemplary bar for engineering within the organization</li> <li>Write and maintain clean, maintainable and testable code, leveraging design patterns and architecture where appropriate</li> <li>Participate in code reviews, pair-programming sessions and provide constructive feedback to peers</li> <li>Develop a strong understanding of the domain and bring a deep product and design mindset while building solutions</li> </ul><h3>Bonus Points</h3><ul> <li>Previous work experience in the banking or fintech</li> <li>Familiarity with financial industry frameworks and technologies such as payment gateways, transaction processing systems, or financial messaging protocols (e.g ISO 20022, ISO8583, SWIFT, SEPA, or Open Banking APIs)</li> <li>Familiarity with cloud platforms such as AWS or Azure and experienced in deploying and managing applications in a cloud environment.</li> <li>Experience with Kubernetes or other container orchestration platforms</li> <li>Experience with JVM tuning, configuration &amp; metrics</li> </ul><h3><strong>Our Tech Stack</strong></h3><ul> <li> <strong>Frontend:</strong>&nbsp;React, TypeScript</li> <li> <strong>Backend:</strong>&nbsp;Kotlin, GraphQL, Temporal</li> <li> <strong>Database:</strong>&nbsp;Postgres, AWS Aurora</li> <li> <strong>Infrastructure:</strong>&nbsp;AWS, Kubernetes, Terraform</li> <li> <strong>Observability:</strong>&nbsp;Datadog, Cloudwatch, Lightstep</li> </ul><h3>Requirements: </h3><h3><strong>Who We're Looking For</strong></h3><ul> <li>5+ years of professional experience as a software engineer (with a focus on payments/fintech)</li> <li>Extensive experience in developing and integrating with banking and card scheme protocols</li> <li>Experience in working with third-party APIs and integrating external financial services into backend systems</li> <li>Mastery in at least one programming language (e.g Kotlin, Java, Go, Scala, Rust)</li> <li>Deep understanding of relational and non-relational databases and distributed systems</li> <li>Strong grasp of SQL and relational data modelling</li> <li>Experienced with API design and development (e.g GraphQL, REST, RPC)</li> <li>Experience in designing and developing scalable, secure and reliable backend systems.</li> <li>Strong understanding of SDLC, software design principles, architectural and integration patterns</li> <li>Strong problem-solving skills and ability to analyze and debug complex software systems</li> <li>Excellent communication and collaboration skills, with the ability to work effectively in cross-functional teams.<br> </li> </ul><h3><strong>Our Values</strong></h3><p>At Pluto, we live by the following core values:</p><ul> <li> <a href="https://handbook.gitlab.com/handbook/people-group/directly-responsible-individuals/" rel="nofollow noreferrer noopener" class="external"><strong>Directly Responsible Individuals (DRI)</strong></a>: We empower team members with autonomy to own their projects and outcomes fully, fostering a culture of accountability, clarity and outsized impact. As the DRI you are the driver of success for your projects — proactively identifying, communicating and mitigating risks and resolving blockers to ensure success.</li> <li> <strong>Clear Communication</strong>: At Pluto, we emphasize clear, transparent communication as fundamental to our success. We strive for clarity, succinctness and transparency in all interactions, ensuring that every message is articulated clearly and understood universally across our teams. This commitment to clarity reduces misunderstandings and fosters a more productive environment especially for distributed teams.</li> <li> <strong>Systems Thinking &amp; First Principles Reasoning</strong>: We love to deconstruct problems and innovate from the ground up. By understanding complex systems and questioning assumptions, we are able to develop creative solutions to difficult problems.</li> <li> <strong>Fact-centric</strong>: We are intentional about questioning our assumptions, and bringing the facts to focus by diving into the data, quick-fire experimentation &amp; swift prototyping. We make room for varied perspectives &amp; calibrate our goals with metrics that track our progress, and accurately reflect reality.</li> </ul><h3>Benefits: </h3><ul> <li>Competitive compensation &amp; stock options so you have skin in the game</li> <li>Remote-first work environment</li> <li>We'll ship you a new MacBook</li> <li>Monthly fitness benefit up to $100 USD</li> <li>Home-office budget up to $1000 USD</li> <li>Discretionary learning budget</li> </ul>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1630623773090037787/M9jBuyQv_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Xapo Bank</h5>
-                    <h3>Senior Software Engineer - Wealth Management (Remote - Work from Anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/xapo61/jobs/5984246003" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;div class=&quot;content-intro&quot;&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-weight: 900;&quot;&gt;Work from anywhere, impact everywhere&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Diversity is at the heart of who we are at Xapo Bank. We’re a fully distributed team of over 140 Xapiens that work remotely from 40+ countries around the world.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Our beginning: A world that enjoys economic freedom and wealth protection, no matter where you live or who is running your country. This is the dream that drove Wences Casares, our Founder and Chairman, to quietly transform the world of banking.&lt;/p&gt;
-&lt;p&gt;To achieve that, we search the world for the best people for the job. We work hard, think globally, and inspire each other to learn and grow. We are committed to changing the way things are done.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Risk is inherent in all of our business activities and managing risk well is the responsibility of every Xapien. Sound risk management enables us to serve our customers and deliver value for our shareholders, and helps make Xapo a great place to work.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p style=&quot;text-align: left;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Although we are headquartered in Gibraltar, this is a full time, 100% remote position&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Work from anywhere!&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Position overview&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;We’re looking for a Senior Software Engineer to join our engineering function. At Xapo, we are&amp;nbsp;building truly cross-functional teams with full ownership of design, architecture, building, testing, delivery, data, and operations.&lt;br&gt;You will collaborate closely with fellow team members from the product, apps, design, and QA&amp;nbsp;communities of practice. You will be part of the product team (we call them SATs, the Stream&amp;nbsp;Aligned Teams, as in the Team Topologies) in charge of the Wealth Management products &amp;amp; Banking&lt;br&gt;Platform at Xapo.&lt;br&gt;As a Senior Software Engineer, you will develop a high-impact service, provide guidance and&amp;nbsp;coaching around technical good practices, and play an active, critical role in the Development&amp;nbsp;Community of practice. You will shape architectural and technical patterns used in the company to&lt;br&gt;solve the problems for operational teams, improve UX, and cause a WOW effect in the eyes of our&amp;nbsp;Members. With that in mind, you will have an immense impact on how the future of finance looks like.&lt;/p&gt;
-&lt;p&gt;Our tech stack includes:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;AWS for all of our Infrastructure&lt;/li&gt;
-&lt;li&gt;Docker&lt;/li&gt;
-&lt;li&gt;Python (Django, Flask)&lt;/li&gt;
-&lt;li&gt;MySQL&lt;/li&gt;
-&lt;li&gt;MongoDB&lt;/li&gt;
-&lt;li&gt;Redis&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;We also use:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Cassandra&lt;/li&gt;
-&lt;li&gt;PostgreSQL&lt;/li&gt;
-&lt;li&gt;Node.js&lt;/li&gt;
-&lt;li&gt;Java&lt;/li&gt;
-&lt;li&gt;BigQuery&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Responsibilities&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Support, coach, and develop team members into top-performing engineers.&lt;/li&gt;
-&lt;li&gt;Working closely in cross-functional teams where everyone is responsible for the outcome.&lt;/li&gt;
-&lt;li&gt;Build a great place to work for talented and motivated people&lt;/li&gt;
-&lt;li&gt;Designing, developing, and deploying backend services focusing on high availability, fault&amp;nbsp;tolerance, low latency, and security.&lt;/li&gt;
-&lt;li&gt;Take full end-to-end responsibility for the services your team owns, from development to&amp;nbsp;production, operations, and data.&lt;/li&gt;
-&lt;li&gt;Develop innovative solutions with Bitcoin at its core.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Skills needed&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Significant software engineering experience in one or more general-purpose programming&amp;nbsp;languages (we use Python)&lt;/li&gt;
-&lt;li&gt;Excellent teamwork and communication skills, comfortable preparing high-quality&amp;nbsp;documentation and designs to aid understanding and knowledge sharing.&lt;/li&gt;
-&lt;li&gt;Understanding the microservices architecture, container-based 12-factor apps, and&amp;nbsp;cloud-native patterns around fault tolerance.&lt;/li&gt;
-&lt;li&gt;Track record of using Event Storming and Domain Driven Design, delivering highly scalable&amp;nbsp;asynchronous software.&lt;/li&gt;
-&lt;li&gt;Experience building contract-first services and adopting patterns and frameworks to enable&amp;nbsp;appropriate automated testing at the unit, contract, service, and end-to-end levels.&lt;/li&gt;
-&lt;li&gt;Experience building services that can be deployed on demand, quickly, and with quality.&lt;/li&gt;
-&lt;li&gt;Excellent understanding of CI/CD patterns and good practice.&lt;/li&gt;
-&lt;li&gt;Understand the role of high-quality observability in building highly scalable and performant&amp;nbsp;software.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Other requirements&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A dedicated workspace.&lt;/li&gt;
-&lt;li&gt;A reliable internet connection with the fastest speed possible in your area.&lt;/li&gt;
-&lt;li&gt;Devices and other essential equipment that meet minimal technical specifications.&lt;/li&gt;
-&lt;li&gt;Alignment with Our Values and the Xapo Values-Driven Leadership principles.&lt;/li&gt;
-&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Why work for Xapo?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 500; font-size: 10pt;&quot;&gt;IMPACT GLOBALLY, WORK REMOTELY.&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Shape the Future:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; Improve lives through cutting-edge technology, work 100% remotely from anywhere in the world.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Great work-life balance:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Build amazing things with a balance of autonomy and collaborative teamwork. Set your own work schedule and make use of a flexible PTO plan when you need to recharge.&lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Expect Excellence:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; Collaborate, learn, and grow with a high-performance team. Learn&lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; how you learn best - from books to conferences, you’ll get a yearly budget for your individual learning and development goals.&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;At Xapo, we prioritize consumer protection and adhere to regulatory requirements by ensuring that all Xapiens are accountable for upholding principles of fair treatment, transparency, and ethical conduct in their interactions with customers and stakeholders.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr></table>
