@@ -10,7 +10,7 @@
                     <code>AWS,docker,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/site-reliability-engineer-1923232" align="right" target="_blank">Apply</a>
@@ -95,100 +95,6 @@
 </li>
 </ol>
 <img src="https://remotive.com/job/track/1923232/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Supabase</h5>
-                    <h3>Cloud Platform / Site Reliability Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/supabase/jobs/5172163004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p><img src="https://pbs.twimg.com/media/FIdU8GJWQAUGWRA?format=jpg&amp;name=small" alt="Join Supabase" width="680" height="453"></p></div>
-
-    <p>Supabase is an Open Source and fully remote company building developer tools for databases. We are seeking a Cloud Platform Engineer / SRE to manage the infrastructure of our Postgres databases. We currently manage over 1M Postgres instances and are growing fast.</p>
-<h4>You will</h4>
-<ul>
-<li>Help build the Supabase Cloud offering.</li>
-<li>Improve our system architecture to reduce costs while balancing security and performance.</li>
-<li>Work on designing and tracking metrics for platform uptime.</li>
-<li>Increase observability into our system by capturing relevant metrics and logs.</li>
-<li>Implement and maintain intrusion detection, automated remediation and patch management systems.</li>
-<li>Design CI/CD systems to speed up deployments with proper change and release management processes.</li>
-</ul>
-<h4>You are</h4>
-<ul>
-<li>Experience in designing multi-tenant database solutions, designing for failover, fault-tolerance, and disaster recovery;</li>
-<li>5+ years experience in SRE/DevOps/Cloud Infrastructure;</li>
-<li>4+ years of experience in building with Golang and Typescript;</li>
-<li>Experience in managing large deployments on AWS;</li>
-<li>Knowledge of networking;</li>
-<li>Experience with Infrastructure as Code tools;</li>
-</ul>
-<h4>Onboarding logistics</h4>
-<p>Successful candidates will be required to participate in an in-person onboarding program in Singapore. This onboarding process will last for 1-2 weeks. During this time, new hires will be immersed in our culture, systems, and processes, ensuring they are well-prepared to excel in their responsibilities.</p>
-<h4>We offer</h4>
-<ul>
-<li>100% remote work from anywhere in the world. No location-based adjustment to your salary.</li>
-<li>ESOP (equity ownership in the company)</li>
-<li>Autonomous work. We work collaboratively on projects, but you set your own pace.</li>
-<li>Health, Vision and Dental benefits. Supabase covers 100% of the cost for employees and 80% for dependents</li>
-<li>Tech Allowance for any office setup you need</li>
-<li>Annual Education Allowance</li>
-<li>Annually run off-sites.</li>
-</ul>
-<p>&nbsp;</p>
-
-    
-
-    <div class="content-conclusion"><h3>BUILD IN A WEEKEND. SCALE TO BILLIONS</h3>
-<p>Supabase adds auth, realtime, and restful APIs to Postgres without a single line of code.</p>
-<p>Each project within Supabase is an isolated&nbsp;Postgres cluster, allowing customers to scale independently, while still providing the features that you need to build: instant database setup, auth, row level security, realtime data streams, auto-generating APIs, and a simple to use web interface.</p>
-<p>We are a fully remote company.</p>
-<p>Key Tech: Javascript, Typescript, Go, Elixir, PostgREST (haskell), Postgres, Pulumi.</p>
-<h3><a id="about-the-team" class="anchor"></a>About the team</h3>
-<ul>
-<li>We're a startup. It's unstructured.</li>
-<li>Collectively founded more than a dozen venture-backed companies.</li>
-<li>More than 10 different nationalities.</li>
-<li>We deeply believe in <a href="https://supabase.com/blog/2022/03/25/should-i-open-source-my-company" target="_blank">the efficacy of collaborative open source</a>. We support existing communities and tools, rather than building "yet another xx".</li>
-<li>We "dogfood" everything. If you use it in your project, we use it in Supabase.</li>
-</ul>
-<h2><a id="process" class="anchor"></a>Process</h2>
-<ul>
-<li>The entire process is fully remote and all communication will happen over email or via video chat.</li>
-<li>Once you've submitted your application, the team will review your submission, and may reach out for a short screening interview over video call.</li>
-<li>If you pass the screen you will be invited to up to four follow up interviews. The calls:
-<ul>
-<li>usually take between 20-45 minutes each depending on the interviewer.</li>
-<li>are all 1:1.</li>
-<li>will be with both founders, a member of either the growth or engineering team (depending on the role), and usually one other person from your immediate team or function.</li>
-</ul>
-</li>
-<li>Once the interviews are over, the team will meet to discuss several roles and candidates and may:
-<ul>
-<li>ask one or two follow-up questions over email or a quick call.</li>
-<li>go directly to making an offer.</li>
-</ul>
-</li>
-</ul>
-<h2>&nbsp;</h2></div>
-
                 </details>
                 </td>
             </tr>,<tr>
@@ -332,15 +238,15 @@
 <p><br /></p>
 <ul><li><strong>Remote First, Always</strong>: We've always been a fully distributed company with team members all over the world. We trust you to get your work done wherever, and whenever.   </li><li><strong>Commitment to Personal Growth:</strong> Every team member has an annual budget of $1,250 USD to invest in their professional development. For team members in designated leadership roles, we offer reimbursement for leadership coaching services. The reimbursement amount varies by professional level. Every team member also has a dedicated Career Advisor, who serves as a guide to help you develop your strengths, identify your motivations, and understand your opportunities for growth. </li><li><strong>Leadership:</strong> We have many different types of leaders and possible combinations of leadership roles, so you can grow your career in a way that aligns best with your personal goals. You can seek additional leadership roles by being directly responsible for projects, taking ownership of areas of the company, developing and maintaining internal processes, or pursuing advisory roles. </li><li><strong>Work/Life Balance: </strong>Team members have the freedom and flexibility to organize their own work schedules. We want you to thrive both in and out of the office. We trust you to use good judgment and take the time off that you need to bring your best self to work.  </li></ul>
 <p><br /></p>
-<p>We also offer paid parental leave, a co-working stipend, office setup reimbursement, and a wellness stipend. More support resources can be found in our <u><a href="https://duckduckgo.com/assets/hiring/team_support_guide.pdf" rel="noopener">Team Member Support Guide</a></u><a> </a><u><a href="https://duckduckgo.com/assets/hiring/team_support_guide.pdf" rel="noopener"><br /></a></u>(<a href="https://duckduckgo.com/assets/hiring/team_support_guide.pdf" rel="noopener">https://duckduckgo.com/assets/hiring/team_support_guide.pdf</a>), which explains how we make your well-being a priority. </p>
+<p>We also offer paid parental leave, a co-working stipend, office setup reimbursement, and a wellness stipend. More support resources can be found in our <u><a href="https://duckduckgo.com/assets/hiring/team_support_guide.pdf" rel="noopener">Team Member Support Guide</a></u><a rel="noopener"> </a><u><a href="https://duckduckgo.com/assets/hiring/team_support_guide.pdf" rel="noopener"><br /></a></u>(<a href="https://duckduckgo.com/assets/hiring/team_support_guide.pdf" rel="noopener">https://duckduckgo.com/assets/hiring/team_support_guide.pdf</a>), which explains how we make your well-being a priority. </p>
 <p><br /></p>
-<p>For more information on how we collaborate worldwide, from leadership in our relatively flat organization to start-to-finish ownership<strong>,</strong> check out <u><a href="https://duckduckgo.com/how-we-work" rel="noopener">DuckDuckGo Culture: How We Work</a></u><a> (</a><a href="https://duckduckgo.com/how-we-work" rel="noopener">https://duckduckgo.com/how-we-work</a>).</p>
+<p>For more information on how we collaborate worldwide, from leadership in our relatively flat organization to start-to-finish ownership<strong>,</strong> check out <u><a href="https://duckduckgo.com/how-we-work" rel="noopener">DuckDuckGo Culture: How We Work</a></u><a rel="noopener"> (</a><a href="https://duckduckgo.com/how-we-work" rel="noopener">https://duckduckgo.com/how-we-work</a>).</p>
 <p><br /></p>
 <p><strong>Compensation</strong> </p>
-<p>Annual compensation: <strong>242,000</strong> <strong>USD</strong> and stock options. Compensation is the same within a professional level, regardless of geographic location or functional area, and the compensation for each professional level is transparent across the organization.</p>
+<p>Annual compensation: <strong>$</strong><strong>242,000</strong> <strong>USD</strong> and stock options. Compensation is the same within a professional level, regardless of geographic location or functional area, and the compensation for each professional level is transparent across the organization.</p>
 <p><br /></p>
 <p><strong>Hiring Process</strong> </p>
-<p>Hiring works best when it's a two-way street. Learn how we help you get to know DuckDuckGo and envision your future role here. Find out more about <u><a href="https://duckduckgo.com/how-we-hire" rel="noopener">how we hire</a></u><a> (</a><a href="https://duckduckgo.com/how-we-hire" rel="noopener">https://duckduckgo.com/how-we-hire</a>).<u><a href="https://duckduckgo.com/how-we-hire" rel="noopener"><br /></a></u></p>
+<p>Hiring works best when it's a two-way street. Learn how we help you get to know DuckDuckGo and envision your future role here. Find out more about <u><a href="https://duckduckgo.com/how-we-hire" rel="noopener">how we hire</a></u><a rel="noopener"> (</a><a href="https://duckduckgo.com/how-we-hire" rel="noopener">https://duckduckgo.com/how-we-hire</a>).<u><a href="https://duckduckgo.com/how-we-hire" rel="noopener"><br /></a></u></p>
 <p><br /></p>
 <p><strong>Diversity, Equity, and Inclusion</strong> </p>
 <p>DuckDuckGo provides equal work opportunities to all team members and applicants<u>,</u> and it prohibits discrimination and harassment of any type on the basis of race, color, ethnicity, caste, religion, age, sex (including pregnancy), national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by our policies or federal, state, or local laws.</p>
@@ -352,7 +258,7 @@
 <p><strong>Please note that:</strong> </p>
 <ul><li>Sometimes we meet up! Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.</li><li>While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week. </li><li>A successful candidate will be subject to a background check and must receive satisfactory results of the same, as a condition of joining the team. </li><li>By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work. </li></ul>
 <p><br /></p>
-<p>#US #UK #SP #PL #IR #IC #HN #CR #CN #AU</p>
+<p>#INT</p>
                 </details>
                 </td>
             </tr>,<tr>
