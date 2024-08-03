@@ -10,7 +10,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -163,90 +163,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p>Experience with full-stack web development, Python, PostgreSQL, and Linux is required. Competency or interest in data visualization, UI, UX, and design are desired.</p>
 <p>Why Join MixRank? Fully-remote, no HQ office. Team of 32 people across 15+ countries Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
 <p>Please include your updated resume when applying for this role.</p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/11767950?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Status</h5>
-                    <h3>L2 Lead Developer </h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=5931357&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of Apps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol, the p2p communication layer for Web3.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception. Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <p><strong>About Status Network</strong></p>
-<p>Status Network is a forward-looking zkEVM L2 rollup on Ethereum tailored for social applications and seamless access to DeFi yield opportunities for everyone. Status Network is dedicated to providing an open playground for communities to build on and thrive, while also incentivising liquidity thanks to a native yield market. We are deeply committed to decentralisation, with a focus on minimising censorship risks and preserving the right to privacy.</p>
-<p>Status Network is tightly integrated within the broader <a href="http://free.technology">IFT ecosystem</a>. The IFT is building the tools and infrastructure for the advancement of a secure, private, collaborative and open internet, which includes the Status app.&nbsp;</p>
-<p>Status Network is set to become a settlement layer for these different protocols and social applications, offering the most seamless and open social infrastructure to build truly onchain organisations. Status Network will bring direct utility to the SNT token with upgraded tokenomics taking into account sequencer revenues.</p>
-<p><strong>The role</strong></p>
-<p>The L2 Lead Developer at Status Network will be responsible for the comprehensive deployment and ongoing operation of this new zkEVM L2 rollup. This role includes full oversight of the infrastructure setup in collaboration with a RaaS (Rollup as a Service) provider and other infrastructure partners. The Lead Developer will manage the integration of essential third-party partners required for the blockchain's operation, including but not limited to bridges, RPC endpoint providers, developers tooling, blockchain indexers and explorers, and fiat-to-crypto gateways, with a focus on delivering the smoothest developer experience.</p>
-<p>This position offers a unique opportunity to lead the engineering efforts for the launch and subsequent growth of a groundbreaking zk L2 rollup. You will be at the forefront of developing a platform that not only supports decentralised applications but also integrates social and financial functionalities deeply within its architecture, paving the way for a new era of onchain social interaction and economic exchange.</p>
-<p>If you are driven by innovation in blockchain technology, eager to lead a cutting-edge project, and passionate about decentralisation and privacy, this role will provide you with the perfect platform to make a significant impact.</p>
-<p><strong>Key responsibilities:</strong></p>
-<ul>
-<li>Spearhead the implementation, launch, and ongoing development of a new zkEVM L2 rollup on Ethereum.</li>
-<li>Oversee the entire infrastructure for the L2 rollup, collaborating with our RaaS and infra providers to ensure high reliability and performance.</li>
-<li>Manage technical integrations with external third-party providers as well as internal teams, including adapting Nimbus client software for the rollup and working with the Status App client teams for application integration.</li>
-<li>Collaborate on the codebase of our L2 stack partner to innovate and enhance the security and performance of our zkEVM rollup stack.</li>
-<li>Drive the development process of Status Network by establishing rigorous testing protocols on testnets and mainnet, implementing best practices in coding, security, and system design, and coordinating deployment processes to ensure the rollup's integrity and availability at launch.</li>
-<li>Engage with the community and developers through outreach, documentation, and support to encourage adoption and feedback for continuous improvement.</li>
-<li>Lead, mentor, and expand our team of developers and engineers, promoting a culture of innovation and collaboration.</li>
-</ul>
-<p><strong>You will ideally have:</strong></p>
-<ul>
-<li>Strong experience in the Ethereum ecosystem, particularly with L2 solutions like zkEVM rollups.</li>
-<li>Advanced knowledge of Solidity programming and a deep understanding of blockchain mechanics.</li>
-<li>Proven track record of leading software development teams, with experience successfully managing cross-functional teams.</li>
-<li>History of contributing to or leading open-source projects.</li>
-<li>Expertise in cloud infrastructure management, especially with AWS, including configuring and managing scalable and secure environments suitable for blockchain applications</li>
-<li>Proficient in setting up and maintaining continuous integration and continuous deployment (CI/CD) pipelines to streamline development and deployment processes, especially in the context of open-source software.</li>
-<li>Experience with implementing and managing decentralised and distributed systems, demonstrating a robust understanding of the challenges and solutions specific to these environments.<br>A hands-on approach and technical proficiency in troubleshooting, optimising, and innovating blockchain solutions under various constraint<br>Experience with various blockchain infrastructures and applications, including node operation, blockchain explorer integration, DeFi and NFT lending protocols, and cross-chain bridge mechanisms.</li>
-<li>Understanding of other blockchain and cryptographic technologies, including consensus algorithms, DeFi smart contract security, and network protocols.</li>
-<li>A strong alignment to our principles: <a href="https://status.app/manifesto">https://status.app/manifesto</a></li>
-</ul>
-<p><strong>Bonus points:</strong></p>
-<ul>
-<li>Degen</li>
-<li>Comfort with remote and asynchronous work environments</li>
-<li>A passionate advocate for the Ethereum community and the broader ethos of open-source contribution</li>
-<li>Enthusiasm for decentralisation and a personal drive to promote censorship resistance within the crypto space</li>
-</ul>
-<p><em>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</em></p>
-<p><strong>Hiring process:</strong></p>
-<ul>
-<li>Interview with our People Ops team</li>
-<li>Interview with IFT Team Member</li>
-<li>Interview with IFT Team Member</li>
-<li>Interview with Program Lead</li>
-</ul>
-<p><strong>Compensation</strong></p>
-<p>The expected compensation range for this role is $140,000 - $180,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process). We are happy to pay in any mix of fiat/crypto.</p>
-
-    
-
-    
 
                 </details>
                 </td>
@@ -681,30 +597,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Middle/Senior Python Developer for Imunify CloudAV</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/4A41E04A84" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p></p><p>Imunify Security is a cutting-edge security solution that harnesses the power of Artificial Intelligence to protect Linux web servers. It is specifically tailored for shared and VPS/Dedicated servers, ensuring top-notch security. With its user-friendly interface and advanced six-layer security approach, Imunify delivers a comprehensive and foolproof defense against any type of attack.</p><p>Work is fully remote, with flexible hours, allowing you to plan your day and work from anywhere across the world.</p><p>For more details about the project, please visit the product website at <a href="https://imunify360.com/" rel="nofollow noreferrer noopener" class="external">Imunify360.com</a>.</p><p><strong>Join our team as a Python developer engineer and take on exciting challenges:&nbsp;</strong></p><ul> <li>Participate in architecture discussions and contribute to writing technical documents&nbsp;</li> <li>Investigate and address infrastructure issues</li> <li>Contribute to the creation of effective malware detection and remediation mechanisms&nbsp;</li> <li>Create high-performance and scalable code for processing big data&nbsp;</li> <li>Collaborate in analytics brainstorms and shape the team's backlog with your own vision&nbsp;</li> </ul><h3>Requirements: </h3><p></p><p><strong>To thrive in this role, we are looking for someone who:</strong></p><ul><li>Has 3+ years of Python programming experience</li></ul><ul> <li>Can write efficient code and understands concurrency (asyncio) and multiprocessing well.</li> <li>Proficient in GNU/Linux operating system and shell scripting</li> <li>Experienced with git-based development processes</li> <li>Is familiar with automated testing and CI/CD systems</li> <li>Demonstrates at least intermediate proficiency in English</li> </ul><p><strong>It would be great if you also have:</strong></p><ul> <li>Familiarity with Kubernetes</li> <li>Experience as a DevOps or SysAdmin</li> <li>Experience with Airflow</li> <li>Experience with ClickHouse, MongoDB, and PostgreSQL</li> <li>Experience with S3, Ceph, SeaweedFS (great plus)</li> <li>Knowledge of NGINX</li> </ul><p><strong>In addition, it is essential that you:</strong></p><ul> <li>Are quick to learn and proactive.</li> <li>Are highly self-motivated and determined to accomplish set goals.</li> <li>Can independently analyze tasks and identify optimal solutions.</li> <li>Are skilled at collaboration and working effectively in teams.</li> </ul><p></p><p>At CloudLinux, we are not just a company, but a close-knit community that values our employees above all. With our remote-first approach, each team member is empowered to excel in their roles, knowing that they have the support they need. Our high-performance, cost-effective Linux infrastructure and security products enable companies to streamline their operations and boost efficiency.</p><p>At CloudLinux, we believe that teamwork and collaboration are the keys to success. We foster an environment where everyone can thrive and contribute to each other's success. Here, you'll find a truly outstanding workplace.</p><p>For more information about our company, please visit <a href="http://cloudlinux.com" rel="nofollow noreferrer noopener" class="external">CloudLinux.com</a>.&nbsp;</p><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible hours, allowing you to schedule your day and work from any location worldwide.</li> <li>Paid one month of vacation per year and unlimited sick leave.</li> <li>Medical insurance reimbursement.</li> <li>Co-working and gym/sports reimbursement.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p></p><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://z-p3-scontent.fcmb7-1.fna.fbcdn.net/v/t39.30808-1/273499217_5218973671480777_3308731762242867065_n.jpg?stp=dst-jpg_p480x480&_nc_cat=110&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=3DMJ3XqIYG0Q7kNvgGKFDdD&_nc_ht=z-p3-scontent.fcmb7-1.fna&oh=00_AYCFwVF3LAhXkdLkiRsiYs5IpriXQ9zO7QmKQWcwuQQDIQ&oe=66AAD238" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -777,31 +669,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/3c1d9ac7-6738-46c5-b6ca-a35fa2a0df57-1666278594128.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Blue Coding</h5>
-                    <h3>Mid-level Full-stack Developer (IP)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/bluecoding/c2f90a1e-8fba-409b-a731-8f9d1894bcc0" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 10 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 18px">What are we looking for?</b></div><div><br></div><div><span style="font-size: 16px">In this opportunity, we are looking for a Mid-level Full-stack Developer to work with one of our foreign clients, a leading supply management and e-sourcing solutions provider dedicated to revolutionizing procurement processes. They empower businesses to enhance supplier relationships, achieve substantial cost savings, and drive sustainable value across their supply chains. Their services include e-sourcing tools for online auctions and RFx events, robust supplier and qualification processes, automated contract lifecycle management, and detailed spend analysis. They provide actionable insights and ensure data consistency for strategic decision-making by integrating advanced analytics and seamless ERP integration.</span></div><div><br></div><div><span style="font-size: 16px">If you are independent, a great communicator, a problem solver, and have strong attention to detail, this is a great fit for you! Our jobs are fully remote – as long as you have the skills and can get the work done well, you can work anywhere in the listed countries you want.</span></div><div><br></div><div><span style="font-size: 16px">If you have the skills and can get the job done, join us and work from anywhere you want!</span></div><h3>You will shine if you have:</h3><li>Proficiency in C# and ASP.NET</li><li>Experience with Javascript</li><li>Strong knowledge of SQL Server</li><li>Excellent communication and interpersonal skills</li><li>Fluency in English</li><div><br></div><div><br></div><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/3c1d9ac7-6738-46c5-b6ca-a35fa2a0df57-1666278594128.png" width="38px" height="auto">
+                    <img src="https://media.licdn.com/dms/image/C4D0BAQHlK67hgnhzQw/company-logo_200_200/0/1631346154820?e=2147483647&v=beta&t=_R2Ssj7L_f4xqmSCcq0nOLCyCz0QN2lFnHssxxhj3YY" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Blue Coding</h5>
