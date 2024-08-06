@@ -1,5 +1,78 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1928556/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Tactic</h5>
+                    <h3>Senior Software Engineer, Backend</h3>
+                </td>
+                <td width="300">
+                    <code>.Net,api,AWS,backend</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-backend-1928556" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><span style="font-weight: 600; color: #000000; letter-spacing: 0.75px;">About Us</span></p>
+<p>Join our fast-paced startup environment where we craft clean, elegant code and simplify the complex. We are a dynamic team dedicated to innovation and excellence, and we’re looking for a talented Senior Software Engineer who specializes in and enjoys working in Go to help us build scalable and efficient software solutions.</p>
+<p><span style="font-weight: 600; color: #000000; letter-spacing: 0.75px;"> </span></p>
+<p><span style="font-weight: 600; color: #000000; letter-spacing: 0.75px;">Job Summary</span></p>
+<p>We are seeking a Senior Software Engineer with extensive experience in Go to join our team. The ideal candidate will excel in developing and maintaining high-quality software applications and collaborating effectively with cross-functional teams. If you have a passion for coding in Go, a knack for solving complex problems, and experience working in a startup environment, we want to hear from you.</p>
+<p> </p>
+<p><span style="font-weight: 600; color: #000000; letter-spacing: 0.75px;">Responsibilities</span></p>
+<ul style="">
+<li style="">Design, develop, and maintain high-quality software solutions using Golang and SQL.</li>
+<li style="">Implement secure, scalable, and efficient software applications.</li>
+<li style="">Collaborate with cross-functional teams to understand business requirements and translate them into technical solutions.</li>
+<li style="">Perform code reviews to ensure adherence to best practices and maintain high code quality.</li>
+<li style="">Troubleshoot and resolve technical issues promptly.</li>
+<li style="">Continuously research and implement industry best practices to enhance our development processes.</li>
+<li style="">Mentor and coach junior developers, fostering a culture of continuous learning.</li>
+<li style="">Stay updated with the latest trends and technologies in software development.</li>
+</ul>
+<p> </p>
+<p><span style="font-weight: 600; color: #000000; letter-spacing: 0.75px;">Qualifications</span></p>
+<ul style="">
+<li style="">7+ years of experience in software development, with a focus on Go and SQL.</li>
+<li style="">Strong proficiency in the Go programming language and SQL databases.</li>
+<li style="">Experience with NodeJS and C# .NET highly desired.</li>
+</ul>
+<ul style="">
+<li style="">Experience in designing and implementing secure, scalable software solutions.</li>
+<li style="">Experience with REST API-based design.</li>
+<li style="">Excellent problem-solving skills and keen attention to detail.</li>
+<li style="">Ability to work both independently and as part of a team.</li>
+<li style="">Strong communication and interpersonal skills.</li>
+<li style="">Experience with Agile development methodologies.</li>
+<li style="">Bachelor's or Master's degree in Computer Science or equivalent experience.</li>
+</ul>
+<p> </p>
+<p><span style="font-weight: 600; color: #000000; letter-spacing: 0.75px;">Nice to Have</span></p>
+<ul style="">
+<li style="">Knowledge of AWS.</li>
+<li style="">Full stack experience.</li>
+</ul>
+<p> </p>
+<p><span style="font-weight: 600; color: #000000; letter-spacing: 0.75px;">Why Join Us</span></p>
+<ul style="">
+<li style="">Be a key early member of a dynamic and innovative team.</li>
+<li style="">Work in a collaborative environment where your ideas matter.</li>
+<li style="">Opportunities for professional growth and development.</li>
+<li style="">Seed stage equity offers.</li>
+</ul>
+<p> </p>
+<p>Tactic allows engineers to work remotely, and this role could work anywhere provided sufficient overlap with Tactic HQ based in Lehi, UT USA Mountain Time zone (GMT-6). Please provide us with your available working hours during Mountain Time when applying for this role.</p>
+<img src="https://remotive.com/job/track/1928556/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -99,35 +172,6 @@
 &lt;li&gt;Deep knowledge of Linux, container environments, bash, and infrastructure as code (e.g., Terraform, Pulumi.&lt;/li&gt;
 &lt;li&gt;Experience building SaaS developer tools preferred&lt;/li&gt;
 &lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;By applying for this position, you are agreeing to &lt;a href=&quot;https://www.timescale.com/legal/timescale-applicant-privacy-notice&quot;&gt;Timescale&#39;s Applicant Privacy Notice.&amp;nbsp;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/378800000147745937/0fac42c12b433bbbd53ff3e15cd6fca4_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MixRank</h5>
-                    <h3>Junior Backend Engineer - Global/Remote</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/PZNzyWQ-junior-backend-engineer-global-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
-<p>We're looking for remote engineers that have finished school within the last 2 years or will finish in the next 6 months. This is an open-ended entry-level role with mentorship, and diverse opportunities to work on all areas of our product: databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
-<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
-<p>Why Join MixRank? Fully-remote, no HQ office. Team of 32 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
-<p>Please include your updated resume when applying for this role.</p>
-
                 </details>
                 </td>
             </tr>,<tr>
