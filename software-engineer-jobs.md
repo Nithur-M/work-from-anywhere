@@ -1971,30 +1971,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/D4E0BAQFdRsd49YG4fQ/company-logo_200_200/0/1688735422027/collabora_logo?e=2147483647&v=beta&t=COQKgdesE_abHpZN-7BjhNZ1IKm2nhQyHB637TbP88E" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Collabora</h5>
-                    <h3>Senior C++ Software Engineer (Remote/Anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/collabora/afb6f2ea-9c39-498c-863c-82764ea247a0" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt">Collabora Productivity Ltd. is a software company specialising in bringing the innovation created in Open Source projects such as LibreOffice to the market, along with services, long term support and software consultancy. We combine years of open source software leadership with an understanding of the challenges that businesses, non-profits, and governments face.</span></div><div><br></div><div><span style="font-size: 11pt">Collabora Productivity brings deep technical expertise around the Office space, from our preferred Open Document format to many other, including legacy, document formats such as OpenXML and Microsoft binary formats, using modern technologies like C++ 17.</span></div><div><br></div><div><br></div></div><div class="section page-centered"><div><h3>Key Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Root cause analysis and fixing of document interoperability issues</li><li>Analysing client problems, designing, and implementing solutions leveraging open source technologies and communicating the solutions in a compelling fashion</li><li>Annual conference attendance to present progress made to the Open Source community</li><li>Self starting analysis of limited project descriptions, ability to break complex tasks down into smaller deliverables, execute and report progress against these</li><li>Assistance in estimation of project costs</li><li>Implementation of features based on unclear customer input to exceed their expectations</li><li>Communication with the community, other team members, and customers using mailing 	lists, chats, phone and video conference</li><li>Capacity to travel a few times per year worldwide</li><li>Reliable and timely delivery of quality solutions to clients and internal customers</li><li>Development of strong relationships with key personnel, decision makers and customers</li></ul></ul></div></div><div class="section page-centered"><div><h3>Commercial Skills</h3><ul class="posting-requirements plain-list"><ul><li>Understanding client needs and reconciling time constraints, available technologies and resources and open source best practices</li><li>Ability to work in a global context with clients and engineers spanning continents</li><li>Knowledge of customers’ organization, management, product, target market, applications and decision making internal process 	</li></ul></ul></div></div><div class="section page-centered"><div><h3>Technical Skills</h3><ul class="posting-requirements plain-list"><ul><li>Large scale C++ development experience, on projects of &gt; 1 million lines of code</li><li>LibreOffice development experience preferred</li><li>Excellent code reading skills</li><li>Office Suite, file format and binary file format reverse engineering experience a plus</li><li>Good interpersonal skills, along with knowledge of open source 	development methodologies and good standing in the open source community</li><li>Significant demonstrable contributions to components in the open source ecosystem</li><li>BS/BA or extensive experience in the role of Software Engineer </li><li>Experience of unit testing</li><li>Cross-platform aware, deep knowledge of either Linux, MS Windows, or OSX, and some knowledge of one more platform (Cygwin knowledge helpful if MS Windows is the core skill)</li><li>Experience with Android, iOS or another mobile operating system a bonus</li><li>Casual scripting in Perl / Python / BASH or other language(s)</li><li>Version control systems – ideally knowledge of git</li></ul></ul></div></div><div class="section page-centered"><div><h3>Personal Skills</h3><ul class="posting-requirements plain-list"><ul><li>Highly self motivated, reliable with a demonstrable passion for Open Source and the office domain</li><li>Able to work from home office, managing own time effectively</li><li>Self learning skill to get sufficient knowledge of Collabora's services, 	business model, project delivery lifecycle and other related technical domains</li><li>Good interpersonal skills</li><li>Winsome presentation skills appreciated</li><li>Good English language skills (both verbal and written) </li><li>German language skills a bonus</li><li>Ability to work and communicate in an online distributed environment</li></ul></ul></div></div><div class="section page-centered" data-qa="closing-description"><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/afb6f2ea-9c39-498c-863c-82764ea247a0/apply">Apply for this job</a></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1435749714821926913/SgjRHZ17_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
