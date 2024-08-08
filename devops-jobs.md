@@ -1,5 +1,78 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1928411/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>DoraHacks</h5>
+                    <h3>DevOps Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>AWS,python</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/devops/devops-engineer-1928411" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><strong>All positions of Dora team are fully remote for this moment.</strong></div>
+<div> </div>
+<div><strong>Contact us </strong></div>
+<div>Recruiting@dorahacks.com</div>
+<div> </div>
+<div> Please note that the position is open to applicants from any location.</div>
+<p><br><br></p>
+<div class="h3">Responsibility</div>
+<ul style="">
+<li style="">Familiar with AWS Cloud setup and troubleshooting, and responsible for website maintenance</li>
+<li style="">Website configuring, operation, maintaining backup, infrastructure integration, monitoring, alerting system setup in a rountined manner</li>
+<li style="">Analyze, solve, and correct issues in real time (configure and maintain database servers and processes, monitor system’s health and performance, ensure high level of performance, security, effectiveness, availability, and sustainability)</li>
+<li style="">Develop and maintain up-to-date architectural templates, build an operational documentation of the technical environment</li>
+<li style="">Assist developers with query tuning and schema refinement</li>
+<li style="">Provide support for critical production systems</li>
+<li style="">Continuously explore and research new operations, maintenance technology, operational tools to improve the enterprise Hybrid cloud</li>
+</ul>
+<p><br><br></p>
+<div class="h3">Qualification</div>
+<ul style="">
+<li style="">Computer related majors, have a strong interest in security and DevOps, and have 3 years+ related experience in cloud operation and maintenance</li>
+<li style="">Above 2 years working experience in DevOps Engineer role</li>
+<li style="">Familiar with AWS products, including but not limited to ECS, ELB, RDS, IAM, network and security related services</li>
+<li style="">Familiar with Linux system, proficient in at least one language such as Python/Golang, and have experience in automation tool design, development and integration</li>
+<li style="">Familiar with container technology and container orchestration tools, able to use eks is preferred</li>
+<li style="">Participated in the construction and maintenance of at least one cloud infrastructure, and those with Alibaba Cloud and AWS cloud service certificates are preferred</li>
+<li style="">Proficient in a back-end development language, able to develop basic web services and simple management pages. Better experience in building monitoring tools </li>
+<li style="">Mandarin proficiency in reading and writing and good communication ability is not a must but a plus</li>
+</ul>
+<p><br><br></p>
+<div class="h3">Recruiting Process</div>
+<ul style="">
+<li style="">Test 1: You may be required to complete an online test or a take-home assignment to assess your skills relevant to the position</li>
+<li style="">Recruiter Call: A brief 15-30 minute discussion to go over your background and the role</li>
+<li style="">Test 2: You may be required to complete an online test or a take-home assignment to assess your skills relevant to the position</li>
+<li style="">Team Interview: A more in-depth session lasting 45-60 minutes with the team you'll be working with, focusing on your technical skills and team fit</li>
+<li style="">Final Interview: A concluding interview of approximately 45 minutes that may involve higher-level management or final decision makers</li>
+<li style="">All interviews will be conducted via Zoom or Google Meeting, accommodating a fully remote recruitment process to best suit candidates globally</li>
+</ul>
+<div> </div>
+<div> </div>
+<div>DoraHacks is a global hackathon organizer and one of the world's most active developer incentive platforms. It creates a global hacker movement in blockchain, quantum computing and space tech, and provides a wide range of toolkits to help developers around the world team up and fund their ideas and BUIDLs via hackathons, bounties, grants, idea networks, developer games and more.</div>
+<div> </div>
+<div>By far, more than 8500 startup teams from the DoraHacks community have received over $40 million in grants and other forms of contributions from supporters worldwide. A large number of open source communities, companies and blockchain ecosystems are actively using Dora's infrastructure (<a class="postings-link" href="http://dorahacks.io" rel="nofollow">http://dorahacks.io</a>) for open source funding and community governance.</div>
+<div> </div>
+<div><strong>For More Info</strong></div>
+<div>Please visit our <a class="postings-link" href="https://dorahacks.io/" rel="nofollow">Website</a>｜<a class="postings-link" href="https://www.linkedin.com/company/dorahacks/" rel="nofollow">LinkedIn</a>｜<a class="postings-link" href="https://twitter.com/DoraHacks" rel="nofollow">Twitter</a>｜ <a class="postings-link" href="https://doraresear.ch/" rel="nofollow">DORA RESEARCH BLOG</a></div>
+<div> </div>
+<div>If you need any support for the interview process, pls do not hesitate to contact us by <a class="postings-link" href="mailto:recruiting@dorahacks.com" rel="nofollow"><strong>recruiting@dorahacks.com</strong></a></div>
+<img src="https://remotive.com/job/track/1928411/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/11767950?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -105,30 +178,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>We are looking for an <strong>DevOps Engineer</strong> to become a member of the CloudLinux infrastructure team. Our team is entrusted with a wide range of responsibilities, from managing access and providing compute resources and services to everyone in the company, to developing our own infrastructure projects and automations.</p><p><strong>This job is perfect for you if you:</strong></p><ul> <li>Have a solid foundation in Linux systems and networking</li> <li>Eager to expand your knowledge of new technologies</li> <li>Are able to independently learn about problems and troubleshoot them, eventually coming up with a solution</li> <li>Committed to helping people in resolving their issues.</li> <li>Passionate about topics like infrastructure, DevOps and system administration</li> </ul><p></p><h3>Requirements: </h3><p><strong>Responsibilities</strong></p><p>As a part of Infrastructure team you are responsible for effective tracking and timely resolution of tasks such as:</p><ul> <li>User management: onboarding/offboarding procedures and access management</li> <li>Server management: installing new and keeping track of existing production hosts on bare metal, public and private cloud.</li> <li>Managing DNS records, domain purchases, transfers or discontinuations.</li> <li>Security tasks: firewall configuration and regular OS updates.</li> <li>Monitoring and incident resolution: responding to incidents and ensuring minimal disruption to services.</li> <li>Create new services and integrate them in current infrastructure in alignment with the specifications provided by the development teams.</li> <li>Develop and implement CI/CD pipelines to automate routine administration tasks.</li> <li>Write and maintain documentation for services, tasks and procedures.</li> </ul><p><strong>Qualifications and Skills</strong></p><ul> <li>In-depth understanding of RHEL operating systems and its derivatives, including CentOS and AlmaLinux.</li> <li>Comprehensive knowledge of network fundamentals</li> <li>Experience with various compute environments, such as bare-metal servers, virtual machines, and containers.</li> <li>Good knowledge on how to monitor infrastructure components and services.</li> <li>Familiarity with Ansible and other configuration management tools.</li> <li>Proficiency in both spoken and written English, with the ability to produce clear and concise documentation.</li> <li>Eagerness to learn new concepts quickly for independent troubleshooting and issue resolution.</li> <li>Experience with at least one commercial cloud provider, such as AWS, Azure, or GCP.</li> <li>Familiarity with at least one common scripting language, such as Bash or Python.</li> <li>Experience with CI/CD tools like Gitlab or Jenkins.</li> <li>Familiarity with the Git version control system.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development; </li> <li>Interesting and challenging projects</li> <li>Flexible working hours</li> <li>Paid one month vacation per year and unlimited sick leave</li> <li>Medical insurance reimbursement</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Senior DevOps Engineer (worldwide remote, work anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/BA7DD5131C" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We are looking for a Senior DevOps Engineer to join our R&amp;D team of highly skilled professionals. You will design, develop, and integrate solutions using scripting and automation to achieve scalability and efficiency, focusing on SRE and DevOps best practices.</p><p></p><p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first. We are remote first, and we deliver high-volume, low-cost Linux infrastructure and security products that help companies increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure our success.&nbsp;</p><p></p><p>We are truly a great place to work.&nbsp;</p><p></p><h3><strong>Your responsibilities will be:</strong></h3><ul> <li>Take ownership of a complex&nbsp;infrastructure.</li> <li>Improve stability and performance of CI/CD infrastructure.</li> <li>Maintain and modify test environment and configuration as needed, create new test environments and configurations to meet customer-based configuration or problem reproducing requirements.</li> <li>Collaborate with cross-functional teams to understand business requirements.</li> <li>Create and maintain comprehensive documentation for configurations, procedures, and troubleshooting guides.</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role, you should have:</strong></p><ul> <li>Experience and passion for Linux.</li> <li>Good understanding of DevOps and SRE principles and their relation to automation engineering.</li> <li>Good knowledge of Docker, K8S.</li> <li>Hands-on experience with clouds (AWS, Google Cloud etc.).</li> <li>Understanding of CI/CD systems, tools and approaches.</li> <li>Strong scripting and automation skills (e.g., Python, Ansible).</li> <li>Experience in the creation of Jenkins scripted/declarative pipelines.</li> <li>Experience with Jenkins. Gitlab, Gerrit, Terraform, and monitoring solutions like Prometheus - a significant plus.</li> <li>Team player but also able to work independently using your initiative.</li> <li>Excellent problem-solving skills and the ability to work well under pressure.</li> <li>Strong communication and collaboration skills.</li> <li>Happy in an agile, fast-paced environment.</li> <li>Intermediate (and higher) English level.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Remote work with flexible working hours, allows you to schedule your day and work from anywhere worldwide.</li> <li>Paid one month of vacation per year and unlimited sick leave.</li> <li>Medical insurance reimbursement.</li> <li>Co-working and gym/sports reimbursement.</li> <li>The opportunity to be rewarded for the most innovative idea the company can patent.</li> </ul><p></p><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
                 </details>
                 </td>
             </tr>,<tr>
