@@ -1,78 +1,5 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1928411/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>DoraHacks</h5>
-                    <h3>DevOps Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>AWS,python</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/devops/devops-engineer-1928411" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><strong>All positions of Dora team are fully remote for this moment.</strong></div>
-<div> </div>
-<div><strong>Contact us </strong></div>
-<div>Recruiting@dorahacks.com</div>
-<div> </div>
-<div> Please note that the position is open to applicants from any location.</div>
-<p><br><br></p>
-<div class="h3">Responsibility</div>
-<ul style="">
-<li style="">Familiar with AWS Cloud setup and troubleshooting, and responsible for website maintenance</li>
-<li style="">Website configuring, operation, maintaining backup, infrastructure integration, monitoring, alerting system setup in a rountined manner</li>
-<li style="">Analyze, solve, and correct issues in real time (configure and maintain database servers and processes, monitor system’s health and performance, ensure high level of performance, security, effectiveness, availability, and sustainability)</li>
-<li style="">Develop and maintain up-to-date architectural templates, build an operational documentation of the technical environment</li>
-<li style="">Assist developers with query tuning and schema refinement</li>
-<li style="">Provide support for critical production systems</li>
-<li style="">Continuously explore and research new operations, maintenance technology, operational tools to improve the enterprise Hybrid cloud</li>
-</ul>
-<p><br><br></p>
-<div class="h3">Qualification</div>
-<ul style="">
-<li style="">Computer related majors, have a strong interest in security and DevOps, and have 3 years+ related experience in cloud operation and maintenance</li>
-<li style="">Above 2 years working experience in DevOps Engineer role</li>
-<li style="">Familiar with AWS products, including but not limited to ECS, ELB, RDS, IAM, network and security related services</li>
-<li style="">Familiar with Linux system, proficient in at least one language such as Python/Golang, and have experience in automation tool design, development and integration</li>
-<li style="">Familiar with container technology and container orchestration tools, able to use eks is preferred</li>
-<li style="">Participated in the construction and maintenance of at least one cloud infrastructure, and those with Alibaba Cloud and AWS cloud service certificates are preferred</li>
-<li style="">Proficient in a back-end development language, able to develop basic web services and simple management pages. Better experience in building monitoring tools </li>
-<li style="">Mandarin proficiency in reading and writing and good communication ability is not a must but a plus</li>
-</ul>
-<p><br><br></p>
-<div class="h3">Recruiting Process</div>
-<ul style="">
-<li style="">Test 1: You may be required to complete an online test or a take-home assignment to assess your skills relevant to the position</li>
-<li style="">Recruiter Call: A brief 15-30 minute discussion to go over your background and the role</li>
-<li style="">Test 2: You may be required to complete an online test or a take-home assignment to assess your skills relevant to the position</li>
-<li style="">Team Interview: A more in-depth session lasting 45-60 minutes with the team you'll be working with, focusing on your technical skills and team fit</li>
-<li style="">Final Interview: A concluding interview of approximately 45 minutes that may involve higher-level management or final decision makers</li>
-<li style="">All interviews will be conducted via Zoom or Google Meeting, accommodating a fully remote recruitment process to best suit candidates globally</li>
-</ul>
-<div> </div>
-<div> </div>
-<div>DoraHacks is a global hackathon organizer and one of the world's most active developer incentive platforms. It creates a global hacker movement in blockchain, quantum computing and space tech, and provides a wide range of toolkits to help developers around the world team up and fund their ideas and BUIDLs via hackathons, bounties, grants, idea networks, developer games and more.</div>
-<div> </div>
-<div>By far, more than 8500 startup teams from the DoraHacks community have received over $40 million in grants and other forms of contributions from supporters worldwide. A large number of open source communities, companies and blockchain ecosystems are actively using Dora's infrastructure (<a class="postings-link" href="http://dorahacks.io" rel="nofollow">http://dorahacks.io</a>) for open source funding and community governance.</div>
-<div> </div>
-<div><strong>For More Info</strong></div>
-<div>Please visit our <a class="postings-link" href="https://dorahacks.io/" rel="nofollow">Website</a>｜<a class="postings-link" href="https://www.linkedin.com/company/dorahacks/" rel="nofollow">LinkedIn</a>｜<a class="postings-link" href="https://twitter.com/DoraHacks" rel="nofollow">Twitter</a>｜ <a class="postings-link" href="https://doraresear.ch/" rel="nofollow">DORA RESEARCH BLOG</a></div>
-<div> </div>
-<div>If you need any support for the interview process, pls do not hesitate to contact us by <a class="postings-link" href="mailto:recruiting@dorahacks.com" rel="nofollow"><strong>recruiting@dorahacks.com</strong></a></div>
-<img src="https://remotive.com/job/track/1928411/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/11767950?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -86,7 +13,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=5911639&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=6164621&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
