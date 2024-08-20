@@ -1,41 +1,5 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1924708/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Contra</h5>
-                    <h3>Fullstack Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>fullstack,seo,AI/ML</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/fullstack-engineer-1924708" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Contra is seeking a Part-Time Full Stack Engineer. This role is perfect if you are excited to contribute to landing pages, SEO, generative AI projects, and product integrations.</p>
-<p> </p>
-<p><strong>This is a part-time contract position for ~20 hours / week.</strong></p>
-<p><strong> </strong></p>
-<div class="h4" id="4115b038-9d29-4036-bb06-6bdc43ceba89">Responsibilities:</div>
-<ul class="_listContainer_1wyhh_1" style="">
-<li style="">Develop and optimize landing pages to enhance user experience and conversion rates.</li>
-<li style="">Implement SEO best practices to improve website visibility and traffic.</li>
-<li style="">Contribute to the creation and deployment of generative AI features.</li>
-<li style="">Manage integrations with other systems and platforms to ensure seamless functionality.</li>
-<li style="">Collaborate with the team to identify and solve complex technical issues.</li>
-</ul>
-<img src="https://remotive.com/job/track/1924708/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1263546899153502209/ObHsQoNr_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
