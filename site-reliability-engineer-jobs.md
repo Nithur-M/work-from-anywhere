@@ -1,104 +1,5 @@
 <div align="center"><h2>SITE RELIABILITY ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1923232/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Sticker Mule</h5>
-                    <h3>Site Reliability Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>AWS,docker,go,javascript</code>
-                </td>
-                <td width="200">
-                <text>10 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/devops/site-reliability-engineer-1923232" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="line-height: calc(var(--lineHeightNormal) * 1em); padding: 0px; color: #373e4d; min-height: 1.5em;"><strong>About Sticker Mule<br></strong>Sticker Mule is the Internet's most "kick ass" brand. We are privately-owned, profitable, and powered by a globally distributed team that enjoys building happy customer experience at the highest technical standards. Our software team operates from 17 countries, and we're always looking for more exceptional engineers.</p>
-<p style="line-height: calc(var(--lineHeightNormal) * 1em); padding: 0px; color: #373e4d; min-height: 1.5em;"> </p>
-<p style="line-height: calc(var(--lineHeightNormal) * 1em); margin-top: var(--spacingXsmall); padding: 0px; color: #373e4d; min-height: 1.5em;"><a class="PrimaryLink BaseLink" href="https://www.stickermule.com/about" rel="nofollow" style="touch-action: manipulation;" target="_blank"><span style="font-weight: var(--fontWeightMediumBold);"><u>See more about our teams here</u></span></a></p>
-<p style="line-height: calc(var(--lineHeightNormal) * 1em); margin-top: var(--spacingXsmall); padding: 0px; color: #373e4d; min-height: 1.5em;"> </p>
-<p style="line-height: calc(var(--lineHeightNormal) * 1em); margin-top: var(--spacingXsmall); padding: 0px; color: #373e4d; min-height: 1.5em;"><strong>We offer</strong></p>
-<ol style="">
-<li style="">
-<p style="line-height: calc(var(--lineHeightNormal) * 1em); padding: 0px; min-height: 1.5em;">Remote work with flexible schedules</p>
-</li>
-<li style="">
-<p style="line-height: calc(var(--lineHeightNormal) * 1em); padding: 0px; min-height: 1.5em;">A privately owned, low-stress culture</p>
-</li>
-<li style="">
-<p style="line-height: calc(var(--lineHeightNormal) * 1em); padding: 0px; min-height: 1.5em;">A fun "no bullshit" work environment</p>
-</li>
-</ol>
-<p><span style="color: #373e4d;"> </span></p>
-<p style="line-height: calc(var(--lineHeightNormal) * 1em); margin-top: var(--spacingXsmall); padding: 0px; color: #373e4d; min-height: 1.5em;"><strong>We like you to know</strong></p>
-<ol style="">
-<li style="">
-<p style="line-height: calc(var(--lineHeightNormal) * 1em); padding: 0px; min-height: 1.5em;">Docker</p>
-</li>
-<li style="">
-<p style="line-height: calc(var(--lineHeightNormal) * 1em); padding: 0px; min-height: 1.5em;">Kubernetes</p>
-</li>
-<li style="">
-<p style="line-height: calc(var(--lineHeightNormal) * 1em); padding: 0px; min-height: 1.5em;">GCP</p>
-</li>
-<li style="">
-<p style="line-height: calc(var(--lineHeightNormal) * 1em); padding: 0px; min-height: 1.5em;">AWS</p>
-</li>
-<li style="">
-<p style="line-height: calc(var(--lineHeightNormal) * 1em); padding: 0px; min-height: 1.5em;">Go</p>
-</li>
-<li style="">
-<p style="line-height: calc(var(--lineHeightNormal) * 1em); padding: 0px; min-height: 1.5em;">Postgres</p>
-</li>
-<li style="">
-<p style="line-height: calc(var(--lineHeightNormal) * 1em); padding: 0px; min-height: 1.5em;">Redis</p>
-</li>
-<li style="">
-<p style="line-height: calc(var(--lineHeightNormal) * 1em); padding: 0px; min-height: 1.5em;">Familiarity with JavaScript</p>
-</li>
-<li style="">
-<p style="line-height: calc(var(--lineHeightNormal) * 1em); padding: 0px; min-height: 1.5em;">Excellent communication skills (English)</p>
-</li>
-<li style="">
-<p style="line-height: calc(var(--lineHeightNormal) * 1em); padding: 0px; min-height: 1.5em;">Degree in Computer Science or equivalent practical experience</p>
-</li>
-</ol>
-<p><span style="color: #373e4d;"> </span></p>
-<p style="line-height: calc(var(--lineHeightNormal) * 1em); margin-top: var(--spacingXsmall); padding: 0px; color: #373e4d; min-height: 1.5em;"><strong>Challenges</strong></p>
-<ol style="">
-<li style="">
-<p style="line-height: calc(var(--lineHeightNormal) * 1em); padding: 0px; min-height: 1.5em;">Build CI and CD pipelines</p>
-</li>
-<li style="">
-<p style="line-height: calc(var(--lineHeightNormal) * 1em); padding: 0px; min-height: 1.5em;">Optimize and scale workloads</p>
-</li>
-<li style="">
-<p style="line-height: calc(var(--lineHeightNormal) * 1em); padding: 0px; min-height: 1.5em;">Secure containers and web services</p>
-</li>
-</ol>
-<p style="line-height: calc(var(--lineHeightNormal) * 1em); margin-top: var(--spacingXsmall); padding: 0px; color: #373e4d; min-height: 1.5em;"><span style="font-weight: var(--fontWeightMediumBold);">Compensation and benefits</span></p>
-<ol style="">
-<li style="">
-<p style="line-height: calc(var(--lineHeightNormal) * 1em); padding: 0px; min-height: 1.5em;">Salary: $135k+ based on experience</p>
-</li>
-<li style="">
-<p style="line-height: calc(var(--lineHeightNormal) * 1em); padding: 0px; min-height: 1.5em;">$20,000 signing bonus</p>
-</li>
-<li style="">
-<p style="line-height: calc(var(--lineHeightNormal) * 1em); padding: 0px; min-height: 1.5em;">4 weeks vacation + holidays based on your country of residence</p>
-</li>
-</ol>
-<img src="https://remotive.com/job/track/1923232/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -318,7 +219,7 @@
 <p><strong>Please note that:</strong> </p>
 <ul><li>Sometimes we meet up! Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.</li><li>While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week. </li><li>A successful candidate will be subject to a background check and must receive satisfactory results of the same, as a condition of joining the team. </li><li>By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.–</li></ul>
 <p><br /></p>
-<p>#INT #LI-EM1</p>
+<p>#LI-DNI #INT #LI-EM1</p>
                 </details>
                 </td>
             </tr>,<tr>
