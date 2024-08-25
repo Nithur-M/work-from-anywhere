@@ -10,7 +10,7 @@
                     <code>api,C,C#,C++</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/software-engineer-1930629" align="right" target="_blank">Apply</a>
@@ -57,6 +57,73 @@
 <p><br><br><strong>Benefits</strong><br><br></p>
 <p>Our salary range for the role is $40,000 to $60,000 USD, depending on experience and interview performance. We offer a 10% annual bonus based on company performance. We'll supply all equipment needed for you to work comfortably and safely remotely.</p>
 <img src="https://remotive.com/job/track/1930629/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>DuckDuckGo</h5>
+                    <h3>Senior Software Engineer, Windows Desktop App (Remote)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://duckduckgo.recruitee.com/o/windows-desktop" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Hi, we’re DuckDuckGo, the Internet privacy company for everyone who wants to take back their privacy now. For over a decade, we've been building our all-in-one product, developing new privacy technology, and working with policymakers to make online privacy simple and accessible for all.  <br /></p>
+<p><br /></p>
+<p>Our browsers and extensions have been downloaded over 250 million times with our built-in private search engine, which has delivered over 100 billion searches and is the 2nd largest search engine on mobile in the United States and 17 other countries, including the United Kingdom, Canada, Australia, Germany, Poland, and Spain. Our private search engine is also 3rd in market share in the U.S. and over 20 major markets. Oh, and we've been profitable since 2014, with annual revenue exceeding $100 million!</p>
+<p><br /></p>
+<p>The DuckDuckGo browser’s uniquely comprehensive privacy protections are used by tens of millions of people to protect their everyday online activities on <a href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/" rel="noopener">Mac</a>, <a href="https://spreadprivacy.com/windows-browser-open-beta/" rel="noopener">Windows</a>, <a href="https://spreadprivacy.com/duckduckgo-privacy-browser-ios14/" rel="noopener">iOS</a>, and <a href="https://spreadprivacy.com/introducing-app-tracking-protection/" rel="noopener">Android</a>, from searching to browsing, emailing, and more. We also offer <a href="https://spreadprivacy.com/meetprivacypro/" rel="noopener">Privacy Pro</a>, a three-in-one subscription service that includes a VPN, Personal Information Removal, and Identity Theft Restoration.</p>
+<p><br /></p>
+<p>We’re looking for a <strong><strong>Senior Software Engineer, Windows Desktop App</strong></strong> to help shape our all-in-one privacy solution and join our mission to show the world that protecting your privacy online can be simple.  </p>
+<p><br /></p>
+<p><strong>The Opportunity</strong> </p>
+<p>In this role, you will work on the team responsible for launching our first ever DuckDuckGo Privacy App for Windows. You'll collaborate with Product Managers, Designers, and Engineers across Native Apps to craft a world-class browser with embedded privacy features that will revolutionize the way people search, surf, and exist online. </p>
+<p><br /></p>
+<p>You will be critical to the successful launch of this product and responsible for taking pieces of the puzzle and autonomously building solutions to get us closer to our first release. You will help define the roadmap, take ownership of significant application features and experiment with ways to improve them. </p>
+<p><br /></p>
+<p>You will lay the foundations of what will become one of DuckDuckGo's flagship products and critical levers for growing privacy online. </p>
+<p><br /></p>
+<p><strong>What You Will Bring to DuckDuckGo</strong> </p>
+<ul><li>Experience implementing ideas from scratch, owning major application features, and taking responsibility for their maintenance and improvement over time.</li><li>Experience participating in technical architecture decisions for complex products, essentially shaping the software architecture of a consumer product.</li><li>Experience building at least one desktop application (ideally with WPF, UWP, WinUI, WinForms, or other relevant .NET UI).</li><li>An advanced level of programming expertise, with knowledge of C#. We currently use .NET 6.</li><li>A significant level of experience in building customer facing applications, including crafting user interfaces.<br /></li><li>Deep understanding of software design patterns such as MVVM, MVP, etc.</li><li>Event-driven programming (e.g., using Rx.NET) experience is considered an advantage.</li></ul>
+<p><br /></p>
+<p><strong>How We Will Support You </strong> </p>
+<p>Our core values -- build trust, question assumptions, and validate direction -- underpin how we work day-to-day and the support we give our team members. We strive to empower our team members to be self-directed and self-motivated in their work.  </p>
+<p><br /></p>
+<ul><li><strong>Remote First, Always</strong>: We've always been a fully distributed company with team members all over the world. We trust you to get your work done wherever, whenever.</li><li><strong>Commitment to Personal Growth:</strong> Every team member has an annual budget of $1,250 USD to invest in their professional development. Every team member also has a dedicated Career Advisor, who serves as a guide to help you develop your strengths, identify your motivations, and understand your opportunities for growth.</li><li><strong>Leadership:</strong> We have many different types of leaders and possible combinations of leadership roles, so you can grow your career in a way that aligns best with your personal goals. You can seek additional leadership roles by being directly responsible for projects, taking ownership of areas of the company, developing and maintaining internal processes, or pursuing advisory roles.</li><li><strong>Work/Life Balance: </strong>Team members have the freedom and flexibility to organize their own work schedules. We want you to thrive both in and out of the office. We trust you to use good judgment and take the time off that you need to bring your best self to work.  </li></ul>
+<p><br /></p>
+<p>We also offer <strong>paid parental leave, a co-working stipend, office setup reimbursement, </strong>and<strong> a wellness stipend.</strong> More support resources can be found in our, <u><a href="https://duckduckgo.com/assets/hiring/team_support_guide.pdf" rel="noopener">Team Member Support Guide</a></u>, which explains how we make your well-being a priority. </p>
+<p><br /></p>
+<p>For more information on how we collaborate worldwide, from leadership in our relatively flat organization to start-to-finish ownership, check out <u><a href="https://duckduckgo.com/how-we-work" rel="noopener">DuckDuckGo Culture: How We Work.</a></u> </p>
+<p><br /></p>
+<p><strong>Compensation</strong> </p>
+<p>Annual compensation: <strong>$176,000</strong> <strong>USD</strong> and stock options. Compensation is the same within a professional level, regardless of geographic location or functional area, and the compensation for each professional level is transparent across the organization.</p>
+<p><br /></p>
+<p><strong>Hiring Process</strong> </p>
+<p>Hiring works best when it's a two-way street. Learn how we help you get to know DuckDuckGo and envision your future role here. Find out more about <u><a href="https://duckduckgo.com/how-we-hire" rel="noopener">how we hire</a></u>. </p>
+<p><br /></p>
+<p><strong>Diversity, Equity, and Inclusion</strong> </p>
+<p>DuckDuckGo provides equal work opportunities to all team members and applicants<u>,</u> and it prohibits discrimination and harassment of any type on the basis of race, color, ethnicity, caste, religion, age, sex (including pregnancy), national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by our policies or federal, state, or local laws.</p>
+<p><br /></p>
+<p>We want to ensure that our hiring process is accessible. If you need reasonable accommodation for any part of the application process because of a medical condition or disability, please send an email to <u><a rel="noopener">careers@duckduckgo.com</a></u> to let us know the nature of your request.  </p>
+<p><br /></p>
+<p>If you think you might thrive in this environment, we would love to hear from you. </p>
+<p><br /></p>
+<p><strong>Please note that:</strong> </p>
+<ul><li><p>Sometimes we meet up! Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.</p></li><li>While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week. </li><li>A successful candidate will be subject to a background check and must receive satisfactory results of the same, as a condition of joining the team. </li><li>By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.</li></ul>
+<p><br /></p>
+<p>#INT</p>
                 </details>
                 </td>
             </tr>,<tr>
@@ -815,34 +882,29 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 
-      <p>We are scaling the Ubuntu Foundations Team which delivers the essential components of Ubuntu - our system startup, compilers, language runtimes and toolchains, as well as networking and storage config and management - and we are hiring engineering managers to enable that growth. These are highly technical management roles which require deep knowledge of the core of a Linux server system.</p>
-<p>As an Engineering Manager on the Foundations team, you must be passionate about the future of Ubuntu, mindful of the dynamics of the open source ecosystem, and equally aware of the needs of enterprise technologists. You will work closely with product managers to define and deliver the Ubuntu roadmap.</p>
-<p>Your primary responsibility is to your team: helping them grow as engineers, do important and satisfying work, and have a great time while doing it. Technical leadership experience and a background in software engineering are necessary prerequisites for this role. You will be expected to lead, challenge, and develop strong engineers, positively influence the culture, facilitate technical delivery, and work with your team on strategy and execution.</p>
-<p>This Engineering Management role is an opportunity for a technologist with a passion for Linux and Ubuntu to build a career with Canonical and drive the success of the business. If you have an affinity for open source development, then you will enjoy working with some of the best people in the industry at Canonical.</p>
+      <p>Lead the engineering team that delivers the essential components of Ubuntu - our system startup, compilers, language runtimes and toolchains, as well as networking and storage config and management. This is a fast-paced, problem-solving, highly technical role operating at the core of Linux server systems.&nbsp;</p>
+<p>As an Engineering Manager on the Foundations team, you will be at the heart of driving Ubuntu. Working at the&nbsp; unique intersection of the open source ecosystem, and enterprise technologists.&nbsp;</p>
+<p>In this pivotal position, you’ll lead and inspire your team of engineers, to take Ubuntu to new heights. We are looking for someone with a deep understanding of Linux and Ubuntu with a passion for exceptional leadership. You will be expected to lead, challenge, and develop strong engineers, positively influence the culture, facilitate technical delivery and drive your team on strategy and execution.&nbsp;</p>
+
 <p><strong>What you'll do</strong></p>
 <ul>
-<li>Demonstrate sound engineering principles through architecture, development and code reviews</li>
+<li>Lead and grow a team of distributed engineers</li>
+<li>Demonstrate sound engineering principles through active and hands on leadership</li>
 <li>Be responsible for planning, estimation and execution</li>
 <li>Work with product management to define the vision and strategy for Ubuntu</li>
-<li>Set and manage expectations with other engineering teams, senior management, and external stakeholders</li>
-<li>Build and lead a distributed regional team of engineers</li>
-<li>Offer coaching, mentoring, technical feedback and hands-on career development</li>
-<li>Advocate and advance modern, agile software development practices</li>
+<li>Collaborate with cross-functional leadership teams</li>
+<li>Drive the advancement and adoption of the latest software development practices</li>
 <li>Design, embrace and evangelize great engineering and organizational practices</li>
 <li>Grow a healthy, collaborative engineering culture in line with company values</li>
-<li>Be an active part of the leadership team and collaborate with other leaders in the organization</li>
-<li>Work from home with international travel up to 6 weeks per year for internal and external events</li>
+<li>Engage with other teams at Canonical to ensure alignment on product architecture and roadmaps</li>
+<li>Work from home while meeting in person for company sprints. Sprints are typically twice a year for 1-2 weeks.&nbsp;&nbsp;</li>
 </ul>
 <p><strong>Valued skills and experience</strong></p>
 <ul>
-<li>Deep knowledge of Debian/Ubuntu architecture</li>
-<li>Good understanding of Debian packaging policy, tools and techniques</li>
-<li>High quality software engineering with in-depth knowledge of C/C++ and Python</li>
+<li>You have worked extensively with Linux distributions, and are experienced with packaging technologies (e.g. deb, rpm, other)&nbsp;</li>
+<li>You have demonstrated experience managing or leading a team of software engineers</li>
+<li>High quality software engineering knowledge in one or more of: Linux system architecture, boot process, Java/GCC/Python/Rust/Go toolchains, ARM and/or RISC-V</li>
 <li>Engagement with open source communities and processes</li>
-<li>Experience in one or more of: Linux system architecture, boot process, Java/GCC/Python/Rust/Go toolchains, ARM and/or RISC-V</li>
-<li>Experience managing software developers with a track record of planning, delivery and quality</li>
-<li>A love of developing and growing people and a track record of doing it</li>
-<li>Experience working in an agile development environment</li>
 </ul>
 <p><strong>What we offer you</strong></p>
 <p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
@@ -860,7 +922,7 @@
 <p><strong>About Canonical</strong></p>
 <p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
 <p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<p><strong>Canonical is an equal opportunity employer</strong></p>
+<p>Canonical is an equal opportunity employer</p>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote</p><p>Requisition ID: 847</p><p></p>
     
