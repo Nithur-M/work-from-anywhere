@@ -10,7 +10,7 @@
                     <code>api,C,C#,C++</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/software-engineer-1930629" align="right" target="_blank">Apply</a>
@@ -471,71 +471,6 @@
 <p>Why Join MixRank? Fully-remote, no HQ office. Team of 40 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
 <p>Please include your updated resume when applying for this role.</p>
 <p><strong>Important:</strong>&nbsp;Only accept job offers from emails ending in @<a href="http://mixrank.com/" target="_blank">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/378800000147745937/0fac42c12b433bbbd53ff3e15cd6fca4_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MixRank</h5>
-                    <h3>Software Engineer - Remote (Global), Full-Time at Mixrank</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/RXQspen-software-engineer-remote-global-full-time-at-mixrank" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Who we are</strong></p>
-<p>MixRank processes petabytes of data every month from web crawling. We have hundreds of customers using our data products including Google, Amazon, Facebook, Intel, and Adobe, across industries Sales, Marketing, Finance, and Security.</p>
-<p>Team is 40 full-time, full-remote from 20+ countries. We're growing, profitable, employee-owned, no dependence on outside funding. Applicants from all geographies and backgrounds are welcome.</p>
-<p>We are looking for passionate individuals for whom programming is not just a job but it’s something they love to do. We're obsessed with computers, programming, big data, databases, compilers, hardware, math, data science, and the internet. Does this sound like you? Please apply to join our team.</p>
-<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, Rust, SQL, Javascript/TypeScript, and Nix. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
-<p>We operate at a larger scale than typical startups. We operate two datacenters with high performance servers we've built that are capable of dealing with the volumes of data we process. We've implemented our own distributed file system. We do full-scale web crawls. We download and perform static analysis on the entire universe of Android APKs and iOS IPAs that are published. Unlike a typical startup where you'll spend half of your time in meetings, and the other half fixing bugs from Jira tickets— at MixRank you'll get to challenge yourself with difficult technical problems that will help you to grow as an individual.</p>
-<p><strong>Who we’re looking for</strong></p>
-<p>We're hiring generalist software engineers to work on web applications, data mining, machine learning/data science, data transformation/ETL, data modeling, database scaling, infrastructure, devops, and more. We'll cater the role to whatever subset of these areas match your interests.</p>
-<p>Beneficial experience includes PostgreSQL, Python, Rust, Linux, TypeScript, Nix, frontend/backend web development, and data mining.</p>
-<p>Please include your updated resume when applying for this role.</p>
-<p><strong>Important:</strong> Only accept job offers from emails ending in @<a href="http://mixrank.com" target="_blank">mixrank.com</a><a href="http://mixrank.com/" target="_blank">. Offers fr</a>om any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/378800000147745937/0fac42c12b433bbbd53ff3e15cd6fca4_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MixRank</h5>
-                    <h3>Junior Software Engineer - Global/Remote</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/WdgITmW-junior-software-engineer-global-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
-<p>We're looking for remote engineers that have finished school within the last 2 years or will finish in the next 6 months. This is an open-ended entry-level role with mentorship, and diverse opportunities to work on all areas of our product: databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
-<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
-<p>Why Join MixRank? Fully-remote, no HQ office. Team of 40 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
-<p>Please include your updated resume when applying for this role.</p>
-<p><strong>Important:</strong> Only accept job offers from emails ending in @<a href="http://mixrank.com" target="_blank">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
 
                 </details>
                 </td>
@@ -2188,6 +2123,30 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div><b>About Us</b></div><div>At <a rel="noopener noreferrer" class="postings-link" href="http://iterative.ai/"><i>iterative.ai</i></a>, we build open-source tools for machine learning <a rel="noopener noreferrer" class="postings-link" href="https://dvc.org/">DVC</a> (12k+ ⭐&nbsp; on GitHub),  and enterprise-grade data infrastructure solutions. We also offer a team collaboration SaaS solution - <a rel="noopener noreferrer" class="postings-link" href="https://studio.iterative.ai/">Studio</a>. We're a well-funded (Series A), remote-first team (50+ employees) on a mission to solve the complexities of managing datasets, ML infrastructure, ML models lifecycle, and other ML &amp; data-centric workflows.</div><div>We value great collaboration and communication skills, both among internal teams and in how we interact with our users. We take care to balance and be responsive to the needs of our open source community as well as our enterprise customers.</div><div><b>Check us out in other places:</b></div><div>🖥  <a rel="noopener noreferrer" class="postings-link" href="https://iterative.ai/">Website</a>  📂&nbsp; <a rel="noopener noreferrer" class="postings-link" href="http://dvc.org/doc">Docs</a>  👾: <a rel="noopener noreferrer" class="postings-link" href="http://github.com/iterative">GitHub</a>  🖊&nbsp; <a rel="noopener noreferrer" class="postings-link" href="http://dvc.org/blog">Blog</a>  ⏯️&nbsp; <a rel="noopener noreferrer" class="postings-link" href="https://www.youtube.com/channel/UC37rp97Go-xIX3aNFVHhXfQ">YouTube</a>  💬&nbsp;<a rel="noopener noreferrer" class="postings-link" href="https://dvc.org/chat">Discord</a></div><div><br></div><div><b style="font-size: 18px;">Job Description</b></div><div>We're seeking a strong python backend engineer to work on <a rel="noopener noreferrer" class="postings-link" href="http://iterative.ai">iterative.ai</a>'s SaaS&nbsp;offering - <a rel="noopener noreferrer" class="postings-link" href="https://studio.iterative.ai/">studio</a><b>&nbsp;</b>- a managed ML workspace/hub allowing for ML teams to share and collaborate experiments, models and more</div><div>Strong Python knowledge, code design, some full-stack abilities and excellent coding culture (standards, unit test, etc) are required. We are looking for someone who loves dev tools, ML and MLOps and is ready to be 100% hands-on and lead by doing! </div></div><div class="section page-centered"><div><h3>Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Discuss and research issues, bugs and new features.</li><li>Take ownership of the full development lifecycle - From planning, through designing, execution, testing to supporting in production</li><li>Be 100% hands-on - we expect technical expertise on the backend and some full stack ability and involvement in the frontend (react, typescript) to be able to be effective</li><li>Document your code and share knowledge with the team</li></ul></ul></div></div><div class="section page-centered"><div><h3>Must have</h3><ul class="posting-requirements plain-list"><ul><li>Motivation and interest (Technologies, domain, customer impact)</li><li>Love for clean &amp; efficient code</li><li>Remote work self-discipline - ability to focus and deliver reliably - respect team's planning, deadlines, etc</li><li>Excellent communication skills - clear, constructive, and respectful dialog with other team members, community</li><li>Technical Leadership - hands-on technical leadership, experience in lead by doing, driving big features and architectural decisions. Contributing to the team's growth and enriching other team members with your knowledge and experience</li></ul></ul></div></div><div class="section page-centered"><div><h3>Great to have</h3><ul class="posting-requirements plain-list"><ul><li>Experience working remotely</li><li>Open source contributions or experience of maintaining, developing an open source project</li><li>System programming experience - kernel, databases, etc.</li><li>Machine Learning or Data Science experience</li></ul></ul></div></div><div class="section page-centered" data-qa="closing-description"><div><br></div><div><br></div><div>ℹ️&nbsp;<b>Our Hiring Process</b></div><div>We will go over the process with you in the Introductory call to make sure it is clear and you know what to expect.</div><div>Here is the full interview process you can expect - It’s our go-to for most positions:</div><div>🤙&nbsp; Introductory call [~1h]</div><div>👨‍🏫&nbsp; Tech call with a team member [~45m]</div><div>👩🏾‍💻&nbsp; Take-home coding task [real-world, asynchronous] - <i>We pay for your time</i>! See this <a rel="noopener noreferrer" class="postings-link" href="https://www.notion.so/Iterative-ai-is-Hiring-852cb978129645e1906e2c9a878a4d22">FAQ</a>.</div><div>🦾&nbsp; Task summary / retro call [Optional, ~1h]</div><div>✏️  Offer</div><div><br></div><div>👩‍💻&nbsp;<b>Culture</b> - <b><i>We take care of our people</i></b></div><div>💖&nbsp; <b>Diversity</b> - As a <a rel="noopener noreferrer" class="postings-link" href="https://iterative.ai/about/#the-team">distributed company</a>, diversity drives our identity. Whether you’re looking to launch a new career or grow an existing one, <a rel="noopener noreferrer" class="postings-link" href="http://iterative.ai/"><i>iterative.ai</i></a> is the type of company where you can balance great work with great life, and work with a wonderful team that does the same! No matter who you are or where you’re from; we need you for what you can do and for caring about ML and delivering great developer tools!</div><div>⚖️&nbsp; <b>Equal opportunities</b> - We strive to have parity of benefits across regions and while regulations differ from place to place, we believe taking care of our people is the right thing to do. No country or region takes precedence for personal growth, compensation, team recognition, or anything else, it just doesn’t matter where you are.</div><div>👣&nbsp; <b>Flexibility first</b> - Ability to craft your calendar with flexible locations and schedules</div><div>⚓️  <b>Team Driven Culture</b> - Engineering team is involved in product discussions and planning. We do it openly via GitHub or Discord chat. Well-defined process that we all participate in improving. As an employee you will have visibility to everything in Iterative, we are <a rel="noopener noreferrer" class="postings-link" href="https://iterative.ai/about/#the-team"><b>One team</b></a><b>.</b></div><div><br></div><div>👏<b>&nbsp;Perks &amp; Benefits</b></div><div>🌎&nbsp; <b>Work wherever you want -</b> No offices. Team is distributed remotely worldwide.</div><div>🗓️  <b>Work whenever you want -</b> Asynchronous communication and engineering culture. We are light on meetings and emphasize people finding their own schedule to be <b>prolific &amp; effective</b>. Oh yeah, also <b>Unlimited PTO and sick days!</b></div><div>🤗  <b>Open-source your code</b> - We’re an open-source-first company (frankly, it’s in our DNA). Your work will be visible and will be used by thousands of developers every day! Check out our <a rel="noopener noreferrer" class="postings-link" href="http://dvc.org/chat">Discord</a> and <a rel="noopener noreferrer" class="postings-link" href="http://github.com/iterative">GitHub</a>.</div><div>🪙&nbsp; <b>Competitive compensation</b> - based on the work you do here and not your previous salary.</div><div>⚕️ <b>Great health coverage</b> (medical, dental, vision) for you and your family, 100% paid by us (US only, but can discuss and reimburse, adjust the salary in other locations).</div><div>🛡️ <b>Benefits</b> - 401K with 100% match up to 4% of annual salary (US only, but we give the best we can worldwide through reimbursements and hiring platforms).</div><div>🎤  <b>Participate in conventions and conferences</b> (PyCon, PyData, O'Reilly AI, etc) - We encourage and support everyone in giving talks, writing blog-posts, and other activities.</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit teal" data-qa="show-page-apply" href="https://jobs.lever.co/iterative/4d684b23-f924-41f5-a727-b79cac48a1e3/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Principal Software Engineer - C at CloudLinux (worldwide remote, work anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/31B383177E" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Join our innovative team at CloudLinux OS as a Principal Software Engineer. You'll have the opportunity to work on groundbreaking projects that are redefining enterprise cybersecurity. As a Principal Software Engineer, you'll not only drive our cutting-edge initiatives but also advance your career through our dynamic leadership programs and challenging assignments. If you're ready to take your expertise to the next level, CloudLinux is where you belong.</p><p>CloudLinux OS, our flagship product, runs on more than 50,000 production servers today, powering over 40 million websites, and is recognized as the best OS for security and efficiency in a shared hosting environment. CloudLinux OS increases server density and enhances security, thus reducing operating costs, decreasing churn rates, and increasing profitability.</p><p>Check out our website for more information about our CLOS Product&nbsp;<a href="https://www.cloudlinux.com/" target="_blank" rel="nofollow noreferrer noopener" class="external">https://www.cloudlinux.com/</a></p><p></p><p><strong>Key Responsibilities</strong></p><ul> <li>Architect, implement, and oversee server-side solutions utilizing Linux networking technologies with strong emphasis on optimization	</li> <li>Lead the development of high-quality software products, ensuring adherence to coding standards and Agile methodologies</li> <li>Drive collaboration among development teams, testers, and stakeholders to achieve sprint objectives, providing guidance on technical priorities</li> <li>Provide accurate estimations of project effort during sprint planning, evaluate open-source alternatives, and offer strategic recommendations</li> <li>Develop and maintain comprehensive unit tests for critical software components to uphold code quality and reliability</li> <li>Champion process improvements, including coding practices, standards, and tooling, to enhance team productivity and efficiency</li> <li>Demonstrate proactive leadership in task prioritization, focusing on value delivery and meeting project deadlines</li> <li>Facilitate design and peer code reviews, offering expert insights and constructive feedback to foster a culture of excellence</li> <li>Conduct thorough technical root cause analysis and debugging to address software defects and operational challenges effectively</li> <li>Foster continuous self-improvement among team members, promoting the development of technical and communication skills</li> </ul><p></p><h3>Requirements: </h3><p><strong>To thrive in this role, we are looking for someone who has:</strong></p><ul> <li>8 years of progressive experience in software development, with a strong proficiency in C/C++</li> <li>Extensive hands-on experience in building server-side applications and services using C/C++, coupled with expertise in performance tuning</li> <li>Deep knowledge of various Web Application Firewall (WAF) implementations and experience working with them</li> <li>Hands-on experience in Linux (experience with popular distributions such as CentOS and Debian)</li> <li>A deep understanding of web server architecture, designing and building modules for Nginx and/or Apache is highly desirable</li> <li>Proven track record of designing and implementing robust server-side solutions, web servers preferably&nbsp;&nbsp;</li> <li>Deep knowledge and practical experience in network-based solutions</li> <li>Knowledge and experience with Python, Bash, C, and SQL</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development</li> <li>Interesting and challenging projects</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves</li> <li>Compensation for private medical insurance</li> <li>Co-working and gym/sports reimbursement</li> <li>Budget for education</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p></p><p></p><p><em>By applying for this position, you agree with the CloudLinux Privacy Policy - </em><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external">https://cloudlinux.com/privacy-policy</a><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external"></a><em>and give us your consent to maintain and process your personal data in this respect. Please read our Privacy Policy for more information - </em><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external">https://cloudlinux.com/privacy-policy</a><em> .</em></p>
                 </details>
                 </td>
             </tr></table>
