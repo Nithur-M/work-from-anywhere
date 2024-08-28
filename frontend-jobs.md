@@ -10,7 +10,7 @@
                     <code>api,crypto,frontend,react</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-engineer-1929800" align="right" target="_blank">Apply</a>
