@@ -1,63 +1,5 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1932032/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Quinncia Inc</h5>
-                    <h3>Frontend Developer</h3>
-                </td>
-                <td width="300">
-                    <code>CSS,docker,frontend,graphql</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/frontend-developer-1932032" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><span style="color: #050c26;">This posting is for a Frontend Developer, you would work alongside our team. We are a fully remote team so it does not matter which country or time zone you are in, as long as you are available from 10 AM to 1 PM (EST). <strong>We are NOT looking for part-time work, contractors, software development companies or consultants, so please only apply if you're looking for a full-time position.</strong></span></p>
-<p><span style="color: #050c26;"> </span></p>
-<p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: #050c26;"><strong>Projects you'll be working on:</strong></p>
-<p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: #050c26;">We're focused on enhancing our UI and UX, as well as streamlining operations and improving our technical foundation.<br style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit;">As a core member of the Front-End team, you will influence how we build individual features, take ownership of end to end product quality that will help make our app/website reliable<br style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit;">We want you to focus on high-quality code and know that quality is more than just unit tests and code coverage. You would look for opportunities to automate, always package up reusable code, be constantly learning, ready to pick up new technologies, patterns, and paradigms.</p>
-<p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: #050c26;"><strong>COOL TECH</strong></p>
-<ul style="">
-<li style="">Chatbots</li>
-<li style="">Computer vision</li>
-<li style="">Data visualization</li>
-<li style="">Machine learning</li>
-<li style="">Natural language processing</li>
-<li style="">Video processing/conferencing</li>
-</ul>
-<p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: #050c26;">Being a Frontend engineer you will need strong logical skills but also understand design patterns and ability to predict edge cases for handling different issues. You will be working with our lead designer but a good understanding of UI and UX would be needed.</p>
-<p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: #050c26;"><strong>Requirements</strong></p>
-<ul style="">
-<li style="">Front-end developer position (required tech):</li>
-<li style="">Profound knowledge of Javascript</li>
-<li style="">TypeScript</li>
-<li style="">Next.js</li>
-<li style="">Practical and recent experience with React.js</li>
-<li style="">Experience communicating with RESTful services</li>
-<li style="">Experience with testing (e.g. Jest)</li>
-<li style="">Experience with bundling of Javascript code (e.g. Webpack)</li>
-<li style="">Have deep knowledge in CSS, preprocessors (e.g. Sass)</li>
-<li style="">GraphQL</li>
-</ul>
-<p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: #050c26;"><strong>Bonus skills:</strong></p>
-<ul style="">
-<li style="">Docker</li>
-<li style="">Ramda</li>
-</ul>
-<p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: #050c26;">Whatever else you decide - we're constantly re-evaluating our stack and tools<br style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit;">Having prior experience with the technologies is a plus, but not mandatory for skilled candidates.</p>
-<p style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: #050c26;">PS: Please add your Github account link to your application, as it will make the evaluation process easier and more robust.</p>
-<img src="https://remotive.com/job/track/1932032/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1680495/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -68,7 +10,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -221,6 +163,87 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
+<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
+<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
+<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
+<h2>What your day will look like</h2>
+<p>In a typical day, a developer relations engineer might:</p>
+<ul>
+<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
+<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
+<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
+<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
+<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
+<li>work on technical articles, presentations or workshops&nbsp;</li>
+<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
+<li>present at conferences, meetups or technical events</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<p>A strong candidate</p>
+<ul>
+<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
+<li>has worked with real-world challenges developing and deploying software using Linux</li>
+<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
+<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
+<li>has been a contributor to open-source communities, software and documentation</li>
+<li>is an engaging, vivacious speaker and presenter</li>
+<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
+<li>builds trust, relationships and confidence</li>
+<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
+</ul>
+<h2>Additional skills that you might also bring</h2>
+<ul>
+<li>previous experience in a developer advocacy or community role</li>
+<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
+</ul>
+
+<h2>What we offer you</h2>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote&nbsp;</p>
+
+<p><br><br></p><p>Requisition ID: 1114</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Developer Relations Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
                 <a href="https://canonical.com/careers/3655681" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
@@ -286,87 +309,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote</p>
 <h2><br><br></h2><p>Requisition ID: 799</p><p></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Developer Relations Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
-<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
-<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
-<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
-<h2>What your day will look like</h2>
-<p>In a typical day, a developer relations engineer might:</p>
-<ul>
-<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
-<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
-<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
-<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
-<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
-<li>work on technical articles, presentations or workshops&nbsp;</li>
-<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
-<li>present at conferences, meetups or technical events</li>
-</ul>
-<h2>What we are looking for in you</h2>
-<p>A strong candidate</p>
-<ul>
-<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
-<li>has worked with real-world challenges developing and deploying software using Linux</li>
-<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
-<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
-<li>has been a contributor to open-source communities, software and documentation</li>
-<li>is an engaging, vivacious speaker and presenter</li>
-<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
-<li>builds trust, relationships and confidence</li>
-<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
-</ul>
-<h2>Additional skills that you might also bring</h2>
-<ul>
-<li>previous experience in a developer advocacy or community role</li>
-<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
-</ul>
-
-<h2>What we offer you</h2>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote&nbsp;</p>
-
-<p><br><br></p><p>Requisition ID: 1114</p><p></p>
     
                 </details>
                 </td>
@@ -545,7 +487,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
                 <td width="300">
                     <h5>CloudLinux</h5>
-                    <h3>Front-End Developer (worldwide remote, work anywhere)</h3>
+                    <h3>Senior Python/Go Developer for Imunify (worldwide remote, work anywhere)</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -554,85 +496,13 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/9286FE20AF" align="right" target="_blank">Apply</a>
+                <a href="https://apply.workable.com/cloudlinux-1/j/D97FC612A0" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and&nbsp; we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure everyone is successful. We are truly a great place to work. For more details about our company go to <a href="http://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">CloudLinux</a>.</p><p>We are actively seeking a Front-End Developer to become an integral part of our dynamic CloudLinux Network team.</p><p>CLN is an integral SaaS platform tasked with the licensing of all CloudLinux products. It manages server operations and oversees the billing process for customers. This is a unique self-provisioning system created by CloudLinux for internal needs. The automated, easy-to-use robust solution delivers comprehensive and complete user experience. We will give you a place to strive and grow, where you will have the opportunity to work on interesting, yet challenging product. Applying your thinking to build a better system founded on intelligent technologies.</p><p>The perfect candidate will possess an in-depth understanding of Angular, complemented by prior experience in backend development and familiarity with various other frameworks.</p><p>We offer a fully remote work environment with flexible hours, allowing you the freedom to structure your day and work from any location worldwide. Join us in our mission to provide top-tier services to our valued customers.<a href="https://docs.cloudlinux.com/cln/introduction/" target="_blank" rel="nofollow noreferrer noopener" class="external"></a></p><p></p><p><strong>What you will do:</strong></p><p>As a key member of our team, you will spend approximately 80% of your time crafting a user-friendly customer portal. This platform will empower our clients to effortlessly manage their subscriptions and servers, while also providing an intuitive admin panel designed to deliver an unparalleled licensing and billing experience.</p><p>Occasionally, you will also be able to contribute to diverse front-end projects for our Extended Lifecycle Support (ELS) initiative. ELS is our commitment to helping organizations securely utilize Linux distributions and software languages that have reached their end of life or no longer receive standard security support. We provide essential vulnerability patches for unsupported versions of CentOS, CentOS Stream, Ubuntu, Debian, Oracle Linux, PHP, Python, and the Spring software development framework.</p><h3>Requirements: </h3><p><strong>To thrive in this role, we are looking for someone who has:</strong></p><ul> <li>5+ years of experience with Javascript.</li> <li>Strong knowledge of TypeScript/JavaScript, Angular.</li> <li>Experience and understanding of optimization principles.</li> <li>The practice of unit testing.</li> <li>Experience HTML &amp; CSS/SCSS.</li> <li>Knowledge of regular expressions.</li> <li>Intermediate level of English.</li> <li>Version control/code management (git).<br> </li> </ul><p><strong>It would be great if you also have:</strong></p><ul> <li>Experience in backend and PHP.</li> <li>Knowledge of NodeJS, Lumen, VueJS.</li> <li>Experience with Database IDE, such as MySQL.</li> </ul><p></p><p><strong>Personal skills:</strong></p><ul> <li>Decency, responsibility, and a high level of discipline.</li> <li>Fast-learning, proactivity.</li> <li>Desire to work in a fast-paced growing environment.</li> <li>Strong self-motivation, driven to achieve committed milestones.</li> <li>Ability to independently analyze a task and find the right solution.</li> <li>Ability to work in a team.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development</li> <li>Interesting and challenging projects</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves</li> <li>Compensation for private medical insurance</li> <li>Co-working and gym/sports reimbursement</li> <li>Budget for education</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p></p><p><em>By applying for this position, you agree with the CloudLinux Privacy Policy - </em><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external">https://cloudlinux.com/privacy-policy</a><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external"></a><em> and give us your consent to maintain and process your personal data in this respect. Please read our Privacy Policy for more information - </em><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external">https://cloudlinux.com/privacy-policy</a><em> .</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Senior PHP Developer/Performance optimization (worldwide remote, work anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/67CBFD283E" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>CloudLinux is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful. </p><p>CloudLinux OS, our flagship product, runs on more than 50,000 production servers today, powering over 40 million websites, and is recognized as the best OS for security and efficiency in a shared hosting environment. CloudLinux OS increases server density and enhances security, thus reducing operating costs, decreasing churn rates, and increasing profitability. </p><p>As a Senior PHP Developer/Performance optimization you will be part of the CL PRO Team focuses on the diagnostic and optimization of WordPress sites (PHP X-Ray, AccelerateWP), advanced automation, deep-look performance analytics, and centralized monitoring tools. You will be working oncreating software to optimize websites working on WordPress, analyzing/debugging different plugins, and developing our own ones. </p><p>Check out our website for more information about our CLOS Product - <a href="https://www.cloudlinux.com/" target="_blank" rel="nofollow noreferrer noopener" class="external">https://www.cloudlinux.com/</a></p><p></p><p>Join us to make a difference!</p><h3>Requirements: </h3><p></p><p><strong>Required Skills and Knowledge:</strong></p><ul> <li>3+ years of experience with PHP</li> <li>Strong knowledge of PHP, JavaScript &amp; HTML</li> <li>Experience and understanding of optimization principles:</li> </ul><ol> <li>frontend parts (cdn, ccss, http2 push, esi, etc.)</li> <li>backend parts (sql, refactoring, apache, opcache, etc.)</li> </ol><ul> <li>Strong experience in the development/debug/diagnosis of WordPress plugins and in the maintenance of WP itself</li> <li>Strong Experience in MySQL/MariaDB</li> <li>Experience in Redis/Memcached</li> <li>Experience in Apache/Nginx/(LightSpeed would be a plus)</li> <li>Practice of automation testing</li> <li>Knowledge of regular expressions</li> <li>Power-user Linux skills</li> <li>Intermediate level of English</li> <li>Version control/code management (git)</li> </ul><p></p><p><strong>It would be great if you also have:</strong></p><ul> <li>Experience in Ansible, Docker, Jenkins, Vagrant </li> <li>Experience in managing popular Content Management Systems (Joomla, Drupal, etc.)</li> </ul><p></p><p></p><p><strong>Personal skills:</strong></p><ul> <li>Decency, responsibility and high level of discipline&nbsp;</li> <li>Fast-learning, proactivity</li> <li>Desire to work in a fast-paced growing deadline-driven startup-up environment</li> <li>Strong self-motivation, driven to achieve committed milestones</li> <li>Ability to independently analyze a task and find the right solution</li> <li>Ability to work in a team</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development</li> <li>Interesting and challenging projects</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves</li> <li>Compensation for private medical insurance </li> <li>Co-working and gym/sports reimbursement</li> <li>Budget for education</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p></p><p><em>y applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy%20" rel="nofollow noreferrer noopener" class="external">Cloudlinux Privacy Policy</a><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"></a><em>and give us your consent to maintain and process your personal data in this respect. Please read our Privacy Policy for more information.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>PHP Security Developer/Researcher (worldwide remote, work anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/7E7A8B12E1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Imunify360 Security Suite is a product of CloudLinux Inc., the maker of the #1 OS in security and stability for hosting providers. Imunify is an innovative security solution designed specifically for shared and VPS/Dedicated servers. The automated, easy-to-use solution with the six-layer approach to security delivers comprehensive and complete attack prevention.</p><p>As our PHP Security Developer/Researcher, you'll be joining our dedicated research team which delivers an important part of our product: security patches. The Research team is directly responsible for analyzing vulnerabilities/threats and fix them.</p><p>As a security Developer/Researcher, you play a critical role in the organization. You will have full autonomy and responsibility in analyzing new threats (security vulnerabilities and malware) and resolving them for our customers. You will also be responsible for increasing our coverage of supported PHP applications and plugins.</p><p>Your work directly impacts the safety and workings of millions of websites around the world, so attention to detail and a high-quality work standard are extremely important skills that we’re looking for. </p><p></p><p><strong>As our PHP Security Developer/Researcher you will:<br></strong></p><ul> <li>Analyze new security vulnerabilities in open-source PHP applications (such as WordPress, Joomla, and Drupal) and backport upstream patches to fix those vulnerabilities in earlier versions</li> <li>Design, build, and deploy new features for our internal tooling to automate our workflows</li> <li>Research and analyze new trends in exploitation techniques, malware approaches, etc., and develop strategies to mitigate them.</li> <li>Expand coverage of supported applications and plugins.</li> </ul><h3>Requirements: </h3><p><strong>To be successful you should have;</strong></p><ul> <li>Advanced proficiency with PHP scripting language</li> <li>Several years of relevant work experience as a Software Tester Engineer or similar role</li> <li>Fluent English speaker</li> <li>You have a true passion for the security field</li> <li>Self-driven work ethic. You love taking initiative and seeing things through to completion</li> <li>Passion for continuous learning</li> <li>Understanding and knowledge of security vulnerabilities in web applications is a plus</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible hours, allowing you to schedule your day and work from any location worldwide.</li> <li>Paid one month of vacation per year and unlimited sick leave.</li> <li>Medical insurance reimbursement.</li> <li>Co-working and gym/sports reimbursement.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p></p><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"><em>Cloudlinux Privacy Policy</em></a><em> and give us your consent to maintain and process your personal data with this respect. Please read our Privacy Policy for more information.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://z-p3-scontent.fcmb7-1.fna.fbcdn.net/v/t39.30808-1/273499217_5218973671480777_3308731762242867065_n.jpg?stp=dst-jpg_p480x480&_nc_cat=110&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=3DMJ3XqIYG0Q7kNvgGKFDdD&_nc_ht=z-p3-scontent.fcmb7-1.fna&oh=00_AYCFwVF3LAhXkdLkiRsiYs5IpriXQ9zO7QmKQWcwuQQDIQ&oe=66AAD238" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Wishpond</h5>
-                    <h3>SENIOR DEVELOPER, RUBY ON RAILS, 100% REMOTE</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/wishpond/e9b27315-4761-4213-bf4a-a2efde9136b0" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b style="font-size: 18px;">Wishpond Technologies currently has the position of  Senior Developer, Ruby on Rails and we’re excited to tell you about it !</b></div><div><span style="font-size: 22px;">&nbsp;</span></div><div><b style="font-size: 18px;">OVERVIEW</b></div><div><span style="font-size: 16px;">We are searching for a </span><b style="font-size: 16px;">Senior RoR Developer</b><span style="font-size: 16px;"> to join our team on a full-time basis.&nbsp; This is a fully remote position, and the successful individual could be based anywhere in the world. You will work with an amazing team, building relationships and ensuring the products and services offered by Wishpond are utilized by clients throughout Canada and the US. In collaboration with the Product Development Department, the Senior RoR Developer is responsible for the success of Wishpond Technologies Ltd.</span></div><div>&nbsp;</div><div><span style="font-size: 15px;">&nbsp;</span><b style="font-size: 18px;">RESPONSIBILITIES</b></div><div>• <span style="font-size: 16px;">Write clean and scalable code using a variety of languages primarily Ruby and Java Script</span></div><div><span style="font-size: 16px;">• Build components for web applications pragmatically, focusing on performance and security</span></div><div><span style="font-size: 16px;">• Troubleshoot application issues, adeptly debugging and rectifying errors to ensure the best user experience</span></div><div><span style="font-size: 16px;">• Actively provide technical insight and participate in code reviews</span></div><div><span style="font-size: 16px;">• Thoroughly test code and write effective automated tests</span></div><div><span style="font-size: 16px;">• Uphold best practices and maintain high standards for engineering and product quality</span></div><div><span style="font-size: 16px;">• Improve, monitor, and maintain applications after deployment</span></div><div><span style="font-size: 16px;">• Coordinate with team members who work on different layers of product life cycle including Product Managers, QA Specialists and DevOps Engineers</span></div><div><span style="font-size: 16px;">• Other duties as assigned</span></div><div>&nbsp;</div><div><b style="font-size: 18px;">QUALIFICATIONS</b></div><div>• <span style="font-size: 16px;">A minimum of 4 years of Ruby on Rails experience</span></div><div><span style="font-size: 16px;">• A minimum of 3 years of experience with JavaScript and at least one front-end framework such as Angular, React, Vue or equivalent</span></div><div><span style="font-size: 16px;">• Solid database experience, preferably with MySQL, PostgreSQL and Redis</span></div><div><span style="font-size: 16px;">• Experience with Elasticsearch and MongoDB is a plus</span></div><div><span style="font-size: 16px;">• </span><span style="font-size: 11.5pt;">Familiarity with using Docker, Git and a Linux environment is preferred</span></div><div><span style="font-size: 16px;">• </span><span style="font-size: 11.5pt;">Strong problem solving skills and is able to craft solutions within the expected timeline</span></div><div><span style="font-size: 16px;">• Must be results-driven, have the ability to multi-task in a fast-paced Agile environment with large scale SaaS products</span></div><div><span style="font-size: 16px;">• A degree or diploma that contributes to the organization or role is considered an asset</span></div><div><span style="font-size: 16px;">• Must be very detail-oriented, and have a passion for programming</span></div><div><span style="font-size: 16px;">• Self-motivated with the ability to establish and maintain solid relationships through a client-first mentality&nbsp;</span></div><div><span style="font-size: 16px;">• As part of a diverse team, ability to work both independently and collaboratively in a fast-paced, results-oriented environment</span></div><div><span style="font-size: 16px;">• Must be&nbsp;technical, and analytical, and have the ability to manage complex projects seamlessly</span></div><div><span style="font-size: 16px;">• Fluent in English (spoken and written) and able to communicate effectively with ease. Knowledge of a second language is considered an asset</span></div><div><span style="font-size: 16px;">• Willing to participate in ongoing education and training for the role</span></div><div><br></div><div><b style="font-size: 18px;">WORK ENVIRONMENT&nbsp;/ BACKGROUND VERIFICATION</b></div><div>• <span style="font-size: 16px;">Given the nature of this role, it is expected that the successful candidate will provide their own workstation, high quality computer capable of running all our applications locally, headset, and have a fast and reliable internet connection.&nbsp;Certain roles will be required to utilize and or download company-approved software.</span></div><div><span style="font-size: 16px;">• The successful candidate is expected to work PST/PDT standard business hours (GMT-8) </span></div><div>• <span style="font-size: 16px;">Due to the nature of this role, we may verify backgrounds, including conducting employment references, criminal records, and credit checks.</span></div><div><span style="font-size: 15px;">&nbsp;</span>• <span style="font-size: 15px;">Once hired, the successful candidate must provide a copy of valid governmental photo ID and proof of residential address as part of their onboarding process</span></div><div><br></div><div><b style="font-size: 18px;">GREAT REASONS TO APPLY FOR THIS ROLE</b></div><div>• &nbsp;<span style="font-size: 15px;">Fully remote position allowing you to </span><b style="font-size: 15px;">work from your home anywhere in the world !</b></div><div>•  <span style="font-size: 15px;">Exciting and dynamic environment with a great leadership team&nbsp;</span></div><div>•  <span style="font-size: 15px;">Comprehensive training program and regular performance reviews to facilitate your success</span></div><div>•  <span style="font-size: 15px;">Competitive compensation based on experience and proven abilities</span></div><div>•  <span style="font-size: 15px;">Great referral programs with incentives and bonuses</span></div><div>•  <span style="font-size: 15px;">Unbelievable product discounts when you use our products for your own business</span></div><div>•  <span style="font-size: 15px;">A global workforce of multi-cultural and talented colleagues&nbsp;</span></div><div>•  <span style="font-size: 15px;">A close-knit operation with amazing growth opportunities for your personal development</span></div><div>•  <span style="font-size: 15px;">A high growth SaaS technology company publicly traded on the TSX Venture Exchange</span></div><div>•  <span style="font-size: 15px;">Corporate headquarters in beautiful Vancouver, British Columbia, Canada</span></div><div>•  <span style="font-size: 15px;">Access to our education credits program and so much more !</span></div><div><br></div><div><b style="font-size: 18px;">ABOUT US</b></div><div><span style="font-size: 16px;">Founded in 2009, Wishpond is a rapidly growing technology company providing digital marketing solutions targeted at small businesses.&nbsp; The cloud-based platform includes landing pages, social promotions, website pop-ups, online forms, and lead activity tracking. Wishpond has a dedicated team of professional project managers, designers, copywriters, and developers who provide marketing services tailored to our individual clients.</span></div><div><span style="font-size: 16px;">&nbsp;</span></div><div><span style="font-size: 16px;">Wishpond serves over 3,000 customers in various industries and sizes, from startups to large Fortune 500 companies. Wishpond has a rapidly growing global headcount and continues to hire dedicated and qualified employees and contractors who have what it takes to scale a successful software company.</span></div><div><br></div><div><span style="font-size: 16px;">To learn more about Wishpond Technologies, please visit our website or any of our social media platforms:</span></div><div><br></div><div><span style="font-size: 16px;">• Website: </span><a rel="noopener noreferrer" class="postings-link" style="font-size: 16px;" href="http://www.wishpond.com/">www.wishpond.com</a></div><div><span style="font-size: 16px;">• Instagram: @wishpondofficial</span></div><div><span style="font-size: 16px;">• Twitter: Wishpond</span></div><div><span style="font-size: 16px;">• Youtube: Thewishpond</span></div><div><span style="font-size: 16px;">• LinkedIn : Wishpond</span></div><div><br></div><div><b style="font-size: 18px;">APPLICATION PROCESS</b></div><div><b style="font-size: 16px;">If you are interested in applying for this exciting opportunity, please provide an updated resume IN ENGLISH (PDF or Word formats only), quoting the position title in the subject line of your cover letter</b></div><div><span style="font-size: 16px;">&nbsp;</span><b style="font-size: 16px;">&nbsp;</b></div><div><span style="font-size: 16px;">Wishpond Technologies is an equal-opportunity employer committed to hiring a diverse workforce and sustaining an inclusive culture that does not discriminate on the basis of disability, status, or any other basis protected under legislation</span></div><div><span style="font-size: 16px;">&nbsp;</span></div><div><span style="font-size: 16px;">We thank all applicants in advance for their interest in this position however due to the volume of applications we receive, we are unable to respond to phone, email, or agency inquiries.</span></div><div><br></div>
+                <p>CloudLinux is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person in our team supports each other and does what we can to ensure we all are successful. </p><p>We are looking for a talented Senior Python/Go Developer to join our dynamic team at Imunify. You will have the opportunity to work on cutting-edge projects that are pushing the boundaries of enterprise cyber security applications. As a Senior Python/Go Developer, you will be given the chance to grow and thrive through engaging leadership programs and challenging assignments.</p><p>Imunify Security Suite is our innovative security solution designed specifically for shared and VPS/Dedicated servers. The automated, easy-to-use solution with the six-layer approach to security delivers comprehensive and complete attack prevention. </p><p>Check out our website for more information about our Imunify Product <a href="https://www.imunify360.com/" target="_blank" rel="nofollow noreferrer noopener" class="external">https://www.imunify360.com/</a></p><p></p><p><strong>Join our team as a Senior Python/Go Developer and take on exciting challenges: </strong></p><ul> <li>Be involved in the development of Imunify360 products using Python.</li> <li>Be involved in the porting of Python code to Golang.</li> <li>Cover your code with unit tests and/or functional tests.</li> <li>Review of code written by your colleagues using Gerrit.</li> <li>Architecture development and writing technical documentation for new features.</li> <li>Investigating issues reported by our clients, partners, or support team.</li> </ul><h3>Requirements: </h3><p><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"></a><strong>To thrive in this role, we are looking for someone who has:</strong></p><ul> <li>3+ years of Python programming experience</li> <li>Experience in GoLang or willing to learn it </li> <li>Experience in system programming: sockets, filesystem, process management</li> <li>Proven experience working with Linux</li> <li>Intermediate level of English language</li> </ul><p></p><p><strong>It would be great if you also have:</strong></p><ul> <li>Experience with Linux server administration </li> <li>Experience with network security </li> <li>Experience with automated testing and CI/CD systems </li> <li>Knowledge about rpm/deb package management </li> </ul><p></p><p><strong>Personal skills:</strong></p><ul> <li>Fast learning, proactivity</li> <li>Strong self-motivation, driven to achieve committed milestones</li> <li>Strong prioritization skills and a flexible mindset&nbsp;</li> <li>The ability to independently analyze a task and find the right solution.</li> <li>The ability to work with vague requirements and make independent decisions</li> <li>The ability to work in a team</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development</li> <li>Interesting and challenging projects</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves</li> <li>Compensation for private medical insurance </li> <li>Co-working and gym/sports reimbursement</li> <li>Budget for education</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p></p><p></p><p><em>By applying for this position, you agree with </em><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external">the Cloudlinux Privacy Policy</a><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"></a><em> and give us your consent to maintain and process your personal data in this respect. Please read our Privacy Policy for more information.</em></p>
                 </details>
                 </td>
             </tr>,<tr>
@@ -704,7 +574,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><i>Technology (AI / ML / add all the buzzwords here) is changing the world precipitously and shaping our future.</i></div><div><br></div><div> Join us if you DISAGREE and want to shape the future yourself!</div><div><br></div><div><b>We need top-notch&nbsp;Ax Developer with the ambition to create the technology that changes the world. The technology that makes history, and decodes the future while transforming the present…</b></div><div><b>Already excited? Then we’d like to know you better!</b></div><div><br></div><div>Our team will be a perfect fit for you, if you’re a multi-dimensional IT expert ready to join a high performance, large scale, geographically dispersed ecosystem, as we become a global e-commerce player with the vision to be the greatest gifting company in the world.</div><h3>🥰Are You the One We’re Seeking?</h3><li>You possess exceptional analytical and conceptual thinking skills</li><li>You hold full accountability of your work regardless of your position or title in the team</li><li>You’re a humble and competent team member who’s excited to join a culture devoid of corporate buzzwords and bureaucracy</li><li>You have an insatiable curiosity and a craving for lifelong learning</li><li>You’re enjoying every minute of your job as you can see the results immediately</li><li>You have superb communication skills, with a knack for interacting effectively with multidisciplinary teams</li>,<h3>✨Let Your Skills Shine with Us!</h3><li>BS degree in Computer Science/Engineering or relevant engineering programs</li><li>Experience in Dynamics AX (X ++) or Dynamics 365 software development</li><li>Knowledge of Visual Studio .Net platform and C# coding language</li>,<h3>🎯Your Journey Begins: Embrace the Exciting Adventure Ahead!</h3><li>Developing in Dynamics 365 ERP Projects</li><li>Supporting functional consultants during the technical design phase, which is part of the analysis </li><li>Examining the problems in the applications developed and to take the necessary actions to solve them</li><li>Writing well-designed code for significant projects considering the software development</li><li>Responsible for planning and conducting the integration of new modul into the project</li><li>Planning and taking part in the software development testing</li><li>Proactively reporting the optimization of inner processes and errors to the team lead</li>,<h3>😎What’s in here for you?</h3><li>🎉Fun and Adventure Await: Get ready for exhilarating team adventures and unforgettable company activities that will create memories to cherish!&nbsp;🌈</li><li>🛍️Take excellent care of yourself : HiDoctor, Momento, and More!&nbsp;👩🏻‍⚕️</li><li>🎩Express Your Unique Style: No more stuffy suits or uncomfortable attire. Embrace your personal style and wear whatever makes you feel confident and comfortable. 👗👕</li><li>📚Unlock Your Potential: Biweekly Learning Hours and a Vast Training Library Await! 🎓 Never stop learning and growing! With unlimited access to top-notch training resources like Udemy and more, your professional growth knows no limits! 🚀</li><li>🥰Join Vibrant Social Clubs: Connect, Collaborate, and Create Lifelong Friendships!🎉Be part of our vibrant social clubs, where you can engage with colleagues who share your passions and interests. Cultivate meaningful connections, foster collaboration, and create memories that extend beyond the workplace.🤝</li><li>🤝Seamless Onboarding: Receive a Warm Welcome and a Smooth Transition! 📋 Our dedicated onboarding process ensures you feel supported and empowered from day one. We provide comprehensive training and resources to help you settle into your role quickly and effectively. 🌟</li><li>Join us on this exciting journey a dynamic work ecosystem, thrilling team activities, entertainment galore, a flexible dress code, and endless learning opportunities await you! It’s time to unleash your full potential and embrace the future of work!&nbsp;💃</li><div><b>😍About Us</b></div><div><br></div><div>As a pioneering tech company in gifts, our vision is to be a leader in all markets in which we operate. We create lifelong value in the lives of our employees, customers and all our business partners! 💪</div><div><br></div><div>Founded in 2006 by Emre Aydın, <a rel="noopener noreferrer" class="postings-link" href="http://ciceksepeti.com/">Ciceksepeti.com</a> offers the broadest selection of flowers &amp; gifts delivered same day within a single experience. We are very proud to have created a culture of celebration among people with our gift arrangements and our brand Bonnyfood. We are committed to continuing this tradition by making every special day memorable. In addition to our original mission of bringing a new perspective to the e-commerce sector in Turkey and making shipping faster and easier, now we offer a diverse range of products under various categories, such as electronics, home &amp; living, personal care, supermarket, cosmetics, fashion, sports &amp; outdoor, hobby, pet shop, jewellery &amp; accessories, as well as flowers and edible flowers since 2019.</div><div><br></div><div><a rel="noopener noreferrer" class="postings-link" href="http://ciceksepeti.com/">Ciceksepeti.com</a> is the most visited floral and gifting website according to SimilarWeb data, having 4 times more visitors than the second largest player in the world. 😎</div><div><br></div><div>Besides covering 70+ cities in Turkey through 55.000+ vendors and 24x7 customer support, Ciceksepeti has expanded into Mexico with its international brand, LolaFlora.💃</div><div><br></div><div>We are so happy and proud to have been selected the Best Employer Brand at LinkedIn Turkey Talent Awards in 2019 and 2022! 🥳</div><div><br></div><div>Headquartered in İstanbul, we’re a young, nimble, dedicated team of professionals, who are not only hard workers but also smart workers; who know how to get things done in the right way, as well as getting the right things done for our customers. Moreover, we’re on the verge of an exciting episode in our journey as we simultaneously set foot on international markets and grow further in domestic market.</div><div><br></div><div><span style="font-size: 14px;">"İşe alım süreçlerimizde kişisel verilerinizi nasıl işlediğimize dair bilgiye çalışan adayı aydınlatma metnimizden ulaşabilirsiniz./ Please see our candidate privacy note for information on how we process your personal data during our recruitment activities."</span></div><div><a rel="noopener noreferrer" class="postings-link" href="https://cdn03.ciceksepeti.com/editor/hr/Ciceksepeti_CS-Teknoloji-Calisan-Adayi_Aydinlatma-Metni-15092023.pdf">https://cdn03.ciceksepeti.com/editor/hr/Ciceksepeti_CS-Teknoloji-Calisan-Adayi_Aydinlatma-Metni-15092023.pdf</a></div><div><a rel="noopener noreferrer" class="postings-link" href="https://cdn03.ciceksepeti.com/editor/hr/Ciceksepeti_CS-Teknoloji-Calisan-Adayi_Aydinlatma-Metni-15092023.docx.pdf">https://cdn03.ciceksepeti.com/editor/hr/Ciceksepeti_CS-Teknoloji-Calisan-Adayi_Aydinlatma-Metni-15092023.docx.pdf</a></div>
+                <div><i>Technology (AI / ML / add all the buzzwords here) is changing the world precipitously and shaping our future.</i></div><div><br></div><div> Join us if you DISAGREE and want to shape the future yourself!</div><div><br></div><div><b>We need top-notch&nbsp;Ax Developer with the ambition to create the technology that changes the world. The technology that makes history, and decodes the future while transforming the present…</b></div><div><b>Already excited? Then we’d like to know you better!</b></div><div><br></div><div>Our team will be a perfect fit for you, if you’re a multi-dimensional IT expert ready to join a high performance, large scale, geographically dispersed ecosystem, as we become a global e-commerce player with the vision to be the greatest gifting company in the world.</div><h3>🥰Are You the One We’re Seeking?</h3><li>You possess exceptional analytical and conceptual thinking skills</li><li>You hold full accountability of your work regardless of your position or title in the team</li><li>You’re a humble and competent team member who’s excited to join a culture devoid of corporate buzzwords and bureaucracy</li><li>You have an insatiable curiosity and a craving for lifelong learning</li><li>You’re enjoying every minute of your job as you can see the results immediately</li><li>You have superb communication skills, with a knack for interacting effectively with multidisciplinary teams</li>,<h3>✨Let Your Skills Shine with Us!</h3><li>BS degree in Computer Science/Engineering or relevant engineering programs</li><li>Experience in Dynamics AX (X ++) or Dynamics 365 software development</li><li>Knowledge of Visual Studio .Net platform and C# coding language</li>,<h3>🎯Your Journey Begins: Embrace the Exciting Adventure Ahead!</h3><li>Developing in Dynamics 365 ERP Projects</li><li>Supporting functional consultants during the technical design phase, which is part of the analysis </li><li>Examining the problems in the applications developed and to take the necessary actions to solve them</li><li>Writing well-designed code for significant projects considering the software development</li><li>Responsible for planning and conducting the integration of new modul into the project</li><li>Planning and taking part in the software development testing</li><li>Proactively reporting the optimization of inner processes and errors to the team lead</li>,<h3>😎What’s in here for you?</h3><li>🎉Fun and Adventure Await: Get ready for exhilarating team adventures and unforgettable company activities that will create memories to cherish!&nbsp;🌈</li><li>🛍️Take excellent care of yourself : HiDoctor, Momento, and More!&nbsp;👩🏻‍⚕️</li><li>🎩Express Your Unique Style: No more stuffy suits or uncomfortable attire. Embrace your personal style and wear whatever makes you feel confident and comfortable. 👗👕</li><li>📚Unlock Your Potential: Biweekly Learning Hours and a Vast Training Library Await! 🎓 Never stop learning and growing! With unlimited access to top-notch training resources like Udemy and more, your professional growth knows no limits! 🚀</li><li>🥰Join Vibrant Social Clubs: Connect, Collaborate, and Create Lifelong Friendships!🎉Be part of our vibrant social clubs, where you can engage with colleagues who share your passions and interests. Cultivate meaningful connections, foster collaboration, and create memories that extend beyond the workplace.🤝</li><li>🤝Seamless Onboarding: Receive a Warm Welcome and a Smooth Transition! 📋 Our dedicated onboarding process ensures you feel supported and empowered from day one. We provide comprehensive training and resources to help you settle into your role quickly and effectively. 🌟</li><li>Join us on this exciting journey a dynamic work ecosystem, thrilling team activities, entertainment galore, a flexible dress code, and endless learning opportunities await you! It’s time to unleash your full potential and embrace the future of work!&nbsp;💃</li><div><b>😍About Us</b></div><div><br></div><div>As a pioneering tech company in gifts, our vision is to be a leader in all markets in which we operate. We create lifelong value in the lives of our employees, customers and all our business partners! 💪</div><div><br></div><div>Founded in 2006 by Emre Aydın, <a rel="noopener noreferrer" class="postings-link" href="http://ciceksepeti.com/">Ciceksepeti.com</a> offers the broadest selection of flowers &amp; gifts delivered same day within a single experience. We are very proud to have created a culture of celebration among people with our gift arrangements and our brand Bonnyfood. We are committed to continuing this tradition by making every special day memorable. In addition to our original mission of bringing a new perspective to the e-commerce sector in Turkey and making shipping faster and easier, now we offer a diverse range of products under various categories, such as electronics, home &amp; living, personal care, supermarket, cosmetics, fashion, sports &amp; outdoor, hobby, pet shop, jewellery &amp; accessories, as well as flowers and edible flowers since 2019.</div><div><br></div><div><a rel="noopener noreferrer" class="postings-link" href="http://ciceksepeti.com/">Ciceksepeti.com</a> is the most visited floral and gifting website according to SimilarWeb data, having 4 times more visitors than the second largest player in the world. 😎</div><div><br></div><div>Besides covering 70+ cities in Turkey through 55.000+ vendors and 24x7 customer support, Ciceksepeti has expanded into Mexico with its international brand, LolaFlora.💃</div><div><br></div><div>We are so happy and proud to have been selected the Best Employer Brand at LinkedIn Turkey Talent Awards in 2019 and 2022! 🥳</div><div><br></div><div>Headquartered in İstanbul, we’re a young, nimble, dedicated team of professionals, who are not only hard workers but also smart workers; who know how to get things done in the right way, as well as getting the right things done for our customers. Moreover, we’re on the verge of an exciting episode in our journey as we simultaneously set foot on international markets and grow further in domestic market.</div><div><br></div><div><span style="font-size: 14px;">"İşe alım süreçlerimizde kişisel verilerinizi nasıl işlediğimize dair bilgiye çalışan adayı aydınlatma metnimizden ulaşabilirsiniz./ Please see our candidate privacy note for information on how we process your personal data during our recruitment activities."</span></div><div><a rel="noopener noreferrer" class="postings-link" style="font-size: 15px;" href="https://cdn03.ciceksepeti.com/editor/hr/Ciceksepeti_Calisan_Adayi_Aydinlatma_Metni_2024-08-29.pdf">https://cdn03.ciceksepeti.com/editor/hr/Ciceksepeti_Calisan_Adayi_Aydinlatma_Metni_2024-08-29.pdf</a></div><div><a rel="noopener noreferrer" class="postings-link" style="font-size: 15px;" href="https://cdn03.ciceksepeti.com/editor/hr/CS_Teknoloji_Calisan_Adayi_Aydinlatma_Metni_2024-08-29.pdf">https://cdn03.ciceksepeti.com/editor/hr/CS_Teknoloji_Calisan_Adayi_Aydinlatma_Metni_2024-08-29.pdf</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -733,11 +603,11 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1630623773090037787/M9jBuyQv_400x400.png" width="38px" height="auto">
+                    <img src="https://media.licdn.com/dms/image/C4D0BAQHlK67hgnhzQw/company-logo_200_200/0/1631346154820?e=2147483647&v=beta&t=_R2Ssj7L_f4xqmSCcq0nOLCyCz0QN2lFnHssxxhj3YY" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Xapo Bank</h5>
-                    <h3>Senior Front-End Web Developer (Remote - Work from Anywhere)</h3>
+                    <h5>Blue Coding</h5>
+                    <h3>FrontEnd Developer (A)</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -746,62 +616,37 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://job-boards.greenhouse.io/xapo61/jobs/6008543003" align="right" target="_blank">Apply</a>
+                <a href="https://jobs.lever.co/bluecoding/69f71883-3c7f-456e-b6ab-d0c69a1e3a72" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                &lt;div class=&quot;content-intro&quot;&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-weight: 900;&quot;&gt;Work from anywhere, impact everywhere&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Diversity is at the heart of who we are at Xapo Bank. We’re a fully distributed team of over 140 Xapiens that work remotely from 40+ countries around the world.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Our beginning: A world that enjoys economic freedom and wealth protection, no matter where you live or who is running your country. This is the dream that drove Wences Casares, our Founder and Chairman, to quietly transform the world of banking.&lt;/p&gt;
-&lt;p&gt;To achieve that, we search the world for the best people for the job. We work hard, think globally, and inspire each other to learn and grow. We are committed to changing the way things are done.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Risk is inherent in all of our business activities and managing risk well is the responsibility of every Xapien. Sound risk management enables us to serve our customers and deliver value for our shareholders, and helps make Xapo a great place to work.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p style=&quot;text-align: left;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Although we are headquartered in Gibraltar, this is a full time, 100% remote position&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Work from anywhere!&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Position Overview:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;We are looking for a Senior Front-End Web Developer who is motivated to combine the art of design with the art of programming. Responsibilities will include translating design wireframes to actual code that will produce visual elements of the application.&amp;nbsp;You will work with the product designer and bridge the gap between graphical design and technical implementation, taking an active role on both sides and defining how the application looks and works. Aside from publicly faced applications, the person will contribute to internal back office UIs, building easy-to-use interfaces for internal teams in ever-evolving architecture.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Develop new user-facing features&lt;/li&gt;
-&lt;li&gt;Build reusable code and libraries for future use&lt;/li&gt;
-&lt;li&gt;Ensure the technical feasibility of design from a visual and experience standpoint.&lt;/li&gt;
-&lt;li&gt;Optimize application for maximum speed and scalability&lt;/li&gt;
-&lt;li&gt;Ensure consistency of data gathered from the user&lt;/li&gt;
-&lt;li&gt;Collaborate with other team members and stakeholders&lt;/li&gt;
-&lt;li&gt;Developing internal tooling UI and platform for non-web-native team members to use&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Skills needed:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Great understanding of the newest trends, best practices and standards&amp;nbsp; in web development&lt;/li&gt;
-&lt;li&gt;Experience in leading the development of medium to large-scale projects, focusing on UX and Security.&lt;/li&gt;
-&lt;li&gt;Understanding of server-side CSS pre-processing platforms&lt;/li&gt;
-&lt;li&gt;Proficient understanding of client-side scripting, security best practices, and browser performance optimizations&lt;/li&gt;
-&lt;li&gt;Great knowledge of advanced JavaScript libraries and frameworks, such as AngularJS, ReactJS, Vue (at least one of them), etc.&lt;/li&gt;
-&lt;li&gt;Good understanding of asynchronous request handling, partial page updates, SPA, SSG&lt;/li&gt;
-&lt;li&gt;Good knowledge of tools necessary for autonomous delivers (image processing, building, etc)&lt;/li&gt;
-&lt;li&gt;Familiarity with tools such as Figma and Lokalise is a plus.&lt;/li&gt;
-&lt;li&gt;Proficient understanding of cross-browser compatibility issues and ways to work around them.&lt;/li&gt;
-&lt;li&gt;Proficient understanding of code versioning tools, such as GitHub.&lt;/li&gt;
-&lt;li&gt;Good knowledge of SEO principles and ensuring that applications will adhere to them.&lt;/li&gt;
-&lt;li&gt;Experience in designing web architecture, including Backend for Frontend, micro frontends, and usage of docker.&lt;/li&gt;
-&lt;li&gt;Excellent attention to detail with a high level of ownership mentality to deliver results independently and iteratively.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Other requirements&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A dedicated workspace.&lt;/li&gt;
-&lt;li&gt;A reliable internet connection with the fastest speed possible in your area.&lt;/li&gt;
-&lt;li&gt;Devices and other essential equipment that meet minimal technical specifications.&lt;/li&gt;
-&lt;li&gt;Alignment with Our Values and the Xapo Values-Driven Leadership principles.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Why work for Xapo?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 500; font-size: 10pt;&quot;&gt;IMPACT GLOBALLY, WORK REMOTELY.&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Shape the Future:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; Improve lives through cutting-edge technology, work 100% remotely from anywhere in the world.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Great work-life balance:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Build amazing things with a balance of autonomy and collaborative teamwork. Set your own work schedule and make use of a flexible PTO plan when you need to recharge.&lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Expect Excellence:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; Collaborate, learn, and grow with a high-performance team. Learn&lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; how you learn best - from books to conferences, you’ll get a yearly budget for your individual learning and development goals.&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;At Xapo, we prioritize consumer protection and adhere to regulatory requirements by ensuring that all Xapiens are accountable for upholding principles of fair treatment, transparency, and ethical conduct in their interactions with customers and stakeholders.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
+                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 10 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 18px;">What are we looking for?</b></div><div><br></div><div><span style="font-size: 16px;">In this opportunity, we are looking for a FrontEnd Developer to work with one of our foreign clients, who is a market leader in the consultation, design, procurement, implementation, and ongoing managed services for technology services for mid to large global enterprises. As a Telecom Managed Service company, they partner with over 300 service providers globally to help customers with technology design and find the best solutions to meet their needs.</span></div><div><br></div><div><span style="font-size: 16px;">If you are independent, a great communicator, a problem solver, and have strong attention to detail, this is a great fit for you! Our jobs are fully remote – as long as you have the skills and can get the work done well, you can work anywhere in the listed countries you want.</span></div><div><span style="font-size: 16px;">If you have the skills and can get the job done, join us and work from anywhere you want!</span></div><div><br></div><div><b style="font-size: 13pt;">What's unique about this job?</b></div><div><br></div><div><span style="font-size: 16px;">As a FrontEnd Developer, you’ll be part of a massive migration, rebuilding, and rewriting of our client's existing application working alongside a top-of-the-line team creating this application from the ground up to transition it to modern languages and practices.  This transition will be divided into 5 phases and post-launch support and iteration. This is a very long-term project.</span></div><div><br></div><div><span style="font-size: 16px;">The platform supports all business functions from sourcing and pricing, purchasing, implementation and project management, customer lifecycle management, incident management, financial management, expense management, and business process automation and integrations. This is written in Coldfusion running on Lucee with ColdBox. About half of the source code has been refactored into an MVC framework while other pages may still be in a single file approach. There is some code that is still tag-based but much of this has been migrated to a script-based code structure.</span></div><div><br></div><div><span style="font-size: 16px;">As the platform is rebuilt, the client will be implementing a new UI based on their design standards which are based on Bootstrap 5. Additionally, they will deprecate certain functionality or data points from the application to streamline the User Experience and better align with how the company operates various parts of the business.</span></div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>You'll participate in doing a transition and migrate all existing functionality from Ruby to .Net Core MVC.</li><li>All of the migration will be done using Agile methodologies and Scrum.</li><li>Rebuilding the UI based on the client's design standards which are based in Bootstrap 5.</li><li>Build out and maintain the CSS and core JS files to support the developers in implementing the code in .NET</li>,<h3>You will shine if you have:</h3><li>Strong hands-on experience with HTML, CSS, and Javascript.</li><li>Experience with Agile methodologies such as Scrum, and Kanban.</li><li>Experience with cloud environments like Azure or similar.</li><li>Knowledge or experience working or reading React, Typescript, C# and .NET code is  plus.</li>,<h3>Here are some of the perks we offer you:</h3><li>Salary in USD</li><li>Long-term</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://media.licdn.com/dms/image/C4D0BAQHlK67hgnhzQw/company-logo_200_200/0/1631346154820?e=2147483647&v=beta&t=_R2Ssj7L_f4xqmSCcq0nOLCyCz0QN2lFnHssxxhj3YY" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Blue Coding</h5>
+                    <h3>Senior Front-end Developer (A)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/bluecoding/5690d472-9e8e-468a-b8f5-961b3a655acd" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 10 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 18px;">What are we looking for?</b></div><div><br></div><div><span style="font-size: 16px;">In this opportunity, we are looking for a Senior FrontEnd Developer to work with one of our foreign clients, who is a market leader in the consultation, design, procurement, implementation, and ongoing managed services for technology services for mid to large global enterprises. As a Telecom Managed Service company, they partner with over 300 service providers globally to help customers with technology design and find the best solutions to meet their needs.</span></div><div><br></div><div><span style="font-size: 16px;">If you are independent, a great communicator, a problem solver, and have strong attention to detail, this is a great fit for you! Our jobs are fully remote – as long as you have the skills and can get the work done well, you can work anywhere in the listed countries you want.</span></div><div><span style="font-size: 16px;">If you have the skills and can get the job done, join us and work from anywhere you want!</span></div><div><br></div><div><b style="font-size: 13pt;">What's unique about this job?</b></div><div><br></div><div><span style="font-size: 16px;">As a Senior FrontEnd Developer, you’ll be part of a massive migration, rebuilding, and rewriting of our client's existing application working alongside a top-of-the-line team creating this application from the ground up to transition it to modern languages and practices.  This transition will be divided into 5 phases and post-launch support and iteration. This is a very long-term project.</span></div><div><br></div><div><span style="font-size: 16px;">The platform supports all business functions from sourcing and pricing, purchasing, implementation and project management, customer lifecycle management, incident management, financial management, expense management, and business process automation and integrations. This is written in Coldfusion running on Lucee with ColdBox. About half of the source code has been refactored into an MVC framework while other pages may still be in a single file approach. There is some code that is still tag-based but much of this has been migrated to a script-based code structure.</span></div><div><br></div><div><span style="font-size: 16px;">As the platform is rebuilt, the client will be implementing a new UI based on their design standards which are based on Bootstrap 5. Additionally, they will deprecate certain functionality or data points from the application to streamline the User Experience and better align with how the company operates various parts of the business.</span></div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>You'll participate in doing a transition and migrate all existing functionality from Ruby to .Net Core MVC.</li><li>All of the migration will be done using Agile methodologies and Scrum.</li><li>Rebuilding the UI based on the client's design standards which are based in Bootstrap 5.</li><li>Build out and maintain the CSS and core JS files to support the developers in implementing the code in .NET</li>,<h3>You will shine if you have:</h3><li>Strong hands-on experience with HTML, CSS, and Javascript.</li><li>Experience with Agile methodologies such as Scrum, and Kanban.</li><li>Experience with cloud environments like Azure or similar.</li><li>Knowledge or experience working or reading React, Typescript, C# and .NET code is  plus.</li>,<h3>Here are some of the perks we offer you:</h3><li>Salary in USD</li><li>Long-term</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
                 </details>
                 </td>
             </tr></table>
