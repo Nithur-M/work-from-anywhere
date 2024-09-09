@@ -10,7 +10,7 @@
                     <code>api,crypto,frontend,react</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-engineer-1929800" align="right" target="_blank">Apply</a>
@@ -43,71 +43,6 @@
 <div class="h2" style="line-height: 1.4; color: #444444; margin-top: 40px; margin-bottom: 20px; padding: 0px; border-style: initial; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; letter-spacing: 0.5px;">How to Join Us</div>
 <p style="margin-bottom: 20px; padding: 0px; border-style: initial; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; line-height: 1.7; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; text-rendering: optimizelegibility; color: #444444; letter-spacing: 0.5px;">To apply, please submit your social profiles (Twitter, LinkedIn, personal website) and your GitHub link. We look forward to understanding how you can contribute to our team's success.</p>
 <img src="https://remotive.com/job/track/1929800/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>DuckDuckGo</h5>
-                    <h3>Senior Frontend Engineer, React/Typescript (Remote)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://duckduckgo.recruitee.com/o/senior-frontend-engineer-javascript-remote-2-5" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Hi, we’re DuckDuckGo, the Internet privacy company for everyone who wants to take back their privacy now. For over a decade, we've been building our all-in-one product, developing new privacy technology, and working with policymakers to make online privacy simple and accessible for all.</p>
-<p><br /></p>
-<p>Our browsers and extensions have been downloaded over 250 million times with our built-in private search engine, which has seen over 100 billion searches and is the 2nd largest search engine on mobile in the United States and 20 other countries, including the United Kingdom, Canada, Australia, Poland, Italy, and Spain. Our private search engine is also 3rd in market share in the U.S. and over 15 major markets. Oh, and we've been profitable since 2014, with annual revenue exceeding $100 million!</p>
-<p><br /></p>
-<p>The DuckDuckGo browser’s uniquely comprehensive privacy protections are used by tens of millions of people to protect their everyday online activities on <a href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/" rel="noopener">Mac</a>, <a href="https://spreadprivacy.com/windows-browser-open-beta/" rel="noopener">Windows</a>, <a href="https://spreadprivacy.com/duckduckgo-privacy-browser-ios14/" rel="noopener">iOS</a>, and <a href="https://spreadprivacy.com/introducing-app-tracking-protection/" rel="noopener">Android</a>, from searching to browsing, emailing, and more. We also offer <a href="https://spreadprivacy.com/meetprivacypro/" rel="noopener">Privacy Pro</a>, a three-in-one subscription service that includes a VPN, Personal Information Removal, and Identity Theft Restoration.</p>
-<p><br /></p>
-<p>We’re looking for a <strong>Senior Frontend Engineer</strong> to help shape our all-in-one privacy solution and join our mission to show the world that protecting your privacy online can be simple.  </p>
-<p><br /></p>
-<p><strong>The Opportunity</strong> </p>
-<p>In this role, you will lead and contribute to developing new and existing products and features, demonstrating ownership over major components of our codebase while taking responsibility for their maintenance and improvement over time. By writing pragmatic, performant, and testable code that works consistently across settings, devices, and browsers, you'll play a key role in improving the frontend software architecture, all while prioritizing privacy and user experience throughout the engineering process.</p>
-<p><br /></p>
-<p>As a senior engineer, you will mentor peers and work closely with cross-functional team members through remote collaboration opportunities, including product brainstorms, technical design discussions, code reviews, and more.</p>
-<p><br /></p>
-<p><strong>What You Will Bring to DuckDuckGo</strong> </p>
-<ul><li>7+ years experience in positions where your primary responsibility was writing code.</li><li>Advanced level of JavaScript/HTML/CSS expertise.</li><li>Advanced level of React and Typescript.</li><li>Advanced level of web application architecture expertise.</li><li>Ability to lead engineering projects with little to no oversight.</li><li>Experience building large-scale web applications.</li><li>Experience identifying success criteria and metrics and validating decisions against them.</li><li>Experience collaborating with engineers on the backend and other platforms, such as Android and iOS.</li><li>Experience collaborating with product and design to build polished consumer-facing products.</li><li>Ability to contribute to technical architecture decisions for complex products.</li><li>Willingness to learn new technologies and ideas.</li></ul>
-<p><br /></p>
-<p><strong>How We Will Support You </strong> </p>
-<p>Our core values -- build trust, question assumptions, and validate direction -- underpin how we work day-to-day and the support we give our team members. We strive to empower our team members to be self-directed and self-motivated in their work.  </p>
-<p><br /></p>
-<ul><li><strong>Remote First, Always</strong>: We've always been a fully distributed company with team members all over the world. We trust you to get your work done wherever, and whenever.   </li><li><strong>Commitment to Personal Growth:</strong> Every team member has an annual budget of $1,250 USD to invest in their professional development. Every team member also has a dedicated Career Advisor, who serves as a guide to help you develop your strengths, identify your motivations, and understand your opportunities for growth. </li><li><strong>Leadership:</strong> We have many different types of leaders and possible combinations of leadership roles, so you can grow your career in a way that aligns best with your personal goals. You can seek additional leadership roles by being directly responsible for projects, taking ownership of areas of the company, developing and maintaining internal processes, or pursuing advisory roles. </li><li><strong>Work/Life Balance: </strong>Team members have the freedom and flexibility to organize their own work schedules. We want you to thrive both in and out of the office. We trust you to use good judgment and take the time off that you need to bring your best self to work.  </li></ul>
-<p><br /></p>
-<p>We also offer paid parental leave, a co-working stipend, office setup reimbursement, and a wellness stipend. More support resources can be found in our <u><a href="https://duckduckgo.com/assets/hiring/team_support_guide.pdf" rel="noopener">Team Member Support Guide</a></u>, which explains how we make your well-being a priority. </p>
-<p><br /></p>
-<p>For more information on how we collaborate worldwide, from leadership in our relatively flat organization to start-to-finish ownership<strong>,</strong> check out <u><a href="https://duckduckgo.com/how-we-work" rel="noopener">DuckDuckGo Culture: How We Work.</a></u> </p>
-<p><br /></p>
-<p><strong>Compensation</strong> </p>
-<p>Annual compensation: $176,000 USD and stock options. Compensation is the same within a professional level, regardless of geographic location or functional area, and the compensation for each professional level is transparent across the organization.</p>
-<p><br /></p>
-<p><strong>Hiring Process</strong> </p>
-<p>Hiring works best when it's a two-way street. Learn how we help you get to know DuckDuckGo and envision your future role here. Find out more about <u><a href="https://duckduckgo.com/how-we-hire" rel="noopener">how we hire</a></u>. </p>
-<p><br /></p>
-<p><strong>Diversity, Equity, and Inclusion</strong> </p>
-<p>DuckDuckGo provides equal work opportunities to all team members and applicants<u>,</u> and it prohibits discrimination and harassment of any type on the basis of race, color, ethnicity, caste, religion, age, sex (including pregnancy), national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by our policies or federal, state, or local laws.</p>
-<p><br /></p>
-<p>We want to ensure that our hiring process is accessible. If you need reasonable accommodation for any part of the application process because of a medical condition or disability, please send an email to <u><a href="mailto:careers@duckduckgo.com" rel="noopener">careers@duckduckgo.com</a></u> to let us know the nature of your request.  </p>
-<p><br /></p>
-<p>If you think you might thrive in this environment, we would love to hear from you. </p>
-<p><br /></p>
-<p><strong>Please note that:</strong> </p>
-<ol><li>Sometimes we meet up! Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.</li><li>While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week. </li><li>A successful candidate will be subject to a background check and must receive satisfactory results of the same, as a condition of joining the team. </li><li>By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.  </li></ol>
-<p><br /></p>
-<p>#LI-DNI</p>
                 </details>
                 </td>
             </tr>,<tr>
@@ -215,7 +150,7 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;div&gt;What you will do:&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;What you will do:&amp;nbsp;&lt;/strong&gt;&lt;/div&gt;
 &lt;div&gt;
 &lt;ul&gt;
 &lt;li&gt;Develop enterprise-level websites and digital experiences primarily utilizing your expertise in JavaScript, HTML, CSS, React, and WordPress (including Gutenberg blocks).&lt;/li&gt;
@@ -226,7 +161,7 @@
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div&gt;
-&lt;p&gt;About you:&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About you:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;You’re at your best leading a team of engineers to solve a complex problem while providing code reviews, coaching, and mentorship.&lt;/li&gt;
 &lt;li&gt;You have a code portfolio of real-world samples to showcase your skills. Link us to your best custom work on GitHub and you’ll never have to do any live coding or whiteboard testing!&amp;nbsp;&lt;/li&gt;
@@ -234,16 +169,16 @@
 &lt;li&gt;You are an advocate for coded style guides and creating highly componentized systems.&lt;/li&gt;
 &lt;li&gt;You prefer to work fully remote and are effectively engaging in a distributed team from the location of your choosing.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Benefits of interest:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Benefits of interest:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Multiple paid time off programs, including accrued PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day.&lt;/li&gt;
-&lt;li&gt;Health, dental, and life insurance programs (available for United States team members).&lt;/li&gt;
-&lt;li&gt;Retirement contribution programs (currently available in the U.S. and U.K.).&lt;/li&gt;
-&lt;li&gt;Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations.&lt;/li&gt;
-&lt;li&gt;$3,000 USD accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study.&lt;/li&gt;
-&lt;li&gt;Global Company summits – opportunities to meet, socialize and learn with fellow 10uppers in person at remarkable destinations.&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year.&lt;/li&gt;
-&lt;li&gt;A Director of Engineering that supports your career growth and development.&lt;/li&gt;
+&lt;li&gt;Multiple paid time off programs, including PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day&lt;/li&gt;
+&lt;li&gt;Health, dental, and life insurance programs (available for United States and UK team members)&lt;/li&gt;
+&lt;li&gt;Retirement contribution programs (currently available in the U.S. and U.K.)&lt;/li&gt;
+&lt;li&gt;Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations&lt;/li&gt;
+&lt;li&gt;$1,000 accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study&lt;/li&gt;
+&lt;li&gt;Global Company summits – opportunities to meet, socialize, and learn with fellow team members in person at remarkable destinations&lt;/li&gt;
+&lt;li&gt;An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year&lt;/li&gt;
+&lt;li&gt;A Director of Engineering that supports your career growth and development&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The expected annual salary range for this position is between &lt;strong&gt;$90,000 and $150,000 USD&lt;/strong&gt;. Compensation is determined based on a variety of factors including relevant experience, other job related qualifications/skills, geographic location, and business needs.&lt;/p&gt;
 &lt;div&gt;&lt;strong&gt;Join our team!&amp;nbsp;&lt;/strong&gt;&lt;/div&gt;
@@ -290,7 +225,7 @@
 &lt;/div&gt;
 &lt;div&gt;&amp;nbsp;&lt;/div&gt;
 &lt;/div&gt;
-&lt;div&gt;What you will do:&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;What you will do:&amp;nbsp;&lt;/strong&gt;&lt;/div&gt;
 &lt;div&gt;
 &lt;ul&gt;
 &lt;li&gt;Develop large-scale modular applications with advanced knowledge of HTML, CSS, and JavaScript.&lt;/li&gt;
@@ -301,7 +236,7 @@
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div&gt;
-&lt;p&gt;About you:&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About you:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;You love perfecting your skills in cross-browser/device front-end engineering through crafting custom UI components in either React or a WordPress (block editor) stack.&lt;/li&gt;
 &lt;li&gt;You have a code portfolio of real-world samples showcasing your technical abilities. Link us to your best custom work on GitHub and you’ll never have to do any live coding or whiteboard testing!&amp;nbsp;&lt;/li&gt;
@@ -309,16 +244,16 @@
 &lt;li&gt;You’re proficient at building coded style guides and creating highly componentized systems.&lt;/li&gt;
 &lt;li&gt;You prefer to work fully remote and are effectively engaging in a distributed team from the location of your choosing.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Benefits of interest:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Benefits of interest:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Multiple paid time off programs, including accrued PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day.&lt;/li&gt;
-&lt;li&gt;Health, dental, and life insurance programs (available for United States team members).&lt;/li&gt;
-&lt;li&gt;Retirement contribution programs (currently available in the U.S. and U.K.).&lt;/li&gt;
-&lt;li&gt;Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations.&lt;/li&gt;
-&lt;li&gt;$3,000 USD accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study.&lt;/li&gt;
-&lt;li&gt;Global Company summits – opportunities to meet, socialize and learn with fellow 10uppers in person at remarkable destinations.&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year.&lt;/li&gt;
-&lt;li&gt;A Director of Engineering that supports your career growth and development.&lt;/li&gt;
+&lt;li&gt;Multiple paid time off programs, including PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day&lt;/li&gt;
+&lt;li&gt;Health, dental, and life insurance programs (available for United States and UK team members)&lt;/li&gt;
+&lt;li&gt;Retirement contribution programs (currently available in the U.S. and U.K.)&lt;/li&gt;
+&lt;li&gt;Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations&lt;/li&gt;
+&lt;li&gt;$1,000 accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study&lt;/li&gt;
+&lt;li&gt;Global Company summits – opportunities to meet, socialize, and learn with fellow team members in person at remarkable destinations&lt;/li&gt;
+&lt;li&gt;An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year&lt;/li&gt;
+&lt;li&gt;A Director of Engineering that supports your career growth and development&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The expected annual salary range for this position is between &lt;strong&gt;$70,000 and $130,000 USD&lt;/strong&gt;. Compensation is determined based on a variety of factors including relevant experience, other job related qualifications/skills, geographic location, and business needs.&lt;/p&gt;
 &lt;div&gt;&lt;strong&gt;Join our team!&amp;nbsp;&lt;/strong&gt;&lt;/div&gt;
