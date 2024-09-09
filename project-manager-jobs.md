@@ -1,5 +1,63 @@
 <div align="center"><h2>PROJECT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1934186/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>objectstream</h5>
+                    <h3>Project Manager</h3>
+                </td>
+                <td width="300">
+                    <code>scrum,agile</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/project-management/project-manager-1934186" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Objectstream is an award-winning small business and a trusted partner to its customers, which include local, state, federal and private entities. </strong><strong>The passion and dedication of Objectstream employees are what has supported the growth and success of our company. We develop strong, dedicated, unified teams committed to our core value.</strong></p>
+<p><strong>We are seeking a full-time PM to join our ever-growing organization! This individual needs to be driven, organized and loves the challenge of solving problems. You will lead a fun and close-knit agile team to success.  </strong></p>
+<p><strong> </strong></p>
+<p><strong>We offer a competitive benefits package to our employees which includes </strong><strong>medical, dental, vision, employer-paid life AD&amp;D and short-term disability, FSA and matching HSA and 401(k). </strong></p>
+<p> </p>
+<p> </p>
+<p>Requirements:</p>
+<ul style="">
+<li style="">Minimum of ten (10) years of experience in project management</li>
+<li style="">Minimum of eight (5) years of relevant professional experience in managing large complex implementation projects.</li>
+<li style="">Experience managing projects for clients with multiple locations</li>
+<li style="">Experience in managing projects worth $15 million or more</li>
+<li style="">Experience with process improvement frameworks. For Example – Lean, Six Sigma, ITIL, SAFe, Capability Maturity Model Integration (CMMI) and/or International Organization for Standardization (ISO)</li>
+<li style="">Knowledge of system development methodologies Agile/Scrum, Kanban, RUP, and Waterfall or similar</li>
+</ul>
+<p>Preferred but not required:</p>
+<ul style="">
+<li style="">A Bachelor's degree in Information Sciences or a related field</li>
+<li style="">Experience managing Cloud-native application development.</li>
+<li style="">Professional Scrum Master (PSM) or a Certified Scrum Master (CSM) Certification.</li>
+<li style="">Experience managing teams of twenty-five (25) or more people</li>
+<li style="">Experience working on state government projects.</li>
+</ul>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Objectstream is an Equal Opportunity Employer. All qualified candidates will receive consideration without regard to race, color, religion, sex, national origination, age, disability, marital status, political affiliation, sexual orientation, or any other non-merit factor</p><img src="https://remotive.com/job/track/1934186/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -92,7 +150,7 @@
 &lt;div&gt;&amp;nbsp;&lt;/div&gt;
 &lt;div&gt;As a 10upper, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 38+ countries, 10up fully embraces the benefits of distributed work.&lt;/div&gt;
 &lt;div&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div&gt;What you will do:&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;What you will do:&amp;nbsp;&lt;/strong&gt;&lt;/div&gt;
 &lt;div&gt;
 &lt;ul&gt;
 &lt;li&gt;Act as the day-to-day Project Manager for 4 - 7 active projects; exhibiting senior-level ownership over all project scopes/plans, client meetings, written status updates, demos, risk management and iterative scope / expectation management.&amp;nbsp;&lt;/li&gt;
@@ -101,7 +159,7 @@
 &lt;li&gt;Lead discovery engagements (onsite and remotely) that expertly define cross-discipline project requirements and that demonstrate an expert understanding of underlying client business goals and objectives.&lt;/li&gt;
 &lt;li&gt;Consistently identify strategic opportunities to engage with the 10up Account Management Team and collaborate towards building strong, long-term client relationships.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;About you:&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About you:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;You have experience delivering full scope CMS-based web projects for enterprise clients, ideally in an agency environment, and preferably with a practical understanding of the WordPress platform.&lt;/li&gt;
 &lt;li&gt;You can describe tangible examples of deescalating project risks by working with members of your team and leadership to develop collaborative solutions.&lt;/li&gt;
@@ -110,16 +168,16 @@
 &lt;li&gt;You are an effective leader of cross-discipline project teams - across account strategy, experience design, engineering, QA and support - and are able to keep the team motivated and on task to deliver the best project outcomes.&lt;/li&gt;
 &lt;li&gt;You have excellent verbal and written English communication skills, both internally and externally.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Benefits of interest:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Benefits of interest:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Mentorship from a dedicated Team Lead and Director of Client Delivery.&lt;/li&gt;
-&lt;li&gt;Multiple paid time off programs, including accrued PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day.&lt;/li&gt;
-&lt;li&gt;Health, dental, and life insurance programs (available for United States team members).&lt;/li&gt;
-&lt;li&gt;Retirement contribution programs (currently available in the U.S. and U.K.).&lt;/li&gt;
-&lt;li&gt;$3,000 USD accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study.&lt;/li&gt;
-&lt;li&gt;Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations.&lt;/li&gt;
-&lt;li&gt;Global Company summits – opportunities to meet, socialize and learn with fellow 10uppers in person at remarkable destinations.&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year.&lt;/li&gt;
+&lt;li&gt;Multiple paid time off programs, including PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day&lt;/li&gt;
+&lt;li&gt;Health, dental, and life insurance programs (available for United States and UK team members)&lt;/li&gt;
+&lt;li&gt;Retirement contribution programs (currently available in the U.S. and U.K.)&lt;/li&gt;
+&lt;li&gt;Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations&lt;/li&gt;
+&lt;li&gt;$1,000 accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study&lt;/li&gt;
+&lt;li&gt;Global Company summits – opportunities to meet, socialize, and learn with fellow team members in person at remarkable destinations&lt;/li&gt;
+&lt;li&gt;An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year&lt;/li&gt;
+&lt;li&gt;Mentorship from a dedicated Team Lead and Director of Client Delivery&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The expected annual salary range for this position is between $60,000 and $120,000 USD. Compensation is determined based on a variety of factors including relevant experience, other job related qualifications/skills, geographic location, and business needs.&lt;/p&gt;
 &lt;div&gt;&lt;strong&gt;Join our team!&amp;nbsp;&lt;/strong&gt;&lt;/div&gt;
@@ -166,7 +224,7 @@
 &lt;div&gt;As a 10upper, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 38+ countries, 10up fully embraces the benefits of distributed work.&lt;/div&gt;
 &lt;/div&gt;
 &lt;div&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div&gt;What you will do:&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;What you will do:&amp;nbsp;&lt;/strong&gt;&lt;/div&gt;
 &lt;div&gt;
 &lt;ul&gt;
 &lt;li&gt;Act as the day-to-day Project Manager for 4 - 7 active projects; exhibiting senior-level ownership over all project scopes/plans, client meetings, written status updates, demos, risk management and iterative scope / expectation management.&amp;nbsp;&lt;/li&gt;
@@ -175,7 +233,7 @@
 &lt;li&gt;Lead discovery engagements (onsite and remotely) that expertly define cross-discipline project requirements and that demonstrate an expert understanding of underlying client business goals and objectives.&lt;/li&gt;
 &lt;li&gt;Consistently identify strategic opportunities to engage with the 10up Account Management Team and collaborate towards building strong, long-term client relationships.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;About you:&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About you:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;You have experience delivering full scope CMS-based web projects for enterprise clients, ideally in an agency environment, and preferably with a practical understanding of the WordPress platform.&lt;/li&gt;
 &lt;li&gt;You can describe tangible examples of deescalating project risks by working with members of your team and leadership to develop collaborative solutions.&lt;/li&gt;
@@ -184,15 +242,15 @@
 &lt;li&gt;You are an effective leader of cross-discipline project teams - across account strategy, experience design, engineering, QA and support - and are able to keep the team motivated and on task to deliver the best project outcomes.&lt;/li&gt;
 &lt;li&gt;You have excellent verbal and written English communication skills, both internally and externally.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Benefits of interest:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Benefits of interest:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Mentorship from a dedicated Team Lead and Director of Client Delivery.&lt;/li&gt;
-&lt;li&gt;Multiple paid time off programs, including accrued PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day.&lt;/li&gt;
-&lt;li&gt;Retirement contribution programs (currently available in the U.S. and U.K.).&lt;/li&gt;
-&lt;li&gt;$3,000 USD accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study.&lt;/li&gt;
-&lt;li&gt;Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations.&lt;/li&gt;
-&lt;li&gt;Global Company summits – opportunities to meet, socialize and learn with fellow 10uppers in person at remarkable destinations.&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year.&lt;/li&gt;
+&lt;li&gt;Multiple paid time off programs, including PTO, parental leave, bereavement leave, and company holidays – including an all-company break from Christmas Eve to New Years Day&lt;/li&gt;
+&lt;li&gt;Health, dental, and life insurance programs (available for United States and UK team members)&lt;/li&gt;
+&lt;li&gt;Retirement contribution programs (currently available in the U.S. and U.K.)&lt;/li&gt;
+&lt;li&gt;Flexible and alternate schedule programs - including options for 4-day work week (Monday-Thursday) configurations&lt;/li&gt;
+&lt;li&gt;$1,000 accrued annually in professional development budget for you to spend on conferences, training, or to buy back time for programs like independent study&lt;/li&gt;
+&lt;li&gt;Global Company summits – opportunities to meet, socialize, and learn with fellow team members in person at remarkable destinations&lt;/li&gt;
+&lt;li&gt;An end-of-year all-hands bonus program, along with smaller opportunities for recognition throughout the year&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The expected annual salary range for this position is between &lt;strong&gt;£60,000 &lt;/strong&gt;and &lt;strong&gt;£80,000 &lt;/strong&gt;annually. Compensation is determined based on a variety of factors including relevant experience, other job related qualifications/skills, geographic location, and business needs.&lt;/p&gt;
 &lt;div&gt;&lt;strong&gt;Join our team!&amp;nbsp;&lt;/strong&gt;&lt;/div&gt;
