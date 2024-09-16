@@ -1,5 +1,29 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1936485/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Gameplaygalaxy</h5>
+                    <h3>Senior UX/UI Designer</h3>
+                </td>
+                <td width="300">
+                    <code>Figma,unity,adobe XD</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/design/senior-ux-ui-designer-1936485" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><!--block-->We are looking for a talented and experienced <strong>Senior UX/UI Designer</strong> who will be responsible for designing intuitive and visually compelling user interfaces for our cutting-edge mobile gaming experiences. This role will work closely with our game designers, developers, and art team to create seamless and engaging user experiences that captivate our players and elevate our games. You'll play a key part in shaping the look and feel of our games, ensuring they are not only beautiful but also easy to navigate and enjoyable to play.</div><br><br><div class="h3">All the responsibilities we'll trust you with:</div><ul style=""><li style=""><!--block-->You'll collaborate closely with product managers, game designers, and developers to define and implement innovative solutions for the product direction, visuals, and experience.</li><li style=""><!--block-->You'll create wireframes, storyboards, user flows, and prototypes to effectively communicate interaction and design ideas.</li><li style=""><!--block-->You'll design user interfaces that prioritize ease of navigation, intuitive gameplay, and visual appeal, ensuring a seamless user experience across platforms.</li><li style=""><!--block-->You’ll create Astonishing UI animations that would bring UI to life</li><li style=""><!--block-->You'll conduct user research and evaluate user feedback to enhance user satisfaction by improving usability, accessibility, and interaction design.</li><li style=""><!--block-->You'll collaborate with artists and developers to ensure visual design integrity and consistency throughout the game development lifecycle.</li><li style=""><!--block-->You'll advocate for user-centered design principles and best practices, staying updated on industry trends and emerging technologies.</li></ul><br><br><div class="h3">What you'll bring to the team:</div><ul style=""><li style=""><!--block-->5+ years of experience as a UX/UI Designer in the gaming or interactive media industry, with a strong portfolio showcasing your design process and results.</li><li style=""><!--block-->Proficiency in design tools such as Adobe XD, Sketch, Figma, or similar software.</li><li style=""><!--block-->Experience with prototyping tools (e.g., InVision, Marvel, Principle) to create interactive prototypes.</li><li style=""><!--block-->Excellent knowledge of Unity.</li><li style=""><!--block-->Strong understanding of user-centered design principles, user interface guidelines, usability, and accessibility standards.</li><li style=""><!--block-->Ability to effectively communicate design ideas and rationale, and to collaborate with cross-functional teams.</li><li style=""><!--block-->Experience in conducting user research, usability testing, and incorporating feedback into design iterations.</li><li style=""><!--block-->Excellent attention to detail and a passion for creating exceptional user experiences.</li><li style=""><!--block-->Knowledge of mobile gaming trends and familiarity with responsive design principles is a plus.</li><li style=""><!--block-->Excellent English proficiency to collaborate effectively with our international team.</li></ul><br><br><div class="h3">Why you'll love working with us:</div><ul style=""><li style=""><!--block-->We’re 100% remote, work wherever you want forever!</li><li style=""><!--block-->We offer unlimited holidays and sick days. Take as much time off as you need, to spend time with your family and friends or just because you feel like playing games all day. We trust our team and want to offer a modern work life balance that allows you to thrive both at work and in your personal life.</li><li style=""><!--block-->You’ll be able to make an impact, to work closely with the rest of the team and its leads to work on one of the most promising upcoming games in the mobile gaming industry and the Web3 space.</li><li style=""><!--block-->You’ll have a comfortable work schedule and stable workload. With a variety of tasks that will allow your constant professional development.</li><li style=""><!--block-->We want our team to grow personally and professionally and support learning opportunities, especially with a focus around new AI tools and methods. </li><li style=""><!--block-->We have a culture that puts our people first. We believe in open communication, creativity and the value of unique contributions from everyone in the team.</li><li style=""><!--block-->We offer a competitive salary in addition to equity option plans.</li></ul><img src="https://remotive.com/job/track/1936485/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
