@@ -10,7 +10,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -52,6 +52,87 @@ qualifications, skills test performance, geographic location, and
 seniority of the position offered. Outside of California, New York, 
 Washington, and Colorado compensation may fall outside the above ranges.</p>
 <img src="https://remotive.com/job/track/1680495/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/11767950?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
+                    <h3>Web Developer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=6242476&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of Apps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol, the p2p communication layer for Web3.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception. Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <p><strong>Who are we?</strong></p>
+<p>IFT is a pioneering force in the Web3 ecosystem, committed to the development, adoption, and accessibility of solutions to digital age problems; guided by our principles: liberty, censorship resistance, security, privacy, and inclusivity. Our mission is to build public goods to safeguard civil liberties in the digital age.</p>
+<p>&nbsp;</p>
+<p><strong>The role</strong></p>
+<p>As a Web Developer at IFT, you will be responsible for As a Web Developer, you will be responsible for the development and technical maintenance of various web-based projects in the studio. Your role will involve decision-making for code architecture, writing tests, choosing the right technology stack, and any other related tasks. You will work closely with the development team, project management, studio lead, and design team to bring our web projects to life.</p>
+<p>&nbsp;</p>
+<p><strong>Key responsibilities:</strong>&nbsp;</p>
+<ul>
+<li>You will take care of all technical aspects of all web projects (from development and testing to deployment and maintenance)</li>
+<li>You will be developing and implementing websites, internal tools and our design systems implementation in React.</li>
+<li>You will co-write documentation for all the above mentioned products/projects</li>
+<li>You will be responsible for maintaining our open-sourced codebases on Github.</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>You will ideally have:&nbsp;</strong></p>
+<ul>
+<li>Proficiency in Design Tools: Extensive experience with design tools that cater to UX, UI, and micro-interactions, such as Figma and Framer.</li>
+<li>Frontend and Backend Expertise: Experience in implementation of frontend libraries and design systems (ReactJS, NextJS), and backend (NodeJs, NestJS), all in Typescript</li>
+<li>Software Architecture Knowledge: Solid understanding of software architecture principles, ensuring scalable and maintainable code.</li>
+<li>DevOps and Deployment Experience: Hands-on experience with Git, Docker, coupled with expertise in deployment platforms like Vercel.</li>
+<li>MDX-Based Content Management: Knowledgeable in managing content using MDX with Docusaurus.</li>
+<li>Experience with JAMstack: Familiarity with JAMstack architecture, including static site generators, headless CMS, and modern web technologies.</li>
+<li>Alignment with our principles: Strong alignment with our core principles: <a href="https://status.app/manifesto">https://status.app/manifesto</a></li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Bonus points:&nbsp;</strong></p>
+<ul>
+<li>You are comfortable working remotely and asynchronously</li>
+<li>You have experience working for an open-source organisation</li>
+<li>You have exposure to creative coding (processing, openframeworks, WebGL, writing shaders, p5js)</li>
+</ul>
+<p><em>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</em></p>
+<p>&nbsp;</p>
+<p><strong>Hiring process:</strong></p>
+<ol>
+<li>Interview with our People Ops team</li>
+<li>Interview with Jerry</li>
+<li>Interview with Jinho</li>
+<li>Assessment<a href="https://docs.google.com/document/d/1-KCt5RPaSZ-E1h8CRJUHw8jDfAZThVombgNLdARdpds/edit"> </a></li>
+<li>Interview with Nick</li>
+</ol>
+<p><em>The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline.&nbsp;</em></p>
+<p><strong><br></strong><strong>Compensation</strong></p>
+<p>We are happy to pay in any mix of fiat/crypto.</p>
+
+    
+
+    
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -163,87 +244,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
-<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
-<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
-<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
-<h2>What your day will look like</h2>
-<p>In a typical day, a developer relations engineer might:</p>
-<ul>
-<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
-<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
-<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
-<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
-<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
-<li>work on technical articles, presentations or workshops&nbsp;</li>
-<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
-<li>present at conferences, meetups or technical events</li>
-</ul>
-<h2>What we are looking for in you</h2>
-<p>A strong candidate</p>
-<ul>
-<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
-<li>has worked with real-world challenges developing and deploying software using Linux</li>
-<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
-<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
-<li>has been a contributor to open-source communities, software and documentation</li>
-<li>is an engaging, vivacious speaker and presenter</li>
-<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
-<li>builds trust, relationships and confidence</li>
-<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
-</ul>
-<h2>Additional skills that you might also bring</h2>
-<ul>
-<li>previous experience in a developer advocacy or community role</li>
-<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
-</ul>
-
-<h2>What we offer you</h2>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote&nbsp;</p>
-
-<p><br><br></p><p>Requisition ID: 1114</p><p></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Developer Relations Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
                 <a href="https://canonical.com/careers/3655681" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
@@ -309,6 +309,87 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote</p>
 <h2><br><br></h2><p>Requisition ID: 799</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Developer Relations Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
+<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
+<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
+<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
+<h2>What your day will look like</h2>
+<p>In a typical day, a developer relations engineer might:</p>
+<ul>
+<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
+<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
+<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
+<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
+<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
+<li>work on technical articles, presentations or workshops&nbsp;</li>
+<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
+<li>present at conferences, meetups or technical events</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<p>A strong candidate</p>
+<ul>
+<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
+<li>has worked with real-world challenges developing and deploying software using Linux</li>
+<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
+<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
+<li>has been a contributor to open-source communities, software and documentation</li>
+<li>is an engaging, vivacious speaker and presenter</li>
+<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
+<li>builds trust, relationships and confidence</li>
+<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
+</ul>
+<h2>Additional skills that you might also bring</h2>
+<ul>
+<li>previous experience in a developer advocacy or community role</li>
+<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
+</ul>
+
+<h2>What we offer you</h2>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote&nbsp;</p>
+
+<p><br><br></p><p>Requisition ID: 1114</p><p></p>
     
                 </details>
                 </td>
@@ -391,7 +472,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
                 <td width="300">
                     <h5>Collabora</h5>
-                    <h3>CI/Testing Infrastructure Developer (Remote/Anywhere)</h3>
+                    <h3>Linux Kernel Developer - Core Kernel (Remote/Anywhere)</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -400,13 +481,37 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/collabora/7dd88e28-ffd5-4d6c-b54b-8a6c42cd7e85" align="right" target="_blank">Apply</a>
+                <a href="https://jobs.lever.co/collabora/3f822c30-d5d0-4ea0-80ac-db50aded0132" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div>Collabora is currently looking for a very technically capable, enthusiastic and passionate Continuous Integration (CI) &amp; Testing Developer to join its ever-growing engineering team.</div><div><br></div><div>As a member of the CI &amp; Testing  team, your primary focus will be to participate in the development,  integration and deployment of Open Source Continuous Integration and  Automated Testing systems in upstream projects. The scope of the work ranges from hardware automation through LAVA, to systems like KernelCI and Mesa CI.</div></div><div class="section page-centered"><div><h3>Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Analyse  a project's needs for automated testing and design an implementation plan to discuss with the upstream community and Collabora's customers</li><li>Monitor and identify areas of improvement for existing upstream Continuous Integration systems</li><li>Implement  the CI system by integrating the required dependencies, building the  code at test, deploying it to the device under testing, executing the  tests and distributing and presenting the results</li><li>Represent Collabora at conferences and trade shows to demonstrate and promote our leadership in the open source arena</li><li>Understand client needs and reconcile time constraints, available technologies and resources, and Open Source best practices</li></ul></ul></div></div><div class="section page-centered"><div><h3>Desired Skills</h3><ul class="posting-requirements plain-list"><ul><li>Good understanding of Continuous Integration systems</li><li>Experience with Gitlab CI/CD and/or GitHub Actions</li><li>Experience with Python and Python frameworks such as Django, Flask, FastAPI</li><li>Knowledge of open source development methodologies and relevant open source communities</li><li>Good English language skills (both verbal and written)</li><li>Ability to work and communicate in a fully distributed environment, completely online</li></ul></ul></div></div><div class="section page-centered"><div><h3>Additional Skills - for some projects, possessing any of these skills can be very helpful</h3><ul class="posting-requirements plain-list"><ul><li>Familiarity with the upstream Linux kernel development workflow</li><li>Embedded development experience (firmware, bootloaders, kernel, BSP)</li><li>Knowledge about OpenGL and/or Vulkan GPU drivers</li><li>Sysadmin/DevOps experience</li><li>Fluency with Kubernetes</li></ul></ul></div></div><div class="section page-centered" data-qa="closing-description"><div>Collabora  is a software consultancy specialising in bringing companies and the  Open Source community together. We combine years of Open Source software  leadership with an understanding of the challenges that businesses, non-profits and governments face. Collabora brings deep technical expertise in  system integration &amp; architecture, graphics, multimedia, web engines  and communications to a number of market verticals, including mobile,  IVI / automotive, set top box / smart TV, and a range of other  specialised embedded applications.</div><div><br></div><div>Collabora  has the unique business model of enabling enterprises to leverage Open  Source software in their solutions. Having worked with notable industry  leading companies in the automotive, aerospace and handset mobile  verticals amongst many others, Collabora has established a broad  customer portfolio.</div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/7dd88e28-ffd5-4d6c-b54b-8a6c42cd7e85/apply">Apply for this job</a></div>
+                <div class="section page-centered" data-qa="job-description"><div>Collabora is currently looking for a very technically capable, enthusiastic and  passionate Linux Kernel Software Developer to join its ever growing  engineering team.</div><div><br></div><div>As  a member of the Kernel team, your primary focus will be to participate  in the development and upstreaming of core kernel infrastructure such as  schedulers, real time, file systems, block layer, memory management,  system call interfaces, architecture-specific code (x86, ARM,  RISC-V)virtio and more. You will be working together with the mainline  Linux community, pushing forward the kernel core needs for different  customers’ projects and products</div></div><div class="section page-centered"><div><h3>Key Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Discuss  Linux core system technologies with clients and represent Collabora at conferences and trade shows to demonstrate and promote our leadership in  the open source arena</li><li>Analyze client problems and design solutions leveraging open source technologies and Collabora's technical expertise</li><li>Define and scope client projects in collaboration with the delivery team</li><li>Contribute publicly to open source projects to further strengthen Collabora's technical leadership</li><li>Gain working knowledge of customers’ products, applications, technical and business strengths and target markets</li><li>Understand client needs and reconciling time constraints, available technologies and resources, and open source best practices</li></ul></ul></div></div><div class="section page-centered"><div><h3>Desired Skills</h3><ul class="posting-requirements plain-list"><ul><li>Linux kernel and kernel module development</li><li>Linux experience in one or more of the following areas: schedulers, real-time,&nbsp; filesystems, block layer, memory management, system call interfaces, architecture-specific code (x86, ARM, RISC-V), virtio, etc.</li><li>Good understanding of debugging mechanisms in the Linux kernel (ftrace, kdump, ktraces, ...)</li><li>Understanding of open source development methodology and practices as well as prior experience/contributions with/to the upstream Linux kernel community</li><li>Diligence and focus to drive development and upstream discussions that may last multiple months</li><li>Exposure to Continuous Integration environments (GitLab, <a rel="noopener noreferrer" class="postings-link" href="http://kernelci.org">kernelci.org</a>...) is a plus</li><li>Self learning skill to get sufficient knowledge of Collabora's services, business model, project delivery life cycle and related technical domains</li><li>Good English language skills (both verbal and written)</li><li>Ability to work and communicate in an online fully distributed environment</li></ul></ul></div></div><div class="section page-centered" data-qa="closing-description"><div>Collabora  is a software consultancy specializing in bringing companies and the  Open Source community together. We combine years of Open Source software  leadership with an understanding of the challenges that businesses,  non-profits, and governments face. Collabora brings deep technical  expertise in system integration &amp; architecture, graphics,  multimedia, web engines and communications to a number of market  verticals, including mobile, IVI / automotive, set top box / smart TV,  and a range of other specialized embedded applications.</div><div><br></div><div>Collabora  has the unique business model of enabling enterprises to leverage Open  Source software in their solutions. Having worked with notable industry  leading companies in the automotive, aerospace and handset mobile  verticals amongst many others, Collabora has established a broad  customer portfolio.</div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/3f822c30-d5d0-4ea0-80ac-db50aded0132/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://media.licdn.com/dms/image/D4E0BAQFdRsd49YG4fQ/company-logo_200_200/0/1688735422027/collabora_logo?e=2147483647&v=beta&t=COQKgdesE_abHpZN-7BjhNZ1IKm2nhQyHB637TbP88E" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Collabora</h5>
+                    <h3>Linux Kernel Developer - Drivers (Remote/Anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/collabora/477381bb-3cce-414c-ad07-982c004ac5ba" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div>Collabora  is currently looking for a very technically capable, enthusiastic and  passionate Linux Kernel Software Developer to join its ever growing  engineering team.</div><div><br></div><div>As  a member of the Kernel team, your primary focus will be to participate  in the development, integration, validation and deployment of Linux  board support packages and kernel device drivers, configuring kernels,  troubleshooting functional and performance problems for different  customers’ projects and products and participating in the mainline Linux  with code contributions, reviews and discussions.</div></div><div class="section page-centered"><div><h3>Key Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Discuss  Linux core system technologies with clients and represent Collabora at  conferences and trade shows to demonstrate and promote our leadership in  the open source arena</li><li>Analyze client problems and design solutions leveraging open source technologies and Collabora's technical expertise</li><li>Define and scope client projects in collaboration with the delivery team</li><li>Contribute publicly to open source projects to further strengthen Collabora's technical leadership</li><li>Gain working knowledge of customers’ products, applications, technical and business strengths and target markets</li><li>Understand client needs and reconciling time constraints, available technologies and resources, and open source best practices</li></ul></ul></div></div><div class="section page-centered"><div><h3>Desired Skills</h3><ul class="posting-requirements plain-list"><ul><li>Linux kernel and kernel module development</li><li>Linux driver development</li><li>Cross-compiling and porting</li><li>Understanding  of open source development methodology and practices as well as prior  experience/contributions with/to the Open Source Linux Kernel community</li><li>Linux distribution package development/management (Debian, Yocto...) is a nice to have</li><li>Exposure to Continuous Integration environments (GitLab, <a rel="noopener noreferrer" class="postings-link" href="http://kernelci.org">kernelci.org</a>...) is a plus</li><li>Self  learning skill to get sufficient knowledge of Collabora's services,  busines model, project delivery life cycle and other related technical  domains</li><li>Good English language skills (both verbal and written)</li><li>Ability to work and communicate in an online fully distributed environment</li></ul></ul></div></div><div class="section page-centered" data-qa="closing-description"><div>Collabora  is a software consultancy specializing in bringing companies and the  Open Source community together. We combine years of Open Source software  leadership with an understanding of the challenges that businesses,  non-profits, and governments face. Collabora brings deep technical  expertise in system integration &amp; architecture, graphics,  multimedia, web engines and communications to a number of market  verticals, including mobile, IVI / automotive, set top box / smart TV,  and a range of other specialized embedded applications.</div><div><br></div><div>Collabora  has the unique business model of enabling enterprises to leverage Open  Source software in their solutions. Having worked with notable industry  leading companies in the automotive, aerospace and handset mobile  verticals amongst many others, Collabora has established a broad  customer portfolio.</div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/477381bb-3cce-414c-ad07-982c004ac5ba/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -479,6 +584,30 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div>Collabora is looking for a passionate and enthusiastic open-source software developer, with good knowledge of at least one of OpenGL or Vulkan, to join our ever growing geographically-distributed Graphics domain team.</div></div><div class="section page-centered"><div><h3>Required Skills</h3><ul class="posting-requirements plain-list"><ul><li>Good knowledge of at least one of the OpenGL or Vulkan APIs</li><li>Experience developing on Linux systems</li><li>Knowledge of open source development methodologies and relevant open source communities</li><li>Good English language skills (both verbal and written)&nbsp;</li><li>Ability to work and communicate in an online fully distributed environment </li></ul></ul></div></div><div class="section page-centered"><div><h3>Desirable Skills (The below are skills that to some degree will be useful at the start of your career within Collabora. Training and opportunities for development will be offered)</h3><ul class="posting-requirements plain-list"><ul><li>Experience profiling and optimizing application's use of the GPU</li><li>Experience with developing GPU compilers</li><li>Direct contributions to the Mesa 3D Graphics Library</li><li>Experience leading teams to understand and define constraints, requirements and solutions</li><li>Good communication with customers and upstream communities</li><li>Self-learning skills to get sufficient knowledge of Collabora's services,&nbsp;business model, project delivery life cycle and other related technical domains</li><div><br></div></ul></ul></div></div><div class="section page-centered" data-qa="closing-description"><div>Collabora's Graphics team contributes to the entire Linux Graphics stack, from the Linux kernel up to the display servers, including but not  limited to GPU and display kernel drivers, Wayland/Weston, OpenGL, Vulkan and other open-source graphics drivers within the Mesa 3D Graphics Library for different customers’ projects in various market verticals.</div><div><br></div><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/bd4a9eb8-528f-4553-a832-ca6949ab46bd/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Front-End Developer (worldwide remote, work anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/9286FE20AF" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and&nbsp; we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure everyone is successful. We are truly a great place to work. For more details about our company go to <a href="http://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">CloudLinux</a>.</p><p>We are actively seeking a Front-End Developer to become an integral part of our dynamic CloudLinux Network team.</p><p>CLN is an integral SaaS platform tasked with the licensing of all CloudLinux products. It manages server operations and oversees the billing process for customers. This is a unique self-provisioning system created by CloudLinux for internal needs. The automated, easy-to-use robust solution delivers comprehensive and complete user experience. We will give you a place to strive and grow, where you will have the opportunity to work on interesting, yet challenging product. Applying your thinking to build a better system founded on intelligent technologies.</p><p>The perfect candidate will possess an in-depth understanding of Angular, complemented by prior experience in backend development and familiarity with various other frameworks.</p><p>We offer a fully remote work environment with flexible hours, allowing you the freedom to structure your day and work from any location worldwide. Join us in our mission to provide top-tier services to our valued customers.<a href="https://docs.cloudlinux.com/cln/introduction/" target="_blank" rel="nofollow noreferrer noopener" class="external"></a></p><p></p><p><strong>What you will do:</strong></p><p>As a key member of our team, you will spend approximately 80% of your time crafting a user-friendly customer portal. This platform will empower our clients to effortlessly manage their subscriptions and servers, while also providing an intuitive admin panel designed to deliver an unparalleled licensing and billing experience.</p><p>Occasionally, you will also be able to contribute to diverse front-end projects for our Extended Lifecycle Support (ELS) initiative. ELS is our commitment to helping organizations securely utilize Linux distributions and software languages that have reached their end of life or no longer receive standard security support. We provide essential vulnerability patches for unsupported versions of CentOS, CentOS Stream, Ubuntu, Debian, Oracle Linux, PHP, Python, and the Spring software development framework.</p><h3>Requirements: </h3><p><strong>To thrive in this role, we are looking for someone who has:</strong></p><ul> <li>5+ years of experience with Javascript.</li> <li>Strong knowledge of TypeScript/JavaScript, Angular.</li> <li>Experience and understanding of optimization principles.</li> <li>The practice of unit testing.</li> <li>Experience HTML &amp; CSS/SCSS.</li> <li>Version control/code management (git).</li> <li>Intermediate level of English.<br> </li> </ul><p><strong>It would be great if you also have:</strong></p><ul> <li>Experience in backend and PHP.</li> <li>Knowledge of NodeJS, Lumen, VueJS.</li> <li>Experience with Database IDE, such as MySQL.<br> </li> </ul><p><strong>Personal skills:</strong></p><ul> <li>Decency, responsibility, and a high level of discipline.</li> <li>Fast-learning, proactivity.</li> <li>Desire to work in a fast-paced growing environment.</li> <li>Strong self-motivation, driven to achieve committed milestones.</li> <li>Ability to independently analyze a task and find the right solution.</li> <li>Ability to work in a team.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development</li> <li>Interesting and challenging projects</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves</li> <li>Compensation for private medical insurance</li> <li>Co-working and gym/sports reimbursement</li> <li>Budget for education</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p></p><p><em>By applying for this position, you agree with the CloudLinux Privacy Policy - </em><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external">https://cloudlinux.com/privacy-policy</a><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external"></a><em> and give us your consent to maintain and process your personal data in this respect. Please read our Privacy Policy for more information - </em><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external">https://cloudlinux.com/privacy-policy</a><em> .</em></p>
                 </details>
                 </td>
             </tr>,<tr>
@@ -583,7 +712,31 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
                 <td width="300">
                     <h5>Blue Coding</h5>
-                    <h3>Front-End Developer (A)</h3>
+                    <h3>Back-end Developer (VM)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/bluecoding/b964ae53-0019-456f-bf67-a1c0183a8db7" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 10 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 18px">What are we looking for?</b></div><div><br></div><div><span style="font-size: 16px">In this opportunity, we are looking for a Back-end Developer to work with one of our foreign clients, who is a market leader in the consultation, design, procurement, implementation, and ongoing managed services for technology services for mid to large global enterprises. As a Telecom Managed Service company, they partner with over 300 service providers globally to help customers with technology design and find the best solutions to meet their needs. This Software Developer will be responsible for using C# to compose, compile,</span><span style="font-size: 16px;"> and test programs and applications to provide cellular cost optimization services to enterprises. Also, will join the client's talented A-team with a shared commitment to reducing their clients’ monthly cell phone bills while making it easier to manage their mobile device inventory and services.</span></div><div><br></div><div><span style="font-size: 16px">If you are independent, a great communicator, a problem solver, and have strong attention to detail, this is a great fit for you! Our jobs are fully remote – as long as you have the skills and can get the work done well, you can work anywhere in the listed countries you want.</span></div><div><span style="font-size: 16px">If you have the skills and can get the job done, join us and work from anywhere you want!</span></div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>Build new applications that will increase value to clients. Write clean, high-quality, high-performance, maintainable code. </li><li>Develop and support software, including applications, database integration, interfaces, and new functionality enhancements. </li><li>Analyze existing program logic to identify causes of program malfunctions; modify program logic to eliminate problems or increase operational efficiency. </li><li>Collaborate with internal and external stakeholders to understand user needs. </li><li>Support test and deployment of new products and features. </li><li>Shape our product and deliver new features monthly, improving our effectiveness and making our users happier. </li><li>Maintain knowledge of trends and developments in related areas of technology and programming.</li>,<h3>You will shine if you have:</h3><li>2+ years of experience in software development</li><li>Extensive knowledge of C# and .NET frameworks. </li><li>Thorough understanding of design, testing, and modification of programs and applications. </li><li>Proficiency with or the ability to quickly learn the technologies, coding, and programming languages used in the organization. </li><li>Demonstrated experience in writing excellent code to solve complex business problems and process automation. </li><li>Excellent problem-solving and analytical skills. </li><li>Excellent organizational skills and attention to detail. </li><li>Excellent time management skills.</li>,<h3>It wouldn't hurt if you also have:</h3><li>Knowledge of Reveal BI. </li><li>Knowledge of other coding languages and systems, such as Ruby/Rails</li>,<h3>Here are some of the perks we offer you:</h3><li>Salary in USD</li><li>Long-term</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://media.licdn.com/dms/image/C4D0BAQHlK67hgnhzQw/company-logo_200_200/0/1631346154820?e=2147483647&v=beta&t=_R2Ssj7L_f4xqmSCcq0nOLCyCz0QN2lFnHssxxhj3YY" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Blue Coding</h5>
+                    <h3>Junior Front-End Developer (A)</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -598,79 +751,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 10 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 18px;">What are we looking for?</b></div><div><br></div><div><span style="font-size: 16px;">In this opportunity, we are looking for a FrontEnd Developer to work with one of our foreign clients, who is a market leader in the consultation, design, procurement, implementation, and ongoing managed services for technology services for mid to large global enterprises. As a Telecom Managed Service company, they partner with over 300 service providers globally to help customers with technology design and find the best solutions to meet their needs.</span></div><div><br></div><div><span style="font-size: 16px;">If you are independent, a great communicator, a problem solver, and have strong attention to detail, this is a great fit for you! Our jobs are fully remote – as long as you have the skills and can get the work done well, you can work anywhere in the listed countries you want.</span></div><div><span style="font-size: 16px;">If you have the skills and can get the job done, join us and work from anywhere you want!</span></div><div><br></div><div><b style="font-size: 13pt;">What's unique about this job?</b></div><div><br></div><div><span style="font-size: 16px;">As a FrontEnd Developer, you’ll be part of a massive migration, rebuilding, and rewriting of our client's existing application working alongside a top-of-the-line team creating this application from the ground up to transition it to modern languages and practices.  This transition will be divided into 5 phases and post-launch support and iteration. This is a very long-term project.</span></div><div><br></div><div><span style="font-size: 16px;">The platform supports all business functions from sourcing and pricing, purchasing, implementation and project management, customer lifecycle management, incident management, financial management, expense management, and business process automation and integrations. This is written in Coldfusion running on Lucee with ColdBox. About half of the source code has been refactored into an MVC framework while other pages may still be in a single file approach. There is some code that is still tag-based but much of this has been migrated to a script-based code structure.</span></div><div><br></div><div><span style="font-size: 16px;">As the platform is rebuilt, the client will be implementing a new UI based on their design standards which are based on Bootstrap 5. Additionally, they will deprecate certain functionality or data points from the application to streamline the User Experience and better align with how the company operates various parts of the business.</span></div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>You'll participate in doing a transition and migrate all existing functionality from Ruby to .Net Core MVC.</li><li>All of the migration will be done using Agile methodologies and Scrum.</li><li>Rebuilding the UI based on the client's design standards which are based in Bootstrap 5.</li><li>Build out and maintain the CSS and core JS files to support the developers in implementing the code in .NET</li>,<h3>You will shine if you have:</h3><li>Strong hands-on experience with HTML, CSS, and Javascript.</li><li>Experience with Agile methodologies such as Scrum, and Kanban.</li><li>Experience with cloud environments like Azure or similar.</li><li>Knowledge or experience working or reading React, Typescript, C# and .NET code is  plus.</li>,<h3>Here are some of the perks we offer you:</h3><li>Salary in USD</li><li>Long-term</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/C4D0BAQHlK67hgnhzQw/company-logo_200_200/0/1631346154820?e=2147483647&v=beta&t=_R2Ssj7L_f4xqmSCcq0nOLCyCz0QN2lFnHssxxhj3YY" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Blue Coding</h5>
-                    <h3>Front-end Developer (VM)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/bluecoding/8358aab8-2d33-411c-802f-8cd71fdaf03c" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 10 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 18px;">What are we looking for?</b></div><div><br></div><div><span style="font-size: 16px;">In this opportunity, we are looking for a Front-end Developer to work with one of our foreign clients, who is a market leader in the consultation, design, procurement, implementation, and ongoing managed services for technology services for mid to large global enterprises. As a Telecom Managed Service company, they partner with over 300 service providers globally to help customers with technology design and find the best solutions to meet their needs.</span></div><div><br></div><div><span style="font-size: 16px;">If you are independent, a great communicator, a problem solver, and have strong attention to detail, this is a great fit for you! Our jobs are fully remote – as long as you have the skills and can get the work done well, you can work anywhere in the listed countries you want.</span></div><div><span style="font-size: 16px;">If you have the skills and can get the job done, join us and work from anywhere you want!</span></div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>Work on rich, responsive browser experiences</li><li>Participate in product design sessions and contribute to feature development.</li><li>Collaborating with UX/UI designers to implement design concepts through Storybook</li><li>Deliver reusable code and contribute to the in-house UI framework</li><li>Optimize applications for maximum speed, scalability, and user experience</li><li>Establish best practices, suggest new technologies, and design high-quality solutions</li>,<h3>You will shine if you have:</h3><li>Highly proficient with JavaScript and JavaScript frameworks, specifically Vue.js</li><li>Ability to build isolated Vue components with strong TypeScript experience.</li><li>Solid understanding of HTML5, CSS3/4, and web design principles.</li><li>Understanding of web performance optimization techniques.</li><li>Strong API Integration.</li><li>Experience with Git, unit, and integration testing</li><li>Experience with Agile methodologies such as Scrum, and Kanban.</li><li>Strong problem-solving and debugging skills.</li><li>Ability to work collaboratively in a team.</li><li>Knowledge of web accessibility standards.</li><li>Excellent communication skills.</li>,<h3>Here are some of the perks we offer you:</h3><li>Salary in USD</li><li>Long-term</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/C4D0BAQHlK67hgnhzQw/company-logo_200_200/0/1631346154820?e=2147483647&v=beta&t=_R2Ssj7L_f4xqmSCcq0nOLCyCz0QN2lFnHssxxhj3YY" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Blue Coding</h5>
-                    <h3>Senior Front-end Developer (A)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/bluecoding/5690d472-9e8e-468a-b8f5-961b3a655acd" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 10 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 18px;">What are we looking for?</b></div><div><br></div><div><span style="font-size: 16px;">In this opportunity, we are looking for a Senior FrontEnd Developer to work with one of our foreign clients, who is a market leader in the consultation, design, procurement, implementation, and ongoing managed services for technology services for mid to large global enterprises. As a Telecom Managed Service company, they partner with over 300 service providers globally to help customers with technology design and find the best solutions to meet their needs.</span></div><div><br></div><div><span style="font-size: 16px;">If you are independent, a great communicator, a problem solver, and have strong attention to detail, this is a great fit for you! Our jobs are fully remote – as long as you have the skills and can get the work done well, you can work anywhere in the listed countries you want.</span></div><div><span style="font-size: 16px;">If you have the skills and can get the job done, join us and work from anywhere you want!</span></div><div><br></div><div><b style="font-size: 13pt;">What's unique about this job?</b></div><div><br></div><div><span style="font-size: 16px;">As a Senior FrontEnd Developer, you’ll be part of a massive migration, rebuilding, and rewriting of our client's existing application working alongside a top-of-the-line team creating this application from the ground up to transition it to modern languages and practices.  This transition will be divided into 5 phases and post-launch support and iteration. This is a very long-term project.</span></div><div><br></div><div><span style="font-size: 16px;">The platform supports all business functions from sourcing and pricing, purchasing, implementation and project management, customer lifecycle management, incident management, financial management, expense management, and business process automation and integrations. This is written in Coldfusion running on Lucee with ColdBox. About half of the source code has been refactored into an MVC framework while other pages may still be in a single file approach. There is some code that is still tag-based but much of this has been migrated to a script-based code structure.</span></div><div><br></div><div><span style="font-size: 16px;">As the platform is rebuilt, the client will be implementing a new UI based on their design standards which are based on Bootstrap 5. Additionally, they will deprecate certain functionality or data points from the application to streamline the User Experience and better align with how the company operates various parts of the business.</span></div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>You'll participate in doing a transition and migrate all existing functionality from Ruby to .Net Core MVC.</li><li>All of the migration will be done using Agile methodologies and Scrum.</li><li>Rebuilding the UI based on the client's design standards which are based in Bootstrap 5.</li><li>Build out and maintain the CSS and core JS files to support the developers in implementing the code in .NET</li>,<h3>You will shine if you have:</h3><li>Strong hands-on experience with HTML, CSS, and Javascript.</li><li>Experience with Agile methodologies such as Scrum, and Kanban.</li><li>Experience with cloud environments like Azure or similar.</li><li>Knowledge or experience working or reading React, Typescript, C# and .NET code is  plus.</li>,<h3>Here are some of the perks we offer you:</h3><li>Salary in USD</li><li>Long-term</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/C4D0BAQHlK67hgnhzQw/company-logo_200_200/0/1631346154820?e=2147483647&v=beta&t=_R2Ssj7L_f4xqmSCcq0nOLCyCz0QN2lFnHssxxhj3YY" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Blue Coding</h5>
-                    <h3>Senior Front-end Developer (VM)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/bluecoding/ac3876a2-73d6-4f55-83b7-e880afe8e96f" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 10 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 18px">What are we looking for?</b></div><div><br></div><div><span style="font-size: 16px">In this opportunity, we are looking for a Senior Front-end Developer to work with one of our foreign clients, who is a market leader in the consultation, design, procurement, implementation, and ongoing managed services for technology services for mid to large global enterprises. As a Telecom Managed Service company, they partner with over 300 service providers globally to help customers with technology design and find the best solutions to meet their needs.</span></div><div><br></div><div><span style="font-size: 16px">If you are independent, a great communicator, a problem solver, and have strong attention to detail, this is a great fit for you! Our jobs are fully remote – as long as you have the skills and can get the work done well, you can work anywhere in the listed countries you want.</span></div><div><span style="font-size: 16px">If you have the skills and can get the job done, join us and work from anywhere you want!</span></div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>Work on rich, responsive browser experiences</li><li>Participate in product design sessions and contribute to feature development.</li><li>Collaborating with UX/UI designers to implement design concepts through Storybook</li><li>Deliver reusable code and contribute to the in-house UI framework</li><li>Optimize applications for maximum speed, scalability, and user experience</li><li>Establish best practices, suggest new technologies, and design high-quality solutions</li>,<h3>You will shine if you have:</h3><li>6+ years of experience in software development</li><li>Highly proficient with JavaScript and JavaScript frameworks, specifically Vue.js</li><li>Ability to build isolated Vue components with strong TypeScript experience.</li><li>Solid understanding of HTML5, CSS3/4, and web design principles.</li><li>Knowledge of web performance optimization techniques.</li><li>Strong API Integration.</li><li>Experience with Git, unit, and integration testing</li><li>Experience with Agile methodologies such as Scrum and Kanban.</li><li>Strong problem-solving and debugging skills.</li><li>Ability to work collaboratively in a team.</li><li>Knowledge of web accessibility standards.</li><li>Excellent communication skills.</li>,<h3>Here are some of the perks we offer you:</h3><li>Salary in USD</li><li>Long-term</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
+                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 10 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 18px;">What are we looking for?</b></div><div><br></div><div><span style="font-size: 16px;">In this opportunity, we are looking for a FrontEnd Developer to work with one of our foreign clients, who is a market leader in the consultation, design, procurement, implementation, and ongoing managed services for technology services for mid to large global enterprises. As a Telecom Managed Service company, they partner with over 300 service providers globally to help customers with technology design and find the best solutions to meet their needs.</span></div><div><br></div><div><span style="font-size: 16px;">If you are independent, a great communicator, a problem solver, and have strong attention to detail, this is a great fit for you! Our jobs are fully remote – as long as you have the skills and can get the work done well, you can work anywhere in the listed countries you want.</span></div><div><span style="font-size: 16px;">If you have the skills and can get the job done, join us and work from anywhere you want!</span></div><div><br></div><div><b style="font-size: 13pt;">What's unique about this job?</b></div><div><br></div><div><span style="font-size: 16px;">As a FrontEnd Developer, you’ll be part of a massive migration, rebuilding, and rewriting of our client's existing application working alongside a top-of-the-line team creating this application from the ground up to transition it to modern languages and practices.  This transition will be divided into 5 phases and post-launch support and iteration. This is a very long-term project.</span></div><div><br></div><div><span style="font-size: 16px;">The platform supports all business functions from sourcing and pricing, purchasing, implementation and project management, customer lifecycle management, incident management, financial management, expense management, and business process automation and integrations. This is written in Coldfusion running on Lucee with ColdBox. About half of the source code has been refactored into an MVC framework while other pages may still be in a single file approach. There is some code that is still tag-based but much of this has been migrated to a script-based code structure.</span></div><div><br></div><div><span style="font-size: 16px;">As the platform is rebuilt, the client will be implementing a new UI based on their design standards which are based on Bootstrap 5. Additionally, they will deprecate certain functionality or data points from the application to streamline the User Experience and better align with how the company operates various parts of the business.</span></div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>You'll participate in doing a transition and migrate all existing functionality from Ruby to .Net Core MVC.</li><li>All of the migration will be done using Agile methodologies and Scrum.</li><li>Rebuilding the UI based on the client's design standards which are based in Bootstrap 5.</li><li>Build out and maintain the CSS and core JS files to support the developers in implementing the code in .NET</li>,<h3>You will shine if you have:</h3><li>Hands-on experience with HTML, CSS, and Javascript.</li><li>Experience with Agile methodologies such as Scrum, and Kanban.</li><li>Experience with cloud environments like Azure or similar.</li><li>Knowledge or experience working or reading React, Typescript, C# and .NET code is  plus.</li>,<h3>Here are some of the perks we offer you:</h3><li>Salary in USD</li><li>Long-term</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
                 </details>
                 </td>
             </tr>,<tr>
