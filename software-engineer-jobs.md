@@ -187,15 +187,11 @@
 
     
 
-    <div class="content-conclusion"><h2><strong><span style="color: #a112ff;">Not sure if this is you?</span></strong></h2>
-<p><span style="font-weight: 400;">We want a diverse, global team, with a broad range of experience and perspectives. If this job sounds great, but you’re not sure if you qualify, apply anyway! We carefully consider every application, and will either move forward with you, find another team that might be a better fit, keep in touch for future opportunities, or thank you for your time.</span></p>
-<h2><strong><span style="color: #a112ff;">Learn more about us</span></strong></h2>
-<p><span style="font-weight: 400;">To create a product that serves the needs of all developers, we are building a diverse </span><a href="https://sourcegraph.notion.site/All-remote-guidelines-4d1270d806294bf4ae6db7ab02911957"><span style="font-weight: 400;">all-remote team</span></a><span style="font-weight: 400;"> that is </span><a href="https://www.notion.so/sourcegraph/7ed54d4ec4624475a4b45619901236d7?v=e06d936c673f46ca8c313a557bd4410f"><span style="font-weight: 400;">distributed across the world</span></a><span style="font-weight: 400;">. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.&nbsp;</span></p>
+    <div class="content-conclusion"><h2><strong><span style="color: #a112ff;">Learn more about us</span></strong></h2>
+<p>We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process. You can learn more about what it is like to work at Sourcegraph by reading <a href="https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0">our handbook</a>.</p>
 <p><span style="font-weight: 400;">We provide </span><a href="https://sourcegraph.notion.site/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74"><span style="font-weight: 400;">competitive compensation</span></a><span style="font-weight: 400;"> and </span><a href="https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba?pvs=74"><span style="font-weight: 400;">practical benefits</span></a><span style="font-weight: 400;"> to keep you happy and healthy so that you can do your best work.&nbsp;</span><span style="font-weight: 400;">&nbsp;</span></p>
-<p><span style="font-weight: 400;">Learn more about what it is like to work at Sourcegraph by reading </span><a href="https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0"><span style="font-weight: 400;">our handbook</span></a><span style="font-weight: 400;">.</span></p>
-<p><span style="font-weight: 400;">We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process.</span></p>
-<p><span style="font-weight: 400;">Go back to the </span><a href="https://about.sourcegraph.com/jobs/"><span style="font-weight: 400;">careers page</span></a><span style="font-weight: 400;"> for all open positions.</span></p>
-<p><em><span style="font-weight: 400;">Sourcegraph participates in <a href="https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107" target="_blank">E-Verify</a> for U.S. Employees</span></em></p></div>
+<p>Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds.&nbsp;</p>
+<p><em>Sourcegraph participates in&nbsp;<a href="https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107">E-Verify</a> for U.S. Employees.&nbsp;</em></p></div>
 
                 </details>
                 </td>
@@ -311,15 +307,11 @@
 
     
 
-    <div class="content-conclusion"><h2><strong><span style="color: #a112ff;">Not sure if this is you?</span></strong></h2>
-<p><span style="font-weight: 400;">We want a diverse, global team, with a broad range of experience and perspectives. If this job sounds great, but you’re not sure if you qualify, apply anyway! We carefully consider every application, and will either move forward with you, find another team that might be a better fit, keep in touch for future opportunities, or thank you for your time.</span></p>
-<h2><strong><span style="color: #a112ff;">Learn more about us</span></strong></h2>
-<p><span style="font-weight: 400;">To create a product that serves the needs of all developers, we are building a diverse </span><a href="https://sourcegraph.notion.site/All-remote-guidelines-4d1270d806294bf4ae6db7ab02911957"><span style="font-weight: 400;">all-remote team</span></a><span style="font-weight: 400;"> that is </span><a href="https://www.notion.so/sourcegraph/7ed54d4ec4624475a4b45619901236d7?v=e06d936c673f46ca8c313a557bd4410f"><span style="font-weight: 400;">distributed across the world</span></a><span style="font-weight: 400;">. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.&nbsp;</span></p>
+    <div class="content-conclusion"><h2><strong><span style="color: #a112ff;">Learn more about us</span></strong></h2>
+<p>We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process. You can learn more about what it is like to work at Sourcegraph by reading <a href="https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0">our handbook</a>.</p>
 <p><span style="font-weight: 400;">We provide </span><a href="https://sourcegraph.notion.site/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74"><span style="font-weight: 400;">competitive compensation</span></a><span style="font-weight: 400;"> and </span><a href="https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba?pvs=74"><span style="font-weight: 400;">practical benefits</span></a><span style="font-weight: 400;"> to keep you happy and healthy so that you can do your best work.&nbsp;</span><span style="font-weight: 400;">&nbsp;</span></p>
-<p><span style="font-weight: 400;">Learn more about what it is like to work at Sourcegraph by reading </span><a href="https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0"><span style="font-weight: 400;">our handbook</span></a><span style="font-weight: 400;">.</span></p>
-<p><span style="font-weight: 400;">We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process.</span></p>
-<p><span style="font-weight: 400;">Go back to the </span><a href="https://about.sourcegraph.com/jobs/"><span style="font-weight: 400;">careers page</span></a><span style="font-weight: 400;"> for all open positions.</span></p>
-<p><em><span style="font-weight: 400;">Sourcegraph participates in <a href="https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107" target="_blank">E-Verify</a> for U.S. Employees</span></em></p></div>
+<p>Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds.&nbsp;</p>
+<p><em>Sourcegraph participates in&nbsp;<a href="https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107">E-Verify</a> for U.S. Employees.&nbsp;</em></p></div>
 
                 </details>
                 </td>
@@ -731,74 +723,6 @@
 <h2>Canonical is an equal opportunity employer</h2>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
 <p>&nbsp;#LI-remote</p><p>Requisition ID: 805</p><p></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Linux Software Engineering Manager - Ubuntu</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/3939050" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>Lead the engineering team that delivers the essential components of Ubuntu - our system startup, compilers, language runtimes and toolchains, as well as networking and storage config and management. This is a fast-paced, problem-solving, highly technical role operating at the core of Linux server systems.&nbsp;</p>
-<p>As an Engineering Manager on the Foundations team, you will be at the heart of driving Ubuntu. Working at the&nbsp; unique intersection of the open source ecosystem, and enterprise technologists.&nbsp;</p>
-<p>In this pivotal position, you’ll lead and inspire your team of engineers, to take Ubuntu to new heights. We are looking for someone with a deep understanding of Linux and Ubuntu with a passion for exceptional leadership. You will be expected to lead, challenge, and develop strong engineers, positively influence the culture, facilitate technical delivery and drive your team on strategy and execution.&nbsp;</p>
-
-<p><strong>What you'll do</strong></p>
-<ul>
-<li>Lead and grow a team of distributed engineers</li>
-<li>Demonstrate sound engineering principles through active and hands on leadership</li>
-<li>Be responsible for planning, estimation and execution</li>
-<li>Work with product management to define the vision and strategy for Ubuntu</li>
-<li>Collaborate with cross-functional leadership teams</li>
-<li>Drive the advancement and adoption of the latest software development practices</li>
-<li>Design, embrace and evangelize great engineering and organizational practices</li>
-<li>Grow a healthy, collaborative engineering culture in line with company values</li>
-<li>Engage with other teams at Canonical to ensure alignment on product architecture and roadmaps</li>
-<li>Work from home while meeting in person for company sprints. Sprints are typically twice a year for 1-2 weeks.&nbsp;&nbsp;</li>
-</ul>
-<p><strong>Valued skills and experience</strong></p>
-<ul>
-<li>You have worked extensively with Linux distributions, and are experienced with packaging technologies (e.g. deb, rpm, other)&nbsp;</li>
-<li>You have demonstrated experience managing or leading a team of software engineers</li>
-<li>High quality software engineering knowledge in one or more of: Linux system architecture, boot process, Java/GCC/Python/Rust/Go toolchains, ARM and/or RISC-V</li>
-<li>Engagement with open source communities and processes</li>
-</ul>
-<p><strong>What we offer you</strong></p>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<p><strong>About Canonical</strong></p>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<p>Canonical is an equal opportunity employer</p>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote</p><p>Requisition ID: 847</p><p></p>
     
                 </details>
                 </td>
@@ -1946,6 +1870,77 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Ubuntu Linux Software Engineering Manager </h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/3939050" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1100+ colleagues in 75+ countries and very few office based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.</p>
+<p>The company is founder led, profitable and growing.</p>
+<p>We are hiring a Engineering Manager to lead the engineering team that delivers the essential components of Ubuntu - our system startup, compilers, language runtimes and toolchains, as well as networking and storage config and management. This is a fast-paced, problem-solving, highly technical role operating at the core of Linux server systems.&nbsp;</p>
+<p>As an Engineering Manager on the Foundations team, you will be at the heart of driving Ubuntu. Working at the&nbsp; unique intersection of the open source ecosystem, and enterprise technologists.&nbsp;</p>
+<p>In this pivotal position, you’ll lead and inspire your team of engineers, to take Ubuntu to new heights. We are looking for someone with a deep understanding of Linux and Ubuntu with a passion for exceptional leadership. You will be expected to lead, challenge, and develop strong engineers, positively influence the culture, facilitate technical delivery and drive your team on strategy and execution.&nbsp;</p>
+<p><strong>Location: </strong>Globally remote&nbsp;</p>
+
+<p>The role entails</p>
+<ul>
+<li>Lead and grow a team of distributed engineers</li>
+<li>Demonstrate sound engineering principles through active and hands on leadership</li>
+<li>Be responsible for planning, estimation and execution</li>
+<li>Work with product management to define the vision and strategy for Ubuntu</li>
+<li>Collaborate with cross-functional leadership teams</li>
+<li>Drive the advancement and adoption of the latest software development practices</li>
+<li>Design, embrace and evangelize great engineering and organizational practices</li>
+<li>Grow a healthy, collaborative engineering culture in line with company values</li>
+<li>Engage with other teams at Canonical to ensure alignment on product architecture and roadmaps</li>
+<li>Work from home while meeting in person for company sprints. Sprints are typically twice a year for 1-2 weeks.&nbsp;&nbsp;</li>
+</ul>
+<h3>What we are looking for in you</h3>
+
+<ul>
+<li>You have worked extensively with Linux distributions, and are experienced with packaging technologies (e.g. deb, rpm, other)&nbsp;</li>
+<li>You have demonstrated experience managing or leading a team of software engineers</li>
+<li>High quality software engineering knowledge in one or more of: Linux system architecture, boot process, Java/GCC/Python/Rust/Go toolchains, ARM and/or RISC-V</li>
+<li>Engagement with open source communities and processes</li>
+</ul>
+<h3>What we offer colleagues</h3>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues</li>
+<li>Priority Pass, and travel upgrades for long haul company events</li>
+</ul>
+<h3>About Canonical</h3>
+<p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p>
+<p>Canonical is an equal opportunity employer</p>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote</p><p>Requisition ID: 847</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://media.licdn.com/dms/image/D4E0BAQFdRsd49YG4fQ/company-logo_200_200/0/1688735422027/collabora_logo?e=2147483647&v=beta&t=COQKgdesE_abHpZN-7BjhNZ1IKm2nhQyHB637TbP88E" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -2134,6 +2129,92 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div><b style="font-size: 18px;">Wishpond Technologies currently has the position of Junior Full-Stack Software Engineer available and we’re excited to tell you about it !</b></div><div><br></div><div><b style="font-size: 24px;">ABOUT VIRAL LOOPS</b></div><div><span style="font-size: 16px;">Viral Loops is a fast-growing, innovative tech company specializing in growth marketing solutions. We work with businesses of all sizes to design and execute viral marketing campaigns that leverage the power of social media and user engagement. With a focus on delivering top-notch user experiences, we are searching for a talented Full-Stack Software Engineer to join our dynamic engineering team.</span></div><div><br></div><div><span style="font-size: 16px;">Since 2022 Viral Loops is a subsidiary of Wishpond Technologies. Founded in 2009, Wishpond is a rapidly growing technology company providing digital marketing solutions targeted at small businesses. Wishpond serves over 3,000 customers in various industries and sizes, from startups to large Fortune 500 companies. Wishpond has a rapidly growing global headcount and continues to hire dedicated and qualified employees and contractors who have what it takes to scale a successful software company. To learn more about Wishpond, please visit </span><a rel="noopener noreferrer" class="postings-link" style="font-size: 16px;" href="http://www.wishpond.com">www.wishpond.com</a></div><div><br></div><div><b style="font-size: 24px;">OVERVIEW</b></div><div><span style="font-size: 16px;">As a Junior Full-Stack Software Engineer, you will work on developing and maintaining our cutting-edge viral marketing platform. You will be responsible for both frontend and backend development, focusing on creating scalable and high-quality software solutions that meet the needs of our clients.</span></div><div><br></div><div><b style="font-size: 24px;">RESPONSIBILITIES</b></div><div><span style="font-size: 16px;">• Collaborate with cross-functional teams to design, develop, and launch new features</span></div><div><span style="font-size: 16px;">• Write clean, maintainable, and scalable code</span></div><div><span style="font-size: 16px;">• Develop robust and user-friendly web applications</span></div><div><span style="font-size: 16px;">• Implement and manage databases using SQL</span></div><div><span style="font-size: 16px;">• Troubleshoot and optimize existing applications</span></div><div><span style="font-size: 16px;">• Engage in code reviews and contribute to team knowledge-sharing</span></div><div><span style="font-size: 16px;">• Other duties as assigned</span></div><div><span style="font-size: 24px;">&nbsp;</span></div><div><b style="font-size: 24px;">QUALIFICATIONS</b></div><div><span style="font-size: 16px;">• At least 1 year of professional experience with JavaScript and TypeScript</span></div><div><span style="font-size: 16px;">• Experience with SQL databases such as MySQL, PostgreSQL, or MSSQL</span></div><div><span style="font-size: 16px;">• Experience in at least one modern web framework like Angular, React, or Vue</span></div><div><span style="font-size: 16px;">• Solid understanding of HTML, CSS, and responsive design</span></div><div><span style="font-size: 16px;">• Experience with Git version control</span></div><div><span style="font-size: 16px;">• Must be very detail-oriented, creative, and have a passion for helping others achieve their goals</span></div><div><span style="font-size: 16px;">• Self-motivated with the ability to establish and maintain solid relationships through a client-first mentality&nbsp;</span></div><div><span style="font-size: 16px;">• As part of a diverse team, ability to work both independently and collaboratively in a fast-paced, results-oriented environment</span></div><div><span style="font-size: 16px;">• Must be technical, analytical, and have the ability to manage complex projects seamlessly</span></div><div><span style="font-size: 16px;">• Organized, administratively strong, great time management, and have solid writing, phone, and general communication skills</span></div><div><span style="font-size: 16px;">• Fluent in English (spoken and written). Knowledge of a second language is considered an asset</span></div><div><span style="font-size: 16px;">• Willing to participate in ongoing education and training for the role</span></div><div>&nbsp;</div><div><b style="font-size: 24px;">WORK ENVIRONMENT</b></div><div><span style="font-size: 16px;">• Given the nature of this role, it is expected that the successful candidate will provide their own workstation, computer, headset, and have a fast and reliable internet connection. Certain roles will be required to utilize and or download company-approved software.</span></div><div><span style="font-size: 16px;">• This position is expected to work European timezones.</span></div><div><span style="font-size: 16px;">• Due to the nature of this role, we may verify backgrounds, including conducting employment references, criminal records, and credit checks.</span></div><div><span style="font-size: 16px;">• Once hired, the successful candidate must provide valid governmental photo ID and proof of residential address.</span></div><div><span style="font-size: 16px;">&nbsp;</span></div><div><b style="font-size: 24px;">GREAT REASONS TO APPLY FOR THIS ROLE</b><span style="font-size: 24px;">&nbsp;</span></div><div><span style="font-size: 16px;">• Fully remote position allowing you to </span><b style="font-size: 16px;">work from your home anywhere in the world !</b></div><div><span style="font-size: 16px;">• Exciting and dynamic environment with a great leadership team&nbsp;</span></div><div><span style="font-size: 16px;">•&nbsp;Comprehensive training program and regular performance reviews to facilitate your success</span></div><div><span style="font-size: 16px;">•&nbsp;Competitive compensation based on experience and proven abilities</span></div><div><span style="font-size: 16px;">• Great referral programs with incentives and bonuses</span></div><div><span style="font-size: 16px;">•&nbsp;Unbelievable product discounts when you use our products for your own business</span></div><div><span style="font-size: 16px;">•&nbsp;A global workforce of multi-cultural and talented colleagues&nbsp;</span></div><div><span style="font-size: 16px;">• A close-knit operation with amazing growth opportunities for your personal development</span></div><div><span style="font-size: 16px;">• A high growth SaaS technology company publicly traded on the TSX Venture Exchange</span></div><div><span style="font-size: 16px;">• Corporate headquarters in beautiful Vancouver, British Columbia, Canada</span></div><div><span style="font-size: 16px;">• Access to our education credits program and so much more !</span></div><div>&nbsp;</div><div><b style="font-size: 24px;">ABOUT US</b><span style="font-size: 18px;">&nbsp;</span></div><div><span style="font-size: 16px;">Founded in 2009, Wishpond is a rapidly growing technology company providing digital marketing solutions targeted at small businesses.&nbsp; The cloud-based platform includes landing pages, social promotions, website pop-ups, online forms, and lead activity tracking. Wishpond has a dedicated team of professional project managers, designers, copywriters, and developers who provide marketing services tailored to our individual clients.</span></div><div><span style="font-size: 16px;">&nbsp;</span></div><div><span style="font-size: 16px;">Wishpond serves over 3,000 customers in various industries and sizes, from startups to large fortune 500 companies. Wishpond has a rapidly growing global headcount and continues to hire dedicated and qualified employees and contractors who have what it takes to scale a successful software company.</span></div><div><br></div><div><span style="font-size: 16px;"> To learn more about Wishpond Technologies, please visit our website or any of our social media platforms:</span></div><div><span style="font-size: 16px;">&nbsp;</span></div><div><span style="font-size: 16px;">• Website: </span><a rel="noopener noreferrer" class="postings-link" style="font-size: 16px;" href="http://www.wishpond.com">www.wishpond.com</a></div><div><span style="font-size: 16px;">• Instagram: @wishpondofficial</span></div><div><span style="font-size: 16px;">• Twitter: Wishpond</span></div><div><span style="font-size: 16px;">•  Youtube: Thewishpond</span></div><div><span style="font-size: 16px;">•&nbsp;LinkedIn : Wishpond</span></div><div>&nbsp;</div><div><b style="font-size: 24px;">APPLICATION PROCESS</b></div><div><b style="font-size: 16px;">If you are interested in applying for this exciting opportunity, please provide an updated resume in English (PDF or Word formats only), quoting the position title in the subject line of your cover letter</b></div><div><span style="font-size: 16px;">&nbsp;</span></div><div><span style="font-size: 16px;">Wishpond Technologies is an equal opportunity employer committed to hiring a diverse workforce and sustaining an inclusive culture that does not discriminate on the basis of disability, status or any other basis protected under legislation.</span></div><div><span style="font-size: 16px;">&nbsp;</span></div><div><span style="font-size: 16px;">We thank all applicants in advance for their interest in this position however due to the volume of applications we receive, we are unable to respond to phone, email or agency inquiries.</span></div><div>&nbsp;</div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1630623773090037787/M9jBuyQv_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Xapo Bank</h5>
+                    <h3>Senior Software Engineer - FCP (Remote - Work from Anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/xapo61/jobs/6112655003" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-weight: 900;&quot;&gt;Work from anywhere, impact everywhere&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Diversity is at the heart of who we are at Xapo Bank. We’re a fully distributed team of over 140 Xapiens that work remotely from 40+ countries around the world.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Our beginning: A world that enjoys economic freedom and wealth protection, no matter where you live or who is running your country. This is the dream that drove Wences Casares, our Founder and Chairman, to quietly transform the world of banking.&lt;/p&gt;
+&lt;p&gt;To achieve that, we search the world for the best people for the job. We work hard, think globally, and inspire each other to learn and grow. We are committed to changing the way things are done.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Risk is inherent in all of our business activities and managing risk well is the responsibility of every Xapien. Sound risk management enables us to serve our customers and deliver value for our shareholders, and helps make Xapo a great place to work.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Although we are headquartered in Gibraltar, this is a full time, 100% remote position&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Work from anywhere!&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Position Overview:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We’re looking for a Senior Software Engineer to join our engineering function. At Xapo, we are building truly cross-functional teams with full ownership of design, architecture, building, testing, delivery, data, and operations.&lt;/p&gt;
+&lt;p&gt;You will collaborate closely with fellow team members from the product, apps, design, and QA communities of practice. You will be part of the product team (we call them SATs, the Stream Aligned Teams, as in the Team Topologies) in charge of the Financial Crime Prevention products.&lt;/p&gt;
+&lt;p&gt;As a Senior Software Engineer, you will develop a high-impact service, provide guidance and coaching around technical good practices, and play an active, critical role in the Development Community of practice. You will shape architectural and technical patterns used in the company to solve the problems for operational teams, improve UX, and cause a WOW effect in the eyes of our Members. With that in mind, you will have an immense impact on how the future of finance looks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Our main tech stack includes:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AWS for all of our Infrastructure&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;li&gt;Python (Django, Flask)&lt;/li&gt;
+&lt;li&gt;MySQL&lt;/li&gt;
+&lt;li&gt;MongoDB&lt;/li&gt;
+&lt;li&gt;Redis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We also use:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cassandra&lt;/li&gt;
+&lt;li&gt;PostgreSQL&lt;/li&gt;
+&lt;li&gt;Node.js&lt;/li&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;BigQuery&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Support, coach, and develop team members into top-performing engineers.&lt;/li&gt;
+&lt;li&gt;Work closely in cross-functional teams where everyone is responsible for the outcome.&lt;/li&gt;
+&lt;li&gt;Build a great place to work for talented and motivated people.&lt;/li&gt;
+&lt;li&gt;Design, develop, and deploy backend services focusing on high availability, fault tolerance, low latency, and security.&lt;/li&gt;
+&lt;li&gt;Take full end-to-end responsibility for the services your team owns, from development to production, operations, and data.&lt;/li&gt;
+&lt;li&gt;Develop innovative solutions with Bitcoin at its core.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Skills needed:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Significant software engineering experience in one or more general-purpose programming languages (we use Python).&lt;/li&gt;
+&lt;li&gt;Excellent teamwork and communication skills, comfortable preparing high-quality documentation and designs to aid understanding and knowledge sharing.&lt;/li&gt;
+&lt;li&gt;Understanding of microservices architecture, container-based 12-factor apps, and cloud-native patterns around fault tolerance.&lt;/li&gt;
+&lt;li&gt;Track record of using Event Storming and Domain-Driven Design, delivering highly scalable asynchronous software.&lt;/li&gt;
+&lt;li&gt;Experience building contract-first services and adopting patterns and frameworks to enable appropriate automated testing at the unit, contract, service, and end-to-end levels.&lt;/li&gt;
+&lt;li&gt;Experience building services that can be deployed on demand, quickly, and with quality.&lt;/li&gt;
+&lt;li&gt;Excellent understanding of CI/CD patterns and good practices.&lt;/li&gt;
+&lt;li&gt;Understand the role of high-quality observability in building highly scalable and performant software.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Other requirements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A dedicated workspace.&lt;/li&gt;
+&lt;li&gt;A reliable internet connection with the fastest speed possible in your area.&lt;/li&gt;
+&lt;li&gt;Devices and other essential equipment that meet minimal technical specifications.&lt;/li&gt;
+&lt;li&gt;Alignment with Our Values and the Xapo Values-Driven Leadership principles.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Why work for Xapo?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 500; font-size: 10pt;&quot;&gt;IMPACT GLOBALLY, WORK REMOTELY.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Shape the Future:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; Improve lives through cutting-edge technology, work 100% remotely from anywhere in the world.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Great work-life balance:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Build amazing things with a balance of autonomy and collaborative teamwork. Set your own work schedule and make use of a flexible PTO plan when you need to recharge.&lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 500;&quot;&gt;&lt;strong&gt;Expect Excellence:&lt;/strong&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; Collaborate, learn, and grow with a high-performance team. Learn&lt;/span&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt; how you learn best - from books to conferences, you’ll get a yearly budget for your individual learning and development goals.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;At Xapo, we prioritize consumer protection and adhere to regulatory requirements by ensuring that all Xapiens are accountable for upholding principles of fair treatment, transparency, and ethical conduct in their interactions with customers and stakeholders.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr></table>
