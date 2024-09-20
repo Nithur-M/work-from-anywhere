@@ -1,5 +1,75 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1937196/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Ferocia Services</h5>
+                    <h3>Backend Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>postgresql,elixir,rust</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/backend-software-engineer-1937196" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>About Us</strong></p>
+<p>We are a stealth-mode startup at the forefront of developing innovative software solutions focused on enhancing productivity and mental health. Our mission is to leverage technology to create tools that not only improve efficiency but also support the well-being of our users. Given our current status and the pending trademark of our unique solution, we are limited in the details we can share. However, we are on the lookout for creative and talented individuals who are ready to dive into a challenging and rewarding project with us.</p>
+<p><strong>Role Summary</strong></p>
+<p>We are seeking a mid-level Backend Software Engineer to join our pioneering team. This contract position is an excellent opportunity for a self-managed individual with startup experience and a strong foundation in TypeScript and full-stack development. You will play a crucial role in the development of our web application, focusing on creating intuitive, robust, and scalable features that deliver outstanding user experiences in the realms of productivity and mental health.</p>
+<div class="h2">Tasks</div>
+<ul style="">
+<li style="">Design, develop, and maintain our innovative backend application, focusing on sync and async data processing on a REST API as well as data consuming data on Apache Kafka.</li>
+<li style="">Utilize Rust or Elixir, PostgreSQL, REST API, Apache Kafka and be able to interact with several other APIs.</li>
+<li style="">Design database schemas and migrations to ensure that new features are deployed with 0 downtime.</li>
+<li style="">Implement secure, efficient, and scalable solutions using best practices in software development.</li>
+<li style="">Ensure the performance, quality, and responsiveness of applications.</li>
+<li style="">Identify and correct bottlenecks and fix bugs.</li>
+<li style="">Help maintain code quality, organization, and automatization.</li>
+</ul>
+<div class="h2">Requirements</div>
+<ul style="">
+<li style="">Proven experience as a Full Stack Software Engineer with a strong focus on Rust, Elixir, or another functional programming language and web application development.</li>
+<li style="">Be able to work in a self-managed environment with excellent written communication in English.</li>
+<li style="">Strong experience with RDBMS and database migrations.</li>
+<li style="">Strong experience building async applications with Apache Kafka</li>
+<li style="">Ability to work independently in a fully remote setting, using your own equipment.</li>
+<li style="">Excellent problem-solving skills and the ability to perform well in a fast-paced environment.</li>
+<li style="">A portfolio of projects demonstrating your skill set and experience.</li>
+</ul>
+<div class="h2">Benefits</div>
+<ul style="">
+<li style="">
+<p>A fully remote work environment with flexible hours.</p>
+</li>
+<li style="">
+<p>An opportunity to be part of a groundbreaking startup and make a significant impact on our innovative product and community.</p>
+</li>
+<li style="">
+<p>Competitive compensation and opportunity for growth.</p>
+</li>
+<li style="">
+<p>This is a contract position with an initial term of three months.</p>
+</li>
+<li style="">
+<p>The contract may be extended or transitioned into a permanent role based on performance and project needs.</p>
+</li>
+</ul>
+<div class="h1">About the company</div>
+<p>Ferocia Services is a versatile technology and management consulting firm dedicated to solving complex challenges for clients across diverse industries. As part of the Ferocia Group, we leverage deep expertise to deliver innovative solutions tailored to the needs of our portfolio companies and external clients.</p>
+<p>We specialize in consumer software, SaaS, finance, management, product design, and management. Whether optimizing business processes, designing innovative products, or implementing advanced software solutions, we focus on delivering measurable results.</p>
+<p>Innovation and collaboration are at the heart of our approach. We stay ahead of industry trends to equip our clients with the tools and knowledge needed to thrive in a competitive landscape. From start-ups to established enterprises, Ferocia Services empowers businesses to achieve their objectives with confidence, turning challenges into opportunities for success.</p>
+<img src="https://remotive.com/job/track/1937196/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -63,30 +133,6 @@
 <p>#LI-remote</p>
 <p>#stack</p><p>Requisition ID: 545</p><p></p>
     
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/C4D0BAQHlK67hgnhzQw/company-logo_200_200/0/1631346154820?e=2147483647&v=beta&t=_R2Ssj7L_f4xqmSCcq0nOLCyCz0QN2lFnHssxxhj3YY" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Blue Coding</h5>
-                    <h3>Senior Backend Engineer (V)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/bluecoding/09877193-c9c7-4216-b721-8192d7314a21" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 10 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 24px">What are we looking for?</b></div><div><br></div><div><span style="font-size: 16px;">In this opportunity, we are looking for an experienced Backend Engineer to work with one of our US clients, a corporation that, through its subsidiaries, provides life insurance protection targeted to the middle American market. The ideal candidate will be responsible for developing and maintaining systems in their enterprise data and analytics environments. You will develop deep knowledge of our client's businesses as you help optimize performance by building and supporting decision-making tools. You will partner closely with their software engineering, AI/ML, Cybersecurity, and DevOps/SysOps teams to deliver best-in-class data solutions that empower enterprise-wide reporting and analytics, including business-critical vendor relationships.</span></div><div><br></div><div><span style="font-size: 16px;">If you are independent, a great communicator, attentive to detail, and a problem solver, this is a great fit for you! Our jobs are fully remote and flexible—as long as you have the skills and can get the work done well, you can work anywhere in the listed countries (and anytime) you want.</span></div><div><br></div><div><br></div><div><b style="font-size: 13pt">What's unique about this job?</b></div><div><br></div><div><span style="font-size: 16px;">As a member of the Engineering team, you will be responsible for designing, developing, and maintaining high-quality software products that meet the needs of </span></div><div><span style="font-size: 16px;">internal teams</span></div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>Collaborate with cross-functional teams to identify and understand business requirements</li><li>Design, develop, test, and deploy high-quality software products using the AWS platform</li><li>Design, develop, test, and deploy data migration &amp; management internal tools</li><li>Write clean, maintainable, and efficient code that meets coding standards and best practices</li><li>Participate in code reviews and provide feedback to improve code quality</li><li>Work with QA engineers to develop and execute test plans, ensuring high software quality</li><li>Troubleshoot and debug issues in the software and provide timely resolutions</li><li>Keep up to date with emerging trends and technologies in software engineering and recommend improvements to the software development process</li><li>Mentor junior engineers and contribute to their professional development</li>,<h3>You will shine if you have:</h3><li>Bachelor’s degree in Computer Science, Information Systems or demonstrated ability in a related field is required</li><li>+6 years of experience in software engineering</li><li>Strong proficiency in cloud computing platforms such as Google Cloud, AWS, or Azure</li><li>Strong proficiency in one or more programming languages such as C#, C++, Java, Python, or JavaScript</li><li>Strong proficiency with database technologies such as SQL or NoSQL databases</li><li>Experience with software development tools and processes such as Agile/Scrum, Git, and CI/CD pipelines</li><li>Experience building full-stack, enterprise-class applications considering quality and reliability using formal programming languages</li><li>Strong problem-solving skills and ability to work independently or in a team environment</li><li>Strong understanding and practical experience with Agile/Scrum methodologies, with a proven track record of contributing to successful agile teams</li><li>Ability to define problems, collect data, establish facts, and draw valid conclusions</li><li>Excellent communication and collaboration skills</li>,<h3>It doesn’t hurt if you also have:</h3><li>Strong proficiency in AWS Development</li><li>Familiar with Enterprise architecture design patterns</li><li>Familiar with Data Migration &amp; Security</li><li>Familiar with Okta or other SSO &amp; SAML strategies and technologies</li>,<h3>What we offer:</h3><li>Salary in USD</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
                 </details>
                 </td>
             </tr>,<tr>
