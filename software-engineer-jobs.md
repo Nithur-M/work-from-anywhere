@@ -163,24 +163,20 @@
 <p>📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous&nbsp;<a href="https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba">perks &amp; benefits</a>.</p>
 <h2><span style="color: rgb(161, 18, 255);"><strong>Interview process</strong></span></h2>
 <p><em>Below is the interview process you can expect for this role (you can read more about </em><a href="https://sourcegraph.notion.site/Types-of-interviews-f279f080583d49ee9f2c60e30c8cb1f7"><em>the types of interviews</em></a><em> in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&nbsp;</em></p>
-<p>We expect the interview process to take 5.5 hours in total.</p>
-<p><strong>👋 Introduction Stage</strong> - we have initial conversations to get to know you better…</p>
+<p>We expect the interview process to take 4.5 hours in total.</p>
+<p><strong>👋 Introduction Stage</strong>&nbsp;- we have initial conversations to get to know you better…</p>
 <ul>
-<li>[30m] <a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#99be5ff628b2414194a0ba79d9f25f13">Recruiter Screen</a></li>
-<li>[15m] Hiring Manager Intro</li>
+<li>[30m]&nbsp;<a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#99be5ff628b2414194a0ba79d9f25f13">Recruiter Screen</a></li>
+<li>[15m]&nbsp;<a href="https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#6a6deb280d374652b21d5aa3061c82d2">Hiring Manager Intro</a></li>
 </ul>
-<p><strong>🧑‍💻 Team Interview Stage</strong> - we then delve into your experience in more depth and introduce you to members of the team, including cross-functional partners…</p>
+<p><strong>🧑‍💻 Team Interview Stage</strong> - we then schedule an all-day "onsite" interview to delve into your experience in more depth and introduce you to members of the team, including cross-functional partners…</p>
 <ul>
 <li>[Async] Take home exercise</li>
 <li>[60m] Exercise walkthrough (10-15m) &amp; System Design (45m)</li>
-<li>[60m] Pairing Exercise (45m) &amp; Infrastructure Interview (15m)</li>
-<li>[45m] Cross-functional Team Collaboration Interview</li>
-<li>[60m] Resume Deep Dive</li>
-</ul>
-<p><strong>🎉 Final Interview Stage </strong>- we move you to our final round, where you gain a better understanding of our business and values holistically…</p>
-<ul>
-<li>[30m] <a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#e3a04291743048df87541a88aa8199dd">Values</a></li>
-<li>[30m] <a href="https://www.notion.so/sourcegraph/How-to-work-with-Quinn-Slack-CEO-807673e0864d473f959cc4efd9642a5a?pvs=4#6f185c0e2011411eac5be9c675f9056c">Leadership</a> with co-founder&nbsp;</li>
+<li>[45m] <a href="https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#da568e7854bb4aaa9b027157088e2d71">Technical Screen / Resume Deep Dive</a></li>
+<li>[45m]&nbsp;<a href="https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#e83edd987754460e839138a4bbfd592e">Pairing Exercise</a></li>
+<li>[60m] <a href="https://sourcegraph.notion.site/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7#cb00697e95304550a146c32563c0255d">Cross-functional Team Collaboration Interview</a>&nbsp;/&nbsp;<a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#e3a04291743048df87541a88aa8199dd">Values Interview</a></li>
+<li>[15m]&nbsp;<a href="https://www.notion.so/sourcegraph/How-to-work-with-Quinn-Slack-CEO-807673e0864d473f959cc4efd9642a5a?pvs=4#6f185c0e2011411eac5be9c675f9056c">Leadership</a> with co-founder</li>
 <li>We check references and conduct your background check</li>
 </ul>
 <p>Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.</p>
@@ -284,23 +280,19 @@
 <p>📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous <a href="https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba">perks &amp; benefits</a>.</p>
 <h2><span style="color: rgb(161, 18, 255);"><strong>Interview process</strong></span></h2>
 <p><em>Below is the interview process you can expect for this role (you can read more about </em><a href="https://sourcegraph.notion.site/Types-of-interviews-f279f080583d49ee9f2c60e30c8cb1f7"><em>the types of interviews</em></a><em> in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&nbsp;</em></p>
-<p>We expect the interview process to take 5.5 hours in total.</p>
-<p><strong>👋 Introduction Stage</strong> - we have initial conversations to get to know you better…</p>
+<p>We expect the interview process to take 4.25 hours in total.</p>
+<p><strong>👋 Introduction Stage</strong>&nbsp;- we have initial conversations to get to know you better…</p>
 <ul>
 <li>[30m]&nbsp;<a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#99be5ff628b2414194a0ba79d9f25f13">Recruiter Screen</a></li>
-<li>[15m]&nbsp;<a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#1919882c0cf147c487eb1df40db8a694">Hiring Manager Screen</a></li>
+<li>[15m]&nbsp;<a href="https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#6a6deb280d374652b21d5aa3061c82d2">Hiring Manager Intro</a></li>
 </ul>
-<p><strong>🧑‍💻 Team Interview Stage</strong> - we then delve into your experience in more depth and introduce you to members of the team, including cross-functional partners…</p>
+<p><strong>🧑‍💻 Team Interview Stage</strong> - we then schedule an all-day "onsite" interview to delve into your experience in more depth and introduce you to members of the team, including cross-functional partners…</p>
 <ul>
-<li>[60m] <a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#c678a2a86e0e47e4958507e869bf7ded">Resume Deep Dive</a></li>
-<li>[45m]&nbsp;<a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#cb00697e95304550a146c32563c0255d">Cross-functional team collaboration</a>&nbsp;</li>
-<li>[60m] Code Walkthrough</li>
-<li>[60m] Pairing Exercise</li>
-</ul>
-<p><strong>🎉 Final Interview Stage </strong>- we move you to our final round, where you gain a better understanding of our business and values holistically…</p>
-<ul>
-<li>[30m]&nbsp;<a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#e3a04291743048df87541a88aa8199dd">Values</a></li>
-<li>[30,]&nbsp;<a href="https://www.notion.so/sourcegraph/How-to-work-with-Quinn-Slack-CEO-807673e0864d473f959cc4efd9642a5a?pvs=4#6f185c0e2011411eac5be9c675f9056c">Leadership</a> with co-founder&nbsp;</li>
+<li>[45m]&nbsp;<a href="https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#da568e7854bb4aaa9b027157088e2d71">Technical Screen / Resume Deep Dive</a></li>
+<li>[45m]&nbsp;<a href="https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#e83edd987754460e839138a4bbfd592e">Pairing Exercise</a></li>
+<li>[45m]&nbsp;<a href="https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#b37f3b535e894775b9c64f53675b5549">Code Walkthrough</a></li>
+<li>[60m]&nbsp;<a href="https://sourcegraph.notion.site/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7#cb00697e95304550a146c32563c0255d">Cross-functional Team Collaboration Interview</a>&nbsp;/&nbsp;<a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#e3a04291743048df87541a88aa8199dd">Values Interview</a></li>
+<li>[15m] <a href="https://www.notion.so/sourcegraph/How-to-work-with-Quinn-Slack-CEO-807673e0864d473f959cc4efd9642a5a?pvs=4#6f185c0e2011411eac5be9c675f9056c">Leadership</a>&nbsp;with co-founder&nbsp;</li>
 <li>We check references and conduct your background check</li>
 </ul>
 <p>Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.</p>
