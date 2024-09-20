@@ -10,7 +10,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -244,6 +244,87 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
+<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
+<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
+<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
+<h2>What your day will look like</h2>
+<p>In a typical day, a developer relations engineer might:</p>
+<ul>
+<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
+<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
+<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
+<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
+<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
+<li>work on technical articles, presentations or workshops&nbsp;</li>
+<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
+<li>present at conferences, meetups or technical events</li>
+</ul>
+<h2>What we are looking for in you</h2>
+<p>A strong candidate</p>
+<ul>
+<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
+<li>has worked with real-world challenges developing and deploying software using Linux</li>
+<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
+<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
+<li>has been a contributor to open-source communities, software and documentation</li>
+<li>is an engaging, vivacious speaker and presenter</li>
+<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
+<li>builds trust, relationships and confidence</li>
+<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
+</ul>
+<h2>Additional skills that you might also bring</h2>
+<ul>
+<li>previous experience in a developer advocacy or community role</li>
+<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
+</ul>
+
+<h2>What we offer you</h2>
+<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
+<ul>
+<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
+<li>Personal learning and development budget of USD 2,000 per year</li>
+<li>Annual compensation review</li>
+<li>Recognition rewards</li>
+<li>Annual holiday leave</li>
+<li>Maternity and paternity leave</li>
+<li>Employee Assistance Programme</li>
+<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
+<li>Priority Pass for travel and travel upgrades for long haul company events</li>
+</ul>
+<h2>About Canonical</h2>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h2>Canonical is an equal opportunity employer</h2>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-remote&nbsp;</p>
+
+<p><br><br></p><p>Requisition ID: 1114</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Developer Relations Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
                 <a href="https://canonical.com/careers/3655681" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
@@ -309,87 +390,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote</p>
 <h2><br><br></h2><p>Requisition ID: 799</p><p></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Developer Relations Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
-<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
-<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
-<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
-<h2>What your day will look like</h2>
-<p>In a typical day, a developer relations engineer might:</p>
-<ul>
-<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
-<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
-<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
-<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
-<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
-<li>work on technical articles, presentations or workshops&nbsp;</li>
-<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
-<li>present at conferences, meetups or technical events</li>
-</ul>
-<h2>What we are looking for in you</h2>
-<p>A strong candidate</p>
-<ul>
-<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
-<li>has worked with real-world challenges developing and deploying software using Linux</li>
-<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
-<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
-<li>has been a contributor to open-source communities, software and documentation</li>
-<li>is an engaging, vivacious speaker and presenter</li>
-<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
-<li>builds trust, relationships and confidence</li>
-<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
-</ul>
-<h2>Additional skills that you might also bring</h2>
-<ul>
-<li>previous experience in a developer advocacy or community role</li>
-<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
-</ul>
-
-<h2>What we offer you</h2>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote&nbsp;</p>
-
-<p><br><br></p><p>Requisition ID: 1114</p><p></p>
     
                 </details>
                 </td>
@@ -592,7 +592,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
                 <td width="300">
                     <h5>CloudLinux</h5>
-                    <h3>Front-End Developer (worldwide remote, work anywhere)</h3>
+                    <h3>Django/Full Stack Developer</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -601,13 +601,13 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/9286FE20AF" align="right" target="_blank">Apply</a>
+                <a href="https://apply.workable.com/cloudlinux-1/j/35886A3A9A" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>CloudLinux is a global remote-first company. We are driven by our principles: Do the right thing, employees first, we are remote first, and&nbsp; we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure everyone is successful. We are truly a great place to work. For more details about our company go to <a href="http://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">CloudLinux</a>.</p><p>We are actively seeking a Front-End Developer to become an integral part of our dynamic CloudLinux Network team.</p><p>CLN is an integral SaaS platform tasked with the licensing of all CloudLinux products. It manages server operations and oversees the billing process for customers. This is a unique self-provisioning system created by CloudLinux for internal needs. The automated, easy-to-use robust solution delivers comprehensive and complete user experience. We will give you a place to strive and grow, where you will have the opportunity to work on interesting, yet challenging product. Applying your thinking to build a better system founded on intelligent technologies.</p><p>The perfect candidate will possess an in-depth understanding of Angular, complemented by prior experience in backend development and familiarity with various other frameworks.</p><p>We offer a fully remote work environment with flexible hours, allowing you the freedom to structure your day and work from any location worldwide. Join us in our mission to provide top-tier services to our valued customers.<a href="https://docs.cloudlinux.com/cln/introduction/" target="_blank" rel="nofollow noreferrer noopener" class="external"></a></p><p></p><p><strong>What you will do:</strong></p><p>As a key member of our team, you will spend approximately 80% of your time crafting a user-friendly customer portal. This platform will empower our clients to effortlessly manage their subscriptions and servers, while also providing an intuitive admin panel designed to deliver an unparalleled licensing and billing experience.</p><p>Occasionally, you will also be able to contribute to diverse front-end projects for our Extended Lifecycle Support (ELS) initiative. ELS is our commitment to helping organizations securely utilize Linux distributions and software languages that have reached their end of life or no longer receive standard security support. We provide essential vulnerability patches for unsupported versions of CentOS, CentOS Stream, Ubuntu, Debian, Oracle Linux, PHP, Python, and the Spring software development framework.</p><h3>Requirements: </h3><p><strong>To thrive in this role, we are looking for someone who has:</strong></p><ul> <li>5+ years of experience with Javascript.</li> <li>Strong knowledge of TypeScript/JavaScript, Angular.</li> <li>Experience and understanding of optimization principles.</li> <li>The practice of unit testing.</li> <li>Experience HTML &amp; CSS/SCSS.</li> <li>Version control/code management (git).</li> <li>Intermediate level of English.<br> </li> </ul><p><strong>It would be great if you also have:</strong></p><ul> <li>Experience in backend and PHP.</li> <li>Knowledge of NodeJS, Lumen, VueJS.</li> <li>Experience with Database IDE, such as MySQL.<br> </li> </ul><p><strong>Personal skills:</strong></p><ul> <li>Decency, responsibility, and a high level of discipline.</li> <li>Fast-learning, proactivity.</li> <li>Desire to work in a fast-paced growing environment.</li> <li>Strong self-motivation, driven to achieve committed milestones.</li> <li>Ability to independently analyze a task and find the right solution.</li> <li>Ability to work in a team.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development</li> <li>Interesting and challenging projects</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves</li> <li>Compensation for private medical insurance</li> <li>Co-working and gym/sports reimbursement</li> <li>Budget for education</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p></p><p><em>By applying for this position, you agree with the CloudLinux Privacy Policy - </em><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external">https://cloudlinux.com/privacy-policy</a><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external"></a><em> and give us your consent to maintain and process your personal data in this respect. Please read our Privacy Policy for more information - </em><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external">https://cloudlinux.com/privacy-policy</a><em> .</em></p>
+                <p>CloudLinux is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful.&nbsp;We are truly a great place to work. </p><p>Check out our website for more information<a href="https://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external"> https://cloudlinux.com/</a></p><p>We are looking for a Django/Full Stack Developer to </p><p>create an internal build &amp; automation system from scratch. The product is designed to expedite the delivery of security patches as part of extended life support services provided by Cloudlinux.&nbsp;</p><p>Since the system will be established for internal use your end users will be colleagues working next to you. This is a great opportunity to bring value to fellow engineers.</p><p>The system is meant to be built from scratch, therefore a wide knowledge of the end-to-end pipeline of architecture/design phase, planning, development, and deployment is a must. However, we have a separate infrastructure team that is responsible for the infrastructure maintenance.&nbsp;</p><p></p><p></p><h3>Key Responsibilities:</h3><ul> <li>Design, develop, test, and deliver web applications using Django and related technologies.</li> <li>Technical ownership of the created application.</li> <li>Implement user interfaces using front-end technologies (HTML, CSS, JavaScript frameworks).</li> <li>Work with Linux-based systems for deployment and development, including container management (Docker, Kubernetes).</li> <li>Build pipelines for code testing and delivery.</li> <li>Ensure application security and data protection.</li> <li>Troubleshoot and debug code across the stack.</li> <li>Version control using Git, including branching, merging, and pull requests.</li> <li>Review your colleagues' code.</li> <li>Plan your work forward.</li> </ul><h3>Requirements: </h3><p><strong>To thrive in this role, we are looking for someone who has:</strong></p><ul> <li>Minimum of 5 years of experience in Django or full stack development.</li> <li>Proficiency in Django and Python for backend development.</li> <li>Strong experience with Linux as a development and deployment environment.</li> <li>Proven experience in building web applications and scalable systems.</li> <li>Hands-on experience with containers, such as Docker, for development and production.</li> <li>Proficiency with Git for version control.</li> <li>Solid understanding of SQL and experience with relational databases (e.g., PostgreSQL, MySQL).</li> <li>Experience with libraries for managing background tasks like Celery or similar.</li> <li>Experience with tools for managing task queues like RabbitMQ or Kafka.</li> <li>Strong experience with building CI pipelines in tools like Gitlab or Jenkins.</li> <li>Strong problem-solving skills and attention to detail.</li> <li>An intermediate level of English language proficiency.</li> <li>Ability to work with vague requirements.</li> <li>You are a team player who can collaborate effectively.</li> </ul><p></p><p><strong>It would be great if you also have:</strong></p><ul> <li>Experience with front-end technologies like React, Vue.js, or Angular.</li> <li>Experience with test automation frameworks.</li> <li>Experience with Kubernetes, helm charts, and ArgoCD or similar.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development</li> <li>Interesting and challenging projects</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves</li> <li>Compensation for private medical insurance</li> <li>Co-working and gym/sports reimbursement</li> <li>Budget for education</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p></p><p></p><p><em>By applying for this position, you agree with&nbsp;</em>the Cloudlinux Privacy Policy <a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external">https://cloudlinux.com/privacy-policy</a><em> and give us your consent to maintain and process your personal data in this respect. Please read our Privacy Policy for more information.</em></p>
                 </details>
                 </td>
             </tr>,<tr>
@@ -736,7 +736,7 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
                 <td width="300">
                     <h5>Blue Coding</h5>
-                    <h3>Junior Front-End Developer (A)</h3>
+                    <h3>Senior Front-end Developer (A)</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -745,13 +745,37 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/bluecoding/69f71883-3c7f-456e-b6ab-d0c69a1e3a72" align="right" target="_blank">Apply</a>
+                <a href="https://jobs.lever.co/bluecoding/87606071-d5e6-427d-89b5-e0f6efe30fef" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 10 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 18px;">What are we looking for?</b></div><div><br></div><div><span style="font-size: 16px;">In this opportunity, we are looking for a FrontEnd Developer to work with one of our foreign clients, who is a market leader in the consultation, design, procurement, implementation, and ongoing managed services for technology services for mid to large global enterprises. As a Telecom Managed Service company, they partner with over 300 service providers globally to help customers with technology design and find the best solutions to meet their needs.</span></div><div><br></div><div><span style="font-size: 16px;">If you are independent, a great communicator, a problem solver, and have strong attention to detail, this is a great fit for you! Our jobs are fully remote – as long as you have the skills and can get the work done well, you can work anywhere in the listed countries you want.</span></div><div><span style="font-size: 16px;">If you have the skills and can get the job done, join us and work from anywhere you want!</span></div><div><br></div><div><b style="font-size: 13pt;">What's unique about this job?</b></div><div><br></div><div><span style="font-size: 16px;">As a FrontEnd Developer, you’ll be part of a massive migration, rebuilding, and rewriting of our client's existing application working alongside a top-of-the-line team creating this application from the ground up to transition it to modern languages and practices.  This transition will be divided into 5 phases and post-launch support and iteration. This is a very long-term project.</span></div><div><br></div><div><span style="font-size: 16px;">The platform supports all business functions from sourcing and pricing, purchasing, implementation and project management, customer lifecycle management, incident management, financial management, expense management, and business process automation and integrations. This is written in Coldfusion running on Lucee with ColdBox. About half of the source code has been refactored into an MVC framework while other pages may still be in a single file approach. There is some code that is still tag-based but much of this has been migrated to a script-based code structure.</span></div><div><br></div><div><span style="font-size: 16px;">As the platform is rebuilt, the client will be implementing a new UI based on their design standards which are based on Bootstrap 5. Additionally, they will deprecate certain functionality or data points from the application to streamline the User Experience and better align with how the company operates various parts of the business.</span></div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>You'll participate in doing a transition and migrate all existing functionality from Ruby to .Net Core MVC.</li><li>All of the migration will be done using Agile methodologies and Scrum.</li><li>Rebuilding the UI based on the client's design standards which are based in Bootstrap 5.</li><li>Build out and maintain the CSS and core JS files to support the developers in implementing the code in .NET</li>,<h3>You will shine if you have:</h3><li>Hands-on experience with HTML, CSS, and Javascript.</li><li>Experience with Agile methodologies such as Scrum, and Kanban.</li><li>Experience with cloud environments like Azure or similar.</li><li>Knowledge or experience working or reading React, Typescript, C# and .NET code is  plus.</li>,<h3>Here are some of the perks we offer you:</h3><li>Salary in USD</li><li>Long-term</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
+                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 10 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 18px">What are we looking for?</b></div><div><br></div><div><span style="font-size: 16px">In this opportunity, we are looking for a Senior Front-end Developer to work with one of our foreign clients, who is a market leader in the consultation, design, procurement, implementation, and ongoing managed services for technology services for mid to large global enterprises. As a Telecom Managed Service company, they partner with over 300 service providers globally to help customers with technology design and find the best solutions to meet their needs.</span></div><div><br></div><div><span style="font-size: 16px">If you are independent, a great communicator, a problem solver, and have strong attention to detail, this is a great fit for you! Our jobs are fully remote – as long as you have the skills and can get the work done well, you can work anywhere in the listed countries you want.</span></div><div><span style="font-size: 16px">If you have the skills and can get the job done, join us and work from anywhere you want!</span></div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>Work on rich, responsive browser experiences</li><li>Participate in product design sessions and contribute to feature development.</li><li>Collaborating with UX/UI designers to implement design concepts through Storybook</li><li>Deliver reusable code and contribute to the in-house UI framework</li><li>Optimize applications for maximum speed, scalability, and user experience</li><li>Establish best practices, suggest new technologies, and design high-quality solutions</li>,<h3>You will shine if you have:</h3><li>6+ years of experience in software development</li><li>Highly proficient with JavaScript and JavaScript frameworks, specifically Vue.js</li><li>Ability to build isolated Vue components with strong TypeScript experience.</li><li>Solid understanding of HTML5, CSS3/4, and web design principles.</li><li>Knowledge of web performance optimization techniques.</li><li>Strong API Integration.</li><li>Experience with Git, unit, and integration testing</li><li>Experience with Agile methodologies such as Scrum and Kanban.</li><li>Strong problem-solving and debugging skills.</li><li>Ability to work collaboratively in a team.</li><li>Knowledge of web accessibility standards.</li><li>Excellent communication skills.</li>,<h3>Here are some of the perks we offer you:</h3><li>Salary in USD</li><li>Long-term</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://media.licdn.com/dms/image/C4D0BAQHlK67hgnhzQw/company-logo_200_200/0/1631346154820?e=2147483647&v=beta&t=_R2Ssj7L_f4xqmSCcq0nOLCyCz0QN2lFnHssxxhj3YY" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Blue Coding</h5>
+                    <h3>Senior Full-Stack Developer (W)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/bluecoding/dd475e7a-b3d3-4e99-8a64-9222b8798ed3" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 10 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 24px;">What are we looking for?</b></div><div><br></div><div>In this opportunity, we are seeking a Senior Full-Stack Developer to work with one of our foreign clients, an independent, non-profit global research organization that turns big ideas into action at the nexus of environment, economic opportunity, and human well-being. </div><div><br></div><div>In this role, you will collaborate with the data team to develop user-facing geospatial applications, data dashboards, and decision support tools to help cities address urban heat stress and access relevant data and knowledge to implement effective cooling infrastructures. You will work closely with product, design, and engineering teams to transform insights collected through discovery interviews with different urban heat actors and design wireframes tested with users into deployed live applications.</div><div><br></div><div><b>This is a part-time role.</b></div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>Build and demonstrate rapid prototypes and identify technical opportunities for scaling them: Data dashboards, geospatial applications, and decision-support tools.</li><li>Engage with the Data Lab engineering team on architectural decisions: Data storage, API services, applications deployment.</li><li>Work with product and design to deliver features based on design requirements and user research findings</li><li>Work closely with researchers to transform their research findings and generated datasets into user-facing applications</li><li>Integrate datasets and indicators generated by data scientists into our database with respect to APIs requirements and formats</li><li>Contribute to maintaining Cities Heat Data Catalogue</li>,<h3>You will shine if you have these:</h3><li>Strong hands-on experience with Node.js, Typescript, Next.js</li><li>Strong hands-on experience with Javascript, HTML/CSS, React</li><li>Experience with Javascript testing frameworks such as Jest and Cypress</li><li>Experience with API development using FastAPI or comparable Javascript framework (hapi, nestjs)</li><li>Experience with GIS web application development such as Leaflet, ArcGIS, Mapbox, and cloud-native geospatial data formats (Cloud-Optimized GeoTIFF, GeoParquet, STAC...)</li><li>Experience with SQL (PostgreSQL) and NoSQL (Redis) databases.</li><li>Experience with cloud services such as AWS (ECS, Lamba, SQS, S3, etc..)</li><li>Experience in building maintainable and reliable frontend and backend software in agile environments</li><li>Experience with continuous integration and deployment</li><li>Excellent communication and interpersonal skills</li><li>Self-motivated learner with a willingness and ability to take on new challenges</li><li>Interest in working for a mission-driven environmental organization</li>,<h3>It doesn’t hurt if you also have:</h3><li>Bachelor’s degree in computer science or a related field</li><li>Experience and desire to work with geospatial data systems and large-scale data analysis</li><li>Experience working across a matrixed team</li><li>Passion about the work that you are doing</li><li>Leadership experience, ability to lead and support other engineers</li>,<h3>Here are some of the perks we offer you:</h3><li>Salary in USD</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
                 </details>
                 </td>
             </tr>,<tr>
