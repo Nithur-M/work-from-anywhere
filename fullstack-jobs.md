@@ -37,6 +37,79 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
+                <a href="https://job-boards.eu.greenhouse.io/scrollio/jobs/4394811101" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Scroll is a Layer 2 scaling solution for Ethereum, specifically focusing on zkRollups. Key aspects of Scroll are zkRollup technology, Scalability, Efficiency, Security, and Developer-friendly. Overall, Scroll plays a crucial role in addressing Ethereum&#39;s scalability challenges and facilitating the growth of decentralized finance (DeFi) and other blockchain-based applications by providing a scalable and efficient Layer 2 solution.&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About Scroll…&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Scroll is building an open source, bytecode level compatible zkEVM layer 2 solution for Ethereum. Our mission is to scale Ethereum while maintaining our values of credible neutrality, openness, and community driven.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Team/Role&lt;/strong&gt; &lt;br&gt;&lt;br&gt;You will join a fast-paced, dynamic, and highly skilled engineering team dedicated to building one of the most cutting-edge Layer 2 solutions in the blockchain space. As a Fullstack Engineer, you’ll work at the intersection of decentralized technology and scalable applications. You’ll be responsible for contributing to the development of both the frontend and backend components of Scroll&#39;s architecture, using technologies such as React, Next.js, and Node.js. If you&#39;re passionate about Ethereum, excited about working with zkEVMs, and want to play a critical role in building the future of scalable blockchain infrastructure, this role is for you.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What you’ll do:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Design, develop, and maintain the frontend and backend of Scroll&#39;s Layer 2 solution.&lt;/li&gt;
+&lt;li&gt;Collaborate closely with the product team to ensure seamless integration and feature development.&lt;/li&gt;
+&lt;li&gt;Write clean, efficient, and well-documented code that follows best practices.&lt;/li&gt;
+&lt;li&gt;Debug, troubleshoot, and optimize existing code to improve performance and scalability.&lt;/li&gt;
+&lt;li&gt;Participate in design and code reviews, and mentor junior team members.&lt;/li&gt;
+&lt;li&gt;Ensure the technical feasibility of UI/UX designs and optimize applications for maximum speed and scalability.&lt;/li&gt;
+&lt;li&gt;Contribute to the overall architecture and technical direction of the Scroll project.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What you&#39;ll need:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Proficiency in Fullstack development with expertise in React, Next.js, and Node.js.&lt;/li&gt;
+&lt;li&gt;Strong understanding of JavaScript, TypeScript, and modern web development tools.&lt;/li&gt;
+&lt;li&gt;Experience with building and consuming RESTful APIs and working with databases like PostgreSQL or MongoDB.&lt;/li&gt;
+&lt;li&gt;Ability to work in a collaborative team environment, using version control (Git) and modern development workflows.&lt;/li&gt;
+&lt;li&gt;Strong problem-solving skills with a focus on delivering high-quality code.&lt;/li&gt;
+&lt;li&gt;Excellent communication skills and the ability to work in a fast-paced, decentralized team.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Nice to haves:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience working in the blockchain or decentralized technology space, especially with Ethereum or Layer 2 solutions.&lt;/li&gt;
+&lt;li&gt;Prior experience working in open-source projects and contributing to decentralized communities.&lt;/li&gt;
+&lt;li&gt;Familiarity with hosting platforms like Vercel for easy and scalable deployments.&lt;/li&gt;
+&lt;li&gt;Experience with Go is a plus.&lt;/li&gt;
+&lt;li&gt;Chinese language ability is a plus.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;&lt;strong&gt;About You&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;You are a self-starter and ability to take ownership, well organised, self-disciplined and effective when working autonomously on tasks and projects;&lt;/li&gt;
+&lt;li&gt;You are responsive, collaborative and committed person with a high work ethic;&lt;/li&gt;
+&lt;li&gt;You are a high class communicator who can articulate their views succinctly on calls or asynchronously in globally distributed, remote teams;&lt;/li&gt;
+&lt;li&gt;You relish working in an agile start-up environment;&lt;/li&gt;
+&lt;li&gt;You are a great listener who understands when to listen first and engages well with colleagues;&lt;/li&gt;
+&lt;li&gt;You are a resilient, driven individual who is willing and able to continually develop and iterate to succeed;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;What We Offer&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A mission-led, collaborative culture&lt;/li&gt;
+&lt;li&gt;Opportunity to work with cutting edge technology and like-minded people who are contributing to the progression of Ethereum&lt;/li&gt;
+&lt;li&gt;Competitive salary package / generous paid time off / annual growth budget&lt;/li&gt;
+&lt;li&gt;100% remote from any location with flexible hours&lt;/li&gt;
+&lt;li&gt;Home office set up / co-working membership allowance&lt;/li&gt;
+&lt;li&gt;Private healthcare in selected countries&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Scroll is proud to be an equal opportunity workplace. We are committed to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. If you have a disability or special need, please let us know and we&#39;ll do our best to accommodate.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/87750292?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Scroll</h5>
+                    <h3>Senior Fullstack Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
                 <a href="https://job-boards.eu.greenhouse.io/scrollio/jobs/4392052101" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
