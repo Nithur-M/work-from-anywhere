@@ -10,7 +10,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -52,87 +52,6 @@ qualifications, skills test performance, geographic location, and
 seniority of the position offered. Outside of California, New York, 
 Washington, and Colorado compensation may fall outside the above ranges.</p>
 <img src="https://remotive.com/job/track/1680495/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/11767950?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Status</h5>
-                    <h3>Web Developer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=6242476&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of Apps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol, the p2p communication layer for Web3.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception. Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <p><strong>Who are we?</strong></p>
-<p>IFT is a pioneering force in the Web3 ecosystem, committed to the development, adoption, and accessibility of solutions to digital age problems; guided by our principles: liberty, censorship resistance, security, privacy, and inclusivity. Our mission is to build public goods to safeguard civil liberties in the digital age.</p>
-<p>&nbsp;</p>
-<p><strong>The role</strong></p>
-<p>As a Web Developer at IFT, you will be responsible for As a Web Developer, you will be responsible for the development and technical maintenance of various web-based projects in the studio. Your role will involve decision-making for code architecture, writing tests, choosing the right technology stack, and any other related tasks. You will work closely with the development team, project management, studio lead, and design team to bring our web projects to life.</p>
-<p>&nbsp;</p>
-<p><strong>Key responsibilities:</strong>&nbsp;</p>
-<ul>
-<li>You will take care of all technical aspects of all web projects (from development and testing to deployment and maintenance)</li>
-<li>You will be developing and implementing websites, internal tools and our design systems implementation in React.</li>
-<li>You will co-write documentation for all the above mentioned products/projects</li>
-<li>You will be responsible for maintaining our open-sourced codebases on Github.</li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>You will ideally have:&nbsp;</strong></p>
-<ul>
-<li>Proficiency in Design Tools: Extensive experience with design tools that cater to UX, UI, and micro-interactions, such as Figma and Framer.</li>
-<li>Frontend and Backend Expertise: Experience in implementation of frontend libraries and design systems (ReactJS, NextJS), and backend (NodeJs, NestJS), all in Typescript</li>
-<li>Software Architecture Knowledge: Solid understanding of software architecture principles, ensuring scalable and maintainable code.</li>
-<li>DevOps and Deployment Experience: Hands-on experience with Git, Docker, coupled with expertise in deployment platforms like Vercel.</li>
-<li>MDX-Based Content Management: Knowledgeable in managing content using MDX with Docusaurus.</li>
-<li>Experience with JAMstack: Familiarity with JAMstack architecture, including static site generators, headless CMS, and modern web technologies.</li>
-<li>Alignment with our principles: Strong alignment with our core principles: <a href="https://status.app/manifesto">https://status.app/manifesto</a></li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>Bonus points:&nbsp;</strong></p>
-<ul>
-<li>You are comfortable working remotely and asynchronously</li>
-<li>You have experience working for an open-source organisation</li>
-<li>You have exposure to creative coding (processing, openframeworks, WebGL, writing shaders, p5js)</li>
-</ul>
-<p><em>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</em></p>
-<p>&nbsp;</p>
-<p><strong>Hiring process:</strong></p>
-<ol>
-<li>Interview with our People Ops team</li>
-<li>Interview with Jerry</li>
-<li>Interview with Jinho</li>
-<li>Assessment<a href="https://docs.google.com/document/d/1-KCt5RPaSZ-E1h8CRJUHw8jDfAZThVombgNLdARdpds/edit"> </a></li>
-<li>Interview with Nick</li>
-</ol>
-<p><em>The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline.&nbsp;</em></p>
-<p><strong><br></strong><strong>Compensation</strong></p>
-<p>We are happy to pay in any mix of fiat/crypto.</p>
-
-    
-
-    
-
                 </details>
                 </td>
             </tr>,<tr>
@@ -592,30 +511,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
                 <td width="300">
                     <h5>CloudLinux</h5>
-                    <h3>Django/Full Stack Developer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/35886A3A9A" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>CloudLinux is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful.&nbsp;We are truly a great place to work. </p><p>Check out our website for more information<a href="https://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external"> https://cloudlinux.com/</a></p><p>We are looking for a Django/Full Stack Developer to </p><p>create an internal build &amp; automation system from scratch. The product is designed to expedite the delivery of security patches as part of extended life support services provided by Cloudlinux.&nbsp;</p><p>Since the system will be established for internal use your end users will be colleagues working next to you. This is a great opportunity to bring value to fellow engineers.</p><p>The system is meant to be built from scratch, therefore a wide knowledge of the end-to-end pipeline of architecture/design phase, planning, development, and deployment is a must. However, we have a separate infrastructure team that is responsible for the infrastructure maintenance.&nbsp;</p><p></p><p></p><h3>Key Responsibilities:</h3><ul> <li>Design, develop, test, and deliver web applications using Django and related technologies.</li> <li>Technical ownership of the created application.</li> <li>Implement user interfaces using front-end technologies (HTML, CSS, JavaScript frameworks).</li> <li>Work with Linux-based systems for deployment and development, including container management (Docker, Kubernetes).</li> <li>Build pipelines for code testing and delivery.</li> <li>Ensure application security and data protection.</li> <li>Troubleshoot and debug code across the stack.</li> <li>Version control using Git, including branching, merging, and pull requests.</li> <li>Review your colleagues' code.</li> <li>Plan your work forward.</li> </ul><h3>Requirements: </h3><p><strong>To thrive in this role, we are looking for someone who has:</strong></p><ul> <li>Minimum of 5 years of experience in Django or full stack development.</li> <li>Proficiency in Django and Python for backend development.</li> <li>Strong experience with Linux as a development and deployment environment.</li> <li>Proven experience in building web applications and scalable systems.</li> <li>Hands-on experience with containers, such as Docker, for development and production.</li> <li>Proficiency with Git for version control.</li> <li>Solid understanding of SQL and experience with relational databases (e.g., PostgreSQL, MySQL).</li> <li>Experience with libraries for managing background tasks like Celery or similar.</li> <li>Experience with tools for managing task queues like RabbitMQ or Kafka.</li> <li>Strong experience with building CI pipelines in tools like Gitlab or Jenkins.</li> <li>Strong problem-solving skills and attention to detail.</li> <li>An intermediate level of English language proficiency.</li> <li>Ability to work with vague requirements.</li> <li>You are a team player who can collaborate effectively.</li> </ul><p></p><p><strong>It would be great if you also have:</strong></p><ul> <li>Experience with front-end technologies like React, Vue.js, or Angular.</li> <li>Experience with test automation frameworks.</li> <li>Experience with Kubernetes, helm charts, and ArgoCD or similar.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development</li> <li>Interesting and challenging projects</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves</li> <li>Compensation for private medical insurance</li> <li>Co-working and gym/sports reimbursement</li> <li>Budget for education</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p></p><p></p><p><em>By applying for this position, you agree with&nbsp;</em>the Cloudlinux Privacy Policy <a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external">https://cloudlinux.com/privacy-policy</a><em> and give us your consent to maintain and process your personal data in this respect. Please read our Privacy Policy for more information.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
                     <h3>Senior PHP Developer/Performance optimization (worldwide remote, work anywhere)</h3>
                 </td>
                 <td width="300">
@@ -728,30 +623,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 10 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 18px">What are we looking for?</b></div><div><br></div><div><span style="font-size: 16px">In this opportunity, we are looking for a Back-end Developer to work with one of our foreign clients, who is a market leader in the consultation, design, procurement, implementation, and ongoing managed services for technology services for mid to large global enterprises. As a Telecom Managed Service company, they partner with over 300 service providers globally to help customers with technology design and find the best solutions to meet their needs. This Software Developer will be responsible for using C# to compose, compile,</span><span style="font-size: 16px;"> and test programs and applications to provide cellular cost optimization services to enterprises. Also, will join the client's talented A-team with a shared commitment to reducing their clients’ monthly cell phone bills while making it easier to manage their mobile device inventory and services.</span></div><div><br></div><div><span style="font-size: 16px">If you are independent, a great communicator, a problem solver, and have strong attention to detail, this is a great fit for you! Our jobs are fully remote – as long as you have the skills and can get the work done well, you can work anywhere in the listed countries you want.</span></div><div><span style="font-size: 16px">If you have the skills and can get the job done, join us and work from anywhere you want!</span></div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>Build new applications that will increase value to clients. Write clean, high-quality, high-performance, maintainable code. </li><li>Develop and support software, including applications, database integration, interfaces, and new functionality enhancements. </li><li>Analyze existing program logic to identify causes of program malfunctions; modify program logic to eliminate problems or increase operational efficiency. </li><li>Collaborate with internal and external stakeholders to understand user needs. </li><li>Support test and deployment of new products and features. </li><li>Shape our product and deliver new features monthly, improving our effectiveness and making our users happier. </li><li>Maintain knowledge of trends and developments in related areas of technology and programming.</li>,<h3>You will shine if you have:</h3><li>2+ years of experience in software development</li><li>Extensive knowledge of C# and .NET frameworks. </li><li>Thorough understanding of design, testing, and modification of programs and applications. </li><li>Proficiency with or the ability to quickly learn the technologies, coding, and programming languages used in the organization. </li><li>Demonstrated experience in writing excellent code to solve complex business problems and process automation. </li><li>Excellent problem-solving and analytical skills. </li><li>Excellent organizational skills and attention to detail. </li><li>Excellent time management skills.</li>,<h3>It wouldn't hurt if you also have:</h3><li>Knowledge of Reveal BI. </li><li>Knowledge of other coding languages and systems, such as Ruby/Rails</li>,<h3>Here are some of the perks we offer you:</h3><li>Salary in USD</li><li>Long-term</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/C4D0BAQHlK67hgnhzQw/company-logo_200_200/0/1631346154820?e=2147483647&v=beta&t=_R2Ssj7L_f4xqmSCcq0nOLCyCz0QN2lFnHssxxhj3YY" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Blue Coding</h5>
-                    <h3>Senior Front-end Developer (A)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/bluecoding/87606071-d5e6-427d-89b5-e0f6efe30fef" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 10 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 18px">What are we looking for?</b></div><div><br></div><div><span style="font-size: 16px">In this opportunity, we are looking for a Senior Front-end Developer to work with one of our foreign clients, who is a market leader in the consultation, design, procurement, implementation, and ongoing managed services for technology services for mid to large global enterprises. As a Telecom Managed Service company, they partner with over 300 service providers globally to help customers with technology design and find the best solutions to meet their needs.</span></div><div><br></div><div><span style="font-size: 16px">If you are independent, a great communicator, a problem solver, and have strong attention to detail, this is a great fit for you! Our jobs are fully remote – as long as you have the skills and can get the work done well, you can work anywhere in the listed countries you want.</span></div><div><span style="font-size: 16px">If you have the skills and can get the job done, join us and work from anywhere you want!</span></div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>Work on rich, responsive browser experiences</li><li>Participate in product design sessions and contribute to feature development.</li><li>Collaborating with UX/UI designers to implement design concepts through Storybook</li><li>Deliver reusable code and contribute to the in-house UI framework</li><li>Optimize applications for maximum speed, scalability, and user experience</li><li>Establish best practices, suggest new technologies, and design high-quality solutions</li>,<h3>You will shine if you have:</h3><li>6+ years of experience in software development</li><li>Highly proficient with JavaScript and JavaScript frameworks, specifically Vue.js</li><li>Ability to build isolated Vue components with strong TypeScript experience.</li><li>Solid understanding of HTML5, CSS3/4, and web design principles.</li><li>Knowledge of web performance optimization techniques.</li><li>Strong API Integration.</li><li>Experience with Git, unit, and integration testing</li><li>Experience with Agile methodologies such as Scrum and Kanban.</li><li>Strong problem-solving and debugging skills.</li><li>Ability to work collaboratively in a team.</li><li>Knowledge of web accessibility standards.</li><li>Excellent communication skills.</li>,<h3>Here are some of the perks we offer you:</h3><li>Salary in USD</li><li>Long-term</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
                 </details>
                 </td>
             </tr>,<tr>
