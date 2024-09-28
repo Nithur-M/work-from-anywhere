@@ -1,72 +1,5 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>DuckDuckGo</h5>
-                    <h3>Senior Software Engineer, Windows Desktop App (Remote)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://duckduckgo.recruitee.com/o/windows-desktop" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Hi, we’re DuckDuckGo, the Internet privacy company for everyone who wants to take back their privacy now. For over a decade, we've been building our all-in-one product, developing new privacy technology, and working with policymakers to make online privacy simple and accessible for all.  <br /></p>
-<p><br /></p>
-<p>Our browsers and extensions have been downloaded over 250 million times with our built-in private search engine, which has delivered over 100 billion searches and is the 2nd largest search engine on mobile in the United States and 17 other countries, including the United Kingdom, Canada, Australia, Germany, Poland, and Spain. Our private search engine is also 3rd in market share in the U.S. and over 20 major markets. Oh, and we've been profitable since 2014, with annual revenue exceeding $100 million!</p>
-<p><br /></p>
-<p>The DuckDuckGo browser’s uniquely comprehensive privacy protections are used by tens of millions of people to protect their everyday online activities on <a href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/" rel="noopener">Mac</a>, <a href="https://spreadprivacy.com/windows-browser-open-beta/" rel="noopener">Windows</a>, <a href="https://spreadprivacy.com/duckduckgo-privacy-browser-ios14/" rel="noopener">iOS</a>, and <a href="https://spreadprivacy.com/introducing-app-tracking-protection/" rel="noopener">Android</a>, from searching to browsing, emailing, and more. We also offer <a href="https://spreadprivacy.com/meetprivacypro/" rel="noopener">Privacy Pro</a>, a three-in-one subscription service that includes a VPN, Personal Information Removal, and Identity Theft Restoration.</p>
-<p><br /></p>
-<p>We’re looking for a <strong><strong>Senior Software Engineer, Windows Desktop App</strong></strong> to help shape our all-in-one privacy solution and join our mission to show the world that protecting your privacy online can be simple.  </p>
-<p><br /></p>
-<p><strong>The Opportunity</strong> </p>
-<p>In this role, you will work on the team responsible for launching our first ever DuckDuckGo Privacy App for Windows. You'll collaborate with Product Managers, Designers, and Engineers across Native Apps to craft a world-class browser with embedded privacy features that will revolutionize the way people search, surf, and exist online. </p>
-<p><br /></p>
-<p>You will be critical to the successful launch of this product and responsible for taking pieces of the puzzle and autonomously building solutions to get us closer to our first release. You will help define the roadmap, take ownership of significant application features and experiment with ways to improve them. </p>
-<p><br /></p>
-<p>You will lay the foundations of what will become one of DuckDuckGo's flagship products and critical levers for growing privacy online. </p>
-<p><br /></p>
-<p><strong>What You Will Bring to DuckDuckGo</strong> </p>
-<ul><li>Experience implementing ideas from scratch, owning major application features, and taking responsibility for their maintenance and improvement over time.</li><li>Experience participating in technical architecture decisions for complex products, essentially shaping the software architecture of a consumer product.</li><li>Experience building at least one desktop application (ideally with WPF, UWP, WinUI, WinForms, or other relevant .NET UI).</li><li>An advanced level of programming expertise, with knowledge of C#. We currently use .NET 6.</li><li>A significant level of experience in building customer facing applications, including crafting user interfaces.<br /></li><li>Deep understanding of software design patterns such as MVVM, MVP, etc.</li><li>Event-driven programming (e.g., using Rx.NET) experience is considered an advantage.</li></ul>
-<p><br /></p>
-<p><strong>How We Will Support You </strong> </p>
-<p>Our core values -- build trust, question assumptions, and validate direction -- underpin how we work day-to-day and the support we give our team members. We strive to empower our team members to be self-directed and self-motivated in their work.  </p>
-<p><br /></p>
-<ul><li><strong>Remote First, Always</strong>: We've always been a fully distributed company with team members all over the world. We trust you to get your work done wherever, whenever.</li><li><strong>Commitment to Personal Growth:</strong> Every team member has an annual budget of $1,250 USD to invest in their professional development. Every team member also has a dedicated Career Advisor, who serves as a guide to help you develop your strengths, identify your motivations, and understand your opportunities for growth.</li><li><strong>Leadership:</strong> We have many different types of leaders and possible combinations of leadership roles, so you can grow your career in a way that aligns best with your personal goals. You can seek additional leadership roles by being directly responsible for projects, taking ownership of areas of the company, developing and maintaining internal processes, or pursuing advisory roles.</li><li><strong>Work/Life Balance: </strong>Team members have the freedom and flexibility to organize their own work schedules. We want you to thrive both in and out of the office. We trust you to use good judgment and take the time off that you need to bring your best self to work.  </li></ul>
-<p><br /></p>
-<p>We also offer <strong>paid parental leave, a co-working stipend, office setup reimbursement, </strong>and<strong> a wellness stipend.</strong> More support resources can be found in our, <u><a href="https://duckduckgo.com/assets/hiring/team_support_guide.pdf" rel="noopener">Team Member Support Guide</a></u>, which explains how we make your well-being a priority. </p>
-<p><br /></p>
-<p>For more information on how we collaborate worldwide, from leadership in our relatively flat organization to start-to-finish ownership, check out <u><a href="https://duckduckgo.com/how-we-work" rel="noopener">DuckDuckGo Culture: How We Work.</a></u> </p>
-<p><br /></p>
-<p><strong>Compensation</strong> </p>
-<p>Annual compensation: <strong>$176,000</strong> <strong>USD</strong> and stock options. Compensation is the same within a professional level, regardless of geographic location or functional area, and the compensation for each professional level is transparent across the organization.</p>
-<p><br /></p>
-<p><strong>Hiring Process</strong> </p>
-<p>Hiring works best when it's a two-way street. Learn how we help you get to know DuckDuckGo and envision your future role here. Find out more about <u><a href="https://duckduckgo.com/how-we-hire" rel="noopener">how we hire</a></u>. </p>
-<p><br /></p>
-<p><strong>Diversity, Equity, and Inclusion</strong> </p>
-<p>DuckDuckGo provides equal work opportunities to all team members and applicants<u>,</u> and it prohibits discrimination and harassment of any type on the basis of race, color, ethnicity, caste, religion, age, sex (including pregnancy), national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by our policies or federal, state, or local laws.</p>
-<p><br /></p>
-<p>We want to ensure that our hiring process is accessible. If you need reasonable accommodation for any part of the application process because of a medical condition or disability, please send an email to <u><a rel="noopener">careers@duckduckgo.com</a></u> to let us know the nature of your request.  </p>
-<p><br /></p>
-<p>If you think you might thrive in this environment, we would love to hear from you. </p>
-<p><br /></p>
-<p><strong>Please note that:</strong> </p>
-<ul><li><p>Sometimes we meet up! Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.</p></li><li>While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week. </li><li>A successful candidate will be subject to a background check and must receive satisfactory results of the same, as a condition of joining the team. </li><li>By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.</li></ul>
-<p><br /></p>
-<p>#INT</p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1428393724527190022/4mt5PACL_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -177,122 +110,6 @@
 <li>[45m]&nbsp;<a href="https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#e83edd987754460e839138a4bbfd592e">Pairing Exercise</a></li>
 <li>[60m] <a href="https://sourcegraph.notion.site/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7#cb00697e95304550a146c32563c0255d">Cross-functional Team Collaboration Interview</a>&nbsp;/&nbsp;<a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#e3a04291743048df87541a88aa8199dd">Values Interview</a></li>
 <li>[15m]&nbsp;<a href="https://www.notion.so/sourcegraph/How-to-work-with-Quinn-Slack-CEO-807673e0864d473f959cc4efd9642a5a?pvs=4#6f185c0e2011411eac5be9c675f9056c">Leadership</a> with co-founder</li>
-<li>We check references and conduct your background check</li>
-</ul>
-<p>Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.</p>
-
-    
-
-    <div class="content-conclusion"><h2><strong><span style="color: #a112ff;">Learn more about us</span></strong></h2>
-<p>We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process. You can learn more about what it is like to work at Sourcegraph by reading <a href="https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0">our handbook</a>.</p>
-<p><span style="font-weight: 400;">We provide </span><a href="https://sourcegraph.notion.site/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74"><span style="font-weight: 400;">competitive compensation</span></a><span style="font-weight: 400;"> and </span><a href="https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba?pvs=74"><span style="font-weight: 400;">practical benefits</span></a><span style="font-weight: 400;"> to keep you happy and healthy so that you can do your best work.&nbsp;</span><span style="font-weight: 400;">&nbsp;</span></p>
-<p>Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds.&nbsp;</p>
-<p><em>Sourcegraph participates in&nbsp;<a href="https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107">E-Verify</a> for U.S. Employees.&nbsp;</em></p></div>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1428393724527190022/4mt5PACL_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Sourcegraph</h5>
-                    <h3>Software Engineer - Code Search [IC2]</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/sourcegraph91/jobs/5211133004" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><h2><strong><span style="color: #a112ff;">Who we are</span></strong></h2>
-<p>Our mission at Sourcegraph is to make it so that <a href="https://www.notion.so/sourcegraph/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d?pvs=4">everyone can code</a>, not just ~0.1% of the population. We're building the code intelligence platform that powers the world's best code search and the most popular open-source code AI tool. It’s an exciting time to join Sourcegraph—AI has taken over the world, and we aim to automate 99% of the toil in software engineering with our code understanding and code AI tools, leaving the remaining 1% to the irreplicable creative spark from humans.&nbsp;</p>
-<p>Our customers range from startups to the Fortune 500, 4/5 FAANG companies, government organizations, Uber, Plaid, and more. We’ve raised $225M at a $2.625B valuation from <a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/">a16z</a>,<a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"> Sequoia</a>, <a href="https://www.redpoint.com/companies/sourcegraph/">Redpoint</a>, <a href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d">Craft</a> and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</p></div>
-
-    <h2><span style="color: rgb(161, 18, 255);"><strong>Location</strong></span></h2>
-<p>🌎 While we are an all-remote company and hire <a href="https://sourcegraph.notion.site/How-we-engage-talent-outside-of-the-US-218f7193695a46cbb1ef39ef9c1f72d4">almost anywhere</a> in the world, we have a preference for someone to reside in the following locations for this role. However, if you feel qualified, we welcome you to apply regardless of location. No matter what, working hours must overlap with EST for at least 20 hours/week.</p>
-<p><strong>Preferred locations:</strong></p>
-<ul>
-<li>Remote</li>
-</ul>
-<h2><span style="color: rgb(161, 18, 255);"><strong>Why this job is exciting</strong></span></h2>
-<p>Sourcegraph Code Search is an advanced, user-friendly code search and navigation tool designed to help developers efficiently understand, navigate, and review the software they're working on, irrespective of its size or complexity. It offers a web-based, universal code search capability across various repositories, branches, and languages, enabling quick and accurate search results with context. It also provides features such as semantic code search, syntax highlighting, hover tooltips, and real-time code insights, significantly reducing the time spent understanding codebases or hunting for specific logic. With integrations into popular version control systems and code editors, Sourcegraph Code Search aids in code exploration, bug squashing, and feature development, making it an indispensable tool for modern development teams.</p>
-<p>The Code Search team is aimed at growing the Code Search product into a 100+ million dollar product that is an integral part of every Fortune-500 company’s workflow. As a software engineer on the Code Search team, you will contribute to the direction of Sourcegraph’s Code Search product. With your expertise, you will be in the thick of maintaining, expanding, and shaping the future of the product, ensuring it meets the needs of our largest enterprise customers.</p>
-<p>📅 Within one month, you will…</p>
-<ul>
-<li>Onboard onto the Sourcegraph codebase, architecture, tooling, and development workflow.</li>
-<li>Build a solid understanding of the team’s areas of ownership, technical challenges, and problems the team solves for our customers, and know how all of these align with the top-level company goals.</li>
-<li>Actively participate in team meetings, sharing ideas and insights to contribute to the overall team goals.</li>
-<li>Work closely with your team members, asking questions and seeking feedback to ensure alignment and clear understanding of tasks.</li>
-<li>Begin making meaningful contributions to ongoing projects, demonstrating a clear understanding of our coding standards and methodologies.</li>
-</ul>
-<p>📅 Within three months, you will…</p>
-<ul>
-<li>Demonstrate a comprehensive understanding of the Code Search product, its underlying technologies, and its integration within the Sourcegraph ecosystem.</li>
-<li>Begin to take ownership of specific areas of the product, showcasing expertise and problem-solving capabilities.</li>
-<li>Regularly participate in code reviews, providing constructive feedback to peers and upholding our high standards of code quality.</li>
-<li>Engage in team discussions on architectural design, scalability, and other higher-level aspects, bringing clarity and forward momentum to such conversations.</li>
-<li>Mentor and provide guidance to junior team members, fostering their growth and development within the Code Search team.</li>
-<li>Lead or co-lead smaller projects, showcasing strong scoping, implementation, and delivery skills.</li>
-<li>Proactively identify potential challenges in projects and work towards mitigating risks and ensuring smooth execution.</li>
-</ul>
-<p>📅 Within six months, you will…</p>
-<ul>
-<li>Act as a go-to expert within your domain, helping to address complex challenges, guide the team through intricate issues, and define best practices.</li>
-<li>Proactively dive into unfamiliar areas of the codebase, suggesting improvements, and ensuring that our technical infrastructure remains robust and forward-looking.</li>
-<li>Have a significant influence on the team’s roadmap, proposing new features, optimizations, and refactors based on customer needs, technical debt, and industry best practices.</li>
-<li>Lead larger projects from conception to deployment, ensuring that they align with our strategic objectives and adhere to our quality standards.</li>
-<li>Play a pivotal role in shaping the team's culture, ensuring that it remains collaborative, innovative, and focused on continuous growth.</li>
-<li>Actively mentor junior team members and collaborate with other senior engineers, ensuring their success within their teams.</li>
-</ul>
-<h2><span style="color: rgb(161, 18, 255);"><strong>About you</strong></span></h2>
-<p>You are a passionate Full-stack Software Engineer with 2-5 years of hands-on experience, eagerly seeking a challenging role that allows you to leverage your technical skills while also offering opportunities for learning and growth. Your coding skills are solid, and you are proficient in your primary focus area, yet you remain open and excited to dive into different parts of the technology stack.</p>
-<p>You are eager to continue building your track record of excellence, autonomy, and the expertise to solve complex software engineering challenges.</p>
-<p>While you are task-oriented and able to follow directions, you are also demonstrating a growing sense of independence in your work. You are self-sufficient, capable of delivering results with minimal guidance, and unafraid to take the lead on small and mid-sized projects. You are adaptable, thriving in a fast-paced, dynamic environment. You take ownership of your work, you are self-motivated, and you exhibit a strong sense of accountability and responsibility for the success of the product.</p>
-<p>Qualifications:</p>
-<ul>
-<li>You are proficient in Go, with exposure to scaling and concurrency.</li>
-<li>You are proficient with Typescript and Javascript frameworks; experience with React and SvelteKit is a plus.</li>
-<li>You have some knowledge of GraphQL.</li>
-<li>You are comfortable with Docker and Kubernetes.</li>
-<li>You are comfortable interacting with relational databases; PostgreSQL experience is a plus.</li>
-<li>You are comfortable with the command-line interface and bash scripting.</li>
-<li>You are comfortable in a multi-service environment.</li>
-<li>You can utilize Bazel as a build tool.</li>
-<li>You are familiar with macOS and Linux platforms.</li>
-</ul>
-<h2><span style="color: rgb(161, 18, 255);"><strong>Level</strong></span></h2>
-<p>📊 This job is an IC2. You can read more about <a href="https://www.notion.so/sourcegraph/Leveling-Guide-0e1b5c76ada64b9caac387f8b7c4fc66?pvs=4">our job leveling philosophy</a> in our Handbook.</p>
-<h2><span style="color: rgb(161, 18, 255);"><strong>Compensation</strong></span></h2>
-<p><strong>💸 We pay you an above-average salary</strong> because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. As an <a href="https://sourcegraph.notion.site/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d">open and transparent</a> company that values <a href="https://www.notion.so/sourcegraph/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=4">competitive compensation</a>, our compensation ranges are visible to every single Sourcegraph teammate.</p>
-<p>Your salary is determined by your pay band for the IC2 job level. For determining pay bands, we use a number of market and data-driven salary sources, along with your location zone, and target the high-end of the range to ensure we’re always paying above market regardless of where you live in the world. Both U.S. and international locations are divided into one of four zones, determined by the cost of labor index for each area. The salary for a successful candidate will be based on level, job-related skills, experience, qualifications, and location zone. Please note that the salaries below may be adjusted in the future.</p>
-<p>💰 The target compensation for this role is based on the IC2 pay band for your zone. The start of the IC2 pay band for each zone is listed below:</p>
-<p>Zone 2: $116,000 USD<br>Zone 3: $87,000 USD<br>Zone 4: $58,000 USD</p>
-<p>Please speak with a recruiter for additional information regarding zone locations.</p>
-<p>📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous <a href="https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba">perks &amp; benefits</a>.</p>
-<h2><span style="color: rgb(161, 18, 255);"><strong>Interview process</strong></span></h2>
-<p><em>Below is the interview process you can expect for this role (you can read more about </em><a href="https://sourcegraph.notion.site/Types-of-interviews-f279f080583d49ee9f2c60e30c8cb1f7"><em>the types of interviews</em></a><em> in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&nbsp;</em></p>
-<p>We expect the interview process to take 4.25 hours in total.</p>
-<p><strong>👋 Introduction Stage</strong>&nbsp;- we have initial conversations to get to know you better…</p>
-<ul>
-<li>[30m]&nbsp;<a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#99be5ff628b2414194a0ba79d9f25f13">Recruiter Screen</a></li>
-<li>[15m]&nbsp;<a href="https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#6a6deb280d374652b21d5aa3061c82d2">Hiring Manager Intro</a></li>
-</ul>
-<p><strong>🧑‍💻 Team Interview Stage</strong> - we then schedule an all-day "onsite" interview to delve into your experience in more depth and introduce you to members of the team, including cross-functional partners…</p>
-<ul>
-<li>[45m]&nbsp;<a href="https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#da568e7854bb4aaa9b027157088e2d71">Technical Screen / Resume Deep Dive</a></li>
-<li>[45m]&nbsp;<a href="https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#e83edd987754460e839138a4bbfd592e">Pairing Exercise</a></li>
-<li>[45m]&nbsp;<a href="https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#b37f3b535e894775b9c64f53675b5549">Code Walkthrough</a></li>
-<li>[60m]&nbsp;<a href="https://sourcegraph.notion.site/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7#cb00697e95304550a146c32563c0255d">Cross-functional Team Collaboration Interview</a>&nbsp;/&nbsp;<a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#e3a04291743048df87541a88aa8199dd">Values Interview</a></li>
-<li>[15m] <a href="https://www.notion.so/sourcegraph/How-to-work-with-Quinn-Slack-CEO-807673e0864d473f959cc4efd9642a5a?pvs=4#6f185c0e2011411eac5be9c675f9056c">Leadership</a>&nbsp;with co-founder&nbsp;</li>
 <li>We check references and conduct your background check</li>
 </ul>
 <p>Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.</p>
@@ -919,7 +736,7 @@
 <p>The company is founder led, profitable and growing. We are hiring&nbsp;<strong>Python and Kubernetes Specialist Engineers focused on Data, AI/ML and Analytics Solutions </strong>to join our teams building open source solutions for public cloud and private infrastructure.</p>
 <p>As a software engineer on the team, you'll collaborate on an end-to-end data analytics and mlops solution composed of popular, open-source, machine learning tools, such as Kubeflow, MLFlow, DVC, and Feast. You may also work on workflow, ETL, data governance and visualization tools like Apache SuperSet, dbt, and Temporal, or data warehouse solutions such as Apache Trino, or ClickHouse. Your team will own a solution from the analytics and machine learning space, and integrate with the solutions from other teams to build the world's best end-to-end data platform. These solutions may be run on servers or on the cloud, on machines or on Kubernetes, on developer desktops, or as web services.</p>
 <p>We serve the needs of individuals and community members as much as the needs of our Global 2000 and Fortune 500 customers; we make our primary work available free of charge and our Pro subscriptions are also available to individuals for personal use at no cost. Our goal is to enable more people to enjoy the benefits of open source, regardless of their circumstances.</p>
-<p><strong>Location: </strong>This initiative spans many teams that are home-based in EMEA, Americas and APAC time zones, so we can accommodate candidates in almost any location. We believe in distributed collaboration but we also try to ensure that colleagues have company during their work hourse! Successful candidates will join a team where most members and your manager are broadly in the same time zone so that you have the benefits of constant collaboration and discussion.</p>
+<p><strong>Location: </strong>This initiative spans many teams that are home-based and in multiple time zones. We believe in distributed collaboration but we also try to ensure that colleagues have company during their work hourse! Successful candidates will join a team where most members and your manager are broadly in the same time zone so that you have the benefits of constant collaboration and discussion.</p>
 <p><strong>What your day will look like</strong></p>
 <ul>
 <li>Develop your understanding of the entire Linux stack, from kernel, networking, and storage, to the application layer</li>
@@ -2073,30 +1890,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>CloudLinux is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person in our team supports each other and does what we can to ensure we all are successful. </p><p>We are looking for a Principal Software Enginner to join our dynamic team at Imunify. You will have the opportunity to work on cutting-edge projects that are pushing the boundaries of enterprise cyber security applications. </p><p>Imunify Security Suite is our innovative security solution designed specifically for shared and VPS/Dedicated servers. The automated, easy-to-use solution with the six-layer approach to security delivers comprehensive and complete attack prevention. </p><p>Check out our website for more information about our Imunify Product <a href="https://www.imunify360.com/" target="_blank" rel="nofollow noreferrer noopener" class="external">https://www.imunify360.com/</a></p><p></p><p><strong>Key Responsibilities:</strong></p><ul> <li>Architect, implement, and oversee server-side solutions utilizing Linux networking technologies with strong emphasis on optimization.	</li> <li>Lead the development of high-quality software products, ensuring adherence to coding standards and Agile methodologies.</li> <li>Drive collaboration among development teams, testers, and stakeholders to achieve sprint objectives, providing guidance on technical priorities.</li> <li>Provide accurate estimations of project effort during sprint planning, evaluate open-source alternatives, and offer strategic recommendations.</li> <li>Develop and maintain comprehensive automated tests for critical software components to uphold code quality and reliability.</li> <li>Champion process improvements, including coding practices, standards, and tooling, to enhance team productivity and efficiency.</li> <li>Demonstrate proactive leadership in task prioritization, focusing on value delivery and meeting project deadlines.</li> <li>Facilitate design and peer code reviews, offering expert insights and constructive feedback to foster a culture of excellence.</li> <li>Conduct thorough technical root cause analysis and debugging to address software defects and operational challenges effectively.</li> <li>Foster continuous self-improvement among team members, promoting the development of technical and communication skills.</li> </ul><h3>Requirements: </h3><p><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"></a><strong>To thrive in this role, we are looking for someone who has:</strong></p><ul> <li>8 years of progressive experience in software development, with a strong proficiency in either Go or Python.</li> <li>Proven extensive hands-on experience in building robust server-side applications and services using Go or Python, coupled with expertise in performance tuning, web servers preferably.</li> <li>Knowledge and experience in network and web security is a huge plus.</li> <li>Deep understanding of Linux network subsystem.</li> <li>Hands-on experience in Linux (experience with popular distributions such as CentOS and Debian).</li> <li>Deep knowledge and practical experience in network security solutions.</li> <li>Knowledge and experience with Bash, C, and SQL is a plus.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.</li> <li>Compensation for private medical insurance. </li> <li>Co-working and gym/sports reimbursement.</li> <li>Budget for education.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p></p><p><em>By applying for this position, you agree with the </em><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external">CloudLinux Privacy Policy</a><em> - </em><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external"></a><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external"></a><em>and give us your consent to maintain and process your personal data in this respect. Please read </em><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external">Privacy Policy </a><em>for more information.</em><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external"></a></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Principal Software Engineer - C at CloudLinux (worldwide remote, work anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/31B383177E" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Join our innovative team at CloudLinux OS as a Principal Software Engineer. You'll have the opportunity to work on groundbreaking projects that are redefining enterprise cybersecurity. As a Principal Software Engineer, you'll not only drive our cutting-edge initiatives but also advance your career through our dynamic leadership programs and challenging assignments. If you're ready to take your expertise to the next level, CloudLinux is where you belong.</p><p>CloudLinux OS, our flagship product, runs on more than 50,000 production servers today, powering over 40 million websites, and is recognized as the best OS for security and efficiency in a shared hosting environment. CloudLinux OS increases server density and enhances security, thus reducing operating costs, decreasing churn rates, and increasing profitability.</p><p>Check out our website for more information about our CLOS Product&nbsp;<a href="https://www.cloudlinux.com/" target="_blank" rel="nofollow noreferrer noopener" class="external">https://www.cloudlinux.com/</a></p><p></p><p><strong>Key Responsibilities</strong></p><ul> <li>Architect, implement, and oversee server-side solutions utilizing Linux networking technologies with strong emphasis on optimization	</li> <li>Lead the development of high-quality software products, ensuring adherence to coding standards and Agile methodologies</li> <li>Drive collaboration among development teams, testers, and stakeholders to achieve sprint objectives, providing guidance on technical priorities</li> <li>Provide accurate estimations of project effort during sprint planning, evaluate open-source alternatives, and offer strategic recommendations</li> <li>Develop and maintain comprehensive unit tests for critical software components to uphold code quality and reliability</li> <li>Champion process improvements, including coding practices, standards, and tooling, to enhance team productivity and efficiency</li> <li>Demonstrate proactive leadership in task prioritization, focusing on value delivery and meeting project deadlines</li> <li>Facilitate design and peer code reviews, offering expert insights and constructive feedback to foster a culture of excellence</li> <li>Conduct thorough technical root cause analysis and debugging to address software defects and operational challenges effectively</li> <li>Foster continuous self-improvement among team members, promoting the development of technical and communication skills</li> </ul><p></p><h3>Requirements: </h3><p><strong>To thrive in this role, we are looking for someone who has:</strong></p><ul> <li>8 years of progressive experience in software development, with a strong proficiency in C/C++</li> <li>Extensive hands-on experience in building server-side applications and services using C/C++, coupled with expertise in performance tuning</li> <li>Deep knowledge of various Web Application Firewall (WAF) implementations and experience working with them</li> <li>Hands-on experience in Linux (experience with popular distributions such as CentOS and Debian)</li> <li>A deep understanding of web server architecture, designing and building modules for Nginx and/or Apache is highly desirable</li> <li>Proven track record of designing and implementing robust server-side solutions, web servers preferably&nbsp;&nbsp;</li> <li>Deep knowledge and practical experience in network-based solutions</li> <li>Knowledge and experience with Python, Bash, C, and SQL</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development</li> <li>Interesting and challenging projects</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves</li> <li>Compensation for private medical insurance</li> <li>Co-working and gym/sports reimbursement</li> <li>Budget for education</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent</li> </ul><p></p><p></p><p><em>By applying for this position, you agree with the CloudLinux Privacy Policy - </em><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external">https://cloudlinux.com/privacy-policy</a><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external"></a><em>and give us your consent to maintain and process your personal data in this respect. Please read our Privacy Policy for more information - </em><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external">https://cloudlinux.com/privacy-policy</a><em> .</em></p>
                 </details>
                 </td>
             </tr>,<tr>
