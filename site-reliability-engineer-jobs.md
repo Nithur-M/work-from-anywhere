@@ -38,7 +38,7 @@
 <p><strong>You have:</strong></p>
 <ul>
 <li>Experience in designing multi-tenant database solutions, designing for failover, fault-tolerance, and disaster recovery</li>
-<li>Experience with orchestrating stateful workloads at scale or having used a Postgres operator like the ones from <a href="https://github.com/CrunchyData/postgres-operator">Zalando</a> or <a href="https://github.com/CrunchyData/postgres-operator">Crunchy</a> is a plus</li>
+<li>Experience with orchestrating stateful workloads at scale or having used a Postgres operator like the ones from <a href="https://github.com/zalando/postgres-operator">Zalando</a> or <a href="https://github.com/CrunchyData/postgres-operator">Crunchy</a> is a plus</li>
 <li>Experience with tools in the Postgres ecosystem like <a href="https://github.com/pgbackrest/pgbackrest">pgbackrest</a>, <a href="https://pgbarman.org/">barman</a>, <a href="https://github.com/zalando/patroni">Patroni</a>, <a href="https://github.com/sorintlab/stolon">Stolon</a>, etc</li>
 <li>5+ years experience in SRE/DevOps/Cloud Infrastructure</li>
 <li>3+ years of experience in building with Golang</li>
