@@ -1,5 +1,72 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>DuckDuckGo</h5>
+                    <h3>Senior Software Engineer, Windows Desktop App (Remote)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://duckduckgo.recruitee.com/o/windows-desktop" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Hi, we’re DuckDuckGo, the Internet privacy company for everyone who wants to take back their privacy now. For over a decade, we've been building our all-in-one product, developing new privacy technology, and working with policymakers to make online privacy simple and accessible for all.  <br /></p>
+<p><br /></p>
+<p>Our browsers and extensions have been downloaded over 250 million times with our built-in private search engine, which has delivered over 100 billion searches and is the 2nd largest search engine on mobile in the United States and 17 other countries, including the United Kingdom, Canada, Australia, Germany, Poland, and Spain. Our private search engine is also 3rd in market share in the U.S. and over 20 major markets. Oh, and we've been profitable since 2014, with annual revenue exceeding $100 million!</p>
+<p><br /></p>
+<p>The DuckDuckGo browser’s uniquely comprehensive privacy protections are used by tens of millions of people to protect their everyday online activities on <a href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/" rel="noopener">Mac</a>, <a href="https://spreadprivacy.com/windows-browser-open-beta/" rel="noopener">Windows</a>, <a href="https://spreadprivacy.com/duckduckgo-privacy-browser-ios14/" rel="noopener">iOS</a>, and <a href="https://spreadprivacy.com/introducing-app-tracking-protection/" rel="noopener">Android</a>, from searching to browsing, emailing, and more. We also offer <a href="https://spreadprivacy.com/meetprivacypro/" rel="noopener">Privacy Pro</a>, a three-in-one subscription service that includes a VPN, Personal Information Removal, and Identity Theft Restoration.</p>
+<p><br /></p>
+<p>We’re looking for a <strong><strong>Senior Software Engineer, Windows Desktop App</strong></strong> to help shape our all-in-one privacy solution and join our mission to show the world that protecting your privacy online can be simple.  </p>
+<p><br /></p>
+<p><strong>The Opportunity</strong> </p>
+<p>In this role, you will work on the team responsible for launching our first ever DuckDuckGo Privacy App for Windows. You'll collaborate with Product Managers, Designers, and Engineers across Native Apps to craft a world-class browser with embedded privacy features that will revolutionize the way people search, surf, and exist online. </p>
+<p><br /></p>
+<p>You will be critical to the successful launch of this product and responsible for taking pieces of the puzzle and autonomously building solutions to get us closer to our first release. You will help define the roadmap, take ownership of significant application features and experiment with ways to improve them. </p>
+<p><br /></p>
+<p>You will lay the foundations of what will become one of DuckDuckGo's flagship products and critical levers for growing privacy online. </p>
+<p><br /></p>
+<p><strong>What You Will Bring to DuckDuckGo</strong> </p>
+<ul><li>Experience implementing ideas from scratch, owning major application features, and taking responsibility for their maintenance and improvement over time.</li><li>Experience participating in technical architecture decisions for complex products, essentially shaping the software architecture of a consumer product.</li><li>Experience building at least one desktop application (ideally with WPF, UWP, WinUI, WinForms, or other relevant .NET UI).</li><li>An advanced level of programming expertise, with knowledge of C#. We currently use .NET 6.</li><li>A significant level of experience in building customer facing applications, including crafting user interfaces.<br /></li><li>Deep understanding of software design patterns such as MVVM, MVP, etc.</li><li>Event-driven programming (e.g., using Rx.NET) experience is considered an advantage.</li></ul>
+<p><br /></p>
+<p><strong>How We Will Support You </strong> </p>
+<p>Our core values -- build trust, question assumptions, and validate direction -- underpin how we work day-to-day and the support we give our team members. We strive to empower our team members to be self-directed and self-motivated in their work.  </p>
+<p><br /></p>
+<ul><li><strong>Remote First, Always</strong>: We've always been a fully distributed company with team members all over the world. We trust you to get your work done wherever, whenever.</li><li><strong>Commitment to Personal Growth:</strong> Every team member has an annual budget of $1,250 USD to invest in their professional development. Every team member also has a dedicated Career Advisor, who serves as a guide to help you develop your strengths, identify your motivations, and understand your opportunities for growth.</li><li><strong>Leadership:</strong> We have many different types of leaders and possible combinations of leadership roles, so you can grow your career in a way that aligns best with your personal goals. You can seek additional leadership roles by being directly responsible for projects, taking ownership of areas of the company, developing and maintaining internal processes, or pursuing advisory roles.</li><li><strong>Work/Life Balance: </strong>Team members have the freedom and flexibility to organize their own work schedules. We want you to thrive both in and out of the office. We trust you to use good judgment and take the time off that you need to bring your best self to work.  </li></ul>
+<p><br /></p>
+<p>We also offer <strong>paid parental leave, a co-working stipend, office setup reimbursement, </strong>and<strong> a wellness stipend.</strong> More support resources can be found in our, <u><a href="https://duckduckgo.com/assets/hiring/team_support_guide.pdf" rel="noopener">Team Member Support Guide</a></u>, which explains how we make your well-being a priority. </p>
+<p><br /></p>
+<p>For more information on how we collaborate worldwide, from leadership in our relatively flat organization to start-to-finish ownership, check out <u><a href="https://duckduckgo.com/how-we-work" rel="noopener">DuckDuckGo Culture: How We Work.</a></u> </p>
+<p><br /></p>
+<p><strong>Compensation</strong> </p>
+<p>Annual compensation: <strong>$176,000</strong> <strong>USD</strong> and stock options. Compensation is the same within a professional level, regardless of geographic location or functional area, and the compensation for each professional level is transparent across the organization.</p>
+<p><br /></p>
+<p><strong>Hiring Process</strong> </p>
+<p>Hiring works best when it's a two-way street. Learn how we help you get to know DuckDuckGo and envision your future role here. Find out more about <u><a href="https://duckduckgo.com/how-we-hire" rel="noopener">how we hire</a></u>. </p>
+<p><br /></p>
+<p><strong>Diversity, Equity, and Inclusion</strong> </p>
+<p>DuckDuckGo provides equal work opportunities to all team members and applicants<u>,</u> and it prohibits discrimination and harassment of any type on the basis of race, color, ethnicity, caste, religion, age, sex (including pregnancy), national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by our policies or federal, state, or local laws.</p>
+<p><br /></p>
+<p>We want to ensure that our hiring process is accessible. If you need reasonable accommodation for any part of the application process because of a medical condition or disability, please send an email to <u><a rel="noopener">careers@duckduckgo.com</a></u> to let us know the nature of your request.  </p>
+<p><br /></p>
+<p>If you think you might thrive in this environment, we would love to hear from you. </p>
+<p><br /></p>
+<p><strong>Please note that:</strong> </p>
+<ul><li><p>Sometimes we meet up! Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.</p></li><li>While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week. </li><li>A successful candidate will be subject to a background check and must receive satisfactory results of the same, as a condition of joining the team. </li><li>By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.</li></ul>
+<p><br /></p>
+<p>#INT</p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1428393724527190022/4mt5PACL_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -749,7 +816,7 @@
 </ul>
 <p><strong>What we are looking for in you</strong></p>
 <ul>
-<li>Professional or academic software delivery using Python or Golang</li>
+<li>Professional or academic software delivery using Python</li>
 <li>Exceptional academic track record from both high school and university</li>
 <li>Undergraduate degree in a technical subject or a compelling narrative about your alternative chosen path</li>
 <li>Confidence to respectfully speak up, exchange feedback, and share ideas without hesitation</li>
@@ -1630,6 +1697,59 @@
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
+                    <h3>System Software Engineer - GCC/LLVM compiler, tooling, and ecosystem</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/6302748" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>We are building a team to focus on the modern C and C++ programming language and their ecosystem on Ubuntu. They will deliver the best possible GCC and LLVM runtimes, developer experience and supporting tooling in Ubuntu. They will&nbsp; ensure that the cutting edge of modern programming languages innovation is available to Ubuntu users, to lay the foundation for future inventions and open source communities.</p>
+<p>This is an exciting opportunity for a software engineer with a hard core passion for compilers, runtimes and tool chains. You will have excellent competencies in modern C/C++, Linux distributions, software architectures and&nbsp; open source software.&nbsp; Come build a rewarding, meaningful career working with the best and brightest people in open source technology at Canonical, a growing international software company and make Ubuntu the best operating system to develop and run C/C++ applications in the cloud, in datacenters, in containers, directly on the operating system, and anywhere Ubuntu can run.</p>
+<p>The Ubuntu Foundations Team delivers the core Ubuntu system, the base for the entire Ubuntu family of products and services. Ubuntu strives to deliver the latest-best free software components, in an easy to use and highly reliable form. We build on the technical excellence of keystone open source software like GNU and Debian and bring additional focus and shape to the solutions we offer the industry.</p>
+<p>Part of the Ubuntu Foundations team, you will work on one of the most critical toolchains involved in the making of Ubuntu and the &nbsp; pillars of the modern software ecosystem. You will leverage your competencies&nbsp; and experience&nbsp; in C, C++ to make Ubuntu the best platform to develop, distribute and consume software built with GCC and LLVM. You will be passionate about the future of C, C++, of Ubuntu, mindful of the dynamics of the open-source ecosystem, and equally aware of the needs of large but innovative organizations. You will drive the best in class integration in Ubuntu from desktop to cloud in a secure, reliable, performing, efficient and future-proof fashion.</p>
+<p>You will be discussing design with other team members , mentor less senior engineers, and participate in code reviews and design reviews.&nbsp; You will also be working with other teams to ensure architecture decisions improve the overall performance and experience of Ubuntu. Your role as part of the Ubuntu Foundations team will have an impact on every aspect of Ubuntu from Desktop, Server, Ubuntu Core and also cloud images.</p>
+<h3>What you will do</h3>
+<ul>
+<li>Collaborate proactively with a distributed team</li>
+<li>Select, integrate and package best-of-breed tooling with Ubuntu to improve developer and operator experience with GCC and LLVM</li>
+<li>Write high-quality code to create new features</li>
+<li>Debug issues and produce high-quality code to fix them</li>
+<li>Review code produced by other engineers</li>
+<li>Discuss ideas and collaborate on finding good solutions</li>
+<li>Work from home with global travel 2 to 4 weeks a year for internal and external events</li>
+</ul>
+<h3>Who you are</h3>
+<ul>
+<li>You love technology and working with brilliant people</li>
+<li>You are passionate, curious, flexible, articulate, and accountable</li>
+<li>You are a long-time Linux user</li>
+<li>You have experience in packaging software for Debian and Ubuntu</li>
+<li>You have relevant GCC or LLVM experience, ideally in the world of cloud-native software and Linux</li>
+<li>You have a Bachelors or equivalent in Computer Science, STEM or similar degree</li>
+<li>You value soft skills and are passionate, enterprising, thoughtful, and self-motivated</li>
+</ul>
+<p>Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, the world’s best free software platform. Our services help businesses worldwide reduce costs, improve efficiency and enhance security with Ubuntu.</p>
+<p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your <a href="https://canonical.com/careers/diversity/identity">identity</a> we will give your application fair consideration.</em></p>
+<p>#LI-remote</p><p>Requisition ID: 933</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
                     <h3>System Software Engineer - Rust compiler, tooling, and ecosystem</h3>
                 </td>
                 <td width="300">
@@ -1870,30 +1990,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Principal Software Engineer for Imunify360 (worldwide remote, work anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/2A17AF9A20" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>CloudLinux is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person in our team supports each other and does what we can to ensure we all are successful. </p><p>We are looking for a Principal Software Enginner to join our dynamic team at Imunify. You will have the opportunity to work on cutting-edge projects that are pushing the boundaries of enterprise cyber security applications. </p><p>Imunify Security Suite is our innovative security solution designed specifically for shared and VPS/Dedicated servers. The automated, easy-to-use solution with the six-layer approach to security delivers comprehensive and complete attack prevention. </p><p>Check out our website for more information about our Imunify Product <a href="https://www.imunify360.com/" target="_blank" rel="nofollow noreferrer noopener" class="external">https://www.imunify360.com/</a></p><p></p><p><strong>Key Responsibilities:</strong></p><ul> <li>Architect, implement, and oversee server-side solutions utilizing Linux networking technologies with strong emphasis on optimization.	</li> <li>Lead the development of high-quality software products, ensuring adherence to coding standards and Agile methodologies.</li> <li>Drive collaboration among development teams, testers, and stakeholders to achieve sprint objectives, providing guidance on technical priorities.</li> <li>Provide accurate estimations of project effort during sprint planning, evaluate open-source alternatives, and offer strategic recommendations.</li> <li>Develop and maintain comprehensive automated tests for critical software components to uphold code quality and reliability.</li> <li>Champion process improvements, including coding practices, standards, and tooling, to enhance team productivity and efficiency.</li> <li>Demonstrate proactive leadership in task prioritization, focusing on value delivery and meeting project deadlines.</li> <li>Facilitate design and peer code reviews, offering expert insights and constructive feedback to foster a culture of excellence.</li> <li>Conduct thorough technical root cause analysis and debugging to address software defects and operational challenges effectively.</li> <li>Foster continuous self-improvement among team members, promoting the development of technical and communication skills.</li> </ul><h3>Requirements: </h3><p><a href="https://cloudlinux.com/privacy-policy" rel="nofollow noreferrer noopener" class="external"></a><strong>To thrive in this role, we are looking for someone who has:</strong></p><ul> <li>8 years of progressive experience in software development, with a strong proficiency in either Go or Python.</li> <li>Proven extensive hands-on experience in building robust server-side applications and services using Go or Python, coupled with expertise in performance tuning, web servers preferably.</li> <li>Knowledge and experience in network and web security is a huge plus.</li> <li>Deep understanding of Linux network subsystem.</li> <li>Hands-on experience in Linux (experience with popular distributions such as CentOS and Debian).</li> <li>Deep knowledge and practical experience in network security solutions.</li> <li>Knowledge and experience with Bash, C, and SQL is a plus.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.</li> <li>Compensation for private medical insurance. </li> <li>Co-working and gym/sports reimbursement.</li> <li>Budget for education.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p></p><p><em>By applying for this position, you agree with the </em><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external">CloudLinux Privacy Policy</a><em> - </em><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external"></a><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external"></a><em>and give us your consent to maintain and process your personal data in this respect. Please read </em><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external">Privacy Policy </a><em>for more information.</em><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external"></a></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://z-p3-scontent.fcmb7-1.fna.fbcdn.net/v/t39.30808-1/273499217_5218973671480777_3308731762242867065_n.jpg?stp=dst-jpg_p480x480&_nc_cat=110&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=3DMJ3XqIYG0Q7kNvgGKFDdD&_nc_ht=z-p3-scontent.fcmb7-1.fna&oh=00_AYCFwVF3LAhXkdLkiRsiYs5IpriXQ9zO7QmKQWcwuQQDIQ&oe=66AAD238" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -1922,7 +2018,7 @@
                 </td>
                 <td width="300">
                     <h5>Xapo Bank</h5>
-                    <h3>Senior Software Engineer - FCP (Remote - Work from Anywhere)</h3>
+                    <h3>Software Engineer - FCP (Remote - Work from Anywhere)</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -1945,9 +2041,9 @@
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p style=&quot;text-align: left;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Although we are headquartered in Gibraltar, this is a full time, 100% remote position&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 500;&quot;&gt;Work from anywhere!&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Position Overview:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;We’re looking for a Senior Software Engineer to join our engineering function. At Xapo, we are building truly cross-functional teams with full ownership of design, architecture, building, testing, delivery, data, and operations.&lt;/p&gt;
+&lt;p&gt;We’re looking for a seasoned Software Engineer to join our engineering function. At Xapo, we are building truly cross-functional teams with full ownership of design, architecture, building, testing, delivery, data, and operations.&lt;/p&gt;
 &lt;p&gt;You will collaborate closely with fellow team members from the product, apps, design, and QA communities of practice. You will be part of the product team (we call them SATs, the Stream Aligned Teams, as in the Team Topologies) in charge of the Financial Crime Prevention products.&lt;/p&gt;
-&lt;p&gt;As a Senior Software Engineer, you will develop a high-impact service, provide guidance and coaching around technical good practices, and play an active, critical role in the Development Community of practice. You will shape architectural and technical patterns used in the company to solve the problems for operational teams, improve UX, and cause a WOW effect in the eyes of our Members. With that in mind, you will have an immense impact on how the future of finance looks.&lt;/p&gt;
+&lt;p&gt;As a Software Engineer, you will develop a high-impact service, provide guidance and coaching around technical good practices, and play an active, critical role in the Development Community of practice. You will shape architectural and technical patterns used in the company to solve the problems for operational teams, improve UX, and cause a WOW effect in the eyes of our Members. With that in mind, you will have an immense impact on how the future of finance looks.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Our main tech stack includes:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;AWS for all of our Infrastructure&lt;/li&gt;
