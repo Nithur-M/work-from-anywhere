@@ -232,30 +232,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1382655628523364355/MWPIbbID_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CoverGo</h5>
-                    <h3>Digital Insurance Project Manager (Fully Remote)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/covergo/j/11759005CD" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Top 3 Reasons To Join Us</strong></p><ul> <li>Competitive Salary</li> <li>100% Remote</li> <li>Working on the latest tech for the Insurtech Market Leader</li> </ul><p><strong>About Us</strong></p><p>At CoverGo, our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone.</p><ul> <li>We are a leading global no-code insurance platform for health, life, and P&amp;C</li> <li>We’re the winner of the Insurtech of the Year in all of Asia and other awards globally</li> <li>We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more</li> <li>We're an international, diverse team of over 120 people with 30 nationalities and team members working remotely from all over the world</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors</li> <li>We have a global presence in Asia, EMEA and the Americas</li> <li>We’ve grown our annualized revenue by over 30x since January 2021</li> <li>We’re constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world and a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world</li> </ul><p><strong>About the Role</strong></p><p>As a Digital Insurance Project Manager, your core responsibility will be to oversee and manage the implementation of new and/or existing projects within CoverGo's operations. This role presents an exciting opportunity for an individual with a strong drive to lead transformative projects in the insurtech industry. </p><p><strong>What You Will Do</strong></p><ul> <li>Engage and manage relationships with clients and stakeholders</li> <li>Lead project planning sessions with the internal team and client's staff</li> <li>Support solution proposals for client pursuits, proposals, and PoCs</li> <li>Participate in proposal and POC processes (i.e. design, submission, and review)</li> <li>Support the creation of contracts and related communication with clients</li> <li>Identify and help secure growth opportunities for existing clients</li> <li>Manage project progress and adapt work as required</li> <li>Ensure projects meet deadlines</li> <li>Manage relationships with clients and stakeholders</li> <li>Host regular/weekly project review and create reports with key metrics about team and project status using company standard metrics</li> <li>Oversee all incoming and outgoing project documentation</li> <li>Identify and manage issues, risks, assumptions, and dependencies</li> <li>Continuously optimize and improve processes and the overall approach where necessary</li> </ul><p><strong>What We Need</strong></p><ul> <li>Bachelor's degree in computer science or a related technical field is a plus</li> <li>5+ years experience as a Project Manager</li> <li>Insurance domain knowledge is a must</li> <li>Strong client facing experience is a must</li> <li>Technical skills are a plus</li> <li>Has experience seeing projects through the full life cycle</li> <li>Excellent analytical skills and problem-solving skills</li> <li>Strong interpersonal skills and extremely resourceful</li> <li>Proven ability to complete projects according to outlined scope, budget, and timeline</li> <li>Self-motivated and able to work independently</li> <li>Able, willing, and excited to work in a fast-paced collaborative startup environment</li> <li>Must be based in France and must be fluent in French</li> </ul><p><strong>Why You'll Love Working Here</strong></p><ul> <li>Fully Remote</li> <li>Flexible Leave</li> <li>International Environment</li> <li>Competitive renumeration package</li> <li>Performance Bonus</li> <li>Company activities and events</li> <li>Learning and development plan</li> <li>Remote work allowance</li> </ul><p><strong>CoverGo Company </strong><a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"><strong>Video</strong></a></p><p>By submitting your application, you confirm that you have read, understood, and accepted the content of CoverGo’s <a href="https://apply.workable.com/covergo/gdpr_policy?lng=en" target="_blank" rel="nofollow noreferrer noopener" class="external">Privacy Notice</a> and you consent to the processing of your data as part of this application.</p><p><a href="https://www.youtube.com/watch?v=YI0ezLxvFvA" rel="nofollow noreferrer noopener" class="external"></a></p><h3>Requirements: </h3><h3>Benefits: </h3>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://media.licdn.com/dms/image/C4E0BAQEaJsLubyO-AA/company-logo_200_200/0/1630591240152/webfxinc_logo?e=2147483647&v=beta&t=mkc8r0aeeGBHIC7BLKk7r18oCDh3xnykU31_6dhVPdQ" width="38px" height="auto">
                 </td>
                 <td width="300">
