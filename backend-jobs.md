@@ -4,7 +4,7 @@
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
-                    <h3>Lead Backend Software Engineer - Stores</h3>
+                    <h3>Backend Software Engineer - Stores</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -21,7 +21,7 @@
                 <details><summary>Description</summary>
                 
       <h2><strong>Summary</strong></h2>
-<p>This is an exciting opportunity for an exceptionalxperienced software engineer passionate about open source software, Linux, and Web Services at scale. Come build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, a growing international software company.</p>
+<p>This is an exciting opportunity for an exceptional software engineer passionate about open source software, Linux, and Web Services at scale. Come build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, a growing international software company.</p>
 <p>Canonical's Store team develops and operates a large system of backend services that power the <a href="https://snapcraft.io/store">Snap Store</a> and <a href="https://charmhub.io/">Charmhub.io</a> marketplaces. Our services are built primarily in Python, with a bit of Golang.</p>
 <p>We have some exciting challenges ahead including continuing to scale our production architecture, significantly expanding the range of software we can deliver through the system powering our marketplaces, and enhancing our offering for the booming world of IoT and for large Enterprise solutions.</p>
 <p>If you have a passion for clean APIs, have a bias towards shipping, and believe that automated tests are the key to higher velocity and reliability, you'll fit right in.</p>
