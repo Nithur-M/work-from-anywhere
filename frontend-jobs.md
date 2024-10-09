@@ -140,7 +140,7 @@
 &lt;div&gt;&amp;nbsp;&lt;/div&gt;
 &lt;div&gt;Read more about &lt;a class=&quot;postings-link&quot; href=&quot;https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view&quot;&gt;What to Expect &lt;/a&gt;through our Recruiting process.&lt;/div&gt;
 &lt;div&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div&gt;We don&#39;t want you to miss any communication from us! To ensure you receive updates on your application, please add jobs@10up.com to your contacts list! #LI-Remote&lt;/div&gt;
+&lt;div&gt;We don&#39;t want you to miss any communication from us! To ensure you receive updates on your application, please add jobs@10up.com to your contacts list! #LI-Remote #LI-DNI&lt;/div&gt;
 &lt;/div&gt;
 &lt;div&gt;&amp;nbsp;&lt;/div&gt;
                 </details>
