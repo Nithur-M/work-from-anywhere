@@ -10,7 +10,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -52,6 +52,87 @@ qualifications, skills test performance, geographic location, and
 seniority of the position offered. Outside of California, New York, 
 Washington, and Colorado compensation may fall outside the above ranges.</p>
 <img src="https://remotive.com/job/track/1680495/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/11767950?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Status</h5>
+                    <h3>Web Developer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=6242476&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of Apps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol, the p2p communication layer for Web3.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception. Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <p><strong>Who are we?</strong></p>
+<p>IFT is a pioneering force in the Web3 ecosystem, committed to the development, adoption, and accessibility of solutions to digital age problems; guided by our principles: liberty, censorship resistance, security, privacy, and inclusivity. Our mission is to build public goods to safeguard civil liberties in the digital age.</p>
+<p>&nbsp;</p>
+<p><strong>The role</strong></p>
+<p>As a Web Developer at IFT, you will be responsible for As a Web Developer, you will be responsible for the development and technical maintenance of various web-based projects in the studio. Your role will involve decision-making for code architecture, writing tests, choosing the right technology stack, and any other related tasks. You will work closely with the development team, project management, studio lead, and design team to bring our web projects to life.</p>
+<p>&nbsp;</p>
+<p><strong>Key responsibilities:</strong>&nbsp;</p>
+<ul>
+<li>You will take care of all technical aspects of all web projects (from development and testing to deployment and maintenance)</li>
+<li>You will be developing and implementing websites, internal tools and our design systems implementation in React.</li>
+<li>You will co-write documentation for all the above mentioned products/projects</li>
+<li>You will be responsible for maintaining our open-sourced codebases on Github.</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>You will ideally have:&nbsp;</strong></p>
+<ul>
+<li>Proficiency in Design Tools: Extensive experience with design tools that cater to UX, UI, and micro-interactions, such as Figma and Framer.</li>
+<li>Frontend and Backend Expertise: Experience in implementation of frontend libraries and design systems (ReactJS, NextJS), and backend (NodeJs, NestJS), all in Typescript</li>
+<li>Software Architecture Knowledge: Solid understanding of software architecture principles, ensuring scalable and maintainable code.</li>
+<li>DevOps and Deployment Experience: Hands-on experience with Git, Docker, coupled with expertise in deployment platforms like Vercel.</li>
+<li>MDX-Based Content Management: Knowledgeable in managing content using MDX with Docusaurus.</li>
+<li>Experience with JAMstack: Familiarity with JAMstack architecture, including static site generators, headless CMS, and modern web technologies.</li>
+<li>Alignment with our principles: Strong alignment with our core principles: <a href="https://status.app/manifesto">https://status.app/manifesto</a></li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Bonus points:&nbsp;</strong></p>
+<ul>
+<li>You are comfortable working remotely and asynchronously</li>
+<li>You have experience working for an open-source organisation</li>
+<li>You have exposure to creative coding (processing, openframeworks, WebGL, writing shaders, p5js)</li>
+</ul>
+<p><em>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</em></p>
+<p>&nbsp;</p>
+<p><strong>Hiring process:</strong></p>
+<ol>
+<li>Interview with our People Ops team</li>
+<li>Interview with Jerry</li>
+<li>Interview with Jinho</li>
+<li>Assessment<a href="https://docs.google.com/document/d/1-KCt5RPaSZ-E1h8CRJUHw8jDfAZThVombgNLdARdpds/edit"> </a></li>
+<li>Interview with Nick</li>
+</ol>
+<p><em>The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline.&nbsp;</em></p>
+<p><strong><br></strong><strong>Compensation</strong></p>
+<p>We are happy to pay in any mix of fiat/crypto.</p>
+
+    
+
+    
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -534,6 +615,30 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 </td>
                 <td width="300">
                     <h5>CloudLinux</h5>
+                    <h3>Senior Python Developer (worldwide remote, work anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/B96DBB2356" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>AlmaLinux Team is offering you an opportunity to improve one of the well-known open-source projects — AlmaLinux OS. AlmaLinux OS is 1:1 binary compatible with RHEL and the most popular CentOS replacement. It’s completely free and driven by the community. There are infrastructure projects that you are going to develop and contribute to. AlmaLinux Build System is one of these. It includes several stages, from building and releasing a package to automating the process and enhancing its features. The Team invites you to work closely with the community on such valuable and open projects.</p><p>Moreover, as part of this expert team, you will work on interesting and ambitious internal projects.<br><br><strong>What you will do</strong></p><ul> <li>You will be involved in designing the AlmaLinux OS <a href="https://github.com/AlmaLinux/build-system" rel="nofollow noreferrer noopener" class="external"><u>Build automation system</u></a> and other open-source projects.</li> <li>You will also work on other open-source projects that are part of the ecosystem: <a href="https://pulpproject.org/" rel="nofollow noreferrer noopener" class="external">Pulp</a>, <a href="https://gitea.io/ru-ru/" rel="nofollow noreferrer noopener" class="external"><u>Gitea</u></a>, <a href="https://github.com/rpm-software-management/mock" rel="nofollow noreferrer noopener" class="external">Mock</a>, <a href="https://github.com/ansible/ansible" rel="nofollow noreferrer noopener" class="external">Ansible</a>, etc.</li> </ul><ul><li>You will be an active member of the AlmaLinux community.</li></ul><p><strong><br>Technology Stack</strong></p><ul> <li>Python 3;</li> <li>MongoDB, PostgreSQL, SQLAlchemy, Redis;</li> <li>FastAPI, Flask, Celery;</li> <li>VueJS, Quasar framework.</li> </ul><h3>Requirements: </h3><ul> <li>5+ years of Python programming experience.</li> <li>GNU/Linux operating system and shell scripting experience.&nbsp;&nbsp;</li> <li>Experience with git-based development processes.&nbsp;&nbsp;</li> <li>English - intermediate and higher.</li> </ul><p></p><p><strong>Will be a plus:</strong></p><ul> <li>CI/CD (e.g. Jenkins, GitHub Actions).</li> <li>AWS S3/EC2, Azure experience.</li> <li>Terraform/Ansible.</li> <li>Knowledge of RPM/DEB packages build process (mock, pbuilder, etc.).</li> <li>Experience with Django.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.</li> <li>Compensation for private medical insurance. </li> <li>Co-working and gym/sports reimbursement.</li> <li>Budget for education.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p></p><p><em>By applying for this position, you agree with the </em><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external">CloudLinux Privacy Policy</a><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external">https://cloudlinux.com/privacy-policy</a><em>  - </em><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external"></a><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external"></a><em>and give us your consent to maintain and process your personal data in this respect. Please read </em><a href="https://cloudlinux.com/privacy-policy" target="_blank" rel="nofollow noreferrer noopener" class="external">Privacy Policy </a><em>for more information.</em></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
                     <h3>Senior Go Developer for CloudLinuxOS (worldwide remote, work anywhere)</h3>
                 </td>
                 <td width="300">
@@ -694,30 +799,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div><i style="font-size: 18px">Do you want to earn a salary in USD?&nbsp;</i></div><div><i style="font-size: 18px">Would you like to work from wherever you want?</i></div><div><i style="font-size: 18px">Would you like to be a part of the leading next-gen software developers?&nbsp;</i></div><div><br></div><div><b style="font-size: 24px">Hi, you finally found us!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div><b style="font-size: 24px">Why work at Blue Coding?</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>At Blue Coding we specialize in hiring excellent developers and amazing people from all over Latin America and other parts of the world. For the past 10 years, we’ve helped cutting-edge companies in the United States and Canada -both large and small, build great development teams and develop great products. Online shops, digital agencies, SaaS providers, and software consulting firms are a few of our clients. Our team of over 100 engineers is distributed in more than 10 countries across the Americas. We are a fully remote company working with a wide array of technologies and have expertise in every stage of the software development process.&nbsp;&nbsp;</div><div><br></div><div>Our team is highly connected, united, and culturally diverse, and our collaborators are involved in many initiatives around the world, from wildlife preservation to volunteering at local charities. We also participate in group activities like movie nights, trivia, and meme competitions. We stand for honesty, fairness, respect, efficiency, hard work, and cooperation.</div><div><br></div><div><b style="font-size: 24px;">What are we looking for?</b></div><div><br></div><div>In this opportunity, we are seeking a Senior Full-Stack Developer to work with one of our foreign clients, an independent, non-profit global research organization that turns big ideas into action at the nexus of environment, economic opportunity, and human well-being. </div><div><br></div><div>In this role, you will collaborate with the data team to develop user-facing geospatial applications, data dashboards, and decision support tools to help cities address urban heat stress and access relevant data and knowledge to implement effective cooling infrastructures. You will work closely with product, design, and engineering teams to transform insights collected through discovery interviews with different urban heat actors and design wireframes tested with users into deployed live applications.</div><div><br></div><div><b>This is a part-time role.</b></div><h3>Here are some of the exciting day-to-day challenges you will face in this role:</h3><li>Build and demonstrate rapid prototypes and identify technical opportunities for scaling them: Data dashboards, geospatial applications, and decision-support tools.</li><li>Engage with the Data Lab engineering team on architectural decisions: Data storage, API services, applications deployment.</li><li>Work with product and design to deliver features based on design requirements and user research findings</li><li>Work closely with researchers to transform their research findings and generated datasets into user-facing applications</li><li>Integrate datasets and indicators generated by data scientists into our database with respect to APIs requirements and formats</li><li>Contribute to maintaining Cities Heat Data Catalogue</li>,<h3>You will shine if you have these:</h3><li>Strong hands-on experience with Node.js, Typescript, Next.js</li><li>Strong hands-on experience with Javascript, HTML/CSS, React</li><li>Experience with Javascript testing frameworks such as Jest and Cypress</li><li>Experience with API development using FastAPI or comparable Javascript framework (hapi, nestjs)</li><li>Experience with GIS web application development such as Leaflet, ArcGIS, Mapbox, and cloud-native geospatial data formats (Cloud-Optimized GeoTIFF, GeoParquet, STAC...)</li><li>Experience with SQL (PostgreSQL) and NoSQL (Redis) databases.</li><li>Experience with cloud services such as AWS (ECS, Lamba, SQS, S3, etc..)</li><li>Experience in building maintainable and reliable frontend and backend software in agile environments</li><li>Experience with continuous integration and deployment</li><li>Excellent communication and interpersonal skills</li><li>Self-motivated learner with a willingness and ability to take on new challenges</li><li>Interest in working for a mission-driven environmental organization</li>,<h3>It doesn’t hurt if you also have:</h3><li>Bachelor’s degree in computer science or a related field</li><li>Experience and desire to work with geospatial data systems and large-scale data analysis</li><li>Experience working across a matrixed team</li><li>Passion about the work that you are doing</li><li>Leadership experience, ability to lead and support other engineers</li>,<h3>Here are some of the perks we offer you:</h3><li>Salary in USD</li><li>Flexible schedule (within US Time zones)</li><li>100% Remote</li><div><b style="font-size: 24px">Hey, you are still here!</b><span style="font-size: 24px">&nbsp;</span></div><div><br></div><div>So, let us ask a few questions. Do you like working in a friendly environment? Are you fluent in English? Do you have a strong work ethic, are detail-oriented and have an ownership mentality? And most importantly do you love music and puppies? If so, then what are you waiting for? Come join our team and become part of this awesome company! We will be expecting you.</div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/74517090?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Manta Network</h5>
-                    <h3>typescript developer（mandarin speaking）</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/MantaNetwork/de1d0c32-b88f-494c-b12c-75abc20686c4" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><span style="font-size: 15px;">岗位职责:</span></div><div><span style="font-size: 15px;">- 编写高质量的 TypeScript 脚本和链上合约交互。</span></div><div><span style="font-size: 15px;">- 使用 Solidity 编写、测试和部署智能合约。</span></div><div><span style="font-size: 15px;">- 服务器部署及管理，熟练使用 Docker 进行应用容器化。</span></div><div><span style="font-size: 15px;">- 与其他开发人员合作，将智能合约集成到应用程序中。</span></div><div><span style="font-size: 15px;">- 跟踪区块链技术的最新发展和智能合约的最佳实践。</span></div><div><span style="font-size: 15px;">岗位要求:</span></div><div><span style="font-size: 15px;">- 熟悉 TypeScript。</span></div><div><span style="font-size: 15px;">- 了解 Solidity 语言，熟悉 EVM 原理，能够熟练使用 TypeScript 编写脚本和合约交互。</span></div><div><span style="font-size: 15px;">- 具备链上安全意识，熟悉常见的安全漏洞。</span></div><div><span style="font-size: 15px;">- 熟悉服务器部署，具备使用 Docker 进行应用容器化的经验。</span></div><div><span style="font-size: 15px;">- 工作地点在马来西亚，可以使用普通话沟通。</span></div><div><span style="font-size: 15px;">加分项:</span></div><div><span style="font-size: 15px;">- 曾参与过开源的区块链项目，包括但不限于钱包、DAPP、交易所等。</span></div><div><span style="font-size: 15px;">- 熟练使用 graphql，dune 等链上数据分析工具</span></div><div><span style="font-size: 16px;">注意：</span></div><div><span style="font-size: 16px;">前期（至少3-6个月）工作形式未remote，后期可能会转为hybrid</span></div><div><span style="font-size: 15px;">岗位职责:</span></div><div><span style="font-size: 15px;">- 编写高质量的 TypeScript 脚本和链上合约交互。</span></div><div><span style="font-size: 15px;">- 使用 Solidity 编写、测试和部署智能合约。</span></div><div><span style="font-size: 15px;">- 服务器部署及管理，熟练使用 Docker 进行应用容器化。</span></div><div><span style="font-size: 15px;">- 与其他开发人员合作，将智能合约集成到应用程序中。</span></div><div><span style="font-size: 15px;">- 跟踪区块链技术的最新发展和智能合约的最佳实践。</span></div><div><span style="font-size: 15px;">岗位要求:</span></div><div><span style="font-size: 15px;">- 熟悉 TypeScript。</span></div><div><span style="font-size: 15px;">- 了解 Solidity 语言，熟悉 EVM 原理，能够熟练使用 TypeScript 编写脚本和合约交互。</span></div><div><span style="font-size: 15px;">- 具备链上安全意识，熟悉常见的安全漏洞。</span></div><div><span style="font-size: 15px;">- 熟悉服务器部署，具备使用 Docker 进行应用容器化的经验。</span></div><div><span style="font-size: 15px;">- 工作地点在马来西亚，可以使用普通话沟通。</span></div><div><span style="font-size: 15px;">加分项:</span></div><div><span style="font-size: 15px;">- 曾参与过开源的区块链项目，包括但不限于钱包、DAPP、交易所等。</span></div><div><span style="font-size: 15px;">- 熟练使用 graphql，dune 等链上数据分析工具</span></div><div><span style="font-size: 16px;">注意：</span></div><div><span style="font-size: 16px;">前期（至少3-6个月）工作形式未remote，后期可能会转为hybrid</span></div>
                 </details>
                 </td>
             </tr></table>
