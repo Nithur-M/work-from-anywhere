@@ -72,6 +72,74 @@
                 </td>
                 <td width="300">
                     <h5>10up</h5>
+                    <h3>Freelance | Contract Senior Front End Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.greenhouse.io/10up/jobs/4173617008" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;Location: Remote - EMEA Team&lt;/strong&gt; (Open to applicants located anywhere aligned with EMEA time zones.)&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;At 10up, we call developers like you engineers because you aren&#39;t just a &quot;coder&quot;: you&#39;re an innovative problem solver that uses web programming skills to divine smart, creative solutions to client challenges.&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;As a leading digital agency, 10up&#39;s client roster spans from innovative startups and impactful non-profits to some of the biggest names in the industry, such as ESPN, Google, The New York Times Co., Microsoft, and The Nobel Prize Committee. 10uppers have been pushing the boundaries of web experiences for over 12 years—become an engineer that innovates the internet by building exciting projects alongside a top-in-the-field team.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;As a 10up contractor, you have options for flexible and alternative work schedules. Intentionally remote since day one, spanning six continents and 40 countries, 10up fully embraces the benefits of distributed work.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;What you will do:&amp;nbsp;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop large-scale modular applications with advanced knowledge of HTML, CSS, and JavaScript.&lt;/li&gt;
+&lt;li&gt;Provide code reviews.&lt;/li&gt;
+&lt;li&gt;Bring art direction to life on the web through quality craftsmanship defined by performance, accessibility, maintainability, and aesthetic refinement on large-scale projects.&lt;/li&gt;
+&lt;li&gt;Solve complex problems in simple yet elegant ways.&lt;/li&gt;
+&lt;li&gt;Ultimately you will make the web better by finely crafting websites, apps, and tools that reach millions of online visitors every day.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;About you:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You love perfecting your skills in cross-browser/device front-end engineering through crafting custom UI components in either React or a WordPress (block editor) stack.&lt;/li&gt;
+&lt;li&gt;You have a code portfolio of real-world samples showcasing your technical abilities. Link us to your best custom work on GitHub and you’ll never have to do any live coding or whiteboard testing!&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;You are comfortable talking to clients and team members to clearly present your thoughts.&lt;/li&gt;
+&lt;li&gt;You’re proficient at building coded style guides and creating highly componentized systems.&lt;/li&gt;
+&lt;li&gt;You prefer to work fully remote and are effectively engaging in a distributed team from the location of your choosing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The expected hourly rate for this role is between &lt;strong&gt;$50 and $90 USD&lt;/strong&gt;. Compensation is determined based on a variety of factors including relevant experience, projects, geographic location, and business needs.&lt;/p&gt;
+&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;Join our Contractor Pool!&amp;nbsp;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;We are currently accepting applications for upcoming freelance opportunities. If you are passionate about 10up&#39;s mission and great UI work, please apply. We&#39;d appreciate the opportunity to personally review your application. Everyone gets a response.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;Read more about &lt;a class=&quot;postings-link&quot; href=&quot;https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view&quot;&gt;What to Expect &lt;/a&gt;through our Recruiting process.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;We don&#39;t want you to miss any communication from us! To ensure you receive updates on your application, please add jobs@10up.com to your contacts list! #LI-Remote&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/2738508979/760be3edebfa0195e36fb3dba07297c1_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>10up</h5>
                     <h3>Lead Front End Engineer</h3>
                 </td>
                 <td width="300">
