@@ -52,7 +52,7 @@
 &lt;p&gt;The targeted hourly rate for this role is &lt;strong&gt;£50 per hour&lt;/strong&gt;. Compensation is determined based on a variety of factors including relevant experience, projects, geographic location, and business needs.&lt;/p&gt;
 &lt;div&gt;&lt;strong&gt;Join our team!&amp;nbsp;&lt;/strong&gt;&lt;/div&gt;
 &lt;div&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div&gt;If you are passionate about 10up&#39;s mission and think you have what it takes to be successful in this role even if you don&#39;t check all the boxes, please apply. We&#39;d appreciate the opportunity to personally review your application. Everyone gets a response.&lt;/div&gt;
+&lt;div&gt;If you are passionate about 10up&#39;s mission and think you have what it takes to be successful in this role, please apply. We&#39;d appreciate the opportunity to personally review your application. Everyone gets a response.&lt;/div&gt;
 &lt;div&gt;&amp;nbsp;&lt;/div&gt;
 &lt;div&gt;Read more about &lt;a class=&quot;postings-link&quot; href=&quot;https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view&quot;&gt;What to Expect &lt;/a&gt;through our Recruiting process.&lt;/div&gt;
 &lt;div&gt;&amp;nbsp;&lt;/div&gt;
@@ -124,7 +124,7 @@
 &lt;p&gt;The expected annual salary range for this position is between $60,000 and $120,000 USD. Compensation is determined based on a variety of factors including relevant experience, other job related qualifications/skills, geographic location, and business needs.&lt;/p&gt;
 &lt;div&gt;&lt;strong&gt;Join our team!&amp;nbsp;&lt;/strong&gt;&lt;/div&gt;
 &lt;div&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div&gt;If you are passionate about 10up&#39;s mission and think you have what it takes to be successful in this role even if you don&#39;t check all the boxes, please apply. We&#39;d appreciate the opportunity to personally review your application. Everyone gets a response.&lt;/div&gt;
+&lt;div&gt;If you are passionate about 10up&#39;s mission and think you have what it takes to be successful in this role, please apply. We&#39;d appreciate the opportunity to personally review your application. Everyone gets a response.&lt;/div&gt;
 &lt;div&gt;&amp;nbsp;&lt;/div&gt;
 &lt;div&gt;Read more about &lt;a class=&quot;postings-link&quot; href=&quot;https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view&quot;&gt;What to Expect &lt;/a&gt;through our Recruiting process.&lt;/div&gt;
 &lt;div&gt;&amp;nbsp;&lt;/div&gt;
@@ -197,7 +197,7 @@
 &lt;p&gt;The expected annual salary range for this position is between &lt;strong&gt;£60,000 &lt;/strong&gt;and &lt;strong&gt;£80,000 &lt;/strong&gt;annually. Compensation is determined based on a variety of factors including relevant experience, other job related qualifications/skills, geographic location, and business needs.&lt;/p&gt;
 &lt;div&gt;&lt;strong&gt;Join our team!&amp;nbsp;&lt;/strong&gt;&lt;/div&gt;
 &lt;div&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div&gt;If you are passionate about 10up&#39;s mission and think you have what it takes to be successful in this role even if you don&#39;t check all the boxes, please apply. We&#39;d appreciate the opportunity to personally review your application. Everyone gets a response.&lt;/div&gt;
+&lt;div&gt;If you are passionate about 10up&#39;s mission and think you have what it takes to be successful in this role, please apply. We&#39;d appreciate the opportunity to personally review your application. Everyone gets a response.&lt;/div&gt;
 &lt;div&gt;&amp;nbsp;&lt;/div&gt;
 &lt;div&gt;Read more about &lt;a class=&quot;postings-link&quot; href=&quot;https://drive.google.com/file/d/1nQ9yWRqfDAdrriYRnBNzYo7w59auYxMe/view&quot;&gt;What to Expect &lt;/a&gt;through our Recruiting process.&lt;/div&gt;
 &lt;div&gt;&amp;nbsp;&lt;/div&gt;
