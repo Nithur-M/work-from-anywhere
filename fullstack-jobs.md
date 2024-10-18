@@ -1,5 +1,157 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1943562/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Outliant</h5>
+                    <h3>Full Stack Engineer III</h3>
+                </td>
+                <td width="300">
+                    <code>AWS,react</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/full-stack-engineer-iii-1943562" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="min-height: 1.5em;"><strong>About us:</strong></p>
+<p style="min-height: 1.5em;">Outliant is a fully-remote, US-based, digital product development and startup consulting company, with a team of culturally diverse creators whose exceptional skills and talents help conceive seamless digital products. Our teams exhibit work-play energy that supports individual growth, as well as encourages the freedom of creativity and “thinking outside the box.”</p>
+<p style="min-height: 1.5em;"><br><strong>Our Core Values:</strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;"><strong>Pursuit of Excellence: </strong>We are extremely competitive, ambitious, and driven to be exceptional – as individuals, teams, and as an organization. There is no standard high enough and we will never settle. We aspire to attract, retain, and empower the very best people.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>Startup Mentality: </strong>Outliant began with 5 startup founders, and startup culture is deep in our DNA. It’s a critical advantage that allows us to move faster, be more resourceful, and empower our team at all levels. We are in the early chapters of our journey.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>World-Class Remote Collaboration: </strong>Outliant is (and always has been) a 100% remote company – we have no offices and our teams are distributed around the world. Given the freedom and autonomy this provides, we require that our people excel in this remote structure.</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>About the role:</strong></p>
+<p style="min-height: 1.5em;">As a Full Stack Engineer III with Webflow experience, you will apply a diverse range of advanced skills and concepts to develop and maintain robust frontend and backend systems. You will tackle assignments that require innovative solutions and take ownership of the planning and execution of these tasks. Your role will involve guiding and mentoring junior teammates, fostering collaboration within the team. You will also make contributions in improving code quality, process efficiency, and project delivery timelines, helping to enhance overall team performance.</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Seniority Level: </strong>Senior</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Responsibilities:</strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;"><strong>Innovative Fullstack Development</strong>: Lead the design and implementation of cutting-edge frontend and backend systems.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>Performance Optimization</strong>: Use innovative techniques to maximize efficiency and performance across the full stack.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>Advanced Component Development: </strong>Create and maintain advanced, reusable components and services.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>Strategic Planning:</strong> Plan and execute complex assignments with a focus on innovative solutions.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>Leadership and Mentorship:</strong> Mentor junior engineers and lead technical initiatives.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>Cross-Functional Leadership:</strong> Coordinate with various teams to ensure seamless project integration.</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Requirements:</strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">5-7 years of professional experience working as a software engineer in a team environment</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Experience working with Webflow projects</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Demonstrated passion for consulting, improving, good conflict resolution and criteria</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Strong communication skills</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Positive recommendations from your previous managers and teammates</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Proven proficiency with frontend technologies (like React, Flutter, Angular, React Native, Vue) and backend technologies (like Firebase, AWS, NodeJS, C#, Rust, Databases)</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Strong understanding of software development at scale and product mindset</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Strong communication skills</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">College education is a plus</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Must be able to work in the EST timezone</p>
+<p style="min-height: 1.5em;"> </p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"><strong>Nice-to-have</strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Proficiency with NextJS and AWS</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Have experience with working on internationalization and localization</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Experience working in a startup environment</p>
+<p style="min-height: 1.5em;"> </p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"><strong>What’s in it for you?</strong></p>
+<p style="min-height: 1.5em;">As a full-time member of our team, you’ll enjoy:</p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Unlimited PTO.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Non-working holidays per country of residence.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Pro-rated 13th-month bonus in select regions.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Salary increases and performance-based bonuses.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Referral bonuses.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Mental health and well-being programs.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Fun and casual work environment.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Employee engagement activities and virtual gatherings.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">We are a diverse, global team! 🌍</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Important Notice</strong></p>
+<p style="min-height: 1.5em;">To ensure the legitimacy of job opportunities, we strongly recommend that you solely rely on positions posted here on our official website: <a href="http://outliant.com/careers" rel="nofollow" target="_blank"><strong>outliant.com/careers</strong></a>.</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;">All our current job openings require video interviews conducted in either or both synchronous (via Google Meet) and asynchronous (via Willo) formats. Kindly refrain from accepting offers that appear suspicious. For any inquiries or concerns, feel free to reach out to us via email at <a href="mailto:recruitment@outliant.com" rel="nofollow" target="_blank"><strong>recruitment@outliant.com</strong></a>.</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;">Please be assured that we are fully committed to maintaining integrity in our hiring process.</p>
+<img src="https://remotive.com/job/track/1943562/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1263546899153502209/ObHsQoNr_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -37,7 +189,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://job-boards.eu.greenhouse.io/scrollio/jobs/4394811101" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.eu.greenhouse.io/scrollio/jobs/4392052101" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -110,7 +262,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://job-boards.eu.greenhouse.io/scrollio/jobs/4392052101" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.eu.greenhouse.io/scrollio/jobs/4394811101" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
