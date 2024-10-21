@@ -10,7 +10,7 @@
                     <code>CSS,excel,frontend,git</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
@@ -128,99 +128,6 @@ Washington, and Colorado compensation may fall outside the above ranges.</p>
 <p><em>The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline.&nbsp;</em></p>
 <p><strong><br></strong><strong>Compensation</strong></p>
 <p>We are happy to pay in any mix of fiat/crypto.</p>
-
-    
-
-    
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/11767950?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Status</h5>
-                    <h3>Business Developer (Crypto Wallet)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=6296621&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of Apps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol, the p2p communication layer for Web3.</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception. Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
-
-    <div class="careers-block__trix external-panel text-left">
-<div>
-<p><strong>The project:</strong></p>
-<p><a href="https://keycard.tech/">https://keycard.tech/</a></p>
-<p>As the Business Development and Marketing Lead for ‘Keycard’ at Status Network, your primary role will be to lead the commercial planning and execution of the strategy to increase the sales of Keycard product, establish partnerships for the upcoming Keycard Pro product, and work with the comms and marketing teams to execute well-planned campaigns to achieve the sales growth objectives.</p>
-<p>This position offers a unique opportunity to lead the business development efforts for one of the fastest-growing segments in Web3 and work on exciting new Wallet and custody products. You will be at the forefront of developing a hardware wallet product that complements other wallets and integrates social and financial dapps deeply, paving the way for a new era of on-chain economic exchange.</p>
-<p>If you are driven by innovation in blockchain technology, eager to lead a cutting-edge project, and passionate about decentralisation and privacy, this role will provide you with the perfect platform to make a significant impact.</p>
-<p>&nbsp;</p>
-<p><strong>Key responsibilities:</strong></p>
-<ul>
-<li>Lead the accelerated development of a business development and marketing plan for Keycard and Keycard Pro products.&nbsp;</li>
-<li>Lead the execution of the plans and be the single point of contact for the program lead for all Business development and marketing initiatives related to Keycard.&nbsp;</li>
-<li>Lead the efforts to identify and prioritise potential partners including DeFi Apps, other software wallets, Developers, Exchanges etc. to improve their understanding of Keycard offer.</li>
-<li>Oversee end-to-end partnership and integration process from initial outreach and engagement through to negotiation, contracting, and final execution, ensuring all partnerships contribute to improving the sales potential for Keycard and improving the market share of Keycard amongst wallets.&nbsp;</li>
-<li>Conduct thorough financial analysis and due diligence on all potential deals to ensure they are not only sustainable but demonstrate the potential to scale.&nbsp;</li>
-<li>Shape the objectives of new marketing campaigns, and coordinate with communications and marketing teams to plan resources and execution of these campaigns, and report on the success measures.&nbsp;</li>
-<li>Oversee the negotiation and management of contracts with existing and potential partners to maximize benefits and ensure compliance with agreed terms.</li>
-<li>Keep internal stakeholders well-informed about the status of deals and partnerships, ensuring transparent and effective communication to facilitate informed decision-making and cohesive strategic alignment.</li>
-<li>Cultivate and nurture strong, enduring relationships with key stakeholders across the blockchain ecosystem, leveraging these relationships to support mutual growth and advance shared objectives.</li>
-<li>Assist in hiring, mentoring, and scaling a top-tier business development and partnerships team capable of meeting the ambitious goals of the network; fostering a culture of innovation and excellence.</li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>You will ideally have:</strong></p>
-<ul>
-<li>5+ years of experience in leading partnerships and customer engagement for products within the tech industry, with a proven ability to manage and grow B2B relationships.&nbsp;</li>
-<li>Natural communicator and coordinator, adept at collaborating with cross-functional teams to achieve organisational goals.&nbsp;</li>
-<li>Comprehensive understanding of blockchain technology, wallets and wallet-related products and DeFi.&nbsp;</li>
-<li>Direct and proven experience in delivering partnerships in the DeFi ecosystem and with Wallets and (non-custodial, custodial, browser extensions, hardware wallets, web3 connectors for dApps, wallet connect type of connectors for dApps, smart-contract wallets etc.)</li>
-<li>Strong alignment with our organisational principles as outlined in our<a href="https://status.app/manifesto"> manifesto</a>, demonstrating a commitment to privacy, decentralisation, and innovation.&nbsp;</li>
-<li>Skilled in conducting financial analysis and strategic planning, ensuring partnerships enhance key performance metrics and align with long-term objectives.&nbsp;</li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>Bonus points:</strong></p>
-<ul>
-<li>Previous leadership roles or similar responsibilities with other Hardware wallets (and/or Software wallets).&nbsp;</li>
-<li>Comfort with remote and asynchronous work environments.</li>
-<li>Advocate for the crypto/blockchain community and the broader ethos of open-source contribution.</li>
-<li>Enthusiasm for decentralisation and a personal drive to promote censorship resistance within the crypto space.&nbsp;</li>
-</ul>
-<p>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter]</p>
-<p>&nbsp;</p>
-<p><strong>Hiring process:</strong></p>
-<ul>
-<li>Intro call with the Talent Team</li>
-<li>Interview with IFT BD Lead&nbsp;</li>
-<li>Compensated Task&nbsp;</li>
-<li>Pitch Interview with Keycard Lead and IFT BD Lead</li>
-<li>Interview with Co-Founder</li>
-</ul>
-<p>[The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline]</p>
-<p>&nbsp;</p>
-<p><strong>Compensation:</strong></p>
-<p>The compensation range for this role is dependent on how we assess your skills and experience throughout our interview process. We are happy to pay in any mix of fiat/crypto.</p>
-</div>
-<p>&nbsp;</p>
-</div>
 
     
 
