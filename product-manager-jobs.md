@@ -1,5 +1,29 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1177267684574208000/54eG3WmW_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>SafetyWing</h5>
+                    <h3>Product Manager (future opportunities - 2025)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://safetywing.pinpointhq.com/en/jobs/247938" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h2>🧘 What we offer</h2> <div><!--block-->We operate in a fully remote work environment – work from anywhere globally.&nbsp;<br><br>You will receive salary and equity compensation, premium health insurance that works in most countries worldwide, travel insurance, a laptop, an office stipend, a minimum of four weeks of vacation per year, and a personal development budget.</div><div><!--block--><br>We also have fantastic annual team gatherings. The previous ones were in Ljubljana, San Francisco, Mexico, Bali, and Siglufjörður.</div><div><!--block--><br>We are looking forward to hearing from you!</div> <div><!--block--><a href="https://safetywing.com"><strong>SafetyWing</strong></a> (YC W18) is seeking an ambitious and creative <strong>Product Manager</strong> to help make our product something our customers love so much that they’ll tell their friends about it.</div><div><!--block--><br>🌟<strong> Note</strong>: While this position isn't open just yet, we're excited to connect with candidates for opportunities launching in 2025. If our mission inspires you and you're eager to be part of our future growth, we'd love to hear from you!</div><div><!--block--><br>We are on a mission to remove the role of geographical borders as a barrier to equal opportunities and freedom for everyone. We are doing that by creating simple health, insurance, and retirement products for remote workers worldwide as a replacement for national welfare systems.</div><div><!--block--><br></div> <h2>💻 What you can help with:</h2>  <ul><li><!--block-->End-to-end product management, taking the first seeds of an idea and carrying it through to implementation and optimization.</li><li><!--block-->Craft, prioritize, and execute the product vision and strategy to enhance our Remote Health product, particularly as we expand to serve enterprise customers.</li><li><!--block-->Lead a cross-functional and tech-savvy team. We need you to be right there with them, leading projects and ensuring things get done right.</li><li><!--block-->Build operational systems and automation as we scale and grow, and ultimately make a product people love so much they tell their friends about it.</li><li><!--block-->Engage with diverse internal and external stakeholders, from development teams to the CEO, ensuring alignment and buy-in across the company.</li></ul> <h2>🧪 We are looking for someone who:</h2> <ul><li><!--block-->Has sharp product sense and sound judgment, can collaborate effectively, and aligns strongly with our mission.</li><li><!--block-->Has strong leadership skills and can make people around them fulfill their potential.</li><li><!--block-->Is comfortable with product development cycles and ready to iterate and innovate on our processes.&nbsp;</li><li><!--block-->Has a growth-oriented mindset and is motivated by challenging growth targets.</li><li><!--block-->Has the ability to plan a project, gather the resources, and see it through to completion, no matter the challenges.</li><li><!--block-->Possesses strong business analysis skills and can translate business requirements into actionable technical tasks.</li><li><!--block-->Has good judgment when creating products that people love.</li><li><!--block-->Extra shine if you have experience in B2B, SaaS, insurtech, or fintech, and have led products from concept to launch.&nbsp;</li><li><!--block-->If you are currently a Business Analyst in a product company and are eager to transition into a more product-focused role, we’d love to hear from you too.</li></ul><div><!--block--><strong>😀 We like to work with people who:</strong></div><ul><li><!--block-->Want to help build a global social safety net on the Internet.</li><li><!--block-->Think for themselves instead of copying others.</li><li><!--block-->Are willing to try new things, even with the risk of failure.</li><li><!--block-->Are intellectually curious and open to new ideas.</li><li><!--block-->Are creative and bold in the face of any problems.</li><li><!--block-->Have strong integrity and do the right thing.</li></ul>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://lever-client-logos.s3.us-west-2.amazonaws.com/de4eebbf-97f1-4bdb-b542-4fa65a0b48ab-1662467464737.png" width="38px" height="auto">
                 </td>
                 <td width="300">
