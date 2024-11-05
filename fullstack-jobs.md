@@ -1,5 +1,38 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1946971/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Xcellent Technology Solutions</h5>
+                    <h3>GIS Full Stack Engineer (Problem Solver)</h3>
+                </td>
+                <td width="300">
+                    <code>api,AWS,cloud,fullstack</code>
+                </td>
+                <td width="200">
+                <text>7 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/gis-full-stack-engineer-problem-solver-1946971" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Looking for the person who loves to generate solutions, combining GIS, Software Engineering, and AWS Cloud knowledge to provide complex code solutions for our client in Denver Colorado. The position is one of high importance and has traditionally been held as a career-building block for GIS-strong software engineers with exceptional critical thinking skills and the ability to solve complex coding problems in all 3 areas mentioned above. Xcellent Technology Solutions (XTS) is seeking a productive engineer with these skills to fit into a team of 8 supporting multiple innovation products at USGS with The National Map. The innovative pipeline includes user-derived solutions for their geospatial product needs. This is an ideal position for a creative problem solver who, while not needing to engage with customers, does need to solve the concerns presented by customers to the product owner.<br><br><br><strong>Requirements:</strong><br><br></p>
+<ul style="">
+<li style="">At a minimum, 4-6 years API design and implementation</li>
+<li style="">Proficiency with AWS CodePipline and/or AWS Code Deploy or similar stack to automate, visualize, integrate, customize, and scale the software development within a CI/CD process</li>
+<li style="">Python heavy Software Engineering is a major requirement, along with ability to work with Powershell and React</li>
+<li style="">Understanding of the concepts of IaC (Infrastructure as Code) leveraging Terraform, AWS CloudFromation  or CDK; CAC (Configuration as Code) with Chef, Ansible, Puppet, or Powershell</li>
+<li style="">As with most GIS Engineers needs to be highly fluent with ESRI suite of tools for developers and engineers</li>
+</ul>
+<p><br>Please be prepared to provide documented strong solution engineering and GIS experience or knowledge of GIS based on some prior life experience (not a dabbler, need to have coded GIS solutions).  Xcellent Technology Solutions is an employer of choice in the field of Geospatial solutions, we support both NGA and USGS with the absolute finest engineers and have a strong employee education program, work benefits , and this position has a great work/life balance. Please apply directly to this ad. This position can be full-time remote especially for the right candidate. </p>
+<img src="https://remotive.com/job/track/1946971/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1263546899153502209/ObHsQoNr_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -44,79 +77,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p><span style="color: rgb(28, 36, 51); background-color: transparent;">Getro is on a mission to unlock the hidden potential within professional networks, transforming how people discover and leverage warm introductions for hiring and sales. As a Senior Full Stack Engineer on our team, you’ll&nbsp; be crucial in crafting features that both accelerate and enrich every connection, helping our customers find new talent, enhance their sales, and make other impactful professional connections. You'll develop user-friendly flows, construct data pipelines that supply essential insights, and leverage AI-driven matching algorithms to forge more efficient and meaningful connections. Join us in our quest to make professional networking more personal.</span></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><h2><strong style="color: rgb(28, 36, 51); background-color: transparent;">Who We're Looking For:</strong></h2><ul><li><strong style="color: rgb(28, 36, 51); background-color: transparent;">Impact-Driven:</strong><span style="color: rgb(28, 36, 51); background-color: transparent;"> You're motivated to craft solutions that make a real difference in people's professional lives. Your approach is thoughtful, always rooted in the real needs of users, and favours simplicity, efficiency and efficacy above all.</span></li><li><strong style="color: rgb(28, 36, 51); background-color: transparent;">Agile Innovator:</strong><span style="color: rgb(28, 36, 51); background-color: transparent;"> Quick on your feet, you thrive in fast-paced environments, valuing learning and adaptability over perfection, making smart pivots based on user feedback and metrics.</span></li><li><strong style="color: rgb(28, 36, 51); background-color: transparent;">Extreme Ownership:</strong><span style="color: rgb(28, 36, 51); background-color: transparent;"> Taking ownership comes naturally to you, driving projects forward with enthusiasm and persisting until they are successful. </span></li><li><strong style="background-color: transparent; color: rgb(28, 36, 51);">Team Player:</strong><span style="background-color: transparent; color: rgb(28, 36, 51);"> You manage priorities effectively with a keen awareness of how your work can support the team.</span></li><li><strong style="background-color: transparent; color: rgb(28, 36, 51);">Open, Collaborative Spirit:</strong><span style="background-color: transparent; color: rgb(28, 36, 51);"> You value diverse perspectives and excel in an environment of open communication and flexibility, ensuring the best ideas emerge regardless of their source.</span></li></ul><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><h2><strong style="color: rgb(28, 36, 51); background-color: transparent;">Your Experience:</strong></h2><ul><li><span style="background-color: transparent;">7+ years in software development with demonstrated experience with a range of technologies, both in backend and frontend development.</span></li><li><span style="background-color: transparent;">Strong background in a startup environment building web applications.</span></li><li><span style="background-color: transparent;">Proficiency in Ruby and a modern frontend framework (we use React and NextJs) are musts.&nbsp;</span></li><li><span style="background-color: transparent;">Quick learner, able to adapt to our codebase quickly.</span></li><li><span style="background-color: transparent;">Strong communicator, able to articulate ideas and collaborate effectively, avoiding ambiguities and misunderstandings.</span></li></ul><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><h3><span style="color: rgb(67, 67, 67); background-color: transparent;">Nice to Have:</span></h3><ul><li><span style="background-color: transparent;">Experience with ML/AI feature development.</span></li><li><span style="background-color: transparent;">Experience working remotely, and an understanding of best practices that foster productivity and collaboration in a fully remote setting.</span></li><li><span style="background-color: transparent;">Building SaaS applications.</span></li></ul><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><h2><strong style="color: rgb(28, 36, 51); background-color: transparent;">What You'll Do:</strong></h2><ul><li><span style="background-color: transparent;">Design and implement elegant user-centric solutions alongside PMs and designers.</span></li><li><span style="background-color: transparent;">Work with autonomy on large projects critical to our roadmap, aiming for simplicity and effectiveness.</span></li><li><span style="background-color: transparent;">Write clean, well-tested and maintainable code.</span></li><li><span style="background-color: transparent;">Contribute to defining our coding standards and best practices, and help to evolve our technical architecture.</span></li><li><span style="background-color: transparent;">Enhance the performance, reliability and security of our systems.</span></li><li><span style="background-color: transparent;">Foster an environment of rapid iteration and feedback, contributing to a culture that values innovation, learning, and impact.</span></li></ul><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><h2><strong style="color: rgb(28, 36, 51); background-color: transparent;">Why Join Getro?</strong></h2><ul><li><span style="background-color: transparent;">Be part of a mission-driven company that's changing the face of professional networking and hiring</span></li><li><span style="background-color: transparent;">Enjoy the flexibility and freedom of a fully remote role spanning 7+ countries. Our engineers are located in timezones between UTC-3 and UTC+1. We like to make sure we have a few hours of overlap with each other most days in case we need sync time.&nbsp;</span></li><li><span style="background-color: transparent;">A competitive salary range ($120k - $130k), healthcare &amp; coworking allowance and unlimited vacation</span></li><li><span style="background-color: transparent;">Significant equity participation and the opportunity to shape our future as one of the first 20 employees</span></li><li><span style="background-color: transparent;">Unique culture: humans first, unicorn dreams second</span></li></ul><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><h2><strong style="color: rgb(28, 36, 51); background-color: transparent;">About Getro:&nbsp;</strong></h2><p>We help 850+ independent professional networks — including venture capital funds (<a href="https://jobs.lererhippeau.com/jobs" rel="noopener noreferrer" target="_blank">Lerer Hippeau</a>), accelerators (<a href="https://jobs.techstars.com/jobs" rel="noopener noreferrer" target="_blank">Techstars</a>), membership communities (<a href="https://jobs.thechicgeek.ca/jobs" rel="noopener noreferrer" target="_blank">Chic Geek</a>), economic development organizations&nbsp; (<a href="https://jobs.launchtn.org/jobs" rel="noopener noreferrer" target="_blank">Launch Tennessee</a>), universities (<a href="https://jobs.entrepreneurs.utoronto.ca/jobs" rel="noopener noreferrer" target="_blank">University of Toronto</a>), and more — make better introductions for their members and measure the outcomes of their intros.</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><h3><span style="background-color: transparent;">Our team:&nbsp;</span></h3><ul><li>Techstars 2017 graduates</li><li>Our co-founders have been working together in the recruiting space for the last 10 years and are multi-time founders</li><li>Remote-first company, from 2018 (before covid)&nbsp;</li><li>18 team members across 7+ countries (<a href="https://www.linkedin.com/feed/update/urn:li:activity:6967436011714846720?utm_source=share&amp;utm_medium=member_desktop" rel="noopener noreferrer" target="_blank">Hear from Ted</a> &amp; <a href="https://www.linkedin.com/posts/getro-com_get-to-know-thomas-activity-6971090675580719104-v0ta?utm_source=share&amp;utm_medium=member_desktop" rel="noopener noreferrer" target="_blank">meet Thomas</a> from our team)&nbsp;</li><li>As a fully remote company, we don't have offices, but we do get together virtually and in-person for Summits (Germany, Cape Town, San Fran, Portugal...)&nbsp;</li></ul><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><h3><span style="background-color: transparent;">How we work:</span></h3><p>We're ambitious but realistic - we know anything worth doing takes time. We trust each member of our team to work when they wish, and from a location they choose. We believe in working smarter, not harder - we don't value presenteeism and we're not impressed by long working hours. Above all, we value the contribution of each individual and take seriously our responsibility to enable you to work on things you love. These aren't just words - they're part of everything we do, including how we design our products.</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><h3><span style="background-color: transparent;">One last thing:</span></h3><p>Don’t meet every single requirement? Studies have shown that women and people of color are less likely to apply to jobs unless they meet every single qualification. At Getro we are dedicated to building a diverse, inclusive and authentic workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.</p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://avatars.githubusercontent.com/u/87750292?s=200&v=4" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Scroll</h5>
-                    <h3>Senior Fullstack Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://job-boards.eu.greenhouse.io/scrollio/jobs/4394811101" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Scroll is a Layer 2 scaling solution for Ethereum, specifically focusing on zkRollups. Key aspects of Scroll are zkRollup technology, Scalability, Efficiency, Security, and Developer-friendly. Overall, Scroll plays a crucial role in addressing Ethereum&#39;s scalability challenges and facilitating the growth of decentralized finance (DeFi) and other blockchain-based applications by providing a scalable and efficient Layer 2 solution.&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About Scroll…&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Scroll is building an open source, bytecode level compatible zkEVM layer 2 solution for Ethereum. Our mission is to scale Ethereum while maintaining our values of credible neutrality, openness, and community driven.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;About the Team/Role&lt;/strong&gt; &lt;br&gt;&lt;br&gt;You will join a fast-paced, dynamic, and highly skilled engineering team dedicated to building one of the most cutting-edge Layer 2 solutions in the blockchain space. As a Fullstack Engineer, you’ll work at the intersection of decentralized technology and scalable applications. You’ll be responsible for contributing to the development of both the frontend and backend components of Scroll&#39;s architecture, using technologies such as React, Next.js, and Node.js. If you&#39;re passionate about Ethereum, excited about working with zkEVMs, and want to play a critical role in building the future of scalable blockchain infrastructure, this role is for you.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;What you’ll do:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Design, develop, and maintain the frontend and backend of Scroll&#39;s Layer 2 solution.&lt;/li&gt;
-&lt;li&gt;Collaborate closely with the product team to ensure seamless integration and feature development.&lt;/li&gt;
-&lt;li&gt;Write clean, efficient, and well-documented code that follows best practices.&lt;/li&gt;
-&lt;li&gt;Debug, troubleshoot, and optimize existing code to improve performance and scalability.&lt;/li&gt;
-&lt;li&gt;Participate in design and code reviews, and mentor junior team members.&lt;/li&gt;
-&lt;li&gt;Ensure the technical feasibility of UI/UX designs and optimize applications for maximum speed and scalability.&lt;/li&gt;
-&lt;li&gt;Contribute to the overall architecture and technical direction of the Scroll project.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;What you&#39;ll need:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Proficiency in Fullstack development with expertise in React, Next.js, and Node.js.&lt;/li&gt;
-&lt;li&gt;Strong understanding of JavaScript, TypeScript, and modern web development tools.&lt;/li&gt;
-&lt;li&gt;Experience with building and consuming RESTful APIs and working with databases like PostgreSQL or MongoDB.&lt;/li&gt;
-&lt;li&gt;Ability to work in a collaborative team environment, using version control (Git) and modern development workflows.&lt;/li&gt;
-&lt;li&gt;Strong problem-solving skills with a focus on delivering high-quality code.&lt;/li&gt;
-&lt;li&gt;Excellent communication skills and the ability to work in a fast-paced, decentralized team.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Nice to haves:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Experience working in the blockchain or decentralized technology space, especially with Ethereum or Layer 2 solutions.&lt;/li&gt;
-&lt;li&gt;Prior experience working in open-source projects and contributing to decentralized communities.&lt;/li&gt;
-&lt;li&gt;Familiarity with hosting platforms like Vercel for easy and scalable deployments.&lt;/li&gt;
-&lt;li&gt;Experience with Go is a plus.&lt;/li&gt;
-&lt;li&gt;Chinese language ability is a plus.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;&lt;strong&gt;About You&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;You are a self-starter and ability to take ownership, well organised, self-disciplined and effective when working autonomously on tasks and projects;&lt;/li&gt;
-&lt;li&gt;You are responsive, collaborative and committed person with a high work ethic;&lt;/li&gt;
-&lt;li&gt;You are a high class communicator who can articulate their views succinctly on calls or asynchronously in globally distributed, remote teams;&lt;/li&gt;
-&lt;li&gt;You relish working in an agile start-up environment;&lt;/li&gt;
-&lt;li&gt;You are a great listener who understands when to listen first and engages well with colleagues;&lt;/li&gt;
-&lt;li&gt;You are a resilient, driven individual who is willing and able to continually develop and iterate to succeed;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;strong&gt;What We Offer&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;A mission-led, collaborative culture&lt;/li&gt;
-&lt;li&gt;Opportunity to work with cutting edge technology and like-minded people who are contributing to the progression of Ethereum&lt;/li&gt;
-&lt;li&gt;Competitive salary package / generous paid time off / annual growth budget&lt;/li&gt;
-&lt;li&gt;100% remote from any location with flexible hours&lt;/li&gt;
-&lt;li&gt;Home office set up / co-working membership allowance&lt;/li&gt;
-&lt;li&gt;Private healthcare in selected countries&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Scroll is proud to be an equal opportunity workplace. We are committed to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. If you have a disability or special need, please let us know and we&#39;ll do our best to accommodate.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr>,<tr>
@@ -194,11 +154,11 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1725197105923293184/0HcwlDMy_400x400.jpg" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/87750292?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Avara</h5>
-                    <h3>Full Stack Engineer</h3>
+                    <h5>Scroll</h5>
+                    <h3>Senior Fullstack Engineer</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -207,13 +167,62 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://jobs.eu.lever.co/avara/18738e2d-e403-4f50-90b1-3b85cea50a26" align="right" target="_blank">Apply</a>
+                <a href="https://job-boards.eu.greenhouse.io/scrollio/jobs/4394811101" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><b style="font-size: 18px;">About us: </b></div><div><br></div><div><span style="font-size: 16px;">Avara builds innovative products leveraging blockchain technologies. Avara's suite includes the Aave Protocol, along with the native stablecoin GHO, Lens, an open social network, and Family, a design-first mobile crypto wallet. Avara's vision is to build a people-powered internet that benefits all.</span></div><div><br></div><div><b style="font-size: 18px;">Our culture:</b></div><div><br></div><div><span style="font-size: 16px;">Having cultivated a thriving, collaborative culture, our team is kind, welcoming and passionate about what we are building. We celebrate differences and seek to develop and retain the most talented people from a diverse candidate pool from all over the world. No matter where you are based, no ghost will be left behind and we appreciate every moment we get to work and have fun together.&nbsp;</span></div><div><span style="font-size: 10pt;">&nbsp;</span></div><div><b style="font-size: 18px;">About the role:</b></div><div><br></div><div><span style="font-size: 16px;">Avara is looking for a passionate and driven engineer to join us in developing innovative financial products for the future. As a key addition to our DeFi fullstack team, you'll take charge of our current web offerings and have the opportunity to shape the development, design, and launch of new products. Your role will focus on maintaining a seamless and superior user experience across various platforms, including protocol interfaces, governance,&nbsp; documentation portals and more.</span></div><div><b style="font-size: 18px;">About us: </b></div><div><br></div><div><span style="font-size: 16px;">Avara builds innovative products leveraging blockchain technologies. Avara's suite includes the Aave Protocol, along with the native stablecoin GHO, Lens, an open social network, and Family, a design-first mobile crypto wallet. Avara's vision is to build a people-powered internet that benefits all.</span></div><div><br></div><div><b style="font-size: 18px;">Our culture:</b></div><div><br></div><div><span style="font-size: 16px;">Having cultivated a thriving, collaborative culture, our team is kind, welcoming and passionate about what we are building. We celebrate differences and seek to develop and retain the most talented people from a diverse candidate pool from all over the world. No matter where you are based, no ghost will be left behind and we appreciate every moment we get to work and have fun together.&nbsp;</span></div><div><span style="font-size: 10pt;">&nbsp;</span></div><div><b style="font-size: 18px;">About the role:</b></div><div><br></div><div><span style="font-size: 16px;">Avara is looking for a passionate and driven engineer to join us in developing innovative financial products for the future. As a key addition to our DeFi fullstack team, you'll take charge of our current web offerings and have the opportunity to shape the development, design, and launch of new products. Your role will focus on maintaining a seamless and superior user experience across various platforms, including protocol interfaces, governance,&nbsp; documentation portals and more.</span></div><h3>How you can make an impact:</h3><li>Develop comprehensive full-stack services that address essential product and business objectives</li><li>Work closely with engineers, designers, and product managers to transform requirements into web3 products</li><li>Engage in all stages of product development, from the initial concept discussions to the product launch</li><li>Ensure the production of high-quality and thoroughly tested code, while also conducting reviews of team members' code contributions.</li><h3>Let's connect if:</h3><li>3+ years of software engineering experience</li><li>Proficient in Typescript, Node, Golang, Rust, or similar for 3+ years</li><li>Developed and managed a large-scale production system</li><li>Self starter and motivated to stay at the forefront of software development/Web3 best practices and actively contribute to evolving our technology stack as we develop new systems and services</li><div>Haven’t quite met all the criteria? Let’s not miss out on the chance to speak. Whilst you might not meet every single requirement, you might bring other, more exciting skills to the companies!&nbsp;&nbsp;</div><div><br></div><div><br></div><div><b style="font-size: 18px;">Equal opportunity statement:</b></div><div><br></div><div>Avara celebrates diversity and view each and every team member as a separate individual with their own unique identity. No matter your race, religion, gender, ethnicity, age, (dis)ability, sexual orientation or even the wallet you use, we welcome you at Avara.&nbsp;</div><div>&nbsp;</div><div>As an equal opportunities employer, we take accountability and believe in everyone's potential to build, create and inspire changes. With a mission to build a diverse workforce, we are proud to foster a working environment in which everyone can feel safe and valued for who they are.&nbsp;</div>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Scroll is a Layer 2 scaling solution for Ethereum, specifically focusing on zkRollups. Key aspects of Scroll are zkRollup technology, Scalability, Efficiency, Security, and Developer-friendly. Overall, Scroll plays a crucial role in addressing Ethereum&#39;s scalability challenges and facilitating the growth of decentralized finance (DeFi) and other blockchain-based applications by providing a scalable and efficient Layer 2 solution.&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About Scroll…&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Scroll is building an open source, bytecode level compatible zkEVM layer 2 solution for Ethereum. Our mission is to scale Ethereum while maintaining our values of credible neutrality, openness, and community driven.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Team/Role&lt;/strong&gt; &lt;br&gt;&lt;br&gt;You will join a fast-paced, dynamic, and highly skilled engineering team dedicated to building one of the most cutting-edge Layer 2 solutions in the blockchain space. As a Fullstack Engineer, you’ll work at the intersection of decentralized technology and scalable applications. You’ll be responsible for contributing to the development of both the frontend and backend components of Scroll&#39;s architecture, using technologies such as React, Next.js, and Node.js. If you&#39;re passionate about Ethereum, excited about working with zkEVMs, and want to play a critical role in building the future of scalable blockchain infrastructure, this role is for you.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What you’ll do:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Design, develop, and maintain the frontend and backend of Scroll&#39;s Layer 2 solution.&lt;/li&gt;
+&lt;li&gt;Collaborate closely with the product team to ensure seamless integration and feature development.&lt;/li&gt;
+&lt;li&gt;Write clean, efficient, and well-documented code that follows best practices.&lt;/li&gt;
+&lt;li&gt;Debug, troubleshoot, and optimize existing code to improve performance and scalability.&lt;/li&gt;
+&lt;li&gt;Participate in design and code reviews, and mentor junior team members.&lt;/li&gt;
+&lt;li&gt;Ensure the technical feasibility of UI/UX designs and optimize applications for maximum speed and scalability.&lt;/li&gt;
+&lt;li&gt;Contribute to the overall architecture and technical direction of the Scroll project.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What you&#39;ll need:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Proficiency in Fullstack development with expertise in React, Next.js, and Node.js.&lt;/li&gt;
+&lt;li&gt;Strong understanding of JavaScript, TypeScript, and modern web development tools.&lt;/li&gt;
+&lt;li&gt;Experience with building and consuming RESTful APIs and working with databases like PostgreSQL or MongoDB.&lt;/li&gt;
+&lt;li&gt;Ability to work in a collaborative team environment, using version control (Git) and modern development workflows.&lt;/li&gt;
+&lt;li&gt;Strong problem-solving skills with a focus on delivering high-quality code.&lt;/li&gt;
+&lt;li&gt;Excellent communication skills and the ability to work in a fast-paced, decentralized team.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Nice to haves:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience working in the blockchain or decentralized technology space, especially with Ethereum or Layer 2 solutions.&lt;/li&gt;
+&lt;li&gt;Prior experience working in open-source projects and contributing to decentralized communities.&lt;/li&gt;
+&lt;li&gt;Familiarity with hosting platforms like Vercel for easy and scalable deployments.&lt;/li&gt;
+&lt;li&gt;Experience with Go is a plus.&lt;/li&gt;
+&lt;li&gt;Chinese language ability is a plus.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;&lt;strong&gt;About You&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;You are a self-starter and ability to take ownership, well organised, self-disciplined and effective when working autonomously on tasks and projects;&lt;/li&gt;
+&lt;li&gt;You are responsive, collaborative and committed person with a high work ethic;&lt;/li&gt;
+&lt;li&gt;You are a high class communicator who can articulate their views succinctly on calls or asynchronously in globally distributed, remote teams;&lt;/li&gt;
+&lt;li&gt;You relish working in an agile start-up environment;&lt;/li&gt;
+&lt;li&gt;You are a great listener who understands when to listen first and engages well with colleagues;&lt;/li&gt;
+&lt;li&gt;You are a resilient, driven individual who is willing and able to continually develop and iterate to succeed;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;What We Offer&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A mission-led, collaborative culture&lt;/li&gt;
+&lt;li&gt;Opportunity to work with cutting edge technology and like-minded people who are contributing to the progression of Ethereum&lt;/li&gt;
+&lt;li&gt;Competitive salary package / generous paid time off / annual growth budget&lt;/li&gt;
+&lt;li&gt;100% remote from any location with flexible hours&lt;/li&gt;
+&lt;li&gt;Home office set up / co-working membership allowance&lt;/li&gt;
+&lt;li&gt;Private healthcare in selected countries&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Scroll is proud to be an equal opportunity workplace. We are committed to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. If you have a disability or special need, please let us know and we&#39;ll do our best to accommodate.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr>,<tr>
