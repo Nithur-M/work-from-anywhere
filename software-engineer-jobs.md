@@ -1,96 +1,68 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1947382/logo" width="38px" height="auto">
+                    <img src="https://spreadprivacy.com/content/images/2023/05/duckduckgo-logo_wide.png" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Canny</h5>
-                    <h3>Senior Software Engineer</h3>
+                    <h5>DuckDuckGo</h5>
+                    <h3>Senior Software Engineer, Windows Desktop App (Remote)</h3>
                 </td>
                 <td width="300">
-                    <code>AWS,mongoDB,node.js</code>
+                    <code></code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1947382" align="right" target="_blank">Apply</a>
+                <a href="https://duckduckgo.recruitee.com/o/windows-desktop" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>Thousands of companies build better software products with the help of Canny’s customer feedback platform. As a <strong>Senior Software Engineer</strong> at Canny, you will play a central role in shaping our product's future, with a focus on offering an unparalleled user experience.</p>
-<p><br>We are...</p>
-<ul style="">
-<li style="">Fully remote with no office</li>
-<li style="">17 people across 6 countries (US, Canada, Mexico, Brazil, Spain, Turkey)</li>
-<li style="">Bootstrapped (no investors) and profitable</li>
-</ul>
-<div> </div>
-<div><strong>What you'll do at Canny</strong>:</div>
-<ul style="">
-<li style="">Collaborate with the product and design teams to develop and implement new features.</li>
-<li style="">Optimize and refine existing features to improve UX and decrease friction.</li>
-<li style="">Troubleshoot, identify, and fix bugs to improve customer experiences.</li>
-<li style="">Participate in code reviews, fostering a culture of quality and collaborative learning.</li>
-<li style="">Keep up-to-date with industry best practices and technologies to maintain Canny’s edge in the market.</li>
-<li style="">Contribute to technical documentation, ensuring ease of use and understanding for future reference.</li>
-</ul>
-<p> </p>
-<p><strong>Tech you’ll use every day:</strong></p>
-<ul style="">
-<li style="">Our stack - TypeScript, ReactJS, Node.js, MongoDB, SCSS</li>
-<li style="">Cloud services - AWS, GitHub, CircleCI, MongoDB</li>
-<li style="">Slack - team and some customer communication</li>
-<li style="">Canny - tracking user feedback 🙂</li>
-<li style="">Missive - email collaboration</li>
-<li style="">ClickUp - project management</li>
-</ul>
-<p> </p>
-<p><strong>Compensation &amp; Benefits:</strong></p>
-<ul style="">
-<li style="">Base salary, competitive in all major cities</li>
-<li style="">Bonus program (8% of base salary, varies on performance)</li>
-<li style="">Regular Compensation Reviews (conducted semi-annually)</li>
-<li style="">Equity grant (RSUs)</li>
-<li style="">20 paid vacation days, 15 paid holidays, and unlimited sick leave.</li>
-<li style="">Healthcare: medical, dental, vision</li>
-</ul>
-<p> </p>
-<p>Join us at Canny and be a part of a team passionate about build high quality software products. We look forward to reviewing your application!</p>
-<div class="h5">Experience you'll bring to Canny:</div>
-<ul style="">
-<li style="">5 years of professional software engineering experience with a frontend focus</li>
-<li style="">Production experience with TypeScript, React, Node.js, MongoDB, AWS</li>
-<li style="">Eagerness to shape the technical direction of the product, lead architectural decision making, and mentor others</li>
-<li style="">Strong written and verbal communication skills</li>
-<li style="">You are self-motivated and have strong organizational skills</li>
-<li style="">Experience working autonomously and as a part of a small, preferably remote, team.</li>
-<li style="">You have demonstrated the ability to onboard and integrate with an organization long-term:
-<ul style="">
-<li style="">within the last 5 years, you've worked at one company for at least 2 years</li>
-</ul>
-</li>
-</ul>
-<div class="h5"><strong>Bonus:</strong></div>
-<ul style="">
-<li style="">Experience building enterprise and/or SaaS software</li>
-<li style="">Deep experience with frontend web applications</li>
-</ul>
-<p> </p>
-<p><strong>Apply:</strong></p>
-<ul style="">
-<li style="">In your application, please submit your resume, an optional cover letter, and explain your motivation for wanting to join Canny (we genuinely value understanding why you're drawn to us!).</li>
-<li style="">A heads-up: Every application is carefully reviewed by our team. To stand out and ensure your success, please answer the screening questions diligently. Candidates who don't invest time in the screening questions rarely advance.</li>
-<li style="">For some extra flair, share a link to your favorite GIF.</li>
-<li style="">Please note, that we have posted this role twice for recruitment marketing purposes as it is helpful to have a variety of job titles to capture the correct market. You do not need to apply to both open roles.</li>
-</ul>
-<p> </p>
-<p><strong>Location:</strong></p>
-<ul style="">
-<li style="">This role requires working North American hours to best serve our customers and coordinate with the team.</li>
-</ul>
-<img src="https://remotive.com/job/track/1947382/blank.gif?source=public_api" alt=""/>
+                <p>Hi, we’re DuckDuckGo, the Internet privacy company for everyone who wants to take back their privacy now. For over a decade, we've been building our all-in-one product, developing new privacy technology, and working with policymakers to make online privacy simple and accessible for all.  <br /></p>
+<p><br /></p>
+<p>Our browsers and extensions have been downloaded over 250 million times with our built-in private search engine, which has delivered over 100 billion searches and is the 2nd largest search engine on mobile in the United States and 17 other countries, including the United Kingdom, Canada, Australia, Germany, Poland, and Spain. Our private search engine is also 3rd in market share in the U.S. and over 20 major markets. Oh, and we've been profitable since 2014, with annual revenue exceeding $100 million!</p>
+<p><br /></p>
+<p>The DuckDuckGo browser’s uniquely comprehensive privacy protections are used by tens of millions of people to protect their everyday online activities on <a href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/" rel="noopener">Mac</a>, <a href="https://spreadprivacy.com/windows-browser-open-beta/" rel="noopener">Windows</a>, <a href="https://spreadprivacy.com/duckduckgo-privacy-browser-ios14/" rel="noopener">iOS</a>, and <a href="https://spreadprivacy.com/introducing-app-tracking-protection/" rel="noopener">Android</a>, from searching to browsing, emailing, and more. We also offer <a href="https://spreadprivacy.com/meetprivacypro/" rel="noopener">Privacy Pro</a>, a three-in-one subscription service that includes a VPN, Personal Information Removal, and Identity Theft Restoration.</p>
+<p><br /></p>
+<p>We’re looking for a <strong><strong>Senior Software Engineer, Windows Desktop App</strong></strong> to help shape our all-in-one privacy solution and join our mission to show the world that protecting your privacy online can be simple.  </p>
+<p><br /></p>
+<p><strong>The Opportunity</strong> </p>
+<p>In this role, you will work on the team responsible for scaling and enhancing our Windows Desktop Browser. You'll collaborate with Product Managers, Designers, and Engineers across Native Apps to craft a world-class browser with embedded privacy features that will revolutionize the way people search, surf, and exist online. </p>
+<p><br /></p>
+<p>You will be critical to the successful launch of this product and responsible for taking pieces of the puzzle and autonomously building solutions to get us closer to our first release. You will help define the roadmap, take ownership of significant application features and experiment with ways to improve them. </p>
+<p><br /></p>
+<p>You will lay the foundations of what will become one of DuckDuckGo's flagship products and critical levers for growing privacy online. </p>
+<p><br /></p>
+<p><strong>What You Will Bring to DuckDuckGo</strong> </p>
+<ul><li>Experience implementing ideas from scratch, owning major application features, and taking responsibility for their maintenance and improvement over time.</li><li>Experience participating in technical architecture decisions for complex products, essentially shaping the software architecture of a consumer product.</li><li>Experience building at least one desktop application (ideally with WPF, UWP, WinUI, WinForms, or other relevant .NET UI).</li><li>An advanced level of programming expertise, with knowledge of C#. We currently use .NET 6.</li><li>A significant level of experience in building customer facing applications, including crafting user interfaces.<br /></li><li>Deep understanding of software design patterns such as MVVM, MVP, etc.</li><li>Event-driven programming (e.g., using Rx.NET) experience is considered an advantage.</li></ul>
+<p><br /></p>
+<p><strong>How We Will Support You </strong> </p>
+<p>Our core values -- build trust, question assumptions, and validate direction -- underpin how we work day-to-day and the support we give our team members. We strive to empower our team members to be self-directed and self-motivated in their work.  </p>
+<p><br /></p>
+<ul><li><strong>Remote First, Always</strong>: We've always been a fully distributed company with team members all over the world. We trust you to get your work done wherever, whenever.</li><li><strong>Commitment to Personal Growth:</strong> Every team member has an annual budget of $1,250 USD to invest in their professional development. Every team member also has a dedicated Career Advisor, who serves as a guide to help you develop your strengths, identify your motivations, and understand your opportunities for growth.</li><li><strong>Leadership:</strong> We have many different types of leaders and possible combinations of leadership roles, so you can grow your career in a way that aligns best with your personal goals. You can seek additional leadership roles by being directly responsible for projects, taking ownership of areas of the company, developing and maintaining internal processes, or pursuing advisory roles.</li><li><strong>Work/Life Balance: </strong>Team members have the freedom and flexibility to organize their own work schedules. We want you to thrive both in and out of the office. We trust you to use good judgment and take the time off that you need to bring your best self to work.  </li></ul>
+<p><br /></p>
+<p>We also offer <strong>paid parental leave, a co-working stipend, office setup reimbursement, </strong>and<strong> a wellness stipend.</strong> More support resources can be found in our, <u><a href="https://duckduckgo.com/assets/hiring/team_support_guide.pdf" rel="noopener">Team Member Support Guide</a></u>, which explains how we make your well-being a priority. </p>
+<p><br /></p>
+<p>For more information on how we collaborate worldwide, from leadership in our relatively flat organization to start-to-finish ownership, check out <u><a href="https://duckduckgo.com/how-we-work" rel="noopener">DuckDuckGo Culture: How We Work.</a></u> </p>
+<p><br /></p>
+<p><strong>Compensation</strong> </p>
+<p>Annual compensation: <strong>$</strong><strong>178,500</strong> <strong>USD</strong> and stock options. Compensation is the same within a professional level, regardless of geographic location or functional area, and the compensation for each professional level is transparent across the organization.</p>
+<p><br /></p>
+<p><strong>Hiring Process</strong> </p>
+<p>Hiring works best when it's a two-way street. Learn how we help you get to know DuckDuckGo and envision your future role here. Find out more about <u><a href="https://duckduckgo.com/how-we-hire" rel="noopener">how we hire</a></u>. </p>
+<p><br /></p>
+<p><strong>Diversity, Equity, and Inclusion</strong> </p>
+<p>DuckDuckGo provides equal work opportunities to all team members and applicants<u>,</u> and it prohibits discrimination and harassment of any type on the basis of race, color, ethnicity, caste, religion, age, sex (including pregnancy), national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by our policies or federal, state, or local laws.</p>
+<p><br /></p>
+<p>We want to ensure that our hiring process is accessible. If you need reasonable accommodation for any part of the application process because of a medical condition or disability, please send an email to <u><a rel="noopener">careers@duckduckgo.com</a></u> to let us know the nature of your request.  </p>
+<p><br /></p>
+<p>If you think you might thrive in this environment, we would love to hear from you. </p>
+<p><br /></p>
+<p><strong>Please note that:</strong> </p>
+<ul><li><p>Sometimes we meet up! Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.</p></li><li>While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week. </li><li>A successful candidate will be subject to a background check and must receive satisfactory results of the same, as a condition of joining the team. </li><li>By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.</li></ul>
+<p><br /></p>
+<p>#INT</p>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1474,7 +1446,7 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 
-      <p>Canonical, the publisher of Ubuntu, is growing its Linux kernel engineering team significantly. We are creating new teams in EMEA, Americas and APAC time zones that work holistically on the Ubuntu kernel and is therefore seeking multiple candidates to lead these new teams. These teams handle upstream development and the expression of new kernel capabilities in Ubuntu, they work with silicon and cloud partners to optimise the Ubuntu kernel for CPUs and hypervisors, they handle CVEs, livepatch and security updates to LTS and current release kernels, and they work with partners to ensure that Ubuntu works first time on every possible piece of hardware.&nbsp;&nbsp;</p>
+      <p>Canonical, the publisher of Ubuntu, is growing its Linux kernel engineering capacity significantly. We have staff in Europe/Middle East/Africa (EMEA), both North and South America, and the whole Asia/Pacific regions that work holistically on the Ubuntu kernel and is therefore seeking multiple candidates to lead these efforts. Responsibilities can span multiple aspects such as upstream development and the expression of new kernel capabilities in Ubuntu, working with silicon and cloud partners to optimise the Ubuntu kernel for new CPUs, hypervisors, and environments, handling CVEs, livepatch and other security updates to released Ubuntu kernels, and they work with partners to ensure that Ubuntu works first time on every possible piece of hardware.&nbsp;&nbsp;</p>
 <p>This role would suit either an experienced manager of high performing software development teams, or a very proficient technical lead who is excited to take on a management responsibility. You will need to be passionate about Linux and aspire to be an integral part in it’s distribution to millions of users worldwide.</p>
 <p>As an engineering manager at Canonical, your primary responsibility is to your team: helping them grow as engineers, do important and satisfying work, and have a great time while doing it. Technical leadership experience and a background in software engineering are necessary prerequisites for this role. You will be expected to lead, challenge, and develop strong engineers, positively influence the culture, facilitate technical delivery, and work with your team on strategy and execution.</p>
 <p><strong>Location:</strong> Working from home, worldwide.&nbsp; &nbsp;We have kernel teams and openings in every time zone and with the notable exception of Taipei, Taiwan, have no offices and therefore no pressure to work from an office.</p>
@@ -1918,30 +1890,6 @@
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote</p><p>Requisition ID: 847</p><p></p>
     
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/D4E0BAQFdRsd49YG4fQ/company-logo_200_200/0/1688735422027/collabora_logo?e=2147483647&v=beta&t=COQKgdesE_abHpZN-7BjhNZ1IKm2nhQyHB637TbP88E" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Collabora</h5>
-                    <h3>Senior C++ Software Engineer (Remote/Anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/collabora/afb6f2ea-9c39-498c-863c-82764ea247a0" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt;">Collabora Productivity Ltd. is a software company specialising in bringing the innovation created in Open Source projects such as LibreOffice to the market, along with services, long term support and software consultancy. We combine years of open source software leadership with an understanding of the challenges that businesses, non-profits, and governments face.</span></div><div><br></div><div><span style="font-size: 11pt;">Collabora Productivity brings deep technical expertise around the Office space, from our preferred Open Document format to many other, including legacy, document formats such as OpenXML and Microsoft binary formats, using modern technologies like C++ 17.</span></div><div><br></div><div><br></div></div><div class="section page-centered"><div><h3>Key Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Root cause analysis and fixing of document interoperability issues</li><li>Analysing client problems, designing, and implementing solutions leveraging open source technologies and communicating the solutions in a compelling fashion</li><li>Annual conference attendance to present progress made to the Open Source community</li><li>Self starting analysis of limited project descriptions, ability to break complex tasks down into smaller deliverables, execute and report progress against these</li><li>Assistance in estimation of project costs</li><li>Implementation of features based on unclear customer input to exceed their expectations</li><li>Communication with the community, other team members, and customers using mailing 	lists, chats, phone and video conference</li><li>Capacity to travel a few times per year worldwide</li><li>Reliable and timely delivery of quality solutions to clients and internal customers</li><li>Development of strong relationships with key personnel, decision makers and customers</li></ul></ul></div></div><div class="section page-centered"><div><h3>Commercial Skills</h3><ul class="posting-requirements plain-list"><ul><li>Understanding client needs and reconciling time constraints, available technologies and resources and open source best practices</li><li>Ability to work in a global context with clients and engineers spanning continents</li><li>Knowledge of customers’ organization, management, product, target market, applications and decision making internal process 	</li></ul></ul></div></div><div class="section page-centered"><div><h3>Technical Skills</h3><ul class="posting-requirements plain-list"><ul><li>Large scale C++ development experience, on projects of &gt; 1 million lines of code</li><li>LibreOffice development experience preferred</li><li>Excellent code reading skills</li><li>Office Suite, file format and binary file format reverse engineering experience a plus</li><li>Good interpersonal skills, along with knowledge of open source 	development methodologies and good standing in the open source community</li><li>Significant demonstrable contributions to components in the open source ecosystem</li><li>BS/BA or extensive experience in the role of Software Engineer </li><li>Experience of unit testing</li><li>Cross-platform aware, deep knowledge of either Linux, MS Windows, or OSX, and some knowledge of one more platform (Cygwin knowledge helpful if MS Windows is the core skill)</li><li>Experience with Android, iOS or another mobile operating system a bonus</li><li>Casual scripting in Perl / Python / BASH or other language(s)</li><li>Version control systems – ideally knowledge of git</li></ul></ul></div></div><div class="section page-centered"><div><h3>Personal Skills</h3><ul class="posting-requirements plain-list"><ul><li>Highly self motivated, reliable with a demonstrable passion for Open Source and the office domain</li><li>Able to work from home office, managing own time effectively</li><li>Self learning skill to get sufficient knowledge of Collabora's services, 	business model, project delivery lifecycle and other related technical domains</li><li>Good interpersonal skills</li><li>Winsome presentation skills appreciated</li><li>Good English language skills (both verbal and written) </li><li>German language skills a bonus</li><li>Ability to work and communicate in an online distributed environment</li></ul></ul></div></div><div class="section page-centered" data-qa="closing-description"><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/afb6f2ea-9c39-498c-863c-82764ea247a0/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr>,<tr>
