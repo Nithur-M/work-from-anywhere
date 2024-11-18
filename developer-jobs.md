@@ -1,5 +1,61 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1680495/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Coalition Technologies </h5>
+                    <h3>Front End Developer</h3>
+                </td>
+                <td width="300">
+                    <code>CSS,excel,frontend,git</code>
+                </td>
+                <td width="200">
+                <text>6 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/front-end-developer-1680495" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p class="h3">WHY YOU SHOULD APPLY:</p>
+<p> </p>
+<p>Coalition Technologies is devoted to delivering clients the highest quality work while providing our team a fun, thriving, and innovative environment. Along with the opportunity for tremendous career growth and rapid advancement, CT offers:</p>
+<ul style="">
+<li style="">The most competitive profit-sharing bonus plan in the industry, paying up to 50% of company profits to full-time employees each month!</li>
+<li style="">A highly competitive Paid Time Off plan, promoting quality work-life balance.</li>
+<li style="">Subsidized gym memberships to help team members feel their best.</li>
+<li style="">Medical, dental, vision, and life insurance packages for all US-based team members.</li>
+<li style="">International Health Insurance Reimbursement Program for all international team members, a benefit unique to Coalition.</li>
+<li style="">Device upgrade and learning reimbursement programs.</li>
+<li style="">Motivating career development plans with clearly defined goals and rewards.</li>
+<li style="">Additional job-specific incentives and bonuses.</li>
+</ul>
+<p>Plus, 100% of our team works remotely with the support of time tracking software. Our company culture specializes in supporting remote team members, and we’ve been doing so for more than a decade. CT welcomes your application, wherever in the world it's coming from!</p>
+<p class="h3"> </p>
+<p class="h3">YOU SHOULD HAVE:</p>
+<p> </p>
+<ul style="">
+<li style="">An expertise in HTML5, CSS3, and jQuery.</li><li style="">A thorough understanding of cross-browser compatibility issues.</li><li style="">Experience with media queries.</li><li style="">A knowledge of CSS platforms such as Twitter’s Bootstrap.</li><li style="">An ability to multi-task on multiple projects and tasks at the same time.</li><li style="">Great attention to detail and a highly organized work style.</li><li style="">A positive and upbeat attitude with the ability to learn quickly.</li><li style="">Proficiency in PHP/MYSQL and AJAX (preferred).</li><li style="">Experience with WordPress, BigCommerce, Magento, and Shopify (preferred).</li><li style="">Excellent written and spoken English.</li><li style="">The availability to work 40 hours per week from 9:00 am to 6:00 pm PST.</li><li style="">The ability to adapt to a diverse and multicultural environment.</li><li style="">The passion to build a startup.</li><li style="">A reliable workstation with a fast computer, microphone, and speakers, reliable internet and power if working remotely.</li>
+</ul>
+<p class="h3"> </p>
+<p class="h3">YOUR DUTIES AND TASKS:</p>
+<p> </p>
+<ul style="">
+<li style="">Transforming complex layout PSDs into pixel-perfect presentation-layer HTML5/CSS3 templates.</li><li style="">Creating responsive website designs.</li><li style="">Building websites with WordPress, extending and developing plugins and themes.</li><li style="">Working with Photoshop, Illustrator, and Fireworks to create images optimized for the web.</li><li style="">Working with version control systems such as GIT / SVN.</li><li style="">Working under tight deadlines.</li><li style="">Handling multiple projects at the same time.</li><li style="">Producing high quality of work with a strong focus on detail.</li>
+</ul>
+<p class="h5"> </p>
+<p class="h5">We are looking for talented and diligent candidates who excel in our skills tests, and will consider these candidates even if past experience or educational background criteria aren't met.</p><p class="h5"><br></p><p>*California, New York, Washington, and Colorado: starting base pay for this position ranges between $15 - $35 per hour.</p>
+<p>Compensation may vary based on factors such as experience, 
+qualifications, skills test performance, geographic location, and 
+seniority of the position offered. Outside of California, New York, 
+Washington, and Colorado compensation may fall outside the above ranges.</p>
+<img src="https://remotive.com/job/track/1680495/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1946972/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +66,7 @@
                     <code>cloud,CSS,fullstack,html</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-with-work-life-balance-javascript-node-js-react-1946972" align="right" target="_blank">Apply</a>
@@ -169,7 +225,7 @@
                     <code>CSS,html,javascript,seo</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/webflow-developer-1944753" align="right" target="_blank">Apply</a>
@@ -194,7 +250,7 @@
                     <code>api,backend,CSS,frontend</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/lead-wordpress-developer-for-fast-growing-pet-company-1946191" align="right" target="_blank">Apply</a>
@@ -443,92 +499,11 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/11767950?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Developer Relations Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/5143011" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
-<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
-<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
-<p><strong>Location</strong>: <em>we are building our initial DevRel team in Europe, Middle East, African and American time zones</em></p>
-<h2>What your day will look like</h2>
-<p>In a typical day, a developer relations engineer might:</p>
-<ul>
-<li>take part in team product meetings, at levels from strategy to day-by-day development progress, contributing insight and expertise</li>
-<li>maintain conversations with developer community members wherever they may be found - IRC, social media, product forums, meet-ups and more</li>
-<li>work with colleagues in other teams in the company, as part of efforts to help establish commonality and consistent approaches&nbsp;</li>
-<li>help solve specific technical problems that users or colleagues have identified&nbsp;</li>
-<li>contribute to technical documentation to ensure that developer users' needs are met there</li>
-<li>work on technical articles, presentations or workshops&nbsp;</li>
-<li>identify new opportunities and directions for improvement in the developer experience we provide</li>
-<li>present at conferences, meetups or technical events</li>
-</ul>
-<h2>What we are looking for in you</h2>
-<p>A strong candidate</p>
-<ul>
-<li>is a programmer or developer with a demonstrable passion for and engagement in open-source software</li>
-<li>has worked with real-world challenges developing and deploying software using Linux</li>
-<li>has practical hands-on experience of Linux software packaging (including Snaps, debs, charms, rocks, PIP, containers)</li>
-<li>understands current software packing issues and trends in the Linux ecosystem&nbsp;</li>
-<li>has been a contributor to open-source communities, software and documentation</li>
-<li>is an engaging, vivacious speaker and presenter</li>
-<li>can work effectively, tactfully, empathetically and confidently in contexts where different parties have different perspectives, needs and understanding</li>
-<li>builds trust, relationships and confidence</li>
-<li>is willing to travel globally twice a year for company events, as well as to upstream and partner events</li>
-</ul>
-<h2>Additional skills that you might also bring</h2>
-<ul>
-<li>previous experience in a developer advocacy or community role</li>
-<li>in-depth familiarity with Ubuntu and the Canonical ecosystem of products</li>
-</ul>
-
-<h2>What we offer you</h2>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote&nbsp;</p>
-
-<p><br><br></p><p>Requisition ID: 1114</p><p></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Developer Relations Engineer</h3>
+                    <h5>Status</h5>
+                    <h3>Software Developer in Test (Low Level Programming)</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -537,72 +512,76 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/3655681" align="right" target="_blank">Apply</a>
+                <a href="https://boards.greenhouse.io/embed/job_app?for=status72&token=6393565&b=https%3A%2F%2Fjobs.status.im%2F" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 
-      <p>As the publisher of Ubuntu we serve millions of developers, building for the cloud, IoT and data science. We aim to make open source easier and more reliable for innovators and enterprises.</p>
-<p>We have created a new Developer Relations team to engage directly with open source communities and developer-centric organisations. We hope both to communicate our vision and products for better open source development experiences, and also to have a better feedback loop from those audiences to shape our offerings and priorities.</p>
-<p>A Developer Relations Engineer is a technical expert, strategist and communicator with deep empathy for developers. This discipline combines practical engineering skills with firm diplomacy across organisational boundaries, in both directions. Like our audience, a Developer Relations Engineer is never satisfied with the status quo, and is driven by an insatiable curiosity to find better ways to get things done. They are problem-solvers and inventors, who understand people's needs and love the way that tools can be adapted to meet them. They stay current with tech trends and provide insights and guidance while fostering innovation.</p>
-<p>Location: we are building our initial DevRel team in Europe, Middle East, African and American time zones</p>
-<h2>What your day will look like</h2>
-<ul>
-<li>Contribute to product management team meetings</li>
-<li>Maintain conversations with developer community members</li>
-<li>Engage on IRC, social media, product forums, meet-ups and more</li>
-<li>Collaborate across Canonical teams</li>
-<li>Solve specific technical problems that users or colleagues have identified</li>
-<li>Contribute to technical documentation</li>
-<li>Work on technical articles, presentations or workshops&nbsp;</li>
-<li>Identify new opportunities in developer experience</li>
-<li>Present at conferences, meetups or technical events</li>
+    <div class="content-intro"><p style="text-align: justify;"><strong>About Status</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Status is building the tools and infrastructure for the advancement of a secure, private, and open web3.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">With the high level goals of preserving the right to privacy, mitigating the risk of censorship, and promoting economic trade in a transparent, open manner, Status is building a community where anyone is welcome to join and contribute.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As an organization, Status seeks to push the web3 ecosystem forward through research, creation of developer tools, and support of the open source community.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a product, Status is an open source, Ethereum-based app that gives users the power to chat, transact, and access a revolutionary world of Apps on the decentralized web. But Status is also building foundational infrastructure for the whole Ethereum ecosystem, including the Nimbus ETH 1.0 and 2.0 clients, the Keycard hardware wallet, and the Waku messaging protocol, the p2p communication layer for Web3.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">As a team, Status has been completely distributed since inception. Our team is currently 200+ core contributors strong, and welcomes a growing number of community members from all walks of life, scattered all around the globe.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">We care deeply about open source, and our organizational structure has minimal hierarchy and no fixed work hours. We believe in working with a high degree of autonomy while supporting the organization's priorities.</span></p></div>
+
+    <div class="careers-block__trix external-panel text-left">
+<div class="careers-block__trix external-panel text-left">
+<div class="careers-block__trix external-panel text-left">
+<div>
+<h3><strong>About Vac</strong></h3>
+<p class="part" data-startline="5" data-endline="6"><a href="https://vac.dev/" target="_blank">Vac</a>&nbsp;builds&nbsp;<a href="https://en.wikipedia.org/wiki/Public_good" target="_blank">public good protocols</a> for the decentralized web.&nbsp;We do applied research based on which we build protocols, libraries and publications.</p>
+<h3 id="The-role" class="part" data-startline="11" data-endline="11">The role</h3>
+<p class="part" data-startline="13" data-endline="16">We are seeking a skilled and passionate Software Developer in Test with experience in Low Level Programming to join our Vac QA team. As a Test Automation Engineer, you will play a crucial role in ensuring the reliability, performance, and scalability of distributed systems within Vac and the <a href="https://free.technology/" target="_blank">IFT</a>.</p>
+<p class="part" data-startline="13" data-endline="16">Your responsibilities will include automating comprehensive test plans, as well as contributing to the identification and resolution of complex issues.&nbsp;Leveraging your expertise in programming and systems knowledge, you will help validating the functionality of distributed systems.</p>
+<h3 id="Key-responsibilities" class="part" data-startline="18" data-endline="18">Key responsibilities</h3>
+<ul class="part" data-startline="20" data-endline="24">
+<li class="" data-startline="20" data-endline="20">Implement (Nim, Rust, TS, Python), and maintain integration tests in collaboration with other QAs and Devs.</li>
+<li class="" data-startline="21" data-endline="21">Execute and automate test plans, test cases, and test scripts to validate the functionality, performance, and scalability of distributed systems.</li>
+<li class="" data-startline="22" data-endline="22">Identify, reproduce, and debug complex issues in distributed systems, working closely with Logos development teams.</li>
+<li class="" data-startline="23" data-endline="23">Work with Docker, Kubernetes, and POSIX-like systems.</li>
+<li class="" data-startline="24" data-endline="24">Create and maintain scalable test automation frameworks.</li>
+<li class="" data-startline="25" data-endline="26">Integrate automated tests into CI pipelines using tools like Github Actions.</li>
 </ul>
-<h2>What we are looking for in you</h2>
-<ul>
-<li>An exceptional academic track record from both high school and university</li>
-<li>Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path</li>
-<li>Drive and a track record of going above-and-beyond expectations</li>
-<li>Developer with a demonstrable engagement in open-source software</li>
-<li>Well-organised, self-starting and able to deliver to schedule</li>
-<li>Professional manner interacting with colleagues, partners, and community</li>
-<li>Experience of Linux software packaging (deb, rpm or snap)</li>
-<li>Contributor to open-source communities, software and documentation</li>
-<li>An engaging, vivacious speaker and presenter</li>
-<li>Effective, tactful, empathetic and confident</li>
-<li>Builds trust, relationships and confidence</li>
-<li>Result-oriented, with a personal drive to meet commitments&nbsp;</li>
-<li>Ability to travel twice a year, for company events up to two weeks each</li>
-<li>Ability to travel in addition to upstream and industry events</li>
+<h3 id="You-ideally-will-have" class="part" data-startline="25" data-endline="25">You ideally will have</h3>
+<ul class="part" data-startline="27" data-endline="31">
+<li class="" data-startline="29" data-endline="29">Solid experience with systems programming languages like Rust, Nim, Go.</li>
+<li class="" data-startline="30" data-endline="30">Working knowledge of Docker, Kubernetes, and POSIX-like systems.</li>
+<li class="" data-startline="31" data-endline="31">Experience with scripting languages like Python.</li>
+<li class="" data-startline="32" data-endline="32">Knowledge of tests automation tools, best practices and design patterns.</li>
+<li class="" data-startline="33" data-endline="33">Excellent written and conversational communication skills.</li>
+<li class="" data-startline="34" data-endline="35">Alignment with our core values and principles.</li>
 </ul>
-<h2>Additional skills that you might also bring</h2>
-<ul>
-<li>Experience in a developer advocacy or community role</li>
-<li>Ops and system administration experience</li>
-<li>Performance engineering and security experience</li>
+<h3 id="Bonus-points" class="part" data-startline="32" data-endline="32">Bonus points</h3>
+<ul class="part" data-startline="34" data-endline="38">
+<li class="" data-startline="38" data-endline="38">Experience with off-the-shelf networking stacks such as libp2p.</li>
+<li class="" data-startline="39" data-endline="39">Experience in blockchain technology.</li>
+<li class="" data-startline="40" data-endline="40">Experience working for an open-source organization.</li>
+<li class="" data-startline="41" data-endline="42">Experience with desktop UI automation.</li>
 </ul>
-<h2>What we offer you</h2>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues</li>
-<li>Priority Pass, and travel upgrades for long haul company events</li>
-</ul>
-<h2>About Canonical</h2>
-<p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Canonical has been a remote-first company since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p>
-<h2>Canonical is an equal opportunity employer</h2>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote</p>
-<h2><br><br></h2><p>Requisition ID: 799</p><p></p>
+</div>
+<p>[Don’t worry if you don’t meet all of these criteria, we’d still love to hear from you anyway if you think you’d be a great fit for this role. Just explain to us why in your cover letter].</p>
+<p><strong>Hiring process&nbsp;</strong></p>
+<p>The hiring process for this role will be:</p>
+<ol>
+<li>Interview with our POps team</li>
+<li>Interview with team member from the Vac QA team</li>
+<li>Take home assignment &amp; interview with team member from the Vac QA team</li>
+<li>Interview with Vac team lead</li>
+</ol>
+<p>The steps may change along the way if we see it makes sense to adapt the interview stages, so please consider the above as a guideline.</p>
+<p><strong>Compensation</strong></p>
+<p>The expected compensation range for this role is negotiable, dependent on how we assess your skills and experience throughout our interview process. We are happy to pay in any mix of fiat/crypto.</p>
+</div>
+</div>
+</div>
+
     
+
+    
+
                 </details>
                 </td>
             </tr>,<tr>
