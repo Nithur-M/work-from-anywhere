@@ -197,6 +197,36 @@
                 </td>
                 <td width="300">
                     <h5>MixRank</h5>
+                    <h3>Junior Software Engineer - Remote (Global)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://www.ycombinator.com/companies/mixrank/jobs/fmb1v9v-junior-software-engineer-remote-global" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>At MixRank, we create B2B SaaS products that enable sales, marketing, finance, and business intelligence teams to accelerate their business with data and insights into their customers. One that provides the most comprehensive database of mobile apps and websites, technographics, companies, and decision makers. It's a platform created with the sole purpose of providing the fastest way for sales reps to build prospect lists, prioritize leads, and contact decision-makers.</p>
+<p>We're looking for remote engineers that have finished school within the last 2 years or will finish in the next 6 months. This is an open-ended entry-level role with mentorship, and diverse opportunities to work on all areas of our product: databases, distributed systems, infrastructure and tooling, data analysis, machine learning, frontend and backend web development, APIs, data mining, data modeling, and more.</p>
+<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, SQL, and Javascript/TypeScript. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
+<p>Why Join MixRank? Fully-remote, no HQ office. Team of 44 people across 15+ countries. Invested in by Y Combinator, 500 Startups, Mark Cuban. Profitable and growing 50% every year.</p>
+<p>Please include your updated resume when applying for this role.</p>
+<p><strong>Important:</strong>&nbsp;Only accept job offers from emails ending in @<a href="http://mixrank.com/" target="_blank">mixrank.com</a>. Offers from any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/378800000147745937/0fac42c12b433bbbd53ff3e15cd6fca4_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>MixRank</h5>
                     <h3>Junior Software Engineer - Colombia/Remote</h3>
                 </td>
                 <td width="300">
@@ -1818,77 +1848,6 @@
 <p>Canonical is a growing international software company that works with the open-source community to deliver Ubuntu, the world’s best free software platform. Our services help businesses worldwide reduce costs, improve efficiency and enhance security with Ubuntu.</p>
 <p><em>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your <a href="https://canonical.com/careers/diversity/identity">identity</a> we will give your application fair consideration.</em></p>
 <p>#LI-remote</p><p>Requisition ID: 933</p><p></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Ubuntu Linux Software Engineering Manager </h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/3939050" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p>Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1100+ colleagues in 75+ countries and very few office based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.</p>
-<p>The company is founder led, profitable and growing.</p>
-<p>We are hiring a Engineering Manager to lead the engineering team that delivers the essential components of Ubuntu - our system startup, compilers, language runtimes and toolchains, as well as networking and storage config and management. This is a fast-paced, problem-solving, highly technical role operating at the core of Linux server systems.&nbsp;</p>
-<p>As an Engineering Manager on the Foundations team, you will be at the heart of driving Ubuntu. Working at the&nbsp; unique intersection of the open source ecosystem, and enterprise technologists.&nbsp;</p>
-<p>In this pivotal position, you’ll lead and inspire your team of engineers, to take Ubuntu to new heights. We are looking for someone with a deep understanding of Linux and Ubuntu with a passion for exceptional leadership. You will be expected to lead, challenge, and develop strong engineers, positively influence the culture, facilitate technical delivery and drive your team on strategy and execution.&nbsp;</p>
-<p><strong>Location: </strong>Globally remote&nbsp;</p>
-
-<p>The role entails</p>
-<ul>
-<li>Lead and grow a team of distributed engineers</li>
-<li>Demonstrate sound engineering principles through active and hands on leadership</li>
-<li>Be responsible for planning, estimation and execution</li>
-<li>Work with product management to define the vision and strategy for Ubuntu</li>
-<li>Collaborate with cross-functional leadership teams</li>
-<li>Drive the advancement and adoption of the latest software development practices</li>
-<li>Design, embrace and evangelize great engineering and organizational practices</li>
-<li>Grow a healthy, collaborative engineering culture in line with company values</li>
-<li>Engage with other teams at Canonical to ensure alignment on product architecture and roadmaps</li>
-<li>Work from home while meeting in person for company sprints. Sprints are typically twice a year for 1-2 weeks.&nbsp;&nbsp;</li>
-</ul>
-<h3>What we are looking for in you</h3>
-
-<ul>
-<li>You have worked extensively with Linux distributions, and are experienced with packaging technologies (e.g. deb, rpm, other)&nbsp;</li>
-<li>You have demonstrated experience managing or leading a team of software engineers</li>
-<li>High quality software engineering knowledge in one or more of: Linux system architecture, boot process, Java/GCC/Python/Rust/Go toolchains, ARM and/or RISC-V</li>
-<li>Engagement with open source communities and processes</li>
-</ul>
-<h3>What we offer colleagues</h3>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues</li>
-<li>Priority Pass, and travel upgrades for long haul company events</li>
-</ul>
-<h3>About Canonical</h3>
-<p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004.​ Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.</p>
-<p>Canonical is an equal opportunity employer</p>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote</p><p>Requisition ID: 847</p><p></p>
     
                 </details>
                 </td>
