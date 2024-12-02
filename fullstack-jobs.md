@@ -1,38 +1,5 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1946971/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Xcellent Technology Solutions</h5>
-                    <h3>GIS Full Stack Engineer (Problem Solver)</h3>
-                </td>
-                <td width="300">
-                    <code>api,AWS,cloud,fullstack</code>
-                </td>
-                <td width="200">
-                <text>29 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/gis-full-stack-engineer-problem-solver-1946971" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Looking for the person who loves to generate solutions, combining GIS, Software Engineering, and AWS Cloud knowledge to provide complex code solutions for our client in Denver Colorado. The position is one of high importance and has traditionally been held as a career-building block for GIS-strong software engineers with exceptional critical thinking skills and the ability to solve complex coding problems in all 3 areas mentioned above. Xcellent Technology Solutions (XTS) is seeking a productive engineer with these skills to fit into a team of 8 supporting multiple innovation products at USGS with The National Map. The innovative pipeline includes user-derived solutions for their geospatial product needs. This is an ideal position for a creative problem solver who, while not needing to engage with customers, does need to solve the concerns presented by customers to the product owner.<br><br><br><strong>Requirements:</strong><br><br></p>
-<ul style="">
-<li style="">At a minimum, 4-6 years API design and implementation</li>
-<li style="">Proficiency with AWS CodePipline and/or AWS Code Deploy or similar stack to automate, visualize, integrate, customize, and scale the software development within a CI/CD process</li>
-<li style="">Python heavy Software Engineering is a major requirement, along with ability to work with Powershell and React</li>
-<li style="">Understanding of the concepts of IaC (Infrastructure as Code) leveraging Terraform, AWS CloudFromation  or CDK; CAC (Configuration as Code) with Chef, Ansible, Puppet, or Powershell</li>
-<li style="">As with most GIS Engineers needs to be highly fluent with ESRI suite of tools for developers and engineers</li>
-</ul>
-<p><br>Please be prepared to provide documented strong solution engineering and GIS experience or knowledge of GIS based on some prior life experience (not a dabbler, need to have coded GIS solutions).  Xcellent Technology Solutions is an employer of choice in the field of Geospatial solutions, we support both NGA and USGS with the absolute finest engineers and have a strong employee education program, work benefits , and this position has a great work/life balance. Please apply directly to this ad. This position can be full-time remote especially for the right candidate. </p>
-<img src="https://remotive.com/job/track/1946971/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1263546899153502209/ObHsQoNr_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
