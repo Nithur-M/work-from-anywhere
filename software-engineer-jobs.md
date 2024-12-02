@@ -67,6 +67,167 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1428393724527190022/4mt5PACL_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sourcegraph</h5>
+                    <h3>Software Engineer - Cloud Ops [IC3]</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/sourcegraph91/jobs/5201427004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><h2><strong><span style="color: #a112ff;">Who we are</span></strong></h2>
+<p>Our mission at Sourcegraph is to make it so that <a href="https://www.notion.so/sourcegraph/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d?pvs=4">everyone can code</a>, not just ~0.1% of the population. We're building the code intelligence platform that powers the world's best code search and the most popular open-source code AI tool. It’s an exciting time to join Sourcegraph—AI has taken over the world, and we aim to automate 99% of the toil in software engineering with our code understanding and code AI tools, leaving the remaining 1% to the irreplicable creative spark from humans.&nbsp;</p>
+<p>Our customers range from startups to the Fortune 500, 4/5 FAANG companies, government organizations, Uber, Plaid, and more. We’ve raised $225M at a $2.625B valuation from <a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/">a16z</a>,<a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"> Sequoia</a>, <a href="https://www.redpoint.com/companies/sourcegraph/">Redpoint</a>, <a href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d">Craft</a> and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</p></div>
+
+    <h2><span style="color: rgb(161, 18, 255);"><strong>Location</strong></span></h2>
+<p>🌎 While we are an all-remote company and hire <a href="https://sourcegraph.notion.site/How-we-engage-talent-outside-of-the-US-218f7193695a46cbb1ef39ef9c1f72d4">almost anywhere</a> in the world, we have a preference for someone to reside in the following locations for this role. However, if you feel qualified, we welcome you to apply regardless of location. No matter what, working hours must overlap with EST for at least 20 hours/week.</p>
+<p><strong>Preferred locations:</strong></p>
+<ul>
+<li>Remote, EST Timezone</li>
+</ul>
+<h2><span style="color: rgb(161, 18, 255);"><strong>Why this job is exciting</strong></span></h2>
+<p>Source code is at the heart of Sourcegraph. We support multiple code hosts and retrieve, store, index, and serve source code - to end users, admins, and other internal services. Our latest addition to our product catalog, Cody, reimagines how code is written and supercharges our developer customers. Sourcegraph hosts the infrastructure for our customers to manage their source code (search, insights, own, etc.) and our brand new AI Code Assistant (Cody).</p>
+<p>This role gives you the opportunity to solve complex, challenging, and highly technical problems for our customers, both internally and externally, help unleash the potential and productivity of our Engineering teams, and delight our customers with industry-leading quality software.&nbsp;</p>
+<p>The Cloud Operation team primarily focuses on building a fully managed platform for using Sourcegraph, Sourcegraph Cloud, our SaaS offering. As a member of the Cloud Ops team, you will work closely with both external customers and internal stakeholders to meet their needs. You will:</p>
+<ul>
+<li>Develop inter-cloud connectivity solutions to support enterprise customers from highly regulated industries to use Sourcegraph Cloud.</li>
+<li>Build a control plane to orchestrate a fleet of single-tenant Sourcegraph Cloud instances.&nbsp;</li>
+<li>Expose complex infrastructure as API to support internal customers to iterate faster.</li>
+<li>Dive into upstream dependencies (e.g., CDK for Terraform, Terraform providers for GCP)&nbsp; to debug and patch non-trivial problems.</li>
+<li>Be an advocate for building reliable services and work with leadership to help product teams achieve operational excellence.&nbsp;</li>
+<li>Participate in on-call rotation to uphold our contractual SLA commitments.</li>
+</ul>
+<p>📅 Within one month, you will…</p>
+<ul>
+<li>Onboard onto the Sourcegraph architecture, tooling, and development workflow.</li>
+<li>Build a solid understanding of the team’s areas of ownership, technical challenges, and problems the team solves for our customers, and know how all of these align with the top-level company goals.</li>
+<li>Actively participate in team meetings, sharing ideas and insights to contribute to the overall team goals.</li>
+<li>Start contributing to the team goals and deliverables by shipping new features, debugging issues, and fixing bugs.</li>
+</ul>
+<p>📅 Within three months, you will…</p>
+<ul>
+<li>Demonstrate a comprehensive understanding of the Cloud infrastructure, its underlying technologies, and its integration within the Sourcegraph ecosystem.</li>
+<li>Lead initiatives contributing to team goals through both discovery and delivery phases, collaborating directly with product and design partners, other engineering teams, and non-technical stakeholders from different departments.</li>
+<li>Contribute to the architectural design and implementation of new features or improvements, actively shaping the future direction of Cloud infrastructure based on customer needs.</li>
+<li>Lead initiatives contributing to team goals on the roadmap by going through the entire product development lifecycle discovery, design, implementation, and delivery.</li>
+<li>Participate in our on-call rotation.</li>
+</ul>
+<p>📅 Within six months, you will…</p>
+<ul>
+<li>Be defining long-term technical vision and strategies for new product development, scaling existing services, and managing technical debt. These plans will consist of multiple smaller milestones, which you will deliver with the team iteratively.</li>
+<li>Collaborate with the Engineering Manager on defining the team’s growth strategy based on the long-term product vision, the technical vision, and the team’s needs.</li>
+<li>Seek feedback from customers and stakeholders to identify opportunities for further improvements or new features, actively iterating on the Cloud infrastructure to ensure it continues to meet our high bar.</li>
+</ul>
+<h2><span style="color: rgb(161, 18, 255);"><strong>About you</strong></span></h2>
+<p>You bring a product mindset in balancing architectural flexibility and philosophy with meeting immediate customer demand. You are an experienced software engineer who looks to solve problems through writing code rather than one-off operations. You are passionate about user experience and self-service. You balance maintaining and designing high-impact systems with a pragmatic understanding of how to make appropriate tradeoffs (e.g., cut scope, low-tech vs. custom complex solutions) to ship quickly and iterate when necessary.&nbsp;</p>
+<p>Qualifications:</p>
+<ul>
+<li>Proficiency in Go, or other strongly typed languages.</li>
+<li>Knowledge in one of the public cloud platform providers (GCP, AWS, Azure)</li>
+<li>Experience with Terraform (or similar IaC solutions) and Kubernetes to build tooling and automation.</li>
+<li>Skilled at debugging distributed systems followed by designing and implementing solutions to those problems. This means you should know your way around various OS-level primitives, e.g., network, CPU, and memory.</li>
+<li>Ability to communicate clearly and empathetically, especially in writing and documentation.</li>
+<li>Preferred time zone between UTC-8 and UTC+2</li>
+</ul>
+<p>Nice to haves:</p>
+<ul>
+<li>Built services and exposed them as API for external consumption&nbsp; (e.g., gRPC).</li>
+<li>Comfortable implementing system-level software&nbsp; (e.g., custom transport protocol) if needed or has contributed to Kubernetes controllers/operators.</li>
+<li>Published blog posts and/or tech talks about your work.</li>
+<li>Experience working on small high-performing teams, preferably tech startups.</li>
+</ul>
+<h2><span style="color: rgb(161, 18, 255);"><strong>Level</strong></span></h2>
+<p>📊 This job is an IC3. You can read more about <a href="https://www.notion.so/sourcegraph/Leveling-Guide-0e1b5c76ada64b9caac387f8b7c4fc66">our job leveling philosophy</a> in our Handbook.</p>
+<h2><span style="color: rgb(161, 18, 255);"><strong>Compensation</strong></span></h2>
+<p><strong>💸 We pay you an above-average salary</strong> because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. As an <a href="https://sourcegraph.notion.site/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d">open and transparent</a> company that values <a href="https://www.notion.so/sourcegraph/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=4">competitive compensation</a>, our compensation ranges are visible to every single Sourcegraph teammate.</p>
+<p>Your salary is determined by your pay band for the IC3 job level. For determining pay bands, we use a number of market and data-driven salary sources, along with your location zone, and target the high-end of the range to ensure we’re always paying above market regardless of where you live in the world. Both U.S. and international locations are divided into one of four zones, determined by the cost of labor index for each area. The salary for a successful candidate will be based on level, job-related skills, experience, qualifications, and location zone. Please note that the salaries below may be adjusted in the future.</p>
+<p>💰The target compensation for this role is based on the IC3 pay band for your zone. The start of the IC3 pay band for each zone is listed below:</p>
+<ul>
+<li>Zone 2: $136,000 USD</li>
+<li>Zone 3: $102,000 USD</li>
+<li>Zone 4: $68,000 USD</li>
+</ul>
+<p>Please speak with a recruiter for additional information regarding zone locations.</p>
+<p>📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous&nbsp;<a href="https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba">perks &amp; benefits</a>.</p>
+<h2><span style="color: rgb(161, 18, 255);"><strong>Interview process</strong></span></h2>
+<p><em>Below is the interview process you can expect for this role (you can read more about </em><a href="https://sourcegraph.notion.site/Types-of-interviews-f279f080583d49ee9f2c60e30c8cb1f7"><em>the types of interviews</em></a><em> in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&nbsp;</em></p>
+<p>We expect the interview process to take 4.5 hours in total.</p>
+<p><strong>👋 Introduction Stage</strong>&nbsp;- we have initial conversations to get to know you better…</p>
+<ul>
+<li>[30m]&nbsp;<a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#99be5ff628b2414194a0ba79d9f25f13">Recruiter Screen</a></li>
+<li>[15m]&nbsp;<a href="https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#6a6deb280d374652b21d5aa3061c82d2">Hiring Manager Intro</a></li>
+</ul>
+<p><strong>🧑‍💻 Team Interview Stage</strong> - we then schedule an all-day "onsite" interview to delve into your experience in more depth and introduce you to members of the team, including cross-functional partners…</p>
+<ul>
+<li>[Async] Take home exercise</li>
+<li>[60m] Exercise walkthrough (10-15m) &amp; System Design (45m)</li>
+<li>[45m] <a href="https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#da568e7854bb4aaa9b027157088e2d71">Technical Screen / Resume Deep Dive</a></li>
+<li>[45m]&nbsp;<a href="https://sourcegraph.notion.site/Resources-for-Candidates-Engineering-Interview-Process-c37a70dea5794085bee0c0818c9ef0b3#e83edd987754460e839138a4bbfd592e">Pairing Exercise</a></li>
+<li>[60m] <a href="https://sourcegraph.notion.site/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7#cb00697e95304550a146c32563c0255d">Cross-functional Team Collaboration Interview</a>&nbsp;/&nbsp;<a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#e3a04291743048df87541a88aa8199dd">Values Interview</a></li>
+<li>[15m]&nbsp;<a href="https://www.notion.so/sourcegraph/How-to-work-with-Quinn-Slack-CEO-807673e0864d473f959cc4efd9642a5a?pvs=4#6f185c0e2011411eac5be9c675f9056c">Leadership</a> with co-founder</li>
+<li>We check references and conduct your background check</li>
+</ul>
+<p>Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.</p>
+
+    
+
+    <div class="content-conclusion"><h2><strong><span style="color: #a112ff;">Learn more about us</span></strong></h2>
+<p>We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process. You can learn more about what it is like to work at Sourcegraph by reading <a href="https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0">our handbook</a>.</p>
+<p><span style="font-weight: 400;">We provide </span><a href="https://sourcegraph.notion.site/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74"><span style="font-weight: 400;">competitive compensation</span></a><span style="font-weight: 400;"> and </span><a href="https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba?pvs=74"><span style="font-weight: 400;">practical benefits</span></a><span style="font-weight: 400;"> to keep you happy and healthy so that you can do your best work.&nbsp;</span><span style="font-weight: 400;">&nbsp;</span></p>
+<p>Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds.&nbsp;</p>
+<p><em>Sourcegraph participates in&nbsp;<a href="https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107">E-Verify</a> for U.S. Employees.&nbsp;</em></p></div>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/378800000147745937/0fac42c12b433bbbd53ff3e15cd6fca4_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>MixRank</h5>
+                    <h3>Software Engineer - BRAZIL / Remote</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://www.ycombinator.com/companies/mixrank/jobs/73TJGSg-software-engineer-brazil-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Who we are</strong></p>
+<p>MixRank processes petabytes of data every month from web crawling. We have hundreds of customers using our data products including Google, Amazon, Facebook, Intel, and Adobe, across industries Sales, Marketing, Finance, and Security.</p>
+<p>Team is 40 full-time, full-remote from 20+ countries. We're growing, profitable, employee-owned, no dependence on outside funding. Applicants from all geographies and backgrounds are welcome.</p>
+<p>We are looking for passionate individuals for whom programming is not just a job but it’s something they love to do. We're obsessed with computers, programming, big data, databases, compilers, hardware, math, data science, and the internet. Does this sound like you? Please apply to join our team.</p>
+<p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, Rust, SQL, Javascript/TypeScript, and Nix. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
+<p>We operate at a larger scale than typical startups. We operate two datacenters with high performance servers we've built that are capable of dealing with the volumes of data we process. We've implemented our own distributed file system. We do full-scale web crawls. We download and perform static analysis on the entire universe of Android APKs and iOS IPAs that are published. Unlike a typical startup where you'll spend half of your time in meetings, and the other half fixing bugs from Jira tickets— at MixRank you'll get to challenge yourself with difficult technical problems that will help you to grow as an individual.</p>
+<p><strong>Who we’re looking for</strong></p>
+<p>We're hiring generalist software engineers to work on web applications, data mining, machine learning/data science, data transformation/ETL, data modeling, database scaling, infrastructure, devops, and more. We'll cater the role to whatever subset of these areas match your interests.</p>
+<p>Beneficial experience includes PostgreSQL, Python, Rust, Linux, TypeScript, Nix, frontend/backend web development, and data mining.</p>
+<p>Please include your updated resume when applying for this role.</p>
+<p><strong>Important:</strong> Only accept job offers from emails ending in @<a href="http://mixrank.com" target="_blank">mixrank.com</a><a href="http://mixrank.com/" target="_blank">. Offers fr</a>om any other email addresses are fraudulent. Do not share personal information with unverified senders.</p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/378800000147745937/0fac42c12b433bbbd53ff3e15cd6fca4_400x400.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -80,7 +241,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/fmb1v9v-junior-software-engineer-remote-global" align="right" target="_blank">Apply</a>
+                <a href="https://www.ycombinator.com/companies/mixrank/jobs/cFFeoR1-junior-software-engineer-remote-global" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -101,7 +262,7 @@
                 </td>
                 <td width="300">
                     <h5>MixRank</h5>
-                    <h3>Software Engineer - Remote (Global)</h3>
+                    <h3>Software Engineer (Remote) | BR / CO / AR / EG</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -110,7 +271,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://www.ycombinator.com/companies/mixrank/jobs/RXQspen-software-engineer-remote-global" align="right" target="_blank">Apply</a>
+                <a href="https://www.ycombinator.com/companies/mixrank/jobs/vSWwHuG-software-engineer-remote-br-co-ar-eg" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -118,7 +279,7 @@
                 <details><summary>Description</summary>
                 <p><strong>Who we are</strong></p>
 <p>MixRank processes petabytes of data every month from web crawling. We have hundreds of customers using our data products including Google, Amazon, Facebook, Intel, and Adobe, across industries Sales, Marketing, Finance, and Security.</p>
-<p>Team is 40 full-time, full-remote from 20+ countries. We're growing, profitable, employee-owned, no dependence on outside funding. Applicants from all geographies and backgrounds are welcome.</p>
+<p>Team is 44 full-time, full-remote from 20+ countries. We're growing, profitable, employee-owned, no dependence on outside funding. Applicants from all geographies and backgrounds are welcome.</p>
 <p>We are looking for passionate individuals for whom programming is not just a job but it’s something they love to do. We're obsessed with computers, programming, big data, databases, compilers, hardware, math, data science, and the internet. Does this sound like you? Please apply to join our team.</p>
 <p>Our code base is very friendly to new contributors. You'll have a fully-functional development environment within hours (fully automated) and be pushing commits on your first day. Deployments to production happen multiple times per day and finish in less than 2 minutes. Effectively all of our codebase is written in Python, Rust, SQL, Javascript/TypeScript, and Nix. The core technologies you'll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git.</p>
 <p>We operate at a larger scale than typical startups. We operate two datacenters with high performance servers we've built that are capable of dealing with the volumes of data we process. We've implemented our own distributed file system. We do full-scale web crawls. We download and perform static analysis on the entire universe of Android APKs and iOS IPAs that are published. Unlike a typical startup where you'll spend half of your time in meetings, and the other half fixing bugs from Jira tickets— at MixRank you'll get to challenge yourself with difficult technical problems that will help you to grow as an individual.</p>
@@ -1739,6 +1900,30 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://media.licdn.com/dms/image/D4E0BAQFdRsd49YG4fQ/company-logo_200_200/0/1688735422027/collabora_logo?e=2147483647&v=beta&t=COQKgdesE_abHpZN-7BjhNZ1IKm2nhQyHB637TbP88E" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Collabora</h5>
+                    <h3>Senior C++ Software Engineer (Remote/Anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/collabora/afb6f2ea-9c39-498c-863c-82764ea247a0" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered" data-qa="job-description"><div><span style="font-size: 11pt;">Collabora Productivity Ltd. is a software company specialising in bringing the innovation created in Open Source projects such as LibreOffice to the market, along with services, long term support and software consultancy. We combine years of open source software leadership with an understanding of the challenges that businesses, non-profits, and governments face.</span></div><div><br></div><div><span style="font-size: 11pt;">Collabora Productivity brings deep technical expertise around the Office space, from our preferred Open Document format to many other, including legacy, document formats such as OpenXML and Microsoft binary formats, using modern technologies like C++ 17.</span></div><div><br></div><div><br></div></div><div class="section page-centered"><div><h3>Key Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Root cause analysis and fixing of document interoperability issues</li><li>Analysing client problems, designing, and implementing solutions leveraging open source technologies and communicating the solutions in a compelling fashion</li><li>Annual conference attendance to present progress made to the Open Source community</li><li>Self starting analysis of limited project descriptions, ability to break complex tasks down into smaller deliverables, execute and report progress against these</li><li>Assistance in estimation of project costs</li><li>Implementation of features based on unclear customer input to exceed their expectations</li><li>Communication with the community, other team members, and customers using mailing 	lists, chats, phone and video conference</li><li>Capacity to travel a few times per year worldwide</li><li>Reliable and timely delivery of quality solutions to clients and internal customers</li><li>Development of strong relationships with key personnel, decision makers and customers</li></ul></ul></div></div><div class="section page-centered"><div><h3>Commercial Skills</h3><ul class="posting-requirements plain-list"><ul><li>Understanding client needs and reconciling time constraints, available technologies and resources and open source best practices</li><li>Ability to work in a global context with clients and engineers spanning continents</li><li>Knowledge of customers’ organization, management, product, target market, applications and decision making internal process 	</li></ul></ul></div></div><div class="section page-centered"><div><h3>Technical Skills</h3><ul class="posting-requirements plain-list"><ul><li>Large scale C++ development experience, on projects of &gt; 1 million lines of code</li><li>LibreOffice development experience preferred</li><li>Excellent code reading skills</li><li>Office Suite, file format and binary file format reverse engineering experience a plus</li><li>Good interpersonal skills, along with knowledge of open source 	development methodologies and good standing in the open source community</li><li>Significant demonstrable contributions to components in the open source ecosystem</li><li>BS/BA or extensive experience in the role of Software Engineer </li><li>Experience of unit testing</li><li>Cross-platform aware, deep knowledge of either Linux, MS Windows, or OSX, and some knowledge of one more platform (Cygwin knowledge helpful if MS Windows is the core skill)</li><li>Experience with Android, iOS or another mobile operating system a bonus</li><li>Casual scripting in Perl / Python / BASH or other language(s)</li><li>Version control systems – ideally knowledge of git</li></ul></ul></div></div><div class="section page-centered"><div><h3>Personal Skills</h3><ul class="posting-requirements plain-list"><ul><li>Highly self motivated, reliable with a demonstrable passion for Open Source and the office domain</li><li>Able to work from home office, managing own time effectively</li><li>Self learning skill to get sufficient knowledge of Collabora's services, 	business model, project delivery lifecycle and other related technical domains</li><li>Good interpersonal skills</li><li>Winsome presentation skills appreciated</li><li>Good English language skills (both verbal and written) </li><li>German language skills a bonus</li><li>Ability to work and communicate in an online distributed environment</li></ul></ul></div></div><div class="section page-centered" data-qa="closing-description"><div>#LI-Remote</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/collabora/afb6f2ea-9c39-498c-863c-82764ea247a0/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1435749714821926913/SgjRHZ17_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -1831,6 +2016,30 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="section page-centered" data-qa="job-description"><div><b>About Us</b></div><div>At <a rel="noopener noreferrer" class="postings-link" href="http://iterative.ai/"><i>iterative.ai</i></a>, we build open-source tools for machine learning <a rel="noopener noreferrer" class="postings-link" href="https://dvc.org/">DVC</a> (12k+ ⭐&nbsp; on GitHub),  and enterprise-grade data infrastructure solutions. We also offer a team collaboration SaaS solution - <a rel="noopener noreferrer" class="postings-link" href="https://studio.iterative.ai/">Studio</a>. We're a well-funded (Series A), remote-first team (50+ employees) on a mission to solve the complexities of managing datasets, ML infrastructure, ML models lifecycle, and other ML &amp; data-centric workflows.</div><div>We value great collaboration and communication skills, both among internal teams and in how we interact with our users. We take care to balance and be responsive to the needs of our open source community as well as our enterprise customers.</div><div><b>Check us out in other places:</b></div><div>🖥  <a rel="noopener noreferrer" class="postings-link" href="https://iterative.ai/">Website</a>  📂&nbsp; <a rel="noopener noreferrer" class="postings-link" href="http://dvc.org/doc">Docs</a>  👾: <a rel="noopener noreferrer" class="postings-link" href="http://github.com/iterative">GitHub</a>  🖊&nbsp; <a rel="noopener noreferrer" class="postings-link" href="http://dvc.org/blog">Blog</a>  ⏯️&nbsp; <a rel="noopener noreferrer" class="postings-link" href="https://www.youtube.com/channel/UC37rp97Go-xIX3aNFVHhXfQ">YouTube</a>  💬&nbsp;<a rel="noopener noreferrer" class="postings-link" href="https://dvc.org/chat">Discord</a></div><div><br></div><div><b style="font-size: 18px;">Job Description</b></div><div>We're seeking a strong python backend engineer to work on <a rel="noopener noreferrer" class="postings-link" href="http://iterative.ai">iterative.ai</a>'s SaaS&nbsp;offering - <a rel="noopener noreferrer" class="postings-link" href="https://studio.iterative.ai/">studio</a><b>&nbsp;</b>- a managed ML workspace/hub allowing for ML teams to share and collaborate experiments, models and more</div><div>Strong Python knowledge, code design, some full-stack abilities and excellent coding culture (standards, unit test, etc) are required. We are looking for someone who loves dev tools, ML and MLOps and is ready to be 100% hands-on and lead by doing! </div></div><div class="section page-centered"><div><h3>Responsibilities</h3><ul class="posting-requirements plain-list"><ul><li>Discuss and research issues, bugs and new features.</li><li>Take ownership of the full development lifecycle - From planning, through designing, execution, testing to supporting in production</li><li>Be 100% hands-on - we expect technical expertise on the backend and some full stack ability and involvement in the frontend (react, typescript) to be able to be effective</li><li>Document your code and share knowledge with the team</li></ul></ul></div></div><div class="section page-centered"><div><h3>Must have</h3><ul class="posting-requirements plain-list"><ul><li>Motivation and interest (Technologies, domain, customer impact)</li><li>Love for clean &amp; efficient code</li><li>Remote work self-discipline - ability to focus and deliver reliably - respect team's planning, deadlines, etc</li><li>Excellent communication skills - clear, constructive, and respectful dialog with other team members, community</li><li>Technical Leadership - hands-on technical leadership, experience in lead by doing, driving big features and architectural decisions. Contributing to the team's growth and enriching other team members with your knowledge and experience</li></ul></ul></div></div><div class="section page-centered"><div><h3>Great to have</h3><ul class="posting-requirements plain-list"><ul><li>Experience working remotely</li><li>Open source contributions or experience of maintaining, developing an open source project</li><li>System programming experience - kernel, databases, etc.</li><li>Machine Learning or Data Science experience</li></ul></ul></div></div><div class="section page-centered" data-qa="closing-description"><div><br></div><div><br></div><div>ℹ️&nbsp;<b>Our Hiring Process</b></div><div>We will go over the process with you in the Introductory call to make sure it is clear and you know what to expect.</div><div>Here is the full interview process you can expect - It’s our go-to for most positions:</div><div>🤙&nbsp; Introductory call [~1h]</div><div>👨‍🏫&nbsp; Tech call with a team member [~45m]</div><div>👩🏾‍💻&nbsp; Take-home coding task [real-world, asynchronous] - <i>We pay for your time</i>! See this <a rel="noopener noreferrer" class="postings-link" href="https://www.notion.so/Iterative-ai-is-Hiring-852cb978129645e1906e2c9a878a4d22">FAQ</a>.</div><div>🦾&nbsp; Task summary / retro call [Optional, ~1h]</div><div>✏️  Offer</div><div><br></div><div>👩‍💻&nbsp;<b>Culture</b> - <b><i>We take care of our people</i></b></div><div>💖&nbsp; <b>Diversity</b> - As a <a rel="noopener noreferrer" class="postings-link" href="https://iterative.ai/about/#the-team">distributed company</a>, diversity drives our identity. Whether you’re looking to launch a new career or grow an existing one, <a rel="noopener noreferrer" class="postings-link" href="http://iterative.ai/"><i>iterative.ai</i></a> is the type of company where you can balance great work with great life, and work with a wonderful team that does the same! No matter who you are or where you’re from; we need you for what you can do and for caring about ML and delivering great developer tools!</div><div>⚖️&nbsp; <b>Equal opportunities</b> - We strive to have parity of benefits across regions and while regulations differ from place to place, we believe taking care of our people is the right thing to do. No country or region takes precedence for personal growth, compensation, team recognition, or anything else, it just doesn’t matter where you are.</div><div>👣&nbsp; <b>Flexibility first</b> - Ability to craft your calendar with flexible locations and schedules</div><div>⚓️  <b>Team Driven Culture</b> - Engineering team is involved in product discussions and planning. We do it openly via GitHub or Discord chat. Well-defined process that we all participate in improving. As an employee you will have visibility to everything in Iterative, we are <a rel="noopener noreferrer" class="postings-link" href="https://iterative.ai/about/#the-team"><b>One team</b></a><b>.</b></div><div><br></div><div>👏<b>&nbsp;Perks &amp; Benefits</b></div><div>🌎&nbsp; <b>Work wherever you want -</b> No offices. Team is distributed remotely worldwide.</div><div>🗓️  <b>Work whenever you want -</b> Asynchronous communication and engineering culture. We are light on meetings and emphasize people finding their own schedule to be <b>prolific &amp; effective</b>. Oh yeah, also <b>Unlimited PTO and sick days!</b></div><div>🤗  <b>Open-source your code</b> - We’re an open-source-first company (frankly, it’s in our DNA). Your work will be visible and will be used by thousands of developers every day! Check out our <a rel="noopener noreferrer" class="postings-link" href="http://dvc.org/chat">Discord</a> and <a rel="noopener noreferrer" class="postings-link" href="http://github.com/iterative">GitHub</a>.</div><div>🪙&nbsp; <b>Competitive compensation</b> - based on the work you do here and not your previous salary.</div><div>⚕️ <b>Great health coverage</b> (medical, dental, vision) for you and your family, 100% paid by us (US only, but can discuss and reimburse, adjust the salary in other locations).</div><div>🛡️ <b>Benefits</b> - 401K with 100% match up to 4% of annual salary (US only, but we give the best we can worldwide through reimbursements and hiring platforms).</div><div>🎤  <b>Participate in conventions and conferences</b> (PyCon, PyData, O'Reilly AI, etc) - We encourage and support everyone in giving talks, writing blog-posts, and other activities.</div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit teal" data-qa="show-page-apply" href="https://jobs.lever.co/iterative/4d684b23-f924-41f5-a727-b79cac48a1e3/apply">Apply for this job</a></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
+                    <h3>Principal Software Engineer / Product Owner (worldwide remote, work anywhere)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/87C3E69B59" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>CloudLinux is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful. We are truly a great place to work.</p><p>Check out our website for more information - <a href="https://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">https://cloudlinux.com/</a>&nbsp;</p><p></p><p>We are seeking an experienced and dynamic Principal Software Engineer to drive the development of an AI-Based Code Reviewer framework. This role requires a blend of strong technical expertise, product vision, and agile project management skills. You will lead the project from proof of concept (PoC) through internal testing across multiple R&amp;D teams, tailoring and configuring the solution to meet specific team and project needs.<br></p><p><strong>Key responsibilities:</strong></p><ul> <li>Lead the end-to-end development of the AI-Based Code Reviewer framework.</li> <li>Prototype quickly to test hypotheses and iterate based on feedback.</li> <li>Hire the right people and lead them</li> <li>Customize the framework for specific projects and development teams.</li> <li>Collaborate with multiple R&amp;D teams to implement and refine the PoC.</li> <li>Ensure rapid delivery while maintaining high-quality standards.</li> <li>Communicate effectively with stakeholders at all levels.</li> </ul><p></p><p><strong>Tech Stack:</strong></p><p><strong>Python</strong>:</p><ul> <li>FastAPI, NumPy, Pandas, scikit-learn</li> <li>Hugging Face Transformers for LLM integration</li> <li>OpenAI API / Anthropic API</li> </ul><p><strong>DB</strong>:</p><ul> <li>PostgreSQL for relational data</li> <li>MongoDB or similar for document storage</li> <li>Redis</li> </ul><p><strong>Code Analysis Tools:</strong></p><ul> <li>Language-specific</li> <li>AST (Abstract Syntax Tree)</li> <li>Tree Sitter </li> </ul><p><strong>Project Management &amp; Collaboration:</strong></p><ul> <li>Jira</li> <li>Slite</li> <li>Miro</li> </ul><p><strong>Other technologies: </strong></p><ul> <li>Git/Gerrit API</li> <li>Docker</li> <li>Gitlab/Jenkins</li> <li>Sentry</li> <li>Vector databases (like Pinecone or Weaviate) for code embeddings</li> </ul><h3>Requirements: </h3><p><strong>To thrive in this role, we are looking for someone who has:</strong></p><ul> <li>Extensive Software Development Experience: Proven expertise in code development and delivery.</li> <li>AI/ML Proficiency: Experience with AI technologies, particularly in code analysis or automated code review tools.</li> <li>Project Leadership: Demonstrated ability to lead projects or teams in a software development environment.</li> <li>Prototyping Skills: Ability to quickly develop prototypes to validate concepts.</li> <li>Agile Mindset: Comfortable with rapid switching between tasks and adapting to changing requirements.</li> <li>Product Vision: Understanding of product management and the ability to align technical efforts with business goals.</li> <li>Communication Skills: Excellent English verbal and written communication abilities for effective collaboration.</li> </ul><p><strong>Will be a plus:</strong></p><ul> <li>Startup Experience: Familiarity with startup environments and fast-paced project delivery.</li> <li>Customization Expertise: Experience tailoring software tools to meet specific team or project needs.</li> <li>R&amp;D Collaboration: Prior work across multiple R&amp;D teams.</li> <li>Code Review Knowledge: Deep understanding of code review best practices and tools.</li> <li>PoC Development: Background in developing and testing proof-of-concept projects internally.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.</li> <li>Compensation for private medical insurance.</li> <li>Co-working and gym/sports reimbursement.</li> <li>Budget for education.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p></p><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
                 </details>
                 </td>
             </tr>,<tr>
