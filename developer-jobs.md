@@ -1,164 +1,5 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1946972/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Spidergap</h5>
-                    <h3>Full-Stack Developer with Work-Life Balance (JavaScript, Node.js, React)</h3>
-                </td>
-                <td width="300">
-                    <code>cloud,CSS,fullstack,html</code>
-                </td>
-                <td width="200">
-                <text>29 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-with-work-life-balance-javascript-node-js-react-1946972" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We’re recruiting a full-stack developer to join our product team at Spidergap/AirManual.</p>
-<p> </p>
-<p>This is a rare opportunity to join a small, 100% remote, profitable and ambitious company that also appreciates that there’s more to work than revenue (!).</p>
-<p> </p>
-<p>At Spidergap/AirManual, we’re:</p>
-<p> </p>
-<ul style="">
-<li style="">Fueled by the passion and exceptional talent of a successful start-up</li>
-<li style="">Hungry to amaze our customers and grow the business</li>
-<li style="">Always looking to grow as individuals and a team</li>
-<li style="">AND Focused on doing it all without unnecessary stress, and with a healthy work-life balance</li>
-</ul>
-<p> </p>
-<p>If you’re a software developer who moves quickly and values code quality, wants to grow by working in a small and experienced team, and loves helping real customers to achieve their goals… then read on!</p>
-<p> </p>
-<p>What we do</p>
-<p>We’re a SaaS business with two products: Spidergap and AirManual. You’ll be working primarily on Spidergap, with opportunities to contribute to both products.</p>
-<p> </p>
-<p>Spidergap</p>
-<p>With Spidergap, our goal is to make it easy for organizations to support the personal development of their employees. We do this by providing a platform for employees to get feedback, plan personal development, and take action.</p>
-<p> </p>
-<p>We’ve been the <a href="https://www.capterra.com/360-degree-feedback-software/" rel="nofollow">top-rated 360° Feedback tool since 2017</a>, and are used in 134+ countries by thousands of organizations including Samsung, 3M, Sony, the NHS, the European Commission, Breville, Konica Minolta and Philips.</p>
-<p> </p>
-<p>We’ve recently kicked off an ambitious plan to expand our product offering, as we look to support employees with all aspects of personal development. This includes a revamp of our product working in the latest technologies.</p>
-<p> </p>
-<p>AirManual</p>
-<p>We created AirManual in 2020 with the goal of helping other businesses to scale up, without constant stress. We provide tools for documenting and automating processes, working together in teams, and reviewing the health of the entire business.</p>
-<p> </p>
-<p>We’re now supporting over 100 businesses, including big names such as Asahi Beer and with particular traction in the Accountancy market. As with Spidergap, we consistently get <a href="https://www.capterra.com/p/235723/AirManual/" rel="nofollow">exceptionally positive reviews</a>.</p>
-<p> </p>
-<p>We’re currently expanding the AirManual product to support teams with wider challenges that cause stress in small businesses, such as managing the day-to-day issues that occur in teams.</p>
-<p><br><br><strong>Requirements</strong><br><br></p>
-<p>We’re looking for something who’s a great fit for our company values, and who can bring the technical talent needed in this specific role.</p>
-<p> </p>
-<p>Do you share our values?</p>
-<p>We're looking for people who share our values:</p>
-<p> </p>
-<ol style="">
-<li style=""><strong>Focus on impact: </strong>We know our growth is dependent on increasing the value we deliver to customers. We focus our energy on improvements that will make a real difference, with a desired outcome made clear up-front. We expect everyone to understand <em>why</em> they are working on a particular activity or objective, being clear on how it will benefit the business and our customers.</li>
-<li style=""><strong>Be proactive and dependable: </strong>Everyone can solve problems and remove barriers to growth — both personally and for the company. We are quick to raise issues and ideas, and to recommend next steps. We make it easier for others to feel they can depend on us by being proactive in our communication and action.</li>
-<li style=""><strong>Pay attention to detail: </strong>We believe the quality of everything we do is a competitive advantage. We expect high attention-to-detail, whether it's in how we write an email, review our analytics, or design the site. We delight in getting the details right, even in internal documents. High attention to detail isn’t something you turn on and off — it’s an attitude. </li>
-<li style=""><strong>Always look to improve:</strong> We survive and grow by constantly looking for opportunities to improve our solutions, our processes and ourselves. We own our mistakes, using them as an opportunity to learn what changes we should make to processes and tools. We expect our people to proactively look for opportunities to develop and improve our own performance.</li>
-<li style=""><strong>Enjoy the journey: </strong>We consider our health and families to be more important than work. We ensure no-one feels that they are frequently required to work excessive hours. We support each other in overcoming problems and achieving work and life goals. We’re positive and enthusiastic — helping everyone feel energized to take us to the next level. We don’t pin our happiness on the attainment of a particular end goal — we delight in each step along the way.</li>
-</ol>
-<p> </p>
-<p>We don’t just ‘say’ these are our values. We use them all the time — to recruit the right people, manage individual performance, recognize good practice, and make decisions. </p>
-<p> </p>
-<p>Is the role right for you?</p>
-<p>A large part of the work will be developing and supporting new functionality using TypeScript/NodeJS/React.</p>
-<p> </p>
-<p>We follow “clean" code principles, agile processes and continuous integration tools to efficiently take features from concept to roll-out, and to continuously optimize our processes. Your attention to detail will help us to amaze our customers, and to grow our services and codebase in a robust and maintainable way.</p>
-<p> </p>
-<p><strong>Responsibilities:</strong></p>
-<ul style="">
-<li style="">Collaborate to deliver solutions from design to release</li>
-<li style="">Write reliable, modular, well-tested and “clean” code</li>
-<li style="">Proactively raise ideas and issues, contributing to designs with feedback and suggestions for improvement</li>
-<li style="">Support other team members through peer review</li>
-<li style="">Help to optimize our development processes and build tools</li>
-<li style="">Ensure progress, issues and ideas are communicated clearly to the right people</li>
-<li style="">Help us to deliver outstanding customer support.</li>
-</ul>
-<p> </p>
-<p><strong>Tech stack (Spidergap):</strong></p>
-<ul style="">
-<li style="">TypeScript</li>
-<li style="">Node.js (NestJS)</li>
-<li style="">Remix (React)</li>
-<li style="">MySQL</li>
-<li style="">Google Cloud</li>
-</ul>
-<p> </p>
-<p>AirManual uses a similar tech stack, using PostgresSQL rather than MySQL and currently reviewing whether to adopt Remix + TypeScript.</p>
-<p>You may be occasionally asked asked to support legacy solutions developed with Express, Create React App, AngularJS, Loopback, and PHP.</p>
-<p> </p>
-<p><strong>Tools:</strong></p>
-<ul style="">
-<li style="">GitHub</li>
-<li style="">Slack</li>
-<li style="">Codeship</li>
-<li style="">Dropbox Paper</li>
-<li style="">GMail</li>
-<li style="">Hubspot</li>
-<li style="">Sentry</li>
-<li style="">(And many more!)</li>
-</ul>
-<p> </p>
-<p><strong>Requirements:</strong></p>
-<ul style="">
-<li style="">Passionate and driven — about software development, and about life outside work</li>
-<li style="">Excellent attention to detail, including a focus on delivering high-quality code that is easy to maintain and scale</li>
-<li style="">2+ years of JavaScript experience, working on production code</li>
-<li style="">Experience with front-end libraries in production such as React or Vue</li>
-<li style="">Experience with React, SQL, HTML, CSS and automated testing</li>
-<li style="">Happy to work remotely</li>
-<li style="">Loves 'going the extra mile' to deliver outstanding work</li>
-<li style="">Believes in and practices self-improvement / personal development</li>
-<li style="">Keen and able to learn</li>
-<li style="">Loves technology and figuring out how things work and helping others to do the same</li>
-<li style="">Communicates clearly, in a friendly way</li>
-</ul>
-<p> </p>
-<p><strong>Location:</strong></p>
-<ul style="">
-<li style="">This is a 100% remote job — you are responsible for having an effective work environment</li>
-<li style="">You must be a location that overlaps the working hours of our existing team members — we will only accept applications in timezones from UTC -4 (New York) to UTC +6 (Dhaka)</li>
-<li style="">Due to local employment and/or international laws, we cannot currently employ people based in Brazil, France, or UAE.</li>
-</ul>
-<p><br><br><strong>Benefits</strong><br><br></p>
-<p>We strive to make Spidergap <em>the</em> best place to work.</p>
-<p> </p>
-<p>We are doing this by creating the best products in our markets, building a great diverse team, encouraging great work-life balance (including taking lots of annual leave), being family-friendly, having fun, and maintaining a strong culture of continuous improvement (business and personally).</p>
-<p> </p>
-<ul style="">
-<li style=""><em>“Working at Spidergap has been a huge quality of life upgrade”</em></li>
-<li style=""><em>“This company truly works as a TEAM. The co-founders have brought together a top-notch group of A players who work together seamlessly.”</em></li>
-<li style=""><em>“This is the best work-week I have ever had. I love it here.”</em></li>
-</ul>
-<p> </p>
-<p> </p>
-<p> </p>
-<p>Benefits:</p>
-<ul style="">
-<li style=""><strong>Competitive salary. </strong>We calculate a competitive salary that represents the typical salary (50th percentile) for your role, experience and location. This is typically in the range of GBP £45k–£70k / USD $45k–$90k.</li>
-<li style=""><strong>Profit share bonus</strong>, paid annually. Based on company profit and individual performance (reviewed throughout the year, not just at the end!).</li>
-<li style=""><strong>40 days paid vacation</strong> inclusive of public holidays. We’ll make sure you take them!</li>
-<li style=""><strong>Work remotely.</strong> As long as your internet connection is excellent and you’re able to collaborate when needed, you’re free to work from any location you wish.</li>
-<li style=""><strong>Flexible working. </strong>You’ll need some set hours in which to collaborate with the team, but we’ll do our best to be flexible so you can support your family, friends and/or hobbies!</li>
-<li style=""><strong>Annual all-staff meet-up. </strong>Previous locations: Iceland, Barcelona, Berlin, Athens, Edinburgh, Budapest.</li>
-<li style=""><strong>4 months paid maternity/paternity</strong> <strong>leave.</strong></li>
-<li style=""><strong>Family-friendly work environment.</strong> Both co-founders work from home and have young children so we understand the challenges and what helps!</li>
-<li style=""><strong>Health membership contribution — </strong>you can use this to pay for the gym or an equivalent activity.</li>
-<li style=""><strong>Bring your own device contribution. </strong>We’ll make sure you have the equipment you need to work efficiently.</li>
-<li style=""><strong>Pension contribution. </strong>Typically 10%, depending on country laws.</li>
-</ul>
-<img src="https://remotive.com/job/track/1946972/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/11767950?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -572,6 +413,30 @@
                 </td>
                 <td width="300">
                     <h5>CloudLinux</h5>
+                    <h3>Senior Frontend Developer (remote-only opportunity, location - Europe)</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://apply.workable.com/cloudlinux-1/j/6C98B1FFBE" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>CloudLinux</strong> is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful. </p><p>We are truly a great place to work!</p><p>Check out our website for more information: <a href="https://cloudlinux.com/" target="_blank" rel="nofollow noreferrer noopener" class="external">https://cloudlinux.com/</a>.</p><p></p><p><strong>We are looking for a skilled Senior Frontend Developer who will be responsible for replacing the current solution based on server-side HTML templates rendering with a single-page application.</strong> Firstly, you will work on setting up the new application build process from scratch. Secondly, you will work on gradually replacing each page rendered on the server side with modules of SPA. </p><p>The component you will take responsibility for is offered as SaaS and is delivered from our own centralized infrastructure. This role is incredibly challenging and captivating, given the scalability challenges and sensitive nature of the data we deal with. A thorough understanding of JavaScript, CSS, HTML, Angular, and security is crucial. Your work will directly impact the safety and functionality of millions of websites worldwide, so attention to detail and a high-quality standards are paramount.</p><p></p><p><strong>Key Responsibilities:</strong></p><ul> <li>Implementing user interfaces using front-end technologies (HTML, CSS, Angular)</li> <li>Technical ownership of the created application</li> <li>Working with Linux-based systems for deployment</li> <li>Building pipelines for code testing and delivery</li> <li>Ensuring application security and data protection</li> <li>Troubleshooting and debugging code across the stack</li> <li>Version control using Git, including branching, merging, and pull requests</li> <li>Reviewing your colleagues' code</li> <li>Planning your work forward</li> </ul><h3>Requirements: </h3><p><strong>To thrive in this role, you should have:</strong></p><ul> <li>Minimum of 5 years of experience in Javascript, CSS, and HTML</li> <li>Proficiency with Angular for frontend development</li> <li>Proficiency with Bootstrap or similar frameworks</li> <li>Proven experience in building web applications and scalable systems</li> <li>Proficiency with Git for version control</li> <li>Strong experience with building CI pipelines in tools like GitLab or Jenkins</li> <li>Experience with Linux as a deployment environment</li> <li>Strong problem-solving skills and attention to detail</li> <li>An upper-intermediate level of English language proficiency</li> <li>Ability to work with vague requirements</li> <li>You are a team player who can collaborate effectively</li> </ul><p></p><p><strong>It would be great if you also have:</strong></p><ul><li>Experience with test automation frameworks like Selenium, Playwright, or Cypress</li></ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A strong focus on professional development with opportunities for learning and growth</li> <ul> <li>Interesting and challenging projects</li> <li>Mentor and other knowledge-exchange programs</li> </ul> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves to ensure you maintain a healthy work-life balance</li> <li>Compensation for private medical insurance</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent, fostering a culture of creativity and innovation</li> </ul><p><br><br></p><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p><p></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudLinux</h5>
                     <h3>Senior C Developer (worldwide remote, work anywhere)</h3>
                 </td>
                 <td width="300">
@@ -588,102 +453,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>CloudLinux is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful.&nbsp;</p><p>CloudLinux OS, our flagship product, runs on over 50,000 production servers today, powering over 40 million websites, and is recognised as the best OS for security and efficiency in a shared hosting environment. CloudLinux OS increases server density and enhances security, thus reducing operating costs, decreasing churn rates, and increasing profitability.</p><p>We are looking for a talented Senior C Developer to join our CloudLinuxOS team. The supported projects include:</p><ul> <li>Apache2Nginx</li> <li>Mod_lsapi</li> <li>MySQL Governor with MySQL/MariaDB support</li> <li>Mod_hosting_limits – for limiting incoming requests</li> <li>Python/NodeJS/Ruby selectors, part related to Passenger</li> </ul><p></p><p>More details about the project can be found on the <a href="https://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">product website</a> and<a href="https://docs.cloudlinux.com/cloudlinuxos/cloudlinux_os_components/" rel="nofollow noreferrer noopener" class="external"> our documentation.</a></p><h3>Requirements: </h3><p><strong>To thrive in this role, we are looking for someone who has:</strong></p><ul> <li>5+ years of experience in C.</li> <li>Good Linux/Unix proficiency, with experience in RHEL/CentOS/AlmaLinux.</li> <li>Experience with POSIX/pthread programming in C.</li> <li>Ability to work with various build systems like autotools, make and cmake.</li> <li>Experience in debugging (mostly gdb and command line).</li> <li>Experience with Shell scripting.</li> <li>Strong knowledge of Linux development tools and Linux system software development.</li> <li>Hands-on profiling tools like Linux perf, etc.</li> <li>Experience in the development of multi-threaded applications and IPC.</li> <li>Knowledge, understanding, and ability to select and analyze the performance of classical algorithms and data structures.</li> <li>Strong understanding of the network stack, particularly TCP/IP and HTTP.</li> <li>Experience in monitoring deployments and application performance.</li> <li>Ability to identify and troubleshoot emerging issues and optimize the application for performance and scalability.</li> <li>Proficient in Git.</li> <li>Knowledge of English at upper-intermediate and higher levels.<br> </li> </ul><p><strong>Would be a plus:</strong></p><ul> <li>Experience in system programming.</li> <li>Experience in the development of web-server modules: Nginx, Apache/OpenLiteSpeed and understanding of the web-server architecture and workflow.</li> <li>Experience with Coraza, ModSecurity.</li> <li>Knowledge of Python and/or Go.</li> <li>Experience in modifying/maintaining open-source projects.</li> <li>Knowledge of Internet security basics.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.</li> <li>Compensation for private medical insurance.</li> <li>Co-working and gym/sports reimbursement.</li> <li>Budget for education.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul></ul><p></p><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>C Developer (worldwide remote, work anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/CACF889373" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>CloudLinux is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful.&nbsp;</p><p>TuxCare is a subsidiary of CloudLinux. It offers a portfolio of security solutions for Linux and open-source software aimed at enterprise organizations. With TuxCare, enterprises can automate live vulnerability patching, minimize downtime, keep their applications secure and compliant, and get support from a team that knows Linux security best – covering the most popular Linux distributions, end-of-life systems, programming languages, and much more.</p><p>Endless Lifecycle Support (ELS) enables organizations to continue securely using Linux distributions and software languages that have reached the end of life or no longer receive standard security support – delivering vulnerability patches for unsupported versions of CentOS, CentOS Stream, Ubuntu, Debian, Oracle Linux, PHP, Python, and Spring software development framework.</p><p>We are seeking a C Developer to join our Endless Lifecycle team. In this role, you will backport security fixes to company-maintained stable versions of these projects. You will also have the opportunity to work with and contribute to major open-source projects such as Apache HTTPD, OpenSSL, and MySQL.<br> </p><p>For more information, visit our website: <a href="https://tuxcare.com/extended-lifecycle-support/" target="_blank" rel="nofollow noreferrer noopener" class="external">https://tuxcare.com/extended-lifecycle-support/</a> <a href="https://tuxcare.com/extended-lifecycle-support/" target="_blank" rel="nofollow noreferrer noopener" class="external"></a></p><p></p><p><strong>What you will do:</strong></p><ul> <li>Backport security and bug fixes from newer upstream versions or develop custom patches as needed.</li> <li>Create reproductions and tests for identified vulnerabilities.</li> <li>Contribute to upstream projects.</li> <li>Work on a range of open-source projects, including Apache httpd, Python, OpenSSL, and more.</li> <li>Automate routine processes such as monitoring CVEs (Common Vulnerabilities and Exposures), applying patches, and conducting tests.</li> </ul><h3>Requirements: </h3><ul> <li>A minimum of 3 years of experience with C programming.</li> <li>Proficiency in GNU/Linux operating systems and shell scripting.</li> <li>Experience with build systems such as autotools, make, and cmake.</li> <li>Familiarity with git-based development workflows.</li> <li>Knowledge of additional languages such as C++, C#, or Rust is a plus.</li> <li>Experience with Python or other scripting languages is a plus.</li> <li>Experience with Linux debuggers (gdb, ftrace, probes, bpf, etc.) is a plus.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.</li> <li>Compensation for private medical insurance.</li> <li>Co-working and gym/sports reimbursement.</li> <li>Budget for education.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul><p><br><br><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Python Developer Internship (worldwide remote, work anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/5346CFC870" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We are seeking talented and motivated Python Developer Interns to join our CloudLinux team. As an intern at CloudLinux, you will have the opportunity to gain hands-on experience in Python development and contribute to the development of our innovative projects.</p><p>CloudLinux is a leading provider of Linux-based operating systems and security solutions for web hosting providers. Our products, including CloudLinux OS, KernelCare, and Imunify360, are used by thousands of companies worldwide.</p><p>As a Python Developer Intern, you will have the opportunity to:</p><ul> <li>Work on real-world projects and contribute to the development of our products</li> <li>Collaborate with our experienced development team and learn from industry professionals</li> <li>Gain experience in writing clean, efficient, and maintainable code</li> <li>Participate in code reviews and follow best practices</li> <li>Learn how to write effective unit tests and ensure quality in software development</li> <li>Get exposure to different areas of Python development, including backend development and system programming</li> </ul><p></p><p>This is a remote internship opportunity, allowing you to work from anywhere and have a flexible schedule.</p><p>If you are a passionate individual interested in gaining practical experience in Python development and contributing to meaningful projects, we would love to hear from you!</p><p>Apply now and kick-start your career with CloudLinux!</p><h3>Requirements: </h3><p><strong>To be considered for the Python Developer Internship role, you should have:</strong></p><ul> <li>Python knowledge: understanding the basics, with examples of academic or personal projects;</li> <li>Basic algorithmic skills;</li> <li>English proficiency at B1 level or above (you'll be communicating a lot in English, especially in writing);</li> <li>Bonus points for understanding network principles and network protocols;</li> <li>Self-starter who’s hungry to learn;</li> <li>Final-year student or entry-level engineer with strong basics. </li> <li>Pursuing a degree in Computer Science, Software Engineering, or a related field (preferred)</li> <li>Availability to work part-time or full-time during the internship period</li> </ul><p>No prior work experience is required for this internship opportunity. We value motivation, willingness to learn, and a strong passion for software development.</p><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>Work on real project tasks in an Agile team</li> <li>A part-time role with 50% of your time dedicated to self-development (we'll provide a competency matrix and self-study materials)</li> <li>A dedicated mentor who's always ready to answer your questions</li> </ul><ul> <li>A focus on professional development;</li> <ul> <li>Training reimbursements</li> <li>Mentor programs</li> <li>Knowledge-Exchange programs</li> <li>Interesting and challenging projects</li> </ul> <li>Flexible working hours</li> </ul><p></p><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Senior Java Developer (worldwide remote, work anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/AB7592AA0A" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>TuxCare is a subsidiary of CloudLinux. It offers a portfolio of security solutions for Linux and open-source software for enterprise organizations. With TuxCare, enterprises can automate live vulnerability patching, minimize downtime, keep their applications secure and compliant, and get support from a team that knows Linux security best – covering the most popular Linux distributions, end-of-life systems, programming languages, and much more.</p><p>We are looking for a Senior Java Developer for the Java ELS team. </p><p>TuxCare's Endless Lifecycle Support (ELS) for Spring provides security updates, system enhancement patches, and selected bug fixes, that are integral to the stable operation of applications running on these versions of Spring ecosystem components such as Spring Framework, Spring Boot, Spring Data, Spring Security, etc. These components have either reached their end of standard support from vendors or have reached End of Life (EOL).</p><p>Our ELS for Spring service is designed to provide solutions for organizations that are not yet ready to migrate to newer versions and that are seeking long-term stability for their legacy Spring applications.<a href="https://docs.tuxcare.com/endless-lifecycle-support-for-languages/#vulnerability-coverage-and-target-response-times-1" rel="nofollow noreferrer noopener" class="external"></a></p><p>For more details about the project, please visit the product website at <a href="https://docs.tuxcare.com/endless-lifecycle-support-for-languages/#endless-lifecycle-support-for-spring-framework-and-spring-boot" rel="nofollow noreferrer noopener" class="external">TuxCare.com</a>.<br><br></p><p><strong>What will you do in this role:</strong></p><ul> <li>Your role will involve enhancing the security of Java and delving deep into its inner workings.</li> <li>You'll be tasked with conducting research and running experiments to expedite the assembly of Java packages.</li> <li>The fruits of your labour will be a more secure Java environment, facilitating the development work of others.</li> <li>You'll be investigating vulnerabilities in Java and Java libraries, particularly focusing on the most popular end-of-life versions of Java.</li> <li>Your responsibilities will also include improving automation processes that construct the dependency tree, automatically rebuilding projects, etc.</li> </ul><h3>Requirements: </h3><p><strong>To be successful in this role, you should have:</strong></p><ul> <li>5+ years in software development.</li> <li>Proficient in Java Core and the Spring framework.</li> <li>Experience with NoSQL databases and PostgreSQL.</li> <li>Experience with Gitlab as CI/CD.</li> <li>Experience with repository management systems such as Nexus will be a plus.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.</li> <li>Compensation for private medical insurance.</li> <li>Co-working and gym/sports reimbursement.</li> <li>Budget for education.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.<br> </li> </ul></ul><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Middle/Senior Python Developer with Security Expertise (worldwide remote)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/71A313E884" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Imunify360 Security Suite is a product of CloudLinux Inc., the maker of the #1 OS in security and stability for hosting providers.</strong> Imunify is an innovative security solution designed specifically for shared and VPS/Dedicated servers. The automated, easy-to-use solution with the six-layer approach to security delivers comprehensive and complete attack prevention. Check out our website for more information about our Imunify Product: <a href="https://www.imunify360.com/." target="_blank" rel="nofollow noreferrer noopener" class="external">https://www.imunify360.com/</a><strong>.</strong></p><p><strong>Our growing Imunify Team is looking for a skilled Middle/Senior Python Developer with a solid background in security. </strong>Be a part of a team making a real impact in the security field. Your work will help shape the future of AI-driven security for web servers. You'll tackle exciting challenges, collaborate with talented peers, and make a difference in the world of web server security. The position is fully remote with flexible hours, allowing you to plan your day and work from anywhere in the world. Join us and take your career to the next level!</p><p></p><p><strong>As a Python Developer on the Imunify Team, you will:</strong></p><ul> <li>Design and implement <strong>malware detection</strong> and <strong>remediation systems</strong> </li> <li>Develop <strong>high-performance</strong>, <strong>scalable</strong> code for <strong>large-scale data processing</strong> </li> <li>Contribute to architectural decisions and technical documentation</li> <li>Participate in <strong>brainstorming sessions</strong> and actively contribute to the team’s development backlog</li> <li> <strong>Analyze and prioritize data</strong> to streamline development efforts</li> <li>Troubleshoot and resolve issues reported by <strong>clients, partners, and support teams</strong> </li> </ul><h3>Requirements: </h3><p><strong>What We’re Looking For (Qualifications):</strong></p><ul> <li> <strong>Several years of experience</strong> in Python development or similar engineering roles</li> <li>Strong passion for <strong>security</strong>, with a deep understanding of threats such as <strong>viruses and web shells</strong> </li> <li>Experience in <strong>Linux server administration</strong> (a plus)</li> <li>Knowledge of <strong>PHP</strong> and <strong>JavaScript</strong> (a plus)</li> <li>Familiarity with <strong>Apache Airflow</strong>, <strong>SQL</strong>, and <strong>CI/CD systems</strong> (a plus)</li> <li>Proficiency in <strong>automated testing</strong> and tools to support development processes</li> <li>Proficiency in English <strong>above intermediate level</strong> </li> </ul><p></p><p><strong>Personal Attributes:</strong></p><ul> <li> <strong>Quick learner</strong> with a proactive mindset</li> <li>Self-driven, focused on achieving key milestones</li> <li> <strong>Strong ability to prioritize</strong> and adapt in fast-paced environments</li> <li>Ability to <strong>analyze problems independently</strong> and provide effective solutions</li> <li>Comfortable with ambiguous requirements and capable of making <strong>autonomous decisions</strong> </li> <li>Collaborative and eager to work in a <strong>team-focused environment</strong> </li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul> <li>A strong focus on professional development with opportunities for learning and growth</li> <ul> <li>Interesting and challenging projects</li> <li>Mentor and other knowledge-exchange programs</li> </ul> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves to ensure you maintain a healthy work-life balance</li> <li>Compensation for private medical insurance</li> <li>Co-working and gym/sports reimbursement</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent, fostering a culture of creativity and innovation</li> </ul><p></p><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
                 </details>
                 </td>
             </tr>,<tr>
