@@ -35,7 +35,7 @@
 <p>You will lay the foundations of what will become one of DuckDuckGo's flagship products and critical levers for growing privacy online. </p>
 <p><br /></p>
 <p><strong>What You Will Bring to DuckDuckGo</strong> </p>
-<ul><li>Experience implementing ideas from scratch, owning major application features, and taking responsibility for their maintenance and improvement over time.</li><li>Experience participating in technical architecture decisions for complex products, essentially shaping the software architecture of a consumer product.</li><li>Experience building at least one desktop application (ideally with WPF, UWP, WinUI, WinForms, or other relevant .NET UI).</li><li>An advanced level of programming expertise, with knowledge of C#. We currently use .NET 6.</li><li>A significant level of experience in building customer facing applications, including crafting user interfaces.<br /></li><li>Deep understanding of software design patterns such as MVVM, MVP, etc.</li><li>Event-driven programming (e.g., using Rx.NET) experience is considered an advantage.</li></ul>
+<ul><li>Experience implementing ideas from scratch, owning major application features, and taking responsibility for their maintenance and improvement over time.</li><li>Experience participating in technical architecture decisions for complex products, essentially shaping the software architecture of a consumer product.</li><li>Experience building at least one desktop application (ideally with WPF, UWP, WinUI, WinForms, or other relevant .NET UI).</li><li>An advanced level of programming expertise, with knowledge of C#. We currently use .NET 8.</li><li>A significant level of experience in building customer facing applications, including crafting user interfaces.<br /></li><li>Deep understanding of software design patterns such as MVVM, MVP, etc.</li><li>Event-driven programming (e.g., using Rx.NET) experience is considered an advantage.</li></ul>
 <p><br /></p>
 <p><strong>How We Will Support You </strong> </p>
 <p>Our core values -- build trust, question assumptions, and validate direction -- underpin how we work day-to-day and the support we give our team members. We strive to empower our team members to be self-directed and self-motivated in their work.  </p>
@@ -184,10 +184,118 @@
     
 
     <div class="content-conclusion"><h2><strong><span style="color: #a112ff;">Learn more about us</span></strong></h2>
-<p>We want to ensure Sourcegraph is an environment that suits your working style and empowers you to do your best work, so we are eager to answer any questions that you have about us at any point in the interview process. You can learn more about what it is like to work at Sourcegraph by reading <a href="https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0">our handbook</a>.</p>
-<p><span style="font-weight: 400;">We provide </span><a href="https://sourcegraph.notion.site/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74"><span style="font-weight: 400;">competitive compensation</span></a><span style="font-weight: 400;"> and </span><a href="https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba?pvs=74"><span style="font-weight: 400;">practical benefits</span></a><span style="font-weight: 400;"> to keep you happy and healthy so that you can do your best work.&nbsp;</span><span style="font-weight: 400;">&nbsp;</span></p>
+<p>You can learn more about what it is like to work at Sourcegraph by reading <a href="https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0">our handbook</a>.</p>
+<p>We are an ambitious team who are collectively working hard to build the most influential company in the world.&nbsp; You can read more about our <a href="https://sourcegraph.notion.site/What-it-s-like-working-at-Sourcegraph-119a8e11265880b18911eee4d9b7c460#119a8e1126588062b935fc66104b6115">culture</a>, <a href="https://sourcegraph.notion.site/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74">competitive compensation</a> and <a href="https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba?pvs=74">benefits</a> here</p>
 <p>Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds.&nbsp;</p>
-<p><em>Sourcegraph participates in&nbsp;<a href="https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107">E-Verify</a> for U.S. Employees.&nbsp;</em></p></div>
+<p><em>Sourcegraph participates in </em><a href="https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107"><em>E-Verify</em></a><em> for U.S. Employees. </em></p></div>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1428393724527190022/4mt5PACL_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sourcegraph</h5>
+                    <h3>Software Engineer - Dev Infra [IC3]</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/sourcegraph91/jobs/5392066004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><h2><strong><span style="color: #a112ff;">Who we are</span></strong></h2>
+<p>Our mission at Sourcegraph is to make it so that <a href="https://www.notion.so/sourcegraph/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d?pvs=4">everyone can code</a>, not just ~0.1% of the population. We're building the code intelligence platform that powers the world's best code search and the most popular open-source code AI tool. It’s an exciting time to join Sourcegraph—AI has taken over the world, and we aim to automate 99% of the toil in software engineering with our code understanding and code AI tools, leaving the remaining 1% to the irreplicable creative spark from humans.&nbsp;</p>
+<p>Our customers range from startups to the Fortune 500, 4/5 FAANG companies, government organizations, Uber, Plaid, and more. We’ve raised $225M at a $2.625B valuation from <a href="https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d-on-2-6b-valuation-for-universal-code-search-tool/">a16z</a>,<a href="https://about.sourcegraph.com/blog/series-c-with-sequoia/"> Sequoia</a>, <a href="https://www.redpoint.com/companies/sourcegraph/">Redpoint</a>, <a href="https://medium.com/craft-ventures/why-we-invested-in-sourcegraph-5ace28317e3d">Craft</a> and others. We’re making ambitious bets on our future and we’re looking to hire exceptional people to join our team as we make Sourcegraph one of the biggest and most influential companies in the world.</p></div>
+
+    <h2><span style="color: rgb(161, 18, 255);"><strong>Location</strong></span></h2>
+<p>🌎 While we hire <a href="https://sourcegraph.notion.site/How-we-engage-talent-outside-of-the-US-218f7193695a46cbb1ef39ef9c1f72d4">almost anywhere</a> in the world, we have a preference for someone to reside in the following locations for this role. However, if you feel qualified, we welcome you to apply regardless of location. No matter what, working hours must overlap with EST for at least 20 hours/week.</p>
+<p><strong>Preferred locations:</strong></p>
+<ul>
+<li>Remote, EST Timezone</li>
+</ul>
+<h2><span style="color: rgb(161, 18, 255);"><strong>Why this job is exciting</strong></span></h2>
+<p>Join Sourcegraph's Developer Infrastructure (Dev Infra) team and play a crucial role in empowering developers worldwide. We're responsible for building and maintaining the tools and systems that make Sourcegraph's development processes smooth, efficient, and reliable. We create and optimize tools and workflows that enhance productivity for Sourcegraph's engineering teams. This includes improving build systems, implementing code quality tools, managing CI/CD pipelines, and streamlining development environments</p>
+<p>📅 Within one month, you will…</p>
+<ul>
+<li>Understand the projects your team is working on and their contribution to company goals.</li>
+<li>Collaborate with other engineers to identify and address infrastructure challenges.</li>
+<li>Contribute to team goals through code contributions and technical discussions.</li>
+</ul>
+<p>📅 Within three months, you will…</p>
+<ul>
+<li>Collaborate with other engineers to identify and address infrastructure challenges.</li>
+<li>Contribute to efforts that make it easier for developers to build, run, and test our products.</li>
+<li>Effectively support engineers across Sourcegraph to increase their productivity.</li>
+</ul>
+<p>📅 Within six months, you will…</p>
+<ul>
+<li>Demonstrate measurable improvements in build times, CI/CD stability, and developer experience.</li>
+<li>Lead efforts to find and implement improvements in underserved parts of the stack.</li>
+<li>Drive high levels of satisfaction from internal developers.</li>
+</ul>
+<p>📅 Within one year, you will…</p>
+<ul>
+<li>Lead efforts to scale our developer infrastructure to be more automated and reliable.</li>
+<li>Shape our dev infrastructure practices, contributing to company-wide best practices for build and CI/CD workflows.</li>
+</ul>
+<h2><span style="color: rgb(161, 18, 255);"><strong>About you</strong></span></h2>
+<p>As the ideal candidate, you bring a solution-oriented mindset and a passion for developer productivity. You prioritize high-impact work. You invest in the future while unblocking developers in the present.</p>
+<ul>
+<li><strong>Build systems</strong>: Strong experience with Bazel and familiarity with other hermetic build systems like Buck2 or Nix.</li>
+<li><strong>CI/CD</strong>: Extensive exposure to various CI systems such as Buildkite, GitHub Actions, GitLab Runners, and Jenkins.</li>
+<li><strong>Infrastructure as code</strong>: Skilled in IaC tools like Terraform (or Pulumi, Helm, Kustomize, Ansible, Salt).</li>
+<li><strong>Efficiency Enthusiast</strong>: A&nbsp; tinkerer at heart who constantly seeks to automate processes and improve efficiency. Has a history of developing small, useful tools to solve problems.</li>
+<li><strong>Polyglot developer</strong>: Comfortable working with multiple programming languages and always eager to learn new ones. Go and Typescript familiarity preferred.</li>
+</ul>
+<h2><span style="color: rgb(161, 18, 255);"><strong>Level</strong></span></h2>
+<p>📊 This job is an IC3. You can read more about <a href="https://www.notion.so/sourcegraph/Leveling-Guide-0e1b5c76ada64b9caac387f8b7c4fc66">our job leveling philosophy</a> in our Handbook.</p>
+<h2><span style="color: rgb(161, 18, 255);"><strong>Compensation</strong></span></h2>
+<p><strong>💸 We pay you an above-average salary</strong> because we want to hire the best people who are fully focused on helping Sourcegraph succeed, not worried about paying bills. As an <a href="https://sourcegraph.notion.site/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d">open and transparent</a> company that values <a href="https://www.notion.so/sourcegraph/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=4">competitive compensation</a>, our compensation ranges are visible to every single Sourcegraph teammate.</p>
+<p>Your salary is determined by your pay band for the IC3 job level. For determining pay bands, we use a number of market and data-driven salary sources, along with your location zone, and target the high-end of the range to ensure we’re always paying above market regardless of where you live in the world. Both U.S. and international locations are divided into one of four zones, determined by the cost of labor index for each area. The salary for a successful candidate will be based on level, job-related skills, experience, qualifications, and location zone. Please note that the salaries below may be adjusted in the future.</p>
+<p>💰 The target compensation for this role is based on the IC3 pay band for your zone. The start of the IC3 pay band for each zone is listed below:</p>
+<ul>
+<li>Zone 1: $170,000 USD</li>
+<li>Zone 2: $136,000 USD</li>
+<li>Zone 3: $102,000 USD</li>
+<li>Zone 4: $68,000 USD</li>
+</ul>
+<p>📈 In addition to our cash compensation, we offer equity (because when we succeed as a company, we want you to succeed, too) and generous&nbsp;<a href="https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba">perks &amp; benefits</a>.</p>
+<h2><span style="color: rgb(161, 18, 255);"><strong>Interview process</strong></span></h2>
+<p><em>Below is the interview process you can expect for this role (you can read more about </em><a href="https://sourcegraph.notion.site/Types-of-interviews-f279f080583d49ee9f2c60e30c8cb1f7"><em>the types of interviews</em></a><em> in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!&nbsp;</em></p>
+<p>We expect the interview process to take 5.5 hours in total.</p>
+<p><strong>👋 Introduction Stage</strong> - we have initial conversations to get to know you better…</p>
+<ul>
+<li>[30m] <a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#99be5ff628b2414194a0ba79d9f25f13">Recruiter Screen</a></li>
+<li>[15m] <a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#1919882c0cf147c487eb1df40db8a694">Hiring Manager Screen</a></li>
+</ul>
+<p><strong>🧑‍💻 Team Interview Stage</strong> - we then schedule an all-day interview to delve into your experience in more depth and introduce you to members of the team, including cross-functional partners…</p>
+<ul>
+<li>[60m] Technical Screen / <a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#c678a2a86e0e47e4958507e869bf7ded">Resume Deep Dive</a></li>
+<li>[60m] Coding Exercise</li>
+<li>[60m] Coding Exercise</li>
+<li>[45m] Systems Design</li>
+<li>[45m] Cross-functional / <a href="https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#e3a04291743048df87541a88aa8199dd">Values</a></li>
+<li>[15m]&nbsp;<a href="https://www.notion.so/sourcegraph/How-to-work-with-Quinn-Slack-CEO-807673e0864d473f959cc4efd9642a5a?pvs=4#6f185c0e2011411eac5be9c675f9056c">Leadership</a> with co-founder</li>
+</ul>
+<p>Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.</p>
+
+    
+
+    <div class="content-conclusion"><h2><strong><span style="color: #a112ff;">Learn more about us</span></strong></h2>
+<p>You can learn more about what it is like to work at Sourcegraph by reading <a href="https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0">our handbook</a>.</p>
+<p>We are an ambitious team who are collectively working hard to build the most influential company in the world.&nbsp; You can read more about our <a href="https://sourcegraph.notion.site/What-it-s-like-working-at-Sourcegraph-119a8e11265880b18911eee4d9b7c460#119a8e1126588062b935fc66104b6115">culture</a>, <a href="https://sourcegraph.notion.site/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74">competitive compensation</a> and <a href="https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba?pvs=74">benefits</a> here</p>
+<p>Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds.&nbsp;</p>
+<p><em>Sourcegraph participates in </em><a href="https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107"><em>E-Verify</em></a><em> for U.S. Employees. </em></p></div>
 
                 </details>
                 </td>
@@ -232,7 +340,7 @@
                 </td>
                 <td width="300">
                     <h5>MixRank</h5>
-                    <h3>Junior Software Engineer - Remote (Global)</h3>
+                    <h3>Junior Software Engineer - Remote | Global</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -262,7 +370,7 @@
                 </td>
                 <td width="300">
                     <h5>MixRank</h5>
-                    <h3>Software Engineer (Remote) | BR / CO / AR / EG</h3>
+                    <h3>Software Engineer - Remote | BR / CO / AR / EG</h3>
                 </td>
                 <td width="300">
                     <code></code>
@@ -482,88 +590,6 @@
 <p>#LI-remote</p>
 
 <p>Requisition ID: 1079</p><p></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Juju Software Engineer (Go)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/5566667" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p><strong>The role of a Software Engineer at Canonical</strong></p>
-<p>As a software engineer on the team, you'll be contributing to the development of Juju, a large open-source Go project that powers complex distributed software systems across the world.</p>
-<p>Juju is the engine behind model-driven operations, providing a means to operate complex software on public cloud, private cloud, Kubernetes, and bare-metal. Combined with the Ops framework, Juju provides a complete solution for applications and infrastructure management.</p>
-<p>Many internal and external teams depend on Juju to deliver their products and services - from Canonical Managed Solutions, our OpenStack and cloud delivery teams, to Fortune 500 companies.</p>
-<p><strong>Location: </strong>This is a Globally remote role.</p>
-<p><strong>What your day will look like</strong></p>
-<ul>
-<li>Contribute to the design, delivery, and support of features in a highly concurrent, highly distributed system that drives cloud automation and software operations at scale.</li>
-<li>Collaborate proactively with a distributed team</li>
-<li>Debug issues and interact with upstream communities publicly</li>
-<li>Work with helpful and talented engineers including experts in many fields</li>
-<li>Discuss ideas and collaborate on finding good solutions</li>
-<li>Work from home with global travel for 2 to 4 weeks per year for internal and external events&nbsp;</li>
-</ul>
-<p><strong>What we are looking for in you</strong></p>
-<ul>
-<li>Experience developing software using Go.</li>
-<li>Excellent communication skills in the English language, both verbal and written, especially in online environments</li>
-<li>An exceptional academic track record from both high school and preferably university</li>
-<li>Willingness to travel up to 4 times a year for internal events</li>
-</ul>
-<p><strong>Additional skills that you might also bring</strong></p>
-<p>The following skills may be helpful to you in the role, but we don't expect everyone to bring all of them.</p>
-<ul>
-<li>Hands-on experience developing highly concurrent distributed systems</li>
-<li>Experience with container technologies (Docker, LXD, Kubernetes, etc.)</li>
-<li>Solid networking background and experience</li>
-<li>Experience with agile software development methodologies</li>
-<li>Experience in the Linux and open-source software world</li>
-<li>Experience with configuration management software (Ansible, Chef, Puppet, et al.)</li>
-<li>Working knowledge of cloud computing</li>
-<li>Experience with software packaging (Debian, snaps)</li>
-<li>Programming with, and operating, SQL and NoSQL databases</li>
-<li>Experience working on a distributed team on an open source project -- even if that is community open source contributions.</li>
-<li>Demonstrated track record of Open Source contributions</li>
-<li>Prior experience developing plugins for Terraform</li>
-</ul>
-<p><strong>What we offer you</strong></p>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<p><strong>About Canonical</strong></p>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<p><strong>Canonical is an equal opportunity employer</strong></p>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-
-<p>#LI-remote&nbsp;</p><p>Requisition ID: 531</p><p></p>
     
                 </details>
                 </td>
@@ -990,90 +1016,6 @@
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.<a href="https://canonical.com/careers/diversity/identity"> Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote</p>
 <p><br><br></p><p>Requisition ID: 1086</p><p></p>
-    
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Canonical</h5>
-                    <h3>Senior Juju Software Engineer (Go)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://canonical.com/careers/5566674" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-      <p><strong>The role of a Senior Software Engineer at Canonical</strong></p>
-<p>As a senior software engineer, you'll be an integral part of the team, driving process improvement, assisting the manager in running the team, coaching and developing colleagues with less experience, as well as owning functional areas from design and implementation all the way to support and maintenance.&nbsp;</p>
-<p>Juju is the engine behind model-driven operations, providing a means to operate complex software on public cloud, private cloud, Kubernetes, and bare-metal. Combined with the Ops framework, Juju provides a complete solution for applications and infrastructure management.</p>
-<p>Many internal and external teams depend on Juju to deliver their products and services - from Canonical Managed Solutions, our OpenStack and cloud delivery teams, to Fortune 500 companies.</p>
-<p><strong>Location: </strong>This is a Globally remote role.</p>
-<p><strong>What your day will look like</strong></p>
-<ul>
-<li>Own the design, delivery, and support of features in a highly concurrent, highly distributed system that drives cloud automation and software operations at scale.</li>
-<li>Collaborate proactively with a distributed team</li>
-<li>Debug issues and interact with upstream communities publicly</li>
-<li>Work with helpful and talented engineers including experts in many fields</li>
-<li>Discuss ideas and collaborate on finding good solutions</li>
-<li>Coach and develop team members with less experience, actively contributing to building and maintaining a first-class engineering team.</li>
-<li>Work from home with global travel for 2 to 4 weeks per year for internal and external events&nbsp;</li>
-</ul>
-<p><strong>What we are looking for in you</strong></p>
-<ul>
-<li>Proven track record of professional software delivery using Go.</li>
-<li>Hands-on experience developing highly concurrent distributed systems</li>
-<li>Excellent communication skills in the English language, both verbal and written, especially in online environments</li>
-<li>An exceptional academic track record from both high school and preferably university</li>
-<li>Experience with agile software development methodologies</li>
-<li>Willingness to travel up to 4 times a year for internal events</li>
-</ul>
-<p><strong>Additional skills that you might also bring</strong></p>
-<p>The following skills may be helpful to you in the role, but we don't expect everyone to bring all of them.</p>
-<ul>
-<li>Experience with container technologies (Docker, LXD, Kubernetes, etc.)</li>
-<li>Experience doing development in C, C++, Rust, or other low-level programming languages.</li>
-<li>Solid networking background and experience</li>
-<li>Experience in the Linux and open-source software world</li>
-<li>Experience with configuration management software (Ansible, Chef, Puppet, et al.)</li>
-<li>Working knowledge of cloud computing</li>
-<li>Passionate about software quality and testing</li>
-<li>Experience with packaging (Debian, snaps)</li>
-<li>Programming with, and operating, SQL and NoSQL databases</li>
-<li>Experience working on a distributed team on an open source project -- even if that is community open source contributions.</li>
-<li>Demonstrated track record of Open Source contributions</li>
-<li>Prior experience developing plugins for Terraform</li>
-</ul>
-<p><strong>What we offer you</strong></p>
-<p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.</p>
-<ul>
-<li>Distributed work environment with twice-yearly team sprints in person - we’ve been working remotely since 2004!</li>
-<li>Personal learning and development budget of USD 2,000 per year</li>
-<li>Annual compensation review</li>
-<li>Recognition rewards</li>
-<li>Annual holiday leave</li>
-<li>Maternity and paternity leave</li>
-<li>Employee Assistance Programme</li>
-<li>Opportunity to travel to new locations to meet colleagues from your team and others</li>
-<li>Priority Pass for travel and travel upgrades for long haul company events</li>
-</ul>
-<p><strong>About Canonical</strong></p>
-<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
-<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
-<p><strong>Canonical is an equal opportunity employer</strong></p>
-<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
-<p>#LI-remote&nbsp;</p><p>Requisition ID: 531</p><p></p>
     
                 </details>
                 </td>
@@ -2063,7 +2005,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p style="min-height:1.5em"><strong>EMPOWER OVERVIEW</strong></p><p style="min-height:1.5em"><a target="_blank" rel="noopener noreferrer nofollow" href="http://empower.me">Empower</a> is shaking up an outdated financial system by providing real opportunity for our customers: the opportunity to get the cash they need, to access fair credit, and to change their financial story. Today, we’re helping millions of people find financial security through machine learning models that evaluate creditworthiness using a more inclusive lens and mobile-first products: Cash Advance, Thrive line of credit, and Petal credit cards. Tomorrow? Creating even more financial paths for our customers (and their wallets) to succeed. </p><p style="min-height:1.5em"></p><p style="min-height:1.5em">This year, Empower ranked #65 on Inc. 5000’s Fastest-Growing Private Companies list — our third year in a row cracking the top 100 — and was named by Forbes as one of the 25 Next Billion-Dollar Startups for 2024. Empower was also featured by Forbes on America’s Best Startup Employers list in 2023, and our Thrive line of credit product was named by Fast Company as one of 2022’s Next Big Things in Tech.  </p><p style="min-height:1.5em"></p><p style="min-height:1.5em">Empower is backed by Sequoia Capital, Blisce, and Icon Ventures. Ready to grow your impact and accelerate your career? Take a look at our open roles — we can’t wait to meet you.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>THE EMPOWER WAY</strong></p><p style="min-height:1.5em"><strong>Great Expectations</strong>: We come up with bold, audacious goals for ourselves and go all out for impact</p><p style="min-height:1.5em"><strong>Owner Mindset</strong>: We give every employee latitude to act independently, make smart choices, and move the business forward</p><p style="min-height:1.5em"><strong>Spirited Debate</strong>: We love skeptics and seek counter opinions to challenge our personal assumptions and expand our view</p><p style="min-height:1.5em"><strong>Customer Obsession:</strong> We listen to understand, empathize, and create a memorable, rewarding experience for our community</p><p style="min-height:1.5em"><strong>Inclusive Collaboration</strong>: We believe diverse teams make the best decisions, and we strive to give diverse voices a seat at the table</p><p style="min-height:1.5em"><strong>No Jerks Allowed</strong>: We value our relationships and take the time to build trust and connection and communicate respectfully</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>WHAT EMPOWER OFFERS</strong></p><p style="min-height:1.5em">Competitive salary</p><p style="min-height:1.5em">Generous equity package</p><p style="min-height:1.5em">Full healthcare benefits</p><p style="min-height:1.5em">Technology expense reimbursement</p><p style="min-height:1.5em">Work from anywhere</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>EMPOWER OVERVIEW</strong></p><p style="min-height:1.5em"><br /></p><p style="min-height:1.5em"><a target="_blank" rel="noopener noreferrer" class="postings-link" href="http://empower.me/">Empower</a> is a high-growth financial technology company on a mission to expand access to fair credit to give anyone in the world the opportunity to improve their financial security and mobility. We dream up and launch one-of-a-kind features that help our members get money instantly whenever they need it, save for the future, and rewrite their financial story. Our members see Empower Cash Advance as a life-saver, Empower Automatic Savings as a game-changer, and the new Empower Thrive line of credit as a lifeline to low-cost borrowing and the only practical path to building good credit.</p><p style="min-height:1.5em"><br /></p><p style="min-height:1.5em">Empower is backed by Sequoia Capital, Blisce, and Icon Ventures. Are we the next great place to grow your impact and accelerate your career? We think so:</p><p style="min-height:1.5em"><br /></p><p style="min-height:1.5em">Inc. ranked Empower #56 in the 2023 Inc. 5000 list of the fastest-growing private companies in the US (#55 in 2022). Forbes put Empower on its 2023 list of America's Best Startup Employers. Fast Company recognized the new Empower Thrive line of credit in their 2022 list of the Next Big Things in Tech.</p><p style="min-height:1.5em"><br /></p><p style="min-height:1.5em"><strong>THE EMPOWER WAY</strong></p><p style="min-height:1.5em"><strong>Great Expectations</strong>: We come up with bold, audacious goals for ourselves and go all out for impact</p><p style="min-height:1.5em"><strong>Owner Mindset</strong>: We give every employee latitude to act independently, make smart choices, and move the business forward</p><p style="min-height:1.5em"><strong>Spirited Debate</strong>: We love skeptics and seek counter opinions to challenge our personal assumptions and expand our view</p><p style="min-height:1.5em"><strong>Customer Obsession: </strong>We listen to understand, empathize, and create a memorable, rewarding experience for our community</p><p style="min-height:1.5em"><strong>Inclusive Collaboration</strong>: We believe diverse teams make the best decisions, and we strive to give diverse voices a seat at the table</p><p style="min-height:1.5em">N<strong>o Jerks Allowed</strong>: We value our relationships and take the time to build trust and connection and communicate respectfully</p><p style="min-height:1.5em"><br /></p><p style="min-height:1.5em"><strong> </strong></p><p style="min-height:1.5em"><strong>WHAT EMPOWER OFFERS</strong></p><p style="min-height:1.5em"><br /></p><p style="min-height:1.5em">Competitive salary</p><p style="min-height:1.5em">Generous equity package</p><p style="min-height:1.5em">Full healthcare and dental benefits</p><p style="min-height:1.5em">Technology  expense reimbursement</p><p style="min-height:1.5em">Work  from anywhere</p><p style="min-height:1.5em"><br /></p><p style="min-height:1.5em"><strong>JOB DESCRIPTION</strong></p><p style="min-height:1.5em">As an iOS Software Engineer, you’ll create the iOS mobile app that powers the Empower customer experience. You’ll engage with a collaborative, high powered team to develop solutions and lead product engineering on projects with a reach of millions. The solutions you’ll build will be robust, secure and easy to understand both for our users and your engineering peers. You’ll take end to end ownership of new features and product lines shaping work in early stages, building, deploying and running post deployment analysis to ensure we’re hitting our goals.</p><p style="min-height:1.5em"><br /></p><p style="min-height:1.5em"><br /></p><p style="min-height:1.5em">Travel for company offsites is expected at a minimum 2 times a year.</p><p></p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Key Responsibilities</strong></p><p></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Designing and building iOS mobile apps</p></li><li><p style="min-height:1.5em">Contribution and adherence to software engineering standards and practices</p></li><li><p style="min-height:1.5em">Implementing secure coding standards in accordance with the Empower Secure Development Policy</p></li><li><p style="min-height:1.5em">Perform on-going security testing and code review to improve software security</p></li><li><p style="min-height:1.5em">Meeting sprint goals</p></li><li><p style="min-height:1.5em">Leading and/or supporting feature specification activities (Product Engineering)</p></li><li><p style="min-height:1.5em">Monitoring the performance of the Empower mobile app and applying corrective action through bug fixing and general improvement.</p></li><li><p style="min-height:1.5em">Minimizing defects and improving reliability through: Development of automated tests, manual test validation, development of fit for purpose architecture and code, contributing to PRs</p></li><li><p style="min-height:1.5em">Developing and maintaining the iOS app build pipeline</p></li><li><p style="min-height:1.5em">Publishing the App to the App Store</p></li><li><p style="min-height:1.5em">Collaborating cross-functionally to define, design and ship new features that create customer and business value.</p></li><li><p style="min-height:1.5em">Playing an active role in advising and collaborating with design and product to flesh out the specifications of each epic.</p></li><li><p style="min-height:1.5em">Writing engineering specs, including acceptance criteria and server contracts</p></li><li><p style="min-height:1.5em">Grooming stories for upcoming sprints</p></li><li><p style="min-height:1.5em">Maximising effective development and identifying new technology opportunities by: Keeping across iOS development announcements, being across community best practice, discovering and evaluating new technologies</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Candidate Qualifications</strong></p><p></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Bachelor degree or greater within Computer Science, Software Engineering or a related subject</p></li><li><p style="min-height:1.5em">5+ years developing consumer facing iOS apps</p></li><li><p style="min-height:1.5em">Working experience in Swift and iOS UI Frameworks</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em">At Empower, we hire for people that push themselves to understand others and seek out ways to challenge their personal assumptions. Our hope is that by fostering such an environment, we strengthen our business and relationships by putting people first. We are committed to building a diverse, inclusive, and equitable workspace where everyone (regardless of age, education, ethnicity, gender, sexual orientation, or any personal characteristics) feels like they belong. Even if your experience doesn’t exactly match up to our job description, you should feel empowered to apply regardless! </p><p></p><p style="min-height:1.5em">At Empower, we hire for people that push themselves to understand others and seek out ways to challenge their personal assumptions. Our hope is that by fostering such an environment, we strengthen our business and relationships by putting people first. We are committed to building a diverse, inclusive, and equitable workspace where everyone (regardless of age, education, ethnicity, gender, sexual orientation, or any personal characteristics) feels like they belong. Even if your experience doesn’t exactly match up to our job description, you should feel empowered to apply regardless!</p>
+                <p style="min-height:1.5em"><strong>EMPOWER OVERVIEW</strong></p><p style="min-height:1.5em"><a target="_blank" rel="noopener noreferrer nofollow" href="http://empower.me/">Empower</a> is shaking up an outdated financial system by providing real opportunity for our customers: the opportunity to get the cash they need, to access fair credit, and to change their financial story. Today, we’re helping millions of people find financial security through machine learning models that evaluate creditworthiness using a more inclusive lens and mobile-first products: Cash Advance, Thrive line of credit, and Petal credit cards. Tomorrow? Creating even more financial paths for our customers (and their wallets) to succeed.</p><p style="min-height:1.5em">This year, Empower ranked #65 on Inc. 5000’s Fastest-Growing Private Companies list — our third year in a row cracking the top 100 — and was named by Forbes as one of the 25 Next Billion-Dollar Startups for 2024. Empower was also featured by Forbes on America’s Best Startup Employers list in 2023, and our Thrive line of credit product was named by Fast Company as one of 2022’s Next Big Things in Tech.</p><p style="min-height:1.5em">Empower is backed by Sequoia Capital, Blisce, and Icon Ventures. Ready to grow your impact and accelerate your career? Take a look at our open roles — we can’t wait to meet you.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>THE EMPOWER WAY</strong></p><p style="min-height:1.5em"><strong>Great Expectations</strong>: We come up with bold, audacious goals for ourselves and go all out for impact</p><p style="min-height:1.5em"><strong>Owner Mindset</strong>: We give every employee latitude to act independently, make smart choices, and move the business forward</p><p style="min-height:1.5em"><strong>Spirited Debate</strong>: We love skeptics and seek counter opinions to challenge our personal assumptions and expand our view</p><p style="min-height:1.5em"><strong>Customer Obsession:</strong> We listen to understand, empathize, and create a memorable, rewarding experience for our community</p><p style="min-height:1.5em"><strong>Inclusive Collaboration</strong>: We believe diverse teams make the best decisions, and we strive to give diverse voices a seat at the table</p><p style="min-height:1.5em"><strong>No Jerks Allowed</strong>: We value our relationships and take the time to build trust and connection and communicate respectfully</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>WHAT EMPOWER OFFERS</strong></p><p style="min-height:1.5em">Competitive salary</p><p style="min-height:1.5em">Generous equity package</p><p style="min-height:1.5em">Full healthcare benefits</p><p style="min-height:1.5em">Technology expense reimbursement</p><p style="min-height:1.5em">Work from anywhere</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>EMPOWER OVERVIEW</strong></p><p style="min-height:1.5em"><br /></p><p style="min-height:1.5em"><a target="_blank" rel="noopener noreferrer" class="postings-link" href="http://empower.me/">Empower</a> is a high-growth financial technology company on a mission to expand access to fair credit to give anyone in the world the opportunity to improve their financial security and mobility. We dream up and launch one-of-a-kind features that help our members get money instantly whenever they need it, save for the future, and rewrite their financial story. Our members see Empower Cash Advance as a life-saver, Empower Automatic Savings as a game-changer, and the new Empower Thrive line of credit as a lifeline to low-cost borrowing and the only practical path to building good credit.</p><p style="min-height:1.5em"><br /></p><p style="min-height:1.5em">Empower is backed by Sequoia Capital, Blisce, and Icon Ventures. Are we the next great place to grow your impact and accelerate your career? We think so:</p><p style="min-height:1.5em"><br /></p><p style="min-height:1.5em">Inc. ranked Empower #56 in the 2023 Inc. 5000 list of the fastest-growing private companies in the US (#55 in 2022). Forbes put Empower on its 2023 list of America's Best Startup Employers. Fast Company recognized the new Empower Thrive line of credit in their 2022 list of the Next Big Things in Tech.</p><p style="min-height:1.5em"><br /></p><p style="min-height:1.5em"><strong>THE EMPOWER WAY</strong></p><p style="min-height:1.5em"><strong>Great Expectations</strong>: We come up with bold, audacious goals for ourselves and go all out for impact</p><p style="min-height:1.5em"><strong>Owner Mindset</strong>: We give every employee latitude to act independently, make smart choices, and move the business forward</p><p style="min-height:1.5em"><strong>Spirited Debate</strong>: We love skeptics and seek counter opinions to challenge our personal assumptions and expand our view</p><p style="min-height:1.5em"><strong>Customer Obsession: </strong>We listen to understand, empathize, and create a memorable, rewarding experience for our community</p><p style="min-height:1.5em"><strong>Inclusive Collaboration</strong>: We believe diverse teams make the best decisions, and we strive to give diverse voices a seat at the table</p><p style="min-height:1.5em">N<strong>o Jerks Allowed</strong>: We value our relationships and take the time to build trust and connection and communicate respectfully</p><p style="min-height:1.5em"><br /></p><p style="min-height:1.5em"><strong> </strong></p><p style="min-height:1.5em"><strong>WHAT EMPOWER OFFERS</strong></p><p style="min-height:1.5em"><br /></p><p style="min-height:1.5em">Competitive salary</p><p style="min-height:1.5em">Generous equity package</p><p style="min-height:1.5em">Full healthcare and dental benefits</p><p style="min-height:1.5em">Technology  expense reimbursement</p><p style="min-height:1.5em">Work  from anywhere</p><p style="min-height:1.5em"><br /></p><p style="min-height:1.5em"><strong>JOB DESCRIPTION</strong></p><p style="min-height:1.5em">As an iOS Software Engineer, you’ll create the iOS mobile app that powers the Empower customer experience. You’ll engage with a collaborative, high powered team to develop solutions and lead product engineering on projects with a reach of millions. The solutions you’ll build will be robust, secure and easy to understand both for our users and your engineering peers. You’ll take end to end ownership of new features and product lines shaping work in early stages, building, deploying and running post deployment analysis to ensure we’re hitting our goals.</p><p style="min-height:1.5em"><br /></p><p style="min-height:1.5em"><br /></p><p style="min-height:1.5em">Travel for company offsites is expected at a minimum 2 times a year.</p><p></p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Key Responsibilities</strong></p><p></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Designing and building iOS mobile apps</p></li><li><p style="min-height:1.5em">Contribution and adherence to software engineering standards and practices</p></li><li><p style="min-height:1.5em">Implementing secure coding standards in accordance with the Empower Secure Development Policy</p></li><li><p style="min-height:1.5em">Perform on-going security testing and code review to improve software security</p></li><li><p style="min-height:1.5em">Meeting sprint goals</p></li><li><p style="min-height:1.5em">Leading and/or supporting feature specification activities (Product Engineering)</p></li><li><p style="min-height:1.5em">Monitoring the performance of the Empower mobile app and applying corrective action through bug fixing and general improvement.</p></li><li><p style="min-height:1.5em">Minimizing defects and improving reliability through: Development of automated tests, manual test validation, development of fit for purpose architecture and code, contributing to PRs</p></li><li><p style="min-height:1.5em">Developing and maintaining the iOS app build pipeline</p></li><li><p style="min-height:1.5em">Publishing the App to the App Store</p></li><li><p style="min-height:1.5em">Collaborating cross-functionally to define, design and ship new features that create customer and business value.</p></li><li><p style="min-height:1.5em">Playing an active role in advising and collaborating with design and product to flesh out the specifications of each epic.</p></li><li><p style="min-height:1.5em">Writing engineering specs, including acceptance criteria and server contracts</p></li><li><p style="min-height:1.5em">Grooming stories for upcoming sprints</p></li><li><p style="min-height:1.5em">Maximising effective development and identifying new technology opportunities by: Keeping across iOS development announcements, being across community best practice, discovering and evaluating new technologies</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Candidate Qualifications</strong></p><p></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Bachelor degree or greater within Computer Science, Software Engineering or a related subject</p></li><li><p style="min-height:1.5em">5+ years developing consumer facing iOS apps</p></li><li><p style="min-height:1.5em">Working experience in Swift and iOS UI Frameworks</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em">At Empower, we hire for people that push themselves to understand others and seek out ways to challenge their personal assumptions. Our hope is that by fostering such an environment, we strengthen our business and relationships by putting people first. We are committed to building a diverse, inclusive, and equitable workspace where everyone (regardless of age, education, ethnicity, gender, sexual orientation, or any personal characteristics) feels like they belong. Even if your experience doesn’t exactly match up to our job description, you should feel empowered to apply regardless! </p><p></p><p style="min-height:1.5em">At Empower, we hire for people that push themselves to understand others and seek out ways to challenge their personal assumptions. Our hope is that by fostering such an environment, we strengthen our business and relationships by putting people first. We are committed to building a diverse, inclusive, and equitable workspace where everyone (regardless of age, education, ethnicity, gender, sexual orientation, or any personal characteristics) feels like they belong. Even if your experience doesn’t exactly match up to our job description, you should feel empowered to apply regardless!</p>
                 </details>
                 </td>
             </tr>,<tr>
@@ -2087,7 +2029,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p style="min-height:1.5em"><strong>EMPOWER OVERVIEW</strong></p><p style="min-height:1.5em"><a target="_blank" rel="noopener noreferrer nofollow" href="http://empower.me">Empower</a> is shaking up an outdated financial system by providing real opportunity for our customers: the opportunity to get the cash they need, to access fair credit, and to change their financial story. Today, we’re helping millions of people find financial security through machine learning models that evaluate creditworthiness using a more inclusive lens and mobile-first products: Cash Advance, Thrive line of credit, and Petal credit cards. Tomorrow? Creating even more financial paths for our customers (and their wallets) to succeed. </p><p style="min-height:1.5em"></p><p style="min-height:1.5em">This year, Empower ranked #65 on Inc. 5000’s Fastest-Growing Private Companies list — our third year in a row cracking the top 100 — and was named by Forbes as one of the 25 Next Billion-Dollar Startups for 2024. Empower was also featured by Forbes on America’s Best Startup Employers list in 2023, and our Thrive line of credit product was named by Fast Company as one of 2022’s Next Big Things in Tech.  </p><p style="min-height:1.5em"></p><p style="min-height:1.5em">Empower is backed by Sequoia Capital, Blisce, and Icon Ventures. Ready to grow your impact and accelerate your career? Take a look at our open roles — we can’t wait to meet you.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>THE EMPOWER WAY</strong></p><p style="min-height:1.5em"><strong>Great Expectations</strong>: We come up with bold, audacious goals for ourselves and go all out for impact</p><p style="min-height:1.5em"><strong>Owner Mindset</strong>: We give every employee latitude to act independently, make smart choices, and move the business forward</p><p style="min-height:1.5em"><strong>Spirited Debate</strong>: We love skeptics and seek counter opinions to challenge our personal assumptions and expand our view</p><p style="min-height:1.5em"><strong>Customer Obsession:</strong> We listen to understand, empathize, and create a memorable, rewarding experience for our community</p><p style="min-height:1.5em"><strong>Inclusive Collaboration</strong>: We believe diverse teams make the best decisions, and we strive to give diverse voices a seat at the table</p><p style="min-height:1.5em"><strong>No Jerks Allowed</strong>: We value our relationships and take the time to build trust and connection and communicate respectfully</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>WHAT EMPOWER OFFERS</strong></p><p style="min-height:1.5em">Competitive salary</p><p style="min-height:1.5em">Generous equity package</p><p style="min-height:1.5em">Full healthcare benefits</p><p style="min-height:1.5em">Technology expense reimbursement</p><p style="min-height:1.5em">Work from anywhere</p><p style="min-height:1.5em"><strong>JOB DESCRIPTION</strong></p><p style="min-height:1.5em">As a Software Engineering Manager, you’ll work on the systems and processes that enable Empower's apps and business. You’ll engage with a collaborative, high powered team to deliver solutions on projects with a reach of millions. The solutions you’ll build will be robust, secure and easy to understand both for our users and your engineering peers. You’ll take end to end ownership of new features and product lines shaping work in early stages, building, deploying and running post deployment analysis to ensure we’re hitting our goals.<br />Travel for company offsites is expected at a minimum 2 times a year.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Responsibilities</strong></p><p></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Line management of engineering (3-15 staff)</p></li><li><p style="min-height:1.5em">Hiring technical talent across backend, web and mobile</p></li><li><p style="min-height:1.5em">Delivery management of high profile initiatives</p></li><li><p style="min-height:1.5em">Develop and execute strategic investments in technical infrastructure</p></li><li><p style="min-height:1.5em">Mentoring and coaching both technical and delivery within the delivery team</p></li><li><p style="min-height:1.5em">Management of high severity operational incidents</p></li><li><p style="min-height:1.5em">Management of a platform's technology roadmap</p></li><li><p style="min-height:1.5em">Hands on technical support (as required)</p></li><li><p style="min-height:1.5em">Analysis and specification of technical initiatives as a Technical Product Owner</p></li><li><p style="min-height:1.5em">System operational performance management</p></li><li><p style="min-height:1.5em">Participate in on-call schedule and escalations</p></li><li><p style="min-height:1.5em">Reporting of operational metrics</p></li><li><p style="min-height:1.5em">Process analysis, design and execution</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Requirements</strong></p><p></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Bachelor degree or greater within Computer Science, Software Engineering or a related subject</p></li><li><p style="min-height:1.5em">6+ years developing web APIs</p></li><li><p style="min-height:1.5em">3+ years in a technical leadership role</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"></p><p></p><p style="min-height:1.5em">At Empower, we hire for people that push themselves to understand others and seek out ways to challenge their personal assumptions. Our hope is that by fostering such an environment, we strengthen our business and relationships by putting people first. We are committed to building a diverse, inclusive, and equitable workspace where everyone (regardless of age, education, ethnicity, gender, sexual orientation, or any personal characteristics) feels like they belong. Even if your experience doesn’t exactly match up to our job description, you should feel empowered to apply regardless!</p>
+                <p style="min-height:1.5em"><strong>EMPOWER OVERVIEW</strong></p><p style="min-height:1.5em"><a target="_blank" rel="noopener noreferrer nofollow" href="http://empower.me/">Empower</a> is shaking up an outdated financial system by providing real opportunity for our customers: the opportunity to get the cash they need, to access fair credit, and to change their financial story. Today, we’re helping millions of people find financial security through machine learning models that evaluate creditworthiness using a more inclusive lens and mobile-first products: Cash Advance, Thrive line of credit, and Petal credit cards. Tomorrow? Creating even more financial paths for our customers (and their wallets) to succeed.</p><p style="min-height:1.5em">This year, Empower ranked #65 on Inc. 5000’s Fastest-Growing Private Companies list — our third year in a row cracking the top 100 — and was named by Forbes as one of the 25 Next Billion-Dollar Startups for 2024. Empower was also featured by Forbes on America’s Best Startup Employers list in 2023, and our Thrive line of credit product was named by Fast Company as one of 2022’s Next Big Things in Tech.</p><p style="min-height:1.5em">Empower is backed by Sequoia Capital, Blisce, and Icon Ventures. Ready to grow your impact and accelerate your career? Take a look at our open roles — we can’t wait to meet you.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>THE EMPOWER WAY</strong></p><p style="min-height:1.5em"><strong>Great Expectations</strong>: We come up with bold, audacious goals for ourselves and go all out for impact</p><p style="min-height:1.5em"><strong>Owner Mindset</strong>: We give every employee latitude to act independently, make smart choices, and move the business forward</p><p style="min-height:1.5em"><strong>Spirited Debate</strong>: We love skeptics and seek counter opinions to challenge our personal assumptions and expand our view</p><p style="min-height:1.5em"><strong>Customer Obsession:</strong> We listen to understand, empathize, and create a memorable, rewarding experience for our community</p><p style="min-height:1.5em"><strong>Inclusive Collaboration</strong>: We believe diverse teams make the best decisions, and we strive to give diverse voices a seat at the table</p><p style="min-height:1.5em"><strong>No Jerks Allowed</strong>: We value our relationships and take the time to build trust and connection and communicate respectfully</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>WHAT EMPOWER OFFERS</strong></p><p style="min-height:1.5em">Competitive salary</p><p style="min-height:1.5em">Generous equity package</p><p style="min-height:1.5em">Full healthcare benefits</p><p style="min-height:1.5em">Technology expense reimbursement</p><p style="min-height:1.5em">Work from anywhere</p><p style="min-height:1.5em"><strong>JOB DESCRIPTION</strong></p><p style="min-height:1.5em">As a Software Engineering Manager, you’ll work on the systems and processes that enable Empower's apps and business. You’ll engage with a collaborative, high powered team to deliver solutions on projects with a reach of millions. The solutions you’ll build will be robust, secure and easy to understand both for our users and your engineering peers. You’ll take end to end ownership of new features and product lines shaping work in early stages, building, deploying and running post deployment analysis to ensure we’re hitting our goals.<br />Travel for company offsites is expected at a minimum 2 times a year.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Responsibilities</strong></p><p></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Line management of engineering (3-15 staff)</p></li><li><p style="min-height:1.5em">Hiring technical talent across backend, web and mobile</p></li><li><p style="min-height:1.5em">Delivery management of high profile initiatives</p></li><li><p style="min-height:1.5em">Develop and execute strategic investments in technical infrastructure</p></li><li><p style="min-height:1.5em">Mentoring and coaching both technical and delivery within the delivery team</p></li><li><p style="min-height:1.5em">Management of high severity operational incidents</p></li><li><p style="min-height:1.5em">Management of a platform's technology roadmap</p></li><li><p style="min-height:1.5em">Hands on technical support (as required)</p></li><li><p style="min-height:1.5em">Analysis and specification of technical initiatives as a Technical Product Owner</p></li><li><p style="min-height:1.5em">System operational performance management</p></li><li><p style="min-height:1.5em">Participate in on-call schedule and escalations</p></li><li><p style="min-height:1.5em">Reporting of operational metrics</p></li><li><p style="min-height:1.5em">Process analysis, design and execution</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>Requirements</strong></p><p></p><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Bachelor degree or greater within Computer Science, Software Engineering or a related subject</p></li><li><p style="min-height:1.5em">6+ years developing web APIs</p></li><li><p style="min-height:1.5em">3+ years in a technical leadership role</p></li></ul><p style="min-height:1.5em"></p><p style="min-height:1.5em"></p><p></p><p style="min-height:1.5em">At Empower, we hire for people that push themselves to understand others and seek out ways to challenge their personal assumptions. Our hope is that by fostering such an environment, we strengthen our business and relationships by putting people first. We are committed to building a diverse, inclusive, and equitable workspace where everyone (regardless of age, education, ethnicity, gender, sexual orientation, or any personal characteristics) feels like they belong. Even if your experience doesn’t exactly match up to our job description, you should feel empowered to apply regardless!</p>
                 </details>
                 </td>
             </tr></table>
