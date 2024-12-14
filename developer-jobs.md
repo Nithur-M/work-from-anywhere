@@ -1,36 +1,5 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1955959/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Interprefy Ag</h5>
-                    <h3>Senior Java Developer</h3>
-                </td>
-                <td width="300">
-                    <code>backend,java</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-java-developer-1955959" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="h3">The team</div><p>
-<strong>Be Part of a Global Mission to Transform Communication!</strong><br><br>At <strong>Interprefy</strong>, we’re on a mission to revolutionize multilingual communication. With over a decade of experience and exponential growth, we enable seamless global collaboration by connecting businesses, organizations, and institutions with cutting-edge interpreting solutions. We deliver high-quality multilingual solutions for events, meetings, and conferences for renowned clients like the <strong>White House</strong>, <strong>Google</strong>, <strong>UEFA</strong>, and<strong> even astronauts on the ISS!</strong>
-</p><div class="h3">The Role- key responsibilities</div><p>
-
-                                As a<strong> Senior Java Developer</strong>, you will play a pivotal role in <strong>designing</strong>, <strong>developing</strong>, <strong>testing</strong>, and <strong>supporting </strong>features for our cutting-edge, cloud-based SaaS platform for online simultaneous interpreting. This role combines the opportunity for remote, independent work with the collaboration and support of a dynamic, international team. If you are self-motivated, take ownership of your work, and enjoy contributing to a fast-paced, global environment, this position is perfect for you!<br><br><strong>What You'll Do:</strong><br><br><strong>Development and Implementation:</strong><br></p><ul style=""><li style="">Design, develop, test, implement, and document features within a fast-paced, agile-based work environment.</li><li style="">Create proof-of-concepts to validate ideas and ensure their feasibility.</li></ul><strong>Code Quality:</strong><br><ul style=""><li style="">Review code to uphold high standards and best practices.</li><li style="">Write and maintain unit tests for robust and reliable software.</li></ul><strong>Integration and Collaboration:</strong><br><ul style=""><li style="">Lead integrations with external providers to enhance platform capabilities.</li><li style="">Collaborate closely with team members to define project requirements and deliverables.</li></ul><strong>Project Management:</strong><br><ul style=""><li style="">Provide accurate time estimations for tasks and manage project timelines effectively.</li></ul><strong>Maintenance and Support:</strong><br><ul style=""><li style="">Perform daily maintenance and support tasks to ensure platform efficiency, reliability, and seamless user experiences</li></ul>
-<div class="h3">Key experiences and competencies</div><p>
-<strong>You Are:</strong><br><br></p><ul style=""><li style="">Passionate about technology and dedicated to delivering an exceptional customer experience.</li><li style="">Proactive, self-reliant, and adaptable to changing priorities, assignments, and roles.</li><li style="">Fully fluent in written and spoken English, with the ability to convey technical information effectively to both technical and non-technical audiences.</li><li style="">Comfortable working remotely and collaborating with international remote teams.</li><li style="">Strategic and analytical, with strong problem-solving, organizational, and strategic thinking skills.</li></ul><strong>What You Bring to the Table:</strong><br><br><ul style=""><li style=""><strong>Experience:</strong><ul style=""><li style="">At least <strong>5 years of software development experience</strong>, with a proven track record of substantial contributions to high-impact projects in a fast-paced SaaS environment.</li><li style=""><strong>Experience developing cloud solutions</strong> (<u>AWS or similar</u> platforms) and designing high-availability, scalable cloud platforms (a plus).</li><li style="">Proficiency in <strong>Java and the Spring framework</strong>, with a solid understanding of <strong>Java’s ecosystem</strong>.</li><li style="">Experience working with message queues and knowledge of <strong>SQL </strong>and <strong>NoSQL</strong> databases.</li><li style="">Familiarity with <strong>Agile</strong> methodologies and <strong>Design Patterns</strong>.</li></ul></li><li style=""><strong>Technical Expertise:</strong><ul style=""><li style="">Knowledge of <strong>JUnit or other testing frameworks</strong>.</li><li style="">Understanding of software architecture (a plus).</li></ul></li><li style=""><strong>Collaboration and Project Management:</strong><ul style=""><li style="">Ability to manage projects involving external suppliers.</li><li style="">Experience collaborating effectively with international remote teams.</li></ul></li></ul><strong>Ready to Apply?</strong><br><br>If you’re ready to<strong> make an impact and grow your career</strong>, we’d love to hear from you! Send your resume and a short cover letter explaining why you’re the perfect fit for this role.<br><br><strong>Join Interprefy and help us connect the world in their own language!</strong>
-<img src="https://remotive.com/job/track/1955959/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://avatars.githubusercontent.com/u/11767950?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
