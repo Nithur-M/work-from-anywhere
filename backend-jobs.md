@@ -120,7 +120,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://media.licdn.com/dms/image/v2/C560BAQFFodiWg6oXtw/company-logo_200_200/company-logo_200_200/0/1657198490872/biorender_logo?e=1740009600&v=beta&t=QCDQ-aHQwDj_nAhHv9pqL10wyC3rOoNWPitQd3kY9o0" width="38px" height="auto">
+                    <img src="https://avatars.githubusercontent.com/u/46490948?s=200&v=4" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>BioRender</h5>
