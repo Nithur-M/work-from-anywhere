@@ -52,6 +52,83 @@
                 </td>
                 <td width="300">
                     <h5>Canonical</h5>
+                    <h3>Senior Site Reliability Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/3029798" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>Next-gen operations at scale, with pure Python infra-as-code, from bare metal to containers and applications. Our goal is to perfect enterprise infrastructure devops.</p>
+<p>We run hundreds of private cloud, Kubernetes, and application clusters for customers across physical and public cloud estate, and we are raising the bar on what's possible with automation by embracing a universal operator pattern and model-driven operations.</p>
+<p>To succeed in this role you need to believe in automation as a pure software engineering problem, not a hack-it-till-it-works-for-me problem. You need to be interested in the scientific approach to operations at scale, driven by metrics and code, and you need to be able to learn the entire stack, from bare metal networking and kernel up to serverless and open source applications.</p>
+<h3>Site Reliability Engineer</h3>
+<p>Our site reliability engineers bring Python software-engineering skills and rigour to the operations domain. We practice devsecops from bare metal to application. We architect and run OpenStack, Kubernetes and software defined storage, and we enable devsecops for applications running on that infrastructure too.</p>
+<p>To become a member of this team, you need to be a software engineer fluent in Python, you need a genuine interest in the full open source infrastructure stack from metal to containers, and you need the ability to work in a high pressure operations environment with mission-critical services for global brand name customers.</p>
+<p>As a member of the team you will gain experience in a broad range of cloud technologies. We evolve our offerings as the state of the art improves, so you get to stay current with the latest capabilities in open source infrastructure. We drive upgrades to keep our customers on the latest, best solutions.</p>
+<h4>What Canonical Offers</h4>
+<ul>
+<li>Technical management team that understands the details of what we are developing</li>
+<li>A culture of openness and inclusiveness</li>
+<li>Helpful and talented engineers who are world-class experts in many fields</li>
+<li>Teams focused on good work life balance with long average retention rates</li>
+<li>A wide range of engineering disciplines and career paths that can move between divisions</li>
+<li>Fully remote company for career growth without relocation requirements</li>
+</ul>
+<h4>Requirements</h4>
+<ul>
+<li>Software Engineering or Computer Science degree</li>
+<li>Linux experience and familiarity with Linux networking and storage</li>
+<li>Python software development experience</li>
+<li>Demonstrated drive for continual learning</li>
+<li>Devops experience</li>
+</ul>
+<h4>Nice to haves</h4>
+<ul>
+<li>Experience with OpenStack or Kubernetes deployment or operations</li>
+<li>We hope that you’ll join us in helping to shape and build the future of free software together</li>
+</ul>
+<p>Of course we also offer...</p>
+<ul>
+<li>Learning and Development</li>
+<li>Annual Compensation Review</li>
+<li>Recognition Rewards</li>
+<li>Annual Leave</li>
+<li>Priority Pass for travel</li>
+<li>Flexible working option</li>
+</ul>
+<h3>About Canonical</h3>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h3>Canonical is an equal opportunity employer</h3>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.&nbsp;<a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-Remote #stack</p>
+
+
+
+
+
+&nbsp;
+
+<p>Requisition ID: 461</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
                     <h3>Senior Site Reliability / Gitops Engineer</h3>
                 </td>
                 <td width="300">
@@ -128,6 +205,75 @@
 <p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. <a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
 <p>#LI-remote&nbsp;</p>
 <p>Requisition ID: 263</p><p></p>
+    
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1673959375340290050/x7pNtXQ7_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Canonical</h5>
+                    <h3>Site Reliability Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://canonical.com/careers/4468036" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+      <p>Next-gen operations at scale, with pure Python infra-as-code, from bare metal to containers and applications. Our goal is to perfect enterprise infrastructure devops.</p>
+<p>We run hundreds of private cloud, Kubernetes, and application clusters for customers across physical and public cloud estate, and we are raising the bar on what's possible with automation by embracing a universal operator pattern and model-driven operations.</p>
+<p>To succeed in this role you need to believe in automation as a pure software engineering problem, not a hack-it-till-it-works-for-me problem. You need to be interested in the scientific approach to operations at scale, driven by metrics and code, and you need to be able to learn the entire stack, from bare metal networking and kernel up to serverless and open source applications.</p>
+<h3>Site Reliability Engineer</h3>
+<p>Our site reliability engineers bring Python software-engineering skills and rigour to the operations domain. We practice devsecops from bare metal to application. We architect and run OpenStack, Kubernetes and software defined storage, and we enable devsecops for applications running on that infrastructure too.</p>
+<p>To become a member of this team, you need to be a software engineer fluent in Python, you need a genuine interest in the full open source infrastructure stack from metal to containers, and you need the ability to work in a high pressure operations environment with mission-critical services for global brand name customers.</p>
+<p>As a member of the team you will gain experience in a broad range of cloud technologies. We evolve our offerings as the state of the art improves, so you get to stay current with the latest capabilities in open source infrastructure. We drive upgrades to keep our customers on the latest, best solutions.</p>
+<h4>What Canonical Offers</h4>
+<ul>
+<li>Technical management team that understands the details of what we are developing</li>
+<li>A culture of openness and inclusiveness</li>
+<li>Helpful and talented engineers who are world-class experts in many fields</li>
+<li>Teams focused on good work life balance with long average retention rates</li>
+<li>A wide range of engineering disciplines and career paths that can move between divisions</li>
+<li>Fully remote company for career growth without relocation requirements</li>
+</ul>
+<h4>Requirements</h4>
+<ul>
+<li>Software Engineering or Computer Science degree</li>
+<li>Linux experience and familiarity with Linux networking and storage</li>
+<li>Python software development experience</li>
+<li>Demonstrated drive for continual learning</li>
+<li>Devops experience</li>
+</ul>
+<h4>Nice to haves</h4>
+<ul>
+<li>Experience with OpenStack or Kubernetes deployment or operations</li>
+<li>We hope that you’ll join us in helping to shape and build the future of free software together</li>
+</ul>
+<p>Of course we also offer...</p>
+<ul>
+<li>Learning and Development</li>
+<li>Annual Compensation Review</li>
+<li>Recognition Rewards</li>
+<li>Annual Leave</li>
+<li>Priority Pass for travel</li>
+<li>Flexible working option</li>
+</ul>
+<h3>About Canonical</h3>
+<p>Canonical is a pioneering tech firm that is at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world on a daily basis. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do.</p>
+<p>Canonical has been a remote-first company since its inception in 2004.​ Work at Canonical is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. Canonical provides a unique window into the world of 21st-century digital business.</p>
+<h3>Canonical is an equal opportunity employer</h3>
+<p>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.&nbsp;<a href="https://canonical.com/careers/diversity/identity">Whatever your identity, we will give your application fair consideration.</a></p>
+<p>#LI-Remote</p><p>Requisition ID: 491</p><p></p>
     
                 </details>
                 </td>
