@@ -10,7 +10,7 @@
                     <code>product development,team management</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/product-manager-1955768" align="right" target="_blank">Apply</a>
@@ -137,6 +137,71 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p style="min-height:1.5em"><strong>EMPOWER OVERVIEW</strong></p><p style="min-height:1.5em"><a target="_blank" rel="noopener noreferrer nofollow" href="http://empower.me/">Empower</a> is shaking up an outdated financial system by providing real opportunity for our customers: the opportunity to get the cash they need, to access fair credit, and to change their financial story. Today, we’re helping millions of people find financial security through machine learning models that evaluate creditworthiness using a more inclusive lens and mobile-first products: Cash Advance, Thrive line of credit, and Petal credit cards. Tomorrow? Creating even more financial paths for our customers (and their wallets) to succeed.</p><p style="min-height:1.5em">This year, Empower ranked #65 on Inc. 5000’s Fastest-Growing Private Companies list — our third year in a row cracking the top 100 — and was named by Forbes as one of the 25 Next Billion-Dollar Startups for 2024. Empower was also featured by Forbes on America’s Best Startup Employers list in 2023, and our Thrive line of credit product was named by Fast Company as one of 2022’s Next Big Things in Tech.</p><p style="min-height:1.5em">Empower is backed by Sequoia Capital, Blisce, and Icon Ventures. Ready to grow your impact and accelerate your career? Take a look at our open roles — we can’t wait to meet you.</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>THE EMPOWER WAY</strong></p><p style="min-height:1.5em"><strong>Great Expectations</strong>: We come up with bold, audacious goals for ourselves and go all out for impact</p><p style="min-height:1.5em"><strong>Owner Mindset</strong>: We give every employee latitude to act independently, make smart choices, and move the business forward</p><p style="min-height:1.5em"><strong>Spirited Debate</strong>: We love skeptics and seek counter opinions to challenge our personal assumptions and expand our view</p><p style="min-height:1.5em"><strong>Customer Obsession:</strong> We listen to understand, empathize, and create a memorable, rewarding experience for our community</p><p style="min-height:1.5em"><strong>Inclusive Collaboration</strong>: We believe diverse teams make the best decisions, and we strive to give diverse voices a seat at the table</p><p style="min-height:1.5em"><strong>No Jerks Allowed</strong>: We value our relationships and take the time to build trust and connection and communicate respectfully</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>WHAT EMPOWER OFFERS</strong></p><p style="min-height:1.5em">Competitive salary</p><p style="min-height:1.5em">Generous equity package</p><p style="min-height:1.5em">Full healthcare benefits</p><p style="min-height:1.5em">Technology expense reimbursement</p><p style="min-height:1.5em">Work from anywhere</p><p style="min-height:1.5em"></p><p style="min-height:1.5em"></p><p style="min-height:1.5em"><strong>THE ROLE</strong><br /><br />We're looking for a Sr. Product Manager - Card who is ready to dive into the heart of credit card product management, focusing on enhancing features that boost both business growth and user satisfaction. If you’re looking to make a noticeable impact and assume significant ownership within a high-growth company, this role offers that rare chance. You'll collaborate with highly skilled teams in engineering, credit, and design to sharpen your skills and drive successful outcomes in an environment that values your contributions.<br /></p><p style="min-height:1.5em"></p><h3>RESPONSIBILITIES</h3><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Craft a forward-looking vision for card products and identify new feature opportunities that meet business objectives. Develop strategic plans and establish success metrics to guide decision-making. Facilitate cross-team collaboration to ensure strategic alignment and conduct competitive analysis to refine product positioning.</p></li><li><p style="min-height:1.5em">Assess product features to meet market needs and work with user research to confirm their significance. Define clear criteria for feature prioritization and ensure the engineering team aligns releases with overall roadmaps. Continuously incorporate customer feedback and monitor analytics to refine the prioritization process and gauge the impact of features on user engagement.</p></li><li><p style="min-height:1.5em">Lead and inspire the product team to accomplish established goals, setting team objectives that support the company's strategy. Effectively manage task delegation and project assignments within the engineering team.</p></li><li><p style="min-height:1.5em">Engage with internal teams to align on product objectives and provide updates to executive leadership. Serve as a liaison between technical and business units, coordinating with customer support to integrate customer feedback into product improvements. Facilitate stakeholder meetings to clarify product direction and ensure mutual understanding.</p></li><li><p style="min-height:1.5em">Analyze customer usage patterns to pinpoint opportunities for enhancing the user experience. Design and conduct A/B tests to optimize card features, and work with design teams to improve the user interface for greater usability.</p><p style="min-height:1.5em"></p></li></ul><h3>REQUIREMENTS + SKILLS</h3><ul style="min-height:1.5em"><li><p style="min-height:1.5em">Bachelor's degree: preferred focus on Business, Marketing, Finance, Computer Science or similar field</p></li><li><p style="min-height:1.5em">5+ years in product management with a preferred focus on card or financial products</p></li><li><p style="min-height:1.5em">Experience collaborating with engineering and design teams</p></li><li><p style="min-height:1.5em">Proficient use of SQL and analytical data visualization tools</p></li></ul><p style="min-height:1.5em">At Empower, we hire for people that push themselves to understand others and seek out ways to challenge their personal assumptions. Our hope is that by fostering such an environment, we strengthen our business and relationships by putting people first. We are committed to building a diverse, inclusive, and equitable workspace where everyone (regardless of age, education, ethnicity, gender, sexual orientation, or any personal characteristics) feels like they belong. Even if your experience doesn’t exactly match up to our job description, you should feel empowered to apply regardless!</p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://avatars.githubusercontent.com/u/87750292?s=200&v=4" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Scroll</h5>
+                    <h3>Senior Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://job-boards.eu.greenhouse.io/scrollio/jobs/4496124101" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                &lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Scroll is a Layer 2 scaling solution for Ethereum, specifically focusing on zkRollups. Key aspects of Scroll are zkRollup technology, Scalability, Efficiency, Security, and Developer-friendly. Overall, Scroll plays a crucial role in addressing Ethereum&#39;s scalability challenges and facilitating the growth of decentralized finance (DeFi) and other blockchain-based applications by providing a scalable and efficient Layer 2 solution.&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;Position Overview&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;We are hiring the senior product manager to execute ongoing developer-facing frontend product initiatives. You will be driving ongoing experimentations of new product-lead initiatives to learn how we can support developer/user growth at all stages (awareness, consideration or retention). Potentially, your initiatives will turn out to be a powerful tool for developer/user growth on which we can double down investment to scale up.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Help Scroll explore growth levers to expand developer and user communities with a product-driven approach.&lt;/li&gt;
+&lt;li&gt;Stay informed on market trends and feedback (active on &lt;a href=&quot;http://X.com&quot;&gt;X.com&lt;/a&gt; and Discord), while maintaining a bold, forward-thinking perspective that inspires product ideas.&lt;/li&gt;
+&lt;li&gt;Gather insights from communities, founders, BD, DevRel, engineers, and research.&lt;/li&gt;
+&lt;li&gt;Propose product ideas and collaborate with cofounders to sponsor and execute them.&lt;/li&gt;
+&lt;li&gt;Develop innovative product solutions and experiment with ideas that may drive long-term growth.&lt;/li&gt;
+&lt;li&gt;Collaborate with designers and engineers to execute projects, measure outcomes, and share insights with stakeholders.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;5+ years in product management, with 2+ years building web3 products.&lt;/li&gt;
+&lt;li&gt;Bonus: Experience in non-web3 product development.&lt;/li&gt;
+&lt;li&gt;Strong perspective on emerging trends in web3.&lt;/li&gt;
+&lt;li&gt;Creative problem solver with the ability to prioritize and articulate user problems from complex data.&lt;/li&gt;
+&lt;li&gt;Excellent execution: delivering high-quality, impactful results on time.&lt;/li&gt;
+&lt;li&gt;Solid UX craft and familiarity with blockchain ecosystems, with an informed opinion on its evolution.&lt;/li&gt;
+&lt;li&gt;Knowledge of Scroll’s tech stack and differentiation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;&lt;strong&gt;About You&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;You are a self-starter and ability to take ownership, well organised, self-disciplined and effective when working autonomously on tasks and projects;&lt;/li&gt;
+&lt;li&gt;You are responsive, collaborative and committed person with a high work ethic;&lt;/li&gt;
+&lt;li&gt;You are a high class communicator who can articulate their views succinctly on calls or asynchronously in globally distributed, remote teams;&lt;/li&gt;
+&lt;li&gt;You relish working in an agile start-up environment;&lt;/li&gt;
+&lt;li&gt;You are a great listener who understands when to listen first and engages well with colleagues;&lt;/li&gt;
+&lt;li&gt;You are a resilient, driven individual who is willing and able to continually develop and iterate to succeed;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;What We Offer&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A mission-led, collaborative culture&lt;/li&gt;
+&lt;li&gt;Opportunity to work with cutting edge technology and like-minded people who are contributing to the progression of Ethereum&lt;/li&gt;
+&lt;li&gt;Competitive salary package / generous paid time off / annual growth budget&lt;/li&gt;
+&lt;li&gt;100% remote from any location with flexible hours&lt;/li&gt;
+&lt;li&gt;Home office set up / co-working membership allowance&lt;/li&gt;
+&lt;li&gt;Private healthcare in selected countries&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Scroll is proud to be an equal opportunity workplace. We are committed to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. If you have a disability or special need, please let us know and we&#39;ll do our best to accommodate.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
                 </details>
                 </td>
             </tr>,<tr>
