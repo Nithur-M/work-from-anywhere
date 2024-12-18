@@ -320,30 +320,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/696718028084482050/ymY3OEPk_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudLinux</h5>
-                    <h3>Senior C Developer (worldwide remote, work anywhere)</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/cloudlinux-1/j/294331364A" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>CloudLinux is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports each other and does what we can to ensure we all are successful.&nbsp;</p><p>CloudLinux OS, our flagship product, runs on over 50,000 production servers today, powering over 40 million websites, and is recognised as the best OS for security and efficiency in a shared hosting environment. CloudLinux OS increases server density and enhances security, thus reducing operating costs, decreasing churn rates, and increasing profitability.</p><p>We are looking for a talented Senior C Developer to join our CloudLinuxOS team. The supported projects include:</p><ul> <li>Apache2Nginx</li> <li>Mod_lsapi</li> <li>MySQL Governor with MySQL/MariaDB support</li> <li>Mod_hosting_limits – for limiting incoming requests</li> <li>Python/NodeJS/Ruby selectors, part related to Passenger</li> </ul><p></p><p>More details about the project can be found on the <a href="https://cloudlinux.com/" rel="nofollow noreferrer noopener" class="external">product website</a> and<a href="https://docs.cloudlinux.com/cloudlinuxos/cloudlinux_os_components/" rel="nofollow noreferrer noopener" class="external"> our documentation.</a></p><h3>Requirements: </h3><p><strong>To thrive in this role, we are looking for someone who has:</strong></p><ul> <li>5+ years of experience in C.</li> <li>Good Linux/Unix proficiency, with experience in RHEL/CentOS/AlmaLinux.</li> <li>Experience with POSIX/pthread programming in C.</li> <li>Ability to work with various build systems like autotools, make and cmake.</li> <li>Experience in debugging (mostly gdb and command line).</li> <li>Experience with Shell scripting.</li> <li>Strong knowledge of Linux development tools and Linux system software development.</li> <li>Hands-on profiling tools like Linux perf, etc.</li> <li>Experience in the development of multi-threaded applications and IPC.</li> <li>Knowledge, understanding, and ability to select and analyze the performance of classical algorithms and data structures.</li> <li>Strong understanding of the network stack, particularly TCP/IP and HTTP.</li> <li>Experience in monitoring deployments and application performance.</li> <li>Ability to identify and troubleshoot emerging issues and optimize the application for performance and scalability.</li> <li>Proficient in Git.</li> <li>Knowledge of English at upper-intermediate and higher levels.<br> </li> </ul><p><strong>Would be a plus:</strong></p><ul> <li>Experience in system programming.</li> <li>Experience in the development of web-server modules: Nginx, Apache/OpenLiteSpeed and understanding of the web-server architecture and workflow.</li> <li>Experience with Coraza, ModSecurity.</li> <li>Knowledge of Python and/or Go.</li> <li>Experience in modifying/maintaining open-source projects.</li> <li>Knowledge of Internet security basics.</li> </ul><h3>Benefits: </h3><p><strong>What's in it for you?</strong></p><ul><ul> <li>A focus on professional development.</li> <li>Interesting and challenging projects.</li> <li>Fully remote work with flexible working hours, that allows you to schedule your day and work from any location worldwide.</li> <li>Paid 24 days of vacation per year, 10 days of national holidays, and unlimited sick leaves.</li> <li>Compensation for private medical insurance.</li> <li>Co-working and gym/sports reimbursement.</li> <li>Budget for education.</li> <li>The opportunity to receive a reward for the most innovative idea that the company can patent.</li> </ul></ul><p></p><p><em>By applying for this position, you consent to the processing of your personal data as described in our Privacy Policy (</em><a href="https://cloudlinux.com/candidate-privacy-notice" target="_blank" rel="nofollow noreferrer noopener" class="external"><em>https://cloudlinux.com/candidate-privacy-notice</em></a><em>), which provides detailed information on how we maintain and handle your data.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://yt3.googleusercontent.com/godmUZWusLdpmQ_8MgednMJQy7ZInLrCJ0KkUxuHnx3jeZubp774PPTdp_8MAWcWlbjYx9SX=s160-c-k-c0x00ffffff-no-rj" width="38px" height="auto">
                 </td>
                 <td width="300">
